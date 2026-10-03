@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("CHANNEL_ID")
-XAI_API_KEY = os.environ.get("XAI_API_KEY")  # необов'язково — без нього бот працює в простому режимі
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # необов'язково — без нього бот працює в простому режимі
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
@@ -25,13 +25,16 @@ FEEDS = [
     ("https://breakingdefense.com/feed/", "Breaking Defense", True),
 ]
 
-# "grok-latest" — офіційний псевдонім xAI, який сам завжди вказує на найновішу
-# модель Grok. Оновлювати цей рядок вручну не потрібно.
-XAI_MODEL = "grok-latest"
-XAI_API_URL = "https://api.x.ai/v1/chat/completions"
+# УВАГА: на відміну від Gemini/Grok, у Groq немає псевдоніма типу "-latest",
+# який сам перемикається на нову модель. Groq періодично знімає моделі з
+# безкоштовного тарифу або ретайрить їх — якщо бот почне падати з 404/400 на
+# цю модель, зайдіть на https://console.groq.com/docs/models, подивіться
+# актуальний безкоштовний список і поміняйте значення нижче вручну.
+GROQ_MODEL = "openai/gpt-oss-120b"
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 ARTICLE_FETCH_TIMEOUT = 15
-ARTICLE_MAX_CHARS = 4000  # скільки символів тексту статті передавати в Grok
+ARTICLE_MAX_CHARS = 4000  # скільки символів тексту статті передавати в Groq
 
 
 def strip_html(raw):
@@ -80,14 +83,14 @@ def save_history(history):
         json.dump(history[-300:], f, ensure_ascii=False, indent=2)
 
 
-# ===== Grok (xAI): переклад + коротка технічна аналітика =====
-def enrich_with_grok(title, article_text, source_name, needs_translation):
+# ===== Groq: переклад + коротка технічна аналітика =====
+def enrich_with_groq(title, article_text, source_name, needs_translation):
     """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці.
 
     article_text — це повний (або майже повний) текст новини, а не просто заголовок:
     аналітика будується саме на змісті статті.
     """
-    if not XAI_API_KEY:
+    if not GROQ_API_KEY:
         return None, None
 
     lang_note = (
@@ -112,19 +115,19 @@ def enrich_with_grok(title, article_text, source_name, needs_translation):
     )
 
     headers = {
-        "Authorization": f"Bearer {XAI_API_KEY}",
+        "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
     payload = {
-        "model": XAI_MODEL,
+        "model": GROQ_MODEL,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.3,
     }
 
     try:
-        resp = requests.post(XAI_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+        resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
         if resp.status_code != 200:
-            print(f"Grok: HTTP {resp.status_code}: {resp.text[:500]}")
+            print(f"Groq: HTTP {resp.status_code}: {resp.text[:500]}")
             return None, None
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
@@ -133,7 +136,7 @@ def enrich_with_grok(title, article_text, source_name, needs_translation):
         parsed = json.loads(text)
         return parsed.get("title"), parsed.get("analysis")
     except Exception as e:
-        print(f"Grok: не вдалося обробити новину ({e})")
+        print(f"Groq: не вдалося обробити новину ({e})")
         return None, None
 
 
@@ -194,8 +197,8 @@ def collect_entries():
     return all_entries
 
 
-def format_message(entry, grok_title, grok_analysis):
-    title = grok_title or entry["title"]
+def format_message(entry, groq_title, groq_analysis):
+    title = groq_title or entry["title"]
     date_str = entry["published"].strftime("%d.%m.%Y")
 
     parts = [
@@ -204,8 +207,8 @@ def format_message(entry, grok_title, grok_analysis):
         f"🗓 {date_str} | 📡 {html.escape(entry['source'])}",
     ]
 
-    if grok_analysis:
-        parts += ["", f"🔎 {html.escape(grok_analysis)}"]
+    if groq_analysis:
+        parts += ["", f"🔎 {html.escape(groq_analysis)}"]
 
     parts += ["", f"<a href='{html.escape(entry['link'])}'>Читати першоджерело</a>"]
     return "\n".join(parts)
@@ -226,11 +229,11 @@ def main():
         if not article_text:
             article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
 
-        grok_title, grok_analysis = enrich_with_grok(
+        groq_title, groq_analysis = enrich_with_groq(
             entry["title"], article_text, entry["source"], entry["needs_translation"]
         )
 
-        message = format_message(entry, grok_title, grok_analysis)
+        message = format_message(entry, groq_title, groq_analysis)
 
         if send_to_telegram(message):
             history.append(entry["link"])

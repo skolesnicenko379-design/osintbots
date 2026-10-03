@@ -23,8 +23,14 @@ REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 
+# ===== Ключові слова для фільтрації =====
+TARGET_KEYWORDS = [
+    r"\bukraine\b", r"\bukrainian\b", r"україна", r"україн", # Україна та похідні
+    r"\bnato\b", r"нато",                                    # НАТО
+    r"\beu\b", r"\beuropean union\b", r"\bєс\b", r"європейськ" # ЄС та Євросоюз
+]
+
 # Джерела: (URL, Назва джерела, чи потрібен переклад)
-# Офіційні першоджерела — прес-служби держустанов та міжнародних організацій.
 FEEDS = [
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Council of the EU", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss", "European Commission", True),
@@ -68,12 +74,16 @@ def fetch_article_text(url):
         return ""
 
 
-# ===== Історія публікацій =====
-# Формат файлу: {"links": [...посилання, які вже оброблені — опубліковані або свідомо пропущені...],
-#                 "recent_posts": [{"title":..., "summary":..., "source":...}, ...]}
-# recent_posts — короткий "дайджест" останніх РЕАЛЬНО опублікованих новин: використовується,
-# щоб модель могла розпізнати, що нова новина описує ту саму подію, що вже публікувалась
-# (наприклад, той самий саміт G7, про який написали і Рада ЄС, і британський FCDO).
+def matches_keywords(text):
+    """Перевіряє, чи містить текст хоча б одне з цільових ключових слів."""
+    if not text:
+        return False
+    for kw in TARGET_KEYWORDS:
+        if re.search(kw, text, re.IGNORECASE):
+            return True
+    return False
+
+
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
@@ -84,7 +94,6 @@ def load_history():
     else:
         data = {}
 
-    # Сумісність зі старим форматом файлу (просто список посилань)
     if isinstance(data, list):
         data = {"links": data, "recent_posts": []}
 
@@ -100,21 +109,7 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 
-# ===== Groq: фільтр релевантності + перевірка на дублікати + переклад + аналітика =====
 def analyze_with_groq(title, article_text, source_name, recent_posts):
-    """Повертає dict {"relevant": bool, "duplicate": bool, "title": str|None, "analysis": str|None}.
-
-    relevant=True лише якщо новина дійсно про зустріч, візит, телефонну розмову,
-    саміт чи підписання угоди між офіційними особами різних країн або
-    між країною та міжнародною організацією.
-
-    duplicate=True, якщо ця новина по суті описує ТУ САМУ подію (ту саму зустріч/дзвінок/саміт),
-    що вже є серед recent_posts — навіть якщо про неї написало інше джерело з іншими деталями
-    (типовий випадок: Рада ЄС і британський FCDO окремо пишуть про той самий саміт G7).
-
-    Якщо GROQ_API_KEY відсутній — повертає relevant=True, duplicate=False з порожнім аналізом
-    (бот просто публікує все підряд, без фільтрів і без перекладу).
-    """
     if not GROQ_API_KEY:
         return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
@@ -182,11 +177,9 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         }
     except Exception as e:
         print(f"Groq: не вдалося обробити новину ({e})")
-        # Якщо щось пішло не так — краще показати новину як є, ніж втратити її.
         return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
 
-# ===== Telegram =====
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
@@ -208,7 +201,6 @@ def send_to_telegram(text):
         return False
 
 
-# ===== Збір новин з усіх фідів =====
 def collect_entries():
     all_entries = []
     for feed_url, source_name, needs_translation in FEEDS:
@@ -279,6 +271,14 @@ def main():
         article_text = fetch_article_text(entry["link"])
         if not article_text:
             article_text = entry["summary"]
+
+        # --- Локальний фільтр за ключовими словами ---
+        combined_text = f"{entry['title']} {entry['summary']} {article_text}"
+        if not matches_keywords(combined_text):
+            history["links"].append(entry["link"])
+            print(f"Пропущено (немає цільових ключових слів): {entry['title']}")
+            continue
+        # ---------------------------------------------
 
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]

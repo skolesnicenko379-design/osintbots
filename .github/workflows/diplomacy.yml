@@ -3,7 +3,7 @@ name: Diplomacy Bot
 on:
   schedule:
     # Запуск щогодини (на початку кожної години)
-    - cron: '0 * * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 jobs:

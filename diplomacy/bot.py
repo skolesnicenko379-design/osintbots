@@ -3,6 +3,7 @@ import re
 import json
 import time
 import html
+import traceback
 from datetime import datetime, timezone
 
 import requests
@@ -13,13 +14,13 @@ from bs4 import BeautifulSoup
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # необов'язково — без нього бот працює в простому режимі
+ADMIN_ID = os.environ.get("ADMIN_ID")  # Ваш особистий ID для повідомлень про помилки
 
 HISTORY_FILE = "posted_news.json"
-MAX_POSTS_PER_RUN = 4
-MAX_ENTRIES_CHECKED_PER_RUN = 20  # скільки свіжих новин максимум прогнати через фільтр релевантності за раз
-RECENT_POSTS_FOR_DEDUP = 15  # скільки останніх опублікованих постів показувати моделі для перевірки на дублікати
+MAX_POSTS_PER_RUN = 6
+MAX_ENTRIES_CHECKED_PER_RUN = 40  # Збільшено, щоб діставати до новин США
+RECENT_POSTS_FOR_DEDUP = 15  
 REQUEST_TIMEOUT = 20
-
 ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 
@@ -27,7 +28,8 @@ ARTICLE_MAX_CHARS = 4000
 TARGET_KEYWORDS = [
     r"\bukraine\b", r"\bukrainian\b", r"україна", r"україн", # Україна та похідні
     r"\bnato\b", r"нато",                                    # НАТО
-    r"\beu\b", r"\beuropean union\b", r"\bєс\b", r"європейськ" # ЄС та Євросоюз
+    r"\beu\b", r"\beuropean union\b", r"\bєс\b", r"європейськ", # ЄС та Євросоюз
+    r"\busa\b", r"\bunited states\b", r"сша", r"вашингтон"   # США
 ]
 
 # Джерела: (URL, Назва джерела, чи потрібен переклад)
@@ -46,6 +48,19 @@ GROQ_MODEL = "openai/gpt-oss-120b"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
+def notify_admin(message):
+    """Відправляє повідомлення про помилку в особисті повідомлення адміну."""
+    if not ADMIN_ID:
+        return
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
+    payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
+    try:
+        requests.post(url, json=payload, timeout=10)
+    except Exception as e:
+        print(f"Не вдалося відправити помилку адміну: {e}")
+
+
 def strip_html(raw):
     return re.sub(r"\s+", " ", BeautifulSoup(raw or "", "html.parser").get_text()).strip()
 
@@ -56,7 +71,7 @@ def fetch_article_text(url):
         resp = requests.get(
             url,
             timeout=ARTICLE_FETCH_TIMEOUT,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; DiplomacyBot/1.0)"},
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
         )
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -163,7 +178,9 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
     try:
         resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
         if resp.status_code != 200:
-            print(f"Groq: HTTP {resp.status_code}: {resp.text[:500]}")
+            msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
+            print(msg)
+            notify_admin(msg)
             return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
@@ -198,16 +215,32 @@ def send_to_telegram(text):
         return response.status_code == 200
     except requests.RequestException as e:
         print(f"Помилка запиту до Telegram: {e}")
+        notify_admin(f"Помилка з'єднання з Telegram API: {e}")
         return False
 
 
 def collect_entries():
     all_entries = []
+    
+    # Імітуємо браузер для обходу Cloudflare/Akamai на сайтах США
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml;q=0.9, */*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,uk;q=0.8",
+        "Connection": "keep-alive"
+    }
+
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            feed = feedparser.parse(feed_url)
+            # Забираємо сирий текст через requests
+            resp = requests.get(feed_url, headers=headers, timeout=15)
+            resp.raise_for_status()
+            
+            # Згодовуємо сирий текст у feedparser
+            feed = feedparser.parse(resp.content)
         except Exception as e:
-            print(f"Не вдалося завантажити фід {feed_url}: {e}")
+            msg = f"Не вдалося завантажити фід {source_name} ({feed_url}):\n{e}"
+            print(msg)
             continue
 
         if getattr(feed, "bozo", False) and not feed.entries:
@@ -315,6 +348,11 @@ def main():
 
 if __name__ == "__main__":
     if TELEGRAM_TOKEN and CHANNEL_ID:
-        main()
+        try:
+            main()
+        except Exception as e:
+            error_trace = traceback.format_exc()
+            print(f"Критична помилка виконання:\n{error_trace}")
+            notify_admin(f"Критичне падіння скрипта:\n{error_trace}")
     else:
         print("Помилка: не знайдені TELEGRAM_TOKEN або DIPLOMACY_CHANNEL_ID/CHANNEL_ID")

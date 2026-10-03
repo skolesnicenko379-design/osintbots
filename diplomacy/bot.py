@@ -26,7 +26,11 @@ ARTICLE_MAX_CHARS = 4000
 # Офіційні першоджерела — прес-служби держустанов та міжнародних організацій.
 FEEDS = [
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Council of the EU", True),
+    ("https://ec.europa.eu/commission/presscorner/api/rss", "European Commission", True),
+    ("https://eeas.europa.eu/topics/sanctions-policy/rss_en", "EEAS", True),
+    ("https://press.un.org/en/rss.xml", "UN Press", True),
     ("https://news.un.org/feed/subscribe/en/news/all/rss.xml", "UN News", True),
+    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "UK FCDO", True),
     ("https://www.state.gov/press-releases/feed/", "U.S. Department of State", True),
     ("https://www.whitehouse.gov/feed/", "The White House", True),
 ]

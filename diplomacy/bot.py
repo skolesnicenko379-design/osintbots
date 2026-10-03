@@ -6,7 +6,8 @@ import html
 import traceback
 from datetime import datetime, timezone
 
-import requests
+# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
+from curl_cffi import requests
 import feedparser
 from bs4 import BeautifulSoup
 
@@ -21,21 +22,20 @@ MAX_POSTS_PER_RUN = 6
 MAX_ENTRIES_CHECKED_PER_RUN = 40
 RECENT_POSTS_FOR_DEDUP = 15  
 REQUEST_TIMEOUT = 20
-ARTICLE_FETCH_TIMEOUT = 15
+ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
 
-# Джерела (Першоджерела міжнародної дипломатії, глобальних конфліктів та самітів)
+# Оновлені джерела з працюючими RSS
 FEEDS = [
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Council of the EU", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss", "European Commission", True),
     ("https://eeas.europa.eu/topics/sanctions-policy/rss_en", "EEAS", True),
     ("https://press.un.org/en/rss.xml", "UN Press", True),
     ("https://news.un.org/feed/subscribe/en/news/all/rss.xml", "UN News", True),
-    ("https://www.nato.int/cps/rss/en/natohq/rss_feed_news.xml", "NATO", True),
-    ("https://www.osce.org/rss/news.xml", "OSCE", True),
+    ("https://www.nato.int/cps/en/natohq/news.xml", "NATO", True), # Оновлене посилання НАТО
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "UK FCDO", True),
     ("https://www.state.gov/press-releases/feed/", "U.S. Department of State", True),
-    ("https://www.whitehouse.gov/feed/", "The White House", True),
+    ("https://www.whitehouse.gov/briefing-room/feed/", "The White House", True), # Оновлене посилання Білого Дому
     ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "France Diplomacy", True),
 ]
 
@@ -44,13 +44,13 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
 def notify_admin(message):
-    """Відправляє повідомлення про помилку в особисті повідомлення адміну."""
     if not ADMIN_ID:
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
     try:
+        # Для телеграму імітація браузера не потрібна, але використовуємо той самий об'єкт
         requests.post(url, json=payload, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
@@ -61,12 +61,12 @@ def strip_html(raw):
 
 
 def fetch_article_text(url):
-    """Намагається витягти повний текст новини зі сторінки."""
     try:
+        # impersonate="chrome120" повністю підміняє мережеві відбитки
         resp = requests.get(
             url,
             timeout=ARTICLE_FETCH_TIMEOUT,
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
+            impersonate="chrome120"
         )
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -121,31 +121,29 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         recent_block = "(поки що порожньо — це перша перевірка)"
 
     prompt = (
-        "Ти — редактор дипломатичних новин для українського Telegram-каналу, який висвітлює "
-        "саме зустрічі, візити, телефонні розмови, саміти та підписання угод між офіційними "
-        "особами різних країн (президенти, прем'єри, міністри закордонних справ) або між "
-        "країною та міжнародною організацією (ООН, ЄС, НАТО тощо).\n\n"
+        "Ти — редактор дипломатичних новин для українського Telegram-каналу. "
+        "Твоя мета: висвітлювати важливі міжнародні зустрічі, візити, саміти та підписання угод "
+        "між офіційними особами.\n\n"
+        "ГЕОГРАФІЧНИЙ ФІЛЬТР (ДУЖЕ ВАЖЛИВО): Наш канал фокусується на Євро-Атлантичному геополітичному просторі "
+        "(США, Велика Британія, Європа, НАТО, ЄС, Україна). Ти МАЄШ СУВОРО ІГНОРУВАТИ будь-які регіональні події, "
+        "саміти та візити, які стосуються виключно країн Азії, Африки, Близького Сходу чи Південної Америки "
+        "(наприклад, саміт Африканського Союзу або візит міністра Індії до Китаю), ЯКЩО в них не беруть активної участі лідери США, Європи або Західних організацій.\n\n"
         f"Джерело цієї новини: {source_name}.\n"
         f"Оригінальний заголовок: {title}\n\n"
         f"Текст новини:\n{article_text}\n\n"
         "ОСТАННІ ОПУБЛІКОВАНІ В КАНАЛІ ПОСТИ (для перевірки на повтор):\n"
         f"{recent_block}\n\n"
         "Виконай ПОСЛІДОВНО:\n\n"
-        "Крок 1 (relevant): чи ця новина ДІЙСНО про конкретну дипломатичну зустріч/візит/дзвінок/"
-        "саміт/підписання угоди (а не просто заява, вітання зі святом, санкції, внутрішня "
-        "політика чи загальна аналітика без конкретної зустрічі)? Якщо ні — одразу поверни "
+        "Крок 1 (relevant): чи ця новина ДІЙСНО про дипломатичну подію/зустріч/саміт, І чи проходить вона "
+        "наш ГЕОГРАФІЧНИЙ ФІЛЬТР (стосується Заходу/України)? Якщо це локальна подія суто між країнами Азії/Африки, "
+        "або просто загальна заява чи внутрішня політика — одразу поверни "
         '{"relevant": false, "duplicate": false, "title": null, "analysis": null} і більше нічого.\n\n'
         "Крок 2 (duplicate, лише якщо relevant=true): чи описує ця новина ТУ САМУ подію (ту саму "
-        "конкретну зустріч/дзвінок/саміт), що вже є в списку останніх опублікованих постів вище "
-        "— навіть якщо джерело інше й деталі викладені по-іншому? Якщо так — поверни "
-        '{"relevant": true, "duplicate": true, "title": null, "analysis": null} і більше нічого. '
-        "Різні виступи різних людей на одній і тій самій сесії (наприклад, різні посли на одному "
-        "засіданні Радбезу ООН) НЕ вважай дублікатом — це різні новини.\n\n"
+        "зустріч/саміт), що вже є в списку останніх опублікованих постів вище? Якщо так — поверни "
+        '{"relevant": true, "duplicate": true, "title": null, "analysis": null} і більше нічого.\n\n'
         "Крок 3 (лише якщо relevant=true і duplicate=false):\n"
-        "1) Дай стислий, точний заголовок українською (до 15 слів): хто з ким зустрівся/говорив "
-        "і про що.\n"
-        "2) Дай 2-3 речення дипломатичного коментаря українською на основі фактів зі статті: "
-        "хто брав участь, яка головна тема, які домовленості чи результати, якщо згадані.\n\n"
+        "1) Дай стислий, точний заголовок українською (до 15 слів).\n"
+        "2) Дай 2-3 речення дипломатичного коментаря українською на основі фактів зі статті.\n\n"
         "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
         '{"relevant": true, "duplicate": false, "title": "...", "analysis": "..."}'
     )
@@ -198,7 +196,7 @@ def send_to_telegram(text):
             time.sleep(retry_after)
             response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         return response.status_code == 200
-    except requests.RequestException as e:
+    except Exception as e:
         print(f"Помилка запиту до Telegram: {e}")
         notify_admin(f"Помилка з'єднання з Telegram API: {e}")
         return False
@@ -207,17 +205,10 @@ def send_to_telegram(text):
 def collect_entries():
     all_entries = []
     
-    # Імітуємо браузер для обходу Cloudflare/Akamai на сайтах
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml;q=0.9, */*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9,uk;q=0.8",
-        "Connection": "keep-alive"
-    }
-
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            resp = requests.get(feed_url, headers=headers, timeout=15)
+            # impersonate="chrome120" гарантовано обходить захист від ботів
+            resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
             resp.raise_for_status()
             
             feed = feedparser.parse(resp.content)
@@ -280,7 +271,6 @@ def main():
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
         
-        # Перевірка, чи не публікували ми це раніше
         if entry["link"] in history["links"]:
             continue
 
@@ -290,14 +280,13 @@ def main():
         if not article_text:
             article_text = entry["summary"]
 
-        # Відправка кожної нової новини до ШІ без попередньої фільтрації за ключовими словами
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
 
         if not result["relevant"]:
             history["links"].append(entry["link"])
-            print(f"Пропущено (не дипломатична зустріч): {entry['title']}")
+            print(f"Пропущено (відхилено ШІ як нерелевантне/географічний фільтр): {entry['title']}")
             continue
 
         if result["duplicate"]:

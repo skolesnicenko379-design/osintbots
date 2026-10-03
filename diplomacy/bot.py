@@ -13,35 +13,30 @@ from bs4 import BeautifulSoup
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # необов'язково — без нього бот працює в простому режимі
-ADMIN_ID = os.environ.get("ADMIN_ID")  # Ваш особистий ID для повідомлень про помилки
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+ADMIN_ID = os.environ.get("ADMIN_ID")
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 40  # Збільшено, щоб діставати до новин США
+MAX_ENTRIES_CHECKED_PER_RUN = 40
 RECENT_POSTS_FOR_DEDUP = 15  
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 
-# ===== Ключові слова для фільтрації =====
-TARGET_KEYWORDS = [
-    r"\bukraine\b", r"\bukrainian\b", r"україна", r"україн", # Україна та похідні
-    r"\bnato\b", r"нато",                                    # НАТО
-    r"\beu\b", r"\beuropean union\b", r"\bєс\b", r"європейськ", # ЄС та Євросоюз
-    r"\busa\b", r"\bunited states\b", r"сша", r"вашингтон"   # США
-]
-
-# Джерела: (URL, Назва джерела, чи потрібен переклад)
+# Джерела (Першоджерела міжнародної дипломатії, глобальних конфліктів та самітів)
 FEEDS = [
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Council of the EU", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss", "European Commission", True),
     ("https://eeas.europa.eu/topics/sanctions-policy/rss_en", "EEAS", True),
     ("https://press.un.org/en/rss.xml", "UN Press", True),
     ("https://news.un.org/feed/subscribe/en/news/all/rss.xml", "UN News", True),
+    ("https://www.nato.int/cps/rss/en/natohq/rss_feed_news.xml", "NATO", True),
+    ("https://www.osce.org/rss/news.xml", "OSCE", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "UK FCDO", True),
     ("https://www.state.gov/press-releases/feed/", "U.S. Department of State", True),
     ("https://www.whitehouse.gov/feed/", "The White House", True),
+    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "France Diplomacy", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"
@@ -66,7 +61,7 @@ def strip_html(raw):
 
 
 def fetch_article_text(url):
-    """Намагається витягти повний текст новини зі сторінки. Повертає '' при невдачі."""
+    """Намагається витягти повний текст новини зі сторінки."""
     try:
         resp = requests.get(
             url,
@@ -87,16 +82,6 @@ def fetch_article_text(url):
     except Exception as e:
         print(f"Не вдалося завантажити текст статті ({url}): {e}")
         return ""
-
-
-def matches_keywords(text):
-    """Перевіряє, чи містить текст хоча б одне з цільових ключових слів."""
-    if not text:
-        return False
-    for kw in TARGET_KEYWORDS:
-        if re.search(kw, text, re.IGNORECASE):
-            return True
-    return False
 
 
 def load_history():
@@ -222,7 +207,7 @@ def send_to_telegram(text):
 def collect_entries():
     all_entries = []
     
-    # Імітуємо браузер для обходу Cloudflare/Akamai на сайтах США
+    # Імітуємо браузер для обходу Cloudflare/Akamai на сайтах
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml;q=0.9, */*;q=0.8",
@@ -232,11 +217,9 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            # Забираємо сирий текст через requests
             resp = requests.get(feed_url, headers=headers, timeout=15)
             resp.raise_for_status()
             
-            # Згодовуємо сирий текст у feedparser
             feed = feedparser.parse(resp.content)
         except Exception as e:
             msg = f"Не вдалося завантажити фід {source_name} ({feed_url}):\n{e}"
@@ -296,6 +279,8 @@ def main():
     for entry in entries:
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
+        
+        # Перевірка, чи не публікували ми це раніше
         if entry["link"] in history["links"]:
             continue
 
@@ -305,14 +290,7 @@ def main():
         if not article_text:
             article_text = entry["summary"]
 
-        # --- Локальний фільтр за ключовими словами ---
-        combined_text = f"{entry['title']} {entry['summary']} {article_text}"
-        if not matches_keywords(combined_text):
-            history["links"].append(entry["link"])
-            print(f"Пропущено (немає цільових ключових слів): {entry['title']}")
-            continue
-        # ---------------------------------------------
-
+        # Відправка кожної нової новини до ШІ без попередньої фільтрації за ключовими словами
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )

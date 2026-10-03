@@ -4,8 +4,10 @@ import time
 import html
 from datetime import datetime, timezone
 
+import re
 import requests
 import feedparser
+from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
@@ -28,6 +30,39 @@ FEEDS = [
 XAI_MODEL = "grok-latest"
 XAI_API_URL = "https://api.x.ai/v1/chat/completions"
 
+ARTICLE_FETCH_TIMEOUT = 15
+ARTICLE_MAX_CHARS = 4000  # скільки символів тексту статті передавати в Grok
+
+
+def strip_html(raw):
+    return re.sub(r"\s+", " ", BeautifulSoup(raw or "", "html.parser").get_text()).strip()
+
+
+def fetch_article_text(url):
+    """Намагається витягти повний текст статті зі сторінки. Повертає '' при невдачі."""
+    try:
+        resp = requests.get(
+            url,
+            timeout=ARTICLE_FETCH_TIMEOUT,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; MilTechBot/1.0)"},
+        )
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # Прибираємо явно нерелевантні блоки
+        for tag in soup(["script", "style", "nav", "header", "footer", "aside", "form"]):
+            tag.decompose()
+
+        # Шукаємо основний контейнер статті, якщо є — інакше беремо всі <p>
+        article = soup.find("article") or soup.find(class_=re.compile(r"(article|post|entry)[-_]?(content|body)", re.I))
+        container = article if article else soup
+        paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
+        text = " ".join(p for p in paragraphs if len(p) > 40)
+        return text[:ARTICLE_MAX_CHARS]
+    except Exception as e:
+        print(f"Не вдалося завантажити текст статті ({url}): {e}")
+        return ""
+
 
 # ===== Історія публікацій =====
 def load_history():
@@ -46,27 +81,32 @@ def save_history(history):
 
 
 # ===== Grok (xAI): переклад + коротка технічна аналітика =====
-def enrich_with_grok(title, summary, source_name, needs_translation):
-    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці."""
+def enrich_with_grok(title, article_text, source_name, needs_translation):
+    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці.
+
+    article_text — це повний (або майже повний) текст новини, а не просто заголовок:
+    аналітика будується саме на змісті статті.
+    """
     if not XAI_API_KEY:
         return None, None
 
     lang_note = (
-        "Текст оригіналу англійською — переклади природною українською."
+        "Оригінал англійською — переклади заголовок природною українською."
         if needs_translation
-        else "Текст оригіналу вже українською — просто онови стиль за потреби."
+        else "Оригінал вже українською."
     )
 
     prompt = (
         "Ти — редактор мілтех-новин для українського Telegram-каналу.\n"
-        f"Джерело: {source_name}.\n"
-        f"{lang_note}\n\n"
-        f"Заголовок: {title}\n"
-        f"Короткий опис: {summary}\n\n"
-        "Виконай ДВІ речі:\n"
+        f"Джерело: {source_name}. {lang_note}\n\n"
+        f"Оригінальний заголовок: {title}\n\n"
+        f"Повний текст новини:\n{article_text}\n\n"
+        "Виконай ДВІ речі на основі ЗМІСТУ новини вище (не лише заголовка):\n"
         "1) Дай стислий, точний заголовок українською (до 15 слів), без клікбейту.\n"
-        "2) Дай 1-2 речення технічного/аналітичного коментаря українською — що це означає "
-        "практично (тип техніки/озброєння, можливий вплив, контекст), без води.\n\n"
+        "2) Дай 2-3 речення технічного/аналітичного коментаря українською на основі фактів "
+        "зі статті — що саме сталося, які характеристики техніки/озброєння згадуються, "
+        "який можливий військовий чи практичний вплив. Без води і загальних фраз.\n\n"
+        "Якщо текст новини порожній або занадто короткий для аналізу — постав analysis в null.\n\n"
         "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
         '{"title": "...", "analysis": "..."}'
     )
@@ -83,7 +123,9 @@ def enrich_with_grok(title, summary, source_name, needs_translation):
 
     try:
         resp = requests.post(XAI_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            print(f"Grok: HTTP {resp.status_code}: {resp.text[:500]}")
+            return None, None
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
         # На випадок, якщо модель обгорне відповідь у ```json ... ```
@@ -141,7 +183,7 @@ def collect_entries():
             all_entries.append({
                 "link": link,
                 "title": entry.get("title", "Без заголовка"),
-                "summary": entry.get("summary", "")[:500],
+                "summary": strip_html(entry.get("summary", ""))[:1500],
                 "source": source_name,
                 "needs_translation": needs_translation,
                 "published": published_dt,
@@ -154,7 +196,7 @@ def collect_entries():
 
 def format_message(entry, grok_title, grok_analysis):
     title = grok_title or entry["title"]
-    date_str = entry["published"].strftime("%d.%m.%Y %H:%M") + " UTC"
+    date_str = entry["published"].strftime("%d.%m.%Y")
 
     parts = [
         f"<b>{html.escape(title)}</b>",
@@ -180,8 +222,12 @@ def main():
         if entry["link"] in history:
             continue
 
+        article_text = fetch_article_text(entry["link"])
+        if not article_text:
+            article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
+
         grok_title, grok_analysis = enrich_with_grok(
-            entry["title"], entry["summary"], entry["source"], entry["needs_translation"]
+            entry["title"], article_text, entry["source"], entry["needs_translation"]
         )
 
         message = format_message(entry, grok_title, grok_analysis)

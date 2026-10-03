@@ -2,8 +2,8 @@ name: Diplomacy Bot
 
 on:
   schedule:
-    # Запуск кожні 3 години
-    - cron: '0 */3 * * *'
+    # Запуск щогодини (на початку кожної години)
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,6 +33,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           DIPLOMACY_CHANNEL_ID: ${{ secrets.DIPLOMACY_CHANNEL_ID }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ADMIN_ID: ${{ secrets.ADMIN_ID }}
         run: python bot.py
 
       - name: Збереження історії в GitHub

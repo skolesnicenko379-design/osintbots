@@ -17,6 +17,7 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # необов'язково — �
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
 MAX_ENTRIES_CHECKED_PER_RUN = 20  # скільки свіжих новин максимум прогнати через фільтр релевантності за раз
+RECENT_POSTS_FOR_DEDUP = 15  # скільки останніх опублікованих постів показувати моделі для перевірки на дублікати
 REQUEST_TIMEOUT = 20
 
 ARTICLE_FETCH_TIMEOUT = 15
@@ -67,56 +68,91 @@ def fetch_article_text(url):
         return ""
 
 
-# ===== Історія публікацій (і пропущених нерелевантних новин) =====
+# ===== Історія публікацій =====
+# Формат файлу: {"links": [...посилання, які вже оброблені — опубліковані або свідомо пропущені...],
+#                 "recent_posts": [{"title":..., "summary":..., "source":...}, ...]}
+# recent_posts — короткий "дайджест" останніх РЕАЛЬНО опублікованих новин: використовується,
+# щоб модель могла розпізнати, що нова новина описує ту саму подію, що вже публікувалась
+# (наприклад, той самий саміт G7, про який написали і Рада ЄС, і британський FCDO).
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             try:
-                return json.load(f)
+                data = json.load(f)
             except json.JSONDecodeError:
-                return []
-    return []
+                data = {}
+    else:
+        data = {}
+
+    # Сумісність зі старим форматом файлу (просто список посилань)
+    if isinstance(data, list):
+        data = {"links": data, "recent_posts": []}
+
+    data.setdefault("links", [])
+    data.setdefault("recent_posts", [])
+    return data
 
 
 def save_history(history):
+    history["links"] = history["links"][-800:]
+    history["recent_posts"] = history["recent_posts"][-RECENT_POSTS_FOR_DEDUP:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(history[-500:], f, ensure_ascii=False, indent=2)
+        json.dump(history, f, ensure_ascii=False, indent=2)
 
 
-# ===== Groq: фільтр релевантності + переклад + коротка дипломатична довідка =====
-def analyze_with_groq(title, article_text, source_name):
-    """Повертає dict {"relevant": bool, "title": str|None, "analysis": str|None}.
+# ===== Groq: фільтр релевантності + перевірка на дублікати + переклад + аналітика =====
+def analyze_with_groq(title, article_text, source_name, recent_posts):
+    """Повертає dict {"relevant": bool, "duplicate": bool, "title": str|None, "analysis": str|None}.
 
     relevant=True лише якщо новина дійсно про зустріч, візит, телефонну розмову,
     саміт чи підписання угоди між офіційними особами різних країн або
-    між країною та міжнародною організацією. Усе інше (привітання зі святом,
-    внутрішня політика, санкційні технічні деталі тощо) — relevant=False.
+    між країною та міжнародною організацією.
 
-    Якщо GROQ_API_KEY відсутній — повертає relevant=True з порожнім аналізом
-    (бот просто публікує все підряд, без фільтра і без перекладу).
+    duplicate=True, якщо ця новина по суті описує ТУ САМУ подію (ту саму зустріч/дзвінок/саміт),
+    що вже є серед recent_posts — навіть якщо про неї написало інше джерело з іншими деталями
+    (типовий випадок: Рада ЄС і британський FCDO окремо пишуть про той самий саміт G7).
+
+    Якщо GROQ_API_KEY відсутній — повертає relevant=True, duplicate=False з порожнім аналізом
+    (бот просто публікує все підряд, без фільтрів і без перекладу).
     """
     if not GROQ_API_KEY:
-        return {"relevant": True, "title": None, "analysis": None}
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+
+    if recent_posts:
+        recent_block = "\n".join(
+            f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
+        )
+    else:
+        recent_block = "(поки що порожньо — це перша перевірка)"
 
     prompt = (
         "Ти — редактор дипломатичних новин для українського Telegram-каналу, який висвітлює "
         "саме зустрічі, візити, телефонні розмови, саміти та підписання угод між офіційними "
         "особами різних країн (президенти, прем'єри, міністри закордонних справ) або між "
         "країною та міжнародною організацією (ООН, ЄС, НАТО тощо).\n\n"
-        f"Джерело: {source_name}.\n"
+        f"Джерело цієї новини: {source_name}.\n"
         f"Оригінальний заголовок: {title}\n\n"
         f"Текст новини:\n{article_text}\n\n"
-        "Крок 1: Визнач, чи ця новина ДІЙСНО про конкретну дипломатичну зустріч/візит/дзвінок/"
+        "ОСТАННІ ОПУБЛІКОВАНІ В КАНАЛІ ПОСТИ (для перевірки на повтор):\n"
+        f"{recent_block}\n\n"
+        "Виконай ПОСЛІДОВНО:\n\n"
+        "Крок 1 (relevant): чи ця новина ДІЙСНО про конкретну дипломатичну зустріч/візит/дзвінок/"
         "саміт/підписання угоди (а не просто заява, вітання зі святом, санкції, внутрішня "
-        "політика чи загальна аналітика без конкретної зустрічі). Якщо ні — поверни "
-        '{"relevant": false, "title": null, "analysis": null} і більше нічого.\n\n'
-        "Крок 2 (лише якщо relevant=true):\n"
+        "політика чи загальна аналітика без конкретної зустрічі)? Якщо ні — одразу поверни "
+        '{"relevant": false, "duplicate": false, "title": null, "analysis": null} і більше нічого.\n\n'
+        "Крок 2 (duplicate, лише якщо relevant=true): чи описує ця новина ТУ САМУ подію (ту саму "
+        "конкретну зустріч/дзвінок/саміт), що вже є в списку останніх опублікованих постів вище "
+        "— навіть якщо джерело інше й деталі викладені по-іншому? Якщо так — поверни "
+        '{"relevant": true, "duplicate": true, "title": null, "analysis": null} і більше нічого. '
+        "Різні виступи різних людей на одній і тій самій сесії (наприклад, різні посли на одному "
+        "засіданні Радбезу ООН) НЕ вважай дублікатом — це різні новини.\n\n"
+        "Крок 3 (лише якщо relevant=true і duplicate=false):\n"
         "1) Дай стислий, точний заголовок українською (до 15 слів): хто з ким зустрівся/говорив "
         "і про що.\n"
         "2) Дай 2-3 речення дипломатичного коментаря українською на основі фактів зі статті: "
         "хто брав участь, яка головна тема, які домовленості чи результати, якщо згадані.\n\n"
         "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
-        '{"relevant": true, "title": "...", "analysis": "..."}'
+        '{"relevant": true, "duplicate": false, "title": "...", "analysis": "..."}'
     )
 
     headers = {
@@ -133,20 +169,21 @@ def analyze_with_groq(title, article_text, source_name):
         resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
         if resp.status_code != 200:
             print(f"Groq: HTTP {resp.status_code}: {resp.text[:500]}")
-            return {"relevant": True, "title": None, "analysis": None}
+            return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
         text = text.replace("```json", "").replace("```", "").strip()
         parsed = json.loads(text)
         return {
             "relevant": bool(parsed.get("relevant", True)),
+            "duplicate": bool(parsed.get("duplicate", False)),
             "title": parsed.get("title"),
             "analysis": parsed.get("analysis"),
         }
     except Exception as e:
         print(f"Groq: не вдалося обробити новину ({e})")
         # Якщо щось пішло не так — краще показати новину як є, ніж втратити її.
-        return {"relevant": True, "title": None, "analysis": None}
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
 
 # ===== Telegram =====
@@ -234,7 +271,7 @@ def main():
     for entry in entries:
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
-        if entry["link"] in history:
+        if entry["link"] in history["links"]:
             continue
 
         checked += 1
@@ -243,18 +280,29 @@ def main():
         if not article_text:
             article_text = entry["summary"]
 
-        result = analyze_with_groq(entry["title"], article_text, entry["source"])
+        result = analyze_with_groq(
+            entry["title"], article_text, entry["source"], history["recent_posts"]
+        )
 
         if not result["relevant"]:
-            # Не про зустріч — пропускаємо, але запам'ятовуємо, щоб не перевіряти повторно.
-            history.append(entry["link"])
+            history["links"].append(entry["link"])
             print(f"Пропущено (не дипломатична зустріч): {entry['title']}")
+            continue
+
+        if result["duplicate"]:
+            history["links"].append(entry["link"])
+            print(f"Пропущено (дублює вже опубліковану подію): {entry['title']}")
             continue
 
         message = format_message(entry, result["title"], result["analysis"])
 
         if send_to_telegram(message):
-            history.append(entry["link"])
+            history["links"].append(entry["link"])
+            history["recent_posts"].append({
+                "title": result["title"] or entry["title"],
+                "summary": (result["analysis"] or entry["summary"])[:300],
+                "source": entry["source"],
+            })
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")
             time.sleep(3)

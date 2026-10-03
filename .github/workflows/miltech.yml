@@ -2,8 +2,8 @@ name: MilTech Bot
 
 on:
   schedule:
-   
-     - cron: '0 * * * *'
+    # Запуск щогодини (на початку кожної години)
+    - cron: '0 * * * *'
   workflow_dispatch: # Кнопка для ручного запуску
 
 jobs:
@@ -22,11 +22,13 @@ jobs:
           python-version: '3.10'
 
       - name: Встановлення бібліотек
+        working-directory: miltech # Вказуємо папку, де лежить requirements.txt
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Запуск бота
+        working-directory: miltech # Вказуємо папку, де лежить bot.py
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
@@ -37,7 +39,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add posted_news.json
+          git add miltech/posted_news.json # Вказуємо точний шлях до файлу історії
           # Зберігаємо файл у репозиторій, якщо були нові публікації
           git diff --quiet && git diff --staged --quiet || git commit -m "Оновлено історію публікацій [skip ci]"
           git push

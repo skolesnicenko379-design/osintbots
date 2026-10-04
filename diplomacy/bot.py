@@ -25,18 +25,22 @@ REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
 
-# Оновлені джерела з працюючими RSS
+# Оновлені джерела з працюючими RSS + Google Alerts
 FEEDS = [
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Council of the EU", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss", "European Commission", True),
     ("https://eeas.europa.eu/topics/sanctions-policy/rss_en", "EEAS", True),
     ("https://press.un.org/en/rss.xml", "UN Press", True),
     ("https://news.un.org/feed/subscribe/en/news/all/rss.xml", "UN News", True),
-    ("https://www.nato.int/cps/en/natohq/news.xml", "NATO", True), # Оновлене посилання НАТО
+    ("https://www.nato.int/cps/en/natohq/news.xml", "NATO", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "UK FCDO", True),
     ("https://www.state.gov/press-releases/feed/", "U.S. Department of State", True),
-    ("https://www.whitehouse.gov/briefing-room/feed/", "The White House", True), # Оновлене посилання Білого Дому
+    ("https://www.whitehouse.gov/briefing-room/feed/", "The White House", True),
     ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "France Diplomacy", True),
+    
+    # --- Розумний пошук новин по всьому інтернету через Google Alerts ---
+    ("https://www.google.com/alerts/feeds/12089626364797798521/39472708417579504", "Google Alerts (США/ЄС/НАТО)", True),
+    ("https://www.google.com/alerts/feeds/12089626364797798521/2190225341532693885", "Google Alerts (Саміти та Угоди)", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"
@@ -50,7 +54,6 @@ def notify_admin(message):
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
     try:
-        # Для телеграму імітація браузера не потрібна, але використовуємо той самий об'єкт
         requests.post(url, json=payload, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
@@ -62,7 +65,6 @@ def strip_html(raw):
 
 def fetch_article_text(url):
     try:
-        # impersonate="chrome120" повністю підміняє мережеві відбитки
         resp = requests.get(
             url,
             timeout=ARTICLE_FETCH_TIMEOUT,
@@ -207,10 +209,8 @@ def collect_entries():
     
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            # impersonate="chrome120" гарантовано обходить захист від ботів
             resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
             resp.raise_for_status()
-            
             feed = feedparser.parse(resp.content)
         except Exception as e:
             msg = f"Не вдалося завантажити фід {source_name} ({feed_url}):\n{e}"

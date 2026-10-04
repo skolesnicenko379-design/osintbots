@@ -38,9 +38,11 @@ FEEDS = [
     ("https://www.whitehouse.gov/briefing-room/feed/", "The White House", True),
     ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "France Diplomacy", True),
     
-    # --- Розумний пошук новин по всьому інтернету через Google Alerts ---
-    ("https://www.google.com/alerts/feeds/12089626364797798521/39472708417579504", "Google Alerts (США/ЄС/НАТО)", True),
-    ("https://www.google.com/alerts/feeds/12089626364797798521/2190225341532693885", "Google Alerts (Саміти та Угоди)", True),
+    # --- Розширений пошук дипломатичних інсайдів (кастомні назви для Telegram) ---
+    ("https://www.google.com/alerts/feeds/12089626364797798521/39472708417579504", "Euro-Atlantic Security", True),
+    ("https://www.google.com/alerts/feeds/12089626364797798521/2190225341532693885", "Diplomatic Summits", True),
+    ("https://www.google.com/alerts/feeds/12089626364797798521/11336788638066702601", "Global Diplomacy", True),
+    ("https://www.google.com/alerts/feeds/12089626364797798521/2277749747477857648", "Western Policy & Pacts", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"

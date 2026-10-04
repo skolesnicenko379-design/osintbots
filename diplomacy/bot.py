@@ -184,4 +184,167 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
             return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
-        text = text.replace("```json", "").replace("
+        
+        # ВИПРАВЛЕНИЙ РЯДОК
+        text = text.replace("```json", "").replace("```", "").strip()
+        
+        parsed = json.loads(text)
+        return {
+            "relevant": bool(parsed.get("relevant", True)),
+            "duplicate": bool(parsed.get("duplicate", False)),
+            "title": parsed.get("title"),
+            "analysis": parsed.get("analysis"),
+        }
+    except Exception as e:
+        print(f"Groq: не вдалося обробити новину ({e})")
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+
+
+def send_to_telegram(text):
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHANNEL_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
+    }
+    try:
+        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+        if response.status_code == 429:
+            retry_after = response.json().get("parameters", {}).get("retry_after", 5)
+            print(f"Telegram rate limit, чекаю {retry_after}с")
+            time.sleep(retry_after)
+            response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+        return response.status_code == 200
+    except Exception as e:
+        print(f"Помилка запиту до Telegram: {e}")
+        notify_admin(f"Помилка з'єднання з Telegram API: {e}")
+        return False
+
+
+def collect_entries():
+    all_entries = []
+    
+    for feed_url, source_name, needs_translation in FEEDS:
+        try:
+            resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+        except Exception as e:
+            msg = f"Не вдалося завантажити фід {source_name} ({feed_url}):\n{e}"
+            print(msg)
+            continue
+
+        if getattr(feed, "bozo", False) and not feed.entries:
+            print(f"Фід порожній або некоректний: {feed_url} ({feed.get('bozo_exception')})")
+            continue
+
+        for entry in feed.entries[:6]:
+            link = entry.get("link")
+            if not link:
+                continue
+
+            published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+            if published_struct:
+                published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
+            else:
+                published_dt = datetime.now(timezone.utc)
+
+            all_entries.append({
+                "link": link,
+                "title": entry.get("title", "Без заголовка"),
+                "summary": strip_html(entry.get("summary", ""))[:1500],
+                "source": source_name,
+                "published": published_dt,
+            })
+
+    all_entries.sort(key=lambda e: e["published"], reverse=True)
+    return all_entries
+
+
+def format_message(entry, groq_title, groq_analysis):
+    raw_title = groq_title or entry["title"]
+    clean_title = clean_text(raw_title)
+    safe_title = html.escape(clean_title)
+    
+    date_str = entry["published"].strftime("%d.%m.%Y")
+    safe_source = html.escape(entry['source'])
+
+    parts = [
+        f"<b>{safe_title}</b>",
+        "",
+        f"🗓 {date_str} | 🏛 {safe_source}",
+    ]
+
+    if groq_analysis:
+        clean_analysis = clean_text(groq_analysis)
+        safe_analysis = html.escape(clean_analysis)
+        parts += ["", f"🤝 {safe_analysis}"]
+
+    safe_link = entry['link'].replace('"', '%22')
+    parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']
+    return "\n".join(parts)
+
+
+def main():
+    history = load_history()
+    entries = collect_entries()
+    new_posts = 0
+    checked = 0
+
+    for entry in entries:
+        if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
+            break
+        
+        if entry["link"] in history["links"]:
+            continue
+
+        checked += 1
+
+        article_text = fetch_article_text(entry["link"])
+        if not article_text:
+            article_text = entry["summary"]
+
+        result = analyze_with_groq(
+            entry["title"], article_text, entry["source"], history["recent_posts"]
+        )
+
+        if not result["relevant"]:
+            history["links"].append(entry["link"])
+            print(f"Пропущено (відхилено ШІ як нерелевантне/географічний фільтр): {entry['title']}")
+            continue
+
+        if result["duplicate"]:
+            history["links"].append(entry["link"])
+            print(f"Пропущено (дублює вже опубліковану подію): {entry['title']}")
+            continue
+
+        message = format_message(entry, result["title"], result["analysis"])
+
+        if send_to_telegram(message):
+            history["links"].append(entry["link"])
+            history["recent_posts"].append({
+                "title": result["title"] or entry["title"],
+                "summary": (result["analysis"] or entry["summary"])[:300],
+                "source": entry["source"],
+            })
+            new_posts += 1
+            print(f"Опубліковано: {entry['title']}")
+            time.sleep(3)
+        else:
+            print(f"Не вдалося опублікувати: {entry['title']}")
+
+    save_history(history)
+    print(f"Готово. Перевірено: {checked}, опубліковано: {new_posts}")
+
+
+if __name__ == "__main__":
+    if TELEGRAM_TOKEN and CHANNEL_ID:
+        try:
+            main()
+        except Exception as e:
+            error_trace = traceback.format_exc()
+            print(f"Критична помилка виконання:\n{error_trace}")
+            notify_admin(f"Критичне падіння скрипта:\n{error_trace}")
+    else:
+        print("Помилка: TELEGRAM_TOKEN або CHANNEL_ID не задано. Перевірте змінні оточення.")

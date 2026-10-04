@@ -42,4 +42,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add diplomacy/posted_news.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Оновлено історію дипломатичних публікацій [skip ci]"
+          git pull --rebase origin main # <--- ДОДАЙТЕ ЦЕЙ РЯДОК, щоб уникнути конфлікту збережень
           git push

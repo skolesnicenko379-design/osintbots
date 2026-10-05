@@ -123,14 +123,13 @@
     "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/vice-ministro-cirielli-alla-conferenza-su-ince-e-ricostruzione-ucraina/",
     "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2056",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
-    "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/"
+    "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
+    "https://press.un.org/en/2026/db261005.doc.htm",
+    "https://press.un.org/en/2026/gaab4515.doc.htm",
+    "https://press.un.org/en/2026/gashc4438.doc.htm",
+    "https://press.un.org/en/2026/gadis3762.doc.htm"
   ],
   "recent_posts": [
-    {
-      "title": "Prime Minister Andy Burnham sets out plans for a new National Care Service",
-      "summary": "The Prime Minister announced a new settlement for older people today: a state pension that rises every year, no personal care charges and a high-quality National Care Service to give peace of mind in later life.",
-      "source": "Даунінг-стріт"
-    },
     {
       "title": "Прем’єр Великої Британії та Норвегії підписали стратегічну оборонну угоду у Ліверпулі",
       "summary": "Зустріч підкреслює посилення трансатлантичної безпеки в Північній Атлантиці, зокрема протидію російській гібридній агресії та розширення співпраці в рамках НАТО та Joint Expeditionary Force. Водночас обговорення AI та безпеки у Північному Льодовитому океані інтегрує британську G20-президенцію у ширш",
@@ -225,6 +224,11 @@
       "title": "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid",
       "summary": "European Commission Press release Brussels, 05 Oct 2026 The European Commission has concluded that Poland's plan to support the extension of capacity of a factory of truck producer MAN Trucks Sp. z o. o. in Niepołomice in the Małopolskie region is not in line with EU State aid rules. Therefore, Pola",
       "source": "Єврокомісія"
+    },
+    {
+      "title": "First Committee Opens Eighty-first Session, Fails to Approve Programme of Work, Holds Revitalization Debate",
+      "summary": "The First Committee (Disarmament and International Security) today failed to approve its work programme for the eighty-first session, but held a debate on revitalization of the the Gemeral Assembly’s work as well as programme planning.",
+      "source": "ООН (Прес-центр)"
     }
   ]
 }

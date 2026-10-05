@@ -4,12 +4,14 @@ import json
 import time
 import html
 import traceback
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
+# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
 from curl_cffi import requests
 import feedparser
 from bs4 import BeautifulSoup
 
+# ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
@@ -17,55 +19,43 @@ ADMIN_ID = os.environ.get("ADMIN_ID")
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 40
-RECENT_POSTS_FOR_DEDUP = 15
+MAX_ENTRIES_CHECKED_PER_RUN = 50
+RECENT_POSTS_FOR_DEDUP = 20
+MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за останні 24 години
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
-ARTICLE_MAX_CHARS = 2000
-GROQ_MIN_INTERVAL = 8  # секунд між викликами Groq, щоб не впиратись у TPM-ліміт
+ARTICLE_MAX_CHARS = 4000
 
-def _gnews(domain, lang="en-US", country="US"):
-    """
-    Резервний фід для сайтів, що прибрали власний RSS: Google News,
-    обмежений доменом джерела (site:domain). Google сам парсить
-    сторінку й віддає валідний RSS з прямими лінками на оригінал.
-    """
-    short_lang = lang.split("-")[0]
-    return (
-        f"https://news.google.com/rss/search?q=site:{domain}"
-        f"&hl={lang}&gl={country}&ceid={country}:{short_lang}"
-    )
-
-
+# Розширена та збалансована база геополітичних джерел
 FEEDS = [
     # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
+    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-    (_gnews("eeas.europa.eu"), "EEAS (Дипломатія ЄС)", True),
 
     # --- Провідні європейські держави ---
-    (_gnews("bundesregierung.de", "de", "DE"), "Уряд Німеччини", True),
-    (_gnews("bundestag.de", "de", "DE"), "Бундестаг", True),
-    (_gnews("diplomatie.gouv.fr", "fr", "FR"), "МЗС Франції", True),
+    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
+    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
+    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
     ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
-    (_gnews("mfa.gov.ua", "uk", "UA"), "МЗС України", False),
-    (_gnews("president.gov.ua", "uk", "UA"), "Офіс Президента України", False),
+    ("https://mfa.gov.ua/rss", "МЗС України", False),
+    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
 
     # --- Трансатлантичні партнери та альянси ---
-    (_gnews("state.gov"), "Держдеп США", True),
-    (_gnews("whitehouse.gov"), "Білий дім", True),
-    (_gnews("defense.gov"), "Пентагон", True),
-    (_gnews("nato.int"), "НАТО", True),
+    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
+    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
+    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
+    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
 
     # --- Багатосторонні структури та фінанси ---
-    (_gnews("osce.org"), "ОБСЄ", True),
+    ("https://www.osce.org/rss", "ОБСЄ", True),
     ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
-    (_gnews("imf.org"), "МВФ", True),
-    (_gnews("worldbank.org"), "Світовий банк", True),
+    ("https://www.imf.org/en/News/RSS", "МВФ", True),
+    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"
@@ -138,7 +128,8 @@ def load_history():
 
 
 def save_history(history):
-    history["links"] = history["links"][-800:]
+    # Зберігаємо до 1200 посилань для надійного захисту від повторів
+    history["links"] = list(dict.fromkeys(history["links"]))[-1200:]
     history["recent_posts"] = history["recent_posts"][-RECENT_POSTS_FOR_DEDUP:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
@@ -146,12 +137,12 @@ def save_history(history):
 
 def analyze_with_groq(title, article_text, source_name, recent_posts):
     if not GROQ_API_KEY:
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "retry": False}
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
     if recent_posts:
         recent_block = "\n".join(
-            f"- [{p['source']}] {p['title']}: {p['summary'][:150]}" for p in recent_posts[-8:]
+            f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
         )
 
     prompt = (
@@ -170,14 +161,14 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         f"Джерело: {source_name}\n"
         f"Заголовок: {title}\n\n"
         f"Текст статті:\n{article_text}\n\n"
-        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для перевірки на дублі):\n"
+        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для суворої перевірки на смисловий дубль):\n"
         f"{recent_block}\n\n"
         "Виконай завдання:\n"
         "Крок 1 (relevant): чи є ця подія значущою для європейської/трансатлантичної геополітики або міжнародних відносин? "
         "Якщо це рутина, дрібний кримінал або вузька локальна внутрішня тема — поверни "
         '{"relevant": false, "duplicate": false, "title": null, "analysis": null}.\n\n'
-        "Крок 2 (duplicate): чи дублює ця новина ту саму подію/саміт, про яку вже повідомлялося в останніх постах вище? "
-        'Якщо так — поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
+        "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, зустріч, саміт чи заяву, яка вже була опублікована вище? "
+        'Якщо так — обов\'язково поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
         "Крок 3 (якщо relevant=true і duplicate=false):\n"
         "- Сформулюй лаконічний, інформативний заголовок українською (до 14 слів).\n"
         "- Напиши стислий аналітичний коментар (2–3 речення) про геополітичне значення події.\n\n"
@@ -195,49 +186,28 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "temperature": 0.2,
     }
 
-    for attempt in range(2):
-        try:
-            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+    try:
+        resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+        if resp.status_code != 200:
+            msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
+            print(msg)
+            notify_admin(msg)
+            return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
-            if resp.status_code == 429 and attempt == 0:
-                retry_after = 5
-                try:
-                    retry_after = int(resp.headers.get("retry-after", 5))
-                except (TypeError, ValueError):
-                    pass
-                print(f"Groq: rate limit (429), чекаю {retry_after}с і пробую ще раз")
-                time.sleep(retry_after)
-                continue
+        data = resp.json()
+        text = data["choices"][0]["message"]["content"].strip()
+        text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
 
-            if resp.status_code != 200:
-                msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
-                print(msg)
-                notify_admin(msg)
-                # Не публікуємо без перевірки ШІ — і не ховаємо запис назавжди:
-                # retry=True означає "спробувати ще раз наступного запуску".
-                return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
-
-            data = resp.json()
-            text = data["choices"][0]["message"]["content"].strip()
-            text = text.replace("```json", "").replace("```", "").strip()
-
-            parsed = json.loads(text)
-            return {
-                "relevant": bool(parsed.get("relevant", True)),
-                "duplicate": bool(parsed.get("duplicate", False)),
-                "title": parsed.get("title"),
-                "analysis": parsed.get("analysis"),
-                "retry": False,
-            }
-        except Exception as e:
-            print(f"Groq: помилка обробки ({e})")
-            if attempt == 0:
-                time.sleep(3)
-                continue
-            notify_admin(f"Groq: повторна помилка обробки ({e})")
-            return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
-
-    return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
+        parsed = json.loads(text)
+        return {
+            "relevant": bool(parsed.get("relevant", True)),
+            "duplicate": bool(parsed.get("duplicate", False)),
+            "title": parsed.get("title"),
+            "analysis": parsed.get("analysis"),
+        }
+    except Exception as e:
+        print(f"Groq: помилка обробки ({e})")
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
 
 
 def send_to_telegram(text):
@@ -264,6 +234,8 @@ def send_to_telegram(text):
 
 def collect_entries():
     all_entries = []
+    now_utc = datetime.now(timezone.utc)
+    max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
@@ -277,25 +249,32 @@ def collect_entries():
         if getattr(feed, "bozo", False) and not feed.entries:
             continue
 
-        for entry in feed.entries[:6]:
+        for entry in feed.entries[:10]:
             link = entry.get("link")
             if not link:
                 continue
 
+            # Обробка дати публікації
             published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
-            if published_struct:
-                published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-            else:
-                published_dt = datetime.now(timezone.utc)
+            if not published_struct:
+                # Якщо дати немає взагалі — ігноруємо, щоб не тягнути застарілі архіви
+                continue
+
+            published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
+
+            # ФІЛЬТР: Тільки публікації за останні 24 години
+            if (now_utc - published_dt) > max_age_delta:
+                continue
 
             all_entries.append({
-                "link": link,
+                "link": link.strip(),
                 "title": entry.get("title", "Без заголовка"),
                 "summary": strip_html(entry.get("summary", ""))[:1500],
                 "source": source_name,
                 "published": published_dt,
             })
 
+    # Сортування: від найсвіжіших до старіших
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries
 
@@ -304,7 +283,7 @@ def format_message(entry, groq_title, groq_analysis):
     raw_title = groq_title or entry["title"]
     clean_title = clean_text(raw_title)
     safe_title = html.escape(clean_title)
-
+    
     date_str = entry["published"].strftime("%d.%m.%Y")
     safe_source = html.escape(entry['source'])
 
@@ -333,7 +312,8 @@ def main():
     for entry in entries:
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
-
+        
+        # Перевірка на унікальність лінка
         if entry["link"] in history["links"]:
             continue
 
@@ -346,15 +326,10 @@ def main():
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
-        time.sleep(GROQ_MIN_INTERVAL)
 
         if not result["relevant"]:
-            if result.get("retry"):
-                print(f"Пропущено (збій Groq, спробуємо наступного запуску): {entry['title']}")
-                # НЕ додаємо в history — щоб спробувати ще раз пізніше
-            else:
-                history["links"].append(entry["link"])
-                print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
+            history["links"].append(entry["link"])
+            print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
             continue
 
         if result["duplicate"]:
@@ -378,7 +353,7 @@ def main():
             print(f"Не вдалося опублікувати: {entry['title']}")
 
     save_history(history)
-    print(f"Готово. Перевірено: {checked}, опубліковано: {new_posts}")
+    print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
 
 
 if __name__ == "__main__":

@@ -127,14 +127,12 @@
     "https://press.un.org/en/2026/db261005.doc.htm",
     "https://press.un.org/en/2026/gaab4515.doc.htm",
     "https://press.un.org/en/2026/gashc4438.doc.htm",
-    "https://press.un.org/en/2026/gadis3762.doc.htm"
+    "https://press.un.org/en/2026/gadis3762.doc.htm",
+    "https://press.un.org/en/2026/sgsm23316.doc.htm",
+    "https://press.un.org/en/2026/gaef3619.doc.htm",
+    "https://press.un.org/en/2026/gal3742.doc.htm"
   ],
   "recent_posts": [
-    {
-      "title": "Прем’єр Великої Британії та Норвегії підписали стратегічну оборонну угоду у Ліверпулі",
-      "summary": "Зустріч підкреслює посилення трансатлантичної безпеки в Північній Атлантиці, зокрема протидію російській гібридній агресії та розширення співпраці в рамках НАТО та Joint Expeditionary Force. Водночас обговорення AI та безпеки у Північному Льодовитому океані інтегрує британську G20-президенцію у ширш",
-      "source": "Даунінг-стріт"
-    },
     {
       "title": "Прем’єр Великої Британії та Президент Туреччини обговорили FTA, безпеку Чорного моря та Україну",
       "summary": "Зустріч підкреслює прагнення Лондона поглибити економічне співробітництво з Анкарою через оновлену угоду про вільну торгівлю, що важливо у пост‑брекситному контексті. Спільна позиція щодо безпеки у Чорному морі та енергетичної «перебоївки» в Україні демонструє роль Туреччини як ключового партнера НА",
@@ -228,6 +226,11 @@
     {
       "title": "First Committee Opens Eighty-first Session, Fails to Approve Programme of Work, Holds Revitalization Debate",
       "summary": "The First Committee (Disarmament and International Security) today failed to approve its work programme for the eighty-first session, but held a debate on revitalization of the the Gemeral Assembly’s work as well as programme planning.",
+      "source": "ООН (Прес-центр)"
+    },
+    {
+      "title": "Opening Eighty-First Session, Sixth Committee Underlines Importance of Law in World Plagued by Conflict, Terrorism",
+      "summary": "As it opened its eighty-first session today, speakers in the Sixth Committee (Legal) underlined the importance of international law to the fight against terrorism while also considering how best to utilize time and resources to deliver on their task of progressively developing and codifying that law",
       "source": "ООН (Прес-центр)"
     }
   ]

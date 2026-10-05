@@ -99,7 +99,11 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVZIa2lNTmVDandxVVFyUUdLY0VhZ3llWmNGUmxNcTA3Mi1ZLXFFVFhmZWxxQXRhQmNzWlJtaU90RzA3ekJVMHVLR2Zxb3VBQU1CQl8xSWRhU1lHcXA3d1VmVmducFJpZ3J4Skd2QVJDNU1pQWRqUENNcERZenU5aVNWb3NsQzdXQXhNaXplbUpNdm85UVdnZXlvamp1V3RESnl4R1ZVY1BBLXlUNEpBelBPZFhOUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVjZMQnVKLXVSTnhrVGozRElhcVVpQXpNSFk4RTFuOVFWY0s0TndwR3RzSVBZN1pOR0tBMmxlaUV2OEZ1MnE0RFZhVm9mc0RicnRLZlotNXlhcXRzd2xPTE5BeVAzbDBkMTB3X0ZzaEVHWTZZM2NuS3I2NVdIYmRTQzRsVVBVX3oxcXYybkF5VE5sa2tpRDFGVlNxVDVfcUNLRDhoejUwY1RyRkZuSFdMeGh1YmJEWWZRaGZUdjFjZU1UbVFiLUlEdTJJclJDd09oNXVMZnYzbVJfZw?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmdLcVpKX2sxcXkwVzhnbEFPWXJJYzA2SHM2Q1FjRW1SWjZmcVZfR2dHQVgxc2VrS2hRU0Jxb0c2QUJrd013MTRGeXVtdmNmMV9UcEIwOU5XbzJHOW1FTkF2WTVRSFc2NjNTb1VRYmRIVUhBdmVVRFlJOFZIZ3ItVU5Ld0ZiNzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0ZyajNoT3RPUE1yS1NXeVhpRE8yd28wcGVCZ3NhZnRxTjE5S3RGczhSTVhRZGlwZ21VOG0xbDUyZ2VCZXFKbkhvT19UckRXSy1IMXk4dzJLQUh4Tl9IQzZ2OUh2NW5zaU1IckRJWDUxN21QNDJ0VmdXMmpYNXliRnRfb1BNTWtTZ0p3UkpVWE94a2o5bnktT1UwRW05RkV2ZDZPT1hNdw?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0ZyajNoT3RPUE1yS1NXeVhpRE8yd28wcGVCZ3NhZnRxTjE5S3RGczhSTVhRZGlwZ21VOG0xbDUyZ2VCZXFKbkhvT19UckRXSy1IMXk4dzJLQUh4Tl9IQzZ2OUh2NW5zaU1IckRJWDUxN21QNDJ0VmdXMmpYNXliRnRfb1BNTWtTZ0p3UkpVWE94a2o5bnktT1UwRW05RkV2ZDZPT1hNdw?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/speech-by-president-antonio-costa-at-the-opening-ceremony-of-the-academic-year-of-the-college-of-europe-natolin-campus/",
+    "https://www.gov.uk/government/speeches/un-human-rights-council-63-uk-statement-for-the-enhanced-interactive-dialogue-on-the-democratic-republic-of-the-congo",
+    "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2069",
+    "https://www.esteri.it/en/sala_stampa/archivionotizie/retediplomatica/2026/10/kabul-presentazione-women-business-prize-afghanistan/"
   ],
   "recent_posts": [
     {
@@ -176,6 +180,16 @@
       "title": "МЗС України закликає захід до рішучих дій після російських атак на ядерні об’єкти",
       "summary": "Атаки на ядерні та наукові установи підкреслюють готовність Росії зачепити критичну інфраструктуру, що підвищує ризики безпеки для Європи та вимагає посилення санкцій і гарантій захисту. Це посилює рішучість НАТО та ЄС підтримати Україну, демонструючи важливість трансатлантичного партнерства у стрим",
       "source": "МЗС України"
+    },
+    {
+      "title": "UN Human Rights Council 63: UK Statement for the Enhanced Interactive Dialogue on the Democratic Republic of the Congo",
+      "summary": "UK Statement for the Enhanced Interactive Dialogue on the Democratic Republic of the Congo. Delivered by the UK's Human Rights Ambassador, Eleanor Sanders.",
+      "source": "FCDO (Британія)"
+    },
+    {
+      "title": "Комісар Росваль підкреслив роль води у конкурентоспроможності та безпеці Європи",
+      "summary": "У промові в Берліні Комісар Росваль зв’язав водні ресурси з економічною конкурентоспроможністю, якістю життя та стратегічною стійкістю ЄС, підкресливши їхнє значення у контексті змін клімату та енергетичної безпеки. Це посилює політичну волю до спільних інвестицій у водну інфраструктуру та посилює т",
+      "source": "Єврокомісія"
     }
   ]
 }

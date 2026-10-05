@@ -21,30 +21,51 @@ MAX_ENTRIES_CHECKED_PER_RUN = 40
 RECENT_POSTS_FOR_DEDUP = 15
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
-ARTICLE_MAX_CHARS = 4000
+ARTICLE_MAX_CHARS = 2000
+GROQ_MIN_INTERVAL = 8  # секунд між викликами Groq, щоб не впиратись у TPM-ліміт
+
+def _gnews(domain, lang="en-US", country="US"):
+    """
+    Резервний фід для сайтів, що прибрали власний RSS: Google News,
+    обмежений доменом джерела (site:domain). Google сам парсить
+    сторінку й віддає валідний RSS з прямими лінками на оригінал.
+    """
+    short_lang = lang.split("-")[0]
+    return (
+        f"https://news.google.com/rss/search?q=site:{domain}"
+        f"&hl={lang}&gl={country}&ceid={country}:{short_lang}"
+    )
+
 
 FEEDS = [
+    # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
-    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
-    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
+    (_gnews("eeas.europa.eu"), "EEAS (Дипломатія ЄС)", True),
+
+    # --- Провідні європейські держави ---
+    (_gnews("bundesregierung.de", "de", "DE"), "Уряд Німеччини", True),
+    (_gnews("bundestag.de", "de", "DE"), "Бундестаг", True),
+    (_gnews("diplomatie.gouv.fr", "fr", "FR"), "МЗС Франції", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
     ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
-    ("https://mfa.gov.ua/rss", "МЗС України", False),
-    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
-    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
-    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
-    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
-    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
-    ("https://www.osce.org/rss", "ОБСЄ", True),
+    (_gnews("mfa.gov.ua", "uk", "UA"), "МЗС України", False),
+    (_gnews("president.gov.ua", "uk", "UA"), "Офіс Президента України", False),
+
+    # --- Трансатлантичні партнери та альянси ---
+    (_gnews("state.gov"), "Держдеп США", True),
+    (_gnews("whitehouse.gov"), "Білий дім", True),
+    (_gnews("defense.gov"), "Пентагон", True),
+    (_gnews("nato.int"), "НАТО", True),
+
+    # --- Багатосторонні структури та фінанси ---
+    (_gnews("osce.org"), "ОБСЄ", True),
     ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
-    ("https://www.imf.org/en/News/RSS", "МВФ", True),
-    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
+    (_gnews("imf.org"), "МВФ", True),
+    (_gnews("worldbank.org"), "Світовий банк", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"
@@ -125,12 +146,12 @@ def save_history(history):
 
 def analyze_with_groq(title, article_text, source_name, recent_posts):
     if not GROQ_API_KEY:
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "retry": False}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
     if recent_posts:
         recent_block = "\n".join(
-            f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
+            f"- [{p['source']}] {p['title']}: {p['summary'][:150]}" for p in recent_posts[-8:]
         )
 
     prompt = (
@@ -174,28 +195,49 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "temperature": 0.2,
     }
 
-    try:
-        resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-        if resp.status_code != 200:
-            msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
-            print(msg)
-            notify_admin(msg)
-            return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+    for attempt in range(2):
+        try:
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
 
-        data = resp.json()
-        text = data["choices"][0]["message"]["content"].strip()
-        text = text.replace("```json", "").replace("```", "").strip()
+            if resp.status_code == 429 and attempt == 0:
+                retry_after = 5
+                try:
+                    retry_after = int(resp.headers.get("retry-after", 5))
+                except (TypeError, ValueError):
+                    pass
+                print(f"Groq: rate limit (429), чекаю {retry_after}с і пробую ще раз")
+                time.sleep(retry_after)
+                continue
 
-        parsed = json.loads(text)
-        return {
-            "relevant": bool(parsed.get("relevant", True)),
-            "duplicate": bool(parsed.get("duplicate", False)),
-            "title": parsed.get("title"),
-            "analysis": parsed.get("analysis"),
-        }
-    except Exception as e:
-        print(f"Groq: помилка обробки ({e})")
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+            if resp.status_code != 200:
+                msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
+                print(msg)
+                notify_admin(msg)
+                # Не публікуємо без перевірки ШІ — і не ховаємо запис назавжди:
+                # retry=True означає "спробувати ще раз наступного запуску".
+                return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
+
+            data = resp.json()
+            text = data["choices"][0]["message"]["content"].strip()
+            text = text.replace("```json", "").replace("```", "").strip()
+
+            parsed = json.loads(text)
+            return {
+                "relevant": bool(parsed.get("relevant", True)),
+                "duplicate": bool(parsed.get("duplicate", False)),
+                "title": parsed.get("title"),
+                "analysis": parsed.get("analysis"),
+                "retry": False,
+            }
+        except Exception as e:
+            print(f"Groq: помилка обробки ({e})")
+            if attempt == 0:
+                time.sleep(3)
+                continue
+            notify_admin(f"Groq: повторна помилка обробки ({e})")
+            return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
+
+    return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "retry": True}
 
 
 def send_to_telegram(text):
@@ -304,10 +346,15 @@ def main():
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
+        time.sleep(GROQ_MIN_INTERVAL)
 
         if not result["relevant"]:
-            history["links"].append(entry["link"])
-            print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
+            if result.get("retry"):
+                print(f"Пропущено (збій Groq, спробуємо наступного запуску): {entry['title']}")
+                # НЕ додаємо в history — щоб спробувати ще раз пізніше
+            else:
+                history["links"].append(entry["link"])
+                print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
             continue
 
         if result["duplicate"]:

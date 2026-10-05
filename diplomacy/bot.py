@@ -6,12 +6,10 @@ import html
 import traceback
 from datetime import datetime, timezone
 
-# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
 from curl_cffi import requests
 import feedparser
 from bs4 import BeautifulSoup
 
-# ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
@@ -25,46 +23,38 @@ REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
 
-# Розширена та збалансована база геополітичних джерел
 FEEDS = [
-    # --- Інституції ЄС ---
-    ("[https://www.consilium.europa.eu/en/rss/pressreleases.ashx](https://www.consilium.europa.eu/en/rss/pressreleases.ashx)", "Рада ЄС", True),
-    ("[https://ec.europa.eu/commission/presscorner/api/rss?language=en](https://ec.europa.eu/commission/presscorner/api/rss?language=en)", "Єврокомісія", True),
-    ("[https://www.eeas.europa.eu/rss.xml](https://www.eeas.europa.eu/rss.xml)", "EEAS (Дипломатія ЄС)", True),
-    ("[https://www.europarl.europa.eu/rss/doc/top-stories/en.xml](https://www.europarl.europa.eu/rss/doc/top-stories/en.xml)", "Європарламент", True),
-
-    # --- Провідні європейські держави ---
-    ("[https://www.bundesregierung.de/breg-en/service/rss](https://www.bundesregierung.de/breg-en/service/rss)", "Уряд Німеччини", True),
-    ("[https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml](https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml)", "Бундестаг", True),
-    ("[https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260](https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260)", "МЗС Франції", True),
-    ("[https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office)", "FCDO (Британія)", True),
-    ("[https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street)", "Даунінг-стріт", True),
-    ("[https://www.gov.pl/feed/rss/diplomacy](https://www.gov.pl/feed/rss/diplomacy)", "МЗС Польщі", True),
-    ("[https://www.esteri.it/en/feed/](https://www.esteri.it/en/feed/)", "МЗС Італії", True),
-    ("[https://mfa.gov.ua/rss](https://mfa.gov.ua/rss)", "МЗС України", False),
-    ("[https://www.president.gov.ua/news/rss](https://www.president.gov.ua/news/rss)", "Офіс Президента України", False),
-
-    # --- Трансатлантичні партнери та альянси ---
-    ("[https://www.state.gov/press-releases/feed/](https://www.state.gov/press-releases/feed/)", "Держдеп США", True),
-    ("[https://www.whitehouse.gov/briefing-room/feed/](https://www.whitehouse.gov/briefing-room/feed/)", "Білий дім", True),
-    ("[https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases](https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases)", "Пентагон", True),
-    ("[https://www.nato.int/cps/en/natohq/news.xml](https://www.nato.int/cps/en/natohq/news.xml)", "НАТО", True),
-
-    # --- Багатосторонні структури та фінанси ---
-    ("[https://www.osce.org/rss](https://www.osce.org/rss)", "ОБСЄ", True),
-    ("[https://press.un.org/en/rss.xml](https://press.un.org/en/rss.xml)", "ООН (Прес-центр)", True),
-    ("[https://www.imf.org/en/News/RSS](https://www.imf.org/en/News/RSS)", "МВФ", True),
-    ("[https://www.worldbank.org/en/news/press-release.rss](https://www.worldbank.org/en/news/press-release.rss)", "Світовий банк", True),
+    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
+    ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
+    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
+    ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
+    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
+    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
+    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
+    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
+    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
+    ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
+    ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
+    ("https://mfa.gov.ua/rss", "МЗС України", False),
+    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
+    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
+    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
+    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
+    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
+    ("https://www.osce.org/rss", "ОБСЄ", True),
+    ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
+    ("https://www.imf.org/en/News/RSS", "МВФ", True),
+    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
 GROQ_MODEL = "openai/gpt-oss-120b"
-GROQ_API_URL = "[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)"
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
 def notify_admin(message):
     if not ADMIN_ID:
         return
-    url = f"[https://api.telegram.org/bot](https://api.telegram.org/bot){TELEGRAM_TOKEN}/sendMessage"
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
     try:
@@ -194,9 +184,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
         data = resp.json()
         text = data["choices"][0]["message"]["content"].strip()
-        
-        # ВИПРАВЛЕНИЙ РЯДОК БЕЗ ПРЯМИХ ЗВОРОТНИХ АПОСТРОФІВ
-        text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+        text = text.replace("```json", "").replace("```", "").strip()
 
         parsed = json.loads(text)
         return {
@@ -211,7 +199,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
 
 def send_to_telegram(text):
-    url = f"[https://api.telegram.org/bot](https://api.telegram.org/bot){TELEGRAM_TOKEN}/sendMessage"
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
         "chat_id": CHANNEL_ID,
         "text": text,
@@ -234,7 +222,7 @@ def send_to_telegram(text):
 
 def collect_entries():
     all_entries = []
-    
+
     for feed_url, source_name, needs_translation in FEEDS:
         try:
             resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
@@ -274,7 +262,7 @@ def format_message(entry, groq_title, groq_analysis):
     raw_title = groq_title or entry["title"]
     clean_title = clean_text(raw_title)
     safe_title = html.escape(clean_title)
-    
+
     date_str = entry["published"].strftime("%d.%m.%Y")
     safe_source = html.escape(entry['source'])
 
@@ -303,7 +291,7 @@ def main():
     for entry in entries:
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
-        
+
         if entry["link"] in history["links"]:
             continue
 

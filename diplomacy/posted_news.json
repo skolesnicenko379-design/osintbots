@@ -72,39 +72,36 @@
     "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-store-of-norway-27-september-2026",
     "https://www.gov.uk/government/news/pm-meeting-with-president-erdogan-of-turkiye-22-september-2026",
     "https://www.gov.uk/government/news/pm-meeting-with-president-zelenskyy-of-ukraine-22-september-2026",
-    "https://www.gov.uk/government/speeches/pm-speech-at-unga-22-september-2026"
+    "https://www.gov.uk/government/speeches/pm-speech-at-unga-22-september-2026",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsd1NpNWNvbW5kWTl0NkpXUEJKWFY0V3ZLWDYwdUdtSG9zYVB3YUpzeWF1eERWU0NpNlBnR1lKZHlQUmFIUzBMSldvT0dEa0RRTGxWeEJzM1QwclFZUFRJUzRUQXdUN3BR?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDTjEwUGhRVUt4WjU1dGVtVEZkNV9rWDhTZDhYRmRJNTZrZjFFampzdzUySWxjMjZPUkM5emg2S1c3VGkxeHBOOFFYTk5BMGp5elA2N0ZHNzRFem5LSTRJMUJrb0p6N1Z0?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSVlYaVR0dlZoZnpZMndfc20wQ2V4TlpxdVlPWTFzUlRmV3N5U3hibW9hd19rVTlwNUVGTEJQb254eVhkTDJRVEhZNnJXYlZyRGlYR0hGaW9tRnRURlF5ZlVGaW05ZF81?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEZrcGt1NVhzRG9OOVRWbHR2UG56dXVOQ0lOR09XUmszb1BPaHktM2JkNFFfZDR5UXJjZWNTWDZJSlRSMi1YYVVBQzU0TzFINmM0NGxISXNIT2FLZE54d011N0twcFpVMGVZTjNUY2lyYzY0ZWwxWE1hRTJZZVd3ZzZ0Yjk1NFVScVQ0bkY1dWZveUk1b0ZPTFl6TUtFTHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeW9pU1lvc3ZqN2FmalNMOU55Z24zRElPbW5uR0pqOUVUckdWbk92VGpCVmljS2s0OFl6OWhsbmdrbldBSHdmZ2JlU29VaGhfbG1yTzFLaVo1Z2lxN3o4Wm4xTHJVM2s?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFY2NjhjZ1MzaE1EZ0JMWjJPTWY0OEZIcEZFdnlJb3RHcE9UVUp6RVJuZzFOVU0tcWI0aE9oV3hHc0UwOUh3TGdLdDBPMzdaT1RLVGpaNWVDQVN5a2ROQS00QTNRNzUtWklOQ3p4amdRb0lJQXZ3Q0pLb2EzVUlid01IZEZsOTB5M0dWQTNpTG9XM2kwWEdzaFoyR2hsN3ZUWUhhVm9VdHowc0xwZ291NWxIUlQtTUIzUEVKbVlFY01rLXRGOWxrMkh1SW9RX0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5USXA3SmhCbmh1RDlNa18wVFZYLUFFaHVCZzFYRGE5RkxEdC16c2syQUJ0NXFZLTNEa0wtSWJLTnp2QWhXc3BySnlR?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd0tORXF1cDZCN0lBOVdzYlBIelZ4UHlZeTl5RFBwdzZ3N2xKVVZkLXdRSnd3Ym4tbFFuOUZ0Wk1keWZpYW1IdmhmUklNSlNyQklRNXJvY0kyQmF3enNiVDVHZzlsV2FLMmFPTXIyVGFRQ2ZwOTBaX2laR3hrQ1Bhb1RNd29JSlQtVVRheEVtWnVxWVhXeU5JbHVBcWh0cmxvenh5MXoxYjdjdzBuYTA4V2xiYmlSbjFZelJucDdwQVUxdDJSQnhYZg?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFVlUFphTVBYbFhpN3hyb3VOaklKOE5Qd2ZGNXhlVDEtaUdaX2VCZmtYRHRXeHpTcHBIVlZDa0FjS29aV2ZzdjQ4czdxeHRYbl9DSnRTelNadHluamF5ajh6SUdTbkhneDJhWE8wU3dqSHl0NFhQV3dxZmZKTjNtdjhnQkpuMVlmTlQyVmtERHVucUgzT3B2YmhZMGl4THNXNTlLM19GamZlN3VYdFFBd1ZTLUhwd0NHT3hJYl82eWFXc0lYOXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBWloyX01LMXBvbkpMa01ocFFhcVcwUXpCdjVWR3RLR0NVZzRmNm1YRHZWSzN1UkRoMkE3RTNxR3V3RE9BSUtTOFN3TEhnVjFPdk83dmtnQmxXWVNrVGdYN1hTczRhcVpQX0NvNkI5NTh2Ymw4VGtuZEJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTB1alpROE4tN0JPazVFaE96M0xDQTZDdGF0UllNWndPNnpqcFZvVE1RdjIzN3FYU0lGM2lIYzFTdThCb3pIbzVyRlVxbU9CQ3JfcFJjWDRxbHE4cFdXdGpXM001aWxxbVBaTU1nVE1YX3daYzdwczl1ODhVdE02WUhicW1FQTJiczI0T0hCVzQtUXI1X2I4VWJpRjZyU3lERFo4?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHpGY1A0ZnlEYjUzTHQxRGZzY2xXR2NqRGsyTWw1X0NKOUJES0Q5dzNYVDE5Q3p5XzBrWFp2VHp4MjdfRUpZNUJhbXR5Q0lNa2Z5WENUUjZOX0I2enJKTlRpdzROZ1I3Z1JhRG4wX2xHQ3YtLUhac3EyYVExUkJVOV9Fb0F5Q2k4cDV4eVFhWkxZaVdsNkhCRXpmRDljb28td2ZNdmR2UHotOUp2eDhB?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzMzakZONUVkQjl1NnVOMFE0Ym5hTTdWSlMxblhtVjdxNHVuZzZnSUN2TjRwR3Y2RHBXbHZPTktac0pFT0NWbW9WbHpTZW1yckpJMndjX3NrcG83R0JybVRhZ0IzcGhCUHNGZmc3bzFvZklWZ2pZdlpnZnlaSkR1c0NZaEkxMFlQTkk5QWdwTUw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDFlNHBjVC1ZaHdDejQ0aEtseEVlNEZhQkNOd1hCSGZrVlB5dDRuejdXTWVaclJTRnZUcW50NUdrS3I0MnBEMUxiYkNjS2FaZVhuNlBGcmZQcnRvR2hzVzVpYWtpR0tsYl9lOXJ1TjhsSVR0YXNIeDdvRmRocDVtR204dnR5empvV3otbmZGd18yS2h2REoxdzNNaFVrVDRnV0lweFl3?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWJ3RzBfRGxiYmR0UW91czZQNHBVaHZWZ2RKS1U1VGUwTVFUWWhLR01iNHBneHZwYXNsZVU3RWFjZUlpSU5FQlRmYzJZVHF4VzJQaGoxSE9MbHJsdnptMENwdTlIZmFrejRaOE84QUdVOHFVUWZ4VllCV0JUN0FGNzRmLTVxWEd1eV9PWVFnbGFTeXQ4UTNSaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzNFc0xYSmFYWTlac290TXhUdWdKMll6ZXhkNklBdThFUllaZVBWanFUV0VXRXpQcUJxZlZ5ZE5sdzB4WXdLR2F0TTRja19VamxpYURfUDNqdFNUTnRVaTd3VER2cUtXQVk2RU10MzJDVVJxTHdsMnFzdENhYVVjMHpwdnlnVmRtdzNxMkxvQXpMSlZIaXZLWnFnWTBpNnJFbGtULW9HbzZwejRSR2lXVVFOTFlaYXJWdm10aFVXaWk?oc=5",
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDlTeUpHOUdZS19OUUl1bEdiVHNyRXlkTFVmdUxGSVd4bU5qQjdCWHZ6Y3FpRk8zU2NkbTdaY002YXlVWFNBanJMWi1IR2N6YlhQel9sQWc2RzRHVzdUQ3I1TGFxUlpjVVRDTEFabVFtcUY5d3JtaUg4Q0FBM0dpRXd2M0dtRVNzVzZ1TV9vQVgwRFkybHN6NUU1bUp5R2Zrek9VbldnWUVlNWpJcGNDMVl3NVNSbVN6NFdIMUpSbGpGN2NRWXZsVHpwUW40eGprZXRLN2RYNHRRN0ZJRlpSVDBXX3dWWXlnV2tEb2l5SkZ5aENpZUFIZmZYOVhHMUY3THc?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFyLWpjc1JXUzZ4OXozN1dWWk5fWDVnbkhpZl9BR1dmUW1kVGd5czByV3FveVZFWlFoc1pCMjZLX0J5THVpbXcxZmpDWHlWMUxFRDRadDZmdGVZMUgzVlkzc2ZFTGNIUzE0enNCT2FCbWJNUUl4ZlI3ZVFBRExicGhWTndUVG1vd3FWUFU0TklFUlNPZVozTmRNVVAwUHo0RDM3dGdWUDR2Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TTA1ME9PNUpwcDNKSzBlaGR1ckFRWFFUZk5ydjBIWlZYY0FYdUJkQ0lYWVZBbkt6V1Zsbm1WMng1Z3FGaDlBcUdCc1A0S2J0OTliaWN0Qk5IQno3WWREMWF4RTVqQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzdLYzdjUzE5S0p1OUpNaEdXN3pwMWVqRXg1WmpON0JxbzliRjNvcXF3bG9hcHJYZ012aHlJWDlpUWFDOC1fWmNKRXEwa1hCRlpPeHBTS0pfNU9JNnV3RTZiWHFGd2tFdTJxU2JiNnlQTG9BLUZObUpIeDFMX2M1NHEtRnJVRndGNUZQUXY2NldVb3JXYVlXMnNwbkhrUWVfc3pzek9HQUo3T3B1d1Z6WXF6YjgyNm9lVHRUajc4T3FpYVdSUlRCR2I3RnB3M0ZJYXcwOFZSMnZHZVVY?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTVmbzY2cTNCcFg2VkFLWkJzVTBLMEJtb3MyS2lNaTAzbTBOaF8tU2dWTEpZdDc3YjBRc3VYaW00UFFKR0lmbWRpQjRCQkt0aUItblVFVlU2X3hnSEIxSVRiLWZpZGtvbmpta2t1QTBEU19lXzRNYWhtSkRtbmNiblVHRzZBRzB2eENzRlVVNVRWSjNpclVBR3d5a0h4TnVWam5mOHlxdXhaaDZVbE5KYkR5YkQzR2dNalhQTnpjaEUxTUp1MWpJX3dnT0k1TEhBZE9nbkNpdTJiaEFUbE5LdFhWeTI?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fNVlmc0RSazJZcTBOOHZfVUdZTUxPaHh4ZENsUlp0dFFub0hYaGVkb3lyNzF3VkxyM3QzZjNzVGtQUDJ3QUNWVUxxdkF0UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkZTTks4UlBidmlRUGk3c2ttcThfX1ZJVHVPYTdLaGtjQkdfZ1RfeXA3WnJyaTFrZ0dWVXVQZFdKSzNWTVFURFI2R1BBaXNCeHJRa01uOWdGS19aWHdad2Q1eEQxQWMwaHBVdFB4eVJQWXA5OURrdHNCRG0tbHZ5YnU5cnZWd3JOUWs3MmU4VFJsREJoR0xrM0NuNkZGVVVDVG5weEJlMlI?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVZIa2lNTmVDandxVVFyUUdLY0VhZ3llWmNGUmxNcTA3Mi1ZLXFFVFhmZWxxQXRhQmNzWlJtaU90RzA3ekJVMHVLR2Zxb3VBQU1CQl8xSWRhU1lHcXA3d1VmVmducFJpZ3J4Skd2QVJDNU1pQWRqUENNcERZenU5aVNWb3NsQzdXQXhNaXplbUpNdm85UVdnZXlvamp1V3RESnl4R1ZVY1BBLXlUNEpBelBPZFhOUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVjZMQnVKLXVSTnhrVGozRElhcVVpQXpNSFk4RTFuOVFWY0s0TndwR3RzSVBZN1pOR0tBMmxlaUV2OEZ1MnE0RFZhVm9mc0RicnRLZlotNXlhcXRzd2xPTE5BeVAzbDBkMTB3X0ZzaEVHWTZZM2NuS3I2NVdIYmRTQzRsVVBVX3oxcXYybkF5VE5sa2tpRDFGVlNxVDVfcUNLRDhoejUwY1RyRkZuSFdMeGh1YmJEWWZRaGZUdjFjZU1UbVFiLUlEdTJJclJDd09oNXVMZnYzbVJfZw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmdLcVpKX2sxcXkwVzhnbEFPWXJJYzA2SHM2Q1FjRW1SWjZmcVZfR2dHQVgxc2VrS2hRU0Jxb0c2QUJrd013MTRGeXVtdmNmMV9UcEIwOU5XbzJHOW1FTkF2WTVRSFc2NjNTb1VRYmRIVUhBdmVVRFlJOFZIZ3ItVU5Ld0ZiNzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0ZyajNoT3RPUE1yS1NXeVhpRE8yd28wcGVCZ3NhZnRxTjE5S3RGczhSTVhRZGlwZ21VOG0xbDUyZ2VCZXFKbkhvT19UckRXSy1IMXk4dzJLQUh4Tl9IQzZ2OUh2NW5zaU1IckRJWDUxN21QNDJ0VmdXMmpYNXliRnRfb1BNTWtTZ0p3UkpVWE94a2o5bnktT1UwRW05RkV2ZDZPT1hNdw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Japan Adds Garantex to Asset Freeze List in <b>New Sanctions</b> Against Russia | KuCoin",
-      "summary": "Garantex had previously been sanctioned by the U.S. and the EU for assisting Russian entities in circumventing financial controls. ... new sanctions on ...",
-      "source": "Western Policy & Pacts"
-    },
-    {
-      "title": "Туреччина, Саудівська Аравія та Пакистан підписали трисекторну оборонну угоду",
-      "summary": "Угода розширює оборонне співробітництво між трьома країнами, підкреслюючи прагнення Анкари зміцнити стратегічні зв'язки поза межами традиційних західних партнерів. Для США та ЄС це може стати сигналом про потенційне відхилення Туреччини від спільної безпекової політики НАТО та потребу переглянути пі",
-      "source": "Western Policy & Pacts"
-    },
-    {
-      "title": "Пашинян подякував Трампу за участь у мирному процесі",
-      "summary": "Президент США Дональд Трамп підписав тристоронню спільну декларацію разом із прем’єром Володимиром Пашиняном та (ймовірно) президентом Азербайджану, підкресливши роль Вашингтону у сприянні мирному врегулюванню конфлікту в Нагірному Карабасі. Це демонструє залученість США до стабілізації Південного К",
-      "source": "Western Policy & Pacts"
-    },
-    {
-      "title": "Egyptian media highlight <b>new sanctions</b> imposed on Cuba by the United States.",
-      "summary": "Cairo, October 2, 2026. Egyptian newspapers highlighted yesterday the new sanctions imposed on Cuba by the U.S. government, describing them as a ...",
-      "source": "Western Policy & Pacts"
-    },
-    {
-      "title": "Заява захисників медіа: 20 років після вбивства Анни Політковської",
-      "summary": "Заява підкреслює послідовний захід західних країн щодо притягнення Росії до відповідальності за порушення прав людини, включаючи репресії проти журналістів, що посилює дипломатичний тиск у контексті війни в Україні. Координація підписантів – країн ЄС, США, Великої Британії та інших – може стати підґ",
-      "source": "МЗС Італії"
-    },
-    {
-      "title": "Joint Statement on the Anniversary of the Snapback of UN Restrictions on and related to Iran",
-      "summary": "The text of the following statement was released by the Governments of the United States of America, Albania, Argentina, Australia, Austria, Bahrain, Belize, Bosnia, Bulgaria, Canada, Colombia, Croatia, Cyprus, Czech Republic, Denmark, Dominican Republic, Estonia, Federated States of Micronesia, Fin",
-      "source": "МЗС Італії"
-    },
     {
       "title": "Італія і США оголосили нову підтримку коаліції проти ІСІС у Іраку та Сирії",
       "summary": "Зустріч у Римі підкреслює продовження трансатлантичної співпраці у боротьбі з ІСІС, демонструючи готовність ЄС і США підтримувати стабілізацію Іраку та Сирії після завершення Операції Inherent Resolve. Оголошені фінансові внески у $75 млн та план щодо зміцнення інституційних спроможностей підвищують",
@@ -149,6 +146,36 @@
       "title": "PM speech at UNGA: 22 September 2026",
       "summary": "Prime Minister Andy Burnham delivered a speech at the UN General Assembly last night.",
       "source": "Даунінг-стріт"
+    },
+    {
+      "title": "Прес‑конференція ЄС про оборону під керівництвом Кайї Каллас",
+      "summary": "На прес‑конференції Ради закордонних справ (захист) ЄС Кайя Каллас окреслила нові пріоритети спільної оборонної політики, підкресливши посилення співпраці з НАТО та готовність ЄС реагувати на російську агресію та інші регіональні загрози. Це свідчить про посилення стратегічної автономії Європи та її",
+      "source": "EEAS (Дипломатія ЄС)"
+    },
+    {
+      "title": "ЄС демонструє лідерство у квантових технологіях та шукає співпрацю з ОАЕ",
+      "summary": "Подія підкреслює стратегічне прагнення Європейського Союзу зміцнити свої позиції у високотехнологічному секторі, де квантові технології вважаються критично важливими для безпеки та економічної конкурентоспроможності. Співпраця з ОАЕ розширює технологічні та інвестиційні зв’язки за межами традиційних",
+      "source": "EEAS (Дипломатія ЄС)"
+    },
+    {
+      "title": "Україна підняла питання гуманітарної катастрофи в Олежках на засіданні ОСБ ОБСЄ",
+      "summary": "Звернення України до Постійної ради ОБСЄ привертає увагу західних партнерів до руйнівних умов у тимчасово окупованих районах, підкреслюючи продовження російської агресії. Це може посилити дипломатичний тиск на Москву, вплинути на подальші санкційні рішення та мобілізувати додаткову гуманітарну підтр",
+      "source": "МЗС України"
+    },
+    {
+      "title": "Генсек НАТО у Мюнстері закликав Європу спокійно підтримувати Україну",
+      "summary": "Виступ генсекретаря Дженса Столтенберга підкреслює політичну єдність НАТО щодо продовження військової та економічної допомоги Україні, що є ключовим фактором протидії російській агресії. Це повідомлення спрямоване на подолання можливого «військового втомлення» в Європі та зміцнення трансатлантичної ",
+      "source": "НАТО"
+    },
+    {
+      "title": "НАТО отримав Вестфальську премію миру – підтвердження підтримки безпеки Європи",
+      "summary": "Нагорода підкреслює зростаючу політичну легітимність НАТО в Німеччині та Європі, акцентуючи роль альянсу у захисті ліберального порядку проти російської агресії. Це дипломатичний сигнал, що колективна оборона залишається фундаментом трансатлантичної безпекової політики.",
+      "source": "Уряд Німеччини"
+    },
+    {
+      "title": "МЗС України закликає захід до рішучих дій після російських атак на ядерні об’єкти",
+      "summary": "Атаки на ядерні та наукові установи підкреслюють готовність Росії зачепити критичну інфраструктуру, що підвищує ризики безпеки для Європи та вимагає посилення санкцій і гарантій захисту. Це посилює рішучість НАТО та ЄС підтримати Україну, демонструючи важливість трансатлантичного партнерства у стрим",
+      "source": "МЗС України"
     }
   ]
 }

@@ -25,6 +25,10 @@ MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за о
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
+GROQ_TIMEOUT = 45          # 120b-модель відповідає довше, ніж звичайний REQUEST_TIMEOUT
+GROQ_MAX_RETRIES = 2
+GROQ_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
+GROQ_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом Groq, щоб не впертися в rate limit
 
 # Розширена та збалансована база геополітичних джерел
 FEEDS = [
@@ -136,8 +140,10 @@ def save_history(history):
 
 
 def analyze_with_groq(title, article_text, source_name, recent_posts):
+    # Якщо ключ взагалі не налаштований — це свідомий режим "без фільтрації",
+    # а не збій: публікуємо як є (без перекладу/аналізу) без пропуску.
     if not GROQ_API_KEY:
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+        return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "failed": False}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
     if recent_posts:
@@ -186,28 +192,52 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "temperature": 0.2,
     }
 
-    try:
-        resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-        if resp.status_code != 200:
-            msg = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
-            print(msg)
-            notify_admin(msg)
-            return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+    last_error = None
 
-        data = resp.json()
-        text = data["choices"][0]["message"]["content"].strip()
-        text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+    for attempt in range(1, GROQ_MAX_RETRIES + 2):  # перша спроба + N ретраїв
+        time.sleep(GROQ_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до Groq
+        try:
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
-        parsed = json.loads(text)
-        return {
-            "relevant": bool(parsed.get("relevant", True)),
-            "duplicate": bool(parsed.get("duplicate", False)),
-            "title": parsed.get("title"),
-            "analysis": parsed.get("analysis"),
-        }
-    except Exception as e:
-        print(f"Groq: помилка обробки ({e})")
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None}
+            if resp.status_code == 429:
+                retry_after = GROQ_RETRY_DELAY
+                try:
+                    retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
+                except (TypeError, ValueError):
+                    pass
+                last_error = f"Groq 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
+                print(last_error)
+                time.sleep(retry_after)
+                continue
+
+            if resp.status_code != 200:
+                last_error = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
+                print(last_error)
+                time.sleep(GROQ_RETRY_DELAY)
+                continue
+
+            data = resp.json()
+            text = data["choices"][0]["message"]["content"].strip()
+            text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+
+            parsed = json.loads(text)
+            return {
+                "relevant": bool(parsed.get("relevant", True)),
+                "duplicate": bool(parsed.get("duplicate", False)),
+                "title": parsed.get("title"),
+                "analysis": parsed.get("analysis"),
+                "failed": False,
+            }
+        except Exception as e:
+            last_error = f"Groq: помилка обробки (спроба {attempt}): {e}"
+            print(last_error)
+            time.sleep(GROQ_RETRY_DELAY)
+            continue
+
+    # Усі спроби вичерпано — НЕ публікуємо наосліп (без fail-open):
+    # новина просто повернеться в наступному прогоні.
+    notify_admin(f"Groq не відповів для статті «{title}» після {GROQ_MAX_RETRIES + 1} спроб.\n{last_error}")
+    return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
 def send_to_telegram(text):
@@ -326,6 +356,12 @@ def main():
         result = analyze_with_groq(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
+
+        if result.get("failed"):
+            # Groq тимчасово недоступний для цієї статті — НЕ позначаємо як
+            # оброблену, щоб повторити спробу в наступному прогоні.
+            print(f"Пропущено тимчасово (Groq не відповів): {entry['title']}")
+            continue
 
         if not result["relevant"]:
             history["links"].append(entry["link"])

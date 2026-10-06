@@ -155,14 +155,11 @@
     "https://press.un.org/en/2026/sgsm23319.doc.htm",
     "https://press.un.org/en/2026/sgsm23318.doc.htm",
     "https://press.un.org/en/2026/sc16468.doc.htm",
-    "https://press.un.org/en/2026/sgsm23317.doc.htm"
+    "https://press.un.org/en/2026/sgsm23317.doc.htm",
+    "https://www.gov.uk/government/speeches/at-a-time-of-deepening-conflict-and-insecurity-across-parts-of-the-continent-the-partnership-between-the-united-nations-and-african-union-is-indispens",
+    "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2083"
   ],
   "recent_posts": [
-    {
-      "title": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
-      "summary": "European Commission Press release Brussels, 05 Oct 2026 Today, the European Commission positively assessed Finland's fifth payment request of €229.2 million under the Recovery and Resilience Facility, the centrepiece of NextGenerationEU.",
-      "source": "Єврокомісія"
-    },
     {
       "title": "Commission unlocks €157 million to Moldova for reform progress under the Growth Plan",
       "summary": "European Commission Press release Brussels, 05 Oct 2026 Today, at the 10th EU-Moldova Association Council, the European Commission disbursed an additional €157 million to Moldova, reaffirming the EU's support for the country's reform path.",
@@ -257,6 +254,11 @@
       "title": "Генсек ООН закликає до постійного перемир'я в Ізраїлі‑Палестині та масштабної гуманітарної допомоги",
       "summary": "Заява Генерального секретаря ООН підкреслює необхідність стабілізації конфлікту, що є пріоритетом ЄС, США та НАТО, аби запобігти його подальшому поширенню на Європу. Вона може стати підґрунтям для спільних євро‑трансатлантичних ініціатив щодо гуманітарної підтримки та дипломатичного тиску на сторони",
       "source": "ООН (Прес-центр)"
+    },
+    {
+      "title": "ЄС висловлює підтримку результатам виборів у Боснії та Герцеговині",
+      "summary": "Заява Високого представника та Комісара підкреслює стратегічну важливість демократичної легітимності у Боснії та Герцеговині для стабільності Західних Балкан і євроатлантичної безпеки. Вона сигналізує про продовження європейської підтримки реформ, орієнтованих на європейські стандарти, і слугує прот",
+      "source": "Єврокомісія"
     }
   ]
 }

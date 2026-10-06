@@ -158,14 +158,14 @@
     "https://press.un.org/en/2026/sgsm23317.doc.htm",
     "https://www.gov.uk/government/speeches/at-a-time-of-deepening-conflict-and-insecurity-across-parts-of-the-continent-the-partnership-between-the-united-nations-and-african-union-is-indispens",
     "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2083",
-    "https://press.un.org/en/2026/sc16469.doc.htm"
+    "https://press.un.org/en/2026/sc16469.doc.htm",
+    "https://press.un.org/en/2026/sgsm23321.doc.htm",
+    "https://press.un.org/en/2026/sgsm23320.doc.htm",
+    "https://press.un.org/en/2026/gaef3620.doc.htm",
+    "https://press.un.org/en/2026/gaab4516.doc.htm",
+    "https://press.un.org/en/2026/gadis3763.doc.htm"
   ],
   "recent_posts": [
-    {
-      "title": "Commission unlocks €157 million to Moldova for reform progress under the Growth Plan",
-      "summary": "European Commission Press release Brussels, 05 Oct 2026 Today, at the 10th EU-Moldova Association Council, the European Commission disbursed an additional €157 million to Moldova, reaffirming the EU's support for the country's reform path.",
-      "source": "Єврокомісія"
-    },
     {
       "title": "Велика Британія підкреслює підтримку прав людини та України на конференції OSCE у Варшаві",
       "summary": "Заява підкреслює незмінну приверженість Великої Британії принципам OSCE щодо прав людини, демократії та свободи медіа, посилаючи сигнал підтримки Україні в умовах російської агресії. Це демонструє трансатлантичну єдність у протидії гібридним загрозам та важливість інституцій ODIHR у забезпеченні лег",
@@ -260,6 +260,11 @@
       "title": "ЄС висловлює підтримку результатам виборів у Боснії та Герцеговині",
       "summary": "Заява Високого представника та Комісара підкреслює стратегічну важливість демократичної легітимності у Боснії та Герцеговині для стабільності Західних Балкан і євроатлантичної безпеки. Вона сигналізує про продовження європейської підтримки реформ, орієнтованих на європейські стандарти, і слугує прот",
       "source": "Єврокомісія"
+    },
+    {
+      "title": "Президент ООН закликав до стримування ядерних ризиків та контролю дронів",
+      "summary": "Заява підкреслює зростання ядерних витрат і поширення безпілотників, що посилює безпекові занепокоєння Європи та НАТО у контексті ослаблення угод про контроль озброєнь. Це сигналізує про необхідність відновлення трансатлантичного діалогу щодо роззброєння та регулювання нових технологій для збереженн",
+      "source": "ООН (Прес-центр)"
     }
   ]
 }

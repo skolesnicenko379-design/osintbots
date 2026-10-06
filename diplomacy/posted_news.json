@@ -132,14 +132,10 @@
     "https://press.un.org/en/2026/gaef3619.doc.htm",
     "https://press.un.org/en/2026/gal3742.doc.htm",
     "https://press.un.org/en/2026/sga2444.doc.htm",
-    "https://press.un.org/en/2026/gaspd834.doc.htm"
+    "https://press.un.org/en/2026/gaspd834.doc.htm",
+    "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2077"
   ],
   "recent_posts": [
-    {
-      "title": "Прем’єр Великої Британії та Президент Туреччини обговорили FTA, безпеку Чорного моря та Україну",
-      "summary": "Зустріч підкреслює прагнення Лондона поглибити економічне співробітництво з Анкарою через оновлену угоду про вільну торгівлю, що важливо у пост‑брекситному контексті. Спільна позиція щодо безпеки у Чорному морі та енергетичної «перебоївки» в Україні демонструє роль Туреччини як ключового партнера НА",
-      "source": "Даунінг-стріт"
-    },
     {
       "title": "PM meeting with President Zelenskyy of Ukraine: 22 September 2026",
       "summary": "The Prime Minister met the President of Ukraine, Volodymyr Zelenskyy, yesterday at UN General Assembly.",
@@ -234,6 +230,11 @@
       "title": "Opening Eighty-First Session, Sixth Committee Underlines Importance of Law in World Plagued by Conflict, Terrorism",
       "summary": "As it opened its eighty-first session today, speakers in the Sixth Committee (Legal) underlined the importance of international law to the fight against terrorism while also considering how best to utilize time and resources to deliver on their task of progressively developing and codifying that law",
       "source": "ООН (Прес-центр)"
+    },
+    {
+      "title": "Вендерлен: підготовка до Європейської ради 15‑16 жовтня 2026 року",
+      "summary": "У промові Урсули фон дер Лаєн підкреслюється необхідність посилення стратегічної автономії ЄС, продовження підтримки України та зміцнення трансатлантичного партнерства з НАТО і США. Висвітлені пріоритети у сфері безпеки, енергетичної стійкості та економічного відновлення, що формуватимуть порядок де",
+      "source": "Єврокомісія"
     }
   ]
 }

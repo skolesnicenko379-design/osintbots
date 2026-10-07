@@ -167,14 +167,11 @@
     "https://www.gov.uk/government/news/pm-statement-on-october-7th-attacks",
     "https://press.un.org/en/2026/gal3743.doc.htm",
     "https://press.un.org/en/2026/db261006.doc.htm",
-    "https://press.un.org/en/2026/gashc4439.doc.htm"
+    "https://press.un.org/en/2026/gashc4439.doc.htm",
+    "https://press.un.org/en/2026/gaspd835.doc.htm",
+    "https://press.un.org/en/blog/committees"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія підкреслює підтримку прав людини та України на конференції OSCE у Варшаві",
-      "summary": "Заява підкреслює незмінну приверженість Великої Британії принципам OSCE щодо прав людини, демократії та свободи медіа, посилаючи сигнал підтримки Україні в умовах російської агресії. Це демонструє трансатлантичну єдність у протидії гібридним загрозам та важливість інституцій ODIHR у забезпеченні лег",
-      "source": "FCDO (Британія)"
-    },
     {
       "title": "Executive Vice-President Ribera opening speech at the Barcelona University Opening Ceremony of the 2026-2027 Academic Year",
       "summary": "European Commission Discurso Barcelona, 05 Oct 2026 Magnífico rector, claustro, autoridades, miembros de la comunidad académica, personal de la universidad, estudiantes, queridas amigas y amigos, buenas tardes y ...",
@@ -268,6 +265,11 @@
     {
       "title": "Президент ООН закликав до стримування ядерних ризиків та контролю дронів",
       "summary": "Заява підкреслює зростання ядерних витрат і поширення безпілотників, що посилює безпекові занепокоєння Європи та НАТО у контексті ослаблення угод про контроль озброєнь. Це сигналізує про необхідність відновлення трансатлантичного діалогу щодо роззброєння та регулювання нових технологій для збереженн",
+      "source": "ООН (Прес-центр)"
+    },
+    {
+      "title": "Новокаледонія закликає Францію припинити криміналізацію за підтримку незалежності",
+      "summary": "Подія підкреслює напруженість між французькою зовнішньою політикою та її колоніальними зобов'язаннями, що може вплинути на репутацію ЄС у питаннях прав людини та стратегічних інтересів у Тихоокеанському регіоні. У контексті зростаючої конкуренції з Китаєм, критика Франції щодо Новокаледонії може ста",
       "source": "ООН (Прес-центр)"
     }
   ]

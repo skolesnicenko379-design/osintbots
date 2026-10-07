@@ -4,10 +4,13 @@ import json
 import time
 import html
 import traceback
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone, timedelta
 
-# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
-from curl_cffi import requests
+# Використовуємо curl_cffi ТІЛЬКИ для парсингу сайтів, щоб обходити захист Cloudflare.
+# Для API Anthropic та Telegram ми використаємо надійний вбудований urllib.
+from curl_cffi import requests as curl_requests
 import feedparser
 from bs4 import BeautifulSoup
 
@@ -82,8 +85,10 @@ def notify_admin(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
+    data_bytes = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data_bytes, headers={"Content-Type": "application/json"}, method="POST")
     try:
-        requests.post(url, json=payload, timeout=10)
+        urllib.request.urlopen(req, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
 
@@ -102,7 +107,7 @@ def strip_html(raw):
 
 def fetch_article_text(url):
     try:
-        resp = requests.get(
+        resp = curl_requests.get(
             url,
             timeout=ARTICLE_FETCH_TIMEOUT,
             impersonate="chrome120"
@@ -208,50 +213,52 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
         "max_tokens": ANTHROPIC_MAX_TOKENS,
         "messages": [{"role": "user", "content": prompt}],
     }
+    data_bytes = json.dumps(payload).encode("utf-8")
 
     last_error = None
 
     for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):
         time.sleep(ANTHROPIC_CALL_DELAY)
         try:
-            resp = requests.post(
+            req = urllib.request.Request(
                 ANTHROPIC_API_URL,
+                data=data_bytes,
                 headers=headers,
-                data=json.dumps(payload),
-                timeout=ANTHROPIC_TIMEOUT,
-                impersonate="chrome120",
+                method="POST"
             )
+            with urllib.request.urlopen(req, timeout=ANTHROPIC_TIMEOUT) as response:
+                response_body = response.read().decode("utf-8")
+                data = json.loads(response_body)
 
-            if resp.status_code == 429:
+                text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
+                text = "".join(text_blocks).strip()
+                text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+
+                parsed = json.loads(text)
+                return {
+                    "relevant": bool(parsed.get("relevant", True)),
+                    "duplicate": bool(parsed.get("duplicate", False)),
+                    "title": parsed.get("title"),
+                    "analysis": parsed.get("analysis"),
+                    "failed": False,
+                }
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
                 retry_after = ANTHROPIC_RETRY_DELAY
                 try:
-                    retry_after = float(resp.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
-                except (TypeError, ValueError):
+                    retry_after = float(e.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
+                except:
                     pass
                 last_error = f"Anthropic 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
                 print(last_error)
                 time.sleep(retry_after)
                 continue
-
-            if resp.status_code != 200:
-                last_error = f"Anthropic: HTTP {resp.status_code}: {resp.text[:500]}"
+            else:
+                error_body = e.read().decode("utf-8")
+                last_error = f"Anthropic: HTTP {e.code}: {error_body[:500]}"
                 print(last_error)
                 time.sleep(ANTHROPIC_RETRY_DELAY)
                 continue
-
-            data = resp.json()
-            text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
-            text = "".join(text_blocks).strip()
-            text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
-
-            parsed = json.loads(text)
-            return {
-                "relevant": bool(parsed.get("relevant", True)),
-                "duplicate": bool(parsed.get("duplicate", False)),
-                "title": parsed.get("title"),
-                "analysis": parsed.get("analysis"),
-                "failed": False,
-            }
         except Exception as e:
             last_error = f"Anthropic: помилка обробки (спроба {attempt}): {e}"
             print(last_error)
@@ -270,14 +277,27 @@ def send_to_telegram(text):
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
     }
+    data_bytes = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data_bytes, headers={"Content-Type": "application/json"}, method="POST")
     try:
-        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
-        if response.status_code == 429:
-            retry_after = response.json().get("parameters", {}).get("retry_after", 5)
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
+            return response.status == 200
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            try:
+                resp_data = json.loads(e.read().decode("utf-8"))
+                retry_after = resp_data.get("parameters", {}).get("retry_after", 5)
+            except:
+                retry_after = 5
             print(f"Telegram rate limit, чекаю {retry_after}с")
             time.sleep(retry_after)
-            response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
-        return response.status_code == 200
+            try:
+                with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response2:
+                    return response2.status == 200
+            except:
+                return False
+        print(f"Помилка запиту до Telegram: HTTP {e.code}")
+        return False
     except Exception as e:
         print(f"Помилка запиту до Telegram: {e}")
         notify_admin(f"Помилка з'єднання з Telegram API: {e}")
@@ -291,7 +311,7 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            resp = requests.get(feed_url, timeout=REQUEST_TIMEOUT, impersonate="chrome120")
+            resp = curl_requests.get(feed_url, timeout=REQUEST_TIMEOUT, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:

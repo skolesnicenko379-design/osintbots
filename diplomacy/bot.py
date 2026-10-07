@@ -219,7 +219,17 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
     for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):  # перша спроба + N ретраїв
         time.sleep(ANTHROPIC_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до API
         try:
-            resp = requests.post(ANTHROPIC_API_URL, headers=headers, json=payload, timeout=ANTHROPIC_TIMEOUT)
+            # impersonate="chrome120" — без цього curl_cffi веде HTTP/2 зі своїм "голим"
+            # TLS-відбитком, і Cloudflare-edge перед api.anthropic.com періодично скидає
+            # з'єднання (curl 56: HTTP/2 stream 1 was reset). З тим самим профілем,
+            # що й для фідів/статей нижче, це не трапляється.
+            resp = requests.post(
+                ANTHROPIC_API_URL,
+                headers=headers,
+                json=payload,
+                timeout=ANTHROPIC_TIMEOUT,
+                impersonate="chrome120",
+            )
 
             if resp.status_code == 429:
                 retry_after = ANTHROPIC_RETRY_DELAY

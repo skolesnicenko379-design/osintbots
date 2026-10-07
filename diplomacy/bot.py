@@ -15,8 +15,6 @@ import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-# Використовуємо .strip() щоб видалити випадкові \n (Enter) або пробіли,
-# які могли потрапити при копіюванні ключа в GitHub Secrets.
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip()
 CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
 ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
@@ -52,13 +50,14 @@ FEEDS = [
 ]
 
 # Бот спробує першу модель; якщо сервер відповість 404 (Not Found), 
-# перейде до наступної стабільної датованої версії. Ми починаємо з 3.5, але
-# маємо 100% робочий бекап з 3 серії (Haiku).
+# перейде до наступної. Тут зібрані всі офіційні ідентифікатори.
 ANTHROPIC_MODELS = [
     "claude-3-5-sonnet-20241022",
     "claude-3-5-sonnet-20240620",
-    "claude-3-haiku-20240307",
-    "claude-3-sonnet-20240229"
+    "claude-3-5-sonnet-latest",
+    "claude-3-opus-20240229",
+    "claude-3-sonnet-20240229",
+    "claude-3-haiku-20240307"
 ]
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MAX_TOKENS = 1024
@@ -221,7 +220,6 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
 
     last_error = None
 
-    # Перебираємо список моделей, поки не знайдемо ту, яка працює
     for current_model in ANTHROPIC_MODELS:
         payload = {
             "model": current_model,
@@ -257,7 +255,6 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
                     }
             except urllib.error.HTTPError as e:
                 if e.code == 404: 
-                    # Якщо модель не знайдена, перериваємо ретраї і йдемо до наступної моделі
                     print(f"Модель {current_model} не знайдена (404). Пробую наступну...")
                     break 
                 
@@ -283,7 +280,6 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
                 time.sleep(ANTHROPIC_RETRY_DELAY)
                 continue
 
-    # Якщо ми пройшли всі моделі і всі спроби провалилися
     notify_admin(f"Anthropic API не відповів для статті «{title}» на жодній з моделей після всіх спроб.\nОстання помилка: {last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 

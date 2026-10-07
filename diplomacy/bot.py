@@ -59,7 +59,9 @@ ANTHROPIC_MAX_TOKENS = 1024
 # тож зміна структури сайту нас більше не ламає.
 GDELT_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
 GDELT_TIMESPAN = "3d"     # ширше вікно про всяк випадок; реальний відсів за віком робить MAX_ARTICLE_AGE_HOURS нижче
-GDELT_MAX_RECORDS = 20
+GDELT_MAX_RECORDS = 100   # один комбінований запит на всі домени одразу, тому ліміт вищий
+GDELT_MAX_RETRIES = 2
+GDELT_RETRY_DELAY = 8     # GDELT стає прискіпливим до частих запитів, тож пауза довша, ніж у Anthropic
 
 GDELT_SOURCES = [
     ("nato.int", "НАТО (GDELT)"),
@@ -293,7 +295,7 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
+            resp = requests.get(feed_url, timeout=REQUEST_TIMEOUT, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
@@ -333,23 +335,53 @@ def collect_entries():
     return all_entries
 
 
-def fetch_gdelt_domain(domain):
+def _gdelt_label_for_domain(article_domain):
+    # Зіставляємо домен статті (може бути "www.nato.int") з нашим списком джерел
+    article_domain = (article_domain or "").lower().lstrip("www.")
+    for domain, label in GDELT_SOURCES:
+        bare = domain.lower().lstrip("www.")
+        if article_domain == bare or article_domain.endswith("." + bare):
+            return label
+    return f"GDELT: {article_domain}" if article_domain else "GDELT"
+
+
+def fetch_gdelt_articles():
+    # Один комбінований запит замість окремого на кожен домен — GDELT має
+    # негласний rate limit і 13 запитів поспіль одразу ловлять 429.
+    domain_query = " OR ".join(f"domain:{domain}" for domain, _ in GDELT_SOURCES)
+    query = f"({domain_query})"
+
     params = {
-        "query": f"domain:{domain}",
+        "query": query,
         "mode": "artlist",
         "format": "json",
         "maxrecords": GDELT_MAX_RECORDS,
         "timespan": GDELT_TIMESPAN,
         "sort": "DateDesc",
     }
-    try:
-        resp = requests.get(GDELT_API_URL, params=params, timeout=15, impersonate="chrome120")
-        resp.raise_for_status()
-        data = resp.json()
-        return data.get("articles", []) or []
-    except Exception as e:
-        print(f"Не вдалося отримати дані GDELT для домену {domain}: {e}")
-        return []
+
+    last_error = None
+    for attempt in range(1, GDELT_MAX_RETRIES + 2):
+        try:
+            resp = requests.get(GDELT_API_URL, params=params, timeout=20, impersonate="chrome120")
+
+            if resp.status_code == 429:
+                last_error = f"GDELT 429 (rate limit), спроба {attempt}"
+                print(f"{last_error}, чекаю {GDELT_RETRY_DELAY}с")
+                time.sleep(GDELT_RETRY_DELAY)
+                continue
+
+            resp.raise_for_status()
+            data = resp.json()
+            return data.get("articles", []) or []
+        except Exception as e:
+            last_error = f"GDELT: помилка запиту (спроба {attempt}): {e}"
+            print(last_error)
+            time.sleep(GDELT_RETRY_DELAY)
+            continue
+
+    print(f"GDELT недоступний після {GDELT_MAX_RETRIES + 1} спроб: {last_error}")
+    return []
 
 
 def collect_gdelt_entries():
@@ -357,34 +389,31 @@ def collect_gdelt_entries():
     now_utc = datetime.now(timezone.utc)
     max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
 
-    for domain, source_label in GDELT_SOURCES:
-        articles = fetch_gdelt_domain(domain)
+    for art in fetch_gdelt_articles():
+        link = art.get("url")
+        seen = art.get("seendate")
+        if not link or not seen:
+            continue
 
-        for art in articles:
-            link = art.get("url")
-            seen = art.get("seendate")
-            if not link or not seen:
-                continue
+        # Формат GDELT: "20260816T120000Z"
+        try:
+            published_dt = datetime.strptime(seen, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
 
-            # Формат GDELT: "20260816T120000Z"
-            try:
-                published_dt = datetime.strptime(seen, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
-            except ValueError:
-                continue
+        # ФІЛЬТР: Тільки публікації за останні 24 години (той самий поріг, що й для RSS)
+        if (now_utc - published_dt) > max_age_delta:
+            continue
 
-            # ФІЛЬТР: Тільки публікації за останні 24 години (той самий поріг, що й для RSS)
-            if (now_utc - published_dt) > max_age_delta:
-                continue
-
-            all_entries.append({
-                "link": link.strip(),
-                "title": art.get("title") or "Без заголовка",
-                # GDELT у режимі artlist не віддає текст/опис статті — його підтягне
-                # fetch_article_text() у main(), як і для звичайних RSS-записів без summary.
-                "summary": "",
-                "source": source_label,
-                "published": published_dt,
-            })
+        all_entries.append({
+            "link": link.strip(),
+            "title": art.get("title") or "Без заголовка",
+            # GDELT у режимі artlist не віддає текст/опис статті — його підтягне
+            # fetch_article_text() у main(), як і для звичайних RSS-записів без summary.
+            "summary": "",
+            "source": _gdelt_label_for_domain(art.get("domain")),
+            "published": published_dt,
+        })
 
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries

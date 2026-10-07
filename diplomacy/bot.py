@@ -52,11 +52,13 @@ FEEDS = [
 ]
 
 # Бот спробує першу модель; якщо сервер відповість 404 (Not Found), 
-# перейде до наступної стабільної датованої версії.
+# перейде до наступної стабільної датованої версії. Ми починаємо з 3.5, але
+# маємо 100% робочий бекап з 3 серії (Haiku).
 ANTHROPIC_MODELS = [
-    "claude-3-5-sonnet-latest",
     "claude-3-5-sonnet-20241022",
-    "claude-3-5-sonnet-20240620"
+    "claude-3-5-sonnet-20240620",
+    "claude-3-haiku-20240307",
+    "claude-3-sonnet-20240229"
 ]
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MAX_TOKENS = 1024

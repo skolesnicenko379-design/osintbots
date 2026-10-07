@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ADMIN_ID = os.environ.get("ADMIN_ID")
 
 HISTORY_FILE = "posted_news.json"
@@ -25,10 +25,10 @@ MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за о
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
-GROQ_TIMEOUT = 45          # 120b-модель відповідає довше, ніж звичайний REQUEST_TIMEOUT
-GROQ_MAX_RETRIES = 2
-GROQ_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
-GROQ_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом Groq, щоб не впертися в rate limit
+ANTHROPIC_TIMEOUT = 45          # пауза очікування відповіді моделі
+ANTHROPIC_MAX_RETRIES = 2
+ANTHROPIC_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
+ANTHROPIC_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом API, щоб не впертися в rate limit
 
 # Розширена та збалансована база геополітичних джерел
 FEEDS = [
@@ -62,8 +62,9 @@ FEEDS = [
     ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
-GROQ_MODEL = "openai/gpt-oss-120b"
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+ANTHROPIC_MODEL = "claude-sonnet-5"
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MAX_TOKENS = 1024
 
 
 def notify_admin(message):
@@ -139,10 +140,10 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 
-def analyze_with_groq(title, article_text, source_name, recent_posts):
+def analyze_with_claude(title, article_text, source_name, recent_posts):
     # Якщо ключ взагалі не налаштований — це свідомий режим "без фільтрації",
     # а не збій: публікуємо як є (без перекладу/аналізу) без пропуску.
-    if not GROQ_API_KEY:
+    if not ANTHROPIC_API_KEY:
         return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "failed": False}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
@@ -152,10 +153,10 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         )
 
     prompt = (
-        "Ти — аналітик та редактор європейського й трансатлантичного геополітичного каналу. "
-        "Твоя мета: відбирати та аналізувати ключові міжнародні події, міждержавні переговори, "
-        "двосторонні та багатосторонні саміти, альянси (НАТО, ЄС, G7), рішення з безпеки й оборони, "
-        "санкційну політику та макроекономічні зсуви.\n\n"
+        "Ти — старший геополітичний аналітик і редактор трансатлантичного дипломатичного каналу, "
+        "який пише для фахової аудиторії: дипломатів, аналітиків think tank'ів та журналістів-міжнародників. "
+        "Твоя мета — відбирати значущі міжнародні події та давати їм експертну, технічно точну оцінку, "
+        "а не переказ новини своїми словами.\n\n"
         "ФОКУС ТА КРИТЕРІЇ ВІДБОРУ:\n"
         "1. Геополітика Європи та Заходу: пріоритет мають події в країнах ЄС, Великій Британії, США, "
         "країнах Східної та Північної Європи, а також їхня спільна зовнішня політика.\n"
@@ -176,48 +177,60 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, зустріч, саміт чи заяву, яка вже була опублікована вище? "
         'Якщо так — обов\'язково поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
         "Крок 3 (якщо relevant=true і duplicate=false):\n"
-        "- Сформулюй лаконічний, інформативний заголовок українською (до 14 слів).\n"
-        "- Напиши стислий аналітичний коментар (2–3 речення) про геополітичне значення події.\n\n"
+        "- Сформулюй лаконічний, фактологічно точний заголовок українською (до 14 слів), без публіцистичних штампів.\n"
+        "- Напиши аналітичний коментар (3–5 речень) у реєстрі експертного брифінгу, а не журналістського переказу. "
+        "Обов'язково врахуй, де доречно:\n"
+        "  • конкретний інституційний/правовий механізм події (назва угоди, формату перемовин, санкційного пакета, "
+        "статті договору, мандата місії тощо), а не загальні фрази;\n"
+        "  • розстановку інтересів сторін і можливі розбіжності між учасниками, якщо вони є;\n"
+        "  • найближчі практичні наслідки або подальші кроки (наступний раунд перемовин, голосування, ратифікація, "
+        "дедлайн, очікувана реакція третіх держав);\n"
+        "  • за наявності — цифри, суми, терміни чи конкретні зобов'язання, згадані в тексті.\n"
+        "Уникай оціночних кліше на кшталт «підкреслює важливість» чи «демонструє підтримку» без конкретики, "
+        "що саме за ними стоїть.\n\n"
         "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом без markdown-блоків:\n"
         '{"relevant": true, "duplicate": false, "title": "...", "analysis": "..."}'
     )
 
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json",
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
     }
     payload = {
-        "model": GROQ_MODEL,
+        "model": ANTHROPIC_MODEL,
+        "max_tokens": ANTHROPIC_MAX_TOKENS,
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.2,
     }
 
     last_error = None
 
-    for attempt in range(1, GROQ_MAX_RETRIES + 2):  # перша спроба + N ретраїв
-        time.sleep(GROQ_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до Groq
+    for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):  # перша спроба + N ретраїв
+        time.sleep(ANTHROPIC_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до API
         try:
-            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
+            resp = requests.post(ANTHROPIC_API_URL, headers=headers, json=payload, timeout=ANTHROPIC_TIMEOUT)
 
             if resp.status_code == 429:
-                retry_after = GROQ_RETRY_DELAY
+                retry_after = ANTHROPIC_RETRY_DELAY
                 try:
-                    retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
+                    retry_after = float(resp.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
                 except (TypeError, ValueError):
                     pass
-                last_error = f"Groq 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
+                last_error = f"Anthropic 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
                 print(last_error)
                 time.sleep(retry_after)
                 continue
 
             if resp.status_code != 200:
-                last_error = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
+                last_error = f"Anthropic: HTTP {resp.status_code}: {resp.text[:500]}"
                 print(last_error)
-                time.sleep(GROQ_RETRY_DELAY)
+                time.sleep(ANTHROPIC_RETRY_DELAY)
                 continue
 
             data = resp.json()
-            text = data["choices"][0]["message"]["content"].strip()
+            # Відповідь може містити кілька блоків content — беремо текстові та з'єднуємо
+            text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
+            text = "".join(text_blocks).strip()
             text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
 
             parsed = json.loads(text)
@@ -229,14 +242,14 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                 "failed": False,
             }
         except Exception as e:
-            last_error = f"Groq: помилка обробки (спроба {attempt}): {e}"
+            last_error = f"Anthropic: помилка обробки (спроба {attempt}): {e}"
             print(last_error)
-            time.sleep(GROQ_RETRY_DELAY)
+            time.sleep(ANTHROPIC_RETRY_DELAY)
             continue
 
     # Усі спроби вичерпано — НЕ публікуємо наосліп (без fail-open):
     # новина просто повернеться в наступному прогоні.
-    notify_admin(f"Groq не відповів для статті «{title}» після {GROQ_MAX_RETRIES + 1} спроб.\n{last_error}")
+    notify_admin(f"Anthropic API не відповів для статті «{title}» після {ANTHROPIC_MAX_RETRIES + 1} спроб.\n{last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
@@ -309,8 +322,8 @@ def collect_entries():
     return all_entries
 
 
-def format_message(entry, groq_title, groq_analysis):
-    raw_title = groq_title or entry["title"]
+def format_message(entry, ai_title, ai_analysis):
+    raw_title = ai_title or entry["title"]
     clean_title = clean_text(raw_title)
     safe_title = html.escape(clean_title)
     
@@ -323,8 +336,8 @@ def format_message(entry, groq_title, groq_analysis):
         f"🗓 {date_str} | 🏛 {safe_source}",
     ]
 
-    if groq_analysis:
-        clean_analysis = clean_text(groq_analysis)
+    if ai_analysis:
+        clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
         parts += ["", f"🤝 {safe_analysis}"]
 
@@ -353,14 +366,14 @@ def main():
         if not article_text:
             article_text = entry["summary"]
 
-        result = analyze_with_groq(
+        result = analyze_with_claude(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
 
         if result.get("failed"):
-            # Groq тимчасово недоступний для цієї статті — НЕ позначаємо як
+            # Anthropic API тимчасово недоступний для цієї статті — НЕ позначаємо як
             # оброблену, щоб повторити спробу в наступному прогоні.
-            print(f"Пропущено тимчасово (Groq не відповів): {entry['title']}")
+            print(f"Пропущено тимчасово (Anthropic API не відповів): {entry['title']}")
             continue
 
         if not result["relevant"]:

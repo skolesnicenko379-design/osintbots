@@ -30,41 +30,52 @@ ANTHROPIC_MAX_RETRIES = 2
 ANTHROPIC_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
 ANTHROPIC_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом API, щоб не впертися в rate limit
 
-# Розширена та збалансована база геополітичних джерел
+# Джерела, що мають стабільний власний RSS (перевірено — не падають з 404/403)
 FEEDS = [
     # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
 
     # --- Провідні європейські держави ---
-    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
-    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
-    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
     ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
-    ("https://mfa.gov.ua/rss", "МЗС України", False),
-    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
-
-    # --- Трансатлантичні партнери та альянси ---
-    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
-    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
-    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
-    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
 
     # --- Багатосторонні структури та фінанси ---
-    ("https://www.osce.org/rss", "ОБСЄ", True),
     ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
-    ("https://www.imf.org/en/News/RSS", "МВФ", True),
-    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
 ANTHROPIC_MODEL = "claude-sonnet-5"
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MAX_TOKENS = 1024
+
+# ===== GDELT DOC 2.0 API =====
+# Безкоштовний, без ключа, індексує світові медіа й сайти за доменом.
+# Використовуємо для джерел, які втратили власний стабільний RSS
+# (НАТО, Держдеп, Пентагон, ОБСЄ, МВФ, Світовий банк тощо) —
+# тягнемо статті напряму за доменом сайту, а не за адресою фіду,
+# тож зміна структури сайту нас більше не ламає.
+GDELT_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
+GDELT_TIMESPAN = "3d"     # ширше вікно про всяк випадок; реальний відсів за віком робить MAX_ARTICLE_AGE_HOURS нижче
+GDELT_MAX_RECORDS = 20
+
+GDELT_SOURCES = [
+    ("nato.int", "НАТО (GDELT)"),
+    ("eeas.europa.eu", "EEAS (GDELT)"),
+    ("bundesregierung.de", "Уряд Німеччини (GDELT)"),
+    ("bundestag.de", "Бундестаг (GDELT)"),
+    ("diplomatie.gouv.fr", "МЗС Франції (GDELT)"),
+    ("mfa.gov.ua", "МЗС України (GDELT)"),
+    ("president.gov.ua", "Офіс Президента України (GDELT)"),
+    ("state.gov", "Держдеп США (GDELT)"),
+    ("whitehouse.gov", "Білий дім (GDELT)"),
+    ("defense.gov", "Пентагон (GDELT)"),
+    ("osce.org", "ОБСЄ (GDELT)"),
+    ("imf.org", "МВФ (GDELT)"),
+    ("worldbank.org", "Світовий банк (GDELT)"),
+]
 
 
 def notify_admin(message):
@@ -322,6 +333,63 @@ def collect_entries():
     return all_entries
 
 
+def fetch_gdelt_domain(domain):
+    params = {
+        "query": f"domain:{domain}",
+        "mode": "artlist",
+        "format": "json",
+        "maxrecords": GDELT_MAX_RECORDS,
+        "timespan": GDELT_TIMESPAN,
+        "sort": "DateDesc",
+    }
+    try:
+        resp = requests.get(GDELT_API_URL, params=params, timeout=15, impersonate="chrome120")
+        resp.raise_for_status()
+        data = resp.json()
+        return data.get("articles", []) or []
+    except Exception as e:
+        print(f"Не вдалося отримати дані GDELT для домену {domain}: {e}")
+        return []
+
+
+def collect_gdelt_entries():
+    all_entries = []
+    now_utc = datetime.now(timezone.utc)
+    max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
+
+    for domain, source_label in GDELT_SOURCES:
+        articles = fetch_gdelt_domain(domain)
+
+        for art in articles:
+            link = art.get("url")
+            seen = art.get("seendate")
+            if not link or not seen:
+                continue
+
+            # Формат GDELT: "20260816T120000Z"
+            try:
+                published_dt = datetime.strptime(seen, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc)
+            except ValueError:
+                continue
+
+            # ФІЛЬТР: Тільки публікації за останні 24 години (той самий поріг, що й для RSS)
+            if (now_utc - published_dt) > max_age_delta:
+                continue
+
+            all_entries.append({
+                "link": link.strip(),
+                "title": art.get("title") or "Без заголовка",
+                # GDELT у режимі artlist не віддає текст/опис статті — його підтягне
+                # fetch_article_text() у main(), як і для звичайних RSS-записів без summary.
+                "summary": "",
+                "source": source_label,
+                "published": published_dt,
+            })
+
+    all_entries.sort(key=lambda e: e["published"], reverse=True)
+    return all_entries
+
+
 def format_message(entry, ai_title, ai_analysis):
     raw_title = ai_title or entry["title"]
     clean_title = clean_text(raw_title)
@@ -348,7 +416,14 @@ def format_message(entry, ai_title, ai_analysis):
 
 def main():
     history = load_history()
-    entries = collect_entries()
+
+    rss_entries = collect_entries()
+    gdelt_entries = collect_gdelt_entries()
+    print(f"Зібрано: {len(rss_entries)} з RSS, {len(gdelt_entries)} з GDELT")
+
+    entries = rss_entries + gdelt_entries
+    entries.sort(key=lambda e: e["published"], reverse=True)
+
     new_posts = 0
     checked = 0
 

@@ -25,10 +25,12 @@ MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за о
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
+
+# Оптимізовані налаштування для ПЛАТНОГО акаунту Anthropic
 ANTHROPIC_TIMEOUT = 45          # пауза очікування відповіді моделі
 ANTHROPIC_MAX_RETRIES = 2
-ANTHROPIC_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
-ANTHROPIC_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом API, щоб не впертися в rate limit
+ANTHROPIC_RETRY_DELAY = 2       # базова пауза між спробами (секунди)
+ANTHROPIC_CALL_DELAY = 0.2      # мікропауза ПЕРЕД кожним викликом API (швидкий режим)
 
 # Джерела, що мають стабільний власний RSS (перевірено — не падають з 404/403)
 FEEDS = [

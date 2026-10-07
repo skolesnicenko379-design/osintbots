@@ -15,10 +15,12 @@ import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-ADMIN_ID = os.environ.get("ADMIN_ID")
+# Використовуємо .strip() щоб видалити випадкові \n (Enter) або пробіли,
+# які могли потрапити при копіюванні ключа в GitHub Secrets.
+TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip()
+CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
+ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
+ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
@@ -49,7 +51,13 @@ FEEDS = [
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
 ]
 
-ANTHROPIC_MODEL = "claude-3-5-sonnet-latest"
+# Бот спробує першу модель; якщо сервер відповість 404 (Not Found), 
+# перейде до наступної стабільної датованої версії.
+ANTHROPIC_MODELS = [
+    "claude-3-5-sonnet-latest",
+    "claude-3-5-sonnet-20241022",
+    "claude-3-5-sonnet-20240620"
+]
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_MAX_TOKENS = 1024
 
@@ -208,64 +216,73 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
         "anthropic-version": "2023-06-01",
         "content-type": "application/json",
     }
-    payload = {
-        "model": ANTHROPIC_MODEL,
-        "max_tokens": ANTHROPIC_MAX_TOKENS,
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    data_bytes = json.dumps(payload).encode("utf-8")
 
     last_error = None
 
-    for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):
-        time.sleep(ANTHROPIC_CALL_DELAY)
-        try:
-            req = urllib.request.Request(
-                ANTHROPIC_API_URL,
-                data=data_bytes,
-                headers=headers,
-                method="POST"
-            )
-            with urllib.request.urlopen(req, timeout=ANTHROPIC_TIMEOUT) as response:
-                response_body = response.read().decode("utf-8")
-                data = json.loads(response_body)
+    # Перебираємо список моделей, поки не знайдемо ту, яка працює
+    for current_model in ANTHROPIC_MODELS:
+        payload = {
+            "model": current_model,
+            "max_tokens": ANTHROPIC_MAX_TOKENS,
+            "messages": [{"role": "user", "content": prompt}],
+        }
+        data_bytes = json.dumps(payload).encode("utf-8")
 
-                text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
-                text = "".join(text_blocks).strip()
-                text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+        for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):
+            time.sleep(ANTHROPIC_CALL_DELAY)
+            try:
+                req = urllib.request.Request(
+                    ANTHROPIC_API_URL,
+                    data=data_bytes,
+                    headers=headers,
+                    method="POST"
+                )
+                with urllib.request.urlopen(req, timeout=ANTHROPIC_TIMEOUT) as response:
+                    response_body = response.read().decode("utf-8")
+                    data = json.loads(response_body)
 
-                parsed = json.loads(text)
-                return {
-                    "relevant": bool(parsed.get("relevant", True)),
-                    "duplicate": bool(parsed.get("duplicate", False)),
-                    "title": parsed.get("title"),
-                    "analysis": parsed.get("analysis"),
-                    "failed": False,
-                }
-        except urllib.error.HTTPError as e:
-            if e.code == 429:
-                retry_after = ANTHROPIC_RETRY_DELAY
-                try:
-                    retry_after = float(e.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
-                except:
-                    pass
-                last_error = f"Anthropic 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
-                print(last_error)
-                time.sleep(retry_after)
-                continue
-            else:
-                error_body = e.read().decode("utf-8")
-                last_error = f"Anthropic: HTTP {e.code}: {error_body[:500]}"
+                    text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
+                    text = "".join(text_blocks).strip()
+                    text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+
+                    parsed = json.loads(text)
+                    return {
+                        "relevant": bool(parsed.get("relevant", True)),
+                        "duplicate": bool(parsed.get("duplicate", False)),
+                        "title": parsed.get("title"),
+                        "analysis": parsed.get("analysis"),
+                        "failed": False,
+                    }
+            except urllib.error.HTTPError as e:
+                if e.code == 404: 
+                    # Якщо модель не знайдена, перериваємо ретраї і йдемо до наступної моделі
+                    print(f"Модель {current_model} не знайдена (404). Пробую наступну...")
+                    break 
+                
+                if e.code == 429:
+                    retry_after = ANTHROPIC_RETRY_DELAY
+                    try:
+                        retry_after = float(e.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
+                    except:
+                        pass
+                    last_error = f"Anthropic 429 (rate limit) для {current_model}, чекаю {retry_after}с"
+                    print(last_error)
+                    time.sleep(retry_after)
+                    continue
+                else:
+                    error_body = e.read().decode("utf-8")
+                    last_error = f"Anthropic HTTP {e.code} для {current_model}: {error_body[:500]}"
+                    print(last_error)
+                    time.sleep(ANTHROPIC_RETRY_DELAY)
+                    continue
+            except Exception as e:
+                last_error = f"Anthropic помилка для {current_model} (спроба {attempt}): {e}"
                 print(last_error)
                 time.sleep(ANTHROPIC_RETRY_DELAY)
                 continue
-        except Exception as e:
-            last_error = f"Anthropic: помилка обробки (спроба {attempt}): {e}"
-            print(last_error)
-            time.sleep(ANTHROPIC_RETRY_DELAY)
-            continue
 
-    notify_admin(f"Anthropic API не відповів для статті «{title}» після {ANTHROPIC_MAX_RETRIES + 1} спроб.\n{last_error}")
+    # Якщо ми пройшли всі моделі і всі спроби провалилися
+    notify_admin(f"Anthropic API не відповів для статті «{title}» на жодній з моделей після всіх спроб.\nОстання помилка: {last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 

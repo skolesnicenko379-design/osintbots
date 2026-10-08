@@ -4,67 +4,80 @@ import json
 import time
 import html
 import traceback
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone, timedelta
 
-# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
-from curl_cffi import requests
+# Використовуємо curl_cffi ТІЛЬКИ для парсингу сайтів, щоб обходити захист Cloudflare.
+from curl_cffi import requests as curl_requests
 import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-ADMIN_ID = os.environ.get("ADMIN_ID")
+TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip()
+CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
+ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
+ANTHROPIC_WORKSPACE_ID = (os.environ.get("ANTHROPIC_WORKSPACE_ID") or "").strip()
+ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
 MAX_ENTRIES_CHECKED_PER_RUN = 50
 RECENT_POSTS_FOR_DEDUP = 20
-MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за останні 24 години
+MAX_ARTICLE_AGE_HOURS = 24
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
-GROQ_TIMEOUT = 45          # 120b-модель відповідає довше, ніж звичайний REQUEST_TIMEOUT
-GROQ_MAX_RETRIES = 2
-GROQ_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
-GROQ_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом Groq, щоб не впертися в rate limit
 
-# Розширена та збалансована база геополітичних джерел
+ANTHROPIC_TIMEOUT = 45
+ANTHROPIC_MAX_RETRIES = 2
+ANTHROPIC_RETRY_DELAY = 2
+ANTHROPIC_CALL_DELAY = 0.2
+
 FEEDS = [
-    # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-
-    # --- Провідні європейські держави ---
-    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
-    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
-    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
     ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
-    ("https://mfa.gov.ua/rss", "МЗС України", False),
-    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
-
-    # --- Трансатлантичні партнери та альянси ---
-    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
-    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
-    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
-    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
-
-    # --- Багатосторонні структури та фінанси ---
-    ("https://www.osce.org/rss", "ОБСЄ", True),
-    ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
-    ("https://www.imf.org/en/News/RSS", "МВФ", True),
-    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
-GROQ_MODEL = "openai/gpt-oss-120b"
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+ANTHROPIC_MODELS = [
+    "claude-3-5-sonnet-20241022",
+    "claude-3-5-sonnet-20240620",
+    "claude-3-5-sonnet-latest",
+    "claude-3-opus-20240229",
+    "claude-3-sonnet-20240229",
+    "claude-3-haiku-20240307"
+]
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MAX_TOKENS = 1024
 
+GOOGLE_NEWS_SITE_SOURCES = [
+    ("nato.int", "НАТО (Google News)"),
+    ("eeas.europa.eu", "EEAS (Google News)"),
+    ("bundesregierung.de", "Уряд Німеччини (Google News)"),
+    ("bundestag.de", "Бундестаг (Google News)"),
+    ("diplomatie.gouv.fr", "МЗС Франції (Google News)"),
+    ("mfa.gov.ua", "МЗС України (Google News)"),
+    ("president.gov.ua", "Офіс Президента України (Google News)"),
+    ("state.gov", "Держдеп США (Google News)"),
+    ("whitehouse.gov", "Білий дім (Google News)"),
+    ("defense.gov", "Пентагон (Google News)"),
+    ("osce.org", "ОБСЄ (Google News)"),
+    ("imf.org", "МВФ (Google News)"),
+    ("worldbank.org", "Світовий банк (Google News)"),
+    ("press.un.org", "ООН (Google News)"),
+]
+
+for _domain, _label in GOOGLE_NEWS_SITE_SOURCES:
+    FEEDS.append((
+        f"https://news.google.com/rss/search?q=site:{_domain}&hl=en-US&gl=US&ceid=US:en",
+        _label,
+        True,
+    ))
 
 def notify_admin(message):
     if not ADMIN_ID:
@@ -72,11 +85,12 @@ def notify_admin(message):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
+    data_bytes = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data_bytes, headers={"Content-Type": "application/json"}, method="POST")
     try:
-        requests.post(url, json=payload, timeout=10)
+        urllib.request.urlopen(req, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
-
 
 def clean_text(text: str) -> str:
     if not text:
@@ -85,24 +99,16 @@ def clean_text(text: str) -> str:
     text = re.sub(r'</?[a-zA-Z0-9]+>', '', text)
     return text.strip()
 
-
 def strip_html(raw):
     return re.sub(r"\s+", " ", BeautifulSoup(raw or "", "html.parser").get_text()).strip()
 
-
 def fetch_article_text(url):
     try:
-        resp = requests.get(
-            url,
-            timeout=ARTICLE_FETCH_TIMEOUT,
-            impersonate="chrome120"
-        )
+        resp = curl_requests.get(url, timeout=ARTICLE_FETCH_TIMEOUT, impersonate="chrome120")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
-
         for tag in soup(["script", "style", "nav", "header", "footer", "aside", "form"]):
             tag.decompose()
-
         article = soup.find("article") or soup.find(class_=re.compile(r"(article|post|entry)[-_]?(content|body)", re.I))
         container = article if article else soup
         paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
@@ -111,7 +117,6 @@ def fetch_article_text(url):
     except Exception as e:
         print(f"Не вдалося завантажити текст статті ({url}): {e}")
         return ""
-
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -122,27 +127,20 @@ def load_history():
                 data = {}
     else:
         data = {}
-
     if isinstance(data, list):
         data = {"links": data, "recent_posts": []}
-
     data.setdefault("links", [])
     data.setdefault("recent_posts", [])
     return data
 
-
 def save_history(history):
-    # Зберігаємо до 1200 посилань для надійного захисту від повторів
     history["links"] = list(dict.fromkeys(history["links"]))[-1200:]
     history["recent_posts"] = history["recent_posts"][-RECENT_POSTS_FOR_DEDUP:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-
-def analyze_with_groq(title, article_text, source_name, recent_posts):
-    # Якщо ключ взагалі не налаштований — це свідомий режим "без фільтрації",
-    # а не збій: публікуємо як є (без перекладу/аналізу) без пропуску.
-    if not GROQ_API_KEY:
+def analyze_with_claude(title, article_text, source_name, recent_posts):
+    if not ANTHROPIC_API_KEY:
         return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "failed": False}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
@@ -152,10 +150,10 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         )
 
     prompt = (
-        "Ти — аналітик та редактор європейського й трансатлантичного геополітичного каналу. "
-        "Твоя мета: відбирати та аналізувати ключові міжнародні події, міждержавні переговори, "
-        "двосторонні та багатосторонні саміти, альянси (НАТО, ЄС, G7), рішення з безпеки й оборони, "
-        "санкційну політику та макроекономічні зсуви.\n\n"
+        "Ти — старший геополітичний аналітик і редактор трансатлантичного дипломатичного каналу, "
+        "який пише для фахової аудиторії: дипломатів, аналітиків think tank'ів та журналістів-міжнародників. "
+        "Твоя мета — відбирати значущі міжнародні події та давати їм експертну, технічно точну оцінку, "
+        "а не переказ новини своїми словами.\n\n"
         "ФОКУС ТА КРИТЕРІЇ ВІДБОРУ:\n"
         "1. Геополітика Європи та Заходу: пріоритет мають події в країнах ЄС, Великій Британії, США, "
         "країнах Східної та Північної Європи, а також їхня спільна зовнішня політика.\n"
@@ -176,69 +174,95 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, зустріч, саміт чи заяву, яка вже була опублікована вище? "
         'Якщо так — обов\'язково поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
         "Крок 3 (якщо relevant=true і duplicate=false):\n"
-        "- Сформулюй лаконічний, інформативний заголовок українською (до 14 слів).\n"
-        "- Напиши стислий аналітичний коментар (2–3 речення) про геополітичне значення події.\n\n"
+        "- Сформулюй лаконічний, фактологічно точний заголовок українською (до 14 слів), без публіцистичних штампів.\n"
+        "- Напиши аналітичний коментар (3–5 речень) у реєстрі експертного брифінгу, а не журналістського переказу. "
+        "Обов'язково врахуй, де доречно:\n"
+        "  • конкретний інституційний/правовий механізм події (назва угоди, формату перемовин, санкційного пакета, "
+        "статті договору, мандата місії тощо), а не загальні фрази;\n"
+        "  • розстановку інтересів сторін і можливі розбіжності між учасниками, якщо вони є;\n"
+        "  • найближчі практичні наслідки або подальші кроки (наступний раунд перемовин, голосування, ратифікація, "
+        "дедлайн, очікувана реакція третіх держав);\n"
+        "  • за наявності — цифри, суми, терміни чи конкретні зобов'язання, згадані в тексті.\n"
+        "Уникай оціночних кліше на кшталт «підкреслює важливість» чи «демонструє підтримку» без конкретики, "
+        "що саме за ними стоїть.\n\n"
         "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом без markdown-блоків:\n"
         '{"relevant": true, "duplicate": false, "title": "...", "analysis": "..."}'
     )
 
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json",
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
     }
-    payload = {
-        "model": GROQ_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.2,
-    }
+    
+    # ПІДКЛЮЧЕННЯ WORKSPACE ID
+    if ANTHROPIC_WORKSPACE_ID:
+        headers["anthropic-workspace-id"] = ANTHROPIC_WORKSPACE_ID
 
     last_error = None
 
-    for attempt in range(1, GROQ_MAX_RETRIES + 2):  # перша спроба + N ретраїв
-        time.sleep(GROQ_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до Groq
-        try:
-            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
+    for current_model in ANTHROPIC_MODELS:
+        payload = {
+            "model": current_model,
+            "max_tokens": ANTHROPIC_MAX_TOKENS,
+            "messages": [{"role": "user", "content": prompt}],
+        }
+        data_bytes = json.dumps(payload).encode("utf-8")
 
-            if resp.status_code == 429:
-                retry_after = GROQ_RETRY_DELAY
-                try:
-                    retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
-                except (TypeError, ValueError):
-                    pass
-                last_error = f"Groq 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
+        for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):
+            time.sleep(ANTHROPIC_CALL_DELAY)
+            try:
+                req = urllib.request.Request(
+                    ANTHROPIC_API_URL,
+                    data=data_bytes,
+                    headers=headers,
+                    method="POST"
+                )
+                with urllib.request.urlopen(req, timeout=ANTHROPIC_TIMEOUT) as response:
+                    response_body = response.read().decode("utf-8")
+                    data = json.loads(response_body)
+
+                    text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
+                    text = "".join(text_blocks).strip()
+                    text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+
+                    parsed = json.loads(text)
+                    return {
+                        "relevant": bool(parsed.get("relevant", True)),
+                        "duplicate": bool(parsed.get("duplicate", False)),
+                        "title": parsed.get("title"),
+                        "analysis": parsed.get("analysis"),
+                        "failed": False,
+                    }
+            except urllib.error.HTTPError as e:
+                if e.code == 404: 
+                    print(f"Модель {current_model} не знайдена (404). Пробую наступну...")
+                    break 
+                
+                if e.code == 429:
+                    retry_after = ANTHROPIC_RETRY_DELAY
+                    try:
+                        retry_after = float(e.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
+                    except:
+                        pass
+                    last_error = f"Anthropic 429 (rate limit) для {current_model}, чекаю {retry_after}с"
+                    print(last_error)
+                    time.sleep(retry_after)
+                    continue
+                else:
+                    error_body = e.read().decode("utf-8")
+                    last_error = f"Anthropic HTTP {e.code} для {current_model}: {error_body[:500]}"
+                    print(last_error)
+                    time.sleep(ANTHROPIC_RETRY_DELAY)
+                    continue
+            except Exception as e:
+                last_error = f"Anthropic помилка для {current_model} (спроба {attempt}): {e}"
                 print(last_error)
-                time.sleep(retry_after)
+                time.sleep(ANTHROPIC_RETRY_DELAY)
                 continue
 
-            if resp.status_code != 200:
-                last_error = f"Groq: HTTP {resp.status_code}: {resp.text[:500]}"
-                print(last_error)
-                time.sleep(GROQ_RETRY_DELAY)
-                continue
-
-            data = resp.json()
-            text = data["choices"][0]["message"]["content"].strip()
-            text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
-
-            parsed = json.loads(text)
-            return {
-                "relevant": bool(parsed.get("relevant", True)),
-                "duplicate": bool(parsed.get("duplicate", False)),
-                "title": parsed.get("title"),
-                "analysis": parsed.get("analysis"),
-                "failed": False,
-            }
-        except Exception as e:
-            last_error = f"Groq: помилка обробки (спроба {attempt}): {e}"
-            print(last_error)
-            time.sleep(GROQ_RETRY_DELAY)
-            continue
-
-    # Усі спроби вичерпано — НЕ публікуємо наосліп (без fail-open):
-    # новина просто повернеться в наступному прогоні.
-    notify_admin(f"Groq не відповів для статті «{title}» після {GROQ_MAX_RETRIES + 1} спроб.\n{last_error}")
+    notify_admin(f"Anthropic API не відповів для статті «{title}» на жодній з моделей після всіх спроб.\nОстання помилка: {last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
-
 
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -248,19 +272,31 @@ def send_to_telegram(text):
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
     }
+    data_bytes = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data_bytes, headers={"Content-Type": "application/json"}, method="POST")
     try:
-        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
-        if response.status_code == 429:
-            retry_after = response.json().get("parameters", {}).get("retry_after", 5)
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
+            return response.status == 200
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            try:
+                resp_data = json.loads(e.read().decode("utf-8"))
+                retry_after = resp_data.get("parameters", {}).get("retry_after", 5)
+            except:
+                retry_after = 5
             print(f"Telegram rate limit, чекаю {retry_after}с")
             time.sleep(retry_after)
-            response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
-        return response.status_code == 200
+            try:
+                with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response2:
+                    return response2.status == 200
+            except:
+                return False
+        print(f"Помилка запиту до Telegram: HTTP {e.code}")
+        return False
     except Exception as e:
         print(f"Помилка запиту до Telegram: {e}")
         notify_admin(f"Помилка з'єднання з Telegram API: {e}")
         return False
-
 
 def collect_entries():
     all_entries = []
@@ -269,7 +305,7 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
+            resp = curl_requests.get(feed_url, timeout=REQUEST_TIMEOUT, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
@@ -284,15 +320,11 @@ def collect_entries():
             if not link:
                 continue
 
-            # Обробка дати публікації
             published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
             if not published_struct:
-                # Якщо дати немає взагалі — ігноруємо, щоб не тягнути застарілі архіви
                 continue
 
             published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-
-            # ФІЛЬТР: Тільки публікації за останні 24 години
             if (now_utc - published_dt) > max_age_delta:
                 continue
 
@@ -304,13 +336,11 @@ def collect_entries():
                 "published": published_dt,
             })
 
-    # Сортування: від найсвіжіших до старіших
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries
 
-
-def format_message(entry, groq_title, groq_analysis):
-    raw_title = groq_title or entry["title"]
+def format_message(entry, ai_title, ai_analysis):
+    raw_title = ai_title or entry["title"]
     clean_title = clean_text(raw_title)
     safe_title = html.escape(clean_title)
     
@@ -323,8 +353,8 @@ def format_message(entry, groq_title, groq_analysis):
         f"🗓 {date_str} | 🏛 {safe_source}",
     ]
 
-    if groq_analysis:
-        clean_analysis = clean_text(groq_analysis)
+    if ai_analysis:
+        clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
         parts += ["", f"🤝 {safe_analysis}"]
 
@@ -332,10 +362,11 @@ def format_message(entry, groq_title, groq_analysis):
     parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']
     return "\n".join(parts)
 
-
 def main():
     history = load_history()
     entries = collect_entries()
+    print(f"Зібрано свіжих записів з усіх {len(FEEDS)} фідів: {len(entries)}")
+
     new_posts = 0
     checked = 0
 
@@ -343,24 +374,20 @@ def main():
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
         
-        # Перевірка на унікальність лінка
         if entry["link"] in history["links"]:
             continue
 
         checked += 1
-
         article_text = fetch_article_text(entry["link"])
         if not article_text:
             article_text = entry["summary"]
 
-        result = analyze_with_groq(
+        result = analyze_with_claude(
             entry["title"], article_text, entry["source"], history["recent_posts"]
         )
 
         if result.get("failed"):
-            # Groq тимчасово недоступний для цієї статті — НЕ позначаємо як
-            # оброблену, щоб повторити спробу в наступному прогоні.
-            print(f"Пропущено тимчасово (Groq не відповів): {entry['title']}")
+            print(f"Пропущено тимчасово (Anthropic API не відповів): {entry['title']}")
             continue
 
         if not result["relevant"]:
@@ -390,7 +417,6 @@ def main():
 
     save_history(history)
     print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
-
 
 if __name__ == "__main__":
     if TELEGRAM_TOKEN and CHANNEL_ID:

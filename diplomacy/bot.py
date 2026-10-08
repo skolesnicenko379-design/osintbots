@@ -141,7 +141,8 @@ def save_history(history):
 
 def analyze_with_claude(title, article_text, source_name, recent_posts):
     if not ANTHROPIC_API_KEY:
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "failed": False}
+        print("КРИТИЧНА ПОМИЛКА: ANTHROPIC_API_KEY не знайдено в середовищі виконання!")
+        return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
     if recent_posts:
@@ -150,4 +151,268 @@ def analyze_with_claude(title, article_text, source_name, recent_posts):
         )
 
     prompt = (
-        "Ти — старший геополітичний аналітик
+        "Ти — старший геополітичний аналітик і редактор трансатлантичного дипломатичного каналу, "
+        "який пише для фахової аудиторії: дипломатів, аналітиків think tank'ів та журналістів-міжнародників. "
+        "Твоя мета — відбирати значущі міжнародні події та давати їм експертну, технічно точну оцінку.\n\n"
+        "ФОКУС ТА КРИТЕРІЇ ВІДБОРУ:\n"
+        "1. Геополітика Європи та Заходу: пріоритет мають події в країнах ЄС, Великій Британії, США, "
+        "країнах Східної та Північної Європи, а також їхня спільна зовнішня політика.\n"
+        "2. Рівень акторів: важливими є чинні глави держав, міністри, керівники партій, очільники ЄК, НАТО.\n"
+        "3. Локальний шум: відсіюй суто внутрішньополітичні дрібні суперечки.\n\n"
+        f"Джерело: {source_name}\n"
+        f"Заголовок: {title}\n\n"
+        f"Текст статті:\n{article_text}\n\n"
+        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для перевірки на дубль):\n"
+        f"{recent_block}\n\n"
+        "ВИМОГИ ДО ВІДПОВІДІ (СУВОРО ДОТРИМУЙСЯ СТРУКТУРИ):\n"
+        "1. Якщо подія нерелевантна або дублює попередні — поверни:\n"
+        '{"relevant": false, "duplicate": false, "title": null, "analysis": null}\n\n'
+        "2. Якщо подія важлива (relevant=true, duplicate=false), ти ЗОБОВ'ЯЗАНИЙ заповнити поля:\n"
+        '- "title": Сформуй лаконічний, фактологічно точний заголовок УКРАЇНСЬКОЮ МОВОЮ (до 14 слів), без штампів.\n'
+        '- "analysis": Напиши глибокий аналітичний коментар (3–5 речень) українською у реєстрі експертного брифінгу. Вкажи правові механізми, інтереси сторін, цифри чи терміни з тексту.\n\n'
+        "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом без жодних додаткових символів чи markdown-обгорток:\n"
+        '{"relevant": true, "duplicate": false, "title": "Твій заголовок українською", "analysis": "Твій аналітичний текст..."}'
+    )
+
+    headers = {
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    
+    if ANTHROPIC_WORKSPACE_ID:
+        headers["anthropic-workspace-id"] = ANTHROPIC_WORKSPACE_ID
+
+    last_error = None
+
+    for current_model in ANTHROPIC_MODELS:
+        payload = {
+            "model": current_model,
+            "max_tokens": ANTHROPIC_MAX_TOKENS,
+            "messages": [{"role": "user", "content": prompt}],
+        }
+        data_bytes = json.dumps(payload).encode("utf-8")
+
+        for attempt in range(1, ANTHROPIC_MAX_RETRIES + 2):
+            time.sleep(ANTHROPIC_CALL_DELAY)
+            try:
+                req = urllib.request.Request(
+                    ANTHROPIC_API_URL,
+                    data=data_bytes,
+                    headers=headers,
+                    method="POST"
+                )
+                with urllib.request.urlopen(req, timeout=ANTHROPIC_TIMEOUT) as response:
+                    response_body = response.read().decode("utf-8")
+                    data = json.loads(response_body)
+
+                    text_blocks = [b.get("text", "") for b in data.get("content", []) if b.get("type") == "text"]
+                    text = "".join(text_blocks).strip()
+                    text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
+
+                    parsed = json.loads(text)
+                    
+                    ai_title = parsed.get("title")
+                    ai_analysis = parsed.get("analysis")
+
+                    return {
+                        "relevant": bool(parsed.get("relevant", True)),
+                        "duplicate": bool(parsed.get("duplicate", False)),
+                        "title": ai_title if ai_title else title,
+                        "analysis": ai_analysis if ai_analysis else "Подія наразі аналізується експертною групою.",
+                        "failed": False,
+                    }
+            except urllib.error.HTTPError as e:
+                if e.code == 404: 
+                    print(f"Модель {current_model} не знайдена (404). Пробую наступну...")
+                    break 
+                
+                if e.code == 429:
+                    retry_after = ANTHROPIC_RETRY_DELAY
+                    try:
+                        retry_after = float(e.headers.get("retry-after", ANTHROPIC_RETRY_DELAY))
+                    except:
+                        pass
+                    last_error = f"Anthropic 429 (rate limit) для {current_model}, чекаю {retry_after}с"
+                    print(last_error)
+                    time.sleep(retry_after)
+                    continue
+                else:
+                    error_body = e.read().decode("utf-8")
+                    last_error = f"Anthropic HTTP {e.code} для {current_model}: {error_body[:500]}"
+                    print(last_error)
+                    time.sleep(ANTHROPIC_RETRY_DELAY)
+                    continue
+            except Exception as e:
+                last_error = f"Anthropic помилка для {current_model} (спроба {attempt}): {e}"
+                print(last_error)
+                time.sleep(ANTHROPIC_RETRY_DELAY)
+                continue
+
+    notify_admin(f"Anthropic API не відповів для статті «{title}» на жодній з моделей після всіх спроб.\nОстання помилка: {last_error}")
+    return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
+
+def send_to_telegram(text):
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHANNEL_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False,
+    }
+    data_bytes = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data_bytes, headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response:
+            return response.status == 200
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            try:
+                resp_data = json.loads(e.read().decode("utf-8"))
+                retry_after = resp_data.get("parameters", {}).get("retry_after", 5)
+            except:
+                retry_after = 5
+            print(f"Telegram rate limit, чекаю {retry_after}с")
+            time.sleep(retry_after)
+            try:
+                with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as response2:
+                    return response2.status == 200
+            except:
+                return False
+        print(f"Помилка запиту до Telegram: HTTP {e.code}")
+        return False
+    except Exception as e:
+        print(f"Помилка запиту до Telegram: {e}")
+        notify_admin(f"Помилка з'єднання з Telegram API: {e}")
+        return False
+
+def collect_entries():
+    all_entries = []
+    now_utc = datetime.now(timezone.utc)
+    max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
+
+    for feed_url, source_name, needs_translation in FEEDS:
+        try:
+            resp = curl_requests.get(feed_url, timeout=REQUEST_TIMEOUT, impersonate="chrome120")
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+        except Exception as e:
+            print(f"Не вдалося завантажити фід {source_name} ({feed_url}): {e}")
+            continue
+
+        if getattr(feed, "bozo", False) and not feed.entries:
+            continue
+
+        for entry in feed.entries[:10]:
+            link = entry.get("link")
+            if not link:
+                continue
+
+            published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+            if not published_struct:
+                continue
+
+            published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
+            if (now_utc - published_dt) > max_age_delta:
+                continue
+
+            all_entries.append({
+                "link": link.strip(),
+                "title": entry.get("title", "Без заголовка"),
+                "summary": strip_html(entry.get("summary", ""))[:1500],
+                "source": source_name,
+                "published": published_dt,
+            })
+
+    all_entries.sort(key=lambda e: e["published"], reverse=True)
+    return all_entries
+
+def format_message(entry, ai_title, ai_analysis):
+    raw_title = ai_title or entry["title"]
+    clean_title = clean_text(raw_title)
+    safe_title = html.escape(clean_title)
+    
+    date_str = entry["published"].strftime("%d.%m.%Y")
+    safe_source = html.escape(entry['source'])
+
+    parts = [
+        f"<b>{safe_title}</b>",
+        "",
+        f"🗓 {date_str} | 🏛 {safe_source}",
+    ]
+
+    if ai_analysis:
+        clean_analysis = clean_text(ai_analysis)
+        safe_analysis = html.escape(clean_analysis)
+        parts += ["", f"🤝 {safe_analysis}"]
+
+    safe_link = entry['link'].replace('"', '%22')
+    parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']
+    return "\n".join(parts)
+
+def main():
+    history = load_history()
+    entries = collect_entries()
+    print(f"Зібрано свіжих записів з усіх {len(FEEDS)} фідів: {len(entries)}")
+
+    new_posts = 0
+    checked = 0
+
+    for entry in entries:
+        if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
+            break
+        
+        if entry["link"] in history["links"]:
+            continue
+
+        checked += 1
+        article_text = fetch_article_text(entry["link"])
+        if not article_text:
+            article_text = entry["summary"]
+
+        result = analyze_with_claude(
+            entry["title"], article_text, entry["source"], history["recent_posts"]
+        )
+
+        if result.get("failed"):
+            print(f"Пропущено тимчасово (Anthropic API не відповів): {entry['title']}")
+            continue
+
+        if not result["relevant"]:
+            history["links"].append(entry["link"])
+            print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
+            continue
+
+        if result["duplicate"]:
+            history["links"].append(entry["link"])
+            print(f"Пропущено (дублює вже опубліковану подію): {entry['title']}")
+            continue
+
+        message = format_message(entry, result["title"], result["analysis"])
+
+        if send_to_telegram(message):
+            history["links"].append(entry["link"])
+            history["recent_posts"].append({
+                "title": result["title"] or entry["title"],
+                "summary": (result["analysis"] or entry["summary"])[:300],
+                "source": entry["source"],
+            })
+            new_posts += 1
+            print(f"Опубліковано: {entry['title']}")
+            time.sleep(3)
+        else:
+            print(f"Не вдалося опублікувати: {entry['title']}")
+
+    save_history(history)
+    print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
+
+if __name__ == "__main__":
+    if TELEGRAM_TOKEN and CHANNEL_ID:
+        try:
+            main()
+        except Exception as e:
+            error_trace = traceback.format_exc()
+            print(f"Критична помилка виконання:\n{error_trace}")
+            notify_admin(f"Критичне падіння скрипта:\n{error_trace}")
+    else:
+        print("Помилка: TELEGRAM_TOKEN або CHANNEL_ID не задано.")

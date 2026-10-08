@@ -7,15 +7,16 @@ import traceback
 from datetime import datetime, timezone, timedelta
 
 # Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
-from curl_cffi import requests
+from curl_cffi import requests as curl_requests
 import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-CHANNEL_ID = os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-ADMIN_ID = os.environ.get("ADMIN_ID")
+# Автоматично очищаємо ключі від випадкових лапок і пробілів
+TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
+CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
+GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
+ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
@@ -25,17 +26,17 @@ MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за о
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
-GROQ_TIMEOUT = 45          # 120b-модель відповідає довше, ніж звичайний REQUEST_TIMEOUT
+GROQ_TIMEOUT = 45          
 GROQ_MAX_RETRIES = 2
-GROQ_RETRY_DELAY = 4       # базова пауза між спробами (секунди)
-GROQ_CALL_DELAY = 1.5      # пауза ПЕРЕД кожним викликом Groq, щоб не впертися в rate limit
+GROQ_RETRY_DELAY = 4       
+GROQ_CALL_DELAY = 3        # Затримка між запитами до Groq (щоб уникнути Rate Limit 429)
 
-# Розширена та збалансована база геополітичних джерел
+# Твоя чудова розширена база джерел (без Google News!)
 FEEDS = [
     # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.eeas.europa.eu/rss.xml", "EEAS (Дипломатія ЄС)", True),
+    ("https://www.eeas.europa.eu/rss.xml", "EEAS", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
 
     # --- Провідні європейські держави ---
@@ -62,7 +63,8 @@ FEEDS = [
     ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
-GROQ_MODEL = "openai/gpt-oss-120b"
+# Реальна, найпотужніша модель Groq для аналітики
+GROQ_MODEL = "llama-3.1-70b-versatile"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
@@ -73,7 +75,7 @@ def notify_admin(message):
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
     try:
-        requests.post(url, json=payload, timeout=10)
+        curl_requests.post(url, json=payload, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
 
@@ -92,11 +94,7 @@ def strip_html(raw):
 
 def fetch_article_text(url):
     try:
-        resp = requests.get(
-            url,
-            timeout=ARTICLE_FETCH_TIMEOUT,
-            impersonate="chrome120"
-        )
+        resp = curl_requests.get(url, timeout=ARTICLE_FETCH_TIMEOUT, impersonate="chrome120")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -132,7 +130,6 @@ def load_history():
 
 
 def save_history(history):
-    # Зберігаємо до 1200 посилань для надійного захисту від повторів
     history["links"] = list(dict.fromkeys(history["links"]))[-1200:]
     history["recent_posts"] = history["recent_posts"][-RECENT_POSTS_FOR_DEDUP:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
@@ -140,10 +137,10 @@ def save_history(history):
 
 
 def analyze_with_groq(title, article_text, source_name, recent_posts):
-    # Якщо ключ взагалі не налаштований — це свідомий режим "без фільтрації",
-    # а не збій: публікуємо як є (без перекладу/аналізу) без пропуску.
+    # ЗАХИСТ ВІД СПАМУ: Якщо ключа немає, ми блокуємо публікацію, а не пропускаємо її!
     if not GROQ_API_KEY:
-        return {"relevant": True, "duplicate": False, "title": None, "analysis": None, "failed": False}
+        print("КРИТИЧНА ПОМИЛКА: GROQ_API_KEY не знайдено!")
+        return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
     if recent_posts:
@@ -152,58 +149,56 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         )
 
     prompt = (
-        "Ти — аналітик та редактор європейського й трансатлантичного геополітичного каналу. "
+        "Ти — аналітик та редактор трансатлантичного геополітичного каналу. "
         "Твоя мета: відбирати та аналізувати ключові міжнародні події, міждержавні переговори, "
-        "двосторонні та багатосторонні саміти, альянси (НАТО, ЄС, G7), рішення з безпеки й оборони, "
-        "санкційну політику та макроекономічні зсуви.\n\n"
+        "двосторонні та багатосторонні саміти, альянси (НАТО, ЄС, G7), рішення з безпеки й оборони.\n\n"
         "ФОКУС ТА КРИТЕРІЇ ВІДБОРУ:\n"
         "1. Геополітика Європи та Заходу: пріоритет мають події в країнах ЄС, Великій Британії, США, "
         "країнах Східної та Північної Європи, а також їхня спільна зовнішня політика.\n"
-        "2. Рівень акторів: важливими є не лише чинні глави держав і міністри, а й впливові політичні лідери, "
-        "керівники провідних партій, парламентські делегації, очільники Єврокомісії, НАТО та дипломатичних місій.\n"
-        "3. Локальний шум: відсіюй суто внутрішньополітичні дрібні суперечки, рутинні бюрократичні звіти "
-        "та події між країнами Азії, Африки чи Латинської Америки, якщо в них немає прямого зв'язку з європейською "
-        "безпекою чи західною дипломатією.\n\n"
+        "2. Рівень акторів: важливими є чинні глави держав і міністри, керівники партій, Єврокомісія, НАТО.\n"
+        "3. Локальний шум: відсіюй суто внутрішньополітичні дрібні суперечки та рутину.\n\n"
         f"Джерело: {source_name}\n"
         f"Заголовок: {title}\n\n"
         f"Текст статті:\n{article_text}\n\n"
-        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для суворої перевірки на смисловий дубль):\n"
+        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для суворої перевірки на дублікати):\n"
         f"{recent_block}\n\n"
         "Виконай завдання:\n"
-        "Крок 1 (relevant): чи є ця подія значущою для європейської/трансатлантичної геополітики або міжнародних відносин? "
-        "Якщо це рутина, дрібний кримінал або вузька локальна внутрішня тема — поверни "
+        "Крок 1 (relevant): чи є ця подія значущою для європейської/трансатлантичної геополітики? "
+        "Якщо це рутина чи вузька внутрішня тема — поверни "
         '{"relevant": false, "duplicate": false, "title": null, "analysis": null}.\n\n'
-        "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, зустріч, саміт чи заяву, яка вже була опублікована вище? "
+        "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, яка вже була опублікована вище? "
         'Якщо так — обов\'язково поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
         "Крок 3 (якщо relevant=true і duplicate=false):\n"
-        "- Сформулюй лаконічний, інформативний заголовок українською (до 14 слів).\n"
+        "- Сформулюй лаконічний заголовок українською (до 14 слів).\n"
         "- Напиши стислий аналітичний коментар (2–3 речення) про геополітичне значення події.\n\n"
-        "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом без markdown-блоків:\n"
-        '{"relevant": true, "duplicate": false, "title": "...", "analysis": "..."}'
+        "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом. Обов'язково використовуй такий формат JSON:\n"
+        '{"relevant": true, "duplicate": false, "title": "Твій заголовок українською", "analysis": "Твій аналіз українською"}'
     )
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
+    
     payload = {
         "model": GROQ_MODEL,
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.2,
+        "temperature": 0.1,
+        "response_format": {"type": "json_object"} # Гарантує, що Groq поверне чистий JSON
     }
 
     last_error = None
 
-    for attempt in range(1, GROQ_MAX_RETRIES + 2):  # перша спроба + N ретраїв
-        time.sleep(GROQ_CALL_DELAY)  # невелика пауза перед КОЖНИМ зверненням до Groq
+    for attempt in range(1, GROQ_MAX_RETRIES + 2):
+        time.sleep(GROQ_CALL_DELAY)
         try:
-            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
+            resp = curl_requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
             if resp.status_code == 429:
                 retry_after = GROQ_RETRY_DELAY
                 try:
                     retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
-                except (TypeError, ValueError):
+                except:
                     pass
                 last_error = f"Groq 429 (rate limit), спроба {attempt}, чекаю {retry_after}с"
                 print(last_error)
@@ -218,14 +213,17 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
             data = resp.json()
             text = data["choices"][0]["message"]["content"].strip()
-            text = text.replace("`" * 3 + "json", "").replace("`" * 3, "").strip()
-
+            
             parsed = json.loads(text)
+            
+            ai_title = parsed.get("title")
+            ai_analysis = parsed.get("analysis")
+            
             return {
                 "relevant": bool(parsed.get("relevant", True)),
                 "duplicate": bool(parsed.get("duplicate", False)),
-                "title": parsed.get("title"),
-                "analysis": parsed.get("analysis"),
+                "title": ai_title if ai_title else title,
+                "analysis": ai_analysis if ai_analysis else "Подія наразі аналізується.",
                 "failed": False,
             }
         except Exception as e:
@@ -234,8 +232,6 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
             time.sleep(GROQ_RETRY_DELAY)
             continue
 
-    # Усі спроби вичерпано — НЕ публікуємо наосліп (без fail-open):
-    # новина просто повернеться в наступному прогоні.
     notify_admin(f"Groq не відповів для статті «{title}» після {GROQ_MAX_RETRIES + 1} спроб.\n{last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
@@ -249,12 +245,12 @@ def send_to_telegram(text):
         "disable_web_page_preview": False,
     }
     try:
-        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+        response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         if response.status_code == 429:
             retry_after = response.json().get("parameters", {}).get("retry_after", 5)
             print(f"Telegram rate limit, чекаю {retry_after}с")
             time.sleep(retry_after)
-            response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+            response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         return response.status_code == 200
     except Exception as e:
         print(f"Помилка запиту до Telegram: {e}")
@@ -269,7 +265,8 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            resp = requests.get(feed_url, timeout=15, impersonate="chrome120")
+            time.sleep(1) # Страхувальна пауза для парсингу сайтів
+            resp = curl_requests.get(feed_url, timeout=15, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
@@ -284,15 +281,12 @@ def collect_entries():
             if not link:
                 continue
 
-            # Обробка дати публікації
             published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
             if not published_struct:
-                # Якщо дати немає взагалі — ігноруємо, щоб не тягнути застарілі архіви
                 continue
 
             published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
 
-            # ФІЛЬТР: Тільки публікації за останні 24 години
             if (now_utc - published_dt) > max_age_delta:
                 continue
 
@@ -304,13 +298,12 @@ def collect_entries():
                 "published": published_dt,
             })
 
-    # Сортування: від найсвіжіших до старіших
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries
 
 
-def format_message(entry, groq_title, groq_analysis):
-    raw_title = groq_title or entry["title"]
+def format_message(entry, ai_title, ai_analysis):
+    raw_title = ai_title or entry["title"]
     clean_title = clean_text(raw_title)
     safe_title = html.escape(clean_title)
     
@@ -323,8 +316,8 @@ def format_message(entry, groq_title, groq_analysis):
         f"🗓 {date_str} | 🏛 {safe_source}",
     ]
 
-    if groq_analysis:
-        clean_analysis = clean_text(groq_analysis)
+    if ai_analysis:
+        clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
         parts += ["", f"🤝 {safe_analysis}"]
 
@@ -336,6 +329,8 @@ def format_message(entry, groq_title, groq_analysis):
 def main():
     history = load_history()
     entries = collect_entries()
+    print(f"Зібрано свіжих записів з усіх {len(FEEDS)} фідів: {len(entries)}")
+    
     new_posts = 0
     checked = 0
 
@@ -343,7 +338,6 @@ def main():
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
         
-        # Перевірка на унікальність лінка
         if entry["link"] in history["links"]:
             continue
 
@@ -358,8 +352,6 @@ def main():
         )
 
         if result.get("failed"):
-            # Groq тимчасово недоступний для цієї статті — НЕ позначаємо як
-            # оброблену, щоб повторити спробу в наступному прогоні.
             print(f"Пропущено тимчасово (Groq не відповів): {entry['title']}")
             continue
 

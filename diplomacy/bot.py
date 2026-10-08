@@ -4,6 +4,7 @@ import json
 import time
 import html
 import traceback
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 # Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
@@ -21,59 +22,34 @@ HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
 MAX_ENTRIES_CHECKED_PER_RUN = 50
 RECENT_POSTS_FOR_DEDUP = 20
-MAX_ARTICLE_AGE_HOURS = 24  # Тільки свіжі матеріали за останні 24 години
+MAX_ARTICLE_AGE_HOURS = 24  
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 20
 ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
 GROQ_MAX_RETRIES = 2
 GROQ_RETRY_DELAY = 4
-GROQ_CALL_DELAY = 3        # Затримка між запитами до Groq
+GROQ_CALL_DELAY = 3        
 
-# --- ГІБРИДНА БАЗА ДЖЕРЕЛ ---
-# 1. Ті, що нормально пускають напряму:
-FEEDS = [
-    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
-    ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
-    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
-    ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
-    ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
+# --- ТЕМАТИЧНІ ДЖЕРЕЛА (БЕЗ 403/404 І БЕЗ СМІТТЯ З САЙТІВ КРАЇН) ---
+# Використовуємо твої потужні запити — вони стабільні і дають найкращу аналітику
+search_queries = [
+    ("US foreign policy OR diplomacy OR State Department when:24h", "US Diplomacy"),
+    ("US sanctions OR trade tariffs OR export controls China when:24h", "Geo-Economics"),
+    ("Pentagon OR defense budget OR military aid Ukraine Taiwan when:24h", "Global Defense"),
+    ("geopolitics alliance NATO Indo-Pacific US when:24h", "Strategic Alliances"),
+    ("European Union foreign policy OR EEAS geopolitics when:24h", "EU Diplomacy")
 ]
 
-# 2. Урядові сайти з жорстким захистом (беремо їх безпечно через Google News)
-GOOGLE_NEWS_SITE_SOURCES = [
-    ("nato.int", "НАТО (Google News)"),
-    ("eeas.europa.eu", "EEAS (Google News)"),
-    ("bundesregierung.de", "Уряд Німеччини (Google News)"),
-    ("bundestag.de", "Бундестаг (Google News)"),
-    ("diplomatie.gouv.fr", "МЗС Франції (Google News)"),
-    ("mfa.gov.ua", "МЗС України (Google News)"),
-    ("president.gov.ua", "Офіс Президента України (Google News)"),
-    ("state.gov", "Держдеп США (Google News)"),
-    ("whitehouse.gov", "Білий дім (Google News)"),
-    ("defense.gov", "Пентагон (Google News)"),
-    ("osce.org", "ОБСЄ (Google News)"),
-    ("imf.org", "МВФ (Google News)"),
-    ("worldbank.org", "Світовий банк (Google News)"),
-    ("press.un.org", "ООН (Google News)"),
-]
-
-for _domain, _label in GOOGLE_NEWS_SITE_SOURCES:
-    FEEDS.append((
-        f"https://news.google.com/rss/search?q=site:{_domain}&hl=en-US&gl=US&ceid=US:en",
-        _label,
-        True,
-    ))
+FEEDS = []
+for query, label in search_queries:
+    encoded_query = urllib.parse.quote(query)
+    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
+    FEEDS.append((url, label, True))
 
 # АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
-# llama-3.1-70b-versatile знято з підтримки -> замінено на llama-3.3-70b-versatile,
-# яку, своєю чергою, Groq теж зняла з підтримки 16.08.2026.
-# Тепер використовуємо офіційні рекомендовані заміни, зі списком fallback-моделей:
-# якщо перша модель виявиться деактивованою/недоступною, бот автоматично
-# переходить на наступну зі списку, замість того щоб просто падати.
 GROQ_MODELS = [
+    "llama-3.3-70b-versatile",
     "openai/gpt-oss-120b",
     "qwen/qwen3.6-27b",
 ]
@@ -118,8 +94,8 @@ def fetch_article_text(url):
         paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
         text = " ".join(p for p in paragraphs if len(p) > 40)
         return text[:ARTICLE_MAX_CHARS]
-    except Exception as e:
-        print(f"Не вдалося завантажити текст статті ({url}): {e}")
+    except Exception:
+        # Якщо сам сайт новини блокує доступ, повертаємо пустий текст (бот візьме summary з RSS)
         return ""
 
 
@@ -149,7 +125,6 @@ def save_history(history):
 
 
 def _is_model_dead_error(status_code, resp_text):
-    """Перевіряє, чи помилка означає, що модель знята з підтримки / недоступна."""
     if status_code == 404:
         return True
     if status_code == 400 and "model_decommissioned" in (resp_text or ""):
@@ -204,8 +179,6 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
     last_error = None
 
-    # Перебираємо моделі зі списку: якщо модель деактивована/недоступна,
-    # одразу переходимо до наступної, не чекаючи ретраїв на мертву модель.
     for model in GROQ_MODELS:
         payload = {
             "model": model,
@@ -222,7 +195,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                 if _is_model_dead_error(resp.status_code, resp.text):
                     last_error = f"Groq: модель '{model}' недоступна/знята з підтримки: {resp.text[:300]}"
                     print(last_error)
-                    break  # не ретраїмо мертву модель, переходимо до наступної в GROQ_MODELS
+                    break
 
                 if resp.status_code == 429:
                     retry_after = GROQ_RETRY_DELAY
@@ -295,7 +268,7 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            time.sleep(2)  # ПАУЗА 2 секунди, щоб Google News не видавав 503 Service Unavailable
+            time.sleep(2)
             resp = curl_requests.get(feed_url, timeout=15, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)

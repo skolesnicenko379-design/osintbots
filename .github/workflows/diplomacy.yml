@@ -33,7 +33,6 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           DIPLOMACY_CHANNEL_ID: ${{ secrets.DIPLOMACY_CHANNEL_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
         run: python bot.py
 

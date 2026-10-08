@@ -12,7 +12,6 @@ import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-# Автоматично очищаємо ключі від випадкових лапок і пробілів
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
 CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
@@ -29,42 +28,47 @@ ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45          
 GROQ_MAX_RETRIES = 2
 GROQ_RETRY_DELAY = 4       
-GROQ_CALL_DELAY = 3        # Затримка між запитами до Groq (щоб уникнути Rate Limit 429)
+GROQ_CALL_DELAY = 3        # Затримка між запитами до Groq
 
-# Твоя чудова розширена база джерел (без Google News!)
+# --- ГІБРИДНА БАЗА ДЖЕРЕЛ ---
+# 1. Ті, що нормально пускають напряму:
 FEEDS = [
-    # --- Інституції ЄС ---
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://ec.europa.eu/commission/presscorner/api/rss?language=en", "Єврокомісія", True),
-    ("https://www.eeas.europa.eu/rss.xml", "EEAS", True),
     ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-
-    # --- Провідні європейські держави ---
-    ("https://www.bundesregierung.de/breg-en/service/rss", "Уряд Німеччини", True),
-    ("https://www.bundestag.de/includes/rss/Bundestag_A-Z.xml", "Бундестаг", True),
-    ("https://www.diplomatie.gouv.fr/spip.php?page=backend&id_rubrique=260", "МЗС Франції", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=prime-ministers-office-10-downing-street", "Даунінг-стріт", True),
     ("https://www.gov.pl/feed/rss/diplomacy", "МЗС Польщі", True),
     ("https://www.esteri.it/en/feed/", "МЗС Італії", True),
-    ("https://mfa.gov.ua/rss", "МЗС України", False),
-    ("https://www.president.gov.ua/news/rss", "Офіс Президента України", False),
-
-    # --- Трансатлантичні партнери та альянси ---
-    ("https://www.state.gov/press-releases/feed/", "Держдеп США", True),
-    ("https://www.whitehouse.gov/briefing-room/feed/", "Білий дім", True),
-    ("https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Categories=Press%20Releases", "Пентагон", True),
-    ("https://www.nato.int/cps/en/natohq/news.xml", "НАТО", True),
-
-    # --- Багатосторонні структури та фінанси ---
-    ("https://www.osce.org/rss", "ОБСЄ", True),
-    ("https://press.un.org/en/rss.xml", "ООН (Прес-центр)", True),
-    ("https://www.imf.org/en/News/RSS", "МВФ", True),
-    ("https://www.worldbank.org/en/news/press-release.rss", "Світовий банк", True),
 ]
 
-# Реальна, найпотужніша модель Groq для аналітики
-GROQ_MODEL = "llama-3.1-70b-versatile"
+# 2. Урядові сайти з жорстким захистом (беремо їх безпечно через Google News)
+GOOGLE_NEWS_SITE_SOURCES = [
+    ("nato.int", "НАТО (Google News)"),
+    ("eeas.europa.eu", "EEAS (Google News)"),
+    ("bundesregierung.de", "Уряд Німеччини (Google News)"),
+    ("bundestag.de", "Бундестаг (Google News)"),
+    ("diplomatie.gouv.fr", "МЗС Франції (Google News)"),
+    ("mfa.gov.ua", "МЗС України (Google News)"),
+    ("president.gov.ua", "Офіс Президента України (Google News)"),
+    ("state.gov", "Держдеп США (Google News)"),
+    ("whitehouse.gov", "Білий дім (Google News)"),
+    ("defense.gov", "Пентагон (Google News)"),
+    ("osce.org", "ОБСЄ (Google News)"),
+    ("imf.org", "МВФ (Google News)"),
+    ("worldbank.org", "Світовий банк (Google News)"),
+    ("press.un.org", "ООН (Google News)"),
+]
+
+for _domain, _label in GOOGLE_NEWS_SITE_SOURCES:
+    FEEDS.append((
+        f"https://news.google.com/rss/search?q=site:{_domain}&hl=en-US&gl=US&ceid=US:en",
+        _label,
+        True,
+    ))
+
+# АКТУАЛЬНА РОБОЧА МОДЕЛЬ GROQ (llama 3.1 вимкнено)
+GROQ_MODEL = "llama-3.3-70b-versatile"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
@@ -137,7 +141,6 @@ def save_history(history):
 
 
 def analyze_with_groq(title, article_text, source_name, recent_posts):
-    # ЗАХИСТ ВІД СПАМУ: Якщо ключа немає, ми блокуємо публікацію, а не пропускаємо її!
     if not GROQ_API_KEY:
         print("КРИТИЧНА ПОМИЛКА: GROQ_API_KEY не знайдено!")
         return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
@@ -184,7 +187,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "model": GROQ_MODEL,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.1,
-        "response_format": {"type": "json_object"} # Гарантує, що Groq поверне чистий JSON
+        "response_format": {"type": "json_object"} 
     }
 
     last_error = None
@@ -265,7 +268,7 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            time.sleep(1) # Страхувальна пауза для парсингу сайтів
+            time.sleep(2) # ПАУЗА 2 секунди, щоб Google News не видавав 503 Service Unavailable
             resp = curl_requests.get(feed_url, timeout=15, impersonate="chrome120")
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)

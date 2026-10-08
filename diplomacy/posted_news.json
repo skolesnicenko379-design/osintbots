@@ -211,39 +211,16 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BR0pKSGpSWVoyajR3NWlnLVp4ZVE4dG1Cb1FQSklvWnY4ZERiX1FZLXN2Y2N4TDA2SFZ4YU9ySlZ0MTlGRUVIVlRDWXJoTm9NMTltbW1XY1AwZw?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkZPYnJBLVZWdG9FNGNjV3REWVJhN1ZmcHBzMjVpV09iYl9sZ0pSUnlnVGpCSERFNl9zS2taaUhNYkFaN2Q1SnJuZ2N1V25sMHU2NGkzZkhvb2dzeEtVQ0NRandlc3ZiREpNTmd2VTRhSVRrNmhmVVU2RVpDQ0NhcTEwdDktUHY1T3QzVklSdUJPbXE2a3lMXzR5bFpmdWNqWE9ON0hSTmlySFV4aFHSAbMBQVVfeXFMUGtPV0cyUVkwWjk4anBDNkYzbWJRT2dNZmxZamFXWVZNRi02UGFfWlF3V3FSQmd5ZExRay1RYzlzLXVjc1ZwWVZBNjR0QWpvRk80dVJlUjlwcmdUbFRfd05KNjQ4QVRXTHRDWDZWN1laMUJzajl0ZEJnaVRaZ2Z5dEUtUzlVLUo3NDF3WFcxN1h0dkVKUTAtbXpBTEZrREt6UGIxejRiaUMxaldXV0R2bVZjLWs?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TS1NRU2lZa3J0WG02b29zZFlnQXN3UEoxdVRuWEYwUGtNQ1VxMEZNaS1sMm9tVjN0YTU2M0ZpM1Z4SlVMRjBtREEzNVg0UGoyV0pfNzJzVTJVRW5DRnl1a0Q2dVJ5ZV9DdmZTSm44YjhvQTk0amFURUlOLXJvWGM?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2Q1MGIzZHlWYVBOQzNXb2RmNHNsZVJ1dHo4cG9aQVdzcjE2cFNXMEkyRnE0Mks5Y0E4UlhjUUpMU0FmOVZveUptTXJVa0NTUGcyQTc2d0xIb2VxQTM1Q0w0SFZVV01wVGxFVDFYYnZpc2ZyZ0t2VFA2ZDM2WVZoZE8zYTBmYzRjYzlCbzkwVkdtdV81VVJlSmRueTRLY3p4OHZaU19KSThCU1J0SDVkRmM0RWp6Wlpt?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2Q1MGIzZHlWYVBOQzNXb2RmNHNsZVJ1dHo4cG9aQVdzcjE2cFNXMEkyRnE0Mks5Y0E4UlhjUUpMU0FmOVZveUptTXJVa0NTUGcyQTc2d0xIb2VxQTM1Q0w0SFZVV01wVGxFVDFYYnZpc2ZyZ0t2VFA2ZDM2WVZoZE8zYTBmYzRjYzlCbzkwVkdtdV81VVJlSmRueTRLY3p4OHZaU19KSThCU1J0SDVkRmM0RWp6Wlpt?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0dsVG5tUjhNSms2M2JndkpmQ2ZRUWhYQXU5VTdyTXBHcE1TODRidTItblMwN2plRXFrVWJxNEw1UTVXUWFBNGZLN0JkM09MZ01DNl9OZXJUdGhLNVZaQXpYcFRJVWxucnE4WXNVSUNMSW1tdzg3bGVObkdCQk1ETXVQa3ViTXAxSWpTY0plTlJmQkRQdHpvZlBNV09fOGNqaWIwQ05KMDRNbDc0?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSkx1ZkQzcE53eTl1TmVRbk1tOGlHenJUeFQwR0NhWkNQci1UVWpXSC1rVkVZUmR0bG9tZ0JuQTlsUkZpek9BbmZaLVZsNm9Ra29FZVR6eGJsQmdNS2dISW1EaW5rc0ZCRTlVVjNqVVdjck1SNnB3bU5uSkxPVzA2Yng0V2N4WHlIYUdMSDQxRngwWm1QdVJUNlVTal9WdjJnNzNxV0tXT1pyWmFNSWR1WjBPYTMwSXVSYVZLNVVmdFlINHA4eXM2V1lyUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQkxnTkVvVGJoMFpZNHFpMFRfaW5LY19PbEdJbm03TmtGSXUwb1JrM0N5OXcwWms2MWQ4MzNsYTFiSXdCakNYMnRPWVJzdlJobzRmUjI1NnVNeFUyYlRpalpNckJRcEhZUlNZb3NBbVJtYTlTVm1HaTBUSWsyQlRTc19IRWdoRWhYTnZ5VFZ0em5CYVVPM3pXTXNjX2dyZWVieWozNzNwSjJQUHVBSl92UHR0QUVaeDBsX0NaOHZ2bW5udHFQT0RMSk5CUmJQc205TDdMekhxVXR3M0NCVk5FMG1FX2huanhDZkhZb3YtMlE2V2c?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1VLRFhWSUVUYUdhVUJLOTJuN3lFNVdWaFJMM1FDNU5BZlM1SnpZeHdnMVRmYkVydjVlTG5tUkxMZzQ3cktrcEd1aDdjVXdVVWRsazZsOERsT3hRakZyNkJvbUIwNV9TTnhzNXk0NzdpdmNoOEhFajE5elMxVThFaWdTY0NKS3JMRVZ3dDN4M3Q1VEp1Qlcxd3FEcnVTSGpHeHVlQlF5NFNfbVBlTWRMRlZUZ2llUWR6LWFXWFFWNEd6TE5JNTJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEsyRjFuWVNzNDh2OVVnR215dl9JQXBIRUl6bnFUclQyUjhSRzAyRnpxNkFnSzR4T0p6R3JuRmRjUmpvM1NzZHN3Tjg5eXNvd3N2cGlZdHdCODVwek03NThXZy1ETjJJLWJVWXQ5QWNnVE45ekRKTWRqY05mNTJ3RUNPRVk4a1RWU2t5Z0ktakZ6YzZGOGZtTlRSNlAzUkRocF8yZi1TdmRTd9IBrwFBVV95cUxPaGZIOXFLM01YNHA5NDA0ZnNuY0M3WWhCLUdGeTJFWkR4MG1wSUM5aXgyaFBDWFFsS1R1ZzB0Skk4X0pETzQtbWRieUtvaUM5Tk5aZjgyZkdGZERVU19xVGJkX2hsZ0V1VEdkQWNKVlMxbWx2dGU1dmhrbWxOM1habFloN2EydS1yR2J6b3Q5aUpHMkx1NkNLdXhuUGlWbHlabG5SZmNJUFBmUUZCMVpV?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTRKbHc3VUkxd0E2cFJBb2pkbkJzNTBsa2p4TDM4dmVoRkF1OV9yVWtKQmJxTFdnMkNlY1BKWFduU3NGTTFwTXZYbkluVXRNV3d0X05tQk1VT0NpeFVBZERqQmtVMW1vREpzc2p3em4xV09mYXNHemtLOFlNQzE0blBTVV8wQXlxaW51Z1MwaDlhS0dwUkIzSjV0VTZMOFBySDNPdVVUVDJaYkVHTjNrYmo0bld4ejBZZElPU3pYX2I2YXl2d3RZ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVVORHhUUDlQcVZOV2kxcURfWDNVRUYzYXJ3ckNHcUE2WFJ6QzQzTklfVHl6aGVkbVBWWDEtSXpGakpUNm9jaEFTdE5kMUtHNFIwdVAyOTRHNnlaR1VmQVIweFpCRHpYRXZEUEVyUGxxR2dGcE1OSXp0VlNJSmNRdXlfbW05cHZ6OV9zanRlRndhMjhUQ2VNTHRBQVJqVEdfQXVXLVVLSklKQQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Комісар ЄС Кубіліус закликав до розширення «військового Шенгену» у Гамбурзі",
-      "summary": "Виступ підкреслює пріоритет ЄС у створенні єдиного простору військової мобільності, що має зняти логістичні бар’єри та пришвидшити переміщення сил у випадку криз. Це зміцнює стратегічну автономію Європи та поглиблює координацію з НАТО, підвищуючи трансатлантичну оборонну спроможність.",
-      "source": "Єврокомісія"
-    },
-    {
-      "title": "NextGenerationEU завершує впровадження: п'ятий річний звіт ЄС",
-      "summary": "Завершення реалізації NextGenerationEU демонструє фінансову стійкість Європи та її здатність самостійно фінансувати відновлення, що підвищує стратегічну автономію Союзу. Це посилає позитивний сигнал США та НАТО про готовність ЄС брати активну роль у безпековій та економічній співпраці, зміцнюючи тра",
-      "source": "Єврокомісія"
-    },
-    {
-      "title": "Комісар Серофін представив новий багаторічний фінансовий план 2028‑2034",
-      "summary": "Пропозиція багаторічного фінансового рамкового плану 2028‑2034 визначає масштаб інвестицій у безпеку, енергетичну стійкість та інновації, що підсилює стратегічну автономію ЄС. Такий бюджетний курс демонструє готовність Європи брати на себе більшу відповідальність у трансатлантичному партнерстві та з",
-      "source": "Єврокомісія"
-    },
-    {
-      "title": "Єврокомісія виплатила 1,24 млрд євро Україні на дрони та ракети",
-      "summary": "Фінансування підвищує обороноздатність України, підтверджуючи стратегічну підтримку ЄС у протистоянні російській агресії. Це зміцнює трансатлантичну безпекову координацію, демонструючи готовність Європи активно фінансувати військові потреби партнера та посилює її вплив у регіональній безпеці.",
-      "source": "Єврокомісія"
-    },
-    {
-      "title": "Міністр закордонних справ Італії Таяні: 3‑річчя атак ХАМАС – заклик до двохдержавного рішення",
-      "summary": "Заява італійського міністра підкреслює єдність Європи та США у засудженні терористичних атак і підтримці безпеки Ізраїлю, одночасно наголошуючи на необхідності двохдержавного рішення. Це свідчить про продовження трансатлантичної дипломатичної ініціативи щодо стабілізації Близького Сходу та формуванн",
-      "source": "МЗС Італії"
-    },
-    {
-      "title": "Комісар Хансен представив нову стратегію сільського господарства ЄС у Парламенті Франції",
-      "summary": "Виступ підкреслює прагнення ЄС підвищити конкурентоспроможність агросектору та забезпечити продовольчу безпеку, що є ключовим елементом стратегічної автономії Союзу. Оскільки Франція є лідером у формуванні САП, ініціатива вплине на євро‑атлантичні економічні відносини, зокрема у контексті торгівлі з",
-      "source": "Єврокомісія"
-    },
     {
       "title": "Велика Британія та Німеччина створили спільне партнерство проти гібридних загроз",
       "summary": "Угода підкреслює посилення безпекової координації між двома провідними економіками Європи, спрямовану на протидію російським гібридним атакам та кіберактивності. Це демонструє поглиблення оборонного співробітництва Великої Британії з ЄС після Brexit і зміцнює трансатлантичну безпеку, об’єднуючи зуси",
@@ -313,6 +290,36 @@
       "title": "Виступ Рубіо в Греції: ознаки нових амбіцій США",
       "summary": "Речення сенатора Рубіо в Афінах підкреслює прагнення Вашингтона посилити свою роль у східному Середземномор’ї та підтримати стратегічну автономію НАТО. Це може стимулювати нові ініціативи щодо безпекової співпраці з Грецією та іншими партнерами, а також посилити протидію російсько‑китайському впливу",
       "source": "US Diplomacy"
+    },
+    {
+      "title": "Українські війська вразили завод Саста та дата‑центр Яндекса в Росії",
+      "summary": "Удар по Саста та дата‑центру Яндекса демонструє зростаючу здатність України наносити удари по стратегічній промисловості та цифровій інфраструктурі Росії, підриваючи її військову економіку та інформаційні можливості. Це підкреслює необхідність посиленої трансатлантичної підтримки, змушуючи НАТО й ЄС",
+      "source": "Global Defense"
+    },
+    {
+      "title": "Дакка підкреслює економічну суверенність та незалежну дипломатію",
+      "summary": "Крок Бангладеш до економічної автономії та самостійної зовнішньої політики демонструє, що країна прагне мінімізувати вплив великих геополітичних гравців, зокрема США та Китаю. Це створює нову динаміку у регіональній балансі сил, змушуючи трансатлантичних партнерів переосмислити стратегії залучення П",
+      "source": "EU Diplomacy"
+    },
+    {
+      "title": "Греція та США обговорили безпеку Середземномор’я після зустрічі Герапетріса з Рубіо",
+      "summary": "Зустріч міністра закордонних справ Греції з представником США підкреслює посилення трансатлантичної співпраці у стратегічно важливому східному Середземномор’ї, де зростає конкуренція з Росією та Іраном. Підкреслені спільні ініціативи щодо підвищення оборонної готовності та розширення присутності НАТ",
+      "source": "EU Diplomacy"
+    },
+    {
+      "title": "Початок переговорів ЄС‑Китай у Пекіні на фоні зростаючого тиску",
+      "summary": "Переговори сигналізують про спробу Європи зберегти економічну стабільність і стратегічну автономію, протистоячи зростаючому тиску з боку Пекіна. Водночас вони підкреслюють важливість узгодженості з США та НАТО, адже успішний результат може зміцнити трансатлантичну економічну співпрацю та знизити риз",
+      "source": "Geo-Economics"
+    },
+    {
+      "title": "США тиснуть на союзників розірвати зв’язки з конференцією проти дезінформації",
+      "summary": "Тиск США на партнерів щодо відмови від участі у конференції, що критикує Вашингтон, підкреслює їхнє прагнення контролювати дискурс про дезінформацію та захищати зовнішню політику. Це може ускладнити трансатлантичну співпрацю в сфері інформаційної безпеки, створюючи напруженість між США та їхніми тра",
+      "source": "US Diplomacy"
+    },
+    {
+      "title": "Посилення позиції Європи щодо Китаю – шанс для США",
+      "summary": "Жорсткіша європейська політика проти Китаю підкреслює прагнення ЄС до стратегічної автономії та захисту технологічних ланцюгів, що змушує Вашингтон переосмислити свою роль у формуванні спільної трансатлантичної стратегії щодо Пекіна. Це створює можливість для США використати розбіжності в підходах д",
+      "source": "EU Diplomacy"
     }
   ]
 }

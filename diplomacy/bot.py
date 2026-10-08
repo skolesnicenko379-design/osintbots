@@ -31,8 +31,7 @@ GROQ_MAX_RETRIES = 2
 GROQ_RETRY_DELAY = 4
 GROQ_CALL_DELAY = 3        
 
-# --- ТЕМАТИЧНІ ДЖЕРЕЛА (БЕЗ 403/404 І БЕЗ СМІТТЯ З САЙТІВ КРАЇН) ---
-# Використовуємо твої потужні запити — вони стабільні і дають найкращу аналітику
+# --- ТЕМАТИЧНІ ДЖЕРЕЛА ---
 search_queries = [
     ("US foreign policy OR diplomacy OR State Department when:24h", "US Diplomacy"),
     ("US sanctions OR trade tariffs OR export controls China when:24h", "Geo-Economics"),
@@ -95,7 +94,6 @@ def fetch_article_text(url):
         text = " ".join(p for p in paragraphs if len(p) > 40)
         return text[:ARTICLE_MAX_CHARS]
     except Exception:
-        # Якщо сам сайт новини блокує доступ, повертаємо пустий текст (бот візьме summary з RSS)
         return ""
 
 
@@ -146,30 +144,22 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         )
 
     prompt = (
-        "Ти — аналітик та редактор трансатлантичного геополітичного каналу. "
-        "Твоя мета: відбирати та аналізувати ключові міжнародні події, міждержавні переговори, "
-        "двосторонні та багатосторонні саміти, альянси (НАТО, ЄС, G7), рішення з безпеки й оборони.\n\n"
-        "ФОКУС ТА КРИТЕРІЇ ВІДБОРУ:\n"
-        "1. Геополітика Європи та Заходу: пріоритет мають події в країнах ЄС, Великій Британії, США, "
-        "країнах Східної та Північної Європи, а також їхня спільна зовнішня політика.\n"
-        "2. Рівень акторів: важливими є чинні глави держав і міністри, керівники партій, Єврокомісія, НАТО.\n"
-        "3. Локальний шум: відсіюй суто внутрішньополітичні дрібні суперечки та рутину.\n\n"
+        "Ти — аналітик трансатлантичного геополітичного каналу. "
+        "Твоя мета: аналізувати ключові міжнародні події, саміти, рішення НАТО/ЄС.\n\n"
         f"Джерело: {source_name}\n"
         f"Заголовок: {title}\n\n"
         f"Текст статті:\n{article_text}\n\n"
-        "ОСТАННІ ОПУБЛІКОВАНІ ПОСТИ (для суворої перевірки на дублікати):\n"
+        "ОСТАННІ ПОСТИ (перевірка на дублікати):\n"
         f"{recent_block}\n\n"
-        "Виконай завдання:\n"
-        "Крок 1 (relevant): чи є ця подія значущою для європейської/трансатлантичної геополітики? "
-        "Якщо це рутина чи вузька внутрішня тема — поверни "
-        '{"relevant": false, "duplicate": false, "title": null, "analysis": null}.\n\n'
-        "Крок 2 (duplicate): чи описує ця новина ТУ САМУ подію, яка вже була опублікована вище? "
-        'Якщо так — обов\'язково поверни {"relevant": true, "duplicate": true, "title": null, "analysis": null}.\n\n'
-        "Крок 3 (якщо relevant=true і duplicate=false):\n"
-        "- Сформулюй лаконічний заголовок українською (до 14 слів).\n"
-        "- Напиши стислий аналітичний коментар (2–3 речення) про геополітичне значення події.\n\n"
-        "Відповідай ВИКЛЮЧНО валідним JSON-об'єктом. Обов'язково використовуй такий формат JSON:\n"
-        '{"relevant": true, "duplicate": false, "title": "Твій заголовок українською", "analysis": "Твій аналіз українською"}'
+        "Завдання:\n"
+        "1. Якщо подія нерелевантна (рутина/дрібниці) — поверни relevant: false.\n"
+        "2. Якщо це дубль події з останніх постів — поверни duplicate: true.\n"
+        "3. Якщо все добре:\n"
+        "- Створи лаконічний заголовок українською (до 14 слів).\n"
+        "- Напиши глибокий аналітичний коментар (2–3 речення) про значення події.\n"
+        "КРИТИЧНО: Поле 'analysis' НІКОЛИ не повинно бути порожнім. Навіть якщо тексту мало, придумай короткий контекст.\n\n"
+        "Відповідай ТІЛЬКИ чистим JSON:\n"
+        '{"relevant": true, "duplicate": false, "title": "Твій заголовок", "analysis": "Твій аналіз"}'
     )
 
     headers = {
@@ -183,7 +173,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.1,
+            "temperature": 0.2,
             "response_format": {"type": "json_object"},
         }
 
@@ -193,7 +183,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                 resp = curl_requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
                 if _is_model_dead_error(resp.status_code, resp.text):
-                    last_error = f"Groq: модель '{model}' недоступна/знята з підтримки: {resp.text[:300]}"
+                    last_error = f"Groq: модель '{model}' недоступна: {resp.text[:300]}"
                     print(last_error)
                     break
 
@@ -203,14 +193,11 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                         retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
                     except Exception:
                         pass
-                    last_error = f"Groq 429 (rate limit) для моделі {model}, спроба {attempt}, чекаю {retry_after}с"
-                    print(last_error)
                     time.sleep(retry_after)
                     continue
 
                 if resp.status_code != 200:
                     last_error = f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:500]}"
-                    print(last_error)
                     time.sleep(GROQ_RETRY_DELAY)
                     continue
 
@@ -222,20 +209,22 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                 ai_title = parsed.get("title")
                 ai_analysis = parsed.get("analysis")
 
+                if not ai_analysis or len(ai_analysis.strip()) < 10:
+                    ai_analysis = "Деталі події наразі опрацьовуються експертною групою. Очікуйте подальшої аналітики."
+
                 return {
                     "relevant": bool(parsed.get("relevant", True)),
                     "duplicate": bool(parsed.get("duplicate", False)),
                     "title": ai_title if ai_title else title,
-                    "analysis": ai_analysis if ai_analysis else "Подія наразі аналізується.",
+                    "analysis": ai_analysis,
                     "failed": False,
                 }
             except Exception as e:
-                last_error = f"Groq ({model}): помилка обробки (спроба {attempt}): {e}"
-                print(last_error)
+                last_error = f"Groq ({model}): помилка: {e}"
                 time.sleep(GROQ_RETRY_DELAY)
                 continue
 
-    notify_admin(f"Groq не відповів для статті «{title}» (усі моделі {GROQ_MODELS} вичерпано).\n{last_error}")
+    notify_admin(f"Groq не відповів для статті «{title}».\n{last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
@@ -251,13 +240,11 @@ def send_to_telegram(text):
         response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         if response.status_code == 429:
             retry_after = response.json().get("parameters", {}).get("retry_after", 5)
-            print(f"Telegram rate limit, чекаю {retry_after}с")
             time.sleep(retry_after)
             response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         return response.status_code == 200
     except Exception as e:
-        print(f"Помилка запиту до Telegram: {e}")
-        notify_admin(f"Помилка з'єднання з Telegram API: {e}")
+        print(f"Помилка Telegram API: {e}")
         return False
 
 
@@ -273,7 +260,7 @@ def collect_entries():
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
-            print(f"Не вдалося завантажити фід {source_name} ({feed_url}): {e}")
+            print(f"Не вдалося завантажити фід {source_name}: {e}")
             continue
 
         if getattr(feed, "bozo", False) and not feed.entries:
@@ -319,7 +306,7 @@ def format_message(entry, ai_title, ai_analysis):
         f"🗓 {date_str} | 🏛 {safe_source}",
     ]
 
-    if ai_analysis:
+    if ai_analysis and len(ai_analysis.strip()) > 5:
         clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
         parts += ["", f"🤝 {safe_analysis}"]

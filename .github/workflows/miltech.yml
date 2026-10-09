@@ -2,8 +2,8 @@ name: MilTech Bot
 
 on:
   schedule:
-    # Запуск щогодини (на на 17 хвилині початку кожної години)
-    - cron: '37 * * * *'
+    # 
+    - cron: '25 */2 * * *'  
   workflow_dispatch: # Кнопка для ручного запуску
 
 jobs:

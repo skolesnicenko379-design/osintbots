@@ -7,10 +7,10 @@ import traceback
 import urllib.parse
 from datetime import datetime, timezone, timedelta
 
-# Використовуємо curl_cffi замість звичайного requests для обходу Cloudflare
-from curl_cffi import requests as curl_requests
 import feedparser
 from bs4 import BeautifulSoup
+# Повертаємо звичайний requests для надійності, додамо спеціальний User-Agent
+import requests
 
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
@@ -24,14 +24,22 @@ MAX_ENTRIES_CHECKED_PER_RUN = 50
 RECENT_POSTS_FOR_DEDUP = 20
 MAX_ARTICLE_AGE_HOURS = 24  
 REQUEST_TIMEOUT = 20
-ARTICLE_FETCH_TIMEOUT = 20
+ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
 GROQ_MAX_RETRIES = 2
 GROQ_RETRY_DELAY = 4
 GROQ_CALL_DELAY = 3        
 
-# --- ТЕМАТИЧНІ ДЖЕРЕЛА ---
+# Налаштовуємо "людський" User-Agent для звичайного requests
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
+
+# --- ДЖЕРЕЛА ---
+# Основа: твої тематичні запити через Google News
 search_queries = [
     ("US foreign policy OR diplomacy OR State Department when:24h", "US Diplomacy"),
     ("US sanctions OR trade tariffs OR export controls China when:24h", "Geo-Economics"),
@@ -46,11 +54,18 @@ for query, label in search_queries:
     url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
     FEEDS.append((url, label, True))
 
-# АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
+# Додамо кілька урядових фідів, які зазвичай стабільні
+FEEDS.extend([
+    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
+    ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
+    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
+])
+
+# АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ (найстабільніші на сьогодні)
 GROQ_MODELS = [
-    "llama-3.3-70b-versatile",
-    "openai/gpt-oss-120b",
-    "qwen/qwen3.6-27b",
+    "llama3-70b-8192",       # Найкраща для аналітики
+    "mixtral-8x7b-32768",    # Дуже хороша запасна
+    "llama3-8b-8192",        # Швидка, якщо перші дві недоступні
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -62,7 +77,7 @@ def notify_admin(message):
     text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
     payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
     try:
-        curl_requests.post(url, json=payload, timeout=10)
+        requests.post(url, json=payload, timeout=10)
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
 
@@ -81,7 +96,7 @@ def strip_html(raw):
 
 def fetch_article_text(url):
     try:
-        resp = curl_requests.get(url, timeout=ARTICLE_FETCH_TIMEOUT, impersonate="chrome120")
+        resp = requests.get(url, headers=HEADERS, timeout=ARTICLE_FETCH_TIMEOUT)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -94,6 +109,8 @@ def fetch_article_text(url):
         text = " ".join(p for p in paragraphs if len(p) > 40)
         return text[:ARTICLE_MAX_CHARS]
     except Exception:
+        # Якщо сайт блокує завантаження, просто повертаємо порожній рядок.
+        # Бот використає summary з RSS-фіду.
         return ""
 
 
@@ -125,9 +142,7 @@ def save_history(history):
 def _is_model_dead_error(status_code, resp_text):
     if status_code == 404:
         return True
-    if status_code == 400 and "model_decommissioned" in (resp_text or ""):
-        return True
-    if status_code == 400 and "does not exist" in (resp_text or ""):
+    if status_code == 400 and ("model_decommissioned" in (resp_text or "") or "does not exist" in (resp_text or "")):
         return True
     return False
 
@@ -180,7 +195,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         for attempt in range(1, GROQ_MAX_RETRIES + 2):
             time.sleep(GROQ_CALL_DELAY)
             try:
-                resp = curl_requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
+                resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
                 if _is_model_dead_error(resp.status_code, resp.text):
                     last_error = f"Groq: модель '{model}' недоступна: {resp.text[:300]}"
@@ -193,17 +208,19 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                         retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
                     except Exception:
                         pass
+                    last_error = f"Groq 429 (rate limit) для моделі {model}, спроба {attempt}, чекаю {retry_after}с"
+                    print(last_error)
                     time.sleep(retry_after)
                     continue
 
                 if resp.status_code != 200:
                     last_error = f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:500]}"
+                    print(last_error)
                     time.sleep(GROQ_RETRY_DELAY)
                     continue
 
                 data = resp.json()
                 text = data["choices"][0]["message"]["content"].strip()
-
                 parsed = json.loads(text)
 
                 ai_title = parsed.get("title")
@@ -220,11 +237,12 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
                     "failed": False,
                 }
             except Exception as e:
-                last_error = f"Groq ({model}): помилка: {e}"
+                last_error = f"Groq ({model}): помилка обробки (спроба {attempt}): {e}"
+                print(last_error)
                 time.sleep(GROQ_RETRY_DELAY)
                 continue
 
-    notify_admin(f"Groq не відповів для статті «{title}».\n{last_error}")
+    notify_admin(f"Groq не відповів для статті «{title}» (усі моделі {GROQ_MODELS} вичерпано).\n{last_error}")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
@@ -237,14 +255,14 @@ def send_to_telegram(text):
         "disable_web_page_preview": False,
     }
     try:
-        response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+        response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         if response.status_code == 429:
             retry_after = response.json().get("parameters", {}).get("retry_after", 5)
             time.sleep(retry_after)
-            response = curl_requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+            response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         return response.status_code == 200
     except Exception as e:
-        print(f"Помилка Telegram API: {e}")
+        print(f"Помилка запиту до Telegram: {e}")
         return False
 
 
@@ -255,8 +273,8 @@ def collect_entries():
 
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            time.sleep(2)
-            resp = curl_requests.get(feed_url, timeout=15, impersonate="chrome120")
+            time.sleep(2)  # Пауза між запитами до фідів
+            resp = requests.get(feed_url, headers=HEADERS, timeout=15)
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:

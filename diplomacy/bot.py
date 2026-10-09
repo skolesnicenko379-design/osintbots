@@ -19,14 +19,14 @@ ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 10
+MAX_ENTRIES_CHECKED_PER_RUN = 10  # ЗМЕНШЕНО ДО 10, щоб не впиратися в ліміт часу
 RECENT_POSTS_FOR_DEDUP = 20
 MAX_ARTICLE_AGE_HOURS = 24
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
-GROQ_MAX_RETRIES = 0
+GROQ_MAX_RETRIES = 0  # ЗМЕНШЕНО ДО 0, щоб не було нескінченних зависань
 GROQ_RETRY_DELAY = 4
 GROQ_CALL_DELAY = 3
 
@@ -57,13 +57,8 @@ FEEDS.extend([
     ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
 ])
 
-# АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
-GROQ_MODELS = [
-    "llama-3.3-70b-versatile",
-    "llama-3.1-8b-instant",
-    "gemma2-9b-it"
-]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
 
 
 def notify_admin(message):
@@ -77,6 +72,39 @@ def notify_admin(message):
     except Exception as e:
         print(f"Не вдалося відправити помилку адміну: {e}")
 
+def get_available_groq_models():
+    """Динамічно запитує у Groq список моделей, які доступні для поточного ключа."""
+    if not GROQ_API_KEY:
+        return []
+    
+    headers = {"Authorization": f"Bearer {GROQ_API_KEY}"}
+    try:
+        resp = requests.get(GROQ_MODELS_URL, headers=headers, timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        models = [item["id"] for item in data.get("data", [])]
+        
+        # Сортуємо: спочатку Llama-70b, потім Mixtral, потім Llama-8b, потім решта
+        preferred = []
+        for m in models:
+            if "llama" in m.lower() and "70b" in m.lower():
+                preferred.insert(0, m)
+            elif "mixtral" in m.lower():
+                if len(preferred) > 0: preferred.insert(1, m)
+                else: preferred.append(m)
+            elif "llama" in m.lower() and "8b" in m.lower():
+                preferred.append(m)
+        
+        # Додаємо всі інші, якщо пріоритетних немає
+        for m in models:
+            if m not in preferred:
+                preferred.append(m)
+                
+        print(f"Доступні моделі Groq (відсортовані): {preferred[:3]}...")
+        return preferred
+    except Exception as e:
+        print(f"Не вдалося отримати список моделей Groq: {e}")
+        return ["llama3-8b-8192"] # Базовий фолбек
 
 def clean_text(text: str) -> str:
     if not text:
@@ -144,9 +172,13 @@ def _is_model_dead_error(status_code, resp_text):
     return False
 
 
-def analyze_with_groq(title, article_text, source_name, recent_posts):
+def analyze_with_groq(title, article_text, source_name, recent_posts, active_models):
     if not GROQ_API_KEY:
         print("КРИТИЧНА ПОМИЛКА: GROQ_API_KEY не знайдено!")
+        return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
+
+    if not active_models:
+        print("КРИТИЧНА ПОМИЛКА: Немає доступних моделей Groq!")
         return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
     recent_block = "(поки що порожньо — це перша перевірка)"
@@ -180,8 +212,11 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
     }
 
     last_error = None
+    
+    # Використовуємо максимум 3 найкращі моделі з доступних
+    models_to_try = active_models[:3]
 
-    for model in GROQ_MODELS:
+    for model in models_to_try:
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
@@ -189,57 +224,55 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
             "response_format": {"type": "json_object"},
         }
 
-        for attempt in range(1, GROQ_MAX_RETRIES + 2):
-            time.sleep(GROQ_CALL_DELAY)
-            try:
-                resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
+        # Ми прибрали нескінченні ретраї (attempt), щоб скрипт не зависав
+        time.sleep(GROQ_CALL_DELAY)
+        try:
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
-                if _is_model_dead_error(resp.status_code, resp.text):
-                    last_error = f"Groq: модель '{model}' недоступна: {resp.text[:300]}"
-                    print(last_error)
-                    break
-
-                if resp.status_code == 429:
-                    retry_after = GROQ_RETRY_DELAY
-                    try:
-                        retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
-                    except Exception:
-                        pass
-                    last_error = f"Groq 429 (rate limit) для моделі {model}, спроба {attempt}, чекаю {retry_after}с"
-                    print(last_error)
-                    time.sleep(retry_after)
-                    continue
-
-                if resp.status_code != 200:
-                    last_error = f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:500]}"
-                    print(last_error)
-                    time.sleep(GROQ_RETRY_DELAY)
-                    continue
-
-                data = resp.json()
-                text = data["choices"][0]["message"]["content"].strip()
-                parsed = json.loads(text)
-
-                ai_title = parsed.get("title")
-                ai_analysis = parsed.get("analysis")
-
-                if not ai_analysis or len(ai_analysis.strip()) < 10:
-                    ai_analysis = "Деталі події наразі опрацьовуються експертною групою. Очікуйте подальшої аналітики."
-
-                return {
-                    "relevant": bool(parsed.get("relevant", True)),
-                    "duplicate": bool(parsed.get("duplicate", False)),
-                    "title": ai_title if ai_title else title,
-                    "analysis": ai_analysis,
-                    "failed": False,
-                }
-            except Exception as e:
-                last_error = f"Groq ({model}): помилка обробки (спроба {attempt}): {e}"
+            if _is_model_dead_error(resp.status_code, resp.text):
+                last_error = f"Groq: модель '{model}' недоступна: {resp.text[:200]}"
                 print(last_error)
-                time.sleep(GROQ_RETRY_DELAY)
                 continue
 
-    notify_admin(f"Groq не відповів для статті «{title}» (усі моделі вичерпано).\n{last_error}")
+            if resp.status_code == 429:
+                retry_after = GROQ_RETRY_DELAY
+                try:
+                    retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
+                except Exception:
+                    pass
+                last_error = f"Groq 429 (rate limit) для {model}, чекаю {retry_after}с"
+                print(last_error)
+                time.sleep(retry_after)
+                continue
+
+            if resp.status_code != 200:
+                last_error = f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:300]}"
+                print(last_error)
+                continue
+
+            data = resp.json()
+            text = data["choices"][0]["message"]["content"].strip()
+            parsed = json.loads(text)
+
+            ai_title = parsed.get("title")
+            ai_analysis = parsed.get("analysis")
+
+            if not ai_analysis or len(ai_analysis.strip()) < 10:
+                ai_analysis = "Деталі події наразі опрацьовуються експертною групою. Очікуйте подальшої аналітики."
+
+            return {
+                "relevant": bool(parsed.get("relevant", True)),
+                "duplicate": bool(parsed.get("duplicate", False)),
+                "title": ai_title if ai_title else title,
+                "analysis": ai_analysis,
+                "failed": False,
+            }
+        except Exception as e:
+            last_error = f"Groq ({model}): помилка обробки: {e}"
+            print(last_error)
+            continue
+
+    print(f"Groq не відповів для статті «{title}» (спробував моделі {models_to_try}).")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
@@ -335,6 +368,8 @@ def main():
     history = load_history()
     entries = collect_entries()
     print(f"Зібрано свіжих записів з усіх {len(FEEDS)} фідів: {len(entries)}")
+    
+    active_models = get_available_groq_models()
 
     new_posts = 0
     checked = 0
@@ -353,7 +388,7 @@ def main():
             article_text = entry["summary"]
 
         result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], history["recent_posts"]
+            entry["title"], article_text, entry["source"], history["recent_posts"], active_models
         )
 
         if result.get("failed"):

@@ -58,16 +58,10 @@ FEEDS.extend([
 ])
 
 # АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
-# ВАЖЛИВО: "llama-3.3-70b-versatile" і "llama-3.1-8b-instant" переведені Groq
-# у Enterprise-рівень (доступ лише за контрактом), а "gemma2-9b-it" офіційно
-# знята з підтримки (model_decommissioned). Використовуємо моделі, які
-# реально доступні на звичайному (developer) Groq API-ключі станом на зараз.
-# Якщо колись знову отримаєте помилку model_not_found / model_decommissioned,
-# перевірте актуальний список командою:
-#   curl -s https://api.groq.com/openai/v1/models -H "Authorization: Bearer $GROQ_API_KEY"
 GROQ_MODELS = [
-    "openai/gpt-oss-120b",
-    "openai/gpt-oss-20b",
+    "llama-3.3-70b-versatile",
+    "llama-3.1-8b-instant",
+    "gemma2-9b-it"
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -126,6 +120,9 @@ def load_history():
 
     if isinstance(data, list):
         data = {"links": data, "recent_posts": []}
+        
+    if not isinstance(data, dict):
+        data = {}
 
     data.setdefault("links", [])
     data.setdefault("recent_posts", [])

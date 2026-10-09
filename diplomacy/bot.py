@@ -9,7 +9,6 @@ from datetime import datetime, timezone, timedelta
 
 import feedparser
 from bs4 import BeautifulSoup
-# Повертаємо звичайний requests для надійності, додамо спеціальний User-Agent
 import requests
 
 # ===== Налаштування з GitHub Secrets =====

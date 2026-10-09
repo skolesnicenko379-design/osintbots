@@ -1,66 +1,35 @@
 import os
-import re
 import json
 import time
 import html
-import traceback
-import urllib.parse
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
+import re
+import requests
 import feedparser
 from bs4 import BeautifulSoup
-import requests
 
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
-CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
+CHANNEL_ID = (os.environ.get("CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
-ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
-MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 50
-RECENT_POSTS_FOR_DEDUP = 20
-MAX_ARTICLE_AGE_HOURS = 24  
+MAX_POSTS_PER_RUN = 4
 REQUEST_TIMEOUT = 20
-ARTICLE_FETCH_TIMEOUT = 15
-ARTICLE_MAX_CHARS = 4000
-GROQ_TIMEOUT = 45
-GROQ_MAX_RETRIES = 2
-GROQ_RETRY_DELAY = 4
-GROQ_CALL_DELAY = 3        
 
-# Налаштовуємо "людський" User-Agent для звичайного requests
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-}
-
-# --- ДЖЕРЕЛА ---
-# Основа: твої тематичні запити через Google News
-search_queries = [
-    ("US foreign policy OR diplomacy OR State Department when:24h", "US Diplomacy"),
-    ("US sanctions OR trade tariffs OR export controls China when:24h", "Geo-Economics"),
-    ("Pentagon OR defense budget OR military aid Ukraine Taiwan when:24h", "Global Defense"),
-    ("geopolitics alliance NATO Indo-Pacific US when:24h", "Strategic Alliances"),
-    ("European Union foreign policy OR EEAS geopolitics when:24h", "EU Diplomacy")
+# Джерела: (URL, Назва джерела, чи потрібен переклад)
+FEEDS = [
+    ("https://mil.in.ua/uk/news/feed/", "mil.in.ua", False),
+    ("https://defence-ua.com/rss.xml", "defence-ua.com", False),
+    ("https://breakingdefense.com/feed/", "Breaking Defense", True),
+    
+    # Нові джерела Google Alerts із кастомними назвами для Telegram
+    ("https://www.google.com/alerts/feeds/12089626364797798521/7402252502089930204", "Western Defense Industry", True),
+    ("https://www.google.com/alerts/feeds/12089626364797798521/17810137244338497811", "Global MilTech", True),
 ]
 
-FEEDS = []
-for query, label in search_queries:
-    encoded_query = urllib.parse.quote(query)
-    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
-    FEEDS.append((url, label, True))
-
-# Додамо кілька урядових фідів, які зазвичай стабільні
-FEEDS.extend([
-    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
-    ("https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "Європарламент", True),
-    ("https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office", "FCDO (Британія)", True),
-])
-
-# АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ (найстабільніші на сьогодні)
+# НАЙСТАБІЛЬНІШІ МОДЕЛІ GROQ
 GROQ_MODELS = [
     "llama3-70b-8192",       # Найкраща для аналітики
     "mixtral-8x7b-32768",    # Дуже хороша запасна
@@ -68,74 +37,55 @@ GROQ_MODELS = [
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
+ARTICLE_FETCH_TIMEOUT = 15
+ARTICLE_MAX_CHARS = 4000  # скільки символів тексту статті передавати в Groq
 
-def notify_admin(message):
-    if not ADMIN_ID:
-        return
-    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    text = f"⚠️ <b>Помилка Diplomacy Bot:</b>\n\n<pre>{html.escape(message[:3500])}</pre>"
-    payload = {"chat_id": ADMIN_ID, "text": text, "parse_mode": "HTML"}
-    try:
-        requests.post(url, json=payload, timeout=10)
-    except Exception as e:
-        print(f"Не вдалося відправити помилку адміну: {e}")
-
-
-def clean_text(text: str) -> str:
-    if not text:
-        return ""
-    text = html.unescape(text)
-    text = re.sub(r'</?[a-zA-Z0-9]+>', '', text)
-    return text.strip()
-
+# "Людський" User-Agent для обходу простих блокувань
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
 def strip_html(raw):
     return re.sub(r"\s+", " ", BeautifulSoup(raw or "", "html.parser").get_text()).strip()
 
 
 def fetch_article_text(url):
+    """Намагається витягти повний текст статті зі сторінки. Повертає '' при невдачі."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=ARTICLE_FETCH_TIMEOUT)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
+        # Прибираємо явно нерелевантні блоки
         for tag in soup(["script", "style", "nav", "header", "footer", "aside", "form"]):
             tag.decompose()
 
+        # Шукаємо основний контейнер статті, якщо є — інакше беремо всі <p>
         article = soup.find("article") or soup.find(class_=re.compile(r"(article|post|entry)[-_]?(content|body)", re.I))
         container = article if article else soup
         paragraphs = [p.get_text(" ", strip=True) for p in container.find_all("p")]
         text = " ".join(p for p in paragraphs if len(p) > 40)
         return text[:ARTICLE_MAX_CHARS]
-    except Exception:
-        # Якщо сайт блокує завантаження, просто повертаємо порожній рядок.
-        # Бот використає summary з RSS-фіду.
+    except Exception as e:
+        print(f"Не вдалося завантажити текст статті ({url}): {e}")
         return ""
 
 
+# ===== Історія публікацій =====
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
             try:
-                data = json.load(f)
+                return json.load(f)
             except json.JSONDecodeError:
-                data = {}
-    else:
-        data = {}
-
-    if isinstance(data, list):
-        data = {"links": data, "recent_posts": []}
-
-    data.setdefault("links", [])
-    data.setdefault("recent_posts", [])
-    return data
+                return []
+    return []
 
 
 def save_history(history):
-    history["links"] = list(dict.fromkeys(history["links"]))[-1200:]
-    history["recent_posts"] = history["recent_posts"][-RECENT_POSTS_FOR_DEDUP:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(history, f, ensure_ascii=False, indent=2)
+        json.dump(history[-300:], f, ensure_ascii=False, indent=2)
 
 
 def _is_model_dead_error(status_code, resp_text):
@@ -145,106 +95,91 @@ def _is_model_dead_error(status_code, resp_text):
         return True
     return False
 
-
-def analyze_with_groq(title, article_text, source_name, recent_posts):
+# ===== Groq: переклад + коротка технічна аналітика =====
+def enrich_with_groq(title, article_text, source_name, needs_translation):
+    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці."""
     if not GROQ_API_KEY:
-        print("КРИТИЧНА ПОМИЛКА: GROQ_API_KEY не знайдено!")
-        return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
+        return None, None
 
-    recent_block = "(поки що порожньо — це перша перевірка)"
-    if recent_posts:
-        recent_block = "\n".join(
-            f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
-        )
+    lang_note = (
+        "Оригінал англійською — переклади заголовок природною українською."
+        if needs_translation
+        else "Оригінал вже українською."
+    )
 
     prompt = (
-        "Ти — аналітик трансатлантичного геополітичного каналу. "
-        "Твоя мета: аналізувати ключові міжнародні події, саміти, рішення НАТО/ЄС.\n\n"
-        f"Джерело: {source_name}\n"
-        f"Заголовок: {title}\n\n"
-        f"Текст статті:\n{article_text}\n\n"
-        "ОСТАННІ ПОСТИ (перевірка на дублікати):\n"
-        f"{recent_block}\n\n"
-        "Завдання:\n"
-        "1. Якщо подія нерелевантна (рутина/дрібниці) — поверни relevant: false.\n"
-        "2. Якщо це дубль події з останніх постів — поверни duplicate: true.\n"
-        "3. Якщо все добре:\n"
-        "- Створи лаконічний заголовок українською (до 14 слів).\n"
-        "- Напиши глибокий аналітичний коментар (2–3 речення) про значення події.\n"
+        "Ти — редактор мілтех-новин для українського Telegram-каналу.\n"
+        f"Джерело: {source_name}. {lang_note}\n\n"
+        f"Оригінальний заголовок: {title}\n\n"
+        f"Повний текст новини:\n{article_text}\n\n"
+        "Виконай ДВІ речі на основі ЗМІСТУ новини:\n"
+        "1) Дай стислий, точний заголовок українською (до 15 слів), без клікбейту.\n"
+        "2) Дай 2-3 речення технічного/аналітичного коментаря українською: що саме сталося, "
+        "які характеристики техніки згадуються, який можливий військовий вплив.\n"
         "КРИТИЧНО: Поле 'analysis' НІКОЛИ не повинно бути порожнім. Навіть якщо тексту мало, придумай короткий контекст.\n\n"
-        "Відповідай ТІЛЬКИ чистим JSON:\n"
-        '{"relevant": true, "duplicate": false, "title": "Твій заголовок", "analysis": "Твій аналіз"}'
+        "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
+        '{"title": "...", "analysis": "..."}'
     )
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
-
-    last_error = None
-
+    
+    # Перебираємо моделі, щоб не падати при відключенні однієї
     for model in GROQ_MODELS:
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2,
-            "response_format": {"type": "json_object"},
+            "response_format": {"type": "json_object"}, # Гарантує повернення JSON
         }
 
-        for attempt in range(1, GROQ_MAX_RETRIES + 2):
-            time.sleep(GROQ_CALL_DELAY)
+        for attempt in range(2): # 2 спроби на кожну модель
             try:
-                resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
-
+                resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+                
                 if _is_model_dead_error(resp.status_code, resp.text):
-                    last_error = f"Groq: модель '{model}' недоступна: {resp.text[:300]}"
-                    print(last_error)
-                    break
-
+                    print(f"Groq: модель {model} недоступна: {resp.text[:100]}")
+                    break # Переходимо до наступної моделі
+                    
                 if resp.status_code == 429:
-                    retry_after = GROQ_RETRY_DELAY
+                    retry_after = 5
                     try:
-                        retry_after = float(resp.headers.get("retry-after", GROQ_RETRY_DELAY))
-                    except Exception:
+                        retry_after = float(resp.headers.get("retry-after", 5))
+                    except:
                         pass
-                    last_error = f"Groq 429 (rate limit) для моделі {model}, спроба {attempt}, чекаю {retry_after}с"
-                    print(last_error)
                     time.sleep(retry_after)
                     continue
-
+                    
                 if resp.status_code != 200:
-                    last_error = f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:500]}"
-                    print(last_error)
-                    time.sleep(GROQ_RETRY_DELAY)
+                    print(f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:200]}")
+                    time.sleep(3)
                     continue
 
                 data = resp.json()
                 text = data["choices"][0]["message"]["content"].strip()
+                
                 parsed = json.loads(text)
-
+                
                 ai_title = parsed.get("title")
                 ai_analysis = parsed.get("analysis")
-
-                if not ai_analysis or len(ai_analysis.strip()) < 10:
-                    ai_analysis = "Деталі події наразі опрацьовуються експертною групою. Очікуйте подальшої аналітики."
-
-                return {
-                    "relevant": bool(parsed.get("relevant", True)),
-                    "duplicate": bool(parsed.get("duplicate", False)),
-                    "title": ai_title if ai_title else title,
-                    "analysis": ai_analysis,
-                    "failed": False,
-                }
+                
+                # Якщо ШІ все ж повернув порожньо, даємо базовий текст
+                if not ai_analysis or len(ai_analysis.strip()) < 5:
+                    ai_analysis = "Додаткові технічні деталі уточнюються експертами."
+                    
+                return ai_title, ai_analysis
+                
             except Exception as e:
-                last_error = f"Groq ({model}): помилка обробки (спроба {attempt}): {e}"
-                print(last_error)
-                time.sleep(GROQ_RETRY_DELAY)
+                print(f"Groq ({model}): помилка ({e})")
+                time.sleep(3)
                 continue
+            
+    return None, None
 
-    notify_admin(f"Groq не відповів для статті «{title}» (усі моделі {GROQ_MODELS} вичерпано).\n{last_error}")
-    return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
-
+# ===== Telegram =====
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
@@ -257,147 +192,107 @@ def send_to_telegram(text):
         response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         if response.status_code == 429:
             retry_after = response.json().get("parameters", {}).get("retry_after", 5)
+            print(f"Telegram rate limit, чекаю {retry_after}с")
             time.sleep(retry_after)
             response = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
         return response.status_code == 200
-    except Exception as e:
+    except requests.RequestException as e:
         print(f"Помилка запиту до Telegram: {e}")
         return False
 
 
+# ===== Збір новин з усіх фідів =====
 def collect_entries():
     all_entries = []
-    now_utc = datetime.now(timezone.utc)
-    max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
-
     for feed_url, source_name, needs_translation in FEEDS:
         try:
-            time.sleep(2)  # Пауза між запитами до фідів
+            # Невелика пауза між фідами
+            time.sleep(1)
             resp = requests.get(feed_url, headers=HEADERS, timeout=15)
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
-            print(f"Не вдалося завантажити фід {source_name}: {e}")
+            print(f"Не вдалося завантажити фід {feed_url}: {e}")
             continue
 
-        if getattr(feed, "bozo", False) and not feed.entries:
-            continue
-
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:5]:
             link = entry.get("link")
             if not link:
                 continue
 
             published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
-            if not published_struct:
-                continue
-
-            published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-
-            if (now_utc - published_dt) > max_age_delta:
-                continue
+            if published_struct:
+                published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
+            else:
+                published_dt = datetime.now(timezone.utc)
 
             all_entries.append({
-                "link": link.strip(),
+                "link": link,
                 "title": entry.get("title", "Без заголовка"),
                 "summary": strip_html(entry.get("summary", ""))[:1500],
                 "source": source_name,
+                "needs_translation": needs_translation,
                 "published": published_dt,
             })
 
+    # Найсвіжіші новини — першими
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries
 
 
-def format_message(entry, ai_title, ai_analysis):
-    raw_title = ai_title or entry["title"]
-    clean_title = clean_text(raw_title)
-    safe_title = html.escape(clean_title)
-
+def format_message(entry, groq_title, groq_analysis):
+    title = groq_title or entry["title"]
     date_str = entry["published"].strftime("%d.%m.%Y")
-    safe_source = html.escape(entry['source'])
 
     parts = [
-        f"<b>{safe_title}</b>",
+        f"<b>{html.escape(title)}</b>",
         "",
-        f"🗓 {date_str} | 🏛 {safe_source}",
+        f"🗓 {date_str} | 📡 {html.escape(entry['source'])}",
     ]
 
-    if ai_analysis and len(ai_analysis.strip()) > 5:
-        clean_analysis = clean_text(ai_analysis)
-        safe_analysis = html.escape(clean_analysis)
-        parts += ["", f"🤝 {safe_analysis}"]
+    # Малюємо 🔎 тільки якщо аналіз дійсно існує і не порожній
+    if groq_analysis and len(groq_analysis.strip()) > 5:
+        parts += ["", f"🔎 {html.escape(groq_analysis)}"]
 
-    safe_link = entry['link'].replace('"', '%22')
-    parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']
+    parts += ["", f"<a href='{html.escape(entry['link'])}'>Читати першоджерело</a>"]
     return "\n".join(parts)
 
 
 def main():
     history = load_history()
     entries = collect_entries()
-    print(f"Зібрано свіжих записів з усіх {len(FEEDS)} фідів: {len(entries)}")
-
     new_posts = 0
-    checked = 0
 
     for entry in entries:
-        if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
+        if new_posts >= MAX_POSTS_PER_RUN:
             break
-
-        if entry["link"] in history["links"]:
+        if entry["link"] in history:
             continue
-
-        checked += 1
 
         article_text = fetch_article_text(entry["link"])
-        if not article_text:
-            article_text = entry["summary"]
+        if not article_text or len(article_text) < 50:
+            article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
 
-        result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], history["recent_posts"]
+        groq_title, groq_analysis = enrich_with_groq(
+            entry["title"], article_text, entry["source"], entry["needs_translation"]
         )
 
-        if result.get("failed"):
-            print(f"Пропущено тимчасово (Groq не відповів): {entry['title']}")
-            continue
-
-        if not result["relevant"]:
-            history["links"].append(entry["link"])
-            print(f"Пропущено (відхилено ШІ як нерелевантне): {entry['title']}")
-            continue
-
-        if result["duplicate"]:
-            history["links"].append(entry["link"])
-            print(f"Пропущено (дублює вже опубліковану подію): {entry['title']}")
-            continue
-
-        message = format_message(entry, result["title"], result["analysis"])
+        message = format_message(entry, groq_title, groq_analysis)
 
         if send_to_telegram(message):
-            history["links"].append(entry["link"])
-            history["recent_posts"].append({
-                "title": result["title"] or entry["title"],
-                "summary": (result["analysis"] or entry["summary"])[:300],
-                "source": entry["source"],
-            })
+            history.append(entry["link"])
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")
-            time.sleep(3)
+            time.sleep(3)  # щоб Telegram не вважав це спамом
         else:
             print(f"Не вдалося опублікувати: {entry['title']}")
 
     save_history(history)
-    print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
+    print(f"Готово. Опубліковано новин: {new_posts}")
 
 
 if __name__ == "__main__":
     if TELEGRAM_TOKEN and CHANNEL_ID:
-        try:
-            main()
-        except Exception as e:
-            error_trace = traceback.format_exc()
-            print(f"Критична помилка виконання:\n{error_trace}")
-            notify_admin(f"Критичне падіння скрипта:\n{error_trace}")
+        main()
     else:
-        print("Помилка: TELEGRAM_TOKEN або CHANNEL_ID не задано.")
+        print("Помилка: не знайдені TELEGRAM_TOKEN або CHANNEL_ID")

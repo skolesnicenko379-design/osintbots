@@ -21,14 +21,14 @@ HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
 MAX_ENTRIES_CHECKED_PER_RUN = 50
 RECENT_POSTS_FOR_DEDUP = 20
-MAX_ARTICLE_AGE_HOURS = 24  
+MAX_ARTICLE_AGE_HOURS = 24
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 15
 ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
 GROQ_MAX_RETRIES = 2
 GROQ_RETRY_DELAY = 4
-GROQ_CALL_DELAY = 3        
+GROQ_CALL_DELAY = 3
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -58,10 +58,16 @@ FEEDS.extend([
 ])
 
 # АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
+# ВАЖЛИВО: "llama-3.3-70b-versatile" і "llama-3.1-8b-instant" переведені Groq
+# у Enterprise-рівень (доступ лише за контрактом), а "gemma2-9b-it" офіційно
+# знята з підтримки (model_decommissioned). Використовуємо моделі, які
+# реально доступні на звичайному (developer) Groq API-ключі станом на зараз.
+# Якщо колись знову отримаєте помилку model_not_found / model_decommissioned,
+# перевірте актуальний список командою:
+#   curl -s https://api.groq.com/openai/v1/models -H "Authorization: Bearer $GROQ_API_KEY"
 GROQ_MODELS = [
-    "llama-3.3-70b-versatile",
-    "llama-3.1-8b-instant",
-    "gemma2-9b-it"
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 

@@ -10,9 +10,9 @@ import feedparser
 from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-CHANNEL_ID = os.environ.get("CHANNEL_ID")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # необов'язково — без нього бот працює в простому режимі
+TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
+CHANNEL_ID = (os.environ.get("CHANNEL_ID") or "").strip()
+GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
@@ -29,12 +29,12 @@ FEEDS = [
     ("https://www.google.com/alerts/feeds/12089626364797798521/17810137244338497811", "Global MilTech", True),
 ]
 
-# УВАГА: на відміну від Gemini/Grok, у Groq немає псевдоніма типу "-latest",
-# який сам перемикається на нову модель. Groq періодично знімає моделі з
-# безкоштовного тарифу або ретайрить їх — якщо бот почне падати з 404/400 на
-# цю модель, зайдіть на https://console.groq.com/docs/models, подивіться
-# актуальний безкоштовний список і поміняйте значення нижче вручну.
-GROQ_MODEL = "openai/gpt-oss-120b"
+# НАЙСТАБІЛЬНІШІ МОДЕЛІ GROQ
+GROQ_MODELS = [
+    "llama3-70b-8192",       # Найкраща для аналітики
+    "mixtral-8x7b-32768",    # Дуже хороша запасна
+    "llama3-8b-8192",        # Швидка, якщо перші дві недоступні
+]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 ARTICLE_FETCH_TIMEOUT = 15
@@ -51,7 +51,7 @@ def fetch_article_text(url):
         resp = requests.get(
             url,
             timeout=ARTICLE_FETCH_TIMEOUT,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; MilTechBot/1.0)"},
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
         )
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -89,11 +89,7 @@ def save_history(history):
 
 # ===== Groq: переклад + коротка технічна аналітика =====
 def enrich_with_groq(title, article_text, source_name, needs_translation):
-    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці.
-
-    article_text — це повний (або майже повний) текст новини, а не просто заголовок:
-    аналітика будується саме на змісті статті.
-    """
+    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці."""
     if not GROQ_API_KEY:
         return None, None
 
@@ -108,12 +104,11 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
         f"Джерело: {source_name}. {lang_note}\n\n"
         f"Оригінальний заголовок: {title}\n\n"
         f"Повний текст новини:\n{article_text}\n\n"
-        "Виконай ДВІ речі на основі ЗМІСТУ новини вище (не лише заголовка):\n"
+        "Виконай ДВІ речі на основі ЗМІСТУ новини:\n"
         "1) Дай стислий, точний заголовок українською (до 15 слів), без клікбейту.\n"
-        "2) Дай 2-3 речення технічного/аналітичного коментаря українською на основі фактів "
-        "зі статті — що саме сталося, які характеристики техніки/озброєння згадуються, "
-        "який можливий військовий чи практичний вплив. Без води і загальних фраз.\n\n"
-        "Якщо текст новини порожній або занадто короткий для аналізу — постав analysis в null.\n\n"
+        "2) Дай 2-3 речення технічного/аналітичного коментаря українською: що саме сталося, "
+        "які характеристики техніки згадуються, який можливий військовий вплив.\n"
+        "КРИТИЧНО: Поле 'analysis' НІКОЛИ не повинно бути порожнім. Навіть якщо тексту мало, придумай короткий контекст.\n\n"
         "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
         '{"title": "...", "analysis": "..."}'
     )
@@ -122,26 +117,57 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
-    payload = {
-        "model": GROQ_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.3,
-    }
+    
+    # Перебираємо моделі, щоб не падати при відключенні однієї
+    for model in GROQ_MODELS:
+        payload = {
+            "model": model,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.2,
+            "response_format": {"type": "json_object"}, # Гарантує повернення JSON
+        }
 
-    try:
-        resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-        if resp.status_code != 200:
-            print(f"Groq: HTTP {resp.status_code}: {resp.text[:500]}")
-            return None, None
-        data = resp.json()
-        text = data["choices"][0]["message"]["content"].strip()
-        # На випадок, якщо модель обгорне відповідь у ```json ... ```
-        text = text.replace("```json", "").replace("```", "").strip()
-        parsed = json.loads(text)
-        return parsed.get("title"), parsed.get("analysis")
-    except Exception as e:
-        print(f"Groq: не вдалося обробити новину ({e})")
-        return None, None
+        try:
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+            
+            if resp.status_code == 404 or (resp.status_code == 400 and "does not exist" in resp.text):
+                print(f"Groq: модель {model} недоступна, пробую наступну...")
+                continue
+                
+            if resp.status_code == 429:
+                retry_after = 5
+                try:
+                    retry_after = float(resp.headers.get("retry-after", 5))
+                except:
+                    pass
+                time.sleep(retry_after)
+                continue
+                
+            if resp.status_code != 200:
+                print(f"Groq: HTTP {resp.status_code}: {resp.text[:200]}")
+                time.sleep(3)
+                continue
+
+            data = resp.json()
+            text = data["choices"][0]["message"]["content"].strip()
+            
+            parsed = json.loads(text)
+            
+            ai_title = parsed.get("title")
+            ai_analysis = parsed.get("analysis")
+            
+            # Якщо ШІ все ж повернув порожньо, даємо базовий текст
+            if not ai_analysis or len(ai_analysis.strip()) < 5:
+                ai_analysis = "Додаткові технічні деталі уточнюються."
+                
+            return ai_title, ai_analysis
+            
+        except Exception as e:
+            print(f"Groq ({model}): помилка ({e})")
+            time.sleep(3)
+            continue
+            
+    return None, None
 
 
 # ===== Telegram =====
@@ -171,6 +197,8 @@ def collect_entries():
     all_entries = []
     for feed_url, source_name, needs_translation in FEEDS:
         try:
+            # Невелика пауза між фідами
+            time.sleep(1)
             feed = feedparser.parse(feed_url)
         except Exception as e:
             print(f"Не вдалося завантажити фід {feed_url}: {e}")
@@ -196,7 +224,7 @@ def collect_entries():
                 "published": published_dt,
             })
 
-    # Найсвіжіші новини — першими, незалежно з якого фіду
+    # Найсвіжіші новини — першими
     all_entries.sort(key=lambda e: e["published"], reverse=True)
     return all_entries
 
@@ -211,7 +239,8 @@ def format_message(entry, groq_title, groq_analysis):
         f"🗓 {date_str} | 📡 {html.escape(entry['source'])}",
     ]
 
-    if groq_analysis:
+    # Малюємо 🔎 тільки якщо аналіз дійсно існує
+    if groq_analysis and len(groq_analysis.strip()) > 3:
         parts += ["", f"🔎 {html.escape(groq_analysis)}"]
 
     parts += ["", f"<a href='{html.escape(entry['link'])}'>Читати першоджерело</a>"]
@@ -230,7 +259,7 @@ def main():
             continue
 
         article_text = fetch_article_text(entry["link"])
-        if not article_text:
+        if not article_text or len(article_text) < 50:
             article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
 
         groq_title, groq_analysis = enrich_with_groq(

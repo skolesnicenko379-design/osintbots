@@ -23,17 +23,22 @@ FEEDS = [
     ("https://mil.in.ua/uk/news/feed/", "mil.in.ua", False),
     ("https://defence-ua.com/rss.xml", "defence-ua.com", False),
     ("https://breakingdefense.com/feed/", "Breaking Defense", True),
-    
+
     # Нові джерела Google Alerts із кастомними назвами для Telegram
     ("https://www.google.com/alerts/feeds/12089626364797798521/7402252502089930204", "Western Defense Industry", True),
     ("https://www.google.com/alerts/feeds/12089626364797798521/17810137244338497811", "Global MilTech", True),
 ]
 
-# НАЙСТАБІЛЬНІШІ МОДЕЛІ GROQ
+# АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ
+# ВАЖЛИВО: "llama3-70b-8192", "mixtral-8x7b-32768" і "llama3-8b-8192" офіційно
+# зняті з підтримки (model_decommissioned). Використовуємо моделі, які реально
+# доступні на звичайному (developer) Groq API-ключі станом на зараз.
+# Якщо колись знову отримаєте помилку model_not_found / model_decommissioned,
+# перевірте актуальний список командою:
+#   curl -s https://api.groq.com/openai/v1/models -H "Authorization: Bearer $GROQ_API_KEY"
 GROQ_MODELS = [
-    "llama3-70b-8192",       # Найкраща для аналітики
-    "mixtral-8x7b-32768",    # Дуже хороша запасна
-    "llama3-8b-8192",        # Швидка, якщо перші дві недоступні
+    "openai/gpt-oss-120b",    # Найкраща для аналітики
+    "openai/gpt-oss-20b",     # Швидка запасна
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -117,32 +122,32 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
-    
+
     # Перебираємо моделі, щоб не падати при відключенні однієї
     for model in GROQ_MODELS:
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2,
-            "response_format": {"type": "json_object"}, # Гарантує повернення JSON
+            "response_format": {"type": "json_object"},  # Гарантує повернення JSON
         }
 
         try:
             resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-            
-            if resp.status_code == 404 or (resp.status_code == 400 and "does not exist" in resp.text):
+
+            if resp.status_code == 404 or (resp.status_code == 400 and ("does not exist" in resp.text or "model_decommissioned" in resp.text)):
                 print(f"Groq: модель {model} недоступна, пробую наступну...")
                 continue
-                
+
             if resp.status_code == 429:
                 retry_after = 5
                 try:
                     retry_after = float(resp.headers.get("retry-after", 5))
-                except:
+                except Exception:
                     pass
                 time.sleep(retry_after)
                 continue
-                
+
             if resp.status_code != 200:
                 print(f"Groq: HTTP {resp.status_code}: {resp.text[:200]}")
                 time.sleep(3)
@@ -150,23 +155,23 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
 
             data = resp.json()
             text = data["choices"][0]["message"]["content"].strip()
-            
+
             parsed = json.loads(text)
-            
+
             ai_title = parsed.get("title")
             ai_analysis = parsed.get("analysis")
-            
+
             # Якщо ШІ все ж повернув порожньо, даємо базовий текст
             if not ai_analysis or len(ai_analysis.strip()) < 5:
                 ai_analysis = "Додаткові технічні деталі уточнюються."
-                
+
             return ai_title, ai_analysis
-            
+
         except Exception as e:
             print(f"Groq ({model}): помилка ({e})")
             time.sleep(3)
             continue
-            
+
     return None, None
 
 

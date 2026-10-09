@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
-CHANNEL_ID = (os.environ.get("CHANNEL_ID") or "").strip()
+CHANNEL_ID = (os.environ.get("DIPLOMACY_CHANNEL_ID") or os.environ.get("CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
 
 HISTORY_FILE = "posted_news.json"

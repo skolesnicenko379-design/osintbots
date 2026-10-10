@@ -348,29 +348,13 @@
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzdSRW11Rm90Y21ONm5MbFFuYjE3UXVMQ1ZVX1hETnB1OVFmSE9jN3pQeU1pSlVwNHZjNVBEYW9rbFJYOTRxYXVRWkloZnE0RzZrVnhEN0ppX1h3UkxiaTRzZWR5QnhMX0dRd3ZiaVd5R281T3Z4S1ppTmllREZuNGtRYm9acjJXZ1l6Ymg0Y2VGYndkRTk1dXNRRVNjTWszZHFjUlBVZHVZbnVIN0IwcF9DLW5pUDNxZkd0T1NITnhxTF85bFNzbm5xNXpmYmt1V1c5XzVtNA?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTXRreXN1bnZFei02UmVONGoxOWpjWXBpWHNmbG93Zm15S2tGSDZfSXltWXpzZG5SQko3RkVjRTUzXzc4SGtvT1Y2QTE2TWphbmRoalB5SUxlc1dzbDJJblpiQkRmU0lYQVBxYkdkUW9rV0xXQ0RnRENLRHBnQ3dpM2d6REhLcTh2eHJTOTA5ZjdVeC03VFBtX2RfRF91aHJkOHowN2hlTUtHXzBOR2ZF0gGvAUFVX3lxTE1NdGt5c3VudkV6LTZSZU40ajE5amNZcGlYc2Zsb3dmbXlLa0ZINl9JeW1ZenNkblJCSjdGRWNFNTNfNzhIa29PVjZBMTZNamFuZGhqUHlJTGVzV3NsMkluWmJCRGZTSVhBUHFiR2RRb2tXTFdDRGdEQ0tEcGdDd2kzZ3pESEtxOHZ4clM5MDlmN1V4LTdUUG1fZF9EX3VocmQ4ejA3aGVNS0dfME5HZkU?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0FTcDVHeGF2SldzU0t4NVl6Nk80QjN5NnIwdThtSlE1RVdhUVdwZTN1djZJZGJNTDRaVEV3cDh0VDVsQlpabVh4OGUzMXZmWi1zbjhXSHBUM1hlbDg4amxNV1Y5VUtOOGY4eDNEdlcxVV83YUZBWHhyTVFfYW5RNXh0TTROT1ZVQldEaE1BRXVpYXU1aXhlY2l1c1YxamVaamE3dNIBpAFBVV95cUxNT0FTcDVHeGF2SldzU0t4NVl6Nk80QjN5NnIwdThtSlE1RVdhUVdwZTN1djZJZGJNTDRaVEV3cDh0VDVsQlpabVh4OGUzMXZmWi1zbjhXSHBUM1hlbDg4amxNV1Y5VUtOOGY4eDNEdlcxVV83YUZBWHhyTVFfYW5RNXh0TTROT1ZVQldEaE1BRXVpYXU1aXhlY2l1c1YxamVaamE3dA?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckI4MS1wVlhrajJPTjB3TkFBYmxMeUZKMW5YaDhtcWcwbnVxc2YtbWY2cEx2Y19taEw5WEZnSkEtR0FpM3d2dnpJYXdhd1VtYUVDcE9WSkRUSzc3UjFkYnB4Ylljb3huQXNETU9pcUYza3F1T2Mxbm1OcVJTdHBxZXpKVkhtSHBVOWxHNV91TQ?oc=5"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckI4MS1wVlhrajJPTjB3TkFBYmxMeUZKMW5YaDhtcWcwbnVxc2YtbWY2cEx2Y19taEw5WEZnSkEtR0FpM3d2dnpJYXdhd1VtYUVDcE9WSkRUSzc3UjFkYnB4Ylljb3huQXNETU9pcUYza3F1T2Mxbm1OcVJTdHBxZXpKVkhtSHBVOWxHNV91TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3JQR185TEc5eEtCYVRKMlVtM2IzSW01TFJmc1B0MlkybnpNZ3VoRlF2UVMyQkNpNElKMnlYbG9tRllWeHlkZkh6S201V1kydnBHOHlaVVFWZllRcTI0ZjBzRXRtXzh5eExid3IzcDE5TWphU0pYbFZFZ0FXcFV4eUF1Y0tLUnFYelF2V050ZUIyMGMzN21XTHZWUlowNjg3WFpyY1UzalNoWkdkS3F4d1ljTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFd2Y0JnT1puUmtGXzFpRHNFZkRxU2NOcVBRZnROd1UwVXRmYy02eGYxR2xqVkdodUhuUTZUUnZFcnFEY3BYWkRad21ZMnQ4cGxHY0MyX3V1NzBjSndSVTYtNEZkWWdkTVFjOXJVVnNmWUVSdUU0WEY3MXJDUUVsbGdEQXAyLTl6TThxdjMxUnlzUzc2TVdHQVFObEVsbEJ4YnNZQXFsaWc1cU5VOHBGT3VUVGFtOEVZQlRIUXB4bndRWlk?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWElPb1pEY09fVHNnS04tLVJMWHlPaW05cEFmcThtQ1dicXRuNTBXUVNlenBpVjNSUXdQUlp2eG5mM2RHUmJGSXZZTDY1Sl9MMVMxMnQwdktNc1VURXFPSFkxWXlKbFJvSThMdWgyUV9LWExrclZJNXZVb1FOX285WTdfNzRMOVdMSEVXWjhjbzlza2VVMzV5Z2RUakc2NWl2dUlKMWRDNGM2a242Y3lLSVFGMDlRU3FoLTlkSHB4NHZBbkZFZUw5SlZBNkR6LUV1TUNxandfcklSY1lZT2hRLXNuZG1xRUxvMUxFVHJ1OXVLYlRqZU5jdHRB?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcC15TzQ1NnFqeXZSQzRQVkJ4MkZKeUEzRi1GR2hZbDlSY0FSMG1kcEFTaHFOdXZEMHl4UFptbnRIeEN3YjE2WVl1VmNBdm5iWVg1NmU0NFhzS1JLRjdGYm5aV0FTOUM3REp4R3FyN0JnRTZrcmxzN3lERW1ld1puTzlJczhuaW9pMmVnaFhUNDA3djJ1RkdWSUU2elNqRlNiN2FJ0gGoAUFVX3lxTE9HYTk1b1BuNVFTT2tCYzNiM3dmSWhfUmxwbTEtaWJOSDZpbXZIalBMdDBYQnJWSEhOME8tZWpHaGpyS2lfbEszQmNhY05Uc1lGeG81RkRtWm5rWmJNZ1NfNFVsUWFUR1phWFotMUp1STZrU1RMZ1ppVGR2OHZjb01VMHo4NmxZcEx6OFllTUhrek1wRUJEWWwwTkpOaWdnaUJoTGU4QTFsdQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Торговельний конфлікт США та Канади продовжується: наслідки для трансатлантичного альянсу",
-      "summary": "Суперечка щодо тарифів і обмежень у торгівлі між США та Канадою підриває традиційно міцні економічні зв'язки двох ключових членів НАТО, створюючи ризик фрагментації спільних постачань у оборонному секторі. Це також підкреслює зростаючу схильність Вашингтона до протекціоністських кроків, що може ускл",
-      "source": "Geo-Economics"
-    },
-    {
-      "title": "Рада ЄС ухвалила поправки до резерву стабільності ринку ETS2",
-      "summary": "Нові правила посилюють функціонування резерву стабільності, що підвищить передбачуваність цін на викиди та стимулюватиме інвестиції у низковуглецеві технології у будівництві та дорожньому транспорті. Це крок до виконання Європейського зеленого курсу та зміцнює співпрацю з США у сфері кліматичної пол",
-      "source": "Рада ЄС"
-    },
-    {
-      "title": "Лай закликає індо‑тихоокеанські демократії підтримати мир навколо Тайваню",
-      "summary": "Виступ президента Лая підкреслює спробу Тайваню розширити безпекову підтримку за межами традиційних партнерів, що може стимулювати більш активну координацію США, НАТО та інших демократичних країн у регіоні. Така ініціатива підвищує ризик ескалації проти Китаю, змушуючи західні альянси переглянути ст",
-      "source": "Global Defense"
-    },
-    {
-      "title": "Різні американські та радянські інтерпретації Ісландської зустрічі в Рейк'явіку",
-      "summary": "Різні версії підсумків ісландської зустрічі 1986 року демонструють, як США та СРСР формували власні історичні наративи, що впливало на подальший хід холодної війни. Це підкреслює важливість критичного перегляду архівних матеріалів для розуміння сучасних стратегічних підходів НАТО до Росії.",
-      "source": "US Diplomacy"
-    },
     {
       "title": "Ідентична політика в Чорногорії як бар'єр для європейської інтеграції",
       "summary": "Поляризація суспільства Чорногорії навколо сербської ідентичності ускладнює виконання критичних реформ, необхідних для вступу до ЄС, що може затримати розширення альянсу на Балканах. Це створює вікно можливостей для зовнішніх акторів, які використовують етнічні наративи для підриву європейських цінн",
@@ -450,6 +434,26 @@
       "title": "Супротивники США атакують з боків: нові виклики для НАТО",
       "summary": "Стаття підкреслює, що вороги США переходять до бокових, гібридних дій, що підриває традиційну детерміновану оборону. Це змушує НАТО та ЄС переглянути підходи до протидії асиметричним загрозам, посилити координацію в сфері кібербезпеки, інформаційних операцій та швидкого реагування.",
       "source": "Global Defense"
+    },
+    {
+      "title": "Вбивство в Окінаві: випробування для союзницької дисципліни США та Японії",
+      "summary": "Цей інцидент підсилює внутрішньополітичний тиск у Токіо на перегляд статусу американських баз, що може ускладнити логістичну підтримку США в індо-тихоокеанському регіоні. Для трансатлантичного альянсу це сигнал про вразливість безпекової архітектури на Східному фланзі, де соціальна напруга в союзниц",
+      "source": "US Diplomacy"
+    },
+    {
+      "title": "США копіюють китайську модель контролю над стратегічними рідкісними металами",
+      "summary": "Впровадження Вашингтоном механізмів, аналогічних китайській практиці для вольфраму та чорної маси, свідчить про перехід від ринкової лібералізації до державного протекціонізму у сфері критичних ресурсів. Це створює нову фазу технологічної та економічної конкуренції, змушуючи ЄС переглядати власну ст",
+      "source": "Geo-Economics"
+    },
+    {
+      "title": "Китайські технологічні інвестиції в Малайзії: ризики для західних ланцюгів постачання",
+      "summary": "Розширення китайського технологічного впливу в Малайзії створює нову точку тиску на індо-тихоокеанську безпеку, змушуючи США та ЄС переглядати стратегії диверсифікації критичних ланцюгів постачання. Це підкреслює необхідність координації західних альянсів для запобігання формуванню альтернативної те",
+      "source": "Geo-Economics"
+    },
+    {
+      "title": "Рубіо наказав дипломатам прискорити тиск на Іран через ризик атаки",
+      "summary": "Директива Держдепу США сигналізує про перехід від пасивного спостереження до активної дипломатичної мобілізації союзників для стримування Ірану, що може посилити координацію санкційних та безпекових заходів у рамках НАТО та ЄС. Такий крок підвищує напруженість на Близькому Сході, змушуючи трансатлан",
+      "source": "US Diplomacy"
     }
   ]
 }

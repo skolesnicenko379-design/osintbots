@@ -359,14 +359,11 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEMwZ3A3LUktVTM2MnUtdDdyWng4NVVGd3NValpLd0d4a1FvOTNRT1BhSXVNYmNDZVhhc05POUFoZ2pnZmlGUWwzTkUxREVSclZxQjBKVWEzUC1IX2JIcWZoZ3dOVTk4WVpsSDNmbUZ5WHJIdHFtVHVKOVIweElKcUJsNEFfVFJ2TWNCWHI2N2xIQTctQ00zcHZleXI2Q1hvRnpIQU1NdEI?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3VNOW5NNS1lLTc1SEREUTVKOUpOR1hQZGVmckNTVjhycUFNbUQ2VFVwdWdIZmlaNkVZaWs4YmVGNWpjZEw2TTBlTTZnMmljVGItMnJmRzFFZHdWbmZSUldhLVFDbzhzMHM2U2pQQXlWN0t2T1FFdnVuTHV6V1RSTXNUYS1QNFlCRU04ZDBQX0d5ZU9VMFc2U3pUMkc5MTY4akhSTw?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemNKRENlcXN2cldjWVJWeXQxWEJQb1pBTEhVMTNZY2ZPV2hRYjVZejNXZERyZXB2b1BlN09LWGNJeU81M3NXX3dBek1tcUtyNWJzSU1PRTZ3WnRPWmdlU0dpczNocFpRaWZKYmdBUi0xYktLamotbFVfNWxrQWxtZTdVYThXdzdaMGZVaGItRzdxOHNWMUZNdmhB?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDdxbEk0RGFadHRjUW9fZFRaNm1CMVBIQk9ydDJYTWROWVh1eWhVZ3NyaHBaMVpMTnpGSlM4dkdhQUJicXZ4dVZQQ2FSZGlqaUhSV1VnVEhXVHFmN0NFaFlKSDZIMmhlWlkySm1IdmhEMkEyeEY1U0pwS3BpTGF1VlVReHJUNVNtWlAzTVpzUDNzNDNiYnc?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDdxbEk0RGFadHRjUW9fZFRaNm1CMVBIQk9ydDJYTWROWVh1eWhVZ3NyaHBaMVpMTnpGSlM4dkdhQUJicXZ4dVZQQ2FSZGlqaUhSV1VnVEhXVHFmN0NFaFlKSDZIMmhlWlkySm1IdmhEMkEyeEY1U0pwS3BpTGF1VlVReHJUNVNtWlAzTVpzUDNzNDNiYnc?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qNTRmYTRuMXlVNVdPQjNjN05rMFhUc3lUc0xlMVJxM1B2NnFma1hiM3BtYmNQUENKSHU5aFpYc2daVzExTUxqbS1SOHRmTzNTWV9uZVY2V1A1Rm9scU9CVEVFcE1mV0ZHQ1JR?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGpzZExwX0x4Z05wNnpRd2Rid1dWcU4xbFBfdlhQVDN6RUJhYmNYaHgya0dkemhvVlRiUmZJRE1tWjhveHpiTlhQZTEwUG9YWFZlY2lwTnJMWmRBMVJtSEl4X3lCcWlDU2RWR3hkZ3FGeUZDRlpLMDZfM0tkYVdwdDlSdElrbGVKbGV2MjRsWmE?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Загроза США ліквідувати МКС ускладнює позицію Такайчі в Японії",
-      "summary": "Агресивна риторика Вашингтона щодо Міжнародного кримінального суду підриває інституційну основу міжнародного права, що створює дипломатичну пастку для Токіо, змушуючи балансувати між союзницькою лояльністю та внутрішніми правовими зобов'язаннями. Це посилює ризик фрагментації західних підходів до гл",
-      "source": "US Diplomacy"
-    },
     {
       "title": "ЄС обмежує китайські авто, але залишається залежним від рідкісних земель",
       "summary": "Ця дисбалансність демонструє структурну вразливість європейської стратегічної автономії: попри захист автомобільної промисловості, критична залежність від китайських рідкісних земель залишає Брюссель без ефективних інструментів тиску у сфері технологічного суверенітету. Для трансатлантичного альянсу",
@@ -461,6 +458,11 @@
       "title": "Китайські автомобілі не можуть перетнути кордон Канади та США, заявив посол Трампа",
       "summary": "Обмеження на китайські автомобілі, що перетинають кордон Канади до США, підкреслює американську стратегію контролю над критичними ланцюгами постачань і зменшення впливу Китаю у регіоні. Це може послабити економічні зв’язки між Канадою та США, змушуючи Канаду шукати альтернативних постачальників, і п",
       "source": "Geo-Economics"
+    },
+    {
+      "title": "Рубіо обґрунтував санкції проти МКС у розмові з Японією",
+      "summary": "Пряме обґрунтування санкцій проти Міжнародного кримінального суду на рівні держсекретаря США сигналізує про інституціоналізацію конфронтації Вашингтона з глобальними правовими механізмами, що підриває легітимність міжнародного права. Для Токіо це створює складну дипломатичну дилему: необхідність бал",
+      "source": "US Diplomacy"
     }
   ]
 }

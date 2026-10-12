@@ -32,39 +32,17 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YQU1ZNnFaZFBLVUZyU2tYQkc3V0wyOFhMM3dGd3E0cG5vRGlVcTdQMkdsSG5TM3Z2Z3UydW45bDJ4LTZsd2tYbFJpNjY5YXo5ZW1oVDhoaw?oc=5",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMkRJRFFaQ0h6M1g5Sm5VWGFzTEMyaDRHQ0YzWGpJbF9PWUd4TTJtaFZZa3RBbzltR0ZvWlZZV2VlVVcyQzYwOU9wdmc2UEd1WHZFQmpKc1RKMmlTN2xvV19ESE9EZGE4OGowMHdGNTJJV28tTHFjcmo0MVpOOVpYV0VrbkNOR1pqeXVsWnN4SjlzVE5RckZ3ZzFWNHE2czJGRExvNGdtRi15Tlhmbm5LUnlUYWtkLWdxc3IwUzJDR2pOZ2Y3eGU4cXdsMlVBMVp4b1Z6cVN6M01VUVhhUWZjd0JLbHd4eWtXWGdz?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRkJQVEZEQlFRY1RocFViMGs3WFpxV1lOcFc0UzdGZXdVNzBRd1VOTUlRNE9wUHh3RGlLTzdJRlBVWkRHMUdtbkFTWVJXRWdHLVE?oc=5"
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRkJQVEZEQlFRY1RocFViMGs3WFpxV1lOcFc0UzdGZXdVNzBRd1VOTUlRNE9wUHh3RGlLTzdJRlBVWkRHMUdtbkFTWVJXRWdHLVE?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/dprk-council-adds-three-individuals-and-four-entities-to-sanctions-lists-over-nuclear-missile-programmes-and-russia-ties/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWGJoNHBCS1FlbVlieGRPRXFPaXhpdjNLcGd1bF8tZWNuVnh5Mk1SSE5haFFaLWxPU2dyWF9FRlN4SlN3RzdRYk9pWnJBRFA0Szdua3ZIY0lUcENTS19EVGhXalE5amRaRWx6cG83NTRIRFBubFE?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0pXcWpwV2swNmt5ZjIta3YwSmstTXAtV2dVbUdQQ2U1ZXFuR0hDRklYdV9LSVFUeVFmNWdRMWkxc1BZM3BzbEIxWkFGYUE1QktMN3ZiaGc4Y3RXVHJ1NGMzdG5iXzZtUkRFYnBiODRaQWVDMnRPVnAwcEExWE9QRlc1T3dZNzdVUFFsV1Nudk1HZHZxMm0zX2F2ZW4xLTg?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM214SGhhb2ZfaC0zRnpaZ1RSbTBlb1pjSExNU1VzOEpxY3lYZy12dEJZcTJEMFJySFRIdUFqUU9WQVMwTDFBSmJDdklUaUhZd1J4MjVwemRvendWX3JpNUJrUExCMnZyclgtdkdsVzM0MndReDNBOG16NmpqdlVoMVVUUHpid245T1BHQlRaR2hNd3o2V1FHYUpyWFFiNEZaaklvdmctSDFaRDVYbmJB?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTg2ZkZaSjgwRDJEV3J0VEtJcUdQcmZ1UVFQRlNudTJTNXM5b2JOOGR6ODJHRHZRZjZ3SmpzM3Y0UUpsWnhpMldtTnMtWGRCWUZaVXU4amRRMm0tLUMxOGxEUXBrbDlCMW9iTDUwb05ONHN2akxMVGRhSVNZRGlVbGt2Z3A5RDB3cU1kbUg3bkdaaTE3WWhSYU9wVG1HdkpBV1dKX1RnS2NBNmZaRHRpbVo1OXl5Y3NjWmtUcGwyWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUxTeGh3VERxRWgtRnNjeWJvbmJmY011aXN2ZUlNUDhxcE1fZndYbTZsU0tWcXJWaWZ3aXRLR3lnRHI1SG0zeE9DZUh3dy01UWVqYnRDenZMRHB1VW1RU0R2RENRcmdqOGlNNkxuMnVGVU9pUFZHRkFOWFAtZFBMZTY4dlNGZXhrc1d3OHVvcTlXanAzdmNnLVRteWlqMExBLVhtXzFVOFZBWHZ0N1hIcENod2loYmlNSW5Qbm1qMFRnOWNTZXRmZGNDaDFvQdIB2wFBVV95cUxQcGRLNFlNN1I5cldmZEh1UTZlSHYtRHc2NVNSSGlfOXJVWHl4Zk9EeEp0VmR0R0FLOGhabUljc3JVTjJFYS1XVmw4YXpTSERYNDJsRjdBc2FWRUk5RTliNS1Kd0EzcHU2ZWxGbXpLM2pOaFQybnpOY0c2YjEtVEFmOGRxWkJacTAyZkFsaDZoUjR5XzhQTlJPTXpTQ19ER1dzcnZLbEJrQld1S3I1MTJXR3J5b1NnbTRPSGtERGpwX2o1WVZKRXI5ZnNNWUhDMGJDZFlMcnp3M185Sm8?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Світова хвиля підвищення ставок: Fed, ECB і BOJ триматимуть їх до 2027",
-      "summary": "Тривале утримання високих процентних ставок у провідних економік світу обмежить глобальний кредитний простір, підвищуючи вартість фінансування та уповільнюючи інвестиційну активність. Це сприятиме подальшому зниженню інфляційного тиску, але створить додатковий тиск на боргові ринки, особливо у країн",
-      "source": "Центробанк Китаю"
-    },
-    {
-      "title": "Fidelity: Японські банки отримають додатковий прибуток у зв’язку зі зростанням ставок",
-      "summary": "Підвищення процентних ставок підвищує чисті процентні маржі японських банків, що стимулює їх прибутковість і робить акції банків привабливішими для інвесторів. Це може призвести до зростання капіталізації фінансового сектора та підвищення ліквідності на фондових ринках Японії, хоча одночасно підвище",
-      "source": "Банк Японії"
-    },
-    {
-      "title": "Китайські акції падають через зростання глобальних доходностей та геополітичну напругу",
-      "summary": "Падіння китайських акцій свідчить про посилення глобального ризикового апетиту, оскільки підвищення доходностей у США та Європі підвищує вартість капіталу та змушує інвесторів переорієнтуватися з ризикових активів. Геополітична напруга додає додатковий системний ризик, що може знизити ліквідність на",
-      "source": "Мінфін США"
-    },
-    {
-      "title": "Розкриття позицій у єні спричинило різке падіння ринків у серпні 2024",
-      "summary": "Розкриття великих позицій у єні підвищило попит на йену, викликавши її різке піднесення та різке скорочення ліквідності в глобальних ризикових активах. Це призвело до різкого падіння фондових та валютних ринків, підвищивши фінансові ризики та створивши додатковий інфляційний тиск у країнах‑імпортера",
-      "source": "Банк Японії"
-    },
-    {
-      "title": "Попередження краху ринку акцій: оцінки повертаються до дотком‑бульбашки",
-      "summary": "Зростання мультиплікаторів акцій до рівнів, характерних для дотком‑бульбашки, підвищує ризик різкого корекційного руху, що може викликати масовий відтік капіталу та зниження ліквідності на фондових ринках. Така динаміка створює додатковий тиск на інфляційні очікування, оскільки інвестори можуть вима",
-      "source": "ФРС США"
-    },
-    {
-      "title": "Nigeria $2bn swap highlighted by Ghana yuan payment system",
-      "summary": "Ghana launched a yuan‑denominated payment platform that enables direct settlement of cross‑border transactions with Nigeria, where a $2 billion bilateral currency swap with China is being negotiated. The swap would provide Nigeria with up to $2 bn of yuan liquidity, reducing reliance on hard‑currenc",
-      "source": "Центробанк Китаю"
-    },
     {
       "title": "Gulf Strikes and Truce Doubts Impact Oil Supply",
       "summary": "Fact: Recent strikes in the Gulf and doubts over a ceasefire have disrupted oil production. Technical: Gulf output, about 30% of global supply, saw a 5% capacity hit, pushing WTI spot up 12% and widening the spread to Brent by 0.8 USD. Macro: Energy market liquidity tightened, risk premium on oil fu",
@@ -134,6 +112,36 @@
       "title": "Затримка Іран-ВП дипломатії через атаки Хуті на Саудівську Аравію",
       "summary": "Збільшення атак Хуті на Саудівську Аравію затримало переговори між Іраном і США. За останній місяць кількість ударів зрісла на 40 %, а оборонні витрати Саудівської Аравії піднялися на 5 % у порівнянні з попереднім роком, що призвело до зниження виробництва на 3 % у Персидському затоці. Це підвищує р",
       "source": "Мінфін США"
+    },
+    {
+      "title": "ЄС розширив санкції проти Пхеньяну: 3 особи, 4 компанії",
+      "summary": "Рада ЄС ухвалила нові обмежувальні заходи проти трьох фізичних осіб і чотирьох юридичних осіб, які підтримують ядерну та ракетну програми Північної Кореї та співпрацю з Росією. У санкційний список включено їхні активи в ЄС, заборону на фінансові операції та візові обмеження. Це збільшить фінансову і",
+      "source": "Рада ЄС"
+    },
+    {
+      "title": "ЄС створив місію підтримки безпеки в Лівані",
+      "summary": "Рада ЄС ухвалила створення місії EU Support Mission in Lebanon (EUSM Lebanon) для посилення Ліванських збройних сил та Сил внутрішньої безпеки. Місія передбачає надання технічної, логістичної та навчальної підтримки в рамках спільної політики безпеки та оборони ЄС. Очікується зниження ризикового пре",
+      "source": "Рада ЄС"
+    },
+    {
+      "title": "Глобальна ліквідність: підйом доходностей США, короткостроковий відгук A-Share",
+      "summary": "Підйом доходностей державних облігацій США сигналізує про глобальну зміну ліквідності. Доходність 10-річних облігацій зросла до 4,2 %, а 2-річних до 4,6 %, що підвищує спред до китайських A‑Share. Це обмежує кредитний простір, підвищує вартість фінансування для А‑Share, створює короткострокову можли",
+      "source": "Центробанк Китаю"
+    },
+    {
+      "title": "BOJ готує швидші підвищення ставок",
+      "summary": "Банк Японії оголосив готовність пришвидшити підвищення ставок у відповідь на зростаючі інфляційні тиски. Потенційне підвищення ключової ставки на 25 б.п. вже вважається можливим, а інфляція досягає 3,5 % рр., з ядром 3,2 %. Це сприятиме збільшенню спредів на японських облігаціях, підвищенню вартості",
+      "source": "Банк Японії"
+    },
+    {
+      "title": "Прогнози ФРС щодо ставок 2026–2031",
+      "summary": "ФРС прогнозує, що ставки залишаться на рівні 5,25–5,50 % до 2027 р., після чого поступово знизяться до 4,75 % у 2031 р. Очікувані інфляційні показники: загальна інфляція 2 % у 2026 р., ядро 2,5 %; доходність 10‑річних облігацій 4,2 % у 2027 р., 3,8 % у 2031 р. Підтримка високих ставок збільшить спре",
+      "source": "ФРС США"
+    },
+    {
+      "title": "Туреччина, Саудівська Аравія, Йорданія та Сирія обговорюють електроенергетичний проект",
+      "summary": "Туреччина, Саудівська Аравія, Йорданія та Сирія провели переговори щодо створення спільної електричної мережі. Планується будівництво високовольтних ліній, що дозволить передавати до кількох гігават електроенергії та потребуватиме інвестицій у діапазоні кількох мільярдів доларів, фінансованих держав",
+      "source": "Сировинні ринки"
     }
   ]
 }

@@ -189,7 +189,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
         "УВАГА: ВІДПОВІДАТИ ВИКЛЮЧНО УКРАЇНСЬКОЮ МОВОЮ (і заголовок, і текст аналізу).\n\n"
         f"Джерело: {source_name}\n"
         f"Заголовок: {title}\n\n"
-        f"Текст статті:\n{article_text}\n\n"
+        f"Текст статті:\n{article_text[:2500]}\n\n"
         "ОСТАННІ ПОСТИ (перевірка на дублікати):\n"
         f"{recent_block}\n\n"
         "ПРАВИЛА АНАЛІЗУ:\n"

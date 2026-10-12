@@ -13,7 +13,7 @@ import requests
 
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
-CHANNEL_ID = (os.environ.get("CHANNEL_ID") or "").strip()
+CHANNEL_ID = (os.environ.get("GEOECONOMICS_CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
@@ -61,7 +61,7 @@ for query, label in search_queries:
 FEEDS.extend([
     ("https://www.imf.org/en/News/RSS", "МВФ", True),
     ("https://www.wto.org/english/res_e/wto_rss_e.xml", "СОТ", True),
-    ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", True), # Оновлене посилання BIS
+    ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", True),
     ("https://www.ecb.europa.eu/rss/press.html", "ЄЦБ", True),
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
     ("https://search.worldbank.org/api/v2/news?format=atom", "Світовий банк", True),
@@ -192,7 +192,6 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
             ai_title = parsed.get("title", "")
             ai_analysis = parsed.get("analysis", "")
 
-            # Захист від того, що слабка модель просто копіює приклад з промпту
             if "Унікальний заголовок" in ai_title or "Коментар щодо" in ai_analysis:
                 raise ValueError("Модель повернула шаблонний текст.")
 
@@ -212,7 +211,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
 def send_to_telegram(text):
     if not CHANNEL_ID:
-        print("Помилка: CHANNEL_ID порожній!")
+        print("Помилка: GEOECONOMICS_CHANNEL_ID порожній!")
         return False
         
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -371,4 +370,4 @@ if __name__ == "__main__":
             print(f"Критична помилка виконання:\n{error_trace}")
             notify_admin(f"Критичне падіння скрипта:\n{error_trace}")
     else:
-        print("Помилка: TELEGRAM_TOKEN або CHANNEL_ID не задано.")
+        print("Помилка: TELEGRAM_TOKEN або GEOECONOMICS_CHANNEL_ID не задано.")

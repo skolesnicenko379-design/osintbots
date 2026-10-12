@@ -673,6 +673,40 @@ def is_model_dead_error(status_code, response_text):
     return False
 
 
+def groq_error_is_context_limit(status_code, response_text):
+    """Розпізнає помилки завеликого запиту або ліміту контексту."""
+    message = (response_text or "").lower()
+    markers = (
+        "context_length_exceeded",
+        "maximum context length",
+        "prompt is too long",
+        "request too large",
+        "token limit",
+        "tokens per minute",
+        "rate_limit_exceeded",
+        "413",
+    )
+    return status_code == 413 or (
+        status_code in (400, 413) and any(marker in message for marker in markers)
+    )
+
+
+def extract_json_object(content):
+    """Читає JSON-відповідь, навіть якщо модель додала Markdown-обгортку."""
+    content = (content or "").strip()
+    if content.startswith("```"):
+        content = re.sub(r"^\`\`\`(?:json)?\s*", "", content, flags=re.I)
+        content = re.sub(r"\s*\`\`\`$", "", content)
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        start = content.find("{")
+        end = content.rfind("}")
+        if start >= 0 and end > start:
+            return json.loads(content[start:end + 1])
+        raise
+
+
 def parse_bool(value, default=False):
     if isinstance(value, bool):
         return value
@@ -874,6 +908,31 @@ duplicate=true. Інше джерело або перефразований за
                 timeout=GROQ_TIMEOUT,
             )
 
+            # Якщо повний запит завеликий, один раз повторюємо його
+            # з коротшою статтею та меншою кількістю попередніх публікацій.
+            if groq_error_is_context_limit(response.status_code, response.text):
+                compact_article = article_text[:1800]
+                compact_recent = recent_posts[-3:]
+                compact_lines = []
+                for post in compact_recent:
+                    compact_lines.append(
+                        "- Заголовок: "
+                        + str(post.get("title", ""))[:120]
+                        + "\n  Зміст: "
+                        + str(post.get("summary", ""))[:180]
+                    )
+                compact_block = "\n".join(compact_lines) or "(Нещодавніх публікацій немає.)"
+                compact_prompt = prompt.replace(article_text, compact_article)
+                compact_prompt = compact_prompt.replace(recent_block, compact_block)
+                payload["messages"][1]["content"] = compact_prompt
+                print(f"Запит до {model} завеликий; повторюю зі скороченим контекстом.")
+                response = requests.post(
+                    GROQ_API_URL,
+                    headers=headers,
+                    json=payload,
+                    timeout=GROQ_TIMEOUT,
+                )
+
             if is_model_dead_error(
                 response.status_code,
                 response.text,
@@ -916,7 +975,7 @@ duplicate=true. Інше джерело або перефразований за
                 response_data["choices"][0]["message"]["content"]
             ).strip()
 
-            parsed = json.loads(content)
+            parsed = extract_json_object(content)
 
             relevant = parse_bool(
                 parsed.get("relevant"),

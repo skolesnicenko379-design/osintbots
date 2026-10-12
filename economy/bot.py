@@ -88,7 +88,20 @@ def get_available_groq_models():
                 continue
             valid_models.append(m)
         
-        # Сортуємо: спочатку Llama, потім Mixtral, потім інші
+        # Спершу моделі, які стабільніше працюють із JSON і мають достатній контекст.
+        def model_priority(model):
+            name = model.lower()
+            if "qwen" in name:
+                return (0, name)
+            if "gpt-oss-20b" in name:
+                return (1, name)
+            if "gpt-oss-120b" in name:
+                return (2, name)
+            if "llama" in name:
+                return (3, name)
+            return (4, name)
+
+        valid_models.sort(key=model_priority)
         valid_models.sort(key=lambda x: (0 if "llama" in x.lower() else 1, x))
         
         print(f"Доступні текстові моделі Groq: {valid_models[:5]}...")
@@ -163,10 +176,12 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
         print("КРИТИЧНА ПОМИЛКА: Немає API-ключа або доступних моделей!")
         return {"relevant": False, "duplicate": False, "failed": True}
 
+    # Короткий контекст: не передаємо всі 80 записів, інакше перевищується ліміт Groq.
     recent_block = "(поки що порожньо)"
     if recent_posts:
-        recent_block = "\n".join(
-            f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
+        recent_block = "\\n".join(
+            f"- [{p.get('source', 'джерело')}] {p.get('title', '')[:140]}: {p.get('summary', '')[:120]}"
+            for p in recent_posts[-8:]
         )
 
     prompt = (

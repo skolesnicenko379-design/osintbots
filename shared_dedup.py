@@ -89,7 +89,7 @@ def load_shared_history():
     for post in posts:
         normalized = _normalize_post(post, "unknown")
         if normalized:
-            key = (normalized["channel"], normalized["title"].casefold(), normalized["link"])
+            key = (normalized["channel"], normalized["title"].casefold())
             if key not in post_keys:
                 normalized_posts.append(normalized)
                 post_keys.add(key)
@@ -117,7 +117,7 @@ def load_shared_history():
                 normalized = _normalize_post(post, channel)
                 if not normalized:
                     continue
-                key = (normalized["channel"], normalized["title"].casefold(), normalized["link"])
+                key = (normalized["channel"], normalized["title"].casefold())
                 if key not in post_keys:
                     normalized_posts.append(normalized)
                     post_keys.add(key)
@@ -136,7 +136,7 @@ def save_shared_history(history):
         normalized = _normalize_post(post, str(post.get("channel") or "unknown"))
         if not normalized:
             continue
-        key = (normalized["channel"], normalized["title"].casefold(), normalized["link"])
+        key = (normalized["channel"], normalized["title"].casefold())
         if key in seen:
             continue
         seen.add(key)

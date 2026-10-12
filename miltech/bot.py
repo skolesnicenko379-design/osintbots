@@ -6,6 +6,13 @@ from datetime import datetime, timezone
 
 import re
 import requests
+
+import sys
+sys.path.insert(0, os.path.abspath(".."))
+from shared_dedup import (
+    load_shared_history, save_shared_history, is_duplicate_link,
+    is_duplicate_title, record_published,
+)
 import feedparser
 from bs4 import BeautifulSoup
 
@@ -254,6 +261,7 @@ def format_message(entry, groq_title, groq_analysis):
 
 def main():
     history = load_history()
+    shared_history = load_shared_history()
     entries = collect_entries()
     new_posts = 0
 
@@ -261,6 +269,14 @@ def main():
         if new_posts >= MAX_POSTS_PER_RUN:
             break
         if entry["link"] in history:
+            continue
+        if is_duplicate_link(entry["link"], shared_history):
+            print("Пропущено: посилання вже є в спільній історії.")
+            history.append(entry["link"])
+            continue
+        if is_duplicate_title(entry["title"], shared_history["recent_posts"]):
+            print("Пропущено: заголовок схожий на нещодавню публікацію.")
+            history.append(entry["link"])
             continue
 
         article_text = fetch_article_text(entry["link"])
@@ -275,6 +291,11 @@ def main():
 
         if send_to_telegram(message):
             history.append(entry["link"])
+            record_published(
+                shared_history, entry["link"], groq_title or entry["title"],
+                groq_analysis or entry["summary"], entry["source"], "miltech",
+                entry["published"].isoformat() if hasattr(entry["published"], "isoformat") else "",
+            )
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")
             time.sleep(3)  # щоб Telegram не вважав це спамом
@@ -282,6 +303,7 @@ def main():
             print(f"Не вдалося опублікувати: {entry['title']}")
 
     save_history(history)
+    save_shared_history(shared_history)
     print(f"Готово. Опубліковано новин: {new_posts}")
 
 

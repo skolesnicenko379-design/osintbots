@@ -9,6 +9,7 @@
     "https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field",
     "https://breakingdefense.com/2026/10/anduril-establishes-new-shipyard-to-manufacture-components-for-virginia-class-subs",
     "https://breakingdefense.com/2026/10/anduril-unveils-steelfin-interceptor-as-cheaper-option-to-pac-3-missiles",
+    "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy",
     "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies",
     "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive",
     "https://breakingdefense.com/2026/10/australias-guided-weapons-and-munitions-effort-makes-progress-but-risks-remain",
@@ -35,6 +36,7 @@
     "https://breakingdefense.com/2026/10/lithuania-says-it-could-pay-for-a-permanent-in-country-us-base",
     "https://breakingdefense.com/2026/10/lockheed-unveils-pac-3-edge-its-next-gen-patriot-interceptor",
     "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap",
+    "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots",
     "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development",
     "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026",
     "https://breakingdefense.com/2026/10/nioa-aerovironment-team-to-offer-and-support-loitering-munitions-down-under",
@@ -266,6 +268,7 @@
     "https://militarnyi.com/uk/news/koreya-vidpravyla-rosiyi-176-tysyach-palnogo",
     "https://militarnyi.com/uk/news/koroleva-tayilandu-pershoyu-gripen",
     "https://militarnyi.com/uk/news/kurs-iz-tryvalogo-doglyadu-za-poranenymy",
+    "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
     "https://militarnyi.com/uk/news/kytaj-adaptuye-armiyu-do-vijny-majbutnogo",
     "https://militarnyi.com/uk/news/kyyevi-zatrymaly-zasnovnyka-telegram-kanalu",
     "https://militarnyi.com/uk/news/latviya-otrymala-pershu-bmp-mednieks-na-bazi-ascod",
@@ -283,6 +286,7 @@
     "https://militarnyi.com/uk/news/moldova-planuye-zminyty-zakony-shhob-drony",
     "https://militarnyi.com/uk/news/na-avianostsi-charles-de-gaulle-pozhezha",
     "https://militarnyi.com/uk/news/na-ilskomu-npz-drony-poshkodyly-ustanovky-pererobky-na-lvds-samara-rezervuary",
+    "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
     "https://militarnyi.com/uk/news/natsgvardiya-otrymaye-drony-linza-ta-zum",
     "https://militarnyi.com/uk/news/nazemni-drony-gur-artan-za-lito-vryatuvaly-45-bijtsiv-i-dostavyly-41-tonnu-vantazhiv",
     "https://militarnyi.com/uk/news/neolens-vypustyv-dodatok-iz-instruktsiyamy",
@@ -1132,6 +1136,38 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTRLZFJhaUh6NGFhdFVBekhsZjVoTW15NDREWFYyZ1RXTTJhRnBycUFqejdmODNHOFNkcUtfY3ptN3hRSTZiS1RSaEthTkQzekV6WGJtWXk3OC10MENsWXNRdUJ0MTI3eENHNVI1clJfM1BGS3RrOVZRaUJfT2hvcFl1OC1xZUU",
       "published": "2026-10-12T12:47:14+00:00"
+    },
+    {
+      "title": "НАТО розробило план відбиття російського нападу: удари біля Санкт‑Петербурга, у Калінінграді та Білорусі",
+      "summary": "У плані НАТО передбачено удари по військових об'єктах у Калінінградській області, поблизу Санкт‑Петербурга та на території Білорусі, включаючи використання довгодальних ракет і безпілотних систем у \"автономній зоні\". Окрім цього, створюється \"цифровий каркас\" для швидкого обміну даними про цілі через хмарну інфраструктуру, що має підвищити координацію союзних сил. Така концепція дозволить швидко нейтралізувати російські командні пункти та знизити ризик ескалації конфлікту.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
+      "published": "2026-10-12T14:44:55+00:00"
+    },
+    {
+      "title": "Військово-морські сили замінюють тральщики роботами: дистанційне розмінування",
+      "summary": "У США та союзниках замість традиційних човнів‑тральщиків впроваджуються безпілотні роботизовані системи, які виявляють і нейтралізують морські міни на відстані. Такі платформи знижують ризик для особового складу, дозволяючи швидко очищати стратегічні протоки, як Гольф Фінляндії чи протоки у Перській затоці, і забезпечують безперервність комерційного та військового судноплавства.",
+      "source": "Breaking Defense",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots",
+      "published": "2026-10-12T14:12:00+00:00"
+    },
+    {
+      "title": "Ракета «Кинжал» 90% схожа на «Искандер-М» – заявка ГУР",
+      "summary": "Ракета «Кинжал» (9‑C‑7760) – одноступенева твердопаливна ракета, що 90 % базується на конструкції 9М723 «Искандер‑М». Відмінності – хвостовий аеродинамічний обтічник, активна радіолокаційна головка, станція перешкод і система відстрілу хибних цілей С‑200. Ці технології підвищують точність та здатність до протидії, хоча активний навігаційний модуль ще не застосовувався в бойових операціях.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
+      "published": "2026-10-12T13:16:25+00:00"
+    },
+    {
+      "title": "Армія США спростила структуру закупок, усунувши зайвий бюрократичний рівень",
+      "summary": "У відповідь на вимоги NDAA 2026 армія усунула посаду CPE, перейменувавши її на Program Manager Executive і розташувавши цих фахівців безпосередньо під PAEs. Крім того, всі PAEs стали сертифікованими офіцерами закупок, що дозволяє одночасно приймати рішення щодо вимог, ресурсів і повноважень. Це має прискорити постачання озброєння та покращити синхронізацію між операційними підрозділами та інженерними командами.",
+      "source": "Breaking Defense",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy",
+      "published": "2026-10-12T10:00:00+00:00"
     }
   ]
 }

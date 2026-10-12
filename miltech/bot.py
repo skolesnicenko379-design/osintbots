@@ -111,7 +111,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
         else "Оригінал вже українською."
     )
 
-    recent_block = "\\n".join(
+    recent_block = "\n".join(
         f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:250]}"
         for post in (recent_posts or [])[-12:]
     ) or "(нещодавніх публікацій немає)"

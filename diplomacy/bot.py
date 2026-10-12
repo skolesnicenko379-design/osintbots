@@ -45,11 +45,13 @@ FUTURE_DATE_TOLERANCE_MINUTES = 10
 
 REQUEST_TIMEOUT = 20
 ARTICLE_FETCH_TIMEOUT = 15
-ARTICLE_MAX_CHARS = 5000
+ARTICLE_MAX_CHARS = 3500
 
 GROQ_TIMEOUT = 45
 GROQ_RETRY_DELAY = 4
 GROQ_CALL_DELAY = 2
+GROQ_MAX_MODELS_TO_TRY = 5
+GROQ_MAX_OUTPUT_TOKENS = 450
 
 MIN_ARTICLE_TEXT_CHARS = 100
 MIN_ANALYSIS_WORDS = 20
@@ -158,8 +160,27 @@ def notify_admin(message):
 # GROQ: ДОСТУПНІ МОДЕЛІ
 # ============================================================
 
+def model_is_text_generation_candidate(model_id):
+    """Відсіює аудіо-, embedding- і захисні моделі без генерації тексту."""
+    name = model_id.lower()
+
+    excluded = (
+        "whisper", "orpheus", "prompt-guard", "safeguard",
+        "embedding", "tts", "speech", "audio", "moderation",
+        "guard", "transcription",
+    )
+    if any(part in name for part in excluded):
+        return False
+
+    supported_families = (
+        "llama", "gpt-oss", "qwen", "gemma", "deepseek",
+        "kimi", "moonshot", "mixtral", "mistral",
+    )
+    return any(family in name for family in supported_families)
+
+
 def get_available_groq_models():
-    """Отримує список моделей, доступних для поточного API-ключа."""
+    """Отримує та фільтрує моделі генерації тексту для поточного API-ключа."""
 
     if not GROQ_API_KEY:
         print("GROQ_API_KEY не задано.")
@@ -179,23 +200,23 @@ def get_available_groq_models():
         models = [
             item["id"]
             for item in data.get("data", [])
-            if item.get("id")
+            if item.get("id") and model_is_text_generation_candidate(item["id"])
         ]
 
         def model_priority(model):
             name = model.lower()
-
-            if "llama" in name and "70b" in name:
+            if "llama" in name and ("70b" in name or "90b" in name):
                 return 0
-            if "mixtral" in name:
+            if "gpt-oss" in name or "qwen" in name or "deepseek" in name:
                 return 1
-            if "llama" in name and "8b" in name:
+            if "mixtral" in name or "mistral" in name:
                 return 2
-            return 3
+            if "llama" in name and ("8b" in name or "11b" in name):
+                return 3
+            return 4
 
-        models.sort(key=model_priority)
-
-        print(f"Доступні моделі Groq: {models[:5]}")
+        models.sort(key=lambda model: (model_priority(model), model))
+        print(f"Текстові моделі Groq: {models[:GROQ_MAX_MODELS_TO_TRY]}")
         return models
 
     except Exception as exc:
@@ -652,6 +673,39 @@ def is_model_dead_error(status_code, response_text):
     return False
 
 
+def groq_error_is_context_limit(status_code, response_text):
+    """Розпізнає помилки завеликого запиту або ліміту контексту."""
+    message = (response_text or "").lower()
+    markers = (
+        "context_length_exceeded",
+        "maximum context length",
+        "prompt is too long",
+        "request too large",
+        "token limit",
+        "tokens per minute",
+        "rate_limit_exceeded",
+        "413",
+    )
+    return status_code == 413 or (
+        status_code in (400, 413) and any(marker in message for marker in markers)
+    )
+
+
+def extract_json_object(content):
+    """Читає JSON-відповідь, навіть якщо модель додала Markdown-обгортку."""
+    content = (content or "").strip()
+    if content.startswith("```"):
+        content = re.sub(r"^```(?:json)?\s*", "", content, flags=re.I)
+        content = re.sub(r"\s*```$", "", content)
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        start = content.find("{")
+        end = content.rfind("}")
+        if start >= 0 and end > start:
+            return json.loads(content[start:end + 1])
+        raise
+
 def parse_bool(value, default=False):
     if isinstance(value, bool):
         return value
@@ -689,10 +743,10 @@ def analyze_with_groq(
     if recent_posts:
         lines = []
 
-        for post in recent_posts[-RECENT_POSTS_FOR_DEDUP:]:
-            previous_title = str(post.get("title", ""))[:250]
-            previous_summary = str(post.get("summary", ""))[:450]
-            previous_source = str(post.get("source", ""))[:100]
+        for post in recent_posts[-6:]:
+            previous_title = str(post.get("title", ""))[:150]
+            previous_summary = str(post.get("summary", ""))[:250]
+            previous_source = str(post.get("source", ""))[:60]
 
             lines.append(
                 f"- Джерело: {previous_source}\n"
@@ -820,7 +874,7 @@ duplicate=true. Інше джерело або перефразований за
         "Content-Type": "application/json",
     }
 
-    models_to_try = active_models[:3]
+    models_to_try = active_models[:GROQ_MAX_MODELS_TO_TRY]
 
     for model in models_to_try:
         payload = {
@@ -839,6 +893,7 @@ duplicate=true. Інше джерело або перефразований за
                 },
             ],
             "temperature": 0.15,
+            "max_tokens": GROQ_MAX_OUTPUT_TOKENS,
             "response_format": {"type": "json_object"},
         }
 
@@ -851,6 +906,31 @@ duplicate=true. Інше джерело або перефразований за
                 json=payload,
                 timeout=GROQ_TIMEOUT,
             )
+
+            # Якщо повний запит завеликий, один раз повторюємо його
+            # з коротшою статтею та меншою кількістю попередніх публікацій.
+            if groq_error_is_context_limit(response.status_code, response.text):
+                compact_article = article_text[:1800]
+                compact_recent = recent_posts[-3:]
+                compact_lines = []
+                for post in compact_recent:
+                    compact_lines.append(
+                        "- Заголовок: "
+                        + str(post.get("title", ""))[:120]
+                        + "\n  Зміст: "
+                        + str(post.get("summary", ""))[:180]
+                    )
+                compact_block = "\n".join(compact_lines) or "(Нещодавніх публікацій немає.)"
+                compact_prompt = prompt.replace(article_text, compact_article)
+                compact_prompt = compact_prompt.replace(recent_block, compact_block)
+                payload["messages"][1]["content"] = compact_prompt
+                print(f"Запит до {model} завеликий; повторюю зі скороченим контекстом.")
+                response = requests.post(
+                    GROQ_API_URL,
+                    headers=headers,
+                    json=payload,
+                    timeout=GROQ_TIMEOUT,
+                )
 
             if is_model_dead_error(
                 response.status_code,
@@ -894,7 +974,7 @@ duplicate=true. Інше джерело або перефразований за
                 response_data["choices"][0]["message"]["content"]
             ).strip()
 
-            parsed = json.loads(content)
+            parsed = extract_json_object(content)
 
             relevant = parse_bool(
                 parsed.get("relevant"),

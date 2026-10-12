@@ -11,6 +11,13 @@ import feedparser
 from bs4 import BeautifulSoup
 import requests
 
+import sys
+sys.path.insert(0, os.path.abspath(".."))
+from shared_dedup import (
+    load_shared_history, save_shared_history, is_duplicate_link,
+    is_duplicate_title, record_published,
+)
+
 # ===== Налаштування з GitHub Secrets =====
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
 CHANNEL_ID = (os.environ.get("GEOECONOMICS_CHANNEL_ID") or "").strip()
@@ -337,6 +344,8 @@ def format_message(entry, ai_title, ai_analysis):
 
 def main():
     history = load_history()
+    shared_history = load_shared_history()
+    combined_recent_posts = (history["recent_posts"] + shared_history["recent_posts"])[-80:]
     entries = collect_entries()
     print(f"Зібрано свіжих записів: {len(entries)}")
 
@@ -354,6 +363,14 @@ def main():
 
         if entry["link"] in history["links"]:
             continue
+        if is_duplicate_link(entry["link"], shared_history):
+            print("Пропущено: посилання вже є в спільній історії.")
+            history["links"].append(entry["link"])
+            continue
+        if is_duplicate_title(entry["title"], shared_history["recent_posts"]):
+            print("Пропущено: заголовок схожий на нещодавню публікацію.")
+            history["links"].append(entry["link"])
+            continue
 
         checked += 1
 
@@ -362,7 +379,7 @@ def main():
             article_text = entry["summary"]
 
         result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], history["recent_posts"], active_models
+            entry["title"], article_text, entry["source"], combined_recent_posts, active_models
         )
 
         if result.get("failed"):
@@ -388,6 +405,12 @@ def main():
                 "summary": (result["analysis"] or entry["summary"])[:300],
                 "source": entry["source"],
             })
+            record_published(
+                shared_history, entry["link"],
+                result["title"] or entry["title"], result["analysis"] or entry["summary"],
+                entry["source"], "economy",
+                entry["published"].isoformat() if hasattr(entry["published"], "isoformat") else "",
+            )
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")
             time.sleep(3)
@@ -395,6 +418,7 @@ def main():
             print(f"Помилка публікації: {entry['title']}")
 
     save_history(history)
+    save_shared_history(shared_history)
     print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
 
 if __name__ == "__main__":

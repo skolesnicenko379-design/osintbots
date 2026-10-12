@@ -53,7 +53,7 @@ GROQ_CALL_DELAY = 2
 GROQ_MAX_MODELS_TO_TRY = 5
 GROQ_MAX_OUTPUT_TOKENS = 450
 
-MIN_ARTICLE_TEXT_CHARS = 100
+MIN_ARTICLE_TEXT_CHARS = 50
 MIN_ANALYSIS_WORDS = 20
 MAX_ANALYSIS_WORDS = 75
 
@@ -205,15 +205,18 @@ def get_available_groq_models():
 
         def model_priority(model):
             name = model.lower()
-            if "llama" in name and ("70b" in name or "90b" in name):
+            # Віддаємо перевагу моделям, які стабільніше повертають JSON.
+            if "qwen" in name:
                 return 0
-            if "gpt-oss" in name or "qwen" in name or "deepseek" in name:
+            if "llama" in name and ("70b" in name or "90b" in name):
                 return 1
-            if "mixtral" in name or "mistral" in name:
+            if "deepseek" in name or "gpt-oss" in name:
                 return 2
-            if "llama" in name and ("8b" in name or "11b" in name):
+            if "mixtral" in name or "mistral" in name:
                 return 3
-            return 4
+            if "llama" in name and ("8b" in name or "11b" in name):
+                return 4
+            return 5
 
         models.sort(key=lambda model: (model_priority(model), model))
         print(f"Текстові моделі Groq: {models[:GROQ_MAX_MODELS_TO_TRY]}")
@@ -941,9 +944,25 @@ duplicate=true. Інше джерело або перефразований за
             ):
                 fallback_payload = dict(payload)
                 fallback_payload.pop("response_format", None)
+                fallback_payload["temperature"] = 0
+                fallback_payload["max_tokens"] = max(
+                    GROQ_MAX_OUTPUT_TOKENS,
+                    700,
+                )
+                fallback_payload["messages"] = [
+                    payload["messages"][0],
+                    {
+                        "role": "user",
+                        "content": (
+                            payload["messages"][1]["content"]
+                            + "\\n\\nПоверни завершений JSON-об'єкт без Markdown. "
+                            + "Не додавай пояснень до JSON. Не обривай рядки."
+                        ),
+                    },
+                ]
                 print(
                     f"Groq JSON mode не пройшов валідацію для {model}; "
-                    "повторюю без response_format."
+                    "повторюю без response_format і зі збільшеним лімітом."
                 )
                 response = requests.post(
                     GROQ_API_URL,

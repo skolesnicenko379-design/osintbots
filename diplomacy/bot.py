@@ -932,6 +932,26 @@ duplicate=true. Інше джерело або перефразований за
                     timeout=GROQ_TIMEOUT,
                 )
 
+            # Деякі моделі Groq повертають json_validate_failed у режимі
+            # constrained JSON. Повторюємо той самий запит без response_format:
+            # у prompt уже є чітка вимога повернути лише JSON.
+            if (
+                response.status_code == 400
+                and "json_validate_failed" in response.text.lower()
+            ):
+                fallback_payload = dict(payload)
+                fallback_payload.pop("response_format", None)
+                print(
+                    f"Groq JSON mode не пройшов валідацію для {model}; "
+                    "повторюю без response_format."
+                )
+                response = requests.post(
+                    GROQ_API_URL,
+                    headers=headers,
+                    json=fallback_payload,
+                    timeout=GROQ_TIMEOUT,
+                )
+
             if is_model_dead_error(
                 response.status_code,
                 response.text,

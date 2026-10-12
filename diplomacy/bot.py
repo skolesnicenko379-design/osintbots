@@ -1255,8 +1255,14 @@ def main():
             remember_link(history, entry["link"])
             continue
 
-        if not article_text:
-            article_text = entry["summary"]
+        # Якщо сторінка віддала лише короткий фрагмент, використовуємо
+        # повніший опис із RSS, коли він містить більше змісту.
+        article_text = clean_text(article_text or "")
+        rss_summary = clean_text(entry.get("summary", ""))
+
+        if len(rss_summary) > len(article_text):
+            article_text = rss_summary[:ARTICLE_MAX_CHARS]
+            print(f"Використовую опис RSS для перевірки: {entry['title']}")
 
         if len(article_text.strip()) < MIN_ARTICLE_TEXT_CHARS:
             print(

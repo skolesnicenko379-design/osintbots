@@ -100,8 +100,8 @@ def save_history(history):
 
 
 # ===== Groq: переклад + коротка технічна аналітика =====
-def enrich_with_groq(title, article_text, source_name, needs_translation):
-    """Повертає (заголовок_укр, короткий_аналітичний_коментар) або (None, None) при помилці."""
+def enrich_with_groq(title, article_text, source_name, needs_translation, recent_posts=None):
+    """Повертає заголовок, коментар і ознаку міжканального дубліката."""
     if not GROQ_API_KEY:
         return None, None
 
@@ -111,18 +111,27 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
         else "Оригінал вже українською."
     )
 
+    recent_block = "\\n".join(
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:250]}"
+        for post in (recent_posts or [])[-12:]
+    ) or "(нещодавніх публікацій немає)"
+
     prompt = (
         "Ти — редактор мілтех-новин для українського Telegram-каналу.\n"
         f"Джерело: {source_name}. {lang_note}\n\n"
         f"Оригінальний заголовок: {title}\n\n"
         f"Повний текст новини:\n{article_text}\n\n"
+        f"ОСТАННІ ПУБЛІКАЦІЇ В УСІХ КАНАЛАХ:\n{recent_block}\n\n"
+        "Перевір, чи описує матеріал ту саму подію, що й одна з попередніх публікацій. "
+        "Інше джерело або перефразований заголовок не роблять подію новою. Якщо є суттєвий новий факт, "
+        "окремий етап або нове рішення, duplicate=false. Інакше duplicate=true.\n"
         "Виконай ДВІ речі на основі ЗМІСТУ новини:\n"
         "1) Дай стислий, точний заголовок українською (до 15 слів), без клікбейту.\n"
         "2) Дай 2-3 речення технічного/аналітичного коментаря українською: що саме сталося, "
         "які характеристики техніки згадуються, який можливий військовий вплив.\n"
         "КРИТИЧНО: Поле 'analysis' НІКОЛИ не повинно бути порожнім. Навіть якщо тексту мало, придумай короткий контекст.\n\n"
         "Відповідай СТРОГО у форматі JSON без жодного іншого тексту:\n"
-        '{"title": "...", "analysis": "..."}'
+        '{"duplicate": false, "title": "...", "analysis": "..."}'
     )
 
     headers = {
@@ -172,14 +181,14 @@ def enrich_with_groq(title, article_text, source_name, needs_translation):
             if not ai_analysis or len(ai_analysis.strip()) < 5:
                 ai_analysis = "Додаткові технічні деталі уточнюються."
 
-            return ai_title, ai_analysis
+            return ai_title, ai_analysis, bool(parsed.get("duplicate", False))
 
         except Exception as e:
             print(f"Groq ({model}): помилка ({e})")
             time.sleep(3)
             continue
 
-    return None, None
+    return None, None, False
 
 
 # ===== Telegram =====
@@ -283,9 +292,15 @@ def main():
         if not article_text or len(article_text) < 50:
             article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
 
-        groq_title, groq_analysis = enrich_with_groq(
-            entry["title"], article_text, entry["source"], entry["needs_translation"]
+        groq_title, groq_analysis, is_duplicate = enrich_with_groq(
+            entry["title"], article_text, entry["source"],
+            entry["needs_translation"], shared_history["recent_posts"],
         )
+
+        if is_duplicate:
+            history.append(entry["link"])
+            print("Пропущено моделлю: подія вже висвітлена в іншому каналі.")
+            continue
 
         message = format_message(entry, groq_title, groq_analysis)
 

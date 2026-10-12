@@ -28,11 +28,11 @@ ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
 GROQ_CALL_DELAY = 3
 
-# Жорстко задані моделі, які підтримують JSON та генерацію тексту
+# Жорстко задані актуальні моделі, які підтримують JSON
 GROQ_MODELS = [
-    "llama3-70b-8192",
-    "mixtral-8x7b-32768",
-    "llama3-8b-8192"
+    "llama-3.3-70b-versatile",
+    "llama-3.1-8b-instant",
+    "gemma2-9b-it"
 ]
 
 HEADERS = {

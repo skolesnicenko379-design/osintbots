@@ -5,6 +5,11 @@ on:
     - cron: '25 */2 * * *'  
   workflow_dispatch:
 
+# Єдина черга: спільна історія не перезаписується паралельними запусками.
+concurrency:
+  group: osintbots-shared-news-history
+  cancel-in-progress: false
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
@@ -38,6 +43,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add economy/posted_news.json
+          git add economy/posted_news.json shared_news_history.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Оновлено макроекономічну історію [skip ci]"
-          git push
+          git pull --rebase -X theirs origin main
+          git push origin HEAD:main

@@ -103,7 +103,7 @@ def save_history(history):
 def enrich_with_groq(title, article_text, source_name, needs_translation, recent_posts=None):
     """Повертає заголовок, коментар і ознаку міжканального дубліката."""
     if not GROQ_API_KEY:
-        return None, None
+        return None, None, False
 
     lang_note = (
         "Оригінал англійською — переклади заголовок природною українською."
@@ -181,7 +181,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
             if not ai_analysis or len(ai_analysis.strip()) < 5:
                 ai_analysis = "Додаткові технічні деталі уточнюються."
 
-            return ai_title, ai_analysis, bool(parsed.get("duplicate", False))
+            return ai_title, ai_analysis, parsed.get("duplicate", False) is True
 
         except Exception as e:
             print(f"Groq ({model}): помилка ({e})")

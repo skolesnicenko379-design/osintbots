@@ -162,7 +162,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
             f"- [{p['source']}] {p['title']}: {p['summary']}" for p in recent_posts
         )
 
-prompt = (
+    prompt = (
         "Ти — старший макроекономічний аналітик. Твоє завдання: перетворити новину на сухий, технічний дайджест для інвесторів та політиків.\n\n"
         f"Джерело: {source_name}\n"
         f"Заголовок: {title}\n\n"
@@ -329,7 +329,7 @@ def format_message(entry, ai_title, ai_analysis):
     if ai_analysis and len(ai_analysis.strip()) > 5:
         clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
-        parts += ["", f"📊 {safe_analysis}"]
+        parts += ["", f"{safe_analysis}"]
 
     safe_link = entry['link'].replace('"', '%22')
     parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']

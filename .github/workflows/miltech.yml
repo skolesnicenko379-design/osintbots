@@ -8,7 +8,7 @@ on:
 
 # Не допускаємо одночасного виконання цього workflow
 concurrency:
-  group: miltech-bot-main
+  group: osintbots-shared-news-history
   cancel-in-progress: false
 
 permissions:
@@ -56,7 +56,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Додаємо історію публікацій до коміту
-          git add miltech/posted_news.json
+          git add miltech/posted_news.json shared_news_history.json
 
           # Якщо файл не змінився, завершуємо крок без коміту
           if git diff --cached --quiet; then

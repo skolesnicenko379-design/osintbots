@@ -955,7 +955,7 @@ duplicate=true. Інше джерело або перефразований за
                         "role": "user",
                         "content": (
                             payload["messages"][1]["content"]
-                            + "\\n\\nПоверни завершений JSON-об'єкт без Markdown. "
+                            + "\n\nПоверни завершений JSON-об'єкт без Markdown. "
                             + "Не додавай пояснень до JSON. Не обривай рядки."
                         ),
                     },

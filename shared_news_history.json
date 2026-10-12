@@ -156,6 +156,7 @@
     "https://eurasiareview.com/03102026-pashinyan-credits-trumps-involvement-in-path-toward-peace",
     "https://glavnoe.in.ua/news/nyt-perehovory-ssha-i-rosiyi-shhodo-ukrayiny-teper-vklyuchayut-naftovu-uhodu-povyazanu-iz-soyuznykamy-trampa",
     "https://gov.uk/government/news/appointment-of-leah-kreitzman-as-the-advisor-on-marketing-communication-processes-strategy",
+    "https://gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
     "https://gov.uk/government/news/foreign-secretary-statement-on-the-uks-diplomatic-presence-in-jerusalem",
     "https://gov.uk/government/news/g7-leaders-statement-on-global-energy-security-and-market-stability",
     "https://gov.uk/government/news/joint-statement-on-support-for-the-international-criminal-court",
@@ -1168,6 +1169,14 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy",
       "published": "2026-10-12T10:00:00+00:00"
+    },
+    {
+      "title": "Британія запровадила санкції проти двох іранських громадян",
+      "summary": "Міністр закордонних справ Великої Британії оголосив про введення санкцій проти двох іранських громадян, яких звинуватили у сприянні ворожій діяльності від імені режиму з метою загрози або планування атак за кордоном. Ці особи підлягають негайному замороженню активів, забороні на в'їзд та дискваліфікації від посади директора. Паралельно з цим рішенням британська сторона викликала посла Ірану для передачі повідомлення про нетерпимість до загроз на території країни.",
+      "source": "FCDO (Британія)",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
+      "published": "2026-10-12T14:54:34+00:00"
     }
   ]
 }

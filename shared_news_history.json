@@ -49,6 +49,7 @@
     "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control",
     "https://breakingdefense.com/2026/10/romania-orders-12-airbus-h225m-multirole-helicopters",
     "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive",
+    "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
     "https://breakingdefense.com/2026/10/unpacking-boeings-f-a-xx-win-plus-a-report-from-wartime-ukraine",
     "https://breakingdefense.com/2026/10/urban-warfare-next-falcon-peak-exercise-to-take-counter-drone-tech-to-the-streets",
     "https://breakingdefense.com/2026/10/us-norwegian-startup-heaviside-launches-tyr-loitering-munition",
@@ -312,6 +313,7 @@
     "https://militarnyi.com/uk/news/patria-vyrobnytstva-bronetehniky-u-latviyi",
     "https://militarnyi.com/uk/news/peregovory-ssha-ta-rosiyi-na-koryst-trampa",
     "https://militarnyi.com/uk/news/perehoplyuvach-droniv-na-bazi-rakety-alazan",
+    "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
     "https://militarnyi.com/uk/news/pershyj-gripen-e-vyroblenyj-u-brazyliyi",
     "https://militarnyi.com/uk/news/pidirvaly-rosijskogo-katuvav-polonenyh",
     "https://militarnyi.com/uk/news/pislya-nichnoyi-ataky-spalahnula-pozhezha-na-naftobazi-bilya-byelgoroda",
@@ -616,6 +618,7 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEZrcGt1NVhzRG9OOVRWbHR2UG56dXVOQ0lOR09XUmszb1BPaHktM2JkNFFfZDR5UXJjZWNTWDZJSlRSMi1YYVVBQzU0TzFINmM0NGxISXNIT2FLZE54d011N0twcFpVMGVZTjNUY2lyYzY0ZWwxWE1hRTJZZVd3ZzZ0Yjk1NFVScVQ0bkY1dWZveUk1b0ZPTFl6TUtFTHc",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHlCRG1qbzhKRkhGMVQwRUpKcVhORVQwU05WajVlR2NBemI3Uk13aktWTFhQbTNXd21jZThwWkRCTGRvSkFScGFYQWNKTWRYMjhEaEtjMk8xR2lITzdXQnhOQlNtTnFkcFhPN3RtbVlycVQ0VmtfbDZId2R2UHBad2t1b1haUVE0LVJZRVpDTHlCM3dKX1hHczBzR1R0VUU",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazRHX2NBTFFlZ3dOODY5aDVabjhqV1FiZlV1Um9rdzhWUkRkTHlOc1lRYlFhTTlFaTY0N3h0YkhoeUFqSFFEdUU4QWxDbktmaXhUQjNqaW82a0NMTV9RNW1pQUphR2laT2MtWVNOWlNaZUtxYnBnVmpaazZXX0xvZDFrRVBtdThyemZiZGNPUC1xWWNmdXpnbGRhUGxZV3PSAacBQVVfeXFMTXY5bEZOcGJrUkV3TGRQVWZXaG9hLUowb1B5dHh2S3JkNGY2RXloRTU5V0Fxb2VWakNJMHdpNHBxX0JyendvOXE1SjRfTjZSNzc4VzZiVnlWaVZJbDY4Z0l5V0RTSVI1WlFwX0lsTDQxRnhORTZCbTEydnF0dFlwX1VPSzdiODVRazJ5Y2theTFHWVllRTdGZ29HMHRqMVh5SzF0a3ZkNXM",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnhxSDNpOHFrZThiNjdkY3NySk5sNWVMU1AtMWdrdGRRRHZ3MGJPdW9ybjJiSWRGWjJrNVdfTmJ5RC1VVGpULTZidW1oZjdrOWhzSFJzSU9nZ0N1OUFzbXVOekV1SXBHT0lCYUctTXhLU3ZXNDFONHlxTHhXcXFMbktVZ183S1FuZVQwOHV2dEJUZTdlMmJrYTdVS3JuZU1U0gGmAUFVX3lxTE5KRUNQTTFrZUhudmtpbzBvaDlZOVVwSXZ6WkdYb2t6eDFaRmZ0UzlkV0JwYlM5UFdVbWNJaFBPN3U5a21DSFMtN3hrc0tQeVQ3bUFheUkzSVg3LV9xMTNVVXlYRHI2elRwTU92eXVVY1p5aHdLVVBTamZPZHBXbHp1ZGlXZ3JOanZEVHYyekQ2bFlfQTBDUUJRNEFPR1ZGN1RGUGpKQWc",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUFrTWQzaUoxTHJDZWlmZUJ3eldNOFRlQ0V3WVJlTmo5UjEzOEFaSmpLVzc0bVlJQl9ZWllxdldzTzJETzNEblYwVjkzNFgtR3RyZnNBTi1NM2RPeUVIMGRYZzdKZnNhamV6ODhmd3B6VHRnUDJFRFpvSDFTd2tTdGdJa3pNWFRUUXN5Rl9rZkxLUElNMnBsQ2NkMmpuRFV5",
@@ -1308,6 +1311,22 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnMzWUlReURmZjc3cS1FeGdxcEh2SnJCbkRkLVNaT3Fqa3pwOHZQRjJsN3lRQXRBOGNWazZrOEFnWHRvQmNySDVtZWV3SFhQNC12b1VrVi1mQmNmX2JUU1NzQlU0ajNERXpseXVBaHVNWm5PTzVneEpFbE1yODVNalRZNURiTDlLN1lyZEkwSldJdw",
       "published": "2026-10-12T13:31:14+00:00"
+    },
+    {
+      "title": "1020‑ша зенітна бригада збила реактивний дрон «Герань‑5» на 430 км/год",
+      "summary": "Перехоплювачі 1020‑ї зенітної ракетно‑артилерійської бригади збили дрон «Герань‑5» на швидкості 430 км/год і висоті 780 м. Дрон має довжину 6,5 м, розмах крил 3,2 м, масу близько 850 кг, максимальну швидкість 425‑430 км/год, дальність польоту 950 км і може нести бойову частину до 90 кг. Це підтверджує ефективність нових засобів протидії високошвидкісним реактивним БПЛА, підвищуючи захист української ППО від подібних загроз.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
+      "published": "2026-10-12T16:32:45+00:00"
+    },
+    {
+      "title": "Ізраїльський армійський відомство оприлюднило дані про 100 000 ударів за три роки",
+      "summary": "Ізраїльські сили оборони (IDF) оприлюднили нову статистику, що охоплює удари по цілях у Лівані, Сирії, Ємені та Ірані з моменту терористичних атак Хамасу. За три роки зафіксовано близько 100 000 об'єктів, що підкреслює багатофронтовий характер конфлікту та інтенсивність повітряних операцій. Такі дані дозволяють краще оцінити військову навантаженість регіону та потенційний вплив на стратегічне планування.",
+      "source": "Breaking Defense",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
+      "published": "2026-10-12T08:00:00+00:00"
     }
   ]
 }

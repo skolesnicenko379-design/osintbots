@@ -13,6 +13,13 @@ import feedparser
 from bs4 import BeautifulSoup
 import requests
 
+import sys
+sys.path.insert(0, os.path.abspath(".."))
+from shared_dedup import (
+    load_shared_history, save_shared_history, is_duplicate_link,
+    is_duplicate_title, record_published,
+)
+
 
 # ============================================================
 # НАЛАШТУВАННЯ
@@ -1217,7 +1224,9 @@ def is_recent_title_duplicate(title, recent_posts):
 
 def main():
     history = load_history()
+    shared_history = load_shared_history()
     entries = collect_entries()
+    combined_recent_posts = (history["recent_posts"] + shared_history["recent_posts"])[-80:]
 
     active_models = get_available_groq_models()
 
@@ -1238,6 +1247,14 @@ def main():
             break
 
         if entry["link"] in history["links"]:
+            continue
+        if is_duplicate_link(entry["link"], shared_history):
+            print("Пропущено: посилання вже є в спільній історії.")
+            remember_link(history, entry["link"])
+            continue
+        if is_duplicate_title(entry["title"], shared_history["recent_posts"]):
+            print("Пропущено: заголовок схожий на нещодавню публікацію.")
+            remember_link(history, entry["link"])
             continue
 
         checked += 1
@@ -1302,7 +1319,7 @@ def main():
             entry["title"],
             article_text,
             entry["source"],
-            history["recent_posts"],
+            combined_recent_posts,
             active_models,
         )
 
@@ -1345,6 +1362,11 @@ def main():
             history["recent_posts"] = history["recent_posts"][
                 -RECENT_POSTS_FOR_DEDUP:
             ]
+            record_published(
+                shared_history, entry["link"],
+                result["title"] or entry["title"], result["analysis"],
+                entry["source"], "diplomacy", entry["published"].isoformat(),
+            )
 
             new_posts += 1
 
@@ -1358,6 +1380,7 @@ def main():
             )
 
     save_history(history)
+    save_shared_history(shared_history)
 
     print(
         f"Завершено. Перевірено: {checked}; "

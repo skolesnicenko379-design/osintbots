@@ -42,39 +42,16 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUxTeGh3VERxRWgtRnNjeWJvbmJmY011aXN2ZUlNUDhxcE1fZndYbTZsU0tWcXJWaWZ3aXRLR3lnRHI1SG0zeE9DZUh3dy01UWVqYnRDenZMRHB1VW1RU0R2RENRcmdqOGlNNkxuMnVGVU9pUFZHRkFOWFAtZFBMZTY4dlNGZXhrc1d3OHVvcTlXanAzdmNnLVRteWlqMExBLVhtXzFVOFZBWHZ0N1hIcENod2loYmlNSW5Qbm1qMFRnOWNTZXRmZGNDaDFvQdIB2wFBVV95cUxQcGRLNFlNN1I5cldmZEh1UTZlSHYtRHc2NVNSSGlfOXJVWHl4Zk9EeEp0VmR0R0FLOGhabUljc3JVTjJFYS1XVmw4YXpTSERYNDJsRjdBc2FWRUk5RTliNS1Kd0EzcHU2ZWxGbXpLM2pOaFQybnpOY0c2YjEtVEFmOGRxWkJacTAyZkFsaDZoUjR5XzhQTlJPTXpTQ19ER1dzcnZLbEJrQld1S3I1MTJXR3J5b1NnbTRPSGtERGpwX2o1WVZKRXI5ZnNNWUhDMGJDZFlMcnp3M185Sm8?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVF6bUI3WV9qY05PZENNdk9KNVlkU0dNWnNMblJPcHNPM2JZVTlfX09ybjBUM0d2SElWS2NER2V5Qm1QZGtNTkhBWFZfUVdmN0M2QnBjUlMwbmpfNmhWb2V4aTYtZzhLN0F4cks1ZW5zaTZ3dDRaQWxIMDRXRG1RTVh3X3M?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/media-advisory-general-affairs-council-and-accession-conferences-with-albania-the-republic-of-moldova-and-ukraine-of-13-october-2026/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNm5wWXFPckEwY1B0eDczbGZVMmpYSDM0SjlCSVA5SC1ETWRFYnhUXzNMTzBHZlY5bXBQVzAzVUFlTHBBczRnenVnTEI2Y0FuWXRtYlpFd2tVMkptdEh3YU0zQnRCcXBJODZTX2tPY2VNMTVUUkZQMmVLRFFfSWtUUWVmbXBkblVHMXlxOVlaUGZvUTlaWGV2dDcwRUhOMlViMzRaME9rNVBURmRnbm8xQmJiRzE?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmtveFlHNmVkZkFvOWRSa3BuaVNLZmxmWFJzZGwxUkRSSnpaVEtTZURmNzdLNXI2U3NnemxjV2lLOS1kY19PTEIxd2lyU1E2VTB3ZGlSa0VSVDFWS1hoYnNWMjR4LXE3RmRrVHlqQWRicHFBc3Z4T21kMGVWSV9oVURvRm1EOTZqdGludV9UUXVXYjhsTmtUdW96akd2NjB0by1ucnRUMzhqenNwNGlYZXdOd2ZVMVdRNEl2ODlnQ3RYbWhrSTFid3dOSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQU4xbmYxU0hKbzNBV3NJMk5mMzNPRGlVRDBPN3VCVmpiWDNxTUFIVU40RHdrekE3a2k5eTEtcUtzcnlPM2s1SWE3TW1WbUM4MEhlUnp1QUtwcVQ3WG1GQXhNR0QxVWxERGZIc1BNU3Nmd1BvQmc?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFVYeURoWWpzTjRDdldEX0M5TmFndGM5V2ZVVHQ4dDhPQTlSRy1UMi1oYjZKY0QtZ3lucXFiOGgzTW1mcEhITGljMEtXbHdyX2xMbUNqVGhZODU0ejRwX2tEUG11NzNpSy03WEc5Q2twRFJFa3BwUjgxcEl0VVpVcEVR?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Gulf Strikes and Truce Doubts Impact Oil Supply",
-      "summary": "Fact: Recent strikes in the Gulf and doubts over a ceasefire have disrupted oil production. Technical: Gulf output, about 30% of global supply, saw a 5% capacity hit, pushing WTI spot up 12% and widening the spread to Brent by 0.8 USD. Macro: Energy market liquidity tightened, risk premium on oil fu",
-      "source": "Центробанк Китаю"
-    },
-    {
-      "title": "PBOC lowers USD/CNY fixing to 6.7313",
-      "summary": "PBOC set the daily USD/CNY midpoint fixing at 6.7313, marginally tighter than the prior 6.7330. The 0.0017 (≈0.02%) yuan appreciation reflects modest intervention while foreign‑exchange reserves remain stable and policy rates unchanged. The move narrows the CNY/USD spread, eases depreciation pressur",
-      "source": "Центробанк Китаю"
-    },
-    {
-      "title": "Оцінка S&P 500 наближається до рівня дотком‑бульбашки",
-      "summary": "Оцінка S&P 500 піднялася до мультиплікатора, близького до рівня 2000‑го року, тоді як Nasdaq продовжує корекцію. Поточний P/E (trailing) становить близько 30×, а forward P/E – 27×, що відповідає максимумам дотком‑епохи; індекс Nasdaq знизився на 5 % за останні 3 місяці. Такі рівні підвищують ймовірн",
-      "source": "ФРС США"
-    },
-    {
-      "title": "Chalice шукає фінансування Gonneville після оновлення ради",
-      "summary": "Chalice планує залучити фінансування Gonneville після оновлення ради. Нові члени ради збільшують потенціал капіталу, що може підвищити ліквідність у секторі енергетики. Це може зменшити спреди на ринках капіталу та підтримати стабільність цін на енергоносії.",
-      "source": "Енергетичні ринки"
-    },
-    {
-      "title": "Кувейт приєднався до енергетичної міністерської зустрічі IEF17 у Ер-Ріяд",
-      "summary": "Кувейт офіційно приєднався до 17‑ї міністерської енергетичної зустрічі IEF у Ер-Ріяд. На засіданні планується обговорення коригувань квот ОПЕК+ та координація постачань на суму близько 3 млн барелів на день. Додаток кувейтської участі може підвищити прозорість регіонального балансу пропозиції‑попиту",
-      "source": "Енергетичні ринки"
-    },
-    {
-      "title": "Китай санкціонує офіціантів партнерів Тайваню",
-      "summary": "Китай наклав санкції на 15 посадових осіб партнерів Тайваню, обмеживши їх подорожі, заморожуючи активи та вводячи контроль над експортом технологій. Ці дії спрямовані на посилення регуляторного контролю над двосторонніми транзакціями та зменшення доступу до критичних компонентів. Очікується підвищен",
-      "source": "Мінфін США"
-    },
     {
       "title": "Китайські AI‑стартапи DeepSeek, Moonshot AI та Manu залучили великі інвестиції",
       "summary": "Три китайські AI‑компанії DeepSeek, Moonshot AI та Manu завершили раунди фінансування, залучивши разом понад $500 млн від міжнародних венчурних фондів. Кожна компанія отримала інвестиції у розмірі $200 млн (DeepSeek), $150 млн (Moonshot AI) та $150 млн (Manu) за оцінкою, що підвищила їхню ринкову ка",
@@ -144,6 +121,36 @@
       "title": "Туреччина, Саудівська Аравія, Йорданія та Сирія обговорюють електроенергетичний проект",
       "summary": "Туреччина, Саудівська Аравія, Йорданія та Сирія провели переговори щодо створення спільної електричної мережі. Планується будівництво високовольтних ліній, що дозволить передавати до кількох гігават електроенергії та потребуватиме інвестицій у діапазоні кількох мільярдів доларів, фінансованих держав",
       "source": "Сировинні ринки"
+    },
+    {
+      "title": "Засідання Ради ЄС щодо приєднання Албанії, Молдови та України",
+      "summary": "13 жовтня 2026 року Генеральна рада ЄС провела засідання, присвячене конференціям з питань приєднання Албанії, Республіки Молдова та України, включаючи огляд головних пунктів порядку денного, приблизний графік та публічні сесії. У рамках підготовки до розширення заплановано виділення передпідписних ",
+      "source": "Рада ЄС"
+    },
+    {
+      "title": "EU-UK саміт 20 листопада 2026 у Брюсселі",
+      "summary": "Другий щорічний саміт ЄС‑Велика Британія відбудеться 20 листопада 2026 року в Брюсселі. На порядку денному – оцінка виконання торгових угод, регуляторних узгоджень у фінансовому секторі та питання тарифних бар’єрів, що можуть змінити митні ставки на 0,5 % та коригувати валютний курс фунта на 0,2 % у",
+      "source": "Рада ЄС"
+    },
+    {
+      "title": "Операція A7: відмивання коштів через лондонський фінтех",
+      "summary": "У лондонському фінтех‑секторі виявлено використання платформи для переказу коштів, пов’язаних з операцією A7, що має зв’язки з Кремлем. За даними Міністерства фінансів США, транзакції склали понад 1,2 млрд доларів за останні шість місяців, з середньою щоденною сумою 6,5 млн доларів, при цьому викори",
+      "source": "Мінфін США"
+    },
+    {
+      "title": "Нацбанк Казахстану скоротить золоті резерви до 75%",
+      "summary": "Національний банк Казахстану оголосив про план зменшити частку золотих резервів до 75 % до кінця 2026 р., переорієнтувавши їх у доларові активи. Зниження золотих резервів передбачає продаж приблизно 30 % поточного обсягу, що збільшить валютні резерви в доларах США до 70 % від загальної суми. Така яс",
+      "source": "Центробанк Китаю"
+    },
+    {
+      "title": "Рада ЄС визначила позиції перед COP31 та COP17",
+      "summary": "Рада ЄС ухвалила позиції щодо переговорів перед COP31 та COP17. У документах передбачено підвищення ціни вуглецевих дозволів у EU ETS на 10% та збільшення фінансування біорізноманіття на 5 млрд євро. Очікується посилення попиту на євро‑зелені облігації, зниження спреду на суверенні борги та помірна ",
+      "source": "Рада ЄС"
+    },
+    {
+      "title": "SBI Research закликає скасувати податок LTCG на акції",
+      "summary": "SBI Research закликав індійський уряд скасувати податок на довгострокові капітальні прибутки (LTCG) з акцій. Припускається, що скасування знизить ефективну ставку податку з 10 % до 0 % і підвищить чисту дохідність індексних фондів на 0,8‑1,0 % річних. Очікується зростання чистих приток інвесторів, п",
+      "source": "Енергетичні ринки"
     }
   ]
 }

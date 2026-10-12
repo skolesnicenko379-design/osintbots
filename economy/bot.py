@@ -28,13 +28,6 @@ ARTICLE_MAX_CHARS = 4000
 GROQ_TIMEOUT = 45
 GROQ_CALL_DELAY = 3
 
-# Жорстко задані актуальні моделі, які підтримують JSON
-GROQ_MODELS = [
-    "llama-3.3-70b-versatile",
-    "llama-3.1-8b-instant",
-    "gemma2-9b-it"
-]
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
@@ -68,6 +61,34 @@ FEEDS.extend([
 ])
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
+
+def get_available_groq_models():
+    if not GROQ_API_KEY:
+        return []
+    headers = {"Authorization": f"Bearer {GROQ_API_KEY}"}
+    try:
+        resp = requests.get(GROQ_MODELS_URL, headers=headers, timeout=10)
+        resp.raise_for_status()
+        data = resp.json()
+        models = [item["id"] for item in data.get("data", [])]
+        
+        valid_models = []
+        for m in models:
+            ml = m.lower()
+            # Відкидаємо аудіо, фільтри безпеки та візуальні моделі
+            if "guard" in ml or "orpheus" in ml or "whisper" in ml or "vision" in ml:
+                continue
+            valid_models.append(m)
+        
+        # Сортуємо: спочатку Llama, потім Mixtral, потім інші
+        valid_models.sort(key=lambda x: (0 if "llama" in x.lower() else 1, x))
+        
+        print(f"Доступні текстові моделі Groq: {valid_models[:5]}...")
+        return valid_models
+    except Exception as e:
+        print(f"Не вдалося отримати список моделей Groq: {e}")
+        return []
 
 def notify_admin(message):
     if not ADMIN_ID:
@@ -130,9 +151,9 @@ def save_history(history):
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-def analyze_with_groq(title, article_text, source_name, recent_posts):
-    if not GROQ_API_KEY:
-        print("КРИТИЧНА ПОМИЛКА: GROQ_API_KEY не знайдено!")
+def analyze_with_groq(title, article_text, source_name, recent_posts, active_models):
+    if not GROQ_API_KEY or not active_models:
+        print("КРИТИЧНА ПОМИЛКА: Немає API-ключа або доступних моделей!")
         return {"relevant": False, "duplicate": False, "failed": True}
 
     recent_block = "(поки що порожньо)"
@@ -155,7 +176,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "3. Якщо новина важлива:\n"
         "- Створи лаконічний заголовок українською (до 14 слів).\n"
         "- Напиши глибокий аналітичний коментар (2–3 речення) про ЕКОНОМІЧНЕ значення події (вплив на ринки, ліквідність, інфляцію).\n\n"
-        "Відповідай ТІЛЬКИ чистим JSON форматом:\n"
+        "Відповідай ТІЛЬКИ чистим JSON форматом, без markdown та коментарів:\n"
         '{"relevant": true, "duplicate": false, "title": "Унікальний заголовок", "analysis": "Коментар щодо впливу на економіку"}'
     )
 
@@ -164,12 +185,13 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
         "Content-Type": "application/json",
     }
 
-    for model in GROQ_MODELS:
+    # Пробуємо до 3-х перших доступних моделей
+    for model in active_models[:3]:
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2,
-            "response_format": {"type": "json_object"},
+            # Вилучено strict JSON mode, бо Allam-2-7b через нього видає помилку
         }
 
         time.sleep(GROQ_CALL_DELAY)
@@ -187,7 +209,13 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
 
             data = resp.json()
             text = data["choices"][0]["message"]["content"].strip()
-            parsed = json.loads(text)
+            
+            # Парсимо JSON із тексту за допомогою регулярки
+            match = re.search(r'\{.*\}', text, re.DOTALL)
+            if match:
+                parsed = json.loads(match.group(0))
+            else:
+                parsed = json.loads(text)
 
             ai_title = parsed.get("title", "")
             ai_analysis = parsed.get("analysis", "")
@@ -206,7 +234,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts):
             print(f"Groq ({model}): помилка обробки: {e}")
             continue
 
-    print(f"Groq не відповів для статті «{title}».")
+    print(f"Groq не зміг опрацювати статтю «{title}».")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 def send_to_telegram(text):
@@ -309,6 +337,11 @@ def main():
     entries = collect_entries()
     print(f"Зібрано свіжих записів: {len(entries)}")
 
+    active_models = get_available_groq_models()
+    if not active_models:
+        print("Не знайдено жодної доступної моделі Groq. Завершення роботи.")
+        return
+
     new_posts = 0
     checked = 0
 
@@ -326,7 +359,7 @@ def main():
             article_text = entry["summary"]
 
         result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], history["recent_posts"]
+            entry["title"], article_text, entry["source"], history["recent_posts"], active_models
         )
 
         if result.get("failed"):

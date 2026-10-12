@@ -695,8 +695,8 @@ def extract_json_object(content):
     """Читає JSON-відповідь, навіть якщо модель додала Markdown-обгортку."""
     content = (content or "").strip()
     if content.startswith("```"):
-        content = re.sub(r"^\`\`\`(?:json)?\s*", "", content, flags=re.I)
-        content = re.sub(r"\s*\`\`\`$", "", content)
+        content = re.sub(r"^```(?:json)?\s*", "", content, flags=re.I)
+        content = re.sub(r"\s*```$", "", content)
     try:
         return json.loads(content)
     except json.JSONDecodeError:
@@ -705,7 +705,6 @@ def extract_json_object(content):
         if start >= 0 and end > start:
             return json.loads(content[start:end + 1])
         raise
-
 
 def parse_bool(value, default=False):
     if isinstance(value, bool):

@@ -753,7 +753,7 @@ def analyze_with_groq(
     if recent_posts:
         lines = []
 
-        for post in recent_posts[-6:]:
+        for post in recent_posts[-12:]:
             previous_title = str(post.get("title", ""))[:150]
             previous_summary = str(post.get("summary", ""))[:250]
             previous_source = str(post.get("source", ""))[:60]

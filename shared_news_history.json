@@ -172,6 +172,7 @@
     "https://gov.uk/government/news/pm-statement-on-october-7th-attacks",
     "https://gov.uk/government/news/prime-minister-andy-burnham-sets-out-plans-for-a-new-national-care-service",
     "https://gov.uk/government/news/uk-and-germany-launch-joint-partnership-to-counter-sabotage-and-cyber-attacks",
+    "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
     "https://gov.uk/government/news/uk-speaker-of-house-of-commons-to-attend-153rd-inter-parliamentary-union---assembly-in-tanzania",
     "https://gov.uk/government/speeches/at-a-time-of-deepening-conflict-and-insecurity-across-parts-of-the-continent-the-partnership-between-the-united-nations-and-african-union-is-indispens",
     "https://gov.uk/government/speeches/by-advancing-investment-resilience-and-reform-we-can-expand-opportunity-strengthen-economies-and-improve-lives-around-the-world-uk-statement-at-the-un",
@@ -1327,6 +1328,14 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
       "published": "2026-10-12T08:00:00+00:00"
+    },
+    {
+      "title": "Британія прийняла J7 для координації боротьби з антисемітизмом",
+      "summary": "Міністр закордонних справ Великої Британії провів у Лондоні засідання глобальної робочої групи J7, до якої входять представники єврейських організацій семи країн з найбільшою діаспорою поза Ізраїлем. Учасники обговорили практичні заходи для протидії зростанню антисемітських проявів та посилення міжнародної координації. Британія також погодилася прийняти майбутню міністерську зустріч J7, що відбувається на тлі даних про те, що 2025 рік став найсмертоноснішим для євреїв за межами Ізраїлю з 1994 року.",
+      "source": "FCDO (Британія)",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
+      "published": "2026-10-12T13:54:07+00:00"
     }
   ]
 }

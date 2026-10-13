@@ -130,39 +130,15 @@
     "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa240NC0wVnB1Vk5TUV90cFBQUTNFa181aWlNck5kdjVodnhYVnJyQWI2SDVCVnVuV0J5LXdyMGVqYVpMdkNBb3Z5RDV0NjB6SVFWY3ZDZE1YRl9lMEh4eTNaZTlqeUU0STAxbi05dUlzVUNYWmdaOXMxaVcwaWkxSnpaendYMEloR0wzclFKSTNVRHd6aXFjU0NBbWhBOFhQWEsyV1RmQWpHX3pyelZMZms5LUpwLXNMZDlyaF9VclM4cUVjSmtEUFVIWGVSRzdFREtLc3RBa010N3IwUDN5aUQ1MFpQMjBoaFUxemdMaFFGRnZLTVlBdlMzU09OblplMWtSRndaaG5MSHM1WEVldGxIaUY?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc?oc=5",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk?oc=5"
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WeVNxSXE2ZUxmaWptQ2t6TG1DR1R3aFViNVZaSG8yNTVOMkJkV3pnTDkydm04RlRIeV9ITDBoaDZRcHNUQ3BkUkhyZWE5WVRBSkV4NEFZVFFGNEJyOFpKanZNSmJlREZHaTV6aDVOVXFEb1FIQVE?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ac29hcU5aenZnUjBBUVd2VG5lOTE3X0FjYlFCb2pZdE1TRl9POWJ2V0ZnZFhZT1lMUnFnVko4LVlDem0xblI2dDFNVU5GZkRPSjhQQnREV2RVa0hYYVltOGpfOHI1b3drT3NUZzhnQzVSZlVRZnc?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXp4V1BsX3p5blhsNENyWGtCMWpYYTA0ZXVjNFVyZEFoU0pHSTh1RDhTNlB2cGd5c05ZbXBCUjV5WVFUeHp0emxmZlhJVUxHbmNPZmEtaHdmQnA2eWhNSFdLcTJhZzFSaXo0bW1WOE9iZzljZTFLNkUtbWFyUUZTSGJPb2rSAYoBQVVfeXFMUHhBQ21DMm1VSklrdnRZZkRUZm16UGNfVXFLSWROQUpMRzIxUm9ibGtnSkhyd1NXamx4Qm9qTzB5RU1XZEdYZmc0TEI2Rng3Rk1pT2ZWVmhmOGNOV2tGS1ZsYzJnY24wVzhfcTltZy1wX2lQR1ZsSEFkSlV3MXVSS1RlSG81aHAxTnZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkhmVTV0YzVEYUQ2NTUzYkVHdHowX2tpXzBRckdHVmRIZnlnN3V1bF9rWGxUSVc3V1Z3S01kaUdlVTVrRlJLZmFLbWxhVzhNQ0NRQUFYazRMaGdWRmwtNi1hVThxRmtEOE1wRjVadGN2UVMtVmpaUnNEQ2dmcEs0ZEVPMXR1WkZjVXc2S3JYQVNxNnZGclJ4MVZISjJobXlrQXBRcw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGo1dTJfdUlQTTFSU0RobXAxR2JNNDh6TjJKMDQ5R1ZISG1CLVo2Q2hveDV1ZURBT2RTbmVTT25TTWlrNzFmVzlZV3dKYWJlNGVwRW9WMHdKU3lpeXdqcW9qZUllb0trNnREMjFjVXRyM09CWVpSUENZV3FabHZSVWJUUGFfLUdwdXFzUHo2XzBzMGlWNlNmX1RoSzFLeElhUU55eA?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONE5jSGtZd3VJVmFrZm1KSVdZLVBCaWFCb0tIS3QyVlNyUUxwUDVBd0NlWW9iZ3g1NjhobVVUSGFNbGdtZDFQbGpoSjJkMlRoV1pyeElJYUt0TVd6NzVyQkVzdzdFTnZNcGdRaEliQ0RZdWZkZFBBSzRtM3AxY2VERWlQSEhCdlJJR1VmNExHUVlxSlR6QUtRNmtUVmY1VzZXamRyNlBhUEZ1eDQzMVNiVEpFME9OSkJmMmNCaUVRX3kyeFBneklrMWVPN05MYUdKMXJtVjlLeXIzN3d2eHMxOGF4THdjNUVpSU05RTl30gHzAUFVX3lxTE1UTGowTUYtd1ozNDZ4TEpXS0Z6cV9TeGJMUmNZaldzWnRiSXhNS1dWcEx6XzlMUHZxeUU5b0hUd1huZnlDRGZUVE8xYm0xT0YtS0M2cDJsQjNLTDhqb01GeElSbnFITkdVTzBtT3FCS1lFVkJOUk9SR2tpcFk5V0pXeUhnZGw1UnVfX3hpUngtSDVTcXBsOE41bnQwVTBwSXJBTXhvQ2YxVVNrQkd1Y3cxWXNIMnVQSVpacDBlN2dMc2RSZnJ4aUsyVGJzcElHQmpfRVFYQ2dhMFA0blRqRlNyTExaeFlTQTg2R1NiaWJhSzZNYw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Японський PPI у вересні впав до 6,8%",
-      "summary": "Японський індекс виробничих цін (PPI) за вересень знизився до 6,8% річних, що є уповільненням порівняно з попереднім місяцем. Сповільнення інфляційного тиску знижує ймовірність підвищення ставки Банком Японії у жовтні. Менший інфляційний тиск підтримує стабільність йенового курсу, знижує спреди на к",
-      "source": "Банк Японії"
-    },
-    {
-      "title": "ППБК встановить курс USD/CNY на 6.6981",
-      "summary": "ППБК встановив референтний курс USD/CNY на 6.6981. Цей рівень, що відрізняється на 0.0004 від попереднього, сигналізує про м’яку підтримку долара. Очікується, що стабілізація курсу знизить волатильність на ринку валют, підвищить ліквідність китайських облігацій і зменшить девальваційний тиск на внут",
-      "source": "Центробанк Китаю"
-    },
-    {
-      "title": "Оптове інфляційне зниження в Японії, тиск BOJ зберігається",
-      "summary": "Оптовий індекс цін у Японії у березні знизився до 0,5 % річних, що на 0,3 % пункту менше за лютневий рівень. При цьому темпи зростання залишились вище цільового рівня 0 % і нижче 2 % інфляційного таргету. Зниження інфляції зменшує тиск на Банку Японії щодо швидкого підвищення ставок, проте політика ",
-      "source": "Банк Японії"
-    },
-    {
-      "title": "Visa отримала дозвіл у Китаї, доступ до 10,27 млрд карт",
-      "summary": "Visa отримала перший після 40‑річного очікування дозвіл на діяльність у Китаї, відкривши доступ до потенційного ринку в 10,27 млрд платіжних карт. За оцінками, це може створити щорічний обсяг транзакцій понад 1,5 трлн USD та збільшити частку міжнародних платіжних мереж у країні. Розширення присутнос",
-      "source": "Центробанк Китаю"
-    },
-    {
-      "title": "Йєн відновлюється на тлі послаблення тиску на BOJ",
-      "summary": "Йєн піднявся на 0,5 % до 149,5 JPY/USD, одночасно BOJ залишив негативну короткострокову ставку –0,1 % і контроль кривої доходності, 10‑річна доходність стабільна біля 0,7 %, спред USD/JPY скоротився. Зниження тиску підвищує ліквідність валютного ринку та зменшує волатильність, що знижує ризики девал",
-      "source": "Банк Японії"
-    },
-    {
-      "title": "Visa отримала схвалення ПБК для підготовки нових послуг",
-      "summary": "Visa отримала схвалення ПБК для підготовки нових послуг у Китаї. Умови дозволяють компанії розширити обсяги транзакцій у китайському ринку, що може підвищити обіг валютних пар USD/CNY. Це підвищить ліквідність на ринку, зменшить спреди між китайськими та глобальними платіжними системами, а також пос",
-      "source": "Центробанк Китаю"
-    },
     {
       "title": "УЕДА: Довгострокові ставки визначаються ринками",
       "summary": "УЕДА заявив, що довгострокові процентні ставки формуються на ринкових умовах. Він підкреслив, що ринкові доходності, волатильність і спреди між короткостроковими та довгостроковими облігаціями визначають рівень ставок. Це підсилює роль ринкових сигналів у формуванні монетарної політики, збільшуючи л",
@@ -232,6 +208,36 @@
       "title": "Іран заявляє про третій танкер у протоці Гормуз",
       "summary": "Іранська IRGC стверджує про пошкодження третього танкера за два дні в протоці Гормуз. Це загрожує перервами в постачанні нафти через ключовий маршрут. Наслідки включають зростання волатильності на енергетичних ринках та тиск на ланцюги постачання. Інвестори та споживачі мають враховувати ризики для ",
       "source": "Енергетичні ринки"
+    },
+    {
+      "title": "Шанхайські банки прискорюють транскордонне фінансування",
+      "summary": "Шанхайські банки досягли рівня хеджування FX на 8 пунктів вище національного середнього Китаю. Запущено всі шість пілотних програм офшорного фінансування. Це підвищить ліквідність на валютних ринках та спростить транскордонні операції. Наслідки включають покращення умов для боргових ринків і валютно",
+      "source": "Центробанк Китаю"
+    },
+    {
+      "title": "Банк Японії призупинить підвищення ставок у жовтні",
+      "summary": "Банк Японії, ймовірно, не підвищить ставки в жовтні. Ймовірність підвищення в грудні сягає 90%. Це вплине на курс єни та ліквідність японських боргових ринків.",
+      "source": "Банк Японії"
+    },
+    {
+      "title": "Білорусбанк отримав рейтинг від китайського агентства",
+      "summary": "Білорусбанк отримав кредитний рейтинг від китайського агентства. Подія стосується оцінки кредитоспроможності банку. Це може вплинути на доступ до боргових ринків та ліквідність у контексті міжнародних відносин.",
+      "source": "Мінфін США"
+    },
+    {
+      "title": "Tencent орендує 100 тис. чипів Nvidia через Oracle",
+      "summary": "Tencent орендує 100000 заборонених Nvidia чипів через Oracle у Південно-Східній Азії. Це обхід експортних обмежень США на постачання AI-чіпів до Китаю. Наслідки: посилення тиску на ланцюги постачання чипів, зростання ризиків для ліквідності ринку напівпровідників та можливе посилення регуляторного к",
+      "source": "Мінфін США"
+    },
+    {
+      "title": "Індія розвиває переробку критичних мінералів",
+      "summary": "Індія розглядає внутрішню переробку критичних мінералів як наступну ключову стратегію після нафти. Це може змінити глобальні ланцюги постачання мінералів та вплинути на ліквідність ринків. Наслідки включають потенційне зростання попиту на технології переробки та тиск на валюти експортерів сировини.",
+      "source": "Енергетичні ринки"
+    },
+    {
+      "title": "Дивергенція прибутковості японських облігацій через інфляцію та BOJ",
+      "summary": "Інвестори оцінюють перспективи інфляції та політики Банку Японії, що спричиняє дивергенцію прибутковості японських облігацій. Фактична подія стосується глобальних ринків та outlook BOJ без конкретних цифр у джерелі. Це впливає на боргові ринки Японії та може позначитися на ліквідності та валютних ку",
+      "source": "Банк Японії"
     }
   ]
 }

@@ -24,6 +24,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+        with:
+          fetch-depth: 0
 
       # 2. Налаштування Python
       - name: Налаштування Python
@@ -67,11 +69,13 @@ jobs:
           # Створюємо коміт зі змінами
           git commit -m "Оновлено історію публікацій [skip ci]"
 
-          # Отримуємо останні зміни з GitHub
+          # Синхронізуємося з актуальним main без відкидання локальних записів.
           git fetch origin main
+          if ! git rebase origin/main; then
+            python scripts/merge_shared_history_conflict.py
+            git add shared_news_history.json
+            GIT_EDITOR=true git rebase --continue
+          fi
 
-          # Переносимо коміт поверх актуальної версії main
-          git rebase origin/main
-
-          # Відправляємо зміни без перезапису чужих комітів
+          # Відправляємо коміт без перезапису чужих змін.
           git push origin HEAD:main

@@ -2,8 +2,8 @@ name: Sequential OSINT Bots
 
 on:
   schedule:
-    # Один координатор запускає ботів послідовно.
-    - cron: '5 * * * *'
+    # Запуск на 17-й хвилині, щоб зменшити затримки на початку години в GitHub Actions.
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 concurrency:

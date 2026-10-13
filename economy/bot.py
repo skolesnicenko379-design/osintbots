@@ -74,6 +74,8 @@ GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
 XAI_API_URL = "https://api.x.ai/v1/chat/completions"
 XAI_API_KEY = (os.environ.get("XAI_API_KEY") or "").strip().replace('"', '').replace("'", "")
 XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.7").strip()
+if XAI_MODEL == "grok-4.3":
+    XAI_MODEL = "grok-4.3-latest"
 
 def get_available_groq_models():
     if not GROQ_API_KEY:

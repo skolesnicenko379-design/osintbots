@@ -57,7 +57,7 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 XAI_API_URL = "https://api.x.ai/v1/chat/completions"
 XAI_API_KEY = (os.environ.get("XAI_API_KEY") or "").strip().replace('"', '').replace("'", "")
-XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.3").strip()
+XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.7").strip()
 
 ARTICLE_MAX_CHARS = 3000  # скільки символів тексту статті передавати в Groq
 
@@ -214,7 +214,7 @@ def enrich_with_xai(title, article_text, source_name, needs_translation, recent_
         "Оригінал англійською — переклади заголовок природною українською."
         if needs_translation else "Оригінал вже українською."
     )
-    recent_block = "\\n".join(
+    recent_block = "\n".join(
         f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
         for post in (recent_posts or [])[-12:]
     ) or "(нещодавніх публікацій немає)"
@@ -248,7 +248,7 @@ def enrich_with_xai(title, article_text, source_name, needs_translation, recent_
             print(f"xAI ({XAI_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
             return None, None, False
         content = resp.json()["choices"][0]["message"]["content"].strip()
-        match = re.search(r"\\{.*\\}", content, re.DOTALL)
+        match = re.search(r'\{.*\}', content, re.DOTALL)
         parsed = json.loads(match.group(0) if match else content)
         ai_title = parsed.get("title")
         ai_analysis = parsed.get("analysis")

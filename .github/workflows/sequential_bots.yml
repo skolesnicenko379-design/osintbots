@@ -56,6 +56,8 @@ jobs:
           DIPLOMACY_CHANNEL_ID: ${{ secrets.DIPLOMACY_CHANNEL_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: grok-4.3
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-3.5-flash-lite
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}

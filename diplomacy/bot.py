@@ -665,11 +665,18 @@ def collect_entries():
 
             summary = strip_html(entry.get("summary", ""))
 
+            publisher_meta = entry.get("source") or {}
+            publisher = (
+                str(publisher_meta.get("title", "")).strip()
+                if isinstance(publisher_meta, dict)
+                else ""
+            )
             all_entries.append({
                 "link": link.strip(),
                 "title": title,
                 "summary": summary[:2000],
                 "source": source_name,
+                "publisher": publisher,
                 "published": published_dt,
                 "date_source": date_source,
             })
@@ -895,7 +902,7 @@ def analyze_with_groq(
     compact_article = clean_text(article_text)[:1600]
     compact_recent = recent_posts[-12:] if recent_posts else []
     recent_block = "\n".join(
-        f"- [{str(post.get('source', ''))[:50]}] {str(post.get('title', ''))[:160]} | "
+        f"- [{str(post.get('publisher') or post.get('source', ''))[:70]}] {str(post.get('title', ''))[:160]} | "
         f"{str(post.get('summary', ''))[:180]}"
         for post in compact_recent
     ) or "(немає)"
@@ -1513,6 +1520,7 @@ def check_duplicate_with_xai(candidate_title, candidate_summary, article_text, s
             "title": str(post.get("title", ""))[:180],
             "summary": str(post.get("summary", ""))[:320],
             "source": str(post.get("source", ""))[:80],
+            "publisher": str(post.get("publisher", ""))[:100],
             "channel": str(post.get("channel", ""))[:40],
             "published": str(post.get("published", ""))[:32],
         })
@@ -1724,6 +1732,7 @@ def main():
                 "title": result["title"] or entry["title"],
                 "summary": result["analysis"][:500],
                 "source": entry["source"],
+                "publisher": entry.get("publisher", ""),
                 "published": entry["published"].isoformat(),
             })
 
@@ -1733,7 +1742,7 @@ def main():
             record_published(
                 shared_history, entry["link"],
                 result["title"] or entry["title"], result["analysis"],
-                entry["source"], "diplomacy", entry["published"].isoformat(),
+                entry.get("publisher") or entry["source"], "diplomacy", entry["published"].isoformat(),
             )
 
             new_posts += 1

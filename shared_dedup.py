@@ -2,12 +2,14 @@
 import json
 import os
 import re
+from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse, urlunparse
 
 ROOT = Path(__file__).resolve().parent
 SHARED_HISTORY_FILE = ROOT / "shared_news_history.json"
+HISTORY_WINDOW_HOURS = 42
 LEGACY_FILES = {
     "diplomacy": ROOT / "diplomacy" / "posted_news.json",
     "economy": ROOT / "economy" / "posted_news.json",
@@ -71,77 +73,79 @@ def _normalize_post(post, channel):
     }
 
 
-def load_shared_history():
-    """Завантажує індекс і доповнює його наявними історіями трьох ботів."""
-    data = _read_json(SHARED_HISTORY_FILE)
-    if not isinstance(data, dict):
-        data = {}
-    links = data.get("links", [])
-    posts = data.get("recent_posts", [])
-    if not isinstance(links, list):
-        links = []
-    if not isinstance(posts, list):
-        posts = []
-
-    known_links = {canonical_link(link) for link in links if canonical_link(link)}
-    normalized_posts = []
-    post_keys = set()
-    for post in posts:
-        normalized = _normalize_post(post, "unknown")
-        if normalized:
-            key = (normalized["channel"], normalized["title"].casefold())
-            if key not in post_keys:
-                normalized_posts.append(normalized)
-                post_keys.add(key)
-
-    # Імпортуємо наявні історії, не замінюючи та не очищаючи жоден із файлів.
-    for channel, path in LEGACY_FILES.items():
-        legacy = _read_json(path)
-        if isinstance(legacy, dict):
-            legacy_links = legacy.get("links", [])
-            legacy_posts = legacy.get("recent_posts", [])
-        elif isinstance(legacy, list):
-            legacy_links = legacy
-            legacy_posts = []
-        else:
-            continue
-
-        if isinstance(legacy_links, list):
-            for link in legacy_links:
-                normalized_link = canonical_link(link)
-                if normalized_link:
-                    known_links.add(normalized_link)
-
-        if isinstance(legacy_posts, list):
-            for post in legacy_posts:
-                normalized = _normalize_post(post, channel)
-                if not normalized:
-                    continue
-                key = (normalized["channel"], normalized["title"].casefold())
-                if key not in post_keys:
-                    normalized_posts.append(normalized)
-                    post_keys.add(key)
-
-    return {"links": sorted(known_links)[-6000:], "recent_posts": normalized_posts[-150:]}
+def _published_datetime(value):
+    """Розбирає дату публікації в часову мітку UTC."""
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        return None
 
 
-def save_shared_history(history):
-    history["links"] = sorted({
-        canonical_link(link) for link in history.get("links", [])
-        if canonical_link(link)
-    })[-6000:]
-    unique_posts = []
+def _within_history_window(post, now=None):
+    """Залишає лише записи з підтвердженою датою в межах останніх 42 годин."""
+    published = _published_datetime(post.get("published"))
+    if published is None:
+        return False
+    now = now or datetime.now(timezone.utc)
+    return now - timedelta(hours=HISTORY_WINDOW_HOURS) <= published <= now + timedelta(minutes=5)
+
+
+def _clean_recent_posts(posts, now=None):
+    cleaned = []
     seen = set()
-    for post in history.get("recent_posts", []):
+    for post in posts:
+        if not isinstance(post, dict):
+            continue
         normalized = _normalize_post(post, str(post.get("channel") or "unknown"))
-        if not normalized:
+        if not normalized or not _within_history_window(normalized, now):
             continue
         key = (normalized["channel"], normalized["title"].casefold())
         if key in seen:
             continue
+        cleaned.append(normalized)
         seen.add(key)
-        unique_posts.append(normalized)
-    history["recent_posts"] = unique_posts[-150:]
+    cleaned.sort(key=lambda post: _published_datetime(post.get("published")) or datetime.min.replace(tzinfo=timezone.utc))
+    return cleaned[-150:]
+
+
+def load_shared_history():
+    """Завантажує ковзну історію за 42 години; старі URL не накопичуються безстроково."""
+    data = _read_json(SHARED_HISTORY_FILE)
+    posts = data.get("recent_posts", []) if isinstance(data, dict) else []
+    if not isinstance(posts, list):
+        posts = []
+    else:
+        posts = list(posts)
+
+    # Імпортуємо лише недавні записи з датами. Старі списки URL без дат
+    # не можна коректно обрізати за часом, тому вони не переносяться в новий індекс.
+    for channel, path in LEGACY_FILES.items():
+        legacy = _read_json(path)
+        if isinstance(legacy, dict) and isinstance(legacy.get("recent_posts"), list):
+            for post in legacy["recent_posts"]:
+                normalized = _normalize_post(post, channel)
+                if normalized:
+                    posts.append(normalized)
+
+    recent_posts = _clean_recent_posts(posts)
+    known_links = {post["link"] for post in recent_posts if post.get("link")}
+    return {"links": sorted(known_links), "recent_posts": recent_posts}
+
+
+def save_shared_history(history):
+    """Зберігає лише актуальні 42 години та відновлює links із цих записів."""
+    recent_posts = _clean_recent_posts(history.get("recent_posts", []))
+    history["recent_posts"] = recent_posts
+    history["links"] = sorted({
+        canonical_link(post.get("link", ""))
+        for post in recent_posts
+        if canonical_link(post.get("link", ""))
+    })
     temp_path = SHARED_HISTORY_FILE.with_suffix(".json.tmp")
     with temp_path.open("w", encoding="utf-8") as file:
         json.dump(history, file, ensure_ascii=False, indent=2)

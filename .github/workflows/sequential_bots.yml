@@ -38,13 +38,18 @@ jobs:
         id: schedule
         shell: bash
         run: |
-          HOUR="$(date -u +%H)"
-          if (( 10#$HOUR % 2 == 0 )); then
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
             echo "run_extended=true" >> "$GITHUB_OUTPUT"
-            echo "Парна година UTC: після Diplomacy запускаються Economy та MilTech."
+            echo "Ручний запуск: запускаються всі три боти незалежно від години."
           else
-            echo "run_extended=false" >> "$GITHUB_OUTPUT"
-            echo "Непарна година UTC: запускається лише Diplomacy."
+            HOUR="$(date -u +%H)"
+            if (( 10#$HOUR % 2 == 0 )); then
+              echo "run_extended=true" >> "$GITHUB_OUTPUT"
+              echo "Плановий запуск у парну годину UTC: запускаються всі три боти."
+            else
+              echo "run_extended=false" >> "$GITHUB_OUTPUT"
+              echo "Плановий запуск у непарну годину UTC: запускається лише Diplomacy."
+            fi
           fi
 
       - name: Запуск Diplomacy

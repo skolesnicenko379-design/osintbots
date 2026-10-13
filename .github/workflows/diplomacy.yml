@@ -38,6 +38,8 @@ jobs:
           DIPLOMACY_CHANNEL_ID: ${{ secrets.DIPLOMACY_CHANNEL_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
         run: python bot.py
 

@@ -59,7 +59,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-3.5-flash-lite
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          OPENROUTER_MODEL: openai/gpt-4o-mini
+          OPENROUTER_MODEL: google/gemma-4-31b-it:free
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
         run: python bot.py
 

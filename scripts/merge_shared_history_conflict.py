@@ -1,7 +1,11 @@
 """Safely merge both sides of a Git conflict in shared_news_history.json."""
 import json
 import subprocess
+import sys
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 
 from shared_dedup import _clean_recent_posts, canonical_link
 

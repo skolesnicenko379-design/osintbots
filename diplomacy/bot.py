@@ -98,24 +98,34 @@ HEADERS = {
 
 search_queries = [
     (
-        "US foreign policy OR diplomacy OR State Department when:1d",
+        '(president OR "prime minister" OR "foreign minister") '
+        '(meeting OR talks OR visit OR summit OR "phone call") when:1d',
+        "Bilateral Meetings",
+    ),
+    (
+        '(signed OR agreement OR treaty OR memorandum OR "joint statement") '
+        '(government OR minister OR "foreign ministry") when:1d',
+        "Treaties & Agreements",
+    ),
+    (
+        'site:state.gov/briefings-statements/ (meeting OR agreement OR "joint statement" OR talks) when:1d',
         "US Diplomacy",
     ),
     (
-        "US sanctions OR trade tariffs OR export controls China when:1d",
-        "Geo-Economics",
-    ),
-    (
-        "Pentagon OR defense budget OR military aid Ukraine Taiwan when:1d",
-        "Global Defense",
-    ),
-    (
-        "geopolitics alliance NATO Indo-Pacific US when:1d",
-        "Strategic Alliances",
-    ),
-    (
-        "European Union foreign policy OR EEAS geopolitics when:1d",
+        'site:consilium.europa.eu (meeting OR agreement OR "joint statement" OR summit) when:1d',
         "EU Diplomacy",
+    ),
+    (
+        'site:gov.uk/government/news ("foreign secretary" OR FCDO) (meeting OR agreement OR visit OR talks) when:1d',
+        "Diplomatic Visits",
+    ),
+    (
+        'site:fmprc.gov.cn (meeting OR agreement OR visit OR talks OR "joint statement") when:1d',
+        "China Diplomacy",
+    ),
+    (
+        'site:nato.int/cps/en/natohq/news.htm (meeting OR agreement OR declaration OR talks) when:1d',
+        "Multilateral Diplomacy",
     ),
 ]
 
@@ -800,13 +810,26 @@ def analyze_with_groq(
 
 ПРАВИЛА ВІДБОРУ:
 
-1. Відхиляй новини, які не стосуються міжнародної політики,
-дипломатії, зовнішньої політики, безпеки, оборони, санкцій,
-торгівлі, стратегічних технологій або міжнародних відносин.
+1. ПУБЛІКУЙ ЛИШЕ КОНКРЕТНІ МІЖНАРОДНІ ДИПЛОМАТИЧНІ ПОДІЇ:
+двосторонні або багатосторонні зустрічі, офіційні візити,
+переговори, телефонні розмови лідерів і міністрів, консультації,
+підписання чи укладення міжнародних угод, договорів і меморандумів,
+спільні заяви, декларації, домовленості, рішення міжнародних
+організацій, а також офіційні дипломатичні кроки (відкликання
+посла, вислання дипломата, формальне оголошення переговорів).
+У тексті має бути зрозуміло, хто саме взаємодіяв з ким і що сталося.
 
-2. Відхиляй дрібні адміністративні повідомлення, незначні кадрові
-перестановки, рутинні заяви без нової інформації та матеріали,
-які не містять конкретної події.
+2. ВІДХИЛЯЙ загальні новини про економіку, ринки, виробництво,
+технологічні продукти, корпоративні результати, озброєння,
+внутрішню політику та загальні геополітичні оцінки. Санкції,
+торговельні обмеження, оборонні закупівлі або технології можна
+публікувати лише тоді, коли матеріал повідомляє про конкретне
+офіційне міжнародне рішення, переговори чи угоду з визначеними
+державами або міжнародними організаціями.
+
+3. Не вважай згадку про іноземну державу або геополітичний контекст
+достатньою підставою для публікації. Якщо немає конкретної події,
+учасників і дії/результату, встанови relevant=false.
 
 3. Якщо текст описує ту саму подію, рішення, зустріч, санкції,
 угоду або анонс, які вже є в останніх публікаціях, встанови

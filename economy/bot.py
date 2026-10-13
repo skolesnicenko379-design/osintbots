@@ -15,7 +15,7 @@ import sys
 sys.path.insert(0, os.path.abspath(".."))
 from shared_dedup import (
     load_shared_history, save_shared_history, is_duplicate_link,
-    is_duplicate_title, record_published,
+    is_duplicate_title, select_relevant_recent_posts, record_published,
 )
 
 # ===== Налаштування з GitHub Secrets =====
@@ -395,8 +395,12 @@ def main():
         if not article_text:
             article_text = entry["summary"]
 
+        # Select likely event matches from the live shared history.
+        duplicate_context = select_relevant_recent_posts(
+            entry["title"], article_text, shared_history["recent_posts"], limit=8
+        )
         result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], combined_recent_posts, active_models
+            entry["title"], article_text, entry["source"], duplicate_context, active_models
         )
 
         if result.get("failed"):

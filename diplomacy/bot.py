@@ -130,7 +130,7 @@ FEEDS.extend([
         True,
     ),
     (
-        "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml",
+        "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml",
         "Європарламент",
         True,
     ),
@@ -750,13 +750,8 @@ def analyze_with_groq(
 ):
     global GROQ_RATE_LIMITED_THIS_RUN
     if not GROQ_API_KEY or not active_models:
-        return {
-            "relevant": False,
-            "duplicate": False,
-            "title": None,
-            "analysis": None,
-            "failed": True,
-        }
+        print("Groq недоступний; пропускаю його та пробую резервний Gemini.")
+        active_models = []
 
     recent_block = "(Нещодавніх публікацій немає.)"
 
@@ -1085,8 +1080,8 @@ duplicate=true. Інше джерело або перефразований за
             print(f"Помилка Groq ({model}): {exc}")
             continue
 
-    # Резервний провайдер викликається лише один раз і має жорсткий timeout.
-    # Помилка Gemini не запускає повторні запити й не затримує весь workflow.
+    # Резервний провайдер має обмежений тайм-аут і одну повторну спробу
+    # лише для тимчасових помилок мережі або перевантаження.
     if GEMINI_API_KEY:
         gemini_url = f"{GEMINI_API_URL}/{GEMINI_MODEL}:generateContent"
         gemini_payload = {

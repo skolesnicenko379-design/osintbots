@@ -8,6 +8,7 @@
     "https://gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
     "https://gov.uk/government/news/joint-statement-on-iran-12-october",
     "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
+    "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
     "https://militarnyi.com/uk/news/frantsiya-rozglyane-yadernyh-mikroreaktoriv",
     "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
     "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
@@ -25,6 +26,7 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWktqZU9rVDB4QUVtUzJKS1JocGFlV3VIVmFkMTEycl9IekxhbU9ybUhJZTFBWkF4ZWVnalJ6QThVaWZEYnFnekotcmRDMmdDX1RfQ0Q2N2IzZkRESGNzdFdfY3lMdUtJMVRlbnVCMzFta1RwSEE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTU0zeW9oM2x1bGNJSjlMalZHbGtRM19Ed20tamtXRzFseEdZRW14Q3BMNW5yTEt3VUZvWktvQnJhbFltMGw4TjNYM3hjRXVHQXo3TWg2X0VCTGZ2ZDJSUTNtbk1XdmRwLTJnWEFyaFQtWFppeXc",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SVnh1aW16TUloeUEyV1lyRU10QjhucGdIMGVWT0hoQUd4ZmlVcWROUXBBd04xeFpKSklnalJCdUNiZGU2azdWM2hxN2pHOFlHdUFNYVBQck9JMUE0blRxYnhCWWlvZmN4djY0TEdpVDNHbUhQSEVJOWVySmg",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuQjRPZmpZbGpxRVhUa0xUcFc0bXBmZWk3VEdnXzduNGRTd1J2SzZVa29MR0J5aENKT0xIcWJ4dXlOdzdKamFGblhpaGFNY3RXNTdlRVBLbEczNzV2QS1vUS1GTC1fT25LNDRYVW9EVTBRRE1rRzc0UW9HR09Sdw",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTRLZFJhaUh6NGFhdFVBekhsZjVoTW15NDREWFYyZ1RXTTJhRnBycUFqejdmODNHOFNkcUtfY3ptN3hRSTZiS1RSaEthTkQzekV6WGJtWXk3OC10MENsWXNRdUJ0MTI3eENHNVI1clJfM1BGS3RrOVZRaUJfT2hvcFl1OC1xZUU",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzOTF2ZThSem9JTmk3QmtuZWh2UjZGNEttS2FMZjRPSE53bXIyWDVhdWlXV3pXR3hxQ3FSWC02QktDTTBlblgyaTFzblJnMlJaZ0JoRHhDVk1CRm1jRzEwZjU1SlA2aXZQVzVfald5SUJnMnJ5REllOU1XZ3BrU2c5Zkplb2R2MEdpcA",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnBGeXhicnpyaWM1NXdzd0JzRHV6b19LSm1RbGV4WFVqUVo4MFNZWE5wOXhLT01tUTVxZmF5MXdsY21iYzNOQTVBQ1J3Ri1XZGJBX2xJbXotYXIwSWwzM2NQemdLZHNLUHd0UXFQOVhaUHhQU0FOekg0LXhCUzVCelhLem9oa1QwaU1TSw",
@@ -39,6 +41,7 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDZLMjBRUE9DNTNjMWlpX1Nya1ItaVBCT042SVNPcGo0SUhObGd6MnliNDI2QzRWZ3Izb1RmTFBsNTVmOGV1MlFheUpsb0ZOc1R1M0xzUk8xX3pDWXJGbjYxdjJFekJ6RkNLZEpKTE9DUVAwZ0dUNVVOMkxGWk0zaGZRNHFSbkdmRVk2UXc0X09RbmlZWW5DSFczMWg",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEgyYllfUUYzMEhTQ2xuZmh6ZW5TWDhUMld6U1M4dmMwVHo2Rm1PeHpaNHRZV1pCWHp0b0d6RHo2OXhtWVlLeW5aeV96N0U1RThxZmFlVTZjVl9WMmhsWXA2eUVfTTB3LTVHTHIwNllsY1A4Q3BUeFhZWkJBd2NQUXhYaTlzQ1l6bmtZR1lWTjVuYkpMRUNUN0ZkRDlPdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQdIBngFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQQ",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzdTRTB1TzZxcXdpaVdWOW0za2RUNG9mUmhJbDk1OXRhclJlZ2kxT1h5LXc1bnB0QmRFcVV3bGRzaEY3ZDhCb1VjTGdvUGFBWmd2VTlLbS0xSHVhM2V1QmFMTE1OeWs2OUJBbGtsbzR4SXUyTUVpUXNJcnhYX19CV0FKSHRNNHk5VVRmYXA2V25EVnpTVVJWX0x4aWQ5Y1hx",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWxSZHlsWFhyVVc1aW15Y3RoSEVOeDA3b1dfTGg5Z09YU0k5Zll3S01fN2dmWmV3Z1ZHaDZIb2l5ODNkT0l3eFFEbjRmWEVxckxIUURNdGlIX0lGWnp6Z21TMUllQWJyUXJXaFkzVHVwM3ljR2RzbDYtR2VaNGlaVFJpQUNZanFJMVFHcE1nVTIzVjItNlV5MjJnang4Um5lQVE",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWU80Tm1jcmczX0xHOHNFVm1SRlkxdW5IM0pRWHQxWlRVQUVLVzc1RndZYlBFb2ctWHlmSmNGWVVMMV9oV1NrUnZjdktzeEhEMW43bmhtMXRFWnlRYW9jZTJOZlJtRDFGWldRMS1ycnpIcU0tcGp3YVpYMHJQdWRueW0tNHM5MHJ6aFB6VWx0SGlhc29nNWdGT2dtYzZ4WjBydXfSAacBQVVfeXFMT3FKUFZJbkFLTEY4MF93dks2UDJIRlVPU2JkYlBYN1Y1UHpPZEhhSEM5REtkZmxRMUdaYmhab1lpNmdlaXQ3N3B2SlZnakVvNVdBQ1JJaXRHT0w4MzY4XzZ4ZDhDR2Rra29tRFN3WHRocGdTQWxNNHV0QW9HaHFkWlAxSUZVbUY5M2JuelFrRFpOaExmS3RTZkI3Z2tmaXoxVzNLZFBXN3M",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0hQZERuMlgtMnFqajR6dEZCZ2pjNi1YT0ZmRlEwZmhKcGRyanhrRlZHbTNtOUlFVzVqMlpua2p4bXJURm9Sb0hua2FJWXYtSVpzRlVqTTR2Tm5mb0pmellFenRYOEdtVm9SY1NoYndZSjdtWGxkdDhiUzFDZzJwWTVSQTdJVU5jT1ZLR1NKRldnYmUtOERKeWQ1N1ZkMFNtbEtN",
@@ -517,6 +520,14 @@
       "published": "2026-10-13T02:32:00+00:00"
     },
     {
+      "title": "Юридична академія Гонконгу організовує тренінг для китайських компаній",
+      "summary": "Юридична академія Гонконгу організовує другий навчальний курс для китайських підприємств, які виходять на закордонні ринки. Програма спрямована на надання правової підтримки та підготовку корпоративних команд до міжнародної діяльності.",
+      "source": "Geo-Economics",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuQjRPZmpZbGpxRVhUa0xUcFc0bXBmZWk3VEdnXzduNGRTd1J2SzZVa29MR0J5aENKT0xIcWJ4dXlOdzdKamFGblhpaGFNY3RXNTdlRVBLbEczNzV2QS1vUS1GTC1fT25LNDRYVW9EVTBRRE1rRzc0UW9HR09Sdw",
+      "published": "2026-10-13T02:39:18+00:00"
+    },
+    {
       "title": "Японський PPI у вересні впав до 6,8%",
       "summary": "Японський індекс виробничих цін (PPI) за вересень знизився до 6,8% річних, що є уповільненням порівняно з попереднім місяцем. Сповільнення інфляційного тиску знижує ймовірність підвищення ставки Банком Японії у жовтні. Менший інфляційний тиск підтримує стабільність йенового курсу, знижує спреди на короткострокових державних облігаціях і підвищує ліквідність ринку.",
       "source": "Банк Японії",
@@ -581,6 +592,14 @@
       "published": "2026-10-13T06:16:12+00:00"
     },
     {
+      "title": "EU Diplomacy проаналізувало санкційну політику щодо російського дизелю за Трампа",
+      "summary": "Видання EU Diplomacy опублікувало матеріали щодо санкційної політики Москви та винятків у контексті підходів адміністрації Дональда Трампа до російського дизельного пального. Аналіз охоплює торговельні обмеження та потенційні винятки у постачанні енергоносіїв, які впливають на міжнародні ринки та геоекономічну стратегію.",
+      "source": "EU Diplomacy",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzdTRTB1TzZxcXdpaVdWOW0za2RUNG9mUmhJbDk1OXRhclJlZ2kxT1h5LXc1bnB0QmRFcVV3bGRzaEY3ZDhCb1VjTGdvUGFBWmd2VTlLbS0xSHVhM2V1QmFMTE1OeWs2OUJBbGtsbzR4SXUyTUVpUXNJcnhYX19CV0FKSHRNNHk5VVRmYXA2V25EVnpTVVJWX0x4aWQ5Y1hx",
+      "published": "2026-10-13T07:06:06+00:00"
+    },
+    {
       "title": "Французька армія розглядає використання ядерних мікрореакторів для енергозабезпечення",
       "summary": "Французька армія розглядає використання ядерних мікрореакторів для енергозабезпечення військових об’єктів. У документі «Déclinaison capacitaire d’Action Aéroterrestre Future» визначено три напрями: компактні акумулятори, гібридна бронетехніка та контейнерні реактори. Це дозволить зменшити залежність від цивільних мереж і забезпечити автономію баз, що підвищить оперативну готовність.",
       "source": "mil.in.ua",
@@ -595,6 +614,14 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg",
       "published": "2026-10-13T08:55:03+00:00"
+    },
+    {
+      "title": "Британія закликає ОБСЄ звільнити українських журналістів",
+      "summary": "Посол Британії Нейл Холланд на Варшавській конференції ОБСЄ закликав учасниць організації дотримуватися свободи медіа та звільнити щонайменше 26 українських журналістів, які перебувають у російському полоні. Лондон підкреслив необхідність виконання Миланського рішення 2018 року про безпеку журналістів та засудив системне придушення незалежних ЗМІ на окупованих територіях України. Також Британія висловила занепокоєння щодо демократичного відступу в Грузії та закликала звільнити затриманих журналістів, зокрема Мзію Амаглобелі.",
+      "source": "FCDO (Британія)",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
+      "published": "2026-10-13T09:28:09+00:00"
     }
   ]
 }

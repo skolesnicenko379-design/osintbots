@@ -255,7 +255,7 @@ def select_relevant_recent_posts(title, text, recent_posts, limit=12):
     ranked.sort(key=lambda item: (item[0], item[1]))
     return [item[2] for item in ranked[-max(1, limit):]]
 
-def record_published(history, link, title, summary, source, channel, published=""):
+def record_published(history, link, title, summary, source, channel, published="", publisher=""):
     normalized_link = canonical_link(link)
     if normalized_link:
         history.setdefault("links", []).append(normalized_link)
@@ -264,6 +264,7 @@ def record_published(history, link, title, summary, source, channel, published="
         "title": str(title or "")[:250],
         "summary": str(summary or "")[:600],
         "source": str(source or "")[:100],
+        "publisher": str(publisher or "")[:120],
         "channel": channel,
         "published": str(published or ""),
     })

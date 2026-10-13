@@ -111,9 +111,11 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
         else "Оригінал вже українською."
     )
 
+    # Більший контекст допомагає ловити повтори, які повертаються з іншим заголовком
+    # або з іншого джерела. Короткий опис обмежує витрати токенів.
     recent_block = "\n".join(
-        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:250]}"
-        for post in (recent_posts or [])[-12:]
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
+        for post in (recent_posts or [])[-30:]
     ) or "(нещодавніх публікацій немає)"
 
     prompt = (
@@ -296,6 +298,12 @@ def main():
             entry["title"], article_text, entry["source"],
             entry["needs_translation"], shared_history["recent_posts"],
         )
+
+        # Не публікуємо матеріал без успішної перевірки ШІ: інакше тимчасова
+        # помилка API вимикає семантичний захист і пропускає повтори.
+        if not groq_title or not groq_analysis:
+            print("Пропущено тимчасово: ШІ не зміг перевірити новину; її можна повторно обробити наступним запуском.")
+            continue
 
         if is_duplicate:
             history.append(entry["link"])

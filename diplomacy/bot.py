@@ -52,6 +52,7 @@ GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite").strip
 GEMINI_TIMEOUT = 18  # Даємо резервній моделі більше часу на відповідь.
 GEMINI_RETRY_DELAY = 1
 GROQ_RATE_LIMITED_THIS_RUN = False
+GROQ_RATE_LIMITED_MODELS_THIS_RUN = set()
 
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
@@ -836,7 +837,10 @@ def analyze_with_groq(
     # для кожної наступної новини в межах цього запуску.
     models_to_try = (
         [] if GROQ_RATE_LIMITED_THIS_RUN
-        else active_models[:GROQ_MAX_MODELS_TO_TRY]
+        else [
+            model for model in active_models[:GROQ_MAX_MODELS_TO_TRY]
+            if model not in GROQ_RATE_LIMITED_MODELS_THIS_RUN
+        ]
     )
     if GROQ_RATE_LIMITED_THIS_RUN:
         print("Groq уже повернув 429 у цьому запуску; одразу використовую Gemini.")
@@ -947,6 +951,11 @@ def analyze_with_groq(
                 continue
 
             if response.status_code == 429:
+                # Не витрачаємо повторні запити на модель, яка вже
+                # повернула 429 у цьому запуску. TPM/ITPM може відновитися,
+                # але інші моделі ще варто перевірити на поточній новині.
+                GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
+
                 rate_limited_models += 1
                 print(
                     f"Groq 429 для {model}: {response.text[:250]}. "

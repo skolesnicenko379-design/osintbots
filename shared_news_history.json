@@ -38,6 +38,7 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMUpXQmRWVVpmUFlZeFRVYW9YX2I1a2ZuUTUxN2VLWG5aZzJqZXlPeThCM1NOWkI4ZzdvU1JSazZQalNPbEl2b0JLQmw3aUpmWDAxRA",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CREJERG1PSlZwbFM1TTVQWkdZRzd1a2NlaGdXdWNhallxVDFjMVdRUHhWLXJlVF9ZU3BxRkdtWnFyUk1JdEgySk14Q1FyVnpjcnZ2Ng",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43cFJLTnUteXpodUJzV3Jhak9uLXdRdWtScUZJTjV0NEF5YW1rcTl5Q0ZNU0VXREtSVHNCNXNqM2p6bS1lS21FRW9kSEN5QlpGbmFYS3ln",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTEg3aFFYVmdXU2s0enpETnhkRFR2Umc1bWdiLXJXRWM4czlzdlVXTHNOR3ZKdndJRXhWdXJsWW5mZkVHR0Q0MkFQbWJWNnp1eExzbk41dWEySGE0dWxr",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWktqZU9rVDB4QUVtUzJKS1JocGFlV3VIVmFkMTEycl9IekxhbU9ybUhJZTFBWkF4ZWVnalJ6QThVaWZEYnFnekotcmRDMmdDX1RfQ0Q2N2IzZkRESGNzdFdfY3lMdUtJMVRlbnVCMzFta1RwSEE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTU0zeW9oM2x1bGNJSjlMalZHbGtRM19Ed20tamtXRzFseEdZRW14Q3BMNW5yTEt3VUZvWktvQnJhbFltMGw4TjNYM3hjRXVHQXo3TWg2X0VCTGZ2ZDJSUTNtbk1XdmRwLTJnWEFyaFQtWFppeXc",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SVnh1aW16TUloeUEyV1lyRU10QjhucGdIMGVWT0hoQUd4ZmlVcWROUXBBd04xeFpKSklnalJCdUNiZGU2azdWM2hxN2pHOFlHdUFNYVBQck9JMUE0blRxYnhCWWlvZmN4djY0TEdpVDNHbUhQSEVJOWVySmg",
@@ -64,6 +65,7 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWxSZHlsWFhyVVc1aW15Y3RoSEVOeDA3b1dfTGg5Z09YU0k5Zll3S01fN2dmWmV3Z1ZHaDZIb2l5ODNkT0l3eFFEbjRmWEVxckxIUURNdGlIX0lGWnp6Z21TMUllQWJyUXJXaFkzVHVwM3ljR2RzbDYtR2VaNGlaVFJpQUNZanFJMVFHcE1nVTIzVjItNlV5MjJnang4Um5lQVE",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWU80Tm1jcmczX0xHOHNFVm1SRlkxdW5IM0pRWHQxWlRVQUVLVzc1RndZYlBFb2ctWHlmSmNGWVVMMV9oV1NrUnZjdktzeEhEMW43bmhtMXRFWnlRYW9jZTJOZlJtRDFGWldRMS1ycnpIcU0tcGp3YVpYMHJQdWRueW0tNHM5MHJ6aFB6VWx0SGlhc29nNWdGT2dtYzZ4WjBydXfSAacBQVVfeXFMT3FKUFZJbkFLTEY4MF93dks2UDJIRlVPU2JkYlBYN1Y1UHpPZEhhSEM5REtkZmxRMUdaYmhab1lpNmdlaXQ3N3B2SlZnakVvNVdBQ1JJaXRHT0w4MzY4XzZ4ZDhDR2Rra29tRFN3WHRocGdTQWxNNHV0QW9HaHFkWlAxSUZVbUY5M2JuelFrRFpOaExmS3RTZkI3Z2tmaXoxVzNLZFBXN3M",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0hQZERuMlgtMnFqajR6dEZCZ2pjNi1YT0ZmRlEwZmhKcGRyanhrRlZHbTNtOUlFVzVqMlpua2p4bXJURm9Sb0hua2FJWXYtSVpzRlVqTTR2Tm5mb0pmellFenRYOEdtVm9SY1NoYndZSjdtWGxkdDhiUzFDZzJwWTVSQTdJVU5jT1ZLR1NKRldnYmUtOERKeWQ1N1ZkMFNtbEtN",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDEyeUN0cGxNYktzRk9CWTJ6MUg0aFZ0bGhmaUNZcjVyRUNoeFQ1NGRSTERVMzJSS281ZlFSM1pxWDB2QXVoOEtzN1dZeVh1cWx5NVlHdG8yWDQ4ZmpBU1JIZUhCcWV6N3V1cXJ6OG1GLWtuQWFObjNrd2hqcTRFWVNQQzJnT0ZKRHVobEJKR1RtTWFZZTBEcXBkYnFuZWRpWS1J",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWRSU0FMZVdCUDhsajZfeXpFck5DRF9xaHRMVVNXbDNVcDZYM0lvZDVmM1ZSZzNxUFcyLV9Qd0QwRDJJRGhkbjhjX0lnR2Fsek9pNzQ0dUtzR0FUOFJQTTdfZmh0OHRhUHI5WWQtYWJTSGhBbGQ2VXBLUlRubFZLak01ekZxUzRWYzgxelFZLUZIbVJsNGVyZVQ5S0hnLUJIbFFXNDZpSQ",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUFseVE2Tk9wT1V1TXVCWUpuQ0JsUEY1MzFjRFpWWEtQUE9rdWV1UDVZS3UtbDNWY3FtNnVMemxRNmhMRm9zZEItQkphakZlYUNDQjJiY2pmRENjNVVENWZkSEg0bFFJeGVFcW5VZnlxc1kwZzVOMGtfWERiT0diSzJkUzdNYktXRi11dUl5UnUxQk5pSE9CWnBLNXFVZEFRLThsdTdxWQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY",
@@ -73,6 +75,7 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWgwWmU0dlZTdTVDS0pneWhvUjRYR3hsSTVJTVAwcmhWdzZxVXk1ejdQSnpPUHViWWl4VHltQjJOZ3Jla2FBQzRGM1dOOVVGQzFEU0pLNU1IZVdvenYtWjM3Rkd2YllFcW1jY2xOVDNpR09rWG5pV2cyQmtHNjh1enA2dWEyX01Fc25HU0kwT1JZdnlOM2lrREpLT3JwOFczS0kwOVhYczVQRmFxVGNaMXRn",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFk4VUJwYnp6cWcyeHM5c0tyYlhEd2FOOU5CS3Y4MkttX3JzeDctXy1NckllYS1TMFg4R21UMk5hZnl0ME5OQldrS3Q3WllCZC1fYWxxMFBZWlRfQWtoVGxwdml3RlZ4U0VfTXRqWGp0aklFdjhpR1Ryc0NPUmRIQXpVWTd3QTFnUmJBTzdhT1liWkhCa3FwT3U4ZzJObzdHN3NSX1pQNU9VS0todVBGeHZ3aw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2YweV81bkpWNGkyWncyUmJrX0c5aEJySVhfNS1yT19ObXpXb1hjd3VRdllBZ1Y4WmxVTTVjOU5IYjZYSGtBUmxWdWh2M0pTcE5HeHhWazhoV2M4R3FmRGdyOEN0MGZEQlFjeVIweWhWMFhpMFJJZjExaDI5TkZZM3lEMkhOR3AtMmR1dXNuNVZkVDBsdGVyMV9QcTVpdWxpZ3NPelhleG92b3RFS19vcXNDR0ZvN0U",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVfQ0FnZ2I5N3RxTXdGNnVNcFJOd2lid1ducWtCMWIyNXRRSDBtVW5uWWFaOFhzUTlDZ1c2bms0SWhFeVR5RWhjcl9qZXZjY2NSQkxjMDcwSHdRdDRLbXpNbmU1MXZCTXpxX2g3UnpMWExkVTRHUW9uWXZkU0dMa2J5bmx3VlJOZUU1WURXMFVmWlFkN19ETjdjYWlQTjJXdy0teWRpb0NhQ0RqYjZNYk9la3VPamFi",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDdacDZCZlp6VmZ0SklIcDZuRGdMOGJqazM1aTllY2NvaUhnZEROSUFLSmV2NVZBZFNDMTdzaGxvNXppaU1sZmNFc25TamZqTkx0Z0NLYncyczJTTjNqWGNweTM5QzZacXF6QlRGaFBMbURmZ2p2RUF3cG9vYUo0V245SXlHNnZDNER6SV9pSUExWXNINmN6U0c5dmJ5OXA0ZlowR2hvTXdLRmkzYUNENUV3YlJITUlK",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHZkY3pHak5vcDk0TjZLQTBmcDREaThyQi0zbGNqTFd5dDhPcjhmVFVSdzRzM2JqVldyRjRhU25tb0l4V1FPcWdWUU1feDl3aHIzR3k0b3p2TVMxamdNU1lQWV9pbFZfcDVVc0JMT25NZG9pd0lCX1Q0UTYxeDdDMVp6dW9TaXo2NWdWTTE0VjhxT0ptRmNKTkFjMmU1cEViUVB3Nmdad0Rhak0ta0F0YkRhWkFiVjlja1E",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUdHcmdZbGdJeDM5Y1oza1JoakNlc2dvSm1oVzQyYkJaY0ktX3RyR0VXTDZueHhvNFo0Vy1tNzBVQ1Z6dTlRRVpFOVBBSlMzRVk2QmFTeEdHYmttTXFfeWNoRjlIbllOaHVLUENNYzB5VkZqTnpNaGRONTdDVWlJNFNONTVoUm9yQmJzMm04X09SVlRXazlIRzgxWnJBc0tQT29NYmxRQ2UzMlhPaWJQQ2FTS1lybzZUTVHSAb8BQVVfeXFMUHctbkVlbk5pcDhGaGpvVGNkQXlCb3gtYnN0enFyOXFWQmNhTTdCZVh6X2VqY1FEQmtqVF9IenJwTmFzbEI2a3lqVmRZS1lGRGhlUzlONUtNQmZpUmVYVlRzaTdmUGNJNE40ZmpWNktYU05jSU9UQTJ2bjhkSVJETmhveGxtNldqbU1DS0FyUW5IZGQtU2pDXzJzR0ItcEF1b1FxNzF1TkhwSURKVWRDUWo1ZU8tYmV1TVRTU1RzWEk",
@@ -623,6 +626,14 @@
       "published": "2026-10-13T05:40:00+00:00"
     },
     {
+      "title": "Лавров провів переговори з ліванським міністром закордонних справ у Москві",
+      "summary": "12 жовтня 2026 року в Москві відбулися переговори між міністром закордонних справ Росії Сергієм Лавровим та міністром закордонних справ і емігрантів Лівану Юсефом Раджі. Після зустрічі Лавров висловив свої думки та відповів на запитання журналістів. Ця подія зафіксована офіційним сайтом МЗС Росії як двосторонній дипломатичний контакт.",
+      "source": "Bilateral Meetings",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTEg3aFFYVmdXU2s0enpETnhkRFR2Umc1bWdiLXJXRWM4czlzdlVXTHNOR3ZKdndJRXhWdXJsWW5mZkVHR0Q0MkFQbWJWNnp1eExzbk41dWEySGE0dWxr",
+      "published": "2026-10-13T06:15:50+00:00"
+    },
+    {
       "title": "Visa отримала дозвіл у Китаї, доступ до 10,27 млрд карт",
       "summary": "Visa отримала перший після 40‑річного очікування дозвіл на діяльність у Китаї, відкривши доступ до потенційного ринку в 10,27 млрд платіжних карт. За оцінками, це може створити щорічний обсяг транзакцій понад 1,5 трлн USD та збільшити частку міжнародних платіжних мереж у країні. Розширення присутності Visa підвищить ліквідність платіжних систем, посилить конкуренцію для місцевих операторів та може стимулювати відтік валютних потоків у рамках крос‑валютних розрахунків.",
       "source": "Центробанк Китаю",
@@ -631,12 +642,28 @@
       "published": "2026-10-13T06:16:12+00:00"
     },
     {
+      "title": "ЄС провів 29-ту конференцію з членства Чорногорії",
+      "summary": "Європейський Союз провів 29-ту Конференцію з членства з Чорногорією 12 жовтня 2026 року. Захід відбувся в рамках офіційного процесу розширення ЄС. Документ підтверджує проведення формального дипломатичного кроку між інституціями ЄС та урядом Чорногорії щодо переговорів про вступ до Союзу.",
+      "source": "EU Diplomacy",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDEyeUN0cGxNYktzRk9CWTJ6MUg0aFZ0bGhmaUNZcjVyRUNoeFQ1NGRSTERVMzJSS281ZlFSM1pxWDB2QXVoOEtzN1dZeVh1cWx5NVlHdG8yWDQ4ZmpBU1JIZUhCcWV6N3V1cXJ6OG1GLWtuQWFObjNrd2hqcTRFWVNQQzJnT0ZKRHVobEJKR1RtTWFZZTBEcXBkYnFuZWRpWS1J",
+      "published": "2026-10-13T07:02:36+00:00"
+    },
+    {
       "title": "EU Diplomacy проаналізувало санкційну політику щодо російського дизелю за Трампа",
       "summary": "Видання EU Diplomacy опублікувало матеріали щодо санкційної політики Москви та винятків у контексті підходів адміністрації Дональда Трампа до російського дизельного пального. Аналіз охоплює торговельні обмеження та потенційні винятки у постачанні енергоносіїв, які впливають на міжнародні ринки та геоекономічну стратегію.",
       "source": "EU Diplomacy",
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzdTRTB1TzZxcXdpaVdWOW0za2RUNG9mUmhJbDk1OXRhclJlZ2kxT1h5LXc1bnB0QmRFcVV3bGRzaEY3ZDhCb1VjTGdvUGFBWmd2VTlLbS0xSHVhM2V1QmFMTE1OeWs2OUJBbGtsbzR4SXUyTUVpUXNJcnhYX19CV0FKSHRNNHk5VVRmYXA2V25EVnpTVVJWX0x4aWQ5Y1hx",
       "published": "2026-10-13T07:06:06+00:00"
+    },
+    {
+      "title": "Міністри довкілля ЄС ухвалили рішення на засіданні 12 жовтня",
+      "summary": "Міністри довкілля країн-членів Європейського Союзу провели засідання 12 жовтня 2026 року під головуванням Ірландії. За результатами зустрічі ухвалено відповідні рішення, офіційно оприлюднені на сайті Ради ЄС. Документ підтверджує факт проведення формального дипломатичного заходу та прийняття колективних рішень на рівні міністрів.",
+      "source": "EU Diplomacy",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVfQ0FnZ2I5N3RxTXdGNnVNcFJOd2lid1ducWtCMWIyNXRRSDBtVW5uWWFaOFhzUTlDZ1c2bms0SWhFeVR5RWhjcl9qZXZjY2NSQkxjMDcwSHdRdDRLbXpNbmU1MXZCTXpxX2g3UnpMWExkVTRHUW9uWXZkU0dMa2J5bmx3VlJOZUU1WURXMFVmWlFkN19ETjdjYWlQTjJXdy0teWRpb0NhQ0RqYjZNYk9la3VPamFi",
+      "published": "2026-10-13T07:51:11+00:00"
     },
     {
       "title": "Французька армія розглядає використання ядерних мікрореакторів для енергозабезпечення",

@@ -42,7 +42,7 @@ GROQ_API_KEY = (
 GEMINI_API_KEY = (
     os.environ.get("GEMINI_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
-GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite").strip()
 GEMINI_TIMEOUT = 10  # Один запит; жорсткий ліміт очікування відповіді.
 
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
@@ -1077,10 +1077,7 @@ duplicate=true. Інше джерело або перефразований за
     # Резервний провайдер викликається лише один раз і має жорсткий timeout.
     # Помилка Gemini не запускає повторні запити й не затримує весь workflow.
     if GEMINI_API_KEY:
-        gemini_url = (
-            f"{GEMINI_API_URL}/{GEMINI_MODEL}:generateContent"
-            f"?key={GEMINI_API_KEY}"
-        )
+        gemini_url = f"{GEMINI_API_URL}/{GEMINI_MODEL}:generateContent"
         gemini_payload = {
             "systemInstruction": {
                 "parts": [{
@@ -1105,7 +1102,10 @@ duplicate=true. Інше джерело або перефразований за
             )
             response = requests.post(
                 gemini_url,
-                headers={"Content-Type": "application/json"},
+                headers={
+                    "Content-Type": "application/json",
+                    "x-goog-api-key": GEMINI_API_KEY,
+                },
                 json=gemini_payload,
                 timeout=(3, GEMINI_TIMEOUT),
             )

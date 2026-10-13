@@ -42,6 +42,12 @@ GROQ_API_KEY = (
 GEMINI_API_KEY = (
     os.environ.get("GEMINI_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
+OPENROUTER_API_KEY = (
+    os.environ.get("OPENROUTER_API_KEY") or ""
+).strip().replace('"', '').replace("'", "")
+OPENROUTER_MODEL = (
+    os.environ.get("OPENROUTER_MODEL") or "openai/gpt-4o-mini"
+).strip()
 GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite").strip()
 GEMINI_TIMEOUT = 18  # Даємо резервній моделі більше часу на відповідь.
 GEMINI_RETRY_DELAY = 1
@@ -1203,6 +1209,96 @@ duplicate=true. Інше джерело або перефразований за
     else:
         print("GEMINI_API_KEY не задано; резервний провайдер вимкнений.")
 
+    if OPENROUTER_API_KEY:
+        openrouter_url = "https://openrouter.ai/api/v1/chat/completions"
+        openrouter_payload = {
+            "model": OPENROUTER_MODEL,
+            "messages": [
+                {
+                    "role": "system",
+                    "content": (
+                        "Ти точний редактор міжнародних новин. "
+                        "Не вигадуй фактів. Дотримуйся формату JSON."
+                    ),
+                },
+                {"role": "user", "content": prompt},
+            ],
+            "temperature": 0.15,
+            "max_tokens": GROQ_MAX_OUTPUT_TOKENS,
+            "response_format": {"type": "json_object"},
+        }
+
+        try:
+            print(f"Резервна перевірка через OpenRouter ({OPENROUTER_MODEL}).")
+            response = requests.post(
+                openrouter_url,
+                headers={
+                    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://github.com/skolesnicenko379-design/osintbots",
+                    "X-Title": "OSINT Diplomacy Bot",
+                },
+                json=openrouter_payload,
+                timeout=(3, 25),
+            )
+
+            if response.status_code != 200:
+                print(
+                    f"OpenRouter HTTP {response.status_code}; "
+                    f"резервний запит завершено: {response.text[:250]}"
+                )
+            else:
+                response_data = response.json()
+                content = response_data["choices"][0]["message"]["content"]
+                if isinstance(content, list):
+                    content = "".join(
+                        part.get("text", "") for part in content
+                        if isinstance(part, dict)
+                    )
+                content = str(content or "").strip()
+                parsed = extract_json_object(content)
+
+                relevant = parse_bool(parsed.get("relevant"), default=False)
+                duplicate = parse_bool(parsed.get("duplicate"), default=False)
+                ai_title = clean_text(parsed.get("title", ""))
+                ai_analysis = clean_text(parsed.get("analysis", ""))
+
+                if not relevant or duplicate:
+                    return {
+                        "relevant": relevant,
+                        "duplicate": duplicate,
+                        "title": ai_title or None,
+                        "analysis": ai_analysis or None,
+                        "failed": False,
+                    }
+
+                words = word_count(ai_analysis)
+                if (
+                    ai_title
+                    and len(ai_title) <= 180
+                    and MIN_ANALYSIS_WORDS <= words <= MAX_ANALYSIS_WORDS
+                ):
+                    ai_analysis = re.sub(
+                        r"\\s*[\\r\\n]+\\s*", " ", ai_analysis
+                    ).strip()
+                    print("OpenRouter успішно перевірив матеріал.")
+                    return {
+                        "relevant": True,
+                        "duplicate": False,
+                        "title": ai_title,
+                        "analysis": ai_analysis,
+                        "failed": False,
+                    }
+
+                print(
+                    "OpenRouter повернув JSON, що не пройшов редакційну "
+                    "валідацію; матеріал не публікується."
+                )
+        except Exception as exc:
+            print(f"Помилка резервного запиту OpenRouter: {type(exc).__name__}: {exc}")
+    else:
+        print("OPENROUTER_API_KEY не задано; третій провайдер вимкнений.")
+
     print(f"Усі доступні моделі не змогли обробити: {title}")
 
     return {
@@ -1354,10 +1450,7 @@ def main():
     active_models = get_available_groq_models()
 
     if not active_models:
-        raise RuntimeError(
-            "Не вдалося отримати доступні моделі Groq. "
-            "Перевір GROQ_API_KEY та статус API."
-        )
+        print("Groq недоступний; новини оброблятимуться резервними провайдерами.")
 
     new_posts = 0
     checked = 0

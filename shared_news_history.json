@@ -18,6 +18,7 @@
     "https://gov.uk/government/news/joint-statement-on-the-postponement-of-palestinian-elections",
     "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
     "https://gov.uk/government/speeches/respect-for-syrias-sovereignty-and-territorial-integrity-remains-essential-for-long-term-stability-political-progress-and-economic-recovery-uk-stateme",
+    "https://gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
     "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
     "https://militarnyi.com/uk/news/czechoslovak-group-prydbala-chastku-kompaniyi-mda-space",
     "https://militarnyi.com/uk/news/frantsiya-rozglyane-yadernyh-mikroreaktoriv",
@@ -1341,6 +1342,15 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rosiya-vyprobuye-odnu-z-krayin-nato",
       "published": "2026-10-13T16:32:38+00:00"
+    },
+    {
+      "title": "Британія підтвердила підтримку гуманітарної місії в ДР Конго на РБ ООН",
+      "summary": "Посол Каті Фостер на засіданні Ради Безпеки ООН заявила, що Велика Британія продовжує підтримувати гуманітарну відповідь у ДР Конго, зокрема боротьбу з епідемією Ебола. Вона наголосила на необхідності безперешкодного доступу до 26 мільйонів людей, які стикаються з гострою продовольчою нестабільністю, та закликала сторони конфлікту гарантувати безпеку для доставлення допомоги.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
+      "published": "2026-10-13T16:42:09+00:00"
     }
   ]
 }

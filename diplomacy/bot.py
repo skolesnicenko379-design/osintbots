@@ -39,6 +39,12 @@ GROQ_API_KEY = (
     os.environ.get("GROQ_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
 
+GEMINI_API_KEY = (
+    os.environ.get("GEMINI_API_KEY") or ""
+).strip().replace('"', '').replace("'", "")
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
+GEMINI_TIMEOUT = 10  # Один запит; жорсткий ліміт очікування відповіді.
+
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
@@ -136,6 +142,7 @@ FEEDS.extend([
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
+GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models"
 
 
 # ============================================================
@@ -989,24 +996,11 @@ duplicate=true. Інше джерело або перефразований за
                 continue
 
             if response.status_code == 429:
-                retry_after = GROQ_RETRY_DELAY
-
-                try:
-                    retry_after = float(
-                        response.headers.get(
-                            "retry-after",
-                            GROQ_RETRY_DELAY,
-                        )
-                    )
-                except (TypeError, ValueError):
-                    pass
-
                 print(
-                    f"Groq 429 для {model}. "
-                    f"Очікування {retry_after} секунд."
+                    f"Groq 429 для {model}; це спільний ліміт провайдера. "
+                    "Припиняю перебір моделей і переходжу до резервного провайдера."
                 )
-                time.sleep(min(retry_after, 30))
-                continue
+                break
 
             if response.status_code != 200:
                 print(
@@ -1079,6 +1073,103 @@ duplicate=true. Інше джерело або перефразований за
         except Exception as exc:
             print(f"Помилка Groq ({model}): {exc}")
             continue
+
+    # Резервний провайдер викликається лише один раз і має жорсткий timeout.
+    # Помилка Gemini не запускає повторні запити й не затримує весь workflow.
+    if GEMINI_API_KEY:
+        gemini_url = (
+            f"{GEMINI_API_URL}/{GEMINI_MODEL}:generateContent"
+            f"?key={GEMINI_API_KEY}"
+        )
+        gemini_payload = {
+            "systemInstruction": {
+                "parts": [{
+                    "text": (
+                        "Ти точний редактор міжнародних новин. "
+                        "Не вигадуй фактів. Дотримуйся формату JSON."
+                    )
+                }]
+            },
+            "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "temperature": 0.15,
+                "maxOutputTokens": GROQ_MAX_OUTPUT_TOKENS,
+                "responseMimeType": "application/json",
+            },
+        }
+
+        try:
+            print(
+                f"Резервна перевірка через Gemini ({GEMINI_MODEL}); "
+                f"тайм-аут {GEMINI_TIMEOUT} с."
+            )
+            response = requests.post(
+                gemini_url,
+                headers={"Content-Type": "application/json"},
+                json=gemini_payload,
+                timeout=(3, GEMINI_TIMEOUT),
+            )
+
+            if response.status_code != 200:
+                print(
+                    f"Gemini HTTP {response.status_code}; "
+                    f"резервний запит завершено без повторів: "
+                    f"{response.text[:250]}"
+                )
+            else:
+                response_data = response.json()
+                content = (
+                    response_data["candidates"][0]["content"]["parts"][0]["text"]
+                ).strip()
+                parsed = extract_json_object(content)
+
+                relevant = parse_bool(parsed.get("relevant"), default=False)
+                duplicate = parse_bool(parsed.get("duplicate"), default=False)
+                ai_title = clean_text(parsed.get("title", ""))
+                ai_analysis = clean_text(parsed.get("analysis", ""))
+
+                if not relevant or duplicate:
+                    return {
+                        "relevant": relevant,
+                        "duplicate": duplicate,
+                        "title": ai_title or None,
+                        "analysis": ai_analysis or None,
+                        "failed": False,
+                    }
+
+                words = word_count(ai_analysis)
+                if (
+                    ai_title
+                    and len(ai_title) <= 180
+                    and MIN_ANALYSIS_WORDS <= words <= MAX_ANALYSIS_WORDS
+                ):
+                    ai_analysis = re.sub(
+                        r"\s*[\r\n]+\s*", " ", ai_analysis
+                    ).strip()
+                    print("Gemini успішно перевірив матеріал.")
+                    return {
+                        "relevant": True,
+                        "duplicate": False,
+                        "title": ai_title,
+                        "analysis": ai_analysis,
+                        "failed": False,
+                    }
+
+                print(
+                    "Gemini повернув JSON, що не пройшов редакційну "
+                    "валідацію; матеріал не публікується."
+                )
+
+        except requests.Timeout:
+            print(
+                f"Gemini не відповів за {GEMINI_TIMEOUT} с; "
+                "повторів не буде."
+            )
+        except Exception as exc:
+            print(f"Помилка резервного запиту Gemini: {type(exc).__name__}: {exc}")
+
+    else:
+        print("GEMINI_API_KEY не задано; резервний провайдер вимкнений.")
 
     print(f"Усі доступні моделі не змогли обробити: {title}")
 

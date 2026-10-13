@@ -4,9 +4,12 @@
     "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official",
     "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
     "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia",
+    "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
     "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official",
+    "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says",
     "https://breakingdefense.com/2026/10/from-requirement-driven-to-market-ready-rethinking-how-defense-technology-reaches-the-warfighter",
     "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa",
+    "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command",
     "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots",
     "https://breakingdefense.com/2026/10/mojave-stol-and-gray-eagle-25m-complementary-capabilities-for-the-modern-battlefield",
     "https://breakingdefense.com/2026/10/polish-defense-minister-calls-for-us-industry-to-establish-european-facilities",
@@ -20,7 +23,6 @@
     "https://gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
     "https://gov.uk/government/news/joint-statement-on-iran-12-october",
     "https://gov.uk/government/news/joint-statement-on-the-postponement-of-palestinian-elections",
-    "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
     "https://gov.uk/government/speeches/respect-for-syrias-sovereignty-and-territorial-integrity-remains-essential-for-long-term-stability-political-progress-and-economic-recovery-uk-stateme",
     "https://gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
     "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
@@ -30,6 +32,7 @@
     "https://militarnyi.com/uk/news/iran-yaderni-ob-yekty-zagostrennya-ssha",
     "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
     "https://militarnyi.com/uk/news/obstrilyal-tsyvilnyh-vyvedennya-z-kupyanska",
+    "https://militarnyi.com/uk/news/padinnya-myg-29-na-odeshhyni-slidstvo-rozglyadaye-versiyu-neshtatnogo-spratsyuvannya-rakety",
     "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
     "https://militarnyi.com/uk/news/rosiya-vyprobuye-odnu-z-krayin-nato",
     "https://militarnyi.com/uk/news/rosiya-zbuduvala-novyj-dronoport-geran-5",
@@ -82,18 +85,15 @@
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmxzWk91dE00RUtUeHQxdm9sMExJeGRTdFJqTmhOZ1JpbkR6M2FVWnJCdno2bVNTaHhORFlpQnB1N0MxOHROTDhla0phZ193N3JlRm5xcWtIYWpnTWxmRVEza01DR0FyZGVaemVzNk9NVnZBcGR1UURlT2xFbkFOQTRSbk84ZU5BWEtkOXlyU2ZXNXpiaHZ3SjNuQ0RtNmVPX1cxeG9kWVJVS2ZtMExkcFJoM2NYdUtubl9aZlkyUnJkNGFISGRTeUVhV3RkS1FmQXYwRUVBYWZ2N3lqRm9uLXV1NVQ0SkFJb2Vra2RmNV9XWHQtT3hZSzhGd2M0R3FtTnZKajNERUpJdzE0",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmNzUEMzQlNqV213bVJWRzBtMWgyOF9WLWxTejB4eTFoWEZwdllzN0dMNDJIdUx3RW9BQ3ZJY1FRNWZCZ2ttQWMtWVp0T3lySk5JUXdVQlJjTy1paXJOZGJHYk5mZ0Q0ZGQ3eWl6bTB5YlY4MjNQbXQ1LUhqWUhwVks3MkdfdlNuMHItOGxnWkQ",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU9mLU5Id05WdDZwRFJ6ck9JUzRWVnlJbUZZaWVVRUJCWnBtd2N4dDlZdmJlbFBqQWdTUzFoZ3E3YlpLMm5CWXgxRDZsd2k3d3MxTnRDVXJHLVhYcDRWRHJTT0E5b2JlLXZyX1JlbVdUQ2MyV1ZUM2FCRlRUOEU3MmtuSl84NlE1emRETWdhWFQ",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnMzWUlReURmZjc3cS1FeGdxcEh2SnJCbkRkLVNaT3Fqa3pwOHZQRjJsN3lRQXRBOGNWazZrOEFnWHRvQmNySDVtZWV3SFhQNC12b1VrVi1mQmNmX2JUU1NzQlU0ajNERXpseXVBaHVNWm5PTzVneEpFbE1yODVNalRZNURiTDlLN1lyZEkwSldJdw",
     "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa240NC0wVnB1Vk5TUV90cFBQUTNFa181aWlNck5kdjVodnhYVnJyQWI2SDVCVnVuV0J5LXdyMGVqYVpMdkNBb3Z5RDV0NjB6SVFWY3ZDZE1YRl9lMEh4eTNaZTlqeUU0STAxbi05dUlzVUNYWmdaOXMxaVcwaWkxSnpaendYMEloR0wzclFKSTNVRHd6aXFjU0NBbWhBOFhQWEsyV1RmQWpHX3pyelZMZms5LUpwLXNMZDlyaF9VclM4cUVjSmtEUFVIWGVSRzdFREtLc3RBa010N3IwUDN5aUQ1MFpQMjBoaFUxemdMaFFGRnZLTVlBdlMzU09OblplMWtSRndaaG5MSHM1WEVldGxIaUY",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1B1b2hQWWdNbWNTVElGSTM2S0VYOWhnZW9zMncySUNYTzBpTVNaUk9SUWZEdkhxNkplLUp3bzU3N3hQclNwWGVpZzVnZ2NiWTRQMDYwSU94VFNCNko4a1NDdXJZUUl0STBYU3dJNmJ4UFhFdzlNT003YUQyYlJISE5qNjFTNUNaQVRlM3U5eFBmWXgtVkE",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk5MRHhHWWNmcEpEeEdiM0xXWjJpYXU4QXp5N2FBWDZsZ0ZIZGtGRktSeUoxbmFoUDFkbDRmenBfbGx5T0F5RjRvbTNqNzRyWGRsTDRuOTRlYTRsa3d2MU9JUnlZNk1zcl9zNkRwblZhZEVHanVDb0pZLWpTWEpicVZuaGtXUC01SnBNXzhhVkdQcXlBVmVPMA",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTBZMW50ZHIyb1RodG9tOHJBZkpnOHM0STlmMTZDd0NBSVVfVDdKcnFweDh1WTRXNExQY2VmNUVmODN5MVFrNmk4Y2Q0NmRyaHNFeXhhMEg2T0xIZGw2N1UtRVlxUUY5ekhEZTljdjYxeU1zT3B5Vi1LYWlZaVJyTWJwNU1DTFhuOWMxTkdUTzNVVDhMQ3Rwcg",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDcwYlBfWXY2VXZnNFpEVkNBX0tIdXIyX1FTRDNMaHZQcHMzdlhIUDVkVzFWLUxQVS1GbWc5TklGODBTUFNIYUVRN3ZlR1Y2NlY3dHVTazNwZnhBWU56Y0J5M3p6MmdxQXNUN0VqX2dEVUlYSk1YTXhTM1BTZGd2LUlrd2xKUDhYQTRaYmlPVFowUzFGR0gyaA",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzVpUmsxeWdTZ1dsYmNGN2d4SVJwVHR4bXVzUDJfM2E4UllSZWY4cE83aTFDRW41Rl9NT2hpV0JwZ2tZeGdVdEhZN0R4YW5WOWxXaUgwQ1BQMDd0cHN0ZjJPYmtJcHh1TEo5NmhmNlFtS19TTzdGUTZ0RlUwOTVDd3FTZ2hkaTFzb0ZFRkRtOFBBUThDRTJPaGtB0gGiAUFVX3lxTE16bmlFSExiZmRHVGlFQ0tGQXJBZEx5YVd2ZERaOUwwaUFuWUJzOVJyTVRMZ01GODRobHB6TE9sLV9TOWpwb25qUS13YlJDVS1Ga2hZNzFQWFdPTDVjM1YwaXJmRFREc3pVR2ZUamw4Z3AtLXlQNWQ0MzB3SEJHUzJHdnBwSGR3TDdjaUtZUHlvc3JWZWtINldIaGQ3b0JTc0ExZw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1g3akNsc0YtMTRYQy1FWFRRT0Y3ZTVWRDRfcEFsQXdoS045VW5sR0hXaF9lampGMlNtR3ZMNG85ZTE4emdLajBHV2t4OHZiVVRaZDI1VENtTGRHcmNnQ3o2aW56QkpkbHpLTGY1bjY0eUNYRzBBRkZpQ21Ta1N5Q3BvbkdUSjZ6bHNYanIzQUZqSE9kdUhTdHJyRQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE4zeDdocVBoWERXR1hxRlU5QkNmbmpTS2ExVWZXUUp5dFNuMTVmWjV2ZEtyTFp4dDRKU1RJOGRCbG5YRXlqUkFHTnBJSVZSTF9BMzRmazAtMW1odUg4UzJxWlE4bW1mQlI2QjJyTUhVUnlORk45R2RRNFB3S1ZvQWlKTndaSURVNFVQeGpobW92ZEFPaGhqRmo5WQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDZLMjBRUE9DNTNjMWlpX1Nya1ItaVBCT042SVNPcGo0SUhObGd6MnliNDI2QzRWZ3Izb1RmTFBsNTVmOGV1MlFheUpsb0ZOc1R1M0xzUk8xX3pDWXJGbjYxdjJFekJ6RkNLZEpKTE9DUVAwZ0dUNVVOMkxGWk0zaGZRNHFSbkdmRVk2UXc0X09RbmlZWW5DSFczMWg",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEgyYllfUUYzMEhTQ2xuZmh6ZW5TWDhUMld6U1M4dmMwVHo2Rm1PeHpaNHRZV1pCWHp0b0d6RHo2OXhtWVlLeW5aeV96N0U1RThxZmFlVTZjVl9WMmhsWXA2eUVfTTB3LTVHTHIwNllsY1A4Q3BUeFhZWkJBd2NQUXhYaTlzQ1l6bmtZR1lWTjVuYkpMRUNUN0ZkRDlPdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQdIBngFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQQ",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHhQRFVNRW1iYmZYTVBTUTVrTjJSSjczSmJvT0FwbGNGMThuM0NLWXZBQ0NIc3dxWFZNWjhXSkY1OGQ0Q3dhUXQ1VUpxQW9mSHhlMllneVFzXzRGSTJCQ0NuWEV4UER3MUN5a2liZFRHeXZ6bDFrX3BONjJLWm81SlhYRUd3aml3ZXpSS0ExN0x2M09Dd1ZIbXVhbnJia1k",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzdTRTB1TzZxcXdpaVdWOW0za2RUNG9mUmhJbDk1OXRhclJlZ2kxT1h5LXc1bnB0QmRFcVV3bGRzaEY3ZDhCb1VjTGdvUGFBWmd2VTlLbS0xSHVhM2V1QmFMTE1OeWs2OUJBbGtsbzR4SXUyTUVpUXNJcnhYX19CV0FKSHRNNHk5VVRmYXA2V25EVnpTVVJWX0x4aWQ5Y1hx",
@@ -116,12 +116,12 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVZIclEyVXU3dzFFMzV0dmItY3JUclFLUlZqZlhfMFBOWmdLbVNia0RaZThfajVEcF9yZDVoU0pTOW40VmZCUkNRM1lzdVg1YndYcEgyc0pUQlFUNjd6SUVsYlV4b3NrVGZnbFU1MUlEdEQ0QzhreWhmS2dsUjdhNUlyTWhVODNwQnk1TlZfR3ZZLUk1T2RVLWNZZTYySTJZSE1RYWVLNkFkc1h2b3Rr",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGMwQ3dOMERyZmpMdFRUOEoyV1BZNE1aNlhTV2RMbUpXZHluUGFEdGVFMy15UzI4SFJlekh0V2JhLXpGX1RRVTJmTUNkRDdqUDE3RHQ4OGhkUHZsUGV4S3EwTmhWN2tWb0FRTUZaUl85dklOQXFZWU1ZSXYybkdCWWRkTGZPOUpEaVRMN0lLZ2tSUGQwR2tybmlPbnMza19LNVBuekU5NVhaLVl5SEFTaQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWgwWmU0dlZTdTVDS0pneWhvUjRYR3hsSTVJTVAwcmhWdzZxVXk1ejdQSnpPUHViWWl4VHltQjJOZ3Jla2FBQzRGM1dOOVVGQzFEU0pLNU1IZVdvenYtWjM3Rkd2YllFcW1jY2xOVDNpR09rWG5pV2cyQmtHNjh1enA2dWEyX01Fc25HU0kwT1JZdnlOM2lrREpLT3JwOFczS0kwOVhYczVQRmFxVGNaMXRn",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckpZUU0wa2JSTUVDWHlxYmZnSnlranFHTS1jRmo2YmxDRmFLT0xXWUx5TEVBRXFkeGhfa1U1d080RExUX195d3ppUVlVUXdXYzFYMzZqdWNDekQzbnhHUWV6TEk3N2Y0N3NIUnkwMjVET0RudlI2SklRU2NnTEpSN1VPcUFaNU1Rb0NuUGJ5UEdKVkd0NWRCSm51X0FsS2pnMGJrMTFnQ29JMXFGbGZYNkhB",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFk4VUJwYnp6cWcyeHM5c0tyYlhEd2FOOU5CS3Y4MkttX3JzeDctXy1NckllYS1TMFg4R21UMk5hZnl0ME5OQldrS3Q3WllCZC1fYWxxMFBZWlRfQWtoVGxwdml3RlZ4U0VfTXRqWGp0aklFdjhpR1Ryc0NPUmRIQXpVWTd3QTFnUmJBTzdhT1liWkhCa3FwT3U4ZzJObzdHN3NSX1pQNU9VS0todVBGeHZ3aw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVlJbnJCRE1jVW5KV2gycnJpQTQ0bVBZTFlBS2hyTi1ER1RMbjFlQll5c3d1cmZwazZhamFibWFrVllvTm1ZdVAtRGpGWjFfN2MzV283Q2l5RUNydEZDaUdCTUE5TjQ2UzFDc2xSSTdnbHo2MzVrcW9XdVN3Z1FmajFHQ0dKSF93NEQ0dUM5dHhpakh4emFqaTJGY3M4MUxCOWlTMnBXOUV5VVo3aUNzbHpsSU8",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2YweV81bkpWNGkyWncyUmJrX0c5aEJySVhfNS1yT19ObXpXb1hjd3VRdllBZ1Y4WmxVTTVjOU5IYjZYSGtBUmxWdWh2M0pTcE5HeHhWazhoV2M4R3FmRGdyOEN0MGZEQlFjeVIweWhWMFhpMFJJZjExaDI5TkZZM3lEMkhOR3AtMmR1dXNuNVZkVDBsdGVyMV9QcTVpdWxpZ3NPelhleG92b3RFS19vcXNDR0ZvN0U",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVfQ0FnZ2I5N3RxTXdGNnVNcFJOd2lid1ducWtCMWIyNXRRSDBtVW5uWWFaOFhzUTlDZ1c2bms0SWhFeVR5RWhjcl9qZXZjY2NSQkxjMDcwSHdRdDRLbXpNbmU1MXZCTXpxX2g3UnpMWExkVTRHUW9uWXZkU0dMa2J5bmx3VlJOZUU1WURXMFVmWlFkN19ETjdjYWlQTjJXdy0teWRpb0NhQ0RqYjZNYk9la3VPamFi",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHZkY3pHak5vcDk0TjZLQTBmcDREaThyQi0zbGNqTFd5dDhPcjhmVFVSdzRzM2JqVldyRjRhU25tb0l4V1FPcWdWUU1feDl3aHIzR3k0b3p2TVMxamdNU1lQWV9pbFZfcDVVc0JMT25NZG9pd0lCX1Q0UTYxeDdDMVp6dW9TaXo2NWdWTTE0VjhxT0ptRmNKTkFjMmU1cEViUVB3Nmdad0Rhak0ta0F0YkRhWkFiVjlja1E",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUdHcmdZbGdJeDM5Y1oza1JoakNlc2dvSm1oVzQyYkJaY0ktX3RyR0VXTDZueHhvNFo0Vy1tNzBVQ1Z6dTlRRVpFOVBBSlMzRVk2QmFTeEdHYmttTXFfeWNoRjlIbllOaHVLUENNYzB5VkZqTnpNaGRONTdDVWlJNFNONTVoUm9yQmJzMm04X09SVlRXazlIRzgxWnJBc0tQT29NYmxRQ2UzMlhPaWJQQ2FTS1lybzZUTVHSAb8BQVVfeXFMUHctbkVlbk5pcDhGaGpvVGNkQXlCb3gtYnN0enFyOXFWQmNhTTdCZVh6X2VqY1FEQmtqVF9IenJwTmFzbEI2a3lqVmRZS1lGRGhlUzlONUtNQmZpUmVYVlRzaTdmUGNJNE40ZmpWNktYU05jSU9UQTJ2bjhkSVJETmhveGxtNldqbU1DS0FyUW5IZGQtU2pDXzJzR0ItcEF1b1FxNzF1TkhwSURKVWRDUWo1ZU8tYmV1TVRTU1RzWEk",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
@@ -152,51 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQkpzUHk1UlNQLXczR3FFSlk5SlhJYkdDcXlhNFpCSzBQV1owYzN1TWhLcGRITFdZVEg1QjdaNFdkOHJwMVVVcTlNZ3NXWUFBNkZYQ2tzUHdnbDF5clJVQllEdEszZDlzai1oTE5yRTJBTzdSSE9ZNm5nWTlCbHV3QXNETnQyRUpsMG9waHU3Rl9xYl9FUlBZWU1nSnUwMmhPcWc5NV8xWVBudkprNFpkWDhPYmlNTlNQNTU2WFdSbFlUYXVJckJnNUt1dFFNdw"
   ],
   "recent_posts": [
-    {
-      "title": "ФРС знову підвищила ставки: інфляція, паливо, ризик рецесії",
-      "summary": "Федеральна резервна система США підвищила цільовий діапазон ставок на 25 базисних пунктів до 5,25‑5,5 %. Інфляція залишилася на рівні 3,4 % YoY, а ціни на паливо зросли на 8 % за квартал, підвищуючи ризик рецесії. Підвищення ставок скорочує ліквідність, розширює спреди на облігаційному ринку, посилює долар і підвищує вартість кредитування для корпорацій.",
-      "source": "ФРС США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnMzWUlReURmZjc3cS1FeGdxcEh2SnJCbkRkLVNaT3Fqa3pwOHZQRjJsN3lRQXRBOGNWazZrOEFnWHRvQmNySDVtZWV3SFhQNC12b1VrVi1mQmNmX2JUU1NzQlU0ajNERXpseXVBaHVNWm5PTzVneEpFbE1yODVNalRZNURiTDlLN1lyZEkwSldJdw",
-      "published": "2026-10-12T13:31:14+00:00"
-    },
-    {
-      "title": "Європа стикається з високими цінами на газ у 2027",
-      "summary": "Європейські газові ринки залишаються під тиском через зниження рівня запасів у сховищах до приблизно 30 % від їхньої сумарної ємності. Середня спотова ціна на природний газ у листопаді 2026 року скотилася до 115 €/МВт·год, що на 12 % вище середньорічного рівня 2023 року, а спред між ф'ючерсами та спотом зростає до 8 €/МВт·год. Підвищення цін підвищує інфляційний тиск у країнах ЄС, скорочує маржу енергетичних компаній, підвищує волатильність валютних пар EUR/USD та посилює потребу у зовнішньому фінансуванні енергетичних проектів.",
-      "source": "Сировинні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk5MRHhHWWNmcEpEeEdiM0xXWjJpYXU4QXp5N2FBWDZsZ0ZIZGtGRktSeUoxbmFoUDFkbDRmenBfbGx5T0F5RjRvbTNqNzRyWGRsTDRuOTRlYTRsa3d2MU9JUnlZNk1zcl9zNkRwblZhZEVHanVDb0pZLWpTWEpicVZuaGtXUC01SnBNXzhhVkdQcXlBVmVPMA",
-      "published": "2026-10-12T13:40:40+00:00"
-    },
-    {
-      "title": "Прогноз цін на нафту: підйом продовжується",
-      "summary": "Прогноз FXEmpire показує, що ціни на Brent залишаються під тиском зростання. У 12‑тижневому періоді очікується збільшення на 3,5 % до 78,50 USD/баррель, з волатильністю 2,1 %. Це підвищить ліквідність ринку нафтових активів, збільшить маржу спекулянтів і може спричинити девальвацію валют країн-експортерів.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWgwWmU0dlZTdTVDS0pneWhvUjRYR3hsSTVJTVAwcmhWdzZxVXk1ejdQSnpPUHViWWl4VHltQjJOZ3Jla2FBQzRGM1dOOVVGQzFEU0pLNU1IZVdvenYtWjM3Rkd2YllFcW1jY2xOVDNpR09rWG5pV2cyQmtHNjh1enA2dWEyX01Fc25HU0kwT1JZdnlOM2lrREpLT3JwOFczS0kwOVhYczVQRmFxVGNaMXRn",
-      "published": "2026-10-12T13:40:59+00:00"
-    },
-    {
-      "title": "Ціни на нафту стабільні: мирна угода та прогноз надлишку IEA",
-      "summary": "Ціни на нафту залишаються стабільними, торгуючись біля $80 за барель з коливанням ±1 %. Інвестори оцінюють потенційний мирний договір на Близькому Сході, а Міжнародне енергетичне агентство прогнозує глобальний надлишок у 2 млн барелів на день до 2025 р. Така стабільність обмежує спред Brent‑WTI, знижує волатильність та підтримує ліквідність на товарних та валютних ринках, особливо у країн‑імпортерів.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEgyYllfUUYzMEhTQ2xuZmh6ZW5TWDhUMld6U1M4dmMwVHo2Rm1PeHpaNHRZV1pCWHp0b0d6RHo2OXhtWVlLeW5aeV96N0U1RThxZmFlVTZjVl9WMmhsWXA2eUVfTTB3LTVHTHIwNllsY1A4Q3BUeFhZWkJBd2NQUXhYaTlzQ1l6bmtZR1lWTjVuYkpMRUNUN0ZkRDlPdw",
-      "published": "2026-10-12T13:51:14+00:00"
-    },
-    {
-      "title": "Британія прийняла J7 для координації боротьби з антисемітизмом",
-      "summary": "Міністр закордонних справ Великої Британії провів у Лондоні засідання глобальної робочої групи J7, до якої входять представники єврейських організацій семи країн з найбільшою діаспорою поза Ізраїлем. Учасники обговорили практичні заходи для протидії зростанню антисемітських проявів та посилення міжнародної координації. Британія також погодилася прийняти майбутню міністерську зустріч J7, що відбувається на тлі даних про те, що 2025 рік став найсмертоноснішим для євреїв за межами Ізраїлю з 1994 року.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
-      "published": "2026-10-12T13:54:07+00:00"
-    },
     {
       "title": "Японські інвестори прискорять продаж французьких облігацій",
       "summary": "Японські інституційні інвестори розглядають прискорений продаж французьких державних облігацій у зв’язку з кризою на ринку єврооблігацій. Спред між 10‑річними французькими та німецькими облігаціями розширився, а обсяги японських позицій у Франції становлять кілька сотень мільярдів євро. Зниження попиту з боку Японії підвищить волатильність єврооблігацій, посилить тиск на євро та може погіршити ліквідність на єврозональному борговому ринку.",
@@ -1422,6 +1377,33 @@
       "published": "2026-10-13T18:35:00+00:00"
     },
     {
+      "title": "LaNeve перейменував Командування майбутнього армії на нове FASCOM",
+      "summary": "Нове US Army Futures and Autonomous Systems Command (FASCOM) розроблятиме операційні концепції для інтеграції автономних можливостей у всіх сферах бойових дій. Генерал Крістофер ЛаНев заявив, що команда фокусуватиметься на автономних системах для підвищення ефективності військ. Це може вплинути на доктрини застосування автономних технологій у майбутніх операціях.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command",
+      "published": "2026-10-13T18:51:30+00:00"
+    },
+    {
+      "title": "ДБР розслідує падіння МиГ-29 через можливе нештатне спрацювання ракети",
+      "summary": "Винищувач МиГ-29 застосовував застарілі ракети Р-60 для знищення дронів. Слідство перевіряє, чи нештатне спрацювання ракети призвело до пожежі та втрати керування. Це підкреслює проблеми з запасами сучасних ракет в українській авіації.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/padinnya-myg-29-na-odeshhyni-slidstvo-rozglyadaye-versiyu-neshtatnogo-spratsyuvannya-rakety",
+      "published": "2026-10-13T18:56:26+00:00"
+    },
+    {
+      "title": "Демократи на виборах можуть прискорити військову допомогу США Україні — конгресмен",
+      "summary": "Опитування та ринки прогнозів вказують на можливе значне засудження президента на midterm виборах. Rep. Jim Himes з House Permanent Select Committee on Intelligence зазначає про потенційне прискорення допомоги Україні. Це може вплинути на обсяги військової підтримки.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says",
+      "published": "2026-10-13T18:58:01+00:00"
+    },
+    {
       "title": "Росія за півтора місяця збудувала новий дронопорт для «Герань-5»",
       "summary": "Новий майданчик біля Міллерово має вісім позицій для пускових установок та 32 майданчики підготовки БпЛА. Комплекс за конфігурацією нагадує дронопорт «Цимбулова» в Орловській області. Будівництво за шість тижнів спрямоване на збільшення запусків реактивних дронів після вересневих атак.",
       "source": "mil.in.ua",
@@ -1494,12 +1476,30 @@
       "published": "2026-10-13T20:38:29+00:00"
     },
     {
+      "title": "Avio та Lockheed уклали угоду про виробництво твердопаливних ракетних двигунів",
+      "summary": "Угода передбачає кваліфікацію та постачання твердопаливних двигунів для Extended Range GMLRS і Precision Strike Missile, забезпечуючи Lockheed друге джерело. Avio USA будуватиме компоненти на власному заводі в Вірджинії, який запустять у 2029 році, використовуючи європейський досвід для скорочення залежності від ланцюгів постачання. Це також включає інженерні роботи над Mk104 для сімейства Standard Missile.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
+      "published": "2026-10-13T20:48:43+00:00"
+    },
+    {
       "title": "Зеленський візьме участь у переговорах у Даунінг-стріт щодо підтримки",
       "summary": "Президент Володимир Зеленський відвідає Даунінг-стріт для зустрічі з лідером Великої Британії. Уряд Британії оголосив про подвоєння підтримки України та закликав міжнародних партнерів приєднатися до цих зобов'язань. Це офіційний дипломатичний візит, спрямований на координацію зусиль союзників.",
       "source": "Diplomatic Visits",
       "publisher": "GOV.UK",
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc2dxd2dzUzhnTXRxZjlRMUhMZFhuVUVJQTJvUjdLU0tveEt4enFuT2FiNkNGN1BQWGR4d3Q4aU1MaGNveEtxSkRJdHdIeEZCUlBfd0VMNUtLV3Rmek42RGF2MkNyV25nYWR5RDZTeUt0Q0RjLXBBbWxoZVF0SmVqM21fV05KSlE1M19WWXctTy1tZU1Dd3Npal9TX0Rrb1pna29uMjlIZ284RnhRMUx5RFFuWDd3STBHMEhQWFhqaXJFNWk2Zm9LQTlFakcxVk1pRmpFaVM0UVAtSzR4aEs0RWFOd3YwNEF5aUpHSEx0d0hqZUU",
+      "published": "2026-10-13T21:30:00+00:00"
+    },
+    {
+      "title": "OPEC прогнозує стрибок попиту на нафту в 2027",
+      "summary": "OPEC очікує зростання попиту на нафту до 2,6 млн барелів на добу у 2027 році. Це ключова цифра, що сигналізує про прискорення споживання. Наслідки включають потенційне підвищення цін на енергоносії та вплив на валютні курси експортерів нафти. Зростання попиту може стабілізувати ланцюги постачання в енергетичному секторі.",
+      "source": "Сировинні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc",
       "published": "2026-10-13T21:30:00+00:00"
     }
   ]

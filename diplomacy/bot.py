@@ -237,18 +237,22 @@ def get_available_groq_models():
 
         def model_priority(model):
             name = model.lower()
-            # Віддаємо перевагу моделям, які стабільніше повертають JSON.
-            if "qwen" in name:
+            # Спершу легша модель для класифікації, потім більша; Qwen лишається резервом.
+            if "gpt-oss-20b" in name:
                 return 0
-            if "llama" in name and ("70b" in name or "90b" in name):
+            if "gpt-oss-120b" in name:
                 return 1
-            if "deepseek" in name or "gpt-oss" in name:
+            if "qwen" in name:
                 return 2
-            if "mixtral" in name or "mistral" in name:
+            if "llama" in name and ("70b" in name or "90b" in name):
                 return 3
-            if "llama" in name and ("8b" in name or "11b" in name):
+            if "deepseek" in name:
                 return 4
-            return 5
+            if "mixtral" in name or "mistral" in name:
+                return 5
+            if "llama" in name and ("8b" in name or "11b" in name):
+                return 6
+            return 7
 
         models.sort(key=lambda model: (model_priority(model), model))
         print(f"Текстові моделі Groq: {models[:GROQ_MAX_MODELS_TO_TRY]}")
@@ -928,6 +932,9 @@ duplicate=true. Інше джерело або перефразований за
     if GROQ_RATE_LIMITED_THIS_RUN:
         print("Groq уже повернув 429 у цьому запуску; одразу використовую Gemini.")
 
+    rate_limited_models = 0
+    attempted_models = len(models_to_try)
+
     for model in models_to_try:
         payload = {
             "model": model,
@@ -1031,12 +1038,12 @@ duplicate=true. Інше джерело або перефразований за
                 continue
 
             if response.status_code == 429:
-                GROQ_RATE_LIMITED_THIS_RUN = True
+                rate_limited_models += 1
                 print(
-                    f"Groq 429 для {model}; це спільний ліміт провайдера. "
-                    "Вимикаю запити до Groq до кінця цього запуску й переходжу до Gemini."
+                    f"Groq 429 для {model}: {response.text[:250]}. "
+                    "Перевіряю наступну модель, оскільки ліміти можуть відрізнятися за моделями."
                 )
-                break
+                continue
 
             if response.status_code != 200:
                 print(
@@ -1109,6 +1116,12 @@ duplicate=true. Інше джерело або перефразований за
         except Exception as exc:
             print(f"Помилка Groq ({model}): {exc}")
             continue
+
+    # Вимикаємо Groq до кінця запуску лише якщо всі доступні моделі
+    # повернули 429. Окрема модель із лімітом не повинна блокувати інші.
+    if attempted_models and rate_limited_models == attempted_models:
+        GROQ_RATE_LIMITED_THIS_RUN = True
+        print("Усі перевірені моделі Groq повернули 429; до кінця запуску використовую резервних провайдерів.")
 
     # Резервний провайдер має обмежений тайм-аут і одну повторну спробу
     # лише для тимчасових помилок мережі або перевантаження.

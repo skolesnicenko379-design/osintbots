@@ -55,6 +55,10 @@ GROQ_MODELS = [
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
+XAI_API_URL = "https://api.x.ai/v1/chat/completions"
+XAI_API_KEY = (os.environ.get("XAI_API_KEY") or "").strip().replace('"', '').replace("'", "")
+XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.3").strip()
+
 ARTICLE_MAX_CHARS = 3000  # скільки символів тексту статті передавати в Groq
 
 
@@ -199,6 +203,62 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
 
 
 # ===== Telegram =====
+
+def enrich_with_xai(title, article_text, source_name, needs_translation, recent_posts=None):
+    """Резервний переклад та аналіз через платний xAI API."""
+    if not XAI_API_KEY:
+        print("xAI: відсутній XAI_API_KEY; резервний аналіз неможливий.")
+        return None, None, False
+
+    lang_note = (
+        "Оригінал англійською — переклади заголовок природною українською."
+        if needs_translation else "Оригінал вже українською."
+    )
+    recent_block = "\\n".join(
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
+        for post in (recent_posts or [])[-12:]
+    ) or "(нещодавніх публікацій немає)"
+    prompt = (
+        "Ти — редактор мілтех-новин для українського Telegram-каналу.\\n"
+        f"Джерело: {source_name}. {lang_note}\\n"
+        f"Оригінальний заголовок: {title}\\n\\n"
+        f"Текст новини: {article_text[:3000]}\\n\\n"
+        f"Останні публікації для перевірки повторів:\\n{recent_block}\\n\\n"
+        "Перевір, чи це та сама подія, що й у попередніх публікаціях. Інше джерело або перефразований "
+        "заголовок не роблять подію новою. Якщо є суттєвий новий факт, duplicate=false. "
+        "Створи точний заголовок українською до 15 слів і 2-3 речення технічного коментаря про подію, "
+        "характеристики техніки та можливий військовий вплив. Не вигадуй характеристик чи фактів. "
+        "analysis не може бути порожнім. Поверни лише JSON: "
+        '{"duplicate":false,"title":"...","analysis":"..."}'
+    )
+    try:
+        resp = requests.post(
+            XAI_API_URL,
+            headers={"Authorization": f"Bearer {XAI_API_KEY}", "Content-Type": "application/json"},
+            json={
+                "model": XAI_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.2,
+                "response_format": {"type": "json_object"},
+                "max_tokens": 700,
+            },
+            timeout=(5, 35),
+        )
+        if resp.status_code != 200:
+            print(f"xAI ({XAI_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
+            return None, None, False
+        content = resp.json()["choices"][0]["message"]["content"].strip()
+        match = re.search(r"\\{.*\\}", content, re.DOTALL)
+        parsed = json.loads(match.group(0) if match else content)
+        ai_title = parsed.get("title")
+        ai_analysis = parsed.get("analysis")
+        if not ai_title or len(ai_title.strip()) < 5 or not ai_analysis or len(ai_analysis.strip()) < 20:
+            raise ValueError("xAI повернув неповний заголовок або аналіз")
+        return ai_title, ai_analysis, parsed.get("duplicate", False) is True
+    except Exception as e:
+        print(f"xAI ({XAI_MODEL}): помилка аналізу: {e}")
+        return None, None, False
+
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
@@ -348,10 +408,16 @@ def main():
             entry["title"], article_text, entry["source"],
             entry["needs_translation"], duplicate_context,
         )
-        print(f"[TIME] Groq candidate {index}/{len(candidates)} ({entry['source']}): {time.monotonic() - stage_started:.1f}s")
+        if not groq_title or not groq_analysis:
+            print(f"Groq не обробив новину; пробую xAI: {entry['title']}")
+            groq_title, groq_analysis, is_duplicate = enrich_with_xai(
+                entry["title"], article_text, entry["source"],
+                entry["needs_translation"], duplicate_context,
+            )
+        print(f"[TIME] AI candidate {index}/{len(candidates)}: {time.monotonic() - stage_started:.1f}s")
 
         if not groq_title or not groq_analysis:
-            print("Пропущено тимчасово: ШІ не зміг перевірити новину; її можна повторно обробити наступним запуском.")
+            print("Пропущено тимчасово: Groq і xAI не змогли перевірити новину; її можна повторно обробити наступним запуском.")
             continue
         if is_duplicate:
             history.append(entry["link"])

@@ -73,7 +73,7 @@ GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
 
 XAI_API_URL = "https://api.x.ai/v1/chat/completions"
 XAI_API_KEY = (os.environ.get("XAI_API_KEY") or "").strip().replace('"', '').replace("'", "")
-XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.3").strip()
+XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.7").strip()
 
 def get_available_groq_models():
     if not GROQ_API_KEY:
@@ -184,7 +184,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
     # Короткий контекст: не передаємо всі 80 записів, інакше перевищується ліміт Groq.
     recent_block = "(поки що порожньо)"
     if recent_posts:
-        recent_block = "\\n".join(
+        recent_block = "\n".join(
             f"- [{p.get('source', 'джерело')}] {p.get('title', '')[:140]}: {p.get('summary', '')[:120]}"
             for p in recent_posts[-8:]
         )
@@ -281,10 +281,10 @@ def analyze_with_xai(title, article_text, source_name, recent_posts):
         for p in (recent_posts or [])[-8:]
     ) or "(поки що порожньо)"
     prompt = (
-        "Ти — старший макроекономічний аналітик. Відповідай виключно українською.\\n"
-        f"Джерело: {source_name}\\nЗаголовок: {title}\\n\\n"
-        f"Текст статті: {article_text[:2500]}\\n\\n"
-        f"Останні публікації для перевірки повторів:\\n{recent_block}\\n\\n"
+        "Ти — старший макроекономічний аналітик. Відповідай виключно українською.\n"
+        f"Джерело: {source_name}\nЗаголовок: {title}\n\n"
+        f"Текст статті: {article_text[:2500]}\n\n"
+        f"Останні публікації для перевірки повторів:\n{recent_block}\n\n"
         "Якщо подія неважлива, relevant=false. Якщо це та сама подія з контексту, duplicate=true. "
         "Для важливої новини створи title до 10 слів і analysis з 3-4 речень, максимум 500 символів. "
         "Поясни фактичну подію, ключові цифри/умови та наслідки для ліквідності, боргових ринків, "

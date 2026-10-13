@@ -845,7 +845,7 @@ def analyze_with_xai(prompt, title):
             return None
 
         ai_analysis = re.sub(
-            r"\\s*[\\r\\n]+\\s*", " ", ai_analysis
+            r"\s*[\r\n]+\s*", " ", ai_analysis
         ).strip()
         print("xAI успішно перевірив матеріал.")
         return {

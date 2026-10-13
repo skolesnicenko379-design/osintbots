@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Завантаження репозиторію
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Налаштування Python
         uses: actions/setup-python@v5
@@ -45,5 +47,13 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add economy/posted_news.json shared_news_history.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Оновлено макроекономічну історію [skip ci]"
-          git pull --rebase -X theirs origin main
+          # Синхронізуємося з актуальним main без відкидання локальних записів.
+          git fetch origin main
+          if ! git rebase origin/main; then
+            python scripts/merge_shared_history_conflict.py
+            git add shared_news_history.json
+            GIT_EDITOR=true git rebase --continue
+          fi
+
+          # Відправляємо коміт без перезапису чужих змін.
           git push origin HEAD:main

@@ -46,7 +46,7 @@ OPENROUTER_API_KEY = (
     os.environ.get("OPENROUTER_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
 OPENROUTER_MODEL = (
-    os.environ.get("OPENROUTER_MODEL") or "openai/gpt-4o-mini"
+    os.environ.get("OPENROUTER_MODEL") or "google/gemma-4-31b-it:free"
 ).strip()
 GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite").strip()
 GEMINI_TIMEOUT = 18  # Даємо резервній моделі більше часу на відповідь.

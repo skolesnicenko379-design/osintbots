@@ -26,14 +26,15 @@ ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 15  
+MAX_ENTRIES_CHECKED_PER_RUN = 10
 RECENT_POSTS_FOR_DEDUP = 20
 MAX_ARTICLE_AGE_HOURS = 24
-REQUEST_TIMEOUT = 20
-ARTICLE_FETCH_TIMEOUT = 15
-ARTICLE_MAX_CHARS = 4000
-GROQ_TIMEOUT = 45
-GROQ_CALL_DELAY = 3
+REQUEST_TIMEOUT = 12
+ARTICLE_FETCH_TIMEOUT = 8
+ARTICLE_MAX_CHARS = 3000
+GROQ_TIMEOUT = 15
+GROQ_CALL_DELAY = 1
+GROQ_MAX_MODELS_TO_TRY = 2
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
@@ -211,8 +212,8 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
         "Content-Type": "application/json",
     }
 
-    # Пробуємо до 3-х перших доступних моделей
-    for model in active_models[:3]:
+    # Обмежуємо кількість моделей: 429 зазвичай означає спільний ліміт API.
+    for model in active_models[:GROQ_MAX_MODELS_TO_TRY]:
         payload = {
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
@@ -224,9 +225,11 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
             resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
             if resp.status_code == 429:
-                retry_after = float(resp.headers.get("retry-after", 5))
-                time.sleep(retry_after)
-                continue
+                print(
+                    f"Groq 429 для {model}; не чекаю retry-after "
+                    "і не перебираю інші моделі, щоб не блокувати запуск."
+                )
+                break
 
             if resp.status_code != 200:
                 print(f"Groq ({model}): HTTP {resp.status_code}: {resp.text[:300]}")
@@ -295,8 +298,7 @@ def collect_entries():
 
     for feed_url, source_name, _ in FEEDS:
         try:
-            time.sleep(1)
-            resp = requests.get(feed_url, headers=HEADERS, timeout=15)
+            resp = requests.get(feed_url, headers=HEADERS, timeout=8)
             if resp.status_code == 403:
                 print(f"Увага: {source_name} повернув 403. Блокування доступу.")
                 continue

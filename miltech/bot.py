@@ -2,6 +2,7 @@ import os
 import json
 import time
 import html
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 import re
@@ -23,7 +24,12 @@ GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').r
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
-REQUEST_TIMEOUT = 20
+MAX_AI_CANDIDATES_PER_RUN = 8
+REQUEST_TIMEOUT = 12
+FEED_CONNECT_TIMEOUT = 4
+FEED_READ_TIMEOUT = 8
+ARTICLE_FETCH_TIMEOUT = 8
+GROQ_TIMEOUT = 15
 
 # Джерела: (URL, Назва джерела, чи потрібен переклад)
 FEEDS = [
@@ -49,8 +55,7 @@ GROQ_MODELS = [
 ]
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-ARTICLE_FETCH_TIMEOUT = 15
-ARTICLE_MAX_CHARS = 4000  # скільки символів тексту статті передавати в Groq
+ARTICLE_MAX_CHARS = 3000  # скільки символів тексту статті передавати в Groq
 
 
 def strip_html(raw):
@@ -115,7 +120,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
     # або з іншого джерела. Короткий опис обмежує витрати токенів.
     recent_block = "\n".join(
         f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
-        for post in (recent_posts or [])[-30:]
+        for post in (recent_posts or [])[-15:]
     ) or "(нещодавніх публікацій немає)"
 
     prompt = (
@@ -151,7 +156,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
         }
 
         try:
-            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+            resp = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=GROQ_TIMEOUT)
 
             if resp.status_code == 404 or (resp.status_code == 400 and ("does not exist" in resp.text or "model_decommissioned" in resp.text)):
                 print(f"Groq: модель {model} недоступна, пробую наступну...")
@@ -160,7 +165,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
             if resp.status_code == 429:
                 retry_after = 5
                 try:
-                    retry_after = float(resp.headers.get("retry-after", 5))
+                    retry_after = min(float(resp.headers.get("retry-after", 3)), 3)
                 except Exception:
                     pass
                 time.sleep(retry_after)
@@ -168,7 +173,7 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
 
             if resp.status_code != 200:
                 print(f"Groq: HTTP {resp.status_code}: {resp.text[:200]}")
-                time.sleep(3)
+                time.sleep(1)
                 continue
 
             data = resp.json()
@@ -216,39 +221,53 @@ def send_to_telegram(text):
 
 
 # ===== Збір новин з усіх фідів =====
+def fetch_feed(feed_config):
+    feed_url, source_name, needs_translation = feed_config
+    started = time.monotonic()
+    try:
+        response = requests.get(
+            feed_url,
+            timeout=(FEED_CONNECT_TIMEOUT, FEED_READ_TIMEOUT),
+            headers={"User-Agent": "Mozilla/5.0 (compatible; OSINTNewsBot/1.0)"},
+        )
+        response.raise_for_status()
+        feed = feedparser.parse(response.content)
+    except Exception as e:
+        print(f"[TIME] RSS {source_name}: ERROR after {time.monotonic() - started:.1f}s: {e}")
+        return []
+    print(f"[TIME] RSS {source_name}: {time.monotonic() - started:.1f}s, entries={len(feed.entries)}")
+    entries = []
+    for entry in feed.entries[:5]:
+        link = entry.get("link")
+        if not link:
+            continue
+        published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
+        if published_struct:
+            published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
+        else:
+            published_dt = datetime.now(timezone.utc)
+        entries.append({
+            "link": link,
+            "title": entry.get("title", "Без заголовка"),
+            "summary": strip_html(entry.get("summary", ""))[:1200],
+            "source": source_name,
+            "needs_translation": needs_translation,
+            "published": published_dt,
+        })
+    return entries
+
+
 def collect_entries():
     all_entries = []
-    for feed_url, source_name, needs_translation in FEEDS:
-        try:
-            # Невелика пауза між фідами
-            time.sleep(1)
-            feed = feedparser.parse(feed_url)
-        except Exception as e:
-            print(f"Не вдалося завантажити фід {feed_url}: {e}")
-            continue
-
-        for entry in feed.entries[:5]:
-            link = entry.get("link")
-            if not link:
-                continue
-
-            published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
-            if published_struct:
-                published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-            else:
-                published_dt = datetime.now(timezone.utc)
-
-            all_entries.append({
-                "link": link,
-                "title": entry.get("title", "Без заголовка"),
-                "summary": strip_html(entry.get("summary", ""))[:1500],
-                "source": source_name,
-                "needs_translation": needs_translation,
-                "published": published_dt,
-            })
-
-    # Найсвіжіші новини — першими
+    with ThreadPoolExecutor(max_workers=min(5, len(FEEDS))) as pool:
+        futures = [pool.submit(fetch_feed, config) for config in FEEDS]
+        for future in as_completed(futures):
+            try:
+                all_entries.extend(future.result())
+            except Exception as e:
+                print(f"Помилка обробки RSS: {e}")
     all_entries.sort(key=lambda e: e["published"], reverse=True)
+    print(f"[TIME] RSS collection complete: {len(all_entries)} entries")
     return all_entries
 
 
@@ -271,14 +290,17 @@ def format_message(entry, groq_title, groq_analysis):
 
 
 def main():
+    run_started = time.monotonic()
     history = load_history()
     shared_history = load_shared_history()
-    entries = collect_entries()
-    new_posts = 0
 
+    stage_started = time.monotonic()
+    entries = collect_entries()
+    print(f"[TIME] collect_entries: {time.monotonic() - stage_started:.1f}s")
+
+    # Спочатку прибираємо відомі повтори, щоб не витрачати запити на статті й ШІ.
+    candidates = []
     for entry in entries:
-        if new_posts >= MAX_POSTS_PER_RUN:
-            break
         if entry["link"] in history:
             continue
         if is_duplicate_link(entry["link"], shared_history):
@@ -289,29 +311,52 @@ def main():
             print("Пропущено: заголовок схожий на нещодавню публікацію.")
             history.append(entry["link"])
             continue
+        candidates.append(entry)
 
-        article_text = fetch_article_text(entry["link"])
+    if len(candidates) > MAX_AI_CANDIDATES_PER_RUN:
+        print(f"[TIME] Candidate cap: {len(candidates)} -> {MAX_AI_CANDIDATES_PER_RUN}")
+        candidates = candidates[:MAX_AI_CANDIDATES_PER_RUN]
+
+    # Завантажуємо обрані статті паралельно, але виклики Groq залишаємо послідовними.
+    stage_started = time.monotonic()
+    article_texts = {}
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        future_map = {pool.submit(fetch_article_text, entry["link"]): entry for entry in candidates}
+        for future in as_completed(future_map):
+            entry = future_map[future]
+            try:
+                article_texts[entry["link"]] = future.result()
+            except Exception as e:
+                print(f"Помилка завантаження статті {entry['link']}: {e}")
+                article_texts[entry["link"]] = ""
+    print(f"[TIME] article downloads ({len(candidates)} candidates): {time.monotonic() - stage_started:.1f}s")
+
+    new_posts = 0
+    for index, entry in enumerate(candidates, start=1):
+        if new_posts >= MAX_POSTS_PER_RUN:
+            break
+
+        article_text = article_texts.get(entry["link"], "")
         if not article_text or len(article_text) < 50:
-            article_text = entry["summary"]  # fallback: хоч короткий опис з RSS
+            article_text = entry["summary"]
 
+        stage_started = time.monotonic()
         groq_title, groq_analysis, is_duplicate = enrich_with_groq(
             entry["title"], article_text, entry["source"],
             entry["needs_translation"], shared_history["recent_posts"],
         )
+        print(f"[TIME] Groq candidate {index}/{len(candidates)} ({entry['source']}): {time.monotonic() - stage_started:.1f}s")
 
-        # Не публікуємо матеріал без успішної перевірки ШІ: інакше тимчасова
-        # помилка API вимикає семантичний захист і пропускає повтори.
         if not groq_title or not groq_analysis:
             print("Пропущено тимчасово: ШІ не зміг перевірити новину; її можна повторно обробити наступним запуском.")
             continue
-
         if is_duplicate:
             history.append(entry["link"])
             print("Пропущено моделлю: подія вже висвітлена в іншому каналі.")
             continue
 
         message = format_message(entry, groq_title, groq_analysis)
-
+        stage_started = time.monotonic()
         if send_to_telegram(message):
             history.append(entry["link"])
             record_published(
@@ -321,12 +366,14 @@ def main():
             )
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")
-            time.sleep(3)  # щоб Telegram не вважав це спамом
+            time.sleep(1)
         else:
             print(f"Не вдалося опублікувати: {entry['title']}")
+        print(f"[TIME] Telegram send: {time.monotonic() - stage_started:.1f}s")
 
     save_history(history)
     save_shared_history(shared_history)
+    print(f"[TIME] TOTAL runtime: {time.monotonic() - run_started:.1f}s")
     print(f"Готово. Опубліковано новин: {new_posts}")
 
 

@@ -43,7 +43,9 @@ GEMINI_API_KEY = (
     os.environ.get("GEMINI_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
 GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite").strip()
-GEMINI_TIMEOUT = 10  # Один запит; жорсткий ліміт очікування відповіді.
+GEMINI_TIMEOUT = 18  # Даємо резервній моделі більше часу на відповідь.
+GEMINI_RETRY_DELAY = 1
+GROQ_RATE_LIMITED_THIS_RUN = False
 
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
@@ -746,6 +748,7 @@ def analyze_with_groq(
     recent_posts,
     active_models,
 ):
+    global GROQ_RATE_LIMITED_THIS_RUN
     if not GROQ_API_KEY or not active_models:
         return {
             "relevant": False,
@@ -891,7 +894,14 @@ duplicate=true. Інше джерело або перефразований за
         "Content-Type": "application/json",
     }
 
-    models_to_try = active_models[:GROQ_MAX_MODELS_TO_TRY]
+    # Після першого 429 не повторюємо запити до спільного ліміту Groq
+    # для кожної наступної новини в межах цього запуску.
+    models_to_try = (
+        [] if GROQ_RATE_LIMITED_THIS_RUN
+        else active_models[:GROQ_MAX_MODELS_TO_TRY]
+    )
+    if GROQ_RATE_LIMITED_THIS_RUN:
+        print("Groq уже повернув 429 у цьому запуску; одразу використовую Gemini.")
 
     for model in models_to_try:
         payload = {
@@ -996,9 +1006,10 @@ duplicate=true. Інше джерело або перефразований за
                 continue
 
             if response.status_code == 429:
+                GROQ_RATE_LIMITED_THIS_RUN = True
                 print(
                     f"Groq 429 для {model}; це спільний ліміт провайдера. "
-                    "Припиняю перебір моделей і переходжу до резервного провайдера."
+                    "Вимикаю запити до Groq до кінця цього запуску й переходжу до Gemini."
                 )
                 break
 
@@ -1100,15 +1111,41 @@ duplicate=true. Інше джерело або перефразований за
                 f"Резервна перевірка через Gemini ({GEMINI_MODEL}); "
                 f"тайм-аут {GEMINI_TIMEOUT} с."
             )
-            response = requests.post(
-                gemini_url,
-                headers={
-                    "Content-Type": "application/json",
-                    "x-goog-api-key": GEMINI_API_KEY,
-                },
-                json=gemini_payload,
-                timeout=(3, GEMINI_TIMEOUT),
-            )
+            response = None
+            transient_statuses = {429, 500, 502, 503, 504}
+
+            # Одна повторна спроба лише для тимчасових помилок/тайм-аутів.
+            # Помилки ключа та інші постійні HTTP-помилки не повторюємо.
+            for attempt in range(2):
+                try:
+                    response = requests.post(
+                        gemini_url,
+                        headers={
+                            "Content-Type": "application/json",
+                            "x-goog-api-key": GEMINI_API_KEY,
+                        },
+                        json=gemini_payload,
+                        timeout=(3, GEMINI_TIMEOUT),
+                    )
+                except requests.Timeout:
+                    if attempt == 0:
+                        print(
+                            f"Gemini не відповів за {GEMINI_TIMEOUT} с; "
+                            f"повторюю один раз через {GEMINI_RETRY_DELAY} с."
+                        )
+                        time.sleep(GEMINI_RETRY_DELAY)
+                        continue
+                    raise
+
+                if response.status_code in transient_statuses and attempt == 0:
+                    print(
+                        f"Gemini HTTP {response.status_code}; "
+                        f"повторюю один раз через {GEMINI_RETRY_DELAY} с."
+                    )
+                    time.sleep(GEMINI_RETRY_DELAY)
+                    continue
+
+                break
 
             if response.status_code != 200:
                 print(
@@ -1162,8 +1199,8 @@ duplicate=true. Інше джерело або перефразований за
 
         except requests.Timeout:
             print(
-                f"Gemini не відповів за {GEMINI_TIMEOUT} с; "
-                "повторів не буде."
+                f"Gemini не відповів після двох спроб по {GEMINI_TIMEOUT} с; "
+                "переходжу до наступної новини."
             )
         except Exception as exc:
             print(f"Помилка резервного запиту Gemini: {type(exc).__name__}: {exc}")

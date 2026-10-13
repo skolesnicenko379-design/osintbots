@@ -120,14 +120,11 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFhdXRXMGJQM2YwU3IwZ0NvMjE2OXcxSXRuWkkyQUtRVklmZjBkLURuUy1DMFV6V0pOcEJaZlNzal94OEN0bGJWWmF4RlBCOEp6NWgtRDdZdmRyY1pTQVBYSlRLOUpkNG43TFZHWkRJNWMtQzk1VUtaZWI2a1ExWGliR05vcWROV2twT0x2bmV4Vm1wX2I1ZktmUW5nUnNFc0ZzRTY3cWt6ZG9ncEhkc0V4b09WcHB3VmhSTW9sNENoMzdicGVSSTljOTJvaDRBRm81cU9yLWVpamI3?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUWd2VC1QdXZtaFE5T2hnMFdLRThObGtHNE5xc3p3eURuMFdDNGJuOHUxeTlOMVlIVjdxdUpUVDI4MXg5SG9jV0s1eXBBMVY2X0ppOExEel95eW1SeVZ3eThYOWo?oc=5"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUWd2VC1QdXZtaFE5T2hnMFdLRThObGtHNE5xc3p3eURuMFdDNGJuOHUxeTlOMVlIVjdxdUpUVDI4MXg5SG9jV0s1eXBBMVY2X0ppOExEel95eW1SeVZ3eThYOWo?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/council-approves-conclusions-on-inclusive-democratic-participation-and-societal-and-community-resilience/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWRSU0FMZVdCUDhsajZfeXpFck5DRF9xaHRMVVNXbDNVcDZYM0lvZDVmM1ZSZzNxUFcyLV9Qd0QwRDJJRGhkbjhjX0lnR2Fsek9pNzQ0dUtzR0FUOFJQTTdfZmh0OHRhUHI5WWQtYWJTSGhBbGQ2VXBLUlRubFZLak01ekZxUzRWYzgxelFZLUZIbVJsNGVyZVQ5S0hnLUJIbFFXNDZpSQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Nvidia втрачає частку AI‑чипів у Китаї",
-      "summary": "Nvidia зафіксувала скорочення частки на китайському ринку AI‑чипів. За даними Yahoo Finance, її частка впала приблизно на 5 % до рівня 20 % у порівнянні з попереднім роком, у той час як Huawei збільшила виробництво та зайняла провідну позицію. Зниження експозиції Nvidia до китайського сегменту може ",
-      "source": "Мінфін США"
-    },
     {
       "title": "IMF очікує поступове підвищення ставок BOJ до нейтрального рівня",
       "summary": "IMF прогнозує поступове підвищення ставок Банку Японії до нейтрального рівня. Очікується, що рефінансуючі ставки зростуть на 0,25 % щорічно, а ключова ставка підніметься до 0,5 %. Це зменшить ліквідність ринку, підвищить спред між короткостроковими та довгостроковими облігаціями, а також може послаб",
@@ -221,6 +218,11 @@
     {
       "title": "Мелоні закликає ЄС до довгострокового рішення проблеми енергоцін",
       "summary": "Прем’єр-міністр Італії Джорджія Мелоні під час прес‑конференції закликала Європейську Комісію сформувати довгостроковий механізм протидії зростанню цін на електроенергію та газ. Вона зазначила, що поточна волатильність ринкових цін перевищує 30 % порівняно з 2022 р., а існуючі тимчасові субсидії та ",
+      "source": "Енергетичні ринки"
+    },
+    {
+      "title": "Каспійський регіон: розширення видобутку нафти, газу та критичних мінералів",
+      "summary": "У статті зазначено, що країни Каспійського басейну планують збільшити видобуток нафти до 30 млн барелів на день і газу до 120 млрд кубічних метрів до 2030 року, залучивши інвестиції у розмірі $45 млрд у проекти з критичними мінералами, зокрема літієм та кобальтом. Технічні умови включають підвищення",
       "source": "Енергетичні ринки"
     }
   ]

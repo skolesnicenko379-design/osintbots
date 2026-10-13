@@ -1,0 +1,123 @@
+name: Sequential OSINT Bots
+
+on:
+  schedule:
+    # Один координатор запускає ботів послідовно.
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: osintbots-shared-news-history
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-bots-sequentially:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Завантаження репозиторію
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Налаштування Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Встановлення залежностей усіх ботів
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r diplomacy/requirements.txt
+          pip install -r economy/requirements.txt
+          pip install -r miltech/requirements.txt
+
+      - name: Визначення графіка
+        id: schedule
+        shell: bash
+        run: |
+          HOUR="$(date -u +%H)"
+          if (( 10#$HOUR % 2 == 0 )); then
+            echo "run_extended=true" >> "$GITHUB_OUTPUT"
+            echo "Парна година UTC: після Diplomacy запускаються Economy та MilTech."
+          else
+            echo "run_extended=false" >> "$GITHUB_OUTPUT"
+            echo "Непарна година UTC: запускається лише Diplomacy."
+          fi
+
+      - name: Запуск Diplomacy
+        id: diplomacy
+        continue-on-error: true
+        working-directory: diplomacy
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          DIPLOMACY_CHANNEL_ID: ${{ secrets.DIPLOMACY_CHANNEL_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ADMIN_ID: ${{ secrets.ADMIN_ID }}
+        run: python bot.py
+
+      - name: Запуск Economy
+        id: economy
+        if: steps.schedule.outputs.run_extended == 'true'
+        continue-on-error: true
+        working-directory: economy
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          GEOECONOMICS_CHANNEL_ID: ${{ secrets.GEOECONOMICS_CHANNEL_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python bot.py
+
+      - name: Запуск MilTech
+        id: miltech
+        if: steps.schedule.outputs.run_extended == 'true'
+        continue-on-error: true
+        working-directory: miltech
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python bot.py
+
+      - name: Збереження спільної історії
+        if: always()
+        shell: bash
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add diplomacy/posted_news.json economy/posted_news.json miltech/posted_news.json shared_news_history.json
+          if git diff --cached --quiet; then
+            echo "Змін в історії публікацій немає."
+            exit 0
+          fi
+
+          git commit -m "Оновлено спільну історію публікацій [skip ci]"
+          git fetch origin main
+          if ! git rebase origin/main; then
+            python scripts/merge_shared_history_conflict.py
+            git add shared_news_history.json
+            GIT_EDITOR=true git rebase --continue
+          fi
+          git push origin HEAD:main
+
+      - name: Перевірка результатів ботів
+        if: always()
+        shell: bash
+        run: |
+          failed=0
+          if [[ "${{ steps.diplomacy.outcome }}" == "failure" ]]; then
+            echo "Diplomacy завершився з помилкою."
+            failed=1
+          fi
+          if [[ "${{ steps.schedule.outputs.run_extended }}" == "true" && "${{ steps.economy.outcome }}" == "failure" ]]; then
+            echo "Economy завершився з помилкою."
+            failed=1
+          fi
+          if [[ "${{ steps.schedule.outputs.run_extended }}" == "true" && "${{ steps.miltech.outcome }}" == "failure" ]]; then
+            echo "MilTech завершився з помилкою."
+            failed=1
+          fi
+          exit "$failed"

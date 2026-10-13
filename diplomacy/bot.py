@@ -893,9 +893,10 @@ def analyze_with_groq(
 
     # Compact prompt: reduces TPM consumption for every candidate.
     compact_article = clean_text(article_text)[:1600]
-    compact_recent = recent_posts[-4:] if recent_posts else []
+    compact_recent = recent_posts[-12:] if recent_posts else []
     recent_block = "\n".join(
-        f"- {str(post.get('title', ''))[:120]}"
+        f"- [{str(post.get('source', ''))[:50]}] {str(post.get('title', ''))[:160]} | "
+        f"{str(post.get('summary', ''))[:180]}"
         for post in compact_recent
     ) or "(немає)"
 
@@ -1500,6 +1501,74 @@ def is_recent_title_duplicate(title, recent_posts):
 # ОСНОВНИЙ ЦИКЛ
 # ============================================================
 
+
+def check_duplicate_with_xai(candidate_title, candidate_summary, article_text, source_name, recent_posts):
+    """Друга незалежна перевірка повтору події через платний xAI перед публікацією."""
+    if not XAI_API_KEY or not recent_posts:
+        return False
+
+    context = []
+    for post in recent_posts[-15:]:
+        context.append({
+            "title": str(post.get("title", ""))[:180],
+            "summary": str(post.get("summary", ""))[:320],
+            "source": str(post.get("source", ""))[:80],
+            "channel": str(post.get("channel", ""))[:40],
+            "published": str(post.get("published", ""))[:32],
+        })
+
+    prompt = (
+        "Визнач, чи описує кандидат ту саму конкретну подію, що й будь-яка попередня публікація. "
+        "Порівнюй фактичну подію: учасників, формат контакту, дату, документ, рішення та предмет. "
+        "Інша назва, інше медіа або офіційний сайт не роблять ту саму подію новою. "
+        "Не позначай як повтор лише через однакову країну, посадовця чи джерело, якщо це інша подія. "
+        "Окремий документ або нове суттєве рішення може бути новою подією. "
+        "Якщо є сумнів, duplicate=false. Поверни лише JSON виду {\"duplicate\":true/false,\"matched_title\":\"назва попередньої публікації або порожній рядок\",\"reason\":\"коротке пояснення\"}.\n\n"
+        f"КАНДИДАТ\nЗаголовок: {candidate_title}\nДжерело: {source_name}\n"
+        f"Короткий зміст: {candidate_summary[:600]}\nТекст: {article_text[:1200]}\n\n"
+        "ПОПЕРЕДНІ ПУБЛІКАЦІЇ ЗА ОСТАННІ 42 ГОДИНИ (JSON):\n"
+        + json.dumps(context, ensure_ascii=False)
+    )
+    try:
+        response = requests.post(
+            XAI_API_URL,
+            headers={
+                "Authorization": f"Bearer {XAI_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": XAI_MODEL,
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Ти прискіпливий редактор-дедуплікатор новин. Поверни лише валідний JSON.",
+                    },
+                    {"role": "user", "content": prompt},
+                ],
+                "temperature": 0,
+                "max_tokens": 180,
+                "response_format": {"type": "json_object"},
+            },
+            timeout=(4, 20),
+        )
+        if response.status_code != 200:
+            print(f"xAI перевірка повторів: HTTP {response.status_code}: {response.text[:250]}")
+            return False
+        raw = response.json()["choices"][0]["message"]["content"].strip()
+        parsed = extract_json_object(raw)
+        duplicate = parse_bool(parsed.get("duplicate"), default=False)
+        if duplicate:
+            print(
+                "xAI заблокував повтор події: "
+                f"{candidate_title} | збіг: {str(parsed.get('matched_title', ''))[:160]} "
+                f"| причина: {str(parsed.get('reason', ''))[:220]}"
+            )
+        return duplicate
+    except Exception as exc:
+        print(f"xAI перевірка повторів не спрацювала; продовжую без неї: {exc}")
+        return False
+
+
 def main():
     history = load_history()
     shared_history = load_shared_history()
@@ -1621,6 +1690,25 @@ def main():
 
         if not result.get("analysis"):
             print(f"Пропущено через відсутність тексту: {entry['title']}")
+            continue
+
+        # Незалежна фінальна перевірка повтору через платний xAI.
+        # Працює лише після первинного відбору, щоб не витрачати API на кожен RSS-запис.
+        duplicate_context = select_relevant_recent_posts(
+            entry["title"] + " " + result.get("title", ""),
+            article_text + " " + result.get("analysis", ""),
+            shared_history["recent_posts"],
+            limit=15,
+        )
+        if duplicate_context and check_duplicate_with_xai(
+            result.get("title") or entry["title"],
+            result.get("analysis") or "",
+            article_text,
+            entry["source"],
+            duplicate_context,
+        ):
+            remember_link(history, entry["link"])
+            print(f"Відхилено фінальною xAI-перевіркою повторів: {entry['title']}")
             continue
 
         message = format_message(

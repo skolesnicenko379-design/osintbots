@@ -1279,7 +1279,7 @@ duplicate=true. Інше джерело або перефразований за
                     and MIN_ANALYSIS_WORDS <= words <= MAX_ANALYSIS_WORDS
                 ):
                     ai_analysis = re.sub(
-                        r"\\s*[\\r\\n]+\\s*", " ", ai_analysis
+                        r"\s*[\r\n]+\s*", " ", ai_analysis
                     ).strip()
                     print("OpenRouter успішно перевірив матеріал.")
                     return {

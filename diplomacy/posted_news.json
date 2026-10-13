@@ -612,34 +612,24 @@
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeFVBSXdkTXRhTGhCQVoweVlSR2xzYUNpUzZZNE43dDh4MHVmSi1oajM4QzZBekxpRXc4TDhVMGVzck9ZQkhKRUR0aXdDaFVYVDZFbWw5X2UwQkJYYUxUMnVhVE0taUR4R1drekhsZlhOckFkaFFMUlU5Y2NJWHUwNHY0REZvSGUxV253SVF3VEpfaTlCX3QzOUpOVmtwSFltRXpzaXk2S3VuTFZqbDVaS21hTS1JdEZ3dHA5NVpSbkRQTmlad2tDMTczT04xdW02eFUyY3gxbVh4ZW5PRmJUQWlLblRNTUJ1TVdIWmFuaTdERHZOOVB0UmdaWENBUG5BVlRSSUREUUFqTXYy?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEw3dzBKaE80ZGJVMGFPRk0wY1YtMGc2OXZtSlBrdVZIUlQxVzZTTDNQYVlWc1d3Q0lIT2NxVjM3VU5IdWlqRHBfRndxanhQcWNwaVZRRjB6MWw1YXoyRGJWYkxtSDhVX1R3eXFpODVTeVZxdW5NVjJzRzd1T0pxYXVmRE5aNlltbHl5T3Z3U3ByZ3JlV2taNllQQTBpWVNHTnhyTDdjSDdueHhINWNNNmhZNlFhRV9GT19Qc3lEMHdQaDNoUEJYRk53?oc=5",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlRTNUJKZGQzbzVqWXpyUzdSeDAzZWlDbHljTEtxRU01MW9PcjN0Y0hPLXp2dGZwTGxjb1l0clFaWHcxT0N5RWNZMWZXZVFNeUR4eWF0SUkyWXVlTlU5eVV3VjdCOUlKZzFNYlNxc2NMUmhmUGxOZ1pkc1E4dTRYMmVxeG1GaDRzdEtQTXhwUDRJckgwT1I4bWducF9fRUVXOWJwTXdoWERrQnB5VmRIRklxS1dpbWtQWU8xdm42YTZ5R2xod1RkbldZa1NQYnhLNTd4NW9RSnBOYmRya0VEMXhlaTg?oc=5",
-    "https://news.google.com/rss/articles/CBMitgJBVV95cUxPS1dyVVNvMEFabUZwYkZxYTZscmp4Z1AxMlBkdlNjUmxZNlJnMlY5ZTZ4U2hEQ2pNdTdobXFBSHh0NHJ1Q3hSd1FRa0ZYUjBDVnhyemt0Nkk4S3hVQVVma21sdUpVbDk0Z3VibV9LV3Y3aDlLUDhyTGEwTHg2T3kzbERIYXU3VkpKTVhMU2VvUUhYZTZUWEczOE5SVWdFdHIwdGtCdjBGd1pUakxNa0N3c1Fjb0dOc2ZOZUFQNVhOWmk4bHlrcTBfVmFtNW1sZGZybUVDVi1VVXAzTUdXQzduTS1aNmM5NjA5V3lFUmZDOEoySVI5cEoxcWxEMTFYcHM5NVlFUjdvd2VUOFBkVVJWOXlfOWNLX0M4MDl3TTUwS1lNY1pYaFNXVHo1ZEQ4MFpBcGtpanZB0gG7AkFVX3lxTFAzd09UV203eGR1b3c3dm9JLVBpZ2xtVFZIR1NxWGd5LXpIaXEwUmViZmVlVURab0NtbHJKQi1IcmRScEt0Q1lnM081amFSWVZ6bVN5bjV3OHF5ZjBmVDQ0Zkp5cjNVUzFxRi13NEFBOUtvQU5ZenBGOHdwZGRtNGgtN3FIQThldFdiTkQ5VVgwSzlGUWgyak96Y09xdXlEWDFoS2N2QlF3bHViSUl2SUswckZ2Njk4YWtFSWZOS0w3ZHROYW93Y3pDOXNrdmROWmpyRHlCQkxvel8zUGtNX2Q2YV9XSVk1Qkc4MV9hOHpVV1RkS2REajVJbEVxYjM5RUc2OVN1amU0UTBrZTVOS2JQMmh1M19xZnd1LVpkWGk1Mk9pdGFYaS1JeEg3R2J6elZ0NVMyLXc2U0wwQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMitgJBVV95cUxPS1dyVVNvMEFabUZwYkZxYTZscmp4Z1AxMlBkdlNjUmxZNlJnMlY5ZTZ4U2hEQ2pNdTdobXFBSHh0NHJ1Q3hSd1FRa0ZYUjBDVnhyemt0Nkk4S3hVQVVma21sdUpVbDk0Z3VibV9LV3Y3aDlLUDhyTGEwTHg2T3kzbERIYXU3VkpKTVhMU2VvUUhYZTZUWEczOE5SVWdFdHIwdGtCdjBGd1pUakxNa0N3c1Fjb0dOc2ZOZUFQNVhOWmk4bHlrcTBfVmFtNW1sZGZybUVDVi1VVXAzTUdXQzduTS1aNmM5NjA5V3lFUmZDOEoySVI5cEoxcWxEMTFYcHM5NVlFUjdvd2VUOFBkVVJWOXlfOWNLX0M4MDl3TTUwS1lNY1pYaFNXVHo1ZEQ4MFpBcGtpanZB0gG7AkFVX3lxTFAzd09UV203eGR1b3c3dm9JLVBpZ2xtVFZIR1NxWGd5LXpIaXEwUmViZmVlVURab0NtbHJKQi1IcmRScEt0Q1lnM081amFSWVZ6bVN5bjV3OHF5ZjBmVDQ0Zkp5cjNVUzFxRi13NEFBOUtvQU5ZenBGOHdwZGRtNGgtN3FIQThldFdiTkQ5VVgwSzlGUWgyak96Y09xdXlEWDFoS2N2QlF3bHViSUl2SUswckZ2Njk4YWtFSWZOS0w3ZHROYW93Y3pDOXNrdmROWmpyRHlCQkxvel8zUGtNX2Q2YV9XSVk1Qkc4MV9hOHpVV1RkS2REajVJbEVxYjM5RUc2OVN1amU0UTBrZTVOS2JQMmh1M19xZnd1LVpkWGk1Mk9pdGFYaS1JeEg3R2J6elZ0NVMyLXc2U0wwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG9ERXExXzNhdTZFSy1ObklpLVVrblpwM2NEWEJnUjIyVmUtT1dtNTd4UVlsX0hpb2RDOWpjZmJfcEpibk5fWmx1QjhseF9feVhJeU95UFVsclMwUGRCSjdRYTlpMXJ2ZGk0TzE5OEhnd1FTLUo1M2VpN0ZzeThTMkEtMU1ldjBZMVBhUjJ1LUpsZ2NXcGEtc256dmxlcGZVS1pta2xGLWtaQk53R1hUSUg5YldhOVBhbktwT203ZmZoai1HRFZnSWdBSkp4c3Nja0R0Q1lUaw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGFCQ3NDdFFmVUhNS01qNS04T1Z0SFhudVRKV010MVpiaGNzTkFxREZySWtCcnpyTjhWTm5PU2JnNTJvaDBxNkdRT3plTkxoendDdFJEWmJzTHFXRnV5M05jTGVQNGpEZG1kUEtjTHJGU0hfcG1HanB5bEh3UmVUYVJ0UXgxZFU?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHhQRFVNRW1iYmZYTVBTUTVrTjJSSjczSmJvT0FwbGNGMThuM0NLWXZBQ0NIc3dxWFZNWjhXSkY1OGQ0Q3dhUXQ1VUpxQW9mSHhlMllneVFzXzRGSTJCQ0NuWEV4UER3MUN5a2liZFRHeXZ6bDFrX3BONjJLWm81SlhYRUd3aml3ZXpSS0ExN0x2M09Dd1ZIbXVhbnJia1k?oc=5",
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUGE3WmFTLWREclNBZVdXSGFZYTBkT2VsaWR6QzVhaENTTDc0MkhmUThXejBGSWhjbmVKVXg2LWdORWE3c3VtSjhVblcxUzdLSzd3NG92WDBxTnRZWkkxSnRYd21jYWpOeDc4TnpFSV82QUpnQVRSZzQwZjlxVWdPWXEtdjR2SkJtRzJDSkx6S2o3U192US1xZHo4cjA5ZUZhb0FyeDZFZDNpN3JHNVE5dzZib1FfdHVnT1BNbDlLTGpiOEtFYl9HUWpxNHhhdmkwRG85R01aVEVJR3lhdVlRS2R4d2RmUndsdGcxSmotVVI0WnVITXNNNF9hZDE5ZDVaRUNkZlNvb0dNSnZjMVFhSHNpbWtmM1dWTFR1VXpPaw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wRjlJWVVRWDNMelpsSnB5ZG1ZZXZXYS1mTDM1QUtFdmE4NzU0V0pIOWpmOHpfUUJyS0lUaWRWXzlhVFRTc29Bb29OR0xkNmtpMmQtNzBOU3gtMVV0eDZOelhpV2pkbkdfcE5J?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdWp0Zy1OQnlxS3ZuWkN6V1RNM2FjcVpTbDRtNWlJay1rb3JHR1RjaklNOExxekFhaG1WV0FDRTBoRkFxaHBoMzJlMTRmeTJlTEVVbW1sUll3QnhkbWZvdEdNVDBaVDROdlNrQU1ZakVva08tS2E1X3BYbEM5MjMxR1NlMDNnamNEdHlSU25MLWgxcElFekFLM0RYa3RUbllNQXdyTFVqMGVYLXdPTlRLQWpqd1Ytal9Ga2pNay1GQjJRbWE0djRlaHBLWEZzTVJMdU5iZEwtenVnalZoWFZncWxtYW54SVQwSjNWWDhSd01Lb0MwdFk3ZHJhVWVkMy03U0ZBbnAxZVI?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZy1pVUVpQ04wd0c0SUVtT05hU2hVZ2VhN01pYldlTVZZYVhOdGFKR0RVMlpDcmZnTFNyRGpjay1Db1kyTjdaVi10cTZ6RGtrZmxheHJuZ2pXVWVkblgxT19JZnlEeVJXZEZGOTQ4bFNRcW8yWTZKa0w5WHVnc2lfQ210LWRDT01oOHVFZHZEakRDNHR1UmZIV0ZpYnY5MDFkRGRDS1FjSko4c3dmUVBQOFE2Q0lzUklianhoanhJSlVxZ1l3ZS1V?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGlIYkxiZXJQZ2NLVlhzOXlJZmxUNkFDMG50d19pZ2tadmZwZjZCc2VodkNLWVVsSUhvTGh1MWszZzEzdWt3Qm9SN1JsWHRkWmN2RHFFR0l0OTNxYUJVVmE0eFcyYTc5YmU2MWU0RzB5cEowQllvZXpnZE5XQjNYbno5MlZDYnFKVlZ1MGlnM3FXaUdlR2ZvTmN0UXpFeWF4QUI4WWxZNDJmWEw4?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWQ2a0ZZdDRQSnphWm1tb29QZDJzcXh3cVlFcXFVelJzc0J4a3pMVWtQWGk4Tk5YVHVSTU5ubC1jSGNQSC02cFQzWnRzUEhKWHYyVVRQQmptekRBakdMblNGWng3dnhPLTh1Z2NkNm9BZGNocDFHdG5JbC0zaFJ0eFhDUzdXX0J3aUNQME5JZXZiUE5Qb1BKaWlHdmxrV1FUTnJFOVpLM2lKMHVyNUNmX0hiSVdnRHU4RGhiUVkweC1hZEpVcWZ3X1ZzU0w4OEVUSE1UeVpiR0Q2aWtKci1VQg?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NRTNlU2ItR0dpcmVuS2Z6dVVIbXFWb04xU0VJczFsZzFZbXo5enhVdDlNZHdkcGRTLUZpb2lJQlNRREVJSDY5c2x2X2paaURzdmhlMTBHZzhHMUllUTdDTmw2SXliQzhud0VR?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRThpal9uVUFsZ2VCVklRbGZPWXFzN0FCWXJzQkhfa0tyT1VTZjd3NzJSUVRNa2JFd0N0YWtobUNRc2NqUExGcllJRm5BbDk1TWtfblZibG9WN0pJU1FhN2VhWm55RjdJeXNOTml1VW5kQzF0MHpvRjRpLU1CQy16NjhvTmRuNkFzR3RxczR4NUZsNm5xcm9OY2g3S2hLLVVKbko1Sy1uSG9vZTIzekxZX3MyYjlHZTg0cGI3djhta0NNdS1CUUtOUXZlcVVhSmR3cElmOEplZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53SGNxTXZOelBxc0hoV0sxQ3AxTTY3VWszSDBaa09IclRRTk9WTWJaQTlBc3o1Vl9OR1pwUk9pdWRSVUswSDA0YnNGYUpOa2ZCeUl2ckRCSDhSS0tEZjJ6MVotaE8?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43cFJLTnUteXpodUJzV3Jhak9uLXdRdWtScUZJTjV0NEF5YW1rcTl5Q0ZNU0VXREtSVHNCNXNqM2p6bS1lS21FRW9kSEN5QlpGbmFYS3ln?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDk3a1ZEYVZQNGFWWnJCVEcxb2l2NVBfVGVsWm02bUJZejdpX3RhcllNNTFXdVhRekFyWXlWa0R4VmxJUmg4VGdxdkw3R1JRcDF2cmpvQnU3XzNYT0hxRzU0Q0VzMjIwd2QtY2lQTEdhOWM4bHloRFZWbnphTlFvWTlB?oc=5",
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWXpfUXZ6YXFic1kxTzJGa3hVMWVxaGVuenpySHlXbXZ6bm5XTjRuRDVpa1p0Qk9zamtKU2pwVWVkemVmUWhabm0tWUgxNHhJNi16WTlCU01icWk4N1Brd0s1a1I1aUlZaFktMzdNWENXMXRFTy1Udl9pcjRyN0ptdmxIemU5ZTVjRUxBeWFNbFRrWU55cWtucnA2QmFwakZidEwtVnJMNXVVNHlscnpHcFpER21YenMzRWhMWHJUQ2JqemdCb2VUN0EzOW9wQ2IwQm1aNkNCVlpjeHRjWnpvd0NSQUdOX0hNMk96dDBEMnExTUZicDFUUU5SWUhyRW1PZFFMMTR6OVhoV21meXRnWDZEbnpUNVA4QUFmMA?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Зеленський передав США пропозиції щодо завершення війни",
-      "summary": "Передача конкретних умов припинення вогню американським переговорникам сигналізує про перехід від риторичної підтримки до технічної фази мирного процесу, що може змінити баланс сил у конфлікті. Для трансатлантичного альянсу це створює критичне вікно для синхронізації позицій Вашингтона та Брюсселя, ",
-      "source": "Global Defense"
-    },
-    {
-      "title": "Китай ввів санкції проти міністрів країн‑союзників Тайваню",
-      "summary": "Цей крок підвищує рівень напруженості у відносинах між Пекіном і Тайванем, демонструючи готовність Китаю застосовувати економічний тиск до дипломатичних партнерів Тайваню. Санкції можуть змусити ЄС і США переглянути свою підтримку Тайваню та посилити координацію у трансатлантичній політиці щодо Кита",
-      "source": "US Diplomacy"
-    },
-    {
-      "title": "Результати круглої таблиці «Україна‑ЄС»: нові кроки інтеграції",
-      "summary": "Зустріч підкреслила готовність ЄС розширити підтримку реформ в Україні та визначила конкретні механізми фінансової та технічної допомоги. Це посилює стратегічну автономію України, одночасно зміцнюючи трансатлантичний альянс, адже ЄС демонструє здатність діяти незалежно від США у питанні європейської",
-      "source": "EU Diplomacy"
-    },
-    {
-      "title": "Тайвань суттєво збільшує оборонний бюджет для стримування Китаю",
-      "summary": "Збільшення військового бюджету Тайваню підкреслює ескалацію напруги у Південно-Східно-Азійському регіоні та посилює потребу у трансатлантичній підтримці, зокрема США та ЄС, для забезпечення балансу сил. Це може стимулювати подальшу інтеграцію Тайваню у західні безпекові структури, посилюючи стратегі",
-      "source": "Global Defense"
-    },
-    {
-      "title": "Прес-бріфінг Європейської ради 15-16 жовтня 2026",
-      "summary": "Прес-бріфінг Європейської ради є ключовим інструментом для розкриття позицій ЄС щодо поточних геополітичних викликів, включаючи конфлікт у Європі та стосунки з США. Під час зустрічі очікується обговорення санкційної політики, підтримки України та стратегічної автономії ЄС. Результати можуть вплинути",
-      "source": "Рада ЄС"
-    },
     {
       "title": "Поновлення санкцій ЄС щодо хімічної зброї: продовження рамок протидії",
       "summary": "Поновлення рамок санкцій проти хімічної зброї підкреслює постійний фокус ЄС на глобальну безпеку та запобігання розповсюдженню. Це посилює тиск на держави, що порушують Договор про заборону хімічної зброї, і демонструє готовність ЄС підтримувати міжнародні норми навіть у період політичної нестабільн",
@@ -777,6 +767,36 @@
       "summary": "Huawei, яка раніше зазнавала обмежень через санкції США, досягла показника у 100 мільйонів вироблених мікропроцесорів Kirin. Цей факт засвідчує здатність компанії підтримувати виробництво власних чипів попри зовнішній тиск, що є важливим індикатором для ринку стратегічних технологій.",
       "source": "Geo-Economics",
       "published": "2026-10-13T13:00:08+00:00"
+    },
+    {
+      "title": "ЄС провів 10-ту конференцію з вступу Албанії",
+      "summary": "Європейська Рада провела десяту конференцію з вступу Албанії до Європейського Союзу 13 жовтня 2026 року. Ця офіційна дипломатична зустріч є частиною формального процесу інтеграції Албанії в структуру ЄС. Подія підтверджує продовження переговорного треку між Брюсселем та Тираною щодо виконання критеріїв членства.",
+      "source": "EU Diplomacy",
+      "published": "2026-10-13T10:07:41+00:00"
+    },
+    {
+      "title": "Ірландська пресиденція ЄС досягла згоди щодо трансформації фінансових ринків",
+      "summary": "Ірландська пресиденція Ради з питань економіки та фінансів ЄС досягла політичної угоди щодо пакету законодавчих ініціатив, спрямованих на трансформацію фінансових ринків. Цей дипломатичний крок завершує переговори між інституціями ЄС щодо реформи фінансового сектору, що є офіційним рішенням міжнародної організації.",
+      "source": "EU Diplomacy",
+      "published": "2026-10-13T09:40:40+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Британії закликав ЄС підтримати енергетичне перемир'я для України",
+      "summary": "Міністр закордонних справ Великої Британії звернувся до європейських партнерів із закликом підтримати ініціативу Володимира Зеленського щодо встановлення енергетичного перемир'я в Україні. Це офіційна дипломатична позиція, спрямована на координацію міжнародної підтримки та захист критичної інфраструктури України від російських атак.",
+      "source": "Diplomatic Visits",
+      "published": "2026-10-13T09:34:36+00:00"
+    },
+    {
+      "title": "Азербайджан і Лаос ухвалили спільну заяву та обмінялися документами",
+      "summary": "Лідери Азербайджану та Лаосу ухвалили спільну заяву та обмінялися відповідними документами. Цей дипломатичний крок підтверджує офіційну взаємодію між двома країнами. Текст джерела не містить додаткових деталей щодо конкретних умов угоди чи дати проведення зустрічі.",
+      "source": "Treaties & Agreements",
+      "published": "2026-10-13T08:43:07+00:00"
+    },
+    {
+      "title": "Албанія та Ізраїль підписали угоду про співпрацю в енергетиці та кібербезпеці",
+      "summary": "Албанія та Ізраїль офіційно підписали міжурядову угоду про співпрацю. Документ охоплює два ключові сектори: енергетику та кібербезпеку. Ця подія є конкретним дипломатичним кроком, що закріплює формальні зобов'язання між двома державами у вказаних сферах.",
+      "source": "Treaties & Agreements",
+      "published": "2026-10-13T08:39:50+00:00"
     }
   ]
 }

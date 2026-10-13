@@ -67,6 +67,7 @@ def _normalize_post(post, channel):
         "title": title[:250],
         "summary": summary[:600],
         "source": str(post.get("source") or "")[:100],
+        "publisher": str(post.get("publisher") or "")[:120],
         "channel": str(post.get("channel") or channel),
         "link": canonical_link(post.get("link") or ""),
         "published": str(post.get("published") or ""),

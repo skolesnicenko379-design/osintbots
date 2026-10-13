@@ -13,6 +13,7 @@
     "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
     "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
     "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
+    "https://militarnyi.com/uk/news/vyprobuvaly-mars-4-4-dlya-borotby-z-dronamy",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjFIZEpSTm92M2JkQUN4MHcwM0FycjBweW5HdFZ1aVhrM1JtdFpnN1g0Z1p3b2pOWHBTSXBOM0oyd0g4ODhzTjd0ZU94SmVENF9hRFBVOURCaTNoWDRVVnAyc2hmQUQyUjNhYkVQUHU5ZmRkQTYwMF9hUlpHTHdtS2JHaTNSYU9kS2hMM0hFVzYyTE8tbGpUdl9LdllieWRaYS1HQzltUzdSa0FWdmtiOWtHcTNXSE94aVJyYXhZNEtvYWhNdWM3eVRzZWpoWlZZbjFETzhB",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUl5RkZlbkJPR2lGVWhjeUxBYTFveGJybi1OdjU1ZEhEaE9RaGRHekZia0NpcjE4dkNCbnBqUmdxSGVzVWtRTG5DNUtKR2RPeDhSZUxFWkMtb2xZMVFIQkk5UGd5SUhJeHlCcmN0R2ZLMEhBUXpldm5YeUNvTGliLWg4NVJ2UjRkeWdUTVkyMUtrSVJfWFFReFcxMDE5SS1BTVhCS3M2VnRMcF81OEt3NkdZNFNtakJBcGNBeERtVXhxRjZzbndtR3J6WlRiUHBVejdBQlhiLTFvV3M",
@@ -614,6 +615,14 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg",
       "published": "2026-10-13T08:55:03+00:00"
+    },
+    {
+      "title": "Чехія випробувала бронеавтомобіль MARS 4×4 з модулем Gladius Twin проти дронів",
+      "summary": "Під час випробувань 25‑го зенітного ракетного полку перевірив здатність системи Gladius Twin виявляти та супроводжувати малі БПЛА, використовуючи радар і оптико‑електронний комплекс з денною камерою, тепловізором і лазерним далекоміром. На платформі MARS 4×4 S‑330 Hard Top встановлено два кулемети калибру 7,62 мм, які автоматично наводяться на ціль. Така модифікація розширює можливості короткозонової протиповітряної оборони Чехії, доповнюючи вже заплановані системи з ракетним комплексом RBS 70 NG.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/vyprobuvaly-mars-4-4-dlya-borotby-z-dronamy",
+      "published": "2026-10-13T09:25:28+00:00"
     },
     {
       "title": "Британія закликає ОБСЄ звільнити українських журналістів",

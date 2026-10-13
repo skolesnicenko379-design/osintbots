@@ -1,8 +1,6 @@
 name: Economy Bot
 
 on:
-  schedule:
-    - cron: '35 */2 * * *'  
   workflow_dispatch:
 
 # Єдина черга: спільна історія не перезаписується паралельними запусками.

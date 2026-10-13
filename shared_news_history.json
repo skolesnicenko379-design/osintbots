@@ -7,6 +7,7 @@
     "https://breakingdefense.com/2026/10/from-requirement-driven-to-market-ready-rethinking-how-defense-technology-reaches-the-warfighter",
     "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots",
     "https://breakingdefense.com/2026/10/mojave-stol-and-gray-eagle-25m-complementary-capabilities-for-the-modern-battlefield",
+    "https://breakingdefense.com/2026/10/teledyne-flir-defense-releases-new-compact-counter-uas-radar",
     "https://breakingdefense.com/2026/10/telle-talks-manufacturing-rodeo-supply-chain-weak-links-ausa-day-1",
     "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
     "https://gov.uk/government/news/back-zelenskyy-and-ukraine-with-an-energy-ceasefire-foreign-secretary-tells-european-partners",
@@ -19,19 +20,23 @@
     "https://militarnyi.com/uk/news/gretsiya-stane-habom-iz-remontu-x-bat",
     "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
     "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
+    "https://militarnyi.com/uk/news/obstrilyal-tsyvilnyh-vyvedennya-z-kupyanska",
     "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
     "https://militarnyi.com/uk/news/sting-ocholyv-veresnevyj-perehoplyuvachiv",
+    "https://militarnyi.com/uk/news/taliby-pobuduvaly-tuneli-poblyzu-kandagara",
     "https://militarnyi.com/uk/news/tekever-vidkryv-predstavnytstvo-nimechchyna",
     "https://militarnyi.com/uk/news/u-ssha-prezentuvaly-bmp-wolf-zaminu-bradley",
     "https://militarnyi.com/uk/news/ukrayinski-moryaky-vidpratsyuvaly-znyshhennya-min-za-dopomogoyu-pidvodnyh-droniv-seafox",
     "https://militarnyi.com/uk/news/vyprobuvaly-mars-4-4-dlya-borotby-z-dronamy",
     "https://militarnyi.com/uk/news/yaponiya-pryzupynyla-kupivlyu-tankiv",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVZqM1kxMzhEZDd5TFRURktkRDE1N19HdWR1bkd2NWlGbzc2eTJ1NVp4d0EwS2UydE1jcnJIV2JFODduN1RaVXRnXzVIRFJxckx2RFV5eFcxb0k2a01qQncyVWJPcV9hWm4zaUl4bnQ5Zk9Cd0dQRVRQS3B1bFdUckYxVUEzbEpKT0puaFdmRm41Uml5YUMyR2JBaDZ3cTZIeFBmbkRZZ3l5V3JxSG1FVVVPb1Z0eDZsdUdFWE5sYjFCUlhDbVk5ZXFTTUcwd0k5UE9NZg",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjFIZEpSTm92M2JkQUN4MHcwM0FycjBweW5HdFZ1aVhrM1JtdFpnN1g0Z1p3b2pOWHBTSXBOM0oyd0g4ODhzTjd0ZU94SmVENF9hRFBVOURCaTNoWDRVVnAyc2hmQUQyUjNhYkVQUHU5ZmRkQTYwMF9hUlpHTHdtS2JHaTNSYU9kS2hMM0hFVzYyTE8tbGpUdl9LdllieWRaYS1HQzltUzdSa0FWdmtiOWtHcTNXSE94aVJyYXhZNEtvYWhNdWM3eVRzZWpoWlZZbjFETzhB",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUl5RkZlbkJPR2lGVWhjeUxBYTFveGJybi1OdjU1ZEhEaE9RaGRHekZia0NpcjE4dkNCbnBqUmdxSGVzVWtRTG5DNUtKR2RPeDhSZUxFWkMtb2xZMVFIQkk5UGd5SUhJeHlCcmN0R2ZLMEhBUXpldm5YeUNvTGliLWg4NVJ2UjRkeWdUTVkyMUtrSVJfWFFReFcxMDE5SS1BTVhCS3M2VnRMcF81OEt3NkdZNFNtakJBcGNBeERtVXhxRjZzbndtR3J6WlRiUHBVejdBQlhiLTFvV3M",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2RtY2Z2bi1JUnMtdlBSc2ZSUzVnbkVvUWdRMlVKdXdiQlJNWDFaT1AtTEswd2FQUkpGelZ0S1FXdEtFblZqZ2JENlQ3VW5ycWRleS1FQ1NEemFZRDBMcWFsRTJqREF2MG9idHZHUWlLdEN4MDh1NkV6VEVPUzZIcXA0cDVucEtxSVFOeXZFcG9IMXZ1djZ1NWtuekFLdWV3WFRMcHozZTRUNFE5SnVGb01SRWtJSzhncENTYnlkTTQ0N1Y5VHlmcU9MYmFJanU1NkxoRGlLSzVJMGc",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFhdXRXMGJQM2YwU3IwZ0NvMjE2OXcxSXRuWkkyQUtRVklmZjBkLURuUy1DMFV6V0pOcEJaZlNzal94OEN0bGJWWmF4RlBCOEp6NWgtRDdZdmRyY1pTQVBYSlRLOUpkNG43TFZHWkRJNWMtQzk1VUtaZWI2a1ExWGliR05vcWROV2twT0x2bmV4Vm1wX2I1ZktmUW5nUnNFc0ZzRTY3cWt6ZG9ncEhkc0V4b09WcHB3VmhSTW9sNENoMzdicGVSSTljOTJvaDRBRm81cU9yLWVpamI3",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSGR0Z3ExU3ZTcGZCZWpEYlFRZ3ZPVU41MjUwVnZmT2JmWDVBOTl4VVJpNUJzWDU2TEdNQjJVRVpfQklwdldlU3pOdTVNejNUbHdMcWVuZmk5eFI5UGtqdWlUbE4zd3FqbVNLZ3Z4WG1zQVRQa1dRbXlQcEhTSnlMVXZsUnladjc4bk5PaU1LV20xczFfQUk1Y2dxWWU0Rk1WeHA4SlpfdW1FczlBbm52OWxjX0hldHNIYXZoNFN5ZDB1eTNYdUhTNjVoZ3VENnZpNzByRWNNVlp3Tk9ZNzFYWDJBd2Mzdw",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVExqME1GLXdaMzQ2eExKV0tGenFfU3hiTFJjWWpXc1p0Ykl4TUtXVnBMel85TFB2cXlFOW9IVHdYbmZ5Q0RmVFRPMWJtMU9GLUtDNnAybEIzS0w4am9NRnhJUm5xSE5HVU8wbU9xQktZRVZCTlJPUkdraXBZOVdKV3lIZ2RsNVJ1X194aVJ4LUg1U3FwbDhONW50MFUwcElyQU14b0NmMVVTa0JHdWN3MVlzSDJ1UElaWnAwZTdnTHNkUmZyeGlLMlRic3BJR0JqX0VRWENnYTBQNG5UakZTckxMWnhZU0E4NkdTYmliYUs2TWPSAfMBQVVfeXFMTVRMajBNRi13WjM0NnhMSldLRnpxX1N4YkxSY1lqV3NadGJJeE1LV1ZwTHpfOUxQdnF5RTlvSFR3WG5meUNEZlRUTzFibTFPRi1LQzZwMmxCM0tMOGpvTUZ4SVJucUhOR1VPMG1PcUJLWUVWQk5ST1JHa2lwWTlXSld5SGdkbDVSdV9feGlSeC1INVNxcGw4TjVudDBVMHBJckFNeG9DZjFVU2tCR3VjdzFZc0gydVBJWlpwMGU3Z0xzZFJmcnhpSzJUYnNwSUdCal9FUVhDZ2EwUDRuVGpGU3JMTFp4WVNBODZHU2JpYmFLNk1j",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00bEZmN0ZkNGR2TGJrU3YtbURLcklwNVFTUnhqQ1VacS1TRlNHQnZRM0tBSElEMmlxcmVraXptek4wNWhYUDdXYnJYUVE1OGNS",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zeUFUTWcxUDlaS3lkemJBbi1RMGxES2szRFMtODFrTmJ4OHZxSFlsbWtfRFVpY283WWhRcHo3cUF3N3c0Vi1yTnYxdFNISmk5WnZhYQ",
@@ -50,6 +55,7 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnBGeXhicnpyaWM1NXdzd0JzRHV6b19LSm1RbGV4WFVqUVo4MFNZWE5wOXhLT01tUTVxZmF5MXdsY21iYzNOQTVBQ1J3Ri1XZGJBX2xJbXotYXIwSWwzM2NQemdLZHNLUHd0UXFQOVhaUHhQU0FOekg0LXhCUzVCelhLem9oa1QwaU1TSw",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU9mLU5Id05WdDZwRFJ6ck9JUzRWVnlJbUZZaWVVRUJCWnBtd2N4dDlZdmJlbFBqQWdTUzFoZ3E3YlpLMm5CWXgxRDZsd2k3d3MxTnRDVXJHLVhYcDRWRHJTT0E5b2JlLXZyX1JlbVdUQ2MyV1ZUM2FCRlRUOEU3MmtuSl84NlE1emRETWdhWFQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnMzWUlReURmZjc3cS1FeGdxcEh2SnJCbkRkLVNaT3Fqa3pwOHZQRjJsN3lRQXRBOGNWazZrOEFnWHRvQmNySDVtZWV3SFhQNC12b1VrVi1mQmNmX2JUU1NzQlU0ajNERXpseXVBaHVNWm5PTzVneEpFbE1yODVNalRZNURiTDlLN1lyZEkwSldJdw",
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa240NC0wVnB1Vk5TUV90cFBQUTNFa181aWlNck5kdjVodnhYVnJyQWI2SDVCVnVuV0J5LXdyMGVqYVpMdkNBb3Z5RDV0NjB6SVFWY3ZDZE1YRl9lMEh4eTNaZTlqeUU0STAxbi05dUlzVUNYWmdaOXMxaVcwaWkxSnpaendYMEloR0wzclFKSTNVRHd6aXFjU0NBbWhBOFhQWEsyV1RmQWpHX3pyelZMZms5LUpwLXNMZDlyaF9VclM4cUVjSmtEUFVIWGVSRzdFREtLc3RBa010N3IwUDN5aUQ1MFpQMjBoaFUxemdMaFFGRnZLTVlBdlMzU09OblplMWtSRndaaG5MSHM1WEVldGxIaUY",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1B1b2hQWWdNbWNTVElGSTM2S0VYOWhnZW9zMncySUNYTzBpTVNaUk9SUWZEdkhxNkplLUp3bzU3N3hQclNwWGVpZzVnZ2NiWTRQMDYwSU94VFNCNko4a1NDdXJZUUl0STBYU3dJNmJ4UFhFdzlNT003YUQyYlJISE5qNjFTNUNaQVRlM3U5eFBmWXgtVkE",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWk5MRHhHWWNmcEpEeEdiM0xXWjJpYXU4QXp5N2FBWDZsZ0ZIZGtGRktSeUoxbmFoUDFkbDRmenBfbGx5T0F5RjRvbTNqNzRyWGRsTDRuOTRlYTRsa3d2MU9JUnlZNk1zcl9zNkRwblZhZEVHanVDb0pZLWpTWEpicVZuaGtXUC01SnBNXzhhVkdQcXlBVmVPMA",
@@ -79,6 +85,8 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDdacDZCZlp6VmZ0SklIcDZuRGdMOGJqazM1aTllY2NvaUhnZEROSUFLSmV2NVZBZFNDMTdzaGxvNXppaU1sZmNFc25TamZqTkx0Z0NLYncyczJTTjNqWGNweTM5QzZacXF6QlRGaFBMbURmZ2p2RUF3cG9vYUo0V245SXlHNnZDNER6SV9pSUExWXNINmN6U0c5dmJ5OXA0ZlowR2hvTXdLRmkzYUNENUV3YlJITUlK",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHZkY3pHak5vcDk0TjZLQTBmcDREaThyQi0zbGNqTFd5dDhPcjhmVFVSdzRzM2JqVldyRjRhU25tb0l4V1FPcWdWUU1feDl3aHIzR3k0b3p2TVMxamdNU1lQWV9pbFZfcDVVc0JMT25NZG9pd0lCX1Q0UTYxeDdDMVp6dW9TaXo2NWdWTTE0VjhxT0ptRmNKTkFjMmU1cEViUVB3Nmdad0Rhak0ta0F0YkRhWkFiVjlja1E",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUdHcmdZbGdJeDM5Y1oza1JoakNlc2dvSm1oVzQyYkJaY0ktX3RyR0VXTDZueHhvNFo0Vy1tNzBVQ1Z6dTlRRVpFOVBBSlMzRVk2QmFTeEdHYmttTXFfeWNoRjlIbllOaHVLUENNYzB5VkZqTnpNaGRONTdDVWlJNFNONTVoUm9yQmJzMm04X09SVlRXazlIRzgxWnJBc0tQT29NYmxRQ2UzMlhPaWJQQ2FTS1lybzZUTVHSAb8BQVVfeXFMUHctbkVlbk5pcDhGaGpvVGNkQXlCb3gtYnN0enFyOXFWQmNhTTdCZVh6X2VqY1FEQmtqVF9IenJwTmFzbEI2a3lqVmRZS1lGRGhlUzlONUtNQmZpUmVYVlRzaTdmUGNJNE40ZmpWNktYU05jSU9UQTJ2bjhkSVJETmhveGxtNldqbU1DS0FyUW5IZGQtU2pDXzJzR0ItcEF1b1FxNzF1TkhwSURKVWRDUWo1ZU8tYmV1TVRTU1RzWEk",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHFsV3F4ME1EWFA1ZE80eFhBUzU4Rnh5SERQT3FSSXBVOWhUWjY5dGJEZmZzaktnNk84MzNERkgtZW5LbkFabUVpRFpET0xnVEtPWjBpVUdkd3Q0SGhESFF1Z2dzRGk3YXhNbU44d1E2NW9TaU5VbkQyblV3X2JoWUZHa3ZNbDNVdUtpTTFsOThvSVhfVEdZb0RiOUJSNzdCWG92TmRBbHAwbnZ0UnpJQ0g3Yktqd3dCNFRVWA",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXNIZERCdF91V1V1aFl4TDZmdndzdDU0ckJ6Y2NLLWRqVm9OTmFTTzRnOC12VFI0NDBwUldjdzVLcVpDTV9qeGI3MUZCa1psMUg5NjJtUDc4aGR3dmhNUFA0SzdJNl90alh5OUFjZ0xZV0x4dzREYW1DV3o0cnA0UHhTNEE5VWdQU2pqbHVCa3I1eHZuOFB2NnNlM2ZkX3RzSzdjUlB2QzZaZzVfYm1OaXZzaVlsS3UtejZsMA",
@@ -93,6 +101,7 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEFxWDc3aEk3bnJpOTBsYW5TRm1mZkN4WDR1UTU1Vll1Z1AwZ19OM3Zld1ZEelFta2cwU2FOaTQzSXVpQTNYWFFqOEJjajl5ZUxsZld4Y0kyNmFhbjdpU3RaX1gzZHJ5UlJDbmc4MWdNYXI5VXppWUF4T3hDYmtlYXl3Q1ZMUTI5WG5qLWU5NDZMYU9UbnpXSng4OHp3X2U5RW5vN3JvUVoyVGpob0dqcm9jeTNBYklWb2Q4NkdtRWVrSXFFSFlfWg",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHFmSEE4Y0JaV1oya3RvaGlQM3V4QkV5MzVOQ2xIN0xPWmZtRkZMVmtzNVY2MHdSUmlJMk5UNEZzYnVLeXFsT0h1enE5cUxKMkw0QW5nR1lfY09HZE9NX2FSVVhMaE82UjVaMDlDaVRBQ0Ffb0RCZ3hPZ0lNUkp6ZENiak1ENXBGMXVxT3lBTG9ocDRyOV9QRDk4WWNGNlNjaUZFN2dyenV0dW5FbDRZSC1GZWRvOS05SWpsUnBjMkdYVzRDbTVpdXpn",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc01qVGpMb3hDNEhoR21WTkJPbjlKTVRCMXJ0dk1UekhjYzJ4enBPV2YwNmh1N0xKNzN1SWlHdEYzRHlZeDJTbTJIZzQyWWU3SDFFcHFjTGd6SlJZVmJ3MHN2ZE1BNVhxaW1MWUk5VWR1WGNXQnR0MVptTkxHYVdfbUh3aXJQVUtjSjd6aVpnQzVXMl9uWm5ha3pfTHJUckIxbjVHWEo0V2NvMEVBV251Tmo4LVZjblNiVFpGR0N0TFkxR3E2Sy12ek5B0gHKAUFVX3lxTFBzTWpUakxveEM0SGhHbVZOQk9uOUpNVEIxcnR2TVR6SGNjMnh6cE9XZjA2aHU3TEo3M3VJaUd0RjNEeVl4MlNtMkhnNDJZZTdIMUVwcWNMZ3pKUllWYncwc3ZkTUE1WHFpbUxZSTlVZHVYY1dCdHQxWm1OTEdhV19tSHdpclBVS2NKN3ppWmdDNVcyX25abmFrel9MclRyQjFuNUdYSjRXY28wRUFXbnVOajgtVmNuU2JUWkZHQ3RMWTFHcTZLLXZ6TkE",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVQRXdiQ0JjcHNkMTRUcGdwbHZHSmpHZkZ1bVNYNHR2WTFsQ05aX04xcWEwejdaYk5ldEloblJvMXV0TW5YeEpvQ0RoRGlvOXVTMlZZQXQxN0hnc01TR1h3Qkwtb2t3emh4ODZWWC0zXzJHcE04MXZ1TUxGMFM5YUJMcUEzVmxCRHlLeDcwRC1wbWkyLXVzaXFfZS0yVE5wMTNoUTd5QUxWYUJIekRnWEJNTnNkbUtYejFtRVFhLXBvSWlrVkdRbWItSdIBywFBVV95cUxQTVVQRXdiQ0JjcHNkMTRUcGdwbHZHSmpHZkZ1bVNYNHR2WTFsQ05aX04xcWEwejdaYk5ldEloblJvMXV0TW5YeEpvQ0RoRGlvOXVTMlZZQXQxN0hnc01TR1h3Qkwtb2t3emh4ODZWWC0zXzJHcE04MXZ1TUxGMFM5YUJMcUEzVmxCRHlLeDcwRC1wbWkyLXVzaXFfZS0yVE5wMTNoUTd5QUxWYUJIekRnWEJNTnNkbUtYejFtRVFhLXBvSWlrVkdRbWItSQ",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX2otaUhGTWtRZzdxZFBDaEJkSGl6Q00zN0lNN0hLa3hjdnFJY1pBZHZtYU1DN2dodmlUbjkxOVVLRFIwa1E4eGVtZUYwMU9Pb1NaWDFRa0dhUXBWLUlycjVDb2xER1RUcTVkS2lHSmpOZGVHa1NnalpNYUNROU1mdDd0Qnc5dzFtWFBiWGJOWFdDOEFKTVV6bFFfUEZ2Yjl0RmczbmpieHJwX2FTQTJWZFJnZkVJSzZMUlVYYzlpSU5EZXRtM0ZrNmZiMDXSAdIBQVVfeXFMTnhWSl8xajhvZTZZbnZxUFpacmd2QTd3SnBtalFmUVlsejVZLUlCb0RpcUFNTmxDU2lnZTdlc2FUWnZEU2x6Q3J5aGttZmVwV1F1TDNtb2tweG9nNWtSOXpUTFF6SkNIcms0eFRGUU9yb1NYdDdkVkJhZ3lkVW1LbWdDM2RlVHgzcFd3Z0RVVkxza0hzOHZVV3hteUdkSjFsbDBWN1lxaXY2SURNZzZ5OVdSckw0YzJaeEFKbkRFUTU3LTZTMHJsVDFwZjZ3ZnYzd09R",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM"
   ],
@@ -530,6 +539,14 @@
       "published": "2026-10-13T01:22:59+00:00"
     },
     {
+      "title": "Північна Корея та Росія домовилися про розширення співпраці у сфері ліквідації наслідків стихійних лих",
+      "summary": "Північна Корея та Росія досягли згоди щодо розширення двосторонньої співпраці у сфері реагування на стихійні лиха. Ця угода зафіксована в офіційному документі, що підтверджує встановлення формального дипломатичного кроку між двома країнами. Деталі конкретних механізмів взаємодії чи термінів реалізації в наданому тексті не розкриваються.",
+      "source": "Treaties & Agreements",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVQRXdiQ0JjcHNkMTRUcGdwbHZHSmpHZkZ1bVNYNHR2WTFsQ05aX04xcWEwejdaYk5ldEloblJvMXV0TW5YeEpvQ0RoRGlvOXVTMlZZQXQxN0hnc01TR1h3Qkwtb2t3emh4ODZWWC0zXzJHcE04MXZ1TUxGMFM5YUJMcUEzVmxCRHlLeDcwRC1wbWkyLXVzaXFfZS0yVE5wMTNoUTd5QUxWYUJIekRnWEJNTnNkbUtYejFtRVFhLXBvSWlrVkdRbWItSdIBywFBVV95cUxQTVVQRXdiQ0JjcHNkMTRUcGdwbHZHSmpHZkZ1bVNYNHR2WTFsQ05aX04xcWEwejdaYk5ldEloblJvMXV0TW5YeEpvQ0RoRGlvOXVTMlZZQXQxN0hnc01TR1h3Qkwtb2t3emh4ODZWWC0zXzJHcE04MXZ1TUxGMFM5YUJMcUEzVmxCRHlLeDcwRC1wbWkyLXVzaXFfZS0yVE5wMTNoUTd5QUxWYUJIekRnWEJNTnNkbUtYejFtRVFhLXBvSWlrVkdRbWItSQ",
+      "published": "2026-10-13T01:43:02+00:00"
+    },
+    {
       "title": "Південна Корея, США та Японія обговорили пуски ракет КНДР",
       "summary": "Південна Корея, США та Японія провели консультації щодо останніх пусків ракет Північною Кореєю. Зустріч трьох країн спрямована на координацію дій у відповідь на нові загрози безпеці в Азіатсько-Тихоокеанському регіоні. У матеріалі не зазначено конкретних рішень чи нових санкцій, прийнятих під час цього засідання.",
       "source": "US Diplomacy",
@@ -818,12 +835,28 @@
       "published": "2026-10-13T11:49:26+00:00"
     },
     {
+      "title": "Іран заявляє про третій танкер у протоці Гормуз",
+      "summary": "Іранська IRGC стверджує про пошкодження третього танкера за два дні в протоці Гормуз. Це загрожує перервами в постачанні нафти через ключовий маршрут. Наслідки включають зростання волатильності на енергетичних ринках та тиск на ланцюги постачання. Інвестори та споживачі мають враховувати ризики для цін на нафту та танкерні операції.",
+      "source": "Енергетичні ринки",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk",
+      "published": "2026-10-13T11:54:23+00:00"
+    },
+    {
       "title": "Czechoslovak Group придбала 9,5 % акцій канадської MDA Space для розширення космічних технологій",
       "summary": "Czechoslovak Group (CSG) купила 9,5 % акцій MDA Space, провідної канадської компанії у сфері супутникових систем, космічної робототехніки та геопросторової розвідки. Це дозволить CSG створити власний підрозділ космічних технологій, використовуючи досвід MDA Space у військових супутникових зв'язках та спостереженні за Землею, а також потенційно інтегрувати ці рішення у свої оборонні продукти. Завдяки новим зв'язкам з канадським ринком та планам спільних інвестицій у європейські виробничі майданчики, група може значно підвищити свою спроможність у космічній обороні.",
       "source": "mil.in.ua",
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/czechoslovak-group-prydbala-chastku-kompaniyi-mda-space",
       "published": "2026-10-13T12:00:54+00:00"
+    },
+    {
+      "title": "Панама вилучає 3 танкери з реєстру через санкції США",
+      "summary": "Панама розпочинає вилучення трьох танкерів зі свого реєстру після санкцій Мінфіну США за перевезення іранської нафти. Подія стосується судноплавної реєстрації та дотримання міжнародних санкцій. Це може ускладнити логістику нафти та підвищити витрати на транспортування. Наслідки торкнуться ланцюгів постачання енергоносіїв і морської торгівлі.",
+      "source": "Мінфін США",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
+      "published": "2026-10-13T12:13:39+00:00"
     },
     {
       "title": "Від вимог до готовності ринку: переосмислення шляху технологій до воїна",
@@ -850,12 +883,60 @@
       "published": "2026-10-13T12:33:42+00:00"
     },
     {
+      "title": "Танзанія фіналізує LNG-угоду на $42 млрд",
+      "summary": "Міністр фінансів Танзанії заявив про близькість до завершення угоди щодо LNG-проекту вартістю 42 млрд доларів. Це найбільша інвестиція в енергетику країни, що передбачає будівництво заводу з експорту зрідженого газу. Угода може залучити значні іноземні інвестиції, вплинути на валютні надходження та боргові ринки Танзанії. Реалізація посилить глобальні ланцюги постачання LNG та енергоресурсів.",
+      "source": "Енергетичні ринки",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ",
+      "published": "2026-10-13T12:39:43+00:00"
+    },
+    {
+      "title": "NioCorp забезпечила 100% продажів критичних мінералів",
+      "summary": "Компанія NioCorp уклала комерційні угоди на 100% запланованого виробництва критичних мінералів. Це забезпечує повне покриття майбутнього видобутку контрактами. Подія зміцнює ланцюги постачання мінералів для енергетичних ринків та може покращити ліквідність компанії через гарантовані продажі.",
+      "source": "Енергетичні ринки",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa240NC0wVnB1Vk5TUV90cFBQUTNFa181aWlNck5kdjVodnhYVnJyQWI2SDVCVnVuV0J5LXdyMGVqYVpMdkNBb3Z5RDV0NjB6SVFWY3ZDZE1YRl9lMEh4eTNaZTlqeUU0STAxbi05dUlzVUNYWmdaOXMxaVcwaWkxSnpaendYMEloR0wzclFKSTNVRHd6aXFjU0NBbWhBOFhQWEsyV1RmQWpHX3pyelZMZms5LUpwLXNMZDlyaF9VclM4cUVjSmtEUFVIWGVSRzdFREtLc3RBa010N3IwUDN5aUQ1MFpQMjBoaFUxemdMaFFGRnZLTVlBdlMzU09OblplMWtSRndaaG5MSHM1WEVldGxIaUY",
+      "published": "2026-10-13T12:41:52+00:00"
+    },
+    {
+      "title": "OPEC знову знизив прогноз попиту на нафту",
+      "summary": "OPEC вкотре скоротив прогноз зростання попиту на нафту через ризики постачань у Перській затоці. Це може посилити волатильність цін на енергоносії та вплинути на валютні курси країн-експортерів. Зростання ризиків постачань загрожує стабільності ланцюгів енергопостачання. Наслідки позначаться на ліквідності сировинних ринків та боргових інструментах енергетичних компаній.",
+      "source": "Сировинні ринки",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVZqM1kxMzhEZDd5TFRURktkRDE1N19HdWR1bkd2NWlGbzc2eTJ1NVp4d0EwS2UydE1jcnJIV2JFODduN1RaVXRnXzVIRFJxckx2RFV5eFcxb0k2a01qQncyVWJPcV9hWm4zaUl4bnQ5Zk9Cd0dQRVRQS3B1bFdUckYxVUEzbEpKT0puaFdmRm41Uml5YUMyR2JBaDZ3cTZIeFBmbkRZZ3l5V3JxSG1FVVVPb1Z0eDZsdUdFWE5sYjFCUlhDbVk5ZXFTTUcwd0k5UE9NZg",
+      "published": "2026-10-13T12:52:33+00:00"
+    },
+    {
+      "title": "Російські війська обстріляли цивільних під час виведення з Куп’янська — «Хартія»",
+      "summary": "Окупанти обстріляли групу цивільних з мінометів та артилерії зі східного берега Оскола, не отримавши відповідного вогню від українських сил. За характером розривів встановлено напрямок обстрілу, що підтверджує використання газогону для виведення під прикриттям мирного населення. Документування інциденту дозволить передати матеріали для розслідування воєнних злочинів за Женевськими конвенціями.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/obstrilyal-tsyvilnyh-vyvedennya-z-kupyanska",
+      "published": "2026-10-13T12:59:44+00:00"
+    },
+    {
+      "title": "Teledyne FLIR Defense випускає новий компактний радар проти безпілотників",
+      "summary": "Радар Ranger R10-3DX – доступне, компактне рішення з високою здатністю до раннього попередження та слідкування за дронами. Його невеликий розмір дозволяє швидко розгортати на різних платформах, що підвищує ефективність протидії сучасним безпілотним загрозам.",
+      "source": "Breaking Defense",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/teledyne-flir-defense-releases-new-compact-counter-uas-radar",
+      "published": "2026-10-13T13:00:00+00:00"
+    },
+    {
       "title": "Huawei перевищила мільйонний поріг виробництва чипів Kirin",
       "summary": "Huawei, яка раніше зазнавала обмежень через санкції США, досягла показника у 100 мільйонів вироблених мікропроцесорів Kirin. Цей факт засвідчує здатність компанії підтримувати виробництво власних чипів попри зовнішній тиск, що є важливим індикатором для ринку стратегічних технологій.",
       "source": "Geo-Economics",
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlhabXlCZE0tS1hVWjhxVzIzSnFMN2c5cC1BMWx6TlAtUU5MY2tKX3dqZkd2VGZOR29fd2p5MDJndXN5NWFXSzRXd2NraE05alNPY043ZTNiT2QxelE3aHRSZGlsUG9qMmtzWjU4S0oyakhzN1VzZWFVYm83M283dldBTWZ2MEp1YlZ5OXR2Y3FQd25fZ0o1ZEdyZUU5VVFERlJ3VGFBNzkwQ1pwc2J4N2MzNFRldTR4aWFNZzJtYjHSAcABQVVfeXFMTVc0bkkyWFlLU3VnSF8zOXVaaUVvZTFiRVJkVktYWFJoTHNJdHlwcm9XY2s1Z3ExU0N3QUZvLTNGeDZvZVp0a1dhdUNTeFRSd2NZeXl6bS10N1ZvbkhRTXMyQ2dHZ2tKQWY2em5vOFJCam1YU1FXb3ZuaUs3SVhISlFfMGs2UXdoc2VWd2FpM1VhdWtQRF82RC1JR0RSeWZvakxwYW94UGliUXNoZkhUR05LS1g2MlJGX042bkd2ZjVF",
       "published": "2026-10-13T13:00:08+00:00"
+    },
+    {
+      "title": "Талібан будує тунелі біля Кандагара після атак Пакистану",
+      "summary": "Супутникові знімки Pamir Watch фіксують підземні об’єкти, будівництво яких почалося 2025 року. Тунелі призначені для укриття сил талібів у разі зіткнень із Пакистаном. Район має обмежений доступ і розташований поблизу резиденції лідера Ахундзада.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/taliby-pobuduvaly-tuneli-poblyzu-kandagara",
+      "published": "2026-10-13T13:23:22+00:00"
     }
   ]
 }

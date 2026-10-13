@@ -117,14 +117,10 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tR3FNUlZ2VGhEYjdHVXBVWkYxbGpUT0lhRlJnNDh2V2VfTnVWSkdnTjhzSGJsbGY2YWdJMzM0S21lSWM1MW1sRzJ2TE10bGFhVU84VmhNYkpsZDBGZnRCV2xhTmNvbHdrQmVTYTY2d18tbzdGQ1hF?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHFmSEE4Y0JaV1oya3RvaGlQM3V4QkV5MzVOQ2xIN0xPWmZtRkZMVmtzNVY2MHdSUmlJMk5UNEZzYnVLeXFsT0h1enE5cUxKMkw0QW5nR1lfY09HZE9NX2FSVVhMaE82UjVaMDlDaVRBQ0Ffb0RCZ3hPZ0lNUkp6ZENiak1ENXBGMXVxT3lBTG9ocDRyOV9QRDk4WWNGNlNjaUZFN2dyenV0dW5FbDRZSC1GZWRvOS05SWpsUnBjMkdYVzRDbTVpdXpn?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUJaQ3QxbnZpTUx1UEFWZUkzWHZxc2JGVTJKVUJ6TEVhOXVnazdKczVONFQ2ZzduZkRkX3Y2NERfUGl4TGpWODI1V2JLbnp6cnBsQUpzWGZRVTdmYVROcHZ5XzVleUtUOWhSSnM0S0drZjRIdDkyaC1wVGY1T1lKUG9RUDhMYTV0OU9BZUF0bGF5alJZcFU2Y3dIYXdCbjBxSVUtOERHQ3JQQm5PWDNNUXRfRTcxcDNQVWUwcHJkcGtTZl9QT2tR?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFhdXRXMGJQM2YwU3IwZ0NvMjE2OXcxSXRuWkkyQUtRVklmZjBkLURuUy1DMFV6V0pOcEJaZlNzal94OEN0bGJWWmF4RlBCOEp6NWgtRDdZdmRyY1pTQVBYSlRLOUpkNG43TFZHWkRJNWMtQzk1VUtaZWI2a1ExWGliR05vcWROV2twT0x2bmV4Vm1wX2I1ZktmUW5nUnNFc0ZzRTY3cWt6ZG9ncEhkc0V4b09WcHB3VmhSTW9sNENoMzdicGVSSTljOTJvaDRBRm81cU9yLWVpamI3?oc=5"
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFhdXRXMGJQM2YwU3IwZ0NvMjE2OXcxSXRuWkkyQUtRVklmZjBkLURuUy1DMFV6V0pOcEJaZlNzal94OEN0bGJWWmF4RlBCOEp6NWgtRDdZdmRyY1pTQVBYSlRLOUpkNG43TFZHWkRJNWMtQzk1VUtaZWI2a1ExWGliR05vcWROV2twT0x2bmV4Vm1wX2I1ZktmUW5nUnNFc0ZzRTY3cWt6ZG9ncEhkc0V4b09WcHB3VmhSTW9sNENoMzdicGVSSTljOTJvaDRBRm81cU9yLWVpamI3?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Підвищення замовлень на металургійне обладнання >36% у серпні",
-      "summary": "За даними ФРС замовлення на металургійне обладнання у сфері промислової дистрибуції у серпні зростав на понад 36 %. Це свідчить про підвищену активність виробничих секторів, що може підвищити вимоги до кредитної ліквідності та спровокувати збільшення обсягів закупівель матеріалів. Зростання попиту м",
-      "source": "ФРС США"
-    },
     {
       "title": "Зростання попиту на вугілля через дефіцит СПГ",
       "summary": "Світовий попит на вугілля зріс у другому кварталі, оскільки дефіцит СПГ обмежив постачання газу. За даними OilPrice.com, попит піднявся приблизно на 2 % у порівнянні з попереднім кварталом, а обсяги СПГ впали на 5 % при ціні на нафту стабільній біля $80 за барель (коливання ±1 %). Зростання вугілля ",
@@ -219,6 +215,11 @@
       "title": "Трамп створив комітет для розслідування Ліси Кук",
       "summary": "Трамп створив комітет для розслідування дій віце-голови ФРС Ліси Кук з метою її звільнення. Комітет під керівництвом колишніх політиків отримав повноваження запитувати документи та викликати свідків, що може підвищити політичний ризик для ФРС та збільшити спреди на казначейські облігації. Підвищена ",
       "source": "ФРС США"
+    },
+    {
+      "title": "Китайські фінансові реформи розширюють зовнішнє фінансування",
+      "summary": "Центральний банк Китаю затвердив нові правила, які розширюють інструменти крос‑бордерного кредитування та підвищують ліміти QDII до 1,5 трлн юанів, спрощуючи процес отримання ліцензій і знижуючи резервні вимоги для іноземних банків до 5 %. Це підвищить ліквідність на міжнародних ринках, знизить спре",
+      "source": "Центробанк Китаю"
     }
   ]
 }

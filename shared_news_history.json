@@ -45,6 +45,7 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0NqbzFZdzY2b2wzLTV2emVwQjJzT05rLWdwVVNzYXJWYzdBejJtVjNtTjdRcGg1dFhfVVVUWlQxRGFFNGZoNWp0YzJRVWlPV1dXYU8zSEdtUVV4WkxUY0VReDBUbDU0NFl4X3RmM3ByVWltVXliay12STItUDI1aW5sbk10ZU9UcUdjX3hTWm4ya2FrdTdjbE5Rb3VPMmVjdFVWX1NvejZfMFE",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVZIclEyVXU3dzFFMzV0dmItY3JUclFLUlZqZlhfMFBOWmdLbVNia0RaZThfajVEcF9yZDVoU0pTOW40VmZCUkNRM1lzdVg1YndYcEgyc0pUQlFUNjd6SUVsYlV4b3NrVGZnbFU1MUlEdEQ0QzhreWhmS2dsUjdhNUlyTWhVODNwQnk1TlZfR3ZZLUk1T2RVLWNZZTYySTJZSE1RYWVLNkFkc1h2b3Rr",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWgwWmU0dlZTdTVDS0pneWhvUjRYR3hsSTVJTVAwcmhWdzZxVXk1ejdQSnpPUHViWWl4VHltQjJOZ3Jla2FBQzRGM1dOOVVGQzFEU0pLNU1IZVdvenYtWjM3Rkd2YllFcW1jY2xOVDNpR09rWG5pV2cyQmtHNjh1enA2dWEyX01Fc25HU0kwT1JZdnlOM2lrREpLT3JwOFczS0kwOVhYczVQRmFxVGNaMXRn",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFk4VUJwYnp6cWcyeHM5c0tyYlhEd2FOOU5CS3Y4MkttX3JzeDctXy1NckllYS1TMFg4R21UMk5hZnl0ME5OQldrS3Q3WllCZC1fYWxxMFBZWlRfQWtoVGxwdml3RlZ4U0VfTXRqWGp0aklFdjhpR1Ryc0NPUmRIQXpVWTd3QTFnUmJBTzdhT1liWkhCa3FwT3U4ZzJObzdHN3NSX1pQNU9VS0todVBGeHZ3aw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2YweV81bkpWNGkyWncyUmJrX0c5aEJySVhfNS1yT19ObXpXb1hjd3VRdllBZ1Y4WmxVTTVjOU5IYjZYSGtBUmxWdWh2M0pTcE5HeHhWazhoV2M4R3FmRGdyOEN0MGZEQlFjeVIweWhWMFhpMFJJZjExaDI5TkZZM3lEMkhOR3AtMmR1dXNuNVZkVDBsdGVyMV9QcTVpdWxpZ3NPelhleG92b3RFS19vcXNDR0ZvN0U",
@@ -577,6 +578,14 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/frantsiya-rozglyane-yadernyh-mikroreaktoriv",
       "published": "2026-10-13T08:27:47+00:00"
+    },
+    {
+      "title": "Китайські фінансові реформи розширюють зовнішнє фінансування",
+      "summary": "Центральний банк Китаю затвердив нові правила, які розширюють інструменти крос‑бордерного кредитування та підвищують ліміти QDII до 1,5 трлн юанів, спрощуючи процес отримання ліцензій і знижуючи резервні вимоги для іноземних банків до 5 %. Це підвищить ліквідність на міжнародних ринках, знизить спреди на юаневих облігаціях і послабить тиск на курс юаня.",
+      "source": "Центробанк Китаю",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg",
+      "published": "2026-10-13T08:55:03+00:00"
     }
   ]
 }

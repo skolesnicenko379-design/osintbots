@@ -71,6 +71,10 @@ FEEDS.extend([
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODELS_URL = "https://api.groq.com/openai/v1/models"
 
+XAI_API_URL = "https://api.x.ai/v1/chat/completions"
+XAI_API_KEY = (os.environ.get("XAI_API_KEY") or "").strip().replace('"', '').replace("'", "")
+XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.3").strip()
+
 def get_available_groq_models():
     if not GROQ_API_KEY:
         return []
@@ -265,6 +269,62 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
     print(f"Groq не зміг опрацювати статтю «{title}».")
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
+
+def analyze_with_xai(title, article_text, source_name, recent_posts):
+    """Резервний аналіз через платний xAI API, якщо Groq недоступний."""
+    if not XAI_API_KEY:
+        print("xAI: відсутній XAI_API_KEY; резервний аналіз неможливий.")
+        return {"relevant": False, "duplicate": False, "failed": True}
+
+    recent_block = "\\n".join(
+        f"- [{p.get('source', 'джерело')}] {p.get('title', '')[:140]}: {p.get('summary', '')[:120]}"
+        for p in (recent_posts or [])[-8:]
+    ) or "(поки що порожньо)"
+    prompt = (
+        "Ти — старший макроекономічний аналітик. Відповідай виключно українською.\\n"
+        f"Джерело: {source_name}\\nЗаголовок: {title}\\n\\n"
+        f"Текст статті: {article_text[:2500]}\\n\\n"
+        f"Останні публікації для перевірки повторів:\\n{recent_block}\\n\\n"
+        "Якщо подія неважлива, relevant=false. Якщо це та сама подія з контексту, duplicate=true. "
+        "Для важливої новини створи title до 10 слів і analysis з 3-4 речень, максимум 500 символів. "
+        "Поясни фактичну подію, ключові цифри/умови та наслідки для ліквідності, боргових ринків, "
+        "ланцюгів постачання або валют. Не вигадуй фактів. Поверни лише JSON: "
+        '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}'
+    )
+    try:
+        resp = requests.post(
+            XAI_API_URL,
+            headers={"Authorization": f"Bearer {XAI_API_KEY}", "Content-Type": "application/json"},
+            json={
+                "model": XAI_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.2,
+                "response_format": {"type": "json_object"},
+                "max_tokens": 700,
+            },
+            timeout=(5, 35),
+        )
+        if resp.status_code != 200:
+            print(f"xAI ({XAI_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
+            return {"relevant": False, "duplicate": False, "failed": True}
+        content = resp.json()["choices"][0]["message"]["content"].strip()
+        match = re.search(r"\\{.*\\}", content, re.DOTALL)
+        parsed = json.loads(match.group(0) if match else content)
+        ai_title = parsed.get("title", "")
+        ai_analysis = parsed.get("analysis", "")
+        if len(ai_title.strip()) < 5 or len(ai_analysis.strip()) < 20:
+            raise ValueError("xAI повернув неповний заголовок або аналіз")
+        return {
+            "relevant": bool(parsed.get("relevant", True)),
+            "duplicate": bool(parsed.get("duplicate", False)),
+            "title": ai_title,
+            "analysis": ai_analysis,
+            "failed": False,
+        }
+    except Exception as e:
+        print(f"xAI ({XAI_MODEL}): помилка аналізу: {e}")
+        return {"relevant": False, "duplicate": False, "failed": True}
+
 def send_to_telegram(text):
     if not CHANNEL_ID:
         print("Помилка: GEOECONOMICS_CHANNEL_ID порожній!")
@@ -368,8 +428,7 @@ def main():
 
     active_models = get_available_groq_models()
     if not active_models:
-        print("Не знайдено жодної доступної моделі Groq. Завершення роботи.")
-        return
+        print("Groq недоступний; для аналізу буде використано xAI.")
 
     new_posts = 0
     checked = 0
@@ -404,7 +463,13 @@ def main():
         )
 
         if result.get("failed"):
-            print(f"Пропущено тимчасово (помилка ШІ): {entry['title']}")
+            print(f"Groq не обробив новину; пробую xAI: {entry['title']}")
+            result = analyze_with_xai(
+                entry["title"], article_text, entry["source"], duplicate_context
+            )
+
+        if result.get("failed"):
+            print(f"Пропущено тимчасово (Groq і xAI не змогли обробити новину): {entry['title']}")
             continue
 
         if not result["relevant"]:

@@ -186,6 +186,74 @@ def is_duplicate_title(title, recent_posts, threshold=0.88):
     return False
 
 
+
+def select_relevant_recent_posts(title, text, recent_posts, limit=12):
+    """Вибирає для семантичної перевірки записи, найближчі до нової події.
+
+    Модель отримує не просто останні заголовки, а попередні публікації
+    з найбільшим лексичним перетином за заголовком і коротким змістом.
+    Кілька останніх записів додаються як страховка для нових продовжень.
+    """
+    stopwords = {
+        "the", "and", "for", "with", "from", "that", "this", "after", "over",
+        "into", "will", "says", "said", "have", "has", "its", "their", "about",
+        "про", "для", "після", "перед", "через", "щодо", "який", "яка", "яке",
+        "які", "цей", "ця", "це", "також", "його", "її", "вони", "буде",
+        "може", "заявив", "заявила", "повідомив", "повідомила", "новий", "нова",
+        "нове", "нові", "від", "до", "при", "між", "під", "над", "або", "але",
+    }
+
+    def tokens(value):
+        return {
+            token for token in re.findall(r"[a-zа-яіїєґ0-9]+", str(value or "").casefold())
+            if len(token) > 2 and token not in stopwords
+        }
+
+    candidate_title = str(title or "")
+    candidate_tokens = tokens(candidate_title + " " + str(text or "")[:900])
+    title_tokens = tokens(candidate_title)
+    if not recent_posts:
+        return []
+
+    ranked = []
+    total = len(recent_posts)
+    for index, post in enumerate(recent_posts):
+        if not isinstance(post, dict):
+            continue
+        previous_title = str(post.get("title") or "")
+        previous_summary = str(post.get("summary") or post.get("analysis") or "")
+        previous_tokens = tokens(previous_title + " " + previous_summary[:400])
+        previous_title_tokens = tokens(previous_title)
+
+        if not candidate_tokens or not previous_tokens:
+            overlap = 0.0
+        else:
+            common = candidate_tokens & previous_tokens
+            overlap = len(common) / max(1, min(len(candidate_tokens), len(previous_tokens)))
+
+        if title_tokens and previous_title_tokens:
+            title_overlap = len(title_tokens & previous_title_tokens) / max(
+                1, min(len(title_tokens), len(previous_title_tokens))
+            )
+        else:
+            title_overlap = 0.0
+
+        title_similarity = SequenceMatcher(
+            None, re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", candidate_title.casefold()),
+            re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", previous_title.casefold())
+        ).ratio()
+
+        # Схожість заголовків має більшу вагу; решта тексту допомагає
+        # зіставити різні формулювання тієї самої події.
+        score = max(title_similarity, title_overlap * 0.9, overlap * 0.65)
+        recency = index / max(1, total - 1)
+        if index >= total - 4:
+            score = max(score, 0.12 + recency * 0.02)
+        ranked.append((score, index, post))
+
+    ranked.sort(key=lambda item: (item[0], item[1]))
+    return [item[2] for item in ranked[-max(1, limit):]]
+
 def record_published(history, link, title, summary, source, channel, published=""):
     normalized_link = canonical_link(link)
     if normalized_link:

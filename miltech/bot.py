@@ -12,7 +12,7 @@ import sys
 sys.path.insert(0, os.path.abspath(".."))
 from shared_dedup import (
     load_shared_history, save_shared_history, is_duplicate_link,
-    is_duplicate_title, record_published,
+    is_duplicate_title, select_relevant_recent_posts, record_published,
 )
 import feedparser
 from bs4 import BeautifulSoup
@@ -341,9 +341,12 @@ def main():
             article_text = entry["summary"]
 
         stage_started = time.monotonic()
+        duplicate_context = select_relevant_recent_posts(
+            entry["title"], article_text, shared_history["recent_posts"], limit=15
+        )
         groq_title, groq_analysis, is_duplicate = enrich_with_groq(
             entry["title"], article_text, entry["source"],
-            entry["needs_translation"], shared_history["recent_posts"],
+            entry["needs_translation"], duplicate_context,
         )
         print(f"[TIME] Groq candidate {index}/{len(candidates)} ({entry['source']}): {time.monotonic() - stage_started:.1f}s")
 

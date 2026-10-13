@@ -2,10 +2,12 @@
   "links": [
     "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy",
     "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots",
+    "https://breakingdefense.com/2026/10/telle-talks-manufacturing-rodeo-supply-chain-weak-links-ausa-day-1",
     "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
     "https://gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
     "https://gov.uk/government/news/joint-statement-on-iran-12-october",
     "https://gov.uk/government/news/uk-hosted-international-partners-to-work-together-in-fight-against-antisemitism",
+    "https://militarnyi.com/uk/news/frantsiya-rozglyane-yadernyh-mikroreaktoriv",
     "https://militarnyi.com/uk/news/kynzhal-na-90-z-elementiv-yskandera",
     "https://militarnyi.com/uk/news/nato-rozrobylo-plan-vidbyttya-napadu-rosiyi",
     "https://militarnyi.com/uk/news/perehoplyuvach-zbyv-geran-5-na-430-km-god",
@@ -409,6 +411,14 @@
       "published": "2026-10-13T00:03:08+00:00"
     },
     {
+      "title": "Телл розповів про «робітничий рідео» та «слабкі зв’язки» у ланцюжку поставок: AUSA День 1",
+      "summary": "Виконавчий секретар Амі Телл підкреслив, що виробництво озброєнь у США стикається з «робітничим рідео» – нестабільністю виробничих процесів, а ланцюжок поставок має «слабкі зв’язки», що підвищують ризик затримок. Він також розповів про надсилання армією мішень-воздушних балонів до Близького Сходу, що демонструє нові тактичні можливості. Ці висновки підкреслюють потребу в посиленні інфраструктури виробництва та логістики для підтримки бойових операцій.",
+      "source": "Breaking Defense",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/telle-talks-manufacturing-rodeo-supply-chain-weak-links-ausa-day-1",
+      "published": "2026-10-13T00:30:36+00:00"
+    },
+    {
       "title": "Золото знижене через нафту та ФРС",
       "summary": "Золото знизилося на 0,2 % до $1 950/унці, оскільки учасники ринку відстежують стабільність цін на нафту біля $80/барел і очікування ФРС залишити ставки на рівні 5,25–5,5 %. Цей рух підвищує волатильність золота на 0,3 % і знижує його спред до державних облігацій, що потенційно підвищує ліквідність ринку облігацій. Зниження попиту на золото може послабити валютні курси розвинених країн, що вплине на глобальні ланцюги постачань.",
       "source": "Центробанк Китаю",
@@ -559,6 +569,14 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMUpXQmRWVVpmUFlZeFRVYW9YX2I1a2ZuUTUxN2VLWG5aZzJqZXlPeThCM1NOWkI4ZzdvU1JSazZQalNPbEl2b0JLQmw3aUpmWDAxRA",
       "published": "2026-10-13T06:16:12+00:00"
+    },
+    {
+      "title": "Французька армія розглядає використання ядерних мікрореакторів для енергозабезпечення",
+      "summary": "Французька армія розглядає використання ядерних мікрореакторів для енергозабезпечення військових об’єктів. У документі «Déclinaison capacitaire d’Action Aéroterrestre Future» визначено три напрями: компактні акумулятори, гібридна бронетехніка та контейнерні реактори. Це дозволить зменшити залежність від цивільних мереж і забезпечити автономію баз, що підвищить оперативну готовність.",
+      "source": "mil.in.ua",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/frantsiya-rozglyane-yadernyh-mikroreaktoriv",
+      "published": "2026-10-13T08:27:47+00:00"
     }
   ]
 }

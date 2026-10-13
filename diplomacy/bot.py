@@ -1742,7 +1742,8 @@ def main():
             record_published(
                 shared_history, entry["link"],
                 result["title"] or entry["title"], result["analysis"],
-                entry.get("publisher") or entry["source"], "diplomacy", entry["published"].isoformat(),
+                entry["source"], "diplomacy", entry["published"].isoformat(),
+                publisher=entry.get("publisher", ""),
             )
 
             new_posts += 1

@@ -39,6 +39,12 @@ GROQ_API_KEY = (
     os.environ.get("GROQ_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
 
+XAI_API_KEY = (
+    os.environ.get("XAI_API_KEY") or ""
+).strip().replace('"', '').replace("'", "")
+XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.3").strip()
+XAI_API_URL = "https://api.x.ai/v1/chat/completions"
+
 GEMINI_API_KEY = (
     os.environ.get("GEMINI_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
@@ -762,6 +768,99 @@ def parse_bool(value, default=False):
     return default
 
 
+def analyze_with_xai(prompt, title):
+    """Резервна перевірка через xAI після вичерпання моделей Groq."""
+    if not XAI_API_KEY:
+        print("XAI_API_KEY не задано; xAI резерв вимкнений.")
+        return None
+
+    payload = {
+        "model": XAI_MODEL,
+        "messages": [
+            {
+                "role": "system",
+                "content": (
+                    "Ти точний редактор міжнародних новин. "
+                    "Не вигадуй фактів. Поверни лише валідний JSON."
+                ),
+            },
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.15,
+        "max_tokens": GROQ_MAX_OUTPUT_TOKENS,
+        "response_format": {"type": "json_object"},
+    }
+
+    try:
+        print(f"Резервна перевірка через xAI ({XAI_MODEL}).")
+        response = requests.post(
+            XAI_API_URL,
+            headers={
+                "Authorization": f"Bearer {XAI_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json=payload,
+            timeout=(3, 25),
+        )
+
+        if response.status_code != 200:
+            print(
+                f"xAI HTTP {response.status_code}; "
+                f"переходжу до наступного резервного провайдера: "
+                f"{response.text[:250]}"
+            )
+            return None
+
+        response_data = response.json()
+        content = (
+            response_data["choices"][0]["message"]["content"]
+        ).strip()
+        parsed = extract_json_object(content)
+
+        relevant = parse_bool(parsed.get("relevant"), default=False)
+        duplicate = parse_bool(parsed.get("duplicate"), default=False)
+        ai_title = clean_text(parsed.get("title", ""))
+        ai_analysis = clean_text(parsed.get("analysis", ""))
+
+        if not relevant or duplicate:
+            print("xAI відхилив матеріал або визначив його як дублікат.")
+            return {
+                "relevant": relevant,
+                "duplicate": duplicate,
+                "title": ai_title or None,
+                "analysis": ai_analysis or None,
+                "failed": False,
+            }
+
+        words = word_count(ai_analysis)
+        if not (
+            ai_title
+            and len(ai_title) <= 180
+            and MIN_ANALYSIS_WORDS <= words <= MAX_ANALYSIS_WORDS
+        ):
+            print(
+                "xAI повернув відповідь, що не пройшла редакційну "
+                f"валідацію ({words} слів); пробую наступний провайдер."
+            )
+            return None
+
+        ai_analysis = re.sub(
+            r"\\s*[\\r\\n]+\\s*", " ", ai_analysis
+        ).strip()
+        print("xAI успішно перевірив матеріал.")
+        return {
+            "relevant": True,
+            "duplicate": False,
+            "title": ai_title,
+            "analysis": ai_analysis,
+            "failed": False,
+        }
+
+    except Exception as exc:
+        print(f"Помилка резервного запиту xAI для «{title}»: {type(exc).__name__}: {exc}")
+        return None
+
+
 def analyze_with_groq(
     title,
     article_text,
@@ -1040,6 +1139,11 @@ def analyze_with_groq(
     if attempted_models and rate_limited_models == attempted_models:
         GROQ_RATE_LIMITED_THIS_RUN = True
         print("Усі перевірені моделі Groq повернули 429; до кінця запуску використовую резервних провайдерів.")
+
+    # xAI запускається після Groq, перед Gemini та OpenRouter.
+    xai_result = analyze_with_xai(prompt, title)
+    if xai_result is not None:
+        return xai_result
 
     # Резервний провайдер має обмежений тайм-аут і одну повторну спробу
     # лише для тимчасових помилок мережі або перевантаження.

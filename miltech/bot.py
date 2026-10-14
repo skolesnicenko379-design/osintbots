@@ -434,6 +434,7 @@ def main():
                 shared_history, entry["link"], groq_title or entry["title"],
                 groq_analysis or entry["summary"], entry["source"], "miltech",
                 entry["published"].isoformat() if hasattr(entry["published"], "isoformat") else "",
+                original_title=entry["title"],
             )
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")

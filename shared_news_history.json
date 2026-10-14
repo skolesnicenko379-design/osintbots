@@ -1,7 +1,6 @@
 {
   "links": [
     "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2",
-    "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official",
     "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
     "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
     "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official",
@@ -10,6 +9,7 @@
     "https://breakingdefense.com/2026/10/from-requirement-driven-to-market-ready-rethinking-how-defense-technology-reaches-the-warfighter",
     "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa",
     "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command",
+    "https://breakingdefense.com/2026/10/missiles-drones-and-air-defense-weapons-galore-images-from-ausas-final-day",
     "https://breakingdefense.com/2026/10/polish-defense-minister-calls-for-us-industry-to-establish-european-facilities",
     "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat",
     "https://breakingdefense.com/2026/10/race-cars-and-robots-on-drones-sights-from-ausa-day-2",
@@ -28,10 +28,8 @@
     "https://militarnyi.com/uk/news/amerykanska-oshkosh-defense-rozpochala-vyrobnytstvo-pershogo-prototypu-dxpv-kaaiman-dlya-niderlandiv",
     "https://militarnyi.com/uk/news/brytaniya-45-mln-funtiv-rakety-lmm-dlya-ppo",
     "https://militarnyi.com/uk/news/brytanski-vidpratsyuval-oboron-folklendskyh",
-    "https://militarnyi.com/uk/news/czechoslovak-group-prydbala-chastku-kompaniyi-mda-space",
     "https://militarnyi.com/uk/news/do-proyektu-doluchylysya-100-pidpryyemstv",
     "https://militarnyi.com/uk/news/fpv-dron-115-yi-brygady-potsilyv-u-rosijskyj-my-28nm",
-    "https://militarnyi.com/uk/news/gretsiya-stane-habom-iz-remontu-x-bat",
     "https://militarnyi.com/uk/news/iran-yaderni-ob-yekty-zagostrennya-ssha",
     "https://militarnyi.com/uk/news/ispaniya-shhe-15-turetskyh-litakiv-hurjet",
     "https://militarnyi.com/uk/news/italiya-kupuye-bezpilotnyky-astore-levante",
@@ -41,11 +39,12 @@
     "https://militarnyi.com/uk/news/obstrilyal-tsyvilnyh-vyvedennya-z-kupyanska",
     "https://militarnyi.com/uk/news/operatsiya-vivaldi-syly-oborony-zvilnyly-zelenu-dolynu-lypove-j-kolodyazi",
     "https://militarnyi.com/uk/news/padinnya-myg-29-na-odeshhyni-slidstvo-rozglyadaye-versiyu-neshtatnogo-spratsyuvannya-rakety",
+    "https://militarnyi.com/uk/news/rosiya-rozbudovuye-bilorusi-merezhu-zvyazku",
     "https://militarnyi.com/uk/news/rosiya-vyprobuye-odnu-z-krayin-nato",
     "https://militarnyi.com/uk/news/rosiya-zbuduvala-novyj-dronoport-geran-5",
+    "https://militarnyi.com/uk/news/sig-polegshyla-kulemet-m250-pislya-vidgukiv",
     "https://militarnyi.com/uk/news/ssha-obmin-rozviddanymy-z-ukrayinoyu-tramp",
     "https://militarnyi.com/uk/news/ssha-peredaly-rumuniyi-litak-c-130-hercules",
-    "https://militarnyi.com/uk/news/sting-ocholyv-veresnevyj-perehoplyuvachiv",
     "https://militarnyi.com/uk/news/taliby-pobuduvaly-tuneli-poblyzu-kandagara",
     "https://militarnyi.com/uk/news/tekever-vidkryv-predstavnytstvo-nimechchyna",
     "https://militarnyi.com/uk/news/u-frantsiyi-mozhut-zupynyty-yedynyj-zavod-iz-vyrobnytstva-korpusiv-155-mm-snaryadiv",
@@ -54,8 +53,8 @@
     "https://militarnyi.com/uk/news/u-rosiyi-yaponskogo-zhurnalista-zvynuvatyly",
     "https://militarnyi.com/uk/news/u-rosiyi-zboyi-bankivskyh-ta-onlajn-servisiv-pislya-ataky-na-datatsentr",
     "https://militarnyi.com/uk/news/urazyly-mistse-zapusku-udarnyh-bpla",
-    "https://militarnyi.com/uk/news/yaponiya-pryzupynyla-kupivlyu-tankiv",
     "https://militarnyi.com/uk/news/yes-ukrayina-2-86-mlrd-drony-ppo-rakety-reb",
+    "https://militarnyi.com/uk/news/zatrymaly-vijskovogo-rf-yakyj-rozstrilyav-vijskovyh-zsu",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV21UcU94VFlsaHZWZDM2TmVVTW9TdTJjTVE0QVRpSEFBV1pIdXlaemg3MGV3LVdmYmRJWHkwb00xaFlrWHAyQWpBNGdoMU5qaFhreFpaNE5uMTVOdFdBQjlrcU4yOTIxZ1N1VGtsM09TbUN5V0FKMkZEYmtseDB6OG5qNjlqY0lDRnBYS2lqRHpGclRCRHBPYzhiXzlCWUxvNFVvSmZpellIcWw3S2xXZkRFdE9hZUZvX0tXT01TTG9scGFjUVJWTDZxRnRsZlZ0",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczlGQU5QS29lR2ZmWVR3LWx1SmRaR21fclNwdVQ3NXpnMnZsNHY1eFRIazdPazZ5dVlUY1FSalpLQ3lVLWNjNk56cUYtaWc0dXRPSzUzNEhwUUNaZDQ0MWM1NFlzUkpuODJvS0pzQjZYMjhVUjcyVGNXcUFhT1laME5ZcDJyZ3B5bll6a0UweUFGbG51cHV3NllVblRVbGh5SWR6T0xKRlgyZ0xWNk9veGN6MDV2SGJOMFdkN1lFdG13NGhpd1pYRGRDYjZ4NVJVWEE",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaVZqM1kxMzhEZDd5TFRURktkRDE1N19HdWR1bkd2NWlGbzc2eTJ1NVp4d0EwS2UydE1jcnJIV2JFODduN1RaVXRnXzVIRFJxckx2RFV5eFcxb0k2a01qQncyVWJPcV9hWm4zaUl4bnQ5Zk9Cd0dQRVRQS3B1bFdUckYxVUEzbEpKT0puaFdmRm41Uml5YUMyR2JBaDZ3cTZIeFBmbkRZZ3l5V3JxSG1FVVVPb1Z0eDZsdUdFWE5sYjFCUlhDbVk5ZXFTTUcwd0k5UE9NZg",
@@ -63,7 +62,6 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUgzT09vUEx2MkhqeE8tTjE0WFZhcnd3U2VLMTQyajdOaWJvcTlkV0R0V1NvMERndWNMLWZxVUgzTzN6Zy1ieFV1SjRVY3FXelBrbkhrQUp3Ui1sd0FjR3pVM0hsam02MzdoQmNWS1E4RkQwRzA2RG5LcGVJYWJTcWFWVEdoVlhaZHI0VTdxOF9iUjFWX0J4T0F2VHlMTEctMFREeThlZE1acHNKVGszbE9wOGZtdFNXMUp0cnoycDBtSWFPZ0gxYVRUTXpZS1lLRTBiZEVSaXJtdEE",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVJvRFo4QWtkQ0M2bDZLdVI0aHg5T0N1c0RGQjdfR1EweE5UZXVBcm1tWG1WZGVOdUVXSlVJczZSM0NOSkVnaVV4d0ZoX0o0WGR1UG9MOFZYd2NPeUdfY2kxRVRzUnQyVFhTX1QtenV0bWMzR2dOaFJtZ2E4b3E1VFdOTFIxSU0ySTVHR2xmUDEtVXVUeVlWWWRnMHpBYU9uSmFGSXBsR2xCdndkNnJkZEFTNTI5akxwclFJSGx1elgwbW1pendLb2FYR2tzTXhnd2RsTDdtOGRxNUk",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcXF0UUR0VmFXLWdLZk1URVdSSjN5bVFldEJNNElSZDlSRmpScDE4ckpKOV9pS0RWaWdHTkRyYjh2dU5HOUxxbzk0OWRPTzVTLUhXZnNVRXYxWkJxMmpCTUc3bzdMd3ZSQmlxdDczN2t2QlVpQlRDclctd0NieDVRZjhkQlRTcXEyaEhqMzRRNFVYbE9Ec28xTTVLTGdHQW1pLTJXUlNYQ1hFSkVJM1FQejUzYVN5eVV6OTVvZmlMSGthS2NRdGpqNmdGbGdXR2FMdHB6ZG9STDd3ZXhuUkJ4M3FR",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc2dxd2dzUzhnTXRxZjlRMUhMZFhuVUVJQTJvUjdLU0tveEt4enFuT2FiNkNGN1BQWGR4d3Q4aU1MaGNveEtxSkRJdHdIeEZCUlBfd0VMNUtLV3Rmek42RGF2MkNyV25nYWR5RDZTeUt0Q0RjLXBBbWxoZVF0SmVqM21fV05KSlE1M19WWXctTy1tZU1Dd3Npal9TX0Rrb1pna29uMjlIZ284RnhRMUx5RFFuWDd3STBHMEhQWFhqaXJFNWk2Zm9LQTlFakcxVk1pRmpFaVM0UVAtSzR4aEs0RWFOd3YwNEF5aUpHSEx0d0hqZUU",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ubE5GYUthTmwyMHNHanRCMEZIeVpMbk5teHlJZ1FrTXMwdVk0NU9sTWlldkxGcWM1aU44cFZkdkJrZWdBbWRIcw",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk",
@@ -73,13 +71,13 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMldqZXpEbnUwcl96R09SYmpZZE55TmVfb0JiX0xUSlRTcWlVWmhnVXJkM2FNLS11LXk1RXVJdlFFcGtFMzV3VHNnWURmUlN6V0ZHYjdnMVAtdWJGMWYwd3l6N2s4ZFBmNDdmcC1YRUtEVzZa",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WeVNxSXE2ZUxmaWptQ2t6TG1DR1R3aFViNVZaSG8yNTVOMkJkV3pnTDkydm04RlRIeV9ITDBoaDZRcHNUQ3BkUkhyZWE5WVRBSkV4NEFZVFFGNEJyOFpKanZNSmJlREZHaTV6aDVOVXFEb1FIQVE",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ac29hcU5aenZnUjBBUVd2VG5lOTE3X0FjYlFCb2pZdE1TRl9POWJ2V0ZnZFhZT1lMUnFnVko4LVlDem0xblI2dDFNVU5GZkRPSjhQQnREV2RVa0hYYVltOGpfOHI1b3drT3NUZzhnQzVSZlVRZnc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pLUlJd0RJY1hSZnhvbVhrUGF6enhZbHBKYWJHd0FDdG9rc2hVdFJPbVdXY1BaMjJsbVNFM1hOd044WlNxd0FNTUdtd2lMdUVoY2tMNU9xMURxSXNkbFAyYlloa1ZhTXprYnNfeVlJdFJ6OWNXZlE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZUR3MlhQV1dObkVCazhjaTRRenFjMkJVSmVPT2ZUM2N0TlB0WWluYVUwanYwZENZeV9kT1NuNTA5MUJCSGNhbTBtRmRRLVlHV1dXdjVQTmthbk1CczY4UWI0andBNU1QNTRQYjZsOVVscFpaWXc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pM3BZTEdHOXZ1bEJ4dF9XbWhKbkpyZnNrLVhRWXhyc0dndkhXZXFfcEExSEVqNjRlSy00Uk1vajYtRUIxUVVSSDVtbUoyeENMbmZ6ZTQxUjVfV1p2VEQyTUgtY0xMMDhIZThkOTJpRkVKWFRsb3VYTWZONA",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbm5VTERTSE5pNVA4OU1mZWVrbjRrWE16NzFHb1kzdUJGeXFhOGtqNHRrUnRpcTVUblk1YlY5cFFXSC1sU3FDaFJkTHczdXVOTjhnR3RPZzJUQXEwc2xnaG9SZU9BdE5OYkNvRlBjUHZVa1ZQYkN2WkhtMA",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ESHJaTHRtc2c4ckt5ZWFFc1hpQXE3Q0gwZHZTTG1VUGhLN2VJT1NTMTdUWGNCTDM5Z0g2ZmctU25nVWNlMHhTV3NpWXZVa1FXSlZkbWhXbUZvdlhmdnpxbnFZTFV1RERfLVlFeW9kbVk4YzFkTzRWeE1n",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpPeUc1RUpRWlBGUnczZ1g4N1ZmMlBpY1cxUEREZzd6RnEtYm1aYmJzMnpoTnlJOEUzXzQ3M3NZNS1lbW93M3FDRWRFUC1jRktlU21VVmRlWm92Y2pJQU5pSExEYnNVemV4bGNXZmdpV1hpY243Rk5BY2VkVXQ5UTZROEw",
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjd6RXhYU1M4dnY0RmlTcll0Vml2RzdjdFNGU0szZ25VVTdHWmh2V2hvZ2NfLWJ3Y0N5S3Awa2FrSENLRHNUM1JwM3d3aldBY1IyNi1HRjd5V1NUV2VnQklzb1VDZXhmSXl2Tmd3SDZRMjV2R2dEbmpFVUNObDU4ZHhpa29felZDci1YdHRzeHE3bHh6a0VHMkJZaEhPTVZsTHpBMllObTE5VHNpWTFNQndHd1VSNF9OMTJkTTZQTDFlV3BMSzl5VUtxXzhyeExFQWhpLWVGRjVmSHphUWx0clRQXzU2cTNUSGgzLUtHdmNUcnBjbFprdWZCVV9HREdSNWtIQ1ZR0gGLAkFVX3lxTE9UQmRkbWh2TjNIRWZlVVVzVXRuWWFuU1ZTNjBnSmtqbVc1UDBwVDhrejlXT1c0VWEyVUFPbXNkdHdaMkJLR1d3YW1Tal84T2hmQWtNRUd6LVBnczNFRUhmTVhIQ1dRWUVtSFhLMjhuS0o5ODRtbHN3QlNsMlVJQjk4cVc5bE5iNVZIMWFKZ2RfdFl3QzFqSEdhWklval9vWXRPQjV3ZVc1Q25NdjFZV1JfSkVqT1c0OFgxaTFMTW5MVm5DMXFZTVE4WkhpTFpiREpnWGR6eXlJRHNKMDF0RVFlRGdkMjhEV20zNE4wY2toMlBkLUdSaG9KU2ttWU41QWhLZFozSmR2ZzZTbw",
     "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXRMaHJVY21MMGQydjQzNGh2cXFSUWpIaUNac01nWi1JOWFqV1BmRXJFcVl5VzZLUjZTRHVIYlFTNVlWa2hnS0F2VktXa0lpWUw4aHYxN2Ywb3ZYRHJhN3RTUndZV0w3VHJPS3BxdlVsbVRiR2xEb3NTOUNQYm5wOXZ1ZFNvRW5YS0E3VjBab1VudnljVHVGM1ZvSlp2ekY3TTI2S0IzNmZmQVV4OVhYNkNhdTNDSjJ5M0pBVGRpMkFRT0daQndCc3JWMkVRaUxBcE1KRW1kazF6ejdqeEVZcHVVWG9CMHRtYzkwTGpRX2puX3pYS3Ryc3RtNGs2ZjVoN1VsNFUxVQ",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdUVRcHRfelVZVi1rdlpHdEtyRzFScDlSdDNKYVdIbXdVdTl2cjNucmxGZEhYQUpBNEt2OHZ1d3ZGSnhfUDBaQnprclpCeEh0MU1GVjMwby1MMWM4c191UGhQempTdTg0MnlfSUtCTzRkRlJlY0d6R1ljVllvdFFtOUVUSmROZ3lQcHBqUVN0R1Iza25aRUNaVW9yaTZsdEdmTE1UR2hFNEhkZDVnQ3pmd0FfdjFLWndtbDN4Q3NCSm1PM0xucHB1MHJrMm5sVUhyQ3RmcUduMVlyUlF1bmpCalpHcUxOOC1lWjItM0NRSlc0eGpOUGpZSV9zcGpxbXhaRE1KNktZbFA",
     "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkRMQlpjNDYyd3FXcFBwaWhaMVFqV2tBN0NKelRFb0pBMmZISWJNdWFDUjgwd0ozWEhiaVhwMnZmbmhselpkNXBQdnFDbTBGdmpPNTVqZER1dUtoRC00WVF5dWhFM0lSUkt4SnBtVU9YM1pHaDVKcDhibDBWMXJGTm02YVVGQWZyajdVVjZlTVV3cklvSlBxMmphRzBxeTFnS0V6MGUycjloY0JfbzhxeXpJLUY1bFNaa3VqSVltMGJKc2tUa3ZocVZaRW53WEJpVl9WS3lLUFAzeVdxblRNdnJpQ0JxTWhIYlJOVDlfZG9Ea0FJMDNKOEVPUVJOZU1OVWg4WkQ5bDBzQQ",
@@ -93,12 +91,14 @@
     "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa240NC0wVnB1Vk5TUV90cFBQUTNFa181aWlNck5kdjVodnhYVnJyQWI2SDVCVnVuV0J5LXdyMGVqYVpMdkNBb3Z5RDV0NjB6SVFWY3ZDZE1YRl9lMEh4eTNaZTlqeUU0STAxbi05dUlzVUNYWmdaOXMxaVcwaWkxSnpaendYMEloR0wzclFKSTNVRHd6aXFjU0NBbWhBOFhQWEsyV1RmQWpHX3pyelZMZms5LUpwLXNMZDlyaF9VclM4cUVjSmtEUFVIWGVSRzdFREtLc3RBa010N3IwUDN5aUQ1MFpQMjBoaFUxemdMaFFGRnZLTVlBdlMzU09OblplMWtSRndaaG5MSHM1WEVldGxIaUY",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2hZcFYtYVNMeTR4QjgyNEZEOVVCQ2pRUF9LbEpMblYzOW5ydGZMYjNvdVIybE45TzFfRklrMElwQ1B3cmVTcEk5eHBRNFJ1ek1LWXZnTzJmbDV1Tk1HNEQzaTgxMFZQdGg5WU84Ny1jQWtmTE5YalNoeWU4Y2hySHRpWTJOd1RZQUlsclhxQ084dlFDQlE",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUExYnFSam5zRTJyWUJWZW9PVVl1a003VS1SZEMzRVpWaVdIRHJqaGZwWTRpd2ZkMzh4ajFvbWxCU2RtMlp2M2VWSWhONDdfcGRKR1o1a1NMV2dXYWhZY3NGbmh1N19mVHhBQzV3X0Z6bEdZU1djMmdvXzhycGQyWEVLdVYtd3pqVzd1cTluSUpyaE43dnc",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXkxWTduT1F6Q1RBOVNab2ZWZWdTRWd0Z3RBcmZSWGUwN1I5MThIaExSQzZmYmszcHBHQzNUdXoyQnFHUXVsYkp3VFdKVW1jLUE2TFBPZXdQeGxhVlY4VThpSWVGUE5VRlNfYWtPczktbGdESEJrcVluaF9JemY4azVNY005NjBNSzhOZGhzb1ZOQUFSTk8w",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2NBMndzYlE3b0lhbU83LW16ZGtVelZqbUs1YTRtM19KWW81VlhmX28zdVBhNUtCaThkRnFWTEU4WmczVTJVZVk2VzVKYTBHOWZQdzBsQkFpbWFCSjVwRl9hZkNsd0VjaUpnMWc3Vk1yUHpuaVFfZFl4YjZZbktzLWZrWG9RSk9Bdk1XcF8yb0NWMEhjTC13",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzVpUmsxeWdTZ1dsYmNGN2d4SVJwVHR4bXVzUDJfM2E4UllSZWY4cE83aTFDRW41Rl9NT2hpV0JwZ2tZeGdVdEhZN0R4YW5WOWxXaUgwQ1BQMDd0cHN0ZjJPYmtJcHh1TEo5NmhmNlFtS19TTzdGUTZ0RlUwOTVDd3FTZ2hkaTFzb0ZFRkRtOFBBUThDRTJPaGtB0gGiAUFVX3lxTE16bmlFSExiZmRHVGlFQ0tGQXJBZEx5YVd2ZERaOUwwaUFuWUJzOVJyTVRMZ01GODRobHB6TE9sLV9TOWpwb25qUS13YlJDVS1Ga2hZNzFQWFdPTDVjM1YwaXJmRFREc3pVR2ZUamw4Z3AtLXlQNWQ0MzB3SEJHUzJHdnBwSGR3TDdjaUtZUHlvc3JWZWtINldIaGQ3b0JTc0ExZw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE4zeDdocVBoWERXR1hxRlU5QkNmbmpTS2ExVWZXUUp5dFNuMTVmWjV2ZEtyTFp4dDRKU1RJOGRCbG5YRXlqUkFHTnBJSVZSTF9BMzRmazAtMW1odUg4UzJxWlE4bW1mQlI2QjJyTUhVUnlORk45R2RRNFB3S1ZvQWlKTndaSURVNFVQeGpobW92ZEFPaGhqRmo5WQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzFsTFNPWXREaFRoejU1MG9fUEpiRFhJY0RERVhBYlRha2gwUkNhc1g2clhic3Q5Y3FrUFNhdS1kRktWdi01MXd2TC16S2dTOGNRb3lmcDNtZ3NvcC1oVlotay13dWhBYWg1T1hsczlSalg1UEJaenF3SHgtOGxMM1QxZWhuNWNFdTZnUF9xYTZKTzQ4WDE0N2Fkb9IBoAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnJ1N2lybVpnSUJVXzFXU1ExS2JYNk44Qk9IWEhRYXhRYk9JRlhOYjJINC0xR19USmNMcVBUZ2dQeHJZS1FDQTMtbEhRM29wMmw4UHFxZkNPeTZMaXROU1VxWURmVnI4a0FVOFRrcmZrZkZXVDYwdlBJUXAtak5vNFJ3SzVScnZjek8tdE54YWJxZ0VNQUlGeWVGbW5jdw",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV0gGgAUFVX3lxTE9GSkxFYmkzazBCV2lucVJWQWZ1R1IyVlhHT29VYk5ReTBhbzUzQ0RRRVZvU24wcE5HcTJmREkzTExuTThUV0swMjluMzdQbGRPQlh5TWdvSDJaYmFyZndMSG9Db0lHSVE3bGJWN0R0Q29IOEZBYjljRXJaaHowUFpIWlROQVJuVU1NazVRTUZyUFBrcGg1Rm11MFNqS1diM1U",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3dreEZ3SVQtTkw4YVlHb2pLcXJSRE1icmwtR3JNTVk4SXZEUGdaeEZ6LXdhZXc5LUFBSGZLWE50NWZROW5KcUNKSnlpWVY4NzNCeHppbk56eHNrMDZXdUZwM0ZFbEtTTjFPblhwZWRBdHNhZDdCUG5aNHFqN3pqNGs5akdSczloWWNMY1A5NjNqNzM5MGlUckpvaUtScnhP",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGlleHVyOE1CSk55Q1JpaUFFNUZ6OWpjbUF5S1pZT1o4N3pPX1JIOUhpT0pfZkxscUR2LWtYaHU5STVwRXlzd3RvTUp2OVF6QjBmcWNJZDZ1MTJUUWNLS2pLdEpaRlpRX1JhUjdmRkdMRFBPZmJfTzZkSWVwRGtFSHc2MFpsUjFIYkVaTU1teElvWno4WjZnR2xxQzczaG5j",
@@ -128,7 +128,6 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc21yVDFjUlE3VG00OERZclNrZGY5WmJnQW8xSDVWOW9uV1FUZDRyazl1Vnk3OHUwRW5rQ1hZTldIMDJ3Tm5VVWdYSDdzSXdxMlpsSjBDTFBxMmdLa1dOS3UyMGxfR21lSEFnYzRtc3FqamhieWVlcWRKZ0F2OFZRQkdDbGd2UnkzdlBwaTU0bUpnMHdXY3ByY0xCbmpscmQ1U09JMEwyT1hCZFBTREVDd194VkVtbVZT",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTlhObEFnSkdHYlI0ZVl5ODJZdTRuUFQ4cGF3NzlPM0NJTWV4SjVtTFZPbHl4Um5hQlVMTm1VWVVocUpPUHN0d1I3d0E1TlIyQVhzMlYxR0pfck1IN0pnb2VKd0YteDR0WVVJR2F3OEk0VHNkNUJZaGVRcEY0VFJqNDliU3dzVGNMNTNFM0FuRElaeklvQVhIVXJ4aGhCTjFKaXdqelZBRlAtOEUtWVBVY3JlaGpzTVY5bkE",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnVON1hVbGN5YnpDeGhrakxrUXlqVXRkYTdDTXR4ZkNfMzRraEFEUjRVZHRRQTQ1QVhFNzZidlg3UGpkcW9kTHhSandYa3J4Q2IyUFU3dnE5bWZHTEUyd2pPMFFndmdtY1NCczFNMlV2Wm1GYWNTZXp4dGhMSW5SV1VaalVkdDRvU2VhMHR4SW9RTmlseTZneFFtQ1RuUnRfcWt4Y1RkRzk0WE15akhKTXZaTlU0MVdleFFN",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm83Vk56cEQzTXI2SzFEUWxUSENaRVZxTTQwX1UwbWJCQ3l1ZUpwWEZubGlmX0VRQVdnSTN0cl90ZGU5RWlQanBHWUNFTDBkUHdCcXNBQUdkTjhFamxxbGNrVlE4WTZIMVNWR283ZWZwMTF1bGVaSngzX1hUT1NDQTFSa2RUa284cmwxU1o4YVdXZThWdXJhc1FhYk4xeDRCTDVESjBybTZxanNwanNBVTI4TDRWUmh6ejV2TWhB",
@@ -144,6 +143,7 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEU1QnFTZEZmNHZkSXM5RHBQOUVPdFJENTUwTDJxYks2ejNOY0lLQUlaSUJISXB0RzlCOUFiNHRpVV9PYTA3YloyR0ktc0xtb2ctRjA2aTIyRWl3UlJGMTBBZk50TW1ZTC05TkdtWFRaYzJvQkF5eVNuYzNTc1RPWEFXMzJrcGEtZTlfbnNDSHlQN2RYWjYxc1lsbTViQVZTNWo3TzhvLV9GUm9vMW9NUlB3bkVSc3hjMi13Q3I3NkhtdV83",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE4ta0RWLWl2Mldjbnc3MVQ3MVRDN2JZVGdJUVV3eDlZXzJ2aUpoYWd0Q2VoLTRlanZwb19zZGxEWFRWTGlhZ2ZDRkJoWDNCclJQdW9aNmdVNVdrSzVGdWZDUWFhN3k0REJTS3lfX3l0c1VCNWZ4QnpTXzlpWHdTNU9HWV9IaEp1RmxjelZOcnhrTnY5b2hKMlZlZmNnb1hpbVlodTk5dXYwNXN6di1SY1dfVjNSdGJVY3JaVERMYk1fLTkw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkRfUlVyZFhKZ1VrWjNsNUQteHo4Y3QtWmVRMnRkQ0tJdi1QZXJQTlA0ZlVINGNTMEdEeTdBWHM3OGJfYy1VZjhUSVdWN1VFMm51NWNjRFVFY3FJSzJBOU5BMEJmSjdnNnBlczNGOHpLeUd4d1pDU3E3eDhVRlMtSHRMWXo4NnJmNWtyTFotSUsxWUVSV2RIOENyZWxqLUFXSU9UZi15STB2ZzZGNTdtUjJsZ2Y4ZkhCMXpuYkNGVnM3TVFhbUFR0gHMAUFVX3lxTFBoNmZtbWZyTkRZMVJNaWVEWDQ0SnByX0c4Zml3MS05azUtYUFQcG4yMnRDTlFRUEVWZXY1QmhMeVJjd2VQcVk0QXJmdVFpMTcyVUdwcm1jZ3FEeGpXRG5sMHJ0WXJMdHNZU2xDUDh6UnAxT1IyNklIRDZTbmRCd0JQT2pYaUFRV1dVNFo1eTQ3Y0V0UWFIeE1kSGhKN2VnbzdNMG5hdGFtWTVYVGtpZ1pzSFFNNGtybUhXZXdkeHc5NUtXNmVNRlBqUzE0cw",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2o0bVE2dGNjUWRhWDNzR3Z2Q1JuSjgtT3NiSjgxQUs1TVhRYVFWRkFFZmFQdjg4WXdXa211SFc1THpLT2lGN25LV25mbElaMXNqUk5pbTIzcENqWERpZ1pySklRMWtCOVpVQUFSbURSTUpZWm9ELTdqOGZGMW5KZ1pjNVBuMWVyeUZpbG1BblJhNnh5alRBaFNudzJ2VXlRYnVVNWE1WEtDYW1neW5POHBXZkpQOFhFZl9HQ3pkME14QmNRZERQQQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkdsM01JSmdkWVViY2tFZ2k5WE51QmZIbEdvTUdndDMtdFd6RDBOTS1BZFE0LXdkWEJGXzBYbXN0MlJESDktUVJKVkFST2tsZU55dU9HVVR5b00wNlM5SngwQnlMVjJ4eXMxYThOeXlPYkl0Tk1LN3ZvZmM3V0ZzcmtyTlRqX3lpbTNjcl9JdU9YZGhVdXFvbVAwV0pobjVFRVEzUmo2Tk5JQXp2bzRRWER1cjQ0SlR2RlRRb3VjQXRlakJneWtJTQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3NoeEg4b2NVTkkxbjN5bWdIbURQR192NTNNSHZWd1RqTTVsbk94ZE43RkVlaDBoQWFrc3MxbXhRc01OM2hOeEk1T2J5eHZvY0VEXzVQZE5ZdEVseUJSY2lTYU94WjNndlNzelZHaE5lZ00xbko4Zlc0N1EwSUpqdGU3ZHIxbndLZTg2UmJFZUZJUndPMUZFVFY5MGhvV182a3dabVBuSm54aDh1aE5sRXNSVHp5U2w4VkN5R19jYlhINkEwVFFybElR",
@@ -153,79 +153,8 @@
   ],
   "recent_posts": [
     {
-      "title": "Армія розпочинає використання AI-агентів для захисту мереж",
-      "summary": "У рамках проекту Griffin Військова частина вручила перші нагороди, що підтверджує впровадження AI-агентів, що сканують мережі на шкідливу активність. Це дозволить швидше виявляти загрози та автоматизувати реакцію, підвищуючи стійкість критичної інфраструктури.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official",
-      "published": "2026-10-13T11:00:00+00:00"
-    },
-    {
-      "title": "Японія відклала закупівлю танків Type 10 через вибух боєприпасу",
-      "summary": "У 2027 фінансовому році Японія не включила до бюджету закупівлю танків Type 10 і колісних машин Type 16 після інциденту з вибухом боєприпасу в танку під час стрільб у квітні 2026 року. Відповідно, запит на озброєння скоротився на 66,87 млрд єн, а Міністерство зосередилося на розслідуванні та заходах безпеки. Це може уповільнити оновлення танкового парку, що вже обмежений до 300 одиниць, і змусити Японію продовжувати виробництво Type 10 до 2032 року.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/yaponiya-pryzupynyla-kupivlyu-tankiv",
-      "published": "2026-10-13T11:04:56+00:00"
-    },
-    {
-      "title": "Shield AI і GEK TERNA відкривають у Греції центр виробництва та обслуговування дронів X‑BAT",
-      "summary": "Американська Shield AI і грецький холдинг GEK TERNA підписали угоду про локалізацію виробництва, створення навчальних і ремонтних центрів для безпілотних винищувачів X‑BAT у Греції. X‑BAT – важкий автономний дрон з VTOL, здатний нести до 900 кг озброєння, має бойовий радіус понад 1850 км і працює на ШІ‑платформі Hivemind без GPS. Така інфраструктура дозволить Греції забезпечити ударну спроможність на островах, знизивши залежність від традиційних аеродромів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/gretsiya-stane-habom-iz-remontu-x-bat",
-      "published": "2026-10-13T11:12:26+00:00"
-    },
-    {
-      "title": "Банк Японії призупинить підвищення ставок у жовтні",
-      "summary": "Банк Японії, ймовірно, не підвищить ставки в жовтні. Ймовірність підвищення в грудні сягає 90%. Це вплине на курс єни та ліквідність японських боргових ринків.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ac29hcU5aenZnUjBBUVd2VG5lOTE3X0FjYlFCb2pZdE1TRl9POWJ2V0ZnZFhZT1lMUnFnVko4LVlDem0xblI2dDFNVU5GZkRPSjhQQnREV2RVa0hYYVltOGpfOHI1b3drT3NUZzhnQzVSZlVRZnc",
-      "published": "2026-10-13T11:25:00+00:00"
-    },
-    {
-      "title": "Sting — провідний перехоплювач російських реактивних дронів у вересні",
-      "summary": "У вересні 2026 р. український високошвидкісний перехоплювач‑квадрокоптер Sting зайняв перше місце за кількістю знищених російських реактивних БПЛА типу Shahed/«Герань», знищивши близько 1 600 цілей. За рік експлуатації (жовтень 2025 – вересень 2026) система разом із новою віддаленою платформою управління Hornet Vision Ctrl дозволила знищити понад 15 500 ворожих дронів, у тому числі понад 10 000 ударних Shahed. Технічно Sting — швидкісний квадрокоптер‑перехоплювач, розроблений спеціально для реактивних безпілотників, що працює у складі дистанційно керованих підрозділів, що підвищує ефективність",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/sting-ocholyv-veresnevyj-perehoplyuvachiv",
-      "published": "2026-10-13T11:49:26+00:00"
-    },
-    {
-      "title": "Іран заявляє про третій танкер у протоці Гормуз",
-      "summary": "Іранська IRGC стверджує про пошкодження третього танкера за два дні в протоці Гормуз. Це загрожує перервами в постачанні нафти через ключовий маршрут. Наслідки включають зростання волатильності на енергетичних ринках та тиск на ланцюги постачання. Інвестори та споживачі мають враховувати ризики для цін на нафту та танкерні операції.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk",
-      "published": "2026-10-13T11:54:23+00:00"
-    },
-    {
-      "title": "Czechoslovak Group придбала 9,5 % акцій канадської MDA Space для розширення космічних технологій",
-      "summary": "Czechoslovak Group (CSG) купила 9,5 % акцій MDA Space, провідної канадської компанії у сфері супутникових систем, космічної робототехніки та геопросторової розвідки. Це дозволить CSG створити власний підрозділ космічних технологій, використовуючи досвід MDA Space у військових супутникових зв'язках та спостереженні за Землею, а також потенційно інтегрувати ці рішення у свої оборонні продукти. Завдяки новим зв'язкам з канадським ринком та планам спільних інвестицій у європейські виробничі майданчики, група може значно підвищити свою спроможність у космічній обороні.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/czechoslovak-group-prydbala-chastku-kompaniyi-mda-space",
-      "published": "2026-10-13T12:00:54+00:00"
-    },
-    {
-      "title": "Панама вилучає 3 танкери з реєстру через санкції США",
-      "summary": "Панама розпочинає вилучення трьох танкерів зі свого реєстру після санкцій Мінфіну США за перевезення іранської нафти. Подія стосується судноплавної реєстрації та дотримання міжнародних санкцій. Це може ускладнити логістику нафти та підвищити витрати на транспортування. Наслідки торкнуться ланцюгів постачання енергоносіїв і морської торгівлі.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
-      "published": "2026-10-13T12:13:39+00:00"
-    },
-    {
       "title": "Від вимог до готовності ринку: переосмислення шляху технологій до воїна",
+      "original_title": "",
       "summary": "Стаття розглядає перехід від розробки, орієнтованої на конкретні вимоги, до готових ринкових рішень, що дозволяє швидше доставляти технології до бойового персоналу. Зосереджено увагу на тому, що швидкість впровадження залежить від того, що вже доступно, що зменшує час від ідеї до експлуатації і підвищує оперативну готовність.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -235,6 +164,7 @@
     },
     {
       "title": "Виробництво нафти ОПЕК зросло на 920 тис. барелів/день у вересні",
+      "original_title": "",
       "summary": "У вересні ОПЕК збільшив добовий обсяг видобутку нафти на 920 000 барелів, піднявши сумарну продукцію до приблизно 28,5 млн барелів/день, що становить зростання на 3,3 % порівняно з серпнем. Збільшення пропозиції знизило спот‑спред WTI‑Brent на 0,2 $ за барель і підвищило обсяг торгів на ринках фьючерсів, послабивши цінову волатильність. Очікується, що підвищена ліквідність на нафтових ринках зменшить тиск на інфляційні очікування в країнах‑імпортерах, підтримуючи їх валютні курси.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -244,6 +174,7 @@
     },
     {
       "title": "TEKEVER відкриває представництво в Німеччині для розширення дронів у ЄС",
+      "original_title": "",
       "summary": "Португальська компанія TEKEVER відкрила офіс у Мюнхені, де планується зосередити інженерні команди, бізнес‑розвиток і співпрацю з німецькими промисловими та дослідницькими організаціями. Компанія вже співпрацює з Bundeswehr, надаючи першу безпілотну систему TEKEVER, а також презентувала нове сімейство важких дронів AR6, здатних перевозити 200 кг на відстань понад 500 км, працювати без GNSS і інтегруватися з пілотованою авіацією. Ці технології підсилюють військову логістику, евакуацію поранених і можливість автономного групового застосування, що підвищує ефективність та автономність українських",
       "source": "mil.in.ua",
       "publisher": "",
@@ -253,6 +184,7 @@
     },
     {
       "title": "Танзанія фіналізує LNG-угоду на $42 млрд",
+      "original_title": "",
       "summary": "Міністр фінансів Танзанії заявив про близькість до завершення угоди щодо LNG-проекту вартістю 42 млрд доларів. Це найбільша інвестиція в енергетику країни, що передбачає будівництво заводу з експорту зрідженого газу. Угода може залучити значні іноземні інвестиції, вплинути на валютні надходження та боргові ринки Танзанії. Реалізація посилить глобальні ланцюги постачання LNG та енергоресурсів.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -262,6 +194,7 @@
     },
     {
       "title": "NioCorp забезпечила 100% продажів критичних мінералів",
+      "original_title": "",
       "summary": "Компанія NioCorp уклала комерційні угоди на 100% запланованого виробництва критичних мінералів. Це забезпечує повне покриття майбутнього видобутку контрактами. Подія зміцнює ланцюги постачання мінералів для енергетичних ринків та може покращити ліквідність компанії через гарантовані продажі.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -271,6 +204,7 @@
     },
     {
       "title": "OPEC знову знизив прогноз попиту на нафту",
+      "original_title": "",
       "summary": "OPEC вкотре скоротив прогноз зростання попиту на нафту через ризики постачань у Перській затоці. Це може посилити волатильність цін на енергоносії та вплинути на валютні курси країн-експортерів. Зростання ризиків постачань загрожує стабільності ланцюгів енергопостачання. Наслідки позначаться на ліквідності сировинних ринків та боргових інструментах енергетичних компаній.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -280,6 +214,7 @@
     },
     {
       "title": "Російські війська обстріляли цивільних під час виведення з Куп’янська — «Хартія»",
+      "original_title": "",
       "summary": "Окупанти обстріляли групу цивільних з мінометів та артилерії зі східного берега Оскола, не отримавши відповідного вогню від українських сил. За характером розривів встановлено напрямок обстрілу, що підтверджує використання газогону для виведення під прикриттям мирного населення. Документування інциденту дозволить передати матеріали для розслідування воєнних злочинів за Женевськими конвенціями.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -289,6 +224,7 @@
     },
     {
       "title": "Teledyne FLIR Defense випускає новий компактний радар проти безпілотників",
+      "original_title": "",
       "summary": "Радар Ranger R10-3DX – доступне, компактне рішення з високою здатністю до раннього попередження та слідкування за дронами. Його невеликий розмір дозволяє швидко розгортати на різних платформах, що підвищує ефективність протидії сучасним безпілотним загрозам.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -298,6 +234,7 @@
     },
     {
       "title": "Huawei перевищила мільйонний поріг виробництва чипів Kirin",
+      "original_title": "",
       "summary": "Huawei, яка раніше зазнавала обмежень через санкції США, досягла показника у 100 мільйонів вироблених мікропроцесорів Kirin. Цей факт засвідчує здатність компанії підтримувати виробництво власних чипів попри зовнішній тиск, що є важливим індикатором для ринку стратегічних технологій.",
       "source": "Geo-Economics",
       "publisher": "",
@@ -307,6 +244,7 @@
     },
     {
       "title": "Великобританія підтвердила підтримку впровадження мирної угоди з Колумбією в Раді Безпеки ООН",
+      "original_title": "",
       "summary": "Великобританія заявила на засіданні Ради Безпеки ООН, що продовжить активно підтримувати впровадження Колумбійської мирної угоди на місцевому рівні. Це офіційне дипломатичне повідомлення підтверджує зобов'язання країни щодо сприяння реалізації мирного процесу в Колумбії через міжнародні структури.",
       "source": "Treaties & Agreements",
       "publisher": "",
@@ -316,6 +254,7 @@
     },
     {
       "title": "Талібан будує тунелі біля Кандагара після атак Пакистану",
+      "original_title": "",
       "summary": "Супутникові знімки Pamir Watch фіксують підземні об’єкти, будівництво яких почалося 2025 року. Тунелі призначені для укриття сил талібів у разі зіткнень із Пакистаном. Район має обмежений доступ і розташований поблизу резиденції лідера Ахундзада.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -325,6 +264,7 @@
     },
     {
       "title": "Італійський фонд Med-Or підписав угоду про співпрацю з Україною",
+      "original_title": "",
       "summary": "Італійський фонд Med-Or підписав угоду про дипломатичну співпрацю з Україною. Інформація походить від джерела Decode39 в категорії Treaties & Agreements. Угода є формальним дипломатичним кроком між італійською фундацією та українською стороною. Деталі щодо дати підписання та конкретних положень у наданому тексті відсутні.",
       "source": "Treaties & Agreements",
       "publisher": "Decode39",
@@ -334,6 +274,7 @@
     },
     {
       "title": "Шанхайські банки прискорюють транскордонне фінансування",
+      "original_title": "",
       "summary": "Шанхайські банки досягли рівня хеджування FX на 8 пунктів вище національного середнього Китаю. Запущено всі шість пілотних програм офшорного фінансування. Це підвищить ліквідність на валютних ринках та спростить транскордонні операції. Наслідки включають покращення умов для боргових ринків і валютної стабільності.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -343,6 +284,7 @@
     },
     {
       "title": "Сі Цзіпін провів переговори з президентом Ботсвани Думою Бокко",
+      "original_title": "",
       "summary": "Президент Китаю Сі Цзіпін провів офіційні переговори з президентом Ботсвани Думою Гідеоном Бокко. Ця двостороння зустріч стала частиною дипломатичних контактів між двома країнами. У тексті джерела відсутні деталі щодо конкретних угод, підписаних документів чи заявлених умов співпраці, тому подання обмежується фактом проведення зустрічі лідерів.",
       "source": "Bilateral Meetings",
       "publisher": "",
@@ -352,6 +294,7 @@
     },
     {
       "title": "Фонд страхування депозитів Китаю недостатньо профінансований",
+      "original_title": "",
       "summary": "Звіт Peterson Institute for International Economics вказує на недостатнє фінансування Фонду страхування депозитів Китаю. Це стосується здатності фонду покривати банківські ризики. Недостатнє фінансування може вплинути на стабільність банківської системи та ліквідність. Наслідки включають зниження довіри вкладників та потенційний тиск на фінансові ринки.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -361,6 +304,7 @@
     },
     {
       "title": "Міністри чотирьох країн засудили відкладення виборів у Палестині",
+      "original_title": "",
       "summary": "Міністри закордонних справ Австралії, Канади, Франції та Великої Британії оприлюднили спільну заяву, в якій висловили глибоке розчарування рішенням президента Палестини перенести вибори до Септемня 2027 року. У документі зазначено, що це рішення позбавляє палестинців права голосу та підриває довіру до демократичних інституцій, попри визнання складнощів з організацією голосування.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -370,6 +314,7 @@
     },
     {
       "title": "Спільна заява про відкладення виборів у Палестині",
+      "original_title": "",
       "summary": "Уряд Великої Британії опублікував спільну заяву, що підтверджує рішення про відкладення виборів у Палестині. Документ зафіксовано на офіційному порталі GOV.UK. Текст джерела не містить додаткових деталей щодо конкретних учасників переговорів, точних строків або умов, тому аналіз обмежується фактом оприлюднення офіційного дипломатичного документа.",
       "source": "Diplomatic Visits",
       "publisher": "",
@@ -379,6 +324,7 @@
     },
     {
       "title": "Президент Киргизстану відвідає Азербайджан для участі в саміті ОДКБ",
+      "original_title": "",
       "summary": "Президент Киргизстану оголосив про свій візит до Азербайджану. Головною метою поїздки є участь у саміті Організації договору про колективну безпеку. Ця подія підтверджує активну дипломатичну взаємодію між двома країнами в рамках міжнародної організації.",
       "source": "Bilateral Meetings",
       "publisher": "",
@@ -388,6 +334,7 @@
     },
     {
       "title": "Китай і Ботсвана встановили комплексне стратегічне партнерство",
+      "original_title": "",
       "summary": "Китай та Ботсвана офіційно підписали спільну заяву про встановлення комплексного стратегічного партнерства. Цей дипломатичний крок зафіксований на офіційному сайті Міністерства закордонних справ КНР. Документ підтверджує зміцнення двосторонніх відносин між двома державами на рівні стратегічного співробітництва.",
       "source": "China Diplomacy",
       "publisher": "",
@@ -397,6 +344,7 @@
     },
     {
       "title": "Казахстан і Бельгія поглиблюють торговельні та інвестиційні зв'язки",
+      "original_title": "",
       "summary": "Казахстан та Бельгія провели засідання бізнес-ради для посилення торгівлі й інвестицій. Подія стосується розширення економічних контактів між країнами. Це може вплинути на енергетичні ринки через можливі угоди з постачання ресурсів. Наслідки включають покращення валютних надходжень та стабільність ланцюгів постачання.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -406,6 +354,7 @@
     },
     {
       "title": "Іран готує ядерні об’єкти та населення до можливого загострення війни зі США",
+      "original_title": "",
       "summary": "На супутникових знімках зафіксовано земляні загородження на під’їздах до тунельного комплексу в горі Пікекс, аналогічно до засипання входів на об’єкті в Есфахані. Під час навчань Jan-Fada продемонстровано безпілотний надводний апарат Fateh та систему наведення Shahid Hemmati. Заяви про намір уражати американську технологічну інфраструктуру (кабелі, дата-центри, об’єкти ШІ) вказують на розширення переліку цілей у разі ескалації.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -415,6 +364,7 @@
     },
     {
       "title": "Міністри закордонних справ Туреччини та Ірану обговорили регіональні процеси",
+      "original_title": "",
       "summary": "Міністри закордонних справ Туреччини та Ірану провели телефонну розмову, під час якої обговорили поточні регіональні події. Ця дипломатична взаємодія підтверджує триваючі консультації між Анкарою та Тегераном щодо безпекової ситуації на Близькому Сході та сусідніх регіонах.",
       "source": "Bilateral Meetings",
       "publisher": "",
@@ -424,6 +374,7 @@
     },
     {
       "title": "Лавров провів переговори з генсеком АСЕАН Као Кім Хоурном у Москві",
+      "original_title": "",
       "summary": "Міністр закордонних справ Росії Сергій Лавров провів переговори з генеральним секретарем АСЕАН Као Кім Хоурном у Москві 13 жовтня 2026 року. Зустріч відбулася в рамках двосторонніх зустрічей. Сторони обговорили поточні питання співпраці між Росією та АСЕАН. Подія підтверджена офіційним повідомленням Міністерства закордонних справ Російської Федерації.",
       "source": "Bilateral Meetings",
       "publisher": "Министерство иностранных дел России",
@@ -433,6 +384,7 @@
     },
     {
       "title": "OPEC+ збільшив видобуток нафти на 900 тис. барелів",
+      "original_title": "",
       "summary": "Згідно з місячним звітом, видобуток нафти OPEC+ зріс на 900 000 барелів на добу у вересні, попри порушення в протоці Гормуз. Зростання пропозиції може посилити тиск на зниження цін на нафту. Це вплине на ліквідність енергетичних ринків та валютні курси, зокрема USD. Ланцюги постачання отримають додаткову стабільність через вищий обсяг видобутку.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -442,6 +394,7 @@
     },
     {
       "title": "Сі Цзіпін провів зустріч із президентом Того Фауром Гнанінгбе",
+      "original_title": "",
       "summary": "Президент Китаю Сі Цзіпін провів офіційну зустріч із президентом Ради Того Фауром Ессозимна Гнанінгбе. Подія зафіксована на офіційному сайті Міністерства закордонних справ КНР. У тексті джерела відсутні деталі щодо конкретних угод, підписаних документів чи результатів переговорів, тому опис обмежується самим фактом дипломатичного контакту між лідерами двох держав.",
       "source": "China Diplomacy",
       "publisher": "中华人民共和国外交部",
@@ -451,6 +404,7 @@
     },
     {
       "title": "Моді оголосив про візит до Канади у грудні",
+      "original_title": "",
       "summary": "Офіс канадського прем'єра Марка Карні підтвердив, що прем'єр-міністр Індії Нарендра Моді здійснить офіційний візит до Канади у грудні. Це оголошення свідчить про заплановані двосторонні дипломатичні консультації між лідерами двох країн. Конкретний порядок денний зустрічей наразі не розкривається.",
       "source": "Bilateral Meetings",
       "publisher": "Reuters",
@@ -460,6 +414,7 @@
     },
     {
       "title": "Зростання дохідності облігацій загрожує банкам США",
+      "original_title": "",
       "summary": "Зростання прибутковості облігацій створює проблеми для банківської системи США через знецінення активів. Це впливає на ліквідність банків та стабільність боргових ринків. Наслідки можуть включати обмеження кредитування та тиск на валютні курси. Подія сигналізує про виклики для фінансової стабільності.",
       "source": "ФРС США",
       "publisher": "",
@@ -469,6 +424,7 @@
     },
     {
       "title": "МЗС Індії: торгівельні переговори зі США наближаються до угоди",
+      "original_title": "",
       "summary": "Міністр закордонних справ Індії Субраманьям Джайшанкар заявив, що торгівельні переговори між Індією та США рухаються у правильному напрямку. За його словами, сторони зараз допрацьовують деталі майбутньої угоди. Це підтверджує активний дипломатичний діалог між двома країнами щодо врегулювання торговельних відносин.",
       "source": "Bilateral Meetings",
       "publisher": "Newsquawk",
@@ -478,6 +434,7 @@
     },
     {
       "title": "Велика Британія підтримала суверенітет Сирії на засіданні РБ ООН",
+      "original_title": "",
       "summary": "Посол Каті Фостер від імені Великої Британії на засіданні Ради Безпеки ООН підкреслила необхідність поваги до суверенітету та територіальної цілісності Сирії. Британія вітала участь президента Шараа в Генеральній Асамблеї ООН та зусилля сирійського уряду щодо економічного відновлення, залучення інвестицій та підтримки регіональних зв'язків для забезпечення довгострокової стабільності.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -487,6 +444,7 @@
     },
     {
       "title": "Міністр оборони Польщі закликає США відкрити виробництва в Європі",
+      "original_title": "",
       "summary": "Владислав Косіняк-Камиш виступив за створення американських виробничих потужностей у Європі. Це сталося того ж дня, коли згадали про можливі затримки поставок Patriot до Польщі. Крок може вплинути на логістику постачання систем ППО в регіоні.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -496,6 +454,7 @@
     },
     {
       "title": "IEA: витрати на газ сягнуть максимуму за 10 років у 2026",
+      "original_title": "",
       "summary": "Згідно з IEA, інвестиції в природний газ досягнуть 10-річного максимуму в 2026 році, тоді як вкладення в нафту зменшаться. Це може вплинути на енергетичні ринки, підвищивши ціни на газ та стабілізувавши нафту. Наслідки включають зміни в ланцюгах постачання енергії та можливий вплив на валютні курси через коливання цін на енергоносії.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -505,6 +464,7 @@
     },
     {
       "title": "Канада та США: провал торговельних переговорів через зависокі вимоги",
+      "original_title": "",
       "summary": "Торговельні переговори між Канадою та США завершилися провалом, оскільки американська сторона вимагала забагато, а пропонувала замало. Марк Карні чітко окреслив позицію Канади. Це може вплинути на валютний курс канадського долара та енергетичні ринки через невизначеність у ланцюгах постачання.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -514,6 +474,7 @@
     },
     {
       "title": "Продовження бюджету може ускладнити виробництво шпионського літака HADES армії",
+      "original_title": "",
       "summary": "Генеральний офіцер G-2 Армії, Ендрю Еванс, заявив, що проект HADES, шпионський літак, наразі відповідає вимогам бюджету та графіку. Однак, можливий бюджетний тупик у Конгресі може затримати або ускладнити виробництво, що вплине на швидкість розгортання системи спостереження.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -523,6 +484,7 @@
     },
     {
       "title": "Міністр оборони Естонії: Росія після війни перевірить стійкість НАТО",
+      "original_title": "",
       "summary": "Естонія у 2024 році планує спорудити до 600 бункерів, протитанкові рови та позиції для «зубів дракона» вздовж кордону. Балтійська лінія оборони з фортифікаціями та загородженнями спрямована на стримування наступу біля кордону. Це може уповільнити просування противника та посилити оборону Балтійського регіону без активації статті 5 НАТО.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -532,6 +494,7 @@
     },
     {
       "title": "Українська ВЕРТІЛЬКИ",
+      "original_title": "",
       "summary": "Виконавці ОПЕК змінили своєго прогнозу попереднього розвитку на Україну",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -541,6 +504,7 @@
     },
     {
       "title": "Британія підтвердила підтримку гуманітарної місії в ДР Конго на РБ ООН",
+      "original_title": "",
       "summary": "Посол Каті Фостер на засіданні Ради Безпеки ООН заявила, що Велика Британія продовжує підтримувати гуманітарну відповідь у ДР Конго, зокрема боротьбу з епідемією Ебола. Вона наголосила на необхідності безперешкодного доступу до 26 мільйонів людей, які стикаються з гострою продовольчою нестабільністю, та закликала сторони конфлікту гарантувати безпеку для доставлення допомоги.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -550,6 +514,7 @@
     },
     {
       "title": "Рейтинг найстійкіших торгових економік 2026",
+      "original_title": "",
       "summary": "Visual Capitalist опублікував рейтинг найстійкіших торговельних економік світу на 2026 рік. Джерело стосується енергетичних ринків, але без конкретних даних. Це може вплинути на інвестиційні рішення та ланцюги постачання. Наслідки для валют і боргових ринків не деталізовані.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -559,6 +524,7 @@
     },
     {
       "title": "ФСБ затримала японського журналіста за збір даних про військових",
+      "original_title": "",
       "summary": "Журналіст нібито збирав відомості про кількість мобілізованих та добровольців з Курильських островів, які беруть участь у війні проти України. Затримання та арешт на два місяці в Лефортово вказують на посилення контролю за іноземними журналістами в прикордонних регіонах. Це може ускладнити доступ до інформації про російські військові ресурси.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -568,6 +534,7 @@
     },
     {
       "title": "ЄС відкрив переговори з Україною про внутрішній ринок",
+      "original_title": "",
       "summary": "Рада ЄС офіційно оголосила про відкриття переговорів про вступ України до Євросоюзу. Цей дипломатичний крок стосується конкретного розділу acquis communautaire, а саме внутрішнього ринку, конкурентоспроможності та інклюзивного зростання. Рішення підтверджує прогрес у процесі розширення ЄС та встановлює нову фазу переговорів між Україною та Європейським Союзом.",
       "source": "EU Diplomacy",
       "publisher": "Consilium.europa.eu",
@@ -577,6 +544,7 @@
     },
     {
       "title": "Гоночні авто та роботи на дронах: кадри з другого дня AUSA",
+      "original_title": "",
       "summary": "На AUSA представлено численні дрони та системи протидії БПЛА, зокрема амфібійного робота для перевезення наземних роботів через воду. Такі рішення розширюють можливості наземних платформ у водних перешкодах. Це може вплинути на тактику застосування роботизованих систем у бойових умовах.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -586,6 +554,7 @@
     },
     {
       "title": "Реформа монетарної політики Китаю за стратегією фінансової могутності",
+      "original_title": "",
       "summary": "Центробанк Китаю проводить реформу монетарної політики в межах стратегії Financial Powerhouse. Подія стосується адаптації рамки політики до нових фінансових умов. Це може вплинути на ліквідність та валютні ринки. Наслідки включають зміни на боргових ринках без конкретних цифр у джерелі.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -595,6 +564,7 @@
     },
     {
       "title": "Джонсон Сміт: інтереси Ямайки захищені в угоді США з третіми країнами",
+      "original_title": "",
       "summary": "Джонсон Сміт заявив, що інтереси Ямайки захищені в рамках американської угоди щодо громадян третіх країн. Це підтверджує дипломатичну позицію країни щодо імміграційної політики США. Деталі конкретних умов чи строків дії угоди в тексті не наведено.",
       "source": "Treaties & Agreements",
       "publisher": "Jamaica Gleaner",
@@ -604,6 +574,7 @@
     },
     {
       "title": "Трамп заявив про продовження обміну розвідданими США з Україною",
+      "original_title": "",
       "summary": "Заява підтверджує триваючу передачу розвідданих попри попередження щодо ударів по російських НПЗ. Це впливає на здатність України отримувати дані про балістичні загрози, як у випадку атаки 12 жовтня. Сибіга зазначив, що співпраця не припинялася через особливості озброєння.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -613,6 +584,7 @@
     },
     {
       "title": "Ізраїльська IAI представила три нові системи ППО на AUSA",
+      "original_title": "",
       "summary": "Системи представлені на конференції AUSA демонструють різні підходи компаній до протидії БПЛА. Вони відображають адаптацію оборонних технологій до змін у сучасній війні. Подія не збігається з попередніми публікаціями про AUSA.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -622,6 +594,7 @@
     },
     {
       "title": "Інтерв'ю Вільямса ФРС з Bloomberg News",
+      "original_title": "",
       "summary": "Опубліковано повний транскрипт інтерв'ю президента ФРС Нью-Йорка Джона Вільямса на Bloomberg. Подія розкриває позицію ФРС щодо монетарної політики та економічних ризиків. Це впливає на очікування ринку щодо процентних ставок, ліквідності та боргових інструментів.",
       "source": "ФРС США",
       "publisher": "",
@@ -631,6 +604,7 @@
     },
     {
       "title": "ЄЦБ: ШІ як можливість для Європи",
+      "original_title": "",
       "summary": "ЄЦБ опублікував статтю Філіпа Лейна про ШІ як загальну технологію. Вона може підвищити продуктивність та розширити доступ до знань, але потребує координації розробників, інфраструктури, регуляторів та ринку праці. Невизначеність термінів впровадження залежить від усунення вузьких місць. Це вплине на економічну трансформацію та політичні рішення щодо етики й управління.",
       "source": "ЄЦБ",
       "publisher": "",
@@ -640,6 +614,7 @@
     },
     {
       "title": "ЄС і Албанія закрили переговори щодо промислової політики",
+      "original_title": "",
       "summary": "ЄС та Албанія попередньо закрили переговори про вступ за розділом 20 — підприємництво та промислова політика. Подія стосується гармонізації регуляторних норм Албанії з acquis ЄС. Це може сприяти покращенню інвестиційного клімату та інтеграції ланцюгів постачання. Прямих наслідків для ліквідності чи валютних ринків наразі не зафіксовано.",
       "source": "Рада ЄС",
       "publisher": "",
@@ -649,6 +624,7 @@
     },
     {
       "title": "LaNeve перейменував Командування майбутнього армії на нове FASCOM",
+      "original_title": "",
       "summary": "Нове US Army Futures and Autonomous Systems Command (FASCOM) розроблятиме операційні концепції для інтеграції автономних можливостей у всіх сферах бойових дій. Генерал Крістофер ЛаНев заявив, що команда фокусуватиметься на автономних системах для підвищення ефективності військ. Це може вплинути на доктрини застосування автономних технологій у майбутніх операціях.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -658,6 +634,7 @@
     },
     {
       "title": "ДБР розслідує падіння МиГ-29 через можливе нештатне спрацювання ракети",
+      "original_title": "",
       "summary": "Винищувач МиГ-29 застосовував застарілі ракети Р-60 для знищення дронів. Слідство перевіряє, чи нештатне спрацювання ракети призвело до пожежі та втрати керування. Це підкреслює проблеми з запасами сучасних ракет в українській авіації.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -667,6 +644,7 @@
     },
     {
       "title": "Демократи на виборах можуть прискорити військову допомогу США Україні — конгресмен",
+      "original_title": "",
       "summary": "Опитування та ринки прогнозів вказують на можливе значне засудження президента на midterm виборах. Rep. Jim Himes з House Permanent Select Committee on Intelligence зазначає про потенційне прискорення допомоги Україні. Це може вплинути на обсяги військової підтримки.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -676,6 +654,7 @@
     },
     {
       "title": "Росія за півтора місяця збудувала новий дронопорт для «Герань-5»",
+      "original_title": "",
       "summary": "Новий майданчик біля Міллерово має вісім позицій для пускових установок та 32 майданчики підготовки БпЛА. Комплекс за конфігурацією нагадує дронопорт «Цимбулова» в Орловській області. Будівництво за шість тижнів спрямоване на збільшення запусків реактивних дронів після вересневих атак.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -685,6 +664,7 @@
     },
     {
       "title": "Міністр закордонних справ Канади прибув до Індії для переговорів",
+      "original_title": "",
       "summary": "Міністр закордонних справ Канади прибув до Індії для проведення двосторонніх переговорів. Обговорення охоплює ключові сфери співпраці, зокрема торгівлю, енергетику та безпеку. Ця подія є офіційним дипломатичним кроком, спрямованим на зміцнення відносин між двома країнами.",
       "source": "Bilateral Meetings",
       "publisher": "Anadolu Ajansı",
@@ -694,6 +674,7 @@
     },
     {
       "title": "Точність у масштабі: APKWS протистоїть загрозі",
+      "original_title": "",
       "summary": "APKWS® — лазерна система наведення, що перетворює боєприпаси на високоточні для різних місій і платформ. Комплект забезпечує надійну роботу та швидку доставку відповідно до оперативних потреб. Це дозволяє масштабувати точні удари проти загроз на сучасному полі бою.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -703,6 +684,7 @@
     },
     {
       "title": "Зеленський шукає нових переговорів із США щодо завершення війни",
+      "original_title": "",
       "summary": "Володимир Зеленський шукає проведення нових переговорів із американськими посланцями з метою завершення війни Росії. Це ініціатива спрямована на пошук дипломатичного вирішення конфлікту через безпосередній діалог із представниками США.",
       "source": "Bilateral Meetings",
       "publisher": "Reuters",
@@ -712,6 +694,7 @@
     },
     {
       "title": "У Франції можуть зупинити єдиний завод з виробництва корпусів 155-мм снарядів",
+      "original_title": "",
       "summary": "Завод Forges de Tarbes є єдиним у Франції виробником корпусів 155-мм снарядів, де використовують гідравлічні преси для кування. П’ять одиниць обладнання для пресів не пройшли перевірку, ще дев’ять мали пройти до серпня. Якщо порушення не усунуть до 31 грудня 2026 року, обладнання виведуть з експлуатації, що вплине на виробництво артилерійських боєприпасів.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -721,6 +704,7 @@
     },
     {
       "title": "Project Gatekeeper армії США скоротить час затвердження ПЗ з місяців до хвилин",
+      "original_title": "",
       "summary": "Project Gatekeeper створює єдине ізольоване sandbox-середовище на хмарі армії для AI-перевірки комерційного ПЗ без контракту чи спонсора. Система стандартизує процес видачі ATO, усуваючи залежність від окремих program manager та прискорюючи схвалення до хвилин. Це зменшує бюрократію, підвищує прозорість кібербезпеки та полегшує доступ інноваційним компаніям до армійських мереж.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -730,6 +714,7 @@
     },
     {
       "title": "Bank of America оштрафовано на $1,2 млрд за Китай",
+      "original_title": "",
       "summary": "Мінфін США наклав на Bank of America штраф у 1,2 млрд доларів за підозри в торговому відмиванні грошей (TBML) з Китаєм. Це рекордний штраф у США. Подія посилює регуляторний тиск на банки щодо операцій з Китаєм. Можливі наслідки для банківської ліквідності та валютних потоків.",
       "source": "Мінфін США",
       "publisher": "",
@@ -739,6 +724,7 @@
     },
     {
       "title": "Росія використовує новий інструмент ухилення від санкцій",
+      "original_title": "",
       "summary": "Звіт Foundation for Defense of Democracies стверджує, що провідний інструмент Росії для ухилення від санкцій є новим видом загрози незаконних фінансів. Це стосується фінансових схем, які обходять обмеження США. Наслідки можуть вплинути на ліквідність ринків та валютні операції через посилення контролю.",
       "source": "Мінфін США",
       "publisher": "",
@@ -748,6 +734,7 @@
     },
     {
       "title": "Avio та Lockheed уклали угоду про виробництво твердопаливних ракетних двигунів",
+      "original_title": "",
       "summary": "Угода передбачає кваліфікацію та постачання твердопаливних двигунів для Extended Range GMLRS і Precision Strike Missile, забезпечуючи Lockheed друге джерело. Avio USA будуватиме компоненти на власному заводі в Вірджинії, який запустять у 2029 році, використовуючи європейський досвід для скорочення залежності від ланцюгів постачання. Це також включає інженерні роботи над Mk104 для сімейства Standard Missile.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -757,6 +744,7 @@
     },
     {
       "title": "Саудівська Аравія різко знизила ціни нафти для Азії",
+      "original_title": "",
       "summary": "Саудівська Аравія зменшила офіційну ціну продажу Arab Light для Азії на серпень — найбільше падіння за понад два десятиліття. Це сигналізує про слабший попит і може тиснути на глобальні ціни на нафту. Зниження вплине на ліквідність енергетичних ринків та валютні курси експортерів. Наслідки торкнуться боргових ринків і ланцюгів постачання в Азії.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -766,6 +754,7 @@
     },
     {
       "title": "Торгова війна з Канадою б'є по штатах США",
+      "original_title": "",
       "summary": "Торгова війна з Канадою негативно впливає на економіку окремих штатів США. Це може вплинути на результати проміжних виборів. Наслідки включають порушення ланцюгів постачання та тиск на валютні ринки.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -775,6 +764,7 @@
     },
     {
       "title": "Очікування одного підвищення ставки ФРС послаблює долар",
+      "original_title": "",
       "summary": "Очікування президента ФРС Нью-Йорка щодо лише одного додаткового підвищення ставки спричинило падіння довгострокових відсоткових ставок США. Долар послабився до рівня 157,83 єни за долар. Це вплине на валютні ринки, зменшуючи привабливість доларових активів та посилюючи тиск на боргові інструменти.",
       "source": "Банк Японії",
       "publisher": "",
@@ -784,6 +774,7 @@
     },
     {
       "title": "Зеленський візьме участь у переговорах у Даунінг-стріт щодо підтримки",
+      "original_title": "",
       "summary": "Президент Володимир Зеленський відвідає Даунінг-стріт для зустрічі з лідером Великої Британії. Уряд Британії оголосив про подвоєння підтримки України та закликав міжнародних партнерів приєднатися до цих зобов'язань. Це офіційний дипломатичний візит, спрямований на координацію зусиль союзників.",
       "source": "Diplomatic Visits",
       "publisher": "GOV.UK",
@@ -793,6 +784,7 @@
     },
     {
       "title": "OPEC прогнозує стрибок попиту на нафту в 2027",
+      "original_title": "",
       "summary": "OPEC очікує зростання попиту на нафту до 2,6 млн барелів на добу у 2027 році. Це ключова цифра, що сигналізує про прискорення споживання. Наслідки включають потенційне підвищення цін на енергоносії та вплив на валютні курси експортерів нафти. Зростання попиту може стабілізувати ланцюги постачання в енергетичному секторі.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -802,6 +794,7 @@
     },
     {
       "title": "Блоковані LNG-поставки Близького Сходу порушують газові ринки",
+      "original_title": "",
       "summary": "Заголовок вказує на зрив поставок LNG з Близького Сходу, що дестабілізує газові ринки. Подія стосується енергетичних ланцюгів постачання та може вплинути на ціни на газ. Наслідки включають зростання волатильності на сировинних ринках та можливий тиск на валютні курси експортерів. Ліквідність боргових інструментів енергокомпаній може знизитися через невизначеність.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -811,6 +804,7 @@
     },
     {
       "title": "Заблоковані LNG-поставки Близького Сходу порушують газові ринки",
+      "original_title": "",
       "summary": "Стаття описує заблоковані поставки LNG з Близького Сходу, що дестабілізує газові ринки. Це призводить до волатильності цін на газ та пов'язані енергоносії. Наслідки включають тиск на ліквідність енергетичних ринків та можливі збої в ланцюгах постачання. Експортери можуть зіткнутися з валютними коливаннями через скорочення доходів.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -820,6 +814,7 @@
     },
     {
       "title": "ЄС планує неформальну зустріч міністрів освіти 15-16 жовтня 2026",
+      "original_title": "",
       "summary": "Рада Європейського Союзу оголосила про проведення неформальної зустрічі міністрів освіти 15-16 жовтня 2026 року. Захід буде організований на платформі Consilium.europa.eu. Учасниками стануть міністри країн-членів ЄС, які обговорюватимуть актуальні питання освітньої політики. Конкретний порядок денний та очікувані рішення на даний момент не розкрито.",
       "source": "EU Diplomacy",
       "publisher": "Consilium.europa.eu",
@@ -829,6 +824,7 @@
     },
     {
       "title": "Два американських економісти отримали Нобелівську премію",
+      "original_title": "",
       "summary": "Американські економісти П. Д. та К. С. отримали Нобелівську премію з економіки за розробку моделей управління економічними шоками. Роботи включають кількісні оцінки ефективності контрциклічних політик, використання стрес‑тестування та оптимізації монетарних ставок у діапазоні 0,25‑0,5 % від інфляції. Визнання підвищує інтерес інвесторів до інструментів хеджування волатильності та може стимулювати посилення регуляторних вимог до капітальної адекватності. Очікується, що впровадження рекомендацій знизить спреди на державних облігаціях та підвищить ліквідність ринків у періоди макроризику.",
       "source": "ФРС США",
       "publisher": "",
@@ -838,6 +834,7 @@
     },
     {
       "title": "Банк Японії проти підвищення ставок, єна слабшає",
+      "original_title": "",
       "summary": "Банк Японії, за даними, схиляється проти підвищення ставок. Це змушує єну відставати від основних валют. Подія впливає на валютні ринки, посилюючи тиск на ліквідність та курси. Наслідки можуть проявитися в боргових інструментах та потоках капіталу.",
       "source": "Банк Японії",
       "publisher": "",
@@ -847,6 +844,7 @@
     },
     {
       "title": "Прем'єр Канади прогнозує ренесанс на Півночі",
+      "original_title": "",
       "summary": "Прем'єр Канади заявив, що далекий північ країни готовий до економічного повороту. Подія стосується енергетичних ринків через потенційні інвестиції. Це може вплинути на ланцюги постачання та валютні курси в регіоні.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -856,6 +854,7 @@
     },
     {
       "title": "Повернення меркантилізму: інвестиції в нових умовах",
+      "original_title": "",
       "summary": "Стаття Global X ETFs аналізує повернення меркантилізму як ключового тренду. Це передбачає посилення протекціонізму та вплив на глобальну торгівлю. Наслідки включають порушення ланцюгів постачання, зміни валютних курсів та тиск на боргові ринки через нові торгові бар'єри.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -865,6 +864,7 @@
     },
     {
       "title": "Банк Монголії та МВФ співпрацюють над монетарною політикою",
+      "original_title": "",
       "summary": "Банк Монголії та МВФ об'єднали зусилля для вдосконалення системи монетарної політики. Подія стосується співпраці над покращенням монетарної системи без конкретних цифр. Це може вплинути на стабільність валюти та ліквідність ринків Монголії. Наслідки включають потенційні зміни в боргових ринках та валютній політиці.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -874,6 +874,7 @@
     },
     {
       "title": "Банк Японії утримується від підвищення ставок, єна слабшає",
+      "original_title": "",
       "summary": "Банк Японії, за повідомленнями, схиляється проти підвищення ставок. Це спричинило відставання єни від основних валют. Подія впливає на валютні ринки та може посилити волатильність. Наслідки включають тиск на ліквідність і боргові інструменти через курсові коливання.",
       "source": "Банк Японії",
       "publisher": "",
@@ -883,6 +884,7 @@
     },
     {
       "title": "Ямайка починає приймати депортованих за США угодою",
+      "original_title": "",
       "summary": "Jamaica has started accepting deportees transferred from third countries pursuant to a United States agreement that has drawn criticism. The arrangement allows the U.S. to relocate individuals to Jamaica, marking the first implementation of the deal. No further details on numbers or timeline were provided.",
       "source": "Treaties & Agreements",
       "publisher": "ABC News - Breaking News, Latest News and Videos",
@@ -892,6 +894,7 @@
     },
     {
       "title": "Прем’єр Японії зберігає репляційний імідж",
+      "original_title": "",
       "summary": "Канто‑прем’єр Кішіда продовжує позиціонуватися як репляціоніст, підтримуючи надзвичайно м’яку монетарну політику Банку Японії без змін у межах контролю кривої доходності та цільовій інфляції 2 % ± 0,5 %p.a. Інфляція залишилася на рівні 3,2 % річних, а реальна ставка залишилася негативною, що зберігає низьку вартість позики та підвищує попит на державні облігації. Така політика підтримує ліквідність, утримує йєн під тиском і підвищує волатильність валютних пар, одночасно обмежуючи маржу на короткострокових кредитах.",
       "source": "Банк Японії",
       "publisher": "",
@@ -901,6 +904,7 @@
     },
     {
       "title": "Армія удосконалює автономію, розширює роль у Індо-Тихоокеанському регіоні",
+      "original_title": "",
       "summary": "У другий день AUSA 2026 Генерал ЛаНев переіменував Futures and Concepts Command у Futures and Autonomous Systems Command, підкреслюючи пріоритет дронів та автономних систем. Армія заявляє, що залишається «фундаментом» спільної сили, зокрема у Індо-Тихоокеанському просторі, де акцент робиться на довготривалих точних ударних системах. Це сигналізує про стратегічний зсув до швидкого впровадження автономних технологій, що може підвищити оперативну гнучкість та швидкість реагування у регіоні.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -910,6 +914,7 @@
     },
     {
       "title": "PBOC очікує референтний курс USD/CNY 6.6922",
+      "original_title": "",
       "summary": "Центральний банк Китаю (PBOC) прогнозує встановлення референтного курсу USD/CNY на рівні 6.6922 за даними Reuters. Очікуваний курс нижчий на 0.0069 пункту порівняно з попереднім рівнем 6.6981, що свідчить про помірну девальвацію юаня та зниження спреду на валютному ринку. Така корекція може підвищити ліквідність доларових позик у Китаї, зменшити вартість імпорту та послабити інфляційний тиск.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -919,6 +924,7 @@
     },
     {
       "title": "Єна слабшає на тлі згасання ставок на підвищення BoJ",
+      "original_title": "",
       "summary": "Японська єна послаблюється, оскільки ймовірність підвищення ставки BoJ у жовтні зменшується. Пара USD/JPY залишається в діапазоні в очікуванні даних CPI США. Це впливає на валютну ліквідність та потоки капіталу між США та Японією, посилюючи волатильність на боргових ринках.",
       "source": "Банк Японії",
       "publisher": "",
@@ -928,6 +934,7 @@
     },
     {
       "title": "В'єтнам заявляє про майже завершеного торговельні переговори зі США",
+      "original_title": "",
       "summary": "В'єтнам повідомив, що торговельні переговори зі США майже завершено. Американські офіційні особи висловилися обережніше щодо стану переговорного процесу. Ця дипломатична взаємодія стосується двосторонніх торговельних відносин між країнами.",
       "source": "Bilateral Meetings",
       "publisher": "Reuters",
@@ -937,6 +944,7 @@
     },
     {
       "title": "JERA: ціни на LNG залишаться високими через ремонти Катару",
+      "original_title": "",
       "summary": "Компанія JERA прогнозує збереження високих цін на LNG через затяжні ремонти в Катарі та активне поповнення запасів Європою. Ключові фактори включають затримки постачань та сезонний попит. Це може посилити тиск на енергетичні ланцюги постачання та підвищити витрати імпортерів. Наслідки позначаться на валютних курсах експортерів енергоносіїв.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -946,6 +954,7 @@
     },
     {
       "title": "Європа зменшує кліматичні цілі через шок від війни з Іраном",
+      "original_title": "",
       "summary": "Європа послаблює кліматичні цілі для пом'якшення енергетичного шоку від війни з Іраном. Це вплине на ціни енергоносіїв та ланцюги постачання. Можливе зростання інфляції та тиск на валютні ринки через вищі витрати на енергію. Боргові ринки зіткнуться з нестабільністю.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -955,6 +964,7 @@
     },
     {
       "title": "Японські банки повертаються до внутрішніх облігацій",
+      "original_title": "",
       "summary": "Японські банки та страховики збільшують купівлю внутрішніх державних облігацій через зростання прибутковості. Це відбувається на тлі підвищення ставок Банком Японії. Така динаміка може вплинути на ліквідність боргових ринків та курс єни, зменшуючи попит на іноземні активи.",
       "source": "Банк Японії",
       "publisher": "",
@@ -964,6 +974,7 @@
     },
     {
       "title": "Трамп оголосив про розвідку нафти та газу в Гренландії",
+      "original_title": "",
       "summary": "Трамп заявив про початок масштабної розвідки нафти, газу та мінералів у Гренландії. Подія стосується енергетичних ринків та критичних ресурсів. Це може збільшити пропозицію енергоносіїв, вплинути на ціни та ліквідність ринків. Наслідки торкнуться ланцюгів постачання та валютних курсів експортерів.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -973,6 +984,7 @@
     },
     {
       "title": "Трамп анонсував візит до Манили на саміт АСЕАН",
+      "original_title": "",
       "summary": "Дональд Трамп оголосив про плани відвідати Манилу у листопаді для участі у саміті АСЕАН. Ця подія підтверджує офіційний дипломатичний візит президента США до Південно-Східної Азії. Деталі щодо конкретної дати або повної програми зустрічей у тексті джерела не наведено.",
       "source": "Bilateral Meetings",
       "publisher": "Reuters",
@@ -982,6 +994,7 @@
     },
     {
       "title": "Канада не застосовує примус для інвестицій",
+      "original_title": "",
       "summary": "Маніндер Сідху заявив, що Канада уникає примусових методів у глобальному торговельному поштовху. Політика спрямована на залучення інвестицій через партнерство. Це може вплинути на ланцюги постачання критичних мінералів та валютні потоки. Наслідки включають зростання ліквідності на енергетичних ринках без тиску на боргові інструменти.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -991,6 +1004,7 @@
     },
     {
       "title": "Гонконгський кліринговий банк отримує юаневе фінансування",
+      "original_title": "",
       "summary": "Банк клірингу в Гонконгу отримав новий доступ до фінансування в юанях. Це є частиною стратегії Китаю щодо просування юаня. Подія може покращити ліквідність на ринках Гонконгу та зміцнити позиції валюти в регіональних транзакціях. Наслідки торкнуться боргових ринків та валютних потоків.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -1000,6 +1014,7 @@
     },
     {
       "title": "Прем'єр Пакистану зустрівся з керівником MDA, підтвердивши безпекові зобов'язання",
+      "original_title": "",
       "summary": "Прем'єр-міністр Пакистану Шехбаз Шариф провів зустріч із керівником Королівського загону МДА Саудівської Аравії. Під час переговорів він підтвердив зобов'язання Пакистану щодо безпеки Саудівської Аравії. Ця дипломатична взаємодія закріплює стратегічний альянс між двома країнами в сфері оборони та регіональної стабільності.",
       "source": "Treaties & Agreements",
       "publisher": "The Express Tribune",
@@ -1009,6 +1024,7 @@
     },
     {
       "title": "ЄС зближується з В'єтнамом за критичними мінералами",
+      "original_title": "",
       "summary": "ЄС прагне посилити партнерство з В'єтнамом для доступу до критичних мінералів. Це є частиною стратегії зменшення залежності від Китаю. Така диверсифікація може стабілізувати ланцюги постачання в енергетиці та технологіях, впливаючи на глобальні ціни та валютні ризики.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1018,6 +1034,7 @@
     },
     {
       "title": "Лаос та Азербайджан працюють над угодою про інвестиційний захист",
+      "original_title": "",
       "summary": "Заступник міністра закордонних справ Азербайджану повідомив, що Лаос та Азербайджан ведуть роботу над підготовкою угоди про взаємний захист інвестицій. Це офіційне дипломатичне повідомлення підтверджує триваючі переговори між двома країнами щодо укладення міжнародного договору. Точні строки підписання документа в тексті не зазначені.",
       "source": "Treaties & Agreements",
       "publisher": "Trend News Agency",
@@ -1027,6 +1044,7 @@
     },
     {
       "title": "КНДР випробувала балістичну ракету KN-30 на 910 км",
+      "original_title": "",
       "summary": "12 жовтня КНДР запустила твердопаливну балістичну ракету малої дальності KN-30 з п’ятивісної мобільної пускової установки, бойова частина заявлена масою 2,5 тонни. Ракета подолала понад 910 км на висоті до 70 км; це модернізована версія Hwasong-11, раніше передана Росії. Підтверджених фактів застосування KN-30 проти України немає, на відміну від KN-23 та KN-24.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1036,6 +1054,7 @@
     },
     {
       "title": "Рада ЄС оголосила про Трійчастий соціальний саміт 14 жовтня 2026",
+      "original_title": "",
       "summary": "Рада Європейського Союзу опублікувала медіазауваження щодо проведення Трійчастого соціального саміту 14 жовтня 2026 року. Цей захід передбачає зустріч представників Європейської Ради, Європейської Комісії та Європейського парламенту для обговорення соціальних питань. Офіційне оголошення підтверджує дату та формат дипломатичної взаємодії між інституціями ЄС.",
       "source": "EU Diplomacy",
       "publisher": "Consilium.europa.eu",
@@ -1045,6 +1064,7 @@
     },
     {
       "title": "Критичні мінерали змінюють глобальні торгові альянси",
+      "original_title": "",
       "summary": "Стаття розглядає, як критичні мінерали впливають на перебудову глобальної торгівлі. Це створює нові альянси між країнами-виробниками та споживачами. Наслідки включають зміни в ланцюгах постачання для енергетики та технологій, що може позначитися на валютних курсах та боргових ринках через перерозподіл ресурсів.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1054,6 +1074,7 @@
     },
     {
       "title": "Сили оборони звільнили Зелену Долину, Липове й Колодязі в операції «Вівальді»",
+      "original_title": "",
       "summary": "Під час четвертого етапу операції «Вівальді» на Лиманському напрямку підрозділи 3-го армійського корпусу та приданих частин (3-тя штурмова бригада, 60-та ОМБр, 125-та ОВМБр, Kraken, К-2 СБС та безпілотні підрозділи ЦСО «А») повернули 101 км² території. Загальні втрати противника за операцію оцінюються у 8000 солдатів, з них близько 3000 — на цьому етапі. Успіх забезпечив захист траси Харків—Слов’янськ та зірвав спробу оточення Слов’янсько-Краматорської агломерації з флангів.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1063,6 +1084,7 @@
     },
     {
       "title": "IEA опублікувала Oil Market Report за жовтень 2026",
+      "original_title": "",
       "summary": "Агентство IEA випустило щомісячний звіт про ринок нафти. Документ містить дані про попит і пропозицію. Це вплине на ціни та інвестиції в енергетику. Наслідки торкнуться валютних ринків і глобальних ланцюгів постачання.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1072,6 +1094,7 @@
     },
     {
       "title": "Зенітний FPV-дрон 115-ї бригади поцілив у Мі-28НМ у Бєлгородській області",
+      "original_title": "",
       "summary": "Оператори FPV-дрона 115-ї бригади атакували Мі-28НМ, геолокований біля Яснозоренського. Відео фіксує наближення дрона та вихід на траєкторію перехоплення. Подія демонструє застосування зенітних FPV проти російських гелікоптерів у прикордонній зоні.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1081,6 +1104,7 @@
     },
     {
       "title": "Єна тримається в діапазоні перед CPI США",
+      "original_title": "",
       "summary": "Японська єна продовжує рух у вузькому діапазоні проти долара США. Трейдери очікують публікації даних CPI США, що може спричинити волатильність. Подія вплине на валютний ринок USD/JPY та короткострокові потоки ліквідності. Без конкретних цифр у статті наслідки для боргових ринків або ланцюгів постачання не визначені.",
       "source": "Банк Японії",
       "publisher": "",
@@ -1090,6 +1114,7 @@
     },
     {
       "title": "У Німеччині судитимуть українця за організацію підриву «Північного потоку»",
+      "original_title": "",
       "summary": "Подія описує диверсію з використанням групи водолазів та фахівця з вибухівки для встановлення пристроїв на трубопроводах у Балтійському морі. Німецька прокуратура кваліфікує дії як воєнний злочин, спрямований на руйнування джерел доходів РФ. Процес дозволить публічно розглянути докази багаторічного розслідування без нових технічних деталей.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1099,6 +1124,7 @@
     },
     {
       "title": "Спроба Трампа звільнити чиновника ФРС",
+      "original_title": "",
       "summary": "Стаття описує спробу президента Трампа звільнити посадовця Федеральної резервної системи США. Це підкреслює політичні мотиви втручання в діяльність ФРС. Подія може вплинути на незалежність центробанку, що позначиться на монетарній політиці, ліквідності та курсі долара США. Боргові ринки можуть відреагувати зростанням волатильності через сумніви в стабільності ставок.",
       "source": "ФРС США",
       "publisher": "",
@@ -1108,6 +1134,7 @@
     },
     {
       "title": "Ціни на європейський газ досягли 4-річного максимуму",
+      "original_title": "",
       "summary": "Ціни на газ у Європі зросли до найвищого рівня за чотири роки через побоювання зимових постачань. Це підвищує витрати на енергію та ризики інфляції. Наслідки включають тиск на боргові ринки та енергетичні ланцюги постачання. Євро може зазнати волатильності через зростання енергетичних витрат.",
       "source": "Сировинні ринки",
       "publisher": "",
@@ -1117,6 +1144,7 @@
     },
     {
       "title": "Кредитування банків Китаю зросло у вересні",
+      "original_title": "",
       "summary": "Згідно з даними Центробанку Китаю, обсяг банківського кредитування значно зріс у вересні. Однак попит на кредити залишився м'яким, що свідчить про обережність бізнесу та споживачів. Це може призвести до збільшення ліквідності в системі, але не стимулювати зростання через слабкий попит. Наслідки для валютного ринку та боргових інструментів будуть обмеженими.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -1126,6 +1154,7 @@
     },
     {
       "title": "Oshkosh Defense розпочала виробництво прототипу DXPV Kaaiman для Нідерландів",
+      "original_title": "",
       "summary": "DXPV Kaaiman створений на базі JLTV з покращеною підвіскою, антикорозійним захистом та модульним бронюванням для операцій морської піхоти Нідерландів у прибережних зонах. Виробництво прототипу ведеться на серійній лінії JLTV, що прискорює розробку. Постачання 150 машин заплановано на 2028 рік, що підвищить мобільність нідерландських морпіхів.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1135,6 +1164,7 @@
     },
     {
       "title": "KNDS замовила у RENK трансмісії HSWL 354 для Leopard 2 на 130 млн євро",
+      "original_title": "",
       "summary": "Трансмісія HSWL 354 — гідромеханічна з інтегрованими системами повороту та гальмування, серійно виробляється з 1983 року для гусеничних машин 50–70 тонн та двигунів до 1300 кВт. Контракт включає блоки керування TCS-354A та селектори G4MA11 з постачанням у 2029–2032 роках. Розширення замовлення підтримує збільшення виробництва нових Leopard 2 для 23 країн-операторів.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1144,6 +1174,7 @@
     },
     {
       "title": "Прем'єр-міністр Іраку прибув до Ер-Ріяда з візитом до Саудівської Аравії",
+      "original_title": "",
       "summary": "Прем'єр-міністр Іраку прибув до Ріяда для офіційного візиту до Саудівської Аравії. Джерело фіксує прибуття глави уряду, проте не містить інформації про конкретні переговори, підписані угоди чи терміни зустрічей. Подія стосується двосторонніх відносин між Іраком та Саудівською Аравією.",
       "source": "Bilateral Meetings",
       "publisher": "IraqiNews",
@@ -1153,6 +1184,7 @@
     },
     {
       "title": "Британія призначила нового посла в Ємені",
+      "original_title": "",
       "summary": "Зовнішньополітичне відомство Британії (FCDO) офіційно оголосило про призначення Анн Сноу послом у Республіці Ємен. Вона замінить Абду Шаріф, яка переходить на іншу посаду в дипломатичній службі. Новий посол планує приступити до виконання обов'язків у січні 2027 року.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -1162,6 +1194,7 @@
     },
     {
       "title": "Сили оборони уразили місце запуску БпЛА «Герань» біля Донецька",
+      "original_title": "",
       "summary": "Удар завдано по об’єкту зберігання, підготовки та пуску ударних БпЛА у районі окупованого Донецька, ймовірно на території аеропорту. Системне ураження таких майданчиків зменшує спроможність РФ атакувати цивільну інфраструктуру України. Окремо уражено склади МТЗ у районах Попової Балки та Гірника.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1171,6 +1204,7 @@
     },
     {
       "title": "Китайські банківські кредити у вересні перевищили очікування",
+      "original_title": "",
       "summary": "Нові банківські кредити в Китаї у вересні зросли більше, ніж очікувалося, через стимули та сезонний фактор. Це свідчить про зростання ліквідності в банківській системі. Наслідки можуть включати пом'якшення умов на боргових ринках та підтримку курсу юаня.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -1180,6 +1214,7 @@
     },
     {
       "title": "Трамп: розвідка нафти та газу в Гренландії починається",
+      "original_title": "",
       "summary": "Трамп заявив про початок розвідки нафти, газу та мінералів у Гренландії, але процес ускладнений. Стаття BNN Bloomberg підкреслює регуляторні та політичні бар'єри. Це може вплинути на енергетичні ринки, збільшити пропозицію сировини та вплинути на ціни та ланцюги постачання.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1189,6 +1224,7 @@
     },
     {
       "title": "Міністр закордонних справ Єгипту зустрівся з головою Світового банку",
+      "original_title": "",
       "summary": "Міністр закордонних справ Єгипту взяв участь у засіданні з африканськими членами ради директорів Світового банку. Під час зустрічі обговорювалися питання фінансової підтримки регіону. У заході брав участь президент Групи Світового банку. Подія є частиною регулярної дипломатичної взаємодії з міжнародними фінансовими інституціями.",
       "source": "Bilateral Meetings",
       "publisher": "الهيئة العامة للاستعلامات",
@@ -1198,6 +1234,7 @@
     },
     {
       "title": "Трамп анонсує масштабну нафтову розвідку в Гренландії",
+      "original_title": "",
       "summary": "Трамп оголосив плани масової розвідки нафти в Гренландії. Це може збільшити глобальну пропозицію нафти. Наслідки включають тиск на зниження цін на нафту та вплив на енергетичні ринки. Можливий ефект на валютні курси через зміни постачання.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1207,6 +1244,7 @@
     },
     {
       "title": "Плани Трампа щодо Гренландії підштовхнули акції GLND",
+      "original_title": "",
       "summary": "Плани Трампа щодо масштабного освоєння Гренландії спричинили зростання акцій компаній GLND, GRML та CRML. Подія стосується потенційного доступу до ресурсів, що може вплинути на ланцюги постачання мінералів. Зростання обсягів торгівлі підвищить ліквідність цих паперів на ринку. Прямих наслідків для боргових ринків чи валют не зафіксовано.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1216,6 +1254,7 @@
     },
     {
       "title": "ЄС оприлюднив заяву щодо перенесення виборів у Палестині",
+      "original_title": "",
       "summary": "Високий представник ЄС від імені Європейського Союзу оприлюднив заяву про перенесення виборів у Палестині. Документ опубліковано на сайті Consilium.europa.eu. У заяві коментується рішення палестинської сторони відкласти голосування. Інших учасників, строків чи умов у повідомленні не зазначено.",
       "source": "EU Diplomacy",
       "publisher": "Consilium.europa.eu",
@@ -1225,6 +1264,7 @@
     },
     {
       "title": "IEA знижує прогноз постачання на 2026 рік",
+      "original_title": "",
       "summary": "IEA скоротила прогноз постачання нафти на 2026 рік через відсутність відновлення роботи протоки Гормуз. Ключова умова — геополітична невизначеність, що стримує обсяги. Це посилить волатильність цін на енергоносії, вплине на ліквідність нафтових ринків та валютні курси країн-експортерів.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1234,6 +1274,7 @@
     },
     {
       "title": "Дефіцит дизелю може тривати до 2027 року — IEA",
+      "original_title": "",
       "summary": "IEA прогнозує, що дефіцит дизельного пального збережеться до 2027 року. Це вплине на глобальні ланцюги постачання та енергетичні ринки. Підвищення цін на пальне може посилити інфляційний тиск і вплинути на валютні курси. Обмежена пропозиція ускладнить логістику та збільшить витрати для промисловості.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1243,6 +1284,7 @@
     },
     {
       "title": "Армія США запрошує на демонстрацію перехоплювачів IFPC навіть тих, хто не пройшов відбір",
+      "original_title": "",
       "summary": "IFPC Increment 2 — система захисту від непрямого вогню з пусковою установкою. Армія проводить паралельний конкурс для інших виробників, плануючи нове змагання у Q4 2027. Це дозволить розширити конкуренцію та прискорити наповнення запасів боєприпасів.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -1252,6 +1294,7 @@
     },
     {
       "title": "ЄС передає Україні 2,86 млрд євро на дрони, ППО, ракети та РЕБ",
+      "original_title": "",
       "summary": "У рамках кредитної програми Ukraine Support Loan Європейська комісія перерахувала Україні 2,86 млрд євро, що спрямовано на закупівлю безпілотників, систем ППО, радіолокацій, засобів РЕБ, ракет і боєприпасів. Цей транш підсилює українську оборонну інфраструктуру, дозволяючи швидко реагувати на російські повітряні удари, підвищуючи ефективність протидії дронам і зберігаючи контроль над нею. Фінансування є частиною 90 млрд євро кредиту, де 60 млрд призначено на оборонні потреби, що підкреслює пріоритет ЄС у підтримці безпеки України.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1261,6 +1304,7 @@
     },
     {
       "title": "Зустріч голів BOK, PBOC та BOJ у Бангкоку",
+      "original_title": "",
       "summary": "Голова Банку Кореї зустрівся з представниками Народного банку Китаю та Банку Японії в Бангкоку для економічних переговорів. Обговорювалися питання регіональної співпраці та валютної стабільності. Це може вплинути на валютні курси та ліквідність через можливі угоди про свопи між центробанками.",
       "source": "Банк Японії",
       "publisher": "",
@@ -1270,6 +1314,7 @@
     },
     {
       "title": "Що потрібне безпілотним солдатам, щоб вижити на полі бою з дронами та датчиками",
+      "original_title": "",
       "summary": "На AUSA обговорено, що безпілотні солдати, що залишають укриття, швидко стають ціллю дронів, датчиків і систем наведення. Під керівництвом Luke Savoie компанії Twenty Six Defense підкреслили необхідність збільшення бойової ефективності, зв’язку та виживаності через нові технології захисту, шифрування та автономних систем. Це підвищить їхню стійкість і зменшить ймовірність потрапляння у ворожі системи розвідки.",
       "source": "Breaking Defense",
       "publisher": "",
@@ -1279,6 +1324,7 @@
     },
     {
       "title": "У Росії збої банківських сервісів після атаки на датацентр «Сбербанку»",
+      "original_title": "",
       "summary": "Нічний удар українських безпілотників по датацентру «Сбербанку» у Саратовській області спричинив масові збої в роботі банківських та онлайн‑сервісів, включаючи GigaChat та «Самокат». Зазначено, що датацентр має близько 3000 серверних стійок і до 120 тисяч серверів, що підвищує його стратегічну цінність. Пошкодження інфраструктури може обмежити фінансові транзакції та вплинути на економічну стабільність регіону.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1288,6 +1334,7 @@
     },
     {
       "title": "Заступник голови АС зустрівся з головою Світового банку",
+      "original_title": "",
       "summary": "Заступник голови Африканського Союзу взяв участь у засіданні Африканської групи з президентом Групи Світового банку Аджай Бангою. Під час зустрічі обговорювалися питання двосторонньої співпраці та фінансової підтримки африканських країн. Подія є офіційним дипломатичним контактом між представниками міжнародних організацій.",
       "source": "Bilateral Meetings",
       "publisher": "African Union",
@@ -1297,6 +1344,7 @@
     },
     {
       "title": "Губернатор Банку Кореї очолив трирічну зустріч у Бангкоку",
+      "original_title": "",
       "summary": "Губернатор Банку Кореї Шин Хюн-сон очолив трирічну зустріч центральних банків Японії, Таїланду та Південної Кореї у Бангкоку. На засіданні обговорювали синхронізацію монетарної політики, прогнози щодо змін базових ставок у другій половині 2024 р. та координацію валютних інтервенцій, без оголошення нових процентних рішень. Очікується, що підвищена прозорість може знизити спреди на валютних ринках Південно-Східної Азії та стабілізувати ліквідність у регіональних боргових інструментах.",
       "source": "Банк Японії",
       "publisher": "",
@@ -1306,6 +1354,7 @@
     },
     {
       "title": "Британія вимагає реформи глобальної фінансової системи на засіданні МВФ",
+      "original_title": "",
       "summary": "Міністр закордонних справ Британії Ед Мілібенд під час річних зустрічей Світового банку та МВФ у Бангкоку закликав до фундаментального перегляду глобальної фінансової системи. Він заявив, що поточна модель не відповідає потребам країн, що розвиваються, та перешкоджає спільному добробуту. Мілібенд окреслив пріоритети реформ, зокрема дії щодо нестійкого боргу та стимулювання приватних інвестицій.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -1315,6 +1364,7 @@
     },
     {
       "title": "Чому ціни все ще зростають: огляд WEF",
+      "original_title": "",
       "summary": "Банк Японії та Всесвітній економічний форум аналізують причини зростання цін. Це впливає на інфляцію та монетарну політику центробанків. Наслідки включають тиск на ліквідність та боргові ринки. Глобальні ланцюги постачання можуть зіткнутися з додатковими витратами.",
       "source": "Банк Японії",
       "publisher": "",
@@ -1324,6 +1374,7 @@
     },
     {
       "title": "Мелоні: без зрізів бюджету ЄС на сільське господарство угоди не буде",
+      "original_title": "",
       "summary": "Прем'єр-міністр Італії Джорджа Мелоні заявила, що Італія не погодиться на бюджет ЄС, якщо це передбачає скорочення видатків на Спільну сільськогосподарську політику, рибальство та політику згуртованості. Це позиція Рима під час переговорів щодо фінансового плану блоку.",
       "source": "Treaties & Agreements",
       "publisher": "EUalive",
@@ -1333,6 +1384,7 @@
     },
     {
       "title": "PBOC влила 700 млрд юанів, нетто-ін'єкція 400 млрд",
+      "original_title": "",
       "summary": "Народний банк Китаю провів outright reverse repo на 700 млрд юанів. У жовтні нетто-ін'єкція ліквідності склала 400 млрд юанів, що сигналізує про пом'якшення монетарної політики. Це збільшує доступну ліквідність у банківській системі та може знизити ставки на борговому ринку. Наслідки включають підтримку економічної активності та можливе послаблення тиску на юань.",
       "source": "Центробанк Китаю",
       "publisher": "",
@@ -1342,6 +1394,7 @@
     },
     {
       "title": "IEA: попит на нафту впаде на 2,6 млн барелів у 2026",
+      "original_title": "",
       "summary": "Згідно з IEA, глобальний попит на нафту зменшиться на 2,6 млн барелів на день у 2026 році. Це ключова цифра, що сигналізує про уповільнення споживання. Наслідком може стати зниження цін на нафту, тиск на валюти експортерів та зміни в енергетичних ланцюгах постачання. Також очікується вплив на ліквідність нафтових активів і боргові ринки сектору.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1351,6 +1404,7 @@
     },
     {
       "title": "Міністри внутрішніх справ Індії та Росії домовилися про посилення співпраці",
+      "original_title": "",
       "summary": "Міністр внутрішніх справ Індії Мохсін Нагві та його російський колега погодилися посилити співпрацю у боротьбі з організованою злочинністю. Ця домовленість була досягнута під час офіційних консультацій між представниками правоохоронних органів двох держав. Угода передбачає обмін інформацією та координацію дій для протидії транснаціональним злочинним угрупованням.",
       "source": "Treaties & Agreements",
       "publisher": "Azərtac",
@@ -1360,6 +1414,7 @@
     },
     {
       "title": "Ізраїль не виводитиме війська з півдня Лівану та Сирії — міністр оборони",
+      "original_title": "",
       "summary": "Міністр оборони Ізраїлю підтвердив, що війська залишаться в буферних зонах уздовж «Блакитної лінії» та на Голанських висотах. Операції спрямовані на нейтралізацію тунелів, вогневих позицій і складів зброї «Хезболли», а також запобігання просуванню радикальних угруповань у Сирії. Така присутність посилює захист Галілеї та Голан, але супроводжується ризиком ескалації та порушення резолюцій ООН.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1369,6 +1424,7 @@
     },
     {
       "title": "У Канаді вироблятимуть НРК TerMIT для України та НАТО",
+      "original_title": "",
       "summary": "Базова версія TerMIT призначена для транспортування вантажів із запасом ходу до 40 км і швидкістю до 15 км/год, має балістичний захист. Партнерство передбачає інтеграцію канадської системи автономного керування AuraNet та створення арктичної модифікації. Серійне виробництво в Канаді заплановано на 2027 рік, що забезпечить масштабовану базу для постачань Україні та союзникам НАТО.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1378,6 +1434,7 @@
     },
     {
       "title": "Бернгам обіцяє підтримку Україні перед зустріччю з Зеленським",
+      "original_title": "",
       "summary": "Лідер Лейбористської партії Кір Стармер (у джерелі помилково вказано Бернгам) заявив, що Україна не залишиться порожніми руками після зустрічі з Володимиром Зеленським. Він підкреслив обережний підхід до переговорів, гарантуючи конкретну підтримку. Текст містить лише загальні обіцянки без деталей про підписані угоди чи формальні дипломатичні рішення.",
       "source": "Bilateral Meetings",
       "publisher": "BBC",
@@ -1387,6 +1444,7 @@
     },
     {
       "title": "Іспанія планує купити ще 15 літаків Hürjet від TAI",
+      "original_title": "",
       "summary": "Hürjet оснащений двигуном General Electric F404, розвиває швидкість до Мах 1,4 та стелю 13700 м при довжині 13,6 м і розмаху крила 9,5 м. У конфігурації легкого штурмовика літак несе до 3400 кг навантаження на семи точках підвіски. Додаткові 15 машин доповнять партію з 30 одиниць, поставки яких почнуться 2028 року, для заміни F-5M та підготовки пілотів винищувачів.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1396,6 +1454,7 @@
     },
     {
       "title": "Британія виділила 45 млн фунтів на ракети LMM для української ППО",
+      "original_title": "",
       "summary": "Ракети LMM (Lightweight Multirole Missile) застосовуються Силами Оборони для ППО проти російських реактивних безпілотників. З пакета 45 млн фунтів 10 млн фунтів спрямують на прискорені поставки для зимового періоду. Це частина зобов'язань на 1,6 млрд фунтів за чотири роки на понад 5000 ракет виробництва Thales у Белфасті.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1405,6 +1464,7 @@
     },
     {
       "title": "Світовий нафтовий конгрес: інвестиції, попит, атаки на Aramco",
+      "original_title": "",
       "summary": "На другому дні World Petroleum Congress у Ер-Ріяді підкреслено зростання глобальних інвестицій у нафту, підвищення попиту та інциденти проти Saudi Aramco. Оголошено нові інвестиції на $150 млрд у розвідку та виробництво та прогнозовано збільшення попиту на 1,2 млн барелів на день до 2027 року, а атаки підняли спред Brent‑WTI на 0,3 пункту. Підвищений капітальний потік підвищує довгострокову ліквідність ринку, посилює волатильність спредів і створює додатковий валютний тиск на нафтових експортерів.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1414,6 +1474,7 @@
     },
     {
       "title": "Єна в діапазоні, євро відскакує від перепроданості",
+      "original_title": "",
       "summary": "Єна залишається в обмеженому торговому діапазоні. Євро демонструє відновлення від рівнів перепроданості проти єни. Це впливає на курс EUR/JPY та валютну ліквідність. Наслідки можуть торкнутися боргових ринків Японії через зміни прибутковості.",
       "source": "Банк Японії",
       "publisher": "",
@@ -1423,6 +1484,7 @@
     },
     {
       "title": "Британія відхилила звинувачення РФ у загрозах на засіданні ОБСЄ",
+      "original_title": "",
       "summary": "Британський політико-військовий радник Аррон Ньюбл на засіданні ОБСЄ відхилив російські звинувачення у загрозах, назвавши їх помилковим трактуванням заяв про стримування. Він наголосив, що жодна цитата не описує плану атаки на РФ. Також Британія висловила солідарність із Болгарією та Мальтою після атак у Чорному морі та підтвердила підтримку суверенітету України.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -1432,6 +1494,7 @@
     },
     {
       "title": "Розвідка нафти та газу в Гренландії стартує до 2027",
+      "original_title": "",
       "summary": "США оголосили про початок масштабної розвідки нафти, газу та критичних мінералів у Гренландії за участі Трампа та угоди про безпеку. Буріння планується з 2027 року. Це може вплинути на глобальні ланцюги постачання енергоресурсів та ринки сировини, підвищуючи ліквідність у секторі енергетики.",
       "source": "Енергетичні ринки",
       "publisher": "",
@@ -1441,6 +1504,7 @@
     },
     {
       "title": "США безоплатно передали Румунії C-130H Hercules",
+      "original_title": "",
       "summary": "Літак C-130H Hercules оснащений чотирма турбогвинтовими двигунами Allison T56-A-15 потужністю по 4 590 к.с. кожен, розвиває максимальну швидкість до 600 км/год та здатен доправляти до 19 000 кг корисного навантаження на дальність понад 3 800 км. Румунія отримала восьмий борт, що доповнює флот з чотирьох C-130B та чотирьох C-130H для логістики та місій у понад десяти країнах.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1450,6 +1514,7 @@
     },
     {
       "title": "Британія підтримала резолюцію РБ ООН щодо санкцій проти Гаїті",
+      "original_title": "",
       "summary": "Постійний представник Британії Сара Макінтош оголосила про голосування уряду за резолюцію Ради Безпеки ООН, яка продовжує санкційний режим та ембарго на зброю для Гаїті. Лондон підкреслив необхідність реалізації рекомендацій групи експертів та боротьби з розкраданням державних ресурсів, назвавши ці заходи ключовими для стабілізації ситуації в країні.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -1459,6 +1524,7 @@
     },
     {
       "title": "Міністр внутрішніх справ Росії зустрівся з прем'єром Пакистану",
+      "original_title": "",
       "summary": "Міністр внутрішніх справ Росії провів зустріч із прем'єр-міністром Пакистану Шехбазом Шарифом. Під час переговорів сторони обговорили потенціал розширення економічної співпраці між двома країнами. Це офіційний дипломатичний контакт на рівні міністрів, спрямований на зміцнення двосторонніх відносин.",
       "source": "Treaties & Agreements",
       "publisher": "Dawn",
@@ -1468,6 +1534,7 @@
     },
     {
       "title": "Британські військові відпрацювали оборону Фолклендських островів на тлі претензій Аргентини",
+      "original_title": "",
       "summary": "Десантники провели висадку з моря та нічний марш завдовжки 32 км, відтворюючи операцію Sutton 1982 року. Навчання дозволяють відпрацювати тактику оборони архіпелагу в умовах можливого конфлікту. Це перший подібний сценарій за багато років і підвищує готовність британських сил.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1477,6 +1544,7 @@
     },
     {
       "title": "UK urges Libyan parties to honour commitments at UN Security Council",
+      "original_title": "",
       "summary": "UK Permanent Representative Sarah MacIntosh urged Libyan parties to honour commitments made to provide security, economic opportunity and democratic freedom to the Libyan people during a UN Security Council meeting. She highlighted the 4+4 process agreement, the 24‑month election deadline, and the need to avoid reopening settled issues.",
       "source": "FCDO (Британія)",
       "publisher": "",
@@ -1485,7 +1553,18 @@
       "published": "2026-10-14T16:03:05+00:00"
     },
     {
+      "title": "США продали рідкоземельну промисловість",
+      "original_title": "America Didn’t Lose Its Rare Earth Industry. It Sold It. - Lawfare",
+      "summary": "Стаття стверджує, що Америка не втратила, а продала свою рідкоземельну промисловість. Це ключовий факт щодо походження залежності США від імпорту критичних матеріалів. Макрофінансовий наслідок полягає у впливі на глобальні ланцюги постачання рідкоземельних елементів та позиції ринку.",
+      "source": "Мінфін США",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXkxWTduT1F6Q1RBOVNab2ZWZWdTRWd0Z3RBcmZSWGUwN1I5MThIaExSQzZmYmszcHBHQzNUdXoyQnFHUXVsYkp3VFdKVW1jLUE2TFBPZXdQeGxhVlY4VThpSWVGUE5VRlNfYWtPczktbGdESEJrcVluaF9JemY4azVNY005NjBNSzhOZGhzb1ZOQUFSTk8w",
+      "published": "2026-10-14T16:03:40+00:00"
+    },
+    {
       "title": "Приватна ППО: майже 100 підприємств долучилися до проєкту",
+      "original_title": "",
       "summary": "До проєкту приєдналися майже 100 підприємств, шість з яких уже сформували близько 50 мобільних і стаціонарних груп ППО. Групи використовують дрони-перехоплювачі та автоматизовані турельні установки з великокаліберними кулеметами, діючи під оперативним керівництвом Повітряних Сил. Підрозділи знищили понад 60 повітряних цілей, що посилює захист критичної інфраструктури.",
       "source": "mil.in.ua",
       "publisher": "",
@@ -1494,13 +1573,84 @@
       "published": "2026-10-14T16:21:49+00:00"
     },
     {
+      "title": "США зняли санкції з голови Національної асамблеї Венесуели",
+      "original_title": "US lifts sanctions on head of Venezuela legislature - Reuters",
+      "summary": "США офіційно зняли санкції з голови Національної асамблеї Венесуели. Це рішення ухвалено Вашингтоном у рамках дипломатичних кроків щодо латиноамериканського регіону. Подія свідчить про зміну підходу до санкційної політики щодо венесуельських політичних лідерів. Конкретні умови або додаткові деталі угоди в наданому тексті не зазначені.",
+      "source": "Bilateral Meetings",
+      "publisher": "Reuters",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ",
+      "published": "2026-10-14T16:25:49+00:00"
+    },
+    {
       "title": "Італія купує шість безпілотників Astore Levante на базі Bayraktar TB3",
+      "original_title": "",
       "summary": "Astore Levante — це версія Bayraktar TB3 з максимальною злітною масою 1450 кг, корисним навантаженням 280 кг та тривалістю польоту понад 24 години. Три комплекси (по дві БпЛА та одна станція) замінять MQ-1 Predator у Повітряних силах Італії для розвідки та вогневої підтримки. Сертифікація очікується наприкінці 2026 — на початку 2027 року, озброєння ще не обрано.",
       "source": "mil.in.ua",
       "publisher": "",
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/italiya-kupuye-bezpilotnyky-astore-levante",
       "published": "2026-10-14T16:42:16+00:00"
+    },
+    {
+      "title": "Трамп анонсує розвідку нафти в Гренландії",
+      "original_title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It's not that simple - The Economic Times",
+      "summary": "Трамп заявив про початок розвідки нафти, газу та мінералів у Гренландії. Стаття наголошує, що реалізація цього плану не є простою через регуляторні та екологічні бар'єри. Це може вплинути на енергетичні ринки та інвестиційні рішення в регіоні.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjd6RXhYU1M4dnY0RmlTcll0Vml2RzdjdFNGU0szZ25VVTdHWmh2V2hvZ2NfLWJ3Y0N5S3Awa2FrSENLRHNUM1JwM3d3aldBY1IyNi1HRjd5V1NUV2VnQklzb1VDZXhmSXl2Tmd3SDZRMjV2R2dEbmpFVUNObDU4ZHhpa29felZDci1YdHRzeHE3bHh6a0VHMkJZaEhPTVZsTHpBMllObTE5VHNpWTFNQndHd1VSNF9OMTJkTTZQTDFlV3BMSzl5VUtxXzhyeExFQWhpLWVGRjVmSHphUWx0clRQXzU2cTNUSGgzLUtHdmNUcnBjbFprdWZCVV9HREdSNWtIQ1ZR0gGLAkFVX3lxTE9UQmRkbWh2TjNIRWZlVVVzVXRuWWFuU1ZTNjBnSmtqbVc1UDBwVDhrejlXT1c0VWEyVUFPbXNkdHdaMkJLR1d3YW1Tal84T2hmQWtNRUd6LVBnczNFRUhmTVhIQ1dRWUVtSFhLMjhuS0o5ODRtbHN3QlNsMlVJQjk4cVc5bE5iNVZIMWFKZ2RfdFl3QzFqSEdhWklval9vWXRPQjV3ZVc1Q25NdjFZV1JfSkVqT1c0OFgxaTFMTW5MVm5DMXFZTVE4WkhpTFpiREpnWGR6eXlJRHNKMDF0RVFlRGdkMjhEV20zNE4wY2toMlBkLUdSaG9KU2ttWU41QWhLZFozSmR2ZzZTbw",
+      "published": "2026-10-14T16:48:21+00:00"
+    },
+    {
+      "title": "На Харківщині затримали військового РФ, який розстріляв п’ятьох військових ЗСУ",
+      "original_title": "На Харківщині затримали військового РФ, який розстріляв п’ятьох військових ЗСУ",
+      "summary": "Затримання провела СБУ спільно з поліцією та Нацгвардією протягом 24 годин після події 13 жовтня. Зловмисник служить у 1009-му мотострілецькому полку РФ. Подія не містить технічних характеристик озброєння чи техніки.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zatrymaly-vijskovogo-rf-yakyj-rozstrilyav-vijskovyh-zsu",
+      "published": "2026-10-14T17:44:16+00:00"
+    },
+    {
+      "title": "Мисливські ракети, безпілотники та ППО: фото з фінального дня AUSA",
+      "original_title": "Missiles, drones and air-defense weapons galore: Images from AUSA’s final day",
+      "summary": "На AUSA представлено широкий спектр систем протидії БПЛА, включаючи наземні ракетні комплекси та мобільні контр‑дронові установки. Також на стендах були показані нові тактичні вантажівки та супровідне обладнання, що підвищує мобільність та швидкість реагування. Ці технології можуть значно збільшити ефективність ППО та забезпечити швидке протидіяння безпілотникам у сучасних конфліктах.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/missiles-drones-and-air-defense-weapons-galore-images-from-ausas-final-day",
+      "published": "2026-10-14T17:44:25+00:00"
+    },
+    {
+      "title": "SIG Sauer оновила кулемет M250A1 зі скороченим стволом",
+      "original_title": "Sig Sauer оновила кулемет М250 — він став коротшим і легшим",
+      "summary": "Оновлена версія M250A1 отримала 13-дюймовий ствол замість 16-дюймового, що зменшило масу зброї без змін у боєприпасі 6,8×51 мм. Конструктори вдосконалили механізм швидкої заміни ствола, додали рукоятку та напрямну для газового поршня, а також посилили газову систему та вузол кріплення приклада. Це дозволить військовим обирати конфігурацію залежно від завдання в межах програми NGSW для заміни M249.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sig-polegshyla-kulemet-m250-pislya-vidgukiv",
+      "published": "2026-10-14T18:14:04+00:00"
+    },
+    {
+      "title": "Віце-президент Дж. Д. Ванс відвідав Joint Base Elmendorf-Richardson",
+      "original_title": "Vice President JD Vance Joint Base Elmendorf-Richardson Visit 2026 - JBER Home (.mil)",
+      "summary": "Віце-президент США Дж. Д. Ванс відвідав Joint Base Elmendorf-Richardson у 2026 році, ознайомився з військовими підрозділами та обговорив співпрацю з американськими військовими. Під час візиту були підписані документи про спільні навчання та обмін технологіями. Візит підкреслив важливість трансатлантичної безпеки.",
+      "source": "Bilateral Meetings",
+      "publisher": "JBER Home (.mil)",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2o0bVE2dGNjUWRhWDNzR3Z2Q1JuSjgtT3NiSjgxQUs1TVhRYVFWRkFFZmFQdjg4WXdXa211SFc1THpLT2lGN25LV25mbElaMXNqUk5pbTIzcENqWERpZ1pySklRMWtCOVpVQUFSbURSTUpZWm9ELTdqOGZGMW5KZ1pjNVBuMWVyeUZpbG1BblJhNnh5alRBaFNudzJ2VXlRYnVVNWE1WEtDYW1neW5POHBXZkpQOFhFZl9HQ3pkME14QmNRZERQQQ",
+      "published": "2026-10-14T18:31:45+00:00"
+    },
+    {
+      "title": "Росія розбудовує в Білорусі мережу військового зв’язку до кордонів НАТО та України",
+      "original_title": "Росія розбудовує в Білорусі мережу військового зв’язку в напрямку кордонів НАТО та України — BELPOL",
+      "summary": "Система використовує радіорелейні лінії та спрямовані антени на вежах МТС для передачі даних радіоканалом. Мережа будується магістралями зі сходу на захід від кордону з РФ до кордонів Польщі, Литви, Латвії та України з командним центром у Росії. Це свідчить про підготовку інфраструктури для дислокації та дій російських військ.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-rozbudovuye-bilorusi-merezhu-zvyazku",
+      "published": "2026-10-14T18:32:39+00:00"
     }
   ]
 }

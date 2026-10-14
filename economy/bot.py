@@ -187,30 +187,23 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
     recent_block = "(поки що порожньо)"
     if recent_posts:
         recent_block = "\n".join(
-            f"- [{p.get('source', 'джерело')}] {p.get('title', '')[:140]}: {p.get('summary', '')[:120]}"
+            f"- [{p.get('source', 'джерело')}] {(p.get('original_title') or p.get('title', ''))[:140]}: {p.get('summary', '')[:120]}"
             for p in recent_posts[-8:]
         )
 
     prompt = (
-        "Ти — старший макроекономічний аналітик. Твоє завдання: перетворити новину на сухий, технічний дайджест для інвесторів та політиків.\n"
-        "УВАГА: ВІДПОВІДАТИ ВИКЛЮЧНО УКРАЇНСЬКОЮ МОВОЮ (і заголовок, і текст аналізу).\n\n"
-        f"Джерело: {source_name}\n"
-        f"Заголовок: {title}\n\n"
-        f"Текст статті:\n{article_text[:2500]}\n\n"
-        "ОСТАННІ ПОСТИ (перевірка на дублікати):\n"
+        "Ти макроекономічний аналітик. Підготуй точний, технічний допис для інвесторів і політиків. "
+        "Відповідай лише українською та спирайся на наведений матеріал.\n"
+        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nСтаття:\n{article_text[:2500]}\n\n"
+        "Нещодавні дописи для перевірки повторів (оригінальні заголовки можуть бути іншою мовою):\n"
         f"{recent_block}\n\n"
-        "ПРАВИЛА АНАЛІЗУ:\n"
-        "1. Якщо подія нерелевантна (дрібні новини) — поверни relevant: false.\n"
-        "2. Якщо це дубль події з останніх постів — поверни duplicate: true.\n"
-        "3. Якщо новина важлива, створи поле 'title' (до 10 слів, суть події) та поле 'analysis'.\n\n"
-        "ВИМОГИ ДО ПОЛЯ 'analysis':\n"
-        "- Текст має бути ОДНИМ суцільним абзацом (без розривів, маркерів чи абзаців) УКРАЇНСЬКОЮ МОВОЮ.\n"
-        "- Обсяг: 3-4 речення. Максимум 500 символів.\n"
-        "- СТРУКТУРА АБЗАЦУ (пиши злито):\n"
-        "  [Факт події]. [Технічні деталі: цифри, обсяги, зміна ставок чи умов]. [Макроекономічний висновок: вплив на ліквідність, боргові ринки, ланцюги постачань або курси валют].\n"
-        "- ЗАБОРОНЕНО: емоційні слова, повторення одного й того ж речення, фрази на кшталт 'це вплине на економіку стратегічно'. Використовуй виключно професійний фінансовий жаргон (спред, маржа, волатильність, ліквідність, девальвація, яструбина/голубина політика).\n\n"
-        "Відповідай ТІЛЬКИ чистим JSON форматом:\n"
-        '{"relevant": true, "duplicate": false, "title": "Унікальний заголовок українською", "analysis": "Твій єдиний сухий абзац виключно українською мовою."}'
+        "Відсіюй нерелевантні дрібні новини як relevant=false. Познач duplicate=true, якщо це та сама подія, заява, зустріч, рішення або той самий звіт, уже висвітлений у контексті, навіть за іншого заголовка чи джерела. "
+        "Спільна тема не означає дубль: окреме рішення, нова дата/стадія або самостійний ринковий рух із новими цифрами можуть бути окремими новинами. "
+        "Якщо матеріал лише переказує вже опубліковану подію без суттєвого нового факту, це дубль. Не відкидай новину лише через збіг теми.\n"
+        "Для нової важливої події створи title до 10 слів та analysis: один абзац українською, 3-4 речення, максимум 500 символів. "
+        "Вкажи факт, ключові цифри/умови та конкретний наслідок для ліквідності, боргу, валют або постачань. Не вигадуй фактів чи наслідків. "
+        "Без кліше й загальних фраз. Поверни тільки JSON: "
+        '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}'
     )
 
     headers = {
@@ -224,6 +217,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
             "model": model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2,
+            "max_tokens": 450,
         }
 
         time.sleep(GROQ_CALL_DELAY)
@@ -278,19 +272,19 @@ def analyze_with_xai(title, article_text, source_name, recent_posts):
         print("xAI: відсутній XAI_API_KEY; резервний аналіз неможливий.")
         return {"relevant": False, "duplicate": False, "failed": True}
 
-    recent_block = "\\n".join(
-        f"- [{p.get('source', 'джерело')}] {p.get('title', '')[:140]}: {p.get('summary', '')[:120]}"
+    recent_block = "\n".join(
+        f"- [{p.get('source', 'джерело')}] {(p.get('original_title') or p.get('title', ''))[:140]}: {p.get('summary', '')[:120]}"
         for p in (recent_posts or [])[-8:]
     ) or "(поки що порожньо)"
     prompt = (
-        "Ти — старший макроекономічний аналітик. Відповідай виключно українською.\n"
-        f"Джерело: {source_name}\nЗаголовок: {title}\n\n"
-        f"Текст статті: {article_text[:2500]}\n\n"
-        f"Останні публікації для перевірки повторів:\n{recent_block}\n\n"
-        "Якщо подія неважлива, relevant=false. Якщо це та сама подія з контексту, duplicate=true. "
-        "Для важливої новини створи title до 10 слів і analysis з 3-4 речень, максимум 500 символів. "
-        "Поясни фактичну подію, ключові цифри/умови та наслідки для ліквідності, боргових ринків, "
-        "ланцюгів постачання або валют. Не вигадуй фактів. Поверни лише JSON: "
+        "Ти макроекономічний аналітик. Відповідай лише українською, не вигадуй фактів.\n"
+        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nСтаття:\n{article_text[:2500]}\n\n"
+        f"Останні дописи для перевірки дублікатів:\n{recent_block}\n\n"
+        "duplicate=true лише для тієї самої події, заяви, рішення, зустрічі або звіту, навіть якщо інший заголовок чи джерело. "
+        "Сама тематична схожість не є дублем: новий факт, окреме рішення або незалежний ринковий рух із новими цифрами може бути новиною. "
+        "Якщо матеріал лише повторює вже опубліковану подію без нового факту, duplicate=true. Нерелевантні дрібні новини позначай relevant=false.\n"
+        "Для важливої нової події створи title до 10 слів і analysis одним абзацом на 3-4 речення, до 500 символів; зазнач факт, цифри/умови та конкретний макрофінансовий наслідок. "
+        "Поверни лише JSON: "
         '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}'
     )
     try:
@@ -302,7 +296,7 @@ def analyze_with_xai(title, article_text, source_name, recent_posts):
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.2,
                 "response_format": {"type": "json_object"},
-                "max_tokens": 700,
+                "max_tokens": 450,
             },
             timeout=(5, 35),
         )
@@ -310,7 +304,7 @@ def analyze_with_xai(title, article_text, source_name, recent_posts):
             print(f"xAI ({XAI_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
             return {"relevant": False, "duplicate": False, "failed": True}
         content = resp.json()["choices"][0]["message"]["content"].strip()
-        match = re.search(r"\\{.*\\}", content, re.DOTALL)
+        match = re.search(r"\{.*\}", content, re.DOTALL)
         parsed = json.loads(match.group(0) if match else content)
         ai_title = parsed.get("title", "")
         ai_analysis = parsed.get("analysis", "")
@@ -498,6 +492,7 @@ def main():
                 result["title"] or entry["title"], result["analysis"] or entry["summary"],
                 entry["source"], "economy",
                 entry["published"].isoformat() if hasattr(entry["published"], "isoformat") else "",
+                original_title=entry["title"],
             )
             new_posts += 1
             print(f"Опубліковано: {entry['title']}")

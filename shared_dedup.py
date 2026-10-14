@@ -65,6 +65,7 @@ def _normalize_post(post, channel):
         return None
     return {
         "title": title[:250],
+        "original_title": str(post.get("original_title") or "")[:250],
         "summary": summary[:600],
         "source": str(post.get("source") or "")[:100],
         "publisher": str(post.get("publisher") or "")[:120],
@@ -168,22 +169,26 @@ def _title_tokens(title):
 
 
 def is_duplicate_title(title, recent_posts, threshold=0.88):
-    """Відсіює майже однакові заголовки; семантичну перевірку лишає моделі."""
+    """Відсіює майже однакові заголовки, враховуючи оригінальну мову RSS."""
     candidate = re.sub(r"\s+", " ", str(title or "").casefold()).strip()
     if len(candidate) < 18:
         return False
     candidate_tokens = _title_tokens(candidate)
     for post in recent_posts or []:
-        previous = re.sub(r"\s+", " ", str(post.get("title") or "").casefold()).strip()
-        if not previous or len(previous) < 18:
-            continue
-        if candidate == previous or SequenceMatcher(None, candidate, previous).ratio() >= threshold:
-            return True
-        previous_tokens = _title_tokens(previous)
-        if len(candidate_tokens) >= 4 and len(previous_tokens) >= 4:
-            overlap = len(candidate_tokens & previous_tokens) / min(len(candidate_tokens), len(previous_tokens))
-            if overlap >= 0.9:
+        previous_titles = {
+            re.sub(r"\s+", " ", str(value or "").casefold()).strip()
+            for value in (post.get("original_title"), post.get("title"))
+        }
+        for previous in previous_titles:
+            if not previous or len(previous) < 18:
+                continue
+            if candidate == previous or SequenceMatcher(None, candidate, previous).ratio() >= threshold:
                 return True
+            previous_tokens = _title_tokens(previous)
+            if len(candidate_tokens) >= 4 and len(previous_tokens) >= 4:
+                overlap = len(candidate_tokens & previous_tokens) / min(len(candidate_tokens), len(previous_tokens))
+                if overlap >= 0.9:
+                    return True
     return False
 
 
@@ -221,10 +226,11 @@ def select_relevant_recent_posts(title, text, recent_posts, limit=12):
     for index, post in enumerate(recent_posts):
         if not isinstance(post, dict):
             continue
-        previous_title = str(post.get("title") or "")
+        previous_title = str(post.get("original_title") or post.get("title") or "")
+        previous_display_title = str(post.get("title") or "")
         previous_summary = str(post.get("summary") or post.get("analysis") or "")
-        previous_tokens = tokens(previous_title + " " + previous_summary[:400])
-        previous_title_tokens = tokens(previous_title)
+        previous_tokens = tokens(previous_title + " " + previous_display_title + " " + previous_summary[:400])
+        previous_title_tokens = tokens(previous_title + " " + previous_display_title)
 
         if not candidate_tokens or not previous_tokens:
             overlap = 0.0
@@ -239,10 +245,17 @@ def select_relevant_recent_posts(title, text, recent_posts, limit=12):
         else:
             title_overlap = 0.0
 
-        title_similarity = SequenceMatcher(
-            None, re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", candidate_title.casefold()),
-            re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", previous_title.casefold())
-        ).ratio()
+        normalized_candidate = re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", candidate_title.casefold())
+        title_similarity = max(
+            SequenceMatcher(
+                None, normalized_candidate,
+                re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", previous_title.casefold())
+            ).ratio(),
+            SequenceMatcher(
+                None, normalized_candidate,
+                re.sub(r"[^a-zа-яіїєґ0-9 ]", " ", previous_display_title.casefold())
+            ).ratio(),
+        )
 
         # Схожість заголовків має більшу вагу; решта тексту допомагає
         # зіставити різні формулювання тієї самої події.
@@ -255,13 +268,14 @@ def select_relevant_recent_posts(title, text, recent_posts, limit=12):
     ranked.sort(key=lambda item: (item[0], item[1]))
     return [item[2] for item in ranked[-max(1, limit):]]
 
-def record_published(history, link, title, summary, source, channel, published="", publisher=""):
+def record_published(history, link, title, summary, source, channel, published="", publisher="", original_title=""):
     normalized_link = canonical_link(link)
     if normalized_link:
         history.setdefault("links", []).append(normalized_link)
     history.setdefault("recent_posts", []).append({
         "link": normalized_link,
         "title": str(title or "")[:250],
+        "original_title": str(original_title or "")[:250],
         "summary": str(summary or "")[:600],
         "source": str(source or "")[:100],
         "publisher": str(publisher or "")[:120],

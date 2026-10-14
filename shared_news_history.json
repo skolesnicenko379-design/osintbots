@@ -20,6 +20,7 @@
     "https://gov.uk/government/news/back-zelenskyy-and-ukraine-with-an-energy-ceasefire-foreign-secretary-tells-european-partners",
     "https://gov.uk/government/news/change-of-his-majestys-ambassador-to-yemen",
     "https://gov.uk/government/news/joint-statement-on-the-postponement-of-palestinian-elections",
+    "https://gov.uk/government/news/uk-calls-for-fundamental-reset-of-global-financial-system-for-developing-countries",
     "https://gov.uk/government/speeches/respect-for-syrias-sovereignty-and-territorial-integrity-remains-essential-for-long-term-stability-political-progress-and-economic-recovery-uk-stateme",
     "https://gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
     "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
@@ -63,7 +64,6 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMUpXQmRWVVpmUFlZeFRVYW9YX2I1a2ZuUTUxN2VLWG5aZzJqZXlPeThCM1NOWkI4ZzdvU1JSazZQalNPbEl2b0JLQmw3aUpmWDAxRA",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43cFJLTnUteXpodUJzV3Jhak9uLXdRdWtScUZJTjV0NEF5YW1rcTl5Q0ZNU0VXREtSVHNCNXNqM2p6bS1lS21FRW9kSEN5QlpGbmFYS3ln",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMzJkckxJN1lTTzFyUFhMbU1tbktLMENqdzRVRUMzY3o4a3ZpYVhOci1va2xoUkJUbXlPMmNUTFFuN2xIZ05MUHlqVnpwaFpZWFNVa0RCS3lkQQ",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTEg3aFFYVmdXU2s0enpETnhkRFR2Umc1bWdiLXJXRWM4czlzdlVXTHNOR3ZKdndJRXhWdXJsWW5mZkVHR0Q0MkFQbWJWNnp1eExzbk41dWEySGE0dWxr",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZ3M3al9aYUtaVzRZbG9fRnRFbXhLRDhSZHhXNG5wcmp5bDktVVhqR2NoUWowcHM0MFU0Z241SjFUQWt4S2xBTm1YU21OX2dFczRqbmd4RTg3RGc4Qll6X1I1Yw",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmtselAxckpkSnVscEVwVEZyRHRYaUs4aUJucmhrcUZ4NGVyTW42YlViMjI5aHFuX2dJQUFKTVVpc040V0l2SEhQT2N5aFBYTTVPajJyeVV4U3A0Ni1hZHQxTnJRYjhiZEE",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQUlPMmg3TURYNE1VQjZIQUZkODltQi16cFJDTW9mVW8xbDhXNjdMdGJmMTBvcWJYZXdScm9ZaXgwYVQycVV0bTZ6RUNqVWtlQkl6cmtNU3Z0bmlWOW5UbDItNnhxbkVwWmRKd01MNA",
@@ -152,15 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "Лавров провів переговори з ліванським міністром закордонних справ у Москві",
-      "summary": "12 жовтня 2026 року в Москві відбулися переговори між міністром закордонних справ Росії Сергієм Лавровим та міністром закордонних справ і емігрантів Лівану Юсефом Раджі. Після зустрічі Лавров висловив свої думки та відповів на запитання журналістів. Ця подія зафіксована офіційним сайтом МЗС Росії як двосторонній дипломатичний контакт.",
-      "source": "Bilateral Meetings",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTEg3aFFYVmdXU2s0enpETnhkRFR2Umc1bWdiLXJXRWM4czlzdlVXTHNOR3ZKdndJRXhWdXJsWW5mZkVHR0Q0MkFQbWJWNnp1eExzbk41dWEySGE0dWxr",
-      "published": "2026-10-13T06:15:50+00:00"
-    },
     {
       "title": "Visa отримала дозвіл у Китаї, доступ до 10,27 млрд карт",
       "summary": "Visa отримала перший після 40‑річного очікування дозвіл на діяльність у Китаї, відкривши доступ до потенційного ринку в 10,27 млрд платіжних карт. За оцінками, це може створити щорічний обсяг транзакцій понад 1,5 трлн USD та збільшити частку міжнародних платіжних мереж у країні. Розширення присутності Visa підвищить ліквідність платіжних систем, посилить конкуренцію для місцевих операторів та може стимулювати відтік валютних потоків у рамках крос‑валютних розрахунків.",
@@ -1501,6 +1492,15 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pLUlJd0RJY1hSZnhvbVhrUGF6enhZbHBKYWJHd0FDdG9rc2hVdFJPbVdXY1BaMjJsbVNFM1hOd044WlNxd0FNTUdtd2lMdUVoY2tMNU9xMURxSXNkbFAyYlloa1ZhTXprYnNfeVlJdFJ6OWNXZlE",
       "published": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "title": "Британія вимагає реформи глобальної фінансової системи на засіданні МВФ",
+      "summary": "Міністр закордонних справ Британії Ед Мілібенд під час річних зустрічей Світового банку та МВФ у Бангкоку закликав до фундаментального перегляду глобальної фінансової системи. Він заявив, що поточна модель не відповідає потребам країн, що розвиваються, та перешкоджає спільному добробуту. Мілібенд окреслив пріоритети реформ, зокрема дії щодо нестійкого боргу та стимулювання приватних інвестицій.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/uk-calls-for-fundamental-reset-of-global-financial-system-for-developing-countries",
+      "published": "2026-10-14T12:49:45+00:00"
     }
   ]
 }

@@ -1744,6 +1744,7 @@ def main():
                 result["title"] or entry["title"], result["analysis"],
                 entry["source"], "diplomacy", entry["published"].isoformat(),
                 publisher=entry.get("publisher", ""),
+                original_title=entry["title"],
             )
 
             new_posts += 1

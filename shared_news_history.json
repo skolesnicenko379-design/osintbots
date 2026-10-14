@@ -17,21 +17,24 @@
     "https://breakingdefense.com/2026/10/what-dismounted-soldiers-need-to-survive-a-battlefield-with-drones-and-sensors",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-albania-and-eu-provisionally-close-negotiations-on-enterprise-and-industrial-policy",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-    "https://gov.uk/government/news/back-zelenskyy-and-ukraine-with-an-energy-ceasefire-foreign-secretary-tells-european-partners",
     "https://gov.uk/government/news/change-of-his-majestys-ambassador-to-yemen",
     "https://gov.uk/government/news/joint-statement-on-the-postponement-of-palestinian-elections",
     "https://gov.uk/government/news/uk-calls-for-fundamental-reset-of-global-financial-system-for-developing-countries",
     "https://gov.uk/government/speeches/deterrence-is-not-a-threat-uk-statement-to-the-osce",
+    "https://gov.uk/government/speeches/libyan-parties-must-honour-commitments-made-to-give-security-economic-opportunity-and-democratic-freedom-to-the-libyan-people-uk-statement-at-the-un-s",
     "https://gov.uk/government/speeches/respect-for-syrias-sovereignty-and-territorial-integrity-remains-essential-for-long-term-stability-political-progress-and-economic-recovery-uk-stateme",
+    "https://gov.uk/government/speeches/the-un-sanctions-regime-remains-an-essential-tool-to-address-insecurity-in-haiti-and-to-alleviate-the-suffering-of-the-haitian-people-uk-explanation-o",
     "https://gov.uk/government/speeches/the-united-kingdom-continues-to-support-the-humanitarian-response-in-the-drc-including-through-our-assistance-to-the-ebola-response-uk-statement-at-th",
-    "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
     "https://militarnyi.com/uk/news/amerykanska-oshkosh-defense-rozpochala-vyrobnytstvo-pershogo-prototypu-dxpv-kaaiman-dlya-niderlandiv",
     "https://militarnyi.com/uk/news/brytaniya-45-mln-funtiv-rakety-lmm-dlya-ppo",
+    "https://militarnyi.com/uk/news/brytanski-vidpratsyuval-oboron-folklendskyh",
     "https://militarnyi.com/uk/news/czechoslovak-group-prydbala-chastku-kompaniyi-mda-space",
+    "https://militarnyi.com/uk/news/do-proyektu-doluchylysya-100-pidpryyemstv",
     "https://militarnyi.com/uk/news/fpv-dron-115-yi-brygady-potsilyv-u-rosijskyj-my-28nm",
     "https://militarnyi.com/uk/news/gretsiya-stane-habom-iz-remontu-x-bat",
     "https://militarnyi.com/uk/news/iran-yaderni-ob-yekty-zagostrennya-ssha",
     "https://militarnyi.com/uk/news/ispaniya-shhe-15-turetskyh-litakiv-hurjet",
+    "https://militarnyi.com/uk/news/italiya-kupuye-bezpilotnyky-astore-levante",
     "https://militarnyi.com/uk/news/kndr-vidstrilyalasya-na-910-km-raketoyu-kn-30-taki-rakety-vona-postachala-rosiyi",
     "https://militarnyi.com/uk/news/knds-renk-transmisiyi-leopard-130-mln-yevro",
     "https://militarnyi.com/uk/news/ne-vyvodytyme-vijska-z-livanu-ta-syriyi",
@@ -41,6 +44,7 @@
     "https://militarnyi.com/uk/news/rosiya-vyprobuye-odnu-z-krayin-nato",
     "https://militarnyi.com/uk/news/rosiya-zbuduvala-novyj-dronoport-geran-5",
     "https://militarnyi.com/uk/news/ssha-obmin-rozviddanymy-z-ukrayinoyu-tramp",
+    "https://militarnyi.com/uk/news/ssha-peredaly-rumuniyi-litak-c-130-hercules",
     "https://militarnyi.com/uk/news/sting-ocholyv-veresnevyj-perehoplyuvachiv",
     "https://militarnyi.com/uk/news/taliby-pobuduvaly-tuneli-poblyzu-kandagara",
     "https://militarnyi.com/uk/news/tekever-vidkryv-predstavnytstvo-nimechchyna",
@@ -49,10 +53,7 @@
     "https://militarnyi.com/uk/news/u-nimechchyni-sudytymut-ukrayintsya-yakogo-zvynuvachuyut-v-organizatsiyi-pidryvu-pivnichnogo-potoku",
     "https://militarnyi.com/uk/news/u-rosiyi-yaponskogo-zhurnalista-zvynuvatyly",
     "https://militarnyi.com/uk/news/u-rosiyi-zboyi-bankivskyh-ta-onlajn-servisiv-pislya-ataky-na-datatsentr",
-    "https://militarnyi.com/uk/news/u-ssha-prezentuvaly-bmp-wolf-zaminu-bradley",
-    "https://militarnyi.com/uk/news/ukrayinski-moryaky-vidpratsyuvaly-znyshhennya-min-za-dopomogoyu-pidvodnyh-droniv-seafox",
     "https://militarnyi.com/uk/news/urazyly-mistse-zapusku-udarnyh-bpla",
-    "https://militarnyi.com/uk/news/vyprobuvaly-mars-4-4-dlya-borotby-z-dronamy",
     "https://militarnyi.com/uk/news/yaponiya-pryzupynyla-kupivlyu-tankiv",
     "https://militarnyi.com/uk/news/yes-ukrayina-2-86-mlrd-drony-ppo-rakety-reb",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV21UcU94VFlsaHZWZDM2TmVVTW9TdTJjTVE0QVRpSEFBV1pIdXlaemg3MGV3LVdmYmRJWHkwb00xaFlrWHAyQWpBNGdoMU5qaFhreFpaNE5uMTVOdFdBQjlrcU4yOTIxZ1N1VGtsM09TbUN5V0FKMkZEYmtseDB6OG5qNjlqY0lDRnBYS2lqRHpGclRCRHBPYzhiXzlCWUxvNFVvSmZpellIcWw3S2xXZkRFdE9hZUZvX0tXT01TTG9scGFjUVJWTDZxRnRsZlZ0",
@@ -64,12 +65,11 @@
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcXF0UUR0VmFXLWdLZk1URVdSSjN5bVFldEJNNElSZDlSRmpScDE4ckpKOV9pS0RWaWdHTkRyYjh2dU5HOUxxbzk0OWRPTzVTLUhXZnNVRXYxWkJxMmpCTUc3bzdMd3ZSQmlxdDczN2t2QlVpQlRDclctd0NieDVRZjhkQlRTcXEyaEhqMzRRNFVYbE9Ec28xTTVLTGdHQW1pLTJXUlNYQ1hFSkVJM1FQejUzYVN5eVV6OTVvZmlMSGthS2NRdGpqNmdGbGdXR2FMdHB6ZG9STDd3ZXhuUkJ4M3FR",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHlzLVlHbkZqNkRBZU9oQ2V3Und3UTlDTFNDNVJCVnRWalJEUlFycERZNjU2RVJGTERGd2sycHFQS3JNV2NZTGQ1bFM4ZjlQazUtTmlsc0c0MjVwU25hTVg5RTdmcVNLanFydC1wZTFHbTJPY1p6blJ3ZHRtc0Jtc0thT1M5RllacEdpOEdnbGJKaWZNTVNlSHdEcGRvV2tqQ2xYZUc1NGlxY0NBRFI0ZVZwdE1WRG5hNnd4cGVsUXdBb3NCWkZaUl9saVVOOGNIOHdMUXQxN0YzcXgyNi1SQ05STlZ5ZEk",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc2dxd2dzUzhnTXRxZjlRMUhMZFhuVUVJQTJvUjdLU0tveEt4enFuT2FiNkNGN1BQWGR4d3Q4aU1MaGNveEtxSkRJdHdIeEZCUlBfd0VMNUtLV3Rmek42RGF2MkNyV25nYWR5RDZTeUt0Q0RjLXBBbWxoZVF0SmVqM21fV05KSlE1M19WWXctTy1tZU1Dd3Npal9TX0Rrb1pna29uMjlIZ284RnhRMUx5RFFuWDd3STBHMEhQWFhqaXJFNWk2Zm9LQTlFakcxVk1pRmpFaVM0UVAtSzR4aEs0RWFOd3YwNEF5aUpHSEx0d0hqZUU",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00bEZmN0ZkNGR2TGJrU3YtbURLcklwNVFTUnhqQ1VacS1TRlNHQnZRM0tBSElEMmlxcmVraXptek4wNWhYUDdXYnJYUVE1OGNS",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ubE5GYUthTmwyMHNHanRCMEZIeVpMbk5teHlJZ1FrTXMwdVk0NU9sTWlldkxGcWM1aU44cFZkdkJrZWdBbWRIcw",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMzJkckxJN1lTTzFyUFhMbU1tbktLMENqdzRVRUMzY3o4a3ZpYVhOci1va2xoUkJUbXlPMmNUTFFuN2xIZ05MUHlqVnpwaFpZWFNVa0RCS3lkQQ",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZ3M3al9aYUtaVzRZbG9fRnRFbXhLRDhSZHhXNG5wcmp5bDktVVhqR2NoUWowcHM0MFU0Z241SjFUQWt4S2xBTm1YU21OX2dFczRqbmd4RTg3RGc4Qll6X1I1Yw",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmtselAxckpkSnVscEVwVEZyRHRYaUs4aUJucmhrcUZ4NGVyTW42YlViMjI5aHFuX2dJQUFKTVVpc040V0l2SEhQT2N5aFBYTTVPajJyeVV4U3A0Ni1hZHQxTnJRYjhiZEE",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQUlPMmg3TURYNE1VQjZIQUZkODltQi16cFJDTW9mVW8xbDhXNjdMdGJmMTBvcWJYZXdScm9ZaXgwYVQycVV0bTZ6RUNqVWtlQkl6cmtNU3Z0bmlWOW5UbDItNnhxbkVwWmRKd01MNA",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMldqZXpEbnUwcl96R09SYmpZZE55TmVfb0JiX0xUSlRTcWlVWmhnVXJkM2FNLS11LXk1RXVJdlFFcGtFMzV3VHNnWURmUlN6V0ZHYjdnMVAtdWJGMWYwd3l6N2s4ZFBmNDdmcC1YRUtEVzZa",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WeVNxSXE2ZUxmaWptQ2t6TG1DR1R3aFViNVZaSG8yNTVOMkJkV3pnTDkydm04RlRIeV9ITDBoaDZRcHNUQ3BkUkhyZWE5WVRBSkV4NEFZVFFGNEJyOFpKanZNSmJlREZHaTV6aDVOVXFEb1FIQVE",
@@ -81,7 +81,8 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ESHJaTHRtc2c4ckt5ZWFFc1hpQXE3Q0gwZHZTTG1VUGhLN2VJT1NTMTdUWGNCTDM5Z0g2ZmctU25nVWNlMHhTV3NpWXZVa1FXSlZkbWhXbUZvdlhmdnpxbnFZTFV1RERfLVlFeW9kbVk4YzFkTzRWeE1n",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpPeUc1RUpRWlBGUnczZ1g4N1ZmMlBpY1cxUEREZzd6RnEtYm1aYmJzMnpoTnlJOEUzXzQ3M3NZNS1lbW93M3FDRWRFUC1jRktlU21VVmRlWm92Y2pJQU5pSExEYnNVemV4bGNXZmdpV1hpY243Rk5BY2VkVXQ5UTZROEw",
     "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXRMaHJVY21MMGQydjQzNGh2cXFSUWpIaUNac01nWi1JOWFqV1BmRXJFcVl5VzZLUjZTRHVIYlFTNVlWa2hnS0F2VktXa0lpWUw4aHYxN2Ywb3ZYRHJhN3RTUndZV0w3VHJPS3BxdlVsbVRiR2xEb3NTOUNQYm5wOXZ1ZFNvRW5YS0E3VjBab1VudnljVHVGM1ZvSlp2ekY3TTI2S0IzNmZmQVV4OVhYNkNhdTNDSjJ5M0pBVGRpMkFRT0daQndCc3JWMkVRaUxBcE1KRW1kazF6ejdqeEVZcHVVWG9CMHRtYzkwTGpRX2puX3pYS3Ryc3RtNGs2ZjVoN1VsNFUxVQ",
-    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdWp0Zy1OQnlxS3ZuWkN6V1RNM2FjcVpTbDRtNWlJay1rb3JHR1RjaklNOExxekFhaG1WV0FDRTBoRkFxaHBoMzJlMTRmeTJlTEVVbW1sUll3QnhkbWZvdEdNVDBaVDROdlNrQU1ZakVva08tS2E1X3BYbEM5MjMxR1NlMDNnamNEdHlSU25MLWgxcElFekFLM0RYa3RUbllNQXdyTFVqMGVYLXdPTlRLQWpqd1Ytal9Ga2pNay1GQjJRbWE0djRlaHBLWEZzTVJMdU5iZEwtenVnalZoWFZncWxtYW54SVQwSjNWWDhSd01Lb0MwdFk3ZHJhVWVkMy03U0ZBbnAxZVI",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdUVRcHRfelVZVi1rdlpHdEtyRzFScDlSdDNKYVdIbXdVdTl2cjNucmxGZEhYQUpBNEt2OHZ1d3ZGSnhfUDBaQnprclpCeEh0MU1GVjMwby1MMWM4c191UGhQempTdTg0MnlfSUtCTzRkRlJlY0d6R1ljVllvdFFtOUVUSmROZ3lQcHBqUVN0R1Iza25aRUNaVW9yaTZsdEdmTE1UR2hFNEhkZDVnQ3pmd0FfdjFLWndtbDN4Q3NCSm1PM0xucHB1MHJrMm5sVUhyQ3RmcUduMVlyUlF1bmpCalpHcUxOOC1lWjItM0NRSlc0eGpOUGpZSV9zcGpxbXhaRE1KNktZbFA",
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkRMQlpjNDYyd3FXcFBwaWhaMVFqV2tBN0NKelRFb0pBMmZISWJNdWFDUjgwd0ozWEhiaVhwMnZmbmhselpkNXBQdnFDbTBGdmpPNTVqZER1dUtoRC00WVF5dWhFM0lSUkt4SnBtVU9YM1pHaDVKcDhibDBWMXJGTm02YVVGQWZyajdVVjZlTVV3cklvSlBxMmphRzBxeTFnS0V6MGUycjloY0JfbzhxeXpJLUY1bFNaa3VqSVltMGJKc2tUa3ZocVZaRW53WEJpVl9WS3lLUFAzeVdxblRNdnJpQ0JxTWhIYlJOVDlfZG9Ea0FJMDNKOEVPUVJOZU1OVWg4WkQ5bDBzQQ",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY0dtUGZtUnozdXFFRXFMSmlCMmh2NFA2M0xielQ4eHRXMjBWaDdDTXBSMGg0ZjlWVG9pUlQxdTVCeEJlYWhuR3UxTk02SzBRVDdneE1uZnhRbGlVVTNkeno1X3lDd3JCWnhSdmk0WlN6X0lCYlRjRG11RDJOdUhCeVd4a3JTVUxHTkpLdlhBSlJNdkdlNmlZM3BMN2pNcU83UHZneDJNVFpSdjM5WXRGRmp5REVVdmRXQXNucmtsUGljWEhFT0EzdFJvaFhCWkJqbkJpNUdBWlZUNmVyY0lSc19qT041alJ4SzhES1hSV2JXSmtYUkVVOUxoTTY2RGRYQ3VWamx0S3M1ZG8",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmxzWk91dE00RUtUeHQxdm9sMExJeGRTdFJqTmhOZ1JpbkR6M2FVWnJCdno2bVNTaHhORFlpQnB1N0MxOHROTDhla0phZ193N3JlRm5xcWtIYWpnTWxmRVEza01DR0FyZGVaemVzNk9NVnZBcGR1UURlT2xFbkFOQTRSbk84ZU5BWEtkOXlyU2ZXNXpiaHZ3SjNuQ0RtNmVPX1cxeG9kWVJVS2ZtMExkcFJoM2NYdUtubl9aZlkyUnJkNGFISGRTeUVhV3RkS1FmQXYwRUVBYWZ2N3lqRm9uLXV1NVQ0SkFJb2Vra2RmNV9XWHQtT3hZSzhGd2M0R3FtTnZKajNERUpJdzE0",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVElaU1VMSDh4QXdNUTByc09BN1NJQ0E4M2owUnQtcWZFVnBJR2RBZU1hdHZBU2xsTkh4UlpOcUpYRFBfNkczWVBNLVBlVF9YUTFlVUJ0NUJhQ3YtRkRuUEgzU2otY2pOeUFDLWdFX1ZRc0Mwb1RMeXpzQS1WYlVnSzdxTHNLUDRUQm5jeVFn",
@@ -98,17 +99,17 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE4zeDdocVBoWERXR1hxRlU5QkNmbmpTS2ExVWZXUUp5dFNuMTVmWjV2ZEtyTFp4dDRKU1RJOGRCbG5YRXlqUkFHTnBJSVZSTF9BMzRmazAtMW1odUg4UzJxWlE4bW1mQlI2QjJyTUhVUnlORk45R2RRNFB3S1ZvQWlKTndaSURVNFVQeGpobW92ZEFPaGhqRmo5WQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzFsTFNPWXREaFRoejU1MG9fUEpiRFhJY0RERVhBYlRha2gwUkNhc1g2clhic3Q5Y3FrUFNhdS1kRktWdi01MXd2TC16S2dTOGNRb3lmcDNtZ3NvcC1oVlotay13dWhBYWg1T1hsczlSalg1UEJaenF3SHgtOGxMM1QxZWhuNWNFdTZnUF9xYTZKTzQ4WDE0N2Fkb9IBoAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnJ1N2lybVpnSUJVXzFXU1ExS2JYNk44Qk9IWEhRYXhRYk9JRlhOYjJINC0xR19USmNMcVBUZ2dQeHJZS1FDQTMtbEhRM29wMmw4UHFxZkNPeTZMaXROU1VxWURmVnI4a0FVOFRrcmZrZkZXVDYwdlBJUXAtak5vNFJ3SzVScnZjek8tdE54YWJxZ0VNQUlGeWVGbW5jdw",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHhQRFVNRW1iYmZYTVBTUTVrTjJSSjczSmJvT0FwbGNGMThuM0NLWXZBQ0NIc3dxWFZNWjhXSkY1OGQ0Q3dhUXQ1VUpxQW9mSHhlMllneVFzXzRGSTJCQ0NuWEV4UER3MUN5a2liZFRHeXZ6bDFrX3BONjJLWm81SlhYRUd3aml3ZXpSS0ExN0x2M09Dd1ZIbXVhbnJia1k",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV0gGgAUFVX3lxTE9GSkxFYmkzazBCV2lucVJWQWZ1R1IyVlhHT29VYk5ReTBhbzUzQ0RRRVZvU24wcE5HcTJmREkzTExuTThUV0swMjluMzdQbGRPQlh5TWdvSDJaYmFyZndMSG9Db0lHSVE3bGJWN0R0Q29IOEZBYjljRXJaaHowUFpIWlROQVJuVU1NazVRTUZyUFBrcGg1Rm11MFNqS1diM1U",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3dreEZ3SVQtTkw4YVlHb2pLcXJSRE1icmwtR3JNTVk4SXZEUGdaeEZ6LXdhZXc5LUFBSGZLWE50NWZROW5KcUNKSnlpWVY4NzNCeHppbk56eHNrMDZXdUZwM0ZFbEtTTjFPblhwZWRBdHNhZDdCUG5aNHFqN3pqNGs5akdSczloWWNMY1A5NjNqNzM5MGlUckpvaUtScnhP",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGlleHVyOE1CSk55Q1JpaUFFNUZ6OWpjbUF5S1pZT1o4N3pPX1JIOUhpT0pfZkxscUR2LWtYaHU5STVwRXlzd3RvTUp2OVF6QjBmcWNJZDZ1MTJUUWNLS2pLdEpaRlpRX1JhUjdmRkdMRFBPZmJfTzZkSWVwRGtFSHc2MFpsUjFIYkVaTU1teElvWno4WjZnR2xxQzczaG5j",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXBSeEh4NmUwYU8tY1pYWjdKc3dXSWpqVTZmVTRQUzBaaVFXV1ZjNU4wZG8xWk9uaW9YUXZ5V1pwSmNHOWFCWjliMVdBWDJXbUtTcUxZVThiVkxxZVZ3U2FNcHphOXdrWjJGb2VTNklReS1LUkVSbzhBWU5nOFphQmJDV3J2blRMSUVwcVJnUjF6LWhhcUktNzFDazdjM2N3b2c",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVF4QUlJSF9ZLUQzNzdDamVITVo1VWxheldITWRIc29XY0hhM0l2Q1lFLTVnUmlOOEhKc2hNV1h6VEpHb2htWHJvdnNoTVoyN2FiYUFCOG4zWmVKSDhJa1RJRlBsT21ZVlRFdkxNeWFDcUc0d3Q0aWtTdXZVbS03bWpRdnVBcVJSazVvSHluVjFqQUR3OV9xY2tsMjIwMGhhOWc",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb29sVzlZVVlNMFlyZEU3WmlEcUVzdF9oaTRMTDVaX2JBUWl6RmhCN3VPUVlkZFAyYXRrY3Z3RDZqUEYtRlBiMWE5anR5ZnM3LXRORTllUUNPcEdvZzFxZ2JoNXhzdGczNFB4WURWN3dJT3pZczJMSzBZNVlLTmFMaUpMTEtfZkdHdHNpY2UwZ3VSVENNc2NIODFqb0dkbWRWc0tB",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMENSYUZkWVNkQmNVUDJEcUNHclQzYldwZkQ5T0lqWG1uSHdhblkzNUNKeGZYQV81cm5rUzVkV3N0NzN3bHpwdnZDWnBGMlMybGVfQ05PYkRMZVVkcFdkNU5BTXdzX1RsMy1EQUlqTTkyLUk3Y0NiZUFjWGdrb0tlVTBNd1U3T3lmaUZzZS04T2x6b0l6bWhUemdyZVpUT2JFX1BPLQ",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkN2cndoQ205eUlLU1JKU1E2bDRwZXBNckFMZFpicHJ0ZDFDVFhPd1ZlNnJXNHkwUVo2dkRVTXJlb0Ytb0VxN1NLZUI5aGNWOGhzdHBqY2JXZk1VU1pndW5rNHlHX2ZvWU9PODZ6aXVuV0NjLUJOcl85Zko3UUdUUWJyV0w1c0U0WERVcnU0b3hNSmFpMUphWThXT3hkRHVKeGlmbg",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1dIRTBBNGs0QjFmeDdXN2ZCM0llQ3R5NjBIeWdTMk9WalgxUGotaE1vNkhFS09uS2o1bDhFSXV3MVphbW92N0Jmb2NuV2ZtX3o2R0I1Vk9TcXdvT0tjdWljdUhLbGVMWC00S3lPMmI3eXRiVVphbVVCUVhnX0tSMVRIWmpOZjJTQ3NTTXNmdW0zY0NYV2wxSWpTZ2xzWTNTUkNzUU9n",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3hCSkdZWW1FOFl4WmlFRFJWNGVscGNSX3lBLU9mVTE2UWV5eUdkaFpxU19CNkU5SVhXcG11dmFoSXh2WjVVUjUxZVBRcmlkSTdSdDJWd0tDbllRSkxEZzBXM2p2Umd0QXQyTTRhWF9JLXNwVUkxYjZhbzZfY0M4OXpjOHJ0Z1VSd2hHU0EtXy15Wmo5Qkc1OG8xaGlOdERKLWJSNGp3",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWRSU0FMZVdCUDhsajZfeXpFck5DRF9xaHRMVVNXbDNVcDZYM0lvZDVmM1ZSZzNxUFcyLV9Qd0QwRDJJRGhkbjhjX0lnR2Fsek9pNzQ0dUtzR0FUOFJQTTdfZmh0OHRhUHI5WWQtYWJTSGhBbGQ2VXBLUlRubFZLak01ekZxUzRWYzgxelFZLUZIbVJsNGVyZVQ5S0hnLUJIbFFXNDZpSQ",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFY2VWttQ0UwU2dvM2JLdHE1RG1TTUpyVkpZcFBra1NybWxZSHR6SDF3SW9BSnpWZGFWNl9scDZ3aDZucDNJRHQzRWRDRUJlc2syOHRHYjZUeFExYU1kamxZM2VLUm9XV3V6VkVNYlRkcEtEbHZZTWJjUUc1NEF5dV9NT3FGS2pEdnRNcmJHSUlGMDJBZ3duM3VZVXNXdHRZUkVGRHBGSQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTVDUlBPbkp1RHdRSUxXTmNmdnZUVnRHU0NqYXBsMTBYVDRLLTdTT01PVG1idlF5dmZkU01JdHQwVVFMNFUzTmFVNUtfbE5wbG9vTnp2dVJid1FjNk5jcTFGd3p4TmlESENjenRnTk9DX0t1a1hkaXZzQV93N0g1RHpXcUVnRkg4QjhQaUNSVzE4eklLY1V5UGZzU0Vic2p6STg2VGtzdVpRUQ",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk44MTIta0h5dUxHa1dGSXpwTGhzOFk5bE5FVTNSREN5eDVkMEFrcXU2ZGZ5TkZTTmhqM1NadHpSbVM5RnZBQk1TaDd4ZUwxUmF1SGtWbFFVYkNZZkhpYjVoMTZHU3o3WGFNcmJxTktWcWJyZXdOZVM3Um4xZ2FGNEY1Qmk1VlRjbjg0dnMzS284bnpFSEtEQW5ITE1YcTR4RDJ1TC1NV0ZLV1lf",
@@ -130,7 +131,6 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1pxWTUyV2FMa1ZUamd6dDlzRTdjQXh1QkdCUVVsaDQ5dmtEN2tHQVpCQ0E0S2R1dHcwZjlVUmFzSW9RaHB0d3pVTHFOYUVSLU9UVEY0QkZOVlowZDRZMG1rQThmemVzczBPc2hBQWZUelFoTjJjWllyanJLb29pS25ucmJFN3YxSl9uXzMtVnZ1YW9oYmE2SHhuWmxjLUlFRVRuYTBZazI1X21tVTZYT0tvQVRyWnpJYnc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnVON1hVbGN5YnpDeGhrakxrUXlqVXRkYTdDTXR4ZkNfMzRraEFEUjRVZHRRQTQ1QVhFNzZidlg3UGpkcW9kTHhSandYa3J4Q2IyUFU3dnE5bWZHTEUyd2pPMFFndmdtY1NCczFNMlV2Wm1GYWNTZXp4dGhMSW5SV1VaalVkdDRvU2VhMHR4SW9RTmlseTZneFFtQ1RuUnRfcWt4Y1RkRzk0WE15akhKTXZaTlU0MVdleFFN",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm83Vk56cEQzTXI2SzFEUWxUSENaRVZxTTQwX1UwbWJCQ3l1ZUpwWEZubGlmX0VRQVdnSTN0cl90ZGU5RWlQanBHWUNFTDBkUHdCcXNBQUdkTjhFamxxbGNrVlE4WTZIMVNWR283ZWZwMTF1bGVaSngzX1hUT1NDQTFSa2RUa284cmwxU1o4YVdXZThWdXJhc1FhYk4xeDRCTDVESjBybTZxanNwanNBVTI4TDRWUmh6ejV2TWhB",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTlWNUNPUVI2QkNKelJGTTZRd3FlTUJiMU93NmMzaVVhVE1xOXV5UzBjSFJDczF6YkhMZmwzanFBanVMdHJyclUzLVRzdHNtTDJ0VmFkaENOTVJxNFE2dUtZV1Q5SUZWU284aHVfVjd2Mjh6eDhjelkwRlhlNmJ5c0VqUzBIQzV0Qm9fN1RrdHZfazBVUEZYZ1lmeGhobEZjTkdiN2JpRExtSWxXMjdfNTJvMTNLNTJkMFg3Y2xB",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTRKQnhpQmNKU0FhSkJSb183aHFjUnRoSW1YekR3WXBGX1doLTdtTi0xLXQtYXpmOTN0V1BZaW91WGFiZUhnMC1laTNwQTJ6OWFXaHFNcklydlJUS0lhSkY4eDlLendqdVBxbG9yYjZyRkpNODg4R1JNWTZyNWZBTG1vNHVxcWo1SDZ1a3kwZC11ZHE3TnBscUhBSEVxNHRReTl5X1pHUzFpWnpPdkgyS1RZanEya2RXQnM5ejBmb9IBxAFBVV95cUxQRW9iNzZGaEFTMjc4UV95dXlTREo1NmtsWllIOGZfQzFfeE9fd19UeXJiTGxpX3pPWEQwR2NqRUJxTjJvUWs1MkR0VWhhdy1tTzdtblpobl82SURaa0lIWUpnY3VKc1U1eG5mUEp0ZGZYYVpmSHJ0VzVFaDhZZm9oNWI2TFBaaUt4TDhtUUxvYWNaRXJRYXRUNE1VNmFmbHh5MnA5aXpPaUNPMGphUEVrb2FITV9vdGtqTHVZMUlDOENONXVp",
@@ -139,11 +139,11 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaXNTX2t1cEtfV3pJb05SeTJOcWNOcUF6am5ZcGU1VGc2Y1hDVDhsRTJWb1hCMm5fcHI0NkZYdUkySXZxSTVYM2xsVGVER00ybW1iM3huQzBMXzllOGhXUVN6NUtFWjQ5LUZncEVJaGdxWkE3UHpPSk5RRFU5cmN6d0tCOWtIbDBiY3l0akpqX0pRRmxBNGhKa1V5N0hDeUNWNWZtckxjS2xGdWZEb0dsUGY0bmxaa0piWHZ0U3ZndDbSAcYBQVVfeXFMT0Fma3NXSzBmOXptYlU0NHJQYW5kQTB0Znc1V3FpbDBNQnR6TExZdU84eUVKWWpGMllZMzExdnpEdkROeXp6OWlJcEsxWWtkRnBTamt0UU5DYmNpNlRuNFpMMFB6aHl4ZFdQajZGbmZEUGl0V0RGdXZtMGZTNWRTeURLSFBhRFVXb052MFlEVmZ4LXViRlF0TVRTZjVzXy1wOGZ3YXVKZG1lRzRETXJVQjN6M0JWWDdFRm9mdmhvbTAwVkFneUZn",
     "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLUZRYUNOMlB4SzIxdHNZNk5XS3BVTUJ6VTc1eTNERW9pcVNwVTRNa0lFRV9LdHlSODNrbWE2cUMxVDcxMEVEd2NyTzF4YTFFUTBYZGVPR2toVUtrZ3lDSUVFbzFSdXkzTlpNczEwdW4ydGJIbXF3MjhOcEFhb0QtS0dwd1NFcEJ5anlCNUs1R042ZUpJbksteS1MVEkxMlNMeG1YeEUyN1FiSFVSbERubGtCOTA5dWdIUmpZQmp3MUhQUXRYbWZjdllqdEpEczE1SGdfLXB5VFRzN3NtSGxKZk96bjZOVk5IanhoNmJrb2std05INzdrUWd4czRxSXR5QnFVaEpEaTYzM3ZSaWdEUkNGLUtGbGpPeEliTkNvaXhLRjFuaTlKLVJUZWZCMHF3VnFmbFdvZHFUU0NIZzUtNA",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUlublpuMGZyWjdnSHdTYkI5Q2pXaTJGMF9xYWdtd1NnQUhCY3dtZi03U3J6RTdqQ2JGWHNCOGNsdHZUY2o3M28ycUVjSGdBNExqOWlvNVd4d0FrNjR4NGNNa3FJejYtbnhOdWRoa2o3NE03NENEYlgwS2xaamhOSzFNYmtBWXlwREV5VWxpX01yS0F1RTMySHdwOGMxVVJnLVBWR1BLWmVHNGlSYjR2Uk1lTG5nTEhQakFWZU1NeTRkUQ",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXFCTkswN3k4cWZfeWNjUHdZUWM3VmNZekFPNi1fay0ybWdEWGVoOGJ3Zk1Ma054WXMtTzhzTmlrSi1ESFpRbGJtWFhhbHo4WGdfRFRmdGQyOVBZQWtzTGRrZUowSTdDSU5ZM0haV3ppM21Bb1g4VERTYm9TYTYxcnZ2MjYtZm5mSHBzWlNULUtqQXRRUmxFR1BxYldYV25zT0lnNlZpakIxRDVzckNabDZ2TnR0LWRCalFNMjItajlHWjg",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblpQVkQta2VxNTBETERmSmNkd0hCM1ZlOE9vbmJ5SkNWd1UyVERCWWFTZFd0LWFlRGpuY0dUOEZfUENwX0c5VlBKdlBnRmRIM2pLd1FNckRhb1RFTS1UV2RocndfSXV6U0RwTHV1WGlycHhnMUxTS3ZQSnJ0aXY1RnkzWWtiVlcwV3R5ZnpxU3ZDSk9OQ0Y0YU8xTmJmbVZoc0NCQ3JMdW9XaWlvVWFaTXJKcDA4QldyeFRuQlJ6V0FXdEk",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEU1QnFTZEZmNHZkSXM5RHBQOUVPdFJENTUwTDJxYks2ejNOY0lLQUlaSUJISXB0RzlCOUFiNHRpVV9PYTA3YloyR0ktc0xtb2ctRjA2aTIyRWl3UlJGMTBBZk50TW1ZTC05TkdtWFRaYzJvQkF5eVNuYzNTc1RPWEFXMzJrcGEtZTlfbnNDSHlQN2RYWjYxc1lsbTViQVZTNWo3TzhvLV9GUm9vMW9NUlB3bkVSc3hjMi13Q3I3NkhtdV83",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE4ta0RWLWl2Mldjbnc3MVQ3MVRDN2JZVGdJUVV3eDlZXzJ2aUpoYWd0Q2VoLTRlanZwb19zZGxEWFRWTGlhZ2ZDRkJoWDNCclJQdW9aNmdVNVdrSzVGdWZDUWFhN3k0REJTS3lfX3l0c1VCNWZ4QnpTXzlpWHdTNU9HWV9IaEp1RmxjelZOcnhrTnY5b2hKMlZlZmNnb1hpbVlodTk5dXYwNXN6di1SY1dfVjNSdGJVY3JaVERMYk1fLTkw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkRfUlVyZFhKZ1VrWjNsNUQteHo4Y3QtWmVRMnRkQ0tJdi1QZXJQTlA0ZlVINGNTMEdEeTdBWHM3OGJfYy1VZjhUSVdWN1VFMm51NWNjRFVFY3FJSzJBOU5BMEJmSjdnNnBlczNGOHpLeUd4d1pDU3E3eDhVRlMtSHRMWXo4NnJmNWtyTFotSUsxWUVSV2RIOENyZWxqLUFXSU9UZi15STB2ZzZGNTdtUjJsZ2Y4ZkhCMXpuYkNGVnM3TVFhbUFR0gHMAUFVX3lxTFBoNmZtbWZyTkRZMVJNaWVEWDQ0SnByX0c4Zml3MS05azUtYUFQcG4yMnRDTlFRUEVWZXY1QmhMeVJjd2VQcVk0QXJmdVFpMTcyVUdwcm1jZ3FEeGpXRG5sMHJ0WXJMdHNZU2xDUDh6UnAxT1IyNklIRDZTbmRCd0JQT2pYaUFRV1dVNFo1eTQ3Y0V0UWFIeE1kSGhKN2VnbzdNMG5hdGFtWTVYVGtpZ1pzSFFNNGtybUhXZXdkeHc5NUtXNmVNRlBqUzE0cw",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZy1pVUVpQ04wd0c0SUVtT05hU2hVZ2VhN01pYldlTVZZYVhOdGFKR0RVMlpDcmZnTFNyRGpjay1Db1kyTjdaVi10cTZ6RGtrZmxheHJuZ2pXVWVkblgxT19JZnlEeVJXZEZGOTQ4bFNRcW8yWTZKa0w5WHVnc2lfQ210LWRDT01oOHVFZHZEakRDNHR1UmZIV0ZpYnY5MDFkRGRDS1FjSko4c3dmUVBQOFE2Q0lzUklianhoanhJSlVxZ1l3ZS1V",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONkdsM01JSmdkWVViY2tFZ2k5WE51QmZIbEdvTUdndDMtdFd6RDBOTS1BZFE0LXdkWEJGXzBYbXN0MlJESDktUVJKVkFST2tsZU55dU9HVVR5b00wNlM5SngwQnlMVjJ4eXMxYThOeXlPYkl0Tk1LN3ZvZmM3V0ZzcmtyTlRqX3lpbTNjcl9JdU9YZGhVdXFvbVAwV0pobjVFRVEzUmo2Tk5JQXp2bzRRWER1cjQ0SlR2RlRRb3VjQXRlakJneWtJTQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUdnaFBIV3RkWGFCdTdya1N1Ujlsb1g3akhPR3Nkd3ZyNVNtTTJrVU5ueEtMNzlSWElVZmFPNlhZdGNGRkI2dWktV1FUclByci0xQThsNGNYQUoyZmhYNEp0cEotSkotTmNHQkx3cTA3c2ozcXR1ZHowUldLaE1fM2dhQ2JXdHNVZ19WQnpiNjRtVUs1dTJ3YWl6bkJiTnVfcWloeDhvNElQNnItNmtlQ1I0cVpnRUthNTlhdm5ieVlDMGVOdzFndA",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3NoeEg4b2NVTkkxbjN5bWdIbURQR192NTNNSHZWd1RqTTVsbk94ZE43RkVlaDBoQWFrc3MxbXhRc01OM2hOeEk1T2J5eHZvY0VEXzVQZE5ZdEVseUJSY2lTYU94WjNndlNzelZHaE5lZ00xbko4Zlc0N1EwSUpqdGU3ZHIxbndLZTg2UmJFZUZJUndPMUZFVFY5MGhvV182a3dabVBuSm54aDh1aE5sRXNSVHp5U2w4VkN5R19jYlhINkEwVFFybElR",
@@ -152,114 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "Чехія випробувала бронеавтомобіль MARS 4×4 з модулем Gladius Twin проти дронів",
-      "summary": "Під час випробувань 25‑го зенітного ракетного полку перевірив здатність системи Gladius Twin виявляти та супроводжувати малі БПЛА, використовуючи радар і оптико‑електронний комплекс з денною камерою, тепловізором і лазерним далекоміром. На платформі MARS 4×4 S‑330 Hard Top встановлено два кулемети калибру 7,62 мм, які автоматично наводяться на ціль. Така модифікація розширює можливості короткозонової протиповітряної оборони Чехії, доповнюючи вже заплановані системи з ракетним комплексом RBS 70 NG.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/vyprobuvaly-mars-4-4-dlya-borotby-z-dronamy",
-      "published": "2026-10-13T09:25:28+00:00"
-    },
-    {
-      "title": "Британія закликає ОБСЄ звільнити українських журналістів",
-      "summary": "Посол Британії Нейл Холланд на Варшавській конференції ОБСЄ закликав учасниць організації дотримуватися свободи медіа та звільнити щонайменше 26 українських журналістів, які перебувають у російському полоні. Лондон підкреслив необхідність виконання Миланського рішення 2018 року про безпеку журналістів та засудив системне придушення незалежних ЗМІ на окупованих територіях України. Також Британія висловила занепокоєння щодо демократичного відступу в Грузії та закликала звільнити затриманих журналістів, зокрема Мзію Амаглобелі.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
-      "published": "2026-10-13T09:28:09+00:00"
-    },
-    {
-      "title": "Міленд підтримав енергетичне перемир'я для України на форумі у Варшаві",
-      "summary": "Міністр закордонних справ Британії Ед Міленд під час Варшавського форуму безпеки закликав європейських партнерів підтримати ініціативу президента Зеленського щодо встановлення енергетичного перемир'я. Він наголосив, що Росія здійснила 200 атак на енергоінфраструктуру України за останній тиждень, використовуючи зиму як зброю. Також Міленд заявив, що гібридні загрози з боку Росії становлять безпосередню небезпеку для безпеки та добробуту Британії, і закликав мобілізувати економічну та промислову силу для захисту.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/news/back-zelenskyy-and-ukraine-with-an-energy-ceasefire-foreign-secretary-tells-european-partners",
-      "published": "2026-10-13T09:34:00+00:00"
-    },
-    {
-      "title": "Міністр закордонних справ Британії закликав ЄС підтримати енергетичне перемир'я для України",
-      "summary": "Міністр закордонних справ Великої Британії звернувся до європейських партнерів із закликом підтримати ініціативу Володимира Зеленського щодо встановлення енергетичного перемир'я в Україні. Це офіційна дипломатична позиція, спрямована на координацію міжнародної підтримки та захист критичної інфраструктури України від російських атак.",
-      "source": "Diplomatic Visits",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZy1pVUVpQ04wd0c0SUVtT05hU2hVZ2VhN01pYldlTVZZYVhOdGFKR0RVMlpDcmZnTFNyRGpjay1Db1kyTjdaVi10cTZ6RGtrZmxheHJuZ2pXVWVkblgxT19JZnlEeVJXZEZGOTQ4bFNRcW8yWTZKa0w5WHVnc2lfQ210LWRDT01oOHVFZHZEakRDNHR1UmZIV0ZpYnY5MDFkRGRDS1FjSko4c3dmUVBQOFE2Q0lzUklianhoanhJSlVxZ1l3ZS1V",
-      "published": "2026-10-13T09:34:36+00:00"
-    },
-    {
-      "title": "Ірландська пресиденція ЄС досягла згоди щодо трансформації фінансових ринків",
-      "summary": "Ірландська пресиденція Ради з питань економіки та фінансів ЄС досягла політичної угоди щодо пакету законодавчих ініціатив, спрямованих на трансформацію фінансових ринків. Цей дипломатичний крок завершує переговори між інституціями ЄС щодо реформи фінансового сектору, що є офіційним рішенням міжнародної організації.",
-      "source": "EU Diplomacy",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdWp0Zy1OQnlxS3ZuWkN6V1RNM2FjcVpTbDRtNWlJay1rb3JHR1RjaklNOExxekFhaG1WV0FDRTBoRkFxaHBoMzJlMTRmeTJlTEVVbW1sUll3QnhkbWZvdEdNVDBaVDROdlNrQU1ZakVva08tS2E1X3BYbEM5MjMxR1NlMDNnamNEdHlSU25MLWgxcElFekFLM0RYa3RUbllNQXdyTFVqMGVYLXdPTlRLQWpqd1Ytal9Ga2pNay1GQjJRbWE0djRlaHBLWEZzTVJMdU5iZEwtenVnalZoWFZncWxtYW54SVQwSjNWWDhSd01Lb0MwdFk3ZHJhVWVkMy03U0ZBbnAxZVI",
-      "published": "2026-10-13T09:40:40+00:00"
-    },
-    {
-      "title": "У США презентували БМП Wolf, що змагається за заміну Bradley",
-      "summary": "Компанія General Dynamics Land Systems представила концепт БМП Wolf, що береже участь у тендері XM30 для заміни Bradley. Машина оснащена 50‑мм автоматичною гарматою, двоосібним екіпажем, гібридною силовою установкою, розширеним сенсорним набором і системою управління вогнем, що підвищує оперативну ефективність і зменшує потребу у великій команді. Якщо Wolf пройде випробування, це може скоротити витрати на екіпаж і підвищити мобільність та бойову готовність американських підрозділів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/u-ssha-prezentuvaly-bmp-wolf-zaminu-bradley",
-      "published": "2026-10-13T09:43:04+00:00"
-    },
-    {
-      "title": "Українські моряки тренували SeaFox для розмінування в Британії",
-      "summary": "Під час навчань у Великій Британії українські протимінні кораблі «Черкаси» використали підводний дрон SeaFox для відпрацювання знищення навчальних мін. SeaFox – 1,3 м довжини, 40 кг, працює до 300 м, оснащений гідролокатором і відеокамерою, а бойова версія C з 1,5 кг зарядом знищує міну підривом. Тренування підвищують готовність українських сил до розмінування Чорного моря після бойових дій.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayinski-moryaky-vidpratsyuvaly-znyshhennya-min-za-dopomogoyu-pidvodnyh-droniv-seafox",
-      "published": "2026-10-13T10:00:06+00:00"
-    },
-    {
-      "title": "Банк Японії не планує підвищення ставки у жовтні",
-      "summary": "Банк Японії повідомив про намір утримати політичну ставку на рівні 0 % у жовтні, уникаючи другого підряд підвищення після мартівського підвищення до 0 %. Інфляція залишилася близько 2,3 % річних, що нижче цільового діапазону 2 % ± 0,5 % і не вимагає додаткового жорсткого монетарного кроку. Утримання ставки зберігає низьку вартість короткострокового фінансування, обмежує спреди між державними облігаціями та підвищує ліквідність на валютному ринку, підтримуючи стабільність єни.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00bEZmN0ZkNGR2TGJrU3YtbURLcklwNVFTUnhqQ1VacS1TRlNHQnZRM0tBSElEMmlxcmVraXptek4wNWhYUDdXYnJYUVE1OGNS",
-      "published": "2026-10-13T10:02:19+00:00"
-    },
-    {
-      "title": "ЄС провів 10-ту конференцію з вступу Албанії",
-      "summary": "Європейська Рада провела десяту конференцію з вступу Албанії до Європейського Союзу 13 жовтня 2026 року. Ця офіційна дипломатична зустріч є частиною формального процесу інтеграції Албанії в структуру ЄС. Подія підтверджує продовження переговорного треку між Брюсселем та Тираною щодо виконання критеріїв членства.",
-      "source": "EU Diplomacy",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHhQRFVNRW1iYmZYTVBTUTVrTjJSSjczSmJvT0FwbGNGMThuM0NLWXZBQ0NIc3dxWFZNWjhXSkY1OGQ0Q3dhUXQ1VUpxQW9mSHhlMllneVFzXzRGSTJCQ0NuWEV4UER3MUN5a2liZFRHeXZ6bDFrX3BONjJLWm81SlhYRUd3aml3ZXpSS0ExN0x2M09Dd1ZIbXVhbnJia1k",
-      "published": "2026-10-13T10:07:41+00:00"
-    },
-    {
-      "title": "Неформальна зустріч міністрів телекомунікацій ЄС 12-13 жовтня 2026",
-      "summary": "Рада Європейського Союзу проведе неформальну зустріч міністрів телекомунікацій 12-13 жовтня 2026 року. Захід опубліковано на Consilium.europa.eu. Міністри країн-членів ЄС зберуться для обговорення питань цифрової політики та телекомунікацій. Конкретних учасників, рішень чи угод у джерелі не вказано.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WQUlPMmg3TURYNE1VQjZIQUZkODltQi16cFJDTW9mVW8xbDhXNjdMdGJmMTBvcWJYZXdScm9ZaXgwYVQycVV0bTZ6RUNqVWtlQkl6cmtNU3Z0bmlWOW5UbDItNnhxbkVwWmRKd01MNA",
-      "published": "2026-10-13T10:07:42+00:00"
-    },
-    {
-      "title": "Каспійський регіон: розширення видобутку нафти, газу та критичних мінералів",
-      "summary": "У статті зазначено, що країни Каспійського басейну планують збільшити видобуток нафти до 30 млн барелів на день і газу до 120 млрд кубічних метрів до 2030 року, залучивши інвестиції у розмірі $45 млрд у проекти з критичними мінералами, зокрема літієм та кобальтом. Технічні умови включають підвищення капітальних витрат на 12 % та зниження спреду між ф’ючерсами на нафту та газ на 0,3 долара за барель. Очікується посилення ліквідності на ринках енергоносіїв, зростання зовнішньоекономічних надходжень країн регіону та потенційне зміцнення їх валютних курсів за рахунок збільшення експорту критичних",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWRSU0FMZVdCUDhsajZfeXpFck5DRF9xaHRMVVNXbDNVcDZYM0lvZDVmM1ZSZzNxUFcyLV9Qd0QwRDJJRGhkbjhjX0lnR2Fsek9pNzQ0dUtzR0FUOFJQTTdfZmh0OHRhUHI5WWQtYWJTSGhBbGQ2VXBLUlRubFZLak01ekZxUzRWYzgxelFZLUZIbVJsNGVyZVQ5S0hnLUJIbFFXNDZpSQ",
-      "published": "2026-10-13T10:07:49+00:00"
-    },
-    {
-      "title": "Мелоні закликає ЄС до довгострокового рішення проблеми енергоцін",
-      "summary": "Прем’єр-міністр Італії Джорджія Мелоні під час прес‑конференції закликала Європейську Комісію сформувати довгостроковий механізм протидії зростанню цін на електроенергію та газ. Вона зазначила, що поточна волатильність ринкових цін перевищує 30 % порівняно з 2022 р., а існуючі тимчасові субсидії та 2024‑річний ціновий поріг €180/MWh не забезпечують стабільність. Недостатня реакція може підвищити спреди енергетичних облігацій, скоротити ліквідність у енергетичному секторі та посилити девальваційний тиск на євро.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg",
-      "published": "2026-10-13T10:16:52+00:00"
-    },
     {
       "title": "Армія розпочинає використання AI-агентів для захисту мереж",
       "summary": "У рамках проекту Griffin Військова частина вручила перші нагороди, що підтверджує впровадження AI-агентів, що сканують мережі на шкідливу активність. Це дозволить швидше виявляти загрози та автоматизувати реакцію, підвищуючи стійкість критичної інфраструктури.",
@@ -1422,6 +1314,24 @@
       "published": "2026-10-14T12:49:45+00:00"
     },
     {
+      "title": "Чому ціни все ще зростають: огляд WEF",
+      "summary": "Банк Японії та Всесвітній економічний форум аналізують причини зростання цін. Це впливає на інфляцію та монетарну політику центробанків. Наслідки включають тиск на ліквідність та боргові ринки. Глобальні ланцюги постачання можуть зіткнутися з додатковими витратами.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXFCTkswN3k4cWZfeWNjUHdZUWM3VmNZekFPNi1fay0ybWdEWGVoOGJ3Zk1Ma054WXMtTzhzTmlrSi1ESFpRbGJtWFhhbHo4WGdfRFRmdGQyOVBZQWtzTGRrZUowSTdDSU5ZM0haV3ppM21Bb1g4VERTYm9TYTYxcnZ2MjYtZm5mSHBzWlNULUtqQXRRUmxFR1BxYldYV25zT0lnNlZpakIxRDVzckNabDZ2TnR0LWRCalFNMjItajlHWjg",
+      "published": "2026-10-14T13:35:03+00:00"
+    },
+    {
+      "title": "Мелоні: без зрізів бюджету ЄС на сільське господарство угоди не буде",
+      "summary": "Прем'єр-міністр Італії Джорджа Мелоні заявила, що Італія не погодиться на бюджет ЄС, якщо це передбачає скорочення видатків на Спільну сільськогосподарську політику, рибальство та політику згуртованості. Це позиція Рима під час переговорів щодо фінансового плану блоку.",
+      "source": "Treaties & Agreements",
+      "publisher": "EUalive",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMENSYUZkWVNkQmNVUDJEcUNHclQzYldwZkQ5T0lqWG1uSHdhblkzNUNKeGZYQV81cm5rUzVkV3N0NzN3bHpwdnZDWnBGMlMybGVfQ05PYkRMZVVkcFdkNU5BTXdzX1RsMy1EQUlqTTkyLUk3Y0NiZUFjWGdrb0tlVTBNd1U3T3lmaUZzZS04T2x6b0l6bWhUemdyZVpUT2JFX1BPLQ",
+      "published": "2026-10-14T14:00:26+00:00"
+    },
+    {
       "title": "PBOC влила 700 млрд юанів, нетто-ін'єкція 400 млрд",
       "summary": "Народний банк Китаю провів outright reverse repo на 700 млрд юанів. У жовтні нетто-ін'єкція ліквідності склала 400 млрд юанів, що сигналізує про пом'якшення монетарної політики. Це збільшує доступну ліквідність у банківській системі та може знизити ставки на борговому ринку. Наслідки включають підтримку економічної активності та можливе послаблення тиску на юань.",
       "source": "Центробанк Китаю",
@@ -1494,6 +1404,24 @@
       "published": "2026-10-14T14:42:20+00:00"
     },
     {
+      "title": "Світовий нафтовий конгрес: інвестиції, попит, атаки на Aramco",
+      "summary": "На другому дні World Petroleum Congress у Ер-Ріяді підкреслено зростання глобальних інвестицій у нафту, підвищення попиту та інциденти проти Saudi Aramco. Оголошено нові інвестиції на $150 млрд у розвідку та виробництво та прогнозовано збільшення попиту на 1,2 млн барелів на день до 2027 року, а атаки підняли спред Brent‑WTI на 0,3 пункту. Підвищений капітальний потік підвищує довгострокову ліквідність ринку, посилює волатильність спредів і створює додатковий валютний тиск на нафтових експортерів.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdUVRcHRfelVZVi1rdlpHdEtyRzFScDlSdDNKYVdIbXdVdTl2cjNucmxGZEhYQUpBNEt2OHZ1d3ZGSnhfUDBaQnprclpCeEh0MU1GVjMwby1MMWM4c191UGhQempTdTg0MnlfSUtCTzRkRlJlY0d6R1ljVllvdFFtOUVUSmROZ3lQcHBqUVN0R1Iza25aRUNaVW9yaTZsdEdmTE1UR2hFNEhkZDVnQ3pmd0FfdjFLWndtbDN4Q3NCSm1PM0xucHB1MHJrMm5sVUhyQ3RmcUduMVlyUlF1bmpCalpHcUxOOC1lWjItM0NRSlc0eGpOUGpZSV9zcGpxbXhaRE1KNktZbFA",
+      "published": "2026-10-14T14:48:45+00:00"
+    },
+    {
+      "title": "Єна в діапазоні, євро відскакує від перепроданості",
+      "summary": "Єна залишається в обмеженому торговому діапазоні. Євро демонструє відновлення від рівнів перепроданості проти єни. Це впливає на курс EUR/JPY та валютну ліквідність. Наслідки можуть торкнутися боргових ринків Японії через зміни прибутковості.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3dreEZ3SVQtTkw4YVlHb2pLcXJSRE1icmwtR3JNTVk4SXZEUGdaeEZ6LXdhZXc5LUFBSGZLWE50NWZROW5KcUNKSnlpWVY4NzNCeHppbk56eHNrMDZXdUZwM0ZFbEtTTjFPblhwZWRBdHNhZDdCUG5aNHFqN3pqNGs5akdSczloWWNMY1A5NjNqNzM5MGlUckpvaUtScnhP",
+      "published": "2026-10-14T15:00:51+00:00"
+    },
+    {
       "title": "Британія відхилила звинувачення РФ у загрозах на засіданні ОБСЄ",
       "summary": "Британський політико-військовий радник Аррон Ньюбл на засіданні ОБСЄ відхилив російські звинувачення у загрозах, назвавши їх помилковим трактуванням заяв про стримування. Він наголосив, що жодна цитата не описує плану атаки на РФ. Також Британія висловила солідарність із Болгарією та Мальтою після атак у Чорному морі та підтвердила підтримку суверенітету України.",
       "source": "FCDO (Британія)",
@@ -1501,6 +1429,78 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/deterrence-is-not-a-threat-uk-statement-to-the-osce",
       "published": "2026-10-14T15:20:00+00:00"
+    },
+    {
+      "title": "Розвідка нафти та газу в Гренландії стартує до 2027",
+      "summary": "США оголосили про початок масштабної розвідки нафти, газу та критичних мінералів у Гренландії за участі Трампа та угоди про безпеку. Буріння планується з 2027 року. Це може вплинути на глобальні ланцюги постачання енергоресурсів та ринки сировини, підвищуючи ліквідність у секторі енергетики.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkRMQlpjNDYyd3FXcFBwaWhaMVFqV2tBN0NKelRFb0pBMmZISWJNdWFDUjgwd0ozWEhiaVhwMnZmbmhselpkNXBQdnFDbTBGdmpPNTVqZER1dUtoRC00WVF5dWhFM0lSUkt4SnBtVU9YM1pHaDVKcDhibDBWMXJGTm02YVVGQWZyajdVVjZlTVV3cklvSlBxMmphRzBxeTFnS0V6MGUycjloY0JfbzhxeXpJLUY1bFNaa3VqSVltMGJKc2tUa3ZocVZaRW53WEJpVl9WS3lLUFAzeVdxblRNdnJpQ0JxTWhIYlJOVDlfZG9Ea0FJMDNKOEVPUVJOZU1OVWg4WkQ5bDBzQQ",
+      "published": "2026-10-14T15:24:17+00:00"
+    },
+    {
+      "title": "США безоплатно передали Румунії C-130H Hercules",
+      "summary": "Літак C-130H Hercules оснащений чотирма турбогвинтовими двигунами Allison T56-A-15 потужністю по 4 590 к.с. кожен, розвиває максимальну швидкість до 600 км/год та здатен доправляти до 19 000 кг корисного навантаження на дальність понад 3 800 км. Румунія отримала восьмий борт, що доповнює флот з чотирьох C-130B та чотирьох C-130H для логістики та місій у понад десяти країнах.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-peredaly-rumuniyi-litak-c-130-hercules",
+      "published": "2026-10-14T15:32:45+00:00"
+    },
+    {
+      "title": "Британія підтримала резолюцію РБ ООН щодо санкцій проти Гаїті",
+      "summary": "Постійний представник Британії Сара Макінтош оголосила про голосування уряду за резолюцію Ради Безпеки ООН, яка продовжує санкційний режим та ембарго на зброю для Гаїті. Лондон підкреслив необхідність реалізації рекомендацій групи експертів та боротьби з розкраданням державних ресурсів, назвавши ці заходи ключовими для стабілізації ситуації в країні.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-un-sanctions-regime-remains-an-essential-tool-to-address-insecurity-in-haiti-and-to-alleviate-the-suffering-of-the-haitian-people-uk-explanation-o",
+      "published": "2026-10-14T15:45:56+00:00"
+    },
+    {
+      "title": "Міністр внутрішніх справ Росії зустрівся з прем'єром Пакистану",
+      "summary": "Міністр внутрішніх справ Росії провів зустріч із прем'єр-міністром Пакистану Шехбазом Шарифом. Під час переговорів сторони обговорили потенціал розширення економічної співпраці між двома країнами. Це офіційний дипломатичний контакт на рівні міністрів, спрямований на зміцнення двосторонніх відносин.",
+      "source": "Treaties & Agreements",
+      "publisher": "Dawn",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ubE5GYUthTmwyMHNHanRCMEZIeVpMbk5teHlJZ1FrTXMwdVk0NU9sTWlldkxGcWM1aU44cFZkdkJrZWdBbWRIcw",
+      "published": "2026-10-14T15:52:14+00:00"
+    },
+    {
+      "title": "Британські військові відпрацювали оборону Фолклендських островів на тлі претензій Аргентини",
+      "summary": "Десантники провели висадку з моря та нічний марш завдовжки 32 км, відтворюючи операцію Sutton 1982 року. Навчання дозволяють відпрацювати тактику оборони архіпелагу в умовах можливого конфлікту. Це перший подібний сценарій за багато років і підвищує готовність британських сил.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/brytanski-vidpratsyuval-oboron-folklendskyh",
+      "published": "2026-10-14T15:53:15+00:00"
+    },
+    {
+      "title": "UK urges Libyan parties to honour commitments at UN Security Council",
+      "summary": "UK Permanent Representative Sarah MacIntosh urged Libyan parties to honour commitments made to provide security, economic opportunity and democratic freedom to the Libyan people during a UN Security Council meeting. She highlighted the 4+4 process agreement, the 24‑month election deadline, and the need to avoid reopening settled issues.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/libyan-parties-must-honour-commitments-made-to-give-security-economic-opportunity-and-democratic-freedom-to-the-libyan-people-uk-statement-at-the-un-s",
+      "published": "2026-10-14T16:03:05+00:00"
+    },
+    {
+      "title": "Приватна ППО: майже 100 підприємств долучилися до проєкту",
+      "summary": "До проєкту приєдналися майже 100 підприємств, шість з яких уже сформували близько 50 мобільних і стаціонарних груп ППО. Групи використовують дрони-перехоплювачі та автоматизовані турельні установки з великокаліберними кулеметами, діючи під оперативним керівництвом Повітряних Сил. Підрозділи знищили понад 60 повітряних цілей, що посилює захист критичної інфраструктури.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/do-proyektu-doluchylysya-100-pidpryyemstv",
+      "published": "2026-10-14T16:21:49+00:00"
+    },
+    {
+      "title": "Італія купує шість безпілотників Astore Levante на базі Bayraktar TB3",
+      "summary": "Astore Levante — це версія Bayraktar TB3 з максимальною злітною масою 1450 кг, корисним навантаженням 280 кг та тривалістю польоту понад 24 години. Три комплекси (по дві БпЛА та одна станція) замінять MQ-1 Predator у Повітряних силах Італії для розвідки та вогневої підтримки. Сертифікація очікується наприкінці 2026 — на початку 2027 року, озброєння ще не обрано.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/italiya-kupuye-bezpilotnyky-astore-levante",
+      "published": "2026-10-14T16:42:16+00:00"
     }
   ]
 }

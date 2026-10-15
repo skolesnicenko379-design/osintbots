@@ -33,7 +33,6 @@
     "https://militarnyi.com/uk/news/do-proyektu-doluchylysya-100-pidpryyemstv",
     "https://militarnyi.com/uk/news/fpv-dron-115-yi-brygady-potsilyv-u-rosijskyj-my-28nm",
     "https://militarnyi.com/uk/news/gretsiyi-vyprobuvaly-morski-drony-corsair",
-    "https://militarnyi.com/uk/news/iran-yaderni-ob-yekty-zagostrennya-ssha",
     "https://militarnyi.com/uk/news/ispaniya-shhe-15-turetskyh-litakiv-hurjet",
     "https://militarnyi.com/uk/news/italiya-kupuye-bezpilotnyky-astore-levante",
     "https://militarnyi.com/uk/news/kndr-vidstrilyalasya-na-910-km-raketoyu-kn-30-taki-rakety-vona-postachala-rosiyi",
@@ -75,6 +74,7 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMzJkckxJN1lTTzFyUFhMbU1tbktLMENqdzRVRUMzY3o4a3ZpYVhOci1va2xoUkJUbXlPMmNUTFFuN2xIZ05MUHlqVnpwaFpZWFNVa0RCS3lkQQ",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZ3M3al9aYUtaVzRZbG9fRnRFbXhLRDhSZHhXNG5wcmp5bDktVVhqR2NoUWowcHM0MFU0Z241SjFUQWt4S2xBTm1YU21OX2dFczRqbmd4RTg3RGc4Qll6X1I1Yw",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmtselAxckpkSnVscEVwVEZyRHRYaUs4aUJucmhrcUZ4NGVyTW42YlViMjI5aHFuX2dJQUFKTVVpc040V0l2SEhQT2N5aFBYTTVPajJyeVV4U3A0Ni1hZHQxTnJRYjhiZEE",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfaWRCNVdFdVpucmhOQm42bHpnZU5kNG1SWmpTdkQ0NmtVLWk1UG05U2xyaEhGejhucGc0OXlNamt4VmJmWlkzTUkwUjZBU3BTNEtjT0duT2wyY0ZyUkVtZ1hjVmx2ZzVYWHdTZjVIdUx6T00",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMldqZXpEbnUwcl96R09SYmpZZE55TmVfb0JiX0xUSlRTcWlVWmhnVXJkM2FNLS11LXk1RXVJdlFFcGtFMzV3VHNnWURmUlN6V0ZHYjdnMVAtdWJGMWYwd3l6N2s4ZFBmNDdmcC1YRUtEVzZa",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pLUlJd0RJY1hSZnhvbVhrUGF6enhZbHBKYWJHd0FDdG9rc2hVdFJPbVdXY1BaMjJsbVNFM1hOd044WlNxd0FNTUdtd2lMdUVoY2tMNU9xMURxSXNkbFAyYlloa1ZhTXprYnNfeVlJdFJ6OWNXZlE",
@@ -116,10 +116,10 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTVDUlBPbkp1RHdRSUxXTmNmdnZUVnRHU0NqYXBsMTBYVDRLLTdTT01PVG1idlF5dmZkU01JdHQwVVFMNFUzTmFVNUtfbE5wbG9vTnp2dVJid1FjNk5jcTFGd3p4TmlESENjenRnTk9DX0t1a1hkaXZzQV93N0g1RHpXcUVnRkg4QjhQaUNSVzE4eklLY1V5UGZzU0Vic2p6STg2VGtzdVpRUQ",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk44MTIta0h5dUxHa1dGSXpwTGhzOFk5bE5FVTNSREN5eDVkMEFrcXU2ZGZ5TkZTTmhqM1NadHpSbVM5RnZBQk1TaDd4ZUwxUmF1SGtWbFFVYkNZZkhpYjVoMTZHU3o3WGFNcmJxTktWcWJyZXdOZVM3Um4xZ2FGNEY1Qmk1VlRjbjg0dnMzS284bnpFSEtEQW5ITE1YcTR4RDJ1TC1NV0ZLV1lf",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFBiblNlX1RTUzEtbTUyYTBwZWUwaVRMRlZvYUdZdlRCaDRLZGZkU0hORmtnVk9nb2tOdGxLaGpNT1B5N2h3N013WlFVTm5pdjRWRHFYYUtmRlRadndmYnR1aVhjRXgyUGFuVC1FalRvUVdMR2JiWVFMZE9aMlk4QkF2cXNfTVBlVG5jdUlFbV81WW5VOTFpVFNBZDhzSnJsdmFyNjREOXQ5bGRS",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXdELXZBdDBtekFQNjZnUENTenlxWEk1VHpZWjZ1eHh1bVVXVFdUSXUyOFdQVU96d3dVaDNNWkVCMlZoYkh5VUZiT2lHNk9TRVRQd2tLODVxYzl4azY5bG13ZHBnUXczWFdGTFNnRmNhNHBmczZ4THBCZ1l4ODhSQVdMMjhqY3AxOHpwc0ZseE1NZm5ZbDNwUldLSXlRYlRFTEtCemkzVFZRUkNHRkE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzN2cmxGRTMwbHVobDNLNll3VnFuSUlJM1hqdGF0VjhpYTNnRXdDdXZNbkZtUVZDb0hZUHJpakpvNDEtNy1neWFjYzdFSGpkLWEwTmpNNjR3ZXhRQkE3RWt2aFVMS0ZpYkJnLUtUakQ0clVOWVh3VjdwSnA4UmJxSFJUbUxoQUwwa2huWC1URzhxaERwZzNpdVoxZVVKR2VMRmJUMzF6ZlM2QldCbmc",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVBVM015SjFtNmc5T2QyNW5xb3NPcUxFNGxyN3BrMlJONm02TjNYTEQtVHI5bnd4OE51Yjgzd3QxdFZkSWhOMlNaekxvcDdXSUlOQ0htejJMTUttMkVoSExSQm9QaWxraEhPekdwUHNMWm9nNTRKalpjQ2FuOEZFWVhWSEhCaG1zZjVVVXV1bTZUeldXWmxoSklXVXMyVGxTWlRTMVZrcUEzUkg4Y1E",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeUc3TU1kNFVIS2lrRTFHamx3aGhxblBOSG9yTW9JVldLYm9sTWgwdGdCTUZEenlYZjhjaGt2N2cxTXZtZ19od3R5NGVmSWpmcU8wendqOW5vVW1JWWswN09ZOWJkY1lWX3hfMllmdkpBbHY3RXoyQmdiWi1XV0xTbzhVRUt6eUlsbmFya1dXSzM2eXV6aTZjU1RmSjZDazFSMDhwaG10bW00OUd2Z2dz",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDU4U0pySTdmYWhPNnptd0hYVGpnSkJUb3MwR0lGYVNxaFk5dmhRZTNMQ0g5bUtOdmhqNFQ5eDNmSUtETW56UHlodlZQVWx6bkFNZDY0ZGxyT3gyeHFab3FUOVpXZ2NWaTlCZXJYdlhnWlBPbVpTeUkxcTdWVTNtZTlWVUxzSDlPZGdCbk40YlRoWXBvUHlJeFNHV0h0a0lnR0FaSF9ueURiT3pKVVE1cA",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxONF9Id1NuRmpkMzdMMTZSWkhwOVNKUVhfWDhmdkhoSFFta1JGQ3dfTE10YWNZUXU3ZWI5SURWeXJ4QXVWQUJqUlI0VWdQVEJiaDBHVXpxN2M0Z05FTXA1SHV2R1Rya2k2NEJDWWhGeGZvVzJfU3BjeHpCcUtITW5pa1RWczQ2R1QwUUFFcEFnQTJIX1ZwckJXeVNsUl9GbjZaVWNFNUVpX1dGdkZBNDdiSw",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGMwQ3dOMERyZmpMdFRUOEoyV1BZNE1aNlhTV2RMbUpXZHluUGFEdGVFMy15UzI4SFJlekh0V2JhLXpGX1RRVTJmTUNkRDdqUDE3RHQ4OGhkUHZsUGV4S3EwTmhWN2tWb0FRTUZaUl85dklOQXFZWU1ZSXYybkdCWWRkTGZPOUpEaVRMN0lLZ2tSUGQwR2tybmlPbnMza19LNVBuekU5NVhaLVl5SEFTaQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3lIRG0zaEVNRndJMmE1ZXFSUTAzZk14MktyTFlfM0V0V3NZV05BaVVrbVpBRmgzb0RYOFhJbDhLc3UwS0lrVmNrX3N2NmRLQ3o4U25BcC14OU9EbWVhN0RablZTV0wzNkNidGVveGJaQkNSNWw0MEszaWVvcHd4N3FwYWQ5bTFXbVRmX19sNy1aaUpwNVpPZEx1dnBXLWxwYmhzMGhCTmlxcVI1Y3VJcw",
@@ -152,26 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "Казахстан і Бельгія поглиблюють торговельні та інвестиційні зв'язки",
-      "original_title": "",
-      "summary": "Казахстан та Бельгія провели засідання бізнес-ради для посилення торгівлі й інвестицій. Подія стосується розширення економічних контактів між країнами. Це може вплинути на енергетичні ринки через можливі угоди з постачання ресурсів. Наслідки включають покращення валютних надходжень та стабільність ланцюгів постачання.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXdELXZBdDBtekFQNjZnUENTenlxWEk1VHpZWjZ1eHh1bVVXVFdUSXUyOFdQVU96d3dVaDNNWkVCMlZoYkh5VUZiT2lHNk9TRVRQd2tLODVxYzl4azY5bG13ZHBnUXczWFdGTFNnRmNhNHBmczZ4THBCZ1l4ODhSQVdMMjhqY3AxOHpwc0ZseE1NZm5ZbDNwUldLSXlRYlRFTEtCemkzVFZRUkNHRkE",
-      "published": "2026-10-13T14:43:59+00:00"
-    },
-    {
-      "title": "Іран готує ядерні об’єкти та населення до можливого загострення війни зі США",
-      "original_title": "",
-      "summary": "На супутникових знімках зафіксовано земляні загородження на під’їздах до тунельного комплексу в горі Пікекс, аналогічно до засипання входів на об’єкті в Есфахані. Під час навчань Jan-Fada продемонстровано безпілотний надводний апарат Fateh та систему наведення Shahid Hemmati. Заяви про намір уражати американську технологічну інфраструктуру (кабелі, дата-центри, об’єкти ШІ) вказують на розширення переліку цілей у разі ескалації.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/iran-yaderni-ob-yekty-zagostrennya-ssha",
-      "published": "2026-10-13T14:46:26+00:00"
-    },
     {
       "title": "Міністри закордонних справ Туреччини та Ірану обговорили регіональні процеси",
       "original_title": "",
@@ -1463,6 +1443,16 @@
       "published": "2026-10-14T16:48:21+00:00"
     },
     {
+      "title": "Ризики енергетики взимку зростають в Європі",
+      "original_title": "Winter energy risks mount in Europe - Oil & Gas 360",
+      "summary": "У Європі зростають ризики енергопостачання взимку. Це підтверджує стаття Oil & Gas 360 у розділі сировинних ринків. Така ситуація стосується енергетичних ринків без нових цифр. Наслідком може бути тиск на макрофінанси Європи.",
+      "source": "Сировинні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfaWRCNVdFdVpucmhOQm42bHpnZU5kNG1SWmpTdkQ0NmtVLWk1UG05U2xyaEhGejhucGc0OXlNamt4VmJmWlkzTUkwUjZBU3BTNEtjT0duT2wyY0ZyUkVtZ1hjVmx2ZzVYWHdTZjVIdUx6T00",
+      "published": "2026-10-14T17:37:39+00:00"
+    },
+    {
       "title": "На Харківщині затримали військового РФ, який розстріляв п’ятьох військових ЗСУ",
       "original_title": "На Харківщині затримали військового РФ, який розстріляв п’ятьох військових ЗСУ",
       "summary": "Затримання провела СБУ спільно з поліцією та Нацгвардією протягом 24 годин після події 13 жовтня. Зловмисник служить у 1009-му мотострілецькому полку РФ. Подія не містить технічних характеристик озброєння чи техніки.",
@@ -1611,6 +1601,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/zi-zvyazkom-starshield-pokrashhylasya",
       "published": "2026-10-14T20:04:40+00:00"
+    },
+    {
+      "title": "Таємні трейдери прибуткують від агенди Трампа з мінералами",
+      "original_title": "The Secretive Commodity Traders Profiting from Trump’s Critical Minerals Agenda - Public Citizen",
+      "summary": "Стаття Public Citizen висвітлює таємних товарних трейдерів, які отримують прибуток від порядку денного Трампа щодо критичних мінералів. Це стосується енергетичних ринків через вплив на видобуток і торгівлю. Конкретні цифри чи умови в тексті відсутні, наслідком може бути зростання прибутків трейдерів.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDU4U0pySTdmYWhPNnptd0hYVGpnSkJUb3MwR0lGYVNxaFk5dmhRZTNMQ0g5bUtOdmhqNFQ5eDNmSUtETW56UHlodlZQVWx6bkFNZDY0ZGxyT3gyeHFab3FUOVpXZ2NWaTlCZXJYdlhnWlBPbVpTeUkxcTdWVTNtZTlWVUxzSDlPZGdCbk40YlRoWXBvUHlJeFNHV0h0a0lnR0FaSF9ueURiT3pKVVE1cA",
+      "published": "2026-10-14T20:18:45+00:00"
     },
     {
       "title": "Невідомий дрон уразив танкер YARA J у водах Румунії",

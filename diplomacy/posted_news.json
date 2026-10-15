@@ -938,16 +938,11 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkNINEZrOXRvTjZTMTNXbkZfNGNTakp1YWlFcndtbjA4Q2c3TFVoOGQyS0JaMjluSnQ3RU9hRnQwXzJvLW1lV19hYWtPTnpTdDRnZWVTcENrTmFCU0k0Q2ZfZy1jM19paHRERTBRMERTX21ienY0amo1S1g5WFdYQVExVjlkQm1EaXdOUnVKQmZKZUdsaWx3SHdzSVMyUTJiSE1nSG80dlVpTERFOEVBVkluNDhaQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnQndzY2VSQ0FQVWpRWUQyTlhNUk9xYWZPNjRzeFBKeF90cXRPRF9na1ZHaXpiRi0zYndzR2dnODZNSWZsR0hELWhyOXJwTEhVejlWcUE4Y1hmQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFdlRHBEb0tnX1RFbEtuWFhQS01PcDdxS2lEcTVvUnZOTnE5dmFGRVhqbU5mam1Id2JuYXhIdFFHMkJ0eWtLQy1RdV9feXVXTk91dnUzMkY3VThmaEpRNm9vY2J5WHBFSEZzcUFfSG1SRUkxMUVLUGhLTGI4RXB6d2hlUERXdm45NE9rV0RfOUYxMTRWRURmajBNUUZjNWEtR0lnTnFoTllwWVFZQXRSSXlua1pCT19URDVFeHBzdWRkQ0U?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd05FUGotNXNfTkhOelppMWNwOERrcFhiamEydm9xVlEwTl92Ml9NOVFYMDlsMzZ0YU1udmcycncxeENSMHQ1NExkNHpZamtGOXRxNlUyUm1FcjRrS2V2VmhQZ09pTzJueEJaNVNuQlFSbU1BZnZldmlDb01IOUtyVTZFT2pORG9pN3hqVG9zSXZEUEtkNUhPcjNnS2xScFRPSEFFZHE3T3hWMHlMR3luSGstWDd2ZzBzaTNVcUljZDVtVFlOY2NBczB6YnBtM2lrcG82MUE4RFE1VV9MYmlZX0JZVEVrSDlFeGtyVm5iQzVYWVJ5dEln?oc=5"
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd05FUGotNXNfTkhOelppMWNwOERrcFhiamEydm9xVlEwTl92Ml9NOVFYMDlsMzZ0YU1udmcycncxeENSMHQ1NExkNHpZamtGOXRxNlUyUm1FcjRrS2V2VmhQZ09pTzJueEJaNVNuQlFSbU1BZnZldmlDb01IOUtyVTZFT2pORG9pN3hqVG9zSXZEUEtkNUhPcjNnS2xScFRPSEFFZHE3T3hWMHlMR3luSGstWDd2ZzBzaTNVcUljZDVtVFlOY2NBczB6YnBtM2lrcG82MUE4RFE1VV9MYmlZX0JZVEVrSDlFeGtyVm5iQzVYWVJ5dEln?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MkZUYzBkb09BTGZYWFZoZXQtRjJwYkk2QjgyQlFSUGJvQ05KZzF4VGtuaENkdG4yY3prUXdIYktiWXlEZk5YTFpYczJveFpqSGJtX2NsU1d1enBDOG9ieC1meXFwcDU5czFVTVFWOGV2eDRmS0t6VlY5Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdlJxNVFBRTVCb2Q0Y1cwRUFsOU8wS1E0LWVPN3N1U1FtUTdfYUhGNlNuYy1vTzgwSU1WdXpaQ0FsWjFHU1RRaGpKdlQwdnpkNk5Va2F5Z1J5NzNWeEctMFpKaw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Ямайка починає приймати депортованих за США угодою",
-      "summary": "Jamaica has started accepting deportees transferred from third countries pursuant to a United States agreement that has drawn criticism. The arrangement allows the U.S. to relocate individuals to Jamaica, marking the first implementation of the deal. No further details on numbers or timeline were provided.",
-      "source": "Treaties & Agreements",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-10-14T00:09:43+00:00"
-    },
     {
       "title": "Трамп анонсував візит до Манили на саміт АСЕАН",
       "summary": "Дональд Трамп оголосив про плани відвідати Манилу у листопаді для участі у саміті АСЕАН. Ця подія підтверджує офіційний дипломатичний візит президента США до Південно-Східної Азії. Деталі щодо конкретної дати або повної програми зустрічей у тексті джерела не наведено.",
@@ -1150,6 +1145,13 @@
       "source": "Treaties & Agreements",
       "publisher": "TradingView",
       "published": "2026-10-15T04:28:00+00:00"
+    },
+    {
+      "title": "Лі Цянь анонсує візити до Узбекистану, Таджикистану та Росії",
+      "summary": "Прем'єр-міністр Китаю Лі Цянь оголосив про офіційні візити до Узбекистану та Таджикистану для участі у 25-му засіданні Ради глав урядів ШОС. Також заплановано поїздку до Росії для проведення 31-го регулярного засідання між китайською та російською сторонами.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-10-15T07:00:00+00:00"
     }
   ]
 }

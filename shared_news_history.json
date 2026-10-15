@@ -75,6 +75,7 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pLUlJd0RJY1hSZnhvbVhrUGF6enhZbHBKYWJHd0FDdG9rc2hVdFJPbVdXY1BaMjJsbVNFM1hOd044WlNxd0FNTUdtd2lMdUVoY2tMNU9xMURxSXNkbFAyYlloa1ZhTXprYnNfeVlJdFJ6OWNXZlE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZUR3MlhQV1dObkVCazhjaTRRenFjMkJVSmVPT2ZUM2N0TlB0WWluYVUwanYwZENZeV9kT1NuNTA5MUJCSGNhbTBtRmRRLVlHV1dXdjVQTmthbk1CczY4UWI0andBNU1QNTRQYjZsOVVscFpaWXc",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MkZUYzBkb09BTGZYWFZoZXQtRjJwYkk2QjgyQlFSUGJvQ05KZzF4VGtuaENkdG4yY3prUXdIYktiWXlEZk5YTFpYczJveFpqSGJtX2NsU1d1enBDOG9ieC1meXFwcDU5czFVTVFWOGV2eDRmS0t6VlY5Zw",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mT1JGcGctTWNXRWk0N2VGUDNCakRuMVc1eHJLSjVPZHJfejNMTW5laHNyTUx6a1M3TTRUR1FQYkhndGZTejlJVnRHZU5fWTlUcUpBMm5kWUlfUGRPNVh4Mnd3bkF4bGZWX0RXY1I4Ym9rU3pjTjhmYnJn",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU5XSnF0VmNoa3RGTmxneFlpQkdjZkFOcEtGQndjNzc3RUZUazJ3M09UbzZDNUt2MTVSV293T0E2WEJ0alktTHBMYm5ZZEthRkZMZ1Y4Y2xjVXczTldYVTh6cTVRWHZkLW1zUkt5dWFFMnNKXzJUS3pINXNqcEpQYg",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZnd2akpMVUJ4M2xkWTRWbDRMSFlsWV9YMkliM0VVT095bFFGbEVCdGVpMGxSZ0h6eGNIWk51bGg1T0ZzQnNOWFlDd0hxV3Vma0JCWDdtSUcyWkphOXJCMnctUXZ1cTdSbTl2bUc1Z3AzNmNYbzMyVTdUZUxqZ0pYOTdhdUNhM2Z4N0N6NktNOTBiQUl1MnVSMk9IUWU2QTFuR0dUWV9XNW94QXhmaUhaX3ptR0VSMTVHSmFacUdVZklodzFrU3NLMkFCa3J1WGdCYUdzY3N4eWhDUUpQSHlObGhlSm1EMUlnWng4bDg4eVhrSThwZEhUeEVDbWV5VzdqckHSAYcCQVVfeXFMT2RqeExuR0RveFpzM2ZtWjh4V2hWWTFvOFM4emU5aVRPOUVsRG16aW5vaU5ZZW5zbTVJV3k3enFtUDNXYXQwaWhHTkhGMDNXWFR6SGI2R3piSHMxa1pxem9NbWpxdEpUVGFWMUNmY0N1OGpaSDYycFF2TUN3TGpUUjBJekJsbTFQdUFQbXlIT3l4UUphYWNSR2lkYVRQdExYXzJhSkNCalhTazUyTUdXem91SG1VbXpnUDlZdTNWc2JzdmRiWm9USmtvbER1QnRzUUh5U05LNmFWRE5xeVE3RFp3NVlHVnBQSjBPay11ZUJXV2s5MFpSTGlHLUpacU9NaV83VU5VNkk",
@@ -85,7 +86,6 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPai03RGVPM1lNS2dJZnNPQ05PdTMtaTFabmtSdEhtbVVUaG9YMXFfVjFaZ24xUjBVTUhOa2hyZ0xzTkU2V3pXY0lLcFNYMlEySEJZOFVuMHc1ZkdwMkFvRUlpcVZhT1JXenpQNml6bUcwZ3VZSUFoWUYxbS16eUpaZF9fVFNBS1lzMlE",
     "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNkRMQlpjNDYyd3FXcFBwaWhaMVFqV2tBN0NKelRFb0pBMmZISWJNdWFDUjgwd0ozWEhiaVhwMnZmbmhselpkNXBQdnFDbTBGdmpPNTVqZER1dUtoRC00WVF5dWhFM0lSUkt4SnBtVU9YM1pHaDVKcDhibDBWMXJGTm02YVVGQWZyajdVVjZlTVV3cklvSlBxMmphRzBxeTFnS0V6MGUycjloY0JfbzhxeXpJLUY1bFNaa3VqSVltMGJKc2tUa3ZocVZaRW53WEJpVl9WS3lLUFAzeVdxblRNdnJpQ0JxTWhIYlJOVDlfZG9Ea0FJMDNKOEVPUVJOZU1OVWg4WkQ5bDBzQQ",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY0dtUGZtUnozdXFFRXFMSmlCMmh2NFA2M0xielQ4eHRXMjBWaDdDTXBSMGg0ZjlWVG9pUlQxdTVCeEJlYWhuR3UxTk02SzBRVDdneE1uZnhRbGlVVTNkeno1X3lDd3JCWnhSdmk0WlN6X0lCYlRjRG11RDJOdUhCeVd4a3JTVUxHTkpLdlhBSlJNdkdlNmlZM3BMN2pNcU83UHZneDJNVFpSdjM5WXRGRmp5REVVdmRXQXNucmtsUGljWEhFT0EzdFJvaFhCWkJqbkJpNUdBWlZUNmVyY0lSc19qT041alJ4SzhES1hSV2JXSmtYUkVVOUxoTTY2RGRYQ3VWamx0S3M1ZG8",
-    "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmxzWk91dE00RUtUeHQxdm9sMExJeGRTdFJqTmhOZ1JpbkR6M2FVWnJCdno2bVNTaHhORFlpQnB1N0MxOHROTDhla0phZ193N3JlRm5xcWtIYWpnTWxmRVEza01DR0FyZGVaemVzNk9NVnZBcGR1UURlT2xFbkFOQTRSbk84ZU5BWEtkOXlyU2ZXNXpiaHZ3SjNuQ0RtNmVPX1cxeG9kWVJVS2ZtMExkcFJoM2NYdUtubl9aZlkyUnJkNGFISGRTeUVhV3RkS1FmQXYwRUVBYWZ2N3lqRm9uLXV1NVQ0SkFJb2Vra2RmNV9XWHQtT3hZSzhGd2M0R3FtTnZKajNERUpJdzE0",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVElaU1VMSDh4QXdNUTByc09BN1NJQ0E4M2owUnQtcWZFVnBJR2RBZU1hdHZBU2xsTkh4UlpOcUpYRFBfNkczWVBNLVBlVF9YUTFlVUJ0NUJhQ3YtRkRuUEgzU2otY2pOeUFDLWdFX1ZRc0Mwb1RMeXpzQS1WYlVnSzdxTHNLUDRUQm5jeVFn",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3Q1QzJWYlRTRUZaeEZIMmZ0SWgxbTdCQVNoSVdjR0RmVE1EaEZPLTNpS2ZzMGpqQUZiN3BPdVkwWFVRaHp5dThIM1g0RGJsZEpLVEJvcmtZc0NJMjh5QVdjSWxVaDU1MWozQ2R3QTR4RjJ2RlNzVExxOFQxTVpvOFNpYk84Z21RZ3FBRk8yNW8tQQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXduSm94eDJhdnRDa29aOHczT0dEMzlFZUNGeXAyWGVUdkFIXzZmVmstdFVxX2FXaHNVb3R6dzVSSndKZkhFLVRPRGxNUl96SjV4R3lvY2xfQ2tJMURPSGtPUTBYZDZ3MUItdkxiVllLZWtzQzVnbXQ0MnhDdjBPZmNna0ZTb2o2YXZIYkJhUUhJUm5D",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "ЄС відкрив переговори з Україною про внутрішній ринок",
-      "original_title": "",
-      "summary": "Рада ЄС офіційно оголосила про відкриття переговорів про вступ України до Євросоюзу. Цей дипломатичний крок стосується конкретного розділу acquis communautaire, а саме внутрішнього ринку, конкурентоспроможності та інклюзивного зростання. Рішення підтверджує прогрес у процесі розширення ЄС та встановлює нову фазу переговорів між Україною та Європейським Союзом.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmxzWk91dE00RUtUeHQxdm9sMExJeGRTdFJqTmhOZ1JpbkR6M2FVWnJCdno2bVNTaHhORFlpQnB1N0MxOHROTDhla0phZ193N3JlRm5xcWtIYWpnTWxmRVEza01DR0FyZGVaemVzNk9NVnZBcGR1UURlT2xFbkFOQTRSbk84ZU5BWEtkOXlyU2ZXNXpiaHZ3SjNuQ0RtNmVPX1cxeG9kWVJVS2ZtMExkcFJoM2NYdUtubl9aZlkyUnJkNGFISGRTeUVhV3RkS1FmQXYwRUVBYWZ2N3lqRm9uLXV1NVQ0SkFJb2Vra2RmNV9XWHQtT3hZSzhGd2M0R3FtTnZKajNERUpJdzE0",
-      "published": "2026-10-13T17:28:37+00:00"
-    },
     {
       "title": "Гоночні авто та роботи на дронах: кадри з другого дня AUSA",
       "original_title": "",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/ukrayina-vidnovyt-udary-po-npz",
       "published": "2026-10-15T06:08:17+00:00"
+    },
+    {
+      "title": "Лі Цянь анонсує візити до Узбекистану, Таджикистану та Росії",
+      "original_title": "Li Qiang to Visit Uzbekistan and Tajikistan and Attend the 25th Meeting of the Council of Heads of Government (Prime Ministers) of the Shanghai Cooperation Organization, and Travel to Russia for the 31st Regular Meeting Between Chinese and Russian He",
+      "summary": "Прем'єр-міністр Китаю Лі Цянь оголосив про офіційні візити до Узбекистану та Таджикистану для участі у 25-му засіданні Ради глав урядів ШОС. Також заплановано поїздку до Росії для проведення 31-го регулярного засідання між китайською та російською сторонами.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MkZUYzBkb09BTGZYWFZoZXQtRjJwYkk2QjgyQlFSUGJvQ05KZzF4VGtuaENkdG4yY3prUXdIYktiWXlEZk5YTFpYczJveFpqSGJtX2NsU1d1enBDOG9ieC1meXFwcDU5czFVTVFWOGV2eDRmS0t6VlY5Zw",
+      "published": "2026-10-15T07:00:00+00:00"
     }
   ]
 }

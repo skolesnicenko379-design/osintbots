@@ -1026,16 +1026,13 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVm9jSXBuMjc4MXRiMjdhS004aEFHRHNPN3AzZUZKcHVCVk84ZnU1ajdRNnVmUWp5Tmtjc0tBTVZZMWVxb2tHamQ2ZlhlRGxrQUVFcDZGQUFOQ3Y0R1MtaFV0QldHY2Q5SU94QzdIekdRb0EteS1BVW5FbG40SVBWWE5PM0ttSG1jbmtkTlRPbGhFQXh5QndXSm9ETDBrOFZLVUx6SmRuY0lyRE9CWlUxb1AwQ1hPVHF3SkhNZ3ViVGI1VldiYVE?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzdxdnNaVGFDa09RRmxfYUYtNm9LaExUV1JjVXU1SnJWTDMtU0FHS3RWWXZETkliaFU0S1R2UDN0UHRCNnIzejJyQ1VZaDJQR1l0Tk9VaERXbEpIb0psVVhOODFiV1NFRjhKSU1qMjUxc183Z0JyMXgwRnNYaVI1TnRnTmZlR3RuUDZHbFpNZVJlR1E?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFJia1FNUHNxZ0FLQ2hYbi1LdXRUdEcwaEE1bWZTUmZWaXVobVdsS1dWcjItVjNxU3RFX1k1VldVSkJoRTVlSGdtTjE3Z1IxazNDNnRJUUMwbHBNT1prVXhTa3IzbFB5b2pXdVc5ME9PeUxXSnpZTlJHSGtldDFzcnFySnpFOTdtZXZySU03N1pkUW0wN2VKR2xjZ2pmWXlUU2V1R1pIc3hsdnpPWGRsV0Z3aDloQTUyTm9XMUxYdkFWZThyUWl5VzdGN0MyaUNDRlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3lRRTc1MUtzWHo1ZkNldkJfcjNyLVdkZm9NVy0wV29hMjJBTVE0WGprZTRFamxjVVlrNjVEWXpmY1NnMFJ1eVY2bXlWTi11enItUnQ0YmYwd3NSZWNEMWxxSG1NMVhsUTBpMW91MmRLZDVoR01MWGtrTTQwVmpTTmZpZHhZd2E0UFE?oc=5"
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3lRRTc1MUtzWHo1ZkNldkJfcjNyLVdkZm9NVy0wV29hMjJBTVE0WGprZTRFamxjVVlrNjVEWXpmY1NnMFJ1eVY2bXlWTi11enItUnQ0YmYwd3NSZWNEMWxxSG1NMVhsUTBpMW91MmRLZDVoR01MWGtrTTQwVmpTTmZpZHhZd2E0UFE?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelhJTDZPaE9QbkFodVh4Zkp1OW1tekpOTkEyNDk3blFiSDFnX0FhWjU2MUlVanY3VmJVWVJZdG85T3FSSTVOa3o2b2diOVd4RzM3Z185aFBISjdFU0RVOFBWSUhjN3ZYWjZIUl9vblU3YmNIbkp2NE9XY19ocmEwczlvckhweXhaWWNyUHVFS1lMRkN6WXd3bWZmOHY4anlQQWxFVXplc9IBrAFBVV95cUxPNXBCVWpSZWZpMV9PSTgxNExpaVZJOG5rVXZaRmx3OFhiSnoyemt2Yk40NmxCRm8wbGNzcWZ6VW1mTEhTSlVTdGpwWURTaGtDbnhjM2NZMlVxaVlrUm1wRWNmblR1Zi1ESjIyeVBXNmhRbFpDcmxBMkxCLXlpbkRQWEpsOUQzT3hDZGJVV0Q0YlEwb3pSZWFGa2hRLXVwMWpRbkliRVF3RExfZENf?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0hoS2RYVXgtQUd1WFlWQzBhWldqcUFwZlV1NjNkQmN5ZnpuTV9QQUg1S01Tb25tSkFWY1AtZHFZR0lEek1taTJDOHMxRzE0SUo4Z0hjTVlFTWNNNEUyM18zaUFTYm5JRVRNdHVXQ1BSMzRJNzhDSHdzWnhVNXN6Qzhnd05KalF0ZlZiYlFLMEdEZk1fdUp1Q3g0SQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmpreDNuREJFc0Zyckp3REFQY0twN185dWwwa0ZybUVyVnoyMVM1R1BDcENaXzQ3bTV3RFNoOFJtdkdKRDR2ejF0X3NudTZoRzBKQ0d5UjZkV3RvQmlwM3ZKdzg5ZzZ4QmpuVUlGS29PczlCZ3BjRjJCNEdGckFwSUF0U1gtS1o3bzVnck1qY3RvbmdHSXNvSmVxYmJYOGJjWWE3R2ozbUNjTlk3aXdhMWVSRGIwT3YzbkxZaW12eGxMaTJhbW00aHhIR1YwbGIzdUNKQ1ZsalVkWXRJU0l6WUJMSURQMk1SWXNv?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRlV0QlBPQ1dreEdlbnVHSGxNWlFfQ0FZUjROZ2JHVElWZm4yYWU3TlJSa0hCLXhDcEU2bXhvRk1zcU1TMVV4elRiRUJta3BmYmR5RkhsQmtGN1EtSDZMRnZzZ2dCYXU3VWJsUTRB?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "UK urges Libyan parties to honour commitments at UN Security Council",
-      "summary": "UK Permanent Representative Sarah MacIntosh urged Libyan parties to honour commitments made to provide security, economic opportunity and democratic freedom to the Libyan people during a UN Security Council meeting. She highlighted the 4+4 process agreement, the 24‑month election deadline, and the need to avoid reopening settled issues.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-14T16:03:05+00:00"
-    },
     {
       "title": "Міністр внутрішніх справ Росії зустрівся з прем'єром Пакистану",
       "summary": "Міністр внутрішніх справ Росії провів зустріч із прем'єр-міністром Пакистану Шехбазом Шарифом. Під час переговорів сторони обговорили потенціал розширення економічної співпраці між двома країнами. Це офіційний дипломатичний контакт на рівні міністрів, спрямований на зміцнення двосторонніх відносин.",
@@ -1238,6 +1235,13 @@
       "source": "Bilateral Meetings",
       "publisher": "Վարչապետ",
       "published": "2026-10-15T15:02:10+00:00"
+    },
+    {
+      "title": "Рада ЄС оновлює список осіб, що обходять санкції",
+      "summary": "Рада Європейського Союзу опублікувала оновлений перелік фізичних та юридичних осіб, які причетні до обходу санкцій. Це рішення спрямоване на закриття вразливостей у механізмах контролю та забезпечення ефективності обмежувальних заходів. Офіційний документ підтверджує розширення бази даних для запобігання порушенням.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-15T15:59:07+00:00"
     }
   ]
 }

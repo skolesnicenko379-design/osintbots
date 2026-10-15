@@ -74,8 +74,8 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZ3M3al9aYUtaVzRZbG9fRnRFbXhLRDhSZHhXNG5wcmp5bDktVVhqR2NoUWowcHM0MFU0Z241SjFUQWt4S2xBTm1YU21OX2dFczRqbmd4RTg3RGc4Qll6X1I1Yw",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CMUNoM3hVaHlyVk1HN3dNUmJ5WEl5U3RneldaRF9nbWRtOGZCWkU4R1JYWVphaXQ1Z3RPRkJ2cXZySUxtMGdEcnREamtFa1YxWXZPaFc2cTJPYllNa2QzOA",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmtselAxckpkSnVscEVwVEZyRHRYaUs4aUJucmhrcUZ4NGVyTW42YlViMjI5aHFuX2dJQUFKTVVpc040V0l2SEhQT2N5aFBYTTVPajJyeVV4U3A0Ni1hZHQxTnJRYjhiZEE",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oa014ejBqWXpkTHF0N0VrRld4MTFmc2xOeFNwLXctMEJOYmdLaHZ4c2p0RU1lYXphNGEzYVczdlJETWx0cktJUHFaN2pxTFdOUFN1Qmc3ZUVGbUJ3YjU2TTBqV3lyUmxRWk15aGx3",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfaWRCNVdFdVpucmhOQm42bHpnZU5kNG1SWmpTdkQ0NmtVLWk1UG05U2xyaEhGejhucGc0OXlNamt4VmJmWlkzTUkwUjZBU3BTNEtjT0duT2wyY0ZyUkVtZ1hjVmx2ZzVYWHdTZjVIdUx6T00",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NGJlWXNoRlpZZ0pmRElFczREbzRScnREbDhZdl8wakkzTHd1YVlnOGh2SmJmNWlLQ3VrVVNpbV9JbWJMOXRFM2gzSkNHMWhSbHpJS21IY1JnREFVUTFPWnVSWm1oeVVMYU5iYVRpU24yZlBRUmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pLUlJd0RJY1hSZnhvbVhrUGF6enhZbHBKYWJHd0FDdG9rc2hVdFJPbVdXY1BaMjJsbVNFM1hOd044WlNxd0FNTUdtd2lMdUVoY2tMNU9xMURxSXNkbFAyYlloa1ZhTXprYnNfeVlJdFJ6OWNXZlE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZUR3MlhQV1dObkVCazhjaTRRenFjMkJVSmVPT2ZUM2N0TlB0WWluYVUwanYwZENZeV9kT1NuNTA5MUJCSGNhbTBtRmRRLVlHV1dXdjVQTmthbk1CczY4UWI0andBNU1QNTRQYjZsOVVscFpaWXc",
@@ -103,7 +103,6 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXkxWTduT1F6Q1RBOVNab2ZWZWdTRWd0Z3RBcmZSWGUwN1I5MThIaExSQzZmYmszcHBHQzNUdXoyQnFHUXVsYkp3VFdKVW1jLUE2TFBPZXdQeGxhVlY4VThpSWVGUE5VRlNfYWtPczktbGdESEJrcVluaF9JemY4azVNY005NjBNSzhOZGhzb1ZOQUFSTk8w",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2NBMndzYlE3b0lhbU83LW16ZGtVelZqbUs1YTRtM19KWW81VlhmX28zdVBhNUtCaThkRnFWTEU4WmczVTJVZVk2VzVKYTBHOWZQdzBsQkFpbWFCSjVwRl9hZkNsd0VjaUpnMWc3Vk1yUHpuaVFfZFl4YjZZbktzLWZrWG9RSk9Bdk1XcF8yb0NWMEhjTC13",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzFsTFNPWXREaFRoejU1MG9fUEpiRFhJY0RERVhBYlRha2gwUkNhc1g2clhic3Q5Y3FrUFNhdS1kRktWdi01MXd2TC16S2dTOGNRb3lmcDNtZ3NvcC1oVlotay13dWhBYWg1T1hsczlSalg1UEJaenF3SHgtOGxMM1QxZWhuNWNFdTZnUF9xYTZKTzQ4WDE0N2Fkb9IBoAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnJ1N2lybVpnSUJVXzFXU1ExS2JYNk44Qk9IWEhRYXhRYk9JRlhOYjJINC0xR19USmNMcVBUZ2dQeHJZS1FDQTMtbEhRM29wMmw4UHFxZkNPeTZMaXROU1VxWURmVnI4a0FVOFRrcmZrZkZXVDYwdlBJUXAtak5vNFJ3SzVScnZjek8tdE54YWJxZ0VNQUlGeWVGbW5jdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNG80a0p4X1ljd0FKdHZzZER0Tm5RQTgxNXl2X0piY3hiTEpCb0w4S3ZaaVQ5a1UybHB2c2hNWkxLRHFvTGlycV9GNkM5YVBTR21FVmFSZ0dHYmZtN0ZUM2p2NGoydVg0YUpoQkQzMEloRmNaclEyN3JPM25RejcxbW15X0ZoVDh4SGo5dE5vbk9sZ1VueGttWHFmZzVwekJN",
@@ -132,6 +131,7 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVERJNEtPYjZpbWRKRjNmNTd1NThCaGVIMzZBUm5hakRETW9VUEtnTFpyc2xRdVdyOVo5TlZvS3I2Z0xFUWhDR292OGFRTkE3LVREeTVkaE1GRHRJMkVlMlJsSVFCa1RmdzRPcnBVaURqRlVQbDE2ejhYMmJORFYta1oyVVJWZHo0eXlfQlpzd2ptNFdIVVRaaXZHRFcxaWJsLVRXelFUUlZOOXk0T25ZQWYycVRHTGFL",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc21yVDFjUlE3VG00OERZclNrZGY5WmJnQW8xSDVWOW9uV1FUZDRyazl1Vnk3OHUwRW5rQ1hZTldIMDJ3Tm5VVWdYSDdzSXdxMlpsSjBDTFBxMmdLa1dOS3UyMGxfR21lSEFnYzRtc3FqamhieWVlcWRKZ0F2OFZRQkdDbGd2UnkzdlBwaTU0bUpnMHdXY3ByY0xCbmpscmQ1U09JMEwyT1hCZFBTREVDd194VkVtbVZT",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTlhObEFnSkdHYlI0ZVl5ODJZdTRuUFQ4cGF3NzlPM0NJTWV4SjVtTFZPbHl4Um5hQlVMTm1VWVVocUpPUHN0d1I3d0E1TlIyQVhzMlYxR0pfck1IN0pnb2VKd0YteDR0WVVJR2F3OEk0VHNkNUJZaGVRcEY0VFJqNDliU3dzVGNMNTNFM0FuRElaeklvQVhIVXJ4aGhCTjFKaXdqelZBRlAtOEUtWVBVY3JlaGpzTVY5bkE",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFONIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlNJNHhSRTgxSi1xZGFnU3BhRkFXV1JuTkdZVWN0RFhESVpjbVd0Z0Nyc2kwUFA3UXVoYlV6X0haRVJHbFNEaDlDcUVpWWZfZTNzekV5cGMyUWR2ejlGYlpoUTM3N3NaX3ZWemtwUU5nTDBnOGY5RnlfOHNQN3NrdzY2RXpSNkFYcXM4X185bHU3TERwYmdyU0RyLV9Sd1JLaVh4WDJ0Z1lrUlVlTFJpOF9KN1hQTHliVXlvSQ",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm83Vk56cEQzTXI2SzFEUWxUSENaRVZxTTQwX1UwbWJCQ3l1ZUpwWEZubGlmX0VRQVdnSTN0cl90ZGU5RWlQanBHWUNFTDBkUHdCcXNBQUdkTjhFamxxbGNrVlE4WTZIMVNWR283ZWZwMTF1bGVaSngzX1hUT1NDQTFSa2RUa284cmwxU1o4YVdXZThWdXJhc1FhYk4xeDRCTDVESjBybTZxanNwanNBVTI4TDRWUmh6ejV2TWhB",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTlWNUNPUVI2QkNKelJGTTZRd3FlTUJiMU93NmMzaVVhVE1xOXV5UzBjSFJDczF6YkhMZmwzanFBanVMdHJyclUzLVRzdHNtTDJ0VmFkaENOTVJxNFE2dUtZV1Q5SUZWU284aHVfVjd2Mjh6eDhjelkwRlhlNmJ5c0VqUzBIQzV0Qm9fN1RrdHZfazBVUEZYZ1lmeGhobEZjTkdiN2JpRExtSWxXMjdfNTJvMTNLNTJkMFg3Y2xB",
@@ -152,26 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "Заблоковані LNG-поставки Близького Сходу порушують газові ринки",
-      "original_title": "",
-      "summary": "Стаття описує заблоковані поставки LNG з Близького Сходу, що дестабілізує газові ринки. Це призводить до волатильності цін на газ та пов'язані енергоносії. Наслідки включають тиск на ліквідність енергетичних ринків та можливі збої в ланцюгах постачання. Експортери можуть зіткнутися з валютними коливаннями через скорочення доходів.",
-      "source": "Сировинні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzFsTFNPWXREaFRoejU1MG9fUEpiRFhJY0RERVhBYlRha2gwUkNhc1g2clhic3Q5Y3FrUFNhdS1kRktWdi01MXd2TC16S2dTOGNRb3lmcDNtZ3NvcC1oVlotay13dWhBYWg1T1hsczlSalg1UEJaenF3SHgtOGxMM1QxZWhuNWNFdTZnUF9xYTZKTzQ4WDE0N2Fkb9IBoAFBVV95cUxPRkpMRWJpM2swQldpbnFSVkFmdUdSMlZYR09vVWJOUXkwYW81M0NEUUVWb1NuMHBOR3EyZkRJM0xMbk04VFdLMDI5bjM3UGxkT0JYeU1nb0gyWmJhcmZ3TEhvQ29JR0lRN2xiVjdEdENvSDhGQWI5Y0VyWmh6MFBaSFpUTkFSblVNTWs1UU1GclBQa3BoNUZtdTBTaktXYjNV",
-      "published": "2026-10-13T22:00:00+00:00"
-    },
-    {
-      "title": "ЄС планує неформальну зустріч міністрів освіти 15-16 жовтня 2026",
-      "original_title": "",
-      "summary": "Рада Європейського Союзу оголосила про проведення неформальної зустрічі міністрів освіти 15-16 жовтня 2026 року. Захід буде організований на платформі Consilium.europa.eu. Учасниками стануть міністри країн-членів ЄС, які обговорюватимуть актуальні питання освітньої політики. Конкретний порядок денний та очікувані рішення на даний момент не розкрито.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ",
-      "published": "2026-10-13T22:03:43+00:00"
-    },
     {
       "title": "Два американських економісти отримали Нобелівську премію",
       "original_title": "",
@@ -1633,6 +1613,16 @@
       "published": "2026-10-15T12:26:09+00:00"
     },
     {
+      "title": "Пашинян заявив про мету підписати мирну угоду з Азербайджаном до 2031 року",
+      "original_title": "Pashinyan seeks to secure signing of initialed peace agreement with Azerbaijan by 2031 - Qazinform",
+      "summary": "Прем'єр-міністр Вірменії Нікол Пашинян оголосив про намір забезпечити підписання вже ініціалізованої мирної угоди з Азербайджаном до 2031 року. Це повідомлення базується на офіційних заявах лідера країни щодо статусу переговорного процесу. Ця подія відноситься до міжнародної дипломатії, оскільки стосується формалізації мирного договору між двома державами.",
+      "source": "Treaties & Agreements",
+      "publisher": "Qazinform",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFONIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA",
+      "published": "2026-10-15T12:27:28+00:00"
+    },
+    {
       "title": "Бундесвер замовив 15 бойових катерів Watercat M18 AMC",
       "original_title": "Бундесвер замовив 15 бойових катерів Watercat M18 AMC",
       "summary": "Бундесвер придбав 15 катерів Watercat M18 AMC для батальйону морської піхоти ВМС Німеччини. Катер довжиною 19,9 метра та шириною 4,3 метра вміщує 30 осіб, розвиває швидкість понад 40 вузлів та має запас ходу 370 кілометрів. Це підвищить тактичну мобільність підрозділів у прибережних зонах, де обмежене використання більших кораблів.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rumuniyi-zagorilosya-sudno-himichn-produkts",
       "published": "2026-10-15T12:48:08+00:00"
+    },
+    {
+      "title": "Франція реалізує угоду про захист нафтооб'єктів Саудівської Аравії",
+      "original_title": "FRANCE IS STARTING TO PUT INTO ACTION OPERATIONAL ELEMENTS OF AGREEMENT TO HELP PROTECT SAUDI ARABIAN OIL FACILITIES - FOREIGN MINISTRY SPOKESPERSON - CGTN",
+      "summary": "Речник МЗС Франції повідомив, що країна починає впроваджувати операційні елементи угоди, спрямованої на допомогу у захисті нафтових об'єктів Саудівської Аравії. Це офіційне дипломатичне рішення підтверджує активізацію міжнародного співробітництва у сфері безпеки енергетичної інфраструктури на Близькому Сході.",
+      "source": "Treaties & Agreements",
+      "publisher": "CGTN",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oa014ejBqWXpkTHF0N0VrRld4MTFmc2xOeFNwLXctMEJOYmdLaHZ4c2p0RU1lYXphNGEzYVczdlJETWx0cktJUHFaN2pxTFdOUFN1Qmc3ZUVGbUJ3YjU2TTBqV3lyUmxRWk15aGx3",
+      "published": "2026-10-15T12:51:50+00:00"
     }
   ]
 }

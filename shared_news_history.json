@@ -14,11 +14,11 @@
     "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat",
     "https://breakingdefense.com/2026/10/what-dismounted-soldiers-need-to-survive-a-battlefield-with-drones-and-sensors",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-albania-and-eu-provisionally-close-negotiations-on-enterprise-and-industrial-policy",
-    "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
     "https://gov.uk/government/news/britain-funds-critical-repairs-to-chornobyl-nuclear-power-plant-damaged-by-russian-drone-attack",
     "https://gov.uk/government/news/change-of-his-majestys-ambassador-to-yemen",
     "https://gov.uk/government/news/uk-calls-for-fundamental-reset-of-global-financial-system-for-developing-countries",
     "https://gov.uk/government/news/uk-statement-on-escalating-tensions-between-ethiopia-and-eritrea-15-october",
+    "https://gov.uk/government/speeches/a-just-and-lasting-peace-requires-continued-pressure-on-russia-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/deterrence-is-not-a-threat-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/libyan-parties-must-honour-commitments-made-to-give-security-economic-opportunity-and-democratic-freedom-to-the-libyan-people-uk-statement-at-the-un-s",
     "https://gov.uk/government/speeches/the-un-sanctions-regime-remains-an-essential-tool-to-address-insecurity-in-haiti-and-to-alleviate-the-suffering-of-the-haitian-people-uk-explanation-o",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTg3RV9wcWdwMWJtbUVaajVwa3pIblhUb1R1amtnanIxN0dldUVWa0Z2MWhNbTdNYS1WMHNqZ0dmWHJ2NHpFYlRPeXZKcWRRVGE1OTN2YmpLWEU0d2VrSzRrcWRJUVZNVm9vS09Mc3N2WDhpMU5iSnJMQU8wQUNhdUJvMkV2N1VsclRhdnNmdld0VjdoRUhXaHd3Ml93bkRoc0Q1M3Q3U1VsaG9xeWlLaG5iMUNCLXFiWFFrLVdXRzFpV282aVFzbDBBQVlHZw"
   ],
   "recent_posts": [
-    {
-      "title": "ЄЦБ: ШІ як можливість для Європи",
-      "original_title": "",
-      "summary": "ЄЦБ опублікував статтю Філіпа Лейна про ШІ як загальну технологію. Вона може підвищити продуктивність та розширити доступ до знань, але потребує координації розробників, інфраструктури, регуляторів та ринку праці. Невизначеність термінів впровадження залежить від усунення вузьких місць. Це вплине на економічну трансформацію та політичні рішення щодо етики й управління.",
-      "source": "ЄЦБ",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "published": "2026-10-13T18:30:00+00:00"
-    },
     {
       "title": "ЄС і Албанія закрили переговори щодо промислової політики",
       "original_title": "",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/ukrayina-atakuvaly-ryazanskyj-npz",
       "published": "2026-10-15T08:32:00+00:00"
+    },
+    {
+      "title": "Британія закликала ОБСЄ посилити тиск на Росію",
+      "original_title": "A just and lasting peace requires continued pressure on Russia: UK statement to the OSCE",
+      "summary": "Посол Великої Британії у ОБСЄ Хоуленд засудив продовження російських атак на цивільну та енергетичну інфраструктуру України, закликав до постійної підтримки Києва та посилення економічного тиску на Москву задля серйозних переговорів і справедливого довготривалого миру.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/a-just-and-lasting-peace-requires-continued-pressure-on-russia-uk-statement-to-the-osce",
+      "published": "2026-10-15T09:35:44+00:00"
     }
   ]
 }

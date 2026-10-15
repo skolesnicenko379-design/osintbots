@@ -940,16 +940,11 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFdlRHBEb0tnX1RFbEtuWFhQS01PcDdxS2lEcTVvUnZOTnE5dmFGRVhqbU5mam1Id2JuYXhIdFFHMkJ0eWtLQy1RdV9feXVXTk91dnUzMkY3VThmaEpRNm9vY2J5WHBFSEZzcUFfSG1SRUkxMUVLUGhLTGI4RXB6d2hlUERXdm45NE9rV0RfOUYxMTRWRURmajBNUUZjNWEtR0lnTnFoTllwWVFZQXRSSXlua1pCT19URDVFeHBzdWRkQ0U?oc=5",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd05FUGotNXNfTkhOelppMWNwOERrcFhiamEydm9xVlEwTl92Ml9NOVFYMDlsMzZ0YU1udmcycncxeENSMHQ1NExkNHpZamtGOXRxNlUyUm1FcjRrS2V2VmhQZ09pTzJueEJaNVNuQlFSbU1BZnZldmlDb01IOUtyVTZFT2pORG9pN3hqVG9zSXZEUEtkNUhPcjNnS2xScFRPSEFFZHE3T3hWMHlMR3luSGstWDd2ZzBzaTNVcUljZDVtVFlOY2NBczB6YnBtM2lrcG82MUE4RFE1VV9MYmlZX0JZVEVrSDlFeGtyVm5iQzVYWVJ5dEln?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MkZUYzBkb09BTGZYWFZoZXQtRjJwYkk2QjgyQlFSUGJvQ05KZzF4VGtuaENkdG4yY3prUXdIYktiWXlEZk5YTFpYczJveFpqSGJtX2NsU1d1enBDOG9ieC1meXFwcDU5czFVTVFWOGV2eDRmS0t6VlY5Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdlJxNVFBRTVCb2Q0Y1cwRUFsOU8wS1E0LWVPN3N1U1FtUTdfYUhGNlNuYy1vTzgwSU1WdXpaQ0FsWjFHU1RRaGpKdlQwdnpkNk5Va2F5Z1J5NzNWeEctMFpKaw?oc=5"
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdlJxNVFBRTVCb2Q0Y1cwRUFsOU8wS1E0LWVPN3N1U1FtUTdfYUhGNlNuYy1vTzgwSU1WdXpaQ0FsWjFHU1RRaGpKdlQwdnpkNk5Va2F5Z1J5NzNWeEctMFpKaw?oc=5",
+    "https://www.gov.uk/government/news/uk-statement-on-escalating-tensions-between-ethiopia-and-eritrea-15-october",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE93TFBMQ3R3MC16T3pPT2JNT3FEbnJrLXpCVndYcmNJSVlOeXpVaEVlNXZKWVZFRjRzbFM3OTB3R0tUNk9kcHJxOXpCcGZkZ1l2LUQ4RGZWeEJMVlI4WVZUQlVvQTlMVmM0dlcwNzh3YmczeVVkX0JZeU1kcw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Трамп анонсував візит до Манили на саміт АСЕАН",
-      "summary": "Дональд Трамп оголосив про плани відвідати Манилу у листопаді для участі у саміті АСЕАН. Ця подія підтверджує офіційний дипломатичний візит президента США до Південно-Східної Азії. Деталі щодо конкретної дати або повної програми зустрічей у тексті джерела не наведено.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "published": "2026-10-14T05:40:00+00:00"
-    },
     {
       "title": "Рада ЄС оголосила про Трійчастий соціальний саміт 14 жовтня 2026",
       "summary": "Рада Європейського Союзу опублікувала медіазауваження щодо проведення Трійчастого соціального саміту 14 жовтня 2026 року. Цей захід передбачає зустріч представників Європейської Ради, Європейської Комісії та Європейського парламенту для обговорення соціальних питань. Офіційне оголошення підтверджує дату та формат дипломатичної взаємодії між інституціями ЄС.",
@@ -1152,6 +1147,13 @@
       "source": "China Diplomacy",
       "publisher": "中华人民共和国外交部",
       "published": "2026-10-15T07:00:00+00:00"
+    },
+    {
+      "title": "Британія закликає до деескалації напруженості між Ефіопією та Еритреєю",
+      "summary": "Зовнішньополітичне відомство Британії (FCDO) опублікувало офіційну заяву, в якій висловило занепокоєння погіршенням безпекової ситуації в Рогу Африки. Лондон закликав усі сторони поважати суверенітет та територіальну цілісність держав, утриматися від дій, що ескалюють напруженість, і повернутися до діалогу під егідом Африканського Союзу. Також підкреслено необхідність забезпечення безпечного гуманітарного доступу та захисту цивільних.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-15T07:46:02+00:00"
     }
   ]
 }

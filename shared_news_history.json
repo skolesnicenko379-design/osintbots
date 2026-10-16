@@ -23,7 +23,6 @@
     "https://militarnyi.com/uk/news/dvi-tretyny-rozviddanyh-nadaye-yevropa",
     "https://militarnyi.com/uk/news/edrone-dlya-rozvidky-stvoryla-drakon",
     "https://militarnyi.com/uk/news/espl-vidkryv-provadzhennya-proty-ugorshhyny",
-    "https://militarnyi.com/uk/news/gretsiyi-vyprobuvaly-morski-drony-corsair",
     "https://militarnyi.com/uk/news/gur-identyfikuvalo-tretogo-filippintsya-rf",
     "https://militarnyi.com/uk/news/iran-perenosyt-vyrobnytstvo-raket-pid-zemlyu-pislya-udariv-ssha-ta-izrayilyu",
     "https://militarnyi.com/uk/news/izrayil-zamovyv-12-gelikopteriv-apache",
@@ -143,6 +142,7 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlNJNHhSRTgxSi1xZGFnU3BhRkFXV1JuTkdZVWN0RFhESVpjbVd0Z0Nyc2kwUFA3UXVoYlV6X0haRVJHbFNEaDlDcUVpWWZfZTNzekV5cGMyUWR2ejlGYlpoUTM3N3NaX3ZWemtwUU5nTDBnOGY5RnlfOHNQN3NrdzY2RXpSNkFYcXM4X185bHU3TERwYmdyU0RyLV9Sd1JLaVh4WDJ0Z1lrUlVlTFJpOF9KN1hQTHliVXlvSQ",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVlHTDFQbjFhRXFiWG5rdmJHUkJaMHhFcEg1TjdPa2xOTW1EMlphX3IxRXF4Y3BvQmlQejh5bENSM29jT1UtR05kLTJyVDBpejlhWEVZX1BGbDU1Mk9sbFhxUGs5WGFCWE5fSXBBSW11Y3hYTmRVVXdjZHNKTDNESGtJNTZELXFQZkttbnVfZzF5VHhmc2tjdW81QjVzMGJreG5mWVZJYkhhenpOTTViXzRnOWFldXNjZHdCa0hyOA",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklScmU3d0VzS2xUNkxaNVpub1NDX2ZSRzZGbTBYWXNvQjBCdExkemM3RFl4NmNoTmFfTmtqZk51d19EWDUyU254bGFzSkFDWXNWanVWbENNVmhVT1ZJNHV6OFlHSDN6LVJ5eXdKRmFpaWhvdHpCYjFUZGtpeXdxMmJINktVclNGdzdYdG80cDBtU21MVGFPM2d0amJ4QlZFNkx4RE13YXFnaU04SENWTllveXhrblVaOWE4R29SZDA",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVIydzd3ZXNKdFZQcFZxQzVqYjNPR285N3o0ZDE3bWxKd21MVkVpc3MwRHRoNm1XMWFZdUZGY20yb19KWG5FYjdsbmFncGlkQ2xGODlEaER5UHF0cE1zUGE4UFRRTi1NYVNWbjJhV0c1MEpQSjFKVEJhemY5TTBOT2ZRUHVhbldSaGp5aXZFUV81akhOQWdhMWllTnBqbnlyVUFhd0JjeUE0U3UtSDdaTWQ2dUhHUHIyOFdmQkYzVlg",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0pVcWYyaHVzbEpnSVdTaDJGZVFpbXY2cnlsYTBreEh5VmFMOUh4NlplSUJ4N2U4WVJrUG9Hb2pBcDd0bi0tUkJ3YklVSmc1dzE2c19rMS1XaUZhcWpod011TGU0OUpIcFk1cFFNdmU4ZGUwQnBSSW1idUJrMW1BVnNYYlFhMFctYUxHcTBZNTFoUDBHdHBNclpKV1dOcUpIYWlkWjdobXVrYUM2VXAwQzZENlJKaWdGV2ZZZWN1M2Z5Zw",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzZ6TUhUek9vaW10LU03MjZMTnVLczdvb2labXBKcWkxRm1pSHFCMFRfX2ZzTDJtbXdBcEZONllKTFo0eUFBUk5LT0lrMG9yMDlQcFpwb2FwNUQwX3J0d0dCZlIwV21yS3BzZ3haMXp0eU16UVI2bTFjSTU0bko0ZVpiNUM3ZHZYN3daV1g2TmNaeXhxRjl6dFVLclpTZk5aYlZBel85bGZ6SWhfZzZhSFJyMGFIc2w5X1AwTlVSWFp3TWRSUlE",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJsVkpqSHFIZ1gwMXZiZDJSNG9aV3FncEtoV0ctV3NpM0VoM2UwV01FTnZLazhZVUJuSmJqOE9uZG1GamF3OUE4aGlWenFkTEFSelZFX2F6SWsxUzJzbXBJUVZNallZQ0FBNjA0WnUza19UT2xnUFkwczh0NVpLdXNKSk9sMWdSZnhNRDFvQnU1SUpBclNsMk5jbFRGdTVqSDBhOWN2MVpjNnAzc2hTQWNyWGJZU0I4Zlg4TTlsRUN0bEs5czE5aA"
   ],
   "recent_posts": [
-    {
-      "title": "ВМС Греції випробували морські дрони Corsair та подали запит на 30 комплексів",
-      "original_title": "ВМС Греції випробували морські дрони Corsair, які США використовували проти Ірану",
-      "summary": "Corsair — 7-метровий дрон з дальністю понад 1000 морських миль, корисним навантаженням до 454 кг та швидкістю понад 35 вузлів. Системи ШІ дозволяють діяти у рою для розвідки та ураження. Греція планує стати лідером у автономних платформах до 2030 року, що посилить її флот.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/gretsiyi-vyprobuvaly-morski-drony-corsair",
-      "published": "2026-10-14T19:20:31+00:00"
-    },
     {
       "title": "Законодавець США пропонує Африці угоду мінерали за технології",
       "original_title": "US lawmaker targets Africa’s 5th-largest gold producer with proposed minerals-for-technology deal - Business Insider Africa",
@@ -1601,6 +1591,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSzJLUzJ5Yk1TWnFIZ2U2am9QTUQwNkRjVUIzSXJ1aU42UWgtZndId1ZnS0pWeEdhYlgxOUc3bng1bkNva0NVVGZhZTBOekM3dXZB",
       "published": "2026-10-16T09:48:59+00:00"
+    },
+    {
+      "title": "Пакистан та 18 країн відхилили перенесення посольства Колумбії до Єрусалиму",
+      "original_title": "Pakistan, 18 countries reject Colombia’s Jerusalem embassy, says move has 'no legal effect' - The Express Tribune",
+      "summary": "Пакистан разом із 18 іншими країнами офіційно відхилив рішення Колумбії перенести своє посольство до Єрусалиму. Дипломати заявили, що цей крок не має юридичної сили. Ця спільна реакція фіксує міжнародну позицію щодо статусу міста та дипломатичних представництв.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Express Tribune",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklScmU3d0VzS2xUNkxaNVpub1NDX2ZSRzZGbTBYWXNvQjBCdExkemM3RFl4NmNoTmFfTmtqZk51d19EWDUyU254bGFzSkFDWXNWanVWbENNVmhVT1ZJNHV6OFlHSDN6LVJ5eXdKRmFpaWhvdHpCYjFUZGtpeXdxMmJINktVclNGdzdYdG80cDBtU21MVGFPM2d0amJ4QlZFNkx4RE13YXFnaU04SENWTllveXhrblVaOWE4R29SZDA",
+      "published": "2026-10-16T09:51:28+00:00"
     },
     {
       "title": "Гаряча інфляція США тисне на Азію",

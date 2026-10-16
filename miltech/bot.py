@@ -21,6 +21,9 @@ from bs4 import BeautifulSoup
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
 CHANNEL_ID = (os.environ.get("CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
+ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY") or "").strip().replace('"', '').replace("'", "")
+ANTHROPIC_MODEL = (os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5").strip()
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
@@ -205,6 +208,71 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
 
 
 # ===== Telegram =====
+
+
+def enrich_with_anthropic(title, article_text, source_name, needs_translation, recent_posts=None):
+    """Резервний переклад та аналіз через Anthropic Claude API."""
+    if not ANTHROPIC_API_KEY:
+        print("Anthropic: відсутній ANTHROPIC_API_KEY; резерв вимкнений.")
+        return None, None, False
+
+    lang_note = (
+        "Оригінал англійською — переклади заголовок природною українською."
+        if needs_translation else "Оригінал вже українською."
+    )
+    recent_block = "\n".join(
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
+        for post in (recent_posts or [])[-12:]
+    ) or "(нещодавніх публікацій немає)"
+    prompt = (
+        "Ти — редактор мілтех-новин для українського Telegram-каналу.\n"
+        f"Джерело: {source_name}. {lang_note}\n"
+        f"Оригінальний заголовок: {title}\n\n"
+        f"Текст новини: {article_text[:3000]}\n\n"
+        f"Останні публікації для перевірки повторів:\n{recent_block}\n\n"
+        "Перевір, чи це та сама подія, що й у попередніх публікаціях. Інше джерело або перефразований "
+        "заголовок не роблять подію новою. Якщо є суттєвий новий факт, duplicate=false. "
+        "Створи точний заголовок українською до 15 слів і 2-3 речення технічного коментаря про подію, "
+        "характеристики техніки та можливий військовий вплив. Не вигадуй характеристик чи фактів. "
+        "analysis не може бути порожнім. Поверни лише валідний JSON: "
+        '{"duplicate":false,"title":"...","analysis":"..."}'
+    )
+    try:
+        resp = requests.post(
+            ANTHROPIC_API_URL,
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 700,
+                "temperature": 0.2,
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=(5, 35),
+        )
+        if resp.status_code != 200:
+            print(f"Anthropic ({ANTHROPIC_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
+            return None, None, False
+        blocks = resp.json().get("content", [])
+        content = "\n".join(
+            block.get("text", "") for block in blocks
+            if isinstance(block, dict) and block.get("type") == "text"
+        ).strip()
+        match = re.search(r'\{.*\}', content, re.DOTALL)
+        parsed = json.loads(match.group(0) if match else content)
+        ai_title = parsed.get("title")
+        ai_analysis = parsed.get("analysis")
+        if not ai_title or len(ai_title.strip()) < 5 or not ai_analysis or len(ai_analysis.strip()) < 20:
+            raise ValueError("Anthropic повернув неповний заголовок або аналіз")
+        print(f"Anthropic ({ANTHROPIC_MODEL}) успішно обробив новину.")
+        return ai_title, ai_analysis, parsed.get("duplicate", False) is True
+    except Exception as e:
+        print(f"Anthropic ({ANTHROPIC_MODEL}): помилка аналізу: {e}")
+        return None, None, False
+
 
 def enrich_with_xai(title, article_text, source_name, needs_translation, recent_posts=None):
     """Резервний переклад та аналіз через платний xAI API."""
@@ -411,7 +479,13 @@ def main():
             entry["needs_translation"], duplicate_context,
         )
         if not groq_title or not groq_analysis:
-            print(f"Groq не обробив новину; пробую xAI: {entry['title']}")
+            print(f"Groq не обробив новину; пробую Anthropic: {entry['title']}")
+            groq_title, groq_analysis, is_duplicate = enrich_with_anthropic(
+                entry["title"], article_text, entry["source"],
+                entry["needs_translation"], duplicate_context,
+            )
+        if not groq_title or not groq_analysis:
+            print(f"Anthropic не обробив новину; пробую xAI: {entry['title']}")
             groq_title, groq_analysis, is_duplicate = enrich_with_xai(
                 entry["title"], article_text, entry["source"],
                 entry["needs_translation"], duplicate_context,

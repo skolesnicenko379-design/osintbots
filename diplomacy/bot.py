@@ -781,8 +781,6 @@ def parse_bool(value, default=False):
     return default
 
 
-def analyze_with_xai(prompt, title):
-
 def analyze_with_anthropic(prompt, title):
     """Резервна перевірка через Anthropic Claude після вичерпання моделей Groq."""
     if not ANTHROPIC_API_KEY:
@@ -866,6 +864,7 @@ def analyze_with_anthropic(prompt, title):
         return None
 
 
+def analyze_with_xai(prompt, title):
     """Резервна перевірка через xAI після вичерпання моделей Groq."""
     if not XAI_API_KEY:
         print("XAI_API_KEY не задано; xAI резерв вимкнений.")

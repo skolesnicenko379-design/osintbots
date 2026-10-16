@@ -1121,30 +1121,16 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa21zTDNIc2tpSGs0V0pBTldzaVVybl9KODVEdURoMlBRbElHVHRDbnhHLVg3aWV3T1U2U05fZExocDA2cDZFMlJEZEM3LWl0amlGdHZzWktZSTYydXM3TVFwbTdxMUs4NDBJVXpzSC1nSmozaV84RHNqdnFYdFBFd1NXaVpuUTgtNF9oTm14cWNLVC1uLXlfOENPdFozR0l0T3V2YmxwOGRxb05wX3BiLW8waw?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEljMG41aTVYSEVJZEwyWnZKcTI4ZGh1ZHhSTzBXeEljQVB3MzUtMnhTODNWN0dBTnVxV0c1cjZZY0xNV2xoVGV6TFpzckFIajJKZWVtOXZ5Z1NpajlzQWYyc0JnZG9LR1RndG1KcTZhYnlWM0tHUmlBeVV5OFJMbl8xTFdvYkt1Q3N2Y0o2UDRrTk9zSUd2M1o4dG8zUdIBngFBVV95cUxQRDhtX21aWlc2Y2pOWW90cmpNRkdGZVgwdnRVWkZEd182eDNuMi1iX3NSSGdOdmV2ZjJndWlyYmhuaS00MERjaUlPelUyVnlJMW9uOFRlU1VJbmhneEZaTkVEOXVYbHVMWVEwTC11ZTdpa2NOdTdCbEhHdjl3NWQtLWVxN2R5dndYTi1oRWJtT1ZzODZ0Mms5ZTIxTldWZw?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWRLTy15NmVBU2pWQW5uckszZWRlOTM5S0NYamJ6RFB2enloOUM1aS1RM3dyaHhhQUlrUWVfTmt1bzkwdjg3VGdvbDU3ODN2RFhrbVpDM0J0ckdHMWtjNmNzdlFSLW1sMEF2cE9xTUNtMXdSRG55U3poaUlpNlc3UldjX0J6eG9sMjJMLVVYS3NYTGQwWXlYamZsS1h3NERSd2fSAacBQVVfeXFMTUdtellIM1czR0MyRHFGb3hIUi16a2pqcWdXaE5Hbl9FLXdwd3pPV1o4Mll3MFhlckFBVzJQRUJ4eHpNWFRJMFpDakhOLUpYWGluanF2Y0tFcEhsTzBXTXVnNnV0UWRGWGpnZ0lUZ1RwbFFzQWZ6RTZnNjR3WWVQaUhrXzJya05CdS1tbUpqVXBkOTF4dGRmYjVTcDFOZDlrZXdLdlBrdGs?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnpsa2lVejVWM1dRU2oxV0c0YkJ3aEZSQTJnaUFZN3NQcTE1TDBWNG81UC1WZ1pMY1dHX3ZaZ0xQN2UzVEVyZnA4bmJNWWZhM25SdlNkRHY0Qk1yMGxCZllDb21UbVNoZEppeFlTZzF1d1lQczdYbUlWd0F2WnlUQ0c4bmNOZmNrRE5BZ3MyQ3hKSDhhU3ZXN282c1FWc0tCTmRPcVhZeVZMN0hlb0MyTjNTaGlpSFZTelNLYXBQcTRZZUNLcmRGTllzcjR2cjNKc2RuR1FzR2QweVI1MWfSAeMBQVVfeXFMT21rR3ZOLVBjNm01eXQ2REs1QmJsOF9VTXAzeldQXzh4SnlVbzJNSENUNG41YTBzRWFRRW9JUV81VXZHWGpYVV9qb01PaU9IS3dEeHhTMlhkS0N4THpocjRDMzU3SDk2XzB2Yy1ZRi1UWHVQRjFTOFZqRmM2LUlab3hna3oxMUpfNjdNOWV2b01UWkoyYWZnYktxdEw3S1QtYVpGYVFXWkVPX2E2NldBVjAtVWRBM3ZXWGprZXBMaXk3eXZMVjlfQnRxb1k2ZkRMeTdwQ0FVQW5WQVl2eUFmWS1KSmc?oc=5"
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnpsa2lVejVWM1dRU2oxV0c0YkJ3aEZSQTJnaUFZN3NQcTE1TDBWNG81UC1WZ1pMY1dHX3ZaZ0xQN2UzVEVyZnA4bmJNWWZhM25SdlNkRHY0Qk1yMGxCZllDb21UbVNoZEppeFlTZzF1d1lQczdYbUlWd0F2WnlUQ0c4bmNOZmNrRE5BZ3MyQ3hKSDhhU3ZXN282c1FWc0tCTmRPcVhZeVZMN0hlb0MyTjNTaGlpSFZTelNLYXBQcTRZZUNLcmRGTllzcjR2cjNKc2RuR1FzR2QweVI1MWfSAeMBQVVfeXFMT21rR3ZOLVBjNm01eXQ2REs1QmJsOF9VTXAzeldQXzh4SnlVbzJNSENUNG41YTBzRWFRRW9JUV81VXZHWGpYVV9qb01PaU9IS3dEeHhTMlhkS0N4THpocjRDMzU3SDk2XzB2Yy1ZRi1UWHVQRjFTOFZqRmM2LUlab3hna3oxMUpfNjdNOWV2b01UWkoyYWZnYktxdEw3S1QtYVpGYVFXWkVPX2E2NldBVjAtVWRBM3ZXWGprZXBMaXk3eXZMVjlfQnRxb1k2ZkRMeTdwQ0FVQW5WQVl2eUFmWS1KSmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmtSaE5Qc01jRWc0UDhneEJqdlRqUk1fZm5VenVjN0RXY3oySnE1SWFTbU1xWUI5QmFDYXVpUTZmcUtpQmV3SVEyX0Y3YmRIaHRQSjk1a2hnakRZY09DM0I5R1RCNTZKMXREVHB1YmVYZnZqRkRBeVFkSjgzV0l3Q3Fyd3M4dWJNcWZFWEFSeEEyZ1M1blUzMXJNYzRScnNxR1VhX3lJVk1GLWY1M2FTVUNlSnhhM0xuWVY0?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYzUwQ1M0ZnZoVEh1bFBUZUFLcDFWdTF2MFF4NUJNU1pQeUQ1X3RrajRGeVl4SnF1N2VJNFNYM25ScnlERExFMW00M3JTZnZta002T3VlNmVXdDRpQVpMcUlNbnFlNXZwdWRuc2ZSY2xHb1NwdzJ5Vll2SzdSVVZSUUltSjdpMGwzZEdJc281M0F4NEVqRlBaYzh2cy14MEQ1dkltLXVxR0hVbV9BTnNrVDJFdmwtYXZPcktwellUYW9iMU5xM1NxZkcxSUV2dkJpclhQTnRReDVpWHlDNXRiWg?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmtYc0x2N0FiekpDblNzcjctZ2Q5anA1Y29ZaWtwTkRmUUZkeHdrcWYtRnlQUl9HYUNNZkIzRTc4SzFmb1F2dDJBOFhJRjZyRU1TbEd5MXZLLU53dElaUWNHZllRbmdMZUdmV21Uel9FVmFsZGU0WEtLbS1fRmdIRlljRlNPaHJt?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVNJSW11UkdqQUs0cjMwNlhPejJYU2RWbnF3MlZCZ3ctckVZOFlrejZhX25NWE9xczVOUlJ4bXIwY2x0OVZsNmh4LTJyZWZVMTdsMWdnTWRHdDBDS3NucUY1WlVBZ2RUWWRFeDNwOC00NTN6a3FKSW90dWFXVVhNbkhUcVZXbTBZX2JmSXVtRzFGTjk4QXUzLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1c0MjlmYzBQVUxxYzB1MTRLOGxMckhra3VnaDFPa2EtRVNKb0JjUEd5YV9JZjBQa2JvdHhyMXdZSjF0MTF2ZVNmb2hZd3ZjenlsTTZGNjI2MUJodHA2cGx0RjBNQjJiamZvRUVyVWNFaV9QdXh3U052cEl5QjhKUGRrZXB5WkJFX0RRUUlfLU5NaDZJVnczU2lvaEU1M2M3bzNHY3RBQi12MktmenlzVUNiMA?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVVfZ21HUWtJSFpFcS1hZ2p6SW12ZGs5R3Jwd3ctVy1OMXotWXRMM3RscHlWa3g0MHhkSHJXT2lQUWFsZUZkb1NWMFJJVUhvbVRtLUhkUjExdkpPR3RsT2FZU180X05DTG02Y0tMVW44WVlweTYtRXE4RkxLLWVpQy1NRHRxT1NndEEtTGdOQkwxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEdKeVlSQXZhZlpkbHdQcGtObUJaWE4wc2ZwZVZqUjU3R1BJY2MyWTU2V2tRc1NUTDRTTEkwa29LUkFMTTNhb0ZNTk9sYXBNbG1EQ2VMbkNiTHpsdEtaT2JneFFuQnV2c2JacGlSYkVBN3ZaTTNhZC00UHJCaTRJbFhNa2o1VHVzYXlYT3FkT1RwZFQyTHh3?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Єгипет та Джибуті підписали двосторонній торговельний протокол",
-      "summary": "Єгипет та Джибуті офіційно підписали двосторонній торговельний протокол. Ця угода спрямована на розширення доступу до ринків двох держав. Подія зафіксована як конкретний дипломатичний крок між країнами, що передбачає зміну умов торгівлі.",
-      "source": "Treaties & Agreements",
-      "publisher": "TradingView",
-      "published": "2026-10-15T04:28:00+00:00"
-    },
-    {
-      "title": "Лі Цянь анонсує візити до Узбекистану, Таджикистану та Росії",
-      "summary": "Прем'єр-міністр Китаю Лі Цянь оголосив про офіційні візити до Узбекистану та Таджикистану для участі у 25-му засіданні Ради глав урядів ШОС. Також заплановано поїздку до Росії для проведення 31-го регулярного засідання між китайською та російською сторонами.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "Британія закликає до деескалації напруженості між Ефіопією та Еритреєю",
-      "summary": "Зовнішньополітичне відомство Британії (FCDO) опублікувало офіційну заяву, в якій висловило занепокоєння погіршенням безпекової ситуації в Рогу Африки. Лондон закликав усі сторони поважати суверенітет та територіальну цілісність держав, утриматися від дій, що ескалюють напруженість, і повернутися до діалогу під егідом Африканського Союзу. Також підкреслено необхідність забезпечення безпечного гуманітарного доступу та захисту цивільних.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-15T07:46:02+00:00"
-    },
     {
       "title": "Британія закликала ОБСЄ посилити тиск на Росію",
       "summary": "Посол Великої Британії у ОБСЄ Хоуленд засудив продовження російських атак на цивільну та енергетичну інфраструктуру України, закликав до постійної підтримки Києва та посилення економічного тиску на Москву задля серйозних переговорів і справедливого довготривалого миру.",
@@ -1333,6 +1319,27 @@
       "source": "Bilateral Meetings",
       "publisher": "DW.com",
       "published": "2026-10-16T12:13:05+00:00"
+    },
+    {
+      "title": "МЗС Індії оголосило про переговори з Рубіо 20 жовтня",
+      "summary": "Міністерство закордонних справ Індії офіційно повідомило, що міністр закордонних справ країни проведе переговори з держсекретарем США Марко Рубіо. Зустріч запланована на 20 жовтня. Це підтверджує проведення офіційних двосторонніх дипломатичних консультацій між керівництвом зовнішньополітичних відомств обох держав.",
+      "source": "Bilateral Meetings",
+      "publisher": "Reuters",
+      "published": "2026-10-16T12:00:43+00:00"
+    },
+    {
+      "title": "Лавров анонсував візит до Тегерана на 19 жовтня",
+      "summary": "Міністр закордонних справ Росії Сергій Лавров офіційно анонсував свій візит до Тегерана, який заплановано на 19 жовтня. Ця інформація надійшла від іранського агентства WANA News Agency. Матеріал фіксує конкретну дипломатичну подію та її дату, не містить оцінок чи прогнозів.",
+      "source": "Bilateral Meetings",
+      "publisher": "WANA News Agency",
+      "published": "2026-10-16T09:29:35+00:00"
+    },
+    {
+      "title": "Іспанія та Італія домовилися скасувати прикордонний контроль",
+      "summary": "Іспанія та Італія досягли офіційної угоди про скасування прикордонного контролю. Це дипломатичне рішення між двома країнами Європейського Союзу спрямоване на відновлення безперешкодного переміщення громадян. Текст підтверджує факт досягнення домовленості, що є конкретним міжнародним кроком у сфері міграційної та прикордонної політики.",
+      "source": "Treaties & Agreements",
+      "publisher": "Diari ARA",
+      "published": "2026-10-16T08:14:54+00:00"
     }
   ]
 }

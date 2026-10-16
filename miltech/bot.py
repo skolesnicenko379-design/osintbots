@@ -493,7 +493,7 @@ def main():
         print(f"[TIME] AI candidate {index}/{len(candidates)}: {time.monotonic() - stage_started:.1f}s")
 
         if not groq_title or not groq_analysis:
-            print("Пропущено тимчасово: Groq і xAI не змогли перевірити новину; її можна повторно обробити наступним запуском.")
+            print("Пропущено тимчасово: Groq, Anthropic і xAI не змогли перевірити новину; її можна повторно обробити наступним запуском.")
             continue
         if is_duplicate:
             history.append(entry["link"])

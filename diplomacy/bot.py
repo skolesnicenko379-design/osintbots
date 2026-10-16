@@ -39,6 +39,12 @@ GROQ_API_KEY = (
     os.environ.get("GROQ_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
 
+ANTHROPIC_API_KEY = (
+    os.environ.get("ANTHROPIC_API_KEY") or ""
+).strip().replace('"', '').replace("'", "")
+ANTHROPIC_MODEL = (os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5").strip()
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+
 XAI_API_KEY = (
     os.environ.get("XAI_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
@@ -775,6 +781,89 @@ def parse_bool(value, default=False):
     return default
 
 
+def analyze_with_anthropic(prompt, title):
+    """Резервна перевірка через Anthropic Claude після вичерпання моделей Groq."""
+    if not ANTHROPIC_API_KEY:
+        print("Anthropic: відсутній ANTHROPIC_API_KEY; пропускаю цього провайдера.")
+        return None
+
+    try:
+        print(f"Резервна перевірка через Anthropic ({ANTHROPIC_MODEL}).")
+        response = requests.post(
+            ANTHROPIC_API_URL,
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": GROQ_MAX_OUTPUT_TOKENS,
+                "temperature": 0.15,
+                "system": (
+                    "Ти точний редактор міжнародних новин. "
+                    "Не вигадуй фактів. Поверни лише валідний JSON."
+                ),
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=(3, 35),
+        )
+        if response.status_code != 200:
+            print(
+                f"Anthropic HTTP {response.status_code}; "
+                f"переходжу до наступного резервного провайдера: "
+                f"{response.text[:250]}"
+            )
+            return None
+
+        response_data = response.json()
+        content = "\n".join(
+            block.get("text", "")
+            for block in response_data.get("content", [])
+            if isinstance(block, dict) and block.get("type") == "text"
+        ).strip()
+        parsed = extract_json_object(content)
+
+        relevant = parse_bool(parsed.get("relevant"), default=False)
+        duplicate = parse_bool(parsed.get("duplicate"), default=False)
+        ai_title = clean_text(parsed.get("title", ""))
+        ai_analysis = clean_text(parsed.get("analysis", ""))
+
+        if not relevant or duplicate:
+            return {
+                "relevant": relevant,
+                "duplicate": duplicate,
+                "title": ai_title or None,
+                "analysis": ai_analysis or None,
+                "failed": False,
+            }
+
+        words = word_count(ai_analysis)
+        if not (
+            ai_title
+            and len(ai_title) <= 180
+            and MIN_ANALYSIS_WORDS <= words <= MAX_ANALYSIS_WORDS
+        ):
+            print(
+                "Anthropic повернув відповідь, що не пройшла редакційну "
+                f"валідацію ({words} слів); пробую наступний провайдер."
+            )
+            return None
+
+        ai_analysis = re.sub(r"\s*[\r\n]+\s*", " ", ai_analysis).strip()
+        print("Anthropic успішно перевірив матеріал.")
+        return {
+            "relevant": True,
+            "duplicate": False,
+            "title": ai_title,
+            "analysis": ai_analysis,
+            "failed": False,
+        }
+    except Exception as exc:
+        print(f"Помилка резервного запиту Anthropic для «{title}»: {type(exc).__name__}: {exc}")
+        return None
+
+
 def analyze_with_xai(prompt, title):
     """Резервна перевірка через xAI після вичерпання моделей Groq."""
     if not XAI_API_KEY:
@@ -1148,7 +1237,11 @@ def analyze_with_groq(
         GROQ_RATE_LIMITED_THIS_RUN = True
         print("Усі перевірені моделі Groq повернули 429; до кінця запуску використовую резервних провайдерів.")
 
-    # xAI запускається після Groq, перед Gemini та OpenRouter.
+    # Порядок резерву: спершу Anthropic, потім платний xAI/Grok.
+    anthropic_result = analyze_with_anthropic(prompt, title)
+    if anthropic_result is not None:
+        return anthropic_result
+
     xai_result = analyze_with_xai(prompt, title)
     if xai_result is not None:
         return xai_result

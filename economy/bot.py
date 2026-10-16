@@ -22,6 +22,9 @@ from shared_dedup import (
 TELEGRAM_TOKEN = (os.environ.get("TELEGRAM_TOKEN") or "").strip().replace('"', '').replace("'", "")
 CHANNEL_ID = (os.environ.get("GEOECONOMICS_CHANNEL_ID") or "").strip()
 GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip().replace('"', '').replace("'", "")
+ANTHROPIC_API_KEY = (os.environ.get("ANTHROPIC_API_KEY") or "").strip().replace('"', '').replace("'", "")
+ANTHROPIC_MODEL = (os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5").strip()
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
@@ -273,6 +276,71 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
+def analyze_with_anthropic(title, article_text, source_name, recent_posts):
+    """Резервний макроекономічний аналіз через Anthropic після Groq."""
+    if not ANTHROPIC_API_KEY:
+        print("Anthropic: відсутній ANTHROPIC_API_KEY; резерв вимкнений.")
+        return {"relevant": False, "duplicate": False, "failed": True}
+
+    recent_block = "\n".join(
+        f"- [{p.get('source', 'джерело')}] {(p.get('original_title') or p.get('title', ''))[:140]}: {p.get('summary', '')[:120]}"
+        for p in (recent_posts or [])[-8:]
+    ) or "(поки що порожньо)"
+    prompt = (
+        "Ти макроекономічний аналітик. Відповідай лише українською, використовуй тільки факти зі статті та не вигадуй даних.\n"
+        "Познач duplicate=true, якщо матеріал повторює вже опубліковану подію без нового суттєвого факту; інший заголовок або джерело самі по собі не роблять її новою. "
+        "Окремий показник того самого звіту залишай лише якщо він додає конкретні дані, яких немає в контексті, та змінює оцінку ринку або політики. "
+        "Спільна тема не означає дубль; окреме рішення або незалежна ринкова реакція з новими цифрами може бути самостійною новиною. "
+        "Нерелевантні дрібні новини позначай relevant=false. Для нової важливої події створи title до 10 слів і analysis одним абзацом на 3-4 речення, до 500 символів. "
+        "Зазнач факт, цифри/умови та конкретний макрофінансовий наслідок. Поверни лише валідний JSON: "
+        '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}\n\n'
+        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
+        f"Останні дописи для перевірки дублікатів:\n{recent_block}"
+    )
+    try:
+        resp = requests.post(
+            ANTHROPIC_API_URL,
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 600,
+                "temperature": 0.2,
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=(5, 35),
+        )
+        if resp.status_code != 200:
+            print(f"Anthropic ({ANTHROPIC_MODEL}): HTTP {resp.status_code}: {resp.text[:500]}")
+            return {"relevant": False, "duplicate": False, "failed": True}
+        blocks = resp.json().get("content", [])
+        content = "\n".join(
+            block.get("text", "") for block in blocks
+            if isinstance(block, dict) and block.get("type") == "text"
+        ).strip()
+        match = re.search(r"\{.*\}", content, re.DOTALL)
+        parsed = json.loads(match.group(0) if match else content)
+        ai_title = clean_text(parsed.get("title", ""))
+        ai_analysis = clean_text(parsed.get("analysis", ""))
+
+        if not ai_title or len(ai_title) > 180 or len(ai_analysis) < 20:
+            raise ValueError("Anthropic повернув неповний заголовок або аналіз")
+
+        print(f"Anthropic ({ANTHROPIC_MODEL}) успішно обробив новину.")
+        return {
+            "relevant": bool(parsed.get("relevant", True)),
+            "duplicate": bool(parsed.get("duplicate", False)),
+            "title": ai_title,
+            "analysis": ai_analysis,
+            "failed": False,
+        }
+    except Exception as e:
+        print(f"Anthropic ({ANTHROPIC_MODEL}): помилка аналізу: {e}")
+        return {"relevant": False, "duplicate": False, "failed": True}
+
 def analyze_with_xai(title, article_text, source_name, recent_posts):
     """Резервний аналіз через платний xAI API, якщо Groq недоступний."""
     if not XAI_API_KEY:
@@ -431,7 +499,7 @@ def main():
 
     active_models = get_available_groq_models()
     if not active_models:
-        print("Groq недоступний; для аналізу буде використано xAI.")
+        print("Groq недоступний; спершу буде використано Anthropic, далі xAI.")
 
     new_posts = 0
     checked = 0
@@ -466,13 +534,19 @@ def main():
         )
 
         if result.get("failed"):
-            print(f"Groq не обробив новину; пробую xAI: {entry['title']}")
+            print(f"Groq не обробив новину; пробую Anthropic: {entry['title']}")
+            result = analyze_with_anthropic(
+                entry["title"], article_text, entry["source"], duplicate_context
+            )
+
+        if result.get("failed"):
+            print(f"Anthropic не обробив новину; пробую xAI: {entry['title']}")
             result = analyze_with_xai(
                 entry["title"], article_text, entry["source"], duplicate_context
             )
 
         if result.get("failed"):
-            print(f"Пропущено тимчасово (Groq і xAI не змогли обробити новину): {entry['title']}")
+            print(f"Пропущено тимчасово (Groq, Anthropic і xAI не змогли обробити новину): {entry['title']}")
             continue
 
         if not result["relevant"]:

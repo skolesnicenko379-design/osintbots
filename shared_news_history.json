@@ -57,7 +57,6 @@
     "https://militarnyi.com/uk/news/zatrymannya-shveda-yakyj-voyuvav",
     "https://militarnyi.com/uk/news/zi-zvyazkom-starshield-pokrashhylasya",
     "https://militarnyi.com/uk/news/znyshhyv-chotyry-su-34",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd2NUei1ZS1g3N3pYSnlQbHdhX19FeHdjVHM0cWkxTTVCRUNnTkhnZnlJNmVMLWNoUVN4OXdZTk0xMXgzUzQtUFZBeG9Ha3B0b1FVUmFWWW5vRjAtODdHWl9aTnA0d0t2bGVuWDQzRVZibEs1WHhIVGtFR1NoQ1VhVkJVbWc3QUcwcUhzYzBabFl4TFFHajhzUEhfU0p3Ykd0QzRKdXlELTRmRHpaR0I5a0dTSDJTRVZqeUxremFHaDNhMTdXOVgzcFhLU3M0bDlXOU12YVdNd0xSNUhKdl9yU2U4dndLOXBSYklzQmhfSnM4bGE5NXRaRQ",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlQ2RGtKVnJLVUhpZzdsdXhCRndERExTY2wtUk1kdFhITFAyMVFfQ1RPa1RweUdUWldPWlpCVU1Gc2VYS2hjNHBrQUdyaEZQQ0d4VzNpOGEtU1UwVkVIeE40SkRDTEl4R25EODlQX2VqMzhmcUN6MFRCUm8tcXdJUGUycmZhSkdDN0Zmdk12UElOZUlYMzdidHVCX29CZEdWSUVrZ1BTaXBPRUVzZi1aRVQtZnVHY0JUXzZMbFU3a1JpR3dPTzY5NlJ5Z1FSMk5MNmfSAd8BQVVfeXFMT293OXNvSUI4NERmcHA3YzUyQ21lMUozSG1GYmFpWk83ei1pNEpFcjRta3dDdC1udDNET3lPLW1DLVUwcGVGQjZodlZsME5tbVM2VDRkYTV0LTBQcDg2WnlqN083Y1cyWUNjUWFjOERqQWt4ekEwV1otWU9fc1YyZ3phNXFGSTdTNTl1eTNFakhOa2lBam9sV0pXLW9aTTBXT211ODN6YXBUblh0VERnRFZmSWpESFEzaENFbUVvNnU3Q1VhQU5aWjJFVHdFcEtvVGQtTHQ4TzJaRUt0STVVUQ",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjJQeV9GZmVmWmljQk9sdjJpU3ZXUEphaEgyQ1hTU3c1S0M4ck9OdTgyQVQzYmRJRUJaRjlVUmdZY05zUkJ1TjZESzItNmJTemRDRGJSUFgwUmxXRlgwQTRtR2p4S184TjhJSW5weE1hZWdWamR0R0xLMWtJYUxpc2gtc09YeWxsNlpwaG5DLWZaejNyZEZhZzgwZDVFV2J4NC1JTGl0LWpmNHhPQzQ5UEVPOE80eWJxN3JxUWZxWFV3c3AwV2kwSDl5TnN5T0t0a25V",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMEQ5ZXZsUEVWaVlsdlV4WncxY1Rfc1YwNnVuY2RIQ25ha1d6QTRYZlAxNGpnSm9LM0wyckVIWmxLdkxoOXdJQXFmemt6ZG4tVXN3SE1ERDI2VHI3SEVNRVNQdnRnRkZHNU5SVUlpRlNyTFJZb0tlVU5DYzVqLWdldkZhMjUwR1BuMnpEYkx1VnpoMFN3T2NvTnlJNHY3ZVZWMEN1V0txNHF6Mi10dFk2OVVqejlYYzljbzA3LVF3OC0wZVRUVGhzbGFUd0JIemRVdWZvMg",
@@ -99,6 +98,7 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPai03RGVPM1lNS2dJZnNPQ05PdTMtaTFabmtSdEhtbVVUaG9YMXFfVjFaZ24xUjBVTUhOa2hyZ0xzTkU2V3pXY0lLcFNYMlEySEJZOFVuMHc1ZkdwMkFvRUlpcVZhT1JXenpQNml6bUcwZ3VZSUFoWUYxbS16eUpaZF9fVFNBS1lzMlE",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVdPaFNIcHpvTU5wOUNBRzgzbTV6Wk5Ub1RoXzNTLURKMDNLWl9ucTlXZ3pHRmgxaXZTUzJQN2dvbThrT2pZUi1IQV94VTVjRmJ6QzI5TzAzamtQOUF0d1pyQm1PdUdfalVaYlBkaWYwRTQ0TWMtMGk0ZTdYT3dka1VOLXRPeFk5R3c",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG0taElXcGdONEUzT2RYcUF1WHNwYW9sdFcxSmZUejZpbEh1VHQ5NHRnWmJ4ckN5TkU2V1VFUWxVbjJpYkdQMnN2SGJHT212RnM2eGh0Zjd4MkhwRjdQd3RzMzE4YWJ6ejZqOW5kVHZvSHAzb0tfandRRUI2X0dEck9DZHB2cmEzWkVPSmtDZ2U",
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOXU1RUxqcFdodnNYU3NRc2pNSGFaR3dzRE1uckdwdXBaeWlucjZYYUE3OU4wS0dwQ05COTF4WGZ2TEgzRFJBd295cE5FSVJ4ZExieTh1ZWgyaVl1V0k1c3M2blhucGVvc2E4TTUyYnY1VzVoUmUxREZDMkdfaTEybEtsb0VtSW0yQ1JZSjhmaV9seGtZNms1QWRXSVB2Y2JHQmtZd1ZtSXI1cjVqWWlVNmJLOWRxcDhHMEhORmJzam01cmpDanZibUdTUmloVzhvLW13NmZzbGZ4ZDY3SlJfcmthTmhGbXhlalNORWxEVFRObmtRWXRSSkYyNTlpSlhFb3gxbWxkM2RHYjNsdkdGcVhhTQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVhDNGhoX0ZYUXNGejFTcGVtRVFGV25ZZmlpRTRQNjBCcWVPSnNvLW1ZS1o3VjIzMzZKSHRQS3poSEpWb2ZCRkxkRVNoeHdEQTVtV1E2aDdKbl9Kc1hXTi1oLUx1Y2V3RlZaOGtvMXRlbkJaTmo1ZmVhOTV1a3hoaU9uOWRqZGlQZ1hid2piZzFZTU94",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUoyWnROemxWVUpiYzVCeEZDYlhIUFY2VUFhUmN1Z1FpcXlHcmh4UmNIOTlaZkdrUzlRMEkyUEtUYXVGb1lLTEFBQXQ5MUs3M1R0cjEtQkZkR1RSUW5rZF93LUZzTnl0MHZTdURvY1dDRkJ3NEFoVmE2dDRwXy1yME9NaHNkcUpCRXBiWVVqamVoOEtu",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHE5eTFBbXAxS3RLNzNHV0t1MWlyWHdWVURtRmNzeUo3V01Ib3k4T3N4R0pKVzBIY2ZlVy14MXFUOWg2Z29vWHpMWDNITFU0T2lueDR3RWVWbU9LWUo5ckZwYTVqR0FPcG9hT0dBMjA0bTRZM183QjVYSEl6Y3oxbHA0NlJBX0VtSHU1X3VsTDVRV0tz",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJsVkpqSHFIZ1gwMXZiZDJSNG9aV3FncEtoV0ctV3NpM0VoM2UwV01FTnZLazhZVUJuSmJqOE9uZG1GamF3OUE4aGlWenFkTEFSelZFX2F6SWsxUzJzbXBJUVZNallZQ0FBNjA0WnUza19UT2xnUFkwczh0NVpLdXNKSk9sMWdSZnhNRDFvQnU1SUpBclNsMk5jbFRGdTVqSDBhOWN2MVpjNnAzc2hTQWNyWGJZU0I4Zlg4TTlsRUN0bEs5czE5aA"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Ради ЄС Коста провів пресконференцію після Тристороннього соціального самміту",
-      "original_title": "Remarks by President António Costa at the press conference following the Tripartite Social Summit - Consilium.europa.eu",
-      "summary": "Президент Ради Європейського Союзу Антоніу Коста виступив із заявою на пресконференції, що відбулася після завершення Тристороннього соціального самміту. Ця подія зафіксована офіційним джерелом Ради ЄС. У тексті відсутні деталі щодо конкретних учасників, крім Кости, або прийнятих рішень, тому опис обмежується самим фактом проведення офіційного заходу та публічного коментаря лідера інституції.",
-      "source": "Bilateral Meetings",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd2NUei1ZS1g3N3pYSnlQbHdhX19FeHdjVHM0cWkxTTVCRUNnTkhnZnlJNmVMLWNoUVN4OXdZTk0xMXgzUzQtUFZBeG9Ha3B0b1FVUmFWWW5vRjAtODdHWl9aTnA0d0t2bGVuWDQzRVZibEs1WHhIVGtFR1NoQ1VhVkJVbWc3QUcwcUhzYzBabFl4TFFHajhzUEhfU0p3Ykd0QzRKdXlELTRmRHpaR0I5a0dTSDJTRVZqeUxremFHaDNhMTdXOVgzcFhLU3M0bDlXOU12YVdNd0xSNUhKdl9yU2U4dndLOXBSYklzQmhfSnM4bGE5NXRaRQ",
-      "published": "2026-10-14T16:28:29+00:00"
-    },
     {
       "title": "Італія купує шість безпілотників Astore Levante на базі Bayraktar TB3",
       "original_title": "",
@@ -1611,6 +1601,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE53dE5pdlVDMDR4d0ptbXRtZHJHS3ZVblR3UVo1blVkSkRZWWt2YXlYckc2WjZpSHlTdGNnUzJKTkowblFzYVpqclMxRDQ0Mk5VWU01WE9vWk9PNl9pX0gtU0UwODl4R0lOTHZuS1JQV3BNNG94UThNcHpkbjFtemYzUXdfa2g1Sm9qbGk4RmtnY0NjcklzRXltaElJV0VP",
       "published": "2026-10-16T07:58:18+00:00"
+    },
+    {
+      "title": "Коста, Зеленський та фон дер Ляєн провели спільну зустріч",
+      "original_title": "Remarks by President António Costa at the joint doorstep with Presidents Volodymyr Zelenskyy and Ursula von der Leyen - Consilium.europa.eu",
+      "summary": "Президент Ради ЄС Антоніу Коста, Президент України Володимир Зеленський та Президент Європейської Комісії Урсула фон дер Ляєн провели спільну зустріч. Під час заходу лідери обговорили поточну ситуацію та подальшу співпрацю. Подія зафіксована офіційним прес-релізом Ради Європейського Союзу, що підтверджує дипломатичний характер контактів між представниками України та інституційами ЄС.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOXU1RUxqcFdodnNYU3NRc2pNSGFaR3dzRE1uckdwdXBaeWlucjZYYUE3OU4wS0dwQ05COTF4WGZ2TEgzRFJBd295cE5FSVJ4ZExieTh1ZWgyaVl1V0k1c3M2blhucGVvc2E4TTUyYnY1VzVoUmUxREZDMkdfaTEybEtsb0VtSW0yQ1JZSjhmaV9seGtZNms1QWRXSVB2Y2JHQmtZd1ZtSXI1cjVqWWlVNmJLOWRxcDhHMEhORmJzam01cmpDanZibUdTUmloVzhvLW13NmZzbGZ4ZDY3SlJfcmthTmhGbXhlalNORWxEVFRObmtRWXRSSkYyNTlpSlhFb3gxbWxkM2RHYjNsdkdGcVhhTQ",
+      "published": "2026-10-16T07:59:27+00:00"
     },
     {
       "title": "Білий дім наказав обмежити Starshield для ЗСУ — Reuters",

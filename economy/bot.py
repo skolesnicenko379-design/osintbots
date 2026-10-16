@@ -499,7 +499,7 @@ def main():
 
     active_models = get_available_groq_models()
     if not active_models:
-        print("Groq недоступний; для аналізу буде використано xAI.")
+        print("Groq недоступний; спершу буде використано Anthropic, далі xAI.")
 
     new_posts = 0
     checked = 0

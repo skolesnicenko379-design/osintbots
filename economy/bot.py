@@ -276,9 +276,6 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
     return {"relevant": False, "duplicate": False, "title": None, "analysis": None, "failed": True}
 
 
-def analyze_with_xai(title, article_text, source_name, recent_posts):
-
-
 def analyze_with_anthropic(title, article_text, source_name, recent_posts):
     """Резервний макроекономічний аналіз через Anthropic після Groq."""
     if not ANTHROPIC_API_KEY:
@@ -344,6 +341,7 @@ def analyze_with_anthropic(title, article_text, source_name, recent_posts):
         print(f"Anthropic ({ANTHROPIC_MODEL}): помилка аналізу: {e}")
         return {"relevant": False, "duplicate": False, "failed": True}
 
+def analyze_with_xai(title, article_text, source_name, recent_posts):
     """Резервний аналіз через платний xAI API, якщо Groq недоступний."""
     if not XAI_API_KEY:
         print("xAI: відсутній XAI_API_KEY; резервний аналіз неможливий.")

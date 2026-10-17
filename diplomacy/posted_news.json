@@ -1,9 +1,5 @@
 {
   "links": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/media-advisory-the-10th-meeting-of-the-eu-republic-of-moldova-association-council-5-october-2026/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/weekly-schedule-of-president-antonio-costa/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/european-peace-facility-council-approves-10-million-for-the-balkan-medical-task-force/",
     "https://news.un.org/feed/view/en/story/2026/10/1168516",
     "https://news.un.org/feed/view/en/story/2026/10/1168515",
     "https://news.un.org/feed/view/en/story/2026/10/1168513",
@@ -1199,7 +1195,11 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkhyR0FDSFR2Q2poaV9td0wxWGR4SGdGdXpuN20zek90Sm1KSGs1anpveHBDMGxOUGk0U2xYelFlZGRtNGp2N28wWDdMZ0RNQk5RS0tQTXN3NjVQeTdoZ2VZSlMzTmw4ZHNFRXBuTjZGVHhBSHQ4QmU2UGw2MUpPUHRZZlFPbkNKX2ZzMWhVUTNGQ3JaWHluT3B6N3Z3S3BXYTJLdDdpSy1kdTNTTXJIcVB4Wkh2cEJBcGpIYlJteTk4am1xTVp2UENDSlc?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGpUUmFCUTRXTlBLTHFSMHgzbkpwaUphbnNWY2Y3MjYtRUpLWUY3YVhPTVIzcnJqdWRMZV8yZVptSXYtNzR6NHpsR1p3SHhvNUJDLUdITVZSUWNCN3JkMEtGdTZKQVdtOTZfWWFHZy16cjJTd2NudDFEdUp1dzRGNVZBQmFLVXdaMDlUSnVQQ1NMT1RQZDMxa2xuWnhOeldreXZmMHpBNUdBZkxkNTdBdlNR0gG3AUFVX3lxTE1FbDB2UGZSY1o3akZpVlhnUS1ROE0wS1dqUUVrQ2I5QXBYM2s0NzlrbkpLWGZCTWpaR0VlT2pjR19HM2xpVTExNGplM2V2S1g5TkkzUXhLbS1Ec3hYRl9NTUZscFJNM3E3d3RqMHlRWTFJaXRaVHRVT2NKZEFFVzdmT2NodHJmTmNJcERZallUcDZwM3J0aWtTZTdRUWNRSWZQekpXODBaYVFQYXBvRnltOFpOWGY1MA?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlSVRvMkhJakNYNHo4clVpR29fajJZXzREZ1hUREpPZlFqU2RwVHlrOTcxcTZ0aHZrbkJvTXJHc3ctMUJNWjFsU1d0WG5xTjlIUHVSNktaQ0pJYTBIN2VCOTlNT0tmT0F2dEdRTk91TGZwaXMxS2d5SHNidFQ?oc=5"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlSVRvMkhJakNYNHo4clVpR29fajJZXzREZ1hUREpPZlFqU2RwVHlrOTcxcTZ0aHZrbkJvTXJHc3ctMUJNWjFsU1d0WG5xTjlIUHVSNktaQ0pJYTBIN2VCOTlNT0tmT0F2dEdRTk91TGZwaXMxS2d5SHNidFQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRE5wZjNaZ2JhZTVuQkNWcV9Lblo5OTVXdDFMUC1LYnZmUmQtRlRWZlJVbGY3Q1czcjE5dHRHNUlZdnFrQ3pwVWFTbGpjVmtJeEl6dnpTcXZlTHBXOFcwUTg0RGRPdDlaNVpkNXY3SWc4TjFfN2JsZ1B1YkFrQlpELW5ZZmNuUkZnejNlTmZ5LWx5TkNaV2dMRnBWWUkxOTZSZ0HSAacBQVVfeXFMTjRhNzN3d0FOc2JEaWpsQm8xSDlncEU1SS1VeFllaWNtNWtReWVMcWlwSE9OdnpfdDJUWDJkUllXRkVrMDRIZkx6Q0RJV0xRY20wZWltVDBVdkYxeERDTDNiV2R0dHMzUU8yNGdEVTNoUU1MOTBldFBfZlNhblFKSGRLNUw1S0luN1pVQ1VydzFsenp1V0lzMVBtakQxLXhyQVM2c1MyM3M?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlQ3ZfbW9Sa0JRTEEzaUxHdHRYY2lTUTVDVFU2c3lKUVFPZ1g5akxfRXF6aUt0b3ZjazdtR0kyb1B6QzJTR2EtSGpUN0VGcmZBMmNjVXo4TGFKSGNLYVJGTy1FQ0VhMGpIaVdGdHh4MFk4cDltUUdPLXRB?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODhoOVNjZHpVR2tsSkhKZlpIQl81WXBiRzdBTS1xNEZYWWREdlVGWGowWmhxNHhBQ3VlY1FxQTBCbm5CYVdyNWJoR2Q1SWs4QnhuMXQtR05hUi00NGNRTlQ3a1VjcklHUDl5Y2JHaEowVnRHR3pvWnprSVJTdTRYb0FfbWtQNWUxWWpqcnY0cGZfNnNFRW9JSm5ON3ZIMWg4VHBLV180VnZMWS1UR3Bia01EZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGF4b0k0TEJlUjFUdkZaVlF6eDhqMU9YNjZWREtBLWU2NUJoVVE5M0RJMndkT0ktaVo2bmY1Yy1Jd2lBQVl2N29DMlVhbFpQNkxGVEhNNnVfWU9tOTNnU1N3SW8xM3JwWC1yVG1MOW11SVBlR3VnbU1uYi1HOHRvNUlpbWVKX1BDb05BbzR4S3NjVGszeUoxNGhPakhzSUV3Sk1lRFc3T3ZKclJHMWxZMWxzMzZnaTJob3Vv?oc=5"
   ],
   "recent_posts": [
     {

@@ -12,7 +12,6 @@
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
     "https://gov.uk/government/speeches/a-viable-palestinian-state-requires-not-only-recovery-in-gaza-and-political-progress-but-an-end-to-the-violence-displacement-and-settlement-expansion-",
     "https://gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
-    "https://militarnyi.com/uk/news/10-tu-brygadu-ocholyv-major-taras-voznyuk",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
     "https://militarnyi.com/uk/news/190-rozviduvalnyh-sokil-sergiya-prytuly",
     "https://militarnyi.com/uk/news/93-tya-brygada-vykorystovuye-pidzemni-tuneli",
@@ -21,26 +20,26 @@
     "https://militarnyi.com/uk/news/bijtsi-42-yi-brygady-vryatuvaly-rosiyanyna-yakogo-atakuvav-vlasnyj-fpv-dron-pid-chas-zdachi-v-polon",
     "https://militarnyi.com/uk/news/bilyj-dim-stoyit-za-obmezhennyam-starshield",
     "https://militarnyi.com/uk/news/bpla-atakuvaly-promyslovyj-ob-yekt-gazpromu",
+    "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
     "https://militarnyi.com/uk/news/data-tsentr-yandeks-poshkodzheni",
+    "https://militarnyi.com/uk/news/drony-kamikadze-klyn-urazyly-vyrobnytstvo",
     "https://militarnyi.com/uk/news/dvi-tretyny-rozviddanyh-nadaye-yevropa",
     "https://militarnyi.com/uk/news/edrone-dlya-rozvidky-stvoryla-drakon",
-    "https://militarnyi.com/uk/news/espl-vidkryv-provadzhennya-proty-ugorshhyny",
     "https://militarnyi.com/uk/news/frantsiya-shkodu-dlya-operatoriv-zrk-samp-t",
     "https://militarnyi.com/uk/news/iran-perenosyt-vyrobnytstvo-raket-pid-zemlyu-pislya-udariv-ssha-ta-izrayilyu",
     "https://militarnyi.com/uk/news/izrayil-zamovyv-12-gelikopteriv-apache",
     "https://militarnyi.com/uk/news/lytva-vpershe-z-1930-h-strilyala-tankamy",
     "https://militarnyi.com/uk/news/multymiljonera-norvegiyi-u-shahrajstvi",
+    "https://militarnyi.com/uk/news/navchannya-z-rozgortannya-kontyngentu-v-ukrayini-projdut-nastupnogo-misyatsya",
     "https://militarnyi.com/uk/news/nimechchyna-hoche-kupyty-50-aktsij-knds",
     "https://militarnyi.com/uk/news/obmezhennya-na-starlink-naslidky-alternatyv",
     "https://militarnyi.com/uk/news/otrk-tayfun-polsha-rakety-na-ponad-1000-km",
     "https://militarnyi.com/uk/news/pershyj-litak-drlv-globaleye-dlya-shvetsiyi",
     "https://militarnyi.com/uk/news/polshha-shukaye-zaminu-litakam-orlik",
     "https://militarnyi.com/uk/news/rosiya-zastosuvala-h-22-32-dlya-udaru-po-ukrayini",
-    "https://militarnyi.com/uk/news/sbu-povidomyla-pro-pidozru-rosiyanynu-yakyj-vbyv-p-yatoh-ukrayinskyh-vijskovyh-i-tsyvilnogo-na-harkivshhyni",
     "https://militarnyi.com/uk/news/shvetsiya-vydala-ssha-rosiyanyna-yakyj-postachav-mikroelektroniku-do-rf",
     "https://militarnyi.com/uk/news/slovachchyna-byudzhet-ta-chyselnist-armiyi",
     "https://militarnyi.com/uk/news/spetssluzhby-mogly-pidkupyty-mafiyu-dlya-pidpalu-starlink-u-polshhi",
-    "https://militarnyi.com/uk/news/syly-pidtrymky-zsu-bronemashyny-inguar-3",
     "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
     "https://militarnyi.com/uk/news/u-norvegiyi-zapustyly-vyrobnytstvo-tankiv-leopard-2a8",
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-tretogo-pidozryuvanogo-pidpalu-starlink",
@@ -74,13 +73,13 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVG5TWTZrUGY2ZEZOYVlOMDRmZmlCbTg0V09aT2RRNGZUOFppbnJ3TXZOb1pBZ3RQVFBqeFB6VE42Wl84c1FQdHhoNnEzbEtpNmkxWWhEVDEweFduRW12dEFBaXl1ZjRrUkNNRzVUX21jTmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YdXJFT1p4SXBudnp2dHNvQWZkempla3AyMHNTa3U1dUp0dUdVcFhyaW9waFJ1Q2lWOHJibGNSS0hoRjlRS1FoWEUwQ254c0VYdm9xOXNpNTBVV2lPdzhzdlhHenkydU1LeXA5VFdTWm5YMHNHV0E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mTm9IWUkwa2RuU1NtZkRRdDhHdVgzNkI4YjZLN1FCZE9YbXZSdElJNWZmOXZTbjluSVc5dzl5WGFDb0JTeTl3aHNvY29jdURLTTBWYjdWRzRvSWYwOGU3dDljLWFjOTd0a0lsalVybmo5Yzc1ZVE",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pR0w2ems2ZnE0RmtMRmVCMUJjNWlNcUxINDlmbnozX1g0dkZqeEJiek5tcDdqQXhLS1AySjVLMk83T1ladDNXYWRIQkhSa0F4Q21uRk5NVWdESF9heVdXRVRrTzhkMW4tSTVmNlZ5U1BZN0RfY2c",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kNDRVSURNc0kyNm5pWFZ3MUFaTlgweGJrUVAwRnVzUFM1MWFwYTFMX29HY3pib0J5QVlCWGtSVmltcFhhbThYak1yMjJBVUdJOEsxZUhUZVVNSjZPVUk3QVlxazh5a2lLUTJmZ0wxN180Z0s5TW0xRE1acw",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ndW5aME9PUXBiZkxSOV9jOHJpeVRZYjV2ZjFPUkx1RGxpVkVGYWxTX1RxQ0FvbGlxb3V0M0MyektzcFprblVjVUhLbXpMUDQ3bUYtZmw4WC1EbTVWSmo4Q2o4QjJiQXc2WUw4NzM1eHBVc1BESHVuZnJn",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VHp4YUE3Y1BzT1FsWHM4ZU12a0pwTlNOT2haRGVPSzlzZXB6Y0lqT1YyNHRlNWV5dEZ6RGhZa0t4eVpSQW96NlR2TkMwSXlvMkZ2X2xLYUhPSVdoNjZrNTBqa2NMUnQzSUo2TzU2azh3VFhRUzMtZVdWUjY1Tk0",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiYjBkOEIxNE5tU0RCbWsxMGRELWVjTS1ac0RhTzZLNW5weTRoQWQxREFMN25rQjFCdDZBQW1XWGtTVnQ2OFQ1TXRqb0lNSjJ2djlTWE4zYkp5dkYyVTFDS3RsWTdMZTltR0RDOUIzUnJQNHpQWUpfMm5uWmIzQQ",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc283bWxoTDM2bHFndlAtRTM0Y2tGQnY3MWpuLVFia1d1NUZsbUpRZFp4Um5GRTZSWTFSMS14dnFra04tTWY1dkozYWpUOVA2M2ZXM1dYbmswX1hTTnZMZW1XSmpENGFCSHNub3huVTJMOHdZb3o5TlNSRTIwTFlRaW4zenNfZw",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU9hV3ZxZUVhZkVDR0FXTTg5OFkyUUlNc0o0NE8xSC1CRDhSRGU1SEJtMmtYZDR3Qm00WmM1TFpTVlRiTEw1ZWowMGpIQV9aWmVveUtld0tSVmNhaXlzSGJCcXFQRGJINy1hN19lejk2YzN0ZzVsZkVkdEhSRlRXYkwyQWl0QQ",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcF8tQVRSQWxHeXFNVWU0NzAxYUJLcDZ0MTVKaWs0MkN4QkVwWEZsMU9pc1A2TmJ5WG9rXzNxUGtWRE9HbFlqVzlGU3l6OEtqRjNfTmprd1QtSGI3SHJoTHROOWxnMkNac085bUd0YmZ1eEZqTTZETTcwQzNYemJXdDJoZ25abnFyU2U4",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjFxa3pzbmFESHk0QkVJWXlVUllyZEs4a19VSXRTVU5sRnQ3SWtLRW84Z3otSWNzTC1tcV9MLXJCOTVnVldXUjB3enV2YmkwZEk4Rkp6WFo5UVBScURxbjNMcXFJcjNKWnNPcXpBS0REZl9hUW5TT3BNbUttMXJ5WGZTMVJURkhsQllNaA",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlN1QnFPS1lvMENub2MxODkzYmJRS2poRFc0MF92SlpUMGZNUjJyVEJ0Q0hiMWJpODRZekV5dmtUQ3FiS0JfLTFXRHZlNWYybTBGd1RLMUhfbjFOa0ZHT0RZckdXZTM5X21ZR1BXeENYVmx4dExxS3BIZDFvUS0xOXhHb2FrdUhvcjBfaA",
@@ -99,6 +98,7 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWgydTV0d1JhNFBORzhpZ0RES1YtMTNmc0tnMzJ2N01sYlhZTnlUNE5MSFRieVJQVWxYTmt3UzdmZF9uczBBbHN3UGNGSjhJQ0RjdWxvUEVWSlpUM3djSjNXcFdqZjExMWtJUFJzMElQWmhoRkpobmFiTzgweWZ0VkFSYWVRZUczWV8ydTZNbGlxX2ExOXJKMUhn",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDZ2MVpQMVRaN2h4M3VkSnZrUm9icS1EbEVrbDd4bk1lZ1FRZk1saklxUnlyZm5sWHdFSjQ0UDZwWlJWTUdxaUlQdDVHRTRkcHBpXzZlTTlBSmdfbFdVZFVVRVptZnlpMGVmcmlTUEhXdTJudHZQdXl2em8yVm11bENUWFA1YzhscFB0cHFaQ2k0Q20wbzI2T25uRQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTVXSUJXTzl3QmRBSGhXWjA3SEVydUhWc2JOcGhaZWIzTDlUUVF0VUVUMkp5aDAyMmVuVTE0U3pNU2oxUDJ6cVNzVTI5OWVXYUxPdEp1VEtSWDBDaHNjb1c0MVRDZ2liZEk0M0NCNk9Vb3hpU2lOSVdhc3RyWEhpRGNHVDF3dUNrYkR6Xy03T2phU0xodEs2Zjd0OA",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVdURV9tZ0hiamF1WTh5bXN1UExQUHNYTldJUm5ibVB1NVJ0UElYYl91MmxyZkVsd0hiYVYySjdCTlp1WFp4OV9aNXV3VTRVVlEwd0lEOF9QSVVFODlDZG1lY2NfeUNLbmRRdlgxZlpQT2hVZ0VJdHR4MWpKVXAzTjlsQkdjeVJ6bGg0TTlCem1rUTRCX0tObTdCZmM",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWU5RzhOck1NeGFwUENhUFFIQloxUzNCOG1ZbER3ZkwzQmlBeWdrUWVUczlpM2tuNVQyMm84MGNEYVFGYk9DWmhzVkxSenFhczFWeUZNU1hxUHJ1VTZjMG1NSXMtT3FsY3ZxYTFNM0Z4aFcxMUJsa3RHbzZrUjVKbW4xMVA0bUZxam4yNktob0xVeVdBME9QZ2hIM2pmd9IBVkFVX3lxTFA5WHpNcFB1Q0hJZFBja2ZPT1M5SmJIOHBGLS0wR1dhODg1SFJVYXNVSFRfWnNRc0FQbURJeHlwcF81bUE4YkNqY0h2NE1HWHY1QXNnblBR",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxObHQ0OHJlSm53NkljT0d6OWJzOGRjRHA1amJTNnBLOGxWYUplZWM1d0s4emRUS2owV2ZrM2pfM1FzR3Z3Sy1mTzBoS05rQVRnbmRteXMyNko4b0ZtNTJRU3o1VzQ0X2NHejk0Y0k0NzNicUhoVHU0alI1RnNKUnNYdzV1LTdDUmtRZGFLcnVDNENydG84NDhBOFFfWFhIZw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEljMG41aTVYSEVJZEwyWnZKcTI4ZGh1ZHhSTzBXeEljQVB3MzUtMnhTODNWN0dBTnVxV0c1cjZZY0xNV2xoVGV6TFpzckFIajJKZWVtOXZ5Z1NpajlzQWYyc0JnZG9LR1RndG1KcTZhYnlWM0tHUmlBeVV5OFJMbl8xTFdvYkt1Q3N2Y0o2UDRrTk9zSUd2M1o4dG8zUdIBngFBVV95cUxQRDhtX21aWlc2Y2pOWW90cmpNRkdGZVgwdnRVWkZEd182eDNuMi1iX3NSSGdOdmV2ZjJndWlyYmhuaS00MERjaUlPelUyVnlJMW9uOFRlU1VJbmhneEZaTkVEOXVYbHVMWVEwTC11ZTdpa2NOdTdCbEhHdjl3NWQtLWVxN2R5dndYTi1oRWJtT1ZzODZ0Mms5ZTIxTldWZw",
@@ -114,8 +114,10 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUtfaVU3MXd6OEtkMkQ5Wnh1dDh0VGMwc01tMWRMenlrMlRkcC0teS1hVmVVVUpHb2J3SnhCSDlZVEt6bHZBa1dEQnVELUdiemF2Z1B2dDFVUUxLeWIzU2lGNm5iNm9kR09GR3BzTExwZEVHWFNieUxjc3h5UnRLc1ZzNld3ZVVJU1NmckwwdDVBM01DWV9qZWQ0ZXRmcERXSGllbENB",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnZ2bUIxbjhwTGxPbnFPcUN5ZkRRV2ltQ1RhR2R1cVFaLXpxVzJLeWJscklxUmVvRWlMS3kxNkRNR2xiWjFKdm1zdVRHaFNOTjk3VF91UEY2UDRjSENTVWItTzIyYS1rRkQ1MW0tQjlWdjZaUVoxMUZQelBmeW9vQzIwYTk0Y1hBRXFQRjNFQTBicUUzV201WFplSHhlZlpSNWNEWFFVYw",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWpYeXdtSjkzUUViSXZ2VVV6c0ZjN21LREZwakdtVDBnbG1VUy10Z0xpUkhYWDduSjYtZTByc3VBcEdGUEluRVNJVlhIcUhTZ0tGX1VuVi12NnFpOS1kdEdHR1ZETHliaER3TmNKeXVOai1EM3ZwTEZFSXRzWURaY3c5UzIyV29ZcWZpUHN6RDVmUE5fWW9RdWdRQ0xLcFA3NTcyOVk3UFE",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFBCWEhtd243d255TmJCRXRDMmJtbTN3MkpmZk5sTUZNRmM2QnRpeWwxdmx4c3BNaGRrNVBYanVlcFZyOVVFUHM5NHFPM2pLbnlwMVhIUkR0OHNyTmNtRDlSc2M5NmlaN1NGSHpPbEJrbmJUR09tQ0EyZHczUzhZZjdvTUJfa0NCYmVDRzFrOW80WFVCUVBlZklxcnZKZW5iVEphUEpIaTBmdw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYy0zd2lrMnN1TUlTQ01oVjZ0a2puT2hIa2szMzRJUFJFQW1ib05rblh4SVdKS0RyRzhrX3BqTzFqblcxMXRFYTRiQU0xb1F6dzJ3NFlKcW1WV1B5eUxsallLME9DQWZSUkxPN1ZFSGY1QV82bVF1ZkRvT3pxSkk4NS1MZ0Rta3B3UUlwUUh5WndpWDNJQVk0YThVTHp3V2ZzQVNjQjlySVJyNXfSAbMBQVVfeXFMT0F2blZ0MkZZMkg5eldMSkYtbnpTUE1PXzJqd1l3SmlSaVc2SVdZekdseV9KU3JNU0ZSU1RwUnF5VWRaMW9NeFhCdzNjVGpTMHZtZzlqVngtbE1NVVZqQzU3bFBFWjEycm1scVRsTHMxb3hNZXg1YlE3VXFmZ3hvZExOTl85a3JIV0o2bnpraWxhb2lSQUtlcnpJNklxYjdDeEI1MXFLOEJleGk3WG1UajJvQVU",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0FnRHlCR1NhSkR4Skd1eWZLX3ZhaDRWTUdVRDNQbjMtTW1wd2NBSjVVcF9GR1NRblJtOThfSVZUQjZFVnBjQ3p1WWZpTFNpQ2pfV3RIU25rcGlsdXpWajRRLVJ4Q0FBZDRCc0hTOUZ4RUZnTjAyZ2w1Z2VvOEdyUTZLdUNLUkZfRWVNcUpENVVXaFRIVXhhVXdlemtvVThyTzR5NHF0MVc5S2c",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVF0Si1XZGVBR2M2eDZtaWYxMUotMXJvczBKenVyYUNCRkNRTEVqWWNLSjdkWVUyaUNQNngwSGJHZjJtWmxmbnlPSFRDa2d2NzVmS3ZpdmFmV2hHckVmSng3bG9qLXlUVHlmZjJ6clNmRlp5a3RpWHlmUFdzU2hDYndGcVJWZ1dsU0kxSFFmQUZqTHltNVVBa19PV2pVOG1MdEFFNDljM25UazZuRGkyZw",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnVnNTQydm5TR1RmWGZRT0otal9temdIYWw0eUgzczEyUEIxTlFXSzNSMjM3WDdKM215SDl6T2N2RGQyQWd3cXUtMHVPVXJtQ1gyYXV5Zzh0QnJCSzIzM1p4MXhzV1VYN1dCQ0dNV2l0SkFyZEdyNjF2WGZZZzZUZGt5S09FZDRaSVJFWnNPT04yamk5R2pQZWM1Y3lLcUhINHR4OHMxZkFpekhoT044eQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3lNQXgza2NxWkZDdzRXUTVFV2htZkhSUHpQSDhSeFVKbUN2SENUQWNQRENLV1BVTUpEMW5wMHBTVFZwWDUxbHRwSWhoMG1ocWM2NG1XZ3g3c1V2eEhqM1JvWXE5VDktT2VKaFZYalFkUmRiTE15X3ZJRDYtanBTTTM4T3BvR3c3M1NCVEFCRTlQd3dfU21NTUdDV1BJTVI4c2pWSjRFdVJ4ZWV0cDBzTQ",
@@ -134,7 +136,6 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFpKMGtuNk9xRUlIRnFfaGlPMUxSV1B0Z3lyclJkUUVUMEltcklybHlmZnkwWVRSYzhIZHlnbTVCaDJiWW54a05XOWZGdnNXVnhtNU1RbmxtNmt4Zk1QamJIVmFPMW1kNDFSem55dGFNNXZVX0hfWjdqdVBFazZ3dkNkVzVFR2ZZOUdvSjEwc095b2gzQ3paWHphSGNnRDYxOHg2d3dzbllabkY5UHRwY1BmdnRvdkJ3V21zbw",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3ZSOF8zTXZlcUZ6UkY1TktoNFZObzZOc0NSM1lPRmhyYUgwcC1SOGlCT0l3MWp0NFlmNjRSM3ZOR0hFdk05VHFPN0N3d3ZJTFJTdHpRYzJDTU9ybl9RSVM2bEpuOWVTd1phZkljNGlGYXpGLVVTX0JXWDNyYkZ1MjVzaEJVNWJtby15bFJ6QVRKanJqbXczdG5fSzVSRUoteHM5UzFpZDRpOXR2NzhxYWlPTURiczN0Qk1ISw",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1RXeVppLWZwWEtJRjY3ekVOYXlHOUhraUVTV1FyVFh4TUhOY213UE50X0xOdVVTdmpFYlBZa1NqVVBGV0pWTFpIZzFSUVRqOUliMnJVdk9oVC1pYzBwQkxXSFVtbDQ2RE9ZV183U1k1RE9ycXlKQ1NRNVJoSE1CUU9yVlVyTlVnYndmNWk5Y1NkQkFfLVpDeHFZMG93bVc3UklZel9SRDBacW5acm9JSFkzaDVlLUdiWlNIcQ",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckwxTHNqWVFzTlpHZU9lbzMzeVVCWTU0NVFONHo1b0JTWHBlSnFrVU9wWUJQWkRtWDdIaHdEbGltR1FyZ0VUY19Pc0RYUUFoSVhzUHpuSXNTVHlEWUF2akpidFBmOGxDZjA0ajllV0FXbkNFU1QxRlVENEwtd1VVV0RnTlVJS0RvaDR0R092UWh5czhUeDhsLUIyMjQ0dGp0YktwejlFVDVCU1hXTURZYXV1TEV5Z0FNb2hJT1R3",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEV4SDVpaE5jVzVtSlNhYWtYbnV4QVZsbXB6VVlwcnlBOC1nSVhSVXdPblRPdENXYk5saGllN2tqTG94NVk1aHZLc0Uwc3ZRa3RZU0o4SXczd05GWWNKX2lmTG1PQ1gtNlZJVVpTWE5FYnZGdmoxdnNObXcwQ1pYNHozb29XeFVOSzNvV1JiM2RtVG9PTFFSelpsWWwtWFBseGtENlY2V1NaQk5ZVGVEMm5WdlF6UGQyX1VRZnZsbw",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklScmU3d0VzS2xUNkxaNVpub1NDX2ZSRzZGbTBYWXNvQjBCdExkemM3RFl4NmNoTmFfTmtqZk51d19EWDUyU254bGFzSkFDWXNWanVWbENNVmhVT1ZJNHV6OFlHSDN6LVJ5eXdKRmFpaWhvdHpCYjFUZGtpeXdxMmJINktVclNGdzdYdG80cDBtU21MVGFPM2d0amJ4QlZFNkx4RE13YXFnaU04SENWTllveXhrblVaOWE4R29SZDA",
@@ -151,66 +152,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "СБУ повідомила про підозру росіянину за вбивство п’ятьох військових та цивільного",
-      "original_title": "СБУ повідомила про підозру росіянину, який вбив п’ятьох українських військових і цивільного на Харківщині",
-      "summary": "Російський військовий використав АК-74 для розстрілу беззбройних осіб. Автомат було вилучено під час затримання в Салтівському районі Харкова. Подія показує вразливість тилових районів до проникнення ворожих елементів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/sbu-povidomyla-pro-pidozru-rosiyanynu-yakyj-vbyv-p-yatoh-ukrayinskyh-vijskovyh-i-tsyvilnogo-na-harkivshhyni",
-      "published": "2026-10-15T17:51:45+00:00"
-    },
-    {
-      "title": "Сили підтримки ЗСУ отримали бронемашини Inguar-3 від Коаліції з розмінування",
-      "original_title": "Сили підтримки ЗСУ отримали бронемашини Inguar-3 від Коаліції з розмінування",
-      "summary": "Бронемашини Inguar-3 мають балістичний захист STANAG 4569 Level 3 та протимінний захист рівня 3a/3b, що передбачає витримування підриву заряду еквівалентного приблизно 8 кг вибухової речовини. Машина оснащена незалежною підвіскою, турбодизельним двигуном та автоматичною коробкою передач, а модульна конструкція дозволяє створювати транспортні та спеціалізовані версії. Постачання до 1230-го інженерно-технічного полку посилить спроможності підрозділів бойового та гуманітарного розмінування в межах Коаліції з 23 держав.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/syly-pidtrymky-zsu-bronemashyny-inguar-3",
-      "published": "2026-10-15T18:05:58+00:00"
-    },
-    {
-      "title": "Долар-єна підтримується вище 157",
-      "original_title": "Dollar-Yen Finds Support in Upper 157 Range; European Currencies Trend Higher - BigGo Finance",
-      "summary": "Долар-єна знаходить підтримку в верхньому діапазоні 157. Європейські валюти демонструють висхідний тренд. Це впливає на валютні ринки без додаткових деталей у статті.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pR0w2ems2ZnE0RmtMRmVCMUJjNWlNcUxINDlmbnozX1g0dkZqeEJiek5tcDdqQXhLS1AySjVLMk83T1ladDNXYWRIQkhSa0F4Q21uRk5NVWdESF9heVdXRVRrTzhkMW4tSTVmNlZ5U1BZN0RfY2c",
-      "published": "2026-10-15T18:06:00+00:00"
-    },
-    {
-      "title": "Майор Тарас Вознюк очолив 10-ту бригаду «Едельвейс»",
-      "original_title": "10-ту бригаду «Едельвейс» очолив майор Тарас Вознюк",
-      "summary": "Призначення відбулося наказом командувача Сухопутних військ Святослава Заїця. До цього майор Вознюк керував 25-м протитанковим батальйоном 3-го армійського корпусу. Бригада «Едельвейс» перебуває в оперативному підпорядкуванні 11-го корпусу угруповання «Центр» під командуванням бригадного генерала Андрія Білецького.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/10-tu-brygadu-ocholyv-major-taras-voznyuk",
-      "published": "2026-10-15T18:06:22+00:00"
-    },
-    {
-      "title": "Прискорення CPI інфляції підвищує шанси на підвищення ставок ФРС",
-      "original_title": "Accelerating CPI Inflation Raises Prospect Of Further Fed Rate Hikes - Forbes",
-      "summary": "Стаття зазначає, що прискорення інфляції CPI в США підвищує перспективи подальших підвищень ставок ФРС. Це безпосередньо впливає на монетарну політику центрального банку. Наслідком може стати посилення жорсткості фінансових умов на ринку.",
-      "source": "ФРС США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlVtWF9VVGwzM1VhTGdNcVdjeldVc0J3RnFnNUNrWDBHeVhwSWxWbXMzVVM2azVzd2RCdFNjTUdHZktTampxLUp0b0JORDdtZHR0SGlQaVgyczlaSE9HMnhOa01UdUVfaUc3alh0ZlJDdi0zdXJqS1NYMVJYY0FZbzJ4amZCMUxRQ1lKOFJCZjFyWHJTbXB2Y3JCeF81c0RCbE9CYWEtWEtzMnpHZ3lsc05UdkZVdWh4Z3hzTQ",
-      "published": "2026-10-15T18:45:39+00:00"
-    },
-    {
-      "title": "ЄСПЛ розпочав розгляд справ про затримання інкасаторів «Ощадбанку» в Угорщині",
-      "original_title": "ЄСПЛ відкрив провадження проти Угорщини через затримання та катування інкасаторів «Ощадбанку»",
-      "summary": "ЄСПЛ розпочав розгляд шести справ про затримання інкасаторів Ощадбанку в Угорщині, що порушують статті 3 та 5 Конвенції. Заявки підкреслюють незаконне позбавлення волі, обмеження зв’язку та фізичний тиск. Результат може призвести до фінансової компенсації та посилення контролю ЄС над правами людини в Угорщині.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/espl-vidkryv-provadzhennya-proty-ugorshhyny",
-      "published": "2026-10-15T18:46:56+00:00"
-    },
     {
       "title": "США націлюються на енергію та мінерали Центральної Азії",
       "original_title": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push - Crude Oil Prices Today | OilPrice.com",
@@ -1542,6 +1483,16 @@
       "published": "2026-10-17T05:12:36+00:00"
     },
     {
+      "title": "Трамп скасовує нові санкції та тарифи на покупців енергії",
+      "original_title": "Trump waives new Russia sanctions and tariffs on energy buyers - Quantum Commodity Intelligence",
+      "summary": "Трамп відмовився від нових санкцій проти Росії. Він також скасував тарифи для покупців енергії. Рішення опубліковане Мінфіном США.",
+      "source": "Мінфін США",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWpYeXdtSjkzUUViSXZ2VVV6c0ZjN21LREZwakdtVDBnbG1VUy10Z0xpUkhYWDduSjYtZTByc3VBcEdGUEluRVNJVlhIcUhTZ0tGX1VuVi12NnFpOS1kdEdHR1ZETHliaER3TmNKeXVOai1EM3ZwTEZFSXRzWURaY3c5UzIyV29ZcWZpUHN6RDVmUE5fWW9RdWdRQ0xLcFA3NTcyOVk3UFE",
+      "published": "2026-10-17T05:47:13+00:00"
+    },
+    {
       "title": "Китай скоротив US Treasuries до 18-річного мінімуму в серпні",
       "original_title": "China cuts US Treasury holdings to 18-year low in August as debt fears mount - South China Morning Post",
       "summary": "Центробанк Китаю зменшив холдинги казначейських облігацій США до мінімуму за 18 років у серпні. Це сталося на тлі зростання побоювань щодо боргу. Зменшення обсягів може посилити тиск на ринок американських державних облігацій та глобальні фінансові баланси.",
@@ -1602,6 +1553,16 @@
       "published": "2026-10-17T08:39:00+00:00"
     },
     {
+      "title": "Банк Японії очікує підвищення ставки в грудні",
+      "original_title": "The Bank of Japan (BoJ) emphasizes its focus on controlling inflation, with expectations of an interest rate hike concentrated in December. - Vietnam.vn",
+      "summary": "Банк Японії акцентує увагу на контролі інфляції. Очікування підвищення процентної ставки зосереджені в грудні. Це може вплинути на монетарну політику та ринки.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0FnRHlCR1NhSkR4Skd1eWZLX3ZhaDRWTUdVRDNQbjMtTW1wd2NBSjVVcF9GR1NRblJtOThfSVZUQjZFVnBjQ3p1WWZpTFNpQ2pfV3RIU25rcGlsdXpWajRRLVJ4Q0FBZDRCc0hTOUZ4RUZnTjAyZ2w1Z2VvOEdyUTZLdUNLUkZfRWVNcUpENVVXaFRIVXhhVXdlemtvVThyTzR5NHF0MVc5S2c",
+      "published": "2026-10-17T09:17:43+00:00"
+    },
+    {
       "title": "155-та ОМБр відбила найбільший цьогорічний мотоштурм під Покровськом",
       "original_title": "155-та ОМБр відбила найбільший цьогорічний мотоштурм під Покровськом",
       "summary": "Військові 155-ї ОМБр відбили атаку на мотоциклах, знищивши 43 окупантів, 9 мотоциклів та 1 автомобіль. Противник підтримував штурм FPV-дронами та БпЛА «Молния», з яких українські підрозділи перехопили 19 FPV, 2 FPV-«почекуни» та 5 ударних БпЛА. Після зриву атаки уражено 36 укриттів, що показує ефективність комбінованої оборони проти моторизованих штурмів та дронової підтримки на Покровському напрямку.",
@@ -1632,6 +1593,16 @@
       "published": "2026-10-17T09:56:31+00:00"
     },
     {
+      "title": "Токайев і Хун Манет прийняли спільну заяву штучний інтелект, торгівлю та туризм",
+      "original_title": "AI, trade and tourism: Tokayev and Hun Manet adopt joint statement - DKNews.kz",
+      "summary": "Президент Казахстану Касім-Жомарт Токайев і прем'єр-міністр В'єтнаму Хун Манет підписали спільну заяву про розвиток штучного інтелекту, торгівлі та туризму. У заяві визначено плани щодо спільних досліджень, обміну технологіями та підвищення туристичного потоку між країнами до 2025 року.",
+      "source": "Treaties & Agreements",
+      "publisher": "DKNews.kz",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVdURV9tZ0hiamF1WTh5bXN1UExQUHNYTldJUm5ibVB1NVJ0UElYYl91MmxyZkVsd0hiYVYySjdCTlp1WFp4OV9aNXV3VTRVVlEwd0lEOF9QSVVFODlDZG1lY2NfeUNLbmRRdlgxZlpQT2hVZ0VJdHR4MWpKVXAzTjlsQkdjeVJ6bGg0TTlCem1rUTRCX0tObTdCZmM",
+      "published": "2026-10-17T10:20:00+00:00"
+    },
+    {
       "title": "Армения та Киргизстан підписали угоди про співпрацю",
       "original_title": "Armenia and Kyrgyzstan sign documents on cooperation across various sectors - Armenpress",
       "summary": "Армения та Киргизстан підписали документи про співпрацю у різних секторах, включаючи енергетику, транспорт, освіту та технології, з метою зміцнення двосторонніх відносин. Угода набирає чинності після підписання обома сторонами і передбачає регулярні зустрічі, обміном експертами, а також створенням спільних робочих груп для реалізації проектів.",
@@ -1640,6 +1611,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUC13QUYwQzVkVnVkLVMyQ29QaEhhdFdXbmJMOGxhWnFjdTBXblgxbFhGQTl1a2E4YVNvaTJjS093SnBpNUtOZTVJVGRvRFdyTHfSAVdBVV95cUxNWVpfMDZBNHBtSDJlU3VoMnlPcTlSa1BvakJ5RWtUQlpqLV9yVktBUzJhaDY4Vld6ZHZtRXdJTVVMYW15dmx5dnhTSHYwQnRvaC1waW9EdjQ",
       "published": "2026-10-17T10:44:00+00:00"
+    },
+    {
+      "title": "БТР-82А отримав заводський комплект захисту з решітками, ланцюгами та «манежем»",
+      "original_title": "Решітки, ланцюги й «манеж» для десанту: БТР-82А отримав заводський «мангал» від дронів",
+      "summary": "Новий комплект від Арзамаського заводу включає каркас з металевими решітками над баштою та корпусом, гумотканинні екрани на бортах і ланцюги з тросами навколо корпусу. Маса БТР зростає приблизно на 15%, максимальна швидкість падає до 50 км/год на трасі та 20 км/год на пересіченій місцевості, а сектор обертання бойового модуля обмежується 270 градусами. Конструкція зміщує точку підриву на 35 см від броні та заявлена як всеракурсний захист від FPV-дронів і уламків, але не від протитанкових мін.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
+      "published": "2026-10-17T11:10:50+00:00"
+    },
+    {
+      "title": "Міністри ОІК розпочали зустріч у Багдаді",
+      "original_title": "OIC foreign minister’s meeting begins in Baghdad - Pajhwok Afghan News",
+      "summary": "Міністри ОІК розпочали зустріч у Багдаді, де обговорювали питання регіональної безпеки та співпраці. У присутності представників 57 країн, обговорювалися стратегії протидії тероризму та підтримка мирного процесу. Зустріч тривала 3 години. Після обговорення, учасники погодили підписати протокол, що підкреслює зобов'язання щодо посилення економічної співпраці та культурного обміну.",
+      "source": "Bilateral Meetings",
+      "publisher": "Pajhwok Afghan News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU9hV3ZxZUVhZkVDR0FXTTg5OFkyUUlNc0o0NE8xSC1CRDhSRGU1SEJtMmtYZDR3Qm00WmM1TFpTVlRiTEw1ZWowMGpIQV9aWmVveUtld0tSVmNhaXlzSGJCcXFQRGJINy1hN19lejk2YzN0ZzVsZkVkdEhSRlRXYkwyQWl0QQ",
+      "published": "2026-10-17T11:55:48+00:00"
+    },
+    {
+      "title": "Навчання з розгортання європейського контингенту в Україні пройдуть у Польщі в листопаді",
+      "original_title": "Перші навчання з розгортання європейського контингенту в Україні пройдуть у Польщі наступного місяця",
+      "summary": "У навчаннях візьмуть участь щонайменше 1500 військових з Великої Британії, Франції, Німеччини та Польщі. Вони відпрацюють переміщення військ і логістичне забезпечення багатонаціональної операції. Сценарій спрямований на створення фактора стримування Росії після можливого припинення вогню.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/navchannya-z-rozgortannya-kontyngentu-v-ukrayini-projdut-nastupnogo-misyatsya",
+      "published": "2026-10-17T11:56:59+00:00"
+    },
+    {
+      "title": "Сили оборони уразили завод дронів «Клин» у Ростовській області",
+      "original_title": "На Ростовщині уразили підприємство, яке виготовляє дрони камікадзе «Клин»",
+      "summary": "Удар пошкодив виробничо-складську інфраструктуру ТОВ «Робоавиа» поблизу хутора Леніна. Компанія виробляє БпЛА «Клин» злітною масою 13,5 кг з автономним наведенням на ціль за допомогою ШІ, радіусом до 120 км та тривалістю польоту близько 80 хвилин, а також розвідувальні «Сарыч-2» та квадрокоптери «Сюрприз». Знищення потужностей може обмежити постачання цих дронів для російських підрозділів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/drony-kamikadze-klyn-urazyly-vyrobnytstvo",
+      "published": "2026-10-17T12:42:51+00:00"
     }
   ]
 }

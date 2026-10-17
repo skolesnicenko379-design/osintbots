@@ -5,7 +5,6 @@
     "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
     "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone",
     "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo",
-    "https://consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-on-competitiveness-the-next-multiannual-financial-framework-and-enlargement-and-reforms",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
     "https://gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
@@ -23,16 +22,19 @@
     "https://militarnyi.com/uk/news/frantsiya-shkodu-dlya-operatoriv-zrk-samp-t",
     "https://militarnyi.com/uk/news/iran-dopomagaye-husytam-navodyty-rakety-ta-drony-na-tsili-v-saudivskij-araviyi",
     "https://militarnyi.com/uk/news/iran-perenosyt-vyrobnytstvo-raket-pid-zemlyu-pislya-udariv-ssha-ta-izrayilyu",
+    "https://militarnyi.com/uk/news/latviya-zaprovadyla-rezervy-krytychno-vazhlyvyh-likiv-na-vypadok-vijny",
     "https://militarnyi.com/uk/news/lytva-vpershe-z-1930-h-strilyala-tankamy",
     "https://militarnyi.com/uk/news/multymiljonera-norvegiyi-u-shahrajstvi",
     "https://militarnyi.com/uk/news/navchannya-z-rozgortannya-kontyngentu-v-ukrayini-projdut-nastupnogo-misyatsya",
     "https://militarnyi.com/uk/news/nimechchyna-hoche-kupyty-50-aktsij-knds",
+    "https://militarnyi.com/uk/news/nodrics-rozrobyla-amfibijnyj-nrk-mat1lda",
     "https://militarnyi.com/uk/news/obmezhennya-na-starlink-naslidky-alternatyv",
     "https://militarnyi.com/uk/news/otrk-tayfun-polsha-rakety-na-ponad-1000-km",
     "https://militarnyi.com/uk/news/pershyj-litak-drlv-globaleye-dlya-shvetsiyi",
     "https://militarnyi.com/uk/news/polshha-shukaye-zaminu-litakam-orlik",
     "https://militarnyi.com/uk/news/rosiya-hoche-rozmistyty-balistychni-rakety-v-bilorusi-ta-posylyty-udary-po-zahodu-ukrayiny",
     "https://militarnyi.com/uk/news/rosiya-zastosuvala-h-22-32-dlya-udaru-po-ukrayini",
+    "https://militarnyi.com/uk/news/rumunski-f-16-zbyly-dva-drony-shho-vtorglys-na-terytoriyu-krayiny",
     "https://militarnyi.com/uk/news/shvetsiya-vydala-ssha-rosiyanyna-yakyj-postachav-mikroelektroniku-do-rf",
     "https://militarnyi.com/uk/news/slovachchyna-byudzhet-ta-chyselnist-armiyi",
     "https://militarnyi.com/uk/news/spetssluzhby-mogly-pidkupyty-mafiyu-dlya-pidpalu-starlink-u-polshhi",
@@ -54,6 +56,7 @@
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlBwd2pUOWJrZGcyR1ZSa0NqQnJzUmotYXJQUlMySkNPUWp1OEkzOEdnZUJXTGoyNzFmUVhxZ2N1OXkyUGNscUFFSEhJM1ZkQVVDek1VQ2U3WS1RVVI2dGVoWXh5RFhyLVZNM1dyWXNxc3N5YlZmVlM1UXdoaFFYR0xxZnNWcGZXb051T0tqZnlXRkcySE8tOFNUME1Zbk9WZUdMNHNWZDFJbjllb1RRZG1VOTNxcGlHd0NvcWl0LTI2UDJkX2ZOQ2l4d0ZxZ1FFSXd1UE16UGdud0ZtN2xqb29GeFFrc2ZyZllxZg",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMlY1eC1TSEFrTW5vWTl6T3FHaVNEamdtMHJpQ2RVSTRBbGw2MW1SNFFHd0ZZQWRPbnB4cEtOYUF2T1BMd1FGSzF2R1U2cHlkd3J5VTZHUHdwWmxEZkl6S2poRzctdUVyNGNNYW1CZDhValRuWVRpVEhuZzJqVzA2X1RySnA1b3RrbjdBODB6dDNvZElNcGJHd194c0ZuN0pSRXN3NEQybkdINE5ES050ZWhmeGxKR1ZTQ2FCRl9ndnRPV2hhU09wQkt3bkZCVEJ4RFFzLWtDRXRiOWJDNFNCZHA4WlBQcGpjTlBsOVVYM05rSURQenBj",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MEtEV1BiY2hLZFBzMkNLWklmTFpQaGVWRHVWVkpGWTdxRVlSV3dVT0dEMmRPV3hDbTdvXzRYYmNTNjJvdjNtUDNucW03aFk",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VVWJSaTd3ci0taUlWM3dJQ2lrRU14ckhSUEZPLVVIOVBicUpKSHJfX2dSemhyTlFvSXoyMVJGX0ltU1A3Sk1PV3VyNGxIdw",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSzJLUzJ5Yk1TWnFIZ2U2am9QTUQwNkRjVUIzSXJ1aU42UWgtZndId1ZnS0pWeEdhYlgxOUc3bng1bkNva0NVVGZhZTBOekM3dXZB",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVElvcVgxNExwdERfVW1MWjBUSUF1NXFqbS1UTVc3OXZ4ZUo5bHc3X1duNUpnbEI3RVNORm41d3F6WWc2b25BZnZNTGlBMXdkNkHSAVdBVV95cUxNdGd0dG9rcWQ5SGt4Yk1ETTR5WTJOcFJYYzBNTG92RzhYSHhCUmZmMGxHb1FoSlJHMVlsZGtiWmJKLXRPY3pONGdOWFc0cnlBVU1fUk9MOWc",
@@ -114,7 +117,6 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0FnRHlCR1NhSkR4Skd1eWZLX3ZhaDRWTUdVRDNQbjMtTW1wd2NBSjVVcF9GR1NRblJtOThfSVZUQjZFVnBjQ3p1WWZpTFNpQ2pfV3RIU25rcGlsdXpWajRRLVJ4Q0FBZDRCc0hTOUZ4RUZnTjAyZ2w1Z2VvOEdyUTZLdUNLUkZfRWVNcUpENVVXaFRIVXhhVXdlemtvVThyTzR5NHF0MVc5S2c",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVF0Si1XZGVBR2M2eDZtaWYxMUotMXJvczBKenVyYUNCRkNRTEVqWWNLSjdkWVUyaUNQNngwSGJHZjJtWmxmbnlPSFRDa2d2NzVmS3ZpdmFmV2hHckVmSng3bG9qLXlUVHlmZjJ6clNmRlp5a3RpWHlmUFdzU2hDYndGcVJWZ1dsU0kxSFFmQUZqTHltNVVBa19PV2pVOG1MdEFFNDljM25UazZuRGkyZw",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnVnNTQydm5TR1RmWGZRT0otal9temdIYWw0eUgzczEyUEIxTlFXSzNSMjM3WDdKM215SDl6T2N2RGQyQWd3cXUtMHVPVXJtQ1gyYXV5Zzh0QnJCSzIzM1p4MXhzV1VYN1dCQ0dNV2l0SkFyZEdyNjF2WGZZZzZUZGt5S09FZDRaSVJFWnNPT04yamk5R2pQZWM1Y3lLcUhINHR4OHMxZkFpekhoT044eQ",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW5LS2JnMk04Z3BqMmlWRi1ia2NxUXJaR21PSnY1d080cXkxMTNjS3N1QmhHXzQwc3B6Y01mc0ZfX1lkRGZ4Sl9rVkVzc3NkTGlzb0FDb2lxRDJDZFgyWmRNdl9jT2pVMnZmRi1QUUlvN1Uybl9salRydEw0U0R1RE52T1RicVBTMTNJSHBzRVc4bG1FaTk0NGJwcmNvSlAtWkYzSnFKaTZOZG44aDdNWVJR",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2dkbVAwQm82dl82UVNydmdoYjYxclhZdVprMi1wUzBMOTZOYkMzVGZrVUU2NEszWlhDY0J5WVA4VTVYYVBKdThxTHVrTTQyZ0dsZlAySVdFaVhrNDVEalhwZUNMNF8tYzJFdnhlanhqbjZkSzl4S3VLNXhWdTh3ZDZpSThFODJlLTJNcE1HdEI2eEVYdEhEbkh0X1VLNDRzWXdtTnVYdW9vZzl5eEFBYWFB",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1c0MjlmYzBQVUxxYzB1MTRLOGxMckhra3VnaDFPa2EtRVNKb0JjUEd5YV9JZjBQa2JvdHhyMXdZSjF0MTF2ZVNmb2hZd3ZjenlsTTZGNjI2MUJodHA2cGx0RjBNQjJiamZvRUVyVWNFaV9QdXh3U052cEl5QjhKUGRrZXB5WkJFX0RRUUlfLU5NaDZJVnczU2lvaEU1M2M3bzNHY3RBQi12MktmenlzVUNiMA",
@@ -127,7 +129,6 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnVPNWl6U2stZVR4Nks0MTNVTEdDcTBDa0xNa1g4MzdRWVo5RlFBa1RZNUo3cFdSclVER2dBcDI0V0M3cXc4SUFzelYwWGJxYVdxWGFFSWVyRkVIQ0l3UmNWdnc4ai10UTZseTl1ZDFBNG9FUjFBWkZjZXlwbnQ1TzFmMl9uQmJObENkTEtOVDRpaVNOcHFYMGxNcnBqd2ItUE5FZUxXQmdEWmZ1OEhoQmJDSmk3VGMx0gG4AUFVX3lxTE1CdU81aXpTay1lVHg2SzQxM1VMR0NxMENrTE1rWDgzN1FZWjlGUUFrVFk1SjdwV1JyVURHZ0FwMjRXQzdxdzhJQXN6VjBYYnFhV3FYYUVJZXJGRUhDSXdSY1Z2dzhqLXRRNmx5OXVkMUE0b0VSMUFaRmNleXBudDVPMWYyX25CYk5sQ2RMS05UNGlpU05wcVgwbE1ycGp3Yi1QTkVlTFdCZ0RaZnU4SGhCYkNKaTdUYzE",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFNRLWRsdTVYVnFGRHlLa3dxVUh6MklPUl9SdWJpWFhfNjgyTk9HUnFsYS1oc0VXY0FqOVhGOGpSU1pTOGhyUll3WExSZWtpa3FmbWtOSlZIU1FzRjZOSTBOY3UwWnF0WEk2Ukh1OW1NRk93Mk9URmRwNG55V0QtRmRtUjh5RXdubUhrU2hLeThKeTNEX0N1MFZxaVFFdUhOcHBNSExISnVIWXVTY3RtSnVMMXN1OWlF",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFpKMGtuNk9xRUlIRnFfaGlPMUxSV1B0Z3lyclJkUUVUMEltcklybHlmZnkwWVRSYzhIZHlnbTVCaDJiWW54a05XOWZGdnNXVnhtNU1RbmxtNmt4Zk1QamJIVmFPMW1kNDFSem55dGFNNXZVX0hfWjdqdVBFazZ3dkNkVzVFR2ZZOUdvSjEwc095b2gzQ3paWHphSGNnRDYxOHg2d3dzbllabkY5UHRwY1BmdnRvdkJ3V21zbw",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3ZSOF8zTXZlcUZ6UkY1TktoNFZObzZOc0NSM1lPRmhyYUgwcC1SOGlCT0l3MWp0NFlmNjRSM3ZOR0hFdk05VHFPN0N3d3ZJTFJTdHpRYzJDTU9ybl9RSVM2bEpuOWVTd1phZkljNGlGYXpGLVVTX0JXWDNyYkZ1MjVzaEJVNWJtby15bFJ6QVRKanJqbXczdG5fSzVSRUoteHM5UzFpZDRpOXR2NzhxYWlPTURiczN0Qk1ISw",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1RXeVppLWZwWEtJRjY3ekVOYXlHOUhraUVTV1FyVFh4TUhOY213UE50X0xOdVVTdmpFYlBZa1NqVVBGV0pWTFpIZzFSUVRqOUliMnJVdk9oVC1pYzBwQkxXSFVtbDQ2RE9ZV183U1k1RE9ycXlKQ1NRNVJoSE1CUU9yVlVyTlVnYndmNWk5Y1NkQkFfLVpDeHFZMG93bVc3UklZel9SRDBacW5acm9JSFkzaDVlLUdiWlNIcQ",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckwxTHNqWVFzTlpHZU9lbzMzeVVCWTU0NVFONHo1b0JTWHBlSnFrVU9wWUJQWkRtWDdIaHdEbGltR1FyZ0VUY19Pc0RYUUFoSVhzUHpuSXNTVHlEWUF2akpidFBmOGxDZjA0ajllV0FXbkNFU1QxRlVENEwtd1VVV0RnTlVJS0RvaDR0R092UWh5czhUeDhsLUIyMjQ0dGp0YktwejlFVDVCU1hXTURZYXV1TEV5Z0FNb2hJT1R3",
@@ -135,6 +136,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbklScmU3d0VzS2xUNkxaNVpub1NDX2ZSRzZGbTBYWXNvQjBCdExkemM3RFl4NmNoTmFfTmtqZk51d19EWDUyU254bGFzSkFDWXNWanVWbENNVmhVT1ZJNHV6OFlHSDN6LVJ5eXdKRmFpaWhvdHpCYjFUZGtpeXdxMmJINktVclNGdzdYdG80cDBtU21MVGFPM2d0amJ4QlZFNkx4RE13YXFnaU04SENWTllveXhrblVaOWE4R29SZDA",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXl3SzhVVm84QzNTVjdINWxrYmtlT2hic0UzWGNKZFpwZ090UldMQUJ6OWJJUXpidzJxdWYzc3RTLTlBZzJsWE9uZWZ3VDFEeC1Fcl9iYi1lTU1Kd3RCOUZOODh4bkl5bU4zaUZuYjlzWVNudVlQV1BnRnE0Y3BKNUJrNG9mdVJEVmQycHI1MEhtOXNrY2Vxdm5lMHFoOFpsRzdIUDBuWkJiQzV4VHk0cEJZZnNMVjRybjF1SjhWVjc",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0pVcWYyaHVzbEpnSVdTaDJGZVFpbXY2cnlsYTBreEh5VmFMOUh4NlplSUJ4N2U4WVJrUG9Hb2pBcDd0bi0tUkJ3YklVSmc1dzE2c19rMS1XaUZhcWpod011TGU0OUpIcFk1cFFNdmU4ZGUwQnBSSW1idUJrMW1BVnNYYlFhMFctYUxHcTBZNTFoUDBHdHBNclpKV1dOcUpIYWlkWjdobXVrYUM2VXAwQzZENlJKaWdGV2ZZZWN1M2Z5Zw",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkxQWkdXU29MdVJDbndxbFYtYVFzMjZINFFObEpCTDh1X0NMYnhWTXJLc2t3QjNBTDNJblFaazZsbnozeVpfVlNkdzE1czJpR3hfUktkOThtVzZXdzIzQWpYd0kyM0pOOXVERU1kZi1IbHc4Qy1BNVlaUDdCNEh5M1NsQ1Y3ektkcWtabTVjN3BlNXVYOHVMdWRaRG1PYjNGSVRKWTd6RWRuZjRvREV2LWhwQzZzY0JqcU5QTEtaSEpWOGPSAdMBQVVfeXFMTVdzUWhERk9lejRmUDJPWWF2MGFIQ2RxTFFVRW4xT1d2U1FhdW1LR1dRU2VCRzR3T1k2ZTJORzY2TmFqMklPbnRlYko4cFIwWF90b1BtU204aGFuT011NDdtcER6eEpYeWxCRWhLTlZzUHNlTkE0NmdTbG9kMkNpUDZ2Q1kybTJOUjJNdE44Snh1cS1qT1c5RENTRHNnRk5Ray1YbGZtMUEwNVdNdkhmOUpTQjRZVTFiVHRTc0tKRV9zWVc0ZkRkeDBuQ1gyV1JpUGVkdw",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2ZPSC1Fa05LWEpGbThwYjV3bHJsNnBPWFdidVNXX01BOUZTaE1CaVRCSU9uQTd2UWt4cHN0NnVUeWpoZHhsUndMZkRuQXZidzQwUmVaNnFjSVV0VFZBSFZrb1BuQTZFd05xWFJ2Qjl2Zi1rZVhEa0JLM0RyaU45MjVyOFlRSjNLSUJSdTUzNXlBR3JCalhVbTMtNFFLRHBpMmw4T1V3UDNsb29KeU5OYTF3MzlaS0pTQzZYcFJQVmdDUWZRc0E",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ",
@@ -147,36 +149,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "Katayama Банку Японії не коментує потребу в бюджеті",
-      "original_title": "Japan’s Katayama says unable to comment on need for additional budget - FXStreet",
-      "summary": "Представник Банку Японії Katayama заявив про неможливість коментувати потребу в додатковому бюджеті. Заява стосується фіскальної політики Японії. Це може вплинути на очікування ринку щодо бюджетних витрат. Конкретних цифр чи умов у повідомленні не наведено.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnVnNTQydm5TR1RmWGZRT0otal9temdIYWw0eUgzczEyUEIxTlFXSzNSMjM3WDdKM215SDl6T2N2RGQyQWd3cXUtMHVPVXJtQ1gyYXV5Zzh0QnJCSzIzM1p4MXhzV1VYN1dCQ0dNV2l0SkFyZEdyNjF2WGZZZzZUZGt5S09FZDRaSVJFWnNPT04yamk5R2pQZWM1Y3lLcUhINHR4OHMxZkFpekhoT044eQ",
-      "published": "2026-10-16T00:06:53+00:00"
-    },
-    {
-      "title": "Вікторія обмежує схвалення проектів критичних мінералів до 12 місяців",
-      "original_title": "Victoria pledges 12-month approval limit for critical minerals projects - Proactive Investors Australia",
-      "summary": "Стаття повідомляє про зобов'язання Вікторії встановити 12-місячний ліміт на схвалення проектів критичних мінералів. Це стосується прискорення регуляторних процесів у секторі. Конкретних цифр впливу на ринок чи наслідків у тексті не наведено.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFpKMGtuNk9xRUlIRnFfaGlPMUxSV1B0Z3lyclJkUUVUMEltcklybHlmZnkwWVRSYzhIZHlnbTVCaDJiWW54a05XOWZGdnNXVnhtNU1RbmxtNmt4Zk1QamJIVmFPMW1kNDFSem55dGFNNXZVX0hfWjdqdVBFazZ3dkNkVzVFR2ZZOUdvSjEwc095b2gzQ3paWHphSGNnRDYxOHg2d3dzbllabkY5UHRwY1BmdnRvdkJ3V21zbw",
-      "published": "2026-10-16T00:14:18+00:00"
-    },
-    {
-      "title": "Рада ЄС ухвалила висновки щодо конкурентоспроможності та бюджету",
-      "original_title": "European Council conclusions on competitiveness, the next multiannual financial framework and enlargement and reforms",
-      "summary": "15 жовтня Європейська Рада прийняла висновки про підвищення конкурентоспроможності, нову багаторічну фінансову рамку та розширення ЄС. Це формує політичний базис для майбутнього бюджету 2024‑2030 років, який визначатиме обсяг фінансування проектів та трансферних виплат. Очікується, що нові правила вплинуть на ліквідність державних фінансів країн‑учасниць, змінять умови їхнього боргового фінансування та можуть вплинути на попит на євро на міжбанківському ринку.",
-      "source": "Рада ЄС",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-on-competitiveness-the-next-multiannual-financial-framework-and-enlargement-and-reforms",
-      "published": "2026-10-16T00:40:00+00:00"
-    },
     {
       "title": "Nikkei 225 зріс на 1.17% перед рішенням Банку Японії",
       "original_title": "Nikkei 225 Opens 1.17% Higher With a Bank of Japan Decision Looming - 24/7 Wall St.",
@@ -1448,6 +1420,16 @@
       "published": "2026-10-17T11:10:50+00:00"
     },
     {
+      "title": "Oil Prices Top $100 Amid Tanker Attacks",
+      "original_title": "Oil Over $100 as Markets Struggle to Balance Amid Tanker Attacks and Shipping Disruptions - Energy News Beat",
+      "summary": "Ціни на нафту пробили $100 за барель, оскільки атаки на танкери та перебої в морських перевезеннях скоротили доступність транспортування нафти. Обмеження флота підвищує ризик постачань і підтримує високі ціни, що збільшує витрати країн‑імпортерів та тисне на їх торговий баланс.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk",
+      "published": "2026-10-17T11:33:10+00:00"
+    },
+    {
       "title": "Президент Казахстану та прем'єр-міністр Камбоджі зустрілися",
       "original_title": "President Kassym-Jomart Tokayev and Prime Minister of Cambodia Hun Manet Hold One-on-One Talks - Ақорда",
       "summary": "Президент Казахстану Касім-Жомарт Токайев та прем'єр-міністр Камбоджі Хун Манет провели двосторонню зустріч у Акорді. Обговорили питання регіональної безпеки, економічної співпраці та можливості розширення двосторонніх зв'язків. Зустріч відбулася 20 жовтня 2024 року. Під час зустрічі обговорили також перспективи спільних інвестицій у сфері енергетики та транспорту, а також підписали меморандум про взаємну підтримку у міжнародних форумах.",
@@ -1588,6 +1570,26 @@
       "published": "2026-10-17T16:02:52+00:00"
     },
     {
+      "title": "Бангладеш і Ірак підписали Меморандум про візи та політичні консультації",
+      "original_title": "Bangladesh, Iraq sign MoUs on visas, political consultations - Bangladesh Sangbad Sangstha (BSS)",
+      "summary": "Бангладеш і Ірак підписали меморандум про візи та політичні консультації, що сприятиме спрощенню руху громадян і посилить двосторонню співпрацю. Угода включає обмін інформацією, координацію політичних ініціатив і встановлення процедур для швидкого оформлення віз. Підписання відбулося у Дакці.",
+      "source": "Treaties & Agreements",
+      "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VVWJSaTd3ci0taUlWM3dJQ2lrRU14ckhSUEZPLVVIOVBicUpKSHJfX2dSemhyTlFvSXoyMVJGX0ltU1A3Sk1PV3VyNGxIdw",
+      "published": "2026-10-17T16:53:14+00:00"
+    },
+    {
+      "title": "Латвія створює стратегічні запаси ліків на випадок війни",
+      "original_title": "Латвія створює стратегічні запаси ліків на випадок війни",
+      "summary": "У Латвії набули чинності правила створення запасів критично важливих ліків для 20 груп захворювань. Національна служба охорони здоров’я відповідатиме за закупівлю та зберігання препаратів через контракти з фармкомпаніями. Це забезпечить доступність медикаментів для цивільних та військових у кризових ситуаціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/latviya-zaprovadyla-rezervy-krytychno-vazhlyvyh-likiv-na-vypadok-vijny",
+      "published": "2026-10-17T16:57:39+00:00"
+    },
+    {
       "title": "Коста-Рика та Ель-Сальвадор підписали угоду про боротьбу з організованою злочинністю",
       "original_title": "Costa Rica and El Salvador Sign New Agreement to Fight Organized Crime - The Tico Times",
       "summary": "Коста-Рика та Ель-Сальвадор підписали нову угоду про боротьбу з організованою злочинністю. Угода передбачає спільні операції, обмін інформацією та координацію правоохоронних органів. Підписання відбулося в Сан-Хосе 12 жовтня 2024 року, з дією з 1 січня 2025.",
@@ -1596,6 +1598,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmpDUmRUekd1Y01reWhMNHlVQlpoV3Vrdm1GcHhhbVM3OU9ZTXlKOTFQaWpGWnBjd1dVYVZub0JZT0tFTHUyZ3JwQjJYUWxUVEszZEFWRDNudlo3SWlBR3VHY2s2NDFrQXR1WVdFeGlFUjR5aEZ6T2x4N2R3dTc0R0JKUVB0ZHdhTnJhUnctRW5qS0oy",
       "published": "2026-10-17T17:00:00+00:00"
+    },
+    {
+      "title": "Румунські F-16 збили два дрони над територіальними водами",
+      "original_title": "Румунські F-16 збили два дрони, що вторглись на територію країни",
+      "summary": "Два F-16 з 86-ї авіабази Борча перехопили цілі, виявлені радарами за 120 км на схід від острова Зміїний. Дрони увійшли в повітряний простір Румунії о 17:59 та 18:01 і були збиті о 18:01 та 18:05 над територіальними водами. Подія вказує на напрямок з боку Криму та посилює заклики НАТО щодо протидії дронам у Чорному морі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rumunski-f-16-zbyly-dva-drony-shho-vtorglys-na-terytoriyu-krayiny",
+      "published": "2026-10-17T17:08:54+00:00"
+    },
+    {
+      "title": "Українська NODRICS розробила амфібійний НРК MAT1LDA",
+      "original_title": "Українська NODRICS розробила амфібійний НРК MAT1LDA",
+      "summary": "НРК MAT1LDA має колісну формулу 8×8, бензиновий двигун, бічні понтони та відкриту раму для швидкої зміни оснащення. Здатний перевозити 500 кг на суші та 400 кг на плаву з запасом ходу 160 км і 50 км відповідно. Входить до TENCORE ECOSYSTEM для логістики, евакуації та подолання водних перешкод, спрощуючи обслуговування та інтеграцію AI KIT.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/nodrics-rozrobyla-amfibijnyj-nrk-mat1lda",
+      "published": "2026-10-17T18:11:46+00:00"
     }
   ]
 }

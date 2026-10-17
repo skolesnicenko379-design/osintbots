@@ -1046,7 +1046,7 @@ def analyze_with_groq(
         ]
     )
     if GROQ_RATE_LIMITED_THIS_RUN:
-        print("Groq уже повернув 429 у цьому запуску; одразу використовую Gemini.")
+        print("Groq уже повернув 429 у цьому запуску; одразу переходжу до резервних провайдерів.")
 
     rate_limited_models = 0
     attempted_models = len(models_to_try)
@@ -1085,7 +1085,7 @@ def analyze_with_groq(
             # Якщо повний запит завеликий, один раз повторюємо його
             # з коротшою статтею та меншою кількістю попередніх публікацій.
             if groq_error_is_context_limit(response.status_code, response.text):
-                compact_article = article_text[:1800]
+                compact_article = clean_text(article_text)[:900]
                 compact_recent = recent_posts[-3:]
                 compact_lines = []
                 for post in compact_recent:
@@ -1096,7 +1096,10 @@ def analyze_with_groq(
                         + str(post.get("summary", ""))[:180]
                     )
                 compact_block = "\n".join(compact_lines) or "(Нещодавніх публікацій немає.)"
-                compact_prompt = prompt.replace(article_text, compact_article)
+                compact_prompt = prompt.replace(
+                    f"ТЕКСТ: {clean_text(article_text)[:1600]}",
+                    f"ТЕКСТ: {compact_article}",
+                )
                 compact_prompt = compact_prompt.replace(recent_block, compact_block)
                 payload["messages"][1]["content"] = compact_prompt
                 print(f"Запит до {model} завеликий; повторюю зі скороченим контекстом.")

@@ -1,9 +1,5 @@
 {
   "links": [
-    "https://www.gov.uk/government/news/prime-minister-andy-burnham-sets-out-plans-for-a-new-national-care-service",
-    "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-store-of-norway-27-september-2026",
-    "https://www.gov.uk/government/news/pm-meeting-with-president-erdogan-of-turkiye-22-september-2026",
-    "https://www.gov.uk/government/news/pm-meeting-with-president-zelenskyy-of-ukraine-22-september-2026",
     "https://www.gov.uk/government/speeches/pm-speech-at-unga-22-september-2026",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsd1NpNWNvbW5kWTl0NkpXUEJKWFY0V3ZLWDYwdUdtSG9zYVB3YUpzeWF1eERWU0NpNlBnR1lKZHlQUmFIUzBMSldvT0dEa0RRTGxWeEJzM1QwclFZUFRJUzRUQXdUN3BR?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDTjEwUGhRVUt4WjU1dGVtVEZkNV9rWDhTZDhYRmRJNTZrZjFFampzdzUySWxjMjZPUkM5emg2S1c3VGkxeHBOOFFYTk5BMGp5elA2N0ZHNzRFem5LSTRJMUJrb0p6N1Z0?oc=5",
@@ -1199,23 +1195,13 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Pb0NKYTJReTU4MXN4SzVuQVNhMDdrUGxKZl9qTDdjcWdPcFFqNVAySEdXTHliZXNqNkJGYWtEanZnZ1BmQUlFejIyZnVrcFZLVUI1MEJpU0NnWXM1M29DS2VRSmphdU5IVDFnWTl3WDZFWDNnNEUzMWhmOA?oc=5",
     "https://news.google.com/rss/articles/CBMilgJBVV95cUxPd29LT3JhZFJRN2JZWlI2WV9NS1ZVeHNwYkJ1OElJcDd4QlZVN1RXLTZEMG1GSzVzX1Q5eDQzbndEX2hhQXhxSHdHN2RoXy05czN3NGNRc3hkOWYwU0YxX3ZoSHJVVTVxb3EtUXlDSG51RVp4b0ZGMGJWbUNXREhDVEJXZTh2N05KWlRwc2h0dEhkSlI1WWkzdlI4T3YtdUNjZHVWZ1dRb0w4cVBCR3JhLU4wclRWRjZxY1c3dHkyc1NENlotZ0E3aGMwMFNBaGZhdTJqSnBTN3NXa284TVBfeFJLNjRZRFFUc1ppQW9zVFNYM2JEWGVTRDdUZEZoRXMtVF91cUhPNU9zNHRaUEJ5WExHam0yQQ?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFFHLWpfdEpLRFNBbUNyNEdBaVJpWEg0bkMzQ2hqSllUOUlxWWlBd1hVQ2E3UGNLdnJkMW5pQ2IwVVZpTVdVMkRjZnpoalNEalRiWmJFT3ZDUXd2a0lkakhnSnpSUFRGdS1UR3VNZm1zbUFjNERtcGFYVG1FXy1hRXZ2bU84dW5XdUdoTTVzSlVpNVlMNHZucFNTQkh1X0ZZT0lvenZKcXl3Z0FNTWM5ZkhjZHNhMmdnX3NkaVVaRjJlaF9TLWh3?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMm5lY3BHdnItR0VqNUdrNEpZdUVwbkN0ZXlRc0hZUW1UcXhtYjBFLVFTbkFuNWRjd3pBc3k2dmVybEdOREttRjY3RjRzd19wOUHSAVdBVV95cUxPNnpQanRCSVFLOGxISjVwYjJOQmo5SjRpdkhvTkxCRmU1MXUway01VENVM3hmQzd3b1Q4cHIxeE1uV3d3dWZjanVyZW1CVFY5NFRJMVVHY3M?oc=5"
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rMm5lY3BHdnItR0VqNUdrNEpZdUVwbkN0ZXlRc0hZUW1UcXhtYjBFLVFTbkFuNWRjd3pBc3k2dmVybEdOREttRjY3RjRzd19wOUHSAVdBVV95cUxPNnpQanRCSVFLOGxISjVwYjJOQmo5SjRpdkhvTkxCRmU1MXUway01VENVM3hmQzd3b1Q4cHIxeE1uV3d3dWZjanVyZW1CVFY5NFRJMVVHY3M?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnBjYzFpcXlMeHNra1VySU90eDNJUERtUnhLaVQ4ajVhVXUxbXU0QmtYc3FvQ19zVXgzX3EtUklJRFhCdGltMDNGVk8tNy03YXYzelhEaGtYS0JmcXZIZW9nTVpGQXotYVlGQ2lNeUY0cGJqc2ZWR08tQjVBUTFpQjk1VVpkQ0RGX0s1NA?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmRQaHI4UU5GUHVvVmJvMmdOUFdoSGtHLWRUVXRqZU9wOWsxU2M0MFNuc1lRVlhoNFBjTklSLXJ2NkE5UTJkeEpyWFNVTHphbVVTdFNuN3NpVC1ZNHhHODJVRU1YbG9iUEF4NGxBeHZZbHdibW1zTTNVOVVRY3czU2U1djgxeWdMZ1RPXzZ3RG00NHFJajdYTFNMNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUWt5NlRqRmVJNzI2emExZnQxUVJ5S0tlWUJwbzJISU1fRFBpSEoxQlpVbXhYZDNmN2ZtTFN3Nk1ULVhBU0ppallLTU4yb0VUMnB3d0syb2F0Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93REd5bHVnOXJFQXI3cFBsMjhUc2dCM3JmSnYyUWVmc0cydV9OZC10MFBleDd0TGZiMTJ6WGpKWVhUNjUxNHBuWURyRTRoSlZsem43SEZ2RTVwZzlm?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "МЗС Індії оголосило про переговори з Рубіо 20 жовтня",
-      "summary": "Міністерство закордонних справ Індії офіційно повідомило, що міністр закордонних справ країни проведе переговори з держсекретарем США Марко Рубіо. Зустріч запланована на 20 жовтня. Це підтверджує проведення офіційних двосторонніх дипломатичних консультацій між керівництвом зовнішньополітичних відомств обох держав.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "published": "2026-10-16T12:00:43+00:00"
-    },
-    {
-      "title": "Лавров анонсував візит до Тегерана на 19 жовтня",
-      "summary": "Міністр закордонних справ Росії Сергій Лавров офіційно анонсував свій візит до Тегерана, який заплановано на 19 жовтня. Ця інформація надійшла від іранського агентства WANA News Agency. Матеріал фіксує конкретну дипломатичну подію та її дату, не містить оцінок чи прогнозів.",
-      "source": "Bilateral Meetings",
-      "publisher": "WANA News Agency",
-      "published": "2026-10-16T09:29:35+00:00"
-    },
     {
       "title": "Іспанія та Італія домовилися скасувати прикордонний контроль",
       "summary": "Іспанія та Італія досягли офіційної угоди про скасування прикордонного контролю. Це дипломатичне рішення між двома країнами Європейського Союзу спрямоване на відновлення безперешкодного переміщення громадян. Текст підтверджує факт досягнення домовленості, що є конкретним міжнародним кроком у сфері міграційної та прикордонної політики.",
@@ -1411,6 +1397,20 @@
       "source": "Bilateral Meetings",
       "publisher": "Anadolu Ajansı",
       "published": "2026-10-17T19:19:57+00:00"
+    },
+    {
+      "title": "Киргизстан і Сінгапур підписали угоду про усунення подвійного оподаткування",
+      "summary": "Киргизстан і Сінгапур підписали угоду про усунення подвійного оподаткування, що забезпечить спрощення податкових процедур для компаній та інвесторів. Угода набирає чинності після ратифікації обома парламентами і передбачає зниження податкових ставок до 15% для певних видів доходів. Вона вступає в дію з 1 січня 2025 року.",
+      "source": "Treaties & Agreements",
+      "publisher": "EGOV.KG",
+      "published": "2026-10-17T08:50:42+00:00"
+    },
+    {
+      "title": "Колумбія посилює зв’язки з Ізраїлем, розглядає членство в Альянсі Холокосту",
+      "summary": "Колумбія оголосила про поглиблення дипломатичних зв’язків з Ізраїлем після відкриття посольства в Тель‑Авів, заявив міністр закордонних справ. Країна розглядає можливість вступу до Альянсу пам’яті про Холокост, підкреслюючи підтримку ізраїльської спільноти та планує подати заявку у найближчі місяці.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Jerusalem Post",
+      "published": "2026-10-16T21:41:20+00:00"
     }
   ]
 }

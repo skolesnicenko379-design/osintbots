@@ -65,6 +65,7 @@ GEMINI_TIMEOUT = 18  # Даємо резервній моделі більше �
 GEMINI_RETRY_DELAY = 1
 GROQ_RATE_LIMITED_THIS_RUN = False
 GROQ_RATE_LIMITED_MODELS_THIS_RUN = set()
+GROQ_BAD_JSON_MODELS_THIS_RUN = set()
 
 ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
@@ -1043,6 +1044,7 @@ def analyze_with_groq(
         else [
             model for model in active_models[:GROQ_MAX_MODELS_TO_TRY]
             if model not in GROQ_RATE_LIMITED_MODELS_THIS_RUN
+            and model not in GROQ_BAD_JSON_MODELS_THIS_RUN
         ]
     )
     if GROQ_RATE_LIMITED_THIS_RUN:
@@ -1231,9 +1233,10 @@ def analyze_with_groq(
                 try:
                     parsed = extract_json_object(retry_content)
                 except (json.JSONDecodeError, ValueError, TypeError) as retry_exc:
+                    GROQ_BAD_JSON_MODELS_THIS_RUN.add(model)
                     print(
                         f"JSON від Groq ({model}) залишився невалідним після повтору: "
-                        f"{retry_exc}. Перевіряю наступну модель."
+                        f"{retry_exc}. Вимикаю модель до кінця запуску та перевіряю наступну."
                     )
                     continue
 

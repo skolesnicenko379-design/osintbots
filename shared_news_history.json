@@ -84,6 +84,7 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnpTNHVfTXNBQmVUbkF2LU1kYnRlRFVWamkwNU91SWlZZmdpbnhUZUxlOS0wYlhheFJQdXhXTXRCeTdJT1llNU9Cb3hQSm1KLXFrdnhwdm01SUY5MXB3Qm5ES0d0cE5sX2FFNnRyWW83bU5JQU1JMndhQURGRC1oYU1DQ3ViMl9naXhDLXlqLVY",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxObXRBclhhcm1OSzQ3SGF0cjNzdmdNZTE1eTJ0V2pKMEtraEZYQWh0SWtyS3ZrcnRlU0E3S3pLX25vVVhEV0JCbnhvSTJCNWlacDNzQVdGOU14UHNfb1pDUzRTc3N6aGxEam8yNzQweFFlN1ZGaGxwUWFVT3oycF9FNlpGdkVBWjllUlJBelJmSHc",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG0taElXcGdONEUzT2RYcUF1WHNwYW9sdFcxSmZUejZpbEh1VHQ5NHRnWmJ4ckN5TkU2V1VFUWxVbjJpYkdQMnN2SGJHT212RnM2eGh0Zjd4MkhwRjdQd3RzMzE4YWJ6ejZqOW5kVHZvSHAzb0tfandRRUI2X0dEck9DZHB2cmEzWkVPSmtDZ2U",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWRfS04yMFY3c3J5S2dOOTlfQUowZm1LSmFVdk9hdDQtTDlodVFxWVZGYWNDSFZQSGJJTEhNMnhLQmZFb29jc0ZON1lFT0p2dDZnQ1prNGF2WDMyVFlnTnBJMEdCWWJGREh5Rm40TWxfNjJGZHE3LVVpdFFvSm00aHBhaG9ZN2Z1b1NYcUJXUldaZw",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVVfZ21HUWtJSFpFcS1hZ2p6SW12ZGs5R3Jwd3ctVy1OMXotWXRMM3RscHlWa3g0MHhkSHJXT2lQUWFsZUZkb1NWMFJJVUhvbVRtLUhkUjExdkpPR3RsT2FZU180X05DTG02Y0tMVW44WVlweTYtRXE4RkxLLWVpQy1NRHRxT1NndEEtTGdOQkwxdw",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmJMZy1xVlk3Wmg0TjMzU05rQTk0enVXUU1uZ19TclNoZGo0MzRRc3JwMWR5aXJSMGNOYm9LSGxLbXAydnB0dmFtV0ZXSnB3blhwY1AxVFE1TGFUdk4waDVsbXk2VkY2RW03ZmRNM0h1ZmVIbTM0ZnhORmktZWFqVlo3VVhPMmNOZ0JWQ0RuNWxQS1U",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOXU1RUxqcFdodnNYU3NRc2pNSGFaR3dzRE1uckdwdXBaeWlucjZYYUE3OU4wS0dwQ05COTF4WGZ2TEgzRFJBd295cE5FSVJ4ZExieTh1ZWgyaVl1V0k1c3M2blhucGVvc2E4TTUyYnY1VzVoUmUxREZDMkdfaTEybEtsb0VtSW0yQ1JZSjhmaV9seGtZNms1QWRXSVB2Y2JHQmtZd1ZtSXI1cjVqWWlVNmJLOWRxcDhHMEhORmJzam01cmpDanZibUdTUmloVzhvLW13NmZzbGZ4ZDY3SlJfcmthTmhGbXhlalNORWxEVFRObmtRWXRSSkYyNTlpSlhFb3gxbWxkM2RHYjNsdkdGcVhhTQ",
@@ -142,7 +143,6 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0pVcWYyaHVzbEpnSVdTaDJGZVFpbXY2cnlsYTBreEh5VmFMOUh4NlplSUJ4N2U4WVJrUG9Hb2pBcDd0bi0tUkJ3YklVSmc1dzE2c19rMS1XaUZhcWpod011TGU0OUpIcFk1cFFNdmU4ZGUwQnBSSW1idUJrMW1BVnNYYlFhMFctYUxHcTBZNTFoUDBHdHBNclpKV1dOcUpIYWlkWjdobXVrYUM2VXAwQzZENlJKaWdGV2ZZZWN1M2Z5Zw",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjNaVnFydG05bHpSYlFyQkNKZXdEUTJaZ3pkakJYRHdMR20zbmltR0hBbjZMVEdnekpoTmZVR0ctM2dJLWxHRGhsX3dlcEhVWWJBc1Jkd3lTMlNsOEpZdDMxX1hkSkJxUGRJZThvS2t0OHhPbGg1Z25EcEVMM21hMUpESGJSWU1pTFpwZS1wMWJGeE1Bc3RLTUdfNWk4aXNhVk44UXpwZm9UdU56SFA3Vm9KN3BwZzNBNkhaQWctWkhYRU13Q1E",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaURxR0JiZzdCWEoycFpqcWxhczNjX21qVmsxRGktbjhDcTZZRFpNRVFiUWpTVzgyc0pDNFZRampBYmtXV2FXWGlsbkxfZFdjVTdoLVBpcHEtTTRRdjViRTR4cmx6Ml9RTzBVQldrQkZMcXZNNjh3VFMzZzZZSG11R2VVbEZzcGNSMmZLQWlRS0M3Sk5GNjA1RjJHZVhsYjM5NlBaaEVtNTRNREFVSzExZWRiMW1oek5pX21VWGRrMFNseGdmR0E",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2hHRkd5bWh6U2c4VHB5aml1S0IxUkNVMTBVMnV4SnMxYlpDUTlKajJCcTRBbE15aGpUckNwSUxZbHVydXl6YkVJWHh1M294bE9OVmhEdHpCTlY4eENaRXdzbEpvMTZBVWpCZ3BldTdiMXo4OUd2YWZhMEpYZjJKR0JaMS1PaDdHNTB2Y0JtMlJ0cEhZeFFTdkRCQmRSTzM5MXhDa0FuUFd2Y2lMUFBRdk9EX0k5Y0pTSU5TckhqUnJVdEVSeXEw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJsVkpqSHFIZ1gwMXZiZDJSNG9aV3FncEtoV0ctV3NpM0VoM2UwV01FTnZLazhZVUJuSmJqOE9uZG1GamF3OUE4aGlWenFkTEFSelZFX2F6SWsxUzJzbXBJUVZNallZQ0FBNjA0WnUza19UT2xnUFkwczh0NVpLdXNKSk9sMWdSZnhNRDFvQnU1SUpBclNsMk5jbFRGdTVqSDBhOWN2MVpjNnAzc2hTQWNyWGJZU0I4Zlg4TTlsRUN0bEs5czE5aA",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEdBa3hoQ1NvRWxKblhiUXNYNm1zNVA1RlBZNUN4UWpFc3lwSXdsbHhmVWJFN3QyMUFaRDF6dnVtc1kzOS16VWtRdGp1RTgyRlh2a2ZmRmRuSU9oQWFKOXJFS1NJR1VFblFSendUTE9lZ3A2UERRZkdpWGhCSGV6SVFmLS0zVG52NnpOOEtvbGlETUZmdHU0T1JFZG9JczU5MTZCa3pBRWdOU3BfZlJZNlJEdXBjaXlzOEp4TDVmYmRWYWR5SktkbjZR",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "Ціни на газ у Європі близькі до максимуму 2022",
-      "original_title": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited - Crude Oil Prices Today | OilPrice.com",
-      "summary": "Ціни на газ у Європі наближаються до рівнів 2022 року через обмежені потоки LNG через Гормуз. Обмеження поставок LNG посилює тиск на енергетичні ринки. Це може призвести до зростання витрат для європейської економіки та впливу на макрофінансову стабільність.",
-      "source": "Сировинні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2hHRkd5bWh6U2c4VHB5aml1S0IxUkNVMTBVMnV4SnMxYlpDUTlKajJCcTRBbE15aGpUckNwSUxZbHVydXl6YkVJWHh1M294bE9OVmhEdHpCTlY4eENaRXdzbEpvMTZBVWpCZ3BldTdiMXo4OUd2YWZhMEpYZjJKR0JaMS1PaDdHNTB2Y0JtMlJ0cEhZeFFTdkRCQmRSTzM5MXhDa0FuUFd2Y2lMUFBRdk9EX0k5Y0pTSU5TckhqUnJVdEVSeXEw",
-      "published": "2026-10-15T14:30:00+00:00"
-    },
     {
       "title": "Прем'єр Вірменії зустрівся з генсекретарем Франкофонії",
       "original_title": "Meeting held Between the Prime Minister of Armenia and the Secretary General of the International Organisation of La Francophonie - Վարչապետ",
@@ -1511,6 +1501,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94X0RrNjUwZ3J4NTZYbFItYVdzT3VVRWRkTzE5bk9SVWVfRC03T0E1X1ZOZVpoUjZMS0JfZTcyZ2FjcVE4dWtXM2RiZU9JVDdNdmtxamNOT2RkQQ",
       "published": "2026-10-16T18:21:54+00:00"
+    },
+    {
+      "title": "Робоча група з рибальської політики засіла 15 жовтня",
+      "original_title": "Working Party on Fisheries Policy, 15. októbra 2026 - Consilium.europa.eu",
+      "summary": "Робоча група з рибальської політики Ради ЄС провела засідання 15 жовтня 2026 року, під час якого обговорювали пропозиції щодо реформування спільної рибальської політики та підготовки нових квот для держав-членів з урахуванням екологічних цілей та рекомендацій Комісії.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWRfS04yMFY3c3J5S2dOOTlfQUowZm1LSmFVdk9hdDQtTDlodVFxWVZGYWNDSFZQSGJJTEhNMnhLQmZFb29jc0ZON1lFT0p2dDZnQ1prNGF2WDMyVFlnTnBJMEdCWWJGREh5Rm40TWxfNjJGZHE3LVVpdFFvSm00aHBhaG9ZN2Z1b1NYcUJXUldaZw",
+      "published": "2026-10-16T18:43:04+00:00"
     },
     {
       "title": "Удар по дата-центру «Яндекс»: пошкоджені п’ять із дев’яти корпусів",

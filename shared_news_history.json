@@ -74,6 +74,7 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mTm9IWUkwa2RuU1NtZkRRdDhHdVgzNkI4YjZLN1FCZE9YbXZSdElJNWZmOXZTbjluSVc5dzl5WGFDb0JTeTl3aHNvY29jdURLTTBWYjdWRzRvSWYwOGU3dDljLWFjOTd0a0lsalVybmo5Yzc1ZVE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pR0w2ems2ZnE0RmtMRmVCMUJjNWlNcUxINDlmbnozX1g0dkZqeEJiek5tcDdqQXhLS1AySjVLMk83T1ladDNXYWRIQkhSa0F4Q21uRk5NVWdESF9heVdXRVRrTzhkMW4tSTVmNlZ5U1BZN0RfY2c",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kNDRVSURNc0kyNm5pWFZ3MUFaTlgweGJrUVAwRnVzUFM1MWFwYTFMX29HY3pib0J5QVlCWGtSVmltcFhhbThYak1yMjJBVUdJOEsxZUhUZVVNSjZPVUk3QVlxazh5a2lLUTJmZ0wxN180Z0s5TW0xRE1acw",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ndW5aME9PUXBiZkxSOV9jOHJpeVRZYjV2ZjFPUkx1RGxpVkVGYWxTX1RxQ0FvbGlxb3V0M0MyektzcFprblVjVUhLbXpMUDQ3bUYtZmw4WC1EbTVWSmo4Q2o4QjJiQXc2WUw4NzM1eHBVc1BESHVuZnJn",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VHp4YUE3Y1BzT1FsWHM4ZU12a0pwTlNOT2haRGVPSzlzZXB6Y0lqT1YyNHRlNWV5dEZ6RGhZa0t4eVpSQW96NlR2TkMwSXlvMkZ2X2xLYUhPSVdoNjZrNTBqa2NMUnQzSUo2TzU2azh3VFhRUzMtZVdWUjY1Tk0",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiYjBkOEIxNE5tU0RCbWsxMGRELWVjTS1ac0RhTzZLNW5weTRoQWQxREFMN25rQjFCdDZBQW1XWGtTVnQ2OFQ1TXRqb0lNSjJ2djlTWE4zYkp5dkYyVTFDS3RsWTdMZTltR0RDOUIzUnJQNHpQWUpfMm5uWmIzQQ",
@@ -100,7 +101,6 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWU5RzhOck1NeGFwUENhUFFIQloxUzNCOG1ZbER3ZkwzQmlBeWdrUWVUczlpM2tuNVQyMm84MGNEYVFGYk9DWmhzVkxSenFhczFWeUZNU1hxUHJ1VTZjMG1NSXMtT3FsY3ZxYTFNM0Z4aFcxMUJsa3RHbzZrUjVKbW4xMVA0bUZxam4yNktob0xVeVdBME9QZ2hIM2pmd9IBVkFVX3lxTFA5WHpNcFB1Q0hJZFBja2ZPT1M5SmJIOHBGLS0wR1dhODg1SFJVYXNVSFRfWnNRc0FQbURJeHlwcF81bUE4YkNqY0h2NE1HWHY1QXNnblBR",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxObHQ0OHJlSm53NkljT0d6OWJzOGRjRHA1amJTNnBLOGxWYUplZWM1d0s4emRUS2owV2ZrM2pfM1FzR3Z3Sy1mTzBoS05rQVRnbmRteXMyNko4b0ZtNTJRU3o1VzQ0X2NHejk0Y0k0NzNicUhoVHU0alI1RnNKUnNYdzV1LTdDUmtRZGFLcnVDNENydG84NDhBOFFfWFhIZw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEljMG41aTVYSEVJZEwyWnZKcTI4ZGh1ZHhSTzBXeEljQVB3MzUtMnhTODNWN0dBTnVxV0c1cjZZY0xNV2xoVGV6TFpzckFIajJKZWVtOXZ5Z1NpajlzQWYyc0JnZG9LR1RndG1KcTZhYnlWM0tHUmlBeVV5OFJMbl8xTFdvYkt1Q3N2Y0o2UDRrTk9zSUd2M1o4dG8zUdIBngFBVV95cUxQRDhtX21aWlc2Y2pOWW90cmpNRkdGZVgwdnRVWkZEd182eDNuMi1iX3NSSGdOdmV2ZjJndWlyYmhuaS00MERjaUlPelUyVnlJMW9uOFRlU1VJbmhneEZaTkVEOXVYbHVMWVEwTC11ZTdpa2NOdTdCbEhHdjl3NWQtLWVxN2R5dndYTi1oRWJtT1ZzODZ0Mms5ZTIxTldWZw",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaW9YckZKR1BkZFJLdDZ1bERpSzllSjlmUkV1anV5WXZXRlhaeFJER0NkWmJ2Tm9BeG9SSjUwVjhhV2sxQW4yNFVjQmh1bGZwQk5xSTZUR2M4THBEM0dhQjExSW9IU3BKR3lRb2EtMS0xWklobTF2RzN1SGhBYmJkWUJJc1lqN0Vzcy1iOTdZdnA5T3N6OHk5V2JnLUktYU0",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEdvUnB4VzNmY2RuR005QUxicEROekNqYzZrdW9GVHBfMG00RWNITHdMWTFUQ3FRTlpqNkV2M3N5d0gzcnVaZElEQTl5V3RWd2dmTmFhRWZHUEl3Z2NubngzaFFOSURtajNZM0NIUkVKZzRyTWxHODVqd1VOUlhGNGVSMXgxQTR1ZzNuV1JHZVBCZE9oSDVUaUJKaFpUQmc",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEtxc2E4MWhnQkZTRDhWQTduWUJ4RVp4MU42Yl9NQ2ZPRDdPSU50NlJ6Qlhsb09FVllnMElKMjlESTR6R3VaWGRjelRRZ1BlTHB4TEQ0NThLdUlwOU5GLWFjOFNnQ2hoc0ItNWtvYmNid1B4QmVBOV9mZkx4eDNZVEp6WVFycHlvVTB1Q2RodG1VRUdxbjU2NU5NbjV5N1NO",
@@ -152,16 +152,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "США мають надлишок природного газу через війну",
-      "original_title": "US Has More Natural Gas Than It Can Use as War Chokes Global Supply - EnergyNow.com",
-      "summary": "Згідно зі статтею, США мають більше природного газу, ніж можуть використати. Це відбувається через те, що війна обмежує глобальні поставки. Така ситуація може вплинути на енергетичні ринки та ціни на сировину.",
-      "source": "Сировинні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaW9YckZKR1BkZFJLdDZ1bERpSzllSjlmUkV1anV5WXZXRlhaeFJER0NkWmJ2Tm9BeG9SSjUwVjhhV2sxQW4yNFVjQmh1bGZwQk5xSTZUR2M4THBEM0dhQjExSW9IU3BKR3lRb2EtMS0xWklobTF2RzN1SGhBYmJkWUJJc1lqN0Vzcy1iOTdZdnA5T3N6OHk5V2JnLUktYU0",
-      "published": "2026-10-15T15:45:57+00:00"
-    },
     {
       "title": "Китай виграє торговельну війну та програє вдома",
       "original_title": "China Is Winning The Trade War And Losing At Home - Forbes",
@@ -1551,6 +1541,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFNRLWRsdTVYVnFGRHlLa3dxVUh6MklPUl9SdWJpWFhfNjgyTk9HUnFsYS1oc0VXY0FqOVhGOGpSU1pTOGhyUll3WExSZWtpa3FmbWtOSlZIU1FzRjZOSTBOY3UwWnF0WEk2Ukh1OW1NRk93Mk9URmRwNG55V0QtRmRtUjh5RXdubUhrU2hLeThKeTNEX0N1MFZxaVFFdUhOcHBNSExISnVIWXVTY3RtSnVMMXN1OWlF",
       "published": "2026-10-17T03:04:00+00:00"
+    },
+    {
+      "title": "Філіппіни та Ліхтенштейн підписали угоду про уникнення подвійного оподаткування",
+      "original_title": "Philippines and Liechtenstein sign double-tax pact in Bangkok as Manila widens its treaty push - astig.ph",
+      "summary": "Філіппінський уряд і уряд Ліхтенштейну підписали у Бангкоку угоду про уникнення подвійного оподаткування, яка запобігає подвійному оподаткуванню доходів між двома країнами та встановлює механізми обміну податковою інформацією, підсилюючи податкову співпрацю. Угода набирає чинності після ратифікації обома сторонами у 2024 році, розширюючи мережу податкових договорів Філіппін.",
+      "source": "Treaties & Agreements",
+      "publisher": "astig.ph",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA",
+      "published": "2026-10-17T03:34:58+00:00"
     },
     {
       "title": "МВФ радить Банку Японії прискорити посилення політики",

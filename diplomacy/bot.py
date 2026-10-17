@@ -42,7 +42,7 @@ GROQ_API_KEY = (
 ANTHROPIC_API_KEY = (
     os.environ.get("ANTHROPIC_API_KEY") or ""
 ).strip().replace('"', '').replace("'", "")
-ANTHROPIC_MODEL = (os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5-5").strip()
+ANTHROPIC_MODEL = (os.environ.get("ANTHROPIC_MODEL") or "claude-sonnet-5").strip()
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
 XAI_API_KEY = (
@@ -85,7 +85,7 @@ GROQ_TIMEOUT = 45
 GROQ_RETRY_DELAY = 4
 GROQ_CALL_DELAY = 2
 GROQ_MAX_MODELS_TO_TRY = 5
-GROQ_MAX_OUTPUT_TOKENS = 450
+GROQ_MAX_OUTPUT_TOKENS = 700
 
 MIN_ARTICLE_TEXT_CHARS = 50
 MIN_ANALYSIS_WORDS = 20
@@ -642,7 +642,14 @@ def collect_entries():
             continue
 
         if getattr(feed, "bozo", False) and not feed.entries:
-            print(f"Некоректний фід: {source_name}")
+            parser_error = str(getattr(feed, "bozo_exception", "невідома помилка"))[:220]
+            content_type = response.headers.get("Content-Type", "невідомо")
+            body_preview = strip_html(response.text)[:180]
+            print(
+                f"Некоректний фід: {source_name}; HTTP {response.status_code}; "
+                f"Content-Type={content_type}; parser={parser_error}; "
+                f"body={body_preview!r}"
+            )
             continue
 
         for entry in feed.entries[:20]:
@@ -1112,7 +1119,7 @@ def analyze_with_groq(
                 fallback_payload["temperature"] = 0
                 fallback_payload["max_tokens"] = max(
                     GROQ_MAX_OUTPUT_TOKENS,
-                    700,
+                    1000,
                 )
                 fallback_payload["messages"] = [
                     payload["messages"][0],
@@ -1171,7 +1178,61 @@ def analyze_with_groq(
                 response_data["choices"][0]["message"]["content"]
             ).strip()
 
-            parsed = extract_json_object(content)
+            try:
+                parsed = extract_json_object(content)
+            except (json.JSONDecodeError, ValueError, TypeError) as parse_exc:
+                print(
+                    f"Некоректний JSON від Groq ({model}): {parse_exc}. "
+                    "Повторюю один раз із більшим лімітом відповіді."
+                )
+                retry_payload = dict(payload)
+                retry_payload.pop("response_format", None)
+                retry_payload["temperature"] = 0
+                retry_payload["max_tokens"] = max(GROQ_MAX_OUTPUT_TOKENS, 1200)
+                retry_payload["messages"] = [
+                    payload["messages"][0],
+                    {
+                        "role": "user",
+                        "content": (
+                            payload["messages"][1]["content"]
+                            + "\n\nПопередня відповідь була невалідною. "
+                            + "Поверни один завершений JSON-об'єкт без Markdown. "
+                            + "Не обрізай рядки й не додавай текст поза JSON."
+                        ),
+                    },
+                ]
+                retry_response = requests.post(
+                    GROQ_API_URL,
+                    headers=headers,
+                    json=retry_payload,
+                    timeout=GROQ_TIMEOUT,
+                )
+                if retry_response.status_code == 429:
+                    GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
+                    rate_limited_models += 1
+                    print(
+                        f"Groq 429 під час повторної спроби для {model}: "
+                        f"{retry_response.text[:250]}"
+                    )
+                    continue
+                if retry_response.status_code != 200:
+                    print(
+                        f"Groq повтор JSON для {model}: HTTP "
+                        f"{retry_response.status_code}: {retry_response.text[:250]}"
+                    )
+                    continue
+                retry_data = retry_response.json()
+                retry_content = (
+                    retry_data["choices"][0]["message"]["content"] or ""
+                ).strip()
+                try:
+                    parsed = extract_json_object(retry_content)
+                except (json.JSONDecodeError, ValueError, TypeError) as retry_exc:
+                    print(
+                        f"JSON від Groq ({model}) залишився невалідним після повтору: "
+                        f"{retry_exc}. Перевіряю наступну модель."
+                    )
+                    continue
 
             relevant = parse_bool(
                 parsed.get("relevant"),

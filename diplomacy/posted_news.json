@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeW9pU1lvc3ZqN2FmalNMOU55Z24zRElPbW5uR0pqOUVUckdWbk92VGpCVmljS2s0OFl6OWhsbmdrbldBSHdmZ2JlU29VaGhfbG1yTzFLaVo1Z2lxN3o4Wm4xTHJVM2s?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeFY2NjhjZ1MzaE1EZ0JMWjJPTWY0OEZIcEZFdnlJb3RHcE9UVUp6RVJuZzFOVU0tcWI0aE9oV3hHc0UwOUh3TGdLdDBPMzdaT1RLVGpaNWVDQVN5a2ROQS00QTNRNzUtWklOQ3p4amdRb0lJQXZ3Q0pLb2EzVUlid01IZEZsOTB5M0dWQTNpTG9XM2kwWEdzaFoyR2hsN3ZUWUhhVm9VdHowc0xwZ291NWxIUlQtTUIzUEVKbVlFY01rLXRGOWxrMkh1SW9RX0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5USXA3SmhCbmh1RDlNa18wVFZYLUFFaHVCZzFYRGE5RkxEdC16c2syQUJ0NXFZLTNEa0wtSWJLTnp2QWhXc3BySnlR?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd0tORXF1cDZCN0lBOVdzYlBIelZ4UHlZeTl5RFBwdzZ3N2xKVVZkLXdRSnd3Ym4tbFFuOUZ0Wk1keWZpYW1IdmhmUklNSlNyQklRNXJvY0kyQmF3enNiVDVHZzlsV2FLMmFPTXIyVGFRQ2ZwOTBaX2laR3hrQ1Bhb1RNd29JSlQtVVRheEVtWnVxWVhXeU5JbHVBcWh0cmxvenh5MXoxYjdjdzBuYTA4V2xiYmlSbjFZelJucDdwQVUxdDJSQnhYZg?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFVlUFphTVBYbFhpN3hyb3VOaklKOE5Qd2ZGNXhlVDEtaUdaX2VCZmtYRHRXeHpTcHBIVlZDa0FjS29aV2ZzdjQ4czdxeHRYbl9DSnRTelNadHluamF5ajh6SUdTbkhneDJhWE8wU3dqSHl0NFhQV3dxZmZKTjNtdjhnQkpuMVlmTlQyVmtERHVucUgzT3B2YmhZMGl4THNXNTlLM19GamZlN3VYdFFBd1ZTLUhwd0NHT3hJYl82eWFXc0lYOXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBWloyX01LMXBvbkpMa01ocFFhcVcwUXpCdjVWR3RLR0NVZzRmNm1YRHZWSzN1UkRoMkE3RTNxR3V3RE9BSUtTOFN3TEhnVjFPdk83dmtnQmxXWVNrVGdYN1hTczRhcVpQX0NvNkI5NTh2Ymw4VGtuZEJ3?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTB1alpROE4tN0JPazVFaE96M0xDQTZDdGF0UllNWndPNnpqcFZvVE1RdjIzN3FYU0lGM2lIYzFTdThCb3pIbzVyRlVxbU9CQ3JfcFJjWDRxbHE4cFdXdGpXM001aWxxbVBaTU1nVE1YX3daYzdwczl1ODhVdE02WUhicW1FQTJiczI0T0hCVzQtUXI1X2I4VWJpRjZyU3lERFo4?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHpGY1A0ZnlEYjUzTHQxRGZzY2xXR2NqRGsyTWw1X0NKOUJES0Q5dzNYVDE5Q3p5XzBrWFp2VHp4MjdfRUpZNUJhbXR5Q0lNa2Z5WENUUjZOX0I2enJKTlRpdzROZ1I3Z1JhRG4wX2xHQ3YtLUhac3EyYVExUkJVOV9Fb0F5Q2k4cDV4eVFhWkxZaVdsNkhCRXpmRDljb28td2ZNdmR2UHotOUp2eDhB?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzMzakZONUVkQjl1NnVOMFE0Ym5hTTdWSlMxblhtVjdxNHVuZzZnSUN2TjRwR3Y2RHBXbHZPTktac0pFT0NWbW9WbHpTZW1yckpJMndjX3NrcG83R0JybVRhZ0IzcGhCUHNGZmc3bzFvZklWZ2pZdlpnZnlaSkR1c0NZaEkxMFlQTkk5QWdwTUw?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDFlNHBjVC1ZaHdDejQ0aEtseEVlNEZhQkNOd1hCSGZrVlB5dDRuejdXTWVaclJTRnZUcW50NUdrS3I0MnBEMUxiYkNjS2FaZVhuNlBGcmZQcnRvR2hzVzVpYWtpR0tsYl9lOXJ1TjhsSVR0YXNIeDdvRmRocDVtR204dnR5empvV3otbmZGd18yS2h2REoxdzNNaFVrVDRnV0lweFl3?oc=5",
@@ -1199,30 +1192,16 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXgxYnctdFVraFBMclMwa2JmUWNfclpLbklYd1R0UExlYkhEN3MtN25QaVFxTHYyWnZfa0RjMllaUXJNVjBvcXROaXJJQ1lnVHJsM3owRVNxT0FpZ0gtc1Bkek5WSVpYNkZueVBMWk5vRlVRdHFvX2ZBdmxxVEdEZEp0UjNxamJUUEJ3U1JpZGlwWmF5Rnc?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejF2cUprdGZEeVZYblJ0RUZDRXdqZE9HSXUyTE5QOFFIM1dZbnR5UHVNdU1Od1RtZzZVOGk1RndDeUV5MHBPOTRpXzdkNVExaW5oc2hzSWMzRmtpRHpZaG5WLVhuYXdyOUZ5TEhrbElkb0U4RktaZTBLRW5OczVSRGsxcVRqQTROd3ZVb244NGFzaHdnTC0yNWp5akczMUx0Q2hUM1g1a2lwOXM5VXo3Rg?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFBBbVFPUUFZTVFBMU5LT1hpT2hRbFpkbElCOW9KWUJVUUlxU3JGVkxpc1FjOHNvbXBfS0hLZ291d0E5Q2JIa2w4elhZdC1wNWdMQ2UySmd4aE1vZnU5VTZzdVJuUzdSZnpoYW1oU1JZNm52Z3VWTGJBSUFjeS1Jc2RWWnRaNXA2dXdSWi1vWXhJMFZVSXdfMElUZXFjSkM3SDh2Qk85SXNUcGRSci1va2E1WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUwxd0hUMG9pblkzTHBZbFBWTy1fY1RZbUdxMWZ3ZWNSbmZvVEZmVXVkQmczMlY4c0NhaXhUOHMyUkRlbnpKaGN5WXlsVVg5Y0x6UHpUMWI2Rkx2RGdWODBpVWpZdk5RR0wyTTMyZ19reHhDUTJEdXVvdmUycXhybTlGU1E4blBoTTBTeVJ2T3lhZXlKYVlnemhR0gGaAUFVX3lxTE1pTDF3SFQwb2luWTNMcFlsUFZPLV9jVFltR3ExZndlY1JuZm9URmZVdWRCZzMyVjhzQ2FpeFQ4czJSRGVuekpoY3lZeWxVWDljTHpQelQxYjZGTHZEZ1Y4MGlVall2TlFHTDJNMzJnX2t4eENRMkR1dW92ZTJxeHJtOUZTUThuUGhNMFN5UnZPeWFleUphWWd6aFE?oc=5"
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUwxd0hUMG9pblkzTHBZbFBWTy1fY1RZbUdxMWZ3ZWNSbmZvVEZmVXVkQmczMlY4c0NhaXhUOHMyUkRlbnpKaGN5WXlsVVg5Y0x6UHpUMWI2Rkx2RGdWODBpVWpZdk5RR0wyTTMyZ19reHhDUTJEdXVvdmUycXhybTlGU1E4blBoTTBTeVJ2T3lhZXlKYVlnemhR0gGaAUFVX3lxTE1pTDF3SFQwb2luWTNMcFlsUFZPLV9jVFltR3ExZndlY1JuZm9URmZVdWRCZzMyVjhzQ2FpeFQ4czJSRGVuekpoY3lZeWxVWDljTHpQelQxYjZGTHZEZ1Y4MGlVall2TlFHTDJNMzJnX2t4eENRMkR1dW92ZTJxeHJtOUZTUThuUGhNMFN5UnZPeWFleUphWWd6aFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkNFNTM5NjZEcmk1OWdzZVMyTkdVZW9RT1VxNFl5SVo1aGl1TUNqUXVKUjFJUjEtTUhsRGpPQ1ZySU9KaVN1WGdURW95ZkQ5c2w3MFFPSF9MdDlvcDBwd3lrcnM5c0dZdGNyLTk3eTF5T09QemdWcU1FVG03TVoyblFqcTFmMGNManhpTkxfZXllMHJ2dzRfZldMVC1pNENfRTZmSUJoMlNwRms0S0pqYVZlNUVYd2ViU1dUMmtSa3cyM29ycEM1QVg3cmRpcVVKdkk1aElB?oc=5",
+    "https://news.google.com/rss/articles/CBMijAtBVV95cUxPdUEtemQxV0NULXhDbVE5czJXaG1pT1IzbzZSdjh4ZTZIdGpvd2k2NGY5MDFSNXdXRkVOYjA0SmtSNUZiZHBwOTIyQTd6TkpCM0VRWnpZd3VWYTJmcTZCblVTc0U0bU5DYmViMGdXbDJVTmhkTW1LNzBpZjFpLXkzOVVVU2VuMzRURE80T1k3SkJBUFU3bDNsQVRWUlQ3LUViZlRpME1FUE40a2doUXFSRUFyVWlENlFaSWlteDZjVUJ3dHY0R2FyeHB4WE1oRG5WUXpDOTY2NkdLUGxJNl9pUnRjMkIwUE14blc1dGRoT2FUZ2JmdTVORktzNURXR3czcTlQT01nWUR5bjg4c1A1TTlEUmphQktBeWF1SnlQMEVwR3hILWthV1pVcnRVMi1pYUwwaHllak9ZVmZsRkw4ZDhyMGQxTVBDYzA3OERMTTVSbnU5SmduVWo1UHBYdE1wT1RFZnI1NjVjWFJjV09SbjNMZ2hSdW5HWnlwUDNlTkd5Z09FZmZoOE0zWS04N2VpeUwwY3VITDZGSEgxRzZFM3M0ZTVWMDV4Uk1kMXBLSVdXV1V4XzRSRkJvSkVYYU5ZTmhvR2RxWUF6bC1DVHRoelJqM1ljaXZaR0lzLTFrTTA2T0JlU2k5TXo1Z1NQaVd3QU1rS2F6WWk4b3RXYm1ZSXRzclB6VTR0R25JVnppZERKeHVSelVaVUdfdDM5R3hZZmt3WWhsb1hRUG1pdmtWcEtxYTJTQTFGZTZnMERhMDA5MFc1UGZaclduZ2lWM0s0WV9IQXAwNW9fTXQ1aEJsbU80ZkFIYmxSS3hldU14ZndrTFNncjlaZ0ctUUtoMnctY09lZHlBeTRUV3dReFpTZWR2Vm1BS2REem90WUJRU1g0bkJmdi1Kc1VaNTFvOHdoUHFVb2xSVUJfR0pENTZUX3lpMzZwWEY1bnlzZlpjTDZoZmNpeTJ5OTJmWWZISmtpNEdCcS1uNGJFTEcySUVzdTFRM2lQaXRjeFFXNHNKNnlyWjVUVGw3YnFiTDJLRURrVy1PQS0wY3hLY0w1UUctMTNwbklTMEtDSnE5YkUtSWVRNDlyRE5iank0Z0NTQmgyYUV2bWFSZDl5M3NYRWU1bEc2QzN0bURsVkVvUDZVc1hDTFFpMmVmb2JzWHJoSTJxNHRGWjNjaHNVOFBDT1g3ekNhWDRrbWtKYTVkd1VxLXh6d2dmQkNmdW9oek1QT1I2b043dVNFclZmS0tKWnBxWC1IV1NXUzJjczA5YXRXRlIyRGVBY09MZ2duTXNfSWZFMHlXYUsxbGZuLUloM3dMa0RrLWttakRfQlEtcTQ3UkNXZ1dPajlCYjhNUUVPNmVTc2pjSnNqT2dNRUtkNGNheUh6ZHd5UGMxbFB3WlVBRTJaNTk2OXUzdEMtd25HTGk2NWM0bUVLMmZrdEVOZU5rZVpyTVZ0OFk2S0ZYTC1EVm14Q1FteEwwRGM4U05oRy1HdmcxYWttSlVFSENBTTJjcGRaaENidS1fUVd6MzNTdnhkT2puNlc5Mlc0bktMRGxNR2lxV1FZU0hUUW1SYWpwSEdHV1FIY25FYWtjb05GenZyYjN3ZTZoUkx2Z0xvcmhibXFzZE9lSnF0VC1vNkI2TGJIV05CVkljblBmVkZmb2I4Mk1Odk0wWU0xZ0MwZmlmY3BzbGROVlZxem45d1ZYbE43V2Q1ZWxlQjI3R215T1ZfWTNUMTFmYW9ENWdZdTJIN1hpNzJsMWtlYTlWTnZDckg1SUpCcXRLNGxCSHBFODBDUEtKbVluRkdGYk1rUHMxX2R1UXE3VG91V0d1cmpISENBZkR5SDdVNDdJTEZXYnFIZzl5UC04dF8wLUFoTWFSeGxnRHE3SUpsS2lX?oc=5",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaVJ1Q3MxVjc2V2lYNktFX3c5YVFWZ0lLbVpZU1ZQcENIZXRJel9FMzVGcFJmcTI5cDJkcWFIU3doZkdFbE4w?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY2Jnc3A4ZWJuLUV5YzNLQmlmOEJYV1c2ZTZjT1FPNV9fUF9lREUwTVpvTXllZnhybHgydUZldVUxd1lFSTZWMjNoR1ZCbHNxWU1DMGZPUU5iaFZockFDTkhoVThjSUQ2cTFvS0E2SDROcjV5RGpFYllOaXpPTmlFcWpqWlJYUk1jaW1mV3RpZHNkTWxxcEFGRVR5STUxdnR1SXh6QlRPUUxHM2RBdXIwTUtINTZVQ0E2d1c1Y2FJRUpXWnh4dEJMbm9nNE4?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNW1BWHE3LTNVSC0wd2JjQ1J5SnFuYmxTWmhJYmVvX2lfMFRJV25fM01jcnFfbHVRT3BoZFhkWEQydndWSmpxSjVKV08xVUQ4YXcyWi1IUjZ3VHpHclNjNERnOXZtaUVTY0RBcDVmS1ZtYVdNWjNha1MyUVRUTFVWelkzekZGQjhzbjlhWkJpMEYtWUFYLW1tS1BQY3BlVndjM3pwQUhFTG5PdGgwMVdHRUF2LXJ1dlBNcFExa09XRDBWNWppUzl1LVhhbXVnNWlwaFFHUVY1QkpTQW40aHRoRXI1bm5lUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvMTRHZjFnZG9LT190Y2xBbW1mMmo5UDlJQWs0bGZCanM2R3Q2Vm9iUEdOeUNOWXN4c0wtY1JzZzVycm9rekQ1ZWZVRjJmNG51NXfSAVdBVV95cUxQRW5aa251c3YwZnlaZWkyZFpWc2hXenF2U1JsTDluMWtmM1c4cHRCSGFWUHRya0xBNUZqaDJBcGxrWnFtbmtaMWllZ2lZc3U0b1FHY2wzVms?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2hpY1pFOTVfdlFuUHNkZ0VTTXl0NzNPeklQVi01T1QzUTBybFBqU3YwaVJrcE4yQW9ST05RcFpyWlFGQW5TclRxOXBYT1puRmtLRkJ3QlZ1S05XT3RLN0lLb2tXNXZBMllKazdJRF83SUxxbnRwdVpsb2NsbENJcXRVeW9Fa1Eyb1lvLWxGbzlnS3NVWlpUVXdOcFlZMHMtY0ZMem9BMHhCSFNTYkFwZWE1WlZLSlZBTFhzbnhCRnJzR0ZmR3c?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Чилі здійснив державний візит до Болівії",
-      "summary": "Президент Чилі здійснив перший державний візит до Болівії за 71 рік. Ця подія відбувається на тлі зміни політичного курсу регіону вправо. Візит є формальним дипломатичним кроком, що підтверджує відновлення високого рівня міжурядового діалогу між двома сусідніми країнами Південної Америки.",
-      "source": "Bilateral Meetings",
-      "publisher": "The Washington Post",
-      "published": "2026-10-16T15:39:09+00:00"
-    },
-    {
-      "title": "Британія закликала захистити цивільних у Судані на Раді Безпеки ООН",
-      "summary": "Посол Великої Британії в ООН Кейт Фостер на засіданні Ради Безпеки наголосила на необхідності захисту цивільних у Судані. Вона засудила злочини після падіння Ель-Фашера та закликала сторони конфлікту обрати дипломатію. Британія вимагає дозволити гуманітарну допомогу та забезпечити відповідальність за порушення.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-16T15:38:55+00:00"
-    },
-    {
-      "title": "Уряд Мозамбіку та BADEA підписали угоду про фінансування порту Ангоше",
-      "summary": "Уряд Мозамбіку та Африканський банк розвитку (BADEA) офіційно підписали фінансову угоду на суму 20 мільйонів доларів США. Кошти призначені для будівництва порту Ангоше. Ця подія зафіксована як конкретний дипломатичний крок між державою та міжнародною фінансовою організацією.",
-      "source": "Treaties & Agreements",
-      "publisher": "CLUB OF MOZAMBIQUE",
-      "published": "2026-10-16T14:13:14+00:00"
-    },
     {
       "title": "Туреччина та Камбоджа підписали угоду про військову співпрацю",
       "summary": "Туреччина та Камбоджа офіційно підписали угоду про військову співпрацю. Президент Реджеп Тайіп Ердоган підкреслив зростання двосторонніх зв'язків між країнами. Цей дипломатичний крок зафіксований у пресі як завершена подія, що свідчить про поглиблення оборонних відносин між Анкарою та Пномпенем.",
@@ -1411,6 +1390,27 @@
       "source": "Bilateral Meetings",
       "publisher": "Anadolu Ajansı",
       "published": "2026-10-17T20:54:56+00:00"
+    },
+    {
+      "title": "Турецький міністр закордонних справ похвалив іракського прем'єра за візію",
+      "summary": "Turkish FM Hakan Fidan praised Iraqi Premier Mohammed Shia al‑Sudani's strong vision for advancing bilateral ties with Ankara. He highlighted commitment to cooperation in economic, security, and cultural sectors. The statement was made during a press briefing in Ankara.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "published": "2026-10-17T21:58:22+00:00"
+    },
+    {
+      "title": "Президент Іраку отримав запрошення від президента Сирії",
+      "summary": "Президент Іраку Бархан прийняв запрошення від президента Сирії Башара Асада на офіційний візит до Дамаску, який планується у найближчі місяці. Запрошення було оголошено під час двосторонньої зустрічі, підкреслюючи намір посилити двосторонні зв’язки. Цей крок слідує після нещодавніх переговорів щодо безпеки та економічного співробітництва, а також обговорення спільних проектів у сфері енергетики.",
+      "source": "Bilateral Meetings",
+      "publisher": "OANANews",
+      "published": "2026-10-17T19:46:02+00:00"
+    },
+    {
+      "title": "Гендиректор ЮНЕСКО відвідав собор Звартноц в Арменії",
+      "summary": "Генеральний директор ЮНЕСКО здійснив офіційний візит до собору Звартноц в Арменії. Ця подія зафіксована агентством Armenpress як конкретний дипломатичний крок представника міжнародної організації. Матеріал не містить інформації про підписання нових угод чи спільних заяв, окрім самого факту візиту до об'єкта культурної спадщини.",
+      "source": "Treaties & Agreements",
+      "publisher": "Armenpress",
+      "published": "2026-10-17T12:44:00+00:00"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "links": [
-    "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
     "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official",
     "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues",
     "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
@@ -22,7 +21,6 @@
     "https://militarnyi.com/uk/news/drony-kamikadze-klyn-urazyly-vyrobnytstvo",
     "https://militarnyi.com/uk/news/frantsiya-shkodu-dlya-operatoriv-zrk-samp-t",
     "https://militarnyi.com/uk/news/iran-perenosyt-vyrobnytstvo-raket-pid-zemlyu-pislya-udariv-ssha-ta-izrayilyu",
-    "https://militarnyi.com/uk/news/izrayil-zamovyv-12-gelikopteriv-apache",
     "https://militarnyi.com/uk/news/lytva-vpershe-z-1930-h-strilyala-tankamy",
     "https://militarnyi.com/uk/news/multymiljonera-norvegiyi-u-shahrajstvi",
     "https://militarnyi.com/uk/news/navchannya-z-rozgortannya-kontyngentu-v-ukrayini-projdut-nastupnogo-misyatsya",
@@ -55,7 +53,6 @@
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMlY1eC1TSEFrTW5vWTl6T3FHaVNEamdtMHJpQ2RVSTRBbGw2MW1SNFFHd0ZZQWRPbnB4cEtOYUF2T1BMd1FGSzF2R1U2cHlkd3J5VTZHUHdwWmxEZkl6S2poRzctdUVyNGNNYW1CZDhValRuWVRpVEhuZzJqVzA2X1RySnA1b3RrbjdBODB6dDNvZElNcGJHd194c0ZuN0pSRXN3NEQybkdINE5ES050ZWhmeGxKR1ZTQ2FCRl9ndnRPV2hhU09wQkt3bkZCVEJ4RFFzLWtDRXRiOWJDNFNCZHA4WlBQcGpjTlBsOVVYM05rSURQenBj",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MEtEV1BiY2hLZFBzMkNLWklmTFpQaGVWRHVWVkpGWTdxRVlSV3dVT0dEMmRPV3hDbTdvXzRYYmNTNjJvdjNtUDNucW03aFk",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSzJLUzJ5Yk1TWnFIZ2U2am9QTUQwNkRjVUIzSXJ1aU42UWgtZndId1ZnS0pWeEdhYlgxOUc3bng1bkNva0NVVGZhZTBOekM3dXZB",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMk1HOENNUXhMSVNrcmVVdkFXT0hUeU9HLWxDamQ3bEZUM1Y4cGk2ZDhGOFJLb1pLSlRva3ctRlN6Ny1XcV9MNDFZREhuRkY1Tnc",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVElvcVgxNExwdERfVW1MWjBUSUF1NXFqbS1UTVc3OXZ4ZUo5bHc3X1duNUpnbEI3RVNORm41d3F6WWc2b25BZnZNTGlBMXdkNkHSAVdBVV95cUxNdGd0dG9rcWQ5SGt4Yk1ETTR5WTJOcFJYYzBNTG92RzhYSHhCUmZmMGxHb1FoSlJHMVlsZGtiWmJKLXRPY3pONGdOWFc0cnlBVU1fUk9MOWc",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUC13QUYwQzVkVnVkLVMyQ29QaEhhdFdXbmJMOGxhWnFjdTBXblgxbFhGQTl1a2E4YVNvaTJjS093SnBpNUtOZTVJVGRvRFdyTHfSAVdBVV95cUxNWVpfMDZBNHBtSDJlU3VoMnlPcTlSa1BvakJ5RWtUQlpqLV9yVktBUzJhaDY4Vld6ZHZtRXdJTVVMYW15dmx5dnhTSHYwQnRvaC1waW9EdjQ",
@@ -75,6 +72,7 @@
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiYjBkOEIxNE5tU0RCbWsxMGRELWVjTS1ac0RhTzZLNW5weTRoQWQxREFMN25rQjFCdDZBQW1XWGtTVnQ2OFQ1TXRqb0lNSjJ2djlTWE4zYkp5dkYyVTFDS3RsWTdMZTltR0RDOUIzUnJQNHpQWUpfMm5uWmIzQQ",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc283bWxoTDM2bHFndlAtRTM0Y2tGQnY3MWpuLVFia1d1NUZsbUpRZFp4Um5GRTZSWTFSMS14dnFra04tTWY1dkozYWpUOVA2M2ZXM1dYbmswX1hTTnZMZW1XSmpENGFCSHNub3huVTJMOHdZb3o5TlNSRTIwTFlRaW4zenNfZw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU9hV3ZxZUVhZkVDR0FXTTg5OFkyUUlNc0o0NE8xSC1CRDhSRGU1SEJtMmtYZDR3Qm00WmM1TFpTVlRiTEw1ZWowMGpIQV9aWmVveUtld0tSVmNhaXlzSGJCcXFQRGJINy1hN19lejk2YzN0ZzVsZkVkdEhSRlRXYkwyQWl0QQ",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0gwX19ueXVGQmdrSGd4S2pKNnMxaDFUekVkcHd6U0NXUTJhRXdDaTRNSDJhOWtuUEMzSGF5RXczSVBHYk5QTVQzbjV0T0ZnaS1jNVZVZExaYVgtQm16dFIzV3l6RjJzRjJZTmx5U056OGhkSGFQUUpIOFByaVY1LWxmcU1FcUpwMWFz",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcF8tQVRSQWxHeXFNVWU0NzAxYUJLcDZ0MTVKaWs0MkN4QkVwWEZsMU9pc1A2TmJ5WG9rXzNxUGtWRE9HbFlqVzlGU3l6OEtqRjNfTmprd1QtSGI3SHJoTHROOWxnMkNac085bUd0YmZ1eEZqTTZETTcwQzNYemJXdDJoZ25abnFyU2U4",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjFxa3pzbmFESHk0QkVJWXlVUllyZEs4a19VSXRTVU5sRnQ3SWtLRW84Z3otSWNzTC1tcV9MLXJCOTVnVldXUjB3enV2YmkwZEk4Rkp6WFo5UVBScURxbjNMcXFJcjNKWnNPcXpBS0REZl9hUW5TT3BNbUttMXJ5WGZTMVJURkhsQllNaA",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlN1QnFPS1lvMENub2MxODkzYmJRS2poRFc0MF92SlpUMGZNUjJyVEJ0Q0hiMWJpODRZekV5dmtUQ3FiS0JfLTFXRHZlNWYybTBGd1RLMUhfbjFOa0ZHT0RZckdXZTM5X21ZR1BXeENYVmx4dExxS3BIZDFvUS0xOXhHb2FrdUhvcjBfaA",
@@ -112,6 +110,7 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFBCWEhtd243d255TmJCRXRDMmJtbTN3MkpmZk5sTUZNRmM2QnRpeWwxdmx4c3BNaGRrNVBYanVlcFZyOVVFUHM5NHFPM2pLbnlwMVhIUkR0OHNyTmNtRDlSc2M5NmlaN1NGSHpPbEJrbmJUR09tQ0EyZHczUzhZZjdvTUJfa0NCYmVDRzFrOW80WFVCUVBlZklxcnZKZW5iVEphUEpIaTBmdw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYy0zd2lrMnN1TUlTQ01oVjZ0a2puT2hIa2szMzRJUFJFQW1ib05rblh4SVdKS0RyRzhrX3BqTzFqblcxMXRFYTRiQU0xb1F6dzJ3NFlKcW1WV1B5eUxsallLME9DQWZSUkxPN1ZFSGY1QV82bVF1ZkRvT3pxSkk4NS1MZ0Rta3B3UUlwUUh5WndpWDNJQVk0YThVTHp3V2ZzQVNjQjlySVJyNXfSAbMBQVVfeXFMT0F2blZ0MkZZMkg5eldMSkYtbnpTUE1PXzJqd1l3SmlSaVc2SVdZekdseV9KU3JNU0ZSU1RwUnF5VWRaMW9NeFhCdzNjVGpTMHZtZzlqVngtbE1NVVZqQzU3bFBFWjEycm1scVRsTHMxb3hNZXg1YlE3VXFmZ3hvZExOTl85a3JIV0o2bnpraWxhb2lSQUtlcnpJNklxYjdDeEI1MXFLOEJleGk3WG1UajJvQVU",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0FnRHlCR1NhSkR4Skd1eWZLX3ZhaDRWTUdVRDNQbjMtTW1wd2NBSjVVcF9GR1NRblJtOThfSVZUQjZFVnBjQ3p1WWZpTFNpQ2pfV3RIU25rcGlsdXpWajRRLVJ4Q0FBZDRCc0hTOUZ4RUZnTjAyZ2w1Z2VvOEdyUTZLdUNLUkZfRWVNcUpENVVXaFRIVXhhVXdlemtvVThyTzR5NHF0MVc5S2c",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVF0Si1XZGVBR2M2eDZtaWYxMUotMXJvczBKenVyYUNCRkNRTEVqWWNLSjdkWVUyaUNQNngwSGJHZjJtWmxmbnlPSFRDa2d2NzVmS3ZpdmFmV2hHckVmSng3bG9qLXlUVHlmZjJ6clNmRlp5a3RpWHlmUFdzU2hDYndGcVJWZ1dsU0kxSFFmQUZqTHltNVVBa19PV2pVOG1MdEFFNDljM25UazZuRGkyZw",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnVnNTQydm5TR1RmWGZRT0otal9temdIYWw0eUgzczEyUEIxTlFXSzNSMjM3WDdKM215SDl6T2N2RGQyQWd3cXUtMHVPVXJtQ1gyYXV5Zzh0QnJCSzIzM1p4MXhzV1VYN1dCQ0dNV2l0SkFyZEdyNjF2WGZZZzZUZGt5S09FZDRaSVJFWnNPT04yamk5R2pQZWM1Y3lLcUhINHR4OHMxZkFpekhoT044eQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3lNQXgza2NxWkZDdzRXUTVFV2htZkhSUHpQSDhSeFVKbUN2SENUQWNQRENLV1BVTUpEMW5wMHBTVFZwWDUxbHRwSWhoMG1ocWM2NG1XZ3g3c1V2eEhqM1JvWXE5VDktT2VKaFZYalFkUmRiTE15X3ZJRDYtanBTTTM4T3BvR3c3M1NCVEFCRTlQd3dfU21NTUdDV1BJTVI4c2pWSjRFdVJ4ZWV0cDBzTQ",
@@ -147,36 +146,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "Ізраїль замовив 12 ударних гелікоптерів AH-64E Apache",
-      "original_title": "Ізраїль замовив 12 ударних гелікоптерів Apache",
-      "summary": "Ізраїль придбає 12 гелікоптерів AH-64E Apache за близько $280 млн. Модифікація оснащена двигунами T700-GE-701D потужністю понад 1990 к.с. кожен, оновленою авіонікою та можливістю керувати БПЛА з кабіни. Постачання розпочнеться на початку 2030-х для оновлення парку з 40–48 наявних AH-64A/D.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/izrayil-zamovyv-12-gelikopteriv-apache",
-      "published": "2026-10-15T20:44:51+00:00"
-    },
-    {
-      "title": "Армія планує додати третю систему CAML, заявляє Лозано",
-      "original_title": "Army looks to add third CAML system, Lozano says",
-      "summary": "Служба планує випустити запит на інформацію найближчим часом для розширення систем CAML. Ранні відборів для варіанту CAML-light очікуються у березні-квітні за словами Lt. Gen. Frank Lozano. Це може посилити можливості артилерійських підрозділів.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
-      "published": "2026-10-15T20:54:22+00:00"
-    },
-    {
-      "title": "США посилюють нагляд за релігійними фінансами Ірану",
-      "original_title": "US alert puts Iran’s overseas religious finance networks under scrutiny - Iran International",
-      "summary": "Мінфін США видав попередження щодо закордонних релігійних фінансових мереж Ірану. Це ставить їх під пильну увагу через можливі ризики. Наслідком може стати посилення контролю за фінансовими потоками та санкційним режимом.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hMk1HOENNUXhMSVNrcmVVdkFXT0hUeU9HLWxDamQ3bEZUM1Y4cGk2ZDhGOFJLb1pLSlRva3ctRlN6Ny1XcV9MNDFZREhuRkY1Tnc",
-      "published": "2026-10-15T21:20:16+00:00"
-    },
     {
       "title": "US sanctions Cuban State Bank over Iranian ties",
       "original_title": "US Sanctions Cuban State Bank Over Alleged Ties to Iranian Lender - The Well News",
@@ -1228,6 +1197,16 @@
       "published": "2026-10-16T20:14:13+00:00"
     },
     {
+      "title": "Заступник міністра закордонних справ Японії зустрівся з послами Тунісу та Алжиру",
+      "original_title": "Vice-Foreign Minister Ozora Meets Ambassadors of Tunisia and Algeria - アラブニュース",
+      "summary": "Заступник міністра закордонних справ Японії Озора провів офіційні зустрічі з послами Тунісу та Алжиру. Ця дипломатична взаємодія зафіксована у прес-релізі міністерства. Деталі обговорених питань або конкретні результати переговорів у наданому тексті не розкриваються, тому подія фіксується лише як факт проведення двосторонніх консультацій.",
+      "source": "Treaties & Agreements",
+      "publisher": "アラブニュース",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE",
+      "published": "2026-10-16T20:22:31+00:00"
+    },
+    {
       "title": "Франція відкрила школу операторів ЗРК SAMP/T NG для Данії та України",
       "original_title": "Франція створила міжнародну школу операторів ЗРК SAMP/T NG",
       "summary": "Школа готуватиме операторів SAMP/T NG з ракетами Aster 30 Block 1 NT, що уражають цілі на висоті до 25 км у радіусі 150 км та перехоплюють балістичні ракети до 1500 км. Комплекс оснащено радарами Ground Fire 300 та Kronos Grand Mobile High Power. Це прискорить розгортання систем в Україні та Європі на тлі черги на американські аналоги.",
@@ -1596,6 +1575,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/starlink-obmezhyv-perehoplennya-geran",
       "published": "2026-10-17T14:14:03+00:00"
+    },
+    {
+      "title": "Президент Швейцарії розпочав офіційний візит до В'єтнаму",
+      "original_title": "Swiss president begins Vietnam visit - Anadolu Ajansı",
+      "summary": "Президент Швейцарії розпочав офіційний візит до В'єтнаму. Ця подія є формальним дипломатичним кроком, що підтверджує початок двосторонніх зустрічей між лідерами двох держав. Текст джерела містить лише факт розпочатого візиту без деталей щодо конкретних угод чи заяв.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0gwX19ueXVGQmdrSGd4S2pKNnMxaDFUekVkcHd6U0NXUTJhRXdDaTRNSDJhOWtuUEMzSGF5RXczSVBHYk5QTVQzbjV0T0ZnaS1jNVZVZExaYVgtQm16dFIzV3l6RjJzRjJZTmx5U056OGhkSGFQUUpIOFByaVY1LWxmcU1FcUpwMWFz",
+      "published": "2026-10-17T14:41:40+00:00"
     }
   ]
 }

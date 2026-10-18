@@ -40,7 +40,11 @@ FEEDS = [
     ("https://defence-ua.com/rss.xml", "defence-ua.com", False),
     ("https://breakingdefense.com/feed/", "Breaking Defense", True),
 
-    # Нові джерела Google Alerts із кастомними назвами для Telegram
+    # Активні англомовні джерела: новини оборонної промисловості, озброєнь і військових технологій
+    ("https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "Defense News", True),
+    ("https://www.twz.com/feed", "The War Zone", True),
+
+    # Джерела Google Alerts із кастомними назвами для Telegram
     ("https://www.google.com/alerts/feeds/12089626364797798521/7402252502089930204", "Western Defense Industry", True),
     ("https://www.google.com/alerts/feeds/12089626364797798521/17810137244338497811", "Global MilTech", True),
 ]

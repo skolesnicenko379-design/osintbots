@@ -458,7 +458,8 @@ def main():
         candidate_counts[item["source"]] = candidate_counts.get(item["source"], 0) + 1
     print(f"[FILTER] unseen_candidates={len(candidates)}; skipped={skipped}; by_source={candidate_counts}")
 
-    if len(candidates) > MAX_AI_CANDIDATES_PER_RUN:
+    candidate_count_before_cap = len(candidates)
+    if candidate_count_before_cap > MAX_AI_CANDIDATES_PER_RUN:
         # Резервуємо до двох місць для Google Alerts: по одному на кожну стрічку.
         # Решту місць заповнюємо найсвіжішими новинами з усіх джерел.
         alerts_sources = {"Western Defense Industry", "Global MilTech"}
@@ -476,7 +477,7 @@ def main():
         selected_counts = {}
         for item in candidates:
             selected_counts[item["source"]] = selected_counts.get(item["source"], 0) + 1
-        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={selected_counts}; excluded_by_cap={len(entries) - len(candidates)}")
+        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={selected_counts}; excluded_by_cap={candidate_count_before_cap - len(candidates)}")
 
     # Завантажуємо обрані статті паралельно, але виклики Groq залишаємо послідовними.
     stage_started = time.monotonic()

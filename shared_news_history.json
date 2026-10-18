@@ -2,7 +2,9 @@
   "links": [
     "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+    "https://middleeasteye.net/live-blog/live-blog-update/egyptian-saudi-foreign-ministers-discuss-regional-de-escalation",
     "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
+    "https://middleeasteye.net/live-blog/live-blog-update/eu-strongly-condemns-settler-attack-delegation-west-bank",
     "https://middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
     "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
@@ -54,7 +56,6 @@
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQWk2eGw0M1BQdjY1czFZUmo0LUhETTl1dFE5Z25WenVxbEhWanpILXZkM0tfTlIyYlJ3c2YyZmN4LTlCMFZoRUVsLXdGZjQ2UHRkMlRQanBBNkJ2",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cGlQOC03Y3dHZk8wNWNTRm96VHhTZWgzQ1Y0c3FqVmZ5Zmk2MmlWelh6VnQ5UDRxc3pvQjBiQmEyNElxTTUwWEJ1S0duS1BscDFNd0NoNldTTWhV",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZdGprMmZrUEJJVXY2dE1JYkpwQkxzUzVlN3dWNGxZQS1tS2p0OEFpLU9LRmhYT3VXRXRpcGVRdUtQZGdTckNaeldfQmZwajdLSlBEb2ZPMVg1aUtZcG1FaXptb1Bza1VxSlF3",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVG5TWTZrUGY2ZEZOYVlOMDRmZmlCbTg0V09aT2RRNGZUOFppbnJ3TXZOb1pBZ3RQVFBqeFB6VE42Wl84c1FQdHhoNnEzbEtpNmkxWWhEVDEweFduRW12dEFBaXl1ZjRrUkNNRzVUX21jTmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kVE5ZRXdIWEZQRUlZaEJaQWhjRGZJN2N5UGhGWGFVY0QzMHNwSHM1NmVfdVVvbGhzY2FtM3FjMnZwd1FDR3dRMEdrMGIzdE5BUlJTQkVkOTlldWJtOGNwVzFBZndPWGNSTlFqOXlQMXFTTEE1bmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCQ0txSjNUTlhwUDBEazVmaUR6LTduNG44cXBGX3hJQUJSWFBsQm1JMFEwSFppNjJNaXMxRjk3c21DbUcxeDBfYk1qUFk0T0tsdUZhTHFvZ0wxOTJqWFdEYVpjdnNtUHdLZGw2Yl9KWXB1MmZwX3c",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTFZlRFdGQUdveWJPaXVfSVNSeXpzRmtzSThxbUJXdWRrS3N2Ti1ibl9fMTM5ZUNFUXhNTVdOdzZxMGhRRk0ta1lNdUM1ak9wMnZVckF0MFUxWlBuV0c3NE55THBVcVJ2Ym5OeFQ0RXFFZmx2M1E",
@@ -116,16 +117,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Голова Банку Японії: економіка в межах прогнозу",
-      "original_title": "Japan economy broadly in line with outlook since Sept. meeting: BOJ chief - 毎日新聞",
-      "summary": "Голова Банку Японії заявив, що економіка країни загалом відповідає прогнозам з вересня. Оцінка стосується періоду після останньої зустрічі. Це може вплинути на очікування щодо монетарної політики центрального банку.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVG5TWTZrUGY2ZEZOYVlOMDRmZmlCbTg0V09aT2RRNGZUOFppbnJ3TXZOb1pBZ3RQVFBqeFB6VE42Wl84c1FQdHhoNnEzbEtpNmkxWWhEVDEweFduRW12dEFBaXl1ZjRrUkNNRzVUX21jTmc",
-      "published": "2026-10-17T01:32:06+00:00"
-    },
     {
       "title": "OPEC: попит на нафту різко зросте у 2027",
       "original_title": "Global oil demand to rise sharply in 2027, led by India, non-OECD Asia: OPEC - www.indiagazette.com",
@@ -1255,6 +1246,26 @@
       "channel": "miltech",
       "link": "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges",
       "published": "2026-10-18T18:31:41+00:00"
+    },
+    {
+      "title": "Міністри закордонних справ Єгипту та Саудівської Аравії обговорили деескалацію",
+      "original_title": "Egyptian, Saudi foreign ministers discuss regional de-escalation",
+      "summary": "Єгипетський міністр закордонних справ Бадр Абдельатті провів телефонну розмову зі своїм саудівським колегою, принцом Фейсалом бін Фарханом Аль Саудом. Під час контакту сторони обговорили регіональні події та важливість деескалації. Ця зустріч відбулася на тлі того, що парламент Єгипту раніше відклав голосування щодо надання військової підтримки Саудівській Аравії.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/egyptian-saudi-foreign-ministers-discuss-regional-de-escalation",
+      "published": "2026-10-18T18:39:32+00:00"
+    },
+    {
+      "title": "ЄС суворо засудив напад ізраїльських переселенців на делегацію",
+      "original_title": "EU 'strongly condemns' settler attack on delegation in West Bank",
+      "summary": "Європейський Союз суворо засудив напад ізраїльських переселенців на делегацію європейських дипломатів у Західному березі. У комуніці було закликано до повної відповідальності та заходів щодо запобігання насильству проти палестинців і журналістів. ЄС закликав Ізраїль дотримуватися міжнародного гуманітарного права.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/eu-strongly-condemns-settler-attack-delegation-west-bank",
+      "published": "2026-10-18T19:29:44+00:00"
     }
   ]
 }

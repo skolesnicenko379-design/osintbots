@@ -42,12 +42,11 @@
     "https://militarnyi.com/uk/news/ukrayinska-prokuratura-ogolosyla-pidozru-kolyshnomu-kapitanu-zsu-yakyj-stav-general-majorom-rf",
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
     "https://militarnyi.com/uk/news/zenitnyky-115-yi-vdruge-my-28nm",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNG9IRU9OQlcyTDhSYmY5NGFLM0c4Z3cwdFV3M3g1TmoyU0ROcTVocTFvSmZBYjczTzhsbE80NlNKUlNxbWp6TjlOZ3FaWEJ2THhJb1dRUjBHVTJRZlFJSEJrUjRDRFFKVkxIQWVXQzJoWnNJNUJmbk5aMEU3MVpZT2ZhUmxOTE5TeGtNUVNrM05DUGFvXzJTRkNrTElTWEVHeC01Skp6MFJhMGxOTVg1WUlFaUpGQWVBS09OYnFPZHFsb3A3aWN4WDNVVzBHMnpkRTM4Z1pmWEgxRG9CR1hlRFlIWUxabjI0QUNJb2hWc0IzXzR6Y2RUatIB_gFBVV95cUxOOFlNc1dNYXRlY2ZFU1R2S256UDZXRGsxdldtV1hETDdvend3Nzd3MVNqcC1HNVBQZnluSEVoU2UtWnRTVUs0eDRvbEwxYXVRSGtfSEFfNkkxSVRhTUFRaG53MTdmblcyTW9DdDQ2UlpkR2o3ZmhxaExINDlhWHFhT2RBQWl5TUNnVkZ1UXJWTk5hWjF0NDNJLUNIQjNxTll4Z2lXSnFucnpJSWh6ZkQ4dWVfNXFkSW1rRFhLNk93LW9tbi1PYmdqbG45U1Bld0UxNXNQd1V2c1JsWlNNUXlJVWJQMXY4RDNlY0FDcl95aHNSWmkyUnRCYjlXazQ0QQ",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGg5MGxqdFdDR2MyTGRfcXdUNE1ULUxxZTk2bFZDX2dLZmdXTnNKY3VHdTU0T1g3TVUwSWYyUjZGUHBiQ1ZVS1h6SHhmSFVpbFVtQ0EzYTZfMEFEU1RqVXlRcmVHZ1k1d1c5b3ZEYV9qbkh6Y2loaTFpUWVES2dsbXpuNnNUNER0cWhhWUN2LXJrY21UdkstY3RObjFzQ3RpS0l6bGFLRXpQbllpY0cyM0lVTUVSVTBBMy1qQ1BGeERIUkJOVzFqYWprWXBhTmE10gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZk51djRDcnJMV05IODNnbjNWeDFvNWl2U0dNRjU4WG5tcjg5NFdQZFE4ZWNoaEhXcldwZlRFcFJJRGRSUlRFRGJWNmNKNVpKWmNiNEd6M2JDSUxNbUNCT01mTm9pQ0lxN0ZJcWRzYnhEU1Vlc1l5Yy1iazVVckQ1V3BrdE5oSl9GdEN1aF9CbGJIMmd5bklWTzc3V0MyRjlzZmhnVmVhLXpEbGxRN19aVzJfUldFTjhJZFY2OTBBOUNERW1NbDhXRDQtOGN5STVVdGc",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnNpaUd3SnhZWGZWZ0FpMTVQY0VYb2o1RThxQW5Yb0xzYXRFZEVSMjVxelRyRTlhRUR2dzhYa0xweE1YaHlJVVB4UEpMT19SSVVRMGVpUEtpTHBHaWhCZGNGMk51dmNXUEl4WWxwQ3p2SmdOb3Y5aUMxTEg5VGoxMkZieWRtVzFwSVJ2ZjFteTJLMVhkcnM3emVVWEFwVG9qQTdQTmxab3lFeVlmTUg3Y2JkY1JDX0h0MEZWUzdGUkdodGhOblRGbTFzMDlEbnowc0wxUQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2szazhaQlZ2UFR0TEh1b25xa1ZvRExXUlZpNTkxbXNGZnhxZE9MREdKeGFuMEVTdVVOWTB4Zkh1c2lxUnJQdHlMVk82TzdzUkxPMTBFUDhJQmEzdnl6WE1OZG5ZVkp1TUlscUR5b3ZBWWZZaV8tZ2IwM0ZIVEZnRmxXU1BzN3Q5SWJpc2lWdGItWnU5ZHN0YlVNM3hzcVU2aUxOeGtBVVpvQ2hrU01hSWtxWTNERlpSdkhuaU9WUS1TbEZJZ2dQVzRVeWZab2h4dHFVaQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkNFNTM5NjZEcmk1OWdzZVMyTkdVZW9RT1VxNFl5SVo1aGl1TUNqUXVKUjFJUjEtTUhsRGpPQ1ZySU9KaVN1WGdURW95ZkQ5c2w3MFFPSF9MdDlvcDBwd3lrcnM5c0dZdGNyLTk3eTF5T09QemdWcU1FVG03TVoyblFqcTFmMGNManhpTkxfZXllMHJ2dzRfZldMVC1pNENfRTZmSUJoMlNwRms0S0pqYVZlNUVYd2ViU1dUMmtSa3cyM29ycEM1QVg3cmRpcVVKdkk1aElB",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlBwd2pUOWJrZGcyR1ZSa0NqQnJzUmotYXJQUlMySkNPUWp1OEkzOEdnZUJXTGoyNzFmUVhxZ2N1OXkyUGNscUFFSEhJM1ZkQVVDek1VQ2U3WS1RVVI2dGVoWXh5RFhyLVZNM1dyWXNxc3N5YlZmVlM1UXdoaFFYR0xxZnNWcGZXb051T0tqZnlXRkcySE8tOFNUME1Zbk9WZUdMNHNWZDFJbjllb1RRZG1VOTNxcGlHd0NvcWl0LTI2UDJkX2ZOQ2l4d0ZxZ1FFSXd1UE16UGdud0ZtN2xqb29GeFFrc2ZyZllxZg",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMlY1eC1TSEFrTW5vWTl6T3FHaVNEamdtMHJpQ2RVSTRBbGw2MW1SNFFHd0ZZQWRPbnB4cEtOYUF2T1BMd1FGSzF2R1U2cHlkd3J5VTZHUHdwWmxEZkl6S2poRzctdUVyNGNNYW1CZDhValRuWVRpVEhuZzJqVzA2X1RySnA1b3RrbjdBODB6dDNvZElNcGJHd194c0ZuN0pSRXN3NEQybkdINE5ES050ZWhmeGxKR1ZTQ2FCRl9ndnRPV2hhU09wQkt3bkZCVEJ4RFFzLWtDRXRiOWJDNFNCZHA4WlBQcGpjTlBsOVVYM05rSURQenBj",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaVJ1Q3MxVjc2V2lYNktFX3c5YVFWZ0lLbVpZU1ZQcENIZXRJel9FMzVGcFJmcTI5cDJkcWFIU3doZkdFbE4w",
@@ -57,14 +56,12 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUC13QUYwQzVkVnVkLVMyQ29QaEhhdFdXbmJMOGxhWnFjdTBXblgxbFhGQTl1a2E4YVNvaTJjS093SnBpNUtOZTVJVGRvRFdyTHfSAVdBVV95cUxNWVpfMDZBNHBtSDJlU3VoMnlPcTlSa1BvakJ5RWtUQlpqLV9yVktBUzJhaDY4Vld6ZHZtRXdJTVVMYW15dmx5dnhTSHYwQnRvaC1waW9EdjQ",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvMTRHZjFnZG9LT190Y2xBbW1mMmo5UDlJQWs0bGZCanM2R3Q2Vm9iUEdOeUNOWXN4c0wtY1JzZzVycm9rekQ1ZWZVRjJmNG51NXfSAVdBVV95cUxQRW5aa251c3YwZnlaZWkyZFpWc2hXenF2U1JsTDluMWtmM1c4cHRCSGFWUHRya0xBNUZqaDJBcGxrWnFtbmtaMWllZ2lZc3U0b1FHY2wzVms",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50VVJ5cUxzd0ZCM0dISnpXTGM2ckZLLUxqbHJaWGhoZ1BscEpTMEY0dTdxMVJqeUVUaFhBT0JYX3lFQ0UtZ1dsLWNJSGlpYmphTXZhMA",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tckxtb3Rlc2RIQkVtNEVUV0FJeGR6a0p3X3FlSGFXTlI1UXlobXNNcXFKcmZ3SWlpVkpTTkhTdW50REdYTnQwbzA2Uy1RSUE0QXNYVA",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUWt5NlRqRmVJNzI2emExZnQxUVJ5S0tlWUJwbzJISU1fRFBpSEoxQlpVbXhYZDNmN2ZtTFN3Nk1ULVhBU0ppallLTU4yb0VUMnB3d0syb2F0Zw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94X0RrNjUwZ3J4NTZYbFItYVdzT3VVRWRkTzE5bk9SVWVfRC03T0E1X1ZOZVpoUjZMS0JfZTcyZ2FjcVE4dWtXM2RiZU9JVDdNdmtxamNOT2RkQQ",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93REd5bHVnOXJFQXI3cFBsMjhUc2dCM3JmSnYyUWVmc0cydV9OZC10MFBleDd0TGZiMTJ6WGpKWVhUNjUxNHBuWURyRTRoSlZsem43SEZ2RTVwZzlm",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZdGprMmZrUEJJVXY2dE1JYkpwQkxzUzVlN3dWNGxZQS1tS2p0OEFpLU9LRmhYT3VXRXRpcGVRdUtQZGdTckNaeldfQmZwajdLSlBEb2ZPMVg1aUtZcG1FaXptb1Bza1VxSlF3",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVG5TWTZrUGY2ZEZOYVlOMDRmZmlCbTg0V09aT2RRNGZUOFppbnJ3TXZOb1pBZ3RQVFBqeFB6VE42Wl84c1FQdHhoNnEzbEtpNmkxWWhEVDEweFduRW12dEFBaXl1ZjRrUkNNRzVUX21jTmc",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YdXJFT1p4SXBudnp2dHNvQWZkempla3AyMHNTa3U1dUp0dUdVcFhyaW9waFJ1Q2lWOHJibGNSS0hoRjlRS1FoWEUwQ254c0VYdm9xOXNpNTBVV2lPdzhzdlhHenkydU1LeXA5VFdTWm5YMHNHV0E",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ndW5aME9PUXBiZkxSOV9jOHJpeVRZYjV2ZjFPUkx1RGxpVkVGYWxTX1RxQ0FvbGlxb3V0M0MyektzcFprblVjVUhLbXpMUDQ3bUYtZmw4WC1EbTVWSmo4Q2o4QjJiQXc2WUw4NzM1eHBVc1BESHVuZnJn",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VHp4YUE3Y1BzT1FsWHM4ZU12a0pwTlNOT2haRGVPSzlzZXB6Y0lqT1YyNHRlNWV5dEZ6RGhZa0t4eVpSQW96NlR2TkMwSXlvMkZ2X2xLYUhPSVdoNjZrNTBqa2NMUnQzSUo2TzU2azh3VFhRUzMtZVdWUjY1Tk0",
@@ -81,14 +78,11 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTRuNnNUUkdLNnBuVk9RQTBiS25xcTVBVVpjeFpTaDFUWjJuWFl4QjBkUnp0YkozM3ZXUXRfQ1RSTW1kU2h0OXZiU0M2MHJUQWZBdDNnWVU1am1yb1UxRWlpYWlpN1Y5VUFwd1oxUjF0UlFMeEt3SUx4UURpb1ZpYXY1c0lkYThrLUZtVlpUSWnSAZYBQVVfeXFMUEQwcFlXdjlTV3lqejM2WFFIQ25UWlhUM1FQNjIzTGtGV2ZQaElPZ2Izd0gwR2lLZ1pSdTZhWDVXMTg4d0V6RGxZdnZSak9walllOHRDOFlUT2pYSUJrdjc0NFYyekpfdjVIQUpVaDZjRGpJMlVwLXFHdFhnYzN5b2g3cWpZNkl5Ty11U29pbHllLUNLVjdR",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxObXRBclhhcm1OSzQ3SGF0cjNzdmdNZTE1eTJ0V2pKMEtraEZYQWh0SWtyS3ZrcnRlU0E3S3pLX25vVVhEV0JCbnhvSTJCNWlacDNzQVdGOU14UHNfb1pDUzRTc3N6aGxEam8yNzQweFFlN1ZGaGxwUWFVT3oycF9FNlpGdkVBWjllUlJBelJmSHc",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWRfS04yMFY3c3J5S2dOOTlfQUowZm1LSmFVdk9hdDQtTDlodVFxWVZGYWNDSFZQSGJJTEhNMnhLQmZFb29jc0ZON1lFT0p2dDZnQ1prNGF2WDMyVFlnTnBJMEdCWWJGREh5Rm40TWxfNjJGZHE3LVVpdFFvSm00aHBhaG9ZN2Z1b1NYcUJXUldaZw",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVVfZ21HUWtJSFpFcS1hZ2p6SW12ZGs5R3Jwd3ctVy1OMXotWXRMM3RscHlWa3g0MHhkSHJXT2lQUWFsZUZkb1NWMFJJVUhvbVRtLUhkUjExdkpPR3RsT2FZU180X05DTG02Y0tMVW44WVlweTYtRXE4RkxLLWVpQy1NRHRxT1NndEEtTGdOQkwxdw",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmpDUmRUekd1Y01reWhMNHlVQlpoV3Vrdm1GcHhhbVM3OU9ZTXlKOTFQaWpGWnBjd1dVYVZub0JZT0tFTHUyZ3JwQjJYUWxUVEszZEFWRDNudlo3SWlBR3VHY2s2NDFrQXR1WVdFeGlFUjR5aEZ6T2x4N2R3dTc0R0JKUVB0ZHdhTnJhUnctRW5qS0oy",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQURiZ3hVR2VxVk8wTXNtZGd0V3h6MC1Vd3lqRWpHamRaTDh6MTh1OWlKR1hfM0FNUlp2LXNUb2UyMWlLSi1YRFNHSkFPbTlvUU50WFdrVGFnSDNCYXVVU3BRZG1wTVhVU3dqM01PVEZjQUFpd2F5S3NWUWdINnZwME9IRWtKYklLVWJFUGF0NmwzN1JrODgtMQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDZ2MVpQMVRaN2h4M3VkSnZrUm9icS1EbEVrbDd4bk1lZ1FRZk1saklxUnlyZm5sWHdFSjQ0UDZwWlJWTUdxaUlQdDVHRTRkcHBpXzZlTTlBSmdfbFdVZFVVRVptZnlpMGVmcmlTUEhXdTJudHZQdXl2em8yVm11bENUWFA1YzhscFB0cHFaQ2k0Q20wbzI2T25uRQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTVXSUJXTzl3QmRBSGhXWjA3SEVydUhWc2JOcGhaZWIzTDlUUVF0VUVUMkp5aDAyMmVuVTE0U3pNU2oxUDJ6cVNzVTI5OWVXYUxPdEp1VEtSWDBDaHNjb1c0MVRDZ2liZEk0M0NCNk9Vb3hpU2lOSVdhc3RyWEhpRGNHVDF3dUNrYkR6Xy03T2phU0xodEs2Zjd0OA",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVdURV9tZ0hiamF1WTh5bXN1UExQUHNYTldJUm5ibVB1NVJ0UElYYl91MmxyZkVsd0hiYVYySjdCTlp1WFp4OV9aNXV3VTRVVlEwd0lEOF9QSVVFODlDZG1lY2NfeUNLbmRRdlgxZlpQT2hVZ0VJdHR4MWpKVXAzTjlsQkdjeVJ6bGg0TTlCem1rUTRCX0tObTdCZmM",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0Nwa3hqbTlTZFBBTXE0eDFFSzByWC1NTk5MdlpWNFRQeWxEbFF1czFYbkdVcERkMnE5SVIyckZIM3pEakIzdDdCcHl4Qm0wNDZTck5PV1VPZFcxb1RnWWdTYTRsbEgwWEtNODBYenJJV3hzUkVZbHNOWjJOeV9faUNNcWl2eFNuQmN0a3V0VkFzWXBueWJDRFVPV1Zmdw",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxObHQ0OHJlSm53NkljT0d6OWJzOGRjRHA1amJTNnBLOGxWYUplZWM1d0s4emRUS2owV2ZrM2pfM1FzR3Z3Sy1mTzBoS05rQVRnbmRteXMyNko4b0ZtNTJRU3o1VzQ0X2NHejk0Y0k0NzNicUhoVHU0alI1RnNKUnNYdzV1LTdDUmtRZGFLcnVDNENydG84NDhBOFFfWFhIZw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEljMG41aTVYSEVJZEwyWnZKcTI4ZGh1ZHhSTzBXeEljQVB3MzUtMnhTODNWN0dBTnVxV0c1cjZZY0xNV2xoVGV6TFpzckFIajJKZWVtOXZ5Z1NpajlzQWYyc0JnZG9LR1RndG1KcTZhYnlWM0tHUmlBeVV5OFJMbl8xTFdvYkt1Q3N2Y0o2UDRrTk9zSUd2M1o4dG8zUdIBngFBVV95cUxQRDhtX21aWlc2Y2pOWW90cmpNRkdGZVgwdnRVWkZEd182eDNuMi1iX3NSSGdOdmV2ZjJndWlyYmhuaS00MERjaUlPelUyVnlJMW9uOFRlU1VJbmhneEZaTkVEOXVYbHVMWVEwTC11ZTdpa2NOdTdCbEhHdjl3NWQtLWVxN2R5dndYTi1oRWJtT1ZzODZ0Mms5ZTIxTldWZw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc",
@@ -136,76 +130,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "Дебати про інфляцію фокусують увагу на темпах BOJ",
-      "original_title": "Global inflation debate puts BOJ rate-hike pace in spotlight - Yahoo Finance",
-      "summary": "Глобальні дебати щодо інфляції привертають увагу до темпів підвищення ставок Банку Японії. Це ставить під приціл поточну монетарну політику BOJ. Наслідком може стати зміна очікувань ринку щодо майбутніх рішень банку та вплив на валютні курси.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHQ0OHJlSm53NkljT0d6OWJzOGRjRHA1amJTNnBLOGxWYUplZWM1d0s4emRUS2owV2ZrM2pfM1FzR3Z3Sy1mTzBoS05rQVRnbmRteXMyNko4b0ZtNTJRU3o1VzQ0X2NHejk0Y0k0NzNicUhoVHU0alI1RnNKUnNYdzV1LTdDUmtRZGFLcnVDNENydG84NDhBOFFfWFhIZw",
-      "published": "2026-10-16T08:43:49+00:00"
-    },
-    {
-      "title": "Пакистан та Китай підписали 34 меморандуми на конференції в Шанхаї",
-      "original_title": "34 MoUs signed in various sectors at Shanghai Conference: Sharjeel Memon - https://cpecinfo.com/",
-      "summary": "Пакистанський міністр закордонних справ Шарджіл Мемон повідомив про підписання 34 меморандумів про розуміння в різних секторах під час конференції в Шанхаї. Ці угоди були укладені між пакистанськими та китайськими представниками. Подія зафіксована офіційним заявою міністра, що свідчить про поглиблення двосторонньої співпраці в рамках ініціатив, пов'язаних із CPEC.",
-      "source": "Treaties & Agreements",
-      "publisher": "https://cpecinfo.com/",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQURiZ3hVR2VxVk8wTXNtZGd0V3h6MC1Vd3lqRWpHamRaTDh6MTh1OWlKR1hfM0FNUlp2LXNUb2UyMWlLSi1YRFNHSkFPbTlvUU50WFdrVGFnSDNCYXVVU3BRZG1wTVhVU3dqM01PVEZjQUFpd2F5S3NWUWdINnZwME9IRWtKYklLVWJFUGF0NmwzN1JrODgtMQ",
-      "published": "2026-10-16T08:54:29+00:00"
-    },
-    {
-      "title": "PBOC оголосить три заходи для обігу юаня",
-      "original_title": "PBOC Deputy Governor Tao Ling: Three Major Measures to Smooth the International Circulation of the RMB - BigGo Finance",
-      "summary": "Заступник голови PBOC Тао Лінг заявив про три основні заходи для полегшення міжнародного обігу RMB. Це сприятиме smoother circulation юаня на глобальних ринках. Макрофінансовий наслідок полягає в посиленні позицій китайської валюти в міжнародних транзакціях без додаткових цифр у заяві.",
-      "source": "Центробанк Китаю",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YdXJFT1p4SXBudnp2dHNvQWZkempla3AyMHNTa3U1dUp0dUdVcFhyaW9waFJ1Q2lWOHJibGNSS0hoRjlRS1FoWEUwQ254c0VYdm9xOXNpNTBVV2lPdzhzdlhHenkydU1LeXA5VFdTWm5YMHNHV0E",
-      "published": "2026-10-16T08:56:00+00:00"
-    },
-    {
-      "title": "Голова Банку Японії не виключає підвищення ставок",
-      "original_title": "The Governor of the Bank of Japan opens the door to raising interest rates again - المتداول العربي",
-      "summary": "Голова Банку Японії заявив про можливість повторного підвищення процентних ставок. Заява базується на поточних економічних даних без нових цифр. Це може вплинути на монетарну політику та ринкові очікування.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnNpaUd3SnhZWGZWZ0FpMTVQY0VYb2o1RThxQW5Yb0xzYXRFZEVSMjVxelRyRTlhRUR2dzhYa0xweE1YaHlJVVB4UEpMT19SSVVRMGVpUEtpTHBHaWhCZGNGMk51dmNXUEl4WWxwQ3p2SmdOb3Y5aUMxTEg5VGoxMkZieWRtVzFwSVJ2ZjFteTJLMVhkcnM3emVVWEFwVG9qQTdQTmxab3lFeVlmTUg3Y2JkY1JDX0h0MEZWUzdGUkdodGhOblRGbTFzMDlEbnowc0wxUQ",
-      "published": "2026-10-16T09:00:38+00:00"
-    },
-    {
-      "title": "Індія та Канада прагнуть укласти угоду на $50 млрд",
-      "original_title": "The $50-billion question: Who gets what as India and Canada aim to strike a trade deal? - The Economic Times",
-      "summary": "Індія та Канада націлені на торговельну угоду. Стаття акцентує питання розподілу вигод від угоди на суму 50 мільярдів доларів. Це може вплинути на торговельний баланс та макрофінансові відносини між країнами.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNG9IRU9OQlcyTDhSYmY5NGFLM0c4Z3cwdFV3M3g1TmoyU0ROcTVocTFvSmZBYjczTzhsbE80NlNKUlNxbWp6TjlOZ3FaWEJ2THhJb1dRUjBHVTJRZlFJSEJrUjRDRFFKVkxIQWVXQzJoWnNJNUJmbk5aMEU3MVpZT2ZhUmxOTE5TeGtNUVNrM05DUGFvXzJTRkNrTElTWEVHeC01Skp6MFJhMGxOTVg1WUlFaUpGQWVBS09OYnFPZHFsb3A3aWN4WDNVVzBHMnpkRTM4Z1pmWEgxRG9CR1hlRFlIWUxabjI0QUNJb2hWc0IzXzR6Y2RUatIB_gFBVV95cUxOOFlNc1dNYXRlY2ZFU1R2S256UDZXRGsxdldtV1hETDdvend3Nzd3MVNqcC1HNVBQZnluSEVoU2UtWnRTVUs0eDRvbEwxYXVRSGtfSEFfNkkxSVRhTUFRaG53MTdmblcyTW9DdDQ2UlpkR2o3ZmhxaExINDlhWHFhT2RBQWl5TUNnVkZ1UXJWTk5hWjF0NDNJLUNIQjNxTll4Z2lXSnFucnpJSWh6ZkQ4dWVfNXFkSW1rRFhLNk93LW9tbi1PYmdqbG45U1Bld0UxNXNQd1V2c1JsWlNNUXlJVWJQMXY4RDNlY0FDcl95aHNSWmkyUnRCYjlXazQ0QQ",
-      "published": "2026-10-16T09:19:40+00:00"
-    },
-    {
-      "title": "Лавров анонсував візит до Тегерана на 19 жовтня",
-      "original_title": "Russian Foreign Minister Sergey Lavrov to Visit Tehran on October 19 - WANA News Agency",
-      "summary": "Міністр закордонних справ Росії Сергій Лавров офіційно анонсував свій візит до Тегерана, який заплановано на 19 жовтня. Ця інформація надійшла від іранського агентства WANA News Agency. Матеріал фіксує конкретну дипломатичну подію та її дату, не містить оцінок чи прогнозів.",
-      "source": "Bilateral Meetings",
-      "publisher": "WANA News Agency",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVVfZ21HUWtJSFpFcS1hZ2p6SW12ZGs5R3Jwd3ctVy1OMXotWXRMM3RscHlWa3g0MHhkSHJXT2lQUWFsZUZkb1NWMFJJVUhvbVRtLUhkUjExdkpPR3RsT2FZU180X05DTG02Y0tMVW44WVlweTYtRXE4RkxLLWVpQy1NRHRxT1NndEEtTGdOQkwxdw",
-      "published": "2026-10-16T09:29:35+00:00"
-    },
-    {
-      "title": "Тайвань приєднається до обмежень США на чіпи для Китаю",
-      "original_title": "Taiwan to Join US China Chip Curbs, Seek Criminal Penalties for AI Chip Smuggling - bloomingbit",
-      "summary": "Тайвань планує приєднатися до обмежень США щодо експорту чіпів до Китаю. Країна має намір запровадити кримінальні покарання за контрабанду AI-чіпів. Це посилить контроль над технологіями штучного інтелекту. Наслідком стане посилення санкційного режиму в напівпровідниковій галузі.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50VVJ5cUxzd0ZCM0dISnpXTGM2ckZLLUxqbHJaWGhoZ1BscEpTMEY0dTdxMVJqeUVUaFhBT0JYX3lFQ0UtZ1dsLWNJSGlpYmphTXZhMA",
-      "published": "2026-10-16T09:31:40+00:00"
-    },
     {
       "title": "Ван І зустрівся з турецьким міністром закордонних справ Фіданом",
       "original_title": "Wang Yi Meets Turkish Foreign Minister Hakan Fidan_Ministry of Foreign Affairs of the People's Republic of China - 中华人民共和国外交部",
@@ -1475,6 +1399,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw",
       "published": "2026-10-18T00:17:47+00:00"
+    },
+    {
+      "title": "Індейський саміт запрошує колумбійського президента до діалогу",
+      "original_title": "Indigenous Summit for Life summons Colombian President de la Espriella for direct dialogue on November 14 - Peace Brigades International-Canada",
+      "summary": "Індейський саміт запрошує колумбійського президента де ла Еспріелью до прямого діалогу 14 листопада. Зустріч відбудеться в Колумбії, обговориться питання прав корінних народів, забезпечення миру та стабільності. Організація Peace Brigades International-Canada координуватиме зустріч і забезпечить безпеку.",
+      "source": "Bilateral Meetings",
+      "publisher": "Peace Brigades International-Canada",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
+      "published": "2026-10-18T03:01:28+00:00"
     }
   ]
 }

@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/il-vice-ministro-cirielli-partecipa-al-moldova-core-group/",
-    "https://press.un.org/en/2026/sgsm23319.doc.htm",
-    "https://press.un.org/en/2026/sgsm23318.doc.htm",
-    "https://press.un.org/en/2026/sc16468.doc.htm",
-    "https://press.un.org/en/2026/sgsm23317.doc.htm",
-    "https://www.gov.uk/government/speeches/at-a-time-of-deepening-conflict-and-insecurity-across-parts-of-the-continent-the-partnership-between-the-united-nations-and-african-union-is-indispens",
-    "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2083",
-    "https://press.un.org/en/2026/sc16469.doc.htm",
-    "https://press.un.org/en/2026/sgsm23321.doc.htm",
-    "https://press.un.org/en/2026/sgsm23320.doc.htm",
     "https://press.un.org/en/2026/gaef3620.doc.htm",
     "https://press.un.org/en/2026/gaab4516.doc.htm",
     "https://press.un.org/en/2026/gadis3763.doc.htm",
@@ -1199,30 +1189,19 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3BxRUE2bW5iSUtWbHRIdTZ2VEZCc21Nd2FiYnFyY1BJbGZsZmhOVFItdmVjM2d1V0s2U3V5N1BCSW5sZ1J2TktKdTFwZnluWEtJNlJBdUNQWmRXWVJLQkZRUkVYOGVIOFF2NmxkU1FMTmU0U1Q4S2RXNkU3WE5xcjNHZlNoeGZsNXpYSV9SSS1vQQ?oc=5",
     "https://news.google.com/rss/articles/CBMirAJBVV95cUxPZTF2SFE2OWhXU1g3MFNCaGhBZG5rNXNZcnc5dTRkMWpveU5sNHk5N1RBdXV4ZXhuNE5BU1JRNmV4VjF0NFBQdXNlSi16b2V3TkhaNkx1VnJvNlpiZUNZak8zNldUTlRnWEtGRHp4T1pDVzNBRFU5VTdUNFRBdHp6TS1rVHQwTUtfY3BsaG1oTUpJWHNnd1JWMkhadmFxSUNyTGd4b3dsdXplcnZvc0hrYnA3UWFiWU16MmdHeHF5TDNGYTctT0RLT2ExcmRlQ3RWZ1lMajhId09YQXFxRDhRd2xVeVpzMVZCZkVYcmNWaG5TQ1FrVG0tbFlTWFI0VWVENzlPQjJmWEF5Y0t5aGtuUzkxTjNuRGVMRU96b0NMQnZDT0FsZUNBZkxsSlE?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblNMN0hFaDQ3WWdWSERYRndMc19SaUZPY3RsT3B0b1huMmx6Mjg1djQ2aTFwWmQ3TGh3b2NOZ1BoVlpFcGxWcjJ0QUFtQVFPS1djSC1ZZmVwSzBkOHJ4Snc1NGpPclc0U1F1YlN6QXpXTzNWWG01T1E1R0pCTkRMTWtkZklUcWt4c2VuLXV0M2lZeENfaGZWejJPdzdYUURVeWxOVG1IeEhTa3dMMkY1Z0xpQQ?oc=5",
-    "http://www.africanews.com/2026/10/18/imf-annual-meeting-developing-nations-need-greater-digital-connectivity/"
+    "http://www.africanews.com/2026/10/18/imf-annual-meeting-developing-nations-need-greater-digital-connectivity/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-thanks-trump-tremendous-support-israel-elections",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-endorses-netanyahu-israels-upcoming-election",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-attacks-town-southern-lebanon",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjExMHctYmU2NEhzQWRZdEU0RmdzRGgwVFRXRVUxZjhNZlJXRWQwRGVWQ0tOa3EwSEFaUTJlcHh6UXE4ZC1WWGo4V0xOLWE0YWZWT3VHNVJrVUpybTVYTTNXa0N6S0VGczRIOU5lV3l6bWFNOGRuS2NRZFp5VXF5WUI1WkVmUThiRDlIcnZBWXFpR1dqR2djZlA5Y1pUZ9IBowFBVV95cUxQUUdKTnd3ZmF2UDc4dEdlNmZrNHFCX285WjJpM1ZySjVETHVGdFJCS3BEcVBiQmpEeW8yU3FjRWdtbTZMMjlrX3lXQ3FDeUZ2b2N1VzFsS0tpbnE5MlloVUUyOXVwNFhMOEpQWlcwc0J6X0REYzVqZmpIU3gzUUkteDVDTjJmc0RPS2Q0aVlHT1pBdkJtUlRwZnNhR01DNUFDSkNr?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkt6RHREWGc4T29qOTJ3VHpTWWVwMjVlUy1GU2ZPQVRPSzVxUEdKRWpQblF1Q2s1a2hYRUZqeS1WMTRtamNka0pOdXR6YlNONWE4NndFWFBET0lwak05bENkTXJRQklrUEVOSWN5NVV3TGlPek1TRjhhWEttUkR0N2R5NzF0WVRLQkMxcmhMd2hFWDdmcTlKUDdIUVdqRjhtc0FZMmJBaDNocUgtV2xYRlRn?oc=5",
+    "http://www.africanews.com/2026/10/18/pope-leo-xiv-thanks-faithful-for-prayers-at-first-appearance-since-surgery/",
+    "http://www.africanews.com/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes/",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUstRkU5Nnk4QzhnU3VScGRFMExuVEV3ODlER0RIWUFQZGNHWjBFRlFCSGFwVGRINlhGQUktcFUzQzczLTRSUldRYjZHMk5WVWJQRE41ek02X0ljcGpPU0dtckh0Y0F1NlcxZDVpN0JTMjhKdnp6cEYzeFhUb1YtYXNtU1l1S0RVYi1Yd1Y0ZVZSbTRCZFptUEcwenFFd0NxQTNDQkl3?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWVTUkNnTkpzeGd2MWtuN29laVY0NU1EQkxzT0U0ck5aZEo0U1JLNnNUbDRxTHZ2QzhMZjlMc0d4N3o3MFdZTnlReGJXTnBaQXI4MG9MWXV3ZkNDUmhPMW5yUFdpS3RKTXMxb19oMFZrbEZBUEQxbmM1Yk5ucEhzVnhCWkVCYWZKaUM0M2phRVVtQ2phQVRlODY5dlFVMGYta2FoSFlQSm1sek5EWmx1cEdRdnFfN0FSWmhrSEZRSnRsZknSAcsBQVVfeXFMT0xhaGR4aURHcXBUN3V6VE54d1Y2QTFwOTViOVhrWTJ5dkRSQXpDTkhrRFZoU2owZDQtclZoSXNPRzBkekUxd1Y3M0xPY1AyWEtWUFBEOThzb3VaZzVpQWUyUlh5TzJyQ1NOV1d0X2NGY2hSUWI4VEJKVDU3R01vUWpSSE5BY1JjY0hHTTVZTmhOMUcxUmdsNUlSa1p3V2JTcGd4UXBWMWd5dDllaFk2dzVER2pqYmc0WHZhTVUzWHRLLWVxbElOSFNVZUE?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkVGVW1qdjA0alNKcGxzZDR1cjFabUNVa3lVNGFPUUR6M1FfeHhIN1c2NnBLeWxOa2E1QmxYM2ZTOVVBVEZxdW13Rk9vRXkxODRkVEZqam1CQ202TEUwWXpQcWVGNk1hYlRsT3paXzU0TGpPZWRjSFFDbE9aRkxoTEhTMXh6c1gzYVFBRmxYNm5Jc2FfT3lVaUZMTHVoaDdiNldMRzJpMFFrbDRINHVnMTB3d202bGptb2JXVUdTMWFYcGZt?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Опубліковано повний текст 123‑угоди США‑Саудівська Аравія",
-      "summary": "Американське ядерне товариство оприлюднило повний текст 123‑угоди між Сполученими Штатами та Саудівською Аравією, у якій викладено умови збагачення урану. Документ підтверджує деталі ядерного співробітництва та встановлює правові рамки для подальших кроків.",
-      "source": "Treaties & Agreements",
-      "publisher": "American Nuclear Society",
-      "published": "2026-10-16T15:26:22+00:00"
-    },
-    {
-      "title": "Польський прем'єр-міністр відвідає Індію: очікування",
-      "summary": "Польський прем'єр-міністр Марек Губерн відвідає Індію, щоб обговорити двосторонню співпрацю у сфері безпеки, економіки та технологій. Візит заплановано на 15-17 жовтня 2024 року. Обидві сторони очікують підписання угод про інвестиції та обмін технологіями на підтримку.",
-      "source": "Bilateral Meetings",
-      "publisher": "Defence24.com",
-      "published": "2026-10-17T14:00:02+00:00"
-    },
-    {
-      "title": "Ісландія підписала декларацію про три нові рятувальні судна",
-      "summary": "Ісландія підписала декларацію про три нові рятувальні судна, що передбачає їх введення у службу до кінця 2024 року. Документ визначає фінансування, технічне обладнання та координацію дій з міжнародними партнерами у сфері морської безпеки. Також передбачено навчання екіпажу та регулярні патрулі у важливих морських зонах.",
-      "source": "Treaties & Agreements",
-      "publisher": "Iceland Review",
-      "published": "2026-10-17T14:00:00+00:00"
-    },
     {
       "title": "Президент Швейцарії розпочав офіційний візит до В'єтнаму",
       "summary": "Президент Швейцарії розпочав офіційний візит до В'єтнаму. Ця подія є формальним дипломатичним кроком, що підтверджує початок двосторонніх зустрічей між лідерами двох держав. Текст джерела містить лише факт розпочатого візиту без деталей щодо конкретних угод чи заяв.",
@@ -1411,6 +1390,27 @@
       "source": "Bilateral Meetings",
       "publisher": "Bloomberg",
       "published": "2026-10-18T13:48:30+00:00"
+    },
+    {
+      "title": "В’єтнам і Ліхтенштейн домовились про швидку ратифікацію FTA",
+      "summary": "В’єтнам і Ліхтенштейн оголосили, що незабаром ратифікують Угоду про вільну торгівлю між В’єтнамом та країнами Європейської вільної торгівлі (EFTA). Сторони підтвердили готовність завершити процес ратифікації в найближчий час, що дозволить повністю активізувати торгові пільги для обох сторін.",
+      "source": "Treaties & Agreements",
+      "publisher": "Vietnam.vn",
+      "published": "2026-10-18T14:59:53+00:00"
+    },
+    {
+      "title": "Міністри закордонних справ Пакистану та Ірану обговорили регіональну ситуацію",
+      "summary": "Міністр закордонних справ Пакистану Дар та його іранський колега провели двосторонню зустріч. Під час переговорів сторони обговорили поточну регіональну ситуацію та підготовку до майбутньої зустрічі Організації ісламського співробітництва (ОІК) у Багдаді. Ця подія є конкретним дипломатичним кроком між двома країнами, що відрізняється від загального початку засідання міністрів ОІК, зазначеного в інших джерелах.",
+      "source": "Bilateral Meetings",
+      "publisher": "The Express Tribune",
+      "published": "2026-10-18T14:31:35+00:00"
+    },
+    {
+      "title": "В'єтнам та Ліхтенштейн підписали угоду про уникнення подвійного оподаткування",
+      "summary": "В'єтнам та Ліхтенштейн офіційно підписали угоду про уникнення подвійного оподаткування. Цей дипломатичний крок має на меті стимулювати інвестиційні потоки між двома країнами. Документ закріплює правові рамки для бізнесу, запобігаючи подвійному обкладенню податками. Угода є частиною ширшого економічного діалогу між сторонами.",
+      "source": "Treaties & Agreements",
+      "publisher": "Vietnam.vn",
+      "published": "2026-10-18T14:09:10+00:00"
     }
   ]
 }

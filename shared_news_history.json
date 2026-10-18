@@ -1,8 +1,9 @@
 {
   "links": [
-    "https://defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
+    "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
     "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
+    "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
     "https://militarnyi.com/uk/news/93-tya-brygada-vykorystovuye-pidzemni-tuneli",
     "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
@@ -30,6 +31,7 @@
     "https://militarnyi.com/uk/news/starlink-obmezhyv-perehoplennya-geran",
     "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
     "https://militarnyi.com/uk/news/u-lytvi-namagalysya-pidpalyty-starlink",
+    "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
     "https://militarnyi.com/uk/news/vidnovyty-vyrobnytstvo-tu-160m",
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
     "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
@@ -47,12 +49,12 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tckxtb3Rlc2RIQkVtNEVUV0FJeGR6a0p3X3FlSGFXTlI1UXlobXNNcXFKcmZ3SWlpVkpTTkhTdW50REdYTnQwbzA2Uy1RSUE0QXNYVA",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUWt5NlRqRmVJNzI2emExZnQxUVJ5S0tlWUJwbzJISU1fRFBpSEoxQlpVbXhYZDNmN2ZtTFN3Nk1ULVhBU0ppallLTU4yb0VUMnB3d0syb2F0Zw",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQWk2eGw0M1BQdjY1czFZUmo0LUhETTl1dFE5Z25WenVxbEhWanpILXZkM0tfTlIyYlJ3c2YyZmN4LTlCMFZoRUVsLXdGZjQ2UHRkMlRQanBBNkJ2",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93REd5bHVnOXJFQXI3cFBsMjhUc2dCM3JmSnYyUWVmc0cydV9OZC10MFBleDd0TGZiMTJ6WGpKWVhUNjUxNHBuWURyRTRoSlZsem43SEZ2RTVwZzlm",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cGlQOC03Y3dHZk8wNWNTRm96VHhTZWgzQ1Y0c3FqVmZ5Zmk2MmlWelh6VnQ5UDRxc3pvQjBiQmEyNElxTTUwWEJ1S0duS1BscDFNd0NoNldTTWhV",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZdGprMmZrUEJJVXY2dE1JYkpwQkxzUzVlN3dWNGxZQS1tS2p0OEFpLU9LRmhYT3VXRXRpcGVRdUtQZGdTckNaeldfQmZwajdLSlBEb2ZPMVg1aUtZcG1FaXptb1Bza1VxSlF3",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVG5TWTZrUGY2ZEZOYVlOMDRmZmlCbTg0V09aT2RRNGZUOFppbnJ3TXZOb1pBZ3RQVFBqeFB6VE42Wl84c1FQdHhoNnEzbEtpNmkxWWhEVDEweFduRW12dEFBaXl1ZjRrUkNNRzVUX21jTmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kVE5ZRXdIWEZQRUlZaEJaQWhjRGZJN2N5UGhGWGFVY0QzMHNwSHM1NmVfdVVvbGhzY2FtM3FjMnZwd1FDR3dRMEdrMGIzdE5BUlJTQkVkOTlldWJtOGNwVzFBZndPWGNSTlFqOXlQMXFTTEE1bmc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCQ0txSjNUTlhwUDBEazVmaUR6LTduNG44cXBGX3hJQUJSWFBsQm1JMFEwSFppNjJNaXMxRjk3c21DbUcxeDBfYk1qUFk0T0tsdUZhTHFvZ0wxOTJqWFdEYVpjdnNtUHdLZGw2Yl9KWXB1MmZwX3c",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTFZlRFdGQUdveWJPaXVfSVNSeXpzRmtzSThxbUJXdWRrS3N2Ti1ibl9fMTM5ZUNFUXhNTVdOdzZxMGhRRk0ta1lNdUM1ak9wMnZVckF0MFUxWlBuV0c3NE55THBVcVJ2Ym5OeFQ0RXFFZmx2M1E",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYm1ENklhY2VNbTFyWWJiRVRHSzVzaWtYaHFhMlJYT3B4VlZqZFVWcWN1by1iTF9PNWRvdUxwWEU3U2o1ZjBWYUM1enYyTmxOZzlhaHV3SkI2blpoZ200VWZVNWU1REJpZmpNQ0ktalExbVM4T0pxdzhpcW0",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnoyekhwb1ZLaU1QdUtNZnFvLVNQbnlDZ1JkSm43MFBSVTBpSGVNRXhtQkFJbHRaWE52eFBCNmRmQThqSV9qS2ZDVlhQVTE1ZmdNUWVDYzZDTTdMbzhmRVU1djdjXy1FaG1sbXRIQ0ttdk9Fd0Ffcy1oZ2FLOURDVdIBlAFBVV95cUxPTVpvenpCYmVWOEZzTlB1QlVOSEpTMWdzUzhSZldibURIY0otLTRXQUVUUy03U0h0WHN0Wi05eGJfeUV1b2N3eFQ5X3U2T0t5SkswUllHQWt1bm9vQlRDSk1ld25DUWhQNk50bTZQS09rdmZaYUJxV3c2VGpjSHlDWS1Vd2tXRkpmcjkyQTV5OWdHR0dl",
@@ -110,26 +112,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Колумбія посилює зв’язки з Ізраїлем, розглядає членство в Альянсі Холокосту",
-      "original_title": "Colombia deepens ties with Israel, considers Holocaust alliance membership after embassy opening - The Jerusalem Post",
-      "summary": "Колумбія оголосила про поглиблення дипломатичних зв’язків з Ізраїлем після відкриття посольства в Тель‑Авів, заявив міністр закордонних справ. Країна розглядає можливість вступу до Альянсу пам’яті про Холокост, підкреслюючи підтримку ізраїльської спільноти та планує подати заявку у найближчі місяці.",
-      "source": "Treaties & Agreements",
-      "publisher": "The Jerusalem Post",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93REd5bHVnOXJFQXI3cFBsMjhUc2dCM3JmSnYyUWVmc0cydV9OZC10MFBleDd0TGZiMTJ6WGpKWVhUNjUxNHBuWURyRTRoSlZsem43SEZ2RTVwZzlm",
-      "published": "2026-10-16T21:41:20+00:00"
-    },
-    {
-      "title": "Сили спеціальних операцій США прийняли нову напівмаску та окуляри",
-      "original_title": "US Special Operations adopts new half-mask and goggles",
-      "summary": "Система MITR від Avon Protection захищає від хімічних речовин, свинцевого пилу від пострілів та фентанілу. Напівмаска та окуляри з позитивним тиском можуть використовуватися окремо або разом, важать півфунта та мають дренаж поту й охолодження для запобігання запотіванню. Це рішення пов'язане з дослідженням SOF Cancer Study про 18% вищий ризик раку в операторів SOCOM.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
-      "published": "2026-10-16T22:00:00+00:00"
-    },
     {
       "title": "Іран вимагає включення Лівану в угоду про припинення війни",
       "original_title": "Iran insists Lebanon must be included in any war-ending agreement: Deputy FM - PressTV",
@@ -1121,6 +1103,16 @@
       "published": "2026-10-18T13:24:58+00:00"
     },
     {
+      "title": "Обвал акцій CoreWeave показує розрив AI-страху та жадібності",
+      "original_title": "CoreWeave stock wipeout exposes divide between AI fear and greed - Taipei Times",
+      "summary": "Обвал акцій CoreWeave демонструє поділ між страхом і жадібністю в секторі штучного інтелекту. Це підкреслює нестабільність ринку технологій. Наслідком є переоцінка інвестицій у AI-компанії.",
+      "source": "Мінфін США",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTFZlRFdGQUdveWJPaXVfSVNSeXpzRmtzSThxbUJXdWRrS3N2Ti1ibl9fMTM5ZUNFUXhNTVdOdzZxMGhRRk0ta1lNdUM1ak9wMnZVckF0MFUxWlBuV0c3NE55THBVcVJ2Ym5OeFQ0RXFFZmx2M1E",
+      "published": "2026-10-18T13:33:18+00:00"
+    },
+    {
       "title": "Зеленський провів переговори з Віткоффом та Кушнером щодо мирної зустрічі",
       "original_title": "Zelenskyy Says Speaking to Witkoff, Kushner About Peace Meeting - Bloomberg",
       "summary": "Президент України Володимир Зеленський повідомив, що провів розмову з представниками США Стивеном Віткоффом та Джаредом Кушнером. Під час контакту сторони обговорювали організацію майбутньої мирної зустрічі. Інформація заснована на офіційних заявах українського лідера, опублікованих агентством Bloomberg.",
@@ -1189,6 +1181,36 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkt6RHREWGc4T29qOTJ3VHpTWWVwMjVlUy1GU2ZPQVRPSzVxUEdKRWpQblF1Q2s1a2hYRUZqeS1WMTRtamNka0pOdXR6YlNONWE4NndFWFBET0lwak05bENkTXJRQklrUEVOSWN5NVV3TGlPek1TRjhhWEttUkR0N2R5NzF0WVRLQkMxcmhMd2hFWDdmcTlKUDdIUVdqRjhtc0FZMmJBaDNocUgtV2xYRlRn",
       "published": "2026-10-18T14:59:53+00:00"
+    },
+    {
+      "title": "Anduril може виробляти перехоплювачі в Європі, каже executive",
+      "original_title": "US arms firm Anduril could make interceptors in Europe, executive says",
+      "summary": "Steelfin проходитиме льотні випробування у 2027 році. Система розглядається як доступніший доповнювач до Patriot та інших засобів ППО. Виробництво може розглядатися в Польщі разом з PGZ на базі досвіду з Barracuda-500.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
+      "published": "2026-10-18T15:40:14+00:00"
+    },
+    {
+      "title": "Угорщина представила лазерну систему для знищення БпЛА",
+      "original_title": "Угорщина представила лазерну зброю власної розробки для протидії БпЛА",
+      "summary": "Під час випробувань на полігоні система виявила та знищила безпілотник-імітатор ворожої цілі. Назву, розробника та технічні параметри, зокрема потужність лазера й дальність ураження, не розкрили. Система планується на озброєння угорської армії протягом року для протидії дроновим загрозам.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
+      "published": "2026-10-18T15:53:23+00:00"
+    },
+    {
+      "title": "Вице-президент ОАЕ зустрічається з міністром оборони Саудівської Аравії",
+      "original_title": "UAE vice president discusses regional developments with Saudi minister in Abu Dhabi, WAM reports",
+      "summary": "Sheikh Mansour bin Zayed Al Nahyan зустрівся з принцом Кхалідом бин Салманом у Абу-Дабі, обговоривши розвиток подій на Близькому Сході. Це сталося після візиту до Ріяд, що відзначився розривом між ОАЕ та Саудівською Аравією, а також підвищенням атак Хуїтів.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
+      "published": "2026-10-18T16:11:01+00:00"
     }
   ]
 }

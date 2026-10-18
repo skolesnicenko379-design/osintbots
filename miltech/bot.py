@@ -453,7 +453,10 @@ def main():
             continue
         candidates.append(entry)
 
-    print(f"[FILTER] unseen_candidates={len(candidates)}; skipped={skipped}; by_source={{source: sum(1 for item in candidates if item['source'] == source) for source in sorted({item['source'] for item in candidates})}}")
+    candidate_counts = {}
+    for item in candidates:
+        candidate_counts[item["source"]] = candidate_counts.get(item["source"], 0) + 1
+    print(f"[FILTER] unseen_candidates={len(candidates)}; skipped={skipped}; by_source={candidate_counts}")
 
     if len(candidates) > MAX_AI_CANDIDATES_PER_RUN:
         # Резервуємо до двох місць для Google Alerts: по одному на кожну стрічку.
@@ -470,7 +473,10 @@ def main():
         remaining = [item for item in candidates if item["link"] not in reserved_links]
         selected = sorted(remaining, key=lambda item: item["published"], reverse=True)[:remaining_slots]
         candidates = sorted(reserved + selected, key=lambda item: item["published"], reverse=True)
-        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={{source: sum(1 for item in candidates if item['source'] == source) for source in sorted({item['source'] for item in candidates})}}; excluded_by_cap={len(entries) - len(candidates)}")
+        selected_counts = {}
+        for item in candidates:
+            selected_counts[item["source"]] = selected_counts.get(item["source"], 0) + 1
+        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={selected_counts}; excluded_by_cap={len(entries) - len(candidates)}")
 
     # Завантажуємо обрані статті паралельно, але виклики Groq залишаємо послідовними.
     stage_started = time.monotonic()

@@ -360,12 +360,15 @@ def fetch_feed(feed_config):
             timeout=(FEED_CONNECT_TIMEOUT, FEED_READ_TIMEOUT),
             headers={"User-Agent": "Mozilla/5.0 (compatible; OSINTNewsBot/1.0)"},
         )
+        print(f"[RSS] {source_name}: HTTP {response.status_code}")
         response.raise_for_status()
         feed = feedparser.parse(response.content)
     except Exception as e:
-        print(f"[TIME] RSS {source_name}: ERROR after {time.monotonic() - started:.1f}s: {e}")
+        print(f"[RSS] {source_name}: ERROR after {time.monotonic() - started:.1f}s: {e}")
         return []
-    print(f"[TIME] RSS {source_name}: {time.monotonic() - started:.1f}s, entries={len(feed.entries)}")
+    if getattr(feed, "bozo", False):
+        print(f"[RSS] {source_name}: feed parse warning: {getattr(feed, 'bozo_exception', 'unknown error')}")
+    print(f"[RSS] {source_name}: fetched_entries={len(feed.entries)}, runtime={time.monotonic() - started:.1f}s")
     entries = []
     for entry in feed.entries[:5]:
         link = entry.get("link")
@@ -397,7 +400,10 @@ def collect_entries():
             except Exception as e:
                 print(f"Помилка обробки RSS: {e}")
     all_entries.sort(key=lambda e: e["published"], reverse=True)
-    print(f"[TIME] RSS collection complete: {len(all_entries)} entries")
+    counts = {}
+    for entry in all_entries:
+        counts[entry["source"]] = counts.get(entry["source"], 0) + 1
+    print(f"[RSS] collection complete: total_entries={len(all_entries)}; by_source={counts}")
     return all_entries
 
 
@@ -428,24 +434,43 @@ def main():
     entries = collect_entries()
     print(f"[TIME] collect_entries: {time.monotonic() - stage_started:.1f}s")
 
-    # Спочатку прибираємо відомі повтори, щоб не витрачати запити на статті й ШІ.
+    # Спочатку прибираємо відомі повтори, окремо рахуємо причини відсіву.
     candidates = []
+    skipped = {"local_history": 0, "shared_link": 0, "shared_title": 0}
     for entry in entries:
         if entry["link"] in history:
+            skipped["local_history"] += 1
             continue
         if is_duplicate_link(entry["link"], shared_history):
-            print("Пропущено: посилання вже є в спільній історії.")
+            skipped["shared_link"] += 1
+            print(f"[FILTER] shared-link duplicate: source={entry['source']} title={entry['title'][:100]}")
             history.append(entry["link"])
             continue
         if is_duplicate_title(entry["title"], shared_history["recent_posts"]):
-            print("Пропущено: заголовок схожий на нещодавню публікацію.")
+            skipped["shared_title"] += 1
+            print(f"[FILTER] shared-title duplicate: source={entry['source']} title={entry['title'][:100]}")
             history.append(entry["link"])
             continue
         candidates.append(entry)
 
+    print(f"[FILTER] unseen_candidates={len(candidates)}; skipped={skipped}; by_source={{source: sum(1 for item in candidates if item['source'] == source) for source in sorted({item['source'] for item in candidates})}}")
+
     if len(candidates) > MAX_AI_CANDIDATES_PER_RUN:
-        print(f"[TIME] Candidate cap: {len(candidates)} -> {MAX_AI_CANDIDATES_PER_RUN}")
-        candidates = candidates[:MAX_AI_CANDIDATES_PER_RUN]
+        # Резервуємо до двох місць для Google Alerts: по одному на кожну стрічку.
+        # Решту місць заповнюємо найсвіжішими новинами з усіх джерел.
+        alerts_sources = {"Western Defense Industry", "Global MilTech"}
+        reserved = []
+        reserved_links = set()
+        for source in alerts_sources:
+            match = next((item for item in candidates if item["source"] == source), None)
+            if match:
+                reserved.append(match)
+                reserved_links.add(match["link"])
+        remaining_slots = max(0, MAX_AI_CANDIDATES_PER_RUN - len(reserved))
+        remaining = [item for item in candidates if item["link"] not in reserved_links]
+        selected = sorted(remaining, key=lambda item: item["published"], reverse=True)[:remaining_slots]
+        candidates = sorted(reserved + selected, key=lambda item: item["published"], reverse=True)
+        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={{source: sum(1 for item in candidates if item['source'] == source) for source in sorted({item['source'] for item in candidates})}}; excluded_by_cap={len(entries) - len(candidates)}")
 
     # Завантажуємо обрані статті паралельно, але виклики Groq залишаємо послідовними.
     stage_started = time.monotonic()

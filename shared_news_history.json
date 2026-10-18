@@ -1,5 +1,6 @@
 {
   "links": [
+    "https://defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink",
     "https://defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
@@ -7,7 +8,6 @@
     "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
     "https://militarnyi.com/uk/news/brytantsi-mayut-gotuvatysya-do-zhertv",
     "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
-    "https://militarnyi.com/uk/news/data-tsentr-yandeks-poshkodzheni",
     "https://militarnyi.com/uk/news/do-lytvy-zaletiv-nevidomyj-dron",
     "https://militarnyi.com/uk/news/drony-kamikadze-klyn-urazyly-vyrobnytstvo",
     "https://militarnyi.com/uk/news/drony-urazyly-data-tsentr-ta-terminal",
@@ -105,19 +105,12 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1EwZVdKLWE0WmxjUEc0TVFVLXYtR0Q2TVJSUVdfZzNmb095VjRYQy1Sb3B2T1dyM2RkYkM1NzJTQ3QwZW9QdlV1aEJELTV5SXNmVEllN0hjSzMzaUZBdjZtRExnLXA1WDN5cVZBWEJIVjkzbjJUVFlzMGdvVVZjLTB4eV9ERTBuQ0ZCdUkyMm8wZi1KOUVQUlhCTTg0NVhUM3BCMGg0MXZfcmpZS2oxcXpmMExMaTZJa01weGFKZW91N2xBS1RtWUJ3Zw",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWwzM3dIM2tpRlpUVjJwbUJYWXcyWXp2ZzU3N1RYczkzbS0zQnZfVVVUN1J5Zkt5YU1SYVR2VG9HMDZwY3dRTWFVbEFTNHZtUG42elJoR2laRzdsV1kxOGhqbFVHUDBvOVpHcHVpM25ad2hmZG9hZmxQN2JqQzQwZ1VVYWpYbHl2ZkFoYk1Fb2NRbms3QURVeVpPWmkzdUpYb0pnZkFNREl3RHN3cXVhS3BhU213YldZNVE1bXdEYlluZ2R6emV5VWtRVHc0QQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8",
+    "https://twz.com/air/f-22-pilot-controls-fq-44-fighter-drone-from-the-cockpit-for-the-first-time",
+    "https://twz.com/land/what-the-armys-pacific-commanders-are-learning-from-ukraine-and-iran-conflicts",
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-211",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Удар по дата-центру «Яндекс»: пошкоджені п’ять із дев’яти корпусів",
-      "original_title": "Удар по дата-центру «Яндекс»: пошкоджені п’ять із дев’яти корпусів",
-      "summary": "Супутникові знімки зафіксували пошкодження п’яти корпусів дата-центру потужністю 56 МВт у Владимирській області. Суперкомп’ютер «Галушкин» з 136 вузлами AMD EPYC 7702, 1088 GPU NVIDIA A100 та піковою продуктивністю 20,64 петафлопса ймовірно постраждав. Атака спричинила збої в російському сегменті інтернету та платіжних сервісах, а відновлення ускладнене дефіцитом чипів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/data-tsentr-yandeks-poshkodzheni",
-      "published": "2026-10-16T18:48:35+00:00"
-    },
     {
       "title": "Долар слабшає через зменшення шансів на підвищення ставки ФРС",
       "original_title": "Dollar Weakens on Reduced Fed Rate Hike Chances This Month - inkl",
@@ -159,6 +152,16 @@
       "published": "2026-10-16T19:51:23+00:00"
     },
     {
+      "title": "Що таке Starshield — військова версія Starlink від SpaceX",
+      "original_title": "What is Starshield, SpaceX’s military version of Starlink?",
+      "summary": "Україна заявила, що SpaceX обмежила послуги Starlink «військового рівня», що ускладнило ударні місії дронів і роботу протиповітряної оборони. Starshield — окремий напрям для Пентагону: захищений зв’язок із посиленим шифруванням і виділеними терміналами спирається на угруповання Starlink із понад 11 тисяч супутників на низькій орбіті й може доповнюватися спостереженням Землі та інтеграцією датчиків. За словами Маска, комерційний Starlink не призначений для наступальних дій, а режим Starshield визначають збройні сили США або президент, тож бойове застосування залежить від того, який контур досту",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink",
+      "published": "2026-10-16T20:08:08+00:00"
+    },
+    {
       "title": "США розглядає зняття санкцій з тіньового флоту",
       "original_title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - DatamarNews",
       "summary": "Мінфін США вивчає можливість зняття санкцій з окремих суден тіньового флоту. Офіційна мета — зниження фрахтових ставок. Це може зменшити транспортні витрати та вплинути на ринок нафти.",
@@ -179,6 +182,16 @@
       "published": "2026-10-16T20:22:31+00:00"
     },
     {
+      "title": "Командувачі армії США на Тихому океані беруть уроки війн в Україні та Ірані",
+      "original_title": "What The Army’s Pacific Commanders Are Learning From Ukraine And Iran Conflicts",
+      "summary": "На конференції AUSA командувач USARPAC генерал Рон Кларк назвав головними уроками мобільність засобів, які можна перемістити, і маскування тих, що лишаються на місці. Постійне спостереження й удари дронів в Україні та втрати від іранських обстрілів статичних баз підштовхують армію США до РЕБ, класичного камуфляжу й обману. У Тихоокеанському театрі, де противником є рівний за можливостями Китай, це впливає на підготовку до маневру в архіпелазі, боротьби з БПЛА та інтегрованої протиракетної оборони.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/land/what-the-armys-pacific-commanders-are-learning-from-ukraine-and-iran-conflicts",
+      "published": "2026-10-16T20:35:32+00:00"
+    },
+    {
       "title": "Франція відкрила школу операторів ЗРК SAMP/T NG для Данії та України",
       "original_title": "Франція створила міжнародну школу операторів ЗРК SAMP/T NG",
       "summary": "Школа готуватиме операторів SAMP/T NG з ракетами Aster 30 Block 1 NT, що уражають цілі на висоті до 25 км у радіусі 150 км та перехоплюють балістичні ракети до 1500 км. Комплекс оснащено радарами Ground Fire 300 та Kronos Grand Mobile High Power. Це прискорить розгортання систем в Україні та Європі на тлі черги на американські аналоги.",
@@ -187,6 +200,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/frantsiya-shkodu-dlya-operatoriv-zrk-samp-t",
       "published": "2026-10-16T20:53:58+00:00"
+    },
+    {
+      "title": "The War Zone переміг у Defense Media Awards за матеріал про F-47",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "Це щотижнева рубрика Bunker Talk, а не окрема новина про бойову техніку. Редакція повідомила про перемогу в номінації Best Military Aviation Submission на Defense Media Awards 2026 за статтю про канарди F-47; характеристик літака чи нових оперативних фактів у тексті немає. Підпис до фото лише фіксує навчальний радіологічний пошук EODMU 6 у вересні 2023 року і не змінює військової обстановки.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-211",
+      "published": "2026-10-16T21:00:00+00:00"
+    },
+    {
+      "title": "Пілот F-22 керує дроном FQ-44 з кабіни вперше",
+      "original_title": "F-22 Pilot Controls FQ-44 Fighter Drone From The Cockpit For The First Time",
+      "summary": "Пілот F‑22 Raptor керував YFQ‑44A Fury, демонструючи можливість управління безпілотним літальним апаратом з кабіни. Дрон використовував автономну програму, що виконувала команди в реальному часі, що підвищує оперативну гнучкість. Це крок до створення армії «пілотованих» безпілотників, що може значно розширити можливості США у повітряних операціях до 2032 року.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/f-22-pilot-controls-fq-44-fighter-drone-from-the-cockpit-for-the-first-time",
+      "published": "2026-10-16T21:25:22+00:00"
     },
     {
       "title": "Колумбія посилює зв’язки з Ізраїлем, розглядає членство в Альянсі Холокосту",

@@ -1,8 +1,8 @@
 {
   "links": [
-    "https://defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink",
     "https://defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+    "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
     "https://militarnyi.com/uk/news/155-ta-ombr-vidbyla-najbilshyj-tsogorichnyj-motoshturm-pid-pokrovskom",
     "https://militarnyi.com/uk/news/93-tya-brygada-vykorystovuye-pidzemni-tuneli",
     "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
@@ -27,11 +27,12 @@
     "https://militarnyi.com/uk/news/saudivskij-araviyi-rozbyvsya-vertolit-ah-6i",
     "https://militarnyi.com/uk/news/shvetsiya-vydala-ssha-rosiyanyna-yakyj-postachav-mikroelektroniku-do-rf",
     "https://militarnyi.com/uk/news/spetssluzhby-mogly-pidkupyty-mafiyu-dlya-pidpalu-starlink-u-polshhi",
+    "https://militarnyi.com/uk/news/ssha-vidnovyly-peredachu-rozviddanyh",
     "https://militarnyi.com/uk/news/starlink-obmezhyv-perehoplennya-geran",
     "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
     "https://militarnyi.com/uk/news/u-lytvi-namagalysya-pidpalyty-starlink",
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
-    "https://militarnyi.com/uk/news/zenitnyky-115-yi-vdruge-my-28nm",
+    "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZExUcUIyd0VERFU5RklJUHl6NkdsRHJJMDItNHNOZzUwQ2FnZ2p6YjVYMTc4NzhkSFhJWXNHd3BSdDFXQmE2N0lDRzNBdTgwSzdjTnlDOUNBMHBYbU5oQVFnUFNMc2NXM1FRc0hEbzZGZVpaeG1hY1h0dkxDUVA0RjhwWnNkVzY5OWp0SzRBdUdjX2Uta1BManlsbmJoVHlqUVNLWHdBMmZrRFZ0clpZamdJd0U1aE5HNTFXZ0cwMWJaY3hFUllkNlBqM1BRa200VXJBZ3k2a2Y3cHZxbWUtX1BuXzhkNG5XMDFldFRBNlkteFR4QUVVZWJ3",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGg5MGxqdFdDR2MyTGRfcXdUNE1ULUxxZTk2bFZDX2dLZmdXTnNKY3VHdTU0T1g3TVUwSWYyUjZGUHBiQ1ZVS1h6SHhmSFVpbFVtQ0EzYTZfMEFEU1RqVXlRcmVHZ1k1d1c5b3ZEYV9qbkh6Y2loaTFpUWVES2dsbXpuNnNUNER0cWhhWUN2LXJrY21UdkstY3RObjFzQ3RpS0l6bGFLRXpQbllpY0cyM0lVTUVSVTBBMy1qQ1BGeERIUkJOVzFqYWprWXBhTmE10gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2szazhaQlZ2UFR0TEh1b25xa1ZvRExXUlZpNTkxbXNGZnhxZE9MREdKeGFuMEVTdVVOWTB4Zkh1c2lxUnJQdHlMVk82TzdzUkxPMTBFUDhJQmEzdnl6WE1OZG5ZVkp1TUlscUR5b3ZBWWZZaV8tZ2IwM0ZIVEZnRmxXU1BzN3Q5SWJpc2lWdGItWnU5ZHN0YlVNM3hzcVU2aUxOeGtBVVpvQ2hrU01hSWtxWTNERlpSdkhuaU9WUS1TbEZJZ2dQVzRVeWZab2h4dHFVaQ",
@@ -70,6 +71,7 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFlNaDlMQ2ozNGl2LTlUZ1E4cVk1Y3JKa282aW9Ga2ktUmNQS1JtdlV2bFBDaS1jNS1STW9iYzJHNlRua3VtazFSSkswWTI0QzF3UjhnUko3bmhIRm0tS21tenpRMFloTFVFcWRYY0F2UDRlY1dkRFpCVXlrYXdHS2p4QkR4emJvSXlpYUNDbFdUZjFCOG1J",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREF3XzN1eVEycjVoX2VRMUV4WVVkX09Pclk0eURiX3A5UC1fUmRyTFJqa2JEdlZFZWJod3hXcmRRRGVKTE1uUlNONHFZVmlhcGJJU1VqMlRfdVV5M080WkdCZHVxa1ZuNWtfZWZiQXNFU1BDa2VKckNlblk1eklCbjMxUmZlU0dCeVEzd0FlTjRXTUUtS29PeHpDYw",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVdURV9tZ0hiamF1WTh5bXN1UExQUHNYTldJUm5ibVB1NVJ0UElYYl91MmxyZkVsd0hiYVYySjdCTlp1WFp4OV9aNXV3VTRVVlEwd0lEOF9QSVVFODlDZG1lY2NfeUNLbmRRdlgxZlpQT2hVZ0VJdHR4MWpKVXAzTjlsQkdjeVJ6bGg0TTlCem1rUTRCX0tObTdCZmM",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXJ5aXZRaDlzOWhWUmtqeGs1MHZOWUQzeXR6M1liM3pZT1dkY1dyaE1CRzViaGxtZFRaQ1B2Nk51QXBuM05QSEpDbjdJaThyQWRDWWJvZDh1bWxmbm5pSWdkUkFqc1c1QkxJM1FvcGJ6RU91N1l5aHFaem1mM0RvR3dDd1RLQkZja1hNREhzQzgyaEU1RlRZQXRJWmZvdw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcURkdWptMlVETFdZRGxzSndZVlhqcGh6eERzZVZ0VHF1MDQ3R3NzOFdUb01yR2hIeVphV1FwTTZ0cFM4UzFpYjBiTGFpRnlkWGZNakM3aUpRbVRzM1ZYWWVpM3hPWXh4Sk9aS0Q2WDU2WGZMODBsX1VKTXpmQUppLXpGVjItNENYT0VvdHFlLTQ5RHB2OEM3bWVLTzBDSUlu",
@@ -83,13 +85,12 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0FnRHlCR1NhSkR4Skd1eWZLX3ZhaDRWTUdVRDNQbjMtTW1wd2NBSjVVcF9GR1NRblJtOThfSVZUQjZFVnBjQ3p1WWZpTFNpQ2pfV3RIU25rcGlsdXpWajRRLVJ4Q0FBZDRCc0hTOUZ4RUZnTjAyZ2w1Z2VvOEdyUTZLdUNLUkZfRWVNcUpENVVXaFRIVXhhVXdlemtvVThyTzR5NHF0MVc5S2c",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjRReGY1MzI2a0xHWkxsZHVBRWp0clZzTmhVNDNNWVZQaGxxbHlXbzc3VFl4V0lrNWFoUU50NEE1ZzJLMEtOUnZFSUU3UnJzelJ1N3paMmN6akpYYWoyMllmRDNKYWYtbnVSRmc0WFk0azNIbnp5eUtBYk1jR3dBdmdnQm9jOW0xQ0Q2M1JJWFVzWm5ORmMtcFRpdFVlbGJxbmdlelphY3ppc3V5YlE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDFNcFFKRVRpV0Zza251X0FJaVRGOUxsM3pmbk5manNwSWFQRnJvUU04Q19Uc3RWS2pNNkpUaDgtV3dMOFF6OEZMak9nUm9jWXRtOHQzcTZHQ1c1OUJsbC1sSGl6U3JwSWg5dUtvZFBKQTg4b0pMV1JhTVJjVFk0SzVsVnBiLV81ZFZ0SGtPMGZ3Wi1fV2dDYzZEX2xwUURIVGp6N2pFUThVS0g4T3c",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHU2X1ZGcEJxN2U1bVhNMUg1NVRLd3d5MzhNb0E3LS1iWFlSZHhjU0RLRDFKUXBwUTgwZnZxc0xDOUpNLXRzek1OZ3FRMk5MdWRTVXdqMjZUazVrUmxsVnZVSTdzTnk5MFc0d2kwcDlDNTEyVjdxNFFOdzhsem80YmMtVDFwZmVYWlYtcjYwUE5NTXV2ZXhvSkY2LUFWbzkyZWNPVm1lV0pKclFDZmZR",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblNMN0hFaDQ3WWdWSERYRndMc19SaUZPY3RsT3B0b1huMmx6Mjg1djQ2aTFwWmQ3TGh3b2NOZ1BoVlpFcGxWcjJ0QUFtQVFPS1djSC1ZZmVwSzBkOHJ4Snc1NGpPclc0U1F1YlN6QXpXTzNWWG01T1E1R0pCTkRMTWtkZklUcWt4c2VuLXV0M2lZeENfaGZWejJPdzdYUURVeWxOVG1IeEhTa3dMMkY1Z0xpQQ",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE1ScGFDenlkTXdVVU9hbFpmR25CakJZaUNLaUEzYzJoYzVfRmJZckpPdHJpbjlSUE01NTRkOUVqRXRFQVRyZjBqTDE0bmk0djNLMnJTbGtreEpnam5xck5RZVZEMTl6RmVmZHBYbnlOT0c4QkpWZ3Z6Ymdoc1VlN3ZVRnc5S3ZHMEF2ZlVlSElTbEEzQzRocEpjSWRtU1lqQ2hreUZSdFkzYWhCeTBFb0hvaWt1OTQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGV6aVhEOVZfeWZJaGJPVWVKdFJCRkhUVDJxSzlQSjZib3ZkZXF4NzZKZ0p4eDVxMEtCczZnQXFFTVRMQkRmQkJRRzNIWTFPb0tSYVk3cW1jYzVwbWFaQTBsM3JXYmJ1VDBCM0t1YzI0cTBveGdPR1l1TnFmQjVyLXpQT2F4UFFaSVk3TFl5VWVBZHNrR3BwZjgzTU9ISDdHa1JCTE1lTE1YYTFGVkc4eWVETjFXQkxQ0gHAAUFVX3lxTE1nUk9GX0RXaVhhQUxzSnRiOVh1eDhzTENUQl9UWC1rQmhkWVJDRVJlX01MeFB3Um83c2JxREZHWjVobVdJYWNyTkhFeWYxaFl1blFZX1o3bmp4SEpfRHV1MDlOMHBibm85OVl1eUJjUVNUc21RUGM0S29nYi12OVhCWU5oV0tTRlFlSmdQbzFPWXZZRlZIeUtvWU1zdFlfSWt5RmotT25Ya3Z2b21FZmx0Zkc5UTEtS0dxX3ZzN0E1dQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFNRLWRsdTVYVnFGRHlLa3dxVUh6MklPUl9SdWJpWFhfNjgyTk9HUnFsYS1oc0VXY0FqOVhGOGpSU1pTOGhyUll3WExSZWtpa3FmbWtOSlZIU1FzRjZOSTBOY3UwWnF0WEk2Ukh1OW1NRk93Mk9URmRwNG55V0QtRmRtUjh5RXdubUhrU2hLeThKeTNEX0N1MFZxaVFFdUhOcHBNSExISnVIWXVTY3RtSnVMMXN1OWlF",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXl3SzhVVm84QzNTVjdINWxrYmtlT2hic0UzWGNKZFpwZ090UldMQUJ6OWJJUXpidzJxdWYzc3RTLTlBZzJsWE9uZWZ3VDFEeC1Fcl9iYi1lTU1Kd3RCOUZOODh4bkl5bU4zaUZuYjlzWVNudVlQV1BnRnE0Y3BKNUJrNG9mdVJEVmQycHI1MEhtOXNrY2Vxdm5lMHFoOFpsRzdIUDBuWkJiQzV4VHk0cEJZZnNMVjRybjF1SjhWVjc",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3I3Z0syQkdEcFpaOFEtNC1kaE9YWkQ1RDhFcTI2SkNFM0Z1OE40THJmOWo5OEF4QzMzYTN6WG1KTFZPdDdDQ0l0Uy1IS2JSOTJsYkZieXcwN0pweDQ2ZGZGNHhqeEJkdVpxRDlKMGVya09VRGhRRmRwdU5UaUk5ZHpRVzFHNTF1UGZvdXgzMGNhaGlXd2UycERqZG50cmJ0Z3pWN0ZOclpCZi1HaDlHY0NZVmZuODUzY013MTVGZUfSAcgBQVVfeXFMTkwwd0lxLVRhcm9oSEVtaHBnNnBXVWV4YWQxYUdyVjZ3cEtkUnNUUnBJNlA5eDR6bEZFSjc3ZV90c200SnRtdnotXzdWakRmbW1lajl2ekFDdnMwcktMTXlwNHZaR0pyUXEtME5SX2otemdmTTlrUG1KZmVRSDUyNzBlckY5STVrWkNRQVM5QV9uekoxY1JkZWpjNWJ6VnNSU1lycGozOTlVQzA2cGhzZG9HNjk5TkJUMWxKd1FOTy11djRXaHBIcno",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkxQWkdXU29MdVJDbndxbFYtYVFzMjZINFFObEpCTDh1X0NMYnhWTXJLc2t3QjNBTDNJblFaazZsbnozeVpfVlNkdzE1czJpR3hfUktkOThtVzZXdzIzQWpYd0kyM0pOOXVERU1kZi1IbHc4Qy1BNVlaUDdCNEh5M1NsQ1Y3ektkcWtabTVjN3BlNXVYOHVMdWRaRG1PYjNGSVRKWTd6RWRuZjRvREV2LWhwQzZzY0JqcU5QTEtaSEpWOGPSAdMBQVVfeXFMTVdzUWhERk9lejRmUDJPWWF2MGFIQ2RxTFFVRW4xT1d2U1FhdW1LR1dRU2VCRzR3T1k2ZTJORzY2TmFqMklPbnRlYko4cFIwWF90b1BtU204aGFuT011NDdtcER6eEpYeWxCRWhLTlZzUHNlTkE0NmdTbG9kMkNpUDZ2Q1kybTJOUjJNdE44Snh1cS1qT1c5RENTRHNnRk5Ray1YbGZtMUEwNVdNdkhmOUpTQjRZVTFiVHRTc0tKRV9zWVc0ZkRkeDBuQ1gyV1JpUGVkdw",
@@ -99,77 +100,15 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdzRmakRCd2Vid3RZUE9UMVpUOU5QMEs5enh1ZFYtc2hLNUY0UlRscko0OTdxU0xsN3pUZTFqZi1aWEFQR0dmOXh2Q2RSNzg3Ni1qbzNTM0RaWDFQZXJXYkxfMDhwUXg2WWJSekJ3S3lOSVAxSy0tZ1oxNWVuTjFsdkJlZ0tyc21uYVFfSnoxZnItMHR1ZlgwRjVnd0hmU043SV9hWDRXYnRxcU9pMWNHWWZBakxRZzFCb0c5WVllSE52ZHlRV3c",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFFHLWpfdEpLRFNBbUNyNEdBaVJpWEg0bkMzQ2hqSllUOUlxWWlBd1hVQ2E3UGNLdnJkMW5pQ2IwVVZpTVdVMkRjZnpoalNEalRiWmJFT3ZDUXd2a0lkakhnSnpSUFRGdS1UR3VNZm1zbUFjNERtcGFYVG1FXy1hRXZ2bU84dW5XdUdoTTVzSlVpNVlMNHZucFNTQkh1X0ZZT0lvenZKcXl3Z0FNTWM5ZkhjZHNhMmdnX3NkaVVaRjJlaF9TLWh3",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnllVUhNWnlJVF9uMXdFX05DbmhtcU5xcXpBY3IwSmNOOHZyZHpCYzdOaW0ybWFwanhZZlhyRUp5b09Nc2NETmNoU3BPUzR1dlQzdnlSQUp6R2RQNjlyZzU5UXNSaXhoczl1N283d0xtM1RjT1R1NHZiSW5kc2NJOHhPeFRSbi1JeGZSWWlwdW5pekdza3NkVTBUbzdvMjVKTzRhOFlRTXpGc3JFZU9CUlNZeXlIdTRKZWctMURIbnV6VFFNeGJKWg",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalEwdTJjVldIMm82OF8yV2IxVXRqaFU2NnBvd3NNSTZveTVGNFVFNFhyckxwVjZUTWpCOUVkYWtiZ0Z5OWV4NEE4aG90NmxmWUdKUFZ5aWJZSTNhdHRQNTVqeDRiQWtPeXRRTGw3dDhWaXd3VHdYejN2STZMbGtvYjFHNWN5MEU3R2ZOU1l3VWNrUGt5VFVKSXJZRXhtMnJRaFNCbFpuaVZTZFpjal96WWNYeFlkcmI1RF9FZ3Y4dlRqTGhTeElPdEVR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1EwZVdKLWE0WmxjUEc0TVFVLXYtR0Q2TVJSUVdfZzNmb095VjRYQy1Sb3B2T1dyM2RkYkM1NzJTQ3QwZW9QdlV1aEJELTV5SXNmVEllN0hjSzMzaUZBdjZtRExnLXA1WDN5cVZBWEJIVjkzbjJUVFlzMGdvVVZjLTB4eV9ERTBuQ0ZCdUkyMm8wZi1KOUVQUlhCTTg0NVhUM3BCMGg0MXZfcmpZS2oxcXpmMExMaTZJa01weGFKZW91N2xBS1RtWUJ3Zw",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWwzM3dIM2tpRlpUVjJwbUJYWXcyWXp2ZzU3N1RYczkzbS0zQnZfVVVUN1J5Zkt5YU1SYVR2VG9HMDZwY3dRTWFVbEFTNHZtUG42elJoR2laRzdsV1kxOGhqbFVHUDBvOVpHcHVpM25ad2hmZG9hZmxQN2JqQzQwZ1VVYWpYbHl2ZkFoYk1Fb2NRbms3QURVeVpPWmkzdUpYb0pnZkFNREl3RHN3cXVhS3BhU213YldZNVE1bXdEYlluZ2R6emV5VWtRVHc0QQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8",
     "https://twz.com/air/f-22-pilot-controls-fq-44-fighter-drone-from-the-cockpit-for-the-first-time",
-    "https://twz.com/land/what-the-armys-pacific-commanders-are-learning-from-ukraine-and-iran-conflicts",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-211",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "115-та бригада вдруге уразила Ми-28НМ дроном VB140 Flamingo",
-      "original_title": "Зенітники 115-ї бригади вдруге поцілили у російський ударний гелікоптер Ми-28НМ в тому самому місці",
-      "summary": "Оператори дивізіону «Прибульці» застосували дрон-перехоплювач літакового типу VB140 Flamingo для спроби влучання у відсік двигуна гелікоптера. Атака зафіксована за 4 км на північ від попередньої, поблизу села Яснозоренське Бєлгородської області РФ. Геолокація підтверджує відстань близько 16 км від лінії бойового зіткнення.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/zenitnyky-115-yi-vdruge-my-28nm",
-      "published": "2026-10-16T19:39:12+00:00"
-    },
-    {
-      "title": "Ірландська Пресиденція опублікувала пропозицію щодо довгострокового бюджету ЄС",
-      "original_title": "Irish Presidency publishes its Proposal for the EU’s Long-term Budget - irish-presidency.consilium.europa.eu",
-      "summary": "Ірландська Пресиденція Ради ЄС опублікувала офіційну пропозицію щодо довгострокового бюджету Союзу. Документ містить конкретні фінансові параметри та умови, що ляжуть в основу подальших переговорів між інституціями ЄС. Це формальний дипломатичний крок у процесі визначення фінансової політики Європейського Союзу на майбутній період.",
-      "source": "EU Diplomacy",
-      "publisher": "irish-presidency.consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXl3SzhVVm84QzNTVjdINWxrYmtlT2hic0UzWGNKZFpwZ090UldMQUJ6OWJJUXpidzJxdWYzc3RTLTlBZzJsWE9uZWZ3VDFEeC1Fcl9iYi1lTU1Kd3RCOUZOODh4bkl5bU4zaUZuYjlzWVNudVlQV1BnRnE0Y3BKNUJrNG9mdVJEVmQycHI1MEhtOXNrY2Vxdm5lMHFoOFpsRzdIUDBuWkJiQzV4VHk0cEJZZnNMVjRybjF1SjhWVjc",
-      "published": "2026-10-16T19:51:23+00:00"
-    },
-    {
-      "title": "Що таке Starshield — військова версія Starlink від SpaceX",
-      "original_title": "What is Starshield, SpaceX’s military version of Starlink?",
-      "summary": "Україна заявила, що SpaceX обмежила послуги Starlink «військового рівня», що ускладнило ударні місії дронів і роботу протиповітряної оборони. Starshield — окремий напрям для Пентагону: захищений зв’язок із посиленим шифруванням і виділеними терміналами спирається на угруповання Starlink із понад 11 тисяч супутників на низькій орбіті й може доповнюватися спостереженням Землі та інтеграцією датчиків. За словами Маска, комерційний Starlink не призначений для наступальних дій, а режим Starshield визначають збройні сили США або президент, тож бойове застосування залежить від того, який контур досту",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink",
-      "published": "2026-10-16T20:08:08+00:00"
-    },
-    {
-      "title": "США розглядає зняття санкцій з тіньового флоту",
-      "original_title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - DatamarNews",
-      "summary": "Мінфін США вивчає можливість зняття санкцій з окремих суден тіньового флоту. Офіційна мета — зниження фрахтових ставок. Це може зменшити транспортні витрати та вплинути на ринок нафти.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnllVUhNWnlJVF9uMXdFX05DbmhtcU5xcXpBY3IwSmNOOHZyZHpCYzdOaW0ybWFwanhZZlhyRUp5b09Nc2NETmNoU3BPUzR1dlQzdnlSQUp6R2RQNjlyZzU5UXNSaXhoczl1N283d0xtM1RjT1R1NHZiSW5kc2NJOHhPeFRSbi1JeGZSWWlwdW5pekdza3NkVTBUbzdvMjVKTzRhOFlRTXpGc3JFZU9CUlNZeXlIdTRKZWctMURIbnV6VFFNeGJKWg",
-      "published": "2026-10-16T20:14:13+00:00"
-    },
-    {
-      "title": "Заступник міністра закордонних справ Японії зустрівся з послами Тунісу та Алжиру",
-      "original_title": "Vice-Foreign Minister Ozora Meets Ambassadors of Tunisia and Algeria - アラブニュース",
-      "summary": "Заступник міністра закордонних справ Японії Озора провів офіційні зустрічі з послами Тунісу та Алжиру. Ця дипломатична взаємодія зафіксована у прес-релізі міністерства. Деталі обговорених питань або конкретні результати переговорів у наданому тексті не розкриваються, тому подія фіксується лише як факт проведення двосторонніх консультацій.",
-      "source": "Treaties & Agreements",
-      "publisher": "アラブニュース",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE",
-      "published": "2026-10-16T20:22:31+00:00"
-    },
-    {
-      "title": "Командувачі армії США на Тихому океані беруть уроки війн в Україні та Ірані",
-      "original_title": "What The Army’s Pacific Commanders Are Learning From Ukraine And Iran Conflicts",
-      "summary": "На конференції AUSA командувач USARPAC генерал Рон Кларк назвав головними уроками мобільність засобів, які можна перемістити, і маскування тих, що лишаються на місці. Постійне спостереження й удари дронів в Україні та втрати від іранських обстрілів статичних баз підштовхують армію США до РЕБ, класичного камуфляжу й обману. У Тихоокеанському театрі, де противником є рівний за можливостями Китай, це впливає на підготовку до маневру в архіпелазі, боротьби з БПЛА та інтегрованої протиракетної оборони.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/land/what-the-armys-pacific-commanders-are-learning-from-ukraine-and-iran-conflicts",
-      "published": "2026-10-16T20:35:32+00:00"
-    },
     {
       "title": "Франція відкрила школу операторів ЗРК SAMP/T NG для Данії та України",
       "original_title": "Франція створила міжнародну школу операторів ЗРК SAMP/T NG",
@@ -1181,6 +1120,16 @@
       "published": "2026-10-18T12:15:00+00:00"
     },
     {
+      "title": "Глобальні ринки облігацій можуть зіткнутися з волатильністю",
+      "original_title": "Global Bond Markets May Face More Volatility Amid An AI Unwind - Mott Capital Management",
+      "summary": "Стаття вказує на можливу волатильність глобальних ринків облігацій через розворот AI. Джерело не наводить конкретних цифр чи умов. Це може вплинути на макрофінансову стабільність через зміни в настроях інвесторів.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXJ5aXZRaDlzOWhWUmtqeGs1MHZOWUQzeXR6M1liM3pZT1dkY1dyaE1CRzViaGxtZFRaQ1B2Nk51QXBuM05QSEpDbjdJaThyQWRDWWJvZDh1bWxmbm5pSWdkUkFqc1c1QkxJM1FvcGJ6RU91N1l5aHFaem1mM0RvR3dDd1RLQkZja1hNREhzQzgyaEU1RlRZQXRJWmZvdw",
+      "published": "2026-10-18T13:01:10+00:00"
+    },
+    {
       "title": "Іран і Євразія підписали меморандум про співпрацю",
       "original_title": "Co-op memorandum signed: Iran, Eurasia take new step for free trade, integration - ایراسین",
       "summary": "Іран і Євразія підписали меморандум про співпрацю, що спрямований на розвиток вільної торгівлі та інтеграції. У документі визначено умови обміну товарами, послугами та інвестиціями, а також створення спільних інфраструктурних проектів. Підписання стало кроком до посилення економічної взаємодії.",
@@ -1189,6 +1138,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFlNaDlMQ2ozNGl2LTlUZ1E4cVk1Y3JKa282aW9Ga2ktUmNQS1JtdlV2bFBDaS1jNS1STW9iYzJHNlRua3VtazFSSkswWTI0QzF3UjhnUko3bmhIRm0tS21tenpRMFloTFVFcWRYY0F2UDRlY1dkRFpCVXlrYXdHS2p4QkR4emJvSXlpYUNDbFdUZjFCOG1J",
       "published": "2026-10-18T13:04:39+00:00"
+    },
+    {
+      "title": "Вибух на базі Вейнрайт: семеро загиблих під час стрільб",
+      "original_title": "Вибух на базі Збройних сил Канади: семеро людей загинули, ще десятки поранено",
+      "summary": "Під час бойових стрільб боєприпас влучив у газопровід або свердловину, спричинивши вибух і пожежу. Поширення вогню прискорили пориви вітру до 100 км/год. База Вейнрайт є основним центром маневрової підготовки Сухопутних військ Канади.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
+      "published": "2026-10-18T13:24:58+00:00"
+    },
+    {
+      "title": "Зеленський провів переговори з Віткоффом та Кушнером щодо мирної зустрічі",
+      "original_title": "Zelenskyy Says Speaking to Witkoff, Kushner About Peace Meeting - Bloomberg",
+      "summary": "Президент України Володимир Зеленський повідомив, що провів розмову з представниками США Стивеном Віткоффом та Джаредом Кушнером. Під час контакту сторони обговорювали організацію майбутньої мирної зустрічі. Інформація заснована на офіційних заявах українського лідера, опублікованих агентством Bloomberg.",
+      "source": "Bilateral Meetings",
+      "publisher": "Bloomberg",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblNMN0hFaDQ3WWdWSERYRndMc19SaUZPY3RsT3B0b1huMmx6Mjg1djQ2aTFwWmQ3TGh3b2NOZ1BoVlpFcGxWcjJ0QUFtQVFPS1djSC1ZZmVwSzBkOHJ4Snc1NGpPclc0U1F1YlN6QXpXTzNWWG01T1E1R0pCTkRMTWtkZklUcWt4c2VuLXV0M2lZeENfaGZWejJPdzdYUURVeWxOVG1IeEhTa3dMMkY1Z0xpQQ",
+      "published": "2026-10-18T13:48:30+00:00"
+    },
+    {
+      "title": "США відновили передачу розвідданих Україні після паузи — Зеленський",
+      "original_title": "США відновили передачу розвідданих Україні — Зеленський",
+      "summary": "Зеленський підтвердив відновлення обміну американською розвідувальною інформацією після блокування на кілька днів. Пауза сталася після попереджень щодо ударів по російських НПЗ та російського удару по Києву 12 жовтня без своєчасного попередження. Це впливає на оперативну обізнаність України щодо балістичних загроз.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-vidnovyly-peredachu-rozviddanyh",
+      "published": "2026-10-18T14:10:49+00:00"
+    },
+    {
+      "title": "Єгипетський парламент відкладив голосування про військову підтримку Саудівській Аравії",
+      "original_title": "Egypt's parliament delays vote on military support to Saudi Arabia",
+      "summary": "Єгипетський парламент відкладив голосування про військову підтримку Саудівській Аравії. Під час засідання рішення було відкладено, а обговорення продовжаться у понеділок. Паралельно, міністр закордонних справ Єгипту телефонно обговорив з пакистанським колегою зменшення регіональних напружень для забезпечення стабільності в Південному Середземномор'ї та підтримки мирного процесу.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
+      "published": "2026-10-18T14:18:57+00:00"
     }
   ]
 }

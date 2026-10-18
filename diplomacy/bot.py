@@ -170,6 +170,12 @@ FEEDS.extend([
         "FCDO (Британія)",
         True,
     ),
+
+    # Профільні регіональні джерела: Африка, Латинська Америка та Близький Схід.
+    ("https://www.theafricareport.com/feed/", "The Africa Report", True),
+    ("https://www.africanews.com/feed/rss", "Africanews", True),
+    ("https://en.mercopress.com/rss/latin-america", "MercoPress — Latin America", True),
+    ("https://www.middleeasteye.net/rss", "Middle East Eye", True),
 ])
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -712,12 +718,25 @@ def collect_entries():
         reverse=True,
     )
 
+    # Обмежуємо кількість записів від одного видавця, щоб дуже активний фід
+    # не витісняв новини з інших регіонів до ліміту перевірки за запуск.
+    per_source_limit = 3
+    source_counts = {}
+    balanced_entries = []
+    for entry in entries:
+        source = entry["source"]
+        if source_counts.get(source, 0) >= per_source_limit:
+            continue
+        balanced_entries.append(entry)
+        source_counts[source] = source_counts.get(source, 0) + 1
+
     print(
-        f"Зібрано свіжих записів: {len(entries)} "
-        f"із {len(FEEDS)} фідів."
+        f"Зібрано свіжих записів: {len(entries)}; після балансування: "
+        f"{len(balanced_entries)}; фідів: {len(FEEDS)}; "
+        f"джерела: {source_counts}"
     )
 
-    return entries
+    return balanced_entries
 
 
 # ============================================================

@@ -31,6 +31,7 @@
     "https://militarnyi.com/uk/news/starlink-obmezhyv-perehoplennya-geran",
     "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
     "https://militarnyi.com/uk/news/u-lytvi-namagalysya-pidpalyty-starlink",
+    "https://militarnyi.com/uk/news/vidnovyty-vyrobnytstvo-tu-160m",
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
     "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZExUcUIyd0VERFU5RklJUHl6NkdsRHJJMDItNHNOZzUwQ2FnZ2p6YjVYMTc4NzhkSFhJWXNHd3BSdDFXQmE2N0lDRzNBdTgwSzdjTnlDOUNBMHBYbU5oQVFnUFNMc2NXM1FRc0hEbzZGZVpaeG1hY1h0dkxDUVA0RjhwWnNkVzY5OWp0SzRBdUdjX2Uta1BManlsbmJoVHlqUVNLWHdBMmZrRFZ0clpZamdJd0U1aE5HNTFXZ0cwMWJaY3hFUllkNlBqM1BRa200VXJBZ3k2a2Y3cHZxbWUtX1BuXzhkNG5XMDFldFRBNlkteFR4QUVVZWJ3",
@@ -1178,6 +1179,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
       "published": "2026-10-18T14:18:57+00:00"
+    },
+    {
+      "title": "Росія модернізує заводи для відновлення виробництва Ту-160М",
+      "original_title": "Росія модернізувала заводи для відновлення виробництва Ту-160М",
+      "summary": "Компанія «Туполев» оголосила про повну модернізацію ланцюгів постачання та заводів, що дозволяє знову виробляти стратегічний бомбардувальник Ту-160М. 80 % систем літака, включно з бортовим радіоелектронним обладнанням, системами управління та двигунами, оновлено з використанням цифрових технологій, що підвищує його бойову готовність і можливість подальшого розширення функціоналу.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/vidnovyty-vyrobnytstvo-tu-160m",
+      "published": "2026-10-18T14:47:21+00:00"
     }
   ]
 }

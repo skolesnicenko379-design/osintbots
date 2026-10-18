@@ -3,6 +3,8 @@ name: MilTech Bot
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '25 */2 * * *'
 
 # Не допускаємо одночасного виконання цього workflow
 concurrency:

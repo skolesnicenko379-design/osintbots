@@ -2,7 +2,6 @@
   "links": [
     "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official",
     "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
-    "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone",
     "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
     "https://gov.uk/government/speeches/as-we-remember-the-victims-of-el-fasher-the-parties-need-to-protect-civilians-allow-humanitarian-assistance-to-reach-those-who-need-it-and-choose-dipl",
@@ -10,7 +9,6 @@
     "https://militarnyi.com/uk/news/93-tya-brygada-vykorystovuye-pidzemni-tuneli",
     "https://militarnyi.com/uk/news/atakuvala-sochi-brytanskymy-dronamy-k3scout",
     "https://militarnyi.com/uk/news/belgiya-peredast-ukrayini-desyat-f-16",
-    "https://militarnyi.com/uk/news/bijtsi-42-yi-brygady-vryatuvaly-rosiyanyna-yakogo-atakuvav-vlasnyj-fpv-dron-pid-chas-zdachi-v-polon",
     "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
     "https://militarnyi.com/uk/news/bpla-atakuvaly-promyslovyj-ob-yekt-gazpromu",
     "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
@@ -43,12 +41,10 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2szazhaQlZ2UFR0TEh1b25xa1ZvRExXUlZpNTkxbXNGZnhxZE9MREdKeGFuMEVTdVVOWTB4Zkh1c2lxUnJQdHlMVk82TzdzUkxPMTBFUDhJQmEzdnl6WE1OZG5ZVkp1TUlscUR5b3ZBWWZZaV8tZ2IwM0ZIVEZnRmxXU1BzN3Q5SWJpc2lWdGItWnU5ZHN0YlVNM3hzcVU2aUxOeGtBVVpvQ2hrU01hSWtxWTNERlpSdkhuaU9WUS1TbEZJZ2dQVzRVeWZab2h4dHFVaQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkNFNTM5NjZEcmk1OWdzZVMyTkdVZW9RT1VxNFl5SVo1aGl1TUNqUXVKUjFJUjEtTUhsRGpPQ1ZySU9KaVN1WGdURW95ZkQ5c2w3MFFPSF9MdDlvcDBwd3lrcnM5c0dZdGNyLTk3eTF5T09QemdWcU1FVG03TVoyblFqcTFmMGNManhpTkxfZXllMHJ2dzRfZldMVC1pNENfRTZmSUJoMlNwRms0S0pqYVZlNUVYd2ViU1dUMmtSa3cyM29ycEM1QVg3cmRpcVVKdkk1aElB",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlBwd2pUOWJrZGcyR1ZSa0NqQnJzUmotYXJQUlMySkNPUWp1OEkzOEdnZUJXTGoyNzFmUVhxZ2N1OXkyUGNscUFFSEhJM1ZkQVVDek1VQ2U3WS1RVVI2dGVoWXh5RFhyLVZNM1dyWXNxc3N5YlZmVlM1UXdoaFFYR0xxZnNWcGZXb051T0tqZnlXRkcySE8tOFNUME1Zbk9WZUdMNHNWZDFJbjllb1RRZG1VOTNxcGlHd0NvcWl0LTI2UDJkX2ZOQ2l4d0ZxZ1FFSXd1UE16UGdud0ZtN2xqb29GeFFrc2ZyZllxZg",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMlY1eC1TSEFrTW5vWTl6T3FHaVNEamdtMHJpQ2RVSTRBbGw2MW1SNFFHd0ZZQWRPbnB4cEtOYUF2T1BMd1FGSzF2R1U2cHlkd3J5VTZHUHdwWmxEZkl6S2poRzctdUVyNGNNYW1CZDhValRuWVRpVEhuZzJqVzA2X1RySnA1b3RrbjdBODB6dDNvZElNcGJHd194c0ZuN0pSRXN3NEQybkdINE5ES050ZWhmeGxKR1ZTQ2FCRl9ndnRPV2hhU09wQkt3bkZCVEJ4RFFzLWtDRXRiOWJDNFNCZHA4WlBQcGpjTlBsOVVYM05rSURQenBj",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaVJ1Q3MxVjc2V2lYNktFX3c5YVFWZ0lLbVpZU1ZQcENIZXRJel9FMzVGcFJmcTI5cDJkcWFIU3doZkdFbE4w",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MEtEV1BiY2hLZFBzMkNLWklmTFpQaGVWRHVWVkpGWTdxRVlSV3dVT0dEMmRPV3hDbTdvXzRYYmNTNjJvdjNtUDNucW03aFk",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VVWJSaTd3ci0taUlWM3dJQ2lrRU14ckhSUEZPLVVIOVBicUpKSHJfX2dSemhyTlFvSXoyMVJGX0ltU1A3Sk1PV3VyNGxIdw",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUC13QUYwQzVkVnVkLVMyQ29QaEhhdFdXbmJMOGxhWnFjdTBXblgxbFhGQTl1a2E4YVNvaTJjS093SnBpNUtOZTVJVGRvRFdyTHfSAVdBVV95cUxNWVpfMDZBNHBtSDJlU3VoMnlPcTlSa1BvakJ5RWtUQlpqLV9yVktBUzJhaDY4Vld6ZHZtRXdJTVVMYW15dmx5dnhTSHYwQnRvaC1waW9EdjQ",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvMTRHZjFnZG9LT190Y2xBbW1mMmo5UDlJQWs0bGZCanM2R3Q2Vm9iUEdOeUNOWXN4c0wtY1JzZzVycm9rekQ1ZWZVRjJmNG51NXfSAVdBVV95cUxQRW5aa251c3YwZnlaZWkyZFpWc2hXenF2U1JsTDluMWtmM1c4cHRCSGFWUHRya0xBNUZqaDJBcGxrWnFtbmtaMWllZ2lZc3U0b1FHY2wzVms",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tckxtb3Rlc2RIQkVtNEVUV0FJeGR6a0p3X3FlSGFXTlI1UXlobXNNcXFKcmZ3SWlpVkpTTkhTdW50REdYTnQwbzA2Uy1RSUE0QXNYVA",
@@ -61,7 +57,6 @@
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VHp4YUE3Y1BzT1FsWHM4ZU12a0pwTlNOT2haRGVPSzlzZXB6Y0lqT1YyNHRlNWV5dEZ6RGhZa0t4eVpSQW96NlR2TkMwSXlvMkZ2X2xLYUhPSVdoNjZrNTBqa2NMUnQzSUo2TzU2azh3VFhRUzMtZVdWUjY1Tk0",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiYjBkOEIxNE5tU0RCbWsxMGRELWVjTS1ac0RhTzZLNW5weTRoQWQxREFMN25rQjFCdDZBQW1XWGtTVnQ2OFQ1TXRqb0lNSjJ2djlTWE4zYkp5dkYyVTFDS3RsWTdMZTltR0RDOUIzUnJQNHpQWUpfMm5uWmIzQQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnoyekhwb1ZLaU1QdUtNZnFvLVNQbnlDZ1JkSm43MFBSVTBpSGVNRXhtQkFJbHRaWE52eFBCNmRmQThqSV9qS2ZDVlhQVTE1ZmdNUWVDYzZDTTdMbzhmRVU1djdjXy1FaG1sbXRIQ0ttdk9Fd0Ffcy1oZ2FLOURDVdIBlAFBVV95cUxPTVpvenpCYmVWOEZzTlB1QlVOSEpTMWdzUzhSZldibURIY0otLTRXQUVUUy03U0h0WHN0Wi05eGJfeUV1b2N3eFQ5X3U2T0t5SkswUllHQWt1bm9vQlRDSk1ld25DUWhQNk50bTZQS09rdmZaYUJxV3c2VGpjSHlDWS1Vd2tXRkpmcjkyQTV5OWdHR0dl",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc283bWxoTDM2bHFndlAtRTM0Y2tGQnY3MWpuLVFia1d1NUZsbUpRZFp4Um5GRTZSWTFSMS14dnFra04tTWY1dkozYWpUOVA2M2ZXM1dYbmswX1hTTnZMZW1XSmpENGFCSHNub3huVTJMOHdZb3o5TlNSRTIwTFlRaW4zenNfZw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU9hV3ZxZUVhZkVDR0FXTTg5OFkyUUlNc0o0NE8xSC1CRDhSRGU1SEJtMmtYZDR3Qm00WmM1TFpTVlRiTEw1ZWowMGpIQV9aWmVveUtld0tSVmNhaXlzSGJCcXFQRGJINy1hN19lejk2YzN0ZzVsZkVkdEhSRlRXYkwyQWl0QQ",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWlBTnZwUTlnX0lfYkFoekZQb2FSNWZxVjdyT0pQN1dCZ0E1bFdNbF84ZkdZVGVzbmlxNS0zME9XNTFXcTVlc3VscHhnaUp4d01NdTV4RDc2alRSX3B1Y0ZTM2Y4TWtiZzlmQmg2VGw1el82WWMyM0cyMVJ4S0VQSjZ2M0RwZXRy",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0gwX19ueXVGQmdrSGd4S2pKNnMxaDFUekVkcHd6U0NXUTJhRXdDaTRNSDJhOWtuUEMzSGF5RXczSVBHYk5QTVQzbjV0T0ZnaS1jNVZVZExaYVgtQm16dFIzV3l6RjJzRjJZTmx5U056OGhkSGFQUUpIOFByaVY1LWxmcU1FcUpwMWFz",
@@ -126,56 +121,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXUtR2ZLcEdUT1FLRnFKMGdWdGJydzlnRTNDaDJBQmNIdHdiQUxTMFphMGxhRlZHMm1qMnh2OTM5QXBDWlp1czBoUGpfV21KYjdNVmlKWl95ekRFVFRHcGt3RXNhUUhLcDJOQTliTFpRM19hdVlTTnEtQjExU3FCMGdrRkgtOXFtMkt2YnVUSmlZQzlTXzNWSERJR1RCd3VZTk42emI3VjR0MWJRaXU1N28xQ3cyd2JBcXY2OG1fV0xDa3FJc2pNLTVOX0NiSm8"
   ],
   "recent_posts": [
-    {
-      "title": "Іран поставив авіаційне паливо до М'янми попри блокаду США",
-      "original_title": "Iran shipped jet fuel to Myanmar despite US blockade - Reuters - Iran International",
-      "summary": "Іран відправив реактивне паливо до М'янми, незважаючи на блокаду США. Це свідчить про обхід санкцій Мінфіну США. Наслідком є посилення ризиків для енергетичних ринків та ефективності санкцій.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oR0hQVmVDZWZVYzBFM3dPbVhMRWJyeEhIa0NBM0RubEIwb3ItRjQ2Tmo2RUlsaXNjdWJsQnlrTmhTQmxNc3JQekJuTy1XQWpQT1E",
-      "published": "2026-10-16T10:51:27+00:00"
-    },
-    {
-      "title": "Turkish Aerospace розширює виробництво Anka 3 новою лінією для модернізованого дрона",
-      "original_title": "Turkish Aerospace expands Anka 3 production with new line for upgraded drone",
-      "summary": "Компанія Turkish Aerospace розширює виробничі потужності для безпілотника Anka 3. Перший апарат з нової лінії очікується найближчим часом, після чого пройде льотні випробування. Це сприятиме збільшенню поставок модернізованих дронів.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone",
-      "published": "2026-10-16T11:02:00+00:00"
-    },
-    {
-      "title": "Міністр торгівлі Канади: Індія та Канада скоро підпишуть CEPA",
-      "original_title": "India-Canada to sign CEPA soon, on track to conclude this year: Canada Trade Minister Maninder Sidhu - Deccan Herald",
-      "summary": "Міністр торгівлі Канади Маніндер Сідху заявив, що Індія та Канада перебувають на шляху до підписання Угоди про комплексну економічну та торговельну партнерську співпрацю (CEPA) цього року. Офіційне джерело підтверджує, що сторони планують завершити переговори та підписати документ найближчим часом, що є конкретним дипломатичним кроком у двосторонніх відносинах.",
-      "source": "Treaties & Agreements",
-      "publisher": "Deccan Herald",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQlBwd2pUOWJrZGcyR1ZSa0NqQnJzUmotYXJQUlMySkNPUWp1OEkzOEdnZUJXTGoyNzFmUVhxZ2N1OXkyUGNscUFFSEhJM1ZkQVVDek1VQ2U3WS1RVVI2dGVoWXh5RFhyLVZNM1dyWXNxc3N5YlZmVlM1UXdoaFFYR0xxZnNWcGZXb051T0tqZnlXRkcySE8tOFNUME1Zbk9WZUdMNHNWZDFJbjllb1RRZG1VOTNxcGlHd0NvcWl0LTI2UDJkX2ZOQ2l4d0ZxZ1FFSXd1UE16UGdud0ZtN2xqb29GeFFrc2ZyZllxZg",
-      "published": "2026-10-16T11:07:00+00:00"
-    },
-    {
-      "title": "Ворш сигналізує про стабільний outlook ФРС попри стрибок інфляції",
-      "original_title": "Warsh signals steady Fed outlook despite inflation jump - Mezha.net",
-      "summary": "Ворш сигналізує про стабільний outlook ФРС попри стрибок інфляції. Заява вказує на незмінну монетарну політику Федеральної резервної системи. Це може стабілізувати очікування ринку щодо процентних ставок без негайних змін.",
-      "source": "ФРС США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc283bWxoTDM2bHFndlAtRTM0Y2tGQnY3MWpuLVFia1d1NUZsbUpRZFp4Um5GRTZSWTFSMS14dnFra04tTWY1dkozYWpUOVA2M2ZXM1dYbmswX1hTTnZMZW1XSmpENGFCSHNub3huVTJMOHdZb3o5TlNSRTIwTFlRaW4zenNfZw",
-      "published": "2026-10-16T11:34:25+00:00"
-    },
-    {
-      "title": "Бійці 42-ї бригади врятували росіянина, атакованого власним FPV-дроном під час здачі в полон",
-      "original_title": "Бійці 42-ї бригади врятували росіянина, якого атакував власний FPV-дрон під час здачі в полон",
-      "summary": "Для евакуації пораненого застосували наземний роботизований комплекс, що дозволило дістатися до нього під загрозою повторних ударів FPV-дронів. Використання НРК зменшує ризики для особового складу під час операцій у зоні активного ураження. Подія ілюструє тактику виведення полонених за допомогою дронів-навідників та роботизованих платформ.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/bijtsi-42-yi-brygady-vryatuvaly-rosiyanyna-yakogo-atakuvav-vlasnyj-fpv-dron-pid-chas-zdachi-v-polon",
-      "published": "2026-10-16T11:36:49+00:00"
-    },
     {
       "title": "Словаччина збільшить оборонний бюджет до €3 млрд у 2027 році",
       "original_title": "Словаччина збільшить бюджет та чисельність армії",

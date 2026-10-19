@@ -4,6 +4,7 @@
     "https://army-technology.com/news/elbit-systems-extra-mr-puls",
     "https://army-technology.com/news/us-army-drones-africa-test",
     "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
+    "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
     "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions",
     "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
     "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones",
@@ -17,6 +18,7 @@
     "https://defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
     "https://defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
     "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
+    "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
     "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
     "https://gov.uk/government/news/foreign-secretary-statement-on-the-deadline-for-bids-for-the-e1-settlement-tender",
@@ -52,14 +54,15 @@
     "https://militarnyi.com/uk/news/sklad-inozemnyh-komponentiv-u-kometah",
     "https://militarnyi.com/uk/news/sloveniya-nova-zenitna-systema-skythunder",
     "https://militarnyi.com/uk/news/ssha-postachayut-ukrayini-12-raket-patriot",
+    "https://militarnyi.com/uk/news/ssha-zatrymuyut-peredachu-raket-patriot",
     "https://militarnyi.com/uk/news/turechchyna-otrymaye-rosijske-dyzpalne",
     "https://militarnyi.com/uk/news/u-velykij-brytaniyi-predstavyly-nrk-varan",
     "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
     "https://militarnyi.com/uk/news/ukrayina-ne-otrymala-poperedzhenny-udar",
-    "https://militarnyi.com/uk/news/vidnovyty-vyrobnytstvo-tu-160m",
     "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
+    "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
     "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlBLN2tONE94Z1l2NnkwbEJSdXB1UVRTdl9Vb051Undic1lnNmJXZVpETTU1b0ljenZmdHptREJjb2IwZ2lZN2tQUDAtRmN1ei1zRmJYVkJHUVFnUnNyeGl6NlBYRThPVGFVTl9aZVE4a3YwZEVIQ0tKNGRDR3FpeTJaQ1NCSnhFR2swUXFVZUpNenh4RnNWbnFuNExFYnFUV3BsVjhsRURXTmE2TENUb1k4VUJWM2d3TXoyRWpZRFRXSVd0bUZSS0NjS3NTT3JrNkxwakRyaTVFNjI3NERTMWVKVGZZT0NvaXlZdmRWaHZjNUZuTlJpNg",
@@ -76,7 +79,6 @@
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDN5cTZkNXh5bEMwT1gyTHkycldWX2NDOG5iSmswUWxzbFVSQUNaY0N0SmFZeFE1c3FWMVN5VFdFV3BLN2hBSXhLY1o4Z2xjWUhKR19ScWJ6YklkU0Y4YWw4bVo3UDRoSTVJM3lsOXJpM1pvWjVlR0Q5Y1k3ZVFJQ2FWSlFoeXZrN0cxXzFodlhyUVM5dFNqNllfdlVuaWxFQlhidmtsbEhWRFFjTjNnazZucnRkeGY3SEViaUtwUFlzeDVJS0hqLXp6b3FqQlk4eXZXbmZHV3FhWjdzMDhtYlBNVXVndG_SAewBQVVfeXFMTXkweGpUTkZXTF9fbnk5Uk0yQ00xQkpjRVRXdkc4OVhOcEJHSXJGQlhZWDQySWZob0QzNm1JUkxJMmNZR1FfcUdBVXNrcmUtOFd2WmtjZ2pPR1laS3dENzFmWDNFZWpyQWYyTXdoUmZrTkNjTnhwTThFV1dVMXgwMDBnc19sMENaSzdqeFlPTlBYRC1yRjdpVHlyUjBDYTIzQW9ERmhkOGsyVlZXQW0zaXl1VkdLRkZCQ3J6S1ZKT2c5ajdnNGlBcUw2ZFo2UnVhQlR6VVNXd0M4YjhzWk1GT0ZZSnpPbW45aTdjVVc",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT0tNYm50bzZFQnJSeVNNcnlSZkRJZlZpUndqVXIwcHMxMVV2aFpVcFNiUVlwWDBJb2MtZFZRNC1RMFpCTFpZby1LYlZvQ0U0RS1EbXJiUXpyYUY0cGh2Z095bjRDMWczRXlnTXVwMVZreFJtSjI4bXlZUGdRWHJDdUVmTEdWRDRURGFDelc4RHJpVHdCb1NlNHliT19LcjJVS21tckdGUS1CbkZFN3VHNkhfdmcwbGo5eFRCQkZEdVFWTmdDNExQeWVjdVhRNkRxWHE2OU8yZTR0aDBkRlFIampkamxZNHZa",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZW5DSUEtd1VpMTdfcS1oeFlvbjVteEdmek5wQ3N2RXpOUERncVo4cF9Tc0RrVG5aMy1Dc2NlbVJiMkwwSXhGZl8yUDY5MmFNak9GVW1sZE8tYml3clZuY3lPdTdOalN3WVZwQTRfc19xZ1hQbXFIQXdJMklOMllQaHNwZGlHRV9ib3lEekNic05qcFg4YWQtT0lmTnF3MHBwZjRDVXVVcFdoY0tFblczaXh6T3dsb0I0MEE2VVZaLWVWU1NHU213dEFwc1AwQmJzcFhqd3V6dnNtb1ZTZVVmOUtUQ1V2N09s",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMjN0Q0VRRnRkYVRsMjlwT0ladnBvamsxRXR0ZG5NaklGOGpTcWhNSjJvSktUUlBpdEhlNGxKMlh6Q3FzTDdvWkZjZ0F1MEc3czMyY2VuWjJLY0FyOUN3dVFxMTBsdmFXM2hHYl9oc1JlMm9sV3ozaG1MaXhHMnd0VE8wZ05JOGt4d1YxZFF6NnFaZWRKYWE2ZU9YRWRwM2M1emp3UlpRTlB3OVZBdTBJWXNRZ3NET05oWjVkbmI2dTVZQVR6N25TUllpNW04Y1VCWUhZeWhVZW1uNTdzMFRld3QtajczSjFONXc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUlZURFhZa1ozRll1UUIzQ3NwTUU1RVFBcmk4U3BtVzZUTEVYZ2VoVkg0YlF5MktlaVh0Qy1mcnJXWTEtVk5USHlfNzE4RHBrS0kwemZKMHlob0s3RTlNQ2t5WVNKX0xIZUxOSFdTbEktSkNZNnh6QTNPZE1VOUt2Ri1pRi15VFlHUHFERW94NFpuU3lKZkdRTHRkRElrY0lIa0QyUVNNRk9FSmIyWnBsZzY5OUhBR2dyTFZBYnUzNzBLVEtjYjFvaFZ4R0JHcmNXY3VrNWtXWHNWN0duRUc4S2JBeTNsUzNCa1E",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXhseTZCSUlWU2dvdUlVY1BrYXZINDJ6SlpaLU9neFB3X1VNNDFmUXgycHJQTXpJUVVpVjB5YnlhOXR5ZjBoLUViN1d2NWppdHNReDRwUGprN0k1dEVVYXN6Q1RiX1FGeW5zTU5fM3pGMjJ1S2k3YXFLVlZONlJFbTZZLUhIOUx5clBBTG5KeXZoZEhTbDBkZVZYWllZWjdKN2ZYRGtRT0VRY0wyMUx4R2FLTHoyT2JQa0h6ZmwxZTJXZy16bzB2dWVkTUFIdFdtMmhNb2ZURno3eS1fUE1iVWhkNk90ZkIyQUHSAeoBQVVfeXFMUEV4bHk2QklJVlNnb3VJVWNQa2F2SDQyekpaWi1PZ3hQd19VTTQxZlF4MnByUE16SVFVaVYweWJ5YTl0eWYwaC1FYjdXdjVqaXRzUXg0cFBqazdJNXRFVWFzekNUYl9RRnluc01OXzN6RjIydUtpN2FxS1ZWTjZSRW02WS1ISDlMeXJQQUxuSnl2aGRIU2wwZGVWWFpZWVo3SjdmWERrUU9FUWNMMjFMeEdhS0x6Mk9iUGtIemZsMWUyV2ctem8wdnVlZE1BSHRXbTJoTW9mVEZ6N3ktX1BNYlVoZDZPdGZCMkFB",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2ExaTFKOU82bFFBUl82a0RfVVlad3ZPMFZmdFpXa2dzcXFTaFlOSDhVWFFyR29UdWVycGZCcW5tWGVlUndaM2syZ0tFWEZXOTU0Qk9kQWROM2dncDEwTVg3X0c0c0F4RzlZdkt2TGliM09XNXhJdWdHQkYweE1WOEdSYVhOUnU3bUdaTkhFUEcxazhoMkdnOTdQQ0ItTzZVZ3YwWWMtT3pMQmUydGsxQ2tBT3lFWWxxMTZsMENJempyaXRBSTdVTzRGQWxRT2FDLUYzTmVIT0J6T1U4bU1yaGQtVnlKMnZEYnBBdC1B",
@@ -124,7 +126,6 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYl81enpkdGRjYjlZU0pMODBKaDFPZWJ3X2xES19zd3I5MW1lODd0azB5WURvWE1sSTlNTHlScElzSUpDUUhqa2JKbTNXd04xOEV0VnVvYVBsUVJldFdsT2FKSlpJVVJpWVhZLVlHZWVKcmJBR3Z2Slk0Q2RMYnFScm01ZnFxcjNfcWpkY3JVMHRJOEZtdkxmM0ZlTm9aZTlWZDltYTN2YkJ6UEJ6ZFE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmhTV0t0b1hRSUtNVDFadnBBdjJ5dlBucTRlMGVpcXVjUFlaNHg3WlRJVDk5X21TV1VqWFpUSmxfTDcyZGZmQWVaSHdJTFJrb1kxUEFiVkNJSWJ5X3Q3eXJpUTZMSy1FMFBjb1VHS3M3UGVaVGpUdjRfZDd1SnBGbllQM2tZbU1oOUQ2cUN3QjR3Y1VtekI5MDhhN2tyakRDTk54Zm5GakdOa0pQZDVDTA",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkt6RHREWGc4T29qOTJ3VHpTWWVwMjVlUy1GU2ZPQVRPSzVxUEdKRWpQblF1Q2s1a2hYRUZqeS1WMTRtamNka0pOdXR6YlNONWE4NndFWFBET0lwak05bENkTXJRQklrUEVOSWN5NVV3TGlPek1TRjhhWEttUkR0N2R5NzF0WVRLQkMxcmhMd2hFWDdmcTlKUDdIUVdqRjhtc0FZMmJBaDNocUgtV2xYRlRn",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2ZxeHktMXNONjNjYmpWYWgwaXZvd0szM0F0TlVFVjlrX0g1QmVqR2ZDV2JEby1IMEZmZE1GVlBxbUFrcC1QcnRqRFVfMXdNSFpyTXNoYUlhVzJsaXZjU2hRS1BHa0hpV0p2SVpXZDg0U3BZQ0tqcnp2YU1qUEVyWWhMZ0s2bmNQQkotaHd5cEkxVG1RcE5Hd1YweDJIYkFhd3pqWUk5bk02M2JKanlES3JSSQ",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFl3MEhWalEwWWhFWFNWRXdHb3hVeUpWTzN1TVBEZi1JU0JMMjNSa1pxWEhBQWk5UTB3RE1tZUlkSDl0aXNCTzF6ZUZHd0JCZGhNTTJ3a3N1MnZQM3pSOHlSajJDNlZPWXBabGVjdERmcEozNXlsOFdrQUlBYWxLV2U2ZV95MXVmbEdEbE1HZUFxVkNQUTZ3eUdfMW8zMXRQalhSbTFCRnVfRFFRdHBoT0dKVFhxWDg",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2lKR2ZxaUU2WE1Zbm5GcmZINEk5OHd6Q1Vsek1tbk9lbzZ5Q2EyeDBFMXhLNGN5aktlUC1GSjJoWkU0bWJTOTRBOFlFdXhkVzRtMFh4WnpyeFJZWDBvV0tKZGVLQk5qeEVfdXNER1paT09UNnNydVNTOG5NZ2pIdmp2RFMxQklObzRhOENKaDFNSGFWNDc5VFkzTk85ZWs0MWd0djRscE0yRll5SjFhcG5MZmgzT0Jq",
@@ -145,53 +146,12 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3FVRExiZ2JLam5XT3FQWFozWE5LMWpFd1liZEljX0xoT2N6T2NLVE5NMVlYVEFoOWNwM01DenBSUDc2S0UtR3M2Tm01d2M2aHpfSTA2ckdxYzJEVzg5TXZncjFLb2dBSWEwQnFCZXgtOTNla3A2enRsaTYtalJvVFdiYWdQZEVTQUJua25sRjJ6ZzdSTXRZei01eUR2OUNXRjZFOWlaZEItRnBYT0RhU3I3aGpuUElXcVRXZFU1ZldHRllqa0ZzS0VhVQ",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUc",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXVCRzBOM1BienhxVmQtTnJZQXZPcWhhRTkzRmJQQlM5c1RHVEYzSUd4ZG90S3lxLThsMEJmYU5JYzdGQ2diLVIzckZ1Uk44XzJwRjlmYXR5Wkoxbk9seUxuSlBDNlB0Yzhtejczb05SVVh4TTM3alN4cU9COU1MaTVvYmJwaTRGZjRERjRnYzYzRGpVUUgwbWVZRWhLYW9nWlpLUEZjdEZ3blhFUkxxSnVZQ1hhaG1mUFdTSURXTURtLUI1TWFnaFM2cGk",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ",
     "https://theafricareport.com/433863/us-africa-week-ahead-african-union-commissioner-talks-peace-and-security",
     "https://twz.com/air/aerial-drones-appear-to-be-picking-up-wounded-off-the-battlefield-in-ukraine",
     "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan",
     "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
   ],
   "recent_posts": [
-    {
-      "title": "Росія модернізує заводи для відновлення виробництва Ту-160М",
-      "original_title": "Росія модернізувала заводи для відновлення виробництва Ту-160М",
-      "summary": "Компанія «Туполев» оголосила про повну модернізацію ланцюгів постачання та заводів, що дозволяє знову виробляти стратегічний бомбардувальник Ту-160М. 80 % систем літака, включно з бортовим радіоелектронним обладнанням, системами управління та двигунами, оновлено з використанням цифрових технологій, що підвищує його бойову готовність і можливість подальшого розширення функціоналу.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/vidnovyty-vyrobnytstvo-tu-160m",
-      "published": "2026-10-18T14:47:21+00:00"
-    },
-    {
-      "title": "ОАЕ підписали угоду про проведення зустрічей Світового банку та МВФ 2029 року",
-      "original_title": "UAE signs agreement to hold 2029 World Bank and IMF meetings in Abu Dhabi - The National",
-      "summary": "Об'єднані Арабські Емірати офіційно підписали угоду про проведення щорічних зустрічей Світового банку та Міжнародного валютного фонду в Абу-Дабі у 2029 році. Цей дипломатичний крок підтверджує статус еміратів як ключового центру міжнародної фінансової дипломатії. Документ закріплює зобов'язання сторін щодо організації заходу, що залучить лідерів та представників урядів усього світу до обговорення глобальних економічних пріоритетів.",
-      "source": "Treaties & Agreements",
-      "publisher": "The National",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ",
-      "published": "2026-10-18T14:55:34+00:00"
-    },
-    {
-      "title": "В’єтнам і Ліхтенштейн домовились про швидку ратифікацію FTA",
-      "original_title": "Vietnam and Liechtenstein agree to ratify the Vietnam-EFTA Free Trade Agreement soon. - Vietnam.vn",
-      "summary": "В’єтнам і Ліхтенштейн оголосили, що незабаром ратифікують Угоду про вільну торгівлю між В’єтнамом та країнами Європейської вільної торгівлі (EFTA). Сторони підтвердили готовність завершити процес ратифікації в найближчий час, що дозволить повністю активізувати торгові пільги для обох сторін.",
-      "source": "Treaties & Agreements",
-      "publisher": "Vietnam.vn",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkt6RHREWGc4T29qOTJ3VHpTWWVwMjVlUy1GU2ZPQVRPSzVxUEdKRWpQblF1Q2s1a2hYRUZqeS1WMTRtamNka0pOdXR6YlNONWE4NndFWFBET0lwak05bENkTXJRQklrUEVOSWN5NVV3TGlPek1TRjhhWEttUkR0N2R5NzF0WVRLQkMxcmhMd2hFWDdmcTlKUDdIUVdqRjhtc0FZMmJBaDNocUgtV2xYRlRn",
-      "published": "2026-10-18T14:59:53+00:00"
-    },
-    {
-      "title": "Чехія не передала Україні L-159, але дрони ЗСУ ставить вище за літаки",
-      "original_title": "Якщо чехи вважають, що дрони в ЗСУ краще за L-159, які нам так і не дали, то для чого їм самим ці літаки - Defense Express",
-      "summary": "Матеріал Defense Express відштовхується від чеської тези, що дрони в ЗСУ корисніші за легкі бойові літаки L-159, які Україні так і не передали. L-159 — чеський легкий навчально-бойовий літак для підтримки військ і підготовки пілотів; без фактичної поставки він не змінює можливостей ЗСУ. Якщо Прага справді вважає дрони пріоритетнішими, відкритим лишається питання, яку власну задачу ці літаки й далі закривають у чеських ПС і чому їх не передали.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMjN0Q0VRRnRkYVRsMjlwT0ladnBvamsxRXR0ZG5NaklGOGpTcWhNSjJvSktUUlBpdEhlNGxKMlh6Q3FzTDdvWkZjZ0F1MEc3czMyY2VuWjJLY0FyOUN3dVFxMTBsdmFXM2hHYl9oc1JlMm9sV3ozaG1MaXhHMnd0VE8wZ05JOGt4d1YxZFF6NnFaZWRKYWE2ZU9YRWRwM2M1emp3UlpRTlB3OVZBdTBJWXNRZ3NET05oWjVkbmI2dTVZQVR6N25TUllpNW04Y1VCWUhZeWhVZW1uNTdzMFRld3QtajczSjFONXc",
-      "published": "2026-10-18T15:02:00+00:00"
-    },
     {
       "title": "Anduril може виробляти перехоплювачі в Європі, каже executive",
       "original_title": "US arms firm Anduril could make interceptors in Europe, executive says",
@@ -923,6 +883,16 @@
       "published": "2026-10-19T09:32:33+00:00"
     },
     {
+      "title": "Безекіпажні катери Exail передадуть ВМС і Береговій охороні США на випробування",
+      "original_title": "Exail USVs Set for U.S. Navy and Coast Guard Evaluations",
+      "summary": "ВМС США оцінюватимуть DriX H-9 як платформу для відпрацювання протидії дронам, а Берегова охорона США отримає Oryx O-16. У повідомленні не наведено ні технічних характеристик катерів, ні складу обладнання, ні строків чи обсягів випробувань. Вибір цих платформ показує, що американські структури розглядають великі безекіпажні катери як носії для протидронових завдань і для морського патрулювання. Реальний вплив залежатиме від результатів оцінювання.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
+      "published": "2026-10-19T09:34:54+00:00"
+    },
+    {
       "title": "Рада ЄС погодила позицію щодо спільної організації ринку сільгосппродуктів",
       "original_title": "MFF 2028-2034: Council agrees position on the common market organisation for agricultural products - Consilium.europa.eu",
       "summary": "Рада ЄС погодила свою позицію щодо спільної організації ринку сільськогосподарських продуктів в рамках багаторічного фінансового плану на 2028–2034 роки. Це рішення є частиною переговорного процесу з бюджетування ЄС. У тексті джерела не зазначено конкретних учасників засідання чи додаткових умов, окрім самого факту погодження позиції.",
@@ -1643,6 +1613,16 @@
       "published": "2026-10-19T18:24:00+00:00"
     },
     {
+      "title": "Гегсет не підписує вже оплачену партію ракет Patriot для України",
+      "original_title": "США затримують передачу Україні партії ракет для Patriot — Kyiv Independent",
+      "summary": "Ідеться не про нову обіцянку, а про значну партію ракет-перехоплювачів Patriot, яку, за словами українських чиновників, союзники вже оплатили, але контракти досі лежать у міністра оборони США Піта Гегсета без підпису. Київ отримує такі ракети кількома каналами, зокрема через програму PURL, і не розкриває залишки з міркувань оперативної безпеки. Якщо схвалення й далі відкладатиметься, доступний боєкомплект ППО скоротиться саме для прикриття міст і критичної інфраструктури, попри заяви НАТО, що постачання в межах PURL загалом тривають.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-zatrymuyut-peredachu-raket-patriot",
+      "published": "2026-10-19T18:29:59+00:00"
+    },
+    {
       "title": "Бронетехніка 3-го корпусу прорвала 5 км у тил росіян під час «Вівальді»",
       "original_title": "Бронетехніка 3-го корпусу прорвалися на 5 км у тил росіян під час операції «Вівальді»",
       "summary": "Підрозділи 3‑го армійського корпусу двічі застосували бронетехніку для штурмів у тил російських військ, прорвавши 5 км і висадивши піхоту біля позицій операторів БПЛА. Чотири бронемашини, одна з яких була знищена, пройшли 4,5 км, знищили лісові масиви дронів і знизили розвідку противника. Ці дії розбили оборону російських підрозділів і забезпечили українським силам можливість продовжити просування.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/bronetehnika-3-go-korpusu-5-km",
       "published": "2026-10-19T18:42:27+00:00"
+    },
+    {
+      "title": "Пентагон і BAE уклали угоду про 25 000 комплектів керованих боєприпасів на рік",
+      "original_title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "summary": "Пентагон підписав рамкову угоду з BAE Systems про постачання до 25 000 комплектів систем керованих боєприпасів APKWS щорічно протягом семи років. Кіти перетворюють безкеровані 2,75‑дюймові ракети у лазерно‑керовані боєприпаси, що дозволяє знизити витрати на знищення дронів порівняно з авіаційними ракетами. Умови угоди також передбачають збільшення виробництва до 35 000 комплектів щорічно для союзників через програму FMS.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
+      "published": "2026-10-19T18:50:11+00:00"
+    },
+    {
+      "title": "DIU представила наступний етап конкурсу безпілотних суден",
+      "original_title": "DIU unveils next phase in unmanned vessel competition",
+      "summary": "DIU оголосила, що у новому етапі конкурсу шукає безпілотні поверхневі судна (USV) з \"зріліми\" системами жорсткого знищення повітряних цілей та датчиками, стійкими до шуму та перешкод. Це підкреслює прагнення інтегрувати автономну протиповітряну оборону та високоточні сенсорні комплекси, що підвищить ефективність USV у захисті від авіації та розширить їх бойові можливості. Такі платформи можуть зменшити ризики для особового складу та забезпечити нові варіанти автономного морського бою.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
+      "published": "2026-10-19T19:03:22+00:00"
     }
   ]
 }

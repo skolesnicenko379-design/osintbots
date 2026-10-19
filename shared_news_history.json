@@ -33,7 +33,6 @@
     "https://militarnyi.com/uk/news/spetssluzhby-mogly-pidkupyty-mafiyu-dlya-pidpalu-starlink-u-polshhi",
     "https://militarnyi.com/uk/news/ssha-vidnovyly-peredachu-rozviddanyh",
     "https://militarnyi.com/uk/news/starlink-obmezhyv-perehoplennya-geran",
-    "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
     "https://militarnyi.com/uk/news/u-lytvi-namagalysya-pidpalyty-starlink",
     "https://militarnyi.com/uk/news/u-velykij-brytaniyi-predstavyly-nrk-varan",
     "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
@@ -41,12 +40,13 @@
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
     "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
     "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXI2WFh5NW42NFAtQW9TMzNvR3VKd19yV0N1cHdtamM1MG5ENHdnMFhtUDJSX1otTG5SQU91VG9fSTNlajhvQTQxc2I0RUw2bFhGbGNtRVg5YVl6UmlfanRSYzg3TjBEWkp6cHZOdlpyV2EzSHJ6MEVNRU9DNkxMRTQ2UTNSTGY5VjA3eDBvYXdfSnBLcFRxNE9sQ3ZIX21LeHRENERrRmtBRmlILWVLclFrV3VmTDEyRUtpWEF1dFJMUlJzVE1vYlNSblFULUJkVDAwVjJybml5WXk0TDNPQUlWaVdrNlVNei1jVWpmUDdvaHRIRmNLQXRn",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZExUcUIyd0VERFU5RklJUHl6NkdsRHJJMDItNHNOZzUwQ2FnZ2p6YjVYMTc4NzhkSFhJWXNHd3BSdDFXQmE2N0lDRzNBdTgwSzdjTnlDOUNBMHBYbU5oQVFnUFNMc2NXM1FRc0hEbzZGZVpaeG1hY1h0dkxDUVA0RjhwWnNkVzY5OWp0SzRBdUdjX2Uta1BManlsbmJoVHlqUVNLWHdBMmZrRFZ0clpZamdJd0U1aE5HNTFXZ0cwMWJaY3hFUllkNlBqM1BRa200VXJBZ3k2a2Y3cHZxbWUtX1BuXzhkNG5XMDFldFRBNlkteFR4QUVVZWJ3",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGg5MGxqdFdDR2MyTGRfcXdUNE1ULUxxZTk2bFZDX2dLZmdXTnNKY3VHdTU0T1g3TVUwSWYyUjZGUHBiQ1ZVS1h6SHhmSFVpbFVtQ0EzYTZfMEFEU1RqVXlRcmVHZ1k1d1c5b3ZEYV9qbkh6Y2loaTFpUWVES2dsbXpuNnNUNER0cWhhWUN2LXJrY21UdkstY3RObjFzQ3RpS0l6bGFLRXpQbllpY0cyM0lVTUVSVTBBMy1qQ1BGeERIUkJOVzFqYWprWXBhTmE10gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdkNFNTM5NjZEcmk1OWdzZVMyTkdVZW9RT1VxNFl5SVo1aGl1TUNqUXVKUjFJUjEtTUhsRGpPQ1ZySU9KaVN1WGdURW95ZkQ5c2w3MFFPSF9MdDlvcDBwd3lrcnM5c0dZdGNyLTk3eTF5T09QemdWcU1FVG03TVoyblFqcTFmMGNManhpTkxfZXllMHJ2dzRfZldMVC1pNENfRTZmSUJoMlNwRms0S0pqYVZlNUVYd2ViU1dUMmtSa3cyM29ycEM1QVg3cmRpcVVKdkk1aElB",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHl1d1lFVGtQZ3lhbjdMWjdhLTV2UUVVUkhSY21OeUJjSl95TFdoZzZjSDRNV1VJVERDSXlkVzJ2V2gwOFRqZmYtMEI1b0hhZGtoUWh0ejlMVzJZM096b3VndGdRdkZzbm13YVJpTXdIblQ3VkM5Q2JqbmpORkxxZTNHdmxzbUN3XzVkX214d08xRGxhVFdsNnJrem5YYjdnYnVHOTdWUEV2MmZQYloyLVNwR1F1WXRnNTN5X2xiZ3p3SFROa2lyYzVoLWt6ZU5qbV9TRHBn",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdGw1S09Uek4xeWhtaTZyYm45M0otTGdCcUJISS1YTklKSWxYZTMwaDh3Q0Q4RkJkNkVOdDU1RkN5NmJ6Sjc4REV5dlZYaUhsekZRMnd6MjAzNlBCRVhKSk5XY1VpVWxSSDBqWmNvZWV2NWpsWVBIU0daeVlUWWt1cm5UQWpzNDdiaE1kWm1qOG45UzVGMFl2OXJXM2tMdlNuc1JKbjhnaVRFc3BiWWtvdTFBek94VlQ2dmJWcnY1b3d1c256aGl1djdLWkdMRTFCTVBFRF9yOUF0RHdqVm9BSGFsNNIB6AFBVV95cUxPcjhCTC1kNXZuaGk3U0xjRDlPb2dEQWVUSnhJSjcwLUd0M0xRUGdWVDA4TEtURkdEOHY5ZzkxT2FXZjlxOGhyVGhRSE5DdjgyX2c0SGpvdEpXTnNibGxYY21wMFE4dzBoRW5mZXY3elREUmVobDdUd2pGYk1MNkNhVjExRk0tdWE2ZkxCb0dYbnp5WVVvQ2dMRnMzN0U0TEswR0NnQlVlZDBFMU1Qa3ZWQ1F3VVpkbFdROXVib1NYLVFfRURNdDRfZkxMc2MxSXRZS0JKYURUc3FtZFNMcUZ2ME9iWVJFbnVf",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRXhseTZCSUlWU2dvdUlVY1BrYXZINDJ6SlpaLU9neFB3X1VNNDFmUXgycHJQTXpJUVVpVjB5YnlhOXR5ZjBoLUViN1d2NWppdHNReDRwUGprN0k1dEVVYXN6Q1RiX1FGeW5zTU5fM3pGMjJ1S2k3YXFLVlZONlJFbTZZLUhIOUx5clBBTG5KeXZoZEhTbDBkZVZYWllZWjdKN2ZYRGtRT0VRY0wyMUx4R2FLTHoyT2JQa0h6ZmwxZTJXZy16bzB2dWVkTUFIdFdtMmhNb2ZURno3eS1fUE1iVWhkNk90ZkIyQUHSAeoBQVVfeXFMUEV4bHk2QklJVlNnb3VJVWNQa2F2SDQyekpaWi1PZ3hQd19VTTQxZlF4MnByUE16SVFVaVYweWJ5YTl0eWYwaC1FYjdXdjVqaXRzUXg0cFBqazdJNXRFVWFzekNUYl9RRnluc01OXzN6RjIydUtpN2FxS1ZWTjZSRW02WS1ISDlMeXJQQUxuSnl2aGRIU2wwZGVWWFpZWVo3SjdmWERrUU9FUWNMMjFMeEdhS0x6Mk9iUGtIemZsMWUyV2ctem8wdnVlZE1BSHRXbTJoTW9mVEZ6N3ktX1BNYlVoZDZPdGZCMkFB",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaVJ1Q3MxVjc2V2lYNktFX3c5YVFWZ0lLbVpZU1ZQcENIZXRJel9FMzVGcFJmcTI5cDJkcWFIU3doZkdFbE4w",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MEtEV1BiY2hLZFBzMkNLWklmTFpQaGVWRHVWVkpGWTdxRVlSV3dVT0dEMmRPV3hDbTdvXzRYYmNTNjJvdjNtUDNucW03aFk",
@@ -72,6 +72,7 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2JsZWpNUEs5ZXNfTGxXMzVvOFlnMFJVQ0ZrNFIxYkFBTy1mdmpVVEFsOTBDWkxDbExWRmNiRTZIOGREVjdveXZsaG50aTNrdzBrZXBvV3ZuQVZ2OUtwLXIzSVN4NzltYkcyTkl6ZWJzVUZkMkdaUUxuMGNiY0FWU0lPaTNoc3pUVFE",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0gwX19ueXVGQmdrSGd4S2pKNnMxaDFUekVkcHd6U0NXUTJhRXdDaTRNSDJhOWtuUEMzSGF5RXczSVBHYk5QTVQzbjV0T0ZnaS1jNVZVZExaYVgtQm16dFIzV3l6RjJzRjJZTmx5U056OGhkSGFQUUpIOFByaVY1LWxmcU1FcUpwMWFz",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDRka0pFbHVnRE5zTk9Gc0VxTTZZMWt3MjF6Y3RuUHlPUDBDSFc5c3Z5TWtzZHJBOEdJTENRNWtDSnF3VGc2TzZ2dl8xcDdhRVFnMzhqSy1SWWdoeUhydlZsSG5WUUtWX2dWQ1ZpVTJQYmZkb2ltNXNwRUw5ZDZRMVNTY0ZhMzRSUmRKQjYtYw",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVgwU0l2bjYwREJ2NE9WVC1ObnpJa3Qxa2syS0lmUXphVm8zTWpnYVJ5NXpFZmxWYUZlVXpmc3ZFQzk2ZnZlYjNSUHRPb3F1emZhVDdPNEMxak1mM2wzOEZtYnA5dklfUFlfOUdVRU5lSXNmTlhqMy1pUElaMjNBTEFJbV9IRHNkRGt1NHJKVDVFd1Za0gGaAUFVX3lxTE9IOWFDX2MzMVhjUXl2VE1oTGNTTlowMmxkMUZnNEQ1TzhKemJ3TmlSTElmdzVPQ3VmR2E3OGdNLXN2dVBHQ2xiLXl0WWJfdjBUQktuSnNwbTNQV3puQzBJTUVZS295S2lHYU9iQVpFd05FQkw4WmhmZ2EyU3dCUWt0bHNCUy1xX0pHME5ZbVBlZ1RXSkxnSVZ1TWc",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRS1EZDFyRHE4cDdrMVVmMllCeVRDNmhrU2libXgtYnFpeHF5allZM2liLTQ4VDFXYWZnMmZ2RmNoSlUyMnNiYkhKX0Ruemd4SGkxazUzc2EyT2pGbExySlJkYkRocmxSNmhvZUlCSjlxV1BNVU1HS1dNOC13ejRGSHVRZEl2UmdKT1ZPbG1hMEJvQUxM",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmpDUmRUekd1Y01reWhMNHlVQlpoV3Vrdm1GcHhhbVM3OU9ZTXlKOTFQaWpGWnBjd1dVYVZub0JZT0tFTHUyZ3JwQjJYUWxUVEszZEFWRDNudlo3SWlBR3VHY2s2NDFrQXR1WVdFeGlFUjR5aEZ6T2x4N2R3dTc0R0JKUVB0ZHdhTnJhUnctRW5qS0oy",
@@ -88,7 +89,6 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXhFbm1ySVNTMFUtQndTZl9XZjh3cDRNT2U3VEtTdHFYSmNnOEllQUdwTEp0bDN5bTdCd3A5WnlfWlpkQmJMN0FGbWl2TUd6MUh2MlF6VEZBSlU0cFhvZ0xTUmYyT3RzNEVDZ2ZxNnF1QUZuWW1ONERuX2RlaUxLbXBLWFk2MWtWb0dFYzZiMkxOMzNQS3RxQllpRFU1NjRXbDV5Zg",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnFqeldiTWNXNzFwNGJlRGtySWZIdW4xdzBQdGl0Z1JuR3VZTHlnZmJwak1mWW1nbWdHRldKQnNrNFBUY3dETWZ5LVduUzR4SENHdkJjT1JXVVdEZ2FGUDUwNHpnbFdKRG9XSXZ5aDhiZi1velBmZmZ0djFfbUotT2hYbVptMFRzbUhKbEJQV2llNXZ4eVhBWXpSaGp2V29iV2NrM0Vtcw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUthQW92WHJmTGFUTjRhMEJ2QjVrczI5TkZVMk9QU0ZiOWZ2c2RobTctdnNBZkRFcVNleHVPTXhhUjg1U0VXNlB0ZU9qdkhWZnp2eF9aZ0VnQmt6M1pqdmFiby0wcVYyOEYxaXVuUzlsbmsyRFA3blpQWE85amo2NE1PVGxtYVpCcEFmOEN2a0JETWxnc3FyS2VFNWpoVHYtaDdOWDV5aw",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWpYeXdtSjkzUUViSXZ2VVV6c0ZjN21LREZwakdtVDBnbG1VUy10Z0xpUkhYWDduSjYtZTByc3VBcEdGUEluRVNJVlhIcUhTZ0tGX1VuVi12NnFpOS1kdEdHR1ZETHliaER3TmNKeXVOai1EM3ZwTEZFSXRzWURaY3c5UzIyV29ZcWZpUHN6RDVmUE5fWW9RdWdRQ0xLcFA3NTcyOVk3UFE",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0F4YVdUUHFjcEI4SG5FbUR2U08zSlNLbTd6MGhNaUxRdm1sSXZDd1JoVmlMemQ3VXZKaUViTW5NbWowVlhLd296THFKeE9VcDBrbUhtYTJmWkp1NG5LUWVoRWdoUDVHeTRieWNWcWNTV1ZJQWE1a3RvdTJlRkF3REtFNW5QYm16NGdHS2dKUGdVQVJ5Y0poTEhZQko1dHpRM0sxTTBzRE4",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXVSUWU1dHg2eWdYblgxRERDSDFOX3E2X0RUVHVWbXVYTkY0ckdCdWlMRXdMYlpOZUNPaXdmM1RKc3FoQXRndlZwY0pwRXNEZEk1eUE0SlFTbmFiTzJ5UlVIMWhIdnU1RzZNM3U2RENsTzc0czV3MWlCdElncGgwdGZLbVUzTVlpOU9RTVIzQTlnNmF5LU84Vm9lX0RBN2k4QlJVSzlwWWQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGJFVURGTk94c0h1SWlfd2drLTFocVhfYkRLekxaS0pIRVhOOFFwaDdsb044OTdkQXFWZU4ydEZ5N0NCNnQ0TENfZVpNTC1OS1M1YTNPSFNqelFyYUtOUktIamQ0TXBLMVZOclpHMTJ3c3RtVVVEWDRZZ0xqMTdsZ0lDc0UtVlFRcEdEeEk4OEtCMlZ6TkJ2b0R2cFoxUjF5aFhmQWlXak5kdw",
@@ -102,6 +102,8 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblNMN0hFaDQ3WWdWSERYRndMc19SaUZPY3RsT3B0b1huMmx6Mjg1djQ2aTFwWmQ3TGh3b2NOZ1BoVlpFcGxWcjJ0QUFtQVFPS1djSC1ZZmVwSzBkOHJ4Snc1NGpPclc0U1F1YlN6QXpXTzNWWG01T1E1R0pCTkRMTWtkZklUcWt4c2VuLXV0M2lZeENfaGZWejJPdzdYUURVeWxOVG1IeEhTa3dMMkY1Z0xpQQ",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE1ScGFDenlkTXdVVU9hbFpmR25CakJZaUNLaUEzYzJoYzVfRmJZckpPdHJpbjlSUE01NTRkOUVqRXRFQVRyZjBqTDE0bmk0djNLMnJTbGtreEpnam5xck5RZVZEMTl6RmVmZHBYbnlOT0c4QkpWZ3Z6Ymdoc1VlN3ZVRnc5S3ZHMEF2ZlVlSElTbEEzQzRocEpjSWRtU1lqQ2hreUZSdFkzYWhCeTBFb0hvaWt1OTQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGV6aVhEOVZfeWZJaGJPVWVKdFJCRkhUVDJxSzlQSjZib3ZkZXF4NzZKZ0p4eDVxMEtCczZnQXFFTVRMQkRmQkJRRzNIWTFPb0tSYVk3cW1jYzVwbWFaQTBsM3JXYmJ1VDBCM0t1YzI0cTBveGdPR1l1TnFmQjVyLXpQT2F4UFFaSVk3TFl5VWVBZHNrR3BwZjgzTU9ISDdHa1JCTE1lTE1YYTFGVkc4eWVETjFXQkxQ0gHAAUFVX3lxTE1nUk9GX0RXaVhhQUxzSnRiOVh1eDhzTENUQl9UWC1rQmhkWVJDRVJlX01MeFB3Um83c2JxREZHWjVobVdJYWNyTkhFeWYxaFl1blFZX1o3bmp4SEpfRHV1MDlOMHBibm85OVl1eUJjUVNUc21RUGM0S29nYi12OVhCWU5oV0tTRlFlSmdQbzFPWXZZRlZIeUtvWU1zdFlfSWt5RmotT25Ya3Z2b21FZmx0Zkc5UTEtS0dxX3ZzN0E1dQ",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3NtTERVdHd1NkpFS1NWdUVwRnpXQTRTS0R4QWpXdnNQZmgxQU5Yel94YnZ6Z1AtNEFnNnJrY1BybWoxd3QzU3drWkx0TG5DLVJtWDFxUjVENVpEYjliU09DNnZqdFM4TVVCZlV4d1lmY1g0VGthenpGN0ZsMHBEWGE1YWQ0aV9Bc1pjOHVneklxM1BxeTRfejdFWndmVFlGcS1ZU2MteENKa0JoMDgxUlRyLXE2T2tjSEpr",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVliOHpiSjdRUlBXamtXdjNWS1prTTcxa2tQU3hORDUyenJtaFFJSEFQQWtqR1F5Rk1WZHpvYmgxS1VWY0ZQQThHNG9xOEVUcEl0eXdkc2NqcnNmVW5tRV9lQVd4RDlCVlNWRjFwUWZBVm82RjhxVmJvY2oyXzNwcDN3c1pGdVVnS09LRF9NSzQxZDdkcWlkWnNCS3U3ZGRKMjVfNlBIS21Edjc0UG12RlpoV2R3aWhnVGVXb2F3",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3ByOW1SRFo0S2hXRWxSbjZ1M0owWjhHTVJGWEtNd2o3N29acW9IaVdsRDJZN0VPUWRvS1E3YVBUbW5ZWS1rXzFnWThQVlN6UUFLNXVTaGFLdzlBMXpMV010djNLWjlxbC1KaFRxMnJCZWlxQ0xBU3p5dmlqVEVmeTFwTzZhMlFVanN4Q0NpZkFNeDdiejV2OEt2aWRDN1ltZUVHanZjdTYwTWtjT2ppVFRnNzItdGtPUDlKbUNlRQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlhDQkItQ0oyWjNLdHJXSlV1SC02Y1ZNOGJsUi0zWXk2cTVMRFg5NDgzRzhkZHF4SXZYSHpoSVUzVDhzZ291RmNxMDFfN2NtQ1VFcG1LdHZNb2RoR0hMZ2swQUNaYWZwbG9EYXM1TG5aWmZ1eUJlbkNKa3ZUQWZhOUZJazUyT3R2XzZfWjlRVlB4QTgxWmxmWk9FUUdKS2FfUUtBX3dQUTk1a0dBWWFRb3VuMXNzXzFsc0d3dWhOSFU",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3I3Z0syQkdEcFpaOFEtNC1kaE9YWkQ1RDhFcTI2SkNFM0Z1OE40THJmOWo5OEF4QzMzYTN6WG1KTFZPdDdDQ0l0Uy1IS2JSOTJsYkZieXcwN0pweDQ2ZGZGNHhqeEJkdVpxRDlKMGVya09VRGhRRmRwdU5UaUk5ZHpRVzFHNTF1UGZvdXgzMGNhaGlXd2UycERqZG50cmJ0Z3pWN0ZOclpCZi1HaDlHY0NZVmZuODUzY013MTVGZUfSAcgBQVVfeXFMTkwwd0lxLVRhcm9oSEVtaHBnNnBXVWV4YWQxYUdyVjZ3cEtkUnNUUnBJNlA5eDR6bEZFSjc3ZV90c200SnRtdnotXzdWakRmbW1lajl2ekFDdnMwcktMTXlwNHZaR0pyUXEtME5SX2otemdmTTlrUG1KZmVRSDUyNzBlckY5STVrWkNRQVM5QV9uekoxY1JkZWpjNWJ6VnNSU1lycGozOTlVQzA2cGhzZG9HNjk5TkJUMWxKd1FOTy11djRXaHBIcno",
@@ -123,36 +125,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Трамп скасовує нові санкції та тарифи на покупців енергії",
-      "original_title": "Trump waives new Russia sanctions and tariffs on energy buyers - Quantum Commodity Intelligence",
-      "summary": "Трамп відмовився від нових санкцій проти Росії. Він також скасував тарифи для покупців енергії. Рішення опубліковане Мінфіном США.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWpYeXdtSjkzUUViSXZ2VVV6c0ZjN21LREZwakdtVDBnbG1VUy10Z0xpUkhYWDduSjYtZTByc3VBcEdGUEluRVNJVlhIcUhTZ0tGX1VuVi12NnFpOS1kdEdHR1ZETHliaER3TmNKeXVOai1EM3ZwTEZFSXRzWURaY3c5UzIyV29ZcWZpUHN6RDVmUE5fWW9RdWdRQ0xLcFA3NTcyOVk3UFE",
-      "published": "2026-10-17T05:47:13+00:00"
-    },
-    {
-      "title": "Китай скоротив US Treasuries до 18-річного мінімуму в серпні",
-      "original_title": "China cuts US Treasury holdings to 18-year low in August as debt fears mount - South China Morning Post",
-      "summary": "Центробанк Китаю зменшив холдинги казначейських облігацій США до мінімуму за 18 років у серпні. Це сталося на тлі зростання побоювань щодо боргу. Зменшення обсягів може посилити тиск на ринок американських державних облігацій та глобальні фінансові баланси.",
-      "source": "Центробанк Китаю",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGg5MGxqdFdDR2MyTGRfcXdUNE1ULUxxZTk2bFZDX2dLZmdXTnNKY3VHdTU0T1g3TVUwSWYyUjZGUHBiQ1ZVS1h6SHhmSFVpbFVtQ0EzYTZfMEFEU1RqVXlRcmVHZ1k1d1c5b3ZEYV9qbkh6Y2loaTFpUWVES2dsbXpuNnNUNER0cWhhWUN2LXJrY21UdkstY3RObjFzQ3RpS0l6bGFLRXpQbllpY0cyM0lVTUVSVTBBMy1qQ1BGeERIUkJOVzFqYWprWXBhTmE10gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU",
-      "published": "2026-10-17T06:00:17+00:00"
-    },
-    {
-      "title": "Трамп призупинив застосування санкцій проти покупців російської нафти",
-      "original_title": "Трамп призупинив запровадження санкцій проти покупців нафти з РФ, передбачених законом Грема",
-      "summary": "Президент США Дональд Трамп призупинив застосування мит і санкцій, передбачених законом Ліндсі Грема, що включає 100‑процентні мита на товари з п’яти країн, що купують найбільші обсяги російської нафти, а також 500‑процентні мита на весь російський енергетичний імпорт. Цей крок зменшує економічний тиск на Росію, але може викликати опір у Конгресі та підвищити ризик порушення міжнародних санкційних норм.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/tramp-pryzupynyv-zaprovadzhennya-sanktsij-proty-nafty-z-rf",
-      "published": "2026-10-17T06:07:37+00:00"
-    },
     {
       "title": "OPEC ймовірно програє гонку за частку ринку в Затоці",
       "original_title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
@@ -1332,6 +1304,56 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlhDQkItQ0oyWjNLdHJXSlV1SC02Y1ZNOGJsUi0zWXk2cTVMRFg5NDgzRzhkZHF4SXZYSHpoSVUzVDhzZ291RmNxMDFfN2NtQ1VFcG1LdHZNb2RoR0hMZ2swQUNaYWZwbG9EYXM1TG5aWmZ1eUJlbkNKa3ZUQWZhOUZJazUyT3R2XzZfWjlRVlB4QTgxWmxmWk9FUUdKS2FfUUtBX3dQUTk1a0dBWWFRb3VuMXNzXzFsc0d3dWhOSFU",
       "published": "2026-10-18T23:28:35+00:00"
+    },
+    {
+      "title": "ETF на золото в Китаї зростають при падінні попиту",
+      "original_title": "BT Explainer: China’s gold market — What rising ETF inflows and falling physical demand signal - Business Today",
+      "summary": "Стаття описує ринок золота Китаю з ростом надходжень в ETF та зниженням фізичного попиту. Це вказує на зміни в інвестиційній поведінці. Наслідком є можливий вплив на ціни золота та макрофінансові сигнали для ринку.",
+      "source": "Центробанк Китаю",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdGw1S09Uek4xeWhtaTZyYm45M0otTGdCcUJISS1YTklKSWxYZTMwaDh3Q0Q4RkJkNkVOdDU1RkN5NmJ6Sjc4REV5dlZYaUhsekZRMnd6MjAzNlBCRVhKSk5XY1VpVWxSSDBqWmNvZWV2NWpsWVBIU0daeVlUWWt1cm5UQWpzNDdiaE1kWm1qOG45UzVGMFl2OXJXM2tMdlNuc1JKbjhnaVRFc3BiWWtvdTFBek94VlQ2dmJWcnY1b3d1c256aGl1djdLWkdMRTFCTVBFRF9yOUF0RHdqVm9BSGFsNNIB6AFBVV95cUxPcjhCTC1kNXZuaGk3U0xjRDlPb2dEQWVUSnhJSjcwLUd0M0xRUGdWVDA4TEtURkdEOHY5ZzkxT2FXZjlxOGhyVGhRSE5DdjgyX2c0SGpvdEpXTnNibGxYY21wMFE4dzBoRW5mZXY3elREUmVobDdUd2pGYk1MNkNhVjExRk0tdWE2ZkxCb0dYbnp5WVVvQ2dMRnMzN0U0TEswR0NnQlVlZDBFMU1Qa3ZWQ1F3VVpkbFdROXVib1NYLVFfRURNdDRfZkxMc2MxSXRZS0JKYURUc3FtZFNMcUZ2ME9iWVJFbnVf",
+      "published": "2026-10-19T00:05:03+00:00"
+    },
+    {
+      "title": "Нафта майже $110: нові ризики інфляції в Австралії",
+      "original_title": "Oil nears US$110 as fresh supply fears threaten another Australian inflation shock - Proactive Investors Australia",
+      "summary": "Ціни на нафту піднялися до рівня майже $110 за барель, викликавши нові побоювання щодо скорочення постачань. У зв’язку з цим очікується підвищення інфляційного тиску в Австралії, що може змусити центральний банк переглянути монетарну політику. Зростання вартості енергоносіїв підвищить імпортні витрати, послабить австралійський долар і створить додатковий тиск на ліквідність у фінансових ринках.",
+      "source": "Енергетичні ринки",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVliOHpiSjdRUlBXamtXdjNWS1prTTcxa2tQU3hORDUyenJtaFFJSEFQQWtqR1F5Rk1WZHpvYmgxS1VWY0ZQQThHNG9xOEVUcEl0eXdkc2NqcnNmVW5tRV9lQVd4RDlCVlNWRjFwUWZBVm82RjhxVmJvY2oyXzNwcDN3c1pGdVVnS09LRF9NSzQxZDdkcWlkWnNCS3U3ZGRKMjVfNlBIS21Edjc0UG12RlpoV2R3aWhnVGVXb2F3",
+      "published": "2026-10-19T00:11:27+00:00"
+    },
+    {
+      "title": "Ueda: Inflacja близька до 2%",
+      "original_title": "BOJ Governor Ueda says underlying inflation 'quite close' to 2% target - Central Oregon Daily",
+      "summary": "Головний виконавчий директор Банку Японії Юда заявив, що базова інфляція «досить близька» до цільового рівня 2 %. Це підказує, що центральний банк може продовжувати посилення монетичної політики, що зменшить ліквідність на ринку. Підвищення ставок підвищить витрати по державному та корпоративному боргу, а також підвищить привабливість йен для інвесторів.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXI2WFh5NW42NFAtQW9TMzNvR3VKd19yV0N1cHdtamM1MG5ENHdnMFhtUDJSX1otTG5SQU91VG9fSTNlajhvQTQxc2I0RUw2bFhGbGNtRVg5YVl6UmlfanRSYzg3TjBEWkp6cHZOdlpyV2EzSHJ6MEVNRU9DNkxMRTQ2UTNSTGY5VjA3eDBvYXdfSnBLcFRxNE9sQ3ZIX21LeHRENERrRmtBRmlILWVLclFrV3VmTDEyRUtpWEF1dFJMUlJzVE1vYlNSblFULUJkVDAwVjJybml5WXk0TDNPQUlWaVdrNlVNei1jVWpmUDdvaHRIRmNLQXRn",
+      "published": "2026-10-19T00:16:56+00:00"
+    },
+    {
+      "title": "BOJ Ueda: Інфляція близька до 2%",
+      "original_title": "BOJ Governor Ueda says underlying inflation ’quite close’ to 2% target By Reuters - Investing.com",
+      "summary": "Головний виконавчий директор Банку Японії Юда заявив, що базова інфляція «досить близька» до цільового рівня 2 %. Це підказує, що монетарна політика залишиться жорсткою, ймовірно, з подальшими підвищеннями ставок. Такі кроки зменшать ліквідність на ринку, підвищать доходність японських облігацій і можуть підвищити курс йен.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3NtTERVdHd1NkpFS1NWdUVwRnpXQTRTS0R4QWpXdnNQZmgxQU5Yel94YnZ6Z1AtNEFnNnJrY1BybWoxd3QzU3drWkx0TG5DLVJtWDFxUjVENVpEYjliU09DNnZqdFM4TVVCZlV4d1lmY1g0VGthenpGN0ZsMHBEWGE1YWQ0aV9Bc1pjOHVneklxM1BxeTRfejdFWndmVFlGcS1ZU2MteENKa0JoMDgxUlRyLXE2T2tjSEpr",
+      "published": "2026-10-19T00:19:47+00:00"
+    },
+    {
+      "title": "BoJ Ueda: Underlying Inflation Near 2% Target",
+      "original_title": "BoJ’s Ueda: Underlying inflation near 2% target - FXStreet",
+      "summary": "Головний виконавчий директор Банку Японії Юда заявив, що базова інфляція близька до цільового рівня 2 %. Це підказує, що Банк продовжуватиме посилення монетарної політики, ймовірно, знову підвищуючи ставки. Збільшення ставок зменшить ліквідність, підвищить витрати на державний та корпоративний борг і, ймовірно, посилить японську йену.",
+      "source": "Банк Японії",
+      "publisher": "",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ",
+      "published": "2026-10-19T00:40:11+00:00"
     }
   ]
 }

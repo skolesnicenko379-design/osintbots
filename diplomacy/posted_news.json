@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQkxnTkVvVGJoMFpZNHFpMFRfaW5LY19PbEdJbm03TmtGSXUwb1JrM0N5OXcwWms2MWQ4MzNsYTFiSXdCakNYMnRPWVJzdlJobzRmUjI1NnVNeFUyYlRpalpNckJRcEhZUlNZb3NBbVJtYTlTVm1HaTBUSWsyQlRTc19IRWdoRWhYTnZ5VFZ0em5CYVVPM3pXTXNjX2dyZWVieWozNzNwSjJQUHVBSl92UHR0QUVaeDBsX0NaOHZ2bW5udHFQT0RMSk5CUmJQc205TDdMekhxVXR3M0NCVk5FMG1FX2huanhDZkhZb3YtMlE2V2c?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS1VLRFhWSUVUYUdhVUJLOTJuN3lFNVdWaFJMM1FDNU5BZlM1SnpZeHdnMVRmYkVydjVlTG5tUkxMZzQ3cktrcEd1aDdjVXdVVWRsazZsOERsT3hRakZyNkJvbUIwNV9TTnhzNXk0NzdpdmNoOEhFajE5elMxVThFaWdTY0NKS3JMRVZ3dDN4M3Q1VEp1Qlcxd3FEcnVTSGpHeHVlQlF5NFNfbVBlTWRMRlZUZ2llUWR6LWFXWFFWNEd6TE5JNTJ3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEsyRjFuWVNzNDh2OVVnR215dl9JQXBIRUl6bnFUclQyUjhSRzAyRnpxNkFnSzR4T0p6R3JuRmRjUmpvM1NzZHN3Tjg5eXNvd3N2cGlZdHdCODVwek03NThXZy1ETjJJLWJVWXQ5QWNnVE45ekRKTWRqY05mNTJ3RUNPRVk4a1RWU2t5Z0ktakZ6YzZGOGZtTlRSNlAzUkRocF8yZi1TdmRTd9IBrwFBVV95cUxPaGZIOXFLM01YNHA5NDA0ZnNuY0M3WWhCLUdGeTJFWkR4MG1wSUM5aXgyaFBDWFFsS1R1ZzB0Skk4X0pETzQtbWRieUtvaUM5Tk5aZjgyZkdGZERVU19xVGJkX2hsZ0V1VEdkQWNKVlMxbWx2dGU1dmhrbWxOM1habFloN2EydS1yR2J6b3Q5aUpHMkx1NkNLdXhuUGlWbHlabG5SZmNJUFBmUUZCMVpV?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTRKbHc3VUkxd0E2cFJBb2pkbkJzNTBsa2p4TDM4dmVoRkF1OV9yVWtKQmJxTFdnMkNlY1BKWFduU3NGTTFwTXZYbkluVXRNV3d0X05tQk1VT0NpeFVBZERqQmtVMW1vREpzc2p3em4xV09mYXNHemtLOFlNQzE0blBTVV8wQXlxaW51Z1MwaDlhS0dwUkIzSjV0VTZMOFBySDNPdVVUVDJaYkVHTjNrYmo0bld4ejBZZElPU3pYX2I2YXl2d3RZ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVVORHhUUDlQcVZOV2kxcURfWDNVRUYzYXJ3ckNHcUE2WFJ6QzQzTklfVHl6aGVkbVBWWDEtSXpGakpUNm9jaEFTdE5kMUtHNFIwdVAyOTRHNnlaR1VmQVIweFpCRHpYRXZEUEVyUGxxR2dGcE1OSXp0VlNJSmNRdXlfbW05cHZ6OV9zanRlRndhMjhUQ2VNTHRBQVJqVEdfQXVXLVVLSklKQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03NzVQN2xUdXJqNU11b2pRMXBlTWZfejFaVUNneWJpaEtuc0g4QkIxWFc0RW9oNy1LRUVpeURvSG13eEVQWHlGQm5NcWFRRXBtdDJxTA?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVEtR1U0cWNuaXBOdFZfdzNFSjU1TmlZNERxaE5acE4ydTlmQkNIcHJORmNLbm5uQ011UlNMTllTaU9ld0pnM3VCazQ2dUdUTGpfeUgzQlNPRV9nSDdMU2NGNkRfdURmZmYxVDRVbXJabXRqS0MtUGZPWEk5cGNhTV9Ya1UwT1lBOVlIaFdRUnBTZTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkdhNWQyU2d0cHVrV1RhZmlGTUllNHV6VE9NOXFwSDJfNGFBX1FhTXloOXJ6U2J0Tmh1M0xMdU8wamp5OF9iTUpMZWZjNVpVVm9aQ2xiQU1mN2R5NVZuOS04bTVYdm1tbHhVQzlBY2dobVM5MTBQVlU3U2N4SnBzaGU1U25OTTRvaElwRUtxcEZDTV94OEtJY012YmsxUGNwaFVwcjRqZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOdklaRmlhaktpUGRqeENsVGFzY0VCcUJyeS0zWlYwX251WURWY1dJaVJoWjVTdHVXVkd6aWtQMGxQU3VUdkxGc3FCNi1YdGd6bF9PUjVrME5IQi1OekJ3U1BnT09yY0dteGx0MXRmZG5XbFRGUE4zMElWdFlXV0NxQTZZYVotNWVDWWZ3Y0hDaDBCZ3FId1R1QU1XRU9aS1ZhaFVfWlRTX1JzdkxjT21PZGQ0dDBRMEpvRVFodzd6ZGhKQTlsMk9xdmk3a3NYeU1zNi1abk15OGlnbzJaSm90dEdURmU4VExsMHZQRGJONGwtSlJLdkxnNmZyOVhybEUxS3gyWU5ja2xZTlc3XzQ4MGdEVC1ZYU1tcUpGbkVkTF95aFBKYUZ2SXNqNDQ0OHdXNHl5Wlh4LTRnQzYzSVM1a3FBdXFSOHJObTZkRGFfaEcyandUd2pqMW1qaG12MndxdkVkbFRzOVJ4dw?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDhhb0NhaVJzWTgyZEx2ZUF6a0pmZ2FxUkZUdkJiMzFWYVpFY0pRb0ZEYjNLR0tURXczWi1pU05rQVoyM3ExNl91VzRCVXlsSUZBdXZoUU9yb0RFS1hXek1fLWtta0FXWVhuTEJIOUFZd0htbW5KeU1pR1ZIeGZzLVdUUDVDS1NkLW9sNUozSFAzRTQ5R0xncGVEOEhkaE5lVzd0MzYyeWotdG5fOFhRZ1RTOVN5VGhSOHRBS2Y4YnI5d1Za0gHEAUFVX3lxTE5hNFYzUXpKdkZvYkRKWnhKbGxNOC04Q1pLQzYtZnF5MXB3bndkOTVheEFKNmdtR1k1c3M0TUtxSUVEV0ZocmhjcDhQQnFzb1EtNG02ZFg5TjItNU5XcnY1WC1qeklrSHZnV25fOHNKXzdIV3pmRGNPYUhKMGtocjR6eU9wNzBzV05VM2cyX1NxZ3FkMVM1NHcxYVRYanZFSllsWVlXaXBsczQxUVRTN1lqWDZqM0NyOFYzOFQ2X2VaVUZicGw?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0V1bTdIRnJxNEVCcVFmSEVZZ29ZS3lPUjNKTERyVTFiaVBkNTI3S0F4dVp6ZjBvUFVqeUc0bFdHS1JyRzR1eTZYaTNhbXROOHJUN2ZxZ3dXNmQyQWVqSV9FWFptT1laWnR0MEZiS3QzYkRQSkdUNm9XYjFkQzdWZ1NKdXUzcmxfdzl1anJZMVRfVUZ4NW5nY1M4Q2lJZTAxWnc?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamZyb2ZZWl9mVE1kcVdXRnBfa1ZCQjRPX2k3aFVjdFhkZHZkZUE2R05kY3dTeXdfV1hqaERJWFhLclhISTczdnZDcXFJTElLaDB5WFJOX3VES2lKa1JxeFhGMWdhWXdfbTdPZGZuamVoZjE0V2xHVVVkdGJhRG40S19xN1NGeWRCRVo4dQ?oc=5",
@@ -1199,23 +1189,19 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3NENXVyMlBSempqRkl0bTN0RWFvWTVEZ1lWYm5TVWhIMHd5Qk16RmFCbHl3YllsNUt1SjI0dkZfcHY3cXhlX1BLOGRoeDFlTTRTRk5aUHJ5UU92S1FNNDV0dWlGUDhDTDU3LWdYWXVaNEZqQ3B6SkNCa2FYU21HejB3SVNzWUVONWlXdWRaVUxjMUxXUXBYSUdYYzJJRWhPMzlPTnlVazBpQQ?oc=5",
     "https://www.theafricareport.com/433708/nigeria-2027-can-tinubus-billionaires-break-peter-obis-hold-on-the-southeast/",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDl3TDNDQXN6c0h3bC1ma29fYlFrN2NGZlVsTlpvNFd2a1BQX3ZiMjhqVUtOYm56Z09wdUFtMnM3U0kyN195Mm91ZWM5aUUwZTY1eU1WSDRxeGlfTUdsZUwxaHhHMlJ2ZVpPTUdZdGZiZ0FMU0tQaHNvTjA4TnlSWk5BZ2dNeWgtX2hpcEhSTU0zbEZPbE52WVZIS2JKdFRFc3ZIbmhsZkF0MzFicGNNWnFwRTdTbTdWT3pFNFZiV01KbUlWRjZKdg?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGNraUsweWhyV2dqM2xYOVpxeEJOMzRoMDVHZmthRTBwNWxTaDRhQlhfY2JydEJ2TU1WWmxGaHhxNnEtcHB5b1FpUFB3cE9sSVpwZDIzNDFsakFIMWNLdGVHN3ptS25jcnJsYk8ydlBCQ1BUbk5hUjJTY1YzUG53TVAtc1kzNzhzR0NQM2thd2dtOEJJdExleTctQU8wYmVMaHJ0elQ2VQ?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGNraUsweWhyV2dqM2xYOVpxeEJOMzRoMDVHZmthRTBwNWxTaDRhQlhfY2JydEJ2TU1WWmxGaHhxNnEtcHB5b1FpUFB3cE9sSVpwZDIzNDFsakFIMWNLdGVHN3ptS25jcnJsYk8ydlBCQ1BUbk5hUjJTY1YzUG53TVAtc1kzNzhzR0NQM2thd2dtOEJJdExleTctQU8wYmVMaHJ0elQ2VQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/no-danger-found-after-tel-aviv-vienna-flight-threat-austrian-airlines",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQandwcFRqN2NKSkZfTGF5U2t1Nllfdmd3b0U1dUpRdkh1LXRoMDlSN2hkRVRjR052dVNkQ1JEWlZuREFqczR3dmp0OXREOURxZTJzN21MYnhIeV8wei0xTHhEUDVVZE9CZFBOZXF4eVN1LVQ4eGV4Q0xXc2Q2UzRkMkdOMVhuVnhISDRSVjRNN2FSd2lEX3ZjcUhzYw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-arrest-suspects-over-settler-attacks-us-journalist",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pa1dBVG91VXZ3aEZVc0l6UF9UVFFaeUxBRHcwVjRXSS01Y3g2QTZXbzU0dHV1SHM2eWs2OVZJSDJEdDdtak9UYW9odw?oc=5",
+    "http://www.africanews.com/2026/10/19/dr-congo-ebola-outbreak-deepens-mental-health-crisis-amid-stigma-and-conflict/",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjlCcXZhazFkempDQnlDbEUteWFvbTZ5SWdzVlJ5UnBxTFRYOGZWQ290SE9qbXYtQnhiN2hXMThkek53Q2k2clNsRFhHem1MSzd6SjJMV0k5YjB1dlc5SnE2Vm94cnZsdl9YaTVQc0NCLW9rMVpzQzBTcUdHZGp6TjExSG01RFlDMDVtR2kxb0NMeEtF0gGTAUFVX3lxTE1Wc3U0TUo0WlpBTHhTSVExRHNmOEU5bEozdWd2Tmp3VWtyb2Y0RDJvMGdMYlpWczNhZjNWVEpuUVRfNkxtUmZ3MGFaR1E1TjM2Sm5tbThBWGdCQmlTZVRaMzFsU0FrOTAzMlNJV19HcHFVUlI1dnAwallqVmFJWnllRWx1UUdJTjZQQWt3ZDVHZG13SQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-645",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQWN1RHY5Qm5NRWxUTkZtbmd6RUR3SE44Z1ZtdkJRNktRUnJKNUNDU05INW9SOHF1YXZVTHJsYk1mQndwbEZTTlpDQ085YkIwcUZfUlJTVUJyT0p3ejlMY3pCbmx6N01hVnlIaGRKcVhCVU9qY1B5c2tBV2RSLW5oZVNIdU4xdFpnVnI4bnhNclBicHB3V2JFVllrcWdoUUFJMXFnYkZuVGdxVFVRdVRvdUpuNGczLWIyMm9BWW5JejlnYWxEOHYxS2xkTF9sTmY1dWZNUjhEMkZKQmV5NzBnNHV1ckRBWnFoa0g1T3pB?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yb3ozR3Uza3pTSWRMQ19ZTkJvTWFJZnpZYnJ6Z0ZLU2dieWxCR1VRSnJiXzhVbTFfMS1VQktUN0xtbzBHcHdzZE84bVB6cnF5ZFHSAVdBVV95cUxPT0R6cE9yZ3h2b1JiUUlrRGozNE9uR1hPQXRKRFUwRk00UGN3N2N4VFZycU5XcE1ZU08xSUpzT1VRcFh4V1V5d3NaaHA1X1A2WnRLTVpuZDA?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDNLOTkxcFY3a2IxYmRhM29BVUNjNHhJUmtUUGFLRUdpbzl3UlRxN3RvLURUOTZLQUFOc1l3Q1RvQWxhUDQ3TEphcjczcld2OU1jRnJ6b3pSUGtxRDU2d043bTAwcm8yUGZDaDEzdHBoV3hKcGVFNFl6WkpQSnBJQ0JLWFA3TnhCVVphVlJUZXZabTJsY1hGNEIxZVE0aGdnV29XQlNWcFIzaUVaSld1b1FaZ210R1hUQVN5ejc2cDNRbUsx?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Голова уряду Угорщини погодився з транзитом українського зерна",
-      "summary": "Голова уряду Угорщини, Петр Мага, оголосив, що не буде блокувати транзит українського зерна через країну. Угорський уряд погодився забезпечити безперервний рух зерна, що транспортується через Угорщину, у відповідності з міжнародними зобов'язаннями. Це рішення підтримує продовольчу безпеку України та сприяє стабільності регіону.",
-      "source": "Bilateral Meetings",
-      "publisher": "Ukrainian news",
-      "published": "2026-10-18T00:17:47+00:00"
-    },
-    {
-      "title": "Індейський саміт запрошує колумбійського президента до діалогу",
-      "summary": "Індейський саміт запрошує колумбійського президента де ла Еспріелью до прямого діалогу 14 листопада. Зустріч відбудеться в Колумбії, обговориться питання прав корінних народів, забезпечення миру та стабільності. Організація Peace Brigades International-Canada координуватиме зустріч і забезпечить безпеку.",
-      "source": "Bilateral Meetings",
-      "publisher": "Peace Brigades International-Canada",
-      "published": "2026-10-18T03:01:28+00:00"
-    },
     {
       "title": "В'єтнам і країни EFTA підписали угоду про вільну торгівлю",
       "summary": "В'єтнам і країни EFTA підписали угоду про вільну торгівлю, що розширить ринки, зменшить тарифи та сприятиме обміну технологіями. Угода набирає чинності після ратифікації обома сторонами, очікується завершення процесу до кінця 2025 року. Угода також передбачає спільні інвестиції у виробництво та інфраструктуру, а також механізми вирішення спорів.",
@@ -1411,6 +1397,20 @@
       "source": "Bilateral Meetings",
       "publisher": "Africa Intelligence",
       "published": "2026-10-19T04:42:24+00:00"
+    },
+    {
+      "title": "Омбудсмен Вірменії та голова австралійської комісії з прав людини провели переговори",
+      "summary": "Омбудсмен Вірменії та президент Австралійської комісії з прав людини провели двосторонні переговори. Ця зустріч є офіційним дипломатичним контактом між представниками державних інституцій двох країн у сфері захисту прав людини. У тексті джерела відсутні додаткові деталі щодо конкретних рішень чи підписаних документів.",
+      "source": "Bilateral Meetings",
+      "publisher": "Armenpress",
+      "published": "2026-10-19T05:27:00+00:00"
+    },
+    {
+      "title": "Сінгапур та Казахстан підписали чотири угоди про економічну співпрацю",
+      "summary": "Сінгапур та Казахстан офіційно підписали чотири міжурядові угоди, серед яких одна спрямована на посилення економічної співпраці. Документи були ухвалені за участю Сінгапурської ради економічного розвитку (EDB). Цей дипломатичний крок має на меті поглибити торгівельні та інвестиційні зв'язки між двома країнами, встановивши нові рамки для взаємодії.",
+      "source": "Treaties & Agreements",
+      "publisher": "Singapore Economic Development Board (EDB)",
+      "published": "2026-10-19T04:39:30+00:00"
     }
   ]
 }

@@ -43,6 +43,16 @@ MAX_POSTS_PER_GROUP = {
     "china": 2, "russia": 2, "eu": 2, "us": 2,
     "corridors": 2, "global": 2, "japan": 1,
 }
+REGION_TOPIC_LABELS = {
+    "china": "Китай · економіка, торгівля й промисловість",
+    "russia": "РФ · економіка, бюджет і зовнішня торгівля",
+    "eu": "ЄС · економіка, торгівля й промислова політика",
+    "us": "США · економіка, торгівля й державна політика",
+    "corridors": "Міжнародні транспортно-логістичні коридори",
+    "global": "Глобальні ринки та макроекономіка",
+    "japan": "Японія · монетарна політика",
+}
+
 MAX_ARTICLE_AGE_HOURS = 24
 REQUEST_TIMEOUT = 12
 ARTICLE_FETCH_TIMEOUT = 8
@@ -540,6 +550,50 @@ def collect_entries():
             all_entries.extend(feed_entries)
 
     all_entries.sort(key=lambda e: e["published"], reverse=True)
+
+    def infer_group(entry):
+        text = " ".join([
+            str(entry.get("title", "")),
+            str(entry.get("summary", "")),
+            str(entry.get("link", "")),
+        ]).casefold()
+
+        if re.search(
+            r"\bimec\b|middle corridor|trans-caspian|\btitr\b|\binstc\b|"
+            r"north.?south transport corridor|\btraceca\b|global gateway|"
+            r"belt and road|lobito corridor|transport corridor|railway agreement|"
+            r"port logistics|cross-border freight",
+            text,
+        ):
+            return "corridors"
+
+        matches = []
+        if re.search(r"\bjapan\b|\bjapanese\b|\byen\b|\bboj\b|bank of japan|\bueda\b|\bjgb\b", text):
+            matches.append("japan")
+        if re.search(r"\bchina\b|\bchinese\b|\bbeijing\b|\bpbo[c]?\b|\byuan\b|renminbi|\bmofcom\b", text):
+            matches.append("china")
+        if re.search(r"\brussia\b|\brussian\b|\bruble\b|\bmoscow\b|bank of russia|\bcbr\.ru\b", text):
+            matches.append("russia")
+        if re.search(r"\beu\b|european union|european commission|eurozone|eurostat|\becb\b", text):
+            matches.append("eu")
+        if re.search(r"u\.s\.|\bus\b|united states|federal reserve|\bfomc\b|\bustr\b|american", text):
+            matches.append("us")
+
+        if len(matches) == 1:
+            return matches[0]
+        current_group = entry.get("group", "global")
+        if current_group in matches:
+            return current_group
+        return matches[0] if matches else current_group
+
+    # Запит може знайти ту саму статтю через різні теми. Визначаємо головний регіон
+    # за заголовком/описом, щоб американська новина не отримала мітку «Китай» лише
+    # через те, що з'явилася також у результатах китайського пошукового запиту.
+    for entry in all_entries:
+        inferred_group = infer_group(entry)
+        if inferred_group != entry.get("group"):
+            entry["group"] = inferred_group
+            entry["source"] = REGION_TOPIC_LABELS.get(inferred_group, "Глобальні ринки та макроекономіка")
 
     # Одна й та сама стаття може прийти з кількох пошукових запитів.
     unique_entries = []

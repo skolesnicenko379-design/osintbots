@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2RCM0lJTlZrVnhlMmdjbldmMXpIekU5QzFIRzNqT25lNzNld25selhNcl9oYjFCWjRaX3ZSUzdGNDBrTmU0YzJJaUZneHRkQ2JZUmF4eUlSWG52QzE3VzBhLUFma0dqSG1wN1daLUd0Y0c0Q3NCblBKOV9sby1pQU1aUU1XWU1IbG1iQ2JiQUlrSzAwbDlFYnd5ZXkyblFYVjlxS1hVMFRRWVZmcmZ3OVpTekhjMnB6MW9rZ1BBYWg3eXJ4Yk1OM0d2NWTSAcwBQVVfeXFMTWk5X2h5SXFHS0JMQjVla2RTd0lUTC0ta0hWRVdVMzJHRU1FSlp2bUcyZkhTQlZ5UUktYW1BdFhuZ0pYX2ZDaFd3SmYteUNaRUhBbVBwelFfODBvMFhmeE1Lbmx1ZWdDSWVBRWlKRzJjMmVDbmp2c1VodGlXNGI4aDhFTDhuNUlQVjRjeUNIWXpaNzNuY1dBdkhGY3dwWklPMG9VT0wtZ3FUSEQxRzhtREkyV3JRRjF3TXlaYUxZWHpPVDVTamt0QWc4RDNo?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/10/international-criminal-court-statement-by-the-high-representative-on-behalf-of-the-eu-following-the-announcement-of-us-sanctions/",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVJjTDk1WjdOcXVPbm1SX21HelY4WUl2azJ4Z2h1M2k1X3dCV29WUGhScklFNDk2TjJ3eVh6V0Y1aTViaHFjVUg4eElwX0tDbnMxS2ZsaEd3SVB4S3NoN2d5WDdtQlpUM0Rnb1dmWTdPWENiNmJSc0Y0eFlwSVdKdlVjVW9SaHpJVlB1UzdUeGY2Y3FBcV9BUnJSWEhrNkJDM1pwdzdOc3BGejVXeklBalR4T2ZodzNZWUxxUdIBuwFBVV95cUxNQlpLMzF5XzYwZ2NGUmk1Y0ZNRXhNOHpob1hWLVhNWHZYTDdZUXE1aGpIcnFlZVlrckZlbDNieGZhdUVueC1weTFrQVlQY3BoQ0xCeFozcFVKYlFobk1pYS1HQTJSaHlyQVlRSjBDMDg3YjgwVU1zM2NZbUhlQVJ5eHFid1FLcV83SHhiZUZ3M210YXlBcVBUc1BBSFE4RnFBVzZ3aW9PUXc5Vl9tN2tVbE9pMndUS0UyTzdV?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdzZIN0hUaHBzbVJleFh1cHhpNmlzdUFFbjI1S3ZVajNWbDlxY3RWYUtNUDVvZF9lLTJDQVZVbHBseEpTOFBERjlNQnF3RWNXM3dOUkwyVjVhNmdmNHplQ2dRUnlkdDFQRDcwVWZUYzg4WkFwUTJad3JUTkMxUQ?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/ets2-council-signs-off-on-rules-strengthening-the-market-stability-reserve/",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkQ4VmJweFpKUUxuQ0hKYzJ5cXI1MW9kbUItQVBkc2JhYVNNUi1wYS1ZZkw5NXhlQVBGM2tObDdRdTNvcVFvaGc5cms0TFJXOG54RjNYaWhrREcyNXZHSzk4b3c3dEFGTHNUZHhHWUpKbDFQNFRtcnJZdTdsTHFqU29LMmtjRGJWWjRzZVlQMl95bFk2SERNU1l6dlRxd3lQakUtdjNUdWY5Z3p4aDlmM3NCQjViendoS3NVWDdhcEFHTC10aHFr?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjh5YWpYamZjdU4tOTJOUXhEa3dWcXFLWll2dnJDOTExa0NNQml2RG1oeE52R2V3VVNZYkFXNlVWOGpVUGtnSkZsZXVKMVJrUm9JalZITVBYUkZFUUtUWTVITHd1dXhTdDJVNXBqeVp1SllYYUJqczFiV2RCS0xaUGczQ0t3Y2NyQktQNC1FRW9xY0FVTmJMbjhJaXJYdEVDQlE2MVRrSFNFaFhaSE1DM3JNNGZsVmcxTEJBT1ZWbFlfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1FWQm9tRkNnRC12THcyMTVQQk9qRU5qcUhybS1lSWxhbDUxMlZkSHJEWXcwZ1VHX1V6c3U4cHVkaGcyMGdJX3R3eWpkRUphd0VQZ0NRNXBRWllBdFg1clRiWWo0VXB4Wk95S09lQnNoOHotNFd4SU1HUGhuWGJzY3JWaExfM3FQLW1r?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE9Sdktvc2x5SDZJbFZrSHZveVV4d2dxMHpqUm1GQ0FnSEFoY0tLSElHaGhQR1JGZUZ6VE1zU2JDa25VZ2taY0ZpOXBuUXBPcGVkOVJVREJNeWVXMGttX09odGN4Vmk2X0I5d3VsN2RMSm5NbFp0VmdlaUhpcXpjLXFTcFRjUlhGTjRBb1RjWXU2NHJudXlGV1dJa1hDYkMxWERYMnFmZmFROUExV1dKbHZoTGhPQdIBtgFBVV95cUxPbE9Sdktvc2x5SDZJbFZrSHZveVV4d2dxMHpqUm1GQ0FnSEFoY0tLSElHaGhQR1JGZUZ6VE1zU2JDa25VZ2taY0ZpOXBuUXBPcGVkOVJVREJNeWVXMGttX09odGN4Vmk2X0I5d3VsN2RMSm5NbFp0VmdlaUhpcXpjLXFTcFRjUlhGTjRBb1RjWXU2NHJudXlGV1dJa1hDYkMxWERYMnFmZmFROUExV1dKbHZoTGhPQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVl3SkR6RGMtUmdWWFVZTDNwS2NlR3VncUJFczc3WjV1Z3dzSFpvUUxMUkw3Y1ZkY2RWQnJqXzBEbEpTcDRUZjVxNzVvMXllM21GMUlWX0lqd0tERWdESHBoTEFfdEFmejZFSUI4c3ZCdzYtUGRHVnJ5WVlrWm1LRHJqYWN5d1pDbHpvdG9MQWJsVF9nRlpWa3FnRVZ3ODJtZ255UDNSNTRfWmI5Z0YtZ0hyenBCZWpVVDJFOHVpbw?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RbmNNYnhSaEJQNTFiOGgwV1RqV1RyWk9TMVlZdVRramhlODg0NVlfQWhpUFgyWHE1anM0QjlfVnJBTXFjUm54NHpXUktnVjZWekN6UWJwdGRVZ2MyZ0VyZGdn?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1JJc29FTlR0d0xmalFWM1hreDI4N1NuUGtHTUV0WEwwVHQ4VFlhX2hVcEJ6aEswT2lwSV9JeGhGaUk3S1NmNDdwckVzMWdjaGZRYngxSWYyc281R18td3p0TFJkVEtBRURUdUo1VjZ6Qk1PY0h0NnJ2M2VlVkNrU0lqdGptYlV5dDYxdXpxc1l4ZWsxZzBQTXF4WEJsZjF5U0R0SVZuVmZPRmF3VGhvcmlB?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15MmhnZ0xaY3lLMzlJTFZrNUkzLXhaODFlOFVkRjhIczBaUExieVhrZzJLbzk0MDJNZUZLcjV2NWZ5QXBKSjVuMklDT2djQkxKemNMMnNOYmd6M1hhVTdV0gFkQVVfeXFMT1BxallYbkxDZDNSZ0RzNDVaekYwYi1MazVSaEFIcVkxS1ZRQWsxMm1nbExacHZDbXR0N1gxUzlhbUM0S2c0anZZNnlCQWU4WC00cFlOMzdZN2hYSVR0WlEzS1hIRA?oc=5",
@@ -1199,23 +1189,19 @@
     "http://www.africanews.com/2026/10/19/protesters-block-access-to-paris-louvre-museum-in-support-of-student-movement/",
     "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUmpvX0MwcGE4U0xleTNZcmhkTHRpRGdTNnJqY2hvb3htaWxKdnJKSjUtdzlJVmNPRHowN2Vma0FHbUtncGxXbkN0YjlmRGpNSWFDSFpZbTV6MkZJZmFtYkM2cWpWcG0wNUJZVDZQN081UFZ6M3M4WDRRWERXNmtWd3dPdDY2NnlXUWJwNjUwWEpDN0Q2R2lkdkZBcmp5dlYxM19rZnhNbFR3cGoxTU8ySUQ0bFRaenFtNGJYMWVjQUIxdzBFUG1HTWN5YXAzZF91YkVUYlFnWF9XM1ZfbkFiQTNBTVd3QjA4ako1a3FhaGM5RVJSWk13c3VhQkFsdWJ1bTczbWdlYVlCSmxoN0xLdHpMTTMxcjVveUV6QzFzNkpseE8zQkQxYkNqOWN6QQ?oc=5",
     "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOW9fcmRxYkphNndGLTRSOHluVG9VVHBwUW1paHczSHJIeDBJVEdQWWIwTURjTVNRNE9Oa0FnMFp3T3F6VWV1VEgyVGhOckFKUFdRbG9PZXg4aUtQNDJadFU1aXI2RzN2dzRxWjRxV2dVQlNwR1RIYnFrZW5pa2p5Sl9UM2xQN25oUnFtbkY1cjhKRVplVV84bEpVdTI2ZlpQNEUyWWhWTUc3YnE4ODRTTTBVQl9fSUZUSmNua1lFdnltd3JqMkpwVUVucXJCQWNuemR2aXBDYWdKMzhPZFloUEsxMFlqWnFsdDRDc2ZkaDFmN3FEZG04Zk1VcmVNV213ekhhZHp6SERzS3I5cGRYWWQ0T3pBUmpOQWFMNVpucGw2bDJnV0p4T3d4OXRSamRBVF80NWpSMndwcTlX?oc=5",
-    "https://news.google.com/rss/articles/CBMirgJBVV95cUxQelhzTFh6T0FmN1ZPazR6REV1MXp0Y2ItaHNsOURjanUyRE1kZG1Ed3RNZWpXWERfV0FQTndsOS1IV1B0YXNWRHlhUVZJbGJtbV83YWdFbjg4YnZ3Zi1uT0RtT2M2UldSVHNMbUl2TXd5aGtKaVdFNWtMakxaX3pSSGp2OHl1NXM5U05sekdUclRKQ2FaUDZZWEtrYy1zN2Y5QWZudjd5a3VZdFpXeWFRcmlqREpGaGlyTHlLV3NZYTE3TWpTLTdYQVNwVmxuWlB3Q2thbk1BYWw2X211azJTT1hYYXFpM2JfWVZySFFaN3Zxc3MzNExRS3l5aktVaTVWbk1ZaTBkeXJWeXFtcDdWZ3YzMFg5eXBSUk55OXpZckRvdHdaVDhXLVZxOUdDUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMirgJBVV95cUxQelhzTFh6T0FmN1ZPazR6REV1MXp0Y2ItaHNsOURjanUyRE1kZG1Ed3RNZWpXWERfV0FQTndsOS1IV1B0YXNWRHlhUVZJbGJtbV83YWdFbjg4YnZ3Zi1uT0RtT2M2UldSVHNMbUl2TXd5aGtKaVdFNWtMakxaX3pSSGp2OHl1NXM5U05sekdUclRKQ2FaUDZZWEtrYy1zN2Y5QWZudjd5a3VZdFpXeWFRcmlqREpGaGlyTHlLV3NZYTE3TWpTLTdYQVNwVmxuWlB3Q2thbk1BYWw2X211azJTT1hYYXFpM2JfWVZySFFaN3Zxc3MzNExRS3l5aktVaTVWbk1ZaTBkeXJWeXFtcDdWZ3YzMFg5eXBSUk55OXpZckRvdHdaVDhXLVZxOUdDUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXRadngzUDBZQ2V6dDAzQ0t6emVSZmZ0M1d0TTg4SlFwaEdLM05KVmFELWxlTjQ2WlF0RS1WZF8wZl9vNFBma3huNktxeFJLNDNsbVQ1S1lzc19RZ0p1el9XcmJ5TElCYjYtUFFDdjZCUGdpamtkNm84MjB1WnEyRE9kVWlZREllYVVPT1poWHpXamxDakxzUW11U2o0VWxfd25wYW1OTGQtZ3FrUFI3bkRRTUtQVDVLS1RieHJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-local-sources-report",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wcTlmNDZ2NXlOSG1pZDl2SEhUYVRqNU9UMHFOZGNVR21uakhKY2dLUFpUdENzekdSS3gwUFBvaU96Umg4ZDBab1BQdXBPXzZXVXRLWEVhUUxnUGpxeUkxWi16ZWJ6b1FRc2VhcmF5dXZDNFM5VkkydkFzaw?oc=5",
+    "http://www.africanews.com/2026/10/19/kenyan-cult-leader-paul-mackenzie-faces-verdict-over-191-starvation-deaths/",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFRUZXo3MXFRXzhfN1M3cG9uU05fRU5qSTM3RjNUS0ViRWt6VzFiTlp2WjZLSmZqckVSdzZ2ZjRDekZqSGtXcDJOUmFxZGlMRm5PNzNBQzNaal9vVlk0cVVBYnRmd2JFSnEyQkVZREhQVFVRSWpfT2xYMGpGMXBOMmtoYTg0VF9kRDYxV2NPdTd4eFV4T1RNNEJjTXVCZTVXRUVLc3hLc3ZKcVY5R2pJampfZ19rVWFiVTd1UHNDZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGoyRnBhNXdBWHpXNGc4cjVFT0syaXdmbTF3VXpiVThNRjZWSndzVUtHVEJpWjBZZ2ZRS1RzUDFNY25GR2s0UmpfblFXbG1UbWJQYlVfTHJUcUtKUnp1cG1wbEotQm9uSFNZT1BmMFpkN191c2pqaWtJTFpkbVRTdkdrcVJnVUNEYUtCZU9kaHZHWnBOWE5OMVJINy14OUhIUnAtSW1ORFpPMTZXQWZwbHU0TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVzVxbzJTRnBiVW90RlhSczVRMEVfVkttSHYzOHB4NUNvUlJXQlZFQzRHMmx2UVNCY2VUb1c5V1lYS3B6Y3lyU0tfZE9qc2tHSUlGcVBFZDM2YXg3b0x0cmhBZGtQbzlIaWlBTHpwUHBjVWt4NmxUR0VKdzhLbmpiZ3RxM2tVWnBDVXYyQTRxZ2JzT1pFcEpic0V6ZEhLUkhDemJVY3Y4VGR5eVB2c0tFNV9RVDFpRmdXMXBHSkFqNnJVeDItY3Y2REpFSFBuU21vT2VVLVNXQ0xVbWtTZjRsbjh0Y1NYQ3ktQU4wNXpFeUtJdldhSzFFT1hqbHFJbVdBN1BFNThENUJZYzVQbTFyMHBDcUsyeTNORU1TMjMtUmh2ZzBrREl3Uw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU09VemV5QW5OekNxUTNENkowNVlJWmhYUnFvb2ttbEZwQW9rTGViNXZ2S1VWOG1qbUU3SERqNzctT0ZHdXFVNU0yV0lldmo3ZGxiTGdlWDd1QjFabHFKbUtvN0x2V2Q4bWVfb0x3Q1VGZFl2UkxSa2RwRDlJd1lkWGwtUDdPSHJ4RklqeER3V1QxY3N4dEhJR2ZjRDdfOXdhcnhfSGpFMEhxd3Yyb25pd0NObTFWVnBiUE5QcGRIYW52b2x2eTBCZUhJdXFhbEJ6R2p5ZnhvT1NvYnFzT193SzIyc25zaDFxUE1NMEIzRkhEbnZKYlpySzF1NGR5cXVaMTVIV1QtdkJJeEZvTUt0ZjI5Yw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "В'єтнам та Ліхтенштейн підписали угоду про уникнення подвійного оподаткування",
-      "summary": "В'єтнам та Ліхтенштейн офіційно підписали угоду про уникнення подвійного оподаткування. Цей дипломатичний крок має на меті стимулювати інвестиційні потоки між двома країнами. Документ закріплює правові рамки для бізнесу, запобігаючи подвійному обкладенню податками. Угода є частиною ширшого економічного діалогу між сторонами.",
-      "source": "Treaties & Agreements",
-      "publisher": "Vietnam.vn",
-      "published": "2026-10-18T14:09:10+00:00"
-    },
-    {
-      "title": "Вице-президент ОАЕ зустрічається з міністром оборони Саудівської Аравії",
-      "summary": "Sheikh Mansour bin Zayed Al Nahyan зустрівся з принцом Кхалідом бин Салманом у Абу-Дабі, обговоривши розвиток подій на Близькому Сході. Це сталося після візиту до Ріяд, що відзначився розривом між ОАЕ та Саудівською Аравією, а також підвищенням атак Хуїтів.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-18T16:11:01+00:00"
-    },
     {
       "title": "Лавров відвідає Тегеран для консультацій з іранськими чиновниками",
       "summary": "Російський міністр закордонних справ Сергій Лавров планує відвідати Тегеран у понеділок для консультацій з іранськими чиновниками. Мета – обговорити виконання двосторонніх угод і посилити співпрацю. Заявлено, що зустріч відбудеться за участі представників обох країн.",
@@ -1411,6 +1397,20 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-19T15:42:31+00:00"
+    },
+    {
+      "title": "Йорданія та МОТ підписали угоду про умови праці у текстильній галузі",
+      "summary": "Йорданія та Міжнародна організація праці підписали угоду, спрямовану на поліпшення умов праці у текстильному секторі. Документ передбачає впровадження міжнародних стандартів безпеки, обмеження надмірних робочих годин, посилення інспекцій та створення механізмів захисту прав працівників у швейній промисловості.",
+      "source": "Treaties & Agreements",
+      "publisher": "Fana News -",
+      "published": "2026-10-19T16:00:04+00:00"
+    },
+    {
+      "title": "Лі Цзян зустрівся з президентом Таджикистану Емомалі Рахмоном",
+      "summary": "Голова Державної ради Китаю Лі Цзян провів офіційну зустріч із президентом Таджикистану Емомалі Рахмоном. Ця подія зафіксована на офіційному сайті Міністерства закордонних справ КНР. У наданому тексті відсутні деталі щодо конкретних домовленостей, підписаних документів чи обговорених тем, тому опис обмежується самим фактом проведення дипломатичної зустрічі між лідерами двох держав.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-10-19T15:36:00+00:00"
     }
   ]
 }

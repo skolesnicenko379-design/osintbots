@@ -513,51 +513,15 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGI4Z0J0LVpWTDNiczlTTm1ZMkZiZVh5LWRRempQZTJFTGFDWTlpRHFoWVVpUGx1bFJZMXNoSlQ1blh4OERDZENMZ3RYaGFqcGlBS1ViNWRCNnRKbmRHcnRuQ1oxelVTTnROMFpUNy1rNlBxUHFpUVl5WVBubnhpZjRmWVdiQnQwNFhzTnhrdTUwUV9vbUJidVVWamV6NE5OQTVOaEZ6Y2Nza3lncnR6VEpUYWI?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUdzA2YUEwNGN2Y1F2NVBGMVItSlJOUXdDM2pDeTE1bWZzbkJfS1JoT2FndVZiSlR0c1hPd3FTVzU2X09RUGZoVGZjUG9MbzhkbTJhYmZQQ200YzZqS3Nn?oc=5",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMlhfemd5Wl9EVUNBQ0VoT0d5bFNTUjlncDY2cTE2TDBjUzBER1Q5U2pSUzFvVlBIam1pT2F6dkhOZUItUUk4NC1lVThzZnZaMnZNU0M4aEROOGUtQnlKQ3Z1RWNJbzNORkhRbFV1LVZQajBPYUt1S3JoaWFQVEZhTldYUUZZNjAweHVYUlhBRjJhcE9kdzRKMnNKN3BEUFhKdzdwUWluYWNmTk1XM1JRTGtHejJDOE1ETUZONFNSazAxNk1RczhyZ3ZDeC1IY3NiWlBpZ3J2dzhQUi1CYXFXVDQ5SDVxa0RES0lzYtIB8gFBVV95cUxQN1IwYW5jTjhMSko5YURtSHF5NU5rYjhIN01JdDFrVW9KeVVBS2o1RE4tZktRZVdfcl9oZWhZLTVSU0dxZVBMOHhvQUY5RkFxSDFuWE1JelR1eTBsbVowLW1XalR6YmluanpDV2I2cEVsWjRIenN2TW5JYTFWbElwYmhJWldzT21DXzBPMS13czVYYXFuamU4T0ZjRWo4ZC0wbG9HLUdOR2RwRll6VmRoV08td1JQeTNCcU9zOWg3SXRyZFRmOVpwdHZDUmx2Rk1rWHdKUWlsYWFfaGtzOG9QdlFINHI4MFRJWjlIWS1FZnpkZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0JBYTdZcWppSFBPanE1bHZPdC00RVZTdGVrY2wwSU81Z1JxcEFkQnFSNXZJUHJZOWUwS2pBZW50RzltTUNKMHZJb2JSdDAtZjBCczBLbm9SVW96dGgwWVpjb1RCVXB1TUVLcTJxQjFlYnZyc252bjBHeG1mbWhJeFJ1WHZwX2RDSkExX2ZOR1p6eThfQ2xCOURocTdUc2llWVIwZUIwaE1FSlVPeENOc1lYa2U4WlVURHd0QUJOUHA5QQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0JBYTdZcWppSFBPanE1bHZPdC00RVZTdGVrY2wwSU81Z1JxcEFkQnFSNXZJUHJZOWUwS2pBZW50RzltTUNKMHZJb2JSdDAtZjBCczBLbm9SVW96dGgwWVpjb1RCVXB1TUVLcTJxQjFlYnZyc252bjBHeG1mbWhJeFJ1WHZwX2RDSkExX2ZOR1p6eThfQ2xCOURocTdUc2llWVIwZUIwaE1FSlVPeENOc1lYa2U4WlVURHd0QUJOUHA5QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1TWktMN2dzdVBiZVB3YVdYckdQS3dqZS1iaVZtOWRKaHZGMW5zQWd6T3NGOVUxNy0wbTJlNU9seXY5cjkwLXp0NUhLUXpfd2FZYXVTTTlIQTFiYWJzWUVvUXVBZ3pQeFNfR3VmSDd5UV9lc29LSlFhc3U5d3hTbUduYk5xNFIzamMtM1NBNjhrUnNVUlIyYVJiM2R1Qi1EVktJ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmhTV0t0b1hRSUtNVDFadnBBdjJ5dlBucTRlMGVpcXVjUFlaNHg3WlRJVDk5X21TV1VqWFpUSmxfTDcyZGZmQWVaSHdJTFJrb1kxUEFiVkNJSWJ5X3Q3eXJpUTZMSy1FMFBjb1VHS3M3UGVaVGpUdjRfZDd1SnBGbllQM2tZbU1oOUQ2cUN3QjR3Y1VtekI5MDhhN2tyakRDTk54Zm5GakdOa0pQZDVDTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDFkMWtMNVZCcHc2Wkl3NTdENHNxSGJEOEd5aVhpTE93OWJreEVPR3BZSFdnZ3p2QlR2RnZtSm85empKb0RuYkRiMG5FOGpfenRBWlhFLUx4ZXlnWDNzTUdPajlSOFpZcTIxQkVZSkNPbE4ySjV1a2Y4ekp1UE9sbmo3U1J6X01KZlFNQ1VFQldLdzJ6VnlEWmNQMEZ4Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2ExaTFKOU82bFFBUl82a0RfVVlad3ZPMFZmdFpXa2dzcXFTaFlOSDhVWFFyR29UdWVycGZCcW5tWGVlUndaM2syZ0tFWEZXOTU0Qk9kQWROM2dncDEwTVg3X0c0c0F4RzlZdkt2TGliM09XNXhJdWdHQkYweE1WOEdSYVhOUnU3bUdaTkhFUEcxazhoMkdnOTdQQ0ItTzZVZ3YwWWMtT3pMQmUydGsxQ2tBT3lFWWxxMTZsMENJempyaXRBSTdVTzRGQWxRT2FDLUYzTmVIT0J6T1U4bU1yaGQtVnlKMnZEYnBBdC1B?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Third of Russian companies in losses, 11 sectors under strain",
-      "original_title": "One in three Russian companies posts losses as 11 economic sectors struggle – Ukrainian intelligence - The New Voice of Ukraine",
-      "summary": "Українська розвідка повідомляє, що кожна третя російська компанія завершує звітний період зі збитками, а 11 секторів економіки РФ переживають труднощі. У наявному тексті немає назв секторів, часток збитковості за галузями, періоду оцінки чи методики, тому масштаб проблем перевірити неможливо. Якщо д",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "The New Voice of Ukraine"
-    },
-    {
-      "title": "Відсотки за держборгом США перевищили $1 трильйон",
-      "original_title": "U.S. debt interest tops $1 trillion as deficit nears $2 trillion - سانا",
-      "summary": "За заголовком, витрати США на обслуговування боргу перевищили $1 трильйон, а дефіцит бюджету наближається до $2 трильйонів. У тексті немає даних про період, джерело оцінки чи структуру видатків, тому точність цифр перевірити неможливо. Якщо оцінки підтвердяться, зростання відсоткових платежів звужув",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "سانا"
-    },
-    {
-      "title": "Казахстан і Литва обговорюють Середній коридор",
-      "original_title": "Kazakhstan, Lithuania discuss Middle Corridor development - Trend News Agency",
-      "summary": "Казахстан та Литва провели переговори щодо розвитку Середнього коридору. Стаття не містить конкретних цифр чи умов. Обговорення стосується транзитних маршрутів у рамках тематичного напряму.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency"
-    },
-    {
-      "title": "Революційна гвардія Ірану: танкер підірвався на міні в Ормузькій протоці",
-      "original_title": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz - Anadolu Ajansı",
-      "summary": "Іранська Революційна гвардія заявила, що нафтовий танкер вдарився об міну та загорівся в Ормузькій протоці. Подія сталася в ключовому маршруті транспортування нафти. Це створює ризики для глобальних поставок енергоносіїв.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "Anadolu Ajansı"
-    },
-    {
-      "title": "Китай розширює закордонні бази електромобілів, Мексика відповідає тарифами",
-      "original_title": "\"Targeting the global market with low production costs\" China integrates electric vehicle supply chains and expands overseas bases; Mexico counters with tariffs and localization - https://economy.ac/",
-      "summary": "Китай інтегрує ланцюги постачання електромобілів і розширює закордонні виробничі бази, орієнтуючись на глобальний ринок через низькі виробничі витрати. Мексика у відповідь застосовує тарифи та вимоги локалізації виробництва. Стаття не наводить конкретних ставок, обсягів чи термінів, тому масштаб впл",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "https://economy.ac/"
-    },
-    {
-      "title": "Економіка Китаю зросла на 4,6% за дев'ять місяців",
-      "original_title": "China’s economy grows 4.6% in first nine months - سانا",
-      "summary": "Економіка Китаю зросла на 4,6% за перші дев'ять місяців. Цей показник стосується темпів зростання ВВП країни. Зростання може вплинути на монетарну політику та глобальні ринки.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "سانا"
-    },
     {
       "title": "Москва тисне економічно на Тбілісі для поступок",
       "original_title": "Gia Kuchava: “Moscow is using economic pressure to seek concessions from Tbilisi” - INTERVIEW - Latest news from Azerbaijan",
@@ -655,6 +619,48 @@
       "summary": "Стаття повідомляє про економічні дискусії Росії та Азербайджану, які ставлять у центр увагу торгівлю, інвестиції та логістику на 2026 рік. Жодних конкретних цифр чи умов не наведено. Макрофінансовий наслідок полягає в посиленні двосторонніх економічних зв'язків у рамках теми РФ та Азії.",
       "source": "РФ · економіка, бюджет і зовнішня торгівля",
       "publisher": "russia's pivot to asia"
+    },
+    {
+      "title": "Пауза експорту рідкоземельних металів Китаю завершується 10 листопада",
+      "original_title": "China’s Rare-Earth Export Pause: What Ends on 10 November - Technology Org",
+      "summary": "Стаття повідомляє про паузу експорту рідкоземельних металів Китаю. Подія стосується торгівлі та обмежень. Пауза завершується 10 листопада. Макрофінансові наслідки в матеріалі не наведені.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Technology Org"
+    },
+    {
+      "title": "Єврокомісія спрямовує €3,4 млрд на проєкти нульових викидів",
+      "original_title": "Commission invests €3.4 billion in net-zero technology projects - The European Sting",
+      "summary": "Єврокомісія інвестує €3,4 млрд у проєкти технологій для досягнення нульових викидів, про що свідчить заголовок матеріалу. У наданому тексті немає даних про джерело коштів, отримувачів, галузі чи терміни. Тому оцінити вплив на економіку можна лише в загальному вигляді: сигнал підтримки промислового т",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "The European Sting"
+    },
+    {
+      "title": "Південна Африка готується до втрати торговельних пільг США",
+      "original_title": "South Africa must prepare for potential loss of US trade benefits, president says - WTVB",
+      "summary": "Президент Південної Африки заявив, що країні потрібно підготуватися до можливої втрати торговельних преференцій, які надають США. У наявному тексті немає цифр, термінів чи умов, тому масштаб ризику оцінити неможливо. Макрофінансовий наслідок у разі втрати пільг: гірший доступ південноафриканського е",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "WTVB"
+    },
+    {
+      "title": "Президент Лі призупинив заявку Кореї на вступ до CPTPP",
+      "original_title": "President Lee Halts CPTPP Bid Amid Farmer Backlash - 조선일보",
+      "summary": "Згідно із заголовком Chosun Ilbo, президент Лі призупинив просування заявки Південної Кореї на вступ до Всеобхідного і прогресивного партнерства для транстихоокеанського партнерства (CPTPP) через спротив фермерів. У наданому тексті немає цифр, строків чи умов, тому масштаб і тривалість паузи оцінити",
+      "source": "Глобальна торгівля, СОТ і торговельні угоди",
+      "publisher": "조선일보"
+    },
+    {
+      "title": "Три кроки політики Китаю змінять експорт EV",
+      "original_title": "Three policy moves set to reshape China’s EV exports - Benchmark Mineral Intelligence",
+      "summary": "Стаття повідомляє про три політичні кроки, які мають на меті змінити експорт електромобілів Китаю. Це стосується тематики торгівлі та обмежень. Конкретних цифр чи умов у матеріалі не наведено, тому макрофінансовий наслідок не може бути визначений на основі наявних фактів.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Benchmark Mineral Intelligence"
+    },
+    {
+      "title": "ЄС і Молдова розпочали переговори щодо внутрішнього ринку",
+      "original_title": "Enlargement: EU and Moldova start negotiations on internal market, competitiveness and inclusive growth - PubAffairs Bruxelles",
+      "summary": "ЄС і Молдова розпочали переговори про вступ за напрямом внутрішнього ринку, конкурентоспроможності та інклюзивного зростання. У наявному тексті немає цифр, строків чи умов, тому оцінити масштаб зобов'язань неможливо. Сам початок переговорів за цим напрямом означає перехід до формального узгодження е",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "PubAffairs Bruxelles"
     }
   ]
 }

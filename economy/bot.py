@@ -122,6 +122,8 @@ search_queries = [
      "Енергетика та LNG", "global"),
     ("IMF OR International Monetary Fund OR OECD economic outlook OR World Bank global growth forecast debt inflation when:24h",
      "МВФ, ОЕСР і глобальні макроекономічні прогнози", "global"),
+    ("WTO OR World Trade Organization OR free trade agreement OR trade deal OR tariff agreement OR WTO dispute when:24h",
+     "Глобальна торгівля, СОТ і торговельні угоди", "global"),
 ]
 
 FEEDS = []
@@ -132,7 +134,6 @@ for query, label, group in search_queries:
 
 # Офіційні та міжурядові стрічки на додачу до пошуку публікацій у медіа.
 FEEDS.extend([
-    ("https://www.wto.org/english/res_e/wto_rss_e.xml", "СОТ", False, "global"),
     ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", False, "global"),
     ("https://www.ecb.europa.eu/rss/press.html", "ЄЦБ", False, "eu"),
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", False, "eu"),

@@ -364,7 +364,6 @@ def analyze_with_anthropic(title, article_text, source_name, recent_posts):
             json={
                 "model": ANTHROPIC_MODEL,
                 "max_tokens": 600,
-                "temperature": 0.2,
                 "messages": [{"role": "user", "content": prompt}],
             },
             timeout=(5, 35),

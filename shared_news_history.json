@@ -26,7 +26,6 @@
     "https://militarnyi.com/uk/news/nodrics-rozrobyla-amfibijnyj-nrk-mat1lda",
     "https://militarnyi.com/uk/news/poshkodzheno-ogorozhu-aeroportu-lejptsyg",
     "https://militarnyi.com/uk/news/rosiya-hoche-rozmistyty-balistychni-rakety-v-bilorusi-ta-posylyty-udary-po-zahodu-ukrayiny",
-    "https://militarnyi.com/uk/news/rosiya-zastosuvala-h-22-32-dlya-udaru-po-ukrayini",
     "https://militarnyi.com/uk/news/rosiyany-osnastyly-drony-gerbera-2-10-kg",
     "https://militarnyi.com/uk/news/rumunski-f-16-zbyly-dva-drony-shho-vtorglys-na-terytoriyu-krayiny",
     "https://militarnyi.com/uk/news/saudivskij-araviyi-rozbyvsya-vertolit-ah-6i",
@@ -81,7 +80,6 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREF3XzN1eVEycjVoX2VRMUV4WVVkX09Pclk0eURiX3A5UC1fUmRyTFJqa2JEdlZFZWJod3hXcmRRRGVKTE1uUlNONHFZVmlhcGJJU1VqMlRfdVV5M080WkdCZHVxa1ZuNWtfZWZiQXNFU1BDa2VKckNlblk1eklCbjMxUmZlU0dCeVEzd0FlTjRXTUUtS29PeHpDYw",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVdURV9tZ0hiamF1WTh5bXN1UExQUHNYTldJUm5ibVB1NVJ0UElYYl91MmxyZkVsd0hiYVYySjdCTlp1WFp4OV9aNXV3VTRVVlEwd0lEOF9QSVVFODlDZG1lY2NfeUNLbmRRdlgxZlpQT2hVZ0VJdHR4MWpKVXAzTjlsQkdjeVJ6bGg0TTlCem1rUTRCX0tObTdCZmM",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXJ5aXZRaDlzOWhWUmtqeGs1MHZOWUQzeXR6M1liM3pZT1dkY1dyaE1CRzViaGxtZFRaQ1B2Nk51QXBuM05QSEpDbjdJaThyQWRDWWJvZDh1bWxmbm5pSWdkUkFqc1c1QkxJM1FvcGJ6RU91N1l5aHFaem1mM0RvR3dDd1RLQkZja1hNREhzQzgyaEU1RlRZQXRJWmZvdw",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcURkdWptMlVETFdZRGxzSndZVlhqcGh6eERzZVZ0VHF1MDQ3R3NzOFdUb01yR2hIeVphV1FwTTZ0cFM4UzFpYjBiTGFpRnlkWGZNakM3aUpRbVRzM1ZYWWVpM3hPWXh4Sk9aS0Q2WDU2WGZMODBsX1VKTXpmQUppLXpGVjItNENYT0VvdHFlLTQ5RHB2OEM3bWVLTzBDSUlu",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm9rS0Rkb0NKdkZrVXI2MDlVZ0RZRmY1ajhFN3dIV3R0YkhGQ3dFdzBubmtmejdmWkIyMVJwaWRCTG42cHViTzF5SjM0Q3JnSlpLcEhWSnVPaDJOdkRBTjdManF0a3I2LVNEN01xS2RfRnJLOUlnTXAxTE40ek1TcXRGdG51dzhfRU1NcHBoLXhOQ3J1TzliTlpEcFZlcE5fYlE",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0JLUHU2X2VNRmtJMGR0aXNwZUxqMEdxbGRMM19tcDlqZ0l1UEFBeHBTbEpKRXlWdmJZN0VoWi1ETkRjTkNxWnViQWZuZ0ItckpCaGhta3ByXy1IbVV5T2tuUVBtUV9pdjRuZGVrdFM1UklIdDlSRjJiaEJsdlJ4RmxrYzg4NlpuNzVtckRzV0tBOXluLVY0VGdVbnVvUzJEMmQ0",
@@ -125,26 +123,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "OPEC ймовірно програє гонку за частку ринку в Затоці",
-      "original_title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso - EnergyNow.com",
-      "summary": "Стаття стверджує, що OPEC є ймовірним програвшим у поствоєнній гонці за частку ринку в Перській затоці за Bousso. Це стосується енергетичних ринків після конфлікту. Така оцінка може вплинути на позиції картелю та динаміку пропозиції нафти.",
-      "source": "Сировинні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE",
-      "published": "2026-10-17T07:26:21+00:00"
-    },
-    {
-      "title": "Росія вперше з липня застосувала ракети Х-22/32 для удару по Україні",
-      "original_title": "Росія вперше з липня застосувала ракети Х-22/32 для удару по Україні",
-      "summary": "Ракети Х-22/32 запущені з Ту-22М3 над окупованим Кримом, мають дальність до 1000 км і швидкість 3,5–4,6 Маха. Модернізована Х-32 поєднує риси крилатої та балістичної зброї завдяки крутому пікіруванню, що ускладнює перехоплення ППО. Застосування разом з «Іскандерами» та «Калібрами» вказує на спробу насичення української протиповітряної оборони.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiya-zastosuvala-h-22-32-dlya-udaru-po-ukrayini",
-      "published": "2026-10-17T07:30:55+00:00"
-    },
     {
       "title": "Чи скасував Трамп санкції РФ 16 жовтня",
       "original_title": "Did Trump Lift Russia Sanctions? What the October 16 Waiver Changes - Diplomacy and Law",

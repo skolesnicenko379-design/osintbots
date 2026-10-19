@@ -11,7 +11,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
     "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
     "https://militarnyi.com/uk/news/brytantsi-mayut-gotuvatysya-do-zhertv",
-    "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
     "https://militarnyi.com/uk/news/do-lytvy-zaletiv-nevidomyj-dron",
     "https://militarnyi.com/uk/news/drony-kamikadze-klyn-urazyly-vyrobnytstvo",
     "https://militarnyi.com/uk/news/drony-urazyly-data-tsentr-ta-terminal",
@@ -104,7 +103,6 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlhDQkItQ0oyWjNLdHJXSlV1SC02Y1ZNOGJsUi0zWXk2cTVMRFg5NDgzRzhkZHF4SXZYSHpoSVUzVDhzZ291RmNxMDFfN2NtQ1VFcG1LdHZNb2RoR0hMZ2swQUNaYWZwbG9EYXM1TG5aWmZ1eUJlbkNKa3ZUQWZhOUZJazUyT3R2XzZfWjlRVlB4QTgxWmxmWk9FUUdKS2FfUUtBX3dQUTk1a0dBWWFRb3VuMXNzXzFsc0d3dWhOSFU",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3I3Z0syQkdEcFpaOFEtNC1kaE9YWkQ1RDhFcTI2SkNFM0Z1OE40THJmOWo5OEF4QzMzYTN6WG1KTFZPdDdDQ0l0Uy1IS2JSOTJsYkZieXcwN0pweDQ2ZGZGNHhqeEJkdVpxRDlKMGVya09VRGhRRmRwdU5UaUk5ZHpRVzFHNTF1UGZvdXgzMGNhaGlXd2UycERqZG50cmJ0Z3pWN0ZOclpCZi1HaDlHY0NZVmZuODUzY013MTVGZUfSAcgBQVVfeXFMTkwwd0lxLVRhcm9oSEVtaHBnNnBXVWV4YWQxYUdyVjZ3cEtkUnNUUnBJNlA5eDR6bEZFSjc3ZV90c200SnRtdnotXzdWakRmbW1lajl2ekFDdnMwcktMTXlwNHZaR0pyUXEtME5SX2otemdmTTlrUG1KZmVRSDUyNzBlckY5STVrWkNRQVM5QV9uekoxY1JkZWpjNWJ6VnNSU1lycGozOTlVQzA2cGhzZG9HNjk5TkJUMWxKd1FOTy11djRXaHBIcno",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWVTUkNnTkpzeGd2MWtuN29laVY0NU1EQkxzT0U0ck5aZEo0U1JLNnNUbDRxTHZ2QzhMZjlMc0d4N3o3MFdZTnlReGJXTnBaQXI4MG9MWXV3ZkNDUmhPMW5yUFdpS3RKTXMxb19oMFZrbEZBUEQxbmM1Yk5ucEhzVnhCWkVCYWZKaUM0M2phRVVtQ2phQVRlODY5dlFVMGYta2FoSFlQSm1sek5EWmx1cEdRdnFfN0FSWmhrSEZRSnRsZknSAcsBQVVfeXFMT0xhaGR4aURHcXBUN3V6VE54d1Y2QTFwOTViOVhrWTJ5dkRSQXpDTkhrRFZoU2owZDQtclZoSXNPRzBkekUxd1Y3M0xPY1AyWEtWUFBEOThzb3VaZzVpQWUyUlh5TzJyQ1NOV1d0X2NGY2hSUWI4VEJKVDU3R01vUWpSSE5BY1JjY0hHTTVZTmhOMUcxUmdsNUlSa1p3V2JTcGd4UXBWMWd5dDllaFk2dzVER2pqYmc0WHZhTVUzWHRLLWVxbElOSFNVZUE",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUlKaFBKUTFmaFpnU2VCWXdSSW1hTGZzeHFOOGxBRjBieUFrZWVlc2w3NzRsYi03NWczQTBtYkx4QnlNQVBvZFlkamdISFFWajl6Xy14UU03Vy01Y3N0Wm1OZWdackNNNUdVOTJnMmV0eTVUbkVhUGVMOVhxYnc2dW9kelNMMWhmZFN0Z2JMbXZYMjhQTEZOSEMxYmNaSjh1emYzLTduSmpMRm91bVRIRDhON1RoOEE2dzRLQ1BnM0J1VzA",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkxQWkdXU29MdVJDbndxbFYtYVFzMjZINFFObEpCTDh1X0NMYnhWTXJLc2t3QjNBTDNJblFaazZsbnozeVpfVlNkdzE1czJpR3hfUktkOThtVzZXdzIzQWpYd0kyM0pOOXVERU1kZi1IbHc4Qy1BNVlaUDdCNEh5M1NsQ1Y3ektkcWtabTVjN3BlNXVYOHVMdWRaRG1PYjNGSVRKWTd6RWRuZjRvREV2LWhwQzZzY0JqcU5QTEtaSEpWOGPSAdMBQVVfeXFMTVdzUWhERk9lejRmUDJPWWF2MGFIQ2RxTFFVRW4xT1d2U1FhdW1LR1dRU2VCRzR3T1k2ZTJORzY2TmFqMklPbnRlYko4cFIwWF90b1BtU204aGFuT011NDdtcER6eEpYeWxCRWhLTlZzUHNlTkE0NmdTbG9kMkNpUDZ2Q1kybTJOUjJNdE44Snh1cS1qT1c5RENTRHNnRk5Ray1YbGZtMUEwNVdNdkhmOUpTQjRZVTFiVHRTc0tKRV9zWVc0ZkRkeDBuQ1gyV1JpUGVkdw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmxVVmZoclAxdG5nSDh3RFllM0RsblUwUWxFSzIweEo3S1F0TjlLSlo1dnJYNk9zbVFucFg4bXZ1TWU1RGhiYl91R3B2TnVOT2tiUmVqSWQtRGZmWUtnSlBEZ0xmcjlaWmV1U3FvUE9jblVvSGcyN0lTX1c3WDBPT0x1a0t3Y1dEX2N3OF85RVA0UWZaNmYtaTlrOUc2b3lVaE44Y3IyenE2emhyZXBQRU5lWEZKNGNnQTlYRE1tWUR2Umc",
@@ -116,6 +114,7 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmc5RzJGM3pfU0dGZ0RUZlBRajVNTUx0Y3hSX09aTlNkNkhvem1TbFJDZXktVnpQdHoyV0UwblVkMmo3U0JDb1ZsTFZoSkJVbnJkMmhqYktkbHFCMHZMX3JVQlR1Q0JMQnJxN0N0OG5CWTlueFU3dHVJUE5QRVIybHdoMTNkUGY3OElfbzMyNHFjTU4ybzdfLW51S2psZWMtdkdVUktMRWtlaVNFZnpxWFQwZEJiaVM3a0IxOHQwcWllM0daRk9z",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTBtdHpmTjAxUWtLaGp2c3M0STlDa2RSX3lJOWlXM3BZNDJuQk1raWZXdTVWMy05THExMVRLc0FHN1hJMV9MRjdTZXF4MVZPdjdqeXA4SEtqVFBFTFQyTkhLSV8zb1p5WkczMmJNWFlJREJPbmlobGRRSVJQeEhNQ2NITXdWZEZkR2xhUWdOczhrZGVaNzE2Qm02NzlNdF9FMTBscTZrdVdIOVdPNlJUWlBtNEctbzFybV9sd2ZVOHA4VTJBZ09aXw",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDl3TDNDQXN6c0h3bC1ma29fYlFrN2NGZlVsTlpvNFd2a1BQX3ZiMjhqVUtOYm56Z09wdUFtMnM3U0kyN195Mm91ZWM5aUUwZTY1eU1WSDRxeGlfTUdsZUwxaHhHMlJ2ZVpPTUdZdGZiZ0FMU0tQaHNvTjA4TnlSWk5BZ2dNeWgtX2hpcEhSTU0zbEZPbE52WVZIS2JKdFRFc3ZIbmhsZkF0MzFicGNNWnFwRTdTbTdWT3pFNFZiV01KbUlWRjZKdg",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1EwZVdKLWE0WmxjUEc0TVFVLXYtR0Q2TVJSUVdfZzNmb095VjRYQy1Sb3B2T1dyM2RkYkM1NzJTQ3QwZW9QdlV1aEJELTV5SXNmVEllN0hjSzMzaUZBdjZtRExnLXA1WDN5cVZBWEJIVjkzbjJUVFlzMGdvVVZjLTB4eV9ERTBuQ0ZCdUkyMm8wZi1KOUVQUlhCTTg0NVhUM3BCMGg0MXZfcmpZS2oxcXpmMExMaTZJa01weGFKZW91N2xBS1RtWUJ3Zw",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWwzM3dIM2tpRlpUVjJwbUJYWXcyWXp2ZzU3N1RYczkzbS0zQnZfVVVUN1J5Zkt5YU1SYVR2VG9HMDZwY3dRTWFVbEFTNHZtUG42elJoR2laRzdsV1kxOGhqbFVHUDBvOVpHcHVpM25ad2hmZG9hZmxQN2JqQzQwZ1VVYWpYbHl2ZkFoYk1Fb2NRbms3QURVeVpPWmkzdUpYb0pnZkFNREl3RHN3cXVhS3BhU213YldZNVE1bXdEYlluZ2R6emV5VWtRVHc0QQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ",
@@ -123,26 +122,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "БТР-82А отримав заводський комплект захисту з решітками, ланцюгами та «манежем»",
-      "original_title": "Решітки, ланцюги й «манеж» для десанту: БТР-82А отримав заводський «мангал» від дронів",
-      "summary": "Новий комплект від Арзамаського заводу включає каркас з металевими решітками над баштою та корпусом, гумотканинні екрани на бортах і ланцюги з тросами навколо корпусу. Маса БТР зростає приблизно на 15%, максимальна швидкість падає до 50 км/год на трасі та 20 км/год на пересіченій місцевості, а сектор обертання бойового модуля обмежується 270 градусами. Конструкція зміщує точку підриву на 35 см від броні та заявлена як всеракурсний захист від FPV-дронів і уламків, але не від протитанкових мін.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/btr-82a-otrymav-zavodskyj-mangal-vid-droniv",
-      "published": "2026-10-17T11:10:50+00:00"
-    },
-    {
-      "title": "Oil Prices Top $100 Amid Tanker Attacks",
-      "original_title": "Oil Over $100 as Markets Struggle to Balance Amid Tanker Attacks and Shipping Disruptions - Energy News Beat",
-      "summary": "Ціни на нафту пробили $100 за барель, оскільки атаки на танкери та перебої в морських перевезеннях скоротили доступність транспортування нафти. Обмеження флота підвищує ризик постачань і підтримує високі ціни, що збільшує витрати країн‑імпортерів та тисне на їх торговий баланс.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk",
-      "published": "2026-10-17T11:33:10+00:00"
-    },
     {
       "title": "Президент Казахстану та прем'єр-міністр Камбоджі зустрілися",
       "original_title": "President Kassym-Jomart Tokayev and Prime Minister of Cambodia Hun Manet Hold One-on-One Talks - Ақорда",
@@ -1332,6 +1311,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0xFUVUtT0dFMkgzdUhZeGt1V2E5U3EyNTJLTUNnVVlHTnZOd2FXa0pnMDN2NHR6aUFNUDUzS0pyb1VsbU5ac0VnZEw5aTBvNmxta0RpWEk1cVlVWGZpLVlTYXhmYW5rZUlsMnUxYjQyejlKV1MtMmR3UE56eWNtMTZtcXdpcjAtUFNOTmtGZmduTjkzbjNR",
       "published": "2026-10-19T03:03:50+00:00"
+    },
+    {
+      "title": "Президент Сенегалу Фає поїде до Парижа для переговорів про борг і безпеку",
+      "original_title": "Senegal • President Faye heads to Paris for debt and security talks - Africa Intelligence",
+      "summary": "Президент Сенегалу Мохамед Фає поїде до Парижа, щоб провести двосторонні переговори з представниками Франції щодо зменшення зовнішнього боргу та зміцнення співпраці у сфері безпеки. Зустрічі заплановано на 15-17 жовтня, а результати очікуються до кінця року.",
+      "source": "Bilateral Meetings",
+      "publisher": "Africa Intelligence",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDl3TDNDQXN6c0h3bC1ma29fYlFrN2NGZlVsTlpvNFd2a1BQX3ZiMjhqVUtOYm56Z09wdUFtMnM3U0kyN195Mm91ZWM5aUUwZTY1eU1WSDRxeGlfTUdsZUwxaHhHMlJ2ZVpPTUdZdGZiZ0FMU0tQaHNvTjA4TnlSWk5BZ2dNeWgtX2hpcEhSTU0zbEZPbE52WVZIS2JKdFRFc3ZIbmhsZkF0MzFicGNNWnFwRTdTbTdWT3pFNFZiV01KbUlWRjZKdg",
+      "published": "2026-10-19T04:42:24+00:00"
     }
   ]
 }

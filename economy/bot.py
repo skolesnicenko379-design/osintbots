@@ -5,6 +5,7 @@ import time
 import html
 import traceback
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 
 import feedparser
@@ -478,24 +479,26 @@ def send_to_telegram(text):
         return False
 
 def collect_entries():
-    all_entries = []
     now_utc = datetime.now(timezone.utc)
     max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
 
-    for feed_url, source_name, is_topic_query, source_group in FEEDS:
+    def fetch_one_feed(feed_config):
+        feed_url, source_name, is_topic_query, source_group = feed_config
+        collected = []
         try:
             resp = requests.get(feed_url, headers=HEADERS, timeout=8)
             if resp.status_code == 403:
                 print(f"Увага: {source_name} повернув 403. Блокування доступу.")
-                continue
+                return collected
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
         except Exception as e:
             print(f"Не вдалося завантажити фід {source_name}: {e}")
-            continue
+            return collected
 
         if getattr(feed, "bozo", False) and not feed.entries:
-            continue
+            print(f"Фід {source_name}: некоректна RSS-відповідь без записів.")
+            return collected
 
         for entry in feed.entries[:10]:
             link = entry.get("link")
@@ -507,7 +510,7 @@ def collect_entries():
                 continue
 
             published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-            if (now_utc - published_dt) > max_age_delta:
+            if (now_utc - published_dt) > max_age_delta or published_dt > now_utc + timedelta(minutes=5):
                 continue
 
             rss_source = entry.get("source", {})
@@ -517,7 +520,7 @@ def collect_entries():
             elif not publisher:
                 publisher = "Google News"
 
-            all_entries.append({
+            collected.append({
                 "link": link.strip(),
                 "title": entry.get("title", "Без заголовка"),
                 "summary": strip_html(entry.get("summary", ""))[:1500],
@@ -527,6 +530,14 @@ def collect_entries():
                 "group": source_group,
                 "published": published_dt,
             })
+        return collected
+
+    all_entries = []
+    # Паралельне завантаження скорочує затримку, якщо кілька RSS/API повільні.
+    # executor.map зберігає порядок FEEDS, щоб пріоритет позначки при дублікатах був сталим.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for feed_entries in executor.map(fetch_one_feed, FEEDS):
+            all_entries.extend(feed_entries)
 
     all_entries.sort(key=lambda e: e["published"], reverse=True)
 

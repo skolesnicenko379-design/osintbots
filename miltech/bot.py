@@ -27,7 +27,9 @@ ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 4
+# Стеля витрат: кількість кандидатів для ШІ не зростає разом із кількістю RSS-джерел.
 MAX_AI_CANDIDATES_PER_RUN = 8
+MAX_FEED_ENTRIES = 12
 REQUEST_TIMEOUT = 12
 FEED_CONNECT_TIMEOUT = 4
 FEED_READ_TIMEOUT = 8
@@ -43,6 +45,8 @@ FEEDS = [
     # Активні англомовні джерела: новини оборонної промисловості, озброєнь і військових технологій
     ("https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "Defense News", True),
     ("https://www.twz.com/feed", "The War Zone", True),
+    ("https://www.navalnews.com/feed/", "Naval News", True),
+    ("https://www.army-technology.com/feed/", "Army Technology", True),
 
     # Джерела Google Alerts із кастомними назвами для Telegram
     ("https://www.google.com/alerts/feeds/12089626364797798521/7402252502089930204", "Western Defense Industry", True),
@@ -68,7 +72,7 @@ XAI_MODEL = (os.environ.get("XAI_MODEL") or "grok-4.7").strip()
 if XAI_MODEL == "grok-4.3":
     XAI_MODEL = "grok-4.3-latest"
 
-ARTICLE_MAX_CHARS = 3000  # скільки символів тексту статті передавати в Groq
+ARTICLE_MAX_CHARS = 2600  # скільки символів тексту статті передавати в Groq
 
 
 def strip_html(raw):
@@ -132,8 +136,8 @@ def enrich_with_groq(title, article_text, source_name, needs_translation, recent
     # Більший контекст допомагає ловити повтори, які повертаються з іншим заголовком
     # або з іншого джерела. Короткий опис обмежує витрати токенів.
     recent_block = "\n".join(
-        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
-        for post in (recent_posts or [])[-15:]
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:65]}"
+        for post in (recent_posts or [])[-8:]
     ) or "(нещодавніх публікацій немає)"
 
     prompt = (
@@ -226,7 +230,7 @@ def enrich_with_anthropic(title, article_text, source_name, needs_translation, r
     )
     recent_block = "\n".join(
         f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
-        for post in (recent_posts or [])[-12:]
+        for post in (recent_posts or [])[-8:]
     ) or "(нещодавніх публікацій немає)"
     prompt = (
         "Ти — редактор мілтех-новин для українського Telegram-каналу.\n"
@@ -251,8 +255,7 @@ def enrich_with_anthropic(title, article_text, source_name, needs_translation, r
             },
             json={
                 "model": ANTHROPIC_MODEL,
-                "max_tokens": 700,
-                "temperature": 0.2,
+                "max_tokens": 500,
                 "messages": [{"role": "user", "content": prompt}],
             },
             timeout=(5, 35),
@@ -314,7 +317,7 @@ def enrich_with_xai(title, article_text, source_name, needs_translation, recent_
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.2,
                 "response_format": {"type": "json_object"},
-                "max_tokens": 700,
+                "max_tokens": 500,
             },
             timeout=(5, 35),
         )
@@ -374,7 +377,7 @@ def fetch_feed(feed_config):
         print(f"[RSS] {source_name}: feed parse warning: {getattr(feed, 'bozo_exception', 'unknown error')}")
     print(f"[RSS] {source_name}: fetched_entries={len(feed.entries)}, runtime={time.monotonic() - started:.1f}s")
     entries = []
-    for entry in feed.entries[:5]:
+    for entry in feed.entries[:MAX_FEED_ENTRIES]:
         link = entry.get("link")
         if not link:
             continue
@@ -440,8 +443,12 @@ def main():
 
     # Спочатку прибираємо відомі повтори, окремо рахуємо причини відсіву.
     candidates = []
-    skipped = {"local_history": 0, "shared_link": 0, "shared_title": 0}
+    seen_candidate_links = set()
+    skipped = {"local_history": 0, "shared_link": 0, "shared_title": 0, "feed_repeat": 0}
     for entry in entries:
+        if entry["link"] in seen_candidate_links:
+            skipped["feed_repeat"] += 1
+            continue
         if entry["link"] in history:
             skipped["local_history"] += 1
             continue
@@ -456,6 +463,7 @@ def main():
             history.append(entry["link"])
             continue
         candidates.append(entry)
+        seen_candidate_links.add(entry["link"])
 
     candidate_counts = {}
     for item in candidates:
@@ -464,24 +472,38 @@ def main():
 
     candidate_count_before_cap = len(candidates)
     if candidate_count_before_cap > MAX_AI_CANDIDATES_PER_RUN:
-        # Резервуємо до двох місць для Google Alerts: по одному на кожну стрічку.
-        # Решту місць заповнюємо найсвіжішими новинами з усіх джерел.
-        alerts_sources = {"Western Defense Industry", "Global MilTech"}
-        reserved = []
-        reserved_links = set()
-        for source in alerts_sources:
-            match = next((item for item in candidates if item["source"] == source), None)
-            if match:
-                reserved.append(match)
-                reserved_links.add(match["link"])
-        remaining_slots = max(0, MAX_AI_CANDIDATES_PER_RUN - len(reserved))
-        remaining = [item for item in candidates if item["link"] not in reserved_links]
-        selected = sorted(remaining, key=lambda item: item["published"], reverse=True)[:remaining_slots]
-        candidates = sorted(reserved + selected, key=lambda item: item["published"], reverse=True)
+        # Відбираємо кандидатів почергово за джерелами, а не одним загальним рейтингом
+        # свіжості. Ротація змінює пріоритет джерела, яке отримує останнє місце в ліміті.
+        by_source = {}
+        for item in sorted(candidates, key=lambda item: item["published"], reverse=True):
+            by_source.setdefault(item["source"], []).append(item)
+
+        sources = sorted(by_source)
+        if sources:
+            run_slot = int(datetime.now(timezone.utc).timestamp() // 7200)
+            offset = run_slot % len(sources)
+            sources = sources[offset:] + sources[:offset]
+
+        selected = []
+        round_index = 0
+        while len(selected) < MAX_AI_CANDIDATES_PER_RUN:
+            added_in_round = False
+            for source in sources:
+                source_items = by_source[source]
+                if round_index < len(source_items):
+                    selected.append(source_items[round_index])
+                    added_in_round = True
+                    if len(selected) >= MAX_AI_CANDIDATES_PER_RUN:
+                        break
+            if not added_in_round:
+                break
+            round_index += 1
+
+        candidates = sorted(selected, key=lambda item: item["published"], reverse=True)
         selected_counts = {}
         for item in candidates:
             selected_counts[item["source"]] = selected_counts.get(item["source"], 0) + 1
-        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; alerts_reserved={[item['source'] for item in reserved]}; selected_by_source={selected_counts}; excluded_by_cap={candidate_count_before_cap - len(candidates)}")
+        print(f"[FILTER] candidate_cap={MAX_AI_CANDIDATES_PER_RUN}; source_rotation={sources}; selected_by_source={selected_counts}; excluded_by_cap={candidate_count_before_cap - len(candidates)}")
 
     # Завантажуємо обрані статті паралельно, але виклики Groq залишаємо послідовними.
     stage_started = time.monotonic()
@@ -508,7 +530,7 @@ def main():
 
         stage_started = time.monotonic()
         duplicate_context = select_relevant_recent_posts(
-            entry["title"], article_text, shared_history["recent_posts"], limit=15
+            entry["title"], article_text, shared_history["recent_posts"], limit=8
         )
         groq_title, groq_analysis, is_duplicate = enrich_with_groq(
             entry["title"], article_text, entry["source"],

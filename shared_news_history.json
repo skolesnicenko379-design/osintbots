@@ -31,12 +31,12 @@
     "https://middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-we-have-job-finish",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/qatar-uae-discuss-strengthening-ties-and-regional-developments",
-    "https://middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
     "https://middleeasteye.net/live-blog/live-blog-update/world-food-programme-says-ending-aid-half-million-gaza-due-funding",
     "https://middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
     "https://middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
     "https://middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
     "https://militarnyi.com/uk/news/144-dyvizija-rf-vivaldi",
+    "https://militarnyi.com/uk/news/3-korpus-upravlinnya-bezpeky-operatsiy",
     "https://militarnyi.com/uk/news/analizator-radiochastot-d-vision-sdr-video",
     "https://militarnyi.com/uk/news/andrij-grytsenyuk-zalyshaye-posadu-brave1",
     "https://militarnyi.com/uk/news/bluebird-vypustyla-onovlenyj-chujka-4-5-0",
@@ -44,6 +44,7 @@
     "https://militarnyi.com/uk/news/combat-vision-stvoryla-gejmifikovanyj-instrument-dlya-navchannya-artylerystiv",
     "https://militarnyi.com/uk/news/dron-shho-vpav-u-lytvi-buv-ukrayinskym-reb",
     "https://militarnyi.com/uk/news/drony-probyly-dah-data-tsentru-vkontakte",
+    "https://militarnyi.com/uk/news/gulyajpilskom-napryamk-rf-posylyla-shturmy",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
     "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
     "https://militarnyi.com/uk/news/rosijskyj-suputnyk-kosmos-2612-pid-chas-peresliduvannya-iceye-x36-zblyzyvsya-z-nym-na-krytychni-26-metriv",
@@ -61,6 +62,7 @@
     "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
+    "https://navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
@@ -70,7 +72,6 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGNWQ2VMU3ZoMFFZTDA4dXhnM0FYQkxJTEdmYURJOGZUckR5UTYyQXNWRWQ3ZFNZVzNZOU01ckExU29sYlVlREl5cTFiMG5hMHRrZmNrd0tZa1U4ckxObTBMZFQ5ZFp1RlZCS0ttNEVtWUQ4Qll4U3EyVzR2b2FNTGdVMEN4RGRxdXhYcFZDWVRwb2hqQWg1ZHVZX2lQM2ZZX1pIT0xmalM2ejAxa0g3VWhKNGV5LXZkY004NXdfM1J0N2I3aUZmS2ZaZUVhTDFOcHc",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFJMbWtyYlBDZGtkM2hkWXJaWHQyZmxoZmpKaVhjMVhYM3BhMXJJU3B6R0dIT3h6RTdCeDM2YjE2cnRLekE5SkVoZ2lNQ2xsMktjS3ZMTE5VMUhWY2xaS0VyV1R2XzZoQ0FhaUNiZWZ2Qk16UjZpNnMzMWxjWkFzY2Z4Wlp0X042SFVtcUJjbnlrbGI3RzRMdU1TSWRxTXcwcGUtNk8yRk80b0dCbmszalFaWjI0N2swYVlPZGZ0aEZtN1VTUzVoejVrM1VoR044Q0ZvUdIB2gFBVV95cUxPUUU3OEhMUXo0T1k2S3RQVGNZYVVmbDZaSnBiMXV0NWtjeWJkaEZrUF9uSTNhUU5fRUd2M3YtXzRRRi11YWhFejh1dFRsdFdIRi1HRk1HZC1lVV9wYlBTZVdWcGt4am8xVFdvb3ZsVWRDYi1GYVZWNzEzUEw1aXZoUWM0Q3ZtODN6SGQyXzh6QjU5S1RpUm96UWdKWjRNWEVsUmE4UERzMG50QVdLTkJQeFl2amdnV1FoMHl6WkhwRVpBcmRSaHVLSW12UlliNnhvWXktWHBCRFAxUQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnVSekI5SVY3Znd0OEVIbnlNcGxRQThocElob2JnZ0U4ZlVhRHZVUnFZc1c2eTdOLUdKendaZHFhMTlEWGFYcnJqNWxLMncxVmMzekR1X1ZwSDFTeVpQNUQ3V2RBZTNtWDk0a2VkQUZTaWpCN056TUtjQm5iSmFQS291cTkyQkkyU3p5ZUVfRElodHVJcVNrYnRnT3BQWTNCdkJFM1lkeG1jTUFSR3BFaXZDaGRaODN0T2ZZVkxyTEp5azFOcmI1bmgycnRvZHNFa2p0Uw",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDkwRy1VajhGaFJtODNiZHMtdUR1NElCZXJVMV9fcU0ySXVISXdLaDlRcHRLVVFhOGJVS0I3amtDYkp1UTYxcHhzcWVpdDZHRGZMOTZXUlYwWE5uYlJRQ2RUdnF5Q1ZnU0lndEhHVU1BcXdMTzF1SHNTWGdaVXJ4TGlsdVJJTk5EMmNZLVlRd19qcnpfaTI3VEhwTUp0N3A1Yk01UGtkODQta0VsV3RTazdzazhwNXJUYXR1ZG01dWd3UkxJdFV6WmNPMzNkSVZTZ29XbnU3eHJtaUk",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVlJMTNCZVVsMFhVdkRKNE5MVWM3MUxrNWptaHhocVZ3b3V2ZFBpNTZXYndwYjd3Z3Zra2NiNUpBLWN5aU9oSm9lRGREa2VxNDFBYURKN2ppU1hIS2lQcnV6Q0dfZWxiWW1oSFM2X1kycUUzMG0wS3poeGtpMUoyVGRaRDRHaUxkWHVzQURseXctQ1h5QngtMFNJWXdiXzRVMkdpbS10MkJXQTlkMk5LX2JmNjNZUkxKT0tRYWFlOVA2dTY1cUtreTZTMkN6SzZrVXRFeGlVX1B6eThURWVR",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdGw1S09Uek4xeWhtaTZyYm45M0otTGdCcUJISS1YTklKSWxYZTMwaDh3Q0Q4RkJkNkVOdDU1RkN5NmJ6Sjc4REV5dlZYaUhsekZRMnd6MjAzNlBCRVhKSk5XY1VpVWxSSDBqWmNvZWV2NWpsWVBIU0daeVlUWWt1cm5UQWpzNDdiaE1kWm1qOG45UzVGMFl2OXJXM2tMdlNuc1JKbjhnaVRFc3BiWWtvdTFBek94VlQ2dmJWcnY1b3d1c256aGl1djdLWkdMRTFCTVBFRF9yOUF0RHdqVm9BSGFsNNIB6AFBVV95cUxPcjhCTC1kNXZuaGk3U0xjRDlPb2dEQWVUSnhJSjcwLUd0M0xRUGdWVDA4TEtURkdEOHY5ZzkxT2FXZjlxOGhyVGhRSE5DdjgyX2c0SGpvdEpXTnNibGxYY21wMFE4dzBoRW5mZXY3elREUmVobDdUd2pGYk1MNkNhVjExRk0tdWE2ZkxCb0dYbnp5WVVvQ2dMRnMzN0U0TEswR0NnQlVlZDBFMU1Qa3ZWQ1F3VVpkbFdROXVib1NYLVFfRURNdDRfZkxMc2MxSXRZS0JKYURUc3FtZFNMcUZ2ME9iWVJFbnVf",
@@ -105,7 +106,6 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlpiWnZaSVNVYjBNZ0NBeTRvZ2lWRkRia0xOWmtkdkJWcFVSYkZFeXRfODBLZkdYYV80SFBvRmNFeVk4UXdWeVVFdFJleTJ3Yk1HdVZrMXptckJQbnRFa3Z0Z0RxdlZsWmZYRzBGVWtpR1NnSXlPU2toaUtMOGhWQmlwNmhyZjBzenc",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVRrMm90aGh6Q1dERFVVZlQxcjBCWWk1RGRrc0hhMDg0b3FWZm9XSGdLaDkxZGUtWDBuMWZUeng1cU9CLVpyMTF5SF92R3dUOUxhXzhISVZDQXgwOXRjSmllODFxU0oxOVVDcDBEc05PVk1sTEtXcXBFbGJ2V04wc0s5Q1doM0RsUDZSaHVETkxXUlZVdFE",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0xFUVUtT0dFMkgzdUhZeGt1V2E5U3EyNTJLTUNnVVlHTnZOd2FXa0pnMDN2NHR6aUFNUDUzS0pyb1VsbU5ac0VnZEw5aTBvNmxta0RpWEk1cVlVWGZpLVlTYXhmYW5rZUlsMnUxYjQyejlKV1MtMmR3UE56eWNtMTZtcXdpcjAtUFNOTmtGZmduTjkzbjNR",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG1NRWc0WTlWSEJVdUp5MVBpSmJtN2QwbUpkQktqNkwwR054S01WNDFyTGFoQlNhZW5nXzZVSFlrYWN6U1B2Z0daRTlhR1pFTmJSM0czQVFiRF80dXgwTWVmbzFaREYwb0ZzM01GT2dlVlViRGo5RThfZjlvX1dUMExPSk5WdGkwdTlHRzk0MllKU1FlLTBOXw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXpZRFVSWEEtU1FyU3hOYk1mWW5ROUpWZmdtUWZ2SFJsZHk1Q0R0NWpmUmVlZENhdG9RUXpnVEpCdkpWUkt1Y1NWRWJyYThpUUpsYTNwenEzaS1aa3JYWFZaOUZKR2ZTZzAyTFYtckpUc29nTS1ISmpYVDBKQktOS09pTk1ja0hwbVFyZzJ5RkJUSF85QnNfUUlsWQ",
@@ -148,50 +148,10 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXVCRzBOM1BienhxVmQtTnJZQXZPcWhhRTkzRmJQQlM5c1RHVEYzSUd4ZG90S3lxLThsMEJmYU5JYzdGQ2diLVIzckZ1Uk44XzJwRjlmYXR5Wkoxbk9seUxuSlBDNlB0Yzhtejczb05SVVh4TTM3alN4cU9COU1MaTVvYmJwaTRGZjRERjRnYzYzRGpVUUgwbWVZRWhLYW9nWlpLUEZjdEZ3blhFUkxxSnVZQ1hhaG1mUFdTSURXTURtLUI1TWFnaFM2cGk",
     "https://theafricareport.com/433863/us-africa-week-ahead-african-union-commissioner-talks-peace-and-security",
     "https://twz.com/air/aerial-drones-appear-to-be-picking-up-wounded-off-the-battlefield-in-ukraine",
-    "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan",
-    "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
+    "https://twz.com/air/armys-plan-to-launch-hundreds-of-balloons-into-enemy-territory-if-a-future-conflict-breaks-out",
+    "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Ісламського банку розвитку відвідає Малайзію для переговорів",
-      "original_title": "IsDB President heads to Malaysia for high-level development talks - Islamic Development Bank",
-      "summary": "Президент Ісламського банку розвитку (IsDB) здійснив офіційний візит до Куала-Лумпур, де провів високорівневі переговори з малайзійським міністром фінансів щодо спільних проектів у сфері інфраструктури та соціального розвитку, а також обговорив можливості фінансування нових ініціатив у регіоні.",
-      "source": "Bilateral Meetings",
-      "publisher": "Islamic Development Bank",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVRrMm90aGh6Q1dERFVVZlQxcjBCWWk1RGRrc0hhMDg0b3FWZm9XSGdLaDkxZGUtWDBuMWZUeng1cU9CLVpyMTF5SF92R3dUOUxhXzhISVZDQXgwOXRjSmllODFxU0oxOVVDcDBEc05PVk1sTEtXcXBFbGJ2V04wc0s5Q1doM0RsUDZSaHVETkxXUlZVdFE",
-      "published": "2026-10-18T17:48:45+00:00"
-    },
-    {
-      "title": "Лавров відвідає Тегеран для консультацій з іранськими чиновниками",
-      "original_title": "Russia's Lavrov to visit Tehran on Monday, Iran says",
-      "summary": "Російський міністр закордонних справ Сергій Лавров планує відвідати Тегеран у понеділок для консультацій з іранськими чиновниками. Мета – обговорити виконання двосторонніх угод і посилити співпрацю. Заявлено, що зустріч відбудеться за участі представників обох країн.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
-      "published": "2026-10-18T18:04:27+00:00"
-    },
-    {
-      "title": "Індійські PSU шукають мінерали через GIFT City",
-      "original_title": "PSUs tap GIFT City for overseas mineral hunt amid critical supply push - Business Standard",
-      "summary": "Державні підприємства Індії звертаються до GIFT City для пошуку закордонних мінералів. Це відбувається на тлі зусиль із критичного постачання. Такий крок підтримує диверсифікацію джерел ресурсів. Наслідком є посилення активності на енергетичних ринках мінералів.",
-      "source": "Енергетичні ринки",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
-      "published": "2026-10-18T18:07:31+00:00"
-    },
-    {
-      "title": "Китай розробляє другу субмаринову дрон-міхтари, здатну запускати великі UUV",
-      "original_title": "Second Chinese Submarine Drone Mothership Emerges",
-      "summary": "У Китаї завершено будівництво другої субмаринової дрон-міхтари, яка майже на третю частину менша за першу, але з аналогічними функціями: шість підйомних башт, гараж на кормі та платформа для запуску UUV. Вона дозволить швидко розгортати великі або численні безпілотники під водою, що підвищить асиметричну здатність Китаю вести підводну боротьбу та збільшить стратегічний вплив у Тихому океані.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges",
-      "published": "2026-10-18T18:31:41+00:00"
-    },
     {
       "title": "US 60‑Day Sanctions Pause; Europe Excludes India, China",
       "original_title": "US says sanctions waiver is a 60-day pause, reveals Europe refused to target India, China over Russian oil - Firstpost",
@@ -721,6 +681,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUc",
       "published": "2026-10-19T08:23:25+00:00"
+    },
+    {
+      "title": "Данія закуповує додаткові ракети NSM від Kongsberg для модернізації фрегатів",
+      "original_title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
+      "summary": "Данія купує додаткові протикорабельні ракети Naval Strike Missile (NSM) норвезької компанії Kongsberg для оновлення озброєння своїх фрегатів. Угоду укладено на рівні «уряд – уряд» з Норвегією, що спрощує процедуру закупівлі. Це має посилити можливості датського флоту з ураження морських цілей; у наведеному повідомленні кількість ракет, вартість і терміни поставок не уточнюються.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg",
+      "published": "2026-10-19T08:28:30+00:00"
     },
     {
       "title": "ComBat Vision створила гейміфікований інструмент для навчання артилеристів",
@@ -1423,6 +1393,16 @@
       "published": "2026-10-19T16:53:00+00:00"
     },
     {
+      "title": "7-й корпус ДШВ: РФ посилила штурми на Гуляйпільському напрямку на тлі погіршення погоди",
+      "original_title": "На Гуляйпільському напрямку РФ посилила штурми на тлі погіршення погоди",
+      "summary": "За даними 7-го корпусу ДШВ, російські підрозділи 5-ї, 29-ї, 35-ї, 36-ї армій і 68-го армійського корпусу діють малими піхотними групами по 1–5 осіб, у п’ятикілометровій зоні використовують мототехніку, а останнім часом почали локальні штурми з піхотою, мотоциклами та бронетехнікою. Така тактика інфільтрації ускладнює виявлення та ураження цілей, а погіршення погоди знижує ефективність розвідувальних дронів. Розвідка повідомляє, що 5-та танкова, 37-ма та 64-та мотострілецькі бригади РФ пройшли підготовку на полігонах і готові до застосування техніки на напрямку основного удару, що може означати",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/gulyajpilskom-napryamk-rf-posylyla-shturmy",
+      "published": "2026-10-19T17:04:00+00:00"
+    },
+    {
       "title": "Нетаньяху подякував Трампу за підтримку перед виборами в Ізраїлі",
       "original_title": "Netanyahu to Trump: 'We have a job to finish'",
       "summary": "Прем'єр-міністр Ізраїлю Бенджамін Нетаньяху провів телефонну розмову з президентом США Дональдом Трампом. Під час дзвінка Нетаньяху подякував американському лідеру за публічну підтримку перед майбутніми виборами в Ізраїлі. Офіс прем'єра опублікував відео розмови, де Нетаньяху назвав Трампа найкращим другом Ізраїлю в Білому домі.",
@@ -1451,6 +1431,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
       "published": "2026-10-19T17:33:09+00:00"
+    },
+    {
+      "title": "3-й корпус запровадив управління безпеки операцій для збереження таємниці",
+      "original_title": "3-й корпус створив управління безпеки операцій для приховування дій від противника",
+      "summary": "У 3‑му армійському корпусі створено управління безпеки операцій, яке оцінює загрози, організовує приховані переміщення та вводить противника в оману. Команда співпрацює з OSINT‑аналітиками, щоб уникнути розкриття позицій на публічних картах. Це підвищує ефективність операцій, зменшує ймовірність розвідки та дозволяє краще контролювати інформаційний простір.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/3-korpus-upravlinnya-bezpeky-operatsiy",
+      "published": "2026-10-19T17:35:59+00:00"
     },
     {
       "title": "Вибори в Конгрес можуть змінити енергетичну політику США",
@@ -1601,6 +1591,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
       "published": "2026-10-19T19:03:22+00:00"
+    },
+    {
+      "title": "Армія планує запускати сотні високих балонів у ворожу територію у разі конфлікту",
+      "original_title": "Army’s Plan To Launch Hundreds Of Balloons Into Enemy Territory If A Future Conflict Breaks Out",
+      "summary": "Командувач Multi‑Domain Command Europe повідомив, що США розглядають можливість одночасного випуску 200‑300 високих балонів у східному напрямку. Такі балони можуть слугувати платформами зв'язку, електронної розвідки, атак і навіть нести кілові боєприпаси, забезпечуючи реальний час розвідки та створюючи мережу над полем бою. Це дозволить підвищити стійкість комунікацій і заповнити прогалини, якщо супутниковий рівень буде ускладнений, а також послужить засобом відволікання та маскування інших систем.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/armys-plan-to-launch-hundreds-of-balloons-into-enemy-territory-if-a-future-conflict-breaks-out",
+      "published": "2026-10-19T19:49:31+00:00"
     },
     {
       "title": "Польського курсанта з українським громадянством затримали за шпигунство",

@@ -1,8 +1,10 @@
 {
   "links": [
     "https://baonghean.vn/ru/bae-systems-gioi-thieu-he-thong-vi-song-cong-suat-cao-hpm-doi-pho-bay-dan-uav-gia-re-10353782.html",
+    "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
     "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
     "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
+    "https://defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
     "https://defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
     "https://defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
     "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
@@ -29,6 +31,7 @@
     "https://militarnyi.com/uk/news/nevidomyj-ob-yekt-poblyzu-lyublina",
     "https://militarnyi.com/uk/news/poshkodzheno-ogorozhu-aeroportu-lejptsyg",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
+    "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
     "https://militarnyi.com/uk/news/rosijskyj-suputnyk-kosmos-2612-pid-chas-peresliduvannya-iceye-x36-zblyzyvsya-z-nym-na-krytychni-26-metriv",
     "https://militarnyi.com/uk/news/rosiyany-osnastyly-drony-gerbera-2-10-kg",
     "https://militarnyi.com/uk/news/rumuniya-proponuye-ssha-pokryty-vytrat",
@@ -55,7 +58,6 @@
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQME1DZ21yXzRONXJkMmdaNlNOSnNfX0xyMmpkZEZvWGVwZDdHM1pvNFFxd0ZKUWl5R3F4U2h6MWpqT215UmRNak1kZGpFanU3X0RDaUdkX3dRaElCSm85dHV6TnNlRWVGQmJDOGdLQVVjMTMyZTlVYmJmRU9qTmpvN242bXh4c3VrUWwzLThYd05UUmJka3hEcHNvc0pIVmlGVk1jWjRIaEt2bFJwek40Si1DS3ptSFRlMUt3bUZRRVlMTEw4dmR4QXI2OUpWeWhEUHZmeXRCcGdJNzVSa0xLZmFoazR2SmdZZF9sWkRNNnNaeXlySTQtQVJR",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFJMbWtyYlBDZGtkM2hkWXJaWHQyZmxoZmpKaVhjMVhYM3BhMXJJU3B6R0dIT3h6RTdCeDM2YjE2cnRLekE5SkVoZ2lNQ2xsMktjS3ZMTE5VMUhWY2xaS0VyV1R2XzZoQ0FhaUNiZWZ2Qk16UjZpNnMzMWxjWkFzY2Z4Wlp0X042SFVtcUJjbnlrbGI3RzRMdU1TSWRxTXcwcGUtNk8yRk80b0dCbmszalFaWjI0N2swYVlPZGZ0aEZtN1VTUzVoejVrM1VoR044Q0ZvUdIB2gFBVV95cUxPUUU3OEhMUXo0T1k2S3RQVGNZYVVmbDZaSnBiMXV0NWtjeWJkaEZrUF9uSTNhUU5fRUd2M3YtXzRRRi11YWhFejh1dFRsdFdIRi1HRk1HZC1lVV9wYlBTZVdWcGt4am8xVFdvb3ZsVWRDYi1GYVZWNzEzUEw1aXZoUWM0Q3ZtODN6SGQyXzh6QjU5S1RpUm96UWdKWjRNWEVsUmE4UERzMG50QVdLTkJQeFl2amdnV1FoMHl6WkhwRVpBcmRSaHVLSW12UlliNnhvWXktWHBCRFAxUQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHl1d1lFVGtQZ3lhbjdMWjdhLTV2UUVVUkhSY21OeUJjSl95TFdoZzZjSDRNV1VJVERDSXlkVzJ2V2gwOFRqZmYtMEI1b0hhZGtoUWh0ejlMVzJZM096b3VndGdRdkZzbm13YVJpTXdIblQ3VkM5Q2JqbmpORkxxZTNHdmxzbUN3XzVkX214d08xRGxhVFdsNnJrem5YYjdnYnVHOTdWUEV2MmZQYloyLVNwR1F1WXRnNTN5X2xiZ3p3SFROa2lyYzVoLWt6ZU5qbV9TRHBn",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQajZVU0tGSGY3YkgxWS1qNjJCZmJkOTA2dUQ1UWMzd0ttMGdtS1JPSDJWbmo5TmdDMTRJNG5KS1IyTzF1TGx4WDZTRHl4ZW9CQUg0OWVXYnBweHJVZFhwUVFnLTdsVV9tOVJKM3ZaRldlXzJUblNKZjhidEFpS1o3SWl1bm5zd3lneXI3dGd3UzVwN0x4RzYwM3UxMm1CWjk5YTQ5MVBVbi1KYzlXdC1UUFQ1TUNob1JXdkZvVTBUQWJNaFVnTlpDVGN5TTlKSmxNVHVSeDRrZ3RnZw",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVlJMTNCZVVsMFhVdkRKNE5MVWM3MUxrNWptaHhocVZ3b3V2ZFBpNTZXYndwYjd3Z3Zra2NiNUpBLWN5aU9oSm9lRGREa2VxNDFBYURKN2ppU1hIS2lQcnV6Q0dfZWxiWW1oSFM2X1kycUUzMG0wS3poeGtpMUoyVGRaRDRHaUxkWHVzQURseXctQ1h5QngtMFNJWXdiXzRVMkdpbS10MkJXQTlkMk5LX2JmNjNZUkxKT0tRYWFlOVA2dTY1cUtreTZTMkN6SzZrVXRFeGlVX1B6eThURWVR",
@@ -94,6 +96,7 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRS1EZDFyRHE4cDdrMVVmMllCeVRDNmhrU2libXgtYnFpeHF5allZM2liLTQ4VDFXYWZnMmZ2RmNoSlUyMnNiYkhKX0Ruemd4SGkxazUzc2EyT2pGbExySlJkYkRocmxSNmhvZUlCSjlxV1BNVU1HS1dNOC13ejRGSHVRZEl2UmdKT1ZPbG1hMEJvQUxM",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVRrMm90aGh6Q1dERFVVZlQxcjBCWWk1RGRrc0hhMDg0b3FWZm9XSGdLaDkxZGUtWDBuMWZUeng1cU9CLVpyMTF5SF92R3dUOUxhXzhISVZDQXgwOXRjSmllODFxU0oxOVVDcDBEc05PVk1sTEtXcXBFbGJ2V04wc0s5Q1doM0RsUDZSaHVETkxXUlZVdFE",
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeG4zeWhMTHRFUk1wQW5UeGNhUzdSWnpGNTFDWkhpeFpVMGpQRFYyZHh1ZFFlazNjd0RnNGY3emVGaURWb3NnVkp6aHVobnR5dVdoUTUycklfZVI0VVFCX1c2TjVKa1o3X2JHeGoyeXpVRHV6QkZqUERoT2hHQWw2VHU5cFZwTWhQWm5EWUFQSkE2TFYtUzBCX3NDOHlOTnZRalFCSHY3SFBpb1R5YzRqSDBnYTBwT1RDcko1SUlNVXpxN0JyRHJNZUY2Ml9JY3VvTDRfT1gxbS1mOEtDbXRNOWpnQ012TzRZdlNWaXJQV09DUlZDSnU0QWU2MFpQYllXaU1zWS1RdWlZSXpQaUwtdFMzTXFBZw",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFlNaDlMQ2ozNGl2LTlUZ1E4cVk1Y3JKa282aW9Ga2ktUmNQS1JtdlV2bFBDaS1jNS1STW9iYzJHNlRua3VtazFSSkswWTI0QzF3UjhnUko3bmhIRm0tS21tenpRMFloTFVFcWRYY0F2UDRlY1dkRFpCVXlrYXdHS2p4QkR4emJvSXlpYUNDbFdUZjFCOG1J",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0xFUVUtT0dFMkgzdUhZeGt1V2E5U3EyNTJLTUNnVVlHTnZOd2FXa0pnMDN2NHR6aUFNUDUzS0pyb1VsbU5ac0VnZEw5aTBvNmxta0RpWEk1cVlVWGZpLVlTYXhmYW5rZUlsMnUxYjQyejlKV1MtMmR3UE56eWNtMTZtcXdpcjAtUFNOTmtGZmduTjkzbjNR",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG1NRWc0WTlWSEJVdUp5MVBpSmJtN2QwbUpkQktqNkwwR054S01WNDFyTGFoQlNhZW5nXzZVSFlrYWN6U1B2Z0daRTlhR1pFTmJSM0czQVFiRF80dXgwTWVmbzFaREYwb0ZzM01GT2dlVlViRGo5RThfZjlvX1dUMExPSk5WdGkwdTlHRzk0MllKU1FlLTBOXw",
@@ -134,11 +137,9 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3I3Z0syQkdEcFpaOFEtNC1kaE9YWkQ1RDhFcTI2SkNFM0Z1OE40THJmOWo5OEF4QzMzYTN6WG1KTFZPdDdDQ0l0Uy1IS2JSOTJsYkZieXcwN0pweDQ2ZGZGNHhqeEJkdVpxRDlKMGVya09VRGhRRmRwdU5UaUk5ZHpRVzFHNTF1UGZvdXgzMGNhaGlXd2UycERqZG50cmJ0Z3pWN0ZOclpCZi1HaDlHY0NZVmZuODUzY013MTVGZUfSAcgBQVVfeXFMTkwwd0lxLVRhcm9oSEVtaHBnNnBXVWV4YWQxYUdyVjZ3cEtkUnNUUnBJNlA5eDR6bEZFSjc3ZV90c200SnRtdnotXzdWakRmbW1lajl2ekFDdnMwcktMTXlwNHZaR0pyUXEtME5SX2otemdmTTlrUG1KZmVRSDUyNzBlckY5STVrWkNRQVM5QV9uekoxY1JkZWpjNWJ6VnNSU1lycGozOTlVQzA2cGhzZG9HNjk5TkJUMWxKd1FOTy11djRXaHBIcno",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWVTUkNnTkpzeGd2MWtuN29laVY0NU1EQkxzT0U0ck5aZEo0U1JLNnNUbDRxTHZ2QzhMZjlMc0d4N3o3MFdZTnlReGJXTnBaQXI4MG9MWXV3ZkNDUmhPMW5yUFdpS3RKTXMxb19oMFZrbEZBUEQxbmM1Yk5ucEhzVnhCWkVCYWZKaUM0M2phRVVtQ2phQVRlODY5dlFVMGYta2FoSFlQSm1sek5EWmx1cEdRdnFfN0FSWmhrSEZRSnRsZknSAcsBQVVfeXFMT0xhaGR4aURHcXBUN3V6VE54d1Y2QTFwOTViOVhrWTJ5dkRSQXpDTkhrRFZoU2owZDQtclZoSXNPRzBkekUxd1Y3M0xPY1AyWEtWUFBEOThzb3VaZzVpQWUyUlh5TzJyQ1NOV1d0X2NGY2hSUWI4VEJKVDU3R01vUWpSSE5BY1JjY0hHTTVZTmhOMUcxUmdsNUlSa1p3V2JTcGd4UXBWMWd5dDllaFk2dzVER2pqYmc0WHZhTVUzWHRLLWVxbElOSFNVZUE",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUlKaFBKUTFmaFpnU2VCWXdSSW1hTGZzeHFOOGxBRjBieUFrZWVlc2w3NzRsYi03NWczQTBtYkx4QnlNQVBvZFlkamdISFFWajl6Xy14UU03Vy01Y3N0Wm1OZWdackNNNUdVOTJnMmV0eTVUbkVhUGVMOVhxYnc2dW9kelNMMWhmZFN0Z2JMbXZYMjhQTEZOSEMxYmNaSjh1emYzLTduSmpMRm91bVRIRDhON1RoOEE2dzRLQ1BnM0J1VzA",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmxVVmZoclAxdG5nSDh3RFllM0RsblUwUWxFSzIweEo3S1F0TjlLSlo1dnJYNk9zbVFucFg4bXZ1TWU1RGhiYl91R3B2TnVOT2tiUmVqSWQtRGZmWUtnSlBEZ0xmcjlaWmV1U3FvUE9jblVvSGcyN0lTX1c3WDBPT0x1a0t3Y1dEX2N3OF85RVA0UWZaNmYtaTlrOUc2b3lVaE44Y3IyenE2emhyZXBQRU5lWEZKNGNnQTlYRE1tWUR2Umc",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkVGVW1qdjA0alNKcGxzZDR1cjFabUNVa3lVNGFPUUR6M1FfeHhIN1c2NnBLeWxOa2E1QmxYM2ZTOVVBVEZxdW13Rk9vRXkxODRkVEZqam1CQ202TEUwWXpQcWVGNk1hYlRsT3paXzU0TGpPZWRjSFFDbE9aRkxoTEhTMXh6c1gzYVFBRmxYNm5Jc2FfT3lVaUZMTHVoaDdiNldMRzJpMFFrbDRINHVnMTB3d202bGptb2JXVUdTMWFYcGZt",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDNLOTkxcFY3a2IxYmRhM29BVUNjNHhJUmtUUGFLRUdpbzl3UlRxN3RvLURUOTZLQUFOc1l3Q1RvQWxhUDQ3TEphcjczcld2OU1jRnJ6b3pSUGtxRDU2d043bTAwcm8yUGZDaDEzdHBoV3hKcGVFNFl6WkpQSnBJQ0JLWFA3TnhCVVphVlJUZXZabTJsY1hGNEIxZVE0aGdnV29XQlNWcFIzaUVaSld1b1FaZ210R1hUQVN5ejc2cDNRbUsx",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdzRmakRCd2Vid3RZUE9UMVpUOU5QMEs5enh1ZFYtc2hLNUY0UlRscko0OTdxU0xsN3pUZTFqZi1aWEFQR0dmOXh2Q2RSNzg3Ni1qbzNTM0RaWDFQZXJXYkxfMDhwUXg2WWJSekJ3S3lOSVAxSy0tZ1oxNWVuTjFsdkJlZ0tyc21uYVFfSnoxZnItMHR1ZlgwRjVnd0hmU043SV9hWDRXYnRxcU9pMWNHWWZBakxRZzFCb0c5WVllSE52ZHlRV3c",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmc5RzJGM3pfU0dGZ0RUZlBRajVNTUx0Y3hSX09aTlNkNkhvem1TbFJDZXktVnpQdHoyV0UwblVkMmo3U0JDb1ZsTFZoSkJVbnJkMmhqYktkbHFCMHZMX3JVQlR1Q0JMQnJxN0N0OG5CWTlueFU3dHVJUE5QRVIybHdoMTNkUGY3OElfbzMyNHFjTU4ybzdfLW51S2psZWMtdkdVUktMRWtlaVNFZnpxWFQwZEJiaVM3a0IxOHQwcWllM0daRk9z",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTBtdHpmTjAxUWtLaGp2c3M0STlDa2RSX3lJOWlXM3BZNDJuQk1raWZXdTVWMy05THExMVRLc0FHN1hJMV9MRjdTZXF4MVZPdjdqeXA4SEtqVFBFTFQyTkhLSV8zb1p5WkczMmJNWFlJREJPbmlobGRRSVJQeEhNQ2NITXdWZEZkR2xhUWdOczhrZGVaNzE2Qm02NzlNdF9FMTBscTZrdVdIOVdPNlJUWlBtNEctbzFybV9sd2ZVOHA4VTJBZ09aXw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDl3TDNDQXN6c0h3bC1ma29fYlFrN2NGZlVsTlpvNFd2a1BQX3ZiMjhqVUtOYm56Z09wdUFtMnM3U0kyN195Mm91ZWM5aUUwZTY1eU1WSDRxeGlfTUdsZUwxaHhHMlJ2ZVpPTUdZdGZiZ0FMU0tQaHNvTjA4TnlSWk5BZ2dNeWgtX2hpcEhSTU0zbEZPbE52WVZIS2JKdFRFc3ZIbmhsZkF0MzFicGNNWnFwRTdTbTdWT3pFNFZiV01KbUlWRjZKdg",
@@ -146,52 +147,11 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3FVRExiZ2JLam5XT3FQWFozWE5LMWpFd1liZEljX0xoT2N6T2NLVE5NMVlYVEFoOWNwM01DenBSUDc2S0UtR3M2Tm01d2M2aHpfSTA2ckdxYzJEVzg5TXZncjFLb2dBSWEwQnFCZXgtOTNla3A2enRsaTYtalJvVFdiYWdQZEVTQUJua25sRjJ6ZzdSTXRZei01eUR2OUNXRjZFOWlaZEItRnBYT0RhU3I3aGpuUElXcVRXZFU1ZldHRllqa0ZzS0VhVQ",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUc",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXVCRzBOM1BienhxVmQtTnJZQXZPcWhhRTkzRmJQQlM5c1RHVEYzSUd4ZG90S3lxLThsMEJmYU5JYzdGQ2diLVIzckZ1Uk44XzJwRjlmYXR5Wkoxbk9seUxuSlBDNlB0Yzhtejczb05SVVh4TTM3alN4cU9COU1MaTVvYmJwaTRGZjRERjRnYzYzRGpVUUgwbWVZRWhLYW9nWlpLUEZjdEZ3blhFUkxxSnVZQ1hhaG1mUFdTSURXTURtLUI1TWFnaFM2cGk",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWwzM3dIM2tpRlpUVjJwbUJYWXcyWXp2ZzU3N1RYczkzbS0zQnZfVVVUN1J5Zkt5YU1SYVR2VG9HMDZwY3dRTWFVbEFTNHZtUG42elJoR2laRzdsV1kxOGhqbFVHUDBvOVpHcHVpM25ad2hmZG9hZmxQN2JqQzQwZ1VVYWpYbHl2ZkFoYk1Fb2NRbms3QURVeVpPWmkzdUpYb0pnZkFNREl3RHN3cXVhS3BhU213YldZNVE1bXdEYlluZ2R6emV5VWtRVHc0QQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ",
     "https://theafricareport.com/433863/us-africa-week-ahead-african-union-commissioner-talks-peace-and-security",
     "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
   ],
   "recent_posts": [
-    {
-      "title": "Голова уряду Угорщини погодився з транзитом українського зерна",
-      "original_title": "And Magyar has no objection: Hungary’s prime minister says he will not block transit of Ukrainian grain through his country – media reports - Ukrainian news",
-      "summary": "Голова уряду Угорщини, Петр Мага, оголосив, що не буде блокувати транзит українського зерна через країну. Угорський уряд погодився забезпечити безперервний рух зерна, що транспортується через Угорщину, у відповідності з міжнародними зобов'язаннями. Це рішення підтримує продовольчу безпеку України та сприяє стабільності регіону.",
-      "source": "Bilateral Meetings",
-      "publisher": "Ukrainian news",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw",
-      "published": "2026-10-18T00:17:47+00:00"
-    },
-    {
-      "title": "Президент Східного Тимору оголосив про підписання угод Greater Sunrise",
-      "original_title": "Timor-Leste president says Greater Sunrise agreements will be signed — ABC News Australia - UA.NEWS",
-      "summary": "Президент Східного Тимору заявив, що незабаром будуть підписані угоди щодо проекту Greater Sunrise між Східним Тимором і Австралією. За його словами, підписання передбачає врегулювання прав на морську зону та розподіл доходів від газових родовищ у цьому районі.",
-      "source": "Treaties & Agreements",
-      "publisher": "UA.NEWS",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmxVVmZoclAxdG5nSDh3RFllM0RsblUwUWxFSzIweEo3S1F0TjlLSlo1dnJYNk9zbVFucFg4bXZ1TWU1RGhiYl91R3B2TnVOT2tiUmVqSWQtRGZmWUtnSlBEZ0xmcjlaWmV1U3FvUE9jblVvSGcyN0lTX1c3WDBPT0x1a0t3Y1dEX2N3OF85RVA0UWZaNmYtaTlrOUc2b3lVaE44Y3IyenE2emhyZXBQRU5lWEZKNGNnQTlYRE1tWUR2Umc",
-      "published": "2026-10-18T02:48:22+00:00"
-    },
-    {
-      "title": "Новий закон про нерухомість лякає інвесторів Японії",
-      "original_title": "New property disclosure rule in Japan sparks fears it may curb foreign investors - South China Morning Post",
-      "summary": "Новий закон про розкриття інформації щодо нерухомості в Японії викликає побоювання, що він може стримати іноземних інвесторів. Це правило стосується ринку нерухомості та може зменшити приплив закордонного капіталу. Макрофінансовий наслідок полягає в потенційному скороченні інвестицій у японську власність.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWwzM3dIM2tpRlpUVjJwbUJYWXcyWXp2ZzU3N1RYczkzbS0zQnZfVVVUN1J5Zkt5YU1SYVR2VG9HMDZwY3dRTWFVbEFTNHZtUG42elJoR2laRzdsV1kxOGhqbFVHUDBvOVpHcHVpM25ad2hmZG9hZmxQN2JqQzQwZ1VVYWpYbHl2ZkFoYk1Fb2NRbms3QURVeVpPWmkzdUpYb0pnZkFNREl3RHN3cXVhS3BhU213YldZNVE1bXdEYlluZ2R6emV5VWtRVHc0QQ",
-      "published": "2026-10-18T03:00:07+00:00"
-    },
-    {
-      "title": "Індейський саміт запрошує колумбійського президента до діалогу",
-      "original_title": "Indigenous Summit for Life summons Colombian President de la Espriella for direct dialogue on November 14 - Peace Brigades International-Canada",
-      "summary": "Індейський саміт запрошує колумбійського президента де ла Еспріелью до прямого діалогу 14 листопада. Зустріч відбудеться в Колумбії, обговориться питання прав корінних народів, забезпечення миру та стабільності. Організація Peace Brigades International-Canada координуватиме зустріч і забезпечить безпеку.",
-      "source": "Bilateral Meetings",
-      "publisher": "Peace Brigades International-Canada",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVlKdjZYZEJlenNhSTNfdUJMU2lpOURjQUZ3dGF3a1N5SWFRNUpSa25UdDJuNDF0YVJ3NVdqM1lLRWdkcHRUOG53VzkxSHpWRjZzcVpEdDNaNGFPS1dvSXYtd1lXYWxzbURyaUlsLWNuY3FyUnhzX0FLcU52U0FkU1FQZGxPdUVPYWk1THY5dUFldWpxMVhoUmlxQWdra25nXzB2LUFZcWlfR1o1SWJ6eTdIN0d6YXhfSWkzMG11ZmNJbkR0clBvcXR4T19abk9KOTl6Z3hn",
-      "published": "2026-10-18T03:01:28+00:00"
-    },
     {
       "title": "Китай обмежує експорт технологій сонячної енергетики",
       "original_title": "China moves to curb exports of advanced solar manufacturing technology - Green Building Africa",
@@ -361,6 +321,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cGlQOC03Y3dHZk8wNWNTRm96VHhTZWgzQ1Y0c3FqVmZ5Zmk2MmlWelh6VnQ5UDRxc3pvQjBiQmEyNElxTTUwWEJ1S0duS1BscDFNd0NoNldTTWhV",
       "published": "2026-10-18T08:22:34+00:00"
+    },
+    {
+      "title": "Що вже проривного в квантових технологіях для зброї на прикладах DIU США",
+      "original_title": "Що вже є проривного у ​квантових технологіях для зброї та військової техніки на прикладах Управління оборонних інновацій США - Defense Express",
+      "summary": "Матеріал Defense Express присвячений уже наявним проривним квантовим технологіям для зброї та військової техніки на прикладах Управління оборонних інновацій США. У наданому фрагменті немає конкретних систем, параметрів чи результатів випробувань, тому технічні характеристики не наводяться. Військове значення залежить від того, які саме рішення DIU описані в повному матеріалі.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeG4zeWhMTHRFUk1wQW5UeGNhUzdSWnpGNTFDWkhpeFpVMGpQRFYyZHh1ZFFlazNjd0RnNGY3emVGaURWb3NnVkp6aHVobnR5dVdoUTUycklfZVI0VVFCX1c2TjVKa1o3X2JHeGoyeXpVRHV6QkZqUERoT2hHQWw2VHU5cFZwTWhQWm5EWUFQSkE2TFYtUzBCX3NDOHlOTnZRalFCSHY3SFBpb1R5YzRqSDBnYTBwT1RDcko1SUlNVXpxN0JyRHJNZUY2Ml9JY3VvTDRfT1gxbS1mOEtDbXRNOWpnQ012TzRZdlNWaXJQV09DUlZDSnU0QWU2MFpQYllXaU1zWS1RdWlZSXpQaUwtdFMzTXFBZw",
+      "published": "2026-10-18T08:30:00+00:00"
     },
     {
       "title": "Зростаюча роль чистої енергії у глобальному попиті на електроенергію",
@@ -1553,6 +1523,16 @@
       "published": "2026-10-19T11:30:00+00:00"
     },
     {
+      "title": "Армія США зіткнулася з «болями росту» при інтеграції Anduril NGC2 зі старішими системами зв'язку",
+      "original_title": "Army feels ‘growing pains’ as it integrates Anduril NGC2 tech with older comms",
+      "summary": "Під час навчань Lightning Surge 5 на Гаваях у вересні 25-та піхотна дивізія вперше спробувала поєднати платформу Anduril Lattice з наявною архітектурою зв'язку, і інтеграція пройшла не гладко. За словами представників компанії, проблемами стали масштабування Lattice та передача даних через систему, а також робота з радіостанціями TSM з іншою формою сигналу й конфігурацією, ніж у 4-й піхотній дивізії. Архітектура 25-ї дивізії значною мірою типова для підрозділів I корпусу, тож вирішення цих проблем стане ключовим для розгортання NGC2 в інших частинах.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
+      "published": "2026-10-19T11:30:00+00:00"
+    },
+    {
       "title": "ЄС призначив нового спеціального представника з прав людини",
       "original_title": "Human rights: EU appoints a new Special Representative - Consilium.europa.eu",
       "summary": "ЄС призначив нового спеціального представника з прав людини, щоб посилити моніторинг та захист прав людини в Європейському Союзі. Новий представник, [ім'я], займатиметься координацією заходів, взаємодією з урядами та НУО, а також звітністю до Європейської ради.",
@@ -1561,6 +1541,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEw1el9FaVlzZmtvVFNQVGhoUVVZdW9tbWVnZE5mNkpMYlRPOEhPdXdRUTFIbVhfNnpVOXZPVlBYQUhsRW1zM1dRY2toNjhRd2liR1pTM1RVUXpocjVEaDZ1MnBWdjdGMWVpRkxUMFlmSnF4SHRsLUxPQlNEeEpLTXRjY3R0TC1GdFdXem5sUnlWdnJ3ZVJjeklEVjVRQnlVZTNiQXNrYnZLaFhDRnpSdUNtVFotVXdMVTByZ0RB",
       "published": "2026-10-19T11:36:50+00:00"
+    },
+    {
+      "title": "Rheinmetall відкриває в Іспанії виробничу лінію 20–35 мм боєприпасів",
+      "original_title": "Rheinmetall запускає в Іспанії лінію виробництва снарядів калібру 20–35 мм",
+      "summary": "Німецький концерн запустив нову лінію у місті Альбасете, яка щорічно виготовлятиме близько 1,2 млн снарядів і 1,8 млн гільз калібрів 20–35 мм, включаючи підкаліберні бронебійні, програмовані підривом та AHEAD‑снаряди. Вироблені компоненти підлягатимуть подальшій обробці в Бургосі та інших підрозділах Rheinmetall, що дозволить забезпечити українські та інші західні армії сучасними 35‑мм боєприпасами для протиповітряних систем типу Skynex. Інвестиція у 20 млн євро та розширення виробничих площ підвищують оборонний потенціал Іспанії та зміцнюють ланцюг постачань у Європі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
+      "published": "2026-10-19T11:48:57+00:00"
     },
     {
       "title": "Ера дефіциту винагородить інвестиції в енергетику",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/sklad-inozemnyh-komponentiv-u-kometah",
       "published": "2026-10-19T12:47:48+00:00"
+    },
+    {
+      "title": "Армія США розробляє баланс між людиною та штучним інтелектом у Cyber Command",
+      "original_title": "US Army Cyber Command charts course for human-AI equilibrium",
+      "summary": "Командування Cyber Command впроваджує процес «human‑in‑the‑loop», де військові в реальному часі керують автономними агентами ШІ, що дозволяє значно пришвидшити виконання аналітичних завдань (наприклад, 6‑місцевий аналіз за два дні). Головна ініціатива полягає у створенні управлінської ради, яка вирішує, коли агент може працювати самостійно, а коли потрібна людська участь. Це підвищує оперативну ефективність і забезпечує контроль над критичними рішеннями у кіберпросторі.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
+      "published": "2026-10-19T13:00:00+00:00"
     }
   ]
 }

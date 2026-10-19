@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkt0TW0taW5icjB3aXJmVDRtbExLY09DMVNtWHk1UU1jX1AybjM0Mm5LdTJRUDVDU0ZTbGk0NEdHVDJwT2Rzd1hqVEVZdnA0eW5YdEdfTnh2V1Rxa0ppR0J3Q3RwTVQ2U2dDLUZlTUFybWxvT25NakZsbWpsNVFYbkIyWHlhMjBrWVRqMVFwMXl1ZEE?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHFNczkwLTRRSENMdGhOd2d4cjk4WV9PQU9ldXJEM0lDLXdCSGZWZ1ZyU1M2aHhFdFNaVDJoZW1HQ09nSTVKWHRCaWN4ZVEyelozYnpoSGJXbUhhUFdzX1luamlfNGozX09oOTEtRVdWMWVWVXd4VGRTUGNzeUNZQlpHQUNXTHRkRlQ0bFZGMHRuMmxTNW44?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVdMOEY5ZHlBOEg0bVlicTFBcm5Lc3Q0N29hektOX0EtbWN2emVCNFhyQm5PYk1mXzFCQ2lYVDFXUDVzV0Q1aUxHZllwbXl2aG83N19nVG1fTUFaNXJqRmxCMElKa1czcGhmY1lmbGgtZnBMdGFsLUpUYTdqNGdOb1JmUkdSUGR1OGtMZzNPZU5qLWlVcWQ3czdSVDhULW9vbDZBSFNCTkd2RXhz0gGyAUFVX3lxTE5PUXpSUVNQTmVPZTdKNEQ4emhIb3pabjVZREZvT2JkeG00ckhhdl9fWjQxUGd3SzZrREhRZFhOTXJ5MnZibk13SzRFUWVUcjRKTWF2WndzLXJ2b2JlT2FhMlBLQUplbjAxcUdzMlBHMUo1QVhVenEzQ1N5Zks5Rjkxa2VXMUN6ZzY5RzNRM191LTZpVThrUW5IWnh6UTV1V3lkUlRaTEdWNDN0Ymd5M1Q4QXc?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNREJZeGxLMnVnTUZzVlAtNm54Wk1IMFZ1Z1RubnRFWkQyMUZwbFo4YkoyaWxzRVlDUDNiSkMtNTVjUzBqWlhjU1BmYzBPQXFLcEhHZzZhMUVhNEh4NDRaMnpKVzFWV2RSU2pvQmx1Mkk5TkREU2tsRllEQjZDWU9Ja2JfRVRhd3VFdFk4RHZIZEplbThpQVZZei1KTFQ3VnJPOW1ERXB4bTY4WWpsWmRRV3VuOUI0djdtZnhLUDdNVks5UmRuQkliQ3E1dHh4Z01uWTloUGlYbw?oc=5",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcGtVbVlfVE03Tm9GX0JQSy13VUdyalFlUTlHZWl0b2EzdktGLWpWbU1XQlM0X2RocmFRa1kzS2czbmRWU1NmeTVqc1ZkNXVsWXdTNFQ2TFN1blFEalk4UEd1SklrQWZLcHZNUnRzaGFFT1M0RE95bURRcV81NWxkTzY4QWpNWUFSN2RMMUtXQUQyQ2FJQXc1cGhpdmp3Y2dBNmV6STFkVUZhOEZieGRGQUlNdFhEY1pHMjdrQTlrUnNXbGlnUzhUclE4a2hnQzJ0dHJTUVR2R2kwdVZCZ3pqVw?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0VKZHJtZ1lVR0t1UmpkUEZmczFlRXp0bExVQ1g1R0hGZGRYNDZZWlh2dGd6eTdVTzlDRzRTOU5VUVdGVVRUazdMUURDQXJxOGZaV2dTMy1fR0xkVHN2NUJLeDZ5LWtRX2ZSMzdSMzBuMmsxd0YwdmNsUUVDVTJ4NFF0ekdSbmFzU1JRc0VhOFNSVEVzU0xF?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVNwY1hwR181VU9IMjJQb2Z3UDZTQWRQZVpIOGNkUXFCVXdjTF9KOXhUbVA0ek0xY3cwbFJxQ0ZEVEI4MDV2VF9sRGxjV2NwY2otYVB2MF82bHlraXRybzhqa0tsMTdiZU9vTHRVT2RPdnpROXlCOFJQd3N4WjhPWnF3VWttanpZR0RfSGtHTlk2TjlyYkh5VE0tZEg4aGEwQXVTWkFLTVFzZk5O?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUh3QjVYMTRqeS1NTG4zZVEzU1labjhrU0lhWTFLZVJrZGlpZ1hXR1VDekhIdUlmZm5nZ284WDYyTm9jZ1JnVkRCa04yYnd2UzdoYzhEb2hSRGphZnVYZmhFVHdvWGNLS29xbFlPdFowNVF1MEhhRFg0c1lNZjRveVZR?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wc1duTWlLTVVNTnBNWldoemgySVM4SjRXSVgxQ3RPU3AtNHVBT3daRU9XLXdYclNEQWtLRzB2QmdmVXlmeXdBMnRaaVJUbjVlRjBsamtNUkp6R1VBcWYtVE5hSVJnT1RiWEdlVlBqdU9MMXBoTUF3dERQa9IBgwFBVV95cUxQTjQ1XzkyNU5WbmhzWHFyMW9uVEhCQjVISGI1Qmh4bWVsUWhCWFNJdjhMd0w5UFBJcGZiNFdrSkl1THlVQnBZN1IzbjNBZUV6Wmh3NWVVSFBXQW92QWJBZTJyX0VFR3ppaU5kallFUkxxYUV0UXoyYjJQN1FNQTBCOEVQYw?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzA2TXJFT25SdVYzdGxjQzNBUkhrWWxKOXdKZ2x2NExRbVV1RDhLNW1LZFhnMEozM0RnenVhanlEamRYVEl3aFROT0pDUFp0cGd5ZVV1c1U4VkdLTDFFMmRlV2RwYnd3UXhOSHV4TERLaUFlYWltVHVabG9tblRBWjFmVEdYUVB3OUQ4c0kwVFptdjVYS2FWTlVhUGtZcmEwTWxFNC1rY19HUFVadHJPQW1qem5Qc0k?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTAwOUIyOWJBNlZRRmJIbDROXzVmRWp1NEhVX0c2RGxOd3JZamNSZW9lSV9acHR2emU4OU1iMHExVVF5SmtaWVpCemFnaDV6OG56SkRqS3hnYUtvMWFFTDctOFQwdnBWZ2FJNGpQWTBzNjNUb0xqX3lwRGpUQmNwbktBUjM3eWlGSHM2Q1hiLWhZUC1TTlFHTV9PSE0wU0s1dDVudGpteHNGVEpiVXF2bHYxSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkVoTVRNeU5sRG9sbV9pSHV1QTVBbHY3eXZCZXBtREZOaXVOTFJkWmZTaWRiSkQwWExscjV5RGgwcHI0Y2l6WVJSQ2hkX29oS0JYZnVabzJwZDN0ZW9NdmtQSTlzR3JmdmpJWTR5a3RqVjlxMXBwSHVlSDJzcmtHX0Nn0gGCAUFVX3lxTE1WRWhNVE15TmxEb2xtX2lIdXVBNUFsdjd5dkJlcG1ERk5pdU5MUmRaZlNpZGJKRDBYTGxyNXlEaDBwcjRjaXpZUlJDaGRfb2hLQlhmdVpvMnBkM3Rlb012a1BJOXNHcmZ2aklZNHlrdGpWOXExcHBIdWVIMnNya0dfQ2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZl9fUlJvU0JVVzZiZ2gwVEZoUzB3ZlpndzhYb1hyNXlQb0l2VmxWc1NPUDNPMTZLUE1kc2F5RlpOV0RIem9McjdmblFxSjRuTndqVjN0eE9JZ2J5Yk5CNFpTYjdVUTBMdkJrNkVfRGNkMTQxRlpnUHJCZy1MUTB2VEZCZHdZbnRURzV1U0pRRWRFamZjYklCUEVpVUczdFJYeWU4?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjBtazdFTThnY3gyYkZMR1NVNGNYdzF0RVlBX0ltNS1qaW81aVcxeV9XSmNLeDNxN3R5azBlRmVlU3g1ZE5WRV9LNW0zQWhzSV9qQ3BDN29HSlFDbEs0cGZWajhqck1zZnpnZjhXZkNOUEdtMTBIektQTjAzaFZURkJB?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTZnQ3BFeUpsNTZoRThGRG9jYUpUUUxjTVlibnRuTkVhX1dGdFdnSGtwZFZiV1lrMlNpVlpQWlpwbjVlNlZmaVhKY1FuQW5zT2U3OGpOT2Qza2ZLa1dOT0YwM2w1b3Ftb3g5Z0JETy04S2R3Y3RqS3Vael96OVF6Z0JqbnZJZ2hCa3BDVmRwNUR3d1hJVDhSSm1QS1JiQ3BTS2V2d2ktRWFxeW10TFJoNnpVOHJiSlZEd3VUN1d2N1Y5THNLb3FaRHRR0gHKAUFVX3lxTE95NmdDcEV5Smw1NmhFOEZEb2NhSlRRTGNNWWJudG5ORWFfV0Z0V2dIa3BkVmJXWWsyU2lWWlBaWnBuNWU2VmZpWEpjUW5BbnNPZTc4ak5PZDNrZktrV05PRjAzbDVvcW1veDlnQkRPLThLZHdjdGpLdVp6X3o5UXpnQmpudklnaEJrcENWZHA1RHd3WElUOFJKbVBLUmJDcFNLZXZ3aS1FYXF5bXRMUmg2elU4cmJKVkR3dVQ3V3Y3VjlMc0tvcVpEdFE?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeTdUQm9ZWmdISXZZbzN2TlBoQkh4dV9vVUhKX1dYRFVubUhKakQ0b1NHMEdKSUlzTmNQU1l1cjJWLXZManRJeERFeTJwR2tMUDhIX1gtelp5Z1RFa082V05zOWRoQUF3UFh2OWl3ZXk4eHp0X0NCOXBmY2NkOXNTdjFNbUlpTzRUOU9qNGxGcTBqeVN3WHVBZHJabw?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/savings-and-investments-union-council-agrees-key-elements-of-crucial-measures-to-deepen-eu-capital-markets/",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EQ0NYOEUyZGZ3UDh1R3U4cWp4Z2pwSWxmc19sdklOQzZseWZXOVcwWFJZR21WUVByRFlOT2tEaThCN0NOUHJDaHcyVTY3X2V2b00wY1pWdjFQalRCQlBNWFgzRGlMQlVnMUNobmhjbGoyLXM?oc=5",
@@ -1199,16 +1184,24 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2lSaHlXN0IxUzhpcnE0M2pRNERSX0RyRVZ0WmhEeU5VQ2RiMUd3T25jT29SLTVDZWZra2xicVdGVDJTZnBQYjYtdTE2bU0yNGVxSkRfVzBPQm1mLVNZbVdyYzhmZ0hzNmRmRk9vUGZiSjhaMFNPdjgwOVZ4VVlJOFdaU3pMakpDZEpFNXdrdkI1VS1BYUlNRmE1Y3ZJbkNmM2dVTUtWUTBubFZUeDNBdVkwQkY4UWszSUxRc19GdF9UTm8?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVJ4R05jaHh5TFB4VUpNd2ZYY2ZkRlBDdWJpWEV1bGtWeEROUWxhdEgxOUVYakRDUWdqY0x0aTZ4WmRtbnZPblBvT2RyVjBtZnlCQ0FqTUtWVHFKczByR1pHS2lHa05PX2tFSFRmWklubHlqUmVlSG5yZnVYNS1tZkZMdFpkaVJncWFBMXV6OUNmaVYyZjh4WFBXNjBDckJaZVBsZTZ1N0Vkd202cWQxRE9uZEFpdGF6cHJjWm4wMDJxdXlfVXhRS0ZpemJTY3VrMnZ1QU5OMGVQTDNubFE?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbllzT3hEWVpWVzg4SUJxRWhMOV9zRTExNWxYTWJ0WnhxWmdPZWd4bDU3aXF6RHlPdHlUQ2xUZWpvdGNCbF9wdkZzeTIwUjBrckNxMWVXbU1mcWZDN2lhS1VZNzE4bWU1QklFdnh1RzhOeWw4SURTX2RJT3gwWTNIYjdsZVNvLUR2Sjd4VzZXVGhvWGFiMWlRY092NE93OXBTYnNGTE85Rm5IcWd4a1pNcA?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-stops-provision-half-million-people-gaza-over-lack"
+    "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-stops-provision-half-million-people-gaza-over-lack",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/",
+    "https://www.middleeasteye.net/opinion/why-britains-liberal-zionists-must-watch-naza",
+    "https://news.google.com/rss/articles/CBMisgJBVV95cUxOY0M0Qmw2elV2ZlFPS3dTQUdMSWV4cE9QTXo1R2ZndmN1elVKdmdkYU1fSUpwanhGTkNFRjRTd05DVHFyY1VIR2NhMVVYOTVzTXZOSWdXVzNNLUxpYUpNSWViQzdDa21BZHpIVzRDVDVzRGRtaGswV2NXVFFIME9xdzh4TzJrendLR29MemhDaTZOeDhyR1dYLUc2UUgzdGxlS18zaDdTWjh2UmlUTDBUOG8xVExEMmk3NHZOelJXbExQZXhTLVRwdGZsTWFTOGxjZW80ZnFYdC1vc01wblNPN2ZuSGt6V1MyeXpTb3ZXMUhHNXVwUk5iOHpvNUFKcXBuV2hXTHlsOVJfTFNQdWtVZGp2R1IwU0sxLWloYmRMaWRsdFh6RnNwZnFZQlNpelV2aUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEg5V1B3TjhlNEFWQTB2cFJ1Smp5cnl4VGJfck9aV0lOLVRkazhpN0ZBWGV0QXdkQ1FsNU1vZW1YaGxSQ1NRSFpQNWxWcEc5X285MEg5bjJqLVVaRXQ4UURBekJZWlB5S2ZLcFVEeXFhZmlHSVRGVzUxV0V6aElHYnlCODJuV1laWmFNSzVFUnpMSmZkNi1iVFhGa0lkbDNZTTQxT1IzcmNCXzV5NEg4d2FBY2V4N2F2ek1mLVhNRmlDbjQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-nigeria/",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFM3eEhsNDBaYTlYWFZNNnRtN1RrVjVNWE1PUEVnOHE4RXhTZXJrb096Mk03NUduNkQ2N0llVGU2czJXWEtpc0pTLVI5azZKLUpiX3lUM05YNXlqNVlRbE5rVU1WVW9WY0NCZjRXdEdYcDFqUm44d3BXRUM5Y0Q1SkU1UzluM3d0UXdPeExlaEJvWGdZUmtFU25SMXdFaDhQSXB1VzBwMklDM2pBa1ZaUDZpVHlzOWk1YmpaYTZ1OFI2UE83OVBxREFMNWZXUQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDkwRy1VajhGaFJtODNiZHMtdUR1NElCZXJVMV9fcU0ySXVISXdLaDlRcHRLVVFhOGJVS0I3amtDYkp1UTYxcHhzcWVpdDZHRGZMOTZXUlYwWE5uYlJRQ2RUdnF5Q1ZnU0lndEhHVU1BcXdMTzF1SHNTWGdaVXJ4TGlsdVJJTk5EMmNZLVlRd19qcnpfaTI3VEhwTUp0N3A1Yk01UGtkODQta0VsV3RTazdzazhwNXJUYXR1ZG01dWd3UkxJdFV6WmNPMzNkSVZTZ29XbnU3eHJtaUk?oc=5",
+    "http://www.africanews.com/2026/10/19/pregnant-women-in-yemen-at-growing-risk-as-healthcare-limited-by-fighting/",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pZ01BV2pZSlhySjBaazBXZkNTM1NVTWxOcHI1ME8zX3RKd0wwS0FHWVhhdWgwZWs0aEs0SEhMTktXbVNLRzlEWXRyNA?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVBkMHNCbTc5cGJVTl9KMzZZb3dGZjYwS2oxdnI5R2VZR2tlRTljRjRQdlZUa3ctTHRwcHFock5nTmNjSnRLVExBWGU3NjF4YndJNHAwcmw0QnNHa24wY3NMLWMtMEdYVFVkM1FoUnBuU2dpTXliLWhqMUdET0QwdUxscEk4TW12Tm1kV2xKcXVrODVpUUh1TVpwU093QQ?oc=5",
+    "https://www.theafricareport.com/433780/south-africa-can-godfrey-moagi-build-a-credible-noc-from-petrosas-ashes/",
+    "https://www.middleeasteye.net/news/french-authorities-struggle-regain-control-after-deadly-weekend-protests",
+    "http://www.africanews.com/2026/10/19/freshwater-fish-scarcity-drives-aquaculture-in-the-republic-of-congo/",
+    "http://www.africanews.com/2026/10/19/pix-of-the-day-19-october-2026-across-the-world/"
   ],
   "recent_posts": [
-    {
-      "title": "Зеленський провів переговори з Віткоффом та Кушнером щодо мирної зустрічі",
-      "summary": "Президент України Володимир Зеленський повідомив, що провів розмову з представниками США Стивеном Віткоффом та Джаредом Кушнером. Під час контакту сторони обговорювали організацію майбутньої мирної зустрічі. Інформація заснована на офіційних заявах українського лідера, опублікованих агентством Bloomberg.",
-      "source": "Bilateral Meetings",
-      "publisher": "Bloomberg",
-      "published": "2026-10-18T13:48:30+00:00"
-    },
     {
       "title": "В’єтнам і Ліхтенштейн домовились про швидку ратифікацію FTA",
       "summary": "В’єтнам і Ліхтенштейн оголосили, що незабаром ратифікують Угоду про вільну торгівлю між В’єтнамом та країнами Європейської вільної торгівлі (EFTA). Сторони підтвердили готовність завершити процес ратифікації в найближчий час, що дозволить повністю активізувати торгові пільги для обох сторін.",
@@ -1411,6 +1404,13 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-19T12:32:53+00:00"
+    },
+    {
+      "title": "Амір Катару провів переговори з прем'єр-міністром Сінгапуру",
+      "summary": "Амір Катару провів офіційну сесію переговорів із прем'єр-міністром Сінгапуру. Ця двостороння зустріч відбулася в рамках дипломатичних контактів між державами. У тексті джерела не зазначено конкретних підписаних угод, спільних заяв чи інших конкретних результатів, крім факту проведення розмов.",
+      "source": "Bilateral Meetings",
+      "publisher": "الديوان الأميري",
+      "published": "2026-10-19T13:33:25+00:00"
     }
   ]
 }

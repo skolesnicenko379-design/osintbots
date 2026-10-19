@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://www.gov.uk/government/speeches/the-united-kingdom-unequivocally-condemns-the-dangerous-escalation-by-the-houthis-in-yemen-uk-statement-at-the-un-security-council",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazRHX2NBTFFlZ3dOODY5aDVabjhqV1FiZlV1Um9rdzhWUkRkTHlOc1lRYlFhTTlFaTY0N3h0YkhoeUFqSFFEdUU4QWxDbktmaXhUQjNqaW82a0NMTV9RNW1pQUphR2laT2MtWVNOWlNaZUtxYnBnVmpaazZXX0xvZDFrRVBtdThyemZiZGNPUC1xWWNmdXpnbGRhUGxZV3PSAacBQVVfeXFMTXY5bEZOcGJrUkV3TGRQVWZXaG9hLUowb1B5dHh2S3JkNGY2RXloRTU5V0Fxb2VWakNJMHdpNHBxX0JyendvOXE1SjRfTjZSNzc4VzZiVnlWaVZJbDY4Z0l5V0RTSVI1WlFwX0lsTDQxRnhORTZCbTEydnF0dFlwX1VPSzdiODVRazJ5Y2theTFHWVllRTdGZ29HMHRqMVh5SzF0a3ZkNXM?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YclZnWGJYY3dPejdMZWh0OXhPb1pFYm1qbGF3OTkweUp1V05vN0RTX0R4dnlIMkluYnF1enAtc1RaZ1VGMUNiajJlRUdMZVVfeTdWR2VfS3d6RUxOeG9vdGMta0pNN3pBR0g0bFRvTDhfTzVDVnFSYjFB?oc=5",
-    "https://www.gov.uk/government/speeches/russias-intensifying-attacks-on-ukraine-speak-louder-than-its-claims-to-want-peace-uk-statement-at-the-un-security-council",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZHZrcjY5ZnlZOERtSGhGbWhPanNXcTM2RkI3QVhPX2VobDZrUnY0Q0FMc3BCMHMwWlNVSVQ5Z0pDdnpBNG5CNnN5QUYxSzZSMU1BVUl1aEdQQ3BwejVxXzhZRDNna3lSTC1zMnc5N09RRm0yWTdJcUlSVmlKNHB3b1RxVkNwRmNnN21rU2s5TmlLSEt1NUZjTmpfaFNDazNWOF9XMmtiOWZjMzlBZi1ka0hBLWhqcGZDa2xsU25DR0FiUmRDVG12dVBwbXRid3dzd3pyeE51Zkk2ZmNzaTVGb2R2SFc2YmZSR2dBNi12TnV4ejd5STdj?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KclBpd1ZNQTZnWTlJQjAzS0hham1wVEJTcF94SzFvLWVoS1oyd1ZPdjlzNDA5Y2ZZU1o0Sk9PNWhmRklVMER4cm4wcVc4ZVRCcTFyUzg5c0VRXzFuUHI3cGRGemJfUlRmQktQZ3p4eWozdVFYck5R?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVG1CTXlXTENJUU5mMEF0X0QzanpzUkM4eW50YUp4SjM3MGZES25Cbi1wR1NUNHN2U0k4eEVONWxZT1VIdEFNM1d2TFh2NTdVQlF4VGlXMmdtMEQyVXZnMzR4Z09aV29GZ3prWTNRNUN2ZjJLc2ZJTW94R0RscDdBU3ZxVkNlbl93VTZEOW9tRW05Z1BHWEdSQVdqSWlNRm5GQkpKalBkaw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMF9iTFdIdGJHeDNEdHZVNV9LdzhlWmRCTVU1VWtEVlpHYWNUWGgtanNCZldCb2ZPQ0RBWFE4TC1lYXI1RFQ3VVNKQXFSVmNucEFtQTdELVUzUXNrQVNFOV85VDlvRlpjN3lZS0lEUXJfVlNCSldYdVNSUGFMVDhJbEcxY2RyUTctUkhqUnZua01oeU0?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkt0TW0taW5icjB3aXJmVDRtbExLY09DMVNtWHk1UU1jX1AybjM0Mm5LdTJRUDVDU0ZTbGk0NEdHVDJwT2Rzd1hqVEVZdnA0eW5YdEdfTnh2V1Rxa0ppR0J3Q3RwTVQ2U2dDLUZlTUFybWxvT25NakZsbWpsNVFYbkIyWHlhMjBrWVRqMVFwMXl1ZEE?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHFNczkwLTRRSENMdGhOd2d4cjk4WV9PQU9ldXJEM0lDLXdCSGZWZ1ZyU1M2aHhFdFNaVDJoZW1HQ09nSTVKWHRCaWN4ZVEyelozYnpoSGJXbUhhUFdzX1luamlfNGozX09oOTEtRVdWMWVWVXd4VGRTUGNzeUNZQlpHQUNXTHRkRlQ0bFZGMHRuMmxTNW44?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVdMOEY5ZHlBOEg0bVlicTFBcm5Lc3Q0N29hektOX0EtbWN2emVCNFhyQm5PYk1mXzFCQ2lYVDFXUDVzV0Q1aUxHZllwbXl2aG83N19nVG1fTUFaNXJqRmxCMElKa1czcGhmY1lmbGgtZnBMdGFsLUpUYTdqNGdOb1JmUkdSUGR1OGtMZzNPZU5qLWlVcWQ3czdSVDhULW9vbDZBSFNCTkd2RXhz0gGyAUFVX3lxTE5PUXpSUVNQTmVPZTdKNEQ4emhIb3pabjVZREZvT2JkeG00ckhhdl9fWjQxUGd3SzZrREhRZFhOTXJ5MnZibk13SzRFUWVUcjRKTWF2WndzLXJ2b2JlT2FhMlBLQUplbjAxcUdzMlBHMUo1QVhVenEzQ1N5Zks5Rjkxa2VXMUN6ZzY5RzNRM191LTZpVThrUW5IWnh6UTV1V3lkUlRaTEdWNDN0Ymd5M1Q4QXc?oc=5",
@@ -1199,23 +1191,17 @@
     "http://www.africanews.com/2026/10/19/kenya-confirms-eighth-ebola-case-as-regional-outbreak-spreads/",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUEhBYmZTRTdSMmIxUlZNSkNxRGxEMmhXOThFUkJWVkw3cmhTay1RZUZyYTgyVFhMRVBZVHZNQ3FsVVE4Wk9GbkVmY0FyVGpqMHNDVjF4dnJobGV4R1VqUVE3am5SRGR4bE41Vi1DMUFzTkJOeC0yd1BfdjdmRmpLYzJjUkpWd01fS0ZhVWVwQlN4UXh5Q1BQX2V4eHZ1U3ViTGUzV3hoY2VPdw?oc=5",
     "http://www.africanews.com/2026/10/19/zimbabwes-zanu-pf-picks-mnangagwa-as-leader-after-2028/",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajN5VE1BLUJia1dPTXZZOEZVaDJ4QXIyZ2djRDRmZjZlUXd0dXV1ekpGOXRQeWVYOXZIMzQ0U1lQTGhPOV9aRk1ETVdhY1RweF9uVkYwSDAzdEZWaFNTYzJqMnVsbWVRV1VlNWZFQ0lZWGhGTmdKejJnOFYwV3M5Wk8yTjdnUG5tWTJnZ2VDbTJCUkNtenJJNGpVV0FzdWNIcG8ycV9Bd05lWTdN?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajN5VE1BLUJia1dPTXZZOEZVaDJ4QXIyZ2djRDRmZjZlUXd0dXV1ekpGOXRQeWVYOXZIMzQ0U1lQTGhPOV9aRk1ETVdhY1RweF9uVkYwSDAzdEZWaFNTYzJqMnVsbWVRV1VlNWZFQ0lZWGhGTmdKejJnOFYwV3M5Wk8yTjdnUG5tWTJnZ2VDbTJCUkNtenJJNGpVV0FzdWNIcG8ycV9Bd05lWTdN?oc=5",
+    "https://www.middleeasteye.net/news/israel-arrest-settlers-attacks-us-journalist-european-officials-west-bank",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZW5DSUEtd1VpMTdfcS1oeFlvbjVteEdmek5wQ3N2RXpOUERncVo4cF9Tc0RrVG5aMy1Dc2NlbVJiMkwwSXhGZl8yUDY5MmFNak9GVW1sZE8tYml3clZuY3lPdTdOalN3WVZwQTRfc19xZ1hQbXFIQXdJMklOMllQaHNwZGlHRV9ib3lEekNic05qcFg4YWQtT0lmTnF3MHBwZjRDVXVVcFdoY0tFblczaXh6T3dsb0I0MEE2VVZaLWVWU1NHU213dEFwc1AwQmJzcFhqd3V6dnNtb1ZTZVVmOUtUQ1V2N09s?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlFRejAwZTdHZWJGQ25oZV85clU1Rm4ySDJWYVkxcEwzR1dOYndSY0I5T3BnY1gzVkxFdkN5TTlZeG5Lamtvbm5vQmZXZXJ4YUNtUS1ZblFqUlNsMEdCQWdLZ2k5QkdfZmZrVENjWF8wSmJnVTlnVmhkQldyUmN5cXpYREdiR2kteVJkYzE0S1lfRUFQTEdyNEZVd1g1YU5SVElid2hlalBrTjBXZXZWaA?oc=5",
+    "https://www.middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2lSaHlXN0IxUzhpcnE0M2pRNERSX0RyRVZ0WmhEeU5VQ2RiMUd3T25jT29SLTVDZWZra2xicVdGVDJTZnBQYjYtdTE2bU0yNGVxSkRfVzBPQm1mLVNZbVdyYzhmZ0hzNmRmRk9vUGZiSjhaMFNPdjgwOVZ4VVlJOFdaU3pMakpDZEpFNXdrdkI1VS1BYUlNRmE1Y3ZJbkNmM2dVTUtWUTBubFZUeDNBdVkwQkY4UWszSUxRc19GdF9UTm8?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVJ4R05jaHh5TFB4VUpNd2ZYY2ZkRlBDdWJpWEV1bGtWeEROUWxhdEgxOUVYakRDUWdqY0x0aTZ4WmRtbnZPblBvT2RyVjBtZnlCQ0FqTUtWVHFKczByR1pHS2lHa05PX2tFSFRmWklubHlqUmVlSG5yZnVYNS1tZkZMdFpkaVJncWFBMXV6OUNmaVYyZjh4WFBXNjBDckJaZVBsZTZ1N0Vkd202cWQxRE9uZEFpdGF6cHJjWm4wMDJxdXlfVXhRS0ZpemJTY3VrMnZ1QU5OMGVQTDNubFE?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbllzT3hEWVpWVzg4SUJxRWhMOV9zRTExNWxYTWJ0WnhxWmdPZWd4bDU3aXF6RHlPdHlUQ2xUZWpvdGNCbF9wdkZzeTIwUjBrckNxMWVXbU1mcWZDN2lhS1VZNzE4bWU1QklFdnh1RzhOeWw4SURTX2RJT3gwWTNIYjdsZVNvLUR2Sjd4VzZXVGhvWGFiMWlRY092NE93OXBTYnNGTE85Rm5IcWd4a1pNcA?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-stops-provision-half-million-people-gaza-over-lack"
   ],
   "recent_posts": [
-    {
-      "title": "Іран і Євразія підписали меморандум про співпрацю",
-      "summary": "Іран і Євразія підписали меморандум про співпрацю, що спрямований на розвиток вільної торгівлі та інтеграції. У документі визначено умови обміну товарами, послугами та інвестиціями, а також створення спільних інфраструктурних проектів. Підписання стало кроком до посилення економічної взаємодії.",
-      "source": "Treaties & Agreements",
-      "publisher": "ایراسین",
-      "published": "2026-10-18T13:04:39+00:00"
-    },
-    {
-      "title": "Єгипетський парламент відкладив голосування про військову підтримку Саудівській Аравії",
-      "summary": "Єгипетський парламент відкладив голосування про військову підтримку Саудівській Аравії. Під час засідання рішення було відкладено, а обговорення продовжаться у понеділок. Паралельно, міністр закордонних справ Єгипту телефонно обговорив з пакистанським колегою зменшення регіональних напружень для забезпечення стабільності в Південному Середземномор'ї та підтримки мирного процесу.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-18T14:18:57+00:00"
-    },
     {
       "title": "Зеленський провів переговори з Віткоффом та Кушнером щодо мирної зустрічі",
       "summary": "Президент України Володимир Зеленський повідомив, що провів розмову з представниками США Стивеном Віткоффом та Джаредом Кушнером. Під час контакту сторони обговорювали організацію майбутньої мирної зустрічі. Інформація заснована на офіційних заявах українського лідера, опублікованих агентством Bloomberg.",
@@ -1411,6 +1397,20 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-19T11:07:31+00:00"
+    },
+    {
+      "title": "Академічна акредитація для Спеціального Європейського Ради 26-27 листопада 2026",
+      "summary": "Європейська дипломатія оголосила про акредитацію медіа для Спеціального Європейського Ради, що відбудеться 26-27 листопада 2026. Учасники: члени Ради, представники ЄС, державні лідери. Мета – забезпечити медіа-діяльність, доступ до засідань. Підтримка – Консіліум ЄС для підтримки інформування.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-19T12:46:42+00:00"
+    },
+    {
+      "title": "Бангладеш вимагає пояснень у Саудівській Аравії щодо страт",
+      "summary": "Міністр закордонних справ Бангладеш Хумаюн Кобір заявив, що Дакка вимагає пояснень у Саудівської Аравії щодо страт двох громадян без попередження. Саудівські власті виконали вирок у Мецці, назвавши їхні дії «непристойними», не надали копії вироку та не повідомили про процес.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-19T12:32:53+00:00"
     }
   ]
 }

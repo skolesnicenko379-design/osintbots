@@ -115,11 +115,13 @@ search_queries = [
     ("Bank of Japan OR BOJ OR yen interest rate policy when:24h",
      "Японія · монетарна політика", "japan"),
 
-    # Глобальні сировинні та енергетичні ринки.
+    # Глобальні сировинні та енергетичні ринки, а також прогнози міжнародних інституцій.
     ("global oil markets OR IEA report OR critical minerals OR copper supply OR LNG when:24h",
      "Глобальні сировинні ринки", "global"),
     ("OPEC+ production OR natural gas prices Europe OR LNG market when:24h",
      "Енергетика та LNG", "global"),
+    ("IMF OR International Monetary Fund OR OECD economic outlook OR World Bank global growth forecast debt inflation when:24h",
+     "МВФ, ОЕСР і глобальні макроекономічні прогнози", "global"),
 ]
 
 FEEDS = []
@@ -130,12 +132,13 @@ for query, label, group in search_queries:
 
 # Офіційні та міжурядові стрічки на додачу до пошуку публікацій у медіа.
 FEEDS.extend([
-    ("https://www.imf.org/en/News/RSS", "МВФ", False, "global"),
     ("https://www.wto.org/english/res_e/wto_rss_e.xml", "СОТ", False, "global"),
     ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", False, "global"),
     ("https://www.ecb.europa.eu/rss/press.html", "ЄЦБ", False, "eu"),
     ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", False, "eu"),
     ("https://search.worldbank.org/api/v2/news?format=atom", "Світовий банк", False, "global"),
+    ("https://ustr.gov/archive/Meta_Content/RSS/ustr_press_releases_10475.xml", "USTR · пресрелізи", False, "us"),
+    ("https://ustr.gov/archive/Meta_Content/RSS/ustr_recent_news_10495.xml", "USTR · останні новини", False, "us"),
 ])
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"

@@ -2,6 +2,9 @@ name: Economy Bot
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'economy/bot.py'
 
 # Єдина черга: спільна історія не перезаписується паралельними запусками.
 concurrency:

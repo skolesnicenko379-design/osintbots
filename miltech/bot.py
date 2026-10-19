@@ -229,7 +229,7 @@ def enrich_with_anthropic(title, article_text, source_name, needs_translation, r
         if needs_translation else "Оригінал вже українською."
     )
     recent_block = "\n".join(
-        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:65]}"
         for post in (recent_posts or [])[-8:]
     ) or "(нещодавніх публікацій немає)"
     prompt = (
@@ -292,8 +292,8 @@ def enrich_with_xai(title, article_text, source_name, needs_translation, recent_
         if needs_translation else "Оригінал вже українською."
     )
     recent_block = "\n".join(
-        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:100]}"
-        for post in (recent_posts or [])[-12:]
+        f"- [{post.get('channel', 'інший канал')}] {post.get('title', '')}: {post.get('summary', '')[:65]}"
+        for post in (recent_posts or [])[-8:]
     ) or "(нещодавніх публікацій немає)"
     prompt = (
         "Ти — редактор мілтех-новин для українського Telegram-каналу.\\n"

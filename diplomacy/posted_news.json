@@ -1,18 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDVMNmxMQTZnVHN5VV8tSUhnNEJLUTYySXJ1VDhHVi04aFZsTEx6TFJucnBFY1VqMGU4THZRb2luNHpXLUhvSHh4N0FUM3dnZURmMUFtZ1NOZE56Y3FWRVZXODRXWHVxZjJhQ0p3Q1lTYV9mQUVxVXpObENPaXEtb3lR0gGCAUFVX3lxTFBENUw2bExBNmdUc3lVXy1JSGc0QktRNjJJcnVUOEdWLThoVmxMTHpMUm5ycEVjVWowZThMdlFvaW40elctSG9IeHg3QVQzd2dlRGYxQW1nU05kTnpjcVZFVlc4NFdYdXFmMmFDSndDWVNhX2ZBRXFVek5sQ09pcS1veVE?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmIwQWJPMmtVT3JHbE5hVi1tWkQyZ1ppeVJLNnJ2UUExdWtyT3Q3VE1yX0tuZEdmRmFJSXNEeWZhZVhQYTF2a21IODQxdmVwemJTQ0tsaklwV0FRRGlkbTJPYXQwSTNjZGRvZkxtWjJTclhDVmlpWmpPcW4xTW9sNHNmZ1dXM1UwYnB3bElENFdmQmtIOEJxTmlBdzhoTTJuN0YzZzIxNWJXbFZXQjFFWldR?oc=5",
-    "https://news.google.com/rss/articles/CBMiggJBVV95cUxOR2RUTnhtYU4xY2NSdVVDQ0tQMDRlQjVGOWNXV3JnMDkzOU9JelpweXJlOXdiV05KbUx5RG1OMmlia1hWY1BUZkNqNGFuZ085NnB4Tlc1ZG9Vb0tRTzlRdjRYNW05dnp6emlwREY5T09vOXNXRElkSTNOSWFyZURzWEwzb2p5SXM1RXZLMGFKWk1ucm8xVUtsRTBqQlYzUmZNUmtPeml5cFRPQzVZSUJrNDBkWFZ4VFMwQ05OTEhoNzdXZnFYYTVuRS1Ed244OUJUSGloT3pqY2l0eFFIeE9qSjN2TlU1UW1faXNtWFlsb2dPWGdoVzZWZzlGN0pLajAzbVE?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2ZwcHFzRXdHMXlXeGxYV004ZUlQcE9GbldqN0NtbEhjNjl6VDlxQUFaZ0ItcGdhMzRYelVnWktRVmd5a25yV3p6a1VQWlFhUWRUTzZlNUJMM1l6akhxb3MtbEZibXR1aWg1OVIwRmkydERVcEpUcmlsS0JzeTJMUjB0dmR4ZUZ2b1MwMVE5Z2otek4xN0hTT20xWE4yWjdvZVcxc1I2MGppbnN2TXZSOXlZVDhGVDVXWC03UWV4eFRSZ05NOFNr?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oU2dqYzk3U1VrSG1aNXp6QmFTZk12aG1HN0Q0WFBFSHdkbWNNZXQ2YmJzbFdmbE5rWHR4N0lYaGNvNUg3WWVRZEpPS1NWYnQwSlR1QzQ4Q2ZNVVNYVUVOSFFJRWZ4enZUZTNDQl9lcmhkSVg2VUE4NERpYw?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT21vM1NmSDZSNEF0N1hLLVJudWJnNmphZzg1bnFRRXJ1LTB3c09HaFo5a2pSR0NIam05aUN3Mm5mQWJFaklFUm80NVJCX0R4UUJ2N0s4NUlUbkZtVHpOaVNDSUhwQlpzRHdfbElTNVdKYk9kd3dRSzYzbDVsRmd4bkxRM3NQcE9BS3VOYU1xSlBONXRsQktERUZn?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1ptNTNrdHpweTVfUml0RlNWcjM3OTUzOTcxVXpCeGs0d09rVnd3M2V1R0VNaFVXMWZRZGRVc0ZObEF3RjNHbUdDNWdDRC12MVVnSlRZR1lyMUh5cDE0QW9SM1B1eXNVMTB0bXJKTHc2a1B4T0FYeHpLU3IwTkQ3SUlEbG5ldjdhQXBiTWg4ZFFmWi16SVlTMkZsVkJXS3FvWlZ4YjJ3bVc3YjR5cVpsamxUMk9EeVE?oc=5",
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNEVoSlo1aXgzc0hRcmNMT0Zfcmx1ZmtSbVNfV3ZHMU9ZOV9iaHFOTXlHbUNPdUJwSHpZSUV2Wmt4NlF4RnRQQ2lGZGFvQkJsdkM3Nl9udXZlN1lhZTF3T0tIb1FhZFJIWXpNb2paSjlIMVBfdVpFLVZLdGprZF9ySXVsRkp3ZmFoWHNQNHo1NGJjOEJQTFBnOHpPWmVSbEp3ZXZmSFI5c2NyNlFpY1VLS1l0cFU2YVU2LVNpZ1R4TmFvcWMyMEVTMHJ1YzA3aS1aUU12aXVoLUI3ZHpUb0hSYWFB?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekpwNzl6MjJvclNCcjRVNnBnbGl2TDRhOVJIYVJPdG1iNm1EUG5jLXBqZ0dDaktVWUZVdVZFSW5SZGh3ajNmS1cxczRPeHVEQlJXdEpIdlJBdHFhWkVFNkdpQkhSUjVNQkVfYldTcWt3MFhpeFFPV3d2UGE4Y0YwNWs3R2ExTGxRNEoxSEFLemJ0aTZFaDVZZkkwM1ZIaElhd3VnazNqUVdOMWFxa3F4bVZoMmRXYmxwVkFFaXFHbw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNDNNYmlONm9xeGoyVklvdThwNmh4TVltWmpBMHJQeVN0dkliblptV0NPRVZoX0VIZHJhYS0xM1E3VDU4Mk9pQzlJYmc3cXpnbVZnS21LZ3VXX002S2gtRURCbEZ2a21vZjd3Rkk2Nlg0ajJUTVc1X3d4UjJBRzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVlwcGVWM2RiY2NULXdXNURoN3VMc0txc2tScGFuQVFMYWN0eTRVbVdNdnAzdXo3ekFtVmlBRFdKY1gyOTZyRVdlaTVqX3ZpR1VZSnBjWXJTeVJQbzFIRlh5VG9pTmZsNy1QN0pCcm5zZUt2VjNyR1NBOTNGMV84M1lwQkpWYWRwdFNEY3FOaTBQV1BWdlRCSlpRRlJLWUNHYnU1bGJVRlFXQXN5R1RPbDA4VGFoX05SR0kwazZR?oc=5",
-    "https://militarnyi.com/uk/news/rosijskij-uhti-pislya-ataky-dron-goryt-npz/?utm_source=rss&utm_medium=rss&utm_campaign=rosijskij-uhti-pislya-ataky-dron-goryt-npz",
-    "https://militarnyi.com/uk/news/brytanski-atomni-submaryny-zahyshhatymut-vid-droniv-pozhezhnymy-brandspojtamy/?utm_source=rss&utm_medium=rss&utm_campaign=brytanski-atomni-submaryny-zahyshhatymut-vid-droniv-pozhezhnymy-brandspojtamy",
     "https://militarnyi.com/uk/news/pislya-nichnoyi-ataky-spalahnula-pozhezha-na-naftobazi-bilya-byelgoroda/?utm_source=rss&utm_medium=rss&utm_campaign=pislya-nichnoyi-ataky-spalahnula-pozhezha-na-naftobazi-bilya-byelgoroda",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-redkinskyj-doslidnyj-zavod-yakyj-vyroblyaye-komponenty-raketnogo-palyva/?utm_source=rss&utm_medium=rss&utm_campaign=ukrayinski-drony-atakuvaly-redkinskyj-doslidnyj-zavod-yakyj-vyroblyaye-komponenty-raketnogo-palyva",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/taxation-council-updates-the-eu-list-of-non-cooperative-jurisdictions-for-tax-purposes/",
@@ -1199,37 +1186,22 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQVS1icVNGNXJXeVlPSEdMU1B1R1VEZ0ZUUy13enV2WDJ1R1JzRlBLQmZzNE5fYlhFN0dtT3dIY3M0UmRGVmpzRE9hWVBOQnI2YTR2bWQtTDZzYWdWc0NNQzNUMDMyVVJtR0ItX0JRYXJRMV9RWVhJN2tSZzI5eFViVzBXSGhKMWNnMDhnbkp6ZHUxeXZUc2lJekJWcndRUQ?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3BkYmJtdVQ3eGx6TUZrZFBxOGdSdmlhOHNKZEY0cFlSWHJ5d1VtZHVwZ3JOdWVJdEtlaTJOLTgzcUxOTWF3RzZQQkFWRTZGTl9QM3FfMlFPNURUTkljTEQ0Mi04eXBPcDA0WXgxdnNheWZHZ1hmQ19mZExFU01ESlRwbXdacFM0amNqdDJNZUlZNjJVRkR6Y3RlMDhSOWNJbW9OV0pmUmdFNDVNa0pv?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaV9oVzdhLUo2QmxNa3R4VTZMdkY4REtYSXJMR0VHeVVxb0xsLTMxRGtnUWxQWWU2NUlHV0piZURMaWt5M2hCY1VHRzdFcDc2b284cXZDVC1IMlFhNFZSOXhCN1R0TXZ1dHhWNDVoWWxoaEUtTklvQlhPeWdtdnBYNEdzdUcwcDBDNmVfbEt4MXUzZ3ZfSlpBVUVoNlVXb0FEWEhFbUw4MEJLd2l4YTZ4a0dlTklSN3JBVldTWkM5S0R0ZEZYMlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWW5pQy1zaXd5Nmh1SzctSTFkdnRpVmFBMl95Z0VXNm9adWRlb2RfZVpFMmpFQXpSSEdjaGdFc1BzNTl2dEFQRVc4Tk1Ua3Y1MERCd0kxRlUwVmhybWM3TDY0ZFNmclpXQWVMS1MwdWdNaE5Mb3h4YkpNVnVaYS1aZGlvUGo5bmZQaFA3RE5jZDJieFVUd1hYRmdXa215MHJfSTlNVFBzT0p0Uk83ZlYyeG4yaEQtejZGNjhfcXlNaWdHV200ZDczVlVn?oc=5"
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWW5pQy1zaXd5Nmh1SzctSTFkdnRpVmFBMl95Z0VXNm9adWRlb2RfZVpFMmpFQXpSSEdjaGdFc1BzNTl2dEFQRVc4Tk1Ua3Y1MERCd0kxRlUwVmhybWM3TDY0ZFNmclpXQWVMS1MwdWdNaE5Mb3h4YkpNVnVaYS1aZGlvUGo5bmZQaFA3RE5jZDJieFVUd1hYRmdXa215MHJfSTlNVFBzT0p0Uk83ZlYyeG4yaEQtejZGNjhfcXlNaWdHV200ZDczVlVn?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVdwZXJsZnpKcUZScGhjOFZ1MnNncUV0OFBhZ0pEdTJqZnZjUy1walVpemtyXy1xZkJERTdiamNSME42cF80emJFZVpwX2duYW8zbi0wOWVPUkkwQ19zOF9mby1rQU0ySXpMd254NHEtaGlsaUtjSWJUaTRqT0kyQk1Cd2djNEJ0OHBzTnhEaU1iUmp1T1ZfQUhmOU05OEJGdGo2Y1ZwR1c?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHFSZU4zYWZlSUxuQk1yTlRoVjJEYU52Y1VjdG9IT1k4MDdxLXAwOWs5RXJtUHVJaHRRVWtDSDF6UG1MNXQ2OV8xOFo0dmNQaUZIWW5ZLWktM2FpR1RDaUdDMUcyN1I0UVhXZ0hWSnJURzIyWWYyQkJsR0RhcDZxOWlLQ3VReEtNdW01THptTGZKdkRKelZzNXE5ZS1UWE9GNjFZOTRvR1JLYmZnZUlxSDFsNl93X00?oc=5",
+    "https://www.gov.uk/government/news/foreign-secretary-statement-on-the-deadline-for-bids-for-the-e1-settlement-tender",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRk1jd1dIalpfQUhWMWg2TU01SmZjR05xME53ZW5IaGhhTnBjdzFlcnk5eGdBWnZBV1B1ZWtreVdRRDZaQnhmc1dzZE9ZMFZiZFBkc01fMTRzdw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vR0hfVks3djV6TG1wVHRsRURMazhPbkNkUlY4OEpRZTBpSF9rZjZYdTlIY2puOXpXWTZKa1hKXzlxUkN3VmVnWnNsTWNneS1uWEVUTllwbVphVkJPaTZmQkFiblFEUUh4d2dIZUM4WXJQXzV2RkFsTFlsaHI?oc=5",
+    "https://www.middleeasteye.net/news/egypt-construction-firms-surveyed-sites-gaza-green-rafah-project-sources-say",
+    "http://www.africanews.com/2026/10/19/niger-fuel-shortages-leave-drivers-stranded-in-niamey/",
+    "http://www.africanews.com/2026/10/19/kenya-cult-deaths-court-set-to-rule-in-preachers-murder-trial/",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUdoNFVmODgzRVVzeTJ5MG8xU3pVbm5nOXRfclhGZUJJcHBCNmtEUTBtckx2VEVxOXcwcGkzamZuSDNqZy1OZW4wc1FhWjg3MmxSM0ZDejlOdEs4VV9oNENRS2ZDZVk2VEUtYXlxaGowLXMybUJBQXdlUXhUd2oyeHlFRmtHeW8zXzRfZ0pZMXN2aDBGaU5kNFlEcENQbUJtVDBmOFYtRnlSUWJ2ZzZyV3RQalB5WTJLOE5BdEhsQ2UxeF9jSlpz?oc=5",
+    "http://www.africanews.com/2026/10/19/malis-army-and-rebel-opponents-guilty-of-human-rights-violations-new-report-finds/",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zTnROVzdpTF94UGF4Tk00b3RQX3FtOFVDaHl4N0Z1bkVlQXQ3c0lDWjY0cmJLZThyT09VeDJkbXJXVEt0Vmw1QUtGN0hySFRRSXpiMGdxM01yalhGcGpqcDlYenhlTWV3VXE0STR6NWI5WVBhSVo5U0ZJYw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Франції відвідає Кувейт у понеділок",
-      "summary": "Президент Франції планує офіційний візит до Кувейту у понеділок, про що повідомляє агентство Anadolu Ajansı. Під час візиту очікується зустріч з президентом Кувейту та обговорення питань економічного співробітництва, безпеки та енергетичної політики, та зміцнення двосторонніх зв’язків.",
-      "source": "Bilateral Meetings",
-      "publisher": "Anadolu Ajansı",
-      "published": "2026-10-18T07:00:25+00:00"
-    },
-    {
-      "title": "Ізраїльський президент зустрічається з міністром Бахрейну на CICA",
-      "summary": "Ізраїльський президент Ісаак Герцог зустрівся з міністром закордонних справ Бахрейну під час саміту CICA, що проводиться в Азербайджані. Обговорили співпрацю у сфері безпеки, економіки та регіональної стабільності. Обидва лідери підкреслили важливість діалогу між країнами та підтримку мирного процесу в регіоні.",
-      "source": "Bilateral Meetings",
-      "publisher": "The Jerusalem Post",
-      "published": "2026-10-18T08:22:34+00:00"
-    },
-    {
-      "title": "Прем’єр-ліхтенштейну Брігітт Хаас прийнята у Ханой",
-      "summary": "Прем’єр-ліхтенштейну Брігітт Хаас була офіційно вітана у Ханой під час церемонії, організованої в’єтнамським урядом. Подія відбулася в рамках її візиту до В’єтнаму, де планується обговорення двосторонньої співпраці та підписання можливих угод. Зокрема, обговорювали питання економічного розвитку, інвестицій та культурного обміну між країнами.",
-      "source": "Bilateral Meetings",
-      "publisher": "en.baochinhphu.vn",
-      "published": "2026-10-18T05:36:00+00:00"
-    },
-    {
-      "title": "Абдуллах бин Заїд зв'язався з міністром Кувейту",
-      "summary": "Абдуллах бин Заїд, представник ОАЕ, провів телефонну розмову з міністром закордонних справ Кувейту, обговоривши співпрацю у сфері безпеки та економіки, а також підвищення двосторонніх зв'язків. Розмова відбулася 20 жовтня 2024 року. Під час дзвінка обговорили можливість спільних ініціатив у сфері енергетики та культурного обміну.",
-      "source": "Bilateral Meetings",
-      "publisher": "Sharjah24",
-      "published": "2026-10-18T08:45:39+00:00"
-    },
     {
       "title": "Прем'єр-Губернатор Нгураре відвідав колишнього президента Похамбу",
       "summary": "Прем'єр-Губернатор Нгураре відвідав колишнього президента Похамбу, щоб висловити співчуття після смерті його дружини, колишньої першої леді Пенехупіфо. Візит відбувся в Намібії, під час якого Нгураре передав листи співчуття та обговорив підтримку. Під час зустрічі обговорили можливість посилення двосторонніх відносин та підтримку гуманітарних ініціатив.",
@@ -1411,6 +1383,34 @@
       "source": "Bilateral Meetings",
       "publisher": "Ynetnews",
       "published": "2026-10-19T07:44:35+00:00"
+    },
+    {
+      "title": "В'єтнамський міністр зустрічається з ісландським міністром",
+      "summary": "В'єтнамський міністр індустрії та торгівлі Луонг Хоанг Тай зустрівся з ісландським міністром закордонних справ, щоб обговорити співпрацю у сфері торгівлі та інвестицій, підписати потенційні угоди, а також обмінятися поглядами на двосторонні відносини. Під час зустрічі обговорено можливість розширення двосторонньої торгівлі, а також спільні проекти у сфері технологій та енергетики.",
+      "source": "Treaties & Agreements",
+      "publisher": "Vietnam.vn",
+      "published": "2026-10-19T09:42:22+00:00"
+    },
+    {
+      "title": "Британський міністр закордонних справ заборонив участь у тендері E1",
+      "summary": "Британський міністр закордонних справ Ед Мілібенд заявив, що сьогодні закінчується термін подачі пропозицій на тендер будівництва поселення E1 в Ізраїлі. Він попередив, що уряд створив нові повноваження для санкцій проти осіб і компаній, які беруть участь у будівництві незаконних поселень, і закликав не подавати заявки.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-19T09:39:30+00:00"
+    },
+    {
+      "title": "Рада ЄС погодила позицію щодо спільної організації ринку сільгосппродуктів",
+      "summary": "Рада ЄС погодила свою позицію щодо спільної організації ринку сільськогосподарських продуктів в рамках багаторічного фінансового плану на 2028–2034 роки. Це рішення є частиною переговорного процесу з бюджетування ЄС. У тексті джерела не зазначено конкретних учасників засідання чи додаткових умов, окрім самого факту погодження позиції.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-19T09:36:48+00:00"
+    },
+    {
+      "title": "Президент Мікронезії відвідає Японію для переговорів з прем'єром Такаїчі",
+      "summary": "Президент Федеративних Штатів Мікронезії оголосив про офіційний візит до Японії, який розпочнеться у вівторок. Під час поїздки заплановані переговори з прем'єр-міністром Японії Такаїчі. Ця подія є формальним дипломатичним кроком, спрямованим на зміцнення двосторонніх відносин між країнами Тихоокеанського регіону та Японією.",
+      "source": "Bilateral Meetings",
+      "publisher": "Japan Wire by Kyodo News",
+      "published": "2026-10-19T09:23:23+00:00"
     }
   ]
 }

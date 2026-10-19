@@ -3,6 +3,7 @@
     "https://baonghean.vn/ru/bae-systems-gioi-thieu-he-thong-vi-song-cong-suat-cao-hpm-doi-pho-bay-dan-uav-gia-re-10353782.html",
     "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+    "https://gov.uk/government/news/foreign-secretary-statement-on-the-deadline-for-bids-for-the-e1-settlement-tender",
     "https://middleeasteye.net/live-blog/live-blog-update/egyptian-saudi-foreign-ministers-discuss-regional-de-escalation",
     "https://middleeasteye.net/live-blog/live-blog-update/egypts-parliament-delays-vote-military-support-saudi-arabia",
     "https://middleeasteye.net/live-blog/live-blog-update/eu-strongly-condemns-settler-attack-delegation-west-bank",
@@ -11,7 +12,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
     "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
     "https://militarnyi.com/uk/news/andrij-grytsenyuk-zalyshaye-posadu-brave1",
-    "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
     "https://militarnyi.com/uk/news/brytantsi-mayut-gotuvatysya-do-zhertv",
     "https://militarnyi.com/uk/news/combat-vision-stvoryla-gejmifikovanyj-instrument-dlya-navchannya-artylerystiv",
     "https://militarnyi.com/uk/news/do-lytvy-zaletiv-nevidomyj-dron",
@@ -41,6 +41,7 @@
     "https://militarnyi.com/uk/news/vidstezhennya-rosijskyh-droniv-i-raket",
     "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
     "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlkxREMzTmlTMVZFVDV2VElwUl9ucHZfT2ZZU1IzUFpIV0VEenJPUlZmT2hvTEVQVld4NWhVR1ZZVFFGWUpyOWJFX1g5RXhrY2pxRXc0MTQwRDZ4b2VLbDRxWlJwWGVHSzBINXMtME5yakdIczZWUXctOGhUcGt3MmhEWU94Qk13M2RKWEFlTTUyTEI3OTJUU2hGZktldGRCV0M4RnhwbVhmdkJIYk5BYjk3aE9hTlhQekdsa3A2cHZtbEM0QmlFU09hMzdLcFFyQlZPdkQxVkhCOVVlQWtTTGlkMUxsOWtYNExqOE85Q010d0FtX0Q4Q9IB8gFBVV95cUxQNGZhcmloMkFTam44MzlFYkVOemFQQ2haUU85bWlQbHZRUlhIQ09qNTBFemZ0LXFJYXhJY29UVWxraEtxZ1NfOG9pUC1wZFRsTV8tMHNGYkFHOFd4NFNqQm9JME5XNmNuOW1oWk11c0tHMGFrbGpHSHNiX19zWHhDRE9NbkRFcWxHakR1ZHRJRFlXbUMtVFdtZE1VN0pVbkxLMG43RXBramI4Uk5BNlpxV1dzVVFqckdPZXhxZDVHd3gzZ0EwVEUwYlJ3Rm1oREV3aElJUUZOM1A1cEFTZFFMSWRTVTdvc2dvaFlxWHVPTGxMUQ",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXI2WFh5NW42NFAtQW9TMzNvR3VKd19yV0N1cHdtamM1MG5ENHdnMFhtUDJSX1otTG5SQU91VG9fSTNlajhvQTQxc2I0RUw2bFhGbGNtRVg5YVl6UmlfanRSYzg3TjBEWkp6cHZOdlpyV2EzSHJ6MEVNRU9DNkxMRTQ2UTNSTGY5VjA3eDBvYXdfSnBLcFRxNE9sQ3ZIX21LeHRENERrRmtBRmlILWVLclFrV3VmTDEyRUtpWEF1dFJMUlJzVE1vYlNSblFULUJkVDAwVjJybml5WXk0TDNPQUlWaVdrNlVNei1jVWpmUDdvaHRIRmNLQXRn",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZExUcUIyd0VERFU5RklJUHl6NkdsRHJJMDItNHNOZzUwQ2FnZ2p6YjVYMTc4NzhkSFhJWXNHd3BSdDFXQmE2N0lDRzNBdTgwSzdjTnlDOUNBMHBYbU5oQVFnUFNMc2NXM1FRc0hEbzZGZVpaeG1hY1h0dkxDUVA0RjhwWnNkVzY5OWp0SzRBdUdjX2Uta1BManlsbmJoVHlqUVNLWHdBMmZrRFZ0clpZamdJd0U1aE5HNTFXZ0cwMWJaY3hFUllkNlBqM1BRa200VXJBZ3k2a2Y3cHZxbWUtX1BuXzhkNG5XMDFldFRBNlkteFR4QUVVZWJ3",
@@ -59,6 +60,7 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16TVdUUWJxeXlwSnMxNFBzRnhBa2ZJU2pjOG16TXp2Y1ZUQ1VXSU1RdnNydWlKY1IyUm5VaWFiWk0zZ1lrb2J1S0M1eWtqZlI2OVE",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JS0hNVjV3RW13V1ZqZjJDcEtJbXljTWtNM0J5RmJDcFlSUjFxck5zUExFVzlWcTBTU2R5Vk40MmtVRVRpMHpscTN3MFJBajBpd0Nrb3VxUQ",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TNldfMFoyVkdpdnYxeXFBR3dKZmNnYXRWOGRrYzh3U2wtRVRiQVVRWHZaYlI1V1laWUV4UGpwZUlwUGRGTjQ3RW05MFR6YmpudUJEN053",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRk1jd1dIalpfQUhWMWg2TU01SmZjR05xME53ZW5IaGhhTnBjdzFlcnk5eGdBWnZBV1B1ZWtreVdRRDZaQnhmc1dzZE9ZMFZiZFBkc01fMTRzdw",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SldHeEdpSWdvY3hpc0xBRmVNZTFJeUI2SFRvaGZoY0xPbVlJUmVmeG11ZzhmcVlaVy1jNkRnWVQ0RFNvbTZ1aXMtc0FFdlQ3d0hkSDI2V1ZweFdFenB3",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQWk2eGw0M1BQdjY1czFZUmo0LUhETTl1dFE5Z25WenVxbEhWanpILXZkM0tfTlIyYlJ3c2YyZmN4LTlCMFZoRUVsLXdGZjQ2UHRkMlRQanBBNkJ2",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93cGlQOC03Y3dHZk8wNWNTRm96VHhTZWgzQ1Y0c3FqVmZ5Zmk2MmlWelh6VnQ5UDRxc3pvQjBiQmEyNElxTTUwWEJ1S0duS1BscDFNd0NoNldTTWhV",
@@ -99,6 +101,7 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFZaFluWUhKYWdQT0VSUE9IUlpMemJoaHZVdjJWbVpHTlItWVpSNUFtY25FMnRWX19OZnpPRmF2UEhLS3pMUnN2UGt5QkRiYTB1d0Y4LVlnb3RKNGI0dllJdWxfMHYtVFBocDdmZHJvbHBCaklTdXRUem1MZUEybG1GZGFRblhhXzV2c1Z6RUxLMVRLTmxKX2ZBX1JvYU9XbnVyWjdrNA",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnFqeldiTWNXNzFwNGJlRGtySWZIdW4xdzBQdGl0Z1JuR3VZTHlnZmJwak1mWW1nbWdHRldKQnNrNFBUY3dETWZ5LVduUzR4SENHdkJjT1JXVVdEZ2FGUDUwNHpnbFdKRG9XSXZ5aDhiZi1velBmZmZ0djFfbUotT2hYbVptMFRzbUhKbEJQV2llNXZ4eVhBWXpSaGp2V29iV2NrM0Vtcw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUthQW92WHJmTGFUTjRhMEJ2QjVrczI5TkZVMk9QU0ZiOWZ2c2RobTctdnNBZkRFcVNleHVPTXhhUjg1U0VXNlB0ZU9qdkhWZnp2eF9aZ0VnQmt6M1pqdmFiby0wcVYyOEYxaXVuUzlsbmsyRFA3blpQWE85amo2NE1PVGxtYVpCcEFmOEN2a0JETWxnc3FyS2VFNWpoVHYtaDdOWDV5aw",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVdwZXJsZnpKcUZScGhjOFZ1MnNncUV0OFBhZ0pEdTJqZnZjUy1walVpemtyXy1xZkJERTdiamNSME42cF80emJFZVpwX2duYW8zbi0wOWVPUkkwQ19zOF9mby1rQU0ySXpMd254NHEtaGlsaUtjSWJUaTRqT0kyQk1Cd2djNEJ0OHBzTnhEaU1iUmp1T1ZfQUhmOU05OEJGdGo2Y1ZwR1c",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0F4YVdUUHFjcEI4SG5FbUR2U08zSlNLbTd6MGhNaUxRdm1sSXZDd1JoVmlMemQ3VXZKaUViTW5NbWowVlhLd296THFKeE9VcDBrbUhtYTJmWkp1NG5LUWVoRWdoUDVHeTRieWNWcWNTV1ZJQWE1a3RvdTJlRkF3REtFNW5QYm16NGdHS2dKUGdVQVJ5Y0poTEhZQko1dHpRM0sxTTBzRE4",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXVSUWU1dHg2eWdYblgxRERDSDFOX3E2X0RUVHVWbXVYTkY0ckdCdWlMRXdMYlpOZUNPaXdmM1RKc3FoQXRndlZwY0pwRXNEZEk1eUE0SlFTbmFiTzJ5UlVIMWhIdnU1RzZNM3U2RENsTzc0czV3MWlCdElncGgwdGZLbVUzTVlpOU9RTVIzQTlnNmF5LU84Vm9lX0RBN2k4QlJVSzlwWWQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUNhSmF4eFJYc2FLSkdISXF6cVU2VTFTN3pHWFc4dmxvU1p4eWdFb09ZS1V1OHNQbGo1T05JbUJCblRwRjdUNXBqOWZPd3c0NVltbTR0RG9PSmVvU3c4bXRzOHpJNENBdDN2SFpFY0pQOXpmR1l5Sk9FY0RYbVNBWmE5RE43TjN3SlJxamN6aWpFRzVLTHBVbjM1dmRSZWI2U3JTRGZUa0QxU3M",
@@ -137,16 +140,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-17-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Білоруські реактивні дрони «Миротворец» помічені в Лівії в армії Хафтара",
-      "original_title": "Білоруські реактивні дрони «Миротворец» з’явилися в Лівії: їх помітили в армії Хафтара",
-      "summary": "Дрон «Миротворец» має довжину 2,4 м, розмах крила 2,8 м, злітну масу 46 кг та оснащений китайським мікротурбореактивним двигуном Swiwin. Максимальна швидкість сягає 450 км/год, тривалість польоту — до 45 хвилин, дальність — до 180 км на висоті 6000 м, бойова частина — 10 кг. Апарат стартує з катапульти, може діяти в автоматичному режимі та призначений для ураження пунктів управління, ЗРК та РСЗВ.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/biloruski-reaktyvni-drony-v-liviyi",
-      "published": "2026-10-17T15:43:54+00:00"
-    },
     {
       "title": "Іран допомагає хуситам навідувати ракети та дрони в Саудівській Аравії",
       "original_title": "Іран допомагає хуситам наводити ракети та дрони на цілі в Саудівській Аравії",
@@ -1486,6 +1479,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WmczRVlGU0NLMUNHYzdLXzZqS2x5ZjlrMzVjLURXeHllLWpJdXREZ3A4bFMycHp2TDhaM0p3QXA2R2FxV0dFZkNLTjA",
       "published": "2026-10-19T08:44:47+00:00"
+    },
+    {
+      "title": "Президент Мікронезії відвідає Японію для переговорів з прем'єром Такаїчі",
+      "original_title": "BREAKING NEWS: Micronesia president to visit Japan from Tues. for talks with PM Takaichi - Japan Wire by Kyodo News",
+      "summary": "Президент Федеративних Штатів Мікронезії оголосив про офіційний візит до Японії, який розпочнеться у вівторок. Під час поїздки заплановані переговори з прем'єр-міністром Японії Такаїчі. Ця подія є формальним дипломатичним кроком, спрямованим на зміцнення двосторонніх відносин між країнами Тихоокеанського регіону та Японією.",
+      "source": "Bilateral Meetings",
+      "publisher": "Japan Wire by Kyodo News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRk1jd1dIalpfQUhWMWg2TU01SmZjR05xME53ZW5IaGhhTnBjdzFlcnk5eGdBWnZBV1B1ZWtreVdRRDZaQnhmc1dzZE9ZMFZiZFBkc01fMTRzdw",
+      "published": "2026-10-19T09:23:23+00:00"
+    },
+    {
+      "title": "Рада ЄС погодила позицію щодо спільної організації ринку сільгосппродуктів",
+      "original_title": "MFF 2028-2034: Council agrees position on the common market organisation for agricultural products - Consilium.europa.eu",
+      "summary": "Рада ЄС погодила свою позицію щодо спільної організації ринку сільськогосподарських продуктів в рамках багаторічного фінансового плану на 2028–2034 роки. Це рішення є частиною переговорного процесу з бюджетування ЄС. У тексті джерела не зазначено конкретних учасників засідання чи додаткових умов, окрім самого факту погодження позиції.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
+      "published": "2026-10-19T09:36:48+00:00"
+    },
+    {
+      "title": "Британський міністр закордонних справ заборонив участь у тендері E1",
+      "original_title": "Foreign Secretary statement on the deadline for bids for the E1 settlement tender",
+      "summary": "Британський міністр закордонних справ Ед Мілібенд заявив, що сьогодні закінчується термін подачі пропозицій на тендер будівництва поселення E1 в Ізраїлі. Він попередив, що уряд створив нові повноваження для санкцій проти осіб і компаній, які беруть участь у будівництві незаконних поселень, і закликав не подавати заявки.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/foreign-secretary-statement-on-the-deadline-for-bids-for-the-e1-settlement-tender",
+      "published": "2026-10-19T09:39:30+00:00"
+    },
+    {
+      "title": "В'єтнамський міністр зустрічається з ісландським міністром",
+      "original_title": "Deputy Minister of Industry and Trade Luong Hoang Thai receives the Minister of Foreign Affairs of Iceland. - Vietnam.vn",
+      "summary": "В'єтнамський міністр індустрії та торгівлі Луонг Хоанг Тай зустрівся з ісландським міністром закордонних справ, щоб обговорити співпрацю у сфері торгівлі та інвестицій, підписати потенційні угоди, а також обмінятися поглядами на двосторонні відносини. Під час зустрічі обговорено можливість розширення двосторонньої торгівлі, а також спільні проекти у сфері технологій та енергетики.",
+      "source": "Treaties & Agreements",
+      "publisher": "Vietnam.vn",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVdwZXJsZnpKcUZScGhjOFZ1MnNncUV0OFBhZ0pEdTJqZnZjUy1walVpemtyXy1xZkJERTdiamNSME42cF80emJFZVpwX2duYW8zbi0wOWVPUkkwQ19zOF9mby1rQU0ySXpMd254NHEtaGlsaUtjSWJUaTRqT0kyQk1Cd2djNEJ0OHBzTnhEaU1iUmp1T1ZfQUhmOU05OEJGdGo2Y1ZwR1c",
+      "published": "2026-10-19T09:42:22+00:00"
     }
   ]
 }

@@ -23,6 +23,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/world-food-programme-says-ending-aid-half-million-gaza-due-funding",
     "https://middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
     "https://middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
+    "https://middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
     "https://militarnyi.com/uk/news/analizator-radiochastot-d-vision-sdr-video",
     "https://militarnyi.com/uk/news/andrij-grytsenyuk-zalyshaye-posadu-brave1",
     "https://militarnyi.com/uk/news/bluebird-vypustyla-onovlenyj-chujka-4-5-0",
@@ -32,7 +33,6 @@
     "https://militarnyi.com/uk/news/dron-shho-vpav-u-lytvi-buv-ukrayinskym-reb",
     "https://militarnyi.com/uk/news/drony-probyly-dah-data-tsentru-vkontakte",
     "https://militarnyi.com/uk/news/f-22-vpershe-keruvav-yfq-44a-fury-y-polyoti",
-    "https://militarnyi.com/uk/news/nevidomyj-ob-yekt-poblyzu-lyublina",
     "https://militarnyi.com/uk/news/poshkodzheno-ogorozhu-aeroportu-lejptsyg",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
     "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
   ],
   "recent_posts": [
-    {
-      "title": "Біля Любліна шукають невідомий об’єкт після можливого порушення повітряного простору",
-      "original_title": "Біля Любліна, ймовірно, пролетів невідомий обʼєкт — його шукають військові та поліція",
-      "summary": "Польські сили перевіряють радіолокаційний сигнал і свідчення про гучний проліт об’єкта біля водосховища Зембожицького. Пошуки охоплюють поля, зарості та лісосмуги на південь від Любліна із залученням WOT, поліції та жандармерії. Подія нагадує попередні випадки проникнення російських крилатих ракет і БПЛА в польський повітряний простір.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/nevidomyj-ob-yekt-poblyzu-lyublina",
-      "published": "2026-10-18T08:00:10+00:00"
-    },
     {
       "title": "Іран експортує LPG та авіапаливо попри блокаду США",
       "original_title": "Iran Exports LPG, Jet Fuel Despite US Naval Blockade - Egypt Oil & Gas",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/drony-probyly-dah-data-tsentru-vkontakte",
       "published": "2026-10-19T14:36:41+00:00"
+    },
+    {
+      "title": "Ближнє співробітництво: Ліван і Ізраїль обговорюють закон про бойкот у Тампі",
+      "original_title": "Lebanon’s Israel boycott law faces renewed pressure as military talks move to Tampa",
+      "summary": "У Тампі, Флорида, відбудуться переговори між ліванськими та ізраїльськими військовими делегаціями, що підтримуються США. Після скарги ліванського юриста на посла, США висловили критику та заперечення щодо закону про бойкот. Ці дії підштовхують до розгляду закону про контакт з ізраїльцями.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
+      "published": "2026-10-19T15:42:31+00:00"
     }
   ]
 }

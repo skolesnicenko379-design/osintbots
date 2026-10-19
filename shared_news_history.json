@@ -7,6 +7,7 @@
     "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
     "https://defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense",
     "https://defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says",
+    "https://defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks",
     "https://defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots",
     "https://defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
     "https://defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
@@ -28,6 +29,7 @@
     "https://middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
     "https://middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
     "https://middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
+    "https://militarnyi.com/uk/news/144-dyvizija-rf-vivaldi",
     "https://militarnyi.com/uk/news/analizator-radiochastot-d-vision-sdr-video",
     "https://militarnyi.com/uk/news/andrij-grytsenyuk-zalyshaye-posadu-brave1",
     "https://militarnyi.com/uk/news/bluebird-vypustyla-onovlenyj-chujka-4-5-0",
@@ -41,7 +43,6 @@
     "https://militarnyi.com/uk/news/rosijskyj-suputnyk-kosmos-2612-pid-chas-peresliduvannya-iceye-x36-zblyzyvsya-z-nym-na-krytychni-26-metriv",
     "https://militarnyi.com/uk/news/rumuniya-proponuye-ssha-pokryty-vytrat",
     "https://militarnyi.com/uk/news/sanktpeterburz-poshkodyl-rezervuar-ta-mosty",
-    "https://militarnyi.com/uk/news/saudivskij-araviyi-rozbyvsya-vertolit-ah-6i",
     "https://militarnyi.com/uk/news/sklad-inozemnyh-komponentiv-u-kometah",
     "https://militarnyi.com/uk/news/sloveniya-nova-zenitna-systema-skythunder",
     "https://militarnyi.com/uk/news/ssha-postachayut-ukrayini-12-raket-patriot",
@@ -56,12 +57,12 @@
     "https://militarnyi.com/uk/news/vybuhu-na-bazi-zbrojnyh-syl-kanady",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
+    "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlBLN2tONE94Z1l2NnkwbEJSdXB1UVRTdl9Vb051Undic1lnNmJXZVpETTU1b0ljenZmdHptREJjb2IwZ2lZN2tQUDAtRmN1ei1zRmJYVkJHUVFnUnNyeGl6NlBYRThPVGFVTl9aZVE4a3YwZEVIQ0tKNGRDR3FpeTJaQ1NCSnhFR2swUXFVZUpNenh4RnNWbnFuNExFYnFUV3BsVjhsRURXTmE2TENUb1k4VUJWM2d3TXoyRWpZRFRXSVd0bUZSS0NjS3NTT3JrNkxwakRyaTVFNjI3NERTMWVKVGZZT0NvaXlZdmRWaHZjNUZuTlJpNg",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlkxREMzTmlTMVZFVDV2VElwUl9ucHZfT2ZZU1IzUFpIV0VEenJPUlZmT2hvTEVQVld4NWhVR1ZZVFFGWUpyOWJFX1g5RXhrY2pxRXc0MTQwRDZ4b2VLbDRxWlJwWGVHSzBINXMtME5yakdIczZWUXctOGhUcGt3MmhEWU94Qk13M2RKWEFlTTUyTEI3OTJUU2hGZktldGRCV0M4RnhwbVhmdkJIYk5BYjk3aE9hTlhQekdsa3A2cHZtbEM0QmlFU09hMzdLcFFyQlZPdkQxVkhCOVVlQWtTTGlkMUxsOWtYNExqOE85Q010d0FtX0Q4Q9IB8gFBVV95cUxQNGZhcmloMkFTam44MzlFYkVOemFQQ2haUU85bWlQbHZRUlhIQ09qNTBFemZ0LXFJYXhJY29UVWxraEtxZ1NfOG9pUC1wZFRsTV8tMHNGYkFHOFd4NFNqQm9JME5XNmNuOW1oWk11c0tHMGFrbGpHSHNiX19zWHhDRE9NbkRFcWxHakR1ZHRJRFlXbUMtVFdtZE1VN0pVbkxLMG43RXBramI4Uk5BNlpxV1dzVVFqckdPZXhxZDVHd3gzZ0EwVEUwYlJ3Rm1oREV3aElJUUZOM1A1cEFTZFFMSWRTVTdvc2dvaFlxWHVPTGxMUQ",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXI2WFh5NW42NFAtQW9TMzNvR3VKd19yV0N1cHdtamM1MG5ENHdnMFhtUDJSX1otTG5SQU91VG9fSTNlajhvQTQxc2I0RUw2bFhGbGNtRVg5YVl6UmlfanRSYzg3TjBEWkp6cHZOdlpyV2EzSHJ6MEVNRU9DNkxMRTQ2UTNSTGY5VjA3eDBvYXdfSnBLcFRxNE9sQ3ZIX21LeHRENERrRmtBRmlILWVLclFrV3VmTDEyRUtpWEF1dFJMUlJzVE1vYlNSblFULUJkVDAwVjJybml5WXk0TDNPQUlWaVdrNlVNei1jVWpmUDdvaHRIRmNLQXRn",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQME1DZ21yXzRONXJkMmdaNlNOSnNfX0xyMmpkZEZvWGVwZDdHM1pvNFFxd0ZKUWl5R3F4U2h6MWpqT215UmRNak1kZGpFanU3X0RDaUdkX3dRaElCSm85dHV6TnNlRWVGQmJDOGdLQVVjMTMyZTlVYmJmRU9qTmpvN242bXh4c3VrUWwzLThYd05UUmJka3hEcHNvc0pIVmlGVk1jWjRIaEt2bFJwek40Si1DS3ptSFRlMUt3bUZRRVlMTEw4dmR4QXI2OUpWeWhEUHZmeXRCcGdJNzVSa0xLZmFoazR2SmdZZF9sWkRNNnNaeXlySTQtQVJR",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXB1VzM0ZGt3S05KYWpMZ2tVTjF5enVFN0Q1R0FoWVdSOGFMU3JUNk5uTWVWNWlHbFVaVy1SQzM3ZGF0V1ZtMzJKV2Nid3BQeU1pUXlGUk9kcTcxRUl3UmE2NUxDeTlzeXp4emR6UG5IaVVqTGtvLWJFRkhDcjlMTkZaVDgyZjdjXzVQenBGYzIwLWpsTTROZW15eExNR2huS185bjFmUS05UHY2d3hQaE1ndnUtbWdNdHlFb0t4VFc1XzRxTC00RklTSWp1VG0yRk8w",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFJMbWtyYlBDZGtkM2hkWXJaWHQyZmxoZmpKaVhjMVhYM3BhMXJJU3B6R0dIT3h6RTdCeDM2YjE2cnRLekE5SkVoZ2lNQ2xsMktjS3ZMTE5VMUhWY2xaS0VyV1R2XzZoQ0FhaUNiZWZ2Qk16UjZpNnMzMWxjWkFzY2Z4Wlp0X042SFVtcUJjbnlrbGI3RzRMdU1TSWRxTXcwcGUtNk8yRk80b0dCbmszalFaWjI0N2swYVlPZGZ0aEZtN1VTUzVoejVrM1VoR044Q0ZvUdIB2gFBVV95cUxPUUU3OEhMUXo0T1k2S3RQVGNZYVVmbDZaSnBiMXV0NWtjeWJkaEZrUF9uSTNhUU5fRUd2M3YtXzRRRi11YWhFejh1dFRsdFdIRi1HRk1HZC1lVV9wYlBTZVdWcGt4am8xVFdvb3ZsVWRDYi1GYVZWNzEzUEw1aXZoUWM0Q3ZtODN6SGQyXzh6QjU5S1RpUm96UWdKWjRNWEVsUmE4UERzMG50QVdLTkJQeFl2amdnV1FoMHl6WkhwRVpBcmRSaHVLSW12UlliNnhvWXktWHBCRFAxUQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHl1d1lFVGtQZ3lhbjdMWjdhLTV2UUVVUkhSY21OeUJjSl95TFdoZzZjSDRNV1VJVERDSXlkVzJ2V2gwOFRqZmYtMEI1b0hhZGtoUWh0ejlMVzJZM096b3VndGdRdkZzbm13YVJpTXdIblQ3VkM5Q2JqbmpORkxxZTNHdmxzbUN3XzVkX214d08xRGxhVFdsNnJrem5YYjdnYnVHOTdWUEV2MmZQYloyLVNwR1F1WXRnNTN5X2xiZ3p3SFROa2lyYzVoLWt6ZU5qbV9TRHBn",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
@@ -80,7 +81,6 @@
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94ZEI2WkZ2NVhlR0JiUDl4MFNUUGk0a1RENks4ZWozY2dvMWhLei1samR1cjdOZEdQelR3RjNEczJzUFJsbXV6WUU3WnE",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WmczRVlGU0NLMUNHYzdLXzZqS2x5ZjlrMzVjLURXeHllLWpJdXREZ3A4bFMycHp2TDhaM0p3QXA2R2FxV0dFZkNLTjA",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yb3ozR3Uza3pTSWRMQ19ZTkJvTWFJZnpZYnJ6Z0ZLU2dieWxCR1VRSnJiXzhVbTFfMS1VQktUN0xtbzBHcHdzZE84bVB6cnF5ZFHSAVdBVV95cUxPT0R6cE9yZ3h2b1JiUUlrRGozNE9uR1hPQXRKRFUwRk00UGN3N2N4VFZycU5XcE1ZU08xSUpzT1VRcFh4V1V5d3NaaHA1X1A2WnRLTVpuZDA",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16TVdUUWJxeXlwSnMxNFBzRnhBa2ZJU2pjOG16TXp2Y1ZUQ1VXSU1RdnNydWlKY1IyUm5VaWFiWk0zZ1lrb2J1S0M1eWtqZlI2OVE",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JS0hNVjV3RW13V1ZqZjJDcEtJbXljTWtNM0J5RmJDcFlSUjFxck5zUExFVzlWcTBTU2R5Vk40MmtVRVRpMHpscTN3MFJBajBpd0Nrb3VxUQ",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TNldfMFoyVkdpdnYxeXFBR3dKZmNnYXRWOGRrYzh3U2wtRVRiQVVRWHZaYlI1V1laWUV4UGpwZUlwUGRGTjQ3RW05MFR6YmpudUJEN053",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRk1jd1dIalpfQUhWMWg2TU01SmZjR05xME53ZW5IaGhhTnBjdzFlcnk5eGdBWnZBV1B1ZWtreVdRRDZaQnhmc1dzZE9ZMFZiZFBkc01fMTRzdw",
@@ -110,7 +110,6 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmNfZW5HZ3hDZGNMRGZFSjRsenE2SWNuRElDQkdlbEpNVXdsUVU1Z1l5VmFhZldVU094TFEwT1BzTGFpMkhBMjVMQkp5TVRyZ1BEQk41aTVlTzU3Y3QwRWxYdDBQb2Rfb2xkMnFQbFNiZlV6RTdDTnhkMTFndjFFWWphVHBmTDlVMnhVY2FGckhUYXhVLVVkSjlvM0VhUkE",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm9rS0Rkb0NKdkZrVXI2MDlVZ0RZRmY1ajhFN3dIV3R0YkhGQ3dFdzBubmtmejdmWkIyMVJwaWRCTG42cHViTzF5SjM0Q3JnSlpLcEhWSnVPaDJOdkRBTjdManF0a3I2LVNEN01xS2RfRnJLOUlnTXAxTE40ek1TcXRGdG51dzhfRU1NcHBoLXhOQ3J1TzliTlpEcFZlcE5fYlE",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGJ0bkN3cDh4bnpsTDQ0RGVYY2ozOU5uT3YzaG8yNnd2dzVnbUZUdGFDcHQxMUh3aEotZTJ3QV9kaXF6eXdoTVJJM0hjZ05xUXFkYmJTWlprSllGUWMzbDhpRnFNS25UUzdSdjVtMHNIRzFkSmdyS2VjMldSbzdxMXZBNVdJcmE4TFZ5SUF5WE5fWVFWSS1OaUNaUTE2TnNWQVE",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0JLUHU2X2VNRmtJMGR0aXNwZUxqMEdxbGRMM19tcDlqZ0l1UEFBeHBTbEpKRXlWdmJZN0VoWi1ETkRjTkNxWnViQWZuZ0ItckpCaGhta3ByXy1IbVV5T2tuUVBtUV9pdjRuZGVrdFM1UklIdDlSRjJiaEJsdlJ4RmxrYzg4NlpuNzVtckRzV0tBOXluLVY0VGdVbnVvUzJEMmQ0",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREhGd3BldFpLUVRZMkRJNGZGcHJubUx4THNIMjZaeE9wLVpBakczcGt4NWlMaWtLOFpPbUt6XzVaVVE0b2lfdlREeG95QmNzYjJ3YVBVcnhERkV4c0ppRl9EcG9hb1ZPUUgxMXhpQl9WQS1GWGFWUzRWby0wd21YX0p4QU1SakxMMjl6SG0yZ3FSTUZlZGNsQVZIT0x1bERuX3dV",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1TWktMN2dzdVBiZVB3YVdYckdQS3dqZS1iaVZtOWRKaHZGMW5zQWd6T3NGOVUxNy0wbTJlNU9seXY5cjkwLXp0NUhLUXpfd2FZYXVTTTlIQTFiYWJzWUVvUXVBZ3pQeFNfR3VmSDd5UV9lc29LSlFhc3U5d3hTbUduYk5xNFIzamMtM1NBNjhrUnNVUlIyYVJiM2R1Qi1EVktJ",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXhFbm1ySVNTMFUtQndTZl9XZjh3cDRNT2U3VEtTdHFYSmNnOEllQUdwTEp0bDN5bTdCd3A5WnlfWlpkQmJMN0FGbWl2TUd6MUh2MlF6VEZBSlU0cFhvZ0xTUmYyT3RzNEVDZ2ZxNnF1QUZuWW1ONERuX2RlaUxLbXBLWFk2MWtWb0dFYzZiMkxOMzNQS3RxQllpRFU1NjRXbDV5Zg",
@@ -149,49 +148,10 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXVCRzBOM1BienhxVmQtTnJZQXZPcWhhRTkzRmJQQlM5c1RHVEYzSUd4ZG90S3lxLThsMEJmYU5JYzdGQ2diLVIzckZ1Uk44XzJwRjlmYXR5Wkoxbk9seUxuSlBDNlB0Yzhtejczb05SVVh4TTM3alN4cU9COU1MaTVvYmJwaTRGZjRERjRnYzYzRGpVUUgwbWVZRWhLYW9nWlpLUEZjdEZ3blhFUkxxSnVZQ1hhaG1mUFdTSURXTURtLUI1TWFnaFM2cGk",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ",
     "https://theafricareport.com/433863/us-africa-week-ahead-african-union-commissioner-talks-peace-and-security",
+    "https://twz.com/air/aerial-drones-appear-to-be-picking-up-wounded-off-the-battlefield-in-ukraine",
     "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
   ],
   "recent_posts": [
-    {
-      "title": "У Саудівській Аравії розбився вертоліт AH-6SA: загинули двоє членів екіпажу",
-      "original_title": "У Саудівській Аравії розбився вертоліт AH-6SA: загинули двоє членів екіпажу",
-      "summary": "AH-6SA — легкий ударно-розвідувальний гелікоптер Boeing AH-6i Little Bird, 24 одиниці поставлені Національній гвардії за контрактом 2014 року вартістю 234,7 млн доларів. Перші машини надійшли у 2017 році до 1-ї авіаційної бригади на базі Хашм-аль-Ан. Катастрофа сталася через технічну несправність у Наджрані, що підкреслює ризики експлуатації в прикордонних районах.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/saudivskij-araviyi-rozbyvsya-vertolit-ah-6i",
-      "published": "2026-10-18T10:20:25+00:00"
-    },
-    {
-      "title": "Прем'єр-Губернатор Нгураре відвідав колишнього президента Похамбу",
-      "original_title": "CONDOLENCES: Prime Minister Dr Tjitunga Elijah Ngurare paid a condolence visit to former President Hifikepunye Pohamba following the death of his wife, former First Lady Penehupifo Pohamba. During the visit, Ngurare conveyed his condolences and expr ",
-      "summary": "Прем'єр-Губернатор Нгураре відвідав колишнього президента Похамбу, щоб висловити співчуття після смерті його дружини, колишньої першої леді Пенехупіфо. Візит відбувся в Намібії, під час якого Нгураре передав листи співчуття та обговорив підтримку. Під час зустрічі обговорили можливість посилення двосторонніх відносин та підтримку гуманітарних ініціатив.",
-      "source": "Bilateral Meetings",
-      "publisher": "Instagram",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16TVdUUWJxeXlwSnMxNFBzRnhBa2ZJU2pjOG16TXp2Y1ZUQ1VXSU1RdnNydWlKY1IyUm5VaWFiWk0zZ1lrb2J1S0M1eWtqZlI2OVE",
-      "published": "2026-10-18T10:27:26+00:00"
-    },
-    {
-      "title": "Банк Японії під тиском підвищити ставки",
-      "original_title": "BOJ faces pressure to hike rates amid rising in... - Pluang",
-      "summary": "Банк Японії стикається з тиском підвищити ставки через зростання інфляції. Це створює умови для зміни монетарної політики. Наслідком може бути вплив на валютний ринок та економічне зростання Японії.",
-      "source": "Банк Японії",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0JLUHU2X2VNRmtJMGR0aXNwZUxqMEdxbGRMM19tcDlqZ0l1UEFBeHBTbEpKRXlWdmJZN0VoWi1ETkRjTkNxWnViQWZuZ0ItckpCaGhta3ByXy1IbVV5T2tuUVBtUV9pdjRuZGVrdFM1UklIdDlSRjJiaEJsdlJ4RmxrYzg4NlpuNzVtckRzV0tBOXluLVY0VGdVbnVvUzJEMmQ0",
-      "published": "2026-10-18T10:54:43+00:00"
-    },
-    {
-      "title": "Білорусь почала робити реактивні дрони-камікадзе і продала Лівії «Миротворец» на 180 км",
-      "original_title": "Реактивні дрони-камікадзе почала робити Білорусь, яка продала в Лівію свої \"Миротворец\" на 180 км - Defense Express",
-      "summary": "За Defense Express, Білорусь розпочала виробництво реактивних дронів-камікадзе та продала Лівії свої «Миротворец» із заявленою дальністю 180 км. Це інша подія, ніж у нещодавніх публікаціях каналу: новий виробник ударних БПЛА і експорт, а не вже висвітлені поставки чи інциденти. Дальність 180 км відносить «Миротворец» до далекобійних баражуючих боєприпасів, а реактивна схема зазвичай скорочує час підльоту і залишає ППО менше часу на реакцію.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXB1VzM0ZGt3S05KYWpMZ2tVTjF5enVFN0Q1R0FoWVdSOGFMU3JUNk5uTWVWNWlHbFVaVy1SQzM3ZGF0V1ZtMzJKV2Nid3BQeU1pUXlGUk9kcTcxRUl3UmE2NUxDeTlzeXp4emR6UG5IaVVqTGtvLWJFRkhDcjlMTkZaVDgyZjdjXzVQenBGYzIwLWpsTTROZW15eExNR2huS185bjFmUS05UHY2d3hQaE1ndnUtbWdNdHlFb0t4VFc1XzRxTC00RklTSWp1VG0yRk8w",
-      "published": "2026-10-18T11:02:00+00:00"
-    },
     {
       "title": "Президент Мальдівів планує візит до Пакистану 20–22 жовтня",
       "original_title": "Maldives President Muizzu to visit Pakistan on October 20–22 — The Express Tribune - UA.NEWS",
@@ -1383,6 +1343,16 @@
       "published": "2026-10-19T12:32:53+00:00"
     },
     {
+      "title": "Jeumont Electric постачить системи рушійної установки для польських підводних човнів A26",
+      "original_title": "Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines",
+      "summary": "Jeumont Electric поставить три комплекти малошумних електричних рушійних систем для підводних човнів A26 ВМС Польщі в межах програми «Орка». Це означає, що ВМС Польщі отримають три човни A26, а рушійна установка є одним із ключових елементів їхньої прихованості. Технічних характеристик систем у повідомленні не наведено, тому оцінити їхній вплив на можливості човнів поки неможливо.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
+      "published": "2026-10-19T12:34:20+00:00"
+    },
+    {
       "title": "Чому армія не може створити в Тихоокеанському регіоні мережу, подібну до європейської",
       "original_title": "Why the Army can’t build its Pacific network like the one in Europe",
       "summary": "У Тихоокеанському регіоні через великі відстані, розріджену інфраструктуру та постійні загрози зв'язку армія змушена відмовитися від європейської моделі фіксованих мереж. Замість цього застосовуються мобільні радіосистеми, супутникові канали та автономні комунікаційні вузли, що забезпечують гнучкість і стійкість. Такий підхід ускладнює централізоване управління, але підвищує здатність підтримувати зв'язок у складних умовах, що впливає на оперативність та ефективність військових операцій.",
@@ -1523,6 +1493,16 @@
       "published": "2026-10-19T14:36:41+00:00"
     },
     {
+      "title": "Програмне забезпечення Shield AI скоротило розробку автономного польоту для Honeywell до шести тижнів",
+      "original_title": "Shield AI software cuts autonomous flight development to six weeks",
+      "summary": "Платформа Hivemind Enterprise від Shield AI бере на себе базові функції автономності: планування маршруту, управління місією та зв'язок між літальними апаратами. Тому інженери Honeywell змогли зосередитися на власній моделі виявлення та супроводження цілей. За заявою компаній, навчання зайняло шість тижнів замість оцінених 54. Мультироторний BFD-SE8 виконав автономні польоти, а в другій демонстрації розвідувальний апарат передав дані про ціль іншому, який скинув вантаж. Якщо такі результати підтвердяться на практиці, це може пришвидшити перехід автономних систем від демонстрацій до розгортання",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks",
+      "published": "2026-10-19T15:00:00+00:00"
+    },
+    {
       "title": "ЄС і Молдова розпочали переговори щодо внутрішнього ринку",
       "original_title": "Enlargement: EU and Moldova start negotiations on internal market, competitiveness and inclusive growth - PubAffairs Bruxelles",
       "summary": "ЄС і Молдова розпочали переговори про вступ за напрямом внутрішнього ринку, конкурентоспроможності та інклюзивного зростання. У наявному тексті немає цифр, строків чи умов, тому оцінити масштаб зобов'язань неможливо. Сам початок переговорів за цим напрямом означає перехід до формального узгодження економічного регулювання Молдови з правилами ЄС. Для ринку це сигнал про подальшу інтеграцію країни в економічний простір ЄС, а ефект залежатиме від результатів переговорів.",
@@ -1571,6 +1551,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
       "published": "2026-10-19T15:42:31+00:00"
+    },
+    {
+      "title": "144-та дивізія РФ після «Вівальді» фактично зникла як організована сила",
+      "original_title": "Після «Вівальді» 144-та дивізія РФ фактично перестала існувати як організована сила",
+      "summary": "144‑та мотострілецька дивізія 20‑ї армії РФ, що входила до російського угруповання біля річки Чорний Жеребець, після операції «Вівальді» фактично зникла як організована сила. Українські війська ліквідували її плацдарм і завдали значних втрат, що зупинило російський наступ через Святогірськ і Добропілля. Це свідчить про руйнування російської наступальної структури в Донецькій області і переходу до оборонного стану.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/144-dyvizija-rf-vivaldi",
+      "published": "2026-10-19T15:57:37+00:00"
     },
     {
       "title": "Президент Лі призупинив заявку Кореї на вступ до CPTPP",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://army-technology.com/features/demand-signal-swebal-on-western-energetics-needs",
       "published": "2026-10-19T16:24:47+00:00"
+    },
+    {
+      "title": "Аеродрони вперше евакуювали пораненого з передової в Україні",
+      "original_title": "Aerial Drones Appear To Be Picking Up Wounded Off The Battlefield In Ukraine",
+      "summary": "Українські сили провели перший у світі евакуаційний політ пораненого за допомогою важкого гексакоптера Gurzuf Defense. Дрон підвісив солдата за допомогою ременя, підніс його над мінними полями та ворожими дронами, що унеможливлює наземну евакуацію. Така технологія розширює можливості швидкого виведення поранених з «зони вбивства» і підвищує виживаність особового складу.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/aerial-drones-appear-to-be-picking-up-wounded-off-the-battlefield-in-ukraine",
+      "published": "2026-10-19T16:47:17+00:00"
     }
   ]
 }

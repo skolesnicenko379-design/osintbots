@@ -1,0 +1,38 @@
+name: Validate Economy Feeds (Dry Run)
+
+on:
+  push:
+    paths:
+      - 'economy/bot.py'
+      - '.github/workflows/validate_economy_feeds.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  collect-only:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        working-directory: economy
+        run: pip install -r requirements.txt
+      - name: Collect feeds without Telegram publishing
+        working-directory: economy
+        run: |
+          python - <<'PY'
+          from collections import Counter
+          import bot
+          entries = bot.collect_entries()
+          print("DRY_RUN_CANDIDATES:", len(entries))
+          print("DRY_RUN_GROUPS:", dict(Counter(e.get("group", "unknown") for e in entries)))
+          for group in ("china", "russia", "eu", "us", "corridors", "japan", "global"):
+              sample = [e["title"] for e in entries if e.get("group") == group][:2]
+              print(f"DRY_RUN_SAMPLE {group}: {sample}")
+          PY

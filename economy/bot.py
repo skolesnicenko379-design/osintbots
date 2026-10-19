@@ -15,7 +15,7 @@ import sys
 sys.path.insert(0, os.path.abspath(".."))
 from shared_dedup import (
     load_shared_history, save_shared_history, is_duplicate_link,
-    is_duplicate_title, select_relevant_recent_posts, record_published,
+    is_duplicate_title, select_relevant_recent_posts, record_published, canonical_link,
 )
 
 # ===== Налаштування з GitHub Secrets =====
@@ -29,8 +29,19 @@ ADMIN_ID = (os.environ.get("ADMIN_ID") or "").strip()
 
 HISTORY_FILE = "posted_news.json"
 MAX_POSTS_PER_RUN = 6
-MAX_ENTRIES_CHECKED_PER_RUN = 10
+MAX_ENTRIES_CHECKED_PER_RUN = 12
 RECENT_POSTS_FOR_DEDUP = 20
+
+# Рівномірний розподіл випуску між регіонами та транспортними коридорами.
+GROUP_ORDER = ["china", "russia", "eu", "us", "corridors", "global", "japan"]
+MAX_CHECKED_PER_GROUP = {
+    "china": 3, "russia": 3, "eu": 3, "us": 3,
+    "corridors": 3, "global": 3, "japan": 1,
+}
+MAX_POSTS_PER_GROUP = {
+    "china": 2, "russia": 2, "eu": 2, "us": 2,
+    "corridors": 2, "global": 2, "japan": 1,
+}
 MAX_ARTICLE_AGE_HOURS = 24
 REQUEST_TIMEOUT = 12
 ARTICLE_FETCH_TIMEOUT = 8
@@ -47,28 +58,72 @@ HEADERS = {
 }
 
 # --- ДЖЕРЕЛА ГЕОЕКОНОМІЧНОГО БОТА ---
+# Google News RSS агрегує матеріали різних видань; фактичне видання беремо з RSS,
+# а тему пошукового запиту показуємо окремо.
 search_queries = [
-    ("Federal Reserve OR FOMC OR Jerome Powell economy when:24h", "ФРС США"),
-    ("PBOC OR People's Bank of China OR yuan liquidity when:24h", "Центробанк Китаю"),
-    ("Bank of Japan OR BOJ OR yen policy when:24h", "Банк Японії"),
-    ("US Treasury sanctions OR export controls China when:24h", "Мінфін США"),
-    ("global oil markets OR IEA report OR critical minerals when:24h", "Енергетичні ринки"),
-    ("OPEC+ production OR natural gas prices Europe when:24h", "Сировинні ринки")
+    # Китай: макроекономіка, монетарна політика, торгівля та промислові заходи.
+    ("PBOC OR \"People's Bank of China\" OR China economy OR Chinese exports OR property sector OR consumer demand when:24h",
+     "Китай · макроекономіка та монетарна політика", "china"),
+    ("China trade agreement OR MOFCOM OR China tariffs OR export controls OR critical minerals when:24h",
+     "Китай · торгівля, угоди й обмеження", "china"),
+    ("site:english.mofcom.gov.cn OR site:pbc.gov.cn/en China trade policy economic measures when:24h",
+     "Китай · офіційні економічні рішення", "china"),
+
+    # Росія: макроекономічні показники, бюджет, експорт та рішення державних інституцій.
+    ("Russia economy OR Bank of Russia OR Russian central bank OR ruble inflation OR Russian budget OR oil exports when:24h",
+     "РФ · економіка, бюджет і експорт", "russia"),
+    ("site:cbr.ru OR site:minfin.gov.ru Russia monetary policy budget economy when:24h",
+     "РФ · офіційні економічні рішення", "russia"),
+
+    # США: ставки, інфляція, бюджет, торгівля, санкції та промислова політика.
+    ("Federal Reserve OR FOMC OR US inflation OR US employment OR Treasury yields OR US GDP when:24h",
+     "США · макроекономіка та ФРС", "us"),
+    ("site:home.treasury.gov OR site:ustr.gov OR US trade agreement OR tariffs OR export controls OR industrial policy when:24h",
+     "США · торгівля, санкції й промисловість", "us"),
+
+    # ЄС: макропоказники, конкурентоспроможність, торговельна політика та угоди.
+    ("European Union economy OR European Commission competitiveness OR Eurostat GDP OR eurozone inflation OR EU industrial policy when:24h",
+     "ЄС · макроекономіка та промисловість", "eu"),
+    ("EU trade agreement OR EU tariffs OR EU-China trade OR European Commission economic security OR EU sanctions when:24h",
+     "ЄС · торгівля, угоди й економічна безпека", "eu"),
+
+    # Міжнародні транспортно-логістичні коридори: проєкти, фінансування, меморандуми й угоди.
+    ("India Middle East Europe Economic Corridor OR IMEC when:24h",
+     "Коридори · IMEC", "corridors"),
+    ("Trans-Caspian International Transport Route OR Middle Corridor OR Trans-Caspian Transport Corridor OR TITR when:24h",
+     "Коридори · Середній і Транскаспійський", "corridors"),
+    ("International North-South Transport Corridor OR INSTC OR Chabahar port corridor when:24h",
+     "Коридори · Північ–Південь (INSTC)", "corridors"),
+    ("Global Gateway transport corridor OR TRACECA OR EU Central Asia connectivity OR cross-border railway agreement when:24h",
+     "Коридори · Global Gateway і TRACECA", "corridors"),
+    ("Belt and Road Initiative railway port logistics OR Lobito Corridor OR transport corridor agreement when:24h",
+     "Коридори · BRI, порти та Лобіто", "corridors"),
+
+    # Японія залишається в моніторингу, але не може домінувати у випуску.
+    ("Bank of Japan OR BOJ OR yen interest rate policy when:24h",
+     "Японія · монетарна політика", "japan"),
+
+    # Глобальні сировинні та енергетичні ринки.
+    ("global oil markets OR IEA report OR critical minerals OR copper supply OR LNG when:24h",
+     "Глобальні сировинні ринки", "global"),
+    ("OPEC+ production OR natural gas prices Europe OR LNG market when:24h",
+     "Енергетика та LNG", "global"),
 ]
 
 FEEDS = []
-for query, label in search_queries:
+for query, label, group in search_queries:
     encoded_query = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
-    FEEDS.append((url, label, True))
+    FEEDS.append((url, label, True, group))
 
+# Офіційні та міжурядові стрічки на додачу до пошуку публікацій у медіа.
 FEEDS.extend([
-    ("https://www.imf.org/en/News/RSS", "МВФ", True),
-    ("https://www.wto.org/english/res_e/wto_rss_e.xml", "СОТ", True),
-    ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", True),
-    ("https://www.ecb.europa.eu/rss/press.html", "ЄЦБ", True),
-    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", True),
-    ("https://search.worldbank.org/api/v2/news?format=atom", "Світовий банк", True),
+    ("https://www.imf.org/en/News/RSS", "МВФ", False, "global"),
+    ("https://www.wto.org/english/res_e/wto_rss_e.xml", "СОТ", False, "global"),
+    ("https://www.bis.org/doclist/all_pressrels.rss", "BIS", False, "global"),
+    ("https://www.ecb.europa.eu/rss/press.html", "ЄЦБ", False, "eu"),
+    ("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Рада ЄС", False, "eu"),
+    ("https://search.worldbank.org/api/v2/news?format=atom", "Світовий банк", False, "global"),
 ])
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -204,7 +259,7 @@ def analyze_with_groq(title, article_text, source_name, recent_posts, active_mod
         "Для нової важливої події створи title до 10 слів та analysis одним абзацом українською, 3-4 речення, до 500 символів. "
         "Вкажи факт, ключові цифри/умови й конкретний наслідок для ліквідності, боргу, валют або постачань. Без кліше та загальних фраз. "
         'Поверни лише JSON: {"relevant":true,"duplicate":false,"title":"...","analysis":"..."}\n\n'
-        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
+        f"Видання/джерело й тематичний напрям: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
         "Попередні дописи для перевірки повторів (оригінальний заголовок може бути іншою мовою):\n"
         f"{recent_block}"
     )
@@ -294,7 +349,7 @@ def analyze_with_anthropic(title, article_text, source_name, recent_posts):
         "Нерелевантні дрібні новини позначай relevant=false. Для нової важливої події створи title до 10 слів і analysis одним абзацом на 3-4 речення, до 500 символів. "
         "Зазнач факт, цифри/умови та конкретний макрофінансовий наслідок. Поверни лише валідний JSON: "
         '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}\n\n'
-        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
+        f"Видання/джерело й тематичний напрям: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
         f"Останні дописи для перевірки дублікатів:\n{recent_block}"
     )
     try:
@@ -359,7 +414,7 @@ def analyze_with_xai(title, article_text, source_name, recent_posts):
         "Нерелевантні дрібні новини позначай relevant=false. Для нової важливої події створи title до 10 слів і analysis одним абзацом на 3-4 речення, до 500 символів. "
         "Зазнач факт, цифри/умови та конкретний макрофінансовий наслідок. Поверни лише JSON: "
         '{"relevant":true,"duplicate":false,"title":"...","analysis":"..."}\n\n'
-        f"Джерело: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
+        f"Видання/джерело й тематичний напрям: {source_name}\nОригінальний заголовок: {title}\nТекст статті:\n{article_text[:2500]}\n\n"
         f"Останні дописи для перевірки дублікатів:\n{recent_block}"
     )
     try:
@@ -427,7 +482,7 @@ def collect_entries():
     now_utc = datetime.now(timezone.utc)
     max_age_delta = timedelta(hours=MAX_ARTICLE_AGE_HOURS)
 
-    for feed_url, source_name, _ in FEEDS:
+    for feed_url, source_name, is_topic_query, source_group in FEEDS:
         try:
             resp = requests.get(feed_url, headers=HEADERS, timeout=8)
             if resp.status_code == 403:
@@ -452,20 +507,60 @@ def collect_entries():
                 continue
 
             published_dt = datetime(*published_struct[:6], tzinfo=timezone.utc)
-
             if (now_utc - published_dt) > max_age_delta:
                 continue
+
+            rss_source = entry.get("source", {})
+            publisher = rss_source.get("title", "") if hasattr(rss_source, "get") else ""
+            if not is_topic_query:
+                publisher = source_name
+            elif not publisher:
+                publisher = "Google News"
 
             all_entries.append({
                 "link": link.strip(),
                 "title": entry.get("title", "Без заголовка"),
                 "summary": strip_html(entry.get("summary", ""))[:1500],
                 "source": source_name,
+                "publisher": publisher,
+                "is_topic_query": is_topic_query,
+                "group": source_group,
                 "published": published_dt,
             })
 
     all_entries.sort(key=lambda e: e["published"], reverse=True)
-    return all_entries
+
+    # Одна й та сама стаття може прийти з кількох пошукових запитів.
+    unique_entries = []
+    seen_links = set()
+    for entry in all_entries:
+        normalized_link = canonical_link(entry["link"]) or entry["link"]
+        if normalized_link in seen_links:
+            continue
+        seen_links.add(normalized_link)
+        unique_entries.append(entry)
+
+    # Round-robin за напрямами: найсвіжіший запис кожної групи перед другим записом
+    # будь-якої групи. Це зменшує перевагу японської монетарної тематики та енергетики.
+    grouped = {}
+    for entry in unique_entries:
+        grouped.setdefault(entry.get("group", "global"), []).append(entry)
+
+    group_order = GROUP_ORDER + [
+        group for group in grouped if group not in GROUP_ORDER
+    ]
+    balanced_entries = []
+    max_group_size = max((len(items) for items in grouped.values()), default=0)
+    for index in range(max_group_size):
+        for group in group_order:
+            items = grouped.get(group, [])
+            if index < len(items):
+                balanced_entries.append(items[index])
+
+    distribution = {group: len(items) for group, items in grouped.items()}
+    print(f"Унікальних свіжих записів: {len(unique_entries)}.")
+    print(f"Кандидати за напрямами: {distribution}.")
+    return balanced_entries
 
 def format_message(entry, ai_title, ai_analysis):
     raw_title = ai_title or entry["title"]
@@ -473,22 +568,27 @@ def format_message(entry, ai_title, ai_analysis):
     safe_title = html.escape(clean_title)
 
     date_str = entry["published"].strftime("%d.%m.%Y")
-    safe_source = html.escape(entry['source'])
+    publisher = entry.get("publisher") or entry.get("source") or "Невідоме видання"
+    safe_publisher = html.escape(publisher)
+    safe_topic = html.escape(entry.get("source", ""))
 
     parts = [
         f"<b>{safe_title}</b>",
         "",
-        f"🗓 {date_str} | 🏛 {safe_source}",
+        f"🗓 {date_str} | 📰 {safe_publisher}",
     ]
+    if entry.get("is_topic_query") and safe_topic:
+        parts.append(f"🧭 Тематичний напрям: {safe_topic}")
 
     if ai_analysis and len(ai_analysis.strip()) > 5:
         clean_analysis = clean_text(ai_analysis)
         safe_analysis = html.escape(clean_analysis)
         parts += ["", f"{safe_analysis}"]
 
-    safe_link = entry['link'].replace('"', '%22')
+    safe_link = entry["link"].replace('"', "%22")
     parts += ["", f'<a href="{safe_link}">Читати першоджерело</a>']
     return "\n".join(parts)
+
 
 def main():
     history = load_history()
@@ -503,10 +603,16 @@ def main():
 
     new_posts = 0
     checked = 0
+    checked_by_group = {}
+    posted_by_group = {}
 
     for entry in entries:
         if new_posts >= MAX_POSTS_PER_RUN or checked >= MAX_ENTRIES_CHECKED_PER_RUN:
             break
+
+        group = entry.get("group", "global")
+        if posted_by_group.get(group, 0) >= MAX_POSTS_PER_GROUP.get(group, 2):
+            continue
 
         if entry["link"] in history["links"]:
             continue
@@ -519,7 +625,10 @@ def main():
             history["links"].append(entry["link"])
             continue
 
+        if checked_by_group.get(group, 0) >= MAX_CHECKED_PER_GROUP.get(group, 3):
+            continue
         checked += 1
+        checked_by_group[group] = checked_by_group.get(group, 0) + 1
 
         article_text = fetch_article_text(entry["link"])
         if not article_text:
@@ -529,20 +638,23 @@ def main():
         duplicate_context = select_relevant_recent_posts(
             entry["title"], article_text, shared_history["recent_posts"], limit=8
         )
+        source_context = entry.get("publisher") or entry["source"]
+        if entry.get("is_topic_query"):
+            source_context = f"{source_context}; тематичний напрям: {entry['source']}"
         result = analyze_with_groq(
-            entry["title"], article_text, entry["source"], duplicate_context, active_models
+            entry["title"], article_text, source_context, duplicate_context, active_models
         )
 
         if result.get("failed"):
             print(f"Groq не обробив новину; пробую Anthropic: {entry['title']}")
             result = analyze_with_anthropic(
-                entry["title"], article_text, entry["source"], duplicate_context
+                entry["title"], article_text, source_context, duplicate_context
             )
 
         if result.get("failed"):
             print(f"Anthropic не обробив новину; пробую xAI: {entry['title']}")
             result = analyze_with_xai(
-                entry["title"], article_text, entry["source"], duplicate_context
+                entry["title"], article_text, source_context, duplicate_context
             )
 
         if result.get("failed"):
@@ -565,17 +677,21 @@ def main():
             history["links"].append(entry["link"])
             history["recent_posts"].append({
                 "title": result["title"] or entry["title"],
+                "original_title": entry["title"],
                 "summary": (result["analysis"] or entry["summary"])[:300],
                 "source": entry["source"],
+                "publisher": entry.get("publisher", ""),
             })
             record_published(
                 shared_history, entry["link"],
                 result["title"] or entry["title"], result["analysis"] or entry["summary"],
                 entry["source"], "economy",
                 entry["published"].isoformat() if hasattr(entry["published"], "isoformat") else "",
+                publisher=entry.get("publisher", ""),
                 original_title=entry["title"],
             )
             new_posts += 1
+            posted_by_group[group] = posted_by_group.get(group, 0) + 1
             print(f"Опубліковано: {entry['title']}")
             time.sleep(3)
         else:
@@ -583,6 +699,7 @@ def main():
 
     save_history(history)
     save_shared_history(shared_history)
+    print(f"Перевірено за напрямами: {checked_by_group}; опубліковано за напрямами: {posted_by_group}.")
     print(f"Готово. Перевірено свіжих: {checked}, опубліковано: {new_posts}")
 
 if __name__ == "__main__":

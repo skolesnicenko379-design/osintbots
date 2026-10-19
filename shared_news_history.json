@@ -19,6 +19,7 @@
     "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
     "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
     "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
+    "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
     "https://gov.uk/government/news/foreign-secretary-statement-on-the-deadline-for-bids-for-the-e1-settlement-tender",
     "https://gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
@@ -31,7 +32,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/qatar-uae-discuss-strengthening-ties-and-regional-developments",
     "https://middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
-    "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
     "https://middleeasteye.net/live-blog/live-blog-update/world-food-programme-says-ending-aid-half-million-gaza-due-funding",
     "https://middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
     "https://middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
@@ -44,7 +44,6 @@
     "https://militarnyi.com/uk/news/combat-vision-stvoryla-gejmifikovanyj-instrument-dlya-navchannya-artylerystiv",
     "https://militarnyi.com/uk/news/dron-shho-vpav-u-lytvi-buv-ukrayinskym-reb",
     "https://militarnyi.com/uk/news/drony-probyly-dah-data-tsentru-vkontakte",
-    "https://militarnyi.com/uk/news/poshkodzheno-ogorozhu-aeroportu-lejptsyg",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
     "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
     "https://militarnyi.com/uk/news/rosijskyj-suputnyk-kosmos-2612-pid-chas-peresliduvannya-iceye-x36-zblyzyvsya-z-nym-na-krytychni-26-metriv",
@@ -54,14 +53,15 @@
     "https://militarnyi.com/uk/news/sloveniya-nova-zenitna-systema-skythunder",
     "https://militarnyi.com/uk/news/ssha-postachayut-ukrayini-12-raket-patriot",
     "https://militarnyi.com/uk/news/ssha-zatrymuyut-peredachu-raket-patriot",
+    "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
     "https://militarnyi.com/uk/news/turechchyna-otrymaye-rosijske-dyzpalne",
+    "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-kursanta-vijskov-akadem",
     "https://militarnyi.com/uk/news/u-velykij-brytaniyi-predstavyly-nrk-varan",
-    "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
     "https://militarnyi.com/uk/news/ukrayina-ne-otrymala-poperedzhenny-udar",
     "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
-    "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
+    "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdlBLN2tONE94Z1l2NnkwbEJSdXB1UVRTdl9Vb051Undic1lnNmJXZVpETTU1b0ljenZmdHptREJjb2IwZ2lZN2tQUDAtRmN1ei1zRmJYVkJHUVFnUnNyeGl6NlBYRThPVGFVTl9aZVE4a3YwZEVIQ0tKNGRDR3FpeTJaQ1NCSnhFR2swUXFVZUpNenh4RnNWbnFuNExFYnFUV3BsVjhsRURXTmE2TENUb1k4VUJWM2d3TXoyRWpZRFRXSVd0bUZSS0NjS3NTT3JrNkxwakRyaTVFNjI3NERTMWVKVGZZT0NvaXlZdmRWaHZjNUZuTlJpNg",
@@ -70,9 +70,7 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGNWQ2VMU3ZoMFFZTDA4dXhnM0FYQkxJTEdmYURJOGZUckR5UTYyQXNWRWQ3ZFNZVzNZOU01ckExU29sYlVlREl5cTFiMG5hMHRrZmNrd0tZa1U4ckxObTBMZFQ5ZFp1RlZCS0ttNEVtWUQ4Qll4U3EyVzR2b2FNTGdVMEN4RGRxdXhYcFZDWVRwb2hqQWg1ZHVZX2lQM2ZZX1pIT0xmalM2ejAxa0g3VWhKNGV5LXZkY004NXdfM1J0N2I3aUZmS2ZaZUVhTDFOcHc",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFJMbWtyYlBDZGtkM2hkWXJaWHQyZmxoZmpKaVhjMVhYM3BhMXJJU3B6R0dIT3h6RTdCeDM2YjE2cnRLekE5SkVoZ2lNQ2xsMktjS3ZMTE5VMUhWY2xaS0VyV1R2XzZoQ0FhaUNiZWZ2Qk16UjZpNnMzMWxjWkFzY2Z4Wlp0X042SFVtcUJjbnlrbGI3RzRMdU1TSWRxTXcwcGUtNk8yRk80b0dCbmszalFaWjI0N2swYVlPZGZ0aEZtN1VTUzVoejVrM1VoR044Q0ZvUdIB2gFBVV95cUxPUUU3OEhMUXo0T1k2S3RQVGNZYVVmbDZaSnBiMXV0NWtjeWJkaEZrUF9uSTNhUU5fRUd2M3YtXzRRRi11YWhFejh1dFRsdFdIRi1HRk1HZC1lVV9wYlBTZVdWcGt4am8xVFdvb3ZsVWRDYi1GYVZWNzEzUEw1aXZoUWM0Q3ZtODN6SGQyXzh6QjU5S1RpUm96UWdKWjRNWEVsUmE4UERzMG50QVdLTkJQeFl2amdnV1FoMHl6WkhwRVpBcmRSaHVLSW12UlliNnhvWXktWHBCRFAxUQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnVSekI5SVY3Znd0OEVIbnlNcGxRQThocElob2JnZ0U4ZlVhRHZVUnFZc1c2eTdOLUdKendaZHFhMTlEWGFYcnJqNWxLMncxVmMzekR1X1ZwSDFTeVpQNUQ3V2RBZTNtWDk0a2VkQUZTaWpCN056TUtjQm5iSmFQS291cTkyQkkyU3p5ZUVfRElodHVJcVNrYnRnT3BQWTNCdkJFM1lkeG1jTUFSR3BFaXZDaGRaODN0T2ZZVkxyTEp5azFOcmI1bmgycnRvZHNFa2p0Uw",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHl1d1lFVGtQZ3lhbjdMWjdhLTV2UUVVUkhSY21OeUJjSl95TFdoZzZjSDRNV1VJVERDSXlkVzJ2V2gwOFRqZmYtMEI1b0hhZGtoUWh0ejlMVzJZM096b3VndGdRdkZzbm13YVJpTXdIblQ3VkM5Q2JqbmpORkxxZTNHdmxzbUN3XzVkX214d08xRGxhVFdsNnJrem5YYjdnYnVHOTdWUEV2MmZQYloyLVNwR1F1WXRnNTN5X2xiZ3p3SFROa2lyYzVoLWt6ZU5qbV9TRHBn",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHdndjFRTjRDbTFXeUp2TmxLRVdFTFVUOXBKNDNncllOamN3Q1d3bnFPRU1pQXoxc2pCWTdiNnMzdGFaZmhGS2MyN0djblhrOUdyN0w2YkhPSXZVOFlFTjBIRTBuYUdGLTFOUmdhX3Nsb1FXZ1ZyTFhRU3oyVnhYbDNwNmNKRjlKUmNWWE5XWlJlcEJQd1d5VERuMEFDSHRLbl82OFJXX29OY0RRNmhnWE9RSzVabmdZWGZxRlBEalZLdDlIYUtZYUZ5NENTbm1Fdml3aDFXZDfSAdgBQVVfeXFMTnB3Z3YxUU40Q20xV3lKdk5sS0VXRUxVVDlwSjQzZ3JZTmpjd0NXd25xT0VNaUF6MXNqQlk3YjZzM3RhWmZoRktjMjdHY25YazlHcjdMNmJIT0l2VThZRU4wSEUwbmFHRi0xTlJnYV9zbG9RV2dWckxYUVN6MlZ4WGwzcDZjSkY5SlJjVlhOV1pSZXBCUHdXeVREbjBBQ0h0S25fNjhSV19vTmNEUTZoZ1hPUUs1Wm5nWVhmcUZQRGpWS3Q5SGFLWWFGeTRDU25tRXZpd2gxV2Q3",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQajZVU0tGSGY3YkgxWS1qNjJCZmJkOTA2dUQ1UWMzd0ttMGdtS1JPSDJWbmo5TmdDMTRJNG5KS1IyTzF1TGx4WDZTRHl4ZW9CQUg0OWVXYnBweHJVZFhwUVFnLTdsVV9tOVJKM3ZaRldlXzJUblNKZjhidEFpS1o3SWl1bm5zd3lneXI3dGd3UzVwN0x4RzYwM3UxMm1CWjk5YTQ5MVBVbi1KYzlXdC1UUFQ1TUNob1JXdkZvVTBUQWJNaFVnTlpDVGN5TTlKSmxNVHVSeDRrZ3RnZw",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDkwRy1VajhGaFJtODNiZHMtdUR1NElCZXJVMV9fcU0ySXVISXdLaDlRcHRLVVFhOGJVS0I3amtDYkp1UTYxcHhzcWVpdDZHRGZMOTZXUlYwWE5uYlJRQ2RUdnF5Q1ZnU0lndEhHVU1BcXdMTzF1SHNTWGdaVXJ4TGlsdVJJTk5EMmNZLVlRd19qcnpfaTI3VEhwTUp0N3A1Yk01UGtkODQta0VsV3RTazdzazhwNXJUYXR1ZG01dWd3UkxJdFV6WmNPMzNkSVZTZ29XbnU3eHJtaUk",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVlJMTNCZVVsMFhVdkRKNE5MVWM3MUxrNWptaHhocVZ3b3V2ZFBpNTZXYndwYjd3Z3Zra2NiNUpBLWN5aU9oSm9lRGREa2VxNDFBYURKN2ppU1hIS2lQcnV6Q0dfZWxiWW1oSFM2X1kycUUzMG0wS3poeGtpMUoyVGRaRDRHaUxkWHVzQURseXctQ1h5QngtMFNJWXdiXzRVMkdpbS10MkJXQTlkMk5LX2JmNjNZUkxKT0tRYWFlOVA2dTY1cUtreTZTMkN6SzZrVXRFeGlVX1B6eThURWVR",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdGw1S09Uek4xeWhtaTZyYm45M0otTGdCcUJISS1YTklKSWxYZTMwaDh3Q0Q4RkJkNkVOdDU1RkN5NmJ6Sjc4REV5dlZYaUhsekZRMnd6MjAzNlBCRVhKSk5XY1VpVWxSSDBqWmNvZWV2NWpsWVBIU0daeVlUWWt1cm5UQWpzNDdiaE1kWm1qOG45UzVGMFl2OXJXM2tMdlNuc1JKbjhnaVRFc3BiWWtvdTFBek94VlQ2dmJWcnY1b3d1c256aGl1djdLWkdMRTFCTVBFRF9yOUF0RHdqVm9BSGFsNNIB6AFBVV95cUxPcjhCTC1kNXZuaGk3U0xjRDlPb2dEQWVUSnhJSjcwLUd0M0xRUGdWVDA4TEtURkdEOHY5ZzkxT2FXZjlxOGhyVGhRSE5DdjgyX2c0SGpvdEpXTnNibGxYY21wMFE4dzBoRW5mZXY3elREUmVobDdUd2pGYk1MNkNhVjExRk0tdWE2ZkxCb0dYbnp5WVVvQ2dMRnMzN0U0TEswR0NnQlVlZDBFMU1Qa3ZWQ1F3VVpkbFdROXVib1NYLVFfRURNdDRfZkxMc2MxSXRZS0JKYURUc3FtZFNMcUZ2ME9iWVJFbnVf",
@@ -97,6 +95,7 @@
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aNndUeWFBMmdRZXFLQV9zQ2VVb014OXkxSlc5cGY0TnVHaE5jaFJjYTVET3dpU01jMnpFRXRtdUtnTm9yNk1VQ0lHQVk0U0ctbzlaNmJJSXBuaXFxNFFjWUxsM0Q1QXkycHFBdFBR",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE02OUM0a05nUGl1RlE2VHBpRW51Y2JSc3hGUGZkcGxGZEFIaDFFTDFjZUdVMmp3akdFSW5vc0pNRG1Qbzg0aHFsVDZfQnVvbVFsVWJIZk51WU9iTzM2ZFFHWlB3M2pSemZGUWRFUTVTUUV3RWtpb1E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ecmp2VUNKMFNnSHBrcjJ0OElFTDc3bG03dzhaYjJTb2JRSzV1Z0RyeEIwUjd4aWV1X2pfamk0Zkp1cDZsSVlnR0ZPVjdaN3N5V2c1VVRwcU1QUzlhTXdmeDBnSENuMWZzSVEybVFQTEF2b0hmb0E",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEcU41ME9sdWRlN1h6eDdkQXhqUWl6WTBFMG5kZ3ZkMTduREthUU9UQUc0ZWN6ZGh4SkFBNWN0WEFTT3JuMUhrTEcwd2QwWWJsNDIxUUl1b0tIVlg5cUFUSDhyQy1fb0VHV0hYVjVsWmdYQThoZXc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wcTlmNDZ2NXlOSG1pZDl2SEhUYVRqNU9UMHFOZGNVR21uakhKY2dLUFpUdENzekdSS3gwUFBvaU96Umg4ZDBab1BQdXBPXzZXVXRLWEVhUUxnUGpxeUkxWi16ZWJ6b1FRc2VhcmF5dXZDNFM5VkkydkFzaw",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTRYTDZKeWg0ZnUtSEhzb1JCOXA2MnRHUWxRd0duUmlwTzVuODNpT1YxZ3lWNXdkcURqaHhSVUg3WFdEYlZMeGQwd1ZHcFo1VEtMVmExaVlqT2hhVlE3YnhWSjlzVXk2azZ5TnRndlhuVThBWVVEbjl0WTdybWhOWGtB0gGWAUFVX3lxTFB1T1N4V1BJbkR2UUg1ZURWZEw4RjY5cnV5ZVJxUVlhQ1FQeVZ6SXRlRjk2cFY3eDlLd0doX1d5c21ITkFuaFFuTXlBWUlOMWJoRDl0MmlwRTMwRlB5NWhxSy1hQU4wTVVaMlluQzJxOFFVb0l1aTgwQ2tGYzNKU1Zyd0xTYlU3d0FxYVZpS0RDUU5lOVlYdw",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEhKTUlrQXlUeFNXOUU5b19pdkxSUk9hcjZqVGM2U1FHWDZRT1UzeGw2eXdkUzBJTjBnZmQwRk9DdVczdVFLd2dhSXhfLUJ1aWdLeTg5d3dLWnFsQmFvcU1zaW1Ga2NXZlA3RGhRaml4bkNva2VJLTloSVJQRWxsaFVnZ2VCblk",
@@ -104,6 +103,7 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRkS3lEaUVrc1ByaEVmUXJjdV8zY0dTYzNpYlh2SlQ2TGxMUkZVYmZCWlFwR0VBYzA0Rld6Z0FCMWVlTXRkdFNSN2xOYzNJRWFRYWFHZ2dwdmxiNXc4X01oNlI1cUhwMjJGTlNRbkR2WEN6dXJGTVdZblE3MXN1SHBwNmRsZ2JkNmc",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlpiWnZaSVNVYjBNZ0NBeTRvZ2lWRkRia0xOWmtkdkJWcFVSYkZFeXRfODBLZkdYYV80SFBvRmNFeVk4UXdWeVVFdFJleTJ3Yk1HdVZrMXptckJQbnRFa3Z0Z0RxdlZsWmZYRzBGVWtpR1NnSXlPU2toaUtMOGhWQmlwNmhyZjBzenc",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHZmWUhvZVA1RnBtU0hIWkVmdklfODJSMDBEZ3RWcTVQNEIyNEhQTmxQb2kyZ1kzbElmUnR3cUh0alJweWlsREtwc01JOUhJRDIxZ1dRT3lpaFp6OFgzYV95RlZBNDR6a2JFUHpnd0t3OWpqRC1adElGcHVqbGpqY0llSnN6MWlOVGVQaVd6UzQ",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYVRrMm90aGh6Q1dERFVVZlQxcjBCWWk1RGRrc0hhMDg0b3FWZm9XSGdLaDkxZGUtWDBuMWZUeng1cU9CLVpyMTF5SF92R3dUOUxhXzhISVZDQXgwOXRjSmllODFxU0oxOVVDcDBEc05PVk1sTEtXcXBFbGJ2V04wc0s5Q1doM0RsUDZSaHVETkxXUlZVdFE",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0xFUVUtT0dFMkgzdUhZeGt1V2E5U3EyNTJLTUNnVVlHTnZOd2FXa0pnMDN2NHR6aUFNUDUzS0pyb1VsbU5ac0VnZEw5aTBvNmxta0RpWEk1cVlVWGZpLVlTYXhmYW5rZUlsMnUxYjQyejlKV1MtMmR3UE56eWNtMTZtcXdpcjAtUFNOTmtGZmduTjkzbjNR",
@@ -117,7 +117,6 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGJ0bkN3cDh4bnpsTDQ0RGVYY2ozOU5uT3YzaG8yNnd2dzVnbUZUdGFDcHQxMUh3aEotZTJ3QV9kaXF6eXdoTVJJM0hjZ05xUXFkYmJTWlprSllGUWMzbDhpRnFNS25UUzdSdjVtMHNIRzFkSmdyS2VjMldSbzdxMXZBNVdJcmE4TFZ5SUF5WE5fWVFWSS1OaUNaUTE2TnNWQVE",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREhGd3BldFpLUVRZMkRJNGZGcHJubUx4THNIMjZaeE9wLVpBakczcGt4NWlMaWtLOFpPbUt6XzVaVVE0b2lfdlREeG95QmNzYjJ3YVBVcnhERkV4c0ppRl9EcG9hb1ZPUUgxMXhpQl9WQS1GWGFWUzRWby0wd21YX0p4QU1SakxMMjl6SG0yZ3FSTUZlZGNsQVZIT0x1bERuX3dV",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1TWktMN2dzdVBiZVB3YVdYckdQS3dqZS1iaVZtOWRKaHZGMW5zQWd6T3NGOVUxNy0wbTJlNU9seXY5cjkwLXp0NUhLUXpfd2FZYXVTTTlIQTFiYWJzWUVvUXVBZ3pQeFNfR3VmSDd5UV9lc29LSlFhc3U5d3hTbUduYk5xNFIzamMtM1NBNjhrUnNVUlIyYVJiM2R1Qi1EVktJ",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXhFbm1ySVNTMFUtQndTZl9XZjh3cDRNT2U3VEtTdHFYSmNnOEllQUdwTEp0bDN5bTdCd3A5WnlfWlpkQmJMN0FGbWl2TUd6MUh2MlF6VEZBSlU0cFhvZ0xTUmYyT3RzNEVDZ2ZxNnF1QUZuWW1ONERuX2RlaUxLbXBLWFk2MWtWb0dFYzZiMkxOMzNQS3RxQllpRFU1NjRXbDV5Zg",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFZaFluWUhKYWdQT0VSUE9IUlpMemJoaHZVdjJWbVpHTlItWVpSNUFtY25FMnRWX19OZnpPRmF2UEhLS3pMUnN2UGt5QkRiYTB1d0Y4LVlnb3RKNGI0dllJdWxfMHYtVFBocDdmZHJvbHBCaklTdXRUem1MZUEybG1GZGFRblhhXzV2c1Z6RUxLMVRLTmxKX2ZBX1JvYU9XbnVyWjdrNA",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVdwZXJsZnpKcUZScGhjOFZ1MnNncUV0OFBhZ0pEdTJqZnZjUy1walVpemtyXy1xZkJERTdiamNSME42cF80emJFZVpwX2duYW8zbi0wOWVPUkkwQ19zOF9mby1rQU0ySXpMd254NHEtaGlsaUtjSWJUaTRqT0kyQk1Cd2djNEJ0OHBzTnhEaU1iUmp1T1ZfQUhmOU05OEJGdGo2Y1ZwR1c",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVPOHM3b0NNVFZoMmhSSFlaMnZoU29FSXpEbkJFMENienNjTlJNc0tZYzhNdVlLUnVvdk1pVkxEOWRYcldsT0pFeUJjS1VzXzB1SVUwT2lBeU9vMVUyN05rNmZZeDl1dUV1QkdXTWFjWDdMU1ctX1RGeDE5YlhoOE4zVU94WjlsX2xTcFlmU1Zsd2NBV3FMc0pnd2FCV2E0akF6VjZ1MXA",
@@ -126,6 +125,7 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYl81enpkdGRjYjlZU0pMODBKaDFPZWJ3X2xES19zd3I5MW1lODd0azB5WURvWE1sSTlNTHlScElzSUpDUUhqa2JKbTNXd04xOEV0VnVvYVBsUVJldFdsT2FKSlpJVVJpWVhZLVlHZWVKcmJBR3Z2Slk0Q2RMYnFScm01ZnFxcjNfcWpkY3JVMHRJOEZtdkxmM0ZlTm9aZTlWZDltYTN2YkJ6UEJ6ZFE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmhTV0t0b1hRSUtNVDFadnBBdjJ5dlBucTRlMGVpcXVjUFlaNHg3WlRJVDk5X21TV1VqWFpUSmxfTDcyZGZmQWVaSHdJTFJrb1kxUEFiVkNJSWJ5X3Q3eXJpUTZMSy1FMFBjb1VHS3M3UGVaVGpUdjRfZDd1SnBGbllQM2tZbU1oOUQ2cUN3QjR3Y1VtekI5MDhhN2tyakRDTk54Zm5GakdOa0pQZDVDTA",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRHZkZnMC02RTZzU1V2UUEwTUZ5UGtnMGhLOWI3OUc2YWxzbjJIQWFPLVd1eFh3SzRqWTZhM0Q5SjdickswaGpUdFVybDYwRmpOSnBJTmFUR2xGbDZXTWNIVWxad3BNWlN5Wm5FSVdRc3JNN0x0Q3U4UXlIY3pheFRPU0x2Z283Z1pGaXF2ajV3Ry14LXJ4R0QxZUZ4WEE1cURpSUZFVzhaZ2Mtc3h5LTJ3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2ZxeHktMXNONjNjYmpWYWgwaXZvd0szM0F0TlVFVjlrX0g1QmVqR2ZDV2JEby1IMEZmZE1GVlBxbUFrcC1QcnRqRFVfMXdNSFpyTXNoYUlhVzJsaXZjU2hRS1BHa0hpV0p2SVpXZDg0U3BZQ0tqcnp2YU1qUEVyWWhMZ0s2bmNQQkotaHd5cEkxVG1RcE5Hd1YweDJIYkFhd3pqWUk5bk02M2JKanlES3JSSQ",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFl3MEhWalEwWWhFWFNWRXdHb3hVeUpWTzN1TVBEZi1JU0JMMjNSa1pxWEhBQWk5UTB3RE1tZUlkSDl0aXNCTzF6ZUZHd0JCZGhNTTJ3a3N1MnZQM3pSOHlSajJDNlZPWXBabGVjdERmcEozNXlsOFdrQUlBYWxLV2U2ZV95MXVmbEdEbE1HZUFxVkNQUTZ3eUdfMW8zMXRQalhSbTFCRnVfRFFRdHBoT0dKVFhxWDg",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2lKR2ZxaUU2WE1Zbm5GcmZINEk5OHd6Q1Vsek1tbk9lbzZ5Q2EyeDBFMXhLNGN5aktlUC1GSjJoWkU0bWJTOTRBOFlFdXhkVzRtMFh4WnpyeFJZWDBvV0tKZGVLQk5qeEVfdXNER1paT09UNnNydVNTOG5NZ2pIdmp2RFMxQklObzRhOENKaDFNSGFWNDc5VFkzTk85ZWs0MWd0djRscE0yRll5SjFhcG5MZmgzT0Jq",
@@ -138,7 +138,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDlsOVJGQWwyb1hORmJpeW03LV8tb1BsV1FTdVZqYlhtWE1INXFSMUV4a0hQMUV1TXI2NDRMa3B2UjRRU2Q0R0ttSWdwYk5ZM3o4SmJTdDA0REdPU25hbWdEUlVJdjlFS3FlaWxXdlFNem55YmRDakJPLWpzcFB3bGEtSk5qZjl6ckx1bTdKOVNTSXE3RFNBUE5ESC1QZU5MVEFVbFFnTkw2TFNSWkh5U1lreUJlM3NJejZzMFdvOVk",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlhDQkItQ0oyWjNLdHJXSlV1SC02Y1ZNOGJsUi0zWXk2cTVMRFg5NDgzRzhkZHF4SXZYSHpoSVUzVDhzZ291RmNxMDFfN2NtQ1VFcG1LdHZNb2RoR0hMZ2swQUNaYWZwbG9EYXM1TG5aWmZ1eUJlbkNKa3ZUQWZhOUZJazUyT3R2XzZfWjlRVlB4QTgxWmxmWk9FUUdKS2FfUUtBX3dQUTk1a0dBWWFRb3VuMXNzXzFsc0d3dWhOSFU",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0JBYTdZcWppSFBPanE1bHZPdC00RVZTdGVrY2wwSU81Z1JxcEFkQnFSNXZJUHJZOWUwS2pBZW50RzltTUNKMHZJb2JSdDAtZjBCczBLbm9SVW96dGgwWVpjb1RCVXB1TUVLcTJxQjFlYnZyc252bjBHeG1mbWhJeFJ1WHZwX2RDSkExX2ZOR1p6eThfQ2xCOURocTdUc2llWVIwZUIwaE1FSlVPeENOc1lYa2U4WlVURHd0QUJOUHA5QQ",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUlKaFBKUTFmaFpnU2VCWXdSSW1hTGZzeHFOOGxBRjBieUFrZWVlc2w3NzRsYi03NWczQTBtYkx4QnlNQVBvZFlkamdISFFWajl6Xy14UU03Vy01Y3N0Wm1OZWdackNNNUdVOTJnMmV0eTVUbkVhUGVMOVhxYnc2dW9kelNMMWhmZFN0Z2JMbXZYMjhQTEZOSEMxYmNaSjh1emYzLTduSmpMRm91bVRIRDhON1RoOEE2dzRLQ1BnM0J1VzA",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMW84OGFjaUZYc2FuWERMdHNfTkhMSFpOSUFmMEw1c3k0WV9pUnppNmI4eENXc2NNcFFmUXBwSW5qRFV4aEkxVEFXVExIYWxrWGxZNGJzblYyR0xYOXd0UFVGeUlqZ0gwdVNxLVlsblUxN2Zzam5EeXhLWUFBMjI2QTZWeTZNR3U3dHp6R2JGZHJwYm9KNGNTWmtMTXdSd082ZS03djRib2ttZGp4eEM1dWlGU3N2dkFfSDdRdGxJN2xoZTg",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDNLOTkxcFY3a2IxYmRhM29BVUNjNHhJUmtUUGFLRUdpbzl3UlRxN3RvLURUOTZLQUFOc1l3Q1RvQWxhUDQ3TEphcjczcld2OU1jRnJ6b3pSUGtxRDU2d043bTAwcm8yUGZDaDEzdHBoV3hKcGVFNFl6WkpQSnBJQ0JLWFA3TnhCVVphVlJUZXZabTJsY1hGNEIxZVE0aGdnV29XQlNWcFIzaUVaSld1b1FaZ210R1hUQVN5ejc2cDNRbUsx",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmc5RzJGM3pfU0dGZ0RUZlBRajVNTUx0Y3hSX09aTlNkNkhvem1TbFJDZXktVnpQdHoyV0UwblVkMmo3U0JDb1ZsTFZoSkJVbnJkMmhqYktkbHFCMHZMX3JVQlR1Q0JMQnJxN0N0OG5CWTlueFU3dHVJUE5QRVIybHdoMTNkUGY3OElfbzMyNHFjTU4ybzdfLW51S2psZWMtdkdVUktMRWtlaVNFZnpxWFQwZEJiaVM3a0IxOHQwcWllM0daRk9z",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTBtdHpmTjAxUWtLaGp2c3M0STlDa2RSX3lJOWlXM3BZNDJuQk1raWZXdTVWMy05THExMVRLc0FHN1hJMV9MRjdTZXF4MVZPdjdqeXA4SEtqVFBFTFQyTkhLSV8zb1p5WkczMmJNWFlJREJPbmlobGRRSVJQeEhNQ2NITXdWZEZkR2xhUWdOczhrZGVaNzE2Qm02NzlNdF9FMTBscTZrdVdIOVdPNlJUWlBtNEctbzFybV9sd2ZVOHA4VTJBZ09aXw",
@@ -152,86 +152,6 @@
     "https://twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
   ],
   "recent_posts": [
-    {
-      "title": "Угорщина представила лазерну систему для знищення БпЛА",
-      "original_title": "Угорщина представила лазерну зброю власної розробки для протидії БпЛА",
-      "summary": "Під час випробувань на полігоні система виявила та знищила безпілотник-імітатор ворожої цілі. Назву, розробника та технічні параметри, зокрема потужність лазера й дальність ураження, не розкрили. Система планується на озброєння угорської армії протягом року для протидії дроновим загрозам.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ugorshhyna-lazerna-zbroya-proty-bpla",
-      "published": "2026-10-18T15:53:23+00:00"
-    },
-    {
-      "title": "Вице-президент ОАЕ зустрічається з міністром оборони Саудівської Аравії",
-      "original_title": "UAE vice president discusses regional developments with Saudi minister in Abu Dhabi, WAM reports",
-      "summary": "Sheikh Mansour bin Zayed Al Nahyan зустрівся з принцом Кхалідом бин Салманом у Абу-Дабі, обговоривши розвиток подій на Близькому Сході. Це сталося після візиту до Ріяд, що відзначився розривом між ОАЕ та Саудівською Аравією, а також підвищенням атак Хуїтів.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
-      "published": "2026-10-18T16:11:01+00:00"
-    },
-    {
-      "title": "Єгипет отримав від РФ крилаті ракети Х-35УЕ для МіГ-29М2",
-      "original_title": "Єгипет отримав від РФ крилаті ракети Х-35УЭ під МиГ-29М2, коли це могло відбутись та що це означає - Defense Express",
-      "summary": "Подія стосується постачання крилатих ракет Х-35УЕ від Росії до Єгипту для МіГ-29М2. Постачання могло відбутися в рамках попередніх контрактів. Це впливає на військовий потенціал єгипетських ВПС.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQajZVU0tGSGY3YkgxWS1qNjJCZmJkOTA2dUQ1UWMzd0ttMGdtS1JPSDJWbmo5TmdDMTRJNG5KS1IyTzF1TGx4WDZTRHl4ZW9CQUg0OWVXYnBweHJVZFhwUVFnLTdsVV9tOVJKM3ZaRldlXzJUblNKZjhidEFpS1o3SWl1bm5zd3lneXI3dGd3UzVwN0x4RzYwM3UxMm1CWjk5YTQ5MVBVbi1KYzlXdC1UUFQ1TUNob1JXdkZvVTBUQWJNaFVnTlpDVGN5TTlKSmxNVHVSeDRrZ3RnZw",
-      "published": "2026-10-18T17:02:00+00:00"
-    },
-    {
-      "title": "Заступник прем’єра та міністр закордонних справ відвідає Південну Європу",
-      "original_title": "Deputy Prime Minister and Minister of Foreign Affairs to visit Italy, the Holy See, Spain and Portugal to strengthen relations and enhance cooperation with Southern Europe - กระทรวงการต่างประเทศ",
-      "summary": "Заступник прем’єр-міністра та міністр закордонних справ України оголосив про запланований візит до Італії, Ватикану, Іспанії та Португалії з метою зміцнення двосторонніх відносин і розширення співпраці в політичній, економічній та культурній сферах у найближчі місяці та обговорення спільних проектів.",
-      "source": "Bilateral Meetings",
-      "publisher": "กระทรวงการต่างประเทศ",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHl1d1lFVGtQZ3lhbjdMWjdhLTV2UUVVUkhSY21OeUJjSl95TFdoZzZjSDRNV1VJVERDSXlkVzJ2V2gwOFRqZmYtMEI1b0hhZGtoUWh0ejlMVzJZM096b3VndGdRdkZzbm13YVJpTXdIblQ3VkM5Q2JqbmpORkxxZTNHdmxzbUN3XzVkX214d08xRGxhVFdsNnJrem5YYjdnYnVHOTdWUEV2MmZQYloyLVNwR1F1WXRnNTN5X2xiZ3p3SFROa2lyYzVoLWt6ZU5qbV9TRHBn",
-      "published": "2026-10-18T17:17:58+00:00"
-    },
-    {
-      "title": "Lockheed Martin інвестує $300 млн у завод у Техасі",
-      "original_title": "Пентагон раскрывает карты: где теперь будут рождаться тысячи ракет нового поколения",
-      "summary": "Модернізація дозволить наростити випуск JASSM-ER, LRASM та AIM-260. Завод у Техасі отримає нове обладнання для складання та тестування ракет. Збільшення потужностей вплине на темпи поставок високоточних боєприпасів для ВПС США та партнерів.",
-      "source": "Western Defense Industry",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://military.pravda.ru/news/2428098-lockheed-martin-texas-expansion",
-      "published": "2026-10-18T17:20:27+00:00"
-    },
-    {
-      "title": "Europe відмовилася від тарифів на російську нафту для Індії та Китаю",
-      "original_title": "Europe Refused Tariffs on India, China Over Russian Oil: Scott Bessent - Open Magazine",
-      "summary": "Європейські країни не ввели додаткові тарифи на імпорт російської нафти індійськими та китайськими покупцями. Це зберігає існуючі постачання, запобігаючи різкому підвищенню цін на нафту в регіонах. Відсутність тарифів підтримує ліквідність на ринку енергоносіїв та знижує ризик валютних коливань, пов'язаних із новими податками.",
-      "source": "Мінфін США",
-      "publisher": "",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXhFbm1ySVNTMFUtQndTZl9XZjh3cDRNT2U3VEtTdHFYSmNnOEllQUdwTEp0bDN5bTdCd3A5WnlfWlpkQmJMN0FGbWl2TUd6MUh2MlF6VEZBSlU0cFhvZ0xTUmYyT3RzNEVDZ2ZxNnF1QUZuWW1ONERuX2RlaUxLbXBLWFk2MWtWb0dFYzZiMkxOMzNQS3RxQllpRFU1NjRXbDV5Zg",
-      "published": "2026-10-18T17:23:48+00:00"
-    },
-    {
-      "title": "Уряд схвалив спільний проєкт газової електростанції в Нісі",
-      "original_title": "Government grants approval for agreement between EPS, Srbijagas and SOCAR to establish joint venture for gas-fired power plant project near Nis - eKapija",
-      "summary": "Уряд затвердив угоду між грецькою EPS, сербською Srbijagas та азербайджанською SOCAR про створення спільного підприємства для будівництва газової електростанції поблизу міста Ніш. Проєкт передбачає інвестування в потужність та постачання газу, а рішення набуває чинності негайно.",
-      "source": "Treaties & Agreements",
-      "publisher": "eKapija",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUlKaFBKUTFmaFpnU2VCWXdSSW1hTGZzeHFOOGxBRjBieUFrZWVlc2w3NzRsYi03NWczQTBtYkx4QnlNQVBvZFlkamdISFFWajl6Xy14UU03Vy01Y3N0Wm1OZWdackNNNUdVOTJnMmV0eTVUbkVhUGVMOVhxYnc2dW9kelNMMWhmZFN0Z2JMbXZYMjhQTEZOSEMxYmNaSjh1emYzLTduSmpMRm91bVRIRDhON1RoOEE2dzRLQ1BnM0J1VzA",
-      "published": "2026-10-18T17:35:15+00:00"
-    },
-    {
-      "title": "У Лейпцигу пошкоджено огорожу аеропорту біля російських Ан-124",
-      "original_title": "У Німеччині пошкоджено огорожу аеропорту Лейпцига, де раніше намагалися підірвати український Ан-124",
-      "summary": "Пошкодження огорожі, ймовірно автомобілем, сталося в північній частині аеропорту, де перебувають три російські Ан-124, заблоковані санкціями. Українські Ан-124 базуються в південній зоні, яка не постраждала. Інцидент стався після серпневої спроби диверсії FPV-дроном проти українського літака.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/poshkodzheno-ogorozhu-aeroportu-lejptsyg",
-      "published": "2026-10-18T17:45:50+00:00"
-    },
     {
       "title": "Президент Ісламського банку розвитку відвідає Малайзію для переговорів",
       "original_title": "IsDB President heads to Malaysia for high-level development talks - Islamic Development Bank",
@@ -1453,6 +1373,16 @@
       "published": "2026-10-19T16:07:02+00:00"
     },
     {
+      "title": "Ціни на газ Waha зросли до 16-тижневого максимуму",
+      "original_title": "US Natgas Prices at Waha Remain Negative but Rise to 16-Week High as Pipeline Constraints Ease - EnergyNow.com",
+      "summary": "Ціни на природний газ у Waha залишаються негативними, але піднялися до 16-тижневого максимуму через послаблення обмежень трубопроводів. Це єдиний факт зі статті без додаткових цифр. Наслідком може стати помірне покращення ліквідності ринку енергоносіїв США.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "EnergyNow.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMW84OGFjaUZYc2FuWERMdHNfTkhMSFpOSUFmMEw1c3k0WV9pUnppNmI4eENXc2NNcFFmUXBwSW5qRFV4aEkxVEFXVExIYWxrWGxZNGJzblYyR0xYOXd0UFVGeUlqZ0gwdVNxLVlsblUxN2Zzam5EeXhLWUFBMjI2QTZWeTZNR3U3dHp6R2JGZHJwYm9KNGNTWmtMTXdSd082ZS03djRib2ttZGp4eEM1dWlGU3N2dkFfSDdRdGxJN2xoZTg",
+      "published": "2026-10-19T16:12:04+00:00"
+    },
+    {
       "title": "Пауза експорту рідкоземельних металів Китаю завершується 10 листопада",
       "original_title": "China’s Rare-Earth Export Pause: What Ends on 10 November - Technology Org",
       "summary": "Стаття повідомляє про паузу експорту рідкоземельних металів Китаю. Подія стосується торгівлі та обмежень. Пауза завершується 10 листопада. Макрофінансові наслідки в матеріалі не наведені.",
@@ -1603,6 +1533,16 @@
       "published": "2026-10-19T18:24:00+00:00"
     },
     {
+      "title": "Долар/єна зміцнів у нижньому діапазоні 158 у Токіо",
+      "original_title": "Tokyo FX: Dollar-Yen Slightly Firmer in Lower 158 Range, Lifted by Cross-Yen Buying - finance.biggo.com",
+      "summary": "На токійському валютному ринку пара долар/єна трохи зміцнилася та трималася в нижній частині діапазону 158 єн за долар. Підтримкою стала купівля єни проти інших валют, тобто крос-курсові операції. Інших цифр, причин чи заяв Банку Японії у статті немає. Рівень близько 158 свідчить про збереження тиску на єну; це зберігає ризик посилення сигналів влади Японії щодо курсу та впливає на очікування щодо політики Банку Японії.",
+      "source": "Японія · монетарна політика",
+      "publisher": "finance.biggo.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEcU41ME9sdWRlN1h6eDdkQXhqUWl6WTBFMG5kZ3ZkMTduREthUU9UQUc0ZWN6ZGh4SkFBNWN0WEFTT3JuMUhrTEcwd2QwWWJsNDIxUUl1b0tIVlg5cUFUSDhyQy1fb0VHV0hYVjVsWmdYQThoZXc",
+      "published": "2026-10-19T18:25:00+00:00"
+    },
+    {
       "title": "Гегсет не підписує вже оплачену партію ракет Patriot для України",
       "original_title": "США затримують передачу Україні партії ракет для Patriot — Kyiv Independent",
       "summary": "Ідеться не про нову обіцянку, а про значну партію ракет-перехоплювачів Patriot, яку, за словами українських чиновників, союзники вже оплатили, але контракти досі лежать у міністра оборони США Піта Гегсета без підпису. Київ отримує такі ракети кількома каналами, зокрема через програму PURL, і не розкриває залишки з міркувань оперативної безпеки. Якщо схвалення й далі відкладатиметься, доступний боєкомплект ППО скоротиться саме для прикриття міст і критичної інфраструктури, попри заяви НАТО, що постачання в межах PURL загалом тривають.",
@@ -1643,6 +1583,16 @@
       "published": "2026-10-19T18:50:11+00:00"
     },
     {
+      "title": "Rice University досліджує рішення для ланцюгів постачання енергії",
+      "original_title": "Rice energy research explores practical solutions to global supply-chain challenges - Rice University",
+      "summary": "Дослідження Rice University вивчає практичні рішення глобальних викликів ланцюгів постачання в енергетиці. Це стосується сировинних ринків без конкретних цифр. Наслідком може стати покращення ефективності поставок енергетичних ресурсів.",
+      "source": "Глобальні сировинні ринки",
+      "publisher": "Rice University",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRHZkZnMC02RTZzU1V2UUEwTUZ5UGtnMGhLOWI3OUc2YWxzbjJIQWFPLVd1eFh3SzRqWTZhM0Q5SjdickswaGpUdFVybDYwRmpOSnBJTmFUR2xGbDZXTWNIVWxad3BNWlN5Wm5FSVdRc3JNN0x0Q3U4UXlIY3pheFRPU0x2Z283Z1pGaXF2ajV3Ry14LXJ4R0QxZUZ4WEE1cURpSUZFVzhaZ2Mtc3h5LTJ3",
+      "published": "2026-10-19T19:01:33+00:00"
+    },
+    {
       "title": "DIU представила наступний етап конкурсу безпілотних суден",
       "original_title": "DIU unveils next phase in unmanned vessel competition",
       "summary": "DIU оголосила, що у новому етапі конкурсу шукає безпілотні поверхневі судна (USV) з \"зріліми\" системами жорсткого знищення повітряних цілей та датчиками, стійкими до шуму та перешкод. Це підкреслює прагнення інтегрувати автономну протиповітряну оборону та високоточні сенсорні комплекси, що підвищить ефективність USV у захисті від авіації та розширить їх бойові можливості. Такі платформи можуть зменшити ризики для особового складу та забезпечити нові варіанти автономного морського бою.",
@@ -1651,6 +1601,56 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
       "published": "2026-10-19T19:03:22+00:00"
+    },
+    {
+      "title": "Польського курсанта з українським громадянством затримали за шпигунство",
+      "original_title": "Польського курсанта з українським громадянством затримали за шпигунство",
+      "summary": "Затриманий мав подвійне громадянство та проходив офіцерський курс у Військовій медичній академії в Лодзі. Під час обшуку виявлено мобільні телефони, документи, печатки, готівку та золото. Подія підкреслює ризики контррозвідувальної безпеки під час підготовки резервістів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-kursanta-vijskov-akadem",
+      "published": "2026-10-19T19:58:41+00:00"
+    },
+    {
+      "title": "Третій армійський корпус очолив Дмитро Рогозюк — колишній комбриг 60 ОМБР",
+      "original_title": "Третій армійський корпус очолив Дмитро Рогозюк — колишній комбриг 60 ОМБР",
+      "summary": "Дмитро Рогозюк, з досвідом командування 60-ю ОМБр та штабних посад у 3-й ОШБр, очолив Третій армійський корпус. 60-та бригада під його керівництвом брала участь у всіх етапах операції «Вівальді», показавши другий результат за площею звільнених територій. Зміна командування може вплинути на підходи до планування бойових дій та управління підрозділами корпусу.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
+      "published": "2026-10-19T20:13:11+00:00"
+    },
+    {
+      "title": "Пентагон погрожує університетам через зв'язки з іноземними суб'єктами та натякає на аудити",
+      "original_title": "Pentagon threatens universities that have ties to ‘foreign entities of concern,’ hints at additional audits",
+      "summary": "Аудити охоплюють зв'язки 30 університетів з китайськими, російськими та іранськими організаціями зі списку Section 1286. Усі заклади припинили ризиковані відносини, виконавши понад 80 дій з розірвання. Це запобігає передачі технологій та захищає фінансування Пентагону від експлуатації противниками.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
+      "published": "2026-10-19T20:31:35+00:00"
+    },
+    {
+      "title": "Аналітик: Зростання дохідності сигналізує високі ставки надовго",
+      "original_title": "Analyst: Bond Yield Surge Signals Long-Term High Rates - 조선일보",
+      "summary": "Аналітик заявив, що сплеск дохідності облігацій вказує на довгостроково високі ставки. Це єдиний факт зі статті без додаткових цифр. Наслідком може бути переоцінка ринком політики ФРС у бік жорсткішої монетарної позиції.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "조선일보",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
+      "published": "2026-10-19T20:35:28+00:00"
+    },
+    {
+      "title": "HD Hyundai та Anduril продемонстрували інтегровану автономність USV VAone і Lattice",
+      "original_title": "HD Hyundai and Anduril Demonstrate Integrated VAone and Lattice USV Autonomy",
+      "summary": "HD Hyundai та Anduril провели успішну демонстрацію інтегрованих операцій USV біля узбережжя Каліфорнії. Платформа VAone була поєднана з програмним забезпеченням Lattice для місій. Це поєднання може посилити автономні можливості безпілотних надводних суден.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
+      "published": "2026-10-19T20:36:32+00:00"
     }
   ]
 }

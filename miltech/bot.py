@@ -39,7 +39,8 @@ GROQ_TIMEOUT = 15
 # Джерела: (URL, Назва джерела, чи потрібен переклад)
 FEEDS = [
     ("https://mil.in.ua/uk/news/feed/", "mil.in.ua", False),
-    ("https://defence-ua.com/rss.xml", "defence-ua.com", False),
+    # Власна RSS-адреса Defense Express повертала 0 записів; резервуємо стрічку Google News за доменом видання.
+    ("https://news.google.com/rss/search?q=site%3Adefence-ua.com&hl=uk&gl=UA&ceid=UA%3Auk", "Defense Express", False),
     ("https://breakingdefense.com/feed/", "Breaking Defense", True),
 
     # Активні англомовні джерела: новини оборонної промисловості, озброєнь і військових технологій
@@ -48,9 +49,10 @@ FEEDS = [
     ("https://www.navalnews.com/feed/", "Naval News", True),
     ("https://www.army-technology.com/feed/", "Army Technology", True),
 
-    # Джерела Google Alerts із кастомними назвами для Telegram
+    # Google Alert з новинами оборонної промисловості
     ("https://www.google.com/alerts/feeds/12089626364797798521/7402252502089930204", "Western Defense Industry", True),
-    ("https://www.google.com/alerts/feeds/12089626364797798521/17810137244338497811", "Global MilTech", True),
+    # Профільне видання про оборонні технології, БпЛА, ШІ та модернізацію Пентагону
+    ("https://defensescoop.com/feed/", "DefenseScoop", True),
 ]
 
 # АКТУАЛЬНІ РОБОЧІ МОДЕЛІ GROQ

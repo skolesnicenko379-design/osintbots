@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDBGT3UyN3owaFZKaXpRalJVd3d3ZEFLQjZYWm13UGE0UEw5bVRhUmRqTlB2dG8yMFpzM19fWS14WDM2VWRoZ1ZVaEwtMnY5VjBNUUl4Uk9rQUVabnF2dHB3Rl9wLTI5c2pTYU9fS1pNVXh1WTVnTWQwTHR2VWJ0cElaRWx1Zl9MNHRPSnQySEJXV0RzRWJ2V04ySW5LLTQxTjcweC1KT3pWZno5SUlNX2FkV2xYYkVtU3fSAaoBQVVfeXFMUDB5ZTAwZ0lmRFhsWVZXaWM0Y0hSMHZhNHAzSC1ObkhWY1pFcWI0S0VTdlFxbE80YlpNWFkyU0U4UlFNbHRsaHo2RGtKa3pHaFRXQTg3WHlHQnMxb1Z4U1FtN3RlbGMxamtmWElBdEdlTnd4SHdaYUhfS2czV1p6Z25QRVBTRndaU3ZBMTRxaWk2YUxBYjlXM3dza0thUWU2RV8tUDVFUEw1N2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmdKdVVnZGVaMGtuQ0d6MUZ0VGFOSG9rOXc1MzkydGxYN2xvSTZaNXJlVTJfRDhzVzN6NEFYZ3h5TUtmaWFGclNSMEgtSS1mUzkwX21qb0ZhMmtTNHVMM3M3ZzJNa2hJVGRDMGpWNG0xVzNibVBDM0E2MXpsbGV1bTZ1NUFsdmFqNTYwQTNOU25iV2dEYkF1U2tEQ3FQOElrRXMteDVXbGdySkRKbjB6cWlzM19EOHN6Zlp6d05CYWxMalVlRHlUQTln?oc=5",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE05ODV3Q1gzYkg3eFdRMnFNeHd1Y2JBcXowM1J0OHIwQ0hmZDYwV25TeHRDQWk0bUh6NkNuNU52dEZzWGPSAUJBVV95cUxNaG5yVEMteEJ4UF9rNHNuVGUyRFhSMEo4RzNaVk16aENkaGY0Nmk5VXVhcmZyWHIzWXVyQUpNNzZMcHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFlwOGV3WlVSdmMzMTdaSTBnaHMzRjFJYkYyVXBuTjVJUUlJd1dGcHlERUFXUlZNX2FyX3N4R2QzUU9HbUl4VzJ5MU9xNHMxZTh4Ukw4OTZYYkVFRTVvbU9WRFJEb3JsMGhBeF9JWXllWXNyUzk2b1p1U2R1Vl9QY0F2OEZqWTExT0pqN3NBaUF4Tk5WNXVqMHJtS3laRW5vb0R3b05WeF85eHc?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX09MYld0aEdpY3JvQVU2aFNwN1RxZTEtVFlJbDRROXp0WmlralZfLVdoYW92b2VpUVZPZnR3OGw3R3hGMXgzU1Y4VkhuODd3VU11dFRrN2lrTDNTMndSeUNpSy1TT1NReEd4dFhaRFpCZmx1THNiTlZHd0hlWGYzdnJpY2l2T0FweUdkd2tUcWJIcXlqYXZxRTFZTW1vM2fSAaQBQVVfeXFMT3RDUk9OZ3BVT2sxdkxoUm9NUUZpVFFJWG1ya1Q5V01sRDRqX2ZiVGQxRU1lOEZhcGNGZnpURnhlcFJXWXhlejZJcmNRaUdzRTMxQ19kS3d4ZjhHaUo0NkRsdmV1MkxaT0ZPVFdweEd0SDZYUmhoYlZVWTg0RVhCVm9xTjFWcjlPdi1nWnNQYjA1TDRnb2NRcHIwWnY5c1hQT3o2aVc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazFWazJ2dFhSTmxSa29XSk5hUDcxaS11dEpqb1VGQXR5MTlLSkRyTXR2Nnd3TW9kQTdDZlBXU2l4c3ZiWG9RX1lmRGdjZGhEa0s2dlc0YzJiRC1hdkpnVFJRRFpRaHBGOUtkWnVDT3BudTFuMDdBRXgyV1QwSUViWFpBeTJfSDhXTV9TTFRlVTBzbkxlMkFJMjJfc0NWaUdVNkxGUXJpRFZjZw?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMnFCd1hscFh4VEtVaFBSaklsSEdFblR2TlZsMHpVUFVYSUFfZG1YTFl1ZlZRNEc2ZGcwTGtJTnFJbW81c2s4T0RyM0RoODl5c28wRGk1cFVtRWM0WUtjeUV0M2s3dkM3SkgtVVNyR2ZtSmRyeG94TXg3cVdQdXQzZ3ZieXplOWtSWXZTUmJrd213VVhMWlBFY1VvNm1rVEVhVmoxTWhKSy0wNHc?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUxEZlpiNGZBRjlsN09mekh5ejJPUnpVYjFXckJic1FDekdBRzd6dzBxZDFKdG5xZ1dsSF9Tc1hyQ1NKRnFkeXVBNXY3REhpeEo5YlBuWFpSN2EzMTFvZ2pkYS1fMTA3dVM3clYxZnJRNldtb0pZSTFncHRVcGRNMVdiVG9RWFNoclZaSUtKYTlHR3d3Mlk2bXo1OWxxTm1ZVjQ4TWVxcEtTRHFOUjN2a3V2Tm9Sc3VHeWJmRlVpVFRDNlk?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzU4cTlhOVVKTmwxV1g5emdfNE1iRDA5Y0oxM201RnhsUDR0R3hfajhNVGowbFExY0RueHVwR0Y3anJnZThrXzZzZnAwa2JWTlctSEhpOEQtaTZ0V0NObzQxbXJ3aWZpeWVfenR6LWhMc3F1azhMcGNqWUNLdFA0ZjNENWlOWFhtUlE?oc=5",
@@ -1199,16 +1193,15 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/israels-2026-election-who-are-main-leaders-and-where-do-they-stand-key",
     "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVFQZ1FPTS1iRncwNFpmc3VuMzBYbGxGaGYxc01rYnZsOGRaR0JJOFZBVGdUQjg4WGtXVUpROWN2YVZQVzFyUVh1dEgwMTlmUWtsWkJIUWVGTXZ1TzlZMHByRkVLazFvUE5SYll5N2lGYXhOUkpvOFhnUkVfOTZQUnl2R1d5b0I5RFk2NUN0VDlQNXJCRmtiMXZoeHVZSGxQSWs5OHY0VXl4LVNXZmtCVWF0ek0?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGhUVE1JYkZmRGJMOWtWaHFMR2tWX3hYRHdBZnBxcEFCd2FXU01tMTh4b3h2c0FnTHZNY2xXVzdWeEFVLXJYRmZkRThzOVNzMHNPSWNYcWlHNzhsWlFlWWZsSW9OYm9vN09iQ011cjdwbUxzeXJ3WktYZDREZTJtMDJ5cmNxNGlYWHc?oc=5"
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGhUVE1JYkZmRGJMOWtWaHFMR2tWX3hYRHdBZnBxcEFCd2FXU01tMTh4b3h2c0FnTHZNY2xXVzdWeEFVLXJYRmZkRThzOVNzMHNPSWNYcWlHNzhsWlFlWWZsSW9OYm9vN09iQ011cjdwbUxzeXJ3WktYZDREZTJtMDJ5cmNxNGlYWHc?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-us-iran-negotiations-are-not-over",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkZndEF0V1JkZkJkdEd2RlYxUFNoTkpkQjBjc0k4MlBNTTdiNU04b1Z2STh6dWtUbjdScnRuTTNaRzVpcEt5RWswamdJbDVEaXd1RGw4cUR6YlpqaGdvZkcwN2lwT1N4U0xrcGpRZ0UtS1hIMHF5OFVMNEpxVS16NmFyMHIyOTRfQXpoUFNTdjBDZ3R1dWtRQUQ3cFFvclBjQl94S3Y4ZVI0WUM0anVCMA?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/warning-issued-saudis-jazan",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/austrian-airlines-flight-tel-aviv-diverts-bulgarias-sofia-after-threat",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbVdyakVoRWhCUTVrWHRIMUthc3VicFFrNGUxTFJpUFEyb2xNU09wZVhzZWZsSl9xdHMxNE1qY1ozY05IZENGSkplOFJsdjJKNXRSYW9QVkp0MFI3cC1EVkc5ZXQ2aWd2QkxRTGhJdkpmR2ZzVjFyQkY0YVoxM0tjODlkSFlIak9ueWpXaWZDOXJNZEVVVUlWcVFhbngtN29TLWpjNmdTVkhQLVd1MF9jaW9tTjJKUktUUGJSSVF5cXZKZXM5Mi1kd3FkZGMxSUFWMGc0OWo4Z01EQnhPNWY1ek84RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd1JBMkxuaEViaGoydl9qQmlZcVdGYjJjS3VoSDFGVUQwdlBPdVlkWkhZSXV2bHRuM3pGWWVGWENGS3d0ZDVRMU90cDFZeFR6QXJCYTk0a2pvVzl4WHFKRmhudG5uWnhWUlU5QloyS1I2bllDQUtLZ1BjTVFySUZpV0FpZGI2ZU1uT0NBOGc5UGtLaUkzaGhBeDNRWDZHVUNWOWtEeG5mVkJFNFY1UXhldmYzN3ppcEhCN09lWGMwcnFPVWpWUUdKRE5JWFk4NExNMktlRzc0Q24?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Іраку отримав запрошення від президента Сирії",
-      "summary": "Президент Іраку Бархан прийняв запрошення від президента Сирії Башара Асада на офіційний візит до Дамаску, який планується у найближчі місяці. Запрошення було оголошено під час двосторонньої зустрічі, підкреслюючи намір посилити двосторонні зв’язки. Цей крок слідує після нещодавніх переговорів щодо безпеки та економічного співробітництва, а також обговорення спільних проектів у сфері енергетики.",
-      "source": "Bilateral Meetings",
-      "publisher": "OANANews",
-      "published": "2026-10-17T19:46:02+00:00"
-    },
     {
       "title": "Гендиректор ЮНЕСКО відвідав собор Звартноц в Арменії",
       "summary": "Генеральний директор ЮНЕСКО здійснив офіційний візит до собору Звартноц в Арменії. Ця подія зафіксована агентством Armenpress як конкретний дипломатичний крок представника міжнародної організації. Матеріал не містить інформації про підписання нових угод чи спільних заяв, окрім самого факту візиту до об'єкта культурної спадщини.",
@@ -1411,6 +1404,13 @@
       "source": "Bilateral Meetings",
       "publisher": "FXStreet",
       "published": "2026-10-18T23:28:35+00:00"
+    },
+    {
+      "title": "Іран пропонує відкрити Хорумський проліс через 6 днів",
+      "summary": "Іранський міністр закордонних справ Аббас Араґчі заявив, що пропозиція відкрити Хорумський проліс протягом шести днів залишається на порядку денному. Якщо США приймуть умови, переговори між США та Іраном розпочнуться сьомого дня. Подія відбулася під час дипломатичного саміту в Багдаді.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-19T02:33:06+00:00"
     }
   ]
 }

@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9TdzVpREl3MTVUdlVLWVFzVV9MdDlvczlTekRQWE8yZVh3QU43UU9SazNuYy03RmlOeDVVVGtvR0IwRVRRdTFuT21pel9lTDQ4anBqSjRvb1pocjlIMHpYdVVERjZURUFpQW8tUS0xYmRYQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2pCdnRmZkRaZUNfRlNaY0lITnF0X0hqNUNGNXBQenRqNGl6N1p4R1JPeXA2SUlmT0VuVXVZcDd6Y1d6ZkgxeDdlNVhpbnhncndOUXVBa0ZIeGlqZm5tZjZQQkRua20wU29NSkRSLU1LMWx4NEItSGtrOXJDQUotTE1VVThGbmJQU3FEd19JaVhQendXbnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pa1FWNER6ZV90eS1FTHhrVThhdTBYWnRDSEdYd1BrN3hKTWVNR1dKTlg2bDJ4MGY2Tm1HNy1DM0hBdHVJUGVoc09ZRGpGaHZ0dkVmYg?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFdHNGZlMHUxQy1qbVZ5OXo0Sk1VNHM3U2QzRFNCemt6V1dmY2FyS3htVmZUaW1kSWd3TjBHNnk0RWtvMWtXaEJyQ2lGeWdRNDVDVWFPMEZieHlVbGNjakwyZTlLZnZGVG5oajZLYTBEUFhVeWg3RmxLcmEtQ0sxRXBKdXFpa1FvYWMwWWR4NUxMTi1JVFR4S0ZHUlNpRHpLX2ZrRTNWV0dPU1A3TElMeGNR?oc=5",
-    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeHIyQ19xaEMtOTUxOFRhaU1Cc20yUVlnTzBwdld0WjJfVUVkd09SdHc1OTBwNnBrcFdtNXdBN1loTlFWdzJ2c29DdHA1MHJweWhRUVF6ZG5EcUZnYTM2VVFacDJ4RTdfdEFpeGhKTmd0WUZ3Znh6VEM0WllJZTdrQnJDRmVWWEtISVJQaGl4NWhDZWdIMW10ZU0zQ0JZcnNxbktEV25GVUFod194TWNMb2p5bWZRckFwc1FDUEM3VnNPRUJqTEFTUXkwcGtTWXVvSE1yUW9leENtU1ZOa3U5bUFnX3gyV2lvX0NSS2I3Q2NjZGNIYTFwMVRCcw?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXQzS0hoOTZST1RDZFJDaDBFY1pLejdPbW5jOGhMNFlSXzBmR1R1WENfMVMxa3YxUmxPQzh4NzJzUVVYRkV5VXRkX2JjU3Iyay1Ib09kUUR1azZaVWpoal9abldsRlhhRzU0QXZzUF92MUJXVzJ5SVA5bk5ObmNBdmpOU2lpY3Y3V19wd1VJWUFnakt5SU8xMUtRaU9kd2t60gGmAUFVX3lxTE9xN2lxa2pmRlpldnk1OGdmbjdRWTZmTEVFcGZtTER1V1gwQUxDai1PN2lZSTRYdmhDZEZsUklJVmVRYldXeUx3dkFTby0wdHBNSjR3S3o2c1FVTDVXVk5mRGJzbW1lRDJQQW94VjBoY3VUTGhjMGJUNlVYSkJpaV9Pb0pxNjdmU1ZROFVSbUNYVy1OX2tHLTZGY3dZNUhLaGxLaFBNS1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mOUh1WXVpdFJOOS1vZUMtUTJBWm85YUplU2FheXNqNVhwWTFnU3UwVjZhYTNhelJwN2c0V3djOU1tN191eFI3ZFBDUmctY3BUTzRGSk43NWw4aU0?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXE5NHBUS2pQa1MzS3NISjU1X1VhdDM4b3NFTUE5TVN1QWdIWkxKbmloY1FHRGowQzlFZ3RLTGJGRU1fNXd0d09FWnBrdnVvcGJjWEFydmwtY01yM2t0eGkxeUt2UkstRExRcnlpVkJzTjhRR0xkc2dpdm4yMi16a2locFhOV0VmaHFESHVzN0ZKX0Z3M3c?oc=5",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbXNGMUxOaXpvTGItc2g2SXhWclhWMkJyYW5lV1BjSkhIR0lqUnl3c0tGWWlWQW40eEdoWHhkZHZLMi1qV21lQ0hjTy0wSnlfWkhENlR6dVcyaVJ2X2JkNlpUNnQ2cklzN25jcUNudEtzcVduVnJvZC1ub0xBR0ZlVTZrWHpVdXBTSHAwQm9UY092XzZUVGQ3ajBCU2pRdDFDQTBuOEs4al93REtMenZ0UVBmTXJZYndTUXhILWRCenRyQnNXcllYZ3djRnhZQkhRRW85VzY5SVd0SmZnT1ZnSy1TTFRUd3VNUlFGZDg1NEM3RjVGZ3fSAfsBQVVfeXFMTmtkV3dtOTF4UWdhM1VTMUY3b3UtaHJ2OEtpLVZCZEFIUkp6ZmJheG9neDJ4ZlR2OWNkd3phN1BYcXM2VnNhN1ZqMTJ3QkxMTEZCZ3V0N212VGJJY3dxSk1lNXgyN3RZOWxiNFkxM3lzVGItSFVYbFdnLWp2TzNESFhUY19OOWc1eElESUhWMW9NTmdSWWlaaGlzY2toM3dVQi1yV0JtcVFMcE1RWVl0VXdlSlhQdjJ2bER3Y3F5RDJqdnExa0dvZi05R2xhY1BCTzRRMEdqS3pKN1kyRThOZEZmUHVORDEybHNXOGktMjZQSnlEaTN5c0IxT0k?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVExjS1p2OWg0TFdLTC1sNmhwNnUyb1FocUhwRzNVVzVuLXVyU2t1aFFOY3J6NnpGc1lSRk1HWGEwSTlGbmszSzJnc3NBOXJGaldLOFdKRE1QV0NGalM3TGhOdFVFcnZKanBXbDNzdHVqNnlob3djZDhzTm8yVDdIMTBTZk1TeFZTdk0ycWhsQnpjNGRtRmdlNTlNc2kzdllOSV9JdlN4RnpPcUU0RDJySmhRcmhSbHdSalNPZzZZVkM?oc=5",
@@ -1199,23 +1192,16 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yQ1I2LVNucDQ5Umt2VmdmcnVpalNjbDhxal9kV1Nnbm9nSGxrc2R4YzFVRVRGTDFzOVVJYXJOenRCM1VkSjJSVEJqd1c4MFgxMDNsR2hDeTVqWjJFUVFxTjhrYU0waXZHM1RqMHBoanI0ek85bFoxcEJTbw?oc=5",
     "http://www.africanews.com/2026/10/20/south-africa-ramaphosa-warns-of-devastating-impact-if-us-trade-deal-is-lost/",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3ljbGJhLU9iTE5EMkJ2QlBWb0RDbWZuczExeC1xR1Yzb2pKblFqUjhNNEFlVjBnUFpTN2pQSVpJYlZNaktoc2tXbW9yRk9GNC1JVmdaQjRWU2JTSnZIUWRVLWNGRFdBYUZwUUxVM1VVMXVTTm1RNWs5Sjc2QXhhUno4dVk?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmd6Rm8yT2xpNjVjNkxQeVE5XzJDSHlXd2pxNW5xZXNnTE5oZkJULUVFSzF0UGdrMXc1R1Y4TEI5MkplazJSaERVeGZkZm1XZzBHdmI2cVZ0VXdBa29nMnNsSEVWSDZ4bTg5QWNhWDVBeWJkdDJUWVhKMGhWNFNBN1NfQ21DZWNmcXMtWUQ3cTk5LUJPR2FiUWU3SVhfWldTNUduZno0ck5vSEtOUHJV?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmd6Rm8yT2xpNjVjNkxQeVE5XzJDSHlXd2pxNW5xZXNnTE5oZkJULUVFSzF0UGdrMXc1R1Y4TEI5MkplazJSaERVeGZkZm1XZzBHdmI2cVZ0VXdBa29nMnNsSEVWSDZ4bTg5QWNhWDVBeWJkdDJUWVhKMGhWNFNBN1NfQ21DZWNmcXMtWUQ3cTk5LUJPR2FiUWU3SVhfWldTNUduZno0ck5vSEtOUHJV?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-launch-air-strikes-bani-moath-saada",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUUx1OFczRElPSVR3b2ttd3F0c19PQVpyOFg5T1BzNWVzYUtoRXV4WjJBLXBqSG5FX1p2YXBVU3pLQmVLM2psMnRZeHl5dkd0RVptTFZLYnI4NUlWSklvU0tqVU5IdTNqYTFIeGhTbFJIeHVnbWx6TTliSkxKdnYxZ09sSS1aeExmNF9zQ3RsX1prd0w5Y3BCOFBPMWtYRGJITjMtZHB5N0V3WEdUU0VJdksxU2NxZXBoODlHRVV1dXdOc3ZkbllINnpsb1JpLV93b3dFSVEyZ1VQbjd1M2fSAeMBQVVfeXFMT1RMV0RzN3VFdHo1UEhtdXg5WHE0ZmxtX2R5azVHR2JtX2YxUUJsUGg2WVowLUpQWGhSNTN5WDdocUFkcV9NRl9wQVJMbTZlTEtGN200VGFkU05Ec3kzZVVEakctbTIxa1pDWkNydlVaNVNob2RnamR0UXp2cjByLTg4UENXTG91Sm54RjZPcG5IYUcwNXEya0t2RXBJWDd3Y3FxaXAzZ1RveEd2Qm5EazRsVDF0Q2lzTlR6Nzg0Z215Z0NCVEVlZFhKcjRqaEFva3NLeHdqTDhXaHdKakR0d20yZEU?oc=5",
+    "https://www.theafricareport.com/433913/energy-transition-africas-pathway-to-economic-sovereignty/",
+    "http://www.africanews.com/2026/10/20/kenya-relatives-welcome-guilty-verdict-in-shakahola-starvation-cult-massacre/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-civilian-detained-israeli-army-released",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Омбудсмен Вірменії та голова австралійської комісії з прав людини провели переговори",
-      "summary": "Омбудсмен Вірменії та президент Австралійської комісії з прав людини провели двосторонні переговори. Ця зустріч є офіційним дипломатичним контактом між представниками державних інституцій двох країн у сфері захисту прав людини. У тексті джерела відсутні додаткові деталі щодо конкретних рішень чи підписаних документів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Armenpress",
-      "published": "2026-10-19T05:27:00+00:00"
-    },
-    {
-      "title": "Сінгапур та Казахстан підписали чотири угоди про економічну співпрацю",
-      "summary": "Сінгапур та Казахстан офіційно підписали чотири міжурядові угоди, серед яких одна спрямована на посилення економічної співпраці. Документи були ухвалені за участю Сінгапурської ради економічного розвитку (EDB). Цей дипломатичний крок має на меті поглибити торгівельні та інвестиційні зв'язки між двома країнами, встановивши нові рамки для взаємодії.",
-      "source": "Treaties & Agreements",
-      "publisher": "Singapore Economic Development Board (EDB)",
-      "published": "2026-10-19T04:39:30+00:00"
-    },
     {
       "title": "ЄС затвердив заходи щодо захисту працівників від небезпечних речовин",
       "summary": "Європейська Рада затвердила нові заходи, що обмежують використання небезпечних речовин на робочих місцях. Міркування включають посилення вимог до позначення, обмеження концентрацій та підвищення контролю. Рішення набуває чинності з 1 січня 2025 року, забезпечуючи безпеку працівників у всіх країнах-членах.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "Construction & Property News",
       "published": "2026-10-20T00:17:43+00:00"
+    },
+    {
+      "title": "Зеленський відвідає Норвегію для переговорів про війну та безпеку",
+      "summary": "Президент України Володимир Зеленський вирушив у Норвегію у вівторок, щоб обговорити питання війни та безпеки. Під час візиту планується зустріч з норвезьким прем’єром та представниками уряду, де розглядатимуться можливості військової підтримки та посилення двосторонньої безпекової співпраці.",
+      "source": "Bilateral Meetings",
+      "publisher": "Reuters",
+      "published": "2026-10-20T05:47:00+00:00"
+    },
+    {
+      "title": "Посланник Трампа Віткофф вирушає до Норвегії для переговорів",
+      "summary": "Посланник президента США Стів Віткофф вирушає до Норвегії для проведення переговорів щодо України. Ця подія є окремою від візиту президента Зеленського, оскільки стосується конкретної дипломатичної місії американського представника. Точна дата та формат зустрічей у тексті не зазначені.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "published": "2026-10-20T03:19:48+00:00"
     }
   ]
 }

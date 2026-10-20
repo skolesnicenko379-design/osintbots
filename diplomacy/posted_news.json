@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd29ZYjB3TFN1UjRUYmlfUTF2d3hGQTdkQW95bm9kSkxIajBTQWw5R0tySDRjbzJzS2duWVllVlU3NkRiaG5ZRTNMQ0V5RzhYUmIxQklBaTR0QVpUYXplMW5ISzktSWlsaGxXWVZyMG1ndVp4VTYtZ3pWS3JPdGdxXzVWd2V1V3BEU0dmTGhPOW9tNXo4MS1YdkI5T3JROG1mOHFmWDY0SVhJZ1NWdnFoYnhvMDUzX1V5Y1phcHFLODJkTW5QSDQwTUd1TkFURm1oQXc3YWpZM0VCT2V6VTN2ckIyaUhlcjBy0gHuAUFVX3lxTE9UNm0yTlRtTGtMTElfMmcwTnM1bV9uaDQtdTNyWEptTTNOSHJwbU5Eb2tZWkIxOHlhX2NGc2NjbEpWWVFQRHFtWFczcHgyajQ5dUVrYWNZejFDaEt5X3BiQm15cy1KN1h2R09YNkNFLWRqdDVTSWlIMDZ1ckhkcTJpS09LdHpYSG9hVWVZUEVaR29YOEphVzhZRFNPWlpkXzdKM0hiakhxNVNNU1ZsaGI0aVItNWFLVnltbl8yU2lZNzVpNk1LVndtcHlPRFZualZvN0Fic3U0WFZWaEtfWGNBeTBNekNiV0lqVDJLa1E?oc=5",
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTDhtZ2tHWm91dXpHU2V4TkZCTFhOWkFvV3JJVmpnX1pSakRpTGcwelVudDI0ZEdEcG1PUmtiT0RNcEdzRUFwYThsbHJPRll4VUItRFlUd1RBVWo2TW1rQ2JrUnVNN2diaEpWaGhLTkk1X3EwVmZNbDFORlZFVUlpWHlXd1NYeGlYRWF3b1Nua3lIeWVBMjBrN0VfczNaMDlJNHJuWWpCWGVkR1I0VW5ZSGFpajh0T2tpNXRhUmloRVVxZnpoamZXZWhsdWFoUlllQ1YyN3V6WUdIeWllQnMyc19RLUtvb3JVZzVCdUdDUWIwall4N2lwSHJCNjI0V3ltOXN3?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbjEzSFJNZFVvLV9jbTZLbGJjejFFX3Vjdkp1WWg5UVVTUnVqU0dWamw1THlQb1E2WkpkSURNSlNYUHBQeDY2clNWcGFPT05YRzdKUkIzRkhJdDFTLVlzMkQ2UGJvZHVfeFU3V19JV0RZazA2TGlrdEpLVzUzR3fSAX9BVV95cUxNRm4xM0hSTWRVby1fY202S2xiY3oxRV91Y3ZKdVloOVFVU1J1alNHVmpsNUx5UG9RNlpKZElETUpTWFBwUHg2NnJTVnBhT09OWEc3SlJCM0ZISXQxUy1ZczJENlBib2R1X3hVN1dfSVdEWWswNkxpa3RKS1c1M0d3?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BZkFaUWFOZ2UtOTRvdHhScjNIX09VV2FtZjJNQ01FU0lXSlh1VVE5Q0N3TmpxX0ZfZXRydWFQdGJNZnRjVS0yY2ZwSVZXN0hBMXBuVmJxUVpGUkpOT2M5azdQS1dQM0RpNkY5RzRPbWRDLS1tUHRGN1Zn?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUhpeTViT3Jia2VOa0xaRDFXUzBJWXJxU3ItRFNENG9DZ0I2aWFaTXNZbkpjcHpiQ3VXT1VjQkY2aWl0OGRhMHhOTjdrMUFZMXhmdmQ5S3FtUFdhSEpEc1RDbTBYY2RJTGtYeGFiaGt3c296YVVmek1WZ2h6V2k0eV9vMHBmNkFLTXlN?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3YyVU5UWkdKY2IwNC03NFU1MWhkLU8tSEltTmVkWmR6XzJrQ1djbEUxY2N3eEpsd2o4VlpBd1BkMWEzX0ZRWDBkNHhwRjFfNk1ZZUdvd3VhZGhTNlVjRHljUTRLa3ZZODhwbmc1b0dpV0RPLXFscXc5V3FMMnVCTEtHLVJBMTNtb1BLTXZENDQ?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnZOM3BfdUtPNkgwQmY1SktlZDk1NXJjZ1NFVHJmNkY3UlZ5dWVjR0JFMkNMUWFXLXpnYzRrQU9HM0tXNm1wdk5RaVh2dXRyLXRaMXFiVE0zOGZfZUZkb3ZRb05XbzNJRXQ5WWVfMkV2aFJabjN3djlYU2x1M0hoWWV6RmZ4MHk3UVc2d1BsSmxtN1VjeTZfc0gzSnhsM21JQUxBaG80eV9Cdl9O?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OWEo1UFFmeVNwZmhTRUZYRzAyNE5tMkNvWWtMeDg0Q1NNV0xmT3NYS2NJT0NqSE02cFJ0T0lqR2kzQ1lMUmd6VTE2ZEgyN3Blc05ob09lRktXWGVjN2Z2WXB1cXdaOXZ2TlFna3dYUGRqeHpzNmFJ?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xSkpzYkpQeC1iNDJjbDNpdlRfYTh0SjFBdjVabWNwSElpWEdkMWpGVGVZQ1BiRXBHaHI5NXFYR0tRdTRYRFRNRVVWZkRQelRXTDZ6NUo3QXl2UW04UkV3?oc=5",
@@ -1199,16 +1193,15 @@
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZWlGbHhwWU9kRnNhVGhCd3hDbGluUktmUEpmVTVEZXprVkRKYlVhbVFWb2dTbGptX2NveHRBUmNrSUpiMzBvSjcyS3VrSkIyQ1o0NkZwS2RCYVNsMUwxajRaT0kzSWFTYnJpb0hOMFVHUE1DSGpsQ05obzhpZjV4YjhwYUE2QXlpaTMyU0twWXBWdkxvRGlNRFRwbmZsZWEwOGkyaE9XQzl4OTVYdlg2a05Mb0JrLWFhY3N5S2ZjRzRiMnhjcUJuTm9DVElGNXJiS0NEamE5Uy1tZElwZmRxbmNzY1B2bkpRSERubEVReW0zRldxN2NZQ1Q5Z29SQQ?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGZnT0Y0S1JPbzEwRTc2X1pDbzdCb1ZlbVpLa2IwWThaTW5vdmFlQm1vdmVTVlZoUGRtQ1E2RUp2Y1ZKekpvZGNWM3lFbEpXYTRhUnlndnhmMVJfb0xxQ0N2UnpIdjdHb3h4NER2RFN3azUzNUlYRnkwclY5dWtEWWFqM2ZwRkR1MEhlVU5ENE1CQdIBkgFBVV95cUxOX3V3cmRHVzB2STZlaDVjZm4tejJHV0NSMkNxY1FlaGk4WC1IakNzcVp5UUF4aTFOb2Q4RG1hY1gxTlZrWjFIWGZVZm5sTDEyZ2dCUUFmNmNvaHE5VVZlQXBKRzJfMWV0OVBUdlo2b2hxenE1cWtRdkNZZzlyWE9MM3dDMjB6ZkVnRXhJYWJwVXhaQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDR3alJyemVwck9oU194YVRqMFhRQ2lyY3hfUlpwV1U3R001ZjBYamo2MWFEeG1CM1prMEc1Yjc0djM2TlhqQkw2bnp2b3BLMEZjbXlXTXBoWXd5QzVJeFpZTU56NE1IUV9mUFJKUUZLQjlQOTNxc2FYQkp0SkhWQkt3UUphUi1nQUtUZlJKR25yQ01Cb3c2Sm9NLU11eEFGVEVRRzNoZklpT3kwNXVnSmFQSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2NFVXRsdG5haWpTRzVDQ3hvNHlFTnRLWDdFc0UwMFZhSmFMMGtzMDBFemJuWEd5Y3lacktQOGY4cEgxYTEyMU9lQlh5RjZOVUV6b2hDOHZMckdoMkpadUlNWlRHQUd5WklOSUp0bjNZU3d2RlRlczQxM0hBWWRvZWNTOHFBQ1pNb3BsNU1ESk9RbWdzM3BnSmRFdTNCSHZwVFNncUZnWk5sOHlZa0plQWNKWQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2NFVXRsdG5haWpTRzVDQ3hvNHlFTnRLWDdFc0UwMFZhSmFMMGtzMDBFemJuWEd5Y3lacktQOGY4cEgxYTEyMU9lQlh5RjZOVUV6b2hDOHZMckdoMkpadUlNWlRHQUd5WklOSUp0bjNZU3d2RlRlczQxM0hBWWRvZWNTOHFBQ1pNb3BsNU1ESk9RbWdzM3BnSmRFdTNCSHZwVFNncUZnWk5sOHlZa0plQWNKWQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/joint-statement-by-the-president-of-the-european-council-and-the-president-of-the-european-commission/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-confirms-he-visited-israel-spoke-netanyahu",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/irans-military-chief-warns-stronger-response-any-new-attack",
+    "https://www.gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGZMeU02SzVORHRvZTRRWDVGQW5hREU1NkdhMlo5bm56Wk9MTlh1ME1ucXczT0JwNUtjUlJfVmtHRlg2blZpTnBPbWN1Nk9mVEd1VmVqUUlEcGhrSXFDV2ZnWlo2MXNud0hhRll5S3hhRzVfTnl2UWprTll4dE5PM1hXSWVaamRWQ0xSU2c1aHdtREE?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CVkJzVVd2XzNjT2tqd1dJT3FRbmxaSTgwWkY2Y2h3VUtjZEF2eTl6cG84OXdCaGFWUTJGa21HZ2ZQa1V6TE0yQk1oMVY4NXhsekJnNUZpdHNRZ3VFUHRmX1BFOVlWQmNmNzNWMVZiNDBaaXVT?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Нетаньяху подякував Трампу за підтримку перед виборами в Ізраїлі",
-      "summary": "Прем'єр-міністр Ізраїлю Бенджамін Нетаньяху провів телефонну розмову з президентом США Дональдом Трампом. Під час дзвінка Нетаньяху подякував американському лідеру за публічну підтримку перед майбутніми виборами в Ізраїлі. Офіс прем'єра опублікував відео розмови, де Нетаньяху назвав Трампа найкращим другом Ізраїлю в Білому домі.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-19T17:16:23+00:00"
-    },
     {
       "title": "Міністр Кортес провів у Брюсселі зустрічі щодо угоди UK-EU",
       "summary": "Міністр Кортес провів зустрічі в Брюсселі, присвячені угоді між Великобританією та Європейським Союзом. Під час переговорів обговорювалися питання реалізації домовленостей. Зустрічі відбулися в рамках дипломатичних зусиль щодо врегулювання відносин. Конкретні деталі учасників, умов чи строків у повідомленні не наведено.",
@@ -1411,6 +1404,13 @@
       "source": "Bilateral Meetings",
       "publisher": "The Times of Israel",
       "published": "2026-10-20T18:58:28+00:00"
+    },
+    {
+      "title": "Великобританія закликала до нормалізації відносин Косово та Сербії в РБ ООН",
+      "summary": "Політична координаторка Великобританії Дженніфер МакНагтон на засіданні Ради Безпеки ООН привітала формування уряду Косово та обрання президента Джустіни Шірока Пула. Вона закликала країни-члени ООН визнати незалежність Косово та вимагала від Бельграда та Приштини реалізувати існуючі угоди, зокрема Охридську угоду, для забезпечення довгострокової стабільності.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-20T20:57:41+00:00"
     }
   ]
 }

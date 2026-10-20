@@ -2,7 +2,6 @@
   "links": [
     "https://army-technology.com/features/demand-signal-swebal-on-western-energetics-needs",
     "https://army-technology.com/news/elbit-systems-extra-mr-puls",
-    "https://army-technology.com/news/us-army-drones-africa-test",
     "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
     "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions",
     "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
@@ -12,12 +11,12 @@
     "https://defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots",
     "https://defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
     "https://defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat",
-    "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
     "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
     "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
     "https://defensescoop.com/2026/10/19/hdusa-industrial-capacity-plans",
     "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
     "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
+    "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
     "https://gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/hegseth-meets-netanyahu-during-unannounced-visit-israel-axios-reports",
@@ -47,12 +46,15 @@
     "https://militarnyi.com/uk/news/lytva-planuye-zminyty-zakony-dlya-inozemtsiv-yaki-zagrozhuyut-natsbezpetsi",
     "https://militarnyi.com/uk/news/lytva-rozpochala-rozgortannya-an-tps-77-mrr",
     "https://militarnyi.com/uk/news/na-fronti-starshield-perestaye-pratsyuvaty-na-161-km",
+    "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
     "https://militarnyi.com/uk/news/nvidia-investuye-u-nimetskogo-rozrobnyka-suputnykiv-reflex-aerospace",
     "https://militarnyi.com/uk/news/oleksandru-zhybrovu-zvannya-geroya-ukrayiny",
+    "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
     "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
     "https://militarnyi.com/uk/news/sanktpeterburz-poshkodyl-rezervuar-ta-mosty",
     "https://militarnyi.com/uk/news/sklad-inozemnyh-komponentiv-u-kometah",
     "https://militarnyi.com/uk/news/ssha-dozvolyat-chastyni-tankeriv-tinovogo-flotu-povernutysya-do-legalnyh-perevezen",
+    "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
     "https://militarnyi.com/uk/news/ssha-zatrymuyut-peredachu-raket-patriot",
     "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
@@ -73,7 +75,6 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmlGeGxuMVdlQ04tWS1lQkZZcHRWYWpvejVJZWgxLVFiaW1XVloxR21RMHQ0eXNYUTM2LXFTeGlKWXJYd0x5eXRCMVBWWVZtQTUtWnNySHZzN0FpVHh3a01oUXJZVU82bDRKWmhQVUFCR1FXWXVZSnB4LVhxaUFqSndIV3pTSE1qbGFadTlFWFBKd2Z5MzdDTFM0UkZZemRiSGxuaFYyQjllTDZwTkk5YWU5NmhCRkdSalRCTHRua1pycnlLVDNYVEd6U1pNdjY1RlJ3MmZQRDd6ZjZ0YkHSAeMBQVVfeXFMT2xhSUtuczVfMldsUWMtMzdaUktKMU55Ym4xcE5aa2tFOTh1QzNLQzA3aUg2THdHWEVGQjFDbzBnY0lPaGI4MFozd1RpTFhVaGtWenJBakdJSmQyVGkwbFIzdGw1eWkyM0VKX1g2dHBqNEhMVGpmeko1NEVLYUpBblJHeXdXZlRRRzlYdnhjR1A5LTVZTHNuNEZOY1l0aF9KdkcxYjVrUm9ZaVh5eXpfdUNtTnV3eUZqUVpWUkE4Y1pNcTZkRExtYVhKdFlYbXlYYzBNMUtwNGpMQ1BmSW92bmcwLVU",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEZ1OUJ5UXVwa0FiSlhHeWxpUkY2M194WnZWMjFTZFBxUEtYSFB6NTZxOTQwRVFRcDg0TXZQazIyWVdlbTFmLUJSWmI1NXRQclF6Qm5YOUFNclpuNDE2b2RaeE1pV1cwVnNhNTh2MUlvd192aTRGTFkxVFF4N1pLcDcyeFo1cnl0SmpiUUJTV1FCbTAwT3laRmU4eXMzU2pWVUhyaFc1cFhwekhjcWVNMnc2ZnMzeUNmTmRSbW91dm9Ua3RNZzlocG10SllEc2FEU2Z4ejdFRGhkekd1ODI00gHkAUFVX3lxTFBsOGNNTXF2aXlaa29jM3R1UWZsVnBPc29vaDdDY0FCamVBaDNiNnhmMTUtQWliYm93c0ZRQzhKcy1aR29OSjRDZi1kdWVZODZ1a0lSNXlXRm1xQ0UzN0ppTjNzZmhrZjk1THE2VGR0RC00VzZHX0l0S2hXRUdmU0JhLUZnekxmbEx0LXJ4TzBZTk90NkQwdVFhMHlSY2xIRS1iYm9MNXM5MEtHT0EwWGprZ2NtYzlkYzhJcnZnb1QzMXhYWS1sdy1mR0w3RVhBX21reHVKeUM1R0pVQlVwRVBBWi12Ng",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDN5cTZkNXh5bEMwT1gyTHkycldWX2NDOG5iSmswUWxzbFVSQUNaY0N0SmFZeFE1c3FWMVN5VFdFV3BLN2hBSXhLY1o4Z2xjWUhKR19ScWJ6YklkU0Y4YWw4bVo3UDRoSTVJM3lsOXJpM1pvWjVlR0Q5Y1k3ZVFJQ2FWSlFoeXZrN0cxXzFodlhyUVM5dFNqNllfdlVuaWxFQlhidmtsbEhWRFFjTjNnazZucnRkeGY3SEViaUtwUFlzeDVJS0hqLXp6b3FqQlk4eXZXbmZHV3FhWjdzMDhtYlBNVXVndG_SAewBQVVfeXFMTXkweGpUTkZXTF9fbnk5Uk0yQ00xQkpjRVRXdkc4OVhOcEJHSXJGQlhZWDQySWZob0QzNm1JUkxJMmNZR1FfcUdBVXNrcmUtOFd2WmtjZ2pPR1laS3dENzFmWDNFZWpyQWYyTXdoUmZrTkNjTnhwTThFV1dVMXgwMDBnc19sMENaSzdqeFlPTlBYRC1yRjdpVHlyUjBDYTIzQW9ERmhkOGsyVlZXQW0zaXl1VkdLRkZCQ3J6S1ZKT2c5ajdnNGlBcUw2ZFo2UnVhQlR6VVNXd0M4YjhzWk1GT0ZZSnpPbW45aTdjVVc",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZW5DSUEtd1VpMTdfcS1oeFlvbjVteEdmek5wQ3N2RXpOUERncVo4cF9Tc0RrVG5aMy1Dc2NlbVJiMkwwSXhGZl8yUDY5MmFNak9GVW1sZE8tYml3clZuY3lPdTdOalN3WVZwQTRfc19xZ1hQbXFIQXdJMklOMllQaHNwZGlHRV9ib3lEekNic05qcFg4YWQtT0lmTnF3MHBwZjRDVXVVcFdoY0tFblczaXh6T3dsb0I0MEE2VVZaLWVWU1NHU213dEFwc1AwQmJzcFhqd3V6dnNtb1ZTZVVmOUtUQ1V2N09s",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUlZURFhZa1ozRll1UUIzQ3NwTUU1RVFBcmk4U3BtVzZUTEVYZ2VoVkg0YlF5MktlaVh0Qy1mcnJXWTEtVk5USHlfNzE4RHBrS0kwemZKMHlob0s3RTlNQ2t5WVNKX0xIZUxOSFdTbEktSkNZNnh6QTNPZE1VOUt2Ri1pRi15VFlHUHFERW94NFpuU3lKZkdRTHRkRElrY0lIa0QyUVNNRk9FSmIyWnBsZzY5OUhBR2dyTFZBYnUzNzBLVEtjYjFvaFZ4R0JHcmNXY3VrNWtXWHNWN0duRUc4S2JBeTNsUzNCa1E",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXBxTTVoaWJpYXpwY1BFXzZPSVRpNV9veGFvc1pNVTJlREFrNnJWMjFqaDR1c2Y5NDFzTDFRMjIwLWtyWVdIZ3lBbUt0cjNpdzhZQXMxMm1kZ0FUYVRhNWduNDBibktBUTEwUF84ek5mNUhLV1lCbUlEc3FLSXZ4R2JXZlIyWU03cjFiM1BPSTNwZTJpTGo1ZWF3NzRLX2RzTk9wV09UT1pZYk8zQXN5RkNGbjNWaHd2M01JUlVjZXNaSUFyRzJXQk9hcVNwN2pLQ28ybEN1bHhsN1Bncmx2eEUtc25WY0tMc25PVg",
@@ -126,7 +127,6 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzlnLW5PWjd5SnRxdDE0MGhTMUZNX2stR2VsSXRZWXg2Z1JMekh6bW9pbmxQSEhkVzZyS3hDd3hpcnJ3Qk1weU9mc050eWFxRVFYX2puVWpOZVRkS1BxR3o0VHVKRXRycnN6QXJ1ZXlXZmFqYy1UWi0teE1jWk1hSHpBdUN5alBMQWZ0SkJTclUtVTRBRFhOQmFwN0xKUXNnZ0c4NG1iZnk",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVPOHM3b0NNVFZoMmhSSFlaMnZoU29FSXpEbkJFMENienNjTlJNc0tZYzhNdVlLUnVvdk1pVkxEOWRYcldsT0pFeUJjS1VzXzB1SVUwT2lBeU9vMVUyN05rNmZZeDl1dUV1QkdXTWFjWDdMU1ctX1RGeDE5YlhoOE4zVU94WjlsX2xTcFlmU1Zsd2NBV3FMc0pnd2FCV2E0akF6VjZ1MXA",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3VCOHdVdjBCYXR5c0NtbHRvRDAyM0wybXNsMkhxaGI4dURyTVU1OE51di1hUXlaRHAybHhfNHZHLWZkcVl0eUNBRWY3cFJpR1ZiNjlrX1phQi1WREo3cVFHQk5peWg1NmhCZ2I3eENvd1NWT2RCYzlGSmN1UnM1c1Y1bV9naGxUUWZRU0tvX3FhdW1MUGZRc1h5ZFlXZVRTaGJFck51Y0w",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1ER1lKSjJBWnpIamduNWhfb3Uzd1VoQW83MzZIY1F3UHZzZ3Y2R1VNSWdoaU14MEhFODF4TTQ2ZzdwOVdVczRjdTRuQTFZcHNpWDVDNlg3YXlCZ0oxX1dpczBaMG9RNXBGQ1NKQ0VDS1dfRFBRb0VGRVJPcVp4cmhtU1JZT1VDS293b0g3WXl3eU5PYUUtOG4tdl84eG1OemdfV3dfNUZFU3c",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWk2LU1JRlhES193bTRKbGFZQnNIU2w1LWdrdGVPdTc5eGJSSzh5RzJzaHdwNFJHY0Z5UDM4dy1qX0ZHWlRsRDI3TVBtM2xZYllSOVJ6dEl6MFpucWV6RFYxTUZVVkNKd0stcnFSb0YxcjZ5YnBtWWtuWkduMzR5XzNXTGdhU1VWYWs3aWZHa3l2OVAtcEpRRkc4YS1HaG1EM0pQcnk3Q3lwQ0RwZUE",
@@ -152,46 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "Командування закупівель армії США уклало контракти на 6,8 млрд доларів у 2026 році",
-      "original_title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "summary": "MICC уклало 21450 контрактів на 6,8 млрд доларів, з яких 2,9 млрд отримав американський малий бізнес. Застосовано Other Transactions Authorities, SBIR Phase III та Multiple Award Task Orders для складніших регіональних потреб. Ініціативи FORGE об'єднали модернізаційні проєкти, що підвищить ефективність закупівель для оновлення армії.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
-      "published": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "Мідь дешевшає через зростання запасів LME",
-      "original_title": "METALS-Copper falls as LME stocks edge higher and mine supply concerns ease - The Economic Times",
-      "summary": "Ціни на мідь знизилися, оскільки запаси на Лондонській біржі металів (LME) трохи зросли, а побоювання щодо пропозиції з шахт послабилися. У доступному тексті статті немає конкретних цифр: ні рівня цін, ні обсягів запасів, ні розміру падіння. Зростання біржових запасів і менший ризик дефіциту сировини зменшують premium за нестачу пропозиції та тиснуть на котирування. Для макрофінансового бачення це знижує ціновий тиск на промислові метали, але без кількісних даних масштаб руху оцінити неможливо.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDN5cTZkNXh5bEMwT1gyTHkycldWX2NDOG5iSmswUWxzbFVSQUNaY0N0SmFZeFE1c3FWMVN5VFdFV3BLN2hBSXhLY1o4Z2xjWUhKR19ScWJ6YklkU0Y4YWw4bVo3UDRoSTVJM3lsOXJpM1pvWjVlR0Q5Y1k3ZVFJQ2FWSlFoeXZrN0cxXzFodlhyUVM5dFNqNllfdlVuaWxFQlhidmtsbEhWRFFjTjNnazZucnRkeGY3SEViaUtwUFlzeDVJS0hqLXp6b3FqQlk4eXZXbmZHV3FhWjdzMDhtYlBNVXVndG_SAewBQVVfeXFMTXkweGpUTkZXTF9fbnk5Uk0yQ00xQkpjRVRXdkc4OVhOcEJHSXJGQlhZWDQySWZob0QzNm1JUkxJMmNZR1FfcUdBVXNrcmUtOFd2WmtjZ2pPR1laS3dENzFmWDNFZWpyQWYyTXdoUmZrTkNjTnhwTThFV1dVMXgwMDBnc19sMENaSzdqeFlPTlBYRC1yRjdpVHlyUjBDYTIzQW9ERmhkOGsyVlZXQW0zaXl1VkdLRkZCQ3J6S1ZKT2c5ajdnNGlBcUw2ZFo2UnVhQlR6VVNXd0M4YjhzWk1GT0ZZSnpPbW45aTdjVVc",
-      "published": "2026-10-19T12:02:58+00:00"
-    },
-    {
-      "title": "Nowcasts GDP сигналізують прискорення зростання США",
-      "original_title": "GDP Nowcasts Point to Faster Growth as Inflation Risks Mount - Investing.com",
-      "summary": "GDP nowcasts вказують на швидше зростання економіки США. Одночасно посилюються ризики інфляції. Така динаміка може вплинути на рішення ФРС щодо монетарної політики.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Investing.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHVPOHM3b0NNVFZoMmhSSFlaMnZoU29FSXpEbkJFMENienNjTlJNc0tZYzhNdVlLUnVvdk1pVkxEOWRYcldsT0pFeUJjS1VzXzB1SVUwT2lBeU9vMVUyN05rNmZZeDl1dUV1QkdXTWFjWDdMU1ctX1RGeDE5YlhoOE4zVU94WjlsX2xTcFlmU1Zsd2NBV3FMc0pnd2FCV2E0akF6VjZ1MXA",
-      "published": "2026-10-19T12:09:49+00:00"
-    },
-    {
-      "title": "Армія США співпрацює з G-TEAD для розвитку технологій протидії дронам в Африці",
-      "original_title": "US Army partners with G-TEAD to advance counter-drone tech in Africa",
-      "summary": "SETAF-AF уклала партнерство з G-TEAD для тестування систем протидії дронам в Африці. Співпраця спрямована на перевірку drone-defence систем у польових умовах регіону. Це може покращити захист від безпілотників для американських сил в Африці.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/us-army-drones-africa-test",
-      "published": "2026-10-19T12:31:58+00:00"
-    },
     {
       "title": "Бангладеш вимагає пояснень у Саудівській Аравії щодо страт",
       "original_title": "Bangladesh seeks answers after Saudi Arabia executes two of its citizens without notice",
@@ -1543,6 +1503,16 @@
       "published": "2026-10-20T10:56:25+00:00"
     },
     {
+      "title": "Держдеп США схвалив продаж Нідерландам 16 систем CIRCM та 38 приймачів AN/APR-39E(V)2 на $294 млн",
+      "original_title": "США схвалили продаж Нідерландам лазерних систем захисту літаків за $294 млн",
+      "summary": "CIRCM — легка лазерна система протидії ракетам з інфрачервоними головками самонаведення: після отримання даних від засобів попередження про ракетний напад вона захоплює ракету, супроводжує її та спрямовує на головку самонаведення модульоване лазерне випромінювання, зриваючи наведення. Приймачі AN/APR-39E(V)2 доповнюють захист, попереджаючи екіпаж про радіолокаційне опромінення. Нідерланди планують насамперед інтегрувати CIRCM на гелікоптери CH-47F Chinook, а також готують програмні оновлення для AH-64E Apache, що має підвищити живучість авіації від ПЗРК. Це лише схвалення можливого продажу, а",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
+      "published": "2026-10-20T11:05:46+00:00"
+    },
+    {
       "title": "Великобританія направляє винищувачі для захисту Саудівської Аравії від хуситів",
       "original_title": "UK to deploy aircraft to protect Saudi Arabia from Houthi attacks",
       "summary": "Міністерство оборони Великої Британії оголосило про розгортання винищувачів Typhoon Королівських ВПС для виконання оборонних місій. Ця діяльність спрямована на захист саудівських міст та критичної інфраструктури від повітряних ударів хуситів. Офіційно підкреслено, що літаки не здійснюватимуть наступальних ударів по території йменуваних бойовиків.",
@@ -1571,6 +1541,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
       "published": "2026-10-20T11:22:17+00:00"
+    },
+    {
+      "title": "ВМС США вчетверо збільшили ліміт контракту з Gecko Robotics на роботів для ремонту кораблів зі ШІ",
+      "original_title": "Navy expands contract ceiling for AI-enabled repair robots",
+      "summary": "Ліміт п'ятирічного контракту зріс із $71 млн до $300 млн: початково він охоплював 18 кораблів Тихоокеанського флоту, тепер його масштабують на Атлантичний надводний флот. Робот Komodo їздить палубою і за допомогою електромагнітних акустичних перетворювачів вимірює товщину сталі під покриттям, тож корозію можна виявити без зняття шару та під час стоянки корабля на воді. Це дає змогу заздалегідь визначати обсяг ремонту й уникати непотрібної заміни, а отже скорочувати терміни обслуговування та підвищувати боєготовність флоту.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
+      "published": "2026-10-20T11:33:50+00:00"
+    },
+    {
+      "title": "Норвегія затримала судно, що обслуговувало підсанкційний проект «Арктик СПГ 2»",
+      "original_title": "Норвегія затримала судно, яке обслуговувало підсанкційний російський проєкт «Арктик СПГ 2»",
+      "summary": "Норвезька берегова охорона затримала два вантажні судна, зокрема Ya Qing Hai Yang (IMO 1021570), яке перебуває під санкціями через участь у проекті «Арктик СПГ 2» російської компанії Новатэк. Судно, флаговане Гватемалою, було зафіксовано на якорі біля острова Андьоя, а ще одне судно Jian Yang Cheng He (IMO 9813137) під прапором Китаю не під санкціями. Дія спрямована на запобігання перевезенню обладнання до російського порту «Утренний» і може обмежити логістичну підтримку російського енергетичного сектору, що має потенційний військово-економічний вплив.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
+      "published": "2026-10-20T11:47:05+00:00"
     },
     {
       "title": "ЄС Австралії: переговори завершені остаточно",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQ3FBUmFYQmd3MkZkUHpCakF5amJYT05aVVhlUGJxbkdrb2ZuOTdpcmRPb1I2SDM5MHlybmJwLXptZzRWN0pNdlpSSTBrRWhMQVpGRFppZWdPZm9USUF3",
       "published": "2026-10-20T12:33:14+00:00"
+    },
+    {
+      "title": "Корпус морської піхоти США створив перший ракетний батальйон середньої дальності",
+      "original_title": "Морська піхота США створила перший ракетний middle-strike батальйон",
+      "summary": "У 1‑му батальйоні 10‑го полку морської піхоти 2‑ї дивізії замінено традиційну артилерію на ракетну систему NMESIS, встановлену на базі бронеавтомобіля JLTV і здатну запускати два протикорабельних ракетних комплекси NSM. NSM – дозвукова крилата ракета з дальністю 185‑500 км, вагою 410 кг і комбінованою системою наведення (інерція, GPS, інфрачервона головка). Це підвищує можливості морської піхоти у протикорабельних та наземних ударах, вписуючись у програму модернізації Force Design 2030.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
+      "published": "2026-10-20T12:54:41+00:00"
     }
   ]
 }

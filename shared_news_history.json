@@ -18,8 +18,10 @@
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
     "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
     "https://defensescoop.com/2026/10/19/hdusa-industrial-capacity-plans",
-    "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
+    "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
+    "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
+    "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
@@ -54,14 +56,12 @@
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/ssha-dozvolyat-chastyni-tankeriv-tinovogo-flotu-povernutysya-do-legalnyh-perevezen",
     "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
-    "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
     "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
     "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
     "https://militarnyi.com/uk/news/yaponski-moryaky-ozbroyilysya-smash-3000",
     "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
     "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
-    "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
     "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
     "https://navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile",
@@ -99,7 +99,6 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR050VXZHclBzamJBTkQtNVd0amVkd1J4dlZISktTSlU3bDdaRHg1Mm1BWVg4cjhoVnlPNHRaTEFFdE5XZkY1UjRMT0ZwSHIyVC1SdmptMzB5Zk5TTG1GNkFJS2QxNEV5UHpQeFgzeVpobXBQOUU4OVlrRjB3Uk9vaE5ORmRweEw2d2RNZUtoZGV6TnZU",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEhRRUp1M1YtZkUyWHhMX1cwUl84QUNEMWVwSXhDSVltUWlCQUhiSG4wcllhNVJvYjZWVGEyVnREYzlHamdLTklvcWdUM0FIZ0NGMnVILXRnbl9NV1cxSFd0bVVpVnkyLWtnR3ZuWmZzdlRPelh0dmhMNUk0RUhHTlR4WEFoejdUdTRFQ0NKekhTUVNwRlE",
@@ -148,50 +147,11 @@
     "https://twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan",
     "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
+    "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Третій армійський корпус очолив Дмитро Рогозюк — колишній комбриг 60 ОМБР",
-      "original_title": "Третій армійський корпус очолив Дмитро Рогозюк — колишній комбриг 60 ОМБР",
-      "summary": "Дмитро Рогозюк, з досвідом командування 60-ю ОМБр та штабних посад у 3-й ОШБр, очолив Третій армійський корпус. 60-та бригада під його керівництвом брала участь у всіх етапах операції «Вівальді», показавши другий результат за площею звільнених територій. Зміна командування може вплинути на підходи до планування бойових дій та управління підрозділами корпусу.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
-      "published": "2026-10-19T20:13:11+00:00"
-    },
-    {
-      "title": "Пентагон погрожує університетам через зв'язки з іноземними суб'єктами та натякає на аудити",
-      "original_title": "Pentagon threatens universities that have ties to ‘foreign entities of concern,’ hints at additional audits",
-      "summary": "Аудити охоплюють зв'язки 30 університетів з китайськими, російськими та іранськими організаціями зі списку Section 1286. Усі заклади припинили ризиковані відносини, виконавши понад 80 дій з розірвання. Це запобігає передачі технологій та захищає фінансування Пентагону від експлуатації противниками.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
-      "published": "2026-10-19T20:31:35+00:00"
-    },
-    {
-      "title": "Аналітик: Зростання дохідності сигналізує високі ставки надовго",
-      "original_title": "Analyst: Bond Yield Surge Signals Long-Term High Rates - 조선일보",
-      "summary": "Аналітик заявив, що сплеск дохідності облігацій вказує на довгостроково високі ставки. Це єдиний факт зі статті без додаткових цифр. Наслідком може бути переоцінка ринком політики ФРС у бік жорсткішої монетарної позиції.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "조선일보",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
-      "published": "2026-10-19T20:35:28+00:00"
-    },
-    {
-      "title": "HD Hyundai та Anduril продемонстрували інтегровану автономність USV VAone і Lattice",
-      "original_title": "HD Hyundai and Anduril Demonstrate Integrated VAone and Lattice USV Autonomy",
-      "summary": "HD Hyundai та Anduril провели успішну демонстрацію інтегрованих операцій USV біля узбережжя Каліфорнії. Платформа VAone була поєднана з програмним забезпеченням Lattice для місій. Це поєднання може посилити автономні можливості безпілотних надводних суден.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
-      "published": "2026-10-19T20:36:32+00:00"
-    },
     {
       "title": "CASA залізниця відкриває шлях Центральній Азії на південь",
       "original_title": "CASA railway opens gateway for Central Asia to south - Daily Sabah",
@@ -1633,6 +1593,36 @@
       "published": "2026-10-20T20:57:41+00:00"
     },
     {
+      "title": "Корпус морської піхоти США розширює доступ до Maven Smart System для особового складу всіх ешелонів",
+      "original_title": "Marine Corps moves to expand Maven Smart System account access across its enterprise",
+      "summary": "З 1 жовтня корпус морської піхоти запровадив корпоративне ліцензування платформи Palantir на базі ШІ: уповноважений особовий склад усіх ешелонів отримає окремі облікові записи в мережах, до яких має допуск. MSS зводить розвідувальні дані, відео з дронів із розпізнаванням об'єктів, супутникові знімки, а також дані про особовий склад і логістику в єдину оперативну картину, що має пришвидшити ухвалення рішень командирами. За словами анонімного джерела, доступ охоплюватиме мережі різних рівнів секретності, а оновлений план упровадження MSS опублікують окремо. Фактичний ефект залежатиме від темпів",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
+      "published": "2026-10-20T21:12:04+00:00"
+    },
+    {
+      "title": "Великий український виробник зброї переглядає майбутню залежність від Starlink",
+      "original_title": "Major Ukrainian Arms Maker Rethinking Future Reliance On Starlink",
+      "summary": "Україна стикається з обмеженням швидкості роботи терміналів Starlink: за заявами українських посадовців, у різних секторах фронту обладнання перестає працювати на швидкості 130–161 км/год. Це впливає на засоби, що керуються через супутниковий зв'язок на транспорті, зокрема на удари по російській логістиці в тилу та в Азовському морі, а також на керування дронами-перехоплювачами проти «шахедів». Один із виробників зброї заявив, що розглядає відмову від залежності від Starlink, що підкреслює ризики використання єдиної комерційної супутникової мережі в критичних тактичних завданнях.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
+      "published": "2026-10-20T21:30:49+00:00"
+    },
+    {
+      "title": "США збільшують кількість космічних захисників для Центкому та інших команд",
+      "original_title": "Space Force aims to beef up guardian presence for Centcom and other combatant commands",
+      "summary": "Командування Космічної сили США оголосило про збільшення кількості «захисників» – космічних сил, що підтримують бойові команди, зокрема Центком. План передбачає розгортання до 56 систем Meadowlands для розсмущення супротивника по всьому світу та створення нового підрозділу SPACEFOR‑SOC для підтримки спеціальних операцій. Це підвищить здатність Сполучених Штатів забезпечувати космічні можливості в реальному часі, зміцнюючи бойову ефективність та домінування у космічному просторі.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
+      "published": "2026-10-20T21:41:53+00:00"
+    },
+    {
       "title": "Посланник США Віткофф зустрінеться з Путіним",
       "original_title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle - Reuters",
       "summary": "Посланник США Стів Віткофф поїде до Росії, щоб провести зустріч з президентом Володимиром Путіним, під час якої обговорять питання безпеки та можливі кроки щодо врегулювання конфлікту в Україні; одночасно колишній президент Дональд Трамп закликав Київ до швидкого мирного врегулювання.",
@@ -1641,6 +1631,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c",
       "published": "2026-10-20T21:57:52+00:00"
+    },
+    {
+      "title": "Армія тестує програму AIAM для цифрових технічних посібників і спрощення ремонту",
+      "original_title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
+      "summary": "У рамках програми AIAM армійські підрозділи отримують доступ до цифрових копій 200‑250 технічних посібників, які можна запитувати за допомогою штучного інтелекту. Це дозволяє солдатам швидко знаходити інструкції, реєструвати проблеми та отримувати підтримку від цивільних логістичних фахівців, скорочуючи час на ремонт обладнання. Очікується, що впровадження системи підвищить оперативність технічного обслуговування та знизить залежність від громіздких паперових мануалів.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
+      "published": "2026-10-20T22:02:44+00:00"
     },
     {
       "title": "Опитування Reuters: БЯ підвищить ставку до 1,50% у грудні",

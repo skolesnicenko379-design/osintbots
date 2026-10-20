@@ -59,7 +59,6 @@
     "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
-    "https://navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities",
     "https://navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
@@ -115,6 +114,7 @@
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1TWktMN2dzdVBiZVB3YVdYckdQS3dqZS1iaVZtOWRKaHZGMW5zQWd6T3NGOVUxNy0wbTJlNU9seXY5cjkwLXp0NUhLUXpfd2FZYXVTTTlIQTFiYWJzWUVvUXVBZ3pQeFNfR3VmSDd5UV9lc29LSlFhc3U5d3hTbUduYk5xNFIzamMtM1NBNjhrUnNVUlIyYVJiM2R1Qi1EVktJ",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0N0YThxem5FYkhMdGtuZXhaTUhCeWJFTjhqT1didGU1ODRpOFlKXzhOQXVPbTlvVEFwb2ZoZ1kzc25VdFIxSmtPZUc0cTBVUkZId0JuTjE3cVdzNFlYZUZYWEFZTi1GMWVtbFJ5Uzdaal9NS0JpYUxISzh5NXBQZzN4Y09RODdBOUxtUUZyTHMtbExyaUt5cGZ3YlY3WTVMYzNkSQ",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJJUEs5U0VzcnBaVjk0Nkl2a2ZkcVZRN2lmeWw5LXl1Qm4xZXJuZEFSZW5kdnVEUzktRkRTN3RpSjlRa1R3Tm5kY1ZqVlhheERralVhTEJydUV3RU5FWmE5UkJTZXVxSkt3dmxidEJuMFEwNF9UZUV5SU1NWVlTOEFQZGZpbWFaWlotaWtQWm9idEs2RlpSbDlPMGk5X0I4VFZqR1hR",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnZ0ckJaN0hhVzhtdE9IRDNOZ3Uwd1FqZkZJcllPWk4tZGJWc1pqZUxnZjRYUTZlMkdCMXU2a25TQ2cycjFNdXpkam5SR2RkanBQNmV2QzFHMjZoLU1DTlk0S1FwZ1ZJSzNKQk5IR3lWT3J4YjJ6SWhwTlhoZzZKaGZ2LUYyQmdfR01vdUtiemdoNHQxQ28zZUxwaExEd1AwUFBQcWFXbw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVdwZXJsZnpKcUZScGhjOFZ1MnNncUV0OFBhZ0pEdTJqZnZjUy1walVpemtyXy1xZkJERTdiamNSME42cF80emJFZVpwX2duYW8zbi0wOWVPUkkwQ19zOF9mby1rQU0ySXpMd254NHEtaGlsaUtjSWJUaTRqT0kyQk1Cd2djNEJ0OHBzTnhEaU1iUmp1T1ZfQUhmOU05OEJGdGo2Y1ZwR1c",
@@ -152,16 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "Австралія розширює підводні боєприпаси: інтеграція Ghost Shark, Speartooth, BlueBottle",
-      "original_title": "Australia advances undersea warfare capabilities",
-      "summary": "Австралія оголосила про інтеграцію нових вантажів у безпілотні підводні апарати Ghost Shark, Speartooth і BlueBottle, що дозволяє збільшити автономність і функціональність у підводних операціях. Нові системи підтримують розвідку, розмінування та можливість виконання бойових завдань без людського втручання, що підвищує стратегічну перевагу Австралії у регіоні.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities",
-      "published": "2026-10-19T07:16:24+00:00"
-    },
     {
       "title": "США та Індія наближаються до торговельної угоди",
       "original_title": "US, India nearing trade agreement as Rubio prepares for New Delhi visit - Türkiye Today",
@@ -1591,6 +1581,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWN0VHNHaW1vN0VwWTJVUGFsZ251eE9iSGh5ZG4zUjNQUFRMNjZrWmZLM0dkdHgyOExVZUV0aWp6STBxeEtXbFpRQ053WFB4UVRwWF9XMFFTZWNsZGhTRWZkb3pFcEZqZVlyb1NrbUg2UkxWOTJLNWxxYXFqdEhEeTR1S0NFTFdFQ3VITTJzVUZBMlpQcm84Y2pPTE94RzNJR1E",
       "published": "2026-10-20T05:32:43+00:00"
+    },
+    {
+      "title": "Тимор-Лешті розпочав переговори про вступ до угоди про державні закупівлі",
+      "original_title": "Talks kick off for Timor-Leste’s accession to government procurement pact - energize.co.za",
+      "summary": "Тимор-Лешті офіційно розпочав переговори щодо вступу до міжнародної угоди про державні закупівлі. Цей дипломатичний крок ініційований урядом країни для інтеграції її ринку в глобальні стандарти публічних закупівель. Точна назва угоди та конкретні умови доступу в тексті джерела не зазначені, але факт розпочаття переговорів підтверджено.",
+      "source": "Treaties & Agreements",
+      "publisher": "energize.co.za",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJJUEs5U0VzcnBaVjk0Nkl2a2ZkcVZRN2lmeWw5LXl1Qm4xZXJuZEFSZW5kdnVEUzktRkRTN3RpSjlRa1R3Tm5kY1ZqVlhheERralVhTEJydUV3RU5FWmE5UkJTZXVxSkt3dmxidEJuMFEwNF9UZUV5SU1NWVlTOEFQZGZpbWFaWlotaWtQWm9idEs2RlpSbDlPMGk5X0I4VFZqR1hR",
+      "published": "2026-10-20T05:39:06+00:00"
     },
     {
       "title": "Зеленський відвідає Норвегію для переговорів про війну та безпеку",

@@ -6,6 +6,7 @@
     "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
+    "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
     "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases",
     "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
     "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
@@ -23,13 +24,12 @@
     "https://middleeasteye.net/live-blog/live-blog-update/hegseth-meets-netanyahu-during-unannounced-visit-israel-axios-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-has-no-fundamental-differences-regional-countries-pezeshkian-says",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-security-chief-rejects-moving-enriched-uranium-out-country",
-    "https://middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/turkeys-parliament-set-ratify-mecca-joint-defence-agreement",
     "https://middleeasteye.net/live-blog/live-blog-update/uk-deploy-aircraft-protect-saudi-arabia-houthi-attacks",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
     "https://middleeasteye.net/news/turkey-secures-strategic-win-over-greece-eastern-libya-maritime-deal",
-    "https://militarnyi.com/uk/news/3-korpus-upravlinnya-bezpeky-operatsiy",
+    "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
     "https://militarnyi.com/uk/news/ant-modernizuvala-bpak-mercury",
     "https://militarnyi.com/uk/news/bronetehnika-3-go-korpusu-5-km",
     "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
@@ -62,6 +62,7 @@
     "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
     "https://militarnyi.com/uk/news/yaponski-moryaky-ozbroyilysya-smash-3000",
     "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
+    "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
     "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
@@ -109,7 +110,6 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlN3MkJWcXdCaVduWkxhOGN2X0xmeThrdGdGYV91YkhpSUJDM2M5WDZNUl9fUXJra2RwZlNqQ0F1MGtCajVIbktvdGFhblJrOUFlMFRLUmp6bGxhSW5KN21Qb2M4SGR6NlZxcXM0U1JCZVpVRm9CTHF5UFJIVVFQUVAwN0RzTUlVOWM5OUZjUEM5ejhRVUpNTA",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXpZRFVSWEEtU1FyU3hOYk1mWW5ROUpWZmdtUWZ2SFJsZHk1Q0R0NWpmUmVlZENhdG9RUXpnVEpCdkpWUkt1Y1NWRWJyYThpUUpsYTNwenEzaS1aa3JYWFZaOUZKR2ZTZzAyTFYtckpUc29nTS1ISmpYVDBKQktOS09pTk1ja0hwbVFyZzJ5RkJUSF85QnNfUUlsWQ",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTFjTGJOZWlNQk0wMUN6RGQwMVUwd0RGRTNiZnNWd2sxd0htSHdZdEhjTVVySHp0dDBCV0pVNXNBSlBycjYxN2gwR1ZDZFNWRklwRjh2UDJURTdOR2U3M3JXZFhDZExURTBnTXptWWNCcHNqak5qWXJsWFpYQ2tjdUJlMDBkQWFzYjMtNlY0ZzJHZzFRQTVlekRXeEJFdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0RqZDNWVEx2MEg0STJROXpOSmhONVRYM2J4UU4yTXhHRHd2ZldGcXBNcnRVcVNmaWFxaGtSTVFZM3dRdmoxSklIWVNYY2VlU3lKenVPRjJPajdxSE1xOEhwQUZZNTA2X3YtSXZjZktDLUdWblFrNVM1Sy1rb2gydm1oQ3hFVnZRb1JkVzVkQi0wbUdwNFg4Ump0Y24zdw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXlubEEtMUptZzhUMW1rWGJRSjY1azFpaHBzanNXb0YyTldRY1JtY3dOTVl2RDFFZkR1S2UxYWdRRHJ2U0dhNFFaWkp1d3lkLUZyTjR5T09tNUpzSlN3d2ctMEN0WDdmSjFiWFpyTHV0YWJyVmxaNWt1N3JnQ0RacFRCOUVpeW1FeWRaeEQwWC1LcFFJYjBLVV9fbUR3SzQ",
@@ -147,51 +147,11 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHI0VC1WZGNfZ3VjSU5tNVk1QzE5dmdBM292T19CWkd2WGVnRE9GcHJJX0FjUFVOdThWYmNZOFA0Z0FoYUR2eW02RU1ZZmJnUmFfc0NzSEh0NGVrN2NTZGFtNXE3Y3pNRHNXYzZGeWM5Z2NvRUNST0FOaVBVdDdzQW9RcEVzSUpSRW9QQ0xmMGlWUk9kZ3JzRU9RMTJRYmhOcTYzeGJBRVNLeVBYb2dXVVROaURRNFdQRnFZdWpDWFViQk9jTWdDelRuU3VmYXM",
     "https://twz.com/air/armys-plan-to-launch-hundreds-of-balloons-into-enemy-territory-if-a-future-conflict-breaks-out",
     "https://twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan",
-    "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan",
+    "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Іран закликав німецького посла: безпідставні звинувачення",
-      "original_title": "Iran summons German ambassador over 'baseless accusations,' Tasnim reports",
-      "summary": "Іран закликав німецького посла до відвідування Міністерства закордонних справ, оскільки вважає його звинувачення безпідставними. Під час зустрічі Іран висловив скептицизм щодо заяв Німеччини про порушення прав людини, а посол відповів, що його країна готова до діалогу.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
-      "published": "2026-10-19T17:33:09+00:00"
-    },
-    {
-      "title": "3-й корпус запровадив управління безпеки операцій для збереження таємниці",
-      "original_title": "3-й корпус створив управління безпеки операцій для приховування дій від противника",
-      "summary": "У 3‑му армійському корпусі створено управління безпеки операцій, яке оцінює загрози, організовує приховані переміщення та вводить противника в оману. Команда співпрацює з OSINT‑аналітиками, щоб уникнути розкриття позицій на публічних картах. Це підвищує ефективність операцій, зменшує ймовірність розвідки та дозволяє краще контролювати інформаційний простір.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/3-korpus-upravlinnya-bezpeky-operatsiy",
-      "published": "2026-10-19T17:35:59+00:00"
-    },
-    {
-      "title": "Вибори в Конгрес можуть змінити енергетичну політику США",
-      "original_title": "Four ways the midterms can reshape US energy policy - Atlantic Council",
-      "summary": "Стаття Atlantic Council аналізує чотири способи впливу проміжних виборів на енергетичну політику США. Зміни в складі Конгресу можуть вплинути на законодавство щодо видобутку, експорту та субсидій в енергетиці. Це матиме наслідки для інвестицій та торговельних балансів у секторі.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "Atlantic Council",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXpZRFVSWEEtU1FyU3hOYk1mWW5ROUpWZmdtUWZ2SFJsZHk1Q0R0NWpmUmVlZENhdG9RUXpnVEpCdkpWUkt1Y1NWRWJyYThpUUpsYTNwenEzaS1aa3JYWFZaOUZKR2ZTZzAyTFYtckpUc29nTS1ISmpYVDBKQktOS09pTk1ja0hwbVFyZzJ5RkJUSF85QnNfUUlsWQ",
-      "published": "2026-10-19T17:47:27+00:00"
-    },
-    {
-      "title": "Нарешті відомий справжній розмах крил B-21 Raider",
-      "original_title": "We Finally Know The B-21 Raider’s True Wingspan",
-      "summary": "Зображення з Google Earth від червня 2026 року дозволяє виміряти розмах крил B-21 у 152 фути та довжину 61 фут. Це на 12% менше за B-2 у обох параметрах. Розміри підтверджують пріоритет дальності польоту, економічності та малопомітності над великою вантажопідйомністю.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan",
-      "published": "2026-10-19T17:50:03+00:00"
-    },
     {
       "title": "Голова армії Пакистану Асим Мунір відвідає Тегеран у вівторок",
       "original_title": "Pakistan's military chief Asim Munir to visit Tehran Tuesday, Tasnim reports",
@@ -1603,6 +1563,16 @@
       "published": "2026-10-20T16:53:07+00:00"
     },
     {
+      "title": "Норвегія отримає РСЗВ Chunmoo у 2028 році, а початкова боєздатність буде у 2029-му",
+      "original_title": "Norway to receive Chunmoos in 2028, reach IOC in 2029: Norwegian army leader",
+      "summary": "Норвегія закупила 16 південнокорейських РСЗВ Chunmoo від Hanwha на суму близько $2 млрд у межах програми далекобійних ракет для Арктики. За рекламними даними виробника, дальність системи становить приблизно 500 км. Базуватимуть її в Бардуфоссі на півночі країни, а екіпажі навчатимуть у самій Норвегії. За словами міністра оборони Торе Сандвіка, ракети можуть дістати до долини Печенги, де дислоковані 71-ша гвардійська мотострілецька дивізія та 61-ша бригада морської піхоти РФ. Це посилює стримування на північному фланзі НАТО, а паралельно Норвегія прискорює створення бригади Фіннмарк (близько 40",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
+      "published": "2026-10-20T17:13:00+00:00"
+    },
+    {
       "title": "Армія США формує підтримку для протиракетного щита Golden Dome",
       "original_title": "US Army support for Golden Dome missile shield takes shape",
       "summary": "Армія США виділила підрозділ ППО для підтримки проєкту GDA. Система передбачає розподілену архітектуру з можливістю використання будь-якого сенсора, найкращого перехоплювача та відповідної C2-платформи. Joint Task Force Gold проводить планувальні спринти з 300 учасниками для інтеграції можливостей по США.",
@@ -1633,6 +1603,16 @@
       "published": "2026-10-20T18:06:00+00:00"
     },
     {
+      "title": "Майже 46 тисяч іноземців зі 151 країни підписали контракти з армією РФ — Коордштаб",
+      "original_title": "Майже 46 тисяч іноземців зі 151 країни підписали контракти із ЗС РФ — Коордштаб",
+      "summary": "За даними Коордштабу та проєкту ГУР «Хочу жить», вербування іноземців у РФ зростає щороку: 16 168 контрактів за дев’ять місяців 2026 року вже перевищили показник усього 2025-го (16 085). Темп близько 1 800 осіб на місяць дає змогу Росії частково компенсувати втрати без нової хвилі мобілізації, причому найшвидше зростання фіксують в Африці та Латинській Америці. Наведені цифри є оцінками Коордштабу, а значна частина вербованих потрапляє на фронт через тиск і обман, тому такі бійці мають обмежену підготовку та мотивацію, проте поповнюють піхотні підрозділи.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
+      "published": "2026-10-20T18:06:36+00:00"
+    },
+    {
       "title": "Литовці зібрали 1,3 млн євро на антидроновий захист України та Литви",
       "original_title": "Литовці зібрали 1,3 млн євро на антидроновий захист України та Литви",
       "summary": "Кампанія Dronaton зібрала 1 301 494 євро, 80% з яких спрямують на дрони-перехоплювачі, антидронові системи та підготовку операторів для українських військових. Вже придбано та випробувано перші дрони-перехоплювачі Defender литовського виробництва: 12 передано Україні, 4 — Союзу стрільців Литви. Це дозволить посилити захист повітряного простору обох держав від російських атак.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
       "published": "2026-10-20T18:21:17+00:00"
+    },
+    {
+      "title": "HAVELSAN демонструє координацію безпілотних повітряних та морських операцій",
+      "original_title": "HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime Operations",
+      "summary": "HAVELSAN показав інтеграцію безпілотного поверхневого судна USV‑12 і безпілотника SAGAN, що автономно здійснює польоти з судна. Демонстрація підкреслює можливість синхронного збору даних і оперативного реагування в реальному часі. Така технологія може значно підвищити ефективність розвідки, підтримки та потенційно ударних операцій у морському середовищі.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
+      "published": "2026-10-20T18:40:15+00:00"
+    },
+    {
+      "title": "HAARP в Алясці використано для випробування нових радарів над горизонтом ВПС",
+      "original_title": "Alaska’s HAARP Site Now Being Used To Test New Air Force Over-The-Horizon Radar Tech",
+      "summary": "У США успішно протестували недорогий 16‑елементний високочастотний приймач, який у поєднанні з передавачем HAARP може виявляти літаки за межами діапазону існуючих радарів над горизонтом. Об'єкт HAARP оснащений 180 крос‑діпольними антенами потужністю до 3,6 МВт, що дозволяє передавати потужний HF‑сигнал. Така система має закрити критичні прогалини у спостереженні за арктичним простором, підвищуючи обороноздатність США та їхніх партнерів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
+      "published": "2026-10-20T18:55:29+00:00"
     }
   ]
 }

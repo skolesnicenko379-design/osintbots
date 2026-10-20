@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHFsV3F4ME1EWFA1ZE80eFhBUzU4Rnh5SERQT3FSSXBVOWhUWjY5dGJEZmZzaktnNk84MzNERkgtZW5LbkFabUVpRFpET0xnVEtPWjBpVUdkd3Q0SGhESFF1Z2dzRGk3YXhNbU44d1E2NW9TaU5VbkQyblV3X2JoWUZHa3ZNbDNVdUtpTTFsOThvSVhfVEdZb0RiOUJSNzdCWG92TmRBbHAwbnZ0UnpJQ0g3Yktqd3dCNFRVWA?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGpXcnNrZHliWW9vQTFJenJPMTlzRjZrY0cyb21ETkdSMjN5UG5vQ1Q4MmFnRGxyX1l5U0V0dWNVREpLVUM3U092TnBJRnhFRW50c01VYXAxeFFGU0oyMTJmY2s0bnl5enZCTEQtSlB0czZ0RmN4VkE1c2pSOUNPQlVQelRXeFNmLXlYZWpTZ0prUlpmZnNSaEdZQjlwX2E3OTVfRGRxanZyZXRzSlRveUxfTGo2V0NoUXBlLUhPQWRQancyMFVFbHUyM3FRaVZZ0gHQAUFVX3lxTE9Yaldyc2tkeWJZb29BMUl6ck8xOXNGNmtjRzJvbUROR1IyM3lQbm9DVDgyYWdEbHJfWXlTRXR1Y1VESktVQzdTT3ZOcElGeEVFbnRzTVVhcDF4UUZTSjIxMmZjazRueXl6dkJMRC1KUHRzNnRGY3hWQTVzalI5Q09CVVB6VFd4U2YteVhlalNnSmtSWmZmc1JoR1lCOXBfYTc5NV9EZHFqdnJldHNKVG95TF9MajZXQ2hRcGUtSE9BZFBqdzIwVUVsdTIzcVFpVlk?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wMzc3amtCUWpETXdUQTNjRmJOQndtVDdMUzU0RUJXYU5WWmg2LTBWSC0xb1pTRjNMQmtKLV9HYWFRVC1NOXFGUW1fOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHhHSl9JQmpON0FUR0x1T1JoUUpFZFRtT2Rxdko0aVhKQVJQNzdwakVVcVBPSzVudi11bE9XQVB5VnJZSVpIMUtCZVlJU01ieW5MQmxnbS1KNWZOME5ZUjgxdXM0dmNMcU9kdTdKZ2VqUjJhRnF2TkhUeGc2VVhrWERlNEN0cE5YcTBMTGpJMUdvbnJGajJlVTQtY1pfaHhjTFk2M2NsLUJsQmhSLTlqTndJXzdka2FzN0RJ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbE1HVUQtZG1Najl1Q2JDZlZwbVJPa0ZlbDhmb1BYNGR1MWRKM0E4aFVyanNQMXNzQUMzNk9OckxVWmVidFhFd3l6RHMyWWFZOWdZV3ZsM0VXbms0RDVMLU96R0FEMzhkcklNTnMxRGtCM2xlMGVpOGdrd1dkdTdaMGxybTdlcWs?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVg4OEluU0pMdkhIUmdYZkRVN1FsY3YzWlE1ckFGMzEtZnhaWUJXbXlual9kNU93YmFpYTVySjR0dWYyZlAxS2Fkekkxa0hzbWhCWi1DejR3YU1WTTdMSTNWeVNoNlZPaVVYRkk1aS01MHFsTVNjY0VhUzNpaWxRUS1XLTJEdFFEZ1M0azJpc1VITk1HanN4TTNNTloyVEVMb3RLOFFDVVoza0Z5dUt6UHEzb0toTXcyZkpHdU1STm0ycjM1?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWtiUmdJZUM0Z21qV1FkOFdyMkRHUF90Z1Fxb1RxeVdQbG1ybGZCbUFCd2NWa1lkMlNYc04tQWhuMEtEVlI5ckhMbVIxWnVOR0NlcTNXNndBYWJtenVyLXV5UVZEWVM0elN6WnJfUEoxdkhwRzU1Skp3N3NrRUtsOWsxYjJaX1g0QTRySkJLak0wR2NVbkZwODIyWWt2VFUxMmdn?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3BFbWhjMU9veGxwTks1TDJZa2RZd3dmX0hNQWowenFnVDRYUklySGRqeHo5MjZGQUhTYXhzQXFJUjVQMkQ1ZEVVcW1LLWlwNUF5bEUxWl9nV3loWG5ZVHMxWEVtOWcxQ2VFeXlSSExzLVNKYWVvSzZPX29zOUdzQkpzQm1zSWJMUm5odzIwaHlNZTc1Y0JKOGp5NmZ0d1UyR3pIQzZGbnVoWFprTnE3NzEzUDdWQXJRSF9vaHhiNmhqRl9PeDZB?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVF6bUI3WV9qY05PZENNdk9KNVlkU0dNWnNMblJPcHNPM2JZVTlfX09ybjBUM0d2SElWS2NER2V5Qm1QZGtNTkhBWFZfUVdmN0M2QnBjUlMwbmpfNmhWb2V4aTYtZzhLN0F4cks1ZW5zaTZ3dDRaQWxIMDRXRG1RTVh3X3M?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WS010a0xMemg1a2tfYkZTbEhPcElzMUZxS3BLRFNqbUNjckoyclZKY29XaHhkSHZiNm5WdmRDZ19XLVpvSmNBa18zOFBnX1g4LUJscHJrelI?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0RzQ0VhRmVQMDlHa1lNLXJvVFhnQ2dSX0dvMDYwSy1UbG0wbXluNTBLSGtwa1pFY0dDd2xwUkVhdm1IRzNZdEQwaDFHNWhfSWdLYl9ZT184Vm9McDVyYWl0SWRib1I0bmo2MHRJZ2F0OHVsaDRSczNmcG5OTXVNQldyVy0tcFZEcGVsem00RkE3MjBtcVdwQlZmLW5NRDhWUld4ZUhn?oc=5",
@@ -1199,23 +1191,17 @@
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQ2dLX1d0WXRLWnhIWjlERV9DTGpQTUgzeUJzQ3lzbWp2SFpTRmgyZG1Jem1FS2UzeHZLMUVDdHVXNG5wVG96QjVhcDUybkE1alJNVkJxVGpsQjVQMGJ4T0VOZlBObmZqWlNIRU5R?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUZ1S0JqWktwRU5fNXg1aWgzc1F1MzdSYnRPM2lQZWJWa2tzenVlQXRSWmFFcy1QQkJ3VWppVmVGdF8ySUd2RHNMSFFXdzAtZ1JOT1puZlZtazdqbkpaQVBsd0xFb3ZVLVBDd05jUWxBbFZMN2lBQi1uV3ZjakJzeGhITU5TN1V5Z1d1RlZ1T3dlZEpFV3NYR0lBYTR5Zkt6aEtDUA?oc=5",
     "http://www.africanews.com/2026/10/20/more-than-40-civilians-killed-in-mali-attack-blamed-on-islamic-state/",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42T0NtX3V5SVpObGJ1OXp4X3FvT3ptU1hrXzcycXNaRHJkNkI2bWFQXzFXMHVCQlVvQnNxS3duaGhBZkpvSE1tbTNQYkx2UVV1?oc=5"
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42T0NtX3V5SVpObGJ1OXp4X3FvT3ptU1hrXzcycXNaRHJkNkI2bWFQXzFXMHVCQlVvQnNxS3duaGhBZkpvSE1tbTNQYkx2UVV1?oc=5",
+    "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEhGVzFOVWh0MVV4WVB6aWNoREZMWHJheXRDRlJjV0g3bXZaWlZCOGlsZUNzMVRCaEdreFhfX0ZhdTc0cl9sX0ZWdW4yS2tPRU1kV1gtUjNLLTM2LUNId1dEbzNZLTMzZks3dFEybnpZY2FMSHVNdzJDUFdiQUplUk1xSGROczNwLUFQZ0htVnVyR2dRMEI0RVkxNWhSSFFEZE5mNGdGdGU4YVpMN3VWbU1SNXp3QXY4bXc?oc=5",
+    "https://www.theafricareport.com/434021/cameroon-eko-eko-vs-ngoh-ngoh-the-bitter-war-inside-biyas-inner-circle/",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEJzaHBuT3NhV3VyMmpNaUNfLVlvdDNCcUZoSHNiMnVmQU95N2lVZGFuWVBzOURmcDNJdXM0aE16TVhDbXlXX1B5dXN4ekNBQTJDc3pQVlBEZzBCR2ZQNDl2UUlVa05tbUk1aGIyWG5YZDFMRkpyUHdMOEh2OG15Xy04SUtCNW5NRVNqNks3U3R0SFFQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelliWnpxNWFOYlpEaUVQUTF0QWFnazFQakdVRnVuOGxab3Q0ZVVGTktzWFRhSVhDaGhDVWxLNHF3N25uc0ZLQk5jSEpnMGhHeGpndGpJWWV5MnM0a3RDeWFfTWRpcnBzMzFqTnhhMDFzVnkxbm5pdWhxdUt5TDhnN0h4QWdwQnNLSUZ5b0tuR1FwdUlpaTVUWg?oc=5",
+    "http://www.africanews.com/2026/10/20/south-africas-former-deputy-police-chief-facing-sexual-offenses-denied-bail/",
+    "http://www.africanews.com/2026/10/20/egypt-road-crash-leaves-13-dead-and-34-injured-after-a-bus-collides-with-a-truck/",
+    "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcjYwYm90Q1JMSTJ3OUlPeVdpSlU4VXM5OFVlYWhRT2VFbzh5amM0RGw0NTVmd2MyQ0Q4Sm5xdkNZUHktYjQ2b3B6NjI4VzBvVldCb242RWp2R0IxQ2NHTnNNY1NxNDJHV2xLX2I4WkZoN1g5cmhfVlB2UUllaVN1R3JnVlB4SHZfaUJLdHotWUlXcHN0ckl1NU01UlVxM2d2MHJIWWw5a1JnaWVSYXhpaXE3bVltWlU2ZU5ZMWZScmpjYWpUVGlTeWFZT0Z5SnJOaDlNMWdzY3QyVjk5VlRsb0xrQl96MGs5RmVLMlNjVmNDOVFJejlHZ0RNQ2VJaS1OWDhYc09LelhtUEJ5Mmpld1BuVDRYaHZtOThGUWx2a0dicEhpVmdCVHNOUHBkYVR2UV80eUFMMzFYdGdORlU4?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "ЄС призначив нового спеціального представника з прав людини",
-      "summary": "ЄС призначив нового спеціального представника з прав людини, щоб посилити моніторинг та захист прав людини в Європейському Союзі. Новий представник, [ім'я], займатиметься координацією заходів, взаємодією з урядами та НУО, а також звітністю до Європейської ради.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-19T11:36:50+00:00"
-    },
-    {
-      "title": "WFP припиняє допомогу 500 тисячам людей у Газі через брак коштів",
-      "summary": "Програма ООН із харчування (WFP) оголосила про припинення щомісячної допомоги 500 000 людей у Газі через дефіцит фінансування. Країновий директор WFP Шон Г'юз заявив, що з цього місяця кількість отримувачів зменшиться до 1,1 мільйона палестинців, що становить приблизно половину населення регіону. Організація наголосила на гостроті потреб, попри скорочення масштабів операцій.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-19T11:07:31+00:00"
-    },
     {
       "title": "Академічна акредитація для Спеціального Європейського Ради 26-27 листопада 2026",
       "summary": "Європейська дипломатія оголосила про акредитацію медіа для Спеціального Європейського Ради, що відбудеться 26-27 листопада 2026. Учасники: члени Ради, представники ЄС, державні лідери. Мета – забезпечити медіа-діяльність, доступ до засідань. Підтримка – Консіліум ЄС для підтримки інформування.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "Facebook",
       "published": "2026-10-20T11:22:17+00:00"
+    },
+    {
+      "title": "Ефіопія попереджає Еритрею про серйозні наслідки",
+      "summary": "Ефіопський прем'єр-міністр Абій Ахмед попередив Еритрею про серйозні наслідки, якщо вона продовжить підтримку повстанців у країні. Під час зустрічі в Ефіопії він застеріг, що санкції можуть бути застосовані, і закликав до негайного припинення підтримки. Еритрея не відповіла, але заяви підвищили напруженість регіону.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-20T14:08:23+00:00"
+    },
+    {
+      "title": "Володимир Зеленський прибув до Осло для зустрічі з представником Трампа Віткоффом",
+      "summary": "Президент України Володимир Зеленський прибув до Осло, Норвегія, де має провести переговори з представником адміністрації Дональда Трампа Джоном Віткоффом. За словами Євроньюз, зустріч запланована на найближчі години і стосується подальшої координації підтримки України у сфері безпеки та гуманітарної допомоги.",
+      "source": "Bilateral Meetings",
+      "publisher": "Euronews.com",
+      "published": "2026-10-20T14:07:55+00:00"
     }
   ]
 }

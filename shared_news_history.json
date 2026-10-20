@@ -4,6 +4,7 @@
     "https://army-technology.com/analyst-comment/european-reassessments-artillery-procurement",
     "https://army-technology.com/features/demand-signal-swebal-on-western-energetics-needs",
     "https://army-technology.com/news/elbit-systems-extra-mr-puls",
+    "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
     "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
@@ -12,11 +13,9 @@
     "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones",
     "https://defensehere.com/en/lockheed-martin-advances-er-gmlrs-rocket-after-operational-testing",
     "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
-    "https://defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots",
     "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
     "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
     "https://defensescoop.com/2026/10/19/hdusa-industrial-capacity-plans",
-    "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
     "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
     "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
@@ -65,6 +64,7 @@
     "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
+    "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
     "https://navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile",
     "https://navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGNWQ2VMU3ZoMFFZTDA4dXhnM0FYQkxJTEdmYURJOGZUckR5UTYyQXNWRWQ3ZFNZVzNZOU01ckExU29sYlVlREl5cTFiMG5hMHRrZmNrd0tZa1U4ckxObTBMZFQ5ZFp1RlZCS0ttNEVtWUQ4Qll4U3EyVzR2b2FNTGdVMEN4RGRxdXhYcFZDWVRwb2hqQWg1ZHVZX2lQM2ZZX1pIT0xmalM2ejAxa0g3VWhKNGV5LXZkY004NXdfM1J0N2I3aUZmS2ZaZUVhTDFOcHc",
@@ -96,7 +96,6 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM24tMC1aTHlWR3BBT3dKaTRpdllQQ3R1VHUyaVQ4TGRzenpaRUpvd0ExZmI5WlFpdUI2VVpyYUM4RDV6eTIzNDBQRVVPYkxhU2RfWmZmQnZmZE5CSl9QMjZkLWpCS2JGeTZHSWUyU0E5emJBN1RNMHkxOVpwVktaUXNVUDlBN00zOVdTQ2xIN2NLRUs4OTJtbGRIendYOUROUm9wUFk1emtwSHkzR1dtemxUaHY1N1JtN0JXMjlrQzhzXy0yX256Z011TXNJdjVGS0JTdzRFNXVvWTNfUDd5anFmTUZ3Vkg2TVpzQnRSTW40ZEFaaG1XMWpYaFRIcFpMZDFCN1VLNzM",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
@@ -149,39 +148,10 @@
     "https://twz.com/air/armys-plan-to-launch-hundreds-of-balloons-into-enemy-territory-if-a-future-conflict-breaks-out",
     "https://twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan",
     "https://twz.com/air/we-finally-know-the-b-21-raiders-true-wingspan",
-    "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
+    "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
+    "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Лі призупинив заявку Кореї на вступ до CPTPP",
-      "original_title": "President Lee Halts CPTPP Bid Amid Farmer Backlash - 조선일보",
-      "summary": "Згідно із заголовком Chosun Ilbo, президент Лі призупинив просування заявки Південної Кореї на вступ до Всеобхідного і прогресивного партнерства для транстихоокеанського партнерства (CPTPP) через спротив фермерів. У наданому тексті немає цифр, строків чи умов, тому масштаб і тривалість паузи оцінити неможливо. Макрофінансовий наслідок — відкладення доступу Кореї до ринків країн CPTPP та лібералізації торгівлі, що може обмежити потенціал експорту. Водночас це знижує тиск на корейський аграрний сектор і свідчить про вагомість внутрішньополітичних чинників у торговельній політиці.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "조선일보",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1",
-      "published": "2026-10-19T15:58:11+00:00"
-    },
-    {
-      "title": "CIO Пентагону отримав нового стратегічного технічного радника",
-      "original_title": "Pentagon CIO gets new strategic technical advisor",
-      "summary": "Призначення Джона Штайнбаха спрямоване на модернізацію IT-інфраструктури та програмного забезпечення Міноборони США, а також оптимізацію закупівель. Радник надаватиме консультації щодо перспективних технологій на перетині національної безпеки, технологій та бізнесу. Це сприятиме прискоренню цифрової модернізації та розширенню співпраці з оборонно-промисловою базою.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
-      "published": "2026-10-19T15:58:53+00:00"
-    },
-    {
-      "title": "Армія США визначила переможців конкурсу гуманоїдних роботів для військових місій",
-      "original_title": "US Army competition explores military uses for humanoid robots",
-      "summary": "У рамках xTechHumanoid армія США обрала п'ять переможців з 103 заявок після оцінки білих книг та експериментів. Роботи тестувалися на колективних завданнях, таких як охорона пунктів пропуску, подолання перешкод та пожежогасіння в бойових умовах. Це сприяє розвитку автономних систем для розширення можливостей у військових операціях.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
     {
       "title": "Йорданія та МОТ підписали угоду про умови праці у текстильній галузі",
       "original_title": "Jordan, ILO ink agreement to improve garment industry working conditions - Fana News -",
@@ -1463,6 +1433,16 @@
       "published": "2026-10-20T13:39:30+00:00"
     },
     {
+      "title": "Норвегія розкрила модель закупівлі до 20 уніфікованих суден проєкту P1118 для трьох країн",
+      "original_title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+      "summary": "Норвегія оприлюднила модель закупівлі за проєктом P1118: до 20 океанських уніфікованих суден для Норвегії, Великої Британії та Литви замовлятимуть за двома паралельними контрактами. У повідомленні немає даних про тип суден, їхні характеристики, вартість і терміни постачання, тому оцінювати бойові можливості поки зарано. Спільна закупівля уніфікованих платформ може спростити підтримку й логістику та посилити взаємосумісність флотів трьох країн-союзниць.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
+      "published": "2026-10-20T13:39:53+00:00"
+    },
+    {
       "title": "ФРС чхає, але EM не застудилися - McGeever",
       "original_title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever - The Economic Times",
       "summary": "Стаття зазначає, що ФРС може чхати, але ринки, що розвиваються, ще не застудилися. Це свідчить про поточну стійкість emerging markets до дій Федеральної резервної системи. Макрофінансовий наслідок - відсутність негайного негативного впливу на ці ринки.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
       "published": "2026-10-20T16:31:28+00:00"
+    },
+    {
+      "title": "Норвегія розпочала місцеве виробництво танків Leopard 2A8",
+      "original_title": "Local production underway for Norway’s future Leopard 2A8 fleet",
+      "summary": "Норвегія отримала перші танки Leopard 2A8 від KNDS Deutschland і планує їх локальне виробництво. Leopard 2A8 оснащений 120‑мм гладкоствольним гарматним комплексом, покращеним системами наведення і бронюванням, що підвищує бойову ефективність. Це зміцнить оборонні можливості Норвегії та зменшить залежність від зовнішніх постачальників.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
+      "published": "2026-10-20T16:50:48+00:00"
+    },
+    {
+      "title": "Перший погляд всередину вантажного відсіку безпілотного підводного апарату Ghost Shark",
+      "original_title": "Ghost Shark Extra-Large Uncrewed Underwater Vehicles’ Payload Bay Seen For First Time",
+      "summary": "Нові фото показали внутрішній відсік вантажу австралійського XL‑AUV Ghost Shark, підтверджуючи його модульну конструкцію з можливістю швидкої заміни секцій корпусу. Відзначено три типи навантажень: до 12 морських мін, сховища постачань на дно та запуск безпілотних літальних апаратів ALTIUS. Така гнучкість розширює можливості Королівського австралійського флоту у підводних розвідці, спостереженні та ударних місіях.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
+      "published": "2026-10-20T16:53:07+00:00"
     }
   ]
 }

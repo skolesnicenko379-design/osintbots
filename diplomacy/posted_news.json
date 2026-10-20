@@ -1,16 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaG5wV1FmZFRfc0hWU0RiWHRVZHFRb2dNdkktR2d5Q3hVc3htOWs1a3RnR24wQ01EbndGWmQtd1ZrVElfeHhXUWdTeEs5M2xOc29HVDR4WjBiWWd0TGw4dEptejBsNXZrUXNVNTE3dlV1OVNodDlVaXpHdG5KbC0wTDhEZGVUQS1teE01LVU2UFdmamZqZFlBWGdhV3pjVVE3RTFXdjdOSzM0TDVEUFd5SWFVUXNub012QlpCd3hNYUcwWDBLQlHSAcYBQVVfeXFMTnVJdlkwVXQtcU5zb1JEbHlsZ2JEMENPSXdYdVJCS0syQk50RFlFZzBUenZPZk1ucGFPdUpMLWJjbDluVFFFQ2tnRjM0cTlrNjNuYnNTNGptZEZSc2NyT1BuTnlkeGx5MjNQZ283cGIyYkNHNWhHNl8yNi1DVll4WkNyN1pOVG9ZaEdIX0o5Ui0wN1FzZWtWRHdjcDJnYnhvdDFzaHBWN2dMR1YzalZIYlRPbTNtWjlNT2oySFlWNm4xMmU2TlFB?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZnc4Q2pNSGdkaVVPTWJtcmVsVGczRWlOMVMxZnlYUW1SaUxoMklkbmJ0NjNSMFFmREdfT0x5aC1xdTNsQ2V3TUY0MWFRYnpHZkpPUmxvU3FESkswaTZObm9ieXdVb0R2eDEzRWZFbTFsSkNsbkg1b18yWkVHbXI4TDVVSjZGZw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlRIdEdwZ1NQbTgzdC0yUVlyYmN5R3o2cncxWmRiMlBvLWhzNnFrRE1GdnRsT0Z3R3ItSFFjOEJuYVByU3h0TmtLNkRzX293SG9TcDUyNU1IWWlaZ0FPNFNIeUV5UFlkZlZXZExUNWt1ZnBXdF8wcHlTc3p6SnB1NDZvbE9zZnJYaDViZjFYY1VoYVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTh2R1hmQldpX3VycDZEU254N19fcXpma2NZYmdTdlNaYTRmMUtCMHp4elVJWWFUajZiTjMxelV1c0VRMlBPYzZtVmplTDdlWmZncVdTVDV2UEpzSEx5enFPc2NyRUluLS1zRENId3NERWplUDNFTzJzYnZ4Z1NxRGQtbG5mWHI4Q1Y40gGQAUFVX3lxTFBiaVRZSHhpTXAtaVBFdGN1VjFtNEYyZTZMTmFGemRVT1hwUVR1ZlpFTzdfYlZYajh2YzFNdG5lazB5cDRYOHlzTnZEQ21ua2dweFdfTFhRUWNBWXNSSVM4RWRGQUgzOVF3OXpJXzFKVGFFNDRfdzFsZ2R5ZWpoN3lMTnk0QXNhQTNndDJ5ekRKMg?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/dprk-council-adds-three-individuals-and-four-entities-to-sanctions-lists-over-nuclear-missile-programmes-and-russia-ties/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/ukraine-s-territorial-integrity-council-lists-77-individuals-over-the-illegal-russian-state-duma-elections-in-the-temporarily-occupied-territories-of-ukraine/",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1mOUdCWWI5aG1JRE9IZDhuZW9vZkxQZ2o0eHh4OTZsbTBzdERWR1dZdkxiSjkxUGxuR1pXNjh1WFJ2M2MwUF9iRXFic2V1UjJTT1NHdnA1NnNtSnZnQ0pua05ndTBzRnktM20zQkhtVXE2dXdXTGpDZEg5X0FaYVBDR2dyZWxiVFNZaWx1YzdiM0wxaFJOVHlubFpZaWxza3c?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejlWaDhZcERqODZoOHdId0RMVG5qZnhWWHdBVWUxNHhpczNfWUZtclZra3F0N0ltQU9KZzhOVFF2M1hDTkFVMy1iSXJlR0gzT1VHcUJtN3paVHhLRWVGYjVmdWJVS1FqNkMzREt0SjgyVjhIdHVVWjVqOW9GR2h2d3RxQXdXd0FFaEppTzJjMWpjZGFTTHdpcDRIbk5PQ3pYMVBIRy00WUhENjNMWW8yaXRoOGF1NTM0d1BtTS1pbw?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlM1Mk12aDBrUURkazluQld1RWV0cHVxVWxTQ3V6RnRqMzFWeXI3NVBzUzRmSW5nVnlRUkEzcEVRa3Y1R3JCSG5oMWxhRUVrcF9mQ09rRDhEMGZsdmtTZlZMbi1aQm9XWDlhYUd3ZDJzcDhaaFlwdmlJalp0ZUZiMWJTOGRfMXBzMHo5SmxENUkyQkhTd0FMM09IU0cwbmZxT2ZkOWZuYUdyZFM2NDBOT2dNelY4ek0?oc=5",
-    "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSk13ZWJwTS01VGY3aGFtb1hWX1RKMURxbEZ2cl9MZ3AyYlh5NXVJTGtuT2Jtb1EyaWo3czcyN3c2a2tHcDVSSDZ2bTlVbHRTTE92MGtFMDJFVUlJdS1FNzlnUXZTdk92SmpZMWdCa3NWQWJWNzZHazJkUTJNUXdBNWh6emlLSmNiSTR4eGN4eWxKdzNLZjVLM004TkE2d084OGNjUTY0WXUwUHAzY1U2TlVIZGdxakZDam1mdTMwYndSUXlLVy1RWUlwdkw1eU9NRy1KS25WSWdsenQ4TWFmQlZ4cE83ZzFESHpneHFjc18yVHFTSUxHOURTSHp2aDUwN3FsNEVubjhtVDJEcS15Y0VxVk9FYjBvLXRoVkkyZkxEQdIBogJBVV95cUxNSk13ZWJwTS01VGY3aGFtb1hWX1RKMURxbEZ2cl9MZ3AyYlh5NXVJTGtuT2Jtb1EyaWo3czcyN3c2a2tHcDVSSDZ2bTlVbHRTTE92MGtFMDJFVUlJdS1FNzlnUXZTdk92SmpZMWdCa3NWQWJWNzZHazJkUTJNUXdBNWh6emlLSmNiSTR4eGN4eWxKdzNLZjVLM004TkE2d084OGNjUTY0WXUwUHAzY1U2TlVIZGdxakZDam1mdTMwYndSUXlLVy1RWUlwdkw1eU9NRy1KS25WSWdsenQ4TWFmQlZ4cE83ZzFESHpneHFjc18yVHFTSUxHOURTSHp2aDUwN3FsNEVubjhtVDJEcS15Y0VxVk9FYjBvLXRoVkkyZkxEQQ?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/programme-for-agile-and-rapid-defence-innovation-council-gives-final-green-light/",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMElnY1BtNmFhNldLNkpTdmhYM0hYNUdncVFCV1FEek9iaGYxY1duR1ZtZ3pmOXEyUXFJTVhxMjZjRk02WENxdUlLUDNTblFMaUxsaEd5QS1GNVZiZHpDQXBMTFU0YTFYcU1LY2d2clVOUVFQakcxUFk1S0RzVXJsLURIaHRzWEpQcFdQUE5FSnpNX2lUQW9KMndvVjA5V0dUck0xN1pZRUc?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUl2WTBVdC1xTnNvUkRseWxnYkQwQ09Jd1h1UkJLSzJCTnREWUVnMFR6dk9mTW5wYU91SkwtYmNsOW5UUUVDa2dGMzRxOWs2M25ic1M0am1kRlJzY3JPUG5OeWR4bHkyM1BnbzdwYjJiQ0c1aEc2XzI2LUNWWXhaQ3I3Wk5Ub1loR0hfSjlSLTA3UXNla1ZEd2NwMmdieG90MXNocFY3Z0xHVjNqVkhiVE9tM21aOU1PajJIWVY2bjEyZTZOUUHSAcYBQVVfeXFMTnVJdlkwVXQtcU5zb1JEbHlsZ2JEMENPSXdYdVJCS0syQk50RFlFZzBUenZPZk1ucGFPdUpMLWJjbDluVFFFQ2tnRjM0cTlrNjNuYnNTNGptZEZSc2NyT1BuTnlkeGx5MjNQZ283cGIyYkNHNWhHNl8yNi1DVll4WkNyN1pOVG9ZaEdIX0o5Ui0wN1FzZWtWRHdjcDJnYnhvdDFzaHBWN2dMR1YzalZIYlRPbTNtWjlNT2oySFlWNm4xMmU2TlFB?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDMyZXZObVpIZjZ1YzN2MkJzdnJGR3hDcTUwSjNGcHRvZXFiSlhPSW9xY1hxV1F1ekxicmdad3hEMWVzbGtFeXdYa3NvX291TGxva20zRmFnSG1FaURGMVEtekw4TDhYZjFiRmJiVjJMOHM1eXFiXzBGamZWd1lGYUcxdmpNN2ppdEpGelgyaXo0WVNXREUxRUxmNE84V29kV3BHN2o5dVJNN1pLRk9tTDBSdmY3Z3c1djJhQjdFWVJGZUlkWTcyNHd3MEp2VF9RN21qYQ?oc=5",
@@ -1199,23 +1188,20 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczVsRXlFcUpkZFNnV2hmV3F4ZmFjdTdXNWgzUVB6MFR1YW50dmZXTFN4OXVITEYzb1VoTjBzZjg2MG9Qd2hIV2dTcTFCYlpTanVmUVEtQ053aGtuWS1hUGp3M2dEWExkLWlLVURydzFrTk05UURoc2JqanNvSXNsYWlwVGhqV0EtNGpOZ1QtYUZHaHpVU3JVNUl5Q2JTekVXc3E5LURMU2hVVE8wQnVKSGs4S0d2RWZV?oc=5",
     "http://www.africanews.com/2026/10/20/mozambiques-samora-machel-honoured-40-years-after-his-death-in-a-plane-crash/",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2VG1aTF96THk5ZFpBclhFQ08xT3ZBU3VrVkNxRTgwOWp0dmtPZ0lEZ0dFbWJZamszSXVzbDdiT1F0N1lQbng1VFJOaldjMnRJQkQ2cS1iVEQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3A0aHJJaUgzT0JCU0RwUUhFX0hWbHRMYnN4X1JUbUZnZE9QT3JFMTRROXRJQ2dWMUpRM291RUwyZGxuS2lMOUFzaFNVY2N4UXRiNF8wN2dUTVlUODBpcUozbzZhVkJrLWFBT1hoY2Jpdno1UXEteU16TDI5Z2pmMTNNWXhpa0NpMWpIaUs4Rjd6cnVaZWJIaXFBWWF5cXRuZUpUc0dHTnNRSWp5TzNCODd5bVo?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3A0aHJJaUgzT0JCU0RwUUhFX0hWbHRMYnN4X1JUbUZnZE9QT3JFMTRROXRJQ2dWMUpRM291RUwyZGxuS2lMOUFzaFNVY2N4UXRiNF8wN2dUTVlUODBpcUozbzZhVkJrLWFBT1hoY2Jpdno1UXEteU16TDI5Z2pmMTNNWXhpa0NpMWpIaUs4Rjd6cnVaZWJIaXFBWWF5cXRuZUpUc0dHTnNRSWp5TzNCODd5bVo?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmVZS2Z5dVRQMkJUX1ptZWl0Mk9aaldobTJGWUx4cEI3SnRFOFhtWV9IdFVRMGlnV0NBVHFORmppSWdka1I3LXV5SGtDVGYxLUFpWHhyRzNsRGtKX19mLTJib2lnOHlwSkxYWU5NNjVnU3Y1ZHNwYmxtYTZfdHZ2Z1RsZURnbUllQmc?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/20/council-and-parliament-strike-deal-on-updated-measures-to-support-organic-farming-in-the-eu/",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEJUSWNpMVR3eEhJdGhNdVo1azIyWl9ld3ZCRGJCNUxnLWVvenkzYlAteldKR1pkUHQzOE95bmI2TnRkNjdZSVJJWHE5NGJqMm1hRVN4R2J2V2NJMFRYQnlCZ2VzdkpUUENuaFYzQ0FJbTRLX2tLUnlJR2JMLU9RQzZzWi0xQmJP?oc=5",
+    "http://www.africanews.com/2026/10/20/protesters-target-meta-office-in-brazil-over-alleged-political-bias/",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RWlc2eTJxVDIzUDE4NUZISV9YRjZGWElnZnJzcDVwUlJZQU05SkFVTEE3U3BLeDJtd1owa1g5YnRJb3AyRkJqa1FLNjRKQVpjaWFaQnB1Uk9ENGV2ZzRSTGktOWdvMWJKNkZvQXBYdUhEUkFoUVpRSzJB?oc=5",
+    "https://www.middleeasteye.net/news/burnham-rejects-jeremy-corbyns-call-public-inquiry-british-complicity-gaza-genocide",
+    "http://www.africanews.com/2026/10/20/sources-say-more-than-40-civilians-killed-in-weekend-attack-in-mali/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVUxZcy1LUmdGa2UzZEY3czEyMEF2b3BQenFSZFlvMlMyc1pONjRILU1zcllURnozRUh0OGR3cFFuNmhuNmpYNFF5bnc0c0tDSTNDdkY4TFNudXc?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp?oc=5",
+    "http://www.africanews.com/2026/10/20/in-ghana-diaspora-visitors-pay-pilgrimage-to-lost-ancestors/",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUWp0SHkwdDM4a042Q2U1N2dweEtlZFJYU3YxbldEME9uNmxySmxLN1UtWGdoTXJpSzR1RURxSnZ3bzNMdjlEeGNySDdhclFSYldJZV9OZVVBdw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Комісар АС Банколе Адеое завершив візит до США з дискусіями про мир",
-      "summary": "Комісар Африканського союзу з політичних питань, миру та безпеки Банколе Адеое завершив візит до США, де зустрівся з представниками Держдепартаменту та обговорив конфлікти в Судані, Ефіопії та Східній ДРК. Делегація також планує консультації з Африканською групою при ООН та А3-членами Ради Безпеки в Нью-Йорку.",
-      "source": "The Africa Report",
-      "publisher": "",
-      "published": "2026-10-19T10:30:00+00:00"
-    },
-    {
-      "title": "Рада ЄС ухвалила рекомендацію щодо боротьби з безпритульністю",
-      "summary": "Рада ЄС ухвалила рекомендацію, спрямовану на вирішення проблем житлової виключеності та безпритульності. Цей документ є офіційним рішенням інституції Європейського Союзу, яке встановлює орієнтири для держав-членів у сфері соціальної політики та захисту вразливих верств населення.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-19T09:51:47+00:00"
-    },
     {
       "title": "ЄС призначив нового спеціального представника з прав людини",
       "summary": "ЄС призначив нового спеціального представника з прав людини, щоб посилити моніторинг та захист прав людини в Європейському Союзі. Новий представник, [ім'я], займатиметься координацією заходів, взаємодією з урядами та НУО, а також звітністю до Європейської ради.",
@@ -1411,6 +1397,20 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-20T11:12:40+00:00"
+    },
+    {
+      "title": "Ван І провів спільну пресконференцію з міністром закордонних справ Болгарії",
+      "summary": "Керівник Державної ради Китаю Ван І провів спільну пресконференцію з міністром закордонних справ Болгарії. Під час заходу він поділився чотирма основними висновками зі своєї поїздки до Євразії. Ця подія зафіксована на офіційному сайті Міністерства закордонних справ КНР.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-10-20T11:56:00+00:00"
+    },
+    {
+      "title": "Філіппіни підписали кредит АБР на 90,8 млрд песо",
+      "summary": "Міністр фінансів Фрідрік Го підписав кредит Азійського банку розвитку на 236,64 млрд ієн (близько 90,8 млрд песо). Кошти спрямовано на заходи, що пом'якшують вплив конфлікту на Близькому Сході на економіку країни. Угода офіційно підписана урядом Філіппін.",
+      "source": "Treaties & Agreements",
+      "publisher": "Facebook",
+      "published": "2026-10-20T11:22:17+00:00"
     }
   ]
 }

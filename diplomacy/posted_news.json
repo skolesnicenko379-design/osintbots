@@ -1,16 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUR2WWRNbnM4RTNBbHlzY2R6UExWbTJ0ajg1Q1hUUWVVTU5vVmVUY1hvWkQ1U1A3MG14RFAyOFdGal82aUVvU0ZQVzlVc1M2OTdKdG9kNUJhOC15THEwTmZmTnlOQ1p4aGg5cnBNRDllYkdnU05MTDVxVm9uOXpNal92RkVQVmE4Vng5QjdwWE15SXB1WllhVW0xdjhXVk5uaUdpeGs5a29BUEtaZ1hLTjRxeDZoT1FucFBrckhQY0tiUHB3?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFJGY3FRWi1hZlRVYW5LZTBHUGdJaksxYVZjTEJtZGljUkZGc2VWak14U1E3aWt6akNLSU5pa1lQbFJGaHotdkM5RnZnNUlwWkpyNl9sZkpSMzdRZEo0TmxzSzY5NUZpaUVfZE1rTE1NMW4yWVFYWmQtdnBpNXh0RkZNUTNCalk2MmE5dURNVVFyUHlJSmhOTWQyQUEwN2s?oc=5",
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdXVDNUFocjJETC1yQWg3bEt1X1Izd0oxOU1tdzQ4cUpXVS1JS1o4b1VoeGhPTmIyQjdoSHl1SjQtTEJQTWRZM3Fqb3JSRUtMZE9reHE2VEV6OGEtTWpFc2NzRHJIT2FjSm9BTWRveDlWek5YNERlMEJSbVFVX2hSOUFoTExnUTRyOWFjZWJHSUJxMlRpUXUzUGlWeEZJb3BVS1ExRDdDbU5sNldoMW5XcFJxMnRLc19FenljR1kxeGloNExVbVoxdktqdFBKd1ZENnd1MnZ6UUw3RmNGRG8xU2pPWmJKZmpQc3FhNWxrdHIydw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwY3QwSEpsWktaM285b1VEWkIweUcxRElheTFsWmVDQlJxWGpJMG9DSmZ1RUV4QnNidm9WNEtJR2dIVVNzRDRZVjVJOXlMUndpbHlELTFuc2N4bG1TMFU5dDhTNTM?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0RkTXE3OUpOTERpTGxjZHhGODNMVmNMWjFZNDBKWjhteVVGNmpvVGpjWS1mUEZ4RUswSVBid2tDdDJwT3ZtVkpMS05KNVd0TEJTaTVZSWgwT0NzNmM0eF9GQ0t4VWVRRjM1VzloMU1BWl9yTjdSUl9JX0NhUzR5QmZfZ2xrY0xycGYxQjJrVER0ZVA1VTRXYUJoLW93bFR3aGc?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGNKbFI5WEhHM0ctb0xvMUR5SWpndkp2bUl3aXFYRFZwZzZKdEhRS21pS2lvQjhJMUpPcFBqcVVjclN1bTl5cDBYUG5Gc2FlZ2NWZ28yMzZDRmpRaDV1X1dfUm5Dc1RxRHZhRGdSeE1wSXhOTUpjeVBMVURSbFZic01pODR2MjhRQm5LZVJYTmZrREtiS1RLQm5VQzl4eXZtYXBfaU12eWQ5UEM4a21JbGtxR0k?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHlCRG1qbzhKRkhGMVQwRUpKcVhORVQwU05WajVlR2NBemI3Uk13aktWTFhQbTNXd21jZThwWkRCTGRvSkFScGFYQWNKTWRYMjhEaEtjMk8xR2lITzdXQnhOQlNtTnFkcFhPN3RtbVlycVQ0VmtfbDZId2R2UHBad2t1b1haUVE0LVJZRVpDTHlCM3dKX1hHczBzR1R0VUU?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDVGMExPc0Y3REozeG1fQXZpZHJjNmZUN3R6cVdNYWtpN1NDSXhjZVJxeGlmRG5JdW5tODZSaXF3MkJuTFpTVGI2M1E1VkVzOGhPTEtaOENRRlRMYk9XajAwZUJvdEpRQWVUVDczUzN6cHlkQWx0STlsc29sbzc2NHJ5MTZ1TGl0NlJV?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNm9WVl81U2hxOGtMWGY1bXd4YlpVRmNNeHI2eERHWmhtOFZVS2YxZ1ozWFhzUV9fN2NFNzBhb0V4elZTYTJCQ0JJNjZlUUxtbXMxS1EwRDVOODNJVGJLWU1QS0dZV2lFQkhxVXYteElvNHgxM3poQ3hOVGdXeWE4SDdZSWhPbjhBSFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82UGJBN2xqb251RXRyY1YyVVpKR0hPTTh0VlZPVUNxM1liWS1SSmdQME9iMzE1Q0ZjNEVDUDVKbjVnc2EyYlN5UnBJY2lHYVRUaXg5Z2FrRkRjN0l5TVgxckVubF9hdHA4?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzVFNHpTT2ZnR0VqajJlN3BDeVRBeEpYX04tOTBJMENVNU1BdGlJOG82WDhnYWhOdTY5Tnk5ZVMzb25QeXEzbnBLVVJvTDMyaDVTbmhBSVZNay1aS25fYUg4LUJpOFN0em1rNno4dDlvVzktOU9lYVpzYkxmSDkxUDdmU08wRkd2cUU4dGg0VWFnU0c4WDA3OVBOTlFOQi11UzRXQnlvTkZOMGx0YWZr?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFQxbWhDVU5HQ1VUT0RFVC1tUmtzR0l4TnM1Vy1ia2dseHJTSjFmVy0wdXpSTEg0dm04dWl0aFRobS1vNV90S1NTVWxYbzFTWV9PY2ItX3IwQ1NtRmVhWm9paDNSWnI0RHpOTE1HeGVqQXdhcVBhTE54bFMzai1QTXV2VVExSmVGdUNRaFotOERwNTVWQUtnc1ZBbE1rOFdWeXgtNVlPWnl2YzNONVJobFBkYjZMMTZjamc?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ENnk3RjBaZWs1YllxQmtGXzZzUlpoOEdnZWhEQjlWdVRnc09GVWUtSGdBNF96ODU0WWZSeWlFMHhvNkE0eDN5R2ZpTjhraVRuTjBSM2FXZHotUGM1NzdSZGNyQ2pzdVJCUTlSM091ZkloSDNt?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1hobHdvckFHRl8wZEhPQm5hLXViVXZvLU1sUW1jREdpUkZJekZyRlkyRjdzRHVRNGN5YmtwQXhCSTdXMDY0RkxGMVVYUU9kUWhLX05jR3ZtT0dUYnJvdTNmY3BuN1F5QnctQ3pYQXRhUldVbWxxUkpoVVdRVnJHWUUxYjBTbk5HSmVSbFBXTU1KNkRHdHBncDYzaER4aWhfcE14RFljd3lsMUJ2Z1F1T0QzVzNUUndpak9KcWdQTjdiRFZpbU82VzVn0gHKAUFVX3lxTE9zWGhsd29yQUdGXzBkSE9CbmEtdWJVdm8tTWxRbWNER2lSRkl6RnJGWTJGN3NEdVE0Y3lia3BBeEJJN1cwNjRGTEYxVVhRT2RRaEtfTmNHdm1PR1Ricm91M2ZjcG43UXlCdy1DelhBdGFSV1VtbHFSSmhVV1FWckdZRTFiMFNuTkdKZVJsUFdNTUo2REd0cGdwNjNoRHhpaF9wTXhEWWN3eWwxQnZnUXVPRDNXM1RSd2lqT0pxZ1BON2JEVmltTzZXNWc?oc=5",
@@ -1199,30 +1188,20 @@
     "http://www.africanews.com/2026/10/20/haitian-gangs-target-foreign-troops-in-biggest-attack-on-new-force/",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlNhQTItSjBPcUJsN3UtN2thNno3czZ0T3JQWFNjU0xFQndoalRmSDVMcEZlUkVZaFhmZF91V29MSzFMVDNOX2IyWXdLcnFHaVQzU0YyMVJnOG01X0syVEJNUk5yYzdzVFU2bll1SGZqeUE3VzU1dlhXREpmR0I4NXpHNnB0bnB1Und0OGpzNGU2SnNvb1lkQVlNVzgzZkZGNlg5TVhUcmJubmNWSUgzaHBvUHpKaktwNXhtektOMDZTck8xUzR6alR4Sjk5UQ?oc=5",
     "http://www.africanews.com/2026/10/20/us-raises-kenya-travel-advisory-over-ebola-and-security-concerns/",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmdhSVBWLVNYWHBDWXQ3VFFwMVY3R29YdkVEVmJzaWl5NHlYb016NnJKUUlJU25rdVh3eE5xLVVFRVcwN3EzX2RZcFdXLWI1T1dMUkF6NWVMU2gwTVhKNW5zdVVyVXN6dkpMZlVMTWJaME9zU0lTOTFlOVZJbTRpUjRpdGUxTFlaSFRLSUFIV0FTRWp6UXNiWWpfY1haMXMt?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmdhSVBWLVNYWHBDWXQ3VFFwMVY3R29YdkVEVmJzaWl5NHlYb016NnJKUUlJU25rdVh3eE5xLVVFRVcwN3EzX2RZcFdXLWI1T1dMUkF6NWVMU2gwTVhKNW5zdVVyVXN6dkpMZlVMTWJaME9zU0lTOTFlOVZJbTRpUjRpdGUxTFlaSFRLSUFIV0FTRWp6UXNiWWpfY1haMXMt?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjNOajFXOVp0MENtdkpaOXpNTHZHbzZUUG1vdWNsMm5LQmNyZDU3TVhUcXBqTnFRR0xhYkw0U0gzMVNKUlVCNmU2dDRDaGpaMHZiWVF1bU40Nk5wVGUtTTVCZnpabm1TSnVnSlQ1eE1pc1RWTU5OWFFzb3lucml2OW1aN0VUVWhxM0xtQTlLcVdRdXIxR210amF4U0xBdkxiU1FQb0l6RWlDbkJjMFk3TUdIckxxNk5uNXlqMWpQWmg1YlBsTFcyOS03dEN6TkJVbGZZbF9Kd2lWaXZJZHFLWWFGVmJGN0F6ajhkWU13?oc=5",
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaXRKUmZTX0MwOXZGbk1WOEVZMjJMU0lSczBGMWlIYjlxUVNKMEhteTdHazczTGMzOU9zVVlHbnZXWEE0R2dVbnRWYVJnQjNBVER6UVFXeE1uTzZuQldXTW4xWDU0RjJlZjVPLTdxRDdpU291OVF3NUFJR1k1czlDa2ZWdm0xX0xyTFRZY3VfLW1vSHRlMC1JMjRySVB6MlBTamRKZXZmSFh2TGMtUG00QlFsZFZsSzhtc1pMRGUyUHRsQmlXZFFid0FQU0NkUE5pbHUzWG1JeWxWOEc1X201X3ROOTh1WHpHTlJZXzhId2Q?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UXlxbFhiRVU2eUFBdDMtd19vLVBhTGhra2xhYjYzNzc3Mko0SDRJT0FydGRWNTJpOWRYWkhFTDU5d1FrbG5Uc2NwV2xOZFVlbC0zWmdLN1RmdkJxVkRCMEZWWm1LSG8?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-parliament-set-ratify-mecca-joint-defence-agreement",
+    "https://www.theafricareport.com/433955/kenya-holds-back-immediate-fuel-relief-as-price-hikes-spark-protest-threats/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-arrives-tehran-meet-senior-officials",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVZLYmJ4emRKbmlLVVo2QmU4cE1nX0taQ2NMUWp5NjJ6WnZ4MkV6T1pzeTQxc0ZyYkJpd1N0M2tGTHNoMEFTVWlCQmpSeV9vT1Jrc21vcFd5N3Q2aXdsamNfNF9YcUNSZ19tbHIwSjJJaGx4ekMzMy1ReW5xV1k3Nk1RaTdwV1R4Rk9rMGYwSUZjQVozMW1wSnhFYVFZd2hVeVR3LUhiNEQxZzAxU0Nud3AtQlY1U1VEaTMxRWVTWHczV2NlVnhjeGduaWJjMVBld2Rv0gHTAUFVX3lxTE1XVUlLb1hzcVFQbThTNWE4VnZEdWtUcGRQYTR5MDZlUmRYUXh6dE1UZ2ZOaFhETUZMeHlPdk1ycG9NOEZaUXZrS1JraU9mRmJLTzRtQllKVkhQQXRFaWZsRUNXcl9zMGN5d3BTc1NPaXdBLVZWNnFFQ2Y1NDBXcU04QlVLeTVpNGVmUjgxTlpWRDZvOU5OcWNuMWExNEFXM0VMbVdQOHBuVko2Mzd0SE5xVVotYXM4aVR2Wmp1VVBsalJUcHA3MkdMVms1TWZvdGV4SkE?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE93N3d6bGJkSWc3cGxZZFZzczYycEtEcWsxOTVWbmdqdmtYbzlfUVJqOVIzWEpkUWVsNlMwTTRHY0hSVVZaYjdJaE9QZHVleU1CVW5fQTBMSWdES2JlUl9GcjR5Z1JxLUdqNm5XUlR1anlhRENBckpDZTJvLUo?oc=5",
+    "http://www.africanews.com/2026/10/20/dr-congo-700m-in-ebola-aid-unaccounted-for-as-outbreak-spreads/",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWk2LU1JRlhES193bTRKbGFZQnNIU2w1LWdrdGVPdTc5eGJSSzh5RzJzaHdwNFJHY0Z5UDM4dy1qX0ZHWlRsRDI3TVBtM2xZYllSOVJ6dEl6MFpucWV6RFYxTUZVVkNKd0stcnFSb0YxcjZ5YnBtWWtuWkduMzR5XzNXTGdhU1VWYWs3aWZHa3l2OVAtcEpRRkc4YS1HaG1EM0pQcnk3Q3lwQ0RwZUE?oc=5",
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPd1RIUFFkOEJsUzVwT3JfbVlRVHhtMURPdEtoR3l6SzMxcF9COVVMMmE0a3JDeGY1cWthaDVYR3ZEc1B2dThQZ1FhLUU3ekdKZFZvWVAwMG04YjczUm1VaGJ2dm5abzh0T2VTUmJxNU5lWV9kVUk4eWNnTEpTOHhrLW9QeEgtNlJSVFA1TS00cE1MUkt2MnlsZl9iOU1GaFRuUGdtenJOTXpScWQ4cTdwQ2g4YVl2d01LOHlFMU5uQ2p3ZTBUVDZBMllBbmkxNFY5MjFGbGpIeEROZlVtazB2aGdReWduTjFaY2lBcUVIcEh6U0w4U1ZYMWlEOFh1Z0Z4NnZoVDZrNzF6c0tzSzM1aWhGNU9pT0hFTHNJdmx3?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "В'єтнамський міністр зустрічається з ісландським міністром",
-      "summary": "В'єтнамський міністр індустрії та торгівлі Луонг Хоанг Тай зустрівся з ісландським міністром закордонних справ, щоб обговорити співпрацю у сфері торгівлі та інвестицій, підписати потенційні угоди, а також обмінятися поглядами на двосторонні відносини. Під час зустрічі обговорено можливість розширення двосторонньої торгівлі, а також спільні проекти у сфері технологій та енергетики.",
-      "source": "Treaties & Agreements",
-      "publisher": "Vietnam.vn",
-      "published": "2026-10-19T09:42:22+00:00"
-    },
-    {
-      "title": "Британський міністр закордонних справ заборонив участь у тендері E1",
-      "summary": "Британський міністр закордонних справ Ед Мілібенд заявив, що сьогодні закінчується термін подачі пропозицій на тендер будівництва поселення E1 в Ізраїлі. Він попередив, що уряд створив нові повноваження для санкцій проти осіб і компаній, які беруть участь у будівництві незаконних поселень, і закликав не подавати заявки.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-19T09:39:30+00:00"
-    },
-    {
-      "title": "Рада ЄС погодила позицію щодо спільної організації ринку сільгосппродуктів",
-      "summary": "Рада ЄС погодила свою позицію щодо спільної організації ринку сільськогосподарських продуктів в рамках багаторічного фінансового плану на 2028–2034 роки. Це рішення є частиною переговорного процесу з бюджетування ЄС. У тексті джерела не зазначено конкретних учасників засідання чи додаткових умов, окрім самого факту погодження позиції.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-19T09:36:48+00:00"
-    },
     {
       "title": "Президент Мікронезії відвідає Японію для переговорів з прем'єром Такаїчі",
       "summary": "Президент Федеративних Штатів Мікронезії оголосив про офіційний візит до Японії, який розпочнеться у вівторок. Під час поїздки заплановані переговори з прем'єр-міністром Японії Такаїчі. Ця подія є формальним дипломатичним кроком, спрямованим на зміцнення двосторонніх відносин між країнами Тихоокеанського регіону та Японією.",
@@ -1411,6 +1390,27 @@
       "source": "Bilateral Meetings",
       "publisher": "Ministry of Foreign Affairs of Japan",
       "published": "2026-10-20T09:15:42+00:00"
+    },
+    {
+      "title": "Рада та Парламент уклали угоду про підтримку органічного сільського господарства",
+      "summary": "Рада ЄС та Європейський парламент погодили оновлені заходи підтримки органічного сільського господарства. Угода включає фінансування, спрощення регуляцій та інвестиції у дослідження. Впровадження плану розпочнеться у 2025 році, з очікуваним збільшенням виробництва органічних продуктів на 15 % до 2030 року.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-20T10:21:51+00:00"
+    },
+    {
+      "title": "Парламент Туреччини готує ратифікацію оборонної угоди з Саудівською Аравією",
+      "summary": "Спікер парламенту Туреччини Нуман Куртулмус направив Мекку оборонну угоду до комісії з закордонних справ для ратифікації. Цей тристоронній договір про оборону підписаний між Туреччиною, Саудівською Аравією та Пакистаном. Документ очікує офіційного затвердження законодавчим органом після повернення спікера з візиту до Киргизстану.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-20T10:12:43+00:00"
+    },
+    {
+      "title": "Узбекистан і США підписали угоду про працевлаштування членів сімей дипломатів",
+      "summary": "Узбекистан та Сполучені Штати Америки підписали угоду, що стосується працевлаштування членів сімей дипломатів. Документ регулює можливість роботи для родичів дипломатичного персоналу в приймаючій країні. Це офіційна домовленість між двома державами, яка полегшує умови для дипломатичних місій Узбекистану в США та американських представництв в Узбекистані.",
+      "source": "Treaties & Agreements",
+      "publisher": "UZA.uz",
+      "published": "2026-10-20T07:50:57+00:00"
     }
   ]
 }

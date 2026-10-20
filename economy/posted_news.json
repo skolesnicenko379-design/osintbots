@@ -575,51 +575,15 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hT0JQaGctaEpDMzFjX0ZCV2tqeHdzMmdmT2VpSFA4aEZndlUtdEVJcGc5UWQ2dUMwRjJxNWpsVlAxUHRKX3dNOVJpYWlTb3NFcVE?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxONk5vSFQtOWVnQXVhVmw2M3plTkpITlFjUDJ4UjhnSWxfYmx1ay0wWTJJRi03RFJtWHZ0TFI1THF2SWRuNFBfZlEwQXdYN1BIRi1tZ3E3M2xYaVJrTElaZnFldXYxcDN4WHo0WVRyczgwZllmTzRLQW1jNG1YaGZLaDFVNA?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR050VXZHclBzamJBTkQtNVd0amVkd1J4dlZISktTSlU3bDdaRHg1Mm1BWVg4cjhoVnlPNHRaTEFFdE5XZkY1UjRMT0ZwSHIyVC1SdmptMzB5Zk5TTG1GNkFJS2QxNEV5UHpQeFgzeVpobXBQOUU4OVlrRjB3Uk9vaE5ORmRweEw2d2RNZUtoZGV6TnZU?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDd6VTBCU1ZkVV9mdzZQdlFONUNJZWVDRm9ORllCV3dPeVNoWmFPM2hxbEFjcmg1MVN5WXpnaU00ZDZwMlAxbzdEOXZKTnZ3bUw3bW91UlppNThHZ2tJOGJWOXFQQ29hd05nTFZZWkcwbjJJQk4wZzd0SUpDSEhtS0t5eENnd2c0OFFHYkZIT1lQcUdndnczd3g5NWdmMDYyLUJqLXpzSEpqOFZablhMcGxpZnFSbVFDaU1DMXhqd2LSAcYBQVVfeXFMT1RKaDNTVEtSeTlKeXdmMVROaUFrSlI1US03UTVsdWtucEM4RmdLU2NkeS1LR3hZam5YTEhPYjgwRVRlUER1a0FUbk8yeXdoWUVNeG5oSHY1Z21XMElEOVk0NTVQQlNuY05VY1JfTkp1VUNPMnRuSW4yVnN5cDFUQ1NiNExXd0NpcjdXdjNFSmIyRlMxRWpDbGJDYkM4SW5COFFjOG9SSzNsalhmd19uYUE2N3pFX0Rsby1mdUhqc18wWHpDNWVR?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXBxTTVoaWJpYXpwY1BFXzZPSVRpNV9veGFvc1pNVTJlREFrNnJWMjFqaDR1c2Y5NDFzTDFRMjIwLWtyWVdIZ3lBbUt0cjNpdzhZQXMxMm1kZ0FUYVRhNWduNDBibktBUTEwUF84ek5mNUhLV1lCbUlEc3FLSXZ4R2JXZlIyWU03cjFiM1BPSTNwZTJpTGo1ZWF3NzRLX2RzTk9wV09UT1pZYk8zQXN5RkNGbjNWaHd2M01JUlVjZXNaSUFyRzJXQk9hcVNwN2pLQ28ybEN1bHhsN1Bncmx2eEUtc25WY0tMc25PVg?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmpQZjhiMnJOaHpoZmtlMzBDbGN1Q2IyeHZDVnN3dzN0VE9wUGNQUkFyS0k5UDFZTWJiNThzMVR6YzZURmoxSVk3RFUtVERYNlJVSkJDNDYzZTVqQUV1NE05SGkxUFBIMGtuMVJoNDMwNTcxVVBXYXg1SUw5d3lSTUFBa3B1VTJFN0dLRmVSckoyb0RPN0dMMVZPeWNSZlFn?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PX2M3dnJfZWdwRVdXQkZRV2dMeEdSel9NYXZ5b3BLd19rd1NBMUFYVm54dlZTSkswWkFvSnJzRnVZS2UwRGhyU1pzajZJcDF5UFJYeno0ckI3ZUtlbGNmOVBBc3QybE5QcVozX21PRjJ2LVVzaWxOM2U2ZXd5NFk?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Азіатські акції падають всупереч ралі чіпів США",
-      "original_title": "Global Market Today: Asian stocks decline in break from US chip rally - The Economic Times",
-      "summary": "Азіатські акції знизилися, перериваючи ралі американських чіпів. Це сталося на тлі глобальних ринкових тенденцій. Така динаміка може вплинути на настрої інвесторів у технологічному секторі.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "The Economic Times"
-    },
-    {
-      "title": "Казахстан та Азербайджан презентують Транскаспійський маршрут японцям",
-      "original_title": "Kazakhstan and Azerbaijan present Trans-Caspian Route opportunities to Japanese investors - Qazinform",
-      "summary": "Казахстан і Азербайджан представили можливості Транскаспійського маршруту японським інвесторам. Стаття фіксує лише факт презентації без додаткових цифр. Це може сприяти залученню інвестицій у коридор і посилити транспортну інтеграцію регіону.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Qazinform"
-    },
-    {
-      "title": "BloombergNEF: дефіцит металів послабиться, мідь потребує $332 млрд",
-      "original_title": "BloombergNEF’S Transition Metals Outlook 2026: Global Metal Supply Shortages Set to Ease, but Copper Faces a $332 Billion Investment Gap - BloombergNEF",
-      "summary": "Згідно з Transition Metals Outlook 2026 BloombergNEF глобальні дефіцити постачання металів послабляться. Водночас для міді зберігається інвестиційний розрив у 332 млрд доларів. Це створює ризик для ланцюгів постачання в енергетичному переході та потребує додаткових капіталовкладень у видобуток.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "BloombergNEF"
-    },
-    {
-      "title": "Єна Японії тримається біля 158.50",
-      "original_title": "Japanese Yen flatlines near 158.50 as markets seek direction - FXStreet",
-      "summary": "Японська єна плоско тримається біля позначки 158.50. Ринки шукають напрямок для подальшого руху. Це свідчить про відсутність нових імпульсів на валютному ринку.",
-      "source": "Японія · монетарна політика",
-      "publisher": "FXStreet"
-    },
-    {
-      "title": "Туреччина: маршрут Ірак-Європа за $20 млрд",
-      "original_title": "Turkey Says $20 Billion Iraq-Europe Trade Route Could Generate $55 Billion Over Decade - The Media Line",
-      "summary": "Туреччина заявляє, що торговий маршрут Ірак-Європа вартістю $20 млрд може принести $55 млрд за десятиліття. Цифри стосуються конкретного проєкту коридору з прямим макрофінансовим ефектом на торгівлю. Новина додає нові дані про обсяги інвестицій та потенційний дохід, відмінні від попередніх матеріалі",
-      "source": "Коридори · IMEC",
-      "publisher": "The Media Line"
-    },
-    {
-      "title": "IFC: наступний етап Середнього коридору має стати економічним",
-      "original_title": "IFC: Middle Corridor’s next phase must focus on becoming economic corridor (Exclusive) - Trend News Agency",
-      "summary": "IFC заявила, що наступна фаза Середнього коридору повинна зосередитися на перетворенні його на економічний коридор. Стаття не містить конкретних цифр чи умов. Це може сприяти розширенню торгівлі та інвестицій у регіоні, впливаючи на макрофінансову інтеграцію країн-учасниць.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency"
-    },
     {
       "title": "Японія за місяці від вичерпання критичного рідкісноземельного металу",
       "original_title": "Japan ‘months’ from running out of critical rare earth as China squeezes supply - Financial Times",
@@ -717,6 +681,48 @@
       "summary": "Нафта Brent утримується поблизу $110 за барель на тлі напруженості на Близькому Сході. У статті є лише заголовок, тож деталей щодо динаміки за день, обсягів пропозиції чи конкретних подій у регіоні немає. Такий рівень цін посилює інфляційні ризики для країн-імпортерів енергоносіїв і збільшує витрати",
       "source": "Глобальні сировинні ринки",
       "publisher": "Anadolu Ajansı"
+    },
+    {
+      "title": "Індонезія розширює імпорт російських ліків",
+      "original_title": "Indonesia seeks to expand imports of Russian medicines - TV BRICS",
+      "summary": "Індонезія прагне збільшити імпорт російських медикаментів. Стаття не містить конкретних цифр чи умов угоди. Це може підтримати експорт РФ у фармацевтичному секторі та вплинути на торговельний баланс.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "TV BRICS"
+    },
+    {
+      "title": "Аліса Вайдель AfD представить план скорочення ЄС",
+      "original_title": "AfD’s Alice Weidel to unveil plan to downsize the EU - POLITICO.eu",
+      "summary": "Аліса Вайдель з AfD планує розкрити план зменшення ЄС. Факт стосується оголошення стратегії щодо структури блоку. Це може вплинути на макроекономічну інтеграцію та промислову політику ЄС без конкретних цифр у матеріалі.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "POLITICO.eu"
+    },
+    {
+      "title": "Рубіо в Індії: торговельна угода зі США «дуже близько»",
+      "original_title": "Rubio lands in India saying long-delayed US trade deal is ‘very close’ - Malay Mail",
+      "summary": "Держсекретар США Марко Рубіо прибув до Індії й заявив, що давно відкладана торговельна угода між країнами «дуже близька» до завершення. У наявному тексті немає цифр, умов, тарифних параметрів і строків підписання, тому масштаб угоди оцінити неможливо. Якщо домовленість буде укладена, вона може зменш",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "Malay Mail"
+    },
+    {
+      "title": "Транскаспійський кабель Казахстан-Азербайджан запрацював",
+      "original_title": "Trans-Caspian cable linking Kazakhstan and Azerbaijan is operational - Developing Telecoms",
+      "summary": "Згідно зі статтею, Trans-Caspian cable linking Kazakhstan and Azerbaijan є operational. Це забезпечує прямий зв'язок через Каспій. Наслідком є покращення інфраструктури Транскаспійського коридору для телекомунікацій.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "Developing Telecoms"
+    },
+    {
+      "title": "Diageo та Pernod Ricard під слідством щодо тарифів Індії",
+      "original_title": "Diageo and Pernod Ricard face India tariff investigation - The Drinks Business",
+      "summary": "Diageo і Pernod Ricard стикаються з розслідуванням Індії щодо тарифів. Стаття не містить цифр чи умов угоди. Це стосується глобальної торгівлі алкогольними напоями та може вплинути на експортні стратегії компаній.",
+      "source": "Глобальна торгівля, СОТ і торговельні угоди",
+      "publisher": "The Drinks Business"
+    },
+    {
+      "title": "МВФ: Банку Японії може знадобитися швидше підвищення ставок",
+      "original_title": "IMF: Bank of Japan may need to raise interest rates faster. - Vietnam.vn",
+      "summary": "За заголовком статті, МВФ вважає, що Банку Японії може знадобитися підвищувати процентні ставки швидше. У наданому тексті немає конкретних цифр, рівня ставки, прогнозів інфляції чи строків. Якщо така оцінка буде реалізована, це означатиме жорсткішу монетарну політику Японії. Масштаб впливу на єну та",
+      "source": "Японія · монетарна політика",
+      "publisher": "Vietnam.vn"
     }
   ]
 }

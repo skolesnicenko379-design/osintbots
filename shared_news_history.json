@@ -38,7 +38,7 @@
     "https://militarnyi.com/uk/news/analizator-radiochastot-d-vision-sdr-video",
     "https://militarnyi.com/uk/news/bluebird-vypustyla-onovlenyj-chujka-4-5-0",
     "https://militarnyi.com/uk/news/bronetehnika-3-go-korpusu-5-km",
-    "https://militarnyi.com/uk/news/combat-vision-stvoryla-gejmifikovanyj-instrument-dlya-navchannya-artylerystiv",
+    "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
     "https://militarnyi.com/uk/news/drony-probyly-dah-data-tsentru-vkontakte",
     "https://militarnyi.com/uk/news/finlyandiya-zakupyt-miljon-min",
     "https://militarnyi.com/uk/news/frantsii-zaprovadzhuut-komendantsku-godynu",
@@ -48,6 +48,7 @@
     "https://militarnyi.com/uk/news/lytva-planuye-zminyty-zakony-dlya-inozemtsiv-yaki-zagrozhuyut-natsbezpetsi",
     "https://militarnyi.com/uk/news/lytva-rozpochala-rozgortannya-an-tps-77-mrr",
     "https://militarnyi.com/uk/news/na-fronti-starshield-perestaye-pratsyuvaty-na-161-km",
+    "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
     "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
     "https://militarnyi.com/uk/news/sanktpeterburz-poshkodyl-rezervuar-ta-mosty",
@@ -57,11 +58,12 @@
     "https://militarnyi.com/uk/news/tretij-armijskyj-korpus-ocholyv-rogozyuk",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-kursanta-vijskov-akadem",
+    "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
     "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations",
-    "https://navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
+    "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
     "https://navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines",
     "https://navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObXJFREpreDVla3ZzS0pESE85dEVNZDhSaUhMX3g4MkZQdklXTGFuNm84MnNfaTIyY2VSSlliVDZoUkhFQ21ERE54eTBxOEVFa2V5QUlHYVJjNW5EX0tua2dnSXZ5SDJYYlIzNVRqZ0x4anBHNmNXd0tfQXN2U1phd1cxczRXLWRJLXUtWHpHYlpXRTQwR2U3b2ZndUVjYU1ZMmdSTWJORjd0ZHBUUjZZdVBUZC16bEVzMnlJOUZqMUExcXE4OGtJRkpabG5oRkZISXdqcGtwT0tCcjNxWmM4R2RtOWplV2tPS05IY2V5OWtoS3ppem5mbw",
@@ -77,7 +79,6 @@
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUlZURFhZa1ozRll1UUIzQ3NwTUU1RVFBcmk4U3BtVzZUTEVYZ2VoVkg0YlF5MktlaVh0Qy1mcnJXWTEtVk5USHlfNzE4RHBrS0kwemZKMHlob0s3RTlNQ2t5WVNKX0xIZUxOSFdTbEktSkNZNnh6QTNPZE1VOUt2Ri1pRi15VFlHUHFERW94NFpuU3lKZkdRTHRkRElrY0lIa0QyUVNNRk9FSmIyWnBsZzY5OUhBR2dyTFZBYnUzNzBLVEtjYjFvaFZ4R0JHcmNXY3VrNWtXWHNWN0duRUc4S2JBeTNsUzNCa1E",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2ExaTFKOU82bFFBUl82a0RfVVlad3ZPMFZmdFpXa2dzcXFTaFlOSDhVWFFyR29UdWVycGZCcW5tWGVlUndaM2syZ0tFWEZXOTU0Qk9kQWROM2dncDEwTVg3X0c0c0F4RzlZdkt2TGliM09XNXhJdWdHQkYweE1WOEdSYVhOUnU3bUdaTkhFUEcxazhoMkdnOTdQQ0ItTzZVZ3YwWWMtT3pMQmUydGsxQ2tBT3lFWWxxMTZsMENJempyaXRBSTdVTzRGQWxRT2FDLUYzTmVIT0J6T1U4bU1yaGQtVnlKMnZEYnBBdC1B",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN1IwYW5jTjhMSko5YURtSHF5NU5rYjhIN01JdDFrVW9KeVVBS2o1RE4tZktRZVdfcl9oZWhZLTVSU0dxZVBMOHhvQUY5RkFxSDFuWE1JelR1eTBsbVowLW1XalR6YmluanpDV2I2cEVsWjRIenN2TW5JYTFWbElwYmhJWldzT21DXzBPMS13czVYYXFuamU4T0ZjRWo4ZC0wbG9HLUdOR2RwRll6VmRoV08td1JQeTNCcU9zOWg3SXRyZFRmOVpwdHZDUmx2Rk1rWHdKUWlsYWFfaGtzOG9QdlFINHI4MFRJWjlIWS1FZnpkZ9IB8gFBVV95cUxQN1IwYW5jTjhMSko5YURtSHF5NU5rYjhIN01JdDFrVW9KeVVBS2o1RE4tZktRZVdfcl9oZWhZLTVSU0dxZVBMOHhvQUY5RkFxSDFuWE1JelR1eTBsbVowLW1XalR6YmluanpDV2I2cEVsWjRIenN2TW5JYTFWbElwYmhJWldzT21DXzBPMS13czVYYXFuamU4T0ZjRWo4ZC0wbG9HLUdOR2RwRll6VmRoV08td1JQeTNCcU9zOWg3SXRyZFRmOVpwdHZDUmx2Rk1rWHdKUWlsYWFfaGtzOG9QdlFINHI4MFRJWjlIWS1FZnpkZw",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nRjJWaTA2SWFHTldiUFhudEVjMGI3VFlLUmg3VU1TaHpfWTl3dGtmVnJNenZzYnRFbjJwdGt2T2pBZVFIOFpLaFhSSUhhcUU",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE94ZEI2WkZ2NVhlR0JiUDl4MFNUUGk0a1RENks4ZWozY2dvMWhLei1samR1cjdOZEdQelR3RjNEczJzUFJsbXV6WUU3WnE",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WmczRVlGU0NLMUNHYzdLXzZqS2x5ZjlrMzVjLURXeHllLWpJdXREZ3A4bFMycHp2TDhaM0p3QXA2R2FxV0dFZkNLTjA",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hT0JQaGctaEpDMzFjX0ZCV2tqeHdzMmdmT2VpSFA4aEZndlUtdEVJcGc5UWQ2dUMwRjJxNWpsVlAxUHRKX3dNOVJpYWlTb3NFcVE",
@@ -140,7 +141,6 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMW84OGFjaUZYc2FuWERMdHNfTkhMSFpOSUFmMEw1c3k0WV9pUnppNmI4eENXc2NNcFFmUXBwSW5qRFV4aEkxVEFXVExIYWxrWGxZNGJzblYyR0xYOXd0UFVGeUlqZ0gwdVNxLVlsblUxN2Zzam5EeXhLWUFBMjI2QTZWeTZNR3U3dHp6R2JGZHJwYm9KNGNTWmtMTXdSd082ZS03djRib2ttZGp4eEM1dWlGU3N2dkFfSDdRdGxJN2xoZTg",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnk0Rlp4SE1xQ1k2T1lDQ2hmVmcwWVotdC10MzczaU1iZWN6VXhfQnBlamExS2tudFFuRUtvSjVmX29mSXd1clpEN0lHRmh1ZEV1a1N3WkNOOW5JOVAyUXkzRUNvZm1QTmx5SGxQMnQwQTdQT0tIYXBHQWJxOGhpRnVVLXBVQldxeXgtejE3MzVQVXZScEtEQXJnNXVqbmRtMEFZX3JKSERrM3VscVBra01kSS1tVTNpVlFRRjdpdWhVS1N2RWhj0gHHAUFVX3lxTFBSeTRGWnhITXFDWTZPWUNDaGZWZzBZWi10LXQzNzNpTWJlY3pVeF9CcGVqYTFLa250UW5FS29KNWZfb2ZJd3VyWkQ3SUdGaHVkRXVrU3daQ045bkk5UDJReTNFQ29mbVBObHlIbFAydDBBN1BPS0hhcEdBYnE4aGlGdVUtcFVCV3F5eC16MTczNVBVdlJwS0RBcmc1dWpuZG0wQVlfckpIRGszdWxxUGtrTWRJLW1VM2lWUVFGN2l1aFVLU3ZFaGM",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3FVRExiZ2JLam5XT3FQWFozWE5LMWpFd1liZEljX0xoT2N6T2NLVE5NMVlYVEFoOWNwM01DenBSUDc2S0UtR3M2Tm01d2M2aHpfSTA2ckdxYzJEVzg5TXZncjFLb2dBSWEwQnFCZXgtOTNla3A2enRsaTYtalJvVFdiYWdQZEVTQUJua25sRjJ6ZzdSTXRZei01eUR2OUNXRjZFOWlaZEItRnBYT0RhU3I3aGpuUElXcVRXZFU1ZldHRllqa0ZzS0VhVQ",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUc",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXVCRzBOM1BienhxVmQtTnJZQXZPcWhhRTkzRmJQQlM5c1RHVEYzSUd4ZG90S3lxLThsMEJmYU5JYzdGQ2diLVIzckZ1Uk44XzJwRjlmYXR5Wkoxbk9seUxuSlBDNlB0Yzhtejczb05SVVh4TTM3alN4cU9COU1MaTVvYmJwaTRGZjRERjRnYzYzRGpVUUgwbWVZRWhLYW9nWlpLUEZjdEZ3blhFUkxxSnVZQ1hhaG1mUFdTSURXTURtLUI1TWFnaFM2cGk",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjlTR2xrUWcwYWg1MkdqeHQ4NThOLTZlU2RYTWN3VFN6NWFrb3hFSndoZ2xJelFTUkF0NDBFN2hiTUlKRE5tZXhNejBHVTFYRFlmbktJTHpzS0RySFVncHVuXzRaSUctLUpKVHFlbjlMMTZ5R1ZPQzAtMnc3T29ueExRSmdQYjRfX0YxeUQzaTFHMkUxSXdPaUhtcGZqZFd3WXpqeE14ejYyelB2LThDWG9CMTRVNndWOVhkMC14TFliOG1OaG5fNzlDSTh6Zw",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHI0VC1WZGNfZ3VjSU5tNVk1QzE5dmdBM292T19CWkd2WGVnRE9GcHJJX0FjUFVOdThWYmNZOFA0Z0FoYUR2eW02RU1ZZmJnUmFfc0NzSEh0NGVrN2NTZGFtNXE3Y3pNRHNXYzZGeWM5Z2NvRUNST0FOaVBVdDdzQW9RcEVzSUpSRW9QQ0xmMGlWUk9kZ3JzRU9RMTJRYmhOcTYzeGJBRVNLeVBYb2dXVVROaURRNFdQRnFZdWpDWFViQk9jTWdDelRuU3VmYXM",
@@ -152,46 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "Акції зросли на 32%, зарплати на 1%, ставки облігацій понад 3%",
-      "original_title": "Stock prices rose 32%, real wages rose 1%, and government bond rates exceeded 3%. This is the econom.. - 매일경제",
-      "summary": "У статті наведено зростання фондових індексів на 32%, реальної заробітної плати на 1% та перевищення дохідності державних облігацій понад 3%. Ці показники відображають поточний стан японської економіки. Вони можуть посилити тиск на Банк Японії щодо коригування монетарної політики через вищі ставки.",
-      "source": "Японія · монетарна політика",
-      "publisher": "매일경제",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nRjJWaTA2SWFHTldiUFhudEVjMGI3VFlLUmg3VU1TaHpfWTl3dGtmVnJNenZzYnRFbjJwdGt2T2pBZVFIOFpLaFhSSUhhcUU",
-      "published": "2026-10-19T08:23:01+00:00"
-    },
-    {
-      "title": "Революційна гвардія Ірану: танкер підірвався на міні в Ормузькій протоці",
-      "original_title": "Iran’s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz - Anadolu Ajansı",
-      "summary": "Іранська Революційна гвардія заявила, що нафтовий танкер вдарився об міну та загорівся в Ормузькій протоці. Подія сталася в ключовому маршруті транспортування нафти. Це створює ризики для глобальних поставок енергоносіїв.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "Anadolu Ajansı",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSm94UldNeVE1SzdqbFdQWklGeTVpbHZ4eV80MmRPOVRRdFozQjR3eDlFdEEyMkw5VldzUkdNUm01RlB1QU1aVFIxRm5VVWJOYUYya2ZQTjBKOFZlUzgtZXZnZEtLYXkyemZHUUxRZGYwbjh4LU9lUTZnbmc2SnplMXFxTXZnbU1WQ29XLXNraXBMM0dDaEVLRkpwQlZDbkROdzhWUlRIcUc1Z1dWZDVLTWZ6b2NCYWhVWFo5dGVwcmN6MG9QRkhrSDJXVUc",
-      "published": "2026-10-19T08:23:25+00:00"
-    },
-    {
-      "title": "Данія закуповує додаткові ракети NSM від Kongsberg для модернізації фрегатів",
-      "original_title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
-      "summary": "Данія купує додаткові протикорабельні ракети Naval Strike Missile (NSM) норвезької компанії Kongsberg для оновлення озброєння своїх фрегатів. Угоду укладено на рівні «уряд – уряд» з Норвегією, що спрощує процедуру закупівлі. Це має посилити можливості датського флоту з ураження морських цілей; у наведеному повідомленні кількість ракет, вартість і терміни поставок не уточнюються.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg",
-      "published": "2026-10-19T08:28:30+00:00"
-    },
-    {
-      "title": "ComBat Vision створила гейміфікований інструмент для навчання артилеристів",
-      "original_title": "ComBat Vision створила гейміфікований інструмент для навчання артилеристів",
-      "summary": "Інструмент візуалізує траєкторію снаряда за таблицями стрільби, відображає площу розсіювання та попереджає про завади на траєкторії. Система імітує політ снаряда з навчальною похибкою, показує розриви та автоматично розраховує середню поправку за серією влучань. Інтеграція з балістикою UkropSoft MyGun дозволяє ефективно тренувати коригування вогню непрямого ураження.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/combat-vision-stvoryla-gejmifikovanyj-instrument-dlya-navchannya-artylerystiv",
-      "published": "2026-10-19T08:28:38+00:00"
-    },
     {
       "title": "Third of Russian companies in losses, 11 sectors under strain",
       "original_title": "One in three Russian companies posts losses as 11 economic sectors struggle – Ukrainian intelligence - The New Voice of Ukraine",
@@ -1591,6 +1551,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTFjTGJOZWlNQk0wMUN6RGQwMVUwd0RGRTNiZnNWd2sxd0htSHdZdEhjTVVySHp0dDBCV0pVNXNBSlBycjYxN2gwR1ZDZFNWRklwRjh2UDJURTdOR2U3M3JXZFhDZExURTBnTXptWWNCcHNqak5qWXJsWFpYQ2tjdUJlMDBkQWFzYjMtNlY0ZzJHZzFRQTVlekRXeEJFdw",
       "published": "2026-10-20T07:34:00+00:00"
+    },
+    {
+      "title": "Російський дрон вдарив поблизу ТЦ у Чабанах на Київщині: троє загиблих, четверо поранених",
+      "original_title": "Російський безпілотник ударив по селищу Чабани на Київщині: є загиблі та поранені",
+      "summary": "За даними Київської обласної прокуратури, удар прийшовся поблизу траси Київ — Одеса, а внаслідок влучання загорілися автомобілі. Тип безпілотника в повідомленні не вказано, тому його характеристики та вид бойової частини невідомі. Влучання поряд із торговельним центром і жвавою автодорогою вказує на ризики для цивільних об'єктів і транспортної логістики в приміській зоні Києва; рух на ділянці обмежено, триває досудове розслідування за фактом порушення законів та звичаїв війни.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
+      "published": "2026-10-20T07:35:31+00:00"
+    },
+    {
+      "title": "Індійський флот оснастить старі кораблі класу Кашин і Вір ракетами Брахмос",
+      "original_title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
+      "summary": "Міністерство оборони Індії підписало контракт на 68 млн доларів для модернізації старих есмінців класу Кашин та корветів Вір, встановивши на них надзвукові ракети Брахмос. Це надає цих суднам можливість вести далекобійні точкові удари, значно підвищуючи їх бойову ефективність і продовжуючи термін служби застарілих платформ.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
+      "published": "2026-10-20T07:37:30+00:00"
+    },
+    {
+      "title": "Республіканці погрожують заблокувати 350 млрд доларів для Пентагону через послаблення тиску на РФ і Starshield",
+      "original_title": "Республіканці погрожують заблокувати $350 млрд для Пентагону, якщо Трамп не посилить тиск на РФ",
+      "summary": "Частина республіканців у Палаті представників пов'язує підтримку пакета Гегсета (зокрема 17 млрд доларів на Golden Dome і 47 млрд на виробництво боєприпасів) зі скасуванням обмежень роботи Starshield для українських військових та відновленням санкційного тиску на Росію. Зеленський 19 жовтня повідомляв про збої зв'язку на фронті, що ускладнюють логістику та застосування дронів, зокрема реактивних перехоплювачів. Якщо обмеження зніметься, це може стабілізувати зв'язок і підвищити ефективність безпілотників, однак ухвалення пакета залежить від голосів майже всіх республіканців у нижній палаті.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
+      "published": "2026-10-20T07:53:04+00:00"
+    },
+    {
+      "title": "Cummings Aerospace представила 3D-друкований реактивний дрон Hellhound S3 вертикального запуску зі швидкістю до 618 км/год",
+      "original_title": "У США розробили 3D-друкований реактивний ударний дрон Hellhound S3 вертикального запуску",
+      "summary": "Hellhound S3 має довжину близько 90 см і масу приблизно 5,9 кг, запускається вертикально з контейнера, розвиває до 618 км/год і, за заявою виробника, долає понад 60 км. Корпус виготовляють методом 3D-друку з використанням готових комерційних компонентів, що має здешевити виробництво; компанія заявляє про понад 100 апаратів на місяць. Модульна конструкція допускає різні бойові частини, засоби РЕБ і модулі хибних цілей, а роль дрона може бути баражуючого боєприпасу, засобу точного ураження чи перехоплювача. У випробуванні 25 серпня 2026 року з пускової установки на Polaris два дрони з інертним н",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
+      "published": "2026-10-20T07:59:00+00:00"
     },
     {
       "title": "Дрон «Лютий» уразив НПЗ у російській Ухті",

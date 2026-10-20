@@ -43,6 +43,7 @@
     "https://militarnyi.com/uk/news/finlyandiya-zakupyt-miljon-min",
     "https://militarnyi.com/uk/news/gorytnaftoperekachuvalna-stantsiyanykolskoe",
     "https://militarnyi.com/uk/news/gulyajpilskom-napryamk-rf-posylyla-shturmy",
+    "https://militarnyi.com/uk/news/kytaj-buduye-nosij-pidvodnyh-bezpilotnykiv",
     "https://militarnyi.com/uk/news/lytva-planuye-zminyty-zakony-dlya-inozemtsiv-yaki-zagrozhuyut-natsbezpetsi",
     "https://militarnyi.com/uk/news/na-fronti-starshield-perestaye-pratsyuvaty-na-161-km",
     "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
@@ -93,7 +94,6 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HMlJ3cGpWY3ZOZ0dpZ3o1VUlfcmFNWXJaaklxVWs4NHB5Rktfdl9xTERWdldBWWtCR2lGbXpJR2hrY1dfMWRCSUZYamg1em1QT3RjX0FBQXVLRWtGT1BoTXJHRWdESkRqQjYzMHNGYThraERsQ2FhYQ",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUS1CQmhXR3g0YjRRSm5BOWJlYnZXQUF0NEFtd29FSVFpMlRaSGIwcDI1UzJieGp4S0NHd2o1X09mX0VxeU82RlVHX3Y4anBib2t6YVk1WXJrX2NuajdncS15bXV1RGFfYU5UbDdhbEJBUjhXR3hOOEQydE10Y0U",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTRYTDZKeWg0ZnUtSEhzb1JCOXA2MnRHUWxRd0duUmlwTzVuODNpT1YxZ3lWNXdkcURqaHhSVUg3WFdEYlZMeGQwd1ZHcFo1VEtMVmExaVlqT2hhVlE3YnhWSjlzVXk2azZ5TnRndlhuVThBWVVEbjl0WTdybWhOWGtB0gGWAUFVX3lxTFB1T1N4V1BJbkR2UUg1ZURWZEw4RjY5cnV5ZVJxUVlhQ1FQeVZ6SXRlRjk2cFY3eDlLd0doX1d5c21ITkFuaFFuTXlBWUlOMWJoRDl0MmlwRTMwRlB5NWhxSy1hQU4wTVVaMlluQzJxOFFVb0l1aTgwQ2tGYzNKU1Zyd0xTYlU3d0FxYVZpS0RDUU5lOVlYdw",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1",
@@ -152,16 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "Канада і Корея поглиблюють зв’язки в металах та енергії",
-      "original_title": "Canada deepens supply-chain ties with South Korea across metals and energy - CHOSUNBIZ - Chosunbiz",
-      "summary": "Канада поглиблює зв’язки ланцюгів постачання з Південною Кореєю у сферах металів та енергії. У матеріалі немає обсягів, вартості угод, термінів чи інших кількісних умов. Без цих даних неможливо визначити вплив на ціни сировини, енергоносіїв або торговельні потоки. Подія фіксує напрям співпраці, але не дає підстав змінювати ринкову оцінку.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "Chosunbiz",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTRYTDZKeWg0ZnUtSEhzb1JCOXA2MnRHUWxRd0duUmlwTzVuODNpT1YxZ3lWNXdkcURqaHhSVUg3WFdEYlZMeGQwd1ZHcFo1VEtMVmExaVlqT2hhVlE3YnhWSjlzVXk2azZ5TnRndlhuVThBWVVEbjl0WTdybWhOWGtB0gGWAUFVX3lxTFB1T1N4V1BJbkR2UUg1ZURWZEw4RjY5cnV5ZVJxUVlhQ1FQeVZ6SXRlRjk2cFY3eDlLd0doX1d5c21ITkFuaFFuTXlBWUlOMWJoRDl0MmlwRTMwRlB5NWhxSy1hQU4wTVVaMlluQzJxOFFVb0l1aTgwQ2tGYzNKU1Zyd0xTYlU3d0FxYVZpS0RDUU5lOVlYdw",
-      "published": "2026-10-19T07:14:00+00:00"
-    },
     {
       "title": "Австралія розширює підводні боєприпаси: інтеграція Ghost Shark, Speartooth, BlueBottle",
       "original_title": "Australia advances undersea warfare capabilities",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/ssha-dozvolyat-chastyni-tankeriv-tinovogo-flotu-povernutysya-do-legalnyh-perevezen",
       "published": "2026-10-20T06:46:10+00:00"
+    },
+    {
+      "title": "Китай будує другий спеціалізований корабель для безекіпажних підводних дронів",
+      "original_title": "Китай будує другий корабель-носій підводних безпілотників",
+      "summary": "У Гуанчжоу на верфі Guangzhou Shipyard International зведено другий спеціалізований судноподібний носій підводних безпілотників, який за конструкцією майже повторює вже відомий у Шанхаї, але приблизно на третину менший. На борту передбачено високу прямокутну надбудову, відкриту палубу, задній відсік і ангар для підйому/спуску великих підводних дронів, подібних до HSU100/AJX002, які можуть мати ядерний реактор, швидкість понад 30 вузлів і автономність до 200 годин. Такі судна значно розширюють можливості Китаю у розгортанні довготривалих підводних безпілотних систем, підвищуючи його стратегічни",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kytaj-buduye-nosij-pidvodnyh-bezpilotnykiv",
+      "published": "2026-10-20T07:06:33+00:00"
     }
   ]
 }

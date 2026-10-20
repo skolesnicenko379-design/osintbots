@@ -9,13 +9,14 @@
     "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
     "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones",
     "https://defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense",
+    "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
     "https://defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says",
     "https://defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks",
     "https://defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots",
     "https://defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
     "https://defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat",
-    "https://defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
     "https://defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
+    "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
     "https://defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
     "https://defensescoop.com/2026/10/19/hdusa-industrial-capacity-plans",
     "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
@@ -51,7 +52,6 @@
     "https://militarnyi.com/uk/news/na-fronti-starshield-perestaye-pratsyuvaty-na-161-km",
     "https://militarnyi.com/uk/news/nvidia-investuye-u-nimetskogo-rozrobnyka-suputnykiv-reflex-aerospace",
     "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
-    "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
     "https://militarnyi.com/uk/news/rheinmetall-liniya-vyrobnytstva-20-35-mm",
     "https://militarnyi.com/uk/news/sanktpeterburz-poshkodyl-rezervuar-ta-mosty",
     "https://militarnyi.com/uk/news/sklad-inozemnyh-komponentiv-u-kometah",
@@ -61,7 +61,7 @@
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-kursanta-vijskov-akadem",
     "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
-    "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
+    "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
     "https://militarnyi.com/uk/news/zastupnyk-derzhdumy-rf-babakov-sanktsiyi",
     "https://navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy",
     "https://navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos",
@@ -152,36 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "Змінюваний ландшафт: Куди перемістилася армія США у 2026 році та що на горизонті",
-      "original_title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-      "summary": "Армія США створила нове Командування Західної півкулі на базі Fort Bragg, об'єднавши три штаби та залишивши лише два SFAB. Виведено бази в Сирії та Іраку, подовжено розгортання 82-ї повітряно-десантної дивізії та бригади 10-ї гірської дивізії через конфлікт з Іраном. Це змінює акцент на Західну півкулю та Індо-Тихоокеанський регіон.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
-      "published": "2026-10-19T10:00:00+00:00"
-    },
-    {
-      "title": "92-та ОШБр та 30-та ОМБр вперше евакуювали пораненого гексакоптером Gurzuf Defence",
-      "original_title": "Бійці 92-ї ОШБр та 30-ї ОМБр вперше евакуювали пораненого гексакоптером",
-      "summary": "Важкий гексакоптер Gurzuf Defence забезпечив повітряну евакуацію через неможливість наземної через мінування та ворожі БпЛА. Впроваджено технічні рішення для уникнення розгойдування та перевертання під час польоту. Операція демонструє ефективність координації бригад та виробника для порятунку в складних умовах.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/vpershe-evakuyuvaly-poranenogo-geksakopter",
-      "published": "2026-10-19T10:02:54+00:00"
-    },
-    {
-      "title": "Rheinmetall і MSC купують румунську верф Mangalia для відновлення військових кораблів",
-      "original_title": "Rheinmetall і MSC викуплять румунську верф Mangalia для відновлення будівництва військових кораблів",
-      "summary": "Rheinmetall та швейцарська MSC виграли аукціон на купівлю румунської суднобудівної верфи Mangalia. Партнери планують модернізувати інфраструктуру і побудувати чотири кораблі для ВМС Румунії: два 96‑метрових патрульні та два 43‑метрових судна підтримки водолазів. Це дозволить збільшити виробничі потужності Південно‑Східної Європи та підвищити оборонну готовність регіону.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rheinmetall-i-msc-prydbayutverf-u-rumuniyi",
-      "published": "2026-10-19T10:26:52+00:00"
-    },
     {
       "title": "США потребують нових законів про тарифи",
       "original_title": "Opinion | The U.S. badly needs new tariff laws - The Washington Post",
@@ -1533,6 +1503,26 @@
       "published": "2026-10-20T09:03:45+00:00"
     },
     {
+      "title": "ЄС готує арктичну стратегію: підводні кабелі, супутниковий зв'язок IRIS² і розширення флоту криголамів",
+      "original_title": "ЄС планує посилити присутність в Арктиці, розширити флот криголамів та захист підводних кабелів",
+      "summary": "Стратегія зміщує арктичну політику ЄС з клімату та науки на безпеку й стратегічну інфраструктуру: захищений кабель Гренландія — материкова Європа, супутникова система IRIS² як альтернатива Starlink та Арктичний кабельний центр за участю ЄС, Норвегії та Ісландії. У тексті немає технічних характеристик кабелів, супутників чи криголамів: йдеться лише про опрацювання варіантів спільної закупівлі та потреб регіону. Військовий вплив може полягати в кращій стійкості зв'язку та захисті підводних комунікацій від диверсій, а також у посиленому моніторингу російського тіньового флоту. Це поки проєкт доку",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
+      "published": "2026-10-20T09:05:06+00:00"
+    },
+    {
+      "title": "Вістря списа чи застрягли на пляжах? Китайські аналітики розбирають тихоокеанську стратегію морпіхів США",
+      "original_title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+      "summary": "Китайські військові видання, зокрема Modern Ships і Shipborne Weapons, детально розглядають стратегію USMC 2019 року: розосереджені групи морпіхів із дронами та протикорабельними ракетами діють в архіпелагах, а Морські прибережні полки (MLR) стають основою цього підходу. Китайські експерти з тривогою відзначають випробування безекіпажних катерів, здатних запускати малопомітну ракету LRASM або розвідувати цілі для далекобійних ударів. Водночас вони вказують на слабкі місця: обмежену дальність сенсорів і дронів, «нестійку» ППО та складну логістику. Це свідчить, що Пекін сприймає MLR як реальну з",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
+      "published": "2026-10-20T09:09:33+00:00"
+    },
+    {
       "title": "Міністр закордонних справ Японії зустрівся з міністром оборони Малайзії",
       "original_title": "Meeting between Foreign Minister MOTEGI and H.E. Dato' Seri Haji Mohamed Khaled bin Nordin, Minister of Defence of Malaysia - Ministry of Foreign Affairs of Japan",
       "summary": "Міністр закордонних справ Японії Такеші Кагійма провів офіційну зустріч із міністром оборони Малайзії Дато' Сері Хаджі Мохаммедом Халедом бін Нордіном. Ця двостороння дипломатична подія зафіксована на офіційному сайті МЗС Японії. У тексті джерела відсутні деталі щодо конкретних результатів переговорів чи підписаних документів.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
       "published": "2026-10-20T10:43:26+00:00"
+    },
+    {
+      "title": "Зеленський: рішення США щодо підтримки України важко пояснити",
+      "original_title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
+      "summary": "Президент Володимир Зеленський заявив, що США затримують постачання зброї, зокрема системи Starshield для ударних безпілотників і ракет Patriot, а також обмежують обмін розвідкою. За його словами, Україна не отримує попереджень про атаки та стикається з затримками у доставці куплених ракет, що уповільнює обороноздатність проти російських ракет і дронів. Такі технічні обмеження можуть знизити ефективність протиповітряної оборони та ускладнити проведення ударних операцій.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
+      "published": "2026-10-20T10:45:16+00:00"
     }
   ]
 }

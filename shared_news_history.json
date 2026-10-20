@@ -29,6 +29,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-we-have-job-finish",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/turkeys-parliament-set-ratify-mecca-joint-defence-agreement",
+    "https://middleeasteye.net/live-blog/live-blog-update/uk-deploy-aircraft-protect-saudi-arabia-houthi-attacks",
     "https://middleeasteye.net/live-blog/live-blog-update/world-food-programme-says-ending-aid-half-million-gaza-due-funding",
     "https://middleeasteye.net/news/bangladesh-seeks-answers-after-saudi-arabia-executes-its-citizens-without-telling-them",
     "https://middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
@@ -97,7 +98,6 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHRIQmlfMGJaeWhQUWpaRTJkX0RtWGtRMXZFZkxXRTNTZC1iZjdVUWZTRlkwYXZLSjBXajBtSGJUVGEtYWExdDRVV25zdm80ek5tMkl5YWlhblNlZVZlVjh2M0VwZVBUV0xyNkRSRmNxRGlRZHgzU3d2Z2RfbzBOU05uQ0NCWnZ1",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM24tMC1aTHlWR3BBT3dKaTRpdllQQ3R1VHUyaVQ4TGRzenpaRUpvd0ExZmI5WlFpdUI2VVpyYUM4RDV6eTIzNDBQRVVPYkxhU2RfWmZmQnZmZE5CSl9QMjZkLWpCS2JGeTZHSWUyU0E5emJBN1RNMHkxOVpwVktaUXNVUDlBN00zOVdTQ2xIN2NLRUs4OTJtbGRIendYOUROUm9wUFk1emtwSHkzR1dtemxUaHY1N1JtN0JXMjlrQzhzXy0yX256Z011TXNJdjVGS0JTdzRFNXVvWTNfUDd5anFmTUZ3Vkg2TVpzQnRSTW40ZEFaaG1XMWpYaFRIcFpMZDFCN1VLNzM",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRkS3lEaUVrc1ByaEVmUXJjdV8zY0dTYzNpYlh2SlQ2TGxMUkZVYmZCWlFwR0VBYzA0Rld6Z0FCMWVlTXRkdFNSN2xOYzNJRWFRYWFHZ2dwdmxiNXc4X01oNlI1cUhwMjJGTlNRbkR2WEN6dXJGTVdZblE3MXN1SHBwNmRsZ2JkNmc",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw",
@@ -152,16 +152,6 @@
     "https://twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
   ],
   "recent_posts": [
-    {
-      "title": "США потребують нових законів про тарифи",
-      "original_title": "Opinion | The U.S. badly needs new tariff laws - The Washington Post",
-      "summary": "The Washington Post опублікувала думку про нагальну потребу США в нових тарифних законах. Стаття не містить конкретних цифр чи умов. Це може вплинути на торговельну політику та макрофінансові рішення у сфері економіки та торгівлі.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "The Washington Post",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkRkS3lEaUVrc1ByaEVmUXJjdV8zY0dTYzNpYlh2SlQ2TGxMUkZVYmZCWlFwR0VBYzA0Rld6Z0FCMWVlTXRkdFNSN2xOYzNJRWFRYWFHZ2dwdmxiNXc4X01oNlI1cUhwMjJGTlNRbkR2WEN6dXJGTVdZblE3MXN1SHBwNmRsZ2JkNmc",
-      "published": "2026-10-19T10:28:48+00:00"
-    },
     {
       "title": "Комісар АС Банколе Адеое завершив візит до США з дискусіями про мир",
       "original_title": "US-Africa Week Ahead: African Union commissioner talks peace and security",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
       "published": "2026-10-20T10:45:16+00:00"
+    },
+    {
+      "title": "Великобританія направляє винищувачі для захисту Саудівської Аравії від хуситів",
+      "original_title": "UK to deploy aircraft to protect Saudi Arabia from Houthi attacks",
+      "summary": "Міністерство оборони Великої Британії оголосило про розгортання винищувачів Typhoon Королівських ВПС для виконання оборонних місій. Ця діяльність спрямована на захист саудівських міст та критичної інфраструктури від повітряних ударів хуситів. Офіційно підкреслено, що літаки не здійснюватимуть наступальних ударів по території йменуваних бойовиків.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/uk-deploy-aircraft-protect-saudi-arabia-houthi-attacks",
+      "published": "2026-10-20T11:12:40+00:00"
     }
   ]
 }

@@ -3,7 +3,6 @@
     "http://africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies",
     "https://army-technology.com/analyst-comment/european-reassessments-artillery-procurement",
     "https://army-technology.com/features/demand-signal-swebal-on-western-energetics-needs",
-    "https://army-technology.com/news/elbit-systems-extra-mr-puls",
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
     "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
@@ -23,6 +22,7 @@
     "https://gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/hegseth-meets-netanyahu-during-unannounced-visit-israel-axios-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-has-no-fundamental-differences-regional-countries-pezeshkian-says",
+    "https://middleeasteye.net/live-blog/live-blog-update/iran-security-chief-rejects-moving-enriched-uranium-out-country",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-we-have-job-finish",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
@@ -98,6 +98,7 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM24tMC1aTHlWR3BBT3dKaTRpdllQQ3R1VHUyaVQ4TGRzenpaRUpvd0ExZmI5WlFpdUI2VVpyYUM4RDV6eTIzNDBQRVVPYkxhU2RfWmZmQnZmZE5CSl9QMjZkLWpCS2JGeTZHSWUyU0E5emJBN1RNMHkxOVpwVktaUXNVUDlBN00zOVdTQ2xIN2NLRUs4OTJtbGRIendYOUROUm9wUFk1emtwSHkzR1dtemxUaHY1N1JtN0JXMjlrQzhzXy0yX256Z011TXNJdjVGS0JTdzRFNXVvWTNfUDd5anFmTUZ3Vkg2TVpzQnRSTW40ZEFaaG1XMWpYaFRIcFpMZDFCN1VLNzM",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4",
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNpZ1JLN1BQNXFuYjFtUF9haWZJcGkyaERTRF9QQk1FNU1uRjBMeGF6b0EwYUhrdVRidkZiS0p3OGJmN2g5U0RodVFZYThldlBDNGRycUU5UHdKUjNGcHdjUnBjdXVoUnV2a3ZySWo5R1RMZTlXMUR1X0JFbk5hOU5PeXpXTDdEUXp2bk9B",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw",
@@ -117,6 +118,7 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0N0YThxem5FYkhMdGtuZXhaTUhCeWJFTjhqT1didGU1ODRpOFlKXzhOQXVPbTlvVEFwb2ZoZ1kzc25VdFIxSmtPZUc0cTBVUkZId0JuTjE3cVdzNFlYZUZYWEFZTi1GMWVtbFJ5Uzdaal9NS0JpYUxISzh5NXBQZzN4Y09RODdBOUxtUUZyTHMtbExyaUt5cGZ3YlY3WTVMYzNkSQ",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFJJUEs5U0VzcnBaVjk0Nkl2a2ZkcVZRN2lmeWw5LXl1Qm4xZXJuZEFSZW5kdnVEUzktRkRTN3RpSjlRa1R3Tm5kY1ZqVlhheERralVhTEJydUV3RU5FWmE5UkJTZXVxSkt3dmxidEJuMFEwNF9UZUV5SU1NWVlTOEFQZGZpbWFaWlotaWtQWm9idEs2RlpSbDlPMGk5X0I4VFZqR1hR",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXFfZEs2dEhKNXBDWmlEeXo5NGZMdFhwYXZiaXl2WngzdnphZ0RDdDRUWnVKQXlPblQ5Y3JVaG1ENGNWSkdGOTZZbUhoVkczTktieWNzRDhtT0RBUHRRaDlJczR3WThINHhkdkdReE52T3BFUkp1c2ZfZUJieVh3ZmdRdzRCYjZaU1dNeWcyMFV6LUZ6SUlXLTlsbG9YaXVueWJybzdB",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnZ0ckJaN0hhVzhtdE9IRDNOZ3Uwd1FqZkZJcllPWk4tZGJWc1pqZUxnZjRYUTZlMkdCMXU2a25TQ2cycjFNdXpkam5SR2RkanBQNmV2QzFHMjZoLU1DTlk0S1FwZ1ZJSzNKQk5IR3lWT3J4YjJ6SWhwTlhoZzZKaGZ2LUYyQmdfR01vdUtiemdoNHQxQ28zZUxwaExEd1AwUFBQcWFXbw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ",
@@ -124,9 +126,7 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3VCOHdVdjBCYXR5c0NtbHRvRDAyM0wybXNsMkhxaGI4dURyTVU1OE51di1hUXlaRHAybHhfNHZHLWZkcVl0eUNBRWY3cFJpR1ZiNjlrX1phQi1WREo3cVFHQk5peWg1NmhCZ2I3eENvd1NWT2RCYzlGSmN1UnM1c1Y1bV9naGxUUWZRU0tvX3FhdW1MUGZRc1h5ZFlXZVRTaGJFck51Y0w",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1ER1lKSjJBWnpIamduNWhfb3Uzd1VoQW83MzZIY1F3UHZzZ3Y2R1VNSWdoaU14MEhFODF4TTQ2ZzdwOVdVczRjdTRuQTFZcHNpWDVDNlg3YXlCZ0oxX1dpczBaMG9RNXBGQ1NKQ0VDS1dfRFBRb0VGRVJPcVp4cmhtU1JZT1VDS293b0g3WXl3eU5PYUUtOG4tdl84eG1OemdfV3dfNUZFU3c",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWk2LU1JRlhES193bTRKbGFZQnNIU2w1LWdrdGVPdTc5eGJSSzh5RzJzaHdwNFJHY0Z5UDM4dy1qX0ZHWlRsRDI3TVBtM2xZYllSOVJ6dEl6MFpucWV6RFYxTUZVVkNKd0stcnFSb0YxcjZ5YnBtWWtuWkduMzR5XzNXTGdhU1VWYWs3aWZHa3l2OVAtcEpRRkc4YS1HaG1EM0pQcnk3Q3lwQ0RwZUE",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmJWZHJkN1BxLWxRVzZPdmpDV1V6aGVVRk1iNlJkTUU1aVFnRnBKUl81M0FvdDFDc0tHZ0Q0OU1tY3BmZlEyTDVaak1zVDdxZHJzVXp3ZmpyQjhsNU8wNEpobmdWQlNwNzNjQmFzb2hiYWh1Z1R5cGZQamFWajlZNUwzdkdkdEpiWm9jeXVMRUktVWhwMzV4YUI3WmNsaDQ1V2RpdzgyQ0Z2Tzc5dTZV",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmhTV0t0b1hRSUtNVDFadnBBdjJ5dlBucTRlMGVpcXVjUFlaNHg3WlRJVDk5X21TV1VqWFpUSmxfTDcyZGZmQWVaSHdJTFJrb1kxUEFiVkNJSWJ5X3Q3eXJpUTZMSy1FMFBjb1VHS3M3UGVaVGpUdjRfZDd1SnBGbllQM2tZbU1oOUQ2cUN3QjR3Y1VtekI5MDhhN2tyakRDTk54Zm5GakdOa0pQZDVDTA",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRHZkZnMC02RTZzU1V2UUEwTUZ5UGtnMGhLOWI3OUc2YWxzbjJIQWFPLVd1eFh3SzRqWTZhM0Q5SjdickswaGpUdFVybDYwRmpOSnBJTmFUR2xGbDZXTWNIVWxad3BNWlN5Wm5FSVdRc3JNN0x0Q3U4UXlIY3pheFRPU0x2Z283Z1pGaXF2ajV3Ry14LXJ4R0QxZUZ4WEE1cURpSUZFVzhaZ2Mtc3h5LTJ3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazdHcFhlVHZDb2RadDJtNUVldWVQVXlhQ0hla0hoeG53YXpSbWdEY2hNRGt0eS1rQlJNUUZKRmY2QWZyUEVmTE9nZ3hKLXVNSVk1OHZFVGFkVkRsVWtWdDYyNldyUFJfZFB0bWU0aW9pSmlhZVA2b2ZxdzVYVlVnNEZSdzNqMTNiWlRRb0g5X25xc0tfWDVLb2FQRXowQXJRV3pCc3JoeXFZSTBzTmRfaUlaWQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWg0djFWaUx0bmthazZ2ck5qSkpRZkJ3bFpwWk1yWUlJLW5yMGlNcFRUOXlzR1NCQTc3Wkh4VFNDdDctVlpSbHYtZElBRW03ME1CTndMR0NCWHZ4LU05RS1STUpRRWFrYlJJc0llUG51ZmtrSTZ3bWpndkNLVWgtMlhJZHlhMmZvWXgxQVgwc0gzQk1GbnAycVd6Y2ZFQ0I0TU5DZ1ZhclpNcUR3eVdWRnNFZHREQTFU",
@@ -152,36 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Йорданія та МОТ підписали угоду про умови праці у текстильній галузі",
-      "original_title": "Jordan, ILO ink agreement to improve garment industry working conditions - Fana News -",
-      "summary": "Йорданія та Міжнародна організація праці підписали угоду, спрямовану на поліпшення умов праці у текстильному секторі. Документ передбачає впровадження міжнародних стандартів безпеки, обмеження надмірних робочих годин, посилення інспекцій та створення механізмів захисту прав працівників у швейній промисловості.",
-      "source": "Treaties & Agreements",
-      "publisher": "Fana News -",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE",
-      "published": "2026-10-19T16:00:04+00:00"
-    },
-    {
-      "title": "Elbit отримала замовлення на $235 млн на системи PULS та ракети EXTRA-MR",
-      "original_title": "Elbit wins $235m order for PULS systems and EXTRA-MR rockets",
-      "summary": "Elbit Systems уклала контракт вартістю близько 235 млн доларів на постачання ракет EXTRA-MR та систем PULS не названому європейському замовнику. Це стосується ракетної артилерії. Замовлення може посилити військові можливості отримувача.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/elbit-systems-extra-mr-puls",
-      "published": "2026-10-19T16:02:43+00:00"
-    },
-    {
-      "title": "Південна Африка готується до втрати торговельних пільг США",
-      "original_title": "South Africa must prepare for potential loss of US trade benefits, president says - WTVB",
-      "summary": "Президент Південної Африки заявив, що країні потрібно підготуватися до можливої втрати торговельних преференцій, які надають США. У наявному тексті немає цифр, термінів чи умов, тому масштаб ризику оцінити неможливо. Макрофінансовий наслідок у разі втрати пільг: гірший доступ південноафриканського експорту до американського ринку, що може тиснути на торговельний баланс і зовнішній попит. Сама заява свідчить, що Преторія вважає такий сценарій реальним і заздалегідь шукає шляхи пом'якшення наслідків.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "WTVB",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmhTV0t0b1hRSUtNVDFadnBBdjJ5dlBucTRlMGVpcXVjUFlaNHg3WlRJVDk5X21TV1VqWFpUSmxfTDcyZGZmQWVaSHdJTFJrb1kxUEFiVkNJSWJ5X3Q3eXJpUTZMSy1FMFBjb1VHS3M3UGVaVGpUdjRfZDd1SnBGbllQM2tZbU1oOUQ2cUN3QjR3Y1VtekI5MDhhN2tyakRDTk54Zm5GakdOa0pQZDVDTA",
-      "published": "2026-10-19T16:07:02+00:00"
-    },
     {
       "title": "Ціни на газ Waha зросли до 16-тижневого максимуму",
       "original_title": "US Natgas Prices at Waha Remain Negative but Rise to 16-Week High as Pipeline Constraints Ease - EnergyNow.com",
@@ -1623,6 +1593,16 @@
       "published": "2026-10-20T16:17:48+00:00"
     },
     {
+      "title": "Греція відхилила ратифікацію морської угоди з Туреччиною парламентом Лівії",
+      "original_title": "Greek Foreign Ministry: We reject the Libyan parliament’s approval of the maritime boundary delimitation agreement with Turkey - MTV Lebanon",
+      "summary": "Міністерство закордонних справ Греції офіційно відхилило рішення лівійського парламенту про схвалення угоди про демаркацію морських кордонів з Туреччиною. Афіни заявили про неприйняття цього кроку, що підтверджує триваючий дипломатичний конфлікт щодо морських прав у Східному Середземномор'ї. Ця реакція є формальним міжнародним застереженням щодо легітимності лівійського рішення.",
+      "source": "Treaties & Agreements",
+      "publisher": "MTV Lebanon",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
+      "published": "2026-10-20T16:18:20+00:00"
+    },
+    {
       "title": "Вірменія отримає чеські літаки L-39 Skyfox для авіації",
       "original_title": "Вірменія посилить навчальну авіацію чеськими літаками L-39 Skyfox",
       "summary": "L-39 Skyfox оснащений двигуном Williams FJ44-4M, композитним крилом та п’ятьма точками підвіски. Літак призначений для початкової підготовки пілотів та легких бойових завдань, включаючи боротьбу з БПЛА у версії Drone Hunter. Постачання посилить можливості Вірменії у підготовці льотчиків для винищувачів 4-го та 5-го поколінь.",
@@ -1631,6 +1611,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
       "published": "2026-10-20T16:31:28+00:00"
+    },
+    {
+      "title": "Президент Мальдівів розпочав триденний державний візит до Пакистану",
+      "original_title": "Maldivian president arrives in Pakistan for 3-day state visit - Anadolu Ajansı",
+      "summary": "Президент Мальдівів прибув до Пакистану для проведення триденного державного візиту. Ця подія фіксує офіційний дипломатичний контакт між лідерами двох країн. Матеріал не містить деталей щодо конкретних угод чи заяв, зроблених під час зустрічі, окрім факту прибуття та тривалості візиту.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXFfZEs2dEhKNXBDWmlEeXo5NGZMdFhwYXZiaXl2WngzdnphZ0RDdDRUWnVKQXlPblQ5Y3JVaG1ENGNWSkdGOTZZbUhoVkczTktieWNzRDhtT0RBUHRRaDlJczR3WThINHhkdkdReE52T3BFUkp1c2ZfZUJieVh3ZmdRdzRCYjZaU1dNeWcyMFV6LUZ6SUlXLTlsbG9YaXVueWJybzdB",
+      "published": "2026-10-20T16:31:49+00:00"
     },
     {
       "title": "Норвегія розпочала місцеве виробництво танків Leopard 2A8",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
       "published": "2026-10-20T16:53:07+00:00"
+    },
+    {
+      "title": "Іранський безпековий голова відмовився відвантажувати уран",
+      "original_title": "Iran security chief rejects moving enriched uranium out of country",
+      "summary": "Іранський безпековий голова Мохсен Резай повідомив пакистанського командувача Асиму Муніру, що уран не буде вивезений з країни. Під час зустрічі в Тегерані він заявив, що ядерний матеріал є національним багатством і не буде переданий США. Уряд Ірану не розпочне переговори, доки США не довірять.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-security-chief-rejects-moving-enriched-uranium-out-country",
+      "published": "2026-10-20T17:33:49+00:00"
     }
   ]
 }

@@ -40,11 +40,11 @@
     "https://militarnyi.com/uk/news/ant-modernizuvala-bpak-mercury",
     "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
     "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
+    "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/fond-prytuly-1020-zrabr-mobilnyh-punktiv",
     "https://militarnyi.com/uk/news/fp-1-zaletiv-u-lytvu-z-terytoriyi-polshhi",
     "https://militarnyi.com/uk/news/frantsii-zaprovadzhuut-komendantsku-godynu",
     "https://militarnyi.com/uk/news/istoriya-30-ombr-kostyantyna-vlasenka",
-    "https://militarnyi.com/uk/news/kytaj-buduye-nosij-pidvodnyh-bezpilotnykiv",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/lytva-rozpochala-rozgortannya-an-tps-77-mrr",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
@@ -58,6 +58,7 @@
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
+    "https://militarnyi.com/uk/news/rosiyany-pochaly-zastosovuvaty-nevidomyj-dron-iz-benzynovym-dvygunom",
     "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
     "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
@@ -112,7 +113,6 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNUc2xhUmh3RVJOdHhBUVZVZEpEYTdRUnhCN29lbVJLQUJvRU1ZREFucEFEQnhsZ0o4Y2xBakotcGFxeWtvbzJyX05pcFJTS0d5dHBrUkpEcTJCLUwyWlFtQUU2MzB1YngtSXFPMlQzUHVHdVAyN19sVG95RTNQN2w0ZUpyQndfYWgxaTdGRldIcVJH0gGXAUFVX3lxTE1ZQVhXaVhlZUJIc0swNklZX3hzWXJLY3dSTV92V3U1MnRRS1l6bEhRREw5bnFYZlp4ZDBJQ1ZXNnhEY0dwTlN1cDNnZE1SbDRkemhvTTdUNkhiRy1ONDlhbWpPSG5xd3VNMW84QjlWM1V6aG1ybUc1ZnZvY0V6VWp4b3pnRndka0lsUmEyVllqNUx0VXpLU2c",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR050VXZHclBzamJBTkQtNVd0amVkd1J4dlZISktTSlU3bDdaRHg1Mm1BWVg4cjhoVnlPNHRaTEFFdE5XZkY1UjRMT0ZwSHIyVC1SdmptMzB5Zk5TTG1GNkFJS2QxNEV5UHpQeFgzeVpobXBQOUU4OVlrRjB3Uk9vaE5ORmRweEw2d2RNZUtoZGV6TnZU",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRURGF5OVJmbVJKMlZoT01WbmlnVzFWNmF2VTd3ZGFmcmhDX1h4S25rMkZSYmlkVEY1RmU3c0lqSHJMWmhVc3hJSE1ua1RTZURZaVBPRXg4eVhvdlVLS25vSzI2RU5YNDJOVjRfVVppbHJraWxPR20wYnNjY2FuN2tyWEw2UnpIRFVjR05IOEFFNmozdkF1Qkpn",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhwRDgtekR3ZXJUTk5YM0FKYlVZUl81cVJpaXF5STUzN1ZxUlRud0VCTmR0ZnBSbkhHUjdrU0tQdVN2UnZuNEU4czRoR01xdW41ZjA2aGpmclVpSTJGRzZ2R3pSUEJzWXI3cGI5T0FJTkc4WFRpZTNFWThOc3FFZGdDbG5PU0NTN0lTLWdJclNuZHJXZVJpWUpjeXM",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTFjTGJOZWlNQk0wMUN6RGQwMVUwd0RGRTNiZnNWd2sxd0htSHdZdEhjTVVySHp0dDBCV0pVNXNBSlBycjYxN2gwR1ZDZFNWRklwRjh2UDJURTdOR2U3M3JXZFhDZExURTBnTXptWWNCcHNqak5qWXJsWFpYQ2tjdUJlMDBkQWFzYjMtNlY0ZzJHZzFRQTVlekRXeEJFdw",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Китай будує другий спеціалізований корабель для безекіпажних підводних дронів",
-      "original_title": "Китай будує другий корабель-носій підводних безпілотників",
-      "summary": "У Гуанчжоу на верфі Guangzhou Shipyard International зведено другий спеціалізований судноподібний носій підводних безпілотників, який за конструкцією майже повторює вже відомий у Шанхаї, але приблизно на третину менший. На борту передбачено високу прямокутну надбудову, відкриту палубу, задній відсік і ангар для підйому/спуску великих підводних дронів, подібних до HSU100/AJX002, які можуть мати ядерний реактор, швидкість понад 30 вузлів і автономність до 200 годин. Такі судна значно розширюють можливості Китаю у розгортанні довготривалих підводних безпілотних систем, підвищуючи його стратегічни",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/kytaj-buduye-nosij-pidvodnyh-bezpilotnykiv",
-      "published": "2026-10-20T07:06:33+00:00"
-    },
-    {
-      "title": "Brent тримається біля $110 через напруженість на Близькому Сході",
-      "original_title": "Brent crude hovers near $110 on Middle East tensions - Anadolu Ajansı",
-      "summary": "Нафта Brent утримується поблизу $110 за барель на тлі напруженості на Близькому Сході. У статті є лише заголовок, тож деталей щодо динаміки за день, обсягів пропозиції чи конкретних подій у регіоні немає. Такий рівень цін посилює інфляційні ризики для країн-імпортерів енергоносіїв і збільшує витрати бізнесу. Для експортерів він водночас підтримує доходи, а ринок залишається чутливим до геополітичних новин.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "Anadolu Ajansı",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg",
-      "published": "2026-10-20T07:33:39+00:00"
-    },
     {
       "title": "Боротьба проти зростання дохідності US Treasury",
       "original_title": "The battle against rising US Treasury yields - The Business Times",
@@ -1553,6 +1533,16 @@
       "published": "2026-10-21T09:03:41+00:00"
     },
     {
+      "title": "Росія розробила безпілотник з бензиновим двигуном, схожий на «Ланцет»",
+      "original_title": "Росіяни почали застосовувати невідомий дрон із бензиновим двигуном",
+      "summary": "На фронті зафіксовано новий російський безпілотник, що оснащений бензиновим двигуном внутрішнього згоряння та X‑подібною конструкцією крил. Він схожий на баражуючий боєприпас «Ланцет», але має більший запас ходу й можливість автономного польоту. Таке обладнання може підвищити ефективність російських ударних операцій і ускладнити їхню нейтралізацію українськими системами ППО.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiyany-pochaly-zastosovuvaty-nevidomyj-dron-iz-benzynovym-dvygunom",
+      "published": "2026-10-21T09:08:37+00:00"
+    },
+    {
       "title": "Мерц закликав до справедливішого торговельного балансу з Китаєм",
       "original_title": "Merz calls for fairer China trade balance, says Germany remains committed to open markets - Business Upturn",
       "summary": "Канцлер Німеччини Фрідріх Мерц закликав до справедливішого торговельного балансу з Китаєм і заявив, що Німеччина лишається відданою відкритим ринкам. У матеріалі є лише заголовок, тому цифр, термінів і конкретних заходів немає. Така заява сигналізує про прагнення Берліна зменшити торговельні дисбаланси без відмови від відкритої торгівлі. Для ринків це може означати підвищену увагу до торговельної політики щодо Китаю та потенційні ризики для німецьких експортерів і промислових ланцюгів постачання, але без деталей оцінити масштаб неможливо.",
@@ -1611,6 +1601,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTE1Q2VWSEpaS3FBSk1LZW9nYlN3RGg4Y3d6RmdGZTJJNmJOSUVKQ0Y5MjEwcVZGWVJhWFdiT1VwNUJvcklpdy0zamJTc1JkOW13cVV6VVhlZHBRemRNRmIzSmNmU3F3U3pKeGNsODNVSGlUczJtWW5ZNDU2aVpNbU43OHlraFRFbUo2a3o3cll3QQ",
       "published": "2026-10-21T10:18:48+00:00"
+    },
+    {
+      "title": "Excalibur Army представила самохідний міномет Alakran на шасі PATRIOT 4×4",
+      "original_title": "Excalibur Army представила самохідний міномет з системою Alakran, яку використовують в Україні, на шасі PATRIOT 4×4",
+      "summary": "Компанія Excalibur Army (частина CSG) представила на Future Forces Forum самохідний міномет з системою Alakran, встановлений на бронетранспортері PATRIOT 4×4. Система підтримує міномети калибру 81 та 120 мм, вагою близько 1 т, зі швидкістю вогню 25 пострілів/хв (81 мм) та 19 пострілів/хв (120 мм) і дальністю до 6,9 км та 8,25 км відповідно, що підвищує мобільність і вогневу гнучкість підрозділів ЗСУ. Завдяки модульності шасі PATRIOT, система може бути інтегрована й на інші платформи (VAMTAC, Land Cruiser тощо), розширюючи можливості швидкого розгортання мінометних підрозділів на полі бою.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
+      "published": "2026-10-21T10:21:17+00:00"
     },
     {
       "title": "Турецький та катарський міністри оборони провели зустріч",

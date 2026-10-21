@@ -10,10 +10,12 @@
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
+    "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
     "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
     "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases",
     "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
+    "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
     "https://defensehere.com/en/lockheed-martin-advances-er-gmlrs-rocket-after-operational-testing",
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
@@ -25,7 +27,6 @@
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
-    "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
     "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
@@ -45,6 +46,7 @@
     "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
     "https://middleeasteye.net/news/turkey-secures-strategic-win-over-greece-eastern-libya-maritime-deal",
     "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
+    "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/fond-prytuly-1020-zrabr-mobilnyh-punktiv",
@@ -52,7 +54,6 @@
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
-    "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
     "https://militarnyi.com/uk/news/oleksandru-zhybrovu-zvannya-geroya-ukrayiny",
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
     "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
@@ -81,10 +82,8 @@
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMW5pQ1lURWF6Y0tNMXh2ZldGM2w5RUpHenhEa0hUU2tQMHBIMDlYT21LYzc5Z3NneV81RVc5eW5DV2lSTGxxQWNLVlNBSU9QLVQzLW5YcFBZNlh6cFQ1dU0wX01mdHFwY3h2OUE2TlczMXhoeDEyOEswWHpmbTZNMG5KNmN4NXBHekFyWk1id3J0OGpPMmVXeVBoMG1GWkVfUXJJWk9HVE1rUTBxXzNUNUh3QjNEenZBTlg1Vy1HemxFTXo2NjJ3ck1BRU5pdWJHUXlF",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFB2MWxiNUZGQm5OZFhtM04wb1cyWnZyLVk5bUZmamdpSmVGMl9YM0ZtbS1BYmFtNWZCbUh4LTd6bFdSRG93SURNTW05SlVhWXJ0X2llNUxEQ1R0YkdtdzktNGU0WFNvMXk1aDdSV3lTbmxkNUZwUG1kZnVBX0VMU0dxTFEzcjFXU1ZPY3VxbTRsSDB3V3hBR1hScWxsOFNYdzhVUEwtSWthU0dTUTJ2cnhEQjhLYVRydWhEM1lFb1czYmQyR1pQWGtmMjVkNlViS2otUw",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3VfSmttLWRPWFhxLXhvTmhURzcteDFaYkJxbFV4SFdXRTQ0NFBRZXNCdUFnLUhodVdEeUVZelhYWmhFdTJWa3MzZGZPN01LNFpEVERsRVFvekdrU25GcGdyM01xUFRxdlpPZEJDY0V3R2hZSFFsX2p4eDV6WWZNTVdxWlNueHo5NHM3aW01eEZhc1JNQTFlSzFfTUU1M040QURxQkhmZUpRYlNfQzhSbXl5TDFtRnJUcFdBU0JNcUIxTVE4U3dGWkVJb29RTnJnVnRtVGNn",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
-    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1QyZ3ZIczBrWDh0c25yTnNSRVFCTjZYTjlOZXRlY0NodXRmUmlKY3NTVkRhTjhXOWQ1SVJrNmtQanVfcWdiUUdxRXBkdU9WTXljT2JrSXFweVd0SlQ1LWJKaTg2Tm15c0VMaEsxTndrbFJvUmwxT3UzSVhfMXZkWE5hazNlV1NOblNMRzdCNTk4cFpOcG5yOVM2Y2ZzTlVOMzRybmpreUVqYkRkZk00NGJVX2xrNm8wUG40dHdsQlFzeEw0b3czM2IwcjBlTC13MEhyVElmQTRhWnk2VEJ2c3M3MEFOZHNLU2RqMlFwSEYzcTFN0gH6AUFVX3lxTE12NEZlbzJfaTM1a09jamJobmo4cndwaEVEYS1sRHVVVlN1S3JmZnZhV2dxTzF2SE9vdWJ5eHBfZGs2YVlDV1FjZFBTUlNHMWhSbWdMX1RHRVhDLWNWR0dIcEJoUXU0MWJ6ajFXNGQ4ckJ1VjVPX3A2YTVxYkNYUU5jRWFCNVJfbDNPdTlZbmppLWtzVnBNTHNGNVZEN1lhNmtyMG1rSmluaUc0bWs3dzRlUHhjWkxsbldNXzRNRGk1MmN1LXhMZ0dUZjd3WWs4Q19RTWxqMFI4VTFDY3R0UThiVFo2VDdsSUpaTHRQeVhzLW56QzRsRFQ0REE",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcnFLcDdNOUY2NHFKUVpnRkNxQUlEYTBVRDRzRWxsV3prU0ItYUJEd1ZCNFZhLXgzVms1MXFBMTI2TWpBTGdjeTBMNVZaOFV0UlE",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQ3FBUmFYQmd3MkZkUHpCakF5amJYT05aVVhlUGJxbkdrb2ZuOTdpcmRPb1I2SDM5MHlybmJwLXptZzRWN0pNdlpSSTBrRWhMQVpGRFppZWdPZm9USUF3",
@@ -145,6 +144,7 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFpIcm9WOThUSlgxS21SNWJIVDQ0QUZ2bWVSNXVBaTBKRU5qRlNmSnBKY3E5V1BFVDg5bGRGYm0wNGRSNU9OMko0YUlJdHpzSVU0LUZBRVRkNFRnQzBvOU1QSGU4ZUlZQ2Q0RTE4SkJOTHFpZEMtQXVjZm5NR1F5TTFsenZWMzFFMmhqZDItcFBPZlpxVjZGLVJyLWVJZGdkWkcxVWdMa0pOVnRwOW5MRDgwYW1Bb2xMZ2RuMG1DUG14VmtfQzVsNGhQa0k",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
+    "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
     "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
     "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "GE Aerospace підвищує прогноз прибутку на 2026",
-      "original_title": "US Stocks: GE Aerospace raises 2026 profit forecast as services strength drives growth - The Economic Times",
-      "summary": "GE Aerospace підвищила прогноз прибутку на 2026 рік. Зростання зумовлене силою сервісного бізнесу. Це підтримує динаміку акцій США. Компанія демонструє позитивні результати в авіаційному секторі.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1QyZ3ZIczBrWDh0c25yTnNSRVFCTjZYTjlOZXRlY0NodXRmUmlKY3NTVkRhTjhXOWQ1SVJrNmtQanVfcWdiUUdxRXBkdU9WTXljT2JrSXFweVd0SlQ1LWJKaTg2Tm15c0VMaEsxTndrbFJvUmwxT3UzSVhfMXZkWE5hazNlV1NOblNMRzdCNTk4cFpOcG5yOVM2Y2ZzTlVOMzRybmpreUVqYkRkZk00NGJVX2xrNm8wUG40dHdsQlFzeEw0b3czM2IwcjBlTC13MEhyVElmQTRhWnk2VEJ2c3M3MEFOZHNLU2RqMlFwSEYzcTFN0gH6AUFVX3lxTE12NEZlbzJfaTM1a09jamJobmo4cndwaEVEYS1sRHVVVlN1S3JmZnZhV2dxTzF2SE9vdWJ5eHBfZGs2YVlDV1FjZFBTUlNHMWhSbWdMX1RHRVhDLWNWR0dIcEJoUXU0MWJ6ajFXNGQ4ckJ1VjVPX3A2YTVxYkNYUU5jRWFCNVJfbDNPdTlZbmppLWtzVnBNTHNGNVZEN1lhNmtyMG1rSmluaUc0bWs3dzRlUHhjWkxsbldNXzRNRGk1MmN1LXhMZ0dUZjd3WWs4Q19RTWxqMFI4VTFDY3R0UThiVFo2VDdsSUpaTHRQeVhzLW56QzRsRFQ0REE",
-      "published": "2026-10-20T11:19:35+00:00"
-    },
-    {
-      "title": "Філіппіни підписали кредит АБР на 90,8 млрд песо",
-      "original_title": "ICYMI: The Philippine government has signed a ¥236.64-billion (around P90.8 billion) loan from the Asian Development Bank to fund measures cushioning the impact of the Middle East conflict on the country. Finance Secretary Frederick Go signed the fin",
-      "summary": "Міністр фінансів Фрідрік Го підписав кредит Азійського банку розвитку на 236,64 млрд ієн (близько 90,8 млрд песо). Кошти спрямовано на заходи, що пом'якшують вплив конфлікту на Близькому Сході на економіку країни. Угода офіційно підписана урядом Філіппін.",
-      "source": "Treaties & Agreements",
-      "publisher": "Facebook",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
-      "published": "2026-10-20T11:22:17+00:00"
-    },
-    {
-      "title": "ВМС США вчетверо збільшили ліміт контракту з Gecko Robotics на роботів для ремонту кораблів зі ШІ",
-      "original_title": "Navy expands contract ceiling for AI-enabled repair robots",
-      "summary": "Ліміт п'ятирічного контракту зріс із $71 млн до $300 млн: початково він охоплював 18 кораблів Тихоокеанського флоту, тепер його масштабують на Атлантичний надводний флот. Робот Komodo їздить палубою і за допомогою електромагнітних акустичних перетворювачів вимірює товщину сталі під покриттям, тож корозію можна виявити без зняття шару та під час стоянки корабля на воді. Це дає змогу заздалегідь визначати обсяг ремонту й уникати непотрібної заміни, а отже скорочувати терміни обслуговування та підвищувати боєготовність флоту.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
-      "published": "2026-10-20T11:33:50+00:00"
-    },
-    {
-      "title": "Норвегія затримала судно, що обслуговувало підсанкційний проект «Арктик СПГ 2»",
-      "original_title": "Норвегія затримала судно, яке обслуговувало підсанкційний російський проєкт «Арктик СПГ 2»",
-      "summary": "Норвезька берегова охорона затримала два вантажні судна, зокрема Ya Qing Hai Yang (IMO 1021570), яке перебуває під санкціями через участь у проекті «Арктик СПГ 2» російської компанії Новатэк. Судно, флаговане Гватемалою, було зафіксовано на якорі біля острова Андьоя, а ще одне судно Jian Yang Cheng He (IMO 9813137) під прапором Китаю не під санкціями. Дія спрямована на запобігання перевезенню обладнання до російського порту «Утренний» і може обмежити логістичну підтримку російського енергетичного сектору, що має потенційний військово-економічний вплив.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
-      "published": "2026-10-20T11:47:05+00:00"
-    },
     {
       "title": "ЄС Австралії: переговори завершені остаточно",
       "original_title": "EU to Australia: 'Once negotiations are done, they're done' - Politico",
@@ -1623,6 +1583,16 @@
       "published": "2026-10-21T16:48:17+00:00"
     },
     {
+      "title": "Ізраїльська Elbit придбала канадську ISE, що створює автономні підводні апарати",
+      "original_title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
+      "summary": "Elbit Systems купила ванкуверську International Submarine Engineering (заснована 1974 року), яка за даними компанії поставила понад 250 підводних апаратів клієнтам у понад 20 країнах. Придбання доповнює безпілотний надводний катер Seagull і дає змогу пропонувати флотам єдину систему з БпЛА, безекіпажними катерами та автономними підводними апаратами (AUV) під спільним управлінням. Сума угоди не розголошується, а технічних характеристик конкретних апаратів у повідомленні немає, тож реальний вплив залежатиме від інтеграції цих платформ у системи управління Elbit.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
+      "published": "2026-10-21T17:29:24+00:00"
+    },
+    {
       "title": "Президент Гани оголосив про переговори з Європою щодо репарацій",
       "original_title": "Ghana in talks with European nations for reparations, president says - Financial Times",
       "summary": "Президент Гани заявив, що країна веде переговори з європейськими націями щодо виплати репарацій. Це офіційне повідомлення підтверджує ініціювання дипломатичного діалогу між Африкою та Європою з історичних питань. У тексті джерела не вказано конкретних учасників, дати зустрічей чи підписаних документів, тому деталі обмежені самим фактом ведення переговорів.",
@@ -1631,6 +1601,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
       "published": "2026-10-21T17:43:17+00:00"
+    },
+    {
+      "title": "ВПС США: рішення про закупівлю нових F-16 не є терміновим пріоритетом",
+      "original_title": "Any Decision To Buy New-Build F-16s Not An “Urgent” Priority: USAF",
+      "summary": "Згідно з новим планом, до 2035 року ВПС США хочуть мати 1 509 бойових винищувачів: приблизно 40% F-35, 40% F-15 (F-15E та F-15EX) разом з F-16 і 20% F-22 та F-47. Нині у структурі переважають F-16 (45%), тоді як на початок 2026 фінансового року було 1 168 бойових винищувачів, не враховуючи 103 штурмовики A-10, які планують вивести з експлуатації до 2030 року. Рішення про можливу закупівлю нових F-16, за словами генерал-лейтенанта Девіда Табора, ймовірно, відкладається щонайменше на рік, а замінювати старі F-16 можуть за «спектром можливостей». Залишається питання, чи вистачить для цього бюджет",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
+      "published": "2026-10-21T17:55:28+00:00"
     },
     {
       "title": "США ввели нові санкції проти Ірану та пов'язаних осіб",
@@ -1651,6 +1631,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
       "published": "2026-10-21T18:31:47+00:00"
+    },
+    {
+      "title": "Нуклеарна програма Саудівської Аравії може пережити свій уряд, плануйте відповідно",
+      "original_title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
+      "summary": "У липні 2026 р. Саудівська Аравія підписала угоду про співпрацю у сфері ядерної енергетики, що дозволяє розвивати технології розраду уранію на її території. Умови передбачають дво-роковий дослідницький проект з розраду до 5 % та можливий перегляд до 20 %, при цьому американські компанії будуть керувати «чорною коробкою», що обмежує доступ місцевого персоналу до технології. Ця угода підвищує ризик розповсюдження ядерних технологій у регіоні, а також ставить під питання довгострокову політичну стабільність Саудівської Аравії, що може вплинути на безпеку та контроль у США.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
+      "published": "2026-10-21T18:35:00+00:00"
+    },
+    {
+      "title": "Болгарія відмовилася фінансувати закупівлю летальної зброї для України через ЄС",
+      "original_title": "Болгарія відмовилася фінансувати закупівлю летальної зброї для України через фонд ЄС",
+      "summary": "Болгарський уряд ухвалив рішення не брати участі у фінансуванні закупівлі летальної зброї через Європейський фонд миру, хоча цього року його внесок у фонд становить понад 9 млн євро. Країна зосередиться лише на нелетальній допомозі та ремонті техніки, що може обмежити доступ України до нових озброєнь, фінансованих ЄС. Така позиція може сповільнити постачання сучасних систем озброєння, запланованих за механізмом EPF.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
+      "published": "2026-10-21T18:54:40+00:00"
     }
   ]
 }

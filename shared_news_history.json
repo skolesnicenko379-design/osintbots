@@ -6,6 +6,7 @@
     "https://army-technology.com/analyst-comment/european-reassessments-artillery-procurement",
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
+    "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
@@ -17,7 +18,6 @@
     "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
-    "https://defensehere.com/en/lockheed-martin-advances-er-gmlrs-rocket-after-operational-testing",
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
@@ -28,6 +28,7 @@
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
+    "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
@@ -57,7 +58,6 @@
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
-    "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
     "https://militarnyi.com/uk/news/prymary-gur-urazyly-tornado-s-buk-m3-orion",
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
@@ -69,11 +69,13 @@
     "https://militarnyi.com/uk/news/u-kaliningradskij-oblasti-rozbyvsya-su-30sm",
     "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
     "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
+    "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
     "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
     "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
+    "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
     "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK",
@@ -84,7 +86,6 @@
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcnFLcDdNOUY2NHFKUVpnRkNxQUlEYTBVRDRzRWxsV3prU0ItYUJEd1ZCNFZhLXgzVms1MXFBMTI2TWpBTGdjeTBMNVZaOFV0UlE",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsbW9kbU5QR0NSRGxtWXVCNk9pMDh0eUlma3dvYUNfaUtGWUhYNy1ZT0NOYXhjVDlYOHhmTkNIQ1loSmZNUzF6OFFyMy10Um4tZzZqRFVvSGRLMkZOT0hidV9Za0dzaVk",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOTNKRG5KaDVFbktMc01kUVctSVFrcDI4bzRhd3NIWXFlTzFyQzR4MGtiQXdLX0Y0V21SYlZfai1nd09TaFhLbFdlc2xUTGo0dE5TSW9ycHlvVjZyOC0zal9hOXd0UXVRU2FLYTBjRlhQckN0aHFyN05YejEya1p0X0FNZk95cVN3dDhDLUF2Ulotb2g0XzBJa3dEb0hCOTd2bW9LQ2oxR1BlQkdjMWl2ZHRRbHNoYy04a3B5Z3hKVzRTYzJBMlFVTEVJb09vNUd3TmEyZWJ2X2F0ejBaLXB0OWM4R0ZhZlluOVdjbHUwUS1GZWRSeUVjd0V4UXBqdw",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU3pBb0hzRVkwb0paQ0lyVFFzUFpQT09QaEUxS0w1YWMzMGRjZTFyaUZFNG1SYnRxalVTVXBjWktRakN2REFEU21QemVqSWhLUnVIZVVJOEdQV3Utb2gzNmdYNGFIWGgtazQxYWZzY1MzSEl3SHRCWGN0OUp6eUlTaTlRbEhGOURieW5reWM1TGlBRmxqYmFjU0FKd1gwQVVaVnVuNkMtQ05tTHZtbi1ESzcwcjNWRTZ4dDc2bk1IMnlFYjlLeE5YWVpIUzZzcU9OX2U0LWVPa3JTU25LblZ6ZHVTamRZV0pFVXFpS2hVUjJVN29kLVNUeVlRbmU3QQ",
@@ -121,7 +122,6 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFkeGNyVDNFd2J1WWdzOVdGLTVHZEdQLWVvaHdtekdMdTJfZnR6YjRiZFRkY3FKME1MMlpIX2tlOUZ5bkxDVFBmRVpfNURQYkxncHg4QklGaU5CREVrWlRpQkxSamtNOEsza3FaVV83a2h3NGowTDNmZmhNNWRhQldjRGJheFhxOThJaWJXU2pHRG1oOVdnTFZ0ZlJnUUd2SENnSmNXYzJ6WTVtdVpIY2luaWFDZw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPREhLWHV2WU05cUxjbGFUaHZMT0dGQW4zeXpoTzZNN3JVcTNsYXhENmZ5TGxvemFwSjBoTTVJQ0t0REp1YXl3WXQ3OWJnNy1xX0FnZTZhekcwZzQ5R1ZieDZBaVp4bHF6SURVbGlHSzdjWEF6a1Bla3YxckJSdUlKSVpTQVFfbUNZSXJLV25RTmxqeDgwbDU0TERQWFJ6MWNkX1lib1lkbHlzUVdLbWlmWF9qTl9CUTFf",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDlMelNHcEJ1SDdJa3EweU1qQVN6MXlxUGZwT3Q3SnY5QTdBc0U5Y25DVk9vTzJJOXUtdnpudTJ6YWFkWkVhY1FVMlBtdkhiak9XY1NhcVFpaktlUXJZcFdpSTFSdXdHcDEwblFQRC1CVkcxYUExM3Izd2huQVgwRjZEakF1T3dpOHJhTU14QmRac0ppcUU1NUhDVTEwYlhsRG1NQUZ0RDNMYmFaRVhrMWVuenJ5YkZx0gG4AUFVX3lxTE9YOUx6U0dwQnVIN0lrcTB5TWpBU3oxeXFQZnBPdDdKdjlBN0FzRTljbkNWT29PMkk5dS12em51MnphYWRaRWFjUVUyUG12SGJqT1djU2FxUWlqS2VRcllwV2lJMVJ1d0dwMTBuUVBELUJWRzFhQTEzcjN3aG5BWDBGNkRqQXVPd2k4cmFNTXhCZFpzSmlxRTU1SENVMTBiWGxEbU1BRnREM0xiYVpFWGsxZW56cnliRnE",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFBWmhaLUpOb29pQWgtMEhpclJBcWpGc2hDaGg1b0xzN2s0SUtWQ29VbG5kV2dOdF9UYkVWWmRZbEF0NXdZYW1nMDVHSlVmX1VvZUdPcF95QVR1Ukxid0pIaTNKd2dNWEdUUFFycDByV1BQa3Fra05IaTNZNjF2dEpIM2kwRmw2eVNlTFlscU42UmhxNFl0VXJRV2M0bjhST2RDcEg5dzhsYU1VNl9EdU1TNDJYeGUz",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Корпус морської піхоти США створив перший ракетний батальйон середньої дальності",
-      "original_title": "Морська піхота США створила перший ракетний middle-strike батальйон",
-      "summary": "У 1‑му батальйоні 10‑го полку морської піхоти 2‑ї дивізії замінено традиційну артилерію на ракетну систему NMESIS, встановлену на базі бронеавтомобіля JLTV і здатну запускати два протикорабельних ракетних комплекси NSM. NSM – дозвукова крилата ракета з дальністю 185‑500 км, вагою 410 кг і комбінованою системою наведення (інерція, GPS, інфрачервона головка). Це підвищує можливості морської піхоти у протикорабельних та наземних ударах, вписуючись у програму модернізації Force Design 2030.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
-      "published": "2026-10-20T12:54:41+00:00"
-    },
-    {
-      "title": "Lockheed Martin удосконалює ракету ER GMLRS після випробувань",
-      "original_title": "<b>Lockheed Martin</b> advances ER GMLRS rocket after operational testing - Defensehere",
-      "summary": "Компанія Lockheed Martin завершила операційні випробування модернізованої ракети ER GMLRS, що входить до портфеля точних ударних систем разом із GMLRS, ATACMS та PrSM. У новій версії підвищено дальність та точність, а також удосконалено системи наведення, що дозволяє ефективніше уражати цілі на великих відстанях. Це посилює можливості артилерійських підрозділів США у проведенні швидких і точних ударів, знижуючи ризик втрат і підвищуючи ефективність у конфліктах.",
-      "source": "Western Defense Industry",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensehere.com/en/lockheed-martin-advances-er-gmlrs-rocket-after-operational-testing",
-      "published": "2026-10-20T13:06:20+00:00"
-    },
-    {
-      "title": "Тристоронній саміт може послабити напругу на ринку нафти РФ",
-      "original_title": "Trilateral summit may ease Russian oil spot market tightness; ETF Investment Daily, 2026-10-20 - Moomoo",
-      "summary": "Заголовок вказує на можливий вплив тристороннього саміту на спотовий ринок російської нафти. Стаття не містить конкретних цифр чи деталей саміту. Це може вплинути на експортні умови РФ та ринкову рівновагу.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Moomoo",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPREhLWHV2WU05cUxjbGFUaHZMT0dGQW4zeXpoTzZNN3JVcTNsYXhENmZ5TGxvemFwSjBoTTVJQ0t0REp1YXl3WXQ3OWJnNy1xX0FnZTZhekcwZzQ5R1ZieDZBaVp4bHF6SURVbGlHSzdjWEF6a1Bla3YxckJSdUlKSVpTQVFfbUNZSXJLV25RTmxqeDgwbDU0TERQWFJ6MWNkX1lib1lkbHlzUVdLbWlmWF9qTl9CUTFf",
-      "published": "2026-10-20T13:13:30+00:00"
-    },
-    {
-      "title": "Торгівля на кордоні Іран-Пакистан зупинена",
-      "original_title": "Iran-Pakistan border trade halted as truck queues grow - Iran International",
-      "summary": "Торгівля на кордоні Ірану та Пакистану зупинена через зростання черг вантажівок. Факт фіксує пряме припинення транскордонних поставок без додаткових цифр у матеріалі. Це створює перешкоди для регіональної торгівлі в контексті коридорів.",
-      "source": "Коридори · IMEC",
-      "publisher": "Iran International",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcnFLcDdNOUY2NHFKUVpnRkNxQUlEYTBVRDRzRWxsV3prU0ItYUJEd1ZCNFZhLXgzVms1MXFBMTI2TWpBTGdjeTBMNVZaOFV0UlE",
-      "published": "2026-10-20T13:16:17+00:00"
-    },
     {
       "title": "Українські дрони атакували об'єкти Дружби в Тамбовській області",
       "original_title": "Ukrainian drones reportedly attack infrastructure objects of Druzhba pipeline in Russia’s Tambov oblast - Gwara Media",
@@ -1633,6 +1593,16 @@
       "published": "2026-10-21T19:27:06+00:00"
     },
     {
+      "title": "ВПС США почали розробляти концепцію підтримки експлуатації бойових дронів CCA",
+      "original_title": "Air Force starting to game out sustainment framework for CCA drones",
+      "summary": "Командувач Матеріально-технічного командування ВПС генерал-лейтенантка Лінда Геррі заявила, що рамку підтримки життєвого циклу для CCA лише починають розробляти. Вона має врахувати ланцюги постачання та субпостачальників другого й третього рівнів до розгортання 500 платформ до 2032 року; перших виробників — Anduril і General Atomics, а автономію постачатимуть Shield AI і Collins Aerospace. Водночас система обслуговування має брак близько 8 200 посад (у центрі підтримки — приблизно 2 600) і «діру» у $14 млрд на запчастини, що може обмежити готовність як нових дронів, так і наявних літаків.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
+      "published": "2026-10-21T20:21:11+00:00"
+    },
+    {
       "title": "Держдеп США наказав виїзд персоналу з посольства в Саудівській Аравії",
       "original_title": "US State Department says departure orders for embassy staff in Saudi Arabia only",
       "summary": "Держдепартамент США оголосив про наказаний виїзд небезпечних співробітників та їхніх сімей з посольства в Саудівській Аравії через зростаючі атаки хуситів на цивільні аеропорти та інфраструктуру, що спричинили жертви та порушення подорожей. Спікер Томмі Піготт підкреслив пріоритет безпеки та спростував повідомлення про масову евакуацію.",
@@ -1651,6 +1621,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
       "published": "2026-10-21T20:36:00+00:00"
+    },
+    {
+      "title": "ВПС США потребують 1509 бойових винищувачів до 2035 року, повідомили Конгресу",
+      "original_title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
+      "summary": "У звіті для Конгресу за серпень 2026 року ВПС США оцінюють потребу в 1509 боєготових винищувачах до 2035 року для «помірного ризику». Для профілю «низького ризику» потрібно 1723 літаки проти 1558 в оцінці минулого року. Минулорічний звіт не містив цифр для помірного ризику, тому точний приріст визначити неможливо. Реалізації плану можуть перешкодити нестабільне фінансування закупівель та відмова Конгресу погоджувати списання старих літаків, що змушує витрачати кошти на їхнє утримання.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
+      "published": "2026-10-21T20:46:13+00:00"
+    },
+    {
+      "title": "У Балтійську зафіксували завантаження бронетехніки на три цивільні судна ASCALON, LADY D та ANASTASIIA",
+      "original_title": "У Калінінградській області зафіксували завантаження суден бронетехнікою",
+      "summary": "За даними OSINT-проєктів GeoInsider та SONARROW, 15–16 жовтня у Балтійську на три цивільні судна завантажили логістичні автомобілі, бойові машини піхоти, бронеавтомобілі та бронетранспортери. Конкретні моделі та кількість техніки не названі, напрямок руху суден невідомий. Усі три судна раніше використовували для перевезення російських військових вантажів за кордон, а ANASTASIIA минулого місяця бачили біля узбережжя Лівії. Це може вказувати на продовження морської логістики для забезпечення російської присутності за межами країни, але без даних про маршрут і вантаж оцінити військовий вплив напе",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
+      "published": "2026-10-21T20:47:37+00:00"
+    },
+    {
+      "title": "Гібридний USV Bluebottle від OCIUS продемонстрував можливості у вправі Maritime Big Play Pacific",
+      "original_title": "OCIUS’ New Bluebottle Hybrid USV Demonstrates Capability at Maritime Big Play Pacific",
+      "summary": "У рамках навчань US Navy Maritime Big Play Pacific два гібридних варіанти безпілотного поверхневого судна Bluebottle Hybrid, що працюють на дизель‑електричній системі, взяли участь вперше. Судно поєднує дизельний двигун і акумулятори, забезпечуючи тривалу автономну роботу та низьку шумність, що підвищує його придатність для розвідки та патрулювання. Така демонстрація підтверджує потенціал гібридних USV у морських операціях, зокрема у підвищенні витривалості та зменшенні логістичних витрат під час довготривалих місій.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
+      "published": "2026-10-21T20:50:30+00:00"
     }
   ]
 }

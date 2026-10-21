@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2RtY2Z2bi1JUnMtdlBSc2ZSUzVnbkVvUWdRMlVKdXdiQlJNWDFaT1AtTEswd2FQUkpGelZ0S1FXdEtFblZqZ2JENlQ3VW5ycWRleS1FQ1NEemFZRDBMcWFsRTJqREF2MG9idHZHUWlLdEN4MDh1NkV6VEVPUzZIcXA0cDVucEtxSVFOeXZFcG9IMXZ1djZ1NWtuekFLdWV3WFRMcHozZTRUNFE5SnVGb01SRWtJSzhncENTYnlkTTQ0N1Y5VHlmcU9MYmFJanU1NkxoRGlLSzVJMGc?oc=5",
-    "https://www.gov.uk/government/speeches/uk-national-intervention-on-media-freedom-in-the-osce-region-warsaw-human-dimension-conference-2026",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVNRejl6Sm8zcnJCRHU2WlNyQy1nVzU3RkpQTWlBeTBGX2JhT1N4cTBNbzIwS01DOFU4S2d2bXUtaWk3WThpcnlvdjk0REZvTTVyaGVxamFXOTJGNFpGMU5uZDlKRkdpVlpCdlNDMlowc3RjSERZZFZuRTdvQ2ROS3ZHQzdhMDlObHVSLURfbzNjYTVNVE5uYlRoakhkQ2VNU0NzLTdSakdOdHFTTGtFSWZ1cnU?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzdTRTB1TzZxcXdpaVdWOW0za2RUNG9mUmhJbDk1OXRhclJlZ2kxT1h5LXc1bnB0QmRFcVV3bGRzaEY3ZDhCb1VjTGdvUGFBWmd2VTlLbS0xSHVhM2V1QmFMTE1OeWs2OUJBbGtsbzR4SXUyTUVpUXNJcnhYX19CV0FKSHRNNHk5VVRmYXA2V25EVnpTVVJWX0x4aWQ5Y1hx?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuQjRPZmpZbGpxRVhUa0xUcFc0bXBmZWk3VEdnXzduNGRTd1J2SzZVa29MR0J5aENKT0xIcWJ4dXlOdzdKamFGblhpaGFNY3RXNTdlRVBLbEczNzV2QS1vUS1GTC1fT25LNDRYVW9EVTBRRE1rRzc0UW9HR09Sdw?oc=5",
-    "https://www.gov.uk/government/news/back-zelenskyy-and-ukraine-with-an-energy-ceasefire-foreign-secretary-tells-european-partners",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeUZfZlZZU0M3aXFXSThEdlN1MTEyX0UyUFhVb3E0T20tQkYzMV9TRDBlWHJiTGJBdUxIY0otaE9YdWluc1VkZG9iZkswZ3ptMWFzN2lSc1JaTmlmS2JYZjh0bURjOG1iR2h0VmlCcmRGSXpDa3ZKbUdIRDBjUGFiMklscjFQYW1zb0JBZWRYSnhwcGtObmVnbWhZdU5Cd3JXV1RBQ250YldyejNVOWtHZ2dXdThKcEJHMWFGazVKNEs3YnR6SmJ5SGFVZw?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXF6VkNpNFhwWFk1ZktQVkRXVU80RFdCb2QtNHdKb0RDYmdUdDJyak45S28wY0pvc3Ixc3dya0R5ZENsN3U0SHpVUnRhWUhObVJLN1FvY3YyM0c5eGd4NDZPTjIyT0hyd0FrbE9jOXdSY1V3SFZfWEdNRUdaNzFkbEhqdDlGWWRpNXpUdUVzVGlUUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDhVVUtYVHVlWUdOc01uZVFjamlsdk1lUGdCbFZfeDRJODFSZFdXdjRwQ28wN21rWnNNUkZfdUZQM2h4ZXU3RWxIU3YxQ2VLUFlJSlNZV1NOQlk0VXk3S2lSYWdCSnVoemNBUFpiQTdoWkkxSEluWTE4RVl6SFI5TzNoOENqN3RPY3BwdU9WNlJTT2dOVml4VlJB?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wMlZHdkVDQTh6RVBZQXFhOXdsaFh4T0JzSk5VY2FqaVJ3TERGb2MtVkEza21tOTl3MmhfMGl3ZUMtdkh5Mmg4bEVSME1sOHU1Y3oxMzdNXzQ2VXVpMlZSSlZHUEFyS1lMTXdEaGtWMXRob3BIZUNFcmNqZTdDQQ?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE9rcE9CSnVzd1RjTW8wYm1hNGllYm53M2RsV0pyMk1MSjBqVThXc1NlZ1FqQzVrNnVCRm5Sa09jRHJUb2tCVm9xUHpvRTZ6M3N6aVR2NExhWlVwUEdaUmI5V0QxWXZ4b280MFdWTGhmSGE5NU9PeDgxaC0yNGNwQ0dDZjVIaDFQQzJOcW5rRW9meEhJbGNDOG9RekVPMUN0TXdya3NVNUxLdUk5MzdXVGRLa3lLQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRG94M2piZUV3NVhiY2otYm1TZlViSExwc1pFd1V6ZkpwY2hqWUdpYjVldzQ4NlRFdG00TG5HT3Jrenp1QjdMdjBiMTQ5OFlORDBqM0liRHBoYzN1dE1RUFp1NWRBWFZxVDk1UTBvV09JR3B0RzZCc2JzZlFrbTdUdUlpdVRCODVDM0ZCaFpuYlpVYTFpVFVCWVZsRFZkaElBODY5Ymo1NHVIZGN3LWxIR3BzN2huMkQxMDZ0TDY4VTVFOTlnZUdDaC15QXdzclpTV0d3ZGJR0gHWAUFVX3lxTFBYbmM5aVFiTk5tQWFlOWZVZ3MzMnNGclBxNS1rZENQdkRhdUVIVE4yZkZVTnlKYkZ1REEwRHJKbEtlUW16bE52cTBfazhrdjhjQ0lSUzQ4UWlncTV2cDNOUWRWUGtnRFNlZ1diRnhZSEp4YXFxcl9zal9RazJjQ3lYdUt4ZzE2bEJyVzdUQVNwVC1Ld3BEbkg1T3lDU2xBV1V2Q2NuUmlFTUNKZ0hla3c3Nl9kMXduNGlvTXNsWWsyaUxhMkMyVGVKTE95cFdMNjFuRnZrd0E?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSjZ1RG03ZURzWVFReklaOG9jdDJpY0tRcUVPS2dyeWd6NXFxTzNVNWItSEtsX2FQblVhSHpiUWJxdHhsNW1Jdm1naU5PN2F0UW4taGxBazZ5WFFVa3EySmthck91S2FJMlhVU1UybTlZRHNSZnAzSkVsS1U4VkNqbFdnOWdKbG00ZEp0X2FmZ0ZISXJ0NGZOaUFmQUEzTWJXbmhJZDVxOFdXcVJmMUQtNS1qUDVkMm4xM21sX0FJUThFaE5BdEs0c1VRbjRrR193OFNLYmh6bHU0bG8tWi1qaEN1aS14S0VUNmVrRVBR?oc=5",
@@ -1199,44 +1189,19 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSV8taW1FM0M2cGlkNGtPbzc4Ym9WWVBHWjN6NG9kcE9LZS1QN09tYmlDcWxkUzRKdnZ0TE0tOC0wVjg0M0xHeURLclJleUZCRWNmMXlZRG16UnhIX0lHRGlTbWs3Sk5jajhTSFJ5Skw?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-647",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZzJPSjhob3lCWEZabGRYWnVRQUFyazMtNTNGM2F6N0JCSFlOb0JoSjZXT1BTZmVyaEpFbHFPZ3RIYWhGbGc4Z1RTMWNTS3lLeWUtcHowZno2ZWI1SHV4NjNpTXltaExOU3p6ckxyYXc?oc=5",
-    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQk9SQzlOWXpDTzZYNUJ0bERxTEF6Nk85bGs5bldVUC00T2RESDJORl9FcEo2ZklMeENhNW83Tms0enRGZ2E2eEhvRXlvaW11eXNxVWQxQTF0VHg0Vjl4b2ZyTjlKUmZLYk1QeHdnNW50cG9pR0pENnlSWmZiNlI3MGVLbUxNc180d2JjVDA5b2NjcjBYQzNneE9YQ1ZxTGtXc0JVVHFyYmZEQW9oeHZ6UVpjUmxXcXhqWWo4WFd4ckNGYmdWOTYzTDdRVTNFZk00YUI4ZTRvWDJFOHlkUVNwdXh4OEZZU1A2X0FVcEF0YnFmeWxVaUFhOUVPYV9LMEVPNkhVdEtxLS1Md0Z4MXBFRlNZUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQk9SQzlOWXpDTzZYNUJ0bERxTEF6Nk85bGs5bldVUC00T2RESDJORl9FcEo2ZklMeENhNW83Tms0enRGZ2E2eEhvRXlvaW11eXNxVWQxQTF0VHg0Vjl4b2ZyTjlKUmZLYk1QeHdnNW50cG9pR0pENnlSWmZiNlI3MGVLbUxNc180d2JjVDA5b2NjcjBYQzNneE9YQ1ZxTGtXc0JVVHFyYmZEQW9oeHZ6UVpjUmxXcXhqWWo4WFd4ckNGYmdWOTYzTDdRVTNFZk00YUI4ZTRvWDJFOHlkUVNwdXh4OEZZU1A2X0FVcEF0YnFmeWxVaUFhOUVPYV9LMEVPNkhVdEtxLS1Md0Z4MXBFRlNZUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVFwZlpMM081ano2Yl80YjMwTzh4UHFfY3dIMnN5R0c2RVhWUzNmMVdOV3BudWNxSGZxMlRhd2ZTeGJ6MDFFTHV6bDlnSGd1YmVOVE1xcTV6Mml5Mmtvdk1YNUV2Q1pVaVRrdlUzdFNMLWlJWTVDSXRnazVrSm1UeE9qMDFhaXpoQ0cxQ1V6V0lwd3lIeGVqTS1QeENaRVM2Vk5oUzgwRkt0bGZVM2dN?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEVvaFRPODB1YjY2elIzVVNqaWV6dW9Wc0ZTeXplUWdmNzBjZl94VC1SVnoyWFo5SklYTFRuY20zYlZKMmdHQU00TDluZFZZdDhUWllBTzVQdU14UzJLTjFTVXBrczNyRE9HTk53ZTdEQTJOcW15NERCczZfWnBrbE9mallqNHdpOUo5Q1NPakthdXluWTFsRzQ3TGVzMnU0Y2RfX1NiMW1CUlpRR3FGUTQ2SmRhcWlTQ3RQeF9kalNaVVQ5RnZxeHFWcTlKSXBXcVpKcw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/missile-targets-aden-airport-houthis-claim-strike-coalition-site",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTVkY1QzQXRiVXEwVnloOTV4TEZjalpwS0ViOVI5UEl5a1lyekozOGoxN01OT252WXV4YW12S3JNVTQ1Rm5XdFhmaWFHV0tKNnIxQjB2V2V1X2w5d01XMklUdTd4dk9FYy1fblFXZjd4R0JpQmdXVUZlbUYwZC1zcDBWZExtZ1dRam8xYkwzdFJlVmZoQkt4WTBpU25aTWFzSG5lbkl4RkpWWWJpOEV1dTFMcXF5Ukl4WmJ1LS1JakFzeF9vaTFoSTc0Qm5jM3dMVC05MUpzX2dIZXJJWU5wWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkoxeHZCRHJRaVFzeGd5WGJlY3FiQ3dITlRqWHhWMFVGa3lORWs3VFdUc1VSS1JUajhtSzJDcEtFeEh6d19XdjNhVzVjSVR1Mlo0R3pBc1o0bXQ1ZThXY0RUSEdvaXBhMGt1YW1HcHp1X01ILW1vRHNyZExCMGszTFJtalNPclRjYnJuWkQxUERtNno1ZEpWMG8wU2I3SkYzTWlLTE1OdThEeTBuTV9lS3NZNTAxNmtLU0dn?oc=5",
+    "https://www.gov.uk/government/news/major-investment-to-drive-growth-and-jobs-across-britain-as-sultan-of-oman-visits-uk",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-orders-sheeb-crossing-closure-more-shutdowns-loom",
+    "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHdxd1pSNkVDLTlKNm5BYkk3bl9WaWpmMTZXcy01eTF1RzZpU28yM2pYSzgwOTlnVDFGWWZVTGROX0FFTHEtS2JWdjhlWkdJcmxsZzVlVmM3R1otVE1tdU1GZGJPaFVvcV9acXRub3NqUEpDdG11YVBoamdNeDdBRzQ5emdZQkJ6dWc?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Тимор-Лешті розпочав переговори про вступ до угоди про державні закупівлі",
-      "summary": "Тимор-Лешті офіційно розпочав переговори щодо вступу до міжнародної угоди про державні закупівлі. Цей дипломатичний крок ініційований урядом країни для інтеграції її ринку в глобальні стандарти публічних закупівель. Точна назва угоди та конкретні умови доступу в тексті джерела не зазначені, але факт розпочаття переговорів підтверджено.",
-      "source": "Treaties & Agreements",
-      "publisher": "energize.co.za",
-      "published": "2026-10-20T05:39:06+00:00"
-    },
-    {
-      "title": "Міністр закордонних справ Японії зустрівся з міністром оборони Малайзії",
-      "summary": "Міністр закордонних справ Японії Такеші Кагійма провів офіційну зустріч із міністром оборони Малайзії Дато' Сері Хаджі Мохаммедом Халедом бін Нордіном. Ця двостороння дипломатична подія зафіксована на офіційному сайті МЗС Японії. У тексті джерела відсутні деталі щодо конкретних результатів переговорів чи підписаних документів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Ministry of Foreign Affairs of Japan",
-      "published": "2026-10-20T09:15:42+00:00"
-    },
-    {
-      "title": "Рада та Парламент уклали угоду про підтримку органічного сільського господарства",
-      "summary": "Рада ЄС та Європейський парламент погодили оновлені заходи підтримки органічного сільського господарства. Угода включає фінансування, спрощення регуляцій та інвестиції у дослідження. Впровадження плану розпочнеться у 2025 році, з очікуваним збільшенням виробництва органічних продуктів на 15 % до 2030 року.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-20T10:21:51+00:00"
-    },
-    {
-      "title": "Парламент Туреччини готує ратифікацію оборонної угоди з Саудівською Аравією",
-      "summary": "Спікер парламенту Туреччини Нуман Куртулмус направив Мекку оборонну угоду до комісії з закордонних справ для ратифікації. Цей тристоронній договір про оборону підписаний між Туреччиною, Саудівською Аравією та Пакистаном. Документ очікує офіційного затвердження законодавчим органом після повернення спікера з візиту до Киргизстану.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-20T10:12:43+00:00"
-    },
-    {
-      "title": "Узбекистан і США підписали угоду про працевлаштування членів сімей дипломатів",
-      "summary": "Узбекистан та Сполучені Штати Америки підписали угоду, що стосується працевлаштування членів сімей дипломатів. Документ регулює можливість роботи для родичів дипломатичного персоналу в приймаючій країні. Це офіційна домовленість між двома державами, яка полегшує умови для дипломатичних місій Узбекистану в США та американських представництв в Узбекистані.",
-      "source": "Treaties & Agreements",
-      "publisher": "UZA.uz",
-      "published": "2026-10-20T07:50:57+00:00"
-    },
     {
       "title": "Великобританія направляє винищувачі для захисту Саудівської Аравії від хуситів",
       "summary": "Міністерство оборони Великої Британії оголосило про розгортання винищувачів Typhoon Королівських ВПС для виконання оборонних місій. Ця діяльність спрямована на захист саудівських міст та критичної інфраструктури від повітряних ударів хуситів. Офіційно підкреслено, що літаки не здійснюватимуть наступальних ударів по території йменуваних бойовиків.",
@@ -1411,6 +1376,41 @@
       "source": "Bilateral Meetings",
       "publisher": "Ministry of Foreign Affairs of Japan",
       "published": "2026-10-21T08:21:19+00:00"
+    },
+    {
+      "title": "Путін зустрічається з послом Трампа щодо нових мирних переговорів",
+      "summary": "Під час зустрічі в Москві президент Росії Володимир Путін прийняв посла США, який представляє колишнього президента Трампа, для обговорення нових мирних переговорів щодо України. Після зустрічі Путін звільнив американського громадянина, затриманого в Росії на міжнародному рівні.",
+      "source": "Bilateral Meetings",
+      "publisher": "Reuters",
+      "published": "2026-10-21T09:28:19+00:00"
+    },
+    {
+      "title": "Президент ЄБРР Одиль Рено-Бассо відвідає Чорногорію",
+      "summary": "Президент ЄБРР Одиль Рено‑Бассо оголосила про свій візит до Чорногорії, під час якого вона проведе офіційні переговори з представниками країни. Візит заплановано у рамках двосторонніх зустрічей, спрямованих на зміцнення співпраці та інвестиційних можливостей у 2026 році.",
+      "source": "Bilateral Meetings",
+      "publisher": "EBRD",
+      "published": "2026-10-21T09:16:31+00:00"
+    },
+    {
+      "title": "Султан Оману відвідав Велику Британію для обговорення інвестицій",
+      "summary": "Султан Оману здійснив офіційний візит до Великої Британії. Під час поїздки було оголошено про значні інвестиції, спрямовані на стимулювання економічного зростання та створення робочих місць у Великій Британії. Матеріал походить з офіційного урядового сайту GOV.UK, що підтверджує дипломатичний характер зустрічі та економічну складову двосторонніх відносин між країнами.",
+      "source": "Diplomatic Visits",
+      "publisher": "GOV.UK",
+      "published": "2026-10-21T08:52:56+00:00"
+    },
+    {
+      "title": "Ірак закрити кордонний пункт Шіб з Іраном",
+      "summary": "Іракські офіційні особи оголосили про закриття кордонного пункту Шіб для пасажирів, транспортних засобів та вантажних вантажівок до подальших повідомлень. Рішення прийнято для перегляду безпекових заходів. Джерела також повідомили, що уряд планує поступово закрити кілька інших пунктів пропуску на кордоні з Іраном у найближчі дні.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-21T08:49:01+00:00"
+    },
+    {
+      "title": "ООН засудила удари дронів по цивільних та інфраструктурі в Судані",
+      "summary": "ООН офіційно засудила удари безпілотників по цивільному населенню та інфраструктурі в Судані на тлі повідомлень про загибель понад 150 людей у спірному прикордонному регіоні Аб’єй.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-21T08:11:10+00:00"
     }
   ]
 }

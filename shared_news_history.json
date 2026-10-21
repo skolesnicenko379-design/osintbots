@@ -7,6 +7,7 @@
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
+    "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
@@ -22,6 +23,7 @@
     "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
     "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
+    "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
@@ -44,11 +46,9 @@
     "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
     "https://middleeasteye.net/news/turkey-secures-strategic-win-over-greece-eastern-libya-maritime-deal",
     "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
-    "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/fond-prytuly-1020-zrabr-mobilnyh-punktiv",
-    "https://militarnyi.com/uk/news/fp-1-zaletiv-u-lytvu-z-terytoriyi-polshhi",
     "https://militarnyi.com/uk/news/istoriya-30-ombr-kostyantyna-vlasenka",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
@@ -61,7 +61,9 @@
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
+    "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
     "https://militarnyi.com/uk/news/rosiyany-pochaly-zastosovuvaty-nevidomyj-dron-iz-benzynovym-dvygunom",
+    "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
     "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
     "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
     "https://militarnyi.com/uk/news/u-kaliningradskij-oblasti-rozbyvsya-su-30sm",
@@ -84,7 +86,6 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEZ1OUJ5UXVwa0FiSlhHeWxpUkY2M194WnZWMjFTZFBxUEtYSFB6NTZxOTQwRVFRcDg0TXZQazIyWVdlbTFmLUJSWmI1NXRQclF6Qm5YOUFNclpuNDE2b2RaeE1pV1cwVnNhNTh2MUlvd192aTRGTFkxVFF4N1pLcDcyeFo1cnl0SmpiUUJTV1FCbTAwT3laRmU4eXMzU2pWVUhyaFc1cFhwekhjcWVNMnc2ZnMzeUNmTmRSbW91dm9Ua3RNZzlocG10SllEc2FEU2Z4ejdFRGhkekd1ODI00gHkAUFVX3lxTFBsOGNNTXF2aXlaa29jM3R1UWZsVnBPc29vaDdDY0FCamVBaDNiNnhmMTUtQWliYm93c0ZRQzhKcy1aR29OSjRDZi1kdWVZODZ1a0lSNXlXRm1xQ0UzN0ppTjNzZmhrZjk1THE2VGR0RC00VzZHX0l0S2hXRUdmU0JhLUZnekxmbEx0LXJ4TzBZTk90NkQwdVFhMHlSY2xIRS1iYm9MNXM5MEtHT0EwWGprZ2NtYzlkYzhJcnZnb1QzMXhYWS1sdy1mR0w3RVhBX21reHVKeUM1R0pVQlVwRVBBWi12Ng",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaXRKUmZTX0MwOXZGbk1WOEVZMjJMU0lSczBGMWlIYjlxUVNKMEhteTdHazczTGMzOU9zVVlHbnZXWEE0R2dVbnRWYVJnQjNBVER6UVFXeE1uTzZuQldXTW4xWDU0RjJlZjVPLTdxRDdpU291OVF3NUFJR1k1czlDa2ZWdm0xX0xyTFRZY3VfLW1vSHRlMC1JMjRySVB6MlBTamRKZXZmSFh2TGMtUG00QlFsZFZsSzhtc1pMRGUyUHRsQmlXZFFid0FQU0NkUE5pbHUzWG1JeWxWOEc1X201X3ROOTh1WHpHTlJZXzhId2Q",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1QyZ3ZIczBrWDh0c25yTnNSRVFCTjZYTjlOZXRlY0NodXRmUmlKY3NTVkRhTjhXOWQ1SVJrNmtQanVfcWdiUUdxRXBkdU9WTXljT2JrSXFweVd0SlQ1LWJKaTg2Tm15c0VMaEsxTndrbFJvUmwxT3UzSVhfMXZkWE5hazNlV1NOblNMRzdCNTk4cFpOcG5yOVM2Y2ZzTlVOMzRybmpreUVqYkRkZk00NGJVX2xrNm8wUG40dHdsQlFzeEw0b3czM2IwcjBlTC13MEhyVElmQTRhWnk2VEJ2c3M3MEFOZHNLU2RqMlFwSEYzcTFN0gH6AUFVX3lxTE12NEZlbzJfaTM1a09jamJobmo4cndwaEVEYS1sRHVVVlN1S3JmZnZhV2dxTzF2SE9vdWJ5eHBfZGs2YVlDV1FjZFBTUlNHMWhSbWdMX1RHRVhDLWNWR0dIcEJoUXU0MWJ6ajFXNGQ4ckJ1VjVPX3A2YTVxYkNYUU5jRWFCNVJfbDNPdTlZbmppLWtzVnBNTHNGNVZEN1lhNmtyMG1rSmluaUc0bWs3dzRlUHhjWkxsbldNXzRNRGk1MmN1LXhMZ0dUZjd3WWs4Q19RTWxqMFI4VTFDY3R0UThiVFo2VDdsSUpaTHRQeVhzLW56QzRsRFQ0REE",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcnFLcDdNOUY2NHFKUVpnRkNxQUlEYTBVRDRzRWxsV3prU0ItYUJEd1ZCNFZhLXgzVms1MXFBMTI2TWpBTGdjeTBMNVZaOFV0UlE",
@@ -99,7 +100,6 @@
     "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXlRZk1IQkZFZmhEZFlJZkJzaXdXZE0yU3ZJSm1zR01QcFFrMmJXYmtLQzVsb0ozYno0b0dKM2VtWmE4VDJWZDZjSE9sd0pGQXBNWmxIRVF4bUpqWUFqRGlyOThTQlBZcjZXYU5UcTI1Zw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dXNPaUh0SHBsVjlEMi1uemp4YldRbVp2UTMtLTdJcmtGOWUwQXJfT01oTHVQUjdEZ1Nxc214TjhHX3hXQ1dHVkpYc3U1SW13NmNnUEVhXzczS3hsYnA3UURRdUxnSE0tbkRmNk85UUZsemVTUWc",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RWlc2eTJxVDIzUDE4NUZISV9YRjZGWElnZnJzcDVwUlJZQU05SkFVTEE3U3BLeDJtd1owa1g5YnRJb3AyRkJqa1FLNjRKQVpjaWFaQnB1Uk9ENGV2ZzRSTGktOWdvMWJKNkZvQXBYdUhEUkFoUVpRSzJB",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PX2M3dnJfZWdwRVdXQkZRV2dMeEdSel9NYXZ5b3BLd19rd1NBMUFYVm54dlZTSkswWkFvSnJzRnVZS2UwRGhyU1pzajZJcDF5UFJYeno0ckI3ZUtlbGNmOVBBc3QybE5QcVozX21PRjJ2LVVzaWxOM2U2ZXd5NFk",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2ViQVAwNU5CaW5sSTUzNzBpeFQ5YmcyX0h6Y3BIYjE3dmpZM3JYejl3eXFSdXh5TFE5WlRVWHZvanVVY0JaSFdhSVRyNjc2UVlsN2lSNkg5Z2NDd0RNQ1VGUW4wUlJGUGNKdnRfZmQwZWRiVzZfWFQyNkZfajN0aTR0ME5pdw",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Український БпЛА залетів у Литву з Польщі та впав у Пасвальському районі",
-      "original_title": "18 жовтня український безпілотник залетів у Литву з території Польщі",
-      "summary": "Український ударний безпілотник перетнув польсько-литовський кордон о 06:02 за київським часом після того, як литовські радари зафіксували його над Польщею о 05:47. Польські військові не виявили апарат на власних радарах, а винищувачі НАТО не встановили візуальний контакт через погоду. Алгоритми ППО не спрацювали автоматично, оскільки об’єкт рухався з території дружньої країни Шенгенської зони, а не з боку Білорусі чи Росії.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/fp-1-zaletiv-u-lytvu-z-terytoriyi-polshhi",
-      "published": "2026-10-20T10:16:45+00:00"
-    },
-    {
-      "title": "Рада та Парламент уклали угоду про підтримку органічного сільського господарства",
-      "original_title": "Council and Parliament strike deal on updated measures to support organic farming in the EU - Consilium.europa.eu",
-      "summary": "Рада ЄС та Європейський парламент погодили оновлені заходи підтримки органічного сільського господарства. Угода включає фінансування, спрощення регуляцій та інвестиції у дослідження. Впровадження плану розпочнеться у 2025 році, з очікуваним збільшенням виробництва органічних продуктів на 15 % до 2030 року.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaXRKUmZTX0MwOXZGbk1WOEVZMjJMU0lSczBGMWlIYjlxUVNKMEhteTdHazczTGMzOU9zVVlHbnZXWEE0R2dVbnRWYVJnQjNBVER6UVFXeE1uTzZuQldXTW4xWDU0RjJlZjVPLTdxRDdpU291OVF3NUFJR1k1czlDa2ZWdm0xX0xyTFRZY3VfLW1vSHRlMC1JMjRySVB6MlBTamRKZXZmSFh2TGMtUG00QlFsZFZsSzhtc1pMRGUyUHRsQmlXZFFid0FQU0NkUE5pbHUzWG1JeWxWOEc1X201X3ROOTh1WHpHTlJZXzhId2Q",
-      "published": "2026-10-20T10:21:51+00:00"
-    },
-    {
-      "title": "МВФ: Банку Японії може знадобитися швидше підвищення ставок",
-      "original_title": "IMF: Bank of Japan may need to raise interest rates faster. - Vietnam.vn",
-      "summary": "За заголовком статті, МВФ вважає, що Банку Японії може знадобитися підвищувати процентні ставки швидше. У наданому тексті немає конкретних цифр, рівня ставки, прогнозів інфляції чи строків. Якщо така оцінка буде реалізована, це означатиме жорсткішу монетарну політику Японії. Масштаб впливу на єну та дохідність облігацій за наявними даними оцінити неможливо.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Vietnam.vn",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PX2M3dnJfZWdwRVdXQkZRV2dMeEdSel9NYXZ5b3BLd19rd1NBMUFYVm54dlZTSkswWkFvSnJzRnVZS2UwRGhyU1pzajZJcDF5UFJYeno0ckI3ZUtlbGNmOVBBc3QybE5QcVozX21PRjJ2LVVzaWxOM2U2ZXd5NFk",
-      "published": "2026-10-20T10:22:51+00:00"
-    },
-    {
-      "title": "DevDroid та Inission Norge AS спільно виготовлятимуть електроніку для систем керування НРК",
-      "original_title": "DevDroid та Inission Norge AS спільно виготовлятимуть електроніку для систем керування НРК",
-      "summary": "Компанії планують спільно виробляти дистанційні системи керування та забезпечити повний цикл виготовлення і складання електроніки для потреб Сил оборони України та країн Скандинавії. DevDroid розробляє наземні роботизовані комплекси, бойові модулі та системи керування Droid Box, які застосовують на фронті. Співпраця за моделлю Drone Deal може розширити виробничі можливості для НРК.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
-      "published": "2026-10-20T10:43:26+00:00"
-    },
     {
       "title": "Зеленський: рішення США щодо підтримки України важко пояснити",
       "original_title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
@@ -1503,6 +1463,16 @@
       "published": "2026-10-21T13:11:48+00:00"
     },
     {
+      "title": "Австралія та Індонезія вперше провели кібернавчання та стрільби HIMARS за кордоном на навчаннях Keris Woomera",
+      "original_title": "Australia marks missile, cyber ‘firsts’ in exercise with Indonesia",
+      "summary": "На навчаннях Keris Woomera (12–20 жовтня, схід острова Ява) близько 1000 австралійських військових діяли разом з індонезійськими; це найбільша закордонна навчальна активність ADF цього року. Вперше Австралія розгорнула та застосувала HIMARS за межами країни, вперше після Другої світової війни перекинула авіацію 4-ї ескадрильї RAAF до Південно-Східної Азії та вперше провела кібернавчання з Індонезією. Така співпраця покращує сумісність систем управління, зв'язку та планування, а також зміцнює довіру між арміями після підписання у лютому договору про спільну безпеку.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
+      "published": "2026-10-21T13:22:09+00:00"
+    },
+    {
       "title": "Оборонні гіганти шукають одного науковця-дослідника на кожні 1,4 вакансії розробників",
       "original_title": "Defense primes advertising one research-scientist role for every 1.4 developer roles",
       "summary": "За даними Army Technology, оборонні прайми дедалі частіше публікують вакансії дослідників (research scientist) в ІІ, тоді як попит на класичних розробників програмного забезпечення знижується. У тексті новини немає конкретних компаній, цифр чи технічних характеристик, тож висновки обмежуються загальним трендом. Якщо він збережеться, оборонна індустрія переорієнтовуватиметься з інтеграції готового софту на власні дослідження в галузі ІІ, а це може вплинути на темпи створення автономних і аналітичних систем.",
@@ -1593,6 +1563,16 @@
       "published": "2026-10-21T14:40:10+00:00"
     },
     {
+      "title": "Got milk? Ветеринарні офіцери армії США пройшли в Данії навчання з аудиту пастеризації молока",
+      "original_title": "Got milk? US Army refines its pasteurization power",
+      "summary": "13 офіцерів Ветеринарного корпусу армії США завершили в Кольдінгу курс аудиту пастеризації, до якого входили польові перевірки восьми данських молочних підприємств, схвалених для закупівель для американських військових. Курс допомагає оцінювати технології пастеризації в різних регіонах, щоб молочна продукція для військових і їхніх родин за кордоном відповідала стандартам США, зокрема Pasteurized Milk Ordinance від FDA. Це не стосується озброєння, але підтримує захист здоров'я особового складу: за словами Девенпорта, спеціалізовані аудиторські навички залишаються критично важливими, зокрема в у",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
+      "published": "2026-10-21T15:18:41+00:00"
+    },
+    {
       "title": "Макрон здійснив несподіваний візит до Саудівської Аравії",
       "original_title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit - France 24",
       "summary": "Президент Франції Еммануель Макрон прибув до Саудівської Аравії для несподіваного візиту, який він назвав актом солідарності. Ця подія фіксує офіційний дипломатичний контакт між лідерами двох країн. Матеріал не містить деталей про конкретні переговори чи підписані угоди, лише факт прибуття.",
@@ -1623,6 +1603,16 @@
       "published": "2026-10-21T15:52:00+00:00"
     },
     {
+      "title": "Росія використала МиГ-35 для перехоплення українських дронів",
+      "original_title": "Росія залучила дослідний МиГ-35 для перехоплення українських дронів",
+      "summary": "Російська авіація застосувала дослідний МиГ-35, оснащений РД-33МК і фазованою антенною решіткою, для знищення українських безпілотників. Пілоти повідомили про успішний перехоплення, що підкреслює можливість використання новітніх винищувачів у ППО. Це підвищує ризик для українських дронів і змушує розвивати нові протидії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
+      "published": "2026-10-21T16:10:01+00:00"
+    },
+    {
       "title": "Сісі заявив про готовність Єгипту захищати Саудівську Аравію",
       "original_title": "Sisi says Egypt will 'defend Saudi territory' without attacking Yemen",
       "summary": "Президент Єгипту Абдель Фаттах ас-Сісі на форумі заявив, що військова підтримка Саудівської Аравії спрямована виключно на захист її території та кордонів. Він наголосив, що операції не передбачають атак на Йемен і не виходять за межі Єгипту чи запитів інших арабських держав.",
@@ -1631,6 +1621,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/sisi-says-egypt-will-defend-saudi-territory-without-attacking-yemen",
       "published": "2026-10-21T16:12:29+00:00"
+    },
+    {
+      "title": "Морський дрон Sargan‑3000 збив російську ударну безпілотну «Герань» за допомогою перехоплювача Sting",
+      "original_title": "Морський дрон Sargan-3000 знищив «Герань» за допомогою перехоплювача Sting",
+      "summary": "Sargan‑3000, прийнятий у ВМС України у квітні 2026 р., має бойовий радіус до 1600 км, швидкість 40‑55 вузлів і може нести до 450 кг озброєння, у цьому випадку – дистанційно керований модуль RWS Protector калибру 12,7 мм. Для перехоплення був використаний український перехоплювач Sting, запущений з контейнерної платформи надводного апарата, що дозволяє ефективно знищувати ворожі ударні безпілотники на морі. Така комбінація розширює можливості української протиповітряної оборони у відкритих водах та підвищує ризик для російських безпілотних систем.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
+      "published": "2026-10-21T16:18:25+00:00"
     },
     {
       "title": "Ціни виробників у РФ у вересні зросли на 2,5%",

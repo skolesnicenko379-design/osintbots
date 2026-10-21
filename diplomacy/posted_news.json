@@ -1,19 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE9rcE9CSnVzd1RjTW8wYm1hNGllYm53M2RsV0pyMk1MSjBqVThXc1NlZ1FqQzVrNnVCRm5Sa09jRHJUb2tCVm9xUHpvRTZ6M3N6aVR2NExhWlVwUEdaUmI5V0QxWXZ4b280MFdWTGhmSGE5NU9PeDgxaC0yNGNwQ0dDZjVIaDFQQzJOcW5rRW9meEhJbGNDOG9RekVPMUN0TXdya3NVNUxLdUk5MzdXVGRLa3lLQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRG94M2piZUV3NVhiY2otYm1TZlViSExwc1pFd1V6ZkpwY2hqWUdpYjVldzQ4NlRFdG00TG5HT3Jrenp1QjdMdjBiMTQ5OFlORDBqM0liRHBoYzN1dE1RUFp1NWRBWFZxVDk1UTBvV09JR3B0RzZCc2JzZlFrbTdUdUlpdVRCODVDM0ZCaFpuYlpVYTFpVFVCWVZsRFZkaElBODY5Ymo1NHVIZGN3LWxIR3BzN2huMkQxMDZ0TDY4VTVFOTlnZUdDaC15QXdzclpTV0d3ZGJR0gHWAUFVX3lxTFBYbmM5aVFiTk5tQWFlOWZVZ3MzMnNGclBxNS1rZENQdkRhdUVIVE4yZkZVTnlKYkZ1REEwRHJKbEtlUW16bE52cTBfazhrdjhjQ0lSUzQ4UWlncTV2cDNOUWRWUGtnRFNlZ1diRnhZSEp4YXFxcl9zal9RazJjQ3lYdUt4ZzE2bEJyVzdUQVNwVC1Ld3BEbkg1T3lDU2xBV1V2Q2NuUmlFTUNKZ0hla3c3Nl9kMXduNGlvTXNsWWsyaUxhMkMyVGVKTE95cFdMNjFuRnZrd0E?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSjZ1RG03ZURzWVFReklaOG9jdDJpY0tRcUVPS2dyeWd6NXFxTzNVNWItSEtsX2FQblVhSHpiUWJxdHhsNW1Jdm1naU5PN2F0UW4taGxBazZ5WFFVa3EySmthck91S2FJMlhVU1UybTlZRHNSZnAzSkVsS1U4VkNqbFdnOWdKbG00ZEp0X2FmZ0ZISXJ0NGZOaUFmQUEzTWJXbmhJZDVxOFdXcVJmMUQtNS1qUDVkMm4xM21sX0FJUThFaE5BdEs0c1VRbjRrR193OFNLYmh6bHU0bG8tWi1qaEN1aS14S0VUNmVrRVBR?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHV5LW12LUlQLXVFa1hHdG1NZGREWFhoQnVQZFl1RHN3TGVDY2Q2TEtXSk1KR2RKTzJxRU1IVEpSSUNaNy1Wd3gxNW9NQ2RxMDRuMk1BdXc4NjRsZS1lWkhJeTNsZ05yd1B0WFJ1Yi0zMFpwdnhRWWx2NmlvSXNNVU9iS3JiUWtmX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXhsclNGRkRtNGQ5Zkl5enRZYkpocWRxNVcyZ2ZIVkt6dGlkeFAyNUxWMGNMdkhVYl85dGV0OXJ6OGl6U0pjSlotbFU2STJ6T1Jtdnd4WGh0d3RkaW53YUwtbjlBWm41YlRlNGpBNEJ4WUxGOXRoSDNjUDNqcERyM05jLVlRWlRhVUcwM3o2TGx6b0hT?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/council-approves-conclusions-on-inclusive-democratic-participation-and-societal-and-community-resilience/",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGJtTjhsUUZXeE9kb1BZd3JwRV8yaTh6TEpRa3EzMEVPdUcyNjFpY3FGbFhLb2hhaGpkakZ2X0RZa0xjd2x0aE8zQ0Q1dW5MUGljQUhzM250VTdSRkx2c3V6dnpMTFdoZm9zSXFsRjBkempnckRkdUJ6UDlLcmJndHg5X3VETWlHTENQaHhselR3STl5SVVzaENmUk5LaVpnMDcxTnZuNW5IdWhoeEFTUnpFXzhqenZKTklEQzk4Ml96VnZKQ2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnZKdGZDVEJIZmx0NDd2Nm1Bb3NqM0tKWVBPRGVSV0E5LU9DMVF6RDJJcjZHY0ViY0RTWUV2bWo2dW9QMGdrUXY1VC1fNzNKZG9wVF9uNVRlVFlrWTNrbGd4aXJmc2NnQVVfX1dBOTRNU2xDcHNzc0ZsS3BIOFkyalFJN1E3NHFVUkwxSjRBNEZtd3h6RTY0YUM3TGp4Qi0wYzhweklUcGM1YlU?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlhabXlCZE0tS1hVWjhxVzIzSnFMN2c5cC1BMWx6TlAtUU5MY2tKX3dqZkd2VGZOR29fd2p5MDJndXN5NWFXSzRXd2NraE05alNPY043ZTNiT2QxelE3aHRSZGlsUG9qMmtzWjU4S0oyakhzN1VzZWFVYm83M283dldBTWZ2MEp1YlZ5OXR2Y3FQd25fZ0o1ZEdyZUU5VVFERlJ3VGFBNzkwQ1pwc2J4N2MzNFRldTR4aWFNZzJtYjHSAcABQVVfeXFMTVc0bkkyWFlLU3VnSF8zOXVaaUVvZTFiRVJkVktYWFJoTHNJdHlwcm9XY2s1Z3ExU0N3QUZvLTNGeDZvZVp0a1dhdUNTeFRSd2NZeXl6bS10N1ZvbkhRTXMyQ2dHZ2tKQWY2em5vOFJCam1YU1FXb3ZuaUs3SVhISlFfMGs2UXdoc2VWd2FpM1VhdWtQRF82RC1JR0RSeWZvakxwYW94UGliUXNoZkhUR05LS1g2MlJGX042bkd2ZjVF?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORW9KN0hsbVNtalVZcjBmLWhSOHhSRE1fanZjMzlkWmdJMERYbW51eUYxTFlCOGwtd0R5ZWllVVptTzBVbENMbkt4c3JfZTVQVS03ay1pZ1VCNnJOZDZZWXlxRFE4Z1c3Q2VVWTJibU5ERFpNekxmRTkxOGxBM2ZHWllIcm1Jb2dPOFdKLV9BM2ViU3FQVWpBSjJqOWdCMlpZLWlmWVNsZGJIT3NDTTNfOTNmTHF3Q2lJd0JhTlF0eFdWeERkaWV4T1I4bw?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQk0yOUU4ZzhxUm9qUld3NWUyd0FQbDFBSjc0SkhwMWszOThHX183b3JPeUp6Q2dVWGduRjNtUjRab2xyb1VsdTZjcW5zb0N3WUtjQWFQbm1sNzhNdEYzMFVaZWxhdmVwQnJDZ0p6QlFpUVdFbDNIdE4zOEZoZHFMN2NaMHVaRWxmb2hjaklid2JtV2xISzMtbUJRVnNQNDlYbDZsdGZobTJxOVpWUmtJcGVheVVMV1lSUXlQTmR4ZlBucnlsdENFdU9sVHIxZTFWcnozRGZ2ZFRTdHNPWUNJT1otWWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeFVBSXdkTXRhTGhCQVoweVlSR2xzYUNpUzZZNE43dDh4MHVmSi1oajM4QzZBekxpRXc4TDhVMGVzck9ZQkhKRUR0aXdDaFVYVDZFbWw5X2UwQkJYYUxUMnVhVE0taUR4R1drekhsZlhOckFkaFFMUlU5Y2NJWHUwNHY0REZvSGUxV253SVF3VEpfaTlCX3QzOUpOVmtwSFltRXpzaXk2S3VuTFZqbDVaS21hTS1JdEZ3dHA5NVpSbkRQTmlad2tDMTczT04xdW02eFUyY3gxbVh4ZW5PRmJUQWlLblRNTUJ1TVdIWmFuaTdERHZOOVB0UmdaWENBUG5BVlRSSUREUUFqTXYy?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEw3dzBKaE80ZGJVMGFPRk0wY1YtMGc2OXZtSlBrdVZIUlQxVzZTTDNQYVlWc1d3Q0lIT2NxVjM3VU5IdWlqRHBfRndxanhQcWNwaVZRRjB6MWw1YXoyRGJWYkxtSDhVX1R3eXFpODVTeVZxdW5NVjJzRzd1T0pxYXVmRE5aNlltbHl5T3Z3U3ByZ3JlV2taNllQQTBpWVNHTnhyTDdjSDdueHhINWNNNmhZNlFhRV9GT19Qc3lEMHdQaDNoUEJYRk53?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlRTNUJKZGQzbzVqWXpyUzdSeDAzZWlDbHljTEtxRU01MW9PcjN0Y0hPLXp2dGZwTGxjb1l0clFaWHcxT0N5RWNZMWZXZVFNeUR4eWF0SUkyWXVlTlU5eVV3VjdCOUlKZzFNYlNxc2NMUmhmUGxOZ1pkc1E4dTRYMmVxeG1GaDRzdEtQTXhwUDRJckgwT1I4bWducF9fRUVXOWJwTXdoWERrQnB5VmRIRklxS1dpbWtQWU8xdm42YTZ5R2xod1RkbldZa1NQYnhLNTd4NW9RSnBOYmRya0VEMXhlaTg?oc=5",
     "https://news.google.com/rss/articles/CBMitgJBVV95cUxPS1dyVVNvMEFabUZwYkZxYTZscmp4Z1AxMlBkdlNjUmxZNlJnMlY5ZTZ4U2hEQ2pNdTdobXFBSHh0NHJ1Q3hSd1FRa0ZYUjBDVnhyemt0Nkk4S3hVQVVma21sdUpVbDk0Z3VibV9LV3Y3aDlLUDhyTGEwTHg2T3kzbERIYXU3VkpKTVhMU2VvUUhYZTZUWEczOE5SVWdFdHIwdGtCdjBGd1pUakxNa0N3c1Fjb0dOc2ZOZUFQNVhOWmk4bHlrcTBfVmFtNW1sZGZybUVDVi1VVXAzTUdXQzduTS1aNmM5NjA5V3lFUmZDOEoySVI5cEoxcWxEMTFYcHM5NVlFUjdvd2VUOFBkVVJWOXlfOWNLX0M4MDl3TTUwS1lNY1pYaFNXVHo1ZEQ4MFpBcGtpanZB0gG7AkFVX3lxTFAzd09UV203eGR1b3c3dm9JLVBpZ2xtVFZIR1NxWGd5LXpIaXEwUmViZmVlVURab0NtbHJKQi1IcmRScEt0Q1lnM081amFSWVZ6bVN5bjV3OHF5ZjBmVDQ0Zkp5cjNVUzFxRi13NEFBOUtvQU5ZenBGOHdwZGRtNGgtN3FIQThldFdiTkQ5VVgwSzlGUWgyak96Y09xdXlEWDFoS2N2QlF3bHViSUl2SUswckZ2Njk4YWtFSWZOS0w3ZHROYW93Y3pDOXNrdmROWmpyRHlCQkxvel8zUGtNX2Q2YV9XSVk1Qkc4MV9hOHpVV1RkS2REajVJbEVxYjM5RUc2OVN1amU0UTBrZTVOS2JQMmh1M19xZnd1LVpkWGk1Mk9pdGFYaS1JeEg3R2J6elZ0NVMyLXc2U0wwQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG9ERXExXzNhdTZFSy1ObklpLVVrblpwM2NEWEJnUjIyVmUtT1dtNTd4UVlsX0hpb2RDOWpjZmJfcEpibk5fWmx1QjhseF9feVhJeU95UFVsclMwUGRCSjdRYTlpMXJ2ZGk0TzE5OEhnd1FTLUo1M2VpN0ZzeThTMkEtMU1ldjBZMVBhUjJ1LUpsZ2NXcGEtc256dmxlcGZVS1pta2xGLWtaQk53R1hUSUg5YldhOVBhbktwT203ZmZoai1HRFZnSWdBSkp4c3Nja0R0Q1lUaw?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGFCQ3NDdFFmVUhNS01qNS04T1Z0SFhudVRKV010MVpiaGNzTkFxREZySWtCcnpyTjhWTm5PU2JnNTJvaDBxNkdRT3plTkxoendDdFJEWmJzTHFXRnV5M05jTGVQNGpEZG1kUEtjTHJGU0hfcG1HanB5bEh3UmVUYVJ0UXgxZFU?oc=5",
@@ -1199,37 +1185,23 @@
     "https://www.gov.uk/government/news/major-investment-to-drive-growth-and-jobs-across-britain-as-sultan-of-oman-visits-uk",
     "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-orders-sheeb-crossing-closure-more-shutdowns-loom",
     "http://www.africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan/",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHdxd1pSNkVDLTlKNm5BYkk3bl9WaWpmMTZXcy01eTF1RzZpU28yM2pYSzgwOTlnVDFGWWZVTGROX0FFTHEtS2JWdjhlWkdJcmxsZzVlVmM3R1otVE1tdU1GZGJPaFVvcV9acXRub3NqUEpDdG11YVBoamdNeDdBRzQ5emdZQkJ6dWc?oc=5"
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHdxd1pSNkVDLTlKNm5BYkk3bl9WaWpmMTZXcy01eTF1RzZpU28yM2pYSzgwOTlnVDFGWWZVTGROX0FFTHEtS2JWdjhlWkdJcmxsZzVlVmM3R1otVE1tdU1GZGJPaFVvcV9acXRub3NqUEpDdG11YVBoamdNeDdBRzQ5emdZQkJ6dWc?oc=5",
+    "https://www.theafricareport.com/434060/us-midterms-5-questions-on-whats-at-stake-for-africa-if-democrats-win-congress/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaENGOEc3LXlxbThzSDVIZ3ZtSTMyd2VodlpOOEg0TjM0dHpJRkxTZ2xoWEhZUmk5WHVudmp4cGZBaUNtMnNCYzVjN3V3LWUxTjhfa0x4YjI0NXVURVQ2bkNkSlVfLUJ5aFV6eXJkRm5MOV9JRDg4aTdsT01nLWtlb3ZiLVF3TzhOTlVlcTRlaVQ5ZkNSbFJxVU13aVc1aG5TSTcwbnFsRjNseG8?oc=5",
+    "https://www.theafricareport.com/434067/massacre-in-mali-islamic-state-militants-kill-at-least-48-civilians-in-menaka/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/report-by-president-antonio-costa-to-the-european-parliament-plenary-session/",
+    "https://www.middleeasteye.net/news/hsbc-review-islamic-funds-38m-investment-palantir",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-reports-heavy-fighting-houthis-southwestern-yemen",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU3pBb0hzRVkwb0paQ0lyVFFzUFpQT09QaEUxS0w1YWMzMGRjZTFyaUZFNG1SYnRxalVTVXBjWktRakN2REFEU21QemVqSWhLUnVIZVVJOEdQV3Utb2gzNmdYNGFIWGgtazQxYWZzY1MzSEl3SHRCWGN0OUp6eUlTaTlRbEhGOURieW5reWM1TGlBRmxqYmFjU0FKd1gwQVVaVnVuNkMtQ05tTHZtbi1ESzcwcjNWRTZ4dDc2bk1IMnlFYjlLeE5YWVpIUzZzcU9OX2U0LWVPa3JTU25LblZ6ZHVTamRZV0pFVXFpS2hVUjJVN29kLVNUeVlRbmU3QQ?oc=5",
+    "https://www.theafricareport.com/434068/zimbabwe-mnangagwa-deals-blow-to-chiwengas-presidential-ambitions-as-tagwirei-rises-what-next/",
+    "http://www.africanews.com/2026/10/21/gambia-to-use-money-from-sale-of-ex-dictators-us-mansion-to-compensate-victims-of-his-rule/",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVVkYzF6bmJENjFXUGR3Zk9COHdqLTd4QUpWZ0FjVExMLU5zOHpDT1FQTTFLM3ZsLUNZOF9tNVEzdXFTWUdJaVRvUl95LTJiMTUtOHhnRWZJQ2FsMEFjdE9ROXNrUW1fQ3BtVG4tdUMtOGxuSjZDZ2lfSm15cWM3aFYxVmlmNHdUcVVORS05cExWN1Zh?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXV1ZV9sSWhsSG9WOU83bDhqQmZyLUxDZm1PU3JKS2hXeVVvdkdHWGFpRnN4T1JkQ2d2eV9WZDNnSmNIdGkwWXEwSXpidF9ZdDRneGRRUzE2bzNFQy1Vb0l5ZjI3MEhnLTZVX1pHaUd2ZjhiaEQwYTFEZWlaby02Tnd5dGdLMlhhN2dsVWJnN3ZFUUhLRl9XMURsdFJic3RkMXZYdG8yb1h6R2lMd24teUNMTzNza05tMFZPbkdsaGZTa3MzaVE?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK?oc=5",
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQYkhuU0UzZkh2Nk5kamkzdjBJRU92dy13UzkwdzNWRDRvS2lVTk9rQ19sY1F6Z3BWREN3NW5JQzdJLTlfbjRlMllZMWhieXJmUUVLZ3FmSHR2SVZRQUp6NE5TNTlodm1JSTE4VE1hMnlzNjlVbTE1eUNTc2FCQXktTnZMY09zRGdqMTFBV2tMSWJsZEFVejduV0h5cVNpRWVhRE11WGMwYlJOajFTbDYtN1JqTGFpNHVFdXNFYV9CVXVmcmV5OUQ0cUo4VWZndjFWZ2JBa0xKalpBQ0h1Nzl0R3hERUwzd0VSMkU3TjVSQXlHUENmdHpFRU1FOU1qNXFjU3Zn?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Великобританія направляє винищувачі для захисту Саудівської Аравії від хуситів",
-      "summary": "Міністерство оборони Великої Британії оголосило про розгортання винищувачів Typhoon Королівських ВПС для виконання оборонних місій. Ця діяльність спрямована на захист саудівських міст та критичної інфраструктури від повітряних ударів хуситів. Офіційно підкреслено, що літаки не здійснюватимуть наступальних ударів по території йменуваних бойовиків.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-20T11:12:40+00:00"
-    },
-    {
-      "title": "Ван І провів спільну пресконференцію з міністром закордонних справ Болгарії",
-      "summary": "Керівник Державної ради Китаю Ван І провів спільну пресконференцію з міністром закордонних справ Болгарії. Під час заходу він поділився чотирма основними висновками зі своєї поїздки до Євразії. Ця подія зафіксована на офіційному сайті Міністерства закордонних справ КНР.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-10-20T11:56:00+00:00"
-    },
-    {
-      "title": "Філіппіни підписали кредит АБР на 90,8 млрд песо",
-      "summary": "Міністр фінансів Фрідрік Го підписав кредит Азійського банку розвитку на 236,64 млрд ієн (близько 90,8 млрд песо). Кошти спрямовано на заходи, що пом'якшують вплив конфлікту на Близькому Сході на економіку країни. Угода офіційно підписана урядом Філіппін.",
-      "source": "Treaties & Agreements",
-      "publisher": "Facebook",
-      "published": "2026-10-20T11:22:17+00:00"
-    },
-    {
-      "title": "Ефіопія попереджає Еритрею про серйозні наслідки",
-      "summary": "Ефіопський прем'єр-міністр Абій Ахмед попередив Еритрею про серйозні наслідки, якщо вона продовжить підтримку повстанців у країні. Під час зустрічі в Ефіопії він застеріг, що санкції можуть бути застосовані, і закликав до негайного припинення підтримки. Еритрея не відповіла, але заяви підвищили напруженість регіону.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-10-20T14:08:23+00:00"
-    },
     {
       "title": "Володимир Зеленський прибув до Осло для зустрічі з представником Трампа Віткоффом",
       "summary": "Президент України Володимир Зеленський прибув до Осло, Норвегія, де має провести переговори з представником адміністрації Дональда Трампа Джоном Віткоффом. За словами Євроньюз, зустріч запланована на найближчі години і стосується подальшої координації підтримки України у сфері безпеки та гуманітарної допомоги.",
@@ -1411,6 +1383,34 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-10-21T08:11:10+00:00"
+    },
+    {
+      "title": "Турецький та катарський міністри оборони провели зустріч",
+      "summary": "Турецький міністр оборони Ясар Ґюлер зустрівся з катарським заступником прем’єра та міністром оборони Саїдом бін Абдулрахманом Аль‑Тані, який вітав його військовою церемонією в Міністерстві оборони Катару; під час переговорів обговорювали двосторонню співпрацю, про що повідомив офіс Ґюлера у заяві на X.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-21T10:26:09+00:00"
+    },
+    {
+      "title": "Рада ЄС та Європарламент досягли попередньої угоди щодо реформування ринку ETS",
+      "summary": "Рада Європейського Союзу та Європейський парламент досягли попередньої домовленості щодо цільової поправки до регламенту про резерв стабільності ринку для системи торгівлі викидами (ETS). Це рішення є частиною кліматичного законодавства ЄС та спрямоване на стабілізацію ринкових механізмів скорочення викидів парникових газів.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-21T09:52:54+00:00"
+    },
+    {
+      "title": "Парламент Вірменії обговорює ратифікацію угоди TRIPP зі США",
+      "summary": "У парламенті Вірменії обговорюється питання ратифікації угоди TRIPP, укладеної зі Сполученими Штатами Америки. Цей дипломатичний процес стосується офіційного схвалення домовленостей між двома країнами на законодавчому рівні.",
+      "source": "Treaties & Agreements",
+      "publisher": "Latest news from Azerbaijan",
+      "published": "2026-10-21T09:03:41+00:00"
+    },
+    {
+      "title": "Сербія підписала угоду про продаж NIS угорській компанії Mol",
+      "summary": "Міністр фінансів Сербії оголосив про підписання угоди щодо продажу компанії NIS на користь угорської корпорації Mol. Для остаточного завершення угоди ще очікується отримання дозволу від антимонопольних органів. Подія є офіційною економічно-дипломатичною угодою між державами.",
+      "source": "Treaties & Agreements",
+      "publisher": "Agenzia Nova",
+      "published": "2026-10-21T08:16:44+00:00"
     }
   ]
 }

@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZM1E3eER5amRMQV9TYVZNeWVLVTRqWnBucnVFMFZDc3JsaTBnVkNsZEVRVndjUnRzdllrRWtCeEVOYmlOVS0yUm00eGJXY3FiU19fQUU5ZVAyaWJyMjZqTHpWZ1Q1bHVLLWt2clFZaVdlU0tsMnpVQkl5cw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JMUVCY1FDWVFJc3JjckNQRjZyYjc3OENFVkVfQWhWbDlZdURCZTd6YkZKcTR5T1F2NXRGOUdKckhrWkJ3V0ZueEpCVm1XMlFYNDgyRFlyd0ZSdEF0?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLUZRYUNOMlB4SzIxdHNZNk5XS3BVTUJ6VTc1eTNERW9pcVNwVTRNa0lFRV9LdHlSODNrbWE2cUMxVDcxMEVEd2NyTzF4YTFFUTBYZGVPR2toVUtrZ3lDSUVFbzFSdXkzTlpNczEwdW4ydGJIbXF3MjhOcEFhb0QtS0dwd1NFcEJ5anlCNUs1R042ZUpJbksteS1MVEkxMlNMeG1YeEUyN1FiSFVSbERubGtCOTA5dWdIUmpZQmp3MUhQUXRYbWZjdllqdEpEczE1SGdfLXB5VFRzN3NtSGxKZk96bjZOVk5IanhoNmJrb2std05INzdrUWd4czRxSXR5QnFVaEpEaTYzM3ZSaWdEUkNGLUtGbGpPeEliTkNvaXhLRjFuaTlKLVJUZWZCMHF3VnFmbFdvZHFUU0NIZzUtNA?oc=5",
-    "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjNrSTdPeS1CSkJiZTJvdU1yQnRYUUNJYXh3eG9yZjE5UlJoMHpkdmJKejhUaWtCeGl6M1pPdTFZUnA4RXVGR1JzZmhtRzUtdkhmQ2NuZmZ1aTZtdkhGbzdJaVBTaWlKUHVwZXRYaVR6UnpjajBtd2VfZkVaZ1JWLXhTT1o1MU5YaVptajhMbEtkblBZWnNlWGhpbVp4Z2xPWmxGbWF5NGVSM3hZNzE2T1V2NmF4UWE4a3pRV3F6cy1VaW14ak8yWkI0c2JDSnlESVZXazVLNU96NmdpQmdkdVZKdUczNDFjbnFLYXpjVlFCVDBCbGRtdVBTNVBHLUtkdXpRcEg3S001d0JEMV9idy1n?oc=5",
-    "https://www.gov.uk/government/speeches/respect-for-syrias-sovereignty-and-territorial-integrity-remains-essential-for-long-term-stability-political-progress-and-economic-recovery-uk-stateme",
-    "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXRMaHJVY21MMGQydjQzNGh2cXFSUWpIaUNac01nWi1JOWFqV1BmRXJFcVl5VzZLUjZTRHVIYlFTNVlWa2hnS0F2VktXa0lpWUw4aHYxN2Ywb3ZYRHJhN3RTUndZV0w3VHJPS3BxdlVsbVRiR2xEb3NTOUNQYm5wOXZ1ZFNvRW5YS0E3VjBab1VudnljVHVGM1ZvSlp2ekY3TTI2S0IzNmZmQVV4OVhYNkNhdTNDSjJ5M0pBVGRpMkFRT0daQndCc3JWMkVRaUxBcE1KRW1kazF6ejdqeEVZcHVVWG9CMHRtYzkwTGpRX2puX3pYS3Ryc3RtNGs2ZjVoN1VsNFUxVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Vms2RXlONG5xTGsxZldxWG5CRUNaSW9jWW9qRkNsdlJUM2JESGlaNnFnaHVGdGVoYnVYa1NDSTNUWHpzOEdpT0U5cU5TZ0RoMVk3N0VfX3AyNVAxWnlGOEc5U1ZRcEluc05ZMy1DcU9CaEVJN0VCSEpXbDI?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb29sVzlZVVlNMFlyZEU3WmlEcUVzdF9oaTRMTDVaX2JBUWl6RmhCN3VPUVlkZFAyYXRrY3Z3RDZqUEYtRlBiMWE5anR5ZnM3LXRORTllUUNPcEdvZzFxZ2JoNXhzdGczNFB4WURWN3dJT3pZczJMSzBZNVlLTmFMaUpMTEtfZkdHdHNpY2UwZ3VSVENNc2NIODFqb0dkbWRWc0tB?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wbm5VTERTSE5pNVA4OU1mZWVrbjRrWE16NzFHb1kzdUJGeXFhOGtqNHRrUnRpcTVUblk1YlY5cFFXSC1sU3FDaFJkTHczdXVOTjhnR3RPZzJUQXEwc2xnaG9SZU9BdE5OYkNvRlBjUHZVa1ZQYkN2WkhtMA?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMzJkckxJN1lTTzFyUFhMbU1tbktLMENqdzRVRUMzY3o4a3ZpYVhOci1va2xoUkJUbXlPMmNUTFFuN2xIZ05MUHlqVnpwaFpZWFNVa0RCS3lkQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRGpRM1k4cGNTUUk1ZmMzYTVCSHA5TXpxQ3BlbTJSLXVKX2pzNmJSYzNRV0NrVzlaZEs3emlQVE9aUkVVcjgzVFVLUnItRG9fVjljOXBjNA?oc=5",
@@ -1199,23 +1191,17 @@
     "http://www.africanews.com/2026/10/21/art-as-dialogue-kokou-ferdinand-makouvia-at-the-lyon-biennale/",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPekZtaWlvb1kwVGs1aHhGeVAyOXptRzFqc1pCWWFwaUNTanJ2WHZTaXVfLVFkYWxCbDlhNGZ1R0QwaFg4WUVPN3JXR000UzhQem9SUXdHc2lsWWowanZGa0didVZhbndXbnRCZ19KLTBUTkY2T3cwbkx6Ry1QX0NNbjlJZU9CVU9XMFlXWEhWOG5CNHhuTk0wQ3JlazY3emRua0pvbFhiVFktQnlQS3dyeEJrTlM1Wjd6TTdZNU41UG1fd2ZUdmxGY3pyOW14ZjdmUGItOWp0b0lEQ2p2bzA3Q1Bwd9IB6AFBVV95cUxQZ09GMGxja0RzQ3d2cjNQN3NDUGdRcG5sU3MyNElHTVF1UGFDQW1NTFpvNVFQemdxem9DbnZHRHJpNVlpMHRkbUx4N1F6MVk3ZkhOWmJGZ0V5N0prdnFmVXE1RlU4UlpwTEFrYVVQOEJrWEhxUlNKX3VOR29wdlcxeUp1eGJmMHgtRWQxakM0cUZCTFRibTJ4R2lvaWl6Sk5DSHhXQXowMjNIeHdxRDAzYTViYWZibl83d1dpN3N5TUp5Y1o1eVhxVzFMcy1QVFAzek9ubThpUGVjNTlFM3JwQW9jeU44VEU5?oc=5",
     "http://www.africanews.com/2026/10/21/south-africa-cuts-fuel-levies-by-r10-billion-as-becord-pump-prices-squeeze-consumers/",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDhlanR0V2dTaGtkWXdDVFFTaENxOHRvQkNXUnZaQ3RjM012TktMekRfYS1QNUdQaVFMajZuZFI3OGM2Q0QxZzRNWUtiVlhiQld4SjBWQWpCU1pnZ1llYkZCRE5Md2xmazBaUjRZU3poak81T2E4ZThSVHcyM0tpa1JuTDFxVEExWUlvU29ZSVZxcm5FLXhFLUtGVXR5UUdTYWcwMkJyQm1sbVE?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDhlanR0V2dTaGtkWXdDVFFTaENxOHRvQkNXUnZaQ3RjM012TktMekRfYS1QNUdQaVFMajZuZFI3OGM2Q0QxZzRNWUtiVlhiQld4SjBWQWpCU1pnZ1llYkZCRE5Md2xmazBaUjRZU3poak81T2E4ZThSVHcyM0tpa1JuTDFxVEExWUlvU29ZSVZxcm5FLXhFLUtGVXR5UUdTYWcwMkJyQm1sbVE?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/libyaturkiye-statement-by-the-high-representative-on-behalf-of-the-eu-on-the-ratification-of-the-libya-turkiye-mou-by-libya-s-house-of-representatives/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-sirik",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-drones-targeting-saudi",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/us-releases-new-iran-related-sanctions",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeV9LZUx6UlQ5NkdKeFo2a0NXYy1yaUllMGRfT0RWZnNyWEF3SG9HNW5pRkRMOGQza1RPaVJrMVN0YXozZGhZbjV3Tld3QnFhaTRwd0xXdi03ZGI4WnFiSVJGU3NNa0pucTZZNHgya29ycGhCc3FwWmhKbUFPTzE2cUt6WjAtZFIyT2hwMHI4dzFiNjjSAacBQVVfeXFMTXkxOVktZWZaN0NleklpYkROLTZkVHVXYzJQWFRxQ0pjRU1NdUNZdHpVUnlZMTRBVzVUTUdpSXR2ZmVaWkl3MUFXTkZfSm5MX2FyTHN4WnFWcnFON2s1dWJiX29fZFhZTUJLRlpObVg1ZlpjVkFLYzhoMDA5UzduNTY0LTVIZDZOdVJ6Vm1idTV4R2Q0dUhpclFhSkRheDRPY3o1TlhnTU0?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw?oc=5",
+    "https://news.google.com/rss/articles/CBMivwJBVV95cUxPYW5KM1Byb1U0SE5MbnVzUUxaeDRYY0pMdXA1dFBENF9ad1ZDVGZQS2NrcThxNkFoVE1RVmp5REN5ZVk2N3dJb3dTRnhpSGJ5X2F6YzNyOUt2U2lmd3oxTzVxUGV1Wm8yVm43YndiLWFQT1NMcGp5NUZxR3ZqT3puOVh0QlRTMWRXVk5YNm1TZ2VEQjBhX0tpc1N3bkNpZnAtY2syZTY1UW1OT2tlSm1YRW83cnJBSWoyaUtqbnZvbTduUVJBSC14TWVhc01SWXYza0JUNWJmaUFnY3ZaOFQ1RF9TdU13NmJDb2FKTFJUWVdEb25vM1RXd29XRVpwTExacWE5Zm1ScUxRYlhzdzZObjFFYjJrUGxReEQwZzIwWlpEY2YzSjJlSGdza0ZncVRrZE5zV1BUc1NQQ0ROU0Zv?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWmdfel9jazV4ZHRXMDJMektyRkdvZ3U0Mi1FYno5Mi1ydjVPV1pvWWJjbEptSy1zaVZoNmFzeWtXck81alNoZGZ0OEgtS0hvZ0ZFeVNXTm92WlRDWS1KdldHRVNHSmgxQ3FKUHhoOW9KdUFtbnc1eG9XT0hSR0EtRzAxVEhYWm1fTC1FakMwOXN2LWNtTlFFWGVzVU02b1g0MjJ3Zk04emVrRlpESmpEc0JrT0RMeG1kOVUxMUVHc25VZ0QxS0ZubUJOTWdWeGFjNDBCTEluOF9adTByS0Mtdl9uUlBsM3hJTXJHZDlXaw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "В'єтнам та Данія встановили комплексне стратегічне партнерство",
-      "summary": "В'єтнам та Данія опублікували спільну заяву про встановлення комплексного стратегічного партнерства. Цей дипломатичний крок підтверджує офіційний статус відносин між двома країнами. Матеріал фіксує конкретну міжнародну подію без додаткових економічних чи військових деталей.",
-      "source": "Treaties & Agreements",
-      "publisher": "Nhan Dan Online",
-      "published": "2026-10-20T23:55:07+00:00"
-    },
-    {
-      "title": "Австралійський міністр закордонних справ відвідав Індонезію",
-      "summary": "Австралійський міністр закордонних справ відвідав Індонезію, зустрівся з індонезійським міністром закордонних справ, обговорив співпрацю у сфері безпеки та економіки, підписав меморандум про взаємодію, запланував подальші зустрічі на 2025 рік, обговорили інвестиції у інфраструктуру, підкреслили важливість двосторонньої торгівлі, обмінялися контактами для майбутніх переговорів.",
-      "source": "Treaties & Agreements",
-      "publisher": "Australian Minister for Foreign Affairs",
-      "published": "2026-10-21T04:34:12+00:00"
-    },
     {
       "title": "Посланник США прибув до Росії для переговорів із Путіним",
       "summary": "Американський посланник прибув до Росії для проведення переговорів із Володимиром Путіним. Ця подія відбулася після зустрічі президента Зеленського з представником адміністрації Трампа, яку охарактеризували як позитивну. Матеріал фіксує конкретний дипломатичний крок між США та РФ, що відрізняється від попередніх візитів до Норвегії.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "The National Herald",
       "published": "2026-10-21T16:48:17+00:00"
+    },
+    {
+      "title": "США ввели нові санкції проти Ірану та пов'язаних осіб",
+      "summary": "Департамент фінансів США оголосив про нові санкції проти Ірану, включивши п'ять осіб, чотири організації та дев'ять суден, серед яких панамсько‑грецька юридична фірма, і надав адміністративний запит щодо грецького банку, підозрюваного у зв'язках з Іраном для подальшого розслідування.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-21T18:07:16+00:00"
+    },
+    {
+      "title": "Президент Гани оголосив про переговори з Європою щодо репарацій",
+      "summary": "Президент Гани заявив, що країна веде переговори з європейськими націями щодо виплати репарацій. Це офіційне повідомлення підтверджує ініціювання дипломатичного діалогу між Африкою та Європою з історичних питань. У тексті джерела не вказано конкретних учасників, дати зустрічей чи підписаних документів, тому деталі обмежені самим фактом ведення переговорів.",
+      "source": "Bilateral Meetings",
+      "publisher": "Financial Times",
+      "published": "2026-10-21T17:43:17+00:00"
     }
   ]
 }

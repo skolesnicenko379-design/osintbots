@@ -57,8 +57,10 @@
     "https://militarnyi.com/uk/news/prymary-gur-urazyly-tornado-s-buk-m3-orion",
     "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
+    "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
     "https://militarnyi.com/uk/news/ssha-dozvolyat-chastyni-tankeriv-tinovogo-flotu-povernutysya-do-legalnyh-perevezen",
     "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
+    "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
     "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
     "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
@@ -108,7 +110,6 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTgzQzNPS0pxa01CNVFjUVMwVVhTMkJNeUJNUjhpemdzTDVycHh2aHdOeHQza01GQVotOWhwdWljZURZQW5rS005RFlrUXlEeFpGSW5jRUVqTGdpbFN2b2tJZEJvWk1vLXpiZ3I1RjFodVVIczRpVVZvcjVMRjVFMEtIQVJqR3lLVTRZOE9fOA",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNUc2xhUmh3RVJOdHhBUVZVZEpEYTdRUnhCN29lbVJLQUJvRU1ZREFucEFEQnhsZ0o4Y2xBakotcGFxeWtvbzJyX05pcFJTS0d5dHBrUkpEcTJCLUwyWlFtQUU2MzB1YngtSXFPMlQzUHVHdVAyN19sVG95RTNQN2w0ZUpyQndfYWgxaTdGRldIcVJH0gGXAUFVX3lxTE1ZQVhXaVhlZUJIc0swNklZX3hzWXJLY3dSTV92V3U1MnRRS1l6bEhRREw5bnFYZlp4ZDBJQ1ZXNnhEY0dwTlN1cDNnZE1SbDRkemhvTTdUNkhiRy1ONDlhbWpPSG5xd3VNMW84QjlWM1V6aG1ybUc1ZnZvY0V6VWp4b3pnRndka0lsUmEyVllqNUx0VXpLU2c",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR050VXZHclBzamJBTkQtNVd0amVkd1J4dlZISktTSlU3bDdaRHg1Mm1BWVg4cjhoVnlPNHRaTEFFdE5XZkY1UjRMT0ZwSHIyVC1SdmptMzB5Zk5TTG1GNkFJS2QxNEV5UHpQeFgzeVpobXBQOUU4OVlrRjB3Uk9vaE5ORmRweEw2d2RNZUtoZGV6TnZU",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEhRRUp1M1YtZkUyWHhMX1cwUl84QUNEMWVwSXhDSVltUWlCQUhiSG4wcllhNVJvYjZWVGEyVnREYzlHamdLTklvcWdUM0FIZ0NGMnVILXRnbl9NV1cxSFd0bVVpVnkyLWtnR3ZuWmZzdlRPelh0dmhMNUk0RUhHTlR4WEFoejdUdTRFQ0NKekhTUVNwRlE",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHdGbXdmMk00ZjktY3ZHd1JIbTVEeFVRaVBKLTg4VTgwaklBZWxyZ213X2pmMFhWZmVkRDYwZ0xTaDZadFVsRWtwUHNBMDZLaGIydmNGOUg4M01uZkR1SElJWFZGTHpLRWtjNUZ2aE9pYWZzRDJvamFsVkg1azFGWWpYVERFenppTzVmbE5EQURhQ1FJRGR3",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQl9OcGRzUFBkNUdTR2RYd296RDhwVjhIZFRxTTdhMThpZGRMdDN4UG9id3hSX1UxeGVUYmNhS0V6OXRZbXpqM25Cbl8yWlVQMDZyWGNZdy1HanpwbXc4ZVo1ZC01N1lTS1Jfd0l6WTdiWmY0MlNJeG8yM2FUMEswU083V2VUVk43MjBfOG9SS3JSNXdYektjRg",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRURGF5OVJmbVJKMlZoT01WbmlnVzFWNmF2VTd3ZGFmcmhDX1h4S25rMkZSYmlkVEY1RmU3c0lqSHJMWmhVc3hJSE1ua1RTZURZaVBPRXg4eVhvdlVLS25vSzI2RU5YNDJOVjRfVVppbHJraWxPR20wYnNjY2FuN2tyWEw2UnpIRFVjR05IOEFFNmozdkF1Qkpn",
@@ -125,7 +126,6 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXFfZEs2dEhKNXBDWmlEeXo5NGZMdFhwYXZiaXl2WngzdnphZ0RDdDRUWnVKQXlPblQ5Y3JVaG1ENGNWSkdGOTZZbUhoVkczTktieWNzRDhtT0RBUHRRaDlJczR3WThINHhkdkdReE52T3BFUkp1c2ZfZUJieVh3ZmdRdzRCYjZaU1dNeWcyMFV6LUZ6SUlXLTlsbG9YaXVueWJybzdB",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnZ0ckJaN0hhVzhtdE9IRDNOZ3Uwd1FqZkZJcllPWk4tZGJWc1pqZUxnZjRYUTZlMkdCMXU2a25TQ2cycjFNdXpkam5SR2RkanBQNmV2QzFHMjZoLU1DTlk0S1FwZ1ZJSzNKQk5IR3lWT3J4YjJ6SWhwTlhoZzZKaGZ2LUYyQmdfR01vdUtiemdoNHQxQ28zZUxwaExEd1AwUFBQcWFXbw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTBOMW9GNm5PLU9CZjNBZFBmREgxZ3ZNZzRzNE1ySHBSalgtUTVITndPenFZVEwycXZZcTRDZ2VadnZRS0dDb2dxb2h3dzJxX3MtOGxzRFFyOGZWazJrMl95X3pfOUN0aE41MUp2VXFHRVFiVXJIMTB2NmtQSXI0OVoxbjZiVHR0QXVqQnQyTkZLRDQwLU9nWVBCZTZ2akVBRS1yaVZ2YmdDZ9IBrwFBVV95cUxPTE1rSDJaNTIzRTlXRVM1dzEwT19yeDN4NHl6Qml6S0dHcFZmTXR4SzhCNXZuVXlsbjN3eDBEVndINFpXamNDRjRYZ2x5a3ZibEY1dWtEUk94OGNkV05raEdLVmlsalk1c2wtSGlfU3Z4Y1k2TnRuZnpreEIwSDZaMzhoaG9kQUpGbmdsU3JMZW45MHBCSk5QZURaVXd6U3lRQlhNdldUbFNTU3B4ZWRF",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWk2LU1JRlhES193bTRKbGFZQnNIU2w1LWdrdGVPdTc5eGJSSzh5RzJzaHdwNFJHY0Z5UDM4dy1qX0ZHWlRsRDI3TVBtM2xZYllSOVJ6dEl6MFpucWV6RFYxTUZVVkNKd0stcnFSb0YxcjZ5YnBtWWtuWkduMzR5XzNXTGdhU1VWYWs3aWZHa3l2OVAtcEpRRkc4YS1HaG1EM0pQcnk3Q3lwQ0RwZUE",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazdHcFhlVHZDb2RadDJtNUVldWVQVXlhQ0hla0hoeG53YXpSbWdEY2hNRGt0eS1rQlJNUUZKRmY2QWZyUEVmTE9nZ3hKLXVNSVk1OHZFVGFkVkRsVWtWdDYyNldyUFJfZFB0bWU0aW9pSmlhZVA2b2ZxdzVYVlVnNEZSdzNqMTNiWlRRb0g5X25xc0tfWDVLb2FQRXowQXJRV3pCc3JoeXFZSTBzTmRfaUlaWQ",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "МВФ попереджає про розрив через бум ШІ",
-      "original_title": "AI-Driven Global Economic Growth | IMF warns AI boom is widening global divide - The Daily Star",
-      "summary": "МВФ застерігає, що бум штучного інтелекту поглиблює глобальний розрив. Це впливає на макроекономічні прогнози зростання. Наслідком є посилення нерівності між країнами. Ринок реагує на ці попередження.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "The Daily Star",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEhRRUp1M1YtZkUyWHhMX1cwUl84QUNEMWVwSXhDSVltUWlCQUhiSG4wcllhNVJvYjZWVGEyVnREYzlHamdLTklvcWdUM0FIZ0NGMnVILXRnbl9NV1cxSFd0bVVpVnkyLWtnR3ZuWmZzdlRPelh0dmhMNUk0RUhHTlR4WEFoejdUdTRFQ0NKekhTUVNwRlE",
-      "published": "2026-10-20T02:49:34+00:00"
-    },
-    {
-      "title": "Посланник Трампа Віткофф вирушає до Норвегії для переговорів",
-      "original_title": "Trump's envoy Steve Witkoff heading to Norway for Ukraine talks - Anadolu Ajansı",
-      "summary": "Посланник президента США Стів Віткофф вирушає до Норвегії для проведення переговорів щодо України. Ця подія є окремою від візиту президента Зеленського, оскільки стосується конкретної дипломатичної місії американського представника. Точна дата та формат зустрічей у тексті не зазначені.",
-      "source": "Bilateral Meetings",
-      "publisher": "Anadolu Ajansı",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3BDb216YTRyX2FCZmFMakNZRVh0Sy0zZENXZG1IMjdHWTFWcFhiWHBpU1p0ZFJvODgzLVNmd3NhMW13RkRZVFRoNk9JQlRDUVJIMDhFN2t3bFd4XzBTeGhGdUtoRWJpempLMllmeFFJUDljVTNXRFdpRFd5cnBneEoxbk1scVNTNUViVFZQYUx5dTFUU0tDaXJrNnlHakhoSWpzUXMxWQ",
-      "published": "2026-10-20T03:19:48+00:00"
-    },
     {
       "title": "Азербайджан стає ключовим перехрестям євразійських маршрутів",
       "original_title": "Rauf Aghamirzayev: Azerbaijan is becoming a key crossroads of Eurasian transport routes - INTERVIEW - Latest news from Azerbaijan",
@@ -1623,6 +1603,16 @@
       "published": "2026-10-21T07:12:27+00:00"
     },
     {
+      "title": "Росія та Узбекистан розпочали спільні військові навчання біля кордону з Афганістаном",
+      "original_title": "Росія та Узбекистан розпочали спільні військові навчання біля кордону з Афганістаном",
+      "summary": "Навчання Hamkorlik‑2026 триватимуть 20–27 жовтня на полігоні «Термез» у Сурхандар’їнській області. У складі російської колони були БТР‑82А, вантажівки «Урал» і спеціальна техніка на шасі КамАЗ, а також Mi‑24, безпілотники та наземні роботизовані комплекси. Спільні маневри підвищують взаємну взаємодію, підготовку до знищення незаконних збройних формувань і посилюють безпеку прикордонних районів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
+      "published": "2026-10-21T07:38:06+00:00"
+    },
+    {
       "title": "Міністр закордонних справ Японії зустрічається з секретарем-генералом АСЕАН",
       "original_title": "Meeting between Foreign Minister MOTEGI and Dr. Kao Kim Hourn, Secretary-General of ASEAN - Ministry of Foreign Affairs of Japan",
       "summary": "Міністр закордонних справ Японії Мотегі провів зустріч із Др. Кау Кім Хурном, секретарем-генералом АСЕАН, у міністерстві закордонних справ Японії. Обговорили співпрацю у сфері безпеки, економіки та регіональної стабільності. Зустріч відбулася 12 жовтня 2024 року. Обидві сторони підтвердили намір продовжувати діалог у майбутньому.",
@@ -1631,6 +1621,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZzJPSjhob3lCWEZabGRYWnVRQUFyazMtNTNGM2F6N0JCSFlOb0JoSjZXT1BTZmVyaEpFbHFPZ3RIYWhGbGc4Z1RTMWNTS3lLeWUtcHowZno2ZWI1SHV4NjNpTXltaExOU3p6ckxyYXc",
       "published": "2026-10-21T08:21:19+00:00"
+    },
+    {
+      "title": "У Франції розбився винищувач Mirage 2000D, загиб один член екіпажу",
+      "original_title": "У Франції розбився винищувач Mirage 2000D: є загиблий",
+      "summary": "Винищувач Mirage 2000D, двомісний ударний літак французького виробництва, розбився 20 жовтня поблизу Рожевіль. На борту перебували пілот і штурман-оператор систем озброєння; виявлено тіло одного з них, інший шукається. Аварія підриває оперативну готовність 2/3‑й винищувальної ескадрильї «Champagne» і потребує розслідування причин, що може вплинути на плани модернізації Mirage 2000D до версії RMV.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
+      "published": "2026-10-21T08:24:24+00:00"
     },
     {
       "title": "Експорт Кореї біля $1 трлн, але торговельні ризики США тиснуть",

@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWXpfUXZ6YXFic1kxTzJGa3hVMWVxaGVuenpySHlXbXZ6bm5XTjRuRDVpa1p0Qk9zamtKU2pwVWVkemVmUWhabm0tWUgxNHhJNi16WTlCU01icWk4N1Brd0s1a1I1aUlZaFktMzdNWENXMXRFTy1Udl9pcjRyN0ptdmxIemU5ZTVjRUxBeWFNbFRrWU55cWtucnA2QmFwakZidEwtVnJMNXVVNHlscnpHcFpER21YenMzRWhMWHJUQ2JqemdCb2VUN0EzOW9wQ2IwQm1aNkNCVlpjeHRjWnpvd0NSQUdOX0hNMk96dDBEMnExTUZicDFUUU5SWUhyRW1PZFFMMTR6OVhoV21meXRnWDZEbnpUNVA4QUFmMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVfQ0FnZ2I5N3RxTXdGNnVNcFJOd2lid1ducWtCMWIyNXRRSDBtVW5uWWFaOFhzUTlDZ1c2bms0SWhFeVR5RWhjcl9qZXZjY2NSQkxjMDcwSHdRdDRLbXpNbmU1MXZCTXpxX2g3UnpMWExkVTRHUW9uWXZkU0dMa2J5bmx3VlJOZUU1WURXMFVmWlFkN19ETjdjYWlQTjJXdy0teWRpb0NhQ0RqYjZNYk9la3VPamFi?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkhRdjdxbHh6NWUxTmUtRzNyWnR4UVFIakkyckpfbVFTVHdXWEV3cms1M21weVNpcDNZenJPMTZ5Q2wxUHNqQmxSSEZub0pUWm5qNzJmSlNvMTRRR1h6ejAwQm1ON0tienpDay1nTnhTb3ZUQUI3ajh6b3NsWG5IaW5IN3pDTmlOOV82NXdDOHhBVEkyemYzOFNLNk5RMVR4MFVvLWlYN2M2SzdyNTQtbVQ1ZFVoODhxM0dvNdIBxAFBVV95cUxQSmMzNXlqU0VyZkUtckpnR25NTEdmY1RaMFZJdFhkUUF6RTZ0Sks1RF9mZVpWRTlPbnFiR2pTUF9HRmEwVVlmZlFFNzZNYkxQUzltQ1I1WmgyMHU0eEo0RHllN2pTX1M4QU94S0M3U1hQcG01U1lzMmJoNW92V2hkWmdiY2dxalNBV0ZOU1o3aDRiRWZId1RBU3RFS0JsU0tVWmswMTBlMWR1eDlHUDUwZ25wcGl3b3VmNXg5ZWI5OXNIYTNt?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXhPSWltbFBaWXlkVUlzTkt5SFljTmJ2Wnhzb0otVnNBQjZ3V3FLdGc3ejBJeEtMOXI2LXp2b2JEWHB0OXIzeEtJUlV2Tm56X0I5bm9MUkF5NHpSbFJTLS1KRzNZU2FkU2hiWndJbzJabF9UbmlxdHZiLWRNbkhPZlZsdElPQWlFejhXRFBSZS1fSEg4VVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHlxSlR4RExpbzlkbE50TS0xaUJsOE9tMElaR1RWUlpkbktUOUJzeURrYjRxUUZYWGRVS29rcVgwUlg4dkR6dlFwTGJzd3NqNjdZY1ZjQ0tPSzhWa3BRX1ZCYmlCMk04WXFxbEt6Sk9jUmpvWkxpT2xpRFdNS0EtWUVHUjI3MkNqbHV0VEtKYk9nc3FTa09KTjRNRS1uTG9jSENYa2JFLWxhbFo2QWlYZTMxLUNmOFZSa0ctcVRVXzh2V3pzQnJ0bDNZb9IBywFBVV95cUxNaHlxSlR4RExpbzlkbE50TS0xaUJsOE9tMElaR1RWUlpkbktUOUJzeURrYjRxUUZYWGRVS29rcVgwUlg4dkR6dlFwTGJzd3NqNjdZY1ZjQ0tPSzhWa3BRX1ZCYmlCMk04WXFxbEt6Sk9jUmpvWkxpT2xpRFdNS0EtWUVHUjI3MkNqbHV0VEtKYk9nc3FTa09KTjRNRS1uTG9jSENYa2JFLWxhbFo2QWlYZTMxLUNmOFZSa0ctcVRVXzh2V3pzQnJ0bDNZbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVNEFTdWQ4UkEzOGcxN1pPV1NCN3JNNTBkamoyYnA5cHZib05hemhsM2NINGtjTmVvTTMwdnZKaXREOXJfOXNtQXdLLWdBMkVMaEHSAVdBVV95cUxPNHdZc1F3M1RTVjdra29wTW5Sc2FyUmhZWGN1SVg1Y1pzVnY0TnFya3NPUUJ5akpNR3JpWTNnTkF1M1dEOTdkNGl0RXhwX1FDT2JLS1FfUjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDEyeUN0cGxNYktzRk9CWTJ6MUg0aFZ0bGhmaUNZcjVyRUNoeFQ1NGRSTERVMzJSS281ZlFSM1pxWDB2QXVoOEtzN1dZeVh1cWx5NVlHdG8yWDQ4ZmpBU1JIZUhCcWV6N3V1cXJ6OG1GLWtuQWFObjNrd2hqcTRFWVNQQzJnT0ZKRHVobEJKR1RtTWFZZTBEcXBkYnFuZWRpWS1J?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTEg3aFFYVmdXU2s0enpETnhkRFR2Umc1bWdiLXJXRWM4czlzdlVXTHNOR3ZKdndJRXhWdXJsWW5mZkVHR0Q0MkFQbWJWNnp1eExzbk41dWEySGE0dWxr?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnVheU9CeUw2UGtVaEktZzhvM2Q5RHlnYUlKbkdSMmVzbWkyWmE3TUY5ejN4enVZLXBsNEdnc05ZVXpxUDJmTkg5Q1prcWc5Tk8wVzFSOF9hNmxScThkUnRuVnhfUXRHemh1a2ZBYTEwYW9UTGQwRlZfR0lQX25ISmJVYUs5blpGU2xDSmhlZ0pPQzJkUTYtUTNxQlFoQTN2cGE5Y2UzWTZ0YzJlQUJwNEFVTUN6aFZYOTR3anh6aE1hYUZNNFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1E5eWFscVlyTF96UlQxaUZoLWstUnEwTWljXzhwbmhnWm9mUXhWNVZLVHcydjN3YlByaGtYRDNfTWF6UUlOWDgwcEExbnFKWXNrX3E2NFQ1ZWJwbUtHUzlWdkoxWGc1eFhYeXBLakdSZTRra1l5NkpSdDJkS2plVFZxbGNUbmY3M3BHbHVHSFpyZTZGblhaV1FhWHBGTHZoU0hicVpid3E?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUstNkpVZWdLMFhUSzR2VnNSa1QwM01WQUlhVGFvV1ViOTdhUGRRTFlLU255bjI3UTJySnpMUmdzbE5pYWpGSlhIX0hYYzhjNjgzVjBYM0J5VXdVcEdxb2syUXV0dXhZY25sX1RFSUQ4YWhMWWhiMjVheHVEaGVsQWJ6ZndOWFlaczVrZVhYT01Ob0lBd3VYaVlxM05wZWlqVFlud3VLdklNY0VJSHp4Nkd5WDA3Y2M?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNW1SLW43MDVpOUFvMlMxSEI1emcwa1E4bi1ZZnlyNmxDR1lROHVoVTlJTnFpeTVNX1U1NmFBdUE3M09uT0N1bXQ2VGN3a2VYRnlWcmtHaUxaQ1daMjNJMG5DU3VKSnpqSk1aU2lrUnYxdmc5clFjb3F6Z0lmR3NuYnFEY3lKTjUyTWhzTUUtTHVJcjdwWEptQTR3bnhtTTNoZ09DUWhPWnhrWFU?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFl6MlM5YzFad05wTDFPRURHX3ItSHNOX1JtckcxTkVPeGhObXJiV2JSQk85aTV0dXdUbnQxeDZXMkhHNzZnR250dXZGeXBXYjA1YVIwcVV3RlpSQnJGdHlHQ3czc3owNVA0b2NCaHFrN3dGbXBEOUFpQmtERnJwTnZzUi1tajBidm5IR3lSUDRYUEZHX2N0QlF2UDl1dw?oc=5",
@@ -1199,23 +1189,19 @@
     "https://www.middleeasteye.net/news/uk-teachers-could-be-banned-wearing-free-palestine-and-watermelon-badges",
     "http://www.africanews.com/2026/10/21/un-warns-against-premature-exit-of-peacekeepers-from-central-african-republic/",
     "https://www.middleeasteye.net/news/gazas-breast-cancer-patients-face-deadly-wait-treatment-amid-israels-genocide",
-    "http://www.africanews.com/2026/10/21/is-macky-sall-preparing-for-a-political-comeback-in-senegal/"
+    "http://www.africanews.com/2026/10/21/is-macky-sall-preparing-for-a-political-comeback-in-senegal/",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmFCOFNRSTE2WjZncGtVNWR1UkktSkJKYzdMQVBHZzNLSUJDdFNVcGxNaUYySEI0QU1VelFUMm9WSUpYX0VUWGRXSWsyakFSeVdfYUNOUVJpbEhLdHMyRkctclJSMjU0eEhaN0kwVl9sbWprN0xxR1VGZmR2a3Vka3Rqb04?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVnM3ZmJtTUJiNllyd1lzRlh5V2txR1llNS0wMGtpRklQYnBsTDdfYUxNeV9tVDgtWVJGenBVOHA5d2lyZGpzN2lYSnRLdmF4bDlYZkRPNVdPNWtPWko0ZDZTNTROOGhHNi1JS1Q3Z0lSUW9QelRLMjZB?oc=5",
+    "https://www.theafricareport.com/434139/burkina-faso-sentimentalism-is-over-ibrahim-traore-brings-back-the-death-penalty/",
+    "https://www.gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
+    "https://www.theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities/",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHBua2NwcThPbVUzQXREUHhQR053TWEyM1k3bzB0N0VEakFoLXU3ekZmakdaVzdMRGdETlpDQ3V3aUFWcFJlZWh4bGVPY3VRMklyTHl3bl9UTWtZMTkzc2xSRFpwRThPOFRVRjZXRzhpYW10YkZwVUE0OWRoMEpQR2xzQ0V6NlJmdlBaNUJROGluX1JxeW1PbVNmdmtFN29ETGcwT181NzRuRlZLclpfZUxob2VJWVBKV2pkbDQ5b2gwSE13aUZuVV9kWFU?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZV3o1VjZsdGZ5OVV0VlRoc0VVUGZKclN5V2dCU2hrTEpsRzl6MTBfZXI4MW1MbkRwRjZFOHBPQ1FCZ0RfR0RiRTlINzFjYTNjcF8xX2c2ajJCVVJyN0pJ?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWJHOTNEdi1xUHJ3MnNIb1UzRzVTNG5PVUZCUmR1M2VoOGZUWG1MckNJY3RrcUV2Nmt5WThFZXBOQVVQMDI5cENUVWZLdmhKYUdiVGVkaUl0TnA2TTIyT29SdV9pbGZzUzg2WFVpdkQ4cmFlY2FDR1d6amlYQ0M2YmhneEZDMERXYnRBMm9OVDlEckVCLTFwUDY1ODUwMXJwajdMQjlQd0RHTUNmR3NHWW5sQ0l0U28?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdDl4VlA1d2x1MFY2dEdiRndmcFZRN1VxeWdJMk1hQkc0Um9HakkzejkxQVByOHFZcUVsdENMdzZxYTAxZlVFd3FCSlhVWjhJQ2dkcUFRRU5yNnY5R3lV?oc=5",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZWpvM3QtUXVsVjljNmJNY1V6UENGUklETkVoeE9JNUQtUEwzTE1zaU8yTkVrcVVGdHhlMHF6QlFMME1Bd0tyeE1URDRDVW5sM0Zmc0l4RUE0SDhQTVh1VllKeGJHc0RtQ2J3ODZOaTVGVzdrU0hEOU9QdGI2dWZuQ1VodFotWmZQY1J1aG5WRTNUd2pnWFlUSmI2ZHlCM0ZpLWVrMENlM3BJMXlrcURkLXZzMWxzcTlLdDNWU3lFVnJNcHROTndDb3RndjNhUVcyQmhIaTJrUlQ4MXU5YlZ5VFVfbTVQYV9jODMyRWFpY2VUNzBCUDNkM0hST0tNZw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Ізраїлю прибув до Угорщини для перших переговорів після зміни влади",
-      "summary": "Президент Ізраїлю розпочав візит до Угорщини, що стало першим офіційним контактом високого рівня після усунення Віктора Орбана. За даними Jewish Telegraphic Agency, зустріч відбувається в контексті відновлення дипломатичного діалогу між країнами. Точний перелік учасників та конкретні результати переговорів у наданому тексті не зазначені.",
-      "source": "Bilateral Meetings",
-      "publisher": "Jewish Telegraphic Agency",
-      "published": "2026-10-20T16:03:53+00:00"
-    },
-    {
-      "title": "Великобританія підтримала стабілізацію в ЦАР на засіданні РБ ООН",
-      "summary": "Заступниця політичного координатора Великобританії Джесс Джамберт-Ґрей на засіданні Ради Безпеки ООН привітала зміцнення миру в Центральноафриканській Республіці. Вона підкреслила прогрес у роззброєнні бойовиків та впровадженні Політичної угоди про мир і примирення. Британія закликала протидіяти регіональній нестабільності, зокрема на кордонах із Чадом і Суданом, де зростає невизначеність.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-20T15:46:00+00:00"
-    },
     {
       "title": "Іранський безпековий голова відмовився відвантажувати уран",
       "summary": "Іранський безпековий голова Мохсен Резай повідомив пакистанського командувача Асиму Муніру, що уран не буде вивезений з країни. Під час зустрічі в Тегерані він заявив, що ядерний матеріал є національним багатством і не буде переданий США. Уряд Ірану не розпочне переговори, доки США не довірять.",
@@ -1411,6 +1397,20 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-10-21T12:22:36+00:00"
+    },
+    {
+      "title": "Великобританія звинуватила Росію в оманливому вербуванні іноземних бійців",
+      "summary": "На засіданні ОБСЄ старший військовий радник Великобританії полковник Джобі Рімер заявив, що вербування Росією іноземних бійців базується на омані. Британія підтвердила підтримку суверенітету України та висловила солідарність із Румунією після збиття її F-16 дронів «Герань». Також було заперечено російські звинувачення щодо найманців, підкресливши законність статусу іноземців у ЗСУ.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-21T13:11:48+00:00"
+    },
+    {
+      "title": "МЗС Південного Судану викликало посла Судану через удар у Абієї",
+      "summary": "Міністерство закордонних справ Південного Судану викликало посла Судану, щоб засудити удар армії по ринку в Абієї, де загинуло понад 153 людини. ООН також засудила ескалацію дронів, назвавши її хвилюючим патерном. Південний Судан звинуватив війська Судану в атаці на транзитний пункт, що посилило дипломатичну напругу між країнами.",
+      "source": "The Africa Report",
+      "publisher": "",
+      "published": "2026-10-21T13:01:49+00:00"
     }
   ]
 }

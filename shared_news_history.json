@@ -5,6 +5,7 @@
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
     "https://army-technology.com/analyst-comment/european-reassessments-artillery-procurement",
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
+    "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
@@ -17,10 +18,10 @@
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
     "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
+    "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
     "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
     "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
-    "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots",
@@ -45,6 +46,7 @@
     "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
     "https://militarnyi.com/uk/news/ant-modernizuvala-bpak-mercury",
     "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
+    "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/fond-prytuly-1020-zrabr-mobilnyh-punktiv",
     "https://militarnyi.com/uk/news/fp-1-zaletiv-u-lytvu-z-terytoriyi-polshhi",
@@ -68,8 +70,8 @@
     "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
     "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
     "https://militarnyi.com/uk/news/yaponski-moryaky-ozbroyilysya-smash-3000",
-    "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
+    "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
     "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
     "https://navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels",
@@ -93,7 +95,6 @@
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU3pBb0hzRVkwb0paQ0lyVFFzUFpQT09QaEUxS0w1YWMzMGRjZTFyaUZFNG1SYnRxalVTVXBjWktRakN2REFEU21QemVqSWhLUnVIZVVJOEdQV3Utb2gzNmdYNGFIWGgtazQxYWZzY1MzSEl3SHRCWGN0OUp6eUlTaTlRbEhGOURieW5reWM1TGlBRmxqYmFjU0FKd1gwQVVaVnVuNkMtQ05tTHZtbi1ESzcwcjNWRTZ4dDc2bk1IMnlFYjlLeE5YWVpIUzZzcU9OX2U0LWVPa3JTU25LblZ6ZHVTamRZV0pFVXFpS2hVUjJVN29kLVNUeVlRbmU3QQ",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZzJPSjhob3lCWEZabGRYWnVRQUFyazMtNTNGM2F6N0JCSFlOb0JoSjZXT1BTZmVyaEpFbHFPZ3RIYWhGbGc4Z1RTMWNTS3lLeWUtcHowZno2ZWI1SHV4NjNpTXltaExOU3p6ckxyYXc",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KVGtGLTJYcUZ2U2hBcHItTnpVS05jZTZjRDJFV2xTNWtmVXEzc21sdjVUaDdocW5NWUlwenBkRzZicWtrbTdqbEdPZmYtcmNjRHplMmM3blpwSHVEUWxWcXBOcHZqRlJXODhEcHE0V0U",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSV8taW1FM0M2cGlkNGtPbzc4Ym9WWVBHWjN6NG9kcE9LZS1QN09tYmlDcWxkUzRKdnZ0TE0tOC0wVjg0M0xHeURLclJleUZCRWNmMXlZRG16UnhIX0lHRGlTbWs3Sk5jajhTSFJ5Skw",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXlRZk1IQkZFZmhEZFlJZkJzaXdXZE0yU3ZJSm1zR01QcFFrMmJXYmtLQzVsb0ozYno0b0dKM2VtWmE4VDJWZDZjSE9sd0pGQXBNWmxIRVF4bUpqWUFqRGlyOThTQlBZcjZXYU5UcTI1Zw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dXNPaUh0SHBsVjlEMi1uemp4YldRbVp2UTMtLTdJcmtGOWUwQXJfT01oTHVQUjdEZ1Nxc214TjhHX3hXQ1dHVkpYc3U1SW13NmNnUEVhXzczS3hsYnA3UURRdUxnSE0tbkRmNk85UUZsemVTUWc",
@@ -101,7 +102,6 @@
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PX2M3dnJfZWdwRVdXQkZRV2dMeEdSel9NYXZ5b3BLd19rd1NBMUFYVm54dlZTSkswWkFvSnJzRnVZS2UwRGhyU1pzajZJcDF5UFJYeno0ckI3ZUtlbGNmOVBBc3QybE5QcVozX21PRjJ2LVVzaWxOM2U2ZXd5NFk",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2ViQVAwNU5CaW5sSTUzNzBpeFQ5YmcyX0h6Y3BIYjE3dmpZM3JYejl3eXFSdXh5TFE5WlRVWHZvanVVY0JaSFdhSVRyNjc2UVlsN2lSNkg5Z2NDd0RNQ1VGUW4wUlJGUGNKdnRfZmQwZWRiVzZfWFQyNkZfajN0aTR0ME5pdw",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Індонезія розширює імпорт російських ліків",
-      "original_title": "Indonesia seeks to expand imports of Russian medicines - TV BRICS",
-      "summary": "Індонезія прагне збільшити імпорт російських медикаментів. Стаття не містить конкретних цифр чи умов угоди. Це може підтримати експорт РФ у фармацевтичному секторі та вплинути на торговельний баланс.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "TV BRICS",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHNybVpNdm44WEJIX2RCRDJZVVYwTk9Mc0s4SmF6Qmx3Rzc3Wl94NVAzaDF6T1NmN20ydWxPTlBMaFhoNzZVMlVpVXRaREswcl95RVlfeW1VZ1BvQmxWMExVVmFGS0ltTHcxekZuLUZLWmh2U09NaF8yTnFTVG5wLXAzUW1OZDFMaGM4",
-      "published": "2026-10-20T09:03:45+00:00"
-    },
-    {
-      "title": "ЄС готує арктичну стратегію: підводні кабелі, супутниковий зв'язок IRIS² і розширення флоту криголамів",
-      "original_title": "ЄС планує посилити присутність в Арктиці, розширити флот криголамів та захист підводних кабелів",
-      "summary": "Стратегія зміщує арктичну політику ЄС з клімату та науки на безпеку й стратегічну інфраструктуру: захищений кабель Гренландія — материкова Європа, супутникова система IRIS² як альтернатива Starlink та Арктичний кабельний центр за участю ЄС, Норвегії та Ісландії. У тексті немає технічних характеристик кабелів, супутників чи криголамів: йдеться лише про опрацювання варіантів спільної закупівлі та потреб регіону. Військовий вплив може полягати в кращій стійкості зв'язку та захисті підводних комунікацій від диверсій, а також у посиленому моніторингу російського тіньового флоту. Це поки проєкт доку",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/yes-posylyt-prysutnist-v-arktytsi",
-      "published": "2026-10-20T09:05:06+00:00"
-    },
-    {
-      "title": "Вістря списа чи застрягли на пляжах? Китайські аналітики розбирають тихоокеанську стратегію морпіхів США",
-      "original_title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-      "summary": "Китайські військові видання, зокрема Modern Ships і Shipborne Weapons, детально розглядають стратегію USMC 2019 року: розосереджені групи морпіхів із дронами та протикорабельними ракетами діють в архіпелагах, а Морські прибережні полки (MLR) стають основою цього підходу. Китайські експерти з тривогою відзначають випробування безекіпажних катерів, здатних запускати малопомітну ракету LRASM або розвідувати цілі для далекобійних ударів. Водночас вони вказують на слабкі місця: обмежену дальність сенсорів і дронів, «нестійку» ППО та складну логістику. Це свідчить, що Пекін сприймає MLR як реальну з",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
-      "published": "2026-10-20T09:09:33+00:00"
-    },
-    {
-      "title": "Міністр закордонних справ Японії зустрівся з міністром оборони Малайзії",
-      "original_title": "Meeting between Foreign Minister MOTEGI and H.E. Dato' Seri Haji Mohamed Khaled bin Nordin, Minister of Defence of Malaysia - Ministry of Foreign Affairs of Japan",
-      "summary": "Міністр закордонних справ Японії Такеші Кагійма провів офіційну зустріч із міністром оборони Малайзії Дато' Сері Хаджі Мохаммедом Халедом бін Нордіном. Ця двостороння дипломатична подія зафіксована на офіційному сайті МЗС Японії. У тексті джерела відсутні деталі щодо конкретних результатів переговорів чи підписаних документів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Ministry of Foreign Affairs of Japan",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KVGtGLTJYcUZ2U2hBcHItTnpVS05jZTZjRDJFV2xTNWtmVXEzc21sdjVUaDdocW5NWUlwenBkRzZicWtrbTdqbEdPZmYtcmNjRHplMmM3blpwSHVEUWxWcXBOcHZqRlJXODhEcHE0V0U",
-      "published": "2026-10-20T09:15:42+00:00"
-    },
     {
       "title": "NVIDIA інвестує в німецького розробника супутників Reflex Aerospace",
       "original_title": "NVIDIA інвестує у німецького розробника супутників Reflex Aerospace",
@@ -1613,6 +1573,16 @@
       "published": "2026-10-21T13:11:48+00:00"
     },
     {
+      "title": "Оборонні гіганти шукають одного науковця-дослідника на кожні 1,4 вакансії розробників",
+      "original_title": "Defense primes advertising one research-scientist role for every 1.4 developer roles",
+      "summary": "За даними Army Technology, оборонні прайми дедалі частіше публікують вакансії дослідників (research scientist) в ІІ, тоді як попит на класичних розробників програмного забезпечення знижується. У тексті новини немає конкретних компаній, цифр чи технічних характеристик, тож висновки обмежуються загальним трендом. Якщо він збережеться, оборонна індустрія переорієнтовуватиметься з інтеграції готового софту на власні дослідження в галузі ІІ, а це може вплинути на темпи створення автономних і аналітичних систем.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
+      "published": "2026-10-21T14:03:24+00:00"
+    },
+    {
       "title": "Кремль готовий приєднатися до нових мирних переговорів у листопаді",
       "original_title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says - Reuters",
       "summary": "Кремль заявив, що Росія готова в принципі приєднатися до нових мирних переговорів щодо України, запланованих на листопад. За словами представника влади, це лише готовність, без конкретних умов чи формату, і рішення залежатиме від подальших кроків сторін.",
@@ -1621,6 +1591,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
       "published": "2026-10-21T14:05:53+00:00"
+    },
+    {
+      "title": "EDGE інтегрувала суверенні автономні системи на демонстрації ВМС ОАЕ за участі союзників",
+      "original_title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+      "summary": "Група EDGE очолила інтеграцію національних автономних систем на демонстрації безекіпажних морських можливостей ВМС ОАЕ, у якій узяв участь ВМС США. EDGE забезпечила планування, майданчики та технічні засоби, а її фахівці працювали разом з обома флотами над підготовкою та проведенням заходу. У повідомленні немає даних про конкретні платформи та їхні характеристики, тому оцінити бойовий вплив складно. Сам захід показує, що ОАЕ розвивають власні безекіпажні морські засоби та перевіряють їх сумісність із системами союзників.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
+      "published": "2026-10-21T14:17:06+00:00"
     },
     {
       "title": "Путін погодився відновити трирічні переговори щодо війни в Україні",
@@ -1641,6 +1621,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
       "published": "2026-10-21T14:23:08+00:00"
+    },
+    {
+      "title": "Бундесвер підвищив оцінку російської загрози диверсій до другого найвищого рівня на тлі попереджень про атаки",
+      "original_title": "German military raises sabotage threat level amid warning of Russian attacks: report",
+      "summary": "За внутрішнім аналізом Бундесверу, наведеним WDR і Süddeutsche Zeitung, під загрозою можуть бути не лише об'єкти навчання українських військових, бази ВМС і верфі, а й німецькі сили загалом. Поштовхом стала виявлена у вересні поблизу авіабази Вунсторф дронна, що, імовірно, впала, з ємністю з вибухівкою неподалік. За оцінкою слідчих, вона могла призначатися для ураження військових літаків і пролежала там близько двох років, а за конструкцією схожа на дрон, використаний у невдалій атаці на аеропорт Лейпциг/Галле. Якщо оцінка підтвердиться, Бундесверу доведеться посилювати протидронний захист і о",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
+      "published": "2026-10-21T14:27:08+00:00"
+    },
+    {
+      "title": "Elistair розробила дротову систему живлення для дрона Parrot ANAFI UKR",
+      "original_title": "Французька Elistair створила дротову систему живлення для української версії дрона ANAFI",
+      "summary": "Французька компанія Elistair створила систему постійного живлення через тонкий дріт, що дозволяє безпілотнику Parrot ANAFI UKR працювати в повітрі годинами без заміни батарей. Це значно підвищує тривалість операцій, зменшує час на підготовку і підвищує ефективність патрулювання, охорони та розвідки у військових, поліційних та рятувальних місцях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
+      "published": "2026-10-21T14:36:44+00:00"
     },
     {
       "title": "Азербайджан заборонив 31 турецького громадянина в'їзд",

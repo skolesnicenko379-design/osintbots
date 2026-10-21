@@ -25,9 +25,11 @@
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/the-united-kindgom-welcomes-the-continued-consolidation-of-peace-and-stability-in-teh-central-african-republic-uk-statement-at-the-un-security-council",
+    "https://gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-us-iran-talks-ongoing",
     "https://middleeasteye.net/live-blog/live-blog-update/bahrain-and-france-sign-memorandum-advance-civilian-nuclear-program",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-security-chief-rejects-moving-enriched-uranium-out-country",
+    "https://middleeasteye.net/live-blog/live-blog-update/morning-update-647",
     "https://middleeasteye.net/live-blog/live-blog-update/turkeys-parliament-set-ratify-mecca-joint-defence-agreement",
     "https://middleeasteye.net/live-blog/live-blog-update/uk-deploy-aircraft-protect-saudi-arabia-houthi-attacks",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
@@ -74,7 +76,6 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFB2MWxiNUZGQm5OZFhtM04wb1cyWnZyLVk5bUZmamdpSmVGMl9YM0ZtbS1BYmFtNWZCbUh4LTd6bFdSRG93SURNTW05SlVhWXJ0X2llNUxEQ1R0YkdtdzktNGU0WFNvMXk1aDdSV3lTbmxkNUZwUG1kZnVBX0VMU0dxTFEzcjFXU1ZPY3VxbTRsSDB3V3hBR1hScWxsOFNYdzhVUEwtSWthU0dTUTJ2cnhEQjhLYVRydWhEM1lFb1czYmQyR1pQWGtmMjVkNlViS2otUw",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmlGeGxuMVdlQ04tWS1lQkZZcHRWYWpvejVJZWgxLVFiaW1XVloxR21RMHQ0eXNYUTM2LXFTeGlKWXJYd0x5eXRCMVBWWVZtQTUtWnNySHZzN0FpVHh3a01oUXJZVU82bDRKWmhQVUFCR1FXWXVZSnB4LVhxaUFqSndIV3pTSE1qbGFadTlFWFBKd2Z5MzdDTFM0UkZZemRiSGxuaFYyQjllTDZwTkk5YWU5NmhCRkdSalRCTHRua1pycnlLVDNYVEd6U1pNdjY1RlJ3MmZQRDd6ZjZ0YkHSAeMBQVVfeXFMT2xhSUtuczVfMldsUWMtMzdaUktKMU55Ym4xcE5aa2tFOTh1QzNLQzA3aUg2THdHWEVGQjFDbzBnY0lPaGI4MFozd1RpTFhVaGtWenJBakdJSmQyVGkwbFIzdGw1eWkyM0VKX1g2dHBqNEhMVGpmeko1NEVLYUpBblJHeXdXZlRRRzlYdnhjR1A5LTVZTHNuNEZOY1l0aF9KdkcxYjVrUm9ZaVh5eXpfdUNtTnV3eUZqUVpWUkE4Y1pNcTZkRExtYVhKdFlYbXlYYzBNMUtwNGpMQ1BmSW92bmcwLVU",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEZ1OUJ5UXVwa0FiSlhHeWxpUkY2M194WnZWMjFTZFBxUEtYSFB6NTZxOTQwRVFRcDg0TXZQazIyWVdlbTFmLUJSWmI1NXRQclF6Qm5YOUFNclpuNDE2b2RaeE1pV1cwVnNhNTh2MUlvd192aTRGTFkxVFF4N1pLcDcyeFo1cnl0SmpiUUJTV1FCbTAwT3laRmU4eXMzU2pWVUhyaFc1cFhwekhjcWVNMnc2ZnMzeUNmTmRSbW91dm9Ua3RNZzlocG10SllEc2FEU2Z4ejdFRGhkekd1ODI00gHkAUFVX3lxTFBsOGNNTXF2aXlaa29jM3R1UWZsVnBPc29vaDdDY0FCamVBaDNiNnhmMTUtQWliYm93c0ZRQzhKcy1aR29OSjRDZi1kdWVZODZ1a0lSNXlXRm1xQ0UzN0ppTjNzZmhrZjk1THE2VGR0RC00VzZHX0l0S2hXRUdmU0JhLUZnekxmbEx0LXJ4TzBZTk90NkQwdVFhMHlSY2xIRS1iYm9MNXM5MEtHT0EwWGprZ2NtYzlkYzhJcnZnb1QzMXhYWS1sdy1mR0w3RVhBX21reHVKeUM1R0pVQlVwRVBBWi12Ng",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXBxTTVoaWJpYXpwY1BFXzZPSVRpNV9veGFvc1pNVTJlREFrNnJWMjFqaDR1c2Y5NDFzTDFRMjIwLWtyWVdIZ3lBbUt0cjNpdzhZQXMxMm1kZ0FUYVRhNWduNDBibktBUTEwUF84ek5mNUhLV1lCbUlEc3FLSXZ4R2JXZlIyWU03cjFiM1BPSTNwZTJpTGo1ZWF3NzRLX2RzTk9wV09UT1pZYk8zQXN5RkNGbjNWaHd2M01JUlVjZXNaSUFyRzJXQk9hcVNwN2pLQ28ybEN1bHhsN1Bncmx2eEUtc25WY0tMc25PVg",
@@ -89,6 +90,7 @@
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOTNKRG5KaDVFbktMc01kUVctSVFrcDI4bzRhd3NIWXFlTzFyQzR4MGtiQXdLX0Y0V21SYlZfai1nd09TaFhLbFdlc2xUTGo0dE5TSW9ycHlvVjZyOC0zal9hOXd0UXVRU2FLYTBjRlhQckN0aHFyN05YejEya1p0X0FNZk95cVN3dDhDLUF2Ulotb2g0XzBJa3dEb0hCOTd2bW9LQ2oxR1BlQkdjMWl2ZHRRbHNoYy04a3B5Z3hKVzRTYzJBMlFVTEVJb09vNUd3TmEyZWJ2X2F0ejBaLXB0OWM4R0ZhZlluOVdjbHUwUS1GZWRSeUVjd0V4UXBqdw",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KVGtGLTJYcUZ2U2hBcHItTnpVS05jZTZjRDJFV2xTNWtmVXEzc21sdjVUaDdocW5NWUlwenBkRzZicWtrbTdqbEdPZmYtcmNjRHplMmM3blpwSHVEUWxWcXBOcHZqRlJXODhEcHE0V0U",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSV8taW1FM0M2cGlkNGtPbzc4Ym9WWVBHWjN6NG9kcE9LZS1QN09tYmlDcWxkUzRKdnZ0TE0tOC0wVjg0M0xHeURLclJleUZCRWNmMXlZRG16UnhIX0lHRGlTbWs3Sk5jajhTSFJ5Skw",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXlRZk1IQkZFZmhEZFlJZkJzaXdXZE0yU3ZJSm1zR01QcFFrMmJXYmtLQzVsb0ozYno0b0dKM2VtWmE4VDJWZDZjSE9sd0pGQXBNWmxIRVF4bUpqWUFqRGlyOThTQlBZcjZXYU5UcTI1Zw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lWmN0SWQ5ZExHbHJBeHpIX1d6dDd1MElkcV9aUjJBdmR2eGJEVEpBdG40RnIwRVVhMTJUWUlrUW5SLUJJTVIyMHEycXpKNnAwdzRINmJxN3pSZXN0RXZPMFVMSExYc3l4QktjcXp4VEdBYW1yNnc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sVUVCU0pnYVhnSkk4TTlIVWxXalNWWDQtYWVLTTdPaGtNZ01RNFpFQzYxRUZUZ2VXcW1oWVBBZWRWb0x2OUswMFJEQzRsS3Z3NGpiTXo3VF9WNVdvQnd0WThPdUtlSmI1cGNMekl3czVhc2ROVmxGR2dzQQ",
@@ -102,7 +104,6 @@
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTgzQzNPS0pxa01CNVFjUVMwVVhTMkJNeUJNUjhpemdzTDVycHh2aHdOeHQza01GQVotOWhwdWljZURZQW5rS005RFlrUXlEeFpGSW5jRUVqTGdpbFN2b2tJZEJvWk1vLXpiZ3I1RjFodVVIczRpVVZvcjVMRjVFMEtIQVJqR3lLVTRZOE9fOA",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNUc2xhUmh3RVJOdHhBUVZVZEpEYTdRUnhCN29lbVJLQUJvRU1ZREFucEFEQnhsZ0o4Y2xBakotcGFxeWtvbzJyX05pcFJTS0d5dHBrUkpEcTJCLUwyWlFtQUU2MzB1YngtSXFPMlQzUHVHdVAyN19sVG95RTNQN2w0ZUpyQndfYWgxaTdGRldIcVJH0gGXAUFVX3lxTE1ZQVhXaVhlZUJIc0swNklZX3hzWXJLY3dSTV92V3U1MnRRS1l6bEhRREw5bnFYZlp4ZDBJQ1ZXNnhEY0dwTlN1cDNnZE1SbDRkemhvTTdUNkhiRy1ONDlhbWpPSG5xd3VNMW84QjlWM1V6aG1ybUc1ZnZvY0V6VWp4b3pnRndka0lsUmEyVllqNUx0VXpLU2c",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR050VXZHclBzamJBTkQtNVd0amVkd1J4dlZISktTSlU3bDdaRHg1Mm1BWVg4cjhoVnlPNHRaTEFFdE5XZkY1UjRMT0ZwSHIyVC1SdmptMzB5Zk5TTG1GNkFJS2QxNEV5UHpQeFgzeVpobXBQOUU4OVlrRjB3Uk9vaE5ORmRweEw2d2RNZUtoZGV6TnZU",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEhRRUp1M1YtZkUyWHhMX1cwUl84QUNEMWVwSXhDSVltUWlCQUhiSG4wcllhNVJvYjZWVGEyVnREYzlHamdLTklvcWdUM0FIZ0NGMnVILXRnbl9NV1cxSFd0bVVpVnkyLWtnR3ZuWmZzdlRPelh0dmhMNUk0RUhHTlR4WEFoejdUdTRFQ0NKekhTUVNwRlE",
@@ -144,7 +145,6 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDBXWE5MUExzVnNaWExQWE9zWTZyZGhrS0EyZlhpUDFtOG9VaDFkeXZ5U0UtSkdxcUJNZS03MUZxQ3RCa2RjR2JyUG9HTVRxZU9ad0k2eW9VS0Z4MEdMbllPQU8yLVdHUXJ2ZXRlVExhWlRiRjlEQm9pcFJ1VjJXN0RxaFc2MHpnX2lKcTNvZ1lJQzh5S1lZV3ZuVlhUVGVtZ0tsU3ZyNkZwVk5hZGVKS3ltVnVtX09NdnlFMFpVRTVLaXg3OWg4Xw",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVdHbkdDT2N4bHBieC1hZlRiMUEzZnF0SGNHNktfdXh0ekJvOWlTNjhDcV82ZExUNkItVVVnZjZSUG9FUTFJeHROMlBkNjc0T0RLTU1qWFgwYWRmZ1ZLcGNTU0JManY4T1V4Vmx2Zks2ZFZIR29oMUpPMVk3dUV1ZlZldFFhNTJLS29zRS03aVhSenJ1VVBTS0NoYUh3QVRfZzE2enRtNm1yamhkODNFVjlhRHVaT0ZHaGt0LTB5TWo2WVhhUFk0Yjk4R0TSAdIBQVVfeXFMUGZMWlVveldBQUZTVmJQOHRWZ3RFNDMxYnpSa3R1MDRoOWVaSGlLZEFvb2hBUmo1ZzZQSkJGbm52SmhHM05fZGRIcEtFZDJNNEpUYmF6MGRsMmdXS0l2S05Oc05FcElwUmVWSFkyeW5PVFhGYlZsZ1F0LVVCUWFNMzA0YnhzNGlxdUM2QnJISmtmY2JSaUtsZEl5WlZRTFdMbE94TFlvYVFvMUltb0pldklrNWtsejBoRk5SelJuUE9CSDJwbm9BWG9MYUVJTG8zb3BB",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFpIcm9WOThUSlgxS21SNWJIVDQ0QUZ2bWVSNXVBaTBKRU5qRlNmSnBKY3E5V1BFVDg5bGRGYm0wNGRSNU9OMko0YUlJdHpzSVU0LUZBRVRkNFRnQzBvOU1QSGU4ZUlZQ2Q0RTE4SkJOTHFpZEMtQXVjZm5NR1F5TTFsenZWMzFFMmhqZDItcFBPZlpxVjZGLVJyLWVJZGdkWkcxVWdMa0pOVnRwOW5MRDgwYW1Bb2xMZ2RuMG1DUG14VmtfQzVsNGhQa0k",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHI0VC1WZGNfZ3VjSU5tNVk1QzE5dmdBM292T19CWkd2WGVnRE9GcHJJX0FjUFVOdThWYmNZOFA0Z0FoYUR2eW02RU1ZZmJnUmFfc0NzSEh0NGVrN2NTZGFtNXE3Y3pNRHNXYzZGeWM5Z2NvRUNST0FOaVBVdDdzQW9RcEVzSUpSRW9QQ0xmMGlWUk9kZ3JzRU9RMTJRYmhOcTYzeGJBRVNLeVBYb2dXVVROaURRNFdQRnFZdWpDWFViQk9jTWdDelRuU3VmYXM",
     "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
     "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
@@ -152,36 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Камбоджа та Німеччина підписали угоду на 8 млн євро",
-      "original_title": "Cambodia and Germany Partner to Boost Enterprise Competitiveness with €8 Million Phase II Agreement - Construction & Property News",
-      "summary": "Камбоджа та Німеччина уклали фазу II угоди на суму 8 мільйонів євро. Ця домовленість спрямована на підвищення конкурентоспроможності підприємств. Матеріал підтверджує факт підписання офіційного міжнародного договору між двома державами.",
-      "source": "Treaties & Agreements",
-      "publisher": "Construction & Property News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHI0VC1WZGNfZ3VjSU5tNVk1QzE5dmdBM292T19CWkd2WGVnRE9GcHJJX0FjUFVOdThWYmNZOFA0Z0FoYUR2eW02RU1ZZmJnUmFfc0NzSEh0NGVrN2NTZGFtNXE3Y3pNRHNXYzZGeWM5Z2NvRUNST0FOaVBVdDdzQW9RcEVzSUpSRW9QQ0xmMGlWUk9kZ3JzRU9RMTJRYmhOcTYzeGJBRVNLeVBYb2dXVVROaURRNFdQRnFZdWpDWFViQk9jTWdDelRuU3VmYXM",
-      "published": "2026-10-20T00:17:43+00:00"
-    },
-    {
-      "title": "Рада туризму закликає ЄС пришвидшити цифрові шенгенські візи",
-      "original_title": "Tourism council urges EU to fast-track digital Schengen visas - ETIAS.com",
-      "summary": "Туристична рада закликає ЄС прискорити цифрові шенгенські візи. Стаття опублікована на ETIAS.com у тематиці ЄС, макроекономіки та промисловості. Це заклик стосується цифровізації візової системи без додаткових цифр чи умов у матеріалі.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "ETIAS.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1CM1M5TjdoTElRVEdPem9ZR3dJTVVkbWh6OTMzc2d2aHpzdG9mUzh4ekZONDU2SVMzUmMzQzBPYmFjT2wtZnRjRXZDYnFVdFF1NW5OVHlBZXpLUkNqOW8tQlhRTXN6MHJrNnZVdDZzb2s3ZzRkWFoyelM2OU4tVTFnWmNrZWY3bEt6dkNDaWNndw",
-      "published": "2026-10-20T00:27:05+00:00"
-    },
-    {
-      "title": "Азіатські акції падають всупереч ралі чіпів США",
-      "original_title": "Global Market Today: Asian stocks decline in break from US chip rally - The Economic Times",
-      "summary": "Азіатські акції знизилися, перериваючи ралі американських чіпів. Це сталося на тлі глобальних ринкових тенденцій. Така динаміка може вплинути на настрої інвесторів у технологічному секторі.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmlGeGxuMVdlQ04tWS1lQkZZcHRWYWpvejVJZWgxLVFiaW1XVloxR21RMHQ0eXNYUTM2LXFTeGlKWXJYd0x5eXRCMVBWWVZtQTUtWnNySHZzN0FpVHh3a01oUXJZVU82bDRKWmhQVUFCR1FXWXVZSnB4LVhxaUFqSndIV3pTSE1qbGFadTlFWFBKd2Z5MzdDTFM0UkZZemRiSGxuaFYyQjllTDZwTkk5YWU5NmhCRkdSalRCTHRua1pycnlLVDNYVEd6U1pNdjY1RlJ3MmZQRDd6ZjZ0YkHSAeMBQVVfeXFMT2xhSUtuczVfMldsUWMtMzdaUktKMU55Ym4xcE5aa2tFOTh1QzNLQzA3aUg2THdHWEVGQjFDbzBnY0lPaGI4MFozd1RpTFhVaGtWenJBakdJSmQyVGkwbFIzdGw1eWkyM0VKX1g2dHBqNEhMVGpmeko1NEVLYUpBblJHeXdXZlRRRzlYdnhjR1A5LTVZTHNuNEZOY1l0aF9KdkcxYjVrUm9ZaVh5eXpfdUNtTnV3eUZqUVpWUkE4Y1pNcTZkRExtYVhKdFlYbXlYYzBNMUtwNGpMQ1BmSW92bmcwLVU",
-      "published": "2026-10-20T01:31:55+00:00"
-    },
     {
       "title": "Казахстан та Азербайджан презентують Транскаспійський маршрут японцям",
       "original_title": "Kazakhstan and Azerbaijan present Trans-Caspian Route opportunities to Japanese investors - Qazinform",
@@ -1651,6 +1621,36 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
       "published": "2026-10-21T06:35:05+00:00"
+    },
+    {
+      "title": "Іран підтвердив тривалість переговорів зі США через посередників",
+      "original_title": "Morning update",
+      "summary": "Міністр закордонних справ Ірану Аббас Арагчі заявив, що переговори з США, які ведуться за посередництва Пакистану та Катару, продовжуються. Ця інформація була оприлюднена агентством NourNews. Заява підтверджує активний дипломатичний процес між Тегераном і Вашингтоном щодо вирішення поточних суперечок.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/morning-update-647",
+      "published": "2026-10-21T06:51:52+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Японії зустрівся з Верховним комісаром УВКБ ООН",
+      "original_title": "Foreign Minister MOTEGI’s Meeting with Mr. Barham Salih UN High Commissioner for Refugees - Ministry of Foreign Affairs of Japan",
+      "summary": "Міністр закордонних справ Японії Таро Коно провів офіційну зустріч із Бархамом Саліхом, Верховним комісаром ООН у справах біженців. Ця двостороння дипломатична подія зафіксована Міністерством закордонних справ Японії. Текст джерела не містить деталей обговорених питань, конкретних рішень чи підписаних документів, тому аналіз обмежується фактом проведення зустрічі між цими двома представниками держав.",
+      "source": "Bilateral Meetings",
+      "publisher": "Ministry of Foreign Affairs of Japan",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSV8taW1FM0M2cGlkNGtPbzc4Ym9WWVBHWjN6NG9kcE9LZS1QN09tYmlDcWxkUzRKdnZ0TE0tOC0wVjg0M0xHeURLclJleUZCRWNmMXlZRG16UnhIX0lHRGlTbWs3Sk5jajhTSFJ5Skw",
+      "published": "2026-10-21T07:02:00+00:00"
+    },
+    {
+      "title": "Велика Британія представила національну заяву на COP13 UNTOC",
+      "original_title": "United Kingdom National Statement to UNTOC COP 13",
+      "summary": "Велика Британія на 13‑й сесії Конференції сторін Конвенції ООН проти транснаціональної організованої злочинності представила національну заяву, у якій наголосила на зростанні масштабів і складності кримінальних мереж, закликала до повного впровадження Конвенції, посилення оперативної співпраці та практичних результатів, а також підтримала роль UNODC у допомозі держав‑учасникам.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
+      "published": "2026-10-21T07:12:27+00:00"
     }
   ]
 }

@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3JHME9YUnBPM3JCdFRfVDBFbUlVTkVhbm1qQjd0Wkd3VFdKd2Rsb1dWVGRnNjFLZGYzY05oT0RsWGxiclVCRlF2cTc5Z0hJMmxuQUd1b0lIdXdOa2x1QVltWUt4RDdUZkItWUF6azV3QjZZWWo3SmF2OWw0UFVsMnVfU0U3bkNHNGNjMHRkaTZhY3BoTk9GcjRydHNid0hSeXNCNE5fZ1lxVDRiMm5Ed2FVZnF6eDFOYXhzNG4tcw?oc=5",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONmNWWi1JSzFYUXM2TExTLTJleWNueFFaLThDWkdWZHBZdjNSYWtiVm1sWFhnWEpreXNWbFN3Sms0TjZsZXNObV9INVlYMXR5MTlrSGowSHpLOXZJQ0FmSlJTVlZKRFR1MXE2ZVo4MXRSVjVTRGQ3Y2VBUTdpVjhnblRtendKWkFRNnhlSWhFTUptWjdDWXFlRGNJS2R1TEVZcDM1YVd5ME9OeW5OUEdtUzBabjA0YW11TlU5VzlvWTJPMjVzNmtubjRaSHBWLXl6TEswdk9JNE5ieG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0ZSSFo3cG5KWlBQUVB6d19Ibm1rQm5VTENOVWpPakZSOFQxNmM5M19SOGIzZVBTaE5HRGFjWjBiN0hUU255SktGWnh3NFgzRng4dkVsQU5FLXBveFhnYlBnNWE1SEtLY082b1RkMm16ZXFlVEUzQTVmekpUZUJLc0lmQ0lYVWRW?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkZ4VTllcTBnd2ZBajBRT3RiaVZ1Y29xTW01Q25SSjBKQV9WRDFhVDFjMFhyU1RGdFhmQVFfYk1zcnFlNDE0RVREMm1VQ1hOTkVVazZlcjZvc3JzWnY2TGRrajE0RjZqRldyeGdoQ3N1ZmtwNC11bWp1cE1Qdm1yank5cVQzem16Y0hMajdfM2g?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmI4Um5aLVh0ZF83TnJpRDRHYUJUd2Q5WDRDNFgzUWtwVkkwX1NHUGJyWkhjTFFTWHkwWGlEQ2tJaDNmUkE1dlBKUkthNE1XRFFCNnUtRE9YREpxZnhWM2hKNldMd1BWZVpZc3Z5T1R0dWVsUXNQZUJJTXNYUE5rb1k5N3dWZU9JNGY0NjB4WFJLU0UyNFBiTEE2bDFrdGlWdjNMN19uVktZY3ZkSEFZ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeS0zUVVsREdyTU5hQnppalBEazFyVG5ES0NNUlI3VF93Mkd0YVhya3RBUDFOeDhwRmluZDRfcWZFWkhJZjJLeWlTQnZENUdoUkRka2d3WHE3UDdGMTYwUUFhX0lQQTBWUU52eFMwMWVFTjFtVE40djh2ZXRqel9icnM5VzV3NXNRMFpoQUM1Qmc?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFhmVWV0ZVg1SkJ1TGFyU1ZKb3dxbENqZDRseWdWNGVQOVZVUVpNTVgtdWJfeG82ODA1S1JtaWtnWlpwaVZKYkdCOGRVUExiaEpkcmU4RzQta1ZuZnZYb2lOclpFeFNiX2RFdkVFUVM2cjVrb216QWcwRS1vVG53dVM1ZkpiaHZNT3BnU05ELS1kVWoxb1gtVWMydXlZWXAwSDZyOVhvSzlhZw?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPXzdpUWpKMExjeFBiZDJ4dmNVd3JhT01wWURYQ1dhTVZpZTBCV2QyR0tYX2x3NTI3Tm5Hc2tOVjlLazllbEM1R2c4ODBiZDA1ZVpRNGs4UGI1R2hiR3AxUTFGbm92RkxLR2hyWEFfY2cwRFB6bEFQMFFIdXJUTHc4NF9pTEVjMmNZbHFkRHVfLUJ0RkR2NWlCRFltRFF3WEZMLTZlLWMzRlJuMHNyYkdWalhINWtFN0s3VS15NlVRVGtIaF83TE1ySWpjYVdrUFBaOTRyV3FCd19iYVl2dC0tNWFB?oc=5",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ2xidV84c0dobktra29KekFhbWdlOVd4Y25va1NmcWN6WV9xM3BGTWs5am1WOHp2WV9fZjlnZVpGWTQ5TkFPS0x4TlRHT1BNVkJLb051MXZISXc1SDkyd3JHYmJsNFRjZnZoSXlZSEJ0YjExaTBPZFdEUFlUN2IxMy1vdTQtM0JIMmNpUFU2NEZPci1wazlwWGYtblhEckEtZUJmVlVpeks1ZmV5MnBTNWtJbjd4VXphNnNGSDNZYXJzZXBXb3hKWGJ6TmVlSkdnUUEyeEQ4eG9Za3EtSG9Zb3pTbGVYc1VyLXo5RzdPWmtVdUtaMklN?oc=5",
@@ -1199,16 +1193,15 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/how-far-will-netanyahu-go-win-israels-elections",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXFESzZ6Q0pJLWpRU0JELXNkdFBJS1RDSmF5RTM5cHVPbkU2RHVKNlpkOC1Jam5tUHJVRk9yQlRVbS1FNjNrRlhHSUZsZFpzQnlOU24tN1VQOTdSRkdWV3huRHVpTk1FUHZyY1c5U3lWa0tfNzVfVU92R2F4bWtFZmJkWWcwZkZSQ3VuRmowTG5Mb25aTFRiOVRGUHlGd9IBsgFBVV95cUxPRGxSQUV1WF93NFNfWHpuUUxVLXdfU19UNWhVUVg0M1kzeS12enhGVllhU3lyNnFCNEl3LWprRTlDQXRhVFpDWldhSUYwcEhOUEdXUFl5djI4VlZ3Z0RMRTE1VGtvSGlpWllFeVo5VGlSU3I3eW0yUUJQQWlwdWNoMzI1ZV9qY1R4TDU5TXFLQjAtTmFrbmlfYTJjSFZzZFdEX1ZjdGRWTHFVV0FlSTUydERn?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1hlSkR0X3oxVUlRVVowVHNncmxfSy01ZGJXR2NmWWpGLS14QjFOelJiWHVTUDktRmhYbjQza2Y0aXdtdTBoTkxmSG5DYnJKR1BrSGRRVDBxZXFuTjJ2VzEwOUZOLU1HQUROLWpGUmNtQWdURVhLRWxIWGJOSXFUcWxRNkVQbVlORWUxaVBOV3V2MWlJeUpnZFJvYW13VmthejhpNWgyeWZ4djFGZTRwRG1fbzU0clVoZnVhV0pGTlk5LVB0NXlnQml0WmVNTGM4YW5J0gHYAUFVX3lxTE9PUVRKQUxzQjNsYkF5S1F5czQ0aDR3VVV5bXd4MHhRc3Nzd2wyMW5TR285YmYwZ2h1dTh0U0xBTmpEZ0NqakRFaFZZVkVpaGNMQk11WWJnWHlTZi04UE95S2lpdUgzV2QtcFVOYmtTczFCcGpkUkhQVjl6c19QR2tfZEZjcVRUa3FBWVhNZGZaRDNTdnlDRzMtbUwtb1BKMUJ4anB2eURoZC1LOUNlM1FtY1dYX19Uc1hSVno4anRvaXpLU3o1RGZlTXliQVZBOWhLbl9Ncm9hSg?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFRPZ0IwX2dfS0wyMkxNQVEzd3pfbksyTk1CMlhiWFIyTEtxVWo4N2Yxb24za2pzWHdjdEZJUXpMRDdENm12Z1RCUS1xUUpCbzFFYkRWN1J5X2VGdHVmVzlWT1lZYjVIR1NfaGJQT0Q0Y0JkdUhxVTd5ZElJRzhuTTc3MWFGUmh6cHc3WWZ0S0ctekNSRVdxLVRJYVFfZTJSdnZYQl93?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFRPZ0IwX2dfS0wyMkxNQVEzd3pfbksyTk1CMlhiWFIyTEtxVWo4N2Yxb24za2pzWHdjdEZJUXpMRDdENm12Z1RCUS1xUUpCbzFFYkRWN1J5X2VGdHVmVzlWT1lZYjVIR1NfaGJQT0Q0Y0JkdUhxVTd5ZElJRzhuTTc3MWFGUmh6cHc3WWZ0S0ctekNSRVdxLVRJYVFfZTJSdnZYQl93?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-prepared-take-military-action-against-iran-if-directed",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-and-france-sign-memorandum-advance-civilian-nuclear-program",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnFvNk5CRUhLQ3RjcUtKa3NUQkE2a1BYbTZsNmV4NEpyRXJhS2F1R1hkNFBrTGFUUVU2eUJFMU44eV9UVWNBY1dsRERsNjduMkdEbWJ4UkFKZUJEdUJOX096bVBtRXE1QVpkdFNNTGxsVGFjNzE1TlpNcXlXM1M0a3VCT1NkLU80a19mLVFwbVVnU0VZSVVMZU5zQ05jWWFnMjFScDFXa3J0Mk5WMEpqZkhVNDZqckhnTHB5WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnRSSlBULUJKdkQ1cWtST3Zmc012TTNGVndHYWZoYWxUcFNoMVdCOUIyLTZDX1U3LWVxdGdiaFJsTWdwLTVaNmZKYm1JTlRyNExLbWNZSF9tNmkxR0h4NEZ1bnQyWkhGc3p5OGw2UTdjUUxMVjVtaGNSV0tCVGNOclU4dHNxWEZIR2YwUHduUFJ5QnZF?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UWWV1cnZJakRvWTUtVWpFNXlxVlZqMF9FdTFOVFJndDd5dlpJMWhBSVVDei1SSndiZzV6WVhOMHp0WGc2VmFldTVHWjBJNzVuREtzUFg4UTNsc1FUYWpPeF81VVBXV1ZZbTkxTTN4RlgxdjN0NlN1MnhB?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "WorldFish підписав угоду про відкриття офісу в Нігерії",
-      "summary": "WorldFish, міжнародна дослідницька організація у сфері аквакультури, підписала угоду з урядом Нігерії про створення країнового офісу в країні. Офіс має розпочати роботу у 2025 році, спрямовуючи проекти з підвищення продуктивності рибного господарства та сталого використання водних ресурсів.",
-      "source": "Treaties & Agreements",
-      "publisher": "SeafoodSource",
-      "published": "2026-10-19T18:22:08+00:00"
-    },
     {
       "title": "Пезешкіян заявив про відсутність фундаментальних суперечностей з регіональними країнами",
       "summary": "Президент Ірану Масуд Пезешкіян під час візиту російського міністра закордонних справ Сергія Лаврова до Тегерана заявив, що Іран не має фундаментальних суперечностей з країнами регіону. Лідер наголосив на спільних інтересах та прагненні до розвитку відносин на основі братерської взаємодії та співпраці.",
@@ -1411,6 +1404,13 @@
       "source": "Bilateral Meetings",
       "publisher": "Reuters",
       "published": "2026-10-20T21:57:52+00:00"
+    },
+    {
+      "title": "Бахрейн і Франція підписали меморандум про мирний ядерний проект",
+      "summary": "Під час візиту президента Франції Еммануеля Макрона до Манами, Бахрейн і Франція підписали меморандум про співпрацю у мирному використанні ядерної енергії, передбачений розвиток та підтримку експертизи, а також спеціалізовані навчальні ініціативи для бахрейнської цивільної ядерної програми.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-21T00:12:49+00:00"
     }
   ]
 }

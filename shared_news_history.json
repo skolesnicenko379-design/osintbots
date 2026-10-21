@@ -5,6 +5,7 @@
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
     "https://army-technology.com/analyst-comment/european-reassessments-artillery-procurement",
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
+    "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
@@ -15,6 +16,7 @@
     "https://defensehere.com/en/lockheed-martin-advances-er-gmlrs-rocket-after-operational-testing",
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
     "https://defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
+    "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
     "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
@@ -40,15 +42,14 @@
     "https://middleeasteye.net/news/turkey-secures-strategic-win-over-greece-eastern-libya-maritime-deal",
     "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
     "https://militarnyi.com/uk/news/ant-modernizuvala-bpak-mercury",
-    "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
     "https://militarnyi.com/uk/news/devdroid-ta-inission-norge-as-spilno-nrk",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/fond-prytuly-1020-zrabr-mobilnyh-punktiv",
     "https://militarnyi.com/uk/news/fp-1-zaletiv-u-lytvu-z-terytoriyi-polshhi",
-    "https://militarnyi.com/uk/news/frantsii-zaprovadzhuut-komendantsku-godynu",
     "https://militarnyi.com/uk/news/istoriya-30-ombr-kostyantyna-vlasenka",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/lytva-rozpochala-rozgortannya-an-tps-77-mrr",
+    "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
     "https://militarnyi.com/uk/news/nvidia-investuye-u-nimetskogo-rozrobnyka-suputnykiv-reflex-aerospace",
@@ -56,7 +57,6 @@
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
     "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
     "https://militarnyi.com/uk/news/prymary-gur-urazyly-tornado-s-buk-m3-orion",
-    "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
@@ -152,36 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Республіканці погрожують заблокувати 350 млрд доларів для Пентагону через послаблення тиску на РФ і Starshield",
-      "original_title": "Республіканці погрожують заблокувати $350 млрд для Пентагону, якщо Трамп не посилить тиск на РФ",
-      "summary": "Частина республіканців у Палаті представників пов'язує підтримку пакета Гегсета (зокрема 17 млрд доларів на Golden Dome і 47 млрд на виробництво боєприпасів) зі скасуванням обмежень роботи Starshield для українських військових та відновленням санкційного тиску на Росію. Зеленський 19 жовтня повідомляв про збої зв'язку на фронті, що ускладнюють логістику та застосування дронів, зокрема реактивних перехоплювачів. Якщо обмеження зніметься, це може стабілізувати зв'язок і підвищити ефективність безпілотників, однак ухвалення пакета залежить від голосів майже всіх республіканців у нижній палаті.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/respublikantsi-pogrozhuyut-zablokuvaty-350-mlrd-dlya-pentagonu",
-      "published": "2026-10-20T07:53:04+00:00"
-    },
-    {
-      "title": "Cummings Aerospace представила 3D-друкований реактивний дрон Hellhound S3 вертикального запуску зі швидкістю до 618 км/год",
-      "original_title": "У США розробили 3D-друкований реактивний ударний дрон Hellhound S3 вертикального запуску",
-      "summary": "Hellhound S3 має довжину близько 90 см і масу приблизно 5,9 кг, запускається вертикально з контейнера, розвиває до 618 км/год і, за заявою виробника, долає понад 60 км. Корпус виготовляють методом 3D-друку з використанням готових комерційних компонентів, що має здешевити виробництво; компанія заявляє про понад 100 апаратів на місяць. Модульна конструкція допускає різні бойові частини, засоби РЕБ і модулі хибних цілей, а роль дрона може бути баражуючого боєприпасу, засобу точного ураження чи перехоплювача. У випробуванні 25 серпня 2026 року з пускової установки на Polaris два дрони з інертним н",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/cummings-vyprobuvala-3d-drukovani-drony",
-      "published": "2026-10-20T07:59:00+00:00"
-    },
-    {
-      "title": "Дрон «Лютий» уразив НПЗ у російській Ухті",
-      "original_title": "У Франції запроваджують комендантську годину та збільшують кількість поліції через масові погроми",
-      "summary": "Застосовано модифікований далекобійний ударний дрон Ан-196 RS «Лютий». Атака на об'єкт нафтопереробки демонструє здатність українських БПЛА вражати цілі в глибині території РФ. Це може ускладнити логістичні та енергетичні можливості противника.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/frantsii-zaprovadzhuut-komendantsku-godynu",
-      "published": "2026-10-20T08:23:32+00:00"
-    },
     {
       "title": "Єна тримається біля 158 перед засіданням Банку Японії",
       "original_title": "Yen Heavy at 158 Level as 200-Day Moving Average Caps Gains; U.S. Housing Data and BOJ Meeting in Focus - BigGo Finance",
@@ -1613,6 +1583,16 @@
       "published": "2026-10-21T10:40:47+00:00"
     },
     {
+      "title": "Європа розглядає надання комунальним та інфраструктурним компаніям права збивати дрони",
+      "original_title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+      "summary": "Технології виявлення та знешкодження дронів, зокрема засоби РЕБ і дрони-перехоплювачі, які тестують на полігоні Бретіньї-сюр-Орж під Парижем, розвиваються швидше за правила їхнього застосування. Франція вже ухвалила закон, що дозволяє схваленим операторам критичної інфраструктури та підрядникам виявляти, глушити й збивати дрони поблизу визначених об'єктів, а розширений перелік таких об'єктів планує обладнати до 2027 року. Конкретних тактико-технічних характеристик систем у матеріалі не наведено, а відкритими лишаються питання відповідальності та права віддавати наказ на знешкодження. Якщо комп",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
+      "published": "2026-10-21T11:07:00+00:00"
+    },
+    {
       "title": "Папуа‑Нова Гвінея та Австралія підписали Меморандум про телекомунікації",
       "original_title": "Papua New Guinea-Australia Telecommunications Partnership Memorandum of Understanding - Australian Government Department of Foreign Affairs and Trade",
       "summary": "Уряд Папуа‑Нової Гвінеї та австралійський Департамент закордонних справ підписали Меморандум про співпрацю у сфері телекомунікацій, передбачаючи спільні проєкти, обмін технологіями та підтримку інфраструктури. Угода оформлена як офіційний документ, без зазначення конкретних термінів впровадження, і передбачає довгострокове партнерство між двома країнами.",
@@ -1621,6 +1601,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
       "published": "2026-10-21T11:38:18+00:00"
+    },
+    {
+      "title": "Невідомі дрони над головною базою ВМС Франції",
+      "original_title": "Невідомі дрони літали над головною базою ВМС Франції",
+      "summary": "У Франції зафіксували прольоти невідомих безпілотників над головною військово‑морською базою в Тулоні. Дрони, розміром з середньорозмірні квадрокоптери, не були ідентифіковані, проте їх активували системи радіоелектронного придушення, хоча успішного перехоплення не зафіксовано. Подія підкреслює потребу у посиленій обороні критичної військової інфраструктури та підвищену готовність до безпілотних загроз.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
+      "published": "2026-10-21T11:59:51+00:00"
     },
     {
       "title": "ООН попереджає про передчасний вихід миротворців з Центральноафриканської Республіки",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
       "published": "2026-10-21T12:46:00+00:00"
+    },
+    {
+      "title": "Головний технічний директор армії розповів про автономні системи та ринок дронів",
+      "original_title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
+      "summary": "У інтерв'ю головний технічний директор армії Алекс Міллер представив плани щодо автономних систем, включаючи новостворений Futures and Autonomous Systems Command, і підкреслив роль ринку дронів, який вже здійснив закупівлі на понад 800 млн доларів, охоплюючи безпілотники, наземні, морські та протидронові системи. За словами Міллера, автономні технології будуть підтримувати не лише бойові дії, а й логістику, постачання боєприпасів, їжі, палива, води та медичних матеріалів, що підвищить ефективність та стійкість армії на полі бою.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
+      "published": "2026-10-21T13:06:12+00:00"
     }
   ]
 }

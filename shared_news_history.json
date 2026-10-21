@@ -58,6 +58,7 @@
     "https://militarnyi.com/uk/news/ssha-dozvolyat-chastyni-tankeriv-tinovogo-flotu-povernutysya-do-legalnyh-perevezen",
     "https://militarnyi.com/uk/news/ssha-shvalyly-prodazh-niderlandam-lazernyh-system-zahystu-litakiv-za-294-mln",
     "https://militarnyi.com/uk/news/u-kyyevi-zatrymaly-agentiv-rf-yaki-gotuvaly-seriyu-teraktiv",
+    "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
     "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
     "https://militarnyi.com/uk/news/vorozhyj-bezpilotnyk-udaryv-po-chabany",
     "https://militarnyi.com/uk/news/yaponski-moryaky-ozbroyilysya-smash-3000",
@@ -71,7 +72,6 @@
     "https://navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFB2MWxiNUZGQm5OZFhtM04wb1cyWnZyLVk5bUZmamdpSmVGMl9YM0ZtbS1BYmFtNWZCbUh4LTd6bFdSRG93SURNTW05SlVhWXJ0X2llNUxEQ1R0YkdtdzktNGU0WFNvMXk1aDdSV3lTbmxkNUZwUG1kZnVBX0VMU0dxTFEzcjFXU1ZPY3VxbTRsSDB3V3hBR1hScWxsOFNYdzhVUEwtSWthU0dTUTJ2cnhEQjhLYVRydWhEM1lFb1czYmQyR1pQWGtmMjVkNlViS2otUw",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXNYRUZ3Ny1HbzQwS3VDbUlaMHJEOGZ3eS0zMTlaS1o2LXFGeXc3enVDeEluZzhOSG5xYzNvaDJXdm5KTjNzRDE3ZE1hak1nWWpkUDlBLVZxeVg2d0N6bDJOaElmWWphWmRHdkhUNHdoSTZ3Zy10VG51U3BUdzNwQ2U4RF9zSS05dFJZTUdNMHpUdE9NYzZrUWpNZFRuX3NSSHhYLU1UcWE4c1JKVWF1c3VZNHlVTFlESllINUYweXhuRHVDM0hvSC1DeVhzWFJGUW5VVU03Tm0",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmlGeGxuMVdlQ04tWS1lQkZZcHRWYWpvejVJZWgxLVFiaW1XVloxR21RMHQ0eXNYUTM2LXFTeGlKWXJYd0x5eXRCMVBWWVZtQTUtWnNySHZzN0FpVHh3a01oUXJZVU82bDRKWmhQVUFCR1FXWXVZSnB4LVhxaUFqSndIV3pTSE1qbGFadTlFWFBKd2Z5MzdDTFM0UkZZemRiSGxuaFYyQjllTDZwTkk5YWU5NmhCRkdSalRCTHRua1pycnlLVDNYVEd6U1pNdjY1RlJ3MmZQRDd6ZjZ0YkHSAeMBQVVfeXFMT2xhSUtuczVfMldsUWMtMzdaUktKMU55Ym4xcE5aa2tFOTh1QzNLQzA3aUg2THdHWEVGQjFDbzBnY0lPaGI4MFozd1RpTFhVaGtWenJBakdJSmQyVGkwbFIzdGw1eWkyM0VKX1g2dHBqNEhMVGpmeko1NEVLYUpBblJHeXdXZlRRRzlYdnhjR1A5LTVZTHNuNEZOY1l0aF9KdkcxYjVrUm9ZaVh5eXpfdUNtTnV3eUZqUVpWUkE4Y1pNcTZkRExtYVhKdFlYbXlYYzBNMUtwNGpMQ1BmSW92bmcwLVU",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Прогноз ринку флотореагентів до 2035 року",
-      "original_title": "Alkylphenol Ether Frothers Market Forecast to 2035: Growth Driven by Copper and Precious Metals Flotation Demand - IndexBox",
-      "summary": "Ринок алкілфенол ефірних флотореагентів прогнозується до 2035 року. Зростання зумовлене попитом на флотацію міді та дорогоцінних металів. Це вплине на видобувну промисловість та сировинні ринки.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "IndexBox",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWXNYRUZ3Ny1HbzQwS3VDbUlaMHJEOGZ3eS0zMTlaS1o2LXFGeXc3enVDeEluZzhOSG5xYzNvaDJXdm5KTjNzRDE3ZE1hak1nWWpkUDlBLVZxeVg2d0N6bDJOaElmWWphWmRHdkhUNHdoSTZ3Zy10VG51U3BUdzNwQ2U4RF9zSS05dFJZTUdNMHpUdE9NYzZrUWpNZFRuX3NSSHhYLU1UcWE4c1JKVWF1c3VZNHlVTFlESllINUYweXhuRHVDM0hvSC1DeVhzWFJGUW5VVU03Tm0",
-      "published": "2026-10-20T00:11:04+00:00"
-    },
     {
       "title": "Камбоджа та Німеччина підписали угоду на 8 млн євро",
       "original_title": "Cambodia and Germany Partner to Boost Enterprise Competitiveness with €8 Million Phase II Agreement - Construction & Property News",
@@ -1611,6 +1601,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
       "published": "2026-10-21T05:05:02+00:00"
+    },
+    {
+      "title": "Удар безпілотників по нафтовому терміналу в Ростові‑на‑Дону: пошкоджено 8 резервуарів",
+      "original_title": "Удар по нафтовому терміналу в Ростові: пошкоджені вісім із дванадцяти резервуарів",
+      "summary": "У ніч на 10 жовтня безпілотники вразили нафтовий термінал Новошахтинського заводу в Ростові‑на‑Дону, зруйнувавши щонайменше вісім із дванадцяти великих резервуарів по 5 000 м³ кожен. Після удару спалахнула масштабна пожежа, яка тривала кілька діб, а 13 жовтня стався вибух ще одного резервуара, посиливши вогонь. Пошкодження такої місткості (близько 40 % загальної, 60 000 м³) може суттєво скоротити постачання нафтопродуктів для експорту та забезпечення російських військових паливом.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
+      "published": "2026-10-21T05:12:38+00:00"
     },
     {
       "title": "Саміт Трампа і Сі не вирішив дефіцит критичних мінералів",

@@ -55,7 +55,6 @@
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/norvegiya-zatrymala-sudno-arktyk-spg-2",
-    "https://militarnyi.com/uk/news/nvidia-investuye-u-nimetskogo-rozrobnyka-suputnykiv-reflex-aerospace",
     "https://militarnyi.com/uk/news/oleksandru-zhybrovu-zvannya-geroya-ukrayiny",
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
     "https://militarnyi.com/uk/news/pershyj-raketnyj-middle-strike-bataljon",
@@ -122,6 +121,7 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTBOMW9GNm5PLU9CZjNBZFBmREgxZ3ZNZzRzNE1ySHBSalgtUTVITndPenFZVEwycXZZcTRDZ2VadnZRS0dDb2dxb2h3dzJxX3MtOGxzRFFyOGZWazJrMl95X3pfOUN0aE41MUp2VXFHRVFiVXJIMTB2NmtQSXI0OVoxbjZiVHR0QXVqQnQyTkZLRDQwLU9nWVBCZTZ2akVBRS1yaVZ2YmdDZ9IBrwFBVV95cUxPTE1rSDJaNTIzRTlXRVM1dzEwT19yeDN4NHl6Qml6S0dHcFZmTXR4SzhCNXZuVXlsbjN3eDBEVndINFpXamNDRjRYZ2x5a3ZibEY1dWtEUk94OGNkV05raEdLVmlsalk1c2wtSGlfU3Z4Y1k2TnRuZnpreEIwSDZaMzhoaG9kQUpGbmdsU3JMZW45MHBCSk5QZURaVXd6U3lRQlhNdldUbFNTU3B4ZWRF",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVFwZlpMM081ano2Yl80YjMwTzh4UHFfY3dIMnN5R0c2RVhWUzNmMVdOV3BudWNxSGZxMlRhd2ZTeGJ6MDFFTHV6bDlnSGd1YmVOVE1xcTV6Mml5Mmtvdk1YNUV2Q1pVaVRrdlUzdFNMLWlJWTVDSXRnazVrSm1UeE9qMDFhaXpoQ0cxQ1V6V0lwd3lIeGVqTS1QeENaRVM2Vk5oUzgwRkt0bGZVM2dN",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazdHcFhlVHZDb2RadDJtNUVldWVQVXlhQ0hla0hoeG53YXpSbWdEY2hNRGt0eS1rQlJNUUZKRmY2QWZyUEVmTE9nZ3hKLXVNSVk1OHZFVGFkVkRsVWtWdDYyNldyUFJfZFB0bWU0aW9pSmlhZVA2b2ZxdzVYVlVnNEZSdzNqMTNiWlRRb0g5X25xc0tfWDVLb2FQRXowQXJRV3pCc3JoeXFZSTBzTmRfaUlaWQ",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "NVIDIA інвестує в німецького розробника супутників Reflex Aerospace",
-      "original_title": "NVIDIA інвестує у німецького розробника супутників Reflex Aerospace",
-      "summary": "Reflex Aerospace, заснована 2021 року, створює супутники за модульним принципом з готових блоків, скорочуючи час підготовки до запуску до 12 місяців. Стартап планує спільно з Umbra розробити розвідувальний супутник з технологією SAR для європейських клієнтів. Інвестиції NVIDIA можуть пришвидшити впровадження високопродуктивних космічних систем для радіолокаційної розвідки.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/nvidia-investuye-u-nimetskogo-rozrobnyka-suputnykiv-reflex-aerospace",
-      "published": "2026-10-20T09:22:12+00:00"
-    },
     {
       "title": "Diageo та Pernod Ricard під слідством щодо тарифів Індії",
       "original_title": "Diageo and Pernod Ricard face India tariff investigation - The Drinks Business",
@@ -1631,6 +1621,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
       "published": "2026-10-21T14:27:08+00:00"
+    },
+    {
+      "title": "Каллас провела зустріч із міністром закордонних справ Туреччини",
+      "original_title": "EU HR Kallas meets MFA of Türkiye - Council of EU - Newsroom",
+      "summary": "Високий представник ЄС Кая Каллас провела зустріч із міністром закордонних справ Туреччини. Ця подія зафіксована в офіційному прес-релізі Ради Європейського Союзу. У тексті джерела відсутні деталі щодо конкретних результатів переговорів чи підписаних документів, тому опис обмежується фактом проведення дипломатичної зустрічі між представниками ЄС та Туреччини.",
+      "source": "EU Diplomacy",
+      "publisher": "Council of EU - Newsroom",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
+      "published": "2026-10-21T14:31:58+00:00"
     },
     {
       "title": "Elistair розробила дротову систему живлення для дрона Parrot ANAFI UKR",

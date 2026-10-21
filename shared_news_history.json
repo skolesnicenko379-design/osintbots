@@ -8,7 +8,6 @@
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
-    "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
     "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
@@ -28,6 +27,7 @@
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
+    "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
@@ -52,8 +52,8 @@
     "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
-    "https://militarnyi.com/uk/news/istoriya-30-ombr-kostyantyna-vlasenka",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
+    "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
@@ -73,6 +73,7 @@
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
     "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
+    "https://navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet",
     "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
     "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
@@ -80,7 +81,6 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlpVa1RRVjNXbG5Jem1iWVJ4SzEzNlJmZ1dEUFg1S09oOFpyNk9GMHFmQjJxLXFyRHVfS1pPYXFvMHdXQTNIYzFGY3psREtmX3Y5SzB1aDNPN1J4cEVHdTAxaDF3akNFelBuS240ZEZ6ZVkwcHkwUmhYeE9PY2tTQk9LQzBHMmszSVFrdXJoUUdUcnFKREQ0LUxxc3NLYVlxSUNxQW5zZ2d3TGRLbEVCTTVnNEVTMDBNbHZ6bHU5ZU9rRmVWUVNMSnFfUG1ZZjRJVVE",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMW5pQ1lURWF6Y0tNMXh2ZldGM2w5RUpHenhEa0hUU2tQMHBIMDlYT21LYzc5Z3NneV81RVc5eW5DV2lSTGxxQWNLVlNBSU9QLVQzLW5YcFBZNlh6cFQ1dU0wX01mdHFwY3h2OUE2TlczMXhoeDEyOEswWHpmbTZNMG5KNmN4NXBHekFyWk1id3J0OGpPMmVXeVBoMG1GWkVfUXJJWk9HVE1rUTBxXzNUNUh3QjNEenZBTlg1Vy1HemxFTXo2NjJ3ck1BRU5pdWJHUXlF",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3VfSmttLWRPWFhxLXhvTmhURzcteDFaYkJxbFV4SFdXRTQ0NFBRZXNCdUFnLUhodVdEeUVZelhYWmhFdTJWa3MzZGZPN01LNFpEVERsRVFvekdrU25GcGdyM01xUFRxdlpPZEJDY0V3R2hZSFFsX2p4eDV6WWZNTVdxWlNueHo5NHM3aW01eEZhc1JNQTFlSzFfTUU1M040QURxQkhmZUpRYlNfQzhSbXl5TDFtRnJUcFdBU0JNcUIxTVE4U3dGWkVJb29RTnJnVnRtVGNn",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
@@ -123,7 +123,6 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFkeGNyVDNFd2J1WWdzOVdGLTVHZEdQLWVvaHdtekdMdTJfZnR6YjRiZFRkY3FKME1MMlpIX2tlOUZ5bkxDVFBmRVpfNURQYkxncHg4QklGaU5CREVrWlRpQkxSamtNOEsza3FaVV83a2h3NGowTDNmZmhNNWRhQldjRGJheFhxOThJaWJXU2pHRG1oOVdnTFZ0ZlJnUUd2SENnSmNXYzJ6WTVtdVpIY2luaWFDZw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDlMelNHcEJ1SDdJa3EweU1qQVN6MXlxUGZwT3Q3SnY5QTdBc0U5Y25DVk9vTzJJOXUtdnpudTJ6YWFkWkVhY1FVMlBtdkhiak9XY1NhcVFpaktlUXJZcFdpSTFSdXdHcDEwblFQRC1CVkcxYUExM3Izd2huQVgwRjZEakF1T3dpOHJhTU14QmRac0ppcUU1NUhDVTEwYlhsRG1NQUZ0RDNMYmFaRVhrMWVuenJ5YkZx0gG4AUFVX3lxTE9YOUx6U0dwQnVIN0lrcTB5TWpBU3oxeXFQZnBPdDdKdjlBN0FzRTljbkNWT29PMkk5dS12em51MnphYWRaRWFjUVUyUG12SGJqT1djU2FxUWlqS2VRcllwV2lJMVJ1d0dwMTBuUVBELUJWRzFhQTEzcjN3aG5BWDBGNkRqQXVPd2k4cmFNTXhCZFpzSmlxRTU1SENVMTBiWGxEbU1BRnREM0xiYVpFWGsxZW56cnliRnE",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFBWmhaLUpOb29pQWgtMEhpclJBcWpGc2hDaGg1b0xzN2s0SUtWQ29VbG5kV2dOdF9UYkVWWmRZbEF0NXdZYW1nMDVHSlVmX1VvZUdPcF95QVR1Ukxid0pIaTNKd2dNWEdUUFFycDByV1BQa3Fra05IaTNZNjF2dEpIM2kwRmw2eVNlTFlscU42UmhxNFl0VXJRV2M0bjhST2RDcEg5dzhsYU1VNl9EdU1TNDJYeGUz",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c",
@@ -149,49 +148,10 @@
     "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
     "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
+    "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "ФРС чхає, але EM не застудилися - McGeever",
-      "original_title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever - The Economic Times",
-      "summary": "Стаття зазначає, що ФРС може чхати, але ринки, що розвиваються, ще не застудилися. Це свідчить про поточну стійкість emerging markets до дій Федеральної резервної системи. Макрофінансовий наслідок - відсутність негайного негативного впливу на ці ринки.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOTl6bVNkbzNsQVRQc2pNcnRLWkpaT2kydTdtSGk1WF94R2RoUndFYXFmcThQaXlIRUt0dzZXcW5lcUlsSUtzQVp6NHdGenF3MnE1R3dLbWpLeUZNenFrcDkyS2FsWTBYM3QxQWRKQmZLX3BoWmhiX19rUTk5QjJnajZLQTZlZy1EeE1oZkczeDd3Vk5EWFZ1SnQySlhwNkl0ejVYMk9BR2REdER2VUNZRGFwcGc4a0pEX3NHRkNZeXV5dGRjVV82ejlxeDFWcmc3R3NmOGVFWGhJdDFk0gHiAUFVX3lxTE8xS0tTMW5HMnZmd2ZCTS1Yb0lkbG9kQjBDOExsOUVUVzBNZ2tiZHBJc09XNkppZGV5amg1dUROUkJqZDcxdnoyREZSUjdwOW1DS01aUktOMW5qT2dVbTdnd0lnTE1IQzhnSzA5QjZ0Zkh6WVV0bXl3UU5wNmFoaFZ6NW5aLVJnVG03anRYWERIeTMtSGg2WHhGQnZSUHNibE1mSllFUVhuZW54MWZzZ1JlQkpYTE1BNkFwSVNfRXNQdHNETmc0LW1URDd3a0ZxeGdDRU85VDRtS3FZc2tOUkllWHc",
-      "published": "2026-10-20T13:47:37+00:00"
-    },
-    {
-      "title": "Воїн 30-ї ОМБр 491 день на позиції без ніг, евакуйований дроном",
-      "original_title": "491 день на позиції без обох ніг: історія воїна 30-ї ОМБр Костянтина Власенка",
-      "summary": "Евакуація важким БпЛА безпосередньо з бетонної дренажної труби на позиції «Веретун» стала першим у світі випадком такого типу. Застосування дрона дозволило уникнути наземної ротації в умовах масованого використання ворогом FPV-дронів. Це зменшує ризики для інших військових та розширює можливості евакуації в зонах з високою щільністю ворожих БпЛА.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/istoriya-30-ombr-kostyantyna-vlasenka",
-      "published": "2026-10-20T13:51:21+00:00"
-    },
-    {
-      "title": "Дрони заполонили AUSA: Армія США відкриває закупівлі новим постачальникам",
-      "original_title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
-      "summary": "На AUSA 2026 автономні системи, дрони, низьковартісні перехоплювачі, лазери та РЕБ домінували на стендах. Пентагон активізує перехід до автономних технологій за участі секретарів видів військ. Армійський CTO Алекс Міллер пояснив, що нова схема закупівель дозволить уникнути ранньої фіксації на одному рішенні та пришвидшить масштабування технологій від стартапів.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
-      "published": "2026-10-20T13:57:13+00:00"
-    },
-    {
-      "title": "Опозиція Австралії блокує торговельну угоду ЄС",
-      "original_title": "Australia’s opposition moves to block the European Union trade pact - Vinetur",
-      "summary": "Опозиція Австралії вживає заходів для блокування торговельної угоди з ЄС. Це стосується економіки та торгівлі між Австралією та Європейським Союзом. Наслідком може стати затримка або зрив угоди, що вплине на торговельні відносини.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Vinetur",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDlMelNHcEJ1SDdJa3EweU1qQVN6MXlxUGZwT3Q3SnY5QTdBc0U5Y25DVk9vTzJJOXUtdnpudTJ6YWFkWkVhY1FVMlBtdkhiak9XY1NhcVFpaktlUXJZcFdpSTFSdXdHcDEwblFQRC1CVkcxYUExM3Izd2huQVgwRjZEakF1T3dpOHJhTU14QmRac0ppcUU1NUhDVTEwYlhsRG1NQUZ0RDNMYmFaRVhrMWVuenJ5YkZx0gG4AUFVX3lxTE9YOUx6U0dwQnVIN0lrcTB5TWpBU3oxeXFQZnBPdDdKdjlBN0FzRTljbkNWT29PMkk5dS12em51MnphYWRaRWFjUVUyUG12SGJqT1djU2FxUWlqS2VRcllwV2lJMVJ1d0dwMTBuUVBELUJWRzFhQTEzcjN3aG5BWDBGNkRqQXVPd2k4cmFNTXhCZFpzSmlxRTU1SENVMTBiWGxEbU1BRnREM0xiYVpFWGsxZW56cnliRnE",
-      "published": "2026-10-20T13:58:30+00:00"
-    },
     {
       "title": "«Примари» ГУР уразили «Торнадо-С», «Бук-М3», «Оріон» та РЛС",
       "original_title": "«Примари» ГУР уразили російські «Торнадо-С», «Бук-М3», безпілотник «Оріон» та низку РЛС",
@@ -1243,6 +1203,16 @@
       "published": "2026-10-21T13:22:09+00:00"
     },
     {
+      "title": "Провідний флот обрав навігаційні системи Exail для свого парку безекіпажних катерів",
+      "original_title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+      "summary": "Exail отримала значний контракт на оснащення парку безекіпажних надводних апаратів (USV) інерціальними навігаційними системами серії Marins. У повідомленні не названо ні флот-замовник, ні кількість комплектів, ні вартість контракту, ні конкретні моделі Marins. Інерціальна навігація зберігає точне позиціонування за глушіння чи підміни GNSS, тому для автономних катерів це важливо в умовах радіоелектронної боротьби. Конкретніше оцінити вплив на можливості флоту неможливо, поки не оприлюднено деталі замовлення.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet",
+      "published": "2026-10-21T13:32:56+00:00"
+    },
+    {
       "title": "Оборонні гіганти шукають одного науковця-дослідника на кожні 1,4 вакансії розробників",
       "original_title": "Defense primes advertising one research-scientist role for every 1.4 developer roles",
       "summary": "За даними Army Technology, оборонні прайми дедалі частіше публікують вакансії дослідників (research scientist) в ІІ, тоді як попит на класичних розробників програмного забезпечення знижується. У тексті новини немає конкретних компаній, цифр чи технічних характеристик, тож висновки обмежуються загальним трендом. Якщо він збережеться, оборонна індустрія переорієнтовуватиметься з інтеграції готового софту на власні дослідження в галузі ІІ, а це може вплинути на темпи створення автономних і аналітичних систем.",
@@ -1453,6 +1423,16 @@
       "published": "2026-10-21T17:07:44+00:00"
     },
     {
+      "title": "Ghost Shark уперше показали під час запуску повітряних дронів: 12-трубна пускова установка й нові щогли",
+      "original_title": "Ghost Shark Uncrewed Submarine Shown Launching Aerial Drones For The First Time",
+      "summary": "Відео Anduril вперше показує, як австралійський XL-AUV Ghost Shark на поверхні відкриває люки на верхній частині корпусу, піднімає пускову установку з 12 похилих труб і запускає дрон типу ALTIUS. Раніше публікувалися лише фото бічного вантажного відсіку та перелік корисного навантаження, тож це новий факт про спосіб застосування. Згідно з Anduril, ALTIUS-600 має дальність близько 275 миль і щонайменше чотири години польоту; Ghost Shark може нести до двох десятків дронів за один вихід, що дає змогу вести розвідку й завдавати ударів із прихованої позиції. Конкретний варіант ALTIUS у кадрі не вка",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
+      "published": "2026-10-21T17:10:21+00:00"
+    },
+    {
       "title": "Туреччина, Пакистан та Саудівська Аравія уклали оборонну угоду в Мецці",
       "original_title": "How the Mecca defence agreement between Turkiye, Pakistan and Saudi Arabia will work - CTV News",
       "summary": "Туреччина, Пакистан та Саудівська Аравія підписали оборонну угоду в Мецці, яка визначає механізми військової співпраці між трьома країнами. Документ спрямований на зміцнення безпекового партнерства та координацію спільних дій у сфері оборони. Сторони погодили практичні кроки щодо реалізації домовленостей безпосередньо в регіоні.",
@@ -1573,6 +1553,16 @@
       "published": "2026-10-21T19:27:06+00:00"
     },
     {
+      "title": "НАТО розгортає додаткові патрульні літаки, радіолокаційні системи та дрони у Чорному морі",
+      "original_title": "НАТО відправить додаткові літаки, радари та дрони до Чорного моря через атаки на цивільні судна",
+      "summary": "НАТО розгорнуло нові патрульні літаки P‑8A Poseidon, радіолокаційні системи і безпілотники у Чорному морі у відповідь на атаки на цивільні судна. Це збільшує можливості спостереження, раннього виявлення та протидії безпілотникам, що підвищує безпеку українських та союзних суден і посилює військовий вплив у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
+      "published": "2026-10-21T20:18:24+00:00"
+    },
+    {
       "title": "ВПС США почали розробляти концепцію підтримки експлуатації бойових дронів CCA",
       "original_title": "Air Force starting to game out sustainment framework for CCA drones",
       "summary": "Командувач Матеріально-технічного командування ВПС генерал-лейтенантка Лінда Геррі заявила, що рамку підтримки життєвого циклу для CCA лише починають розробляти. Вона має врахувати ланцюги постачання та субпостачальників другого й третього рівнів до розгортання 500 платформ до 2032 року; перших виробників — Anduril і General Atomics, а автономію постачатимуть Shield AI і Collins Aerospace. Водночас система обслуговування має брак близько 8 200 посад (у центрі підтримки — приблизно 2 600) і «діру» у $14 млрд на запчастини, що може обмежити готовність як нових дронів, так і наявних літаків.",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
       "published": "2026-10-21T21:10:41+00:00"
+    },
+    {
+      "title": "Лідери армійських спецсил бачать перспективи та великий попит на нову посаду техніка‑інтегратора робототехніки",
+      "original_title": "Army Special Forces leaders see promise, high demand for new robotics technician integrator job",
+      "summary": "У жовтні 2024 року армія випустила перший плід робототехнічних вартових офіцерів, які отримали звання Robotics Technician Integrator (MOS 390A) і будуть працювати безпосередньо підрозділах, допомагаючи командуванню впроваджувати безпілотні системи. Командування планує розширити цю роль у рамках Futures and Autonomous Systems Command, що має підвищити ефективність автономних технологій та швидше адаптувати нові платформи у бойових умовах, зокрема з урахуванням досвіду війни в Україні.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
+      "published": "2026-10-21T22:25:06+00:00"
     }
   ]
 }

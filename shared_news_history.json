@@ -2,6 +2,7 @@
   "links": [
     "http://africanews.com/2026/10/21/un-warns-against-premature-exit-of-peacekeepers-from-central-african-republic",
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
+    "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
@@ -12,7 +13,6 @@
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
-    "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
@@ -51,7 +51,6 @@
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
-    "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
@@ -85,6 +84,7 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
@@ -132,11 +132,11 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcW9TT3BOc0t3bE9LSm1IblNadmQ5LTBVM1lEa3haWmlGZXgtcFp3N3Nxb0lyOVUtd1pseF8tWEw2NnQtUjk2REpHcFNxdlRPeHlheXFQaFZkTlBaM1h0RzgyQVRTd25uNjhkUzM1M2pFVUgxaFo5N2J5UkdpQmtaMkFnNFdudG9fSm1kT29BOE1jX01OM0VFQ0ZyQUxtTnF5dmZPZWh3SXNHUlQ0Z3RWamJXa3VuWGtmeWF1eWNB",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXp5RFllMW9KMTl4cjM3Z0t6S3RKT3o4TDRYUlB5V3BSdWh5SW9xZl80d1hObHBwVzlaVHVqSlp0SzJfSzJLOHNqRWpGM0lpQWF0YTFmSU1raElHZHh1c2xiN3k2TUt5anJZWWNST2h2V3VyTHlBYjkwbEdSRTNrRXNXLUdVcG1LeTA0dmlWMXoxOVZ0V0RrQ1ZhaU1xaXNHMTZrWDZYZUVvNlR5dlVyVlVWQTBGcEU3RGhWWjlB",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1JGOUFfcHgwaVp3MGVaNkpYakVMT1dETi1IZmlkTVVuSE8yVDlFQjk0dVY0Ri1fRkJybmZ2a0I3NmEzQlB6U1RSaEJaYlczT0hxWjRnN3ZUeUVjUmVCM0tQdXpfV1hzbi1ZNERwWXpPNElscnh5S2hiaF8tak1TT3NSSGMzWDJrcDZoY0ZNOUx6LUczUFpTTnFUUExjclhSMWt0WmVvcmh4c1QySEg5dnRWbzlWWUY2bGJKd1BrNA",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWpqNFh3cVZTRzlNeV9VZlJoS2RtaEVhOFQtUzRJN0NEdnpXWXowWEZIS3EzQ2loWWRCQkVXYkp5QXVUOElCd0lKelpZaEktRjN0UUNPQ2p2M1pTVjVGT0dQdDZ0emdoM3FBWS1FWXd1WnFsdU1vSFRsOHFpQWdEeDN0Rjdnc1p0UEh6dGZDdEpFdk90N1J0TUwyamJ1LWRUSkdqZ0NicXNfSkcxWklzSmNvbTY5RVdTLWcxc0dSYW1WZw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0plQVFmeFNZX3hwVmZ6TXFVaXAxb0dELTVVZXo0RFRXVnRfS09XU24xalZYdE9kR0M1M3R1eElCV0F4cDg0ZTNfS1R4MmFJZU5EV1FFS0NhNGxaWldqaVFGSnIwRkV2dTh5eHotSjZWek85OUJ0OGV6cmV0QWVneVgyQ195SERfYVBLdUlEX0RhZ2h1WkZMVEFRbGsydGx4a2dvVWtPMEV4VjZYSU10QW9zcjh5ZTNDNmExWkpBY0c3ZFF1",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlhORjU1TVFiTFkzeGJSVS1mUGNfZnVFaWxNbzZzNW4zdFRna2N0RE1NYTdMQUJHUk13a3FWOVFsaFAyT3I3TnhFd3dob1dpUUlkTWk2LW1qRHNLbTk2RnJOaURrRnlvQXlpRTJERVJ0UUt4eE5GRzdIRWxnR0JjXzZTX090LUpiNWZzZ1VpeTJaaFpBbDJ5ODZySkVEY1NkaW9BalJTMm0zZ0MtMmllbU5zQ2dyV00yNzRoal8tZGU5a3Z5WWNPadIBzgFBVV95cUxQZHNrdi1pM09qUVktZHNBSlZPdjQzRUdPR3ltcDZsNkN0MlZWV0J4cTIzbEdqR2NMYmF0QVFEZVgzRlNKTmxVVHBOTkE1ZlU0U0RjdDNYbElxYTJLWWk5RTZGeFUzREhEVFFJd1hlMzBkQVlHQUttekRuZzlhYzZSX05yV1JqLWxDSmpkdFdTTXBROFBLa1JvYjNDVENpMThnaVI0RGpxQ292OXRZelRsM1JWWFFTM1AxUnNnNkRQRERfRkhsUFJWYlEzb2drdw",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWoteEJZTXZ1RlZCZlYyajgtXzQyWkR5MC1uVldIQ1QtTW16dlNaeHBzS0xETXFiOVhtd0R5MFRqT2dNQVFjOFREYVVIczBnNnBiekNVRkFCanNkRTZUUjdpYkgyZE0tS2wzWlNTcGJmOERRVW9xTWFWa1lyNjlkbHBxV09pZEg3Ql9WZmVXSTFobmVYMU1CcnJobDVlRkh4STlTWUZESnZyM3VNRHdmaHFPOE5EZ3RmZUFVRktsVUFKY3pyTmlxNkVn",
@@ -152,36 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Нідерланди отримали ще два модернізовані AH-64E Apache",
-      "original_title": "Нідерланди отримали нову партію модернізованих гелікоптерів Apache",
-      "summary": "Гелікоптери AH-64E отримали сучасні радари, сенсори, засоби зв’язку та навігації, а також систему Link 16 для захищеного обміну даними з підрозділами НАТО. Машини оснащені композитними лопатями та двигунами підвищеної потужності, що покращує взаємодію з наземними підрозділами та авіацією. Модернізація дозволяє продовжити експлуатацію та підвищити ефективність бойових операцій.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
-      "published": "2026-10-20T19:07:57+00:00"
-    },
-    {
-      "title": "Лише Братислава перевищує середній рівень ЄС",
-      "original_title": "Only Bratislava is above EU average as Slovakia’s poorer regions struggle to catch up - The Slovak Spectator",
-      "summary": "Згідно зі статтею, лише Братислава перевищує середній рівень ЄС. Бідніші регіони Словаччини намагаються наздогнати. Це підкреслює регіональні диспропорції в макроекономіці країни та промисловому розвитку.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "The Slovak Spectator",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXp5RFllMW9KMTl4cjM3Z0t6S3RKT3o4TDRYUlB5V3BSdWh5SW9xZl80d1hObHBwVzlaVHVqSlp0SzJfSzJLOHNqRWpGM0lpQWF0YTFmSU1raElHZHh1c2xiN3k2TUt5anJZWWNST2h2V3VyTHlBYjkwbEdSRTNrRXNXLUdVcG1LeTA0dmlWMXoxOVZ0V0RrQ1ZhaU1xaXNHMTZrWDZYZUVvNlR5dlVyVlVWQTBGcEU3RGhWWjlB",
-      "published": "2026-10-20T19:24:00+00:00"
-    },
-    {
-      "title": "Дакота Мейєр став старшим радником Цільової групи з казарм Пентагону",
-      "original_title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-      "summary": "Призначення дозволить Мейєру інспектувати казарми на 21 базі до кінця грудня. Завдання включає виявлення перешкод для покращення умов проживання військових. Фінансування в 1.2 млрд доларів за One Bill Beautiful Bill Act спрямоване на модернізацію інфраструктури для підвищення readiness.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
-      "published": "2026-10-20T19:32:18+00:00"
-    },
     {
       "title": "Європейська рада та Комісія оголосили спільну заяву",
       "original_title": "Joint statement by the President of the European Council and the President of the European Commission - Consilium.europa.eu",
@@ -1573,6 +1543,16 @@
       "published": "2026-10-22T06:59:09+00:00"
     },
     {
+      "title": "Сомаліленд заперечив досягнення нової угоди щодо повітряного простору з урядом Сомалі",
+      "original_title": "Somaliland denies reaching new airspace agreement with Somali government - Hiiraan Online",
+      "summary": "Уряд Сомаліланду офіційно заперечив інформацію про досягнення нової угоди щодо управління повітряним простором із федеральним урядом Сомалі. Ця дипломатична розбіжність стосується офіційних переговорів та взаємодії між сторонами щодо контролю над повітряним простором регіону.",
+      "source": "Treaties & Agreements",
+      "publisher": "Hiiraan Online",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
+      "published": "2026-10-22T07:33:49+00:00"
+    },
+    {
       "title": "Voyant успішно продемонструвала Міноборони Британії навігацію автономних систем без GNSS",
       "original_title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
       "summary": "Voyant показала Міноборони Великої Британії своє навігаційне програмне забезпечення для стійких систем позиціонування, навігації та синхронізації (PNT) на автономних морських платформах. Призначене воно для роботи в умовах радіоелектронної боротьби, коли сигнал GNSS пригнічений або недоступний. У джерелі немає технічних характеристик, типів платформ чи умов випробувань, тому оцінити точність і дальність автономної навігації поки неможливо. Якщо технологію приймуть на озброєння, вона підвищить живучість безекіпажних катерів і підводних апаратів в умовах глушіння та підміни сигналу.",
@@ -1581,6 +1561,26 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
       "published": "2026-10-22T07:51:18+00:00"
+    },
+    {
+      "title": "ЄС шукає переговорника з Путіним, розглядаючи кандидатуру Александера Стубба",
+      "original_title": "EU looks for someone to lead talks with Putin, with Finnish President Alexander Stubb among candidates, Politico reports - Meduza",
+      "summary": "Європейський Союз розглядає кандидатури на посаду очільника переговорів з російським президентом Володимиром Путіним, серед яких називають президента Фінляндії Александера Стубба. Повідомлення базується на даних видання Politico та описує поточний процес пошуку дипломатичного представника для комунікації з РФ.",
+      "source": "Bilateral Meetings",
+      "publisher": "Meduza",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
+      "published": "2026-10-22T08:04:00+00:00"
+    },
+    {
+      "title": "Бельгія засудила створення колишнім лідером ДР Конго політично-військової групи",
+      "original_title": "'Deplorable': Belgium condemns ex-DRC leader Kabila's launch of political-military group",
+      "summary": "Бельгія офіційно засудила рішення колишнього президента Демократичної Республіки Конго Жозефа Кабіли створити новий політично-військовий рух, назвавши цей крок неприйнятним та незрозумілим через десять днів після оголошення ініціативи.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
+      "published": "2026-10-22T08:08:01+00:00"
     },
     {
       "title": "Банк Кореї зберіг ставку, але натякнув на посилення",

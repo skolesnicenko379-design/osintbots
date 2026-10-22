@@ -39,8 +39,8 @@
     "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
     "https://middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
+    "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
     "https://middleeasteye.net/live-blog/live-blog-update/sisi-says-egypt-will-defend-saudi-territory-without-attacking-yemen",
-    "https://middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet",
     "https://middleeasteye.net/live-blog/live-blog-update/us-order-departure-embassy-staff-gulf-countries-officials-say",
     "https://middleeasteye.net/live-blog/live-blog-update/us-releases-new-iran-related-sanctions",
     "https://middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
@@ -52,7 +52,6 @@
     "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
     "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
-    "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
     "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
@@ -65,7 +64,6 @@
     "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
-    "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
     "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
@@ -98,6 +96,7 @@
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLOWJuSlR2U2g3YkxyZlA2N2NRSlNNT3dwNkdNZnBQSGlLTHdqQ3Jna3JrV19jVjVSMkVGeDBXNUVma05lZVhfQ0EzMm41Q3JhejV2NGFORU5yV1E",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SN19hUWZBTTBiRDRvMU5uZF9lQ082T1hPXzM4NW1ZY09zUmpKRTZEVFAxMU5OdGRKdXluM1daSEhFZ1p3UXU5Z2swYXM3UzdCQXFYRFpoX3l2TVVOdk9xVGVZTkRiVVpial9pZmY0enBSUnc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVEdISHhjckFfODNnR2U2bE84SWh1UVU3cG42N0NuWWZ4SW8wTzduWFFzUjNZUmNTOG9ISEVEWlJLYWhLVFVmUUJFVm9jSmRMVnc5SE9GdVdUaElBRnpXQU1rUWFKbHdRZmZFa29YNWtSbi0wZ0E",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pVEE2SnJMN212S3RmTkxuSkhTXzF3Y3ZFa3A4WU9GQ29HcXQwSTdTc25RbThQUUFZMGVBVzJ0enVqcGNkcG9oYzlqeTRCNmF4cWJEcEJfS0ZBS2tuZXlfbHFRZDBXTmV3TXVBZW0tVG8td01oM3NjSHF3",
@@ -114,9 +113,10 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdLR0J3X2Y4a1A1Tk9MODZJQnFTN1RGdzV0Nml4aEMtUTRhTjU5U3RfdHU3YlRxdWZtMHU3azU3X2VMeXdJMVQ5WHlIU19VTTNkZkJPQ21wVXp4eEotWGJSQU4wVzRud3JNYmI0LVRqaGticzdYbWlQYVpUa3NES2tlRnVwdVZ1SENzSzlVOTRkdlg3M3BMQjRzZHV2cV9FTEFIZnFwVQ",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
@@ -129,7 +129,6 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcW9TT3BOc0t3bE9LSm1IblNadmQ5LTBVM1lEa3haWmlGZXgtcFp3N3Nxb0lyOVUtd1pseF8tWEw2NnQtUjk2REpHcFNxdlRPeHlheXFQaFZkTlBaM1h0RzgyQVRTd25uNjhkUzM1M2pFVUgxaFo5N2J5UkdpQmtaMkFnNFdudG9fSm1kT29BOE1jX01OM0VFQ0ZyQUxtTnF5dmZPZWh3SXNHUlQ0Z3RWamJXa3VuWGtmeWF1eWNB",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1JGOUFfcHgwaVp3MGVaNkpYakVMT1dETi1IZmlkTVVuSE8yVDlFQjk0dVY0Ri1fRkJybmZ2a0I3NmEzQlB6U1RSaEJaYlczT0hxWjRnN3ZUeUVjUmVCM0tQdXpfV1hzbi1ZNERwWXpPNElscnh5S2hiaF8tak1TT3NSSGMzWDJrcDZoY0ZNOUx6LUczUFpTTnFUUExjclhSMWt0WmVvcmh4c1QySEg5dnRWbzlWWUY2bGJKd1BrNA",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
@@ -147,61 +146,12 @@
     "https://twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
     "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
+    "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Excalibur Army представила самохідний міномет Alakran на шасі PATRIOT 4×4",
-      "original_title": "Excalibur Army представила самохідний міномет з системою Alakran, яку використовують в Україні, на шасі PATRIOT 4×4",
-      "summary": "Компанія Excalibur Army (частина CSG) представила на Future Forces Forum самохідний міномет з системою Alakran, встановлений на бронетранспортері PATRIOT 4×4. Система підтримує міномети калибру 81 та 120 мм, вагою близько 1 т, зі швидкістю вогню 25 пострілів/хв (81 мм) та 19 пострілів/хв (120 мм) і дальністю до 6,9 км та 8,25 км відповідно, що підвищує мобільність і вогневу гнучкість підрозділів ЗСУ. Завдяки модульності шасі PATRIOT, система може бути інтегрована й на інші платформи (VAMTAC, Land Cruiser тощо), розширюючи можливості швидкого розгортання мінометних підрозділів на полі бою.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
-      "published": "2026-10-21T10:21:17+00:00"
-    },
-    {
-      "title": "Турецький та катарський міністри оборони провели зустріч",
-      "original_title": "Turkish and Qatari defence ministers meet",
-      "summary": "Турецький міністр оборони Ясар Ґюлер зустрівся з катарським заступником прем’єра та міністром оборони Саїдом бін Абдулрахманом Аль‑Тані, який вітав його військовою церемонією в Міністерстві оборони Катару; під час переговорів обговорювали двосторонню співпрацю, про що повідомив офіс Ґюлера у заяві на X.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet",
-      "published": "2026-10-21T10:26:09+00:00"
-    },
-    {
-      "title": "Відсоткові витрати за боргом США $40 трлн тиснуть на бюджет",
-      "original_title": "Interest payments on America’s $40 trillion debt eats up a huge piece of the budget — as deficit hits $2 trillion - New York Post",
-      "summary": "За даними New York Post, державний борг США сягнув $40 трлн, а дефіцит бюджету — $2 трлн. Виплати за обслуговуванню боргу займають значну частину бюджету, проте точної суми чи частки в тексті немає. Зростання відсоткових витрат звужує фіскальний простір і може посилювати тиск на ринок держоблігацій та дохідності. Це ускладнює баланс між фіскальною стабільністю та монетарною політикою ФРС.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "New York Post",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcW9TT3BOc0t3bE9LSm1IblNadmQ5LTBVM1lEa3haWmlGZXgtcFp3N3Nxb0lyOVUtd1pseF8tWEw2NnQtUjk2REpHcFNxdlRPeHlheXFQaFZkTlBaM1h0RzgyQVRTd25uNjhkUzM1M2pFVUgxaFo5N2J5UkdpQmtaMkFnNFdudG9fSm1kT29BOE1jX01OM0VFQ0ZyQUxtTnF5dmZPZWh3SXNHUlQ0Z3RWamJXa3VuWGtmeWF1eWNB",
-      "published": "2026-10-21T10:30:00+00:00"
-    },
-    {
-      "title": "Кіпр має найбільший профіцит бюджету в ЄС — 3,6% ВВП",
-      "original_title": "Cyprus records EU’s highest government surplus at 3.6 per cent of GDP - Cyprus Mail",
-      "summary": "Кіпр зафіксував найвищий у ЄС профіцит держбюджету — 3,6% ВВП. Це свідчить про помітно сильнішу фіскальну позицію країни порівняно з іншими державами Євросоюзу. Профіцит такого розміру зменшує потребу в запозиченнях і підтримує стійкість державних фінансів. У тексті немає даних про період, джерело оцінки та структуру доходів і видатків, тому причини результату й повну оцінку наслідків зробити неможливо.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Cyprus Mail",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
-      "published": "2026-10-21T10:36:31+00:00"
-    },
-    {
-      "title": "Росія збільшує виробництво реактивних дронів «Герань-4/5» до 4 000 шт./міс.",
-      "original_title": "Росія наростила виробництво реактивних дронів «Герань-4/5» до 4 тисяч на місяць",
-      "summary": "Росія збільшила виробництво реактивних дронів «Герань‑4/5» до 4 000 одиниць на місяць, що вдвічі перевищує випуск поршневих «Герань‑2». Дрони досягають швидкості 400–500 км/год, що ускладнює їх перехоплення українськими мобільними вогневими групами. Зростання виробництва підвищує загрозу для української авіації, збільшуючи кількість швидких, масивних ударних БПЛА, що можуть перевантажити системи ППО.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
-      "published": "2026-10-21T10:40:47+00:00"
-    },
     {
       "title": "Європа розглядає надання комунальним та інфраструктурним компаніям права збивати дрони",
       "original_title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
@@ -1523,6 +1473,16 @@
       "published": "2026-10-22T16:36:31+00:00"
     },
     {
+      "title": "Банк Японії, імовірно, збереже ставку 1,25% у жовтні",
+      "original_title": "Bank of Japan Expected to Hold Policy Rate at 1.25% in October - TOKENPOST",
+      "summary": "Згідно із заголовком TOKENPOST, ринок очікує, що Банк Японії у жовтні залишить базову ставку на рівні 1,25%. Стаття містить лише заголовок, тому причини такого очікування, дата засідання, прогнози інфляції та оцінки аналітиків невідомі. Якщо прогноз підтвердиться, монетарні умови в Японії лишаться без змін, а нового сигналу щодо подальшого посилення політики не буде. Для ринків це означає, що увага зосередиться на риториці регулятора, а не на самому рішенні щодо ставки.",
+      "source": "Японія · монетарна політика",
+      "publisher": "TOKENPOST",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLOWJuSlR2U2g3YkxyZlA2N2NRSlNNT3dwNkdNZnBQSGlLTHdqQ3Jna3JrV19jVjVSMkVGeDBXNUVma05lZVhfQ0EzMm41Q3JhejV2NGFORU5yV1E",
+      "published": "2026-10-22T17:23:00+00:00"
+    },
+    {
       "title": "Global Ordnance і Sparkz планують до 2027 року виробляти батареї для дронів армії США",
       "original_title": "Global Ordnance and Sparkz target US drone battery production in 2027",
       "summary": "Global Ordnance уклала рамкову угоду на постачання з виробником акумуляторів Sparkz щодо випуску батарейних блоків для дронів американських військових. У наведеному тексті немає технічних характеристик батарей, обсягів чи вартості контракту, тому оцінювати їхні параметри зарано. Угода важлива для скорочення залежності від іноземних, передусім китайських, ланцюгів постачання компонентів, яка лишається вразливим місцем для масового виробництва дронів у США.",
@@ -1623,6 +1583,16 @@
       "published": "2026-10-22T19:41:13+00:00"
     },
     {
+      "title": "ЕКЛАК знизила прогноз зростання Латинської Америки на 2026 рік до 2,0%",
+      "original_title": "ECLAC cuts Latin America’s 2026 growth forecast to 2.0% - IntelliNews",
+      "summary": "Економічна комісія ООН для Латинської Америки та Карибського басейну (ECLAC) знизила прогноз економічного зростання регіону на 2026 рік до 2,0%. У статті немає попереднього значення прогнозу, причин перегляду та даних по окремих країнах, тому масштаб коригування оцінити неможливо. Сам перегляд вниз означає погіршення очікувань щодо регіональної економічної активності. Для ринків це сигнал обережніше оцінювати попит і інвестиційні ризики в регіоні, а деталі потрібно уточнити за повним звітом.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "IntelliNews",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
+      "published": "2026-10-22T19:47:47+00:00"
+    },
+    {
       "title": "Conference Board: економіка США стабільна попри похмурі очікування споживачів",
       "original_title": "Economy holds steady despite grim consumer expectations: Conference Board - CFO Dive",
       "summary": "За заголовком CFO Dive, Conference Board оцінює економіку США як стабільну, хоча очікування споживачів залишаються похмурими. У наданому тексті немає конкретних показників, тому масштаб розриву між поточною активністю та настроями оцінити неможливо. Макрофінансовий наслідок: слабкі очікування домогосподарств лишаються ризиком для майбутніх витрат і зростання. Водночас стабільна поточна картина знижує потребу в терміновому пом'якшенні політики ФРС. Для підтвердження висновків потрібні дані повного звіту.",
@@ -1651,6 +1621,36 @@
       "channel": "miltech",
       "link": "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
       "published": "2026-10-22T20:46:07+00:00"
+    },
+    {
+      "title": "US Treasury proposes rule to curb high‑tech investments in China",
+      "original_title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries - Huron Daily Tribune",
+      "summary": "Кабінет міністрів США представив нове правило, яке обмежує інвестиції у високотехнологічні сектори Китаю та інших ворожих країн. Це призведе до скорочення доступу американського капіталу до китайських технологічних компаній, підвищуючи вартості фінансування та знижуючи ліквідність на ринку інвестицій. Очікується зростання ризикових премій і посилення валютних коливань між доларом і юанем через обмеження грошових потоків.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Huron Daily Tribune",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
+      "published": "2026-10-22T21:17:50+00:00"
+    },
+    {
+      "title": "USAF підтверджує, що бомбардувальники можуть виконувати значну роль у повітряно‑повітряних боях",
+      "original_title": "USAF Confirms Bombers Could Have A Major Air-To-Air Combat Role",
+      "summary": "США розглядають можливість використання B‑21 Raider у повітряно‑повітряних боях, зокрема у співпраці з дронами Collaborative Combat Aircraft. Ключові переваги – величезний радіус дії, висока стеля, стелс‑технології та розвинені сенсори, що дозволяють бомбардувальнику брати участь у бойових операціях, зменшуючи потребу у нових істребителях.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
+      "published": "2026-10-22T21:31:48+00:00"
+    },
+    {
+      "title": "ООН припиняє координацію входу в Газу через арешти",
+      "original_title": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
+      "summary": "ООН оголосила про припинення прийому палестинців, що повертаються з Єгипту, через ризики безпеки та повторні арешти із боку Ізраїлю. Це рішення йде після арешту пацієнта з раком та його доньки. ООН продовжить медичні евакуації, але вимагатиме альтернативу.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
+      "published": "2026-10-22T22:17:22+00:00"
     }
   ]
 }

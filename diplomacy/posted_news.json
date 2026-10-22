@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUFwSlpLdFI2bUZPUDdyUkNCUjV3VU5SaGl4eDZsTjlhLVF0eUZpcUZzV1BPLTN5WlJqNDRvRGxjUnppNXRlcjYzbHFoN2x3QUxIZ2NiTU41RVExUXFBQmh1Nmo4d01QU0RQN1BTODBOUzlxbnRsUlA2UTJkU3RhbzNrdWFzVjBsSlJWbFJEcUVkZ0x2Z0FuZ1NzWEg5NkdGd29hQS12d0FwQklDdFBPZHlZLTRnNlNtRVRFcU1GaE94Tm4xREpMR2hNaTBkWl9UM1otRA?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmw4WlFnNldRQkxPaUQyRFNJZ0JQdFJ0TTI5WFVPMm43OV9Ld2lrb2NscWg3a1NvWXB3dF9Cem5yc1VlLUk5dFVjZzI4SW1QUkZGWjk1dnN1Z3RGZGpaNkNVNHJjQ2VuaFZvR01FZVJuY090ODhjWjJteXBoOXhxdllzb3FjLUdzYUlyVVZuem5WVkxxMGI5clU2VDNUaGJUa1JMM0VsUGZOdjFKRkQ2T2tlOA?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzhUdVI3N0VLM3Z0X3ZTX1k5X3hKXzhTU2NSNHhyLThEZmJQZWV4Y0c4eFl2OXpLQmxITmFNTW1KTFcxREdXSklUZTNxejNqX0V5TjVQWDlva1Q5X3BmWFRsV0NaWTdiT1hTckN2Qk5QRklzSlRna2NZUE1FRHhNV1FEYkJtVFFpbzA5M3AtMWd4ZmNsMHA5Rkc2N1c4WThaV2l3eDFEUTBzVmltRFBHLTNyVXY2Skdrc3R0T1V0c0tvOEJHSUhBNVBxdFZNMWdZd3JpeVBDaw?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWlQcnN5UWd4cWE2UHJabmg0ZWZfUlFETE15RThZa09hYUxLZ21XQTRZUzJQLTF4b3UtWkZUTC0zOVRtbnAtXzNabVdjajhxZGpzNjZldjRfcXZhbXhNMWxDR1dMTTRtME1nZVNCTmduNHNFTTFGak1sNGdRNWpLVjA1XzZ1Yk9fbFdSVFdyek9tSUtmM3BoWTI2VzVTV2x6dHBsMUVtS1JoM1E2ODdZT0xqWHVPSF83cE94czNhUWhld3NmTDhDUEZ5OThmSl8ydWdJVnNScDc?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalhkUFF4ejV0QUhWWVBuZnhNWkZwMFJCNzE2TjJJRkk4UUlXeEtzRDA4NFFObVdzQ240R2ZoUV84STdPTWt5cjRCQ01oZGdXbm1oZjNWTHBLdkoyblZpeEdURnk5T0o5aXpad3hJd2NXcWVQbjlmRDlqd0h4WEVWOXE4c0JKcXZZbTJmYkhLTTNWQjdpR09PVU95TXBsSlpQdXBTSHY4ZXJlNHdTOWhUc3BZMGptOEt3amVWcTNpYUZKSUczRGthTw?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODA4dVY3cTJsMkdTWkxfdFRBc3RZY3AzNDVaZlg2UG5oNzJVdmtKV2FqMnhUVFNRR1RiZzdIOXBLN1UtNURUdzFiZU5pdndBTURTTTFVVlZOdld4c09fdGdSanlYUjJPLUlJZGI2UjVNYldBNE9hX3Y2a01QWFYtNTMyNnZGbHIzWWNPTUZYTDFGd0FfLXBoOXJDZW9YQ0ROODNsQm0tLXBETWNsVmRpR3lGamtKZjRNa1Q2bFVvbWlyOTlXaDBEUw?oc=5",
     "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVFpZMUNzbGVWRW5iY0gteXNGSFowWmRyQUJXeWVXYTVPOU9CYlhraWQ4M3RMM3YzTXVIQ2k3bEdROGtBZTR3SnRlVTFmVXMtWkN3Qk5QUkppbGZyQ096YW5Ec3F3djJPZGxZaUpSYXRqLTdRb29XV29uT2JqT0RBMHNheWdSUk9Wak9uZUNTa0libzBIYy1jRjE0bTMzT2JpRE5zUExBUzlRYnI2MFdhUjQyTzBDU3k5MjkyY0NVRXNuUWdqM2p2d1VUa0JkREVNVEM1ekxSZ0JzLWdWaFRnNkE0US1EMzJXVWJ0XzJhckFsa1p5TmNueTgzMUhUNkI1LUJvSjN3MUx2VFpyZm1tTTBxR0tYSGpMc05aMktmR1VFXzFoWUdGc3hmanpHbGFOYmxr?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ01qS1dJcmRGRE41MS1CbmVaMFdwT2lTOVU2ckRzV1Q1ekpkbnBXS3dlUlpuNXZJcEQ4cnRTa0dkY3RlZmJXeG9zS0dZOFBua1k5VDdCZXB0dUNYUlZIWU1iQ3hoMnZ4Q2txSGJHdU5yVVdSQjRxRHhCMm9ESlkzWjktOUVzcTVpZk9lRFBzTGROaWYwMjF2Q0hmVjA2dTlhcVkxeEJnY29kZGlC?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQnV1SmQ0RWo5VzNGbng4cnRXS1d5dXBsTG41RHFKQkQ2QlR5V19VYThuMDVjRTZZR1htcmFGT2R0b1VFa1d1MGwyV0owMVJVNzcwQjJvVklCU1AwOXp0TTA0NG50Ykg1ZUZBWk9MNG1EOFVYTGpwTWdyQ1l1eVl0X2o4aGl1SjZWcUtHWlY0c2JYMVVrb01QRjBUSkN5bnhPVERkSWVxdVNTMllQdXctVk5lZGNfVTJF0gG-AUFVX3lxTFAwNHMwVTN2ZDRLdGFlWkZMVjI3S01udXlTVEwyRGgxQnFSNWFlQnFqTEVQb3A4OEo4YjY2bDc2c2VUazlXNzAtTWstdjliVTEyVlFWUlFwQmZfY3VHaXNzVV9OZGZJV2xfbVg2MmRpNGxCai1RSEtXbEJvUTV1bWZidGhrN1pVWUdyel80bE9ZeHpxTjFaazZ5enVlSTA1bGJ5dDZzQS0ydEk3WU9rM1kwX2s5NkxRaTdNRWt1ekE?oc=5",
@@ -1199,16 +1193,15 @@
     "http://www.africanews.com/2026/10/22/un-agencies-appeal-for-help-to-protect-weakest-nations-from-super-el-nino/",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1A5NGFoaXBsZmdIemFiZ1pJbTlHOHJfT0YtUDlRUlVuaUwzSUJONzRtRzRYQXI4REEzUmdVRFFhQkxkN2piS1MwTXNHR2lQby16U1dyeHBTMF93dURaMlFjNDQtUnFrRWo5a2E3c0ZlX1lZWHpZMTJQOFJnRlZXSE9rNDdobjZOR1VQSjNWVmlNUzNkT3pzdlNTWlljOF9HcjZKSnZUbUJOWHc?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMnNyelFSSEZ0Q2JmckVEb3VpLVZyVjhHMHloWWdOMXc3TnJHOFE1emtTdlVQSE52MkI3Ui1mbnAzdTFqdVM3TDg3eDQtUkFfVGFFemdKbV9aNF96UDlVN2VhWG5ZbUJBd3lINWhHLWg4bFFLZlljQWh4WGd4bU4xcFZkeEF1SERQaThYUUFjRVNHRXk4Q2ljTWNmdHIzMWN2TEwxUlNDRzZlVEtxZk00d1Z5VlY0YVVNQXdMbEU2RXpzb2doMXdUX3FMZzV4dw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nekx4SDI5Z3ZNTnkxZFlHYlBTcXhjYm9uYlc3T0ZXMGVnZXdDT3l5NEtFY1hZRFk0eXhELTdQOGRsVmc5TWQ5bXpqbEhLSHNnSTRrcDBobWZhTlo4VjBZakVLSUNKaUxybEdYbm4yVnVSNWt4Wks0cEhSei0?oc=5"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nekx4SDI5Z3ZNTnkxZFlHYlBTcXhjYm9uYlc3T0ZXMGVnZXdDT3l5NEtFY1hZRFk0eXhELTdQOGRsVmc5TWQ5bXpqbEhLSHNnSTRrcDBobWZhTlo4VjBZakVLSUNKaUxybEdYbm4yVnVSNWt4Wks0cEhSei0?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-lobbying-group-aipac-ends-endorsements-direct-funding-us",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUd4SnZ5Y3BJMjZZblJ2M19TMUdpaHhXMzZiczR5X3dZWnB4QUxYeDZDNzBXUjhWVTVRTVNhSC1ZRnFZb2xlQXBmWHBsbGEtQjBzR2JlSWtFb2hseXpqaHZtZ3ZsTHo4Z2JYY0hBemtNaF8wVmxQTjJXQmdocExReURmbXNsb19UQlh3c1NkbDBDRVBBQUxXSQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sets-dollar-purchase-limits-under-new-guideline",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU16TFIxMzNCNi1xNGUwSm1oSlpVaHR1YnpjNmZyajVmRENLNkswY19hTG5zQlE1RWp1Yk5NSDZCa1cyOTNBUTZsVElkWExhRjl2c0l6aTVWc1dVX3NjQmdKdjNFUFpxTDRMaEx4YWpFQ01IQS00ZGlJOXlVNEhtRHVkckxXN0Jjbl9leVRGbzdIOXVQLTE1T213RjNtV19zMUZxVFcxQ1VnX2ZTSkRGRDZzTkRjb3Q4eDduRmhiNE9qVjVEZ3lGb3RSMNIB0AFBVV95cUxNc25EdzktTUVTc2xMQzJtTzY2TEdjSlJhQzhCd085VHhfN19BSW9nMU1wdDllbHlhMHgyT1BvVTd6Q09nNkpUUG95RDdCUEROWVJGeU5DRHRYSzEyT3BZdkN3YUdmeGY0dGJLZ0JzT2FEeW5qTG5aU2hnUkJabmJhTWVnR3RvbmVVbVVvQmZ3b3M0SWdnT1B1VGh3elNMX2VMZGxudkdscFZpV1JubktZekFfYy16RWRBVVI5dVEyeEtjbTNBT3A2ODRBd1ppQmpx?oc=5",
+    "http://www.africanews.com/2026/10/22/young-uganda-based-refugees-chase-their-olympic-dream-in-senegal/",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWFZmQ1YtYWYyV2MtZDlBOVNJeDFCNGxDVExVUE1HQXFnQk91bG8td1Ffb1A4UHVIUjBBY3VmOHhaYy1SNWxjUDlHRVgzNzJoQjBNb25Xa1AzaHZFdk9PaVdnSXptWHNLMXlFQW5qN19SNGQ1eEhtODk2aTd4cGNtOUVYYmhzaXVKTmdJMnNURkVYandMSTRhaVhydEE1WEwxZG93eWdpb0lzZk1YUHFad3J5TzlNa01tczBwZUdtNlp3Mzl6NFN3RkF4dl9Cek0tSmVQQ3MxR3VQbGxLQklkcjJ0RVJGQTVI?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "США ввели нові санкції проти Ірану та пов'язаних осіб",
-      "summary": "Департамент фінансів США оголосив про нові санкції проти Ірану, включивши п'ять осіб, чотири організації та дев'ять суден, серед яких панамсько‑грецька юридична фірма, і надав адміністративний запит щодо грецького банку, підозрюваного у зв'язках з Іраном для подальшого розслідування.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T18:07:16+00:00"
-    },
     {
       "title": "Президент Гани оголосив про переговори з Європою щодо репарацій",
       "summary": "Президент Гани заявив, що країна веде переговори з європейськими націями щодо виплати репарацій. Це офіційне повідомлення підтверджує ініціювання дипломатичного діалогу між Африкою та Європою з історичних питань. У тексті джерела не вказано конкретних учасників, дати зустрічей чи підписаних документів, тому деталі обмежені самим фактом ведення переговорів.",
@@ -1411,6 +1404,13 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-10-22T16:36:31+00:00"
+    },
+    {
+      "title": "Фінляндія підписала пакет допомоги Україні на 300 млн євро",
+      "summary": "Фінляндія оголосила про новий пакет допомоги Україні, підписавши угоди на суму 300 мільйонів євро. За умовами угод фінансова підтримка буде надана у вигляді прямих грантів та інших форм допомоги, що сприятимуть відновленню інфраструктури та економіки країни.",
+      "source": "Treaties & Agreements",
+      "publisher": "Ukrinform",
+      "published": "2026-10-22T18:40:00+00:00"
     }
   ]
 }

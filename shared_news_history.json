@@ -19,6 +19,7 @@
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
+    "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
@@ -46,11 +47,14 @@
     "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
     "https://militarnyi.com/uk/news/46-tysyach-inozemtsiv-kontrakty-rf",
     "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
+    "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
+    "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
+    "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
@@ -63,7 +67,6 @@
     "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
     "https://militarnyi.com/uk/news/u-kaliningradskij-oblasti-rozbyvsya-su-30sm",
     "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
-    "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
     "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
@@ -96,7 +99,6 @@
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTgzQzNPS0pxa01CNVFjUVMwVVhTMkJNeUJNUjhpemdzTDVycHh2aHdOeHQza01GQVotOWhwdWljZURZQW5rS005RFlrUXlEeFpGSW5jRUVqTGdpbFN2b2tJZEJvWk1vLXpiZ3I1RjFodVVIczRpVVZvcjVMRjVFMEtIQVJqR3lLVTRZOE9fOA",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTE1Q2VWSEpaS3FBSk1LZW9nYlN3RGg4Y3d6RmdGZTJJNmJOSUVKQ0Y5MjEwcVZGWVJhWFdiT1VwNUJvcklpdy0zamJTc1JkOW13cVV6VVhlZHBRemRNRmIzSmNmU3F3U3pKeGNsODNVSGlUczJtWW5ZNDU2aVpNbU43OHlraFRFbUo2a3o3cll3QQ",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
@@ -105,7 +107,6 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRURGF5OVJmbVJKMlZoT01WbmlnVzFWNmF2VTd3ZGFmcmhDX1h4S25rMkZSYmlkVEY1RmU3c0lqSHJMWmhVc3hJSE1ua1RTZURZaVBPRXg4eVhvdlVLS25vSzI2RU5YNDJOVjRfVVppbHJraWxPR20wYnNjY2FuN2tyWEw2UnpIRFVjR05IOEFFNmozdkF1Qkpn",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGlKNkF4dXhCeEZ2YnNTeDlIaElZT2g0TkFGQzAtWFNVNGJQdjZPSUwxci1kSlNsMGozUVA1SUhqUlRZLXBpSm12dUNwUzI1TzZoaFd5WGVKb3JFUGMzLU9rT05CYmpsUUJOYmRYYjEyMnRUeUM3bFZaYmRRaXUxNzlPbnJiTmJvV281UkRjVHZqdldLMkJXTzR4VWjSAVZBVV95cUxNLUF4TTZZREJmR1FDT3pRRUo1Yl81SkpDRjlQM1h3Q0taQTBCdldBNENpWU04ejRYVk9UTW1ZbDZJN2tpZnd6UXpVRzZLeFpnRjg2cUhndw",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhwRDgtekR3ZXJUTk5YM0FKYlVZUl81cVJpaXF5STUzN1ZxUlRud0VCTmR0ZnBSbkhHUjdrU0tQdVN2UnZuNEU4czRoR01xdW41ZjA2aGpmclVpSTJGRzZ2R3pSUEJzWXI3cGI5T0FJTkc4WFRpZTNFWThOc3FFZGdDbG5PU0NTN0lTLWdJclNuZHJXZVJpWUpjeXM",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0RqZDNWVEx2MEg0STJROXpOSmhONVRYM2J4UU4yTXhHRHd2ZldGcXBNcnRVcVNmaWFxaGtSTVFZM3dRdmoxSklIWVNYY2VlU3lKenVPRjJPajdxSE1xOEhwQUZZNTA2X3YtSXZjZktDLUdWblFrNVM1Sy1rb2gydm1oQ3hFVnZRb1JkVzVkQi0wbUdwNFg4Ump0Y24zdw",
     "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUEtPZExyYWxNR0RLZlVlUDI0SHhsenlyeF9vcjZ1RE9YQ1ZORjl1RmxlNXU0WkhJaVZOTFdDMkhVQ2trckt4UHpOdFNfSXZWX2VXS0Q2Y2R2WEdCQ291WExVUm82aFlWeHhXbnZsbkNYM0hTYV9qdjg4UG9OSXR6blM1QUEwdVVINEllZ2lqdF9qMDVsSGlpeFpwTTdvYXRPeW1lTmdXV2VNc3c5NkxVWGNieGtIcHpyTlVVRkU3NFRXVGtrY29OYjl5cXpYZl84RG9hY1E5ckJNX0VQZG96SWN3QTZnRlNReEJBWmFtRV9yRlJDR3JkT1poUVF0X1Y1eGlCa0pkWmlSenlWQmNVNHpBVXNKYkt0YU8wcnBCSdIBpAJBVV95cUxOMmZ2c3FsSWp5Q3hrZHFBTDQwdFN4eGtjVHBhTW0zNDd1Wi1NRnVBaUpxRmgzcUx4d0tWZGVoSWtKd0tubzNQSWJkXzVmQVBJRGhJdGE0WXpsTjJsU1NsT09uaUljdUNjb0JMd2s2UzJUSzYwYTBZOW9qV09lYXdSZHhheEZZVEhkaUxVSWRIMmdUZ1FEcTVFSFdwS1dUZUxMQVNJaUdPVUtUd1J6eE83R2RZYmluQWVEY2xwMXBfWjgyVzktZGdfQTZjZ2Z0OGVsSXlqVjMxRUdZZVlYc3RZUEQ2VDdKX1VPTmZjcWlpaVM1QUlLZmM0azQ5eklBY3hBNjM2WGFRMU0zX1RWSFVFOFhjM2hJM1pmdXdDLThPMmtmb2Ni",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
@@ -138,7 +139,6 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlhORjU1TVFiTFkzeGJSVS1mUGNfZnVFaWxNbzZzNW4zdFRna2N0RE1NYTdMQUJHUk13a3FWOVFsaFAyT3I3TnhFd3dob1dpUUlkTWk2LW1qRHNLbTk2RnJOaURrRnlvQXlpRTJERVJ0UUt4eE5GRzdIRWxnR0JjXzZTX090LUpiNWZzZ1VpeTJaaFpBbDJ5ODZySkVEY1NkaW9BalJTMm0zZ0MtMmllbU5zQ2dyV00yNzRoal8tZGU5a3Z5WWNPadIBzgFBVV95cUxQZHNrdi1pM09qUVktZHNBSlZPdjQzRUdPR3ltcDZsNkN0MlZWV0J4cTIzbEdqR2NMYmF0QVFEZVgzRlNKTmxVVHBOTkE1ZlU0U0RjdDNYbElxYTJLWWk5RTZGeFUzREhEVFFJd1hlMzBkQVlHQUttekRuZzlhYzZSX05yV1JqLWxDSmpkdFdTTXBROFBLa1JvYjNDVENpMThnaVI0RGpxQ292OXRZelRsM1JWWFFTM1AxUnNnNkRQRERfRkhsUFJWYlEzb2drdw",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWoteEJZTXZ1RlZCZlYyajgtXzQyWkR5MC1uVldIQ1QtTW16dlNaeHBzS0xETXFiOVhtd0R5MFRqT2dNQVFjOFREYVVIczBnNnBiekNVRkFCanNkRTZUUjdpYkgyZE0tS2wzWlNTcGJmOERRVW9xTWFWa1lyNjlkbHBxV09pZEg3Ql9WZmVXSTFobmVYMU1CcnJobDVlRkh4STlTWUZESnZyM3VNRHdmaHFPOE5EZ3RmZUFVRktsVUFKY3pyTmlxNkVn",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVdHbkdDT2N4bHBieC1hZlRiMUEzZnF0SGNHNktfdXh0ekJvOWlTNjhDcV82ZExUNkItVVVnZjZSUG9FUTFJeHROMlBkNjc0T0RLTU1qWFgwYWRmZ1ZLcGNTU0JManY4T1V4Vmx2Zks2ZFZIR29oMUpPMVk3dUV1ZlZldFFhNTJLS29zRS03aVhSenJ1VVBTS0NoYUh3QVRfZzE2enRtNm1yamhkODNFVjlhRHVaT0ZHaGt0LTB5TWo2WVhhUFk0Yjk4R0TSAdIBQVVfeXFMUGZMWlVveldBQUZTVmJQOHRWZ3RFNDMxYnpSa3R1MDRoOWVaSGlLZEFvb2hBUmo1ZzZQSkJGbm52SmhHM05fZGRIcEtFZDJNNEpUYmF6MGRsMmdXS0l2S05Oc05FcElwUmVWSFkyeW5PVFhGYlZsZ1F0LVVCUWFNMzA0YnhzNGlxdUM2QnJISmtmY2JSaUtsZEl5WlZRTFdMbE94TFlvYVFvMUltb0pldklrNWtsejBoRk5SelJuUE9CSDJwbm9BWG9MYUVJTG8zb3BB",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFpIcm9WOThUSlgxS21SNWJIVDQ0QUZ2bWVSNXVBaTBKRU5qRlNmSnBKY3E5V1BFVDg5bGRGYm0wNGRSNU9OMko0YUlJdHpzSVU0LUZBRVRkNFRnQzBvOU1QSGU4ZUlZQ2Q0RTE4SkJOTHFpZEMtQXVjZm5NR1F5TTFsenZWMzFFMmhqZDItcFBPZlpxVjZGLVJyLWVJZGdkWkcxVWdMa0pOVnRwOW5MRDgwYW1Bb2xMZ2RuMG1DUG14VmtfQzVsNGhQa0k",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Аргументи в дебатах про федеральний бюджет США",
-      "original_title": "A snapshot of the argument at the heart of the federal budget debate - Equitable Growth",
-      "summary": "Equitable Growth публікує знімок аргументів у центрі дебатів про федеральний бюджет. Матеріал стосується макроекономіки США та ФРС. Дебати формують основу бюджетної політики без конкретних цифр у тексті.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Equitable Growth",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0RqZDNWVEx2MEg0STJROXpOSmhONVRYM2J4UU4yTXhHRHd2ZldGcXBNcnRVcVNmaWFxaGtSTVFZM3dRdmoxSklIWVNYY2VlU3lKenVPRjJPajdxSE1xOEhwQUZZNTA2X3YtSXZjZktDLUdWblFrNVM1Sy1rb2gydm1oQ3hFVnZRb1JkVzVkQi0wbUdwNFg4Ump0Y24zdw",
-      "published": "2026-10-20T16:13:34+00:00"
-    },
-    {
-      "title": "Сітхараман закликає до глобальної рамки санкцій",
-      "original_title": "FM Sitharaman seeks global framework to address sanctions fallout - Business Standard",
-      "summary": "Міністр фінансів Індії Сітхараман закликала створити глобальну рамкову угоду для вирішення наслідків санкцій. Це стосується впливу на міжнародну економіку. Наслідком може стати координація політики для стабілізації ринків.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "Business Standard",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVdHbkdDT2N4bHBieC1hZlRiMUEzZnF0SGNHNktfdXh0ekJvOWlTNjhDcV82ZExUNkItVVVnZjZSUG9FUTFJeHROMlBkNjc0T0RLTU1qWFgwYWRmZ1ZLcGNTU0JManY4T1V4Vmx2Zks2ZFZIR29oMUpPMVk3dUV1ZlZldFFhNTJLS29zRS03aVhSenJ1VVBTS0NoYUh3QVRfZzE2enRtNm1yamhkODNFVjlhRHVaT0ZHaGt0LTB5TWo2WVhhUFk0Yjk4R0TSAdIBQVVfeXFMUGZMWlVveldBQUZTVmJQOHRWZ3RFNDMxYnpSa3R1MDRoOWVaSGlLZEFvb2hBUmo1ZzZQSkJGbm52SmhHM05fZGRIcEtFZDJNNEpUYmF6MGRsMmdXS0l2S05Oc05FcElwUmVWSFkyeW5PVFhGYlZsZ1F0LVVCUWFNMzA0YnhzNGlxdUM2QnJISmtmY2JSaUtsZEl5WlZRTFdMbE94TFlvYVFvMUltb0pldklrNWtsejBoRk5SelJuUE9CSDJwbm9BWG9MYUVJTG8zb3BB",
-      "published": "2026-10-20T16:17:48+00:00"
-    },
-    {
-      "title": "Греція відхилила ратифікацію морської угоди з Туреччиною парламентом Лівії",
-      "original_title": "Greek Foreign Ministry: We reject the Libyan parliament’s approval of the maritime boundary delimitation agreement with Turkey - MTV Lebanon",
-      "summary": "Міністерство закордонних справ Греції офіційно відхилило рішення лівійського парламенту про схвалення угоди про демаркацію морських кордонів з Туреччиною. Афіни заявили про неприйняття цього кроку, що підтверджує триваючий дипломатичний конфлікт щодо морських прав у Східному Середземномор'ї. Ця реакція є формальним міжнародним застереженням щодо легітимності лівійського рішення.",
-      "source": "Treaties & Agreements",
-      "publisher": "MTV Lebanon",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
-      "published": "2026-10-20T16:18:20+00:00"
-    },
-    {
-      "title": "Вірменія отримає чеські літаки L-39 Skyfox для авіації",
-      "original_title": "Вірменія посилить навчальну авіацію чеськими літаками L-39 Skyfox",
-      "summary": "L-39 Skyfox оснащений двигуном Williams FJ44-4M, композитним крилом та п’ятьма точками підвіски. Літак призначений для початкової підготовки пілотів та легких бойових завдань, включаючи боротьбу з БПЛА у версії Drone Hunter. Постачання посилить можливості Вірменії у підготовці льотчиків для винищувачів 4-го та 5-го поколінь.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/virmeniya-otrymannya-litakiv-l-39-skyfox",
-      "published": "2026-10-20T16:31:28+00:00"
-    },
     {
       "title": "Президент Мальдівів розпочав триденний державний візит до Пакистану",
       "original_title": "Maldivian president arrives in Pakistan for 3-day state visit - Anadolu Ajansı",
@@ -1213,6 +1173,16 @@
       "published": "2026-10-21T15:52:00+00:00"
     },
     {
+      "title": "Офіс контролю за штучним інтелектом Пентагону не встигає за амбіціями відділу, виявив GAO",
+      "original_title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+      "summary": "За даними GAO, офіс контролю за відповідальним використанням ШІ в Пентагоні заповнив лише три з десяти позицій, що ускладнює виконання стратегії ШІ. 29 із 64 заходів, прописаних у плані реалізації, залишилися незавершеними, а відсутність формальної статутної рамки для робочого ради затримує прийняття рішень. Це знижує швидкість впровадження відповідального ШІ, підвищуючи ризики для безпеки та ефективності військових систем.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
+      "published": "2026-10-21T15:55:31+00:00"
+    },
+    {
       "title": "Росія використала МиГ-35 для перехоплення українських дронів",
       "original_title": "Росія залучила дослідний МиГ-35 для перехоплення українських дронів",
       "summary": "Російська авіація застосувала дослідний МиГ-35, оснащений РД-33МК і фазованою антенною решіткою, для знищення українських безпілотників. Пілоти повідомили про успішний перехоплення, що підкреслює можливість використання новітніх винищувачів у ППО. Це підвищує ризик для українських дронів і змушує розвивати нові протидії.",
@@ -1361,6 +1331,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/us-releases-new-iran-related-sanctions",
       "published": "2026-10-21T18:07:16+00:00"
+    },
+    {
+      "title": "Чеська ProLab Engineering показала БпЛА Orbitron та наземний робот HECTHOR із перехоплювачами TUKAN",
+      "original_title": "Чеська ProLab Engineering представила лінійку БпЛА Orbitron та НРК HECTHOR, оснащений перехоплювачами TUKAN",
+      "summary": "Флагман Orbitron 6000 — гібридний БпЛА вертикального зльоту зі схемою «змішане крило», розмахом 6 м, злітною масою 70 кг, корисним навантаженням 10 кг, тривалістю польоту до 24 годин і заявленим радіусом дії до 2000 км. Він має термінал Starlink, а Orbitron 3000 — електрична версія вагою 10–12 кг з тривалістю польоту до 120 хвилин. Гусеничний НРК HECTHOR із відкидним відсіком для запуску перехоплювачів TUKAN з бортовим ШІ — спроба створити мобільну наземну платформу проти повітряних цілей. Дані наведено за заявами розробника на Future Forces Forum, незалежних підтверджень характеристик і бойов",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
+      "published": "2026-10-21T18:07:16+00:00"
+    },
+    {
+      "title": "Навколо «Алабуги» облаштували 33 позиції ППО, показали супутникові знімки",
+      "original_title": "Навколо «Алабуги», де виробляють «Шахеди», облаштували 33 позиції ППО",
+      "summary": "За супутниковими знімками від 21 жовтня, з весни 2026 року навколо ОЕЗ «Алабуга» збудували бетонні вежі для ППО, нові майданчики для ЗРК, вежі із зенітними кулеметами та конструкції для антидронових сіток над цехами. Це свідчить про посилення багатошарового захисту об'єкта від ударів безпілотників, які востаннє долітали туди у 2025 році. Попередня публікація про Алабугу стосувалася залучення 12 тисяч робітників із КНДР, тож нинішні дані про оборонну інфраструктуру є новим фактом. Конкретні типи ЗРК у повідомленні не вказано.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
+      "published": "2026-10-21T18:20:18+00:00"
     },
     {
       "title": "Вірменія просить ЄАЕС зняти російські торговельні обмеження",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjFaTGxnSzgyY3dSTlRYb3ZvNFVpQkJlNFdtVmtDVlcwZmd3OTh4ckVvbU14LXNVQmhvUk1tTkV4TThyVmpYMm16QnRwdG92VjhFZldqOHY5OTdZSzV4amk5a0pJQWZ1cnllOGtYc25SbkZ5NzA4Y3VFaHlLVVhFMkozRXZxbW5RbXI2bHIyUmdJRl9NNWlJeXN1OGZ2NVZzdkxkd3g0X0x1MEZKT1lHbVJ3",
       "published": "2026-10-22T04:11:33+00:00"
+    },
+    {
+      "title": "Українські дрони атакували завод «75 Арсенал» у Серпухові, де ремонтували «Бук» і С-300В",
+      "original_title": "Ремонтує «Бук» та С-300В: дрони уразили російський арсенал під Москвою",
+      "summary": "22 жовтня українські ударні FPV‑дрони вдарили по АТ «75 Арсенал» в Серпухові, де здійснювали ремонт і відновлення систем ППО «Бук» та С-300В, спричинивши пожежу. Під час атаки український дрон перехопив російський ударний безпілотник «Молнія‑2», що свідчить про підвищену ефективність протиповітряної боротьби. Пошкодження заводу може тимчасово знизити можливості російської армії у підтримці та модернізації ключових зенітних ракетних комплексів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
+      "published": "2026-10-22T04:47:04+00:00"
     }
   ]
 }

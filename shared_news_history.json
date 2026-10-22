@@ -45,6 +45,7 @@
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
     "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
+    "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
     "https://militarnyi.com/uk/news/kongres-ssha-proshyt-trampa-pro-starlink",
     "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
@@ -55,6 +56,7 @@
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
     "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
+    "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
     "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
     "https://militarnyi.com/uk/news/rosiyany-pochaly-zastosovuvaty-nevidomyj-dron-iz-benzynovym-dvygunom",
     "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
@@ -67,13 +69,13 @@
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
     "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
-    "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
     "https://navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet",
     "https://navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy",
     "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
     "https://navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel",
     "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
+    "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK",
@@ -83,6 +85,7 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOTNKRG5KaDVFbktMc01kUVctSVFrcDI4bzRhd3NIWXFlTzFyQzR4MGtiQXdLX0Y0V21SYlZfai1nd09TaFhLbFdlc2xUTGo0dE5TSW9ycHlvVjZyOC0zal9hOXd0UXVRU2FLYTBjRlhQckN0aHFyN05YejEya1p0X0FNZk95cVN3dDhDLUF2Ulotb2g0XzBJa3dEb0hCOTd2bW9LQ2oxR1BlQkdjMWl2ZHRRbHNoYy04a3B5Z3hKVzRTYzJBMlFVTEVJb09vNUd3TmEyZWJ2X2F0ejBaLXB0OWM4R0ZhZlluOVdjbHUwUS1GZWRSeUVjd0V4UXBqdw",
@@ -99,7 +102,6 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTgzQzNPS0pxa01CNVFjUVMwVVhTMkJNeUJNUjhpemdzTDVycHh2aHdOeHQza01GQVotOWhwdWljZURZQW5rS005RFlrUXlEeFpGSW5jRUVqTGdpbFN2b2tJZEJvWk1vLXpiZ3I1RjFodVVIczRpVVZvcjVMRjVFMEtIQVJqR3lLVTRZOE9fOA",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTE1Q2VWSEpaS3FBSk1LZW9nYlN3RGg4Y3d6RmdGZTJJNmJOSUVKQ0Y5MjEwcVZGWVJhWFdiT1VwNUJvcklpdy0zamJTc1JkOW13cVV6VVhlZHBRemRNRmIzSmNmU3F3U3pKeGNsODNVSGlUczJtWW5ZNDU2aVpNbU43OHlraFRFbUo2a3o3cll3QQ",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
@@ -114,7 +116,6 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzU4ajdkWUNWaDN6MklSMF9mWk1YVTNwVHpRY0ZWcnpDTDI2SlhPWThrenJhVFNzV0RSZzdXaEZHTWhoaXNLNElsQ05IbEhfX1hrUXdldlVUbm80QWtXV2lnU0t5YkdJRDd1U28zTjBidWtaS2pnMElYZ254bVdnQlV2SlRvWnZLNmhtbTlHTFVNNFNTaldKTEcwRERoY3I5cTJwYml3",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdLR0J3X2Y4a1A1Tk9MODZJQnFTN1RGdzV0Nml4aEMtUTRhTjU5U3RfdHU3YlRxdWZtMHU3azU3X2VMeXdJMVQ5WHlIU19VTTNkZkJPQ21wVXp4eEotWGJSQU4wVzRud3JNYmI0LVRqaGticzdYbWlQYVpUa3NES2tlRnVwdVZ1SENzSzlVOTRkdlg3M3BMQjRzZHV2cV9FTEFIZnFwVQ",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTBOMW9GNm5PLU9CZjNBZFBmREgxZ3ZNZzRzNE1ySHBSalgtUTVITndPenFZVEwycXZZcTRDZ2VadnZRS0dDb2dxb2h3dzJxX3MtOGxzRFFyOGZWazJrMl95X3pfOUN0aE41MUp2VXFHRVFiVXJIMTB2NmtQSXI0OVoxbjZiVHR0QXVqQnQyTkZLRDQwLU9nWVBCZTZ2akVBRS1yaVZ2YmdDZ9IBrwFBVV95cUxPTE1rSDJaNTIzRTlXRVM1dzEwT19yeDN4NHl6Qml6S0dHcFZmTXR4SzhCNXZuVXlsbjN3eDBEVndINFpXamNDRjRYZ2x5a3ZibEY1dWtEUk94OGNkV05raEdLVmlsalk1c2wtSGlfU3Z4Y1k2TnRuZnpreEIwSDZaMzhoaG9kQUpGbmdsU3JMZW45MHBCSk5QZURaVXd6U3lRQlhNdldUbFNTU3B4ZWRF",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
@@ -145,53 +146,12 @@
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
     "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
-    "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
     "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "HAVELSAN демонструє координацію безпілотних повітряних та морських операцій",
-      "original_title": "HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime Operations",
-      "summary": "HAVELSAN показав інтеграцію безпілотного поверхневого судна USV‑12 і безпілотника SAGAN, що автономно здійснює польоти з судна. Демонстрація підкреслює можливість синхронного збору даних і оперативного реагування в реальному часі. Така технологія може значно підвищити ефективність розвідки, підтримки та потенційно ударних операцій у морському середовищі.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
-      "published": "2026-10-20T18:40:15+00:00"
-    },
-    {
-      "title": "HAARP в Алясці використано для випробування нових радарів над горизонтом ВПС",
-      "original_title": "Alaska’s HAARP Site Now Being Used To Test New Air Force Over-The-Horizon Radar Tech",
-      "summary": "У США успішно протестували недорогий 16‑елементний високочастотний приймач, який у поєднанні з передавачем HAARP може виявляти літаки за межами діапазону існуючих радарів над горизонтом. Об'єкт HAARP оснащений 180 крос‑діпольними антенами потужністю до 3,6 МВт, що дозволяє передавати потужний HF‑сигнал. Така система має закрити критичні прогалини у спостереженні за арктичним простором, підвищуючи обороноздатність США та їхніх партнерів.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
-      "published": "2026-10-20T18:55:29+00:00"
-    },
-    {
-      "title": "Герцог зустрівся з новим прем'єром Угорщини Маґяром у Будапешті",
-      "original_title": "In Budapest, Herzog meets Hungary’s new PM Magyar, who pledges to visit Israel - The Times of Israel",
-      "summary": "Президент Ізраїлю Іцхак Герцог провів зустріч із новим прем'єр-міністром Угорщини Петером Маґяром у Будапешті. Під час двосторонніх переговорів Маґяр офіційно пообіцяв здійснити візит до Ізраїлю. Ця подія фіксує встановлення контакту між лідерами двох держав та запланований дипломатичний крок.",
-      "source": "Bilateral Meetings",
-      "publisher": "The Times of Israel",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTBOMW9GNm5PLU9CZjNBZFBmREgxZ3ZNZzRzNE1ySHBSalgtUTVITndPenFZVEwycXZZcTRDZ2VadnZRS0dDb2dxb2h3dzJxX3MtOGxzRFFyOGZWazJrMl95X3pfOUN0aE41MUp2VXFHRVFiVXJIMTB2NmtQSXI0OVoxbjZiVHR0QXVqQnQyTkZLRDQwLU9nWVBCZTZ2akVBRS1yaVZ2YmdDZ9IBrwFBVV95cUxPTE1rSDJaNTIzRTlXRVM1dzEwT19yeDN4NHl6Qml6S0dHcFZmTXR4SzhCNXZuVXlsbjN3eDBEVndINFpXamNDRjRYZ2x5a3ZibEY1dWtEUk94OGNkV05raEdLVmlsalk1c2wtSGlfU3Z4Y1k2TnRuZnpreEIwSDZaMzhoaG9kQUpGbmdsU3JMZW45MHBCSk5QZURaVXd6U3lRQlhNdldUbFNTU3B4ZWRF",
-      "published": "2026-10-20T18:58:28+00:00"
-    },
-    {
-      "title": "PBO прогнозує сповільнення зростання ВВП Канади до 0,9% у 2026",
-      "original_title": "PBO projects Canada's GDP growth will slow to 0.9 per cent in 2026 - Financial Post",
-      "summary": "Парламентський бюджетний офіс Канади (PBO) прогнозує, що зростання ВВП країни сповільниться до 0,9% у 2026 році. У доступному тексті є лише заголовок, тому причини сповільнення, порівняння з попереднім роком і бюджетні розрахунки невідомі. Такий низький показник вказує на слабку економічну динаміку та може посилити тиск на оцінки державних фінансів і очікування щодо політики. Зв'язок із Китаєм зі статті не випливає.",
-      "source": "Китай · економіка, торгівля й промисловість",
-      "publisher": "Financial Post",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
-      "published": "2026-10-20T19:05:24+00:00"
-    },
     {
       "title": "Нідерланди отримали ще два модернізовані AH-64E Apache",
       "original_title": "Нідерланди отримали нову партію модернізованих гелікоптерів Apache",
@@ -1543,6 +1503,16 @@
       "published": "2026-10-22T05:40:04+00:00"
     },
     {
+      "title": "50-мм зенітка Raid Hunter має збивати дрони на дистанції до 5 км",
+      "original_title": "50-мм зенітка Raid Hunter зможе збивати дрони на відстані у 5 км, тож як скоро буде готовий її прототип - Defense Express",
+      "summary": "За наявними даними, 50-мм зенітна система Raid Hunter призначена для боротьби з дронами та має вражати цілі на відстані до 5 км. Строки готовності прототипу в наданому тексті не наведені, а характеристики боєприпасів, наведення та розробника не підтверджені. Якщо заявлену дальність буде підтверджено випробуваннями, така система зможе доповнити ешелоноану ППО проти дронів-камікадзе, зокрема там, де використання ракет надто дороге.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
+      "published": "2026-10-22T05:43:00+00:00"
+    },
+    {
       "title": "Fed to Hike Rates Again Amid Persistent Inflation",
       "original_title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming - Cabot Wealth Network",
       "summary": "Fed signals additional rate hikes to curb inflation still above 2% target. Higher rates will tighten liquidity, increase borrowing costs for businesses and consumers, and likely support the dollar against other currencies. Debt servicing costs rise, potentially slowing growth. Market participants should anticipate tighter credit conditions.",
@@ -1603,6 +1573,16 @@
       "published": "2026-10-22T06:59:09+00:00"
     },
     {
+      "title": "Voyant успішно продемонструвала Міноборони Британії навігацію автономних систем без GNSS",
+      "original_title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
+      "summary": "Voyant показала Міноборони Великої Британії своє навігаційне програмне забезпечення для стійких систем позиціонування, навігації та синхронізації (PNT) на автономних морських платформах. Призначене воно для роботи в умовах радіоелектронної боротьби, коли сигнал GNSS пригнічений або недоступний. У джерелі немає технічних характеристик, типів платформ чи умов випробувань, тому оцінити точність і дальність автономної навігації поки неможливо. Якщо технологію приймуть на озброєння, вона підвищить живучість безекіпажних катерів і підводних апаратів в умовах глушіння та підміни сигналу.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
+      "published": "2026-10-22T07:51:18+00:00"
+    },
+    {
       "title": "Банк Кореї зберіг ставку, але натякнув на посилення",
       "original_title": "BOK holds rate steady, signals further tightening as inflation rises and growth strengthens - Korea JoongAng Daily",
       "summary": "Банк Кореї залишив базову ставку без змін, проте дав сигнал про можливе подальше посилення політики. За заголовком, причини такі: інфляція зростає, а економічне зростання прискорюється. Конкретних значень ставки, інфляції та ВВП у наданому тексті немає, тому оцінити масштаб майбутнього посилення неможливо. Макрофінансовий наслідок: ринки можуть закладати вищі ставки в Кореї, що підтримує жорсткіші фінансові умови в регіоні.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/kongres-ssha-proshyt-trampa-pro-starlink",
       "published": "2026-10-22T08:46:52+00:00"
+    },
+    {
+      "title": "Росія представила нову крилату ракету «Филин» – характеристики та складові",
+      "original_title": "Росія застосовує нову ракету «Филин»: у ГУР МО розповіли про її характеристики та складові",
+      "summary": "У Головному управлінні розвідки МО оприлюднено 3D‑модель та технічні дані нової крилатої ракети «Филин». Ракета має довжину 3,5 м, розмах 3 м, максимальну швидкість 800 км/год і дальність до 1200 км, боїться 50–100 кг. Її застосування може збільшити можливості РФ у низько­висотному повітряному нападі, а китайські навігаційні та радіоелектронні системи підвищують стійкість до завад.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
+      "published": "2026-10-22T08:53:58+00:00"
+    },
+    {
+      "title": "Чеська KBP International представила шахедоподібні дрони TARON і SABRE на Future Forces Forum",
+      "original_title": "Чеська KBP International представила шахедоподібні дрони: поршневий TARON та реактивний SABRE",
+      "summary": "TARON — поршневий дрон‑мішень з польотом до 30 хв, дальністю 70 км і максимальною висотою 1500 м, призначений для підготовки ППО, зенітних ракетних та артилерійських систем. SABRE — багатофункціональний дрон‑носій, здатний перевозити до 30 кг корисного навантаження на відстань 400 км зі швидкістю 400 км/год, запускається з мобільної наземної пускової установки SATA, розробленої THREOD. Обидва рішення підвищують можливості навчання та оперативної підтримки української протиповітряної оборони.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
+      "published": "2026-10-22T08:55:13+00:00"
     }
   ]
 }

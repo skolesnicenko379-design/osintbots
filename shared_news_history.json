@@ -57,7 +57,6 @@
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
     "https://militarnyi.com/uk/news/niderlandy-partiyu-modernizovanyh-apache",
     "https://militarnyi.com/uk/news/patrulyuye-nad-chornym-morem-bolgariyi",
-    "https://militarnyi.com/uk/news/prymary-gur-urazyly-tornado-s-buk-m3-orion",
     "https://militarnyi.com/uk/news/robitnyk-iz-kndr-do-vyrobnytstva-shahed",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
@@ -97,6 +96,7 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2ViQVAwNU5CaW5sSTUzNzBpeFQ5YmcyX0h6Y3BIYjE3dmpZM3JYejl3eXFSdXh5TFE5WlRVWHZvanVVY0JaSFdhSVRyNjc2UVlsN2lSNkg5Z2NDd0RNQ1VGUW4wUlJGUGNKdnRfZmQwZWRiVzZfWFQyNkZfajN0aTR0ME5pdw",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObWRRN0luTlZ0SnpOMm5MSnluTUExQXI2UVEwMG5CRjNqQTg0R2VCVDIxODRFTmVHSHFXWVRwODZ3Y0haUTdPX293alZCUFVwQWkzWnY1ME5wM1JwY0M4dGViVHE0TS16Rnhuc3lIQmlJS3poQTAxZFIxQzhsbGFRaEQ5UnFwTUk1aUZKTjNXb2tKWHRaYkltNV9WTzJNS1B5cFQxVUtzZ0Zfa2VyQ1ZkT2FrZlUyUmRXM1U5YzMyN1RSYUsxNEZ3WUxwdDhhT0hNYmRmU0NldmkycWNiUEttQmhNd3Y4dGVfd2JkODJzcUItcnBENXdYZXlJVTg3ODF2aVNDc1JaYnVmeXA00gH8AUFVX3lxTE9wUFpwdFZWTTdfdUpPS1d0MXZWWEtYbjhUR3ZBS2RRc1R2UnlkbkJVQnpwamZRYWdzSjRJdDI4aFc2N2JrSzQyU1Ntb1pEMElwempxM0J2aGNnbXo2UVdOOS1wcV9kMzNtbTR4LUMzaVhMM1RMN3A1dG5BMDM2eGlUOWFIZGVlY3k0N1dPWVMtWk42bWVPWEROSWZqcGZGa2hBNkdDTTRmbHFzSzRFZXNVam5kS0dZOVE2SjA1endYXzM5YVRfeFZvblgtd3AzTGE2NEpKTll4NnFKelUwR25YZDREYzZtQndDZXZIT0FOMFJTMmhmN2RuX3QzYw",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "«Примари» ГУР уразили «Торнадо-С», «Бук-М3», «Оріон» та РЛС",
-      "original_title": "«Примари» ГУР уразили російські «Торнадо-С», «Бук-М3», безпілотник «Оріон» та низку РЛС",
-      "summary": "Оператори БпЛА підрозділу «Примари» ГУР МО уразили низку об’єктів російської ППО та іншої військової техніки, зокрема «Торнадо-С», «Бук-М3», БпЛА «Оріон» і РЛС. Також завдано ударів по місцю складання та ремонту російських безпілотників і будівлі з особовим складом 108-го полку РФ. Ураження систем ППО та РЛС ускладнює російське виявлення та протидію українським операціям.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/prymary-gur-urazyly-tornado-s-buk-m3-orion",
-      "published": "2026-10-20T13:59:35+00:00"
-    },
     {
       "title": "Ghost Shark отримав «зуби»: Австралія презентує нові підводні боєприпаси для безпілотників",
       "original_title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
@@ -1641,6 +1631,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
       "published": "2026-10-21T21:10:41+00:00"
+    },
+    {
+      "title": "ЄС: Рада та Парламент погодили план відновлення ринку секьюритизації",
+      "original_title": "Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market - Consilium.europa.eu",
+      "summary": "Європейська Рада та Європейський Парламент погодили спільний план, що спрямований на відновлення ринку секьюритизації. У договорі визначено нові правила, що спрощують процедури, та встановлено строки впровадження. Мета – збільшити ліквідність та залучити інвестиції до ЄС.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
+      "published": "2026-10-21T21:18:10+00:00"
     },
     {
       "title": "Лідери армійських спецсил бачать перспективи та великий попит на нову посаду техніка‑інтегратора робототехніки",

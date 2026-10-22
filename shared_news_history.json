@@ -10,14 +10,15 @@
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
+    "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
     "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
+    "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
-    "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
     "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
@@ -41,6 +42,7 @@
     "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
     "https://middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
+    "https://militarnyi.com/uk/news/bundeswehr-perekydannya-viysk-estonia",
     "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
     "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
@@ -53,6 +55,7 @@
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
+    "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
@@ -94,11 +97,9 @@
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU3pBb0hzRVkwb0paQ0lyVFFzUFpQT09QaEUxS0w1YWMzMGRjZTFyaUZFNG1SYnRxalVTVXBjWktRakN2REFEU21QemVqSWhLUnVIZVVJOEdQV3Utb2gzNmdYNGFIWGgtazQxYWZzY1MzSEl3SHRCWGN0OUp6eUlTaTlRbEhGOURieW5reWM1TGlBRmxqYmFjU0FKd1gwQVVaVnVuNkMtQ05tTHZtbi1ESzcwcjNWRTZ4dDc2bk1IMnlFYjlLeE5YWVpIUzZzcU9OX2U0LWVPa3JTU25LblZ6ZHVTamRZV0pFVXFpS2hVUjJVN29kLVNUeVlRbmU3QQ",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SN19hUWZBTTBiRDRvMU5uZF9lQ082T1hPXzM4NW1ZY09zUmpKRTZEVFAxMU5OdGRKdXluM1daSEhFZ1p3UXU5Z2swYXM3UzdCQXFYRFpoX3l2TVVOdk9xVGVZTkRiVVpial9pZmY0enBSUnc",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZzJPSjhob3lCWEZabGRYWnVRQUFyazMtNTNGM2F6N0JCSFlOb0JoSjZXT1BTZmVyaEpFbHFPZ3RIYWhGbGc4Z1RTMWNTS3lLeWUtcHowZno2ZWI1SHV4NjNpTXltaExOU3p6ckxyYXc",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rSV8taW1FM0M2cGlkNGtPbzc4Ym9WWVBHWjN6NG9kcE9LZS1QN09tYmlDcWxkUzRKdnZ0TE0tOC0wVjg0M0xHeURLclJleUZCRWNmMXlZRG16UnhIX0lHRGlTbWs3Sk5jajhTSFJ5Skw",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXlRZk1IQkZFZmhEZFlJZkJzaXdXZE0yU3ZJSm1zR01QcFFrMmJXYmtLQzVsb0ozYno0b0dKM2VtWmE4VDJWZDZjSE9sd0pGQXBNWmxIRVF4bUpqWUFqRGlyOThTQlBZcjZXYU5UcTI1Zw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVEdISHhjckFfODNnR2U2bE84SWh1UVU3cG42N0NuWWZ4SW8wTzduWFFzUjNZUmNTOG9ISEVEWlJLYWhLVFVmUUJFVm9jSmRMVnc5SE9GdVdUaElBRnpXQU1rUWFKbHdRZmZFa29YNWtSbi0wZ0E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dXNPaUh0SHBsVjlEMi1uemp4YldRbVp2UTMtLTdJcmtGOWUwQXJfT01oTHVQUjdEZ1Nxc214TjhHX3hXQ1dHVkpYc3U1SW13NmNnUEVhXzczS3hsYnA3UURRdUxnSE0tbkRmNk85UUZsemVTUWc",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n",
@@ -147,51 +148,10 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
-    "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Армія тестує програму AIAM для цифрових технічних посібників і спрощення ремонту",
-      "original_title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
-      "summary": "У рамках програми AIAM армійські підрозділи отримують доступ до цифрових копій 200‑250 технічних посібників, які можна запитувати за допомогою штучного інтелекту. Це дозволяє солдатам швидко знаходити інструкції, реєструвати проблеми та отримувати підтримку від цивільних логістичних фахівців, скорочуючи час на ремонт обладнання. Очікується, що впровадження системи підвищить оперативність технічного обслуговування та знизить залежність від громіздких паперових мануалів.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
-      "published": "2026-10-20T22:02:44+00:00"
-    },
-    {
-      "title": "Опитування Reuters: БЯ підвищить ставку до 1,50% у грудні",
-      "original_title": "BOJ to raise rates to 1.50% in December, sticking to quarterly pace: Reuters poll - AOL.com",
-      "summary": "Згідно з опитуванням Reuters, Банк Японії у грудні підвищить процентну ставку до 1,50% і збереже квартальний темп посилення політики. У доступному тексті немає кількості респондентів, поточного рівня ставки та інших деталей. Консенсус аналітиків закладає поступове, передбачуване посилення. Для ринків це означає, що очікування щодо ставки БЯ залишаються прив'язаними до грудневого засідання, а це важливо для оцінки єни та дохідності японських облігацій.",
-      "source": "Японія · монетарна політика",
-      "publisher": "AOL.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXlRZk1IQkZFZmhEZFlJZkJzaXdXZE0yU3ZJSm1zR01QcFFrMmJXYmtLQzVsb0ozYno0b0dKM2VtWmE4VDJWZDZjSE9sd0pGQXBNWmxIRVF4bUpqWUFqRGlyOThTQlBZcjZXYU5UcTI1Zw",
-      "published": "2026-10-20T22:06:16+00:00"
-    },
-    {
-      "title": "Колишній танкер-рефюелер KC-10 Extender вийшов з боніярду та знову летить",
-      "original_title": "Retired KC-10 Extender Tanker Has Risen From Boneyard To Fly Again",
-      "summary": "У США з боніярду на базі Дейвіс‑Монтхан вивезли один з KC-10A Extender, який був виведений з експлуатації у 2022 році, і передали приватному оператору Omega Air. Сам літак без одного двигуна та без характерного заправочного «буму», проте новий власник планує встановити нові системи заправки, що дозволить йому знову виконувати роль повітряного заправника. Повернення до польотів підвищить можливості приватних компаній у забезпеченні стратегічних авіаційних операцій, зокрема потенційно в Північній Африці.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
-      "published": "2026-10-20T23:07:34+00:00"
-    },
-    {
-      "title": "Позов проти мит Трампа щодо Канади подано до суду",
-      "original_title": "Lawsuit challenging Trump's tariffs against Canada filed in U.S. Court of International Trade - CBC",
-      "summary": "До Суду з міжнародної торгівлі США подано позов, який оскаржує мита адміністрації Трампа проти Канади. У тексті є лише заголовок, тому позивач, підстави позову, ставки мит і терміни розгляду невідомі. Сам факт судового оскарження створює правову невизначеність щодо чинних торгових обмежень щодо Канади. Оцінити вплив на торгівлю, ціни чи ринки неможливо, доки не з'являться деталі та рішення суду.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "CBC",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR",
-      "published": "2026-10-20T23:14:13+00:00"
-    },
     {
       "title": "В'єтнам та Данія встановили комплексне стратегічне партнерство",
       "original_title": "Viet Nam, Denmark issue joint statement on establishment of Comprehensive Strategic Partnership - Nhan Dan Online",
@@ -1651,6 +1611,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk",
       "published": "2026-10-22T12:01:54+00:00"
+    },
+    {
+      "title": "Бундесвер уперше проводить в Естонії навчання Brave Blue з перекидання підкріплень до Балтії",
+      "original_title": "Бундесвер уперше відпрацьовує перекидання підкріплень до Естонії",
+      "summary": "Німецький 4-й логістичний полк відпрацьовує одночасне перекидання особового складу і техніки до Естонії морським (пором), наземним та повітряним шляхами, а також розгортання пунктів управління, перевірку зв'язку та організацію логістичного забезпечення. Окремо вивчають рух техніки болотистою місцевістю західної Естонії, а Сили оборони Естонії відпрацьовують підтримку приймаючої держави: транспорт, розміщення, харчування та пальне. Це підвищує швидкість і злагодженість можливого посилення східного флангу НАТО в кризі, а також готує логістів до масштабніших навчань у Литві та Латвії наступного р",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bundeswehr-perekydannya-viysk-estonia",
+      "published": "2026-10-22T12:48:30+00:00"
+    },
+    {
+      "title": "Пентагон і Lockheed уклали десятирічну угоду про рамкову поставку сотень F-35",
+      "original_title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
+      "summary": "Угода передбачає виробництво та технічне обслуговування сотень літаків F‑35 протягом наступного десятиліття. Це забезпечить стабільне постачання новітніх багатофункціональних винищувачів та підвищить бойову готовність підрозділів Пентагону і його партнерів. Довгостроковий контракт зміцнює позиції Lockheed Martin у глобальному ринку авіації шостого покоління.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
+      "published": "2026-10-22T12:57:21+00:00"
+    },
+    {
+      "title": "В Україні випробували литовський дрон-перехоплювач SkyWiper Wall",
+      "original_title": "В Україні випробували литовський перехоплювач комплексу SkyWiper Wall",
+      "summary": "У бойових умовах в Україні протестовано дрон-перехоплювач SkyWiper Wall, що входить до комплексу ППО SkyWiper Wall. Технічні характеристики: радарне наведення на 100–200 м, максимальна швидкість 300 км/год, дальність польоту 25–35 км, тривалість 10–20 хв, маса 4 кг, корисне навантаження 500–700 г, тепловізійна камера 640×480. Це дозволяє швидко реагувати на низькою висоту дронів, але швидкість не достатня для реактивних дронів на висотах 4–5, що обмежує його застосування у певних сценаріях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
+      "published": "2026-10-22T13:03:23+00:00"
+    },
+    {
+      "title": "Пентагон не виправив уразливості безпеки, що призвів до витоку даних, стверджує позов морських піхотинців",
+      "original_title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
+      "summary": "У листопаді 2023 року в системі обміну файлами DMDC виявили уразливість, яка дозволяла неавторизованим користувачам отримати незашифровані файли з ПІБ, SSN та іншими даними. За даними позову, вразливість існувала близько дев’яти місяців, що призвело до масового витоку персональних даних військових та їхніх родин, підвищуючи ризик шахрайства та кібершахрайства.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
+      "published": "2026-10-22T13:03:46+00:00"
     }
   ]
 }

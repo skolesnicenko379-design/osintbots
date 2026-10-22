@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ad3RpSzJ2Ul9rWjZ1ZTBpa1hLUERpVGc1b2VzQXhZMzd5UmlBS3RPdjBGY0w5b1FUbTJDQVVIeHowakwwb3hLT3lubTc5T2hyQ3BIa296UXFKQmJQZGFBVUdnOUVpVmJBMkZBOXNqQ0NYc18taFRwNW9n?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDNTSVBIaW5Pa2loNzNqU3pUVkl3QThmTTc4aVNOS0lKcUJ3WVVsNnI5QlpwTlQzNU1DYy15YXlkQ1pjYmlKbnBCYjYydWF0akdTcmZqVTM1OEs3UUFJUEFaTTY2ajY1SXpFYjBzcEx6T2ExTGM3dFY2cDhwRlRfNkVFMmFiQ2JUVnlLLTZ0N0Y?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5UHhUTlVYdXpHTUxHOHE2aTRQTERpNkhHRnkwem52cUhJRHphanNmak1oWURPYndIRS1hSnlmdzBRUFFPWnc3ZnpKRlpmMHhuYi1jWHE5RS01X2NZdEdJcXVfWEJjLWNrYTkzNnUtOHk4MGg5UFNlZzhsOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaXNTX2t1cEtfV3pJb05SeTJOcWNOcUF6am5ZcGU1VGc2Y1hDVDhsRTJWb1hCMm5fcHI0NkZYdUkySXZxSTVYM2xsVGVER00ybW1iM3huQzBMXzllOGhXUVN6NUtFWjQ5LUZncEVJaGdxWkE3UHpPSk5RRFU5cmN6d0tCOWtIbDBiY3l0akpqX0pRRmxBNGhKa1V5N0hDeUNWNWZtckxjS2xGdWZEb0dsUGY0bmxaa0piWHZ0U3ZndDbSAcYBQVVfeXFMT0Fma3NXSzBmOXptYlU0NHJQYW5kQTB0Znc1V3FpbDBNQnR6TExZdU84eUVKWWpGMllZMzExdnpEdkROeXp6OWlJcEsxWWtkRnBTamt0UU5DYmNpNlRuNFpMMFB6aHl4ZFdQajZGbmZEUGl0V0RGdXZtMGZTNWRTeURLSFBhRFVXb052MFlEVmZ4LXViRlF0TVRTZjVzXy1wOGZ3YXVKZG1lRzRETXJVQjN6M0JWWDdFRm9mdmhvbTAwVkFneUZn?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXowQWE4MW1hQTVTSDJkXzJlc1Ixay1hbjFJQWlpQnFRbFhvb2pMdThSN1FnWDZoaEFCUS10QmlGellWcElJWHlXRkI4RzVZMnB2ZzgxckFRMldyVi0yTGRCYlFwb0FMdUVPSWl2RHg1X0VtTEVPU211VFFyWmY3Y1Jiam5FekRLaXVMZWlEcG5sZkdCNGxrTVJ1V2Vmc3dHTHA3U25Qaw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE93VGxuX0gwazdkVGRxYktLMFl0QzFzZURHN0VvRnQzcnlHdk9kZlJDQ1ZBbnM5VTZETWYzdTFiUk9zeXRvYk9lblV1QTNCM1FPNjFsemtpMXJBQnB2VmpZaDlSUWpxT3VsclFoMzJYY0VEZHB3RWMyUNIBeEFVX3lxTFB1NEtqUTU5QTlCUHJvbVZxU2ltalZXOFBpMHVLWDdtXzJHR1AySzlibDlOZW0wSG44VllGV09yY0pKRUViMTVuZW83VHVUR2NYRVJWNkpXUXBMMHhUUDdMY1RQYUFzUDJlWVhnVlFkdUtfemJjcDhfaQ?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1mRTJNMWNWampTTjdrd2dZelRrbzRqXzBxOFl6MG91NzR4eUFJWTdUYmZWaDZjc28zeThpYmNROHZaMnROd0t5V0dMVkpFbHg1MWVNVkl4V3o2VDFOakFSR0ZCZjkwYUxuUEttZzdhTktuU3J0LU0yLUM4azkxdGZROFJqc3NlX1FIdmNNNzl3MjQ?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVk9FcXZ3czZzQWlLS0UtZ0h6dGg3WGdhdFNhUzRyUnN4OGRITDFaODBCRHhOVG5BQUo1cXRBRzJ0WURBOTZUTTRZTnltZ293MFZNam9fS2pKMjhTWm12b1puRG1lZ3ctNVhNdThva1dPMXROenQwS0txa01NWHZOQ1F3?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU5wdGdzNzYzWkdWMXBjY202UWR5STJYVDdXdm9zdlZkLUphZThIcnloQUdGSG54djQzZ2RPaS1oZWlUcHVZY09VUFJnV2xxcUJ6blZYV1RkcGVfZ2NIZDJzZGxtZDV5NE43cG9VYXJpVmxneEoyNXhxUy1hZUJaYm5YRXNjUTdmNDdF?oc=5",
@@ -1199,16 +1193,15 @@
     "http://www.africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict/",
     "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks-0",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUWhNUUhucVNsSHVMWDJtQlVZdFIxRUMwR0Q4Zlc4aVFvWjF6S09PYXFHSWpLMW1OcHhDMkJVVVZuU2tseTJjTDFZXzRYVGxpSE8xQ3Ria2FoNjhvbTFoZDVZTy1zalFjOTZWOGpzelRfOHhZMHlnVld0MnFfUnRrNkdCU0c1UUtuRk9Hb2toeTF0S3RKcDdLTXRVY3Nyb18xbk1OeXZKWUJKMEk1endobkhTS2Zjcm1TcS1sNGxGLVZERktpa3pkcUtiNG1qckFCWkZFajVRVy05dVY5MW8xcmRZMF8xUGF0Ync?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmRkRENiZXN3VmVGclI4TEFndUE5cm9oVFg4em5uNTdPVkdPTFpwSkVUMklOMk5XYTBXSWc2LTc5azh1R2pPMVZMZnBkZzBtX3lUMFZLeFFna1RPZzBfWF9TVE9KTWFNMnpPQ0VuaFlmT3RKQ2FhZi1vcGJlLWVYYkVHM1h4M1dtVzdVTnlOYmFrR05HdEw4ZzBDRnlBNkEtLWdnMGR1X2xRVDRvWGxYWC1iYTd4NjNQdmtN?oc=5"
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmRkRENiZXN3VmVGclI4TEFndUE5cm9oVFg4em5uNTdPVkdPTFpwSkVUMklOMk5XYTBXSWc2LTc5azh1R2pPMVZMZnBkZzBtX3lUMFZLeFFna1RPZzBfWF9TVE9KTWFNMnpPQ0VuaFlmT3RKQ2FhZi1vcGJlLWVYYkVHM1h4M1dtVzdVTnlOYmFrR05HdEw4ZzBDRnlBNkEtLWdnMGR1X2xRVDRvWGxYWC1iYTd4NjNQdmtN?oc=5",
+    "https://www.theafricareport.com/433929/nigeria-lagos-built-a-night-economy-before-it-built-a-nighttime-city/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-village-syrias-quneitra",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzRoR1Z2U0JkTjVOQ3VDUG5ub3dKU1QzZWRuUGNkNktWMHZTTi16Yy01blFPMHVsdi1WREd3WHFSc2syN29seEtiSDVWREptdnBBUGdzY3RIMzlmYzNNcTFLYWlRNS14MGpsZHAzZnJKWUFjS1Y1bk5JeXZEaUhoN3dreFNNektjSEs5RDZSeHF3cV9iR25vX1VBR285eDBycThqejJycDhCUGUzOTNJejFYVXNkMnJQSFBEWGUzaUE1X2RacXBtS1pxTdIBywFBVV95cUxQM3NKcWZ2QklXeUc5SndiMU11N0tycFU2MzNRWDlTX256NERCSjRSVTJTbG1qQlM4dVZBQ1JBajhQd25Fc1loZVBMUnl6SlN3N3VxOGdsdlZkZUZCcmwwUnFDMDRxS3d6amNwZ0JDdlFLeC01cjJ6LTNrcjlVZ0hnS0o4WUJsM0ZkOWc5dFA2WGJDRlFXdDY3YXA4VE8walVOQmQ2UlNKbnhUWmo2dkF5OS1wZHBaMzJuTTB6ekN3MURtTFdYQXpUYmM2SQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-not-negotiating-iran",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWJIbFVhZ1lzTVE1XzA3WTJqWHZkNklSNE9pYy1lYVpxZ2x1YjB5ZVdhdHpnUi1INlNsaGVlMWNaaDZtV0FnV1hCUHBwMXB5QUs0WkVFWjFzWThaWE9ZWTdqVVNheURmWk05WVRKc1d0Wng4UjZlZWJRYlFORV9JYUhVeUd1dWp6Sm1wRTl5b0NpZ0Fp?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Парламент Вірменії обговорює ратифікацію угоди TRIPP зі США",
-      "summary": "У парламенті Вірменії обговорюється питання ратифікації угоди TRIPP, укладеної зі Сполученими Штатами Америки. Цей дипломатичний процес стосується офіційного схвалення домовленостей між двома країнами на законодавчому рівні.",
-      "source": "Treaties & Agreements",
-      "publisher": "Latest news from Azerbaijan",
-      "published": "2026-10-21T09:03:41+00:00"
-    },
     {
       "title": "Сербія підписала угоду про продаж NIS угорській компанії Mol",
       "summary": "Міністр фінансів Сербії оголосив про підписання угоди щодо продажу компанії NIS на користь угорської корпорації Mol. Для остаточного завершення угоди ще очікується отримання дозволу від антимонопольних органів. Подія є офіційною економічно-дипломатичною угодою між державами.",
@@ -1411,6 +1404,13 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-10-22T04:43:51+00:00"
+    },
+    {
+      "title": "Ізраїль засудив морську угоду Лівії та Туреччини",
+      "summary": "Ізраїль офіційно засудив рішення лівійського уряду схвалити морську угоду з Туреччиною. Ця дипломатична реакція доповнює попередні заяви Кіпру та Єгипту, які також визнали цей меморандум недійсним. Подія підтверджує триваючий міжнародний дипломатичний конфлікт щодо визнання морських кордонів у Середземному морі.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Times of Israel",
+      "published": "2026-10-22T03:51:05+00:00"
     }
   ]
 }

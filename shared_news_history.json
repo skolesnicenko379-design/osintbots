@@ -3,13 +3,11 @@
     "http://africanews.com/2026/10/21/un-warns-against-premature-exit-of-peacekeepers-from-central-african-republic",
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
-    "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
-    "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
     "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
     "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
@@ -52,6 +50,7 @@
     "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
+    "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
     "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
@@ -71,6 +70,7 @@
     "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
+    "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
     "https://navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations",
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
     "https://navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet",
@@ -86,6 +86,7 @@
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnh1NXhQcnZmMWJUZThRRnhXZmVQMDlmR2tZSlo5T3JxUW9EaUgzNEtEdVdqdlFRbU1XZXFxRVA1WXBLOXdQOEVLU0QweVRrb2kyTWNyRXR3dTAyUnZRdUx3MVRZNUROaW5GbWtrUTEzX3FqWVA2TnJPMDRRemlNcmlic3BtcTlxZXREQ0d4cUtaZ2lVd1pEZlZ0TWpGOFQzZG1FM2Q2S1Fxa0MzTGgwMDByMXZCN1RxQmFVdFlrRV9INkRLbFMtZWNlRDdDNURWeDR6NE1kUzB1bnVOUmc3QWxuX2Z5S1VkbWJKVjRKWXdiZXo5",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOTNKRG5KaDVFbktMc01kUVctSVFrcDI4bzRhd3NIWXFlTzFyQzR4MGtiQXdLX0Y0V21SYlZfai1nd09TaFhLbFdlc2xUTGo0dE5TSW9ycHlvVjZyOC0zal9hOXd0UXVRU2FLYTBjRlhQckN0aHFyN05YejEya1p0X0FNZk95cVN3dDhDLUF2Ulotb2g0XzBJa3dEb0hCOTd2bW9LQ2oxR1BlQkdjMWl2ZHRRbHNoYy04a3B5Z3hKVzRTYzJBMlFVTEVJb09vNUd3TmEyZWJ2X2F0ejBaLXB0OWM4R0ZhZlluOVdjbHUwUS1GZWRSeUVjd0V4UXBqdw",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU3pBb0hzRVkwb0paQ0lyVFFzUFpQT09QaEUxS0w1YWMzMGRjZTFyaUZFNG1SYnRxalVTVXBjWktRakN2REFEU21QemVqSWhLUnVIZVVJOEdQV3Utb2gzNmdYNGFIWGgtazQxYWZzY1MzSEl3SHRCWGN0OUp6eUlTaTlRbEhGOURieW5reWM1TGlBRmxqYmFjU0FKd1gwQVVaVnVuNkMtQ05tTHZtbi1ESzcwcjNWRTZ4dDc2bk1IMnlFYjlLeE5YWVpIUzZzcU9OX2U0LWVPa3JTU25LblZ6ZHVTamRZV0pFVXFpS2hVUjJVN29kLVNUeVlRbmU3QQ",
@@ -109,6 +110,7 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGlKNkF4dXhCeEZ2YnNTeDlIaElZT2g0TkFGQzAtWFNVNGJQdjZPSUwxci1kSlNsMGozUVA1SUhqUlRZLXBpSm12dUNwUzI1TzZoaFd5WGVKb3JFUGMzLU9rT05CYmpsUUJOYmRYYjEyMnRUeUM3bFZaYmRRaXUxNzlPbnJiTmJvV281UkRjVHZqdldLMkJXTzR4VWjSAVZBVV95cUxNLUF4TTZZREJmR1FDT3pRRUo1Yl81SkpDRjlQM1h3Q0taQTBCdldBNENpWU04ejRYVk9UTW1ZbDZJN2tpZnd6UXpVRzZLeFpnRjg2cUhndw",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhwRDgtekR3ZXJUTk5YM0FKYlVZUl81cVJpaXF5STUzN1ZxUlRud0VCTmR0ZnBSbkhHUjdrU0tQdVN2UnZuNEU4czRoR01xdW41ZjA2aGpmclVpSTJGRzZ2R3pSUEJzWXI3cGI5T0FJTkc4WFRpZTNFWThOc3FFZGdDbG5PU0NTN0lTLWdJclNuZHJXZVJpWUpjeXM",
     "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUEtPZExyYWxNR0RLZlVlUDI0SHhsenlyeF9vcjZ1RE9YQ1ZORjl1RmxlNXU0WkhJaVZOTFdDMkhVQ2trckt4UHpOdFNfSXZWX2VXS0Q2Y2R2WEdCQ291WExVUm82aFlWeHhXbnZsbkNYM0hTYV9qdjg4UG9OSXR6blM1QUEwdVVINEllZ2lqdF9qMDVsSGlpeFpwTTdvYXRPeW1lTmdXV2VNc3c5NkxVWGNieGtIcHpyTlVVRkU3NFRXVGtrY29OYjl5cXpYZl84RG9hY1E5ckJNX0VQZG96SWN3QTZnRlNReEJBWmFtRV9yRlJDR3JkT1poUVF0X1Y1eGlCa0pkWmlSenlWQmNVNHpBVXNKYkt0YU8wcnBCSdIBpAJBVV95cUxOMmZ2c3FsSWp5Q3hrZHFBTDQwdFN4eGtjVHBhTW0zNDd1Wi1NRnVBaUpxRmgzcUx4d0tWZGVoSWtKd0tubzNQSWJkXzVmQVBJRGhJdGE0WXpsTjJsU1NsT09uaUljdUNjb0JMd2s2UzJUSzYwYTBZOW9qV09lYXdSZHhheEZZVEhkaUxVSWRIMmdUZ1FEcTVFSFdwS1dUZUxMQVNJaUdPVUtUd1J6eE83R2RZYmluQWVEY2xwMXBfWjgyVzktZGdfQTZjZ2Z0OGVsSXlqVjMxRUdZZVlYc3RZUEQ2VDdKX1VPTmZjcWlpaVM1QUlLZmM0azQ5eklBY3hBNjM2WGFRMU0zX1RWSFVFOFhjM2hJM1pmdXdDLThPMmtmb2Ni",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzU4ajdkWUNWaDN6MklSMF9mWk1YVTNwVHpRY0ZWcnpDTDI2SlhPWThrenJhVFNzV0RSZzdXaEZHTWhoaXNLNElsQ05IbEhfX1hrUXdldlVUbm80QWtXV2lnU0t5YkdJRDd1U28zTjBidWtaS2pnMElYZ254bVdnQlV2SlRvWnZLNmhtbTlHTFVNNFNTaldKTEcwRERoY3I5cTJwYml3",
@@ -130,7 +132,6 @@
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcW9TT3BOc0t3bE9LSm1IblNadmQ5LTBVM1lEa3haWmlGZXgtcFp3N3Nxb0lyOVUtd1pseF8tWEw2NnQtUjk2REpHcFNxdlRPeHlheXFQaFZkTlBaM1h0RzgyQVRTd25uNjhkUzM1M2pFVUgxaFo5N2J5UkdpQmtaMkFnNFdudG9fSm1kT29BOE1jX01OM0VFQ0ZyQUxtTnF5dmZPZWh3SXNHUlQ0Z3RWamJXa3VuWGtmeWF1eWNB",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXp5RFllMW9KMTl4cjM3Z0t6S3RKT3o4TDRYUlB5V3BSdWh5SW9xZl80d1hObHBwVzlaVHVqSlp0SzJfSzJLOHNqRWpGM0lpQWF0YTFmSU1raElHZHh1c2xiN3k2TUt5anJZWWNST2h2V3VyTHlBYjkwbEdSRTNrRXNXLUdVcG1LeTA0dmlWMXoxOVZ0V0RrQ1ZhaU1xaXNHMTZrWDZYZUVvNlR5dlVyVlVWQTBGcEU3RGhWWjlB",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWtIclNPN2Njd2NpTmRTOFFTWUVPa3dqYXZ1M0VPbHlYZG9yc3NMRUlUOERpVzdkbHBkY1dJai1xaTQ0VFdBdUVtdjl2TUZjWDN5S2g4MzR6MFEyMm14X1FvQTZqNGg4OXlrTEZRVVphOU9Ma0p0LVdySjdHdmlzamU4S3U1U0ZsR0I5Um9YdnBkNjBtRzBxN0Zfc0J2Z0FMWVViWUR5TDFDTkdTa0NGWm82ZFJXMHRiTkJyblRn",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1JGOUFfcHgwaVp3MGVaNkpYakVMT1dETi1IZmlkTVVuSE8yVDlFQjk0dVY0Ri1fRkJybmZ2a0I3NmEzQlB6U1RSaEJaYlczT0hxWjRnN3ZUeUVjUmVCM0tQdXpfV1hzbi1ZNERwWXpPNElscnh5S2hiaF8tak1TT3NSSGMzWDJrcDZoY0ZNOUx6LUczUFpTTnFUUExjclhSMWt0WmVvcmh4c1QySEg5dnRWbzlWWUY2bGJKd1BrNA",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWpqNFh3cVZTRzlNeV9VZlJoS2RtaEVhOFQtUzRJN0NEdnpXWXowWEZIS3EzQ2loWWRCQkVXYkp5QXVUOElCd0lKelpZaEktRjN0UUNPQ2p2M1pTVjVGT0dQdDZ0emdoM3FBWS1FWXd1WnFsdU1vSFRsOHFpQWdEeDN0Rjdnc1p0UEh6dGZDdEpFdk90N1J0TUwyamJ1LWRUSkdqZ0NicXNfSkcxWklzSmNvbTY5RVdTLWcxc0dSYW1WZw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE",
@@ -148,50 +149,9 @@
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
     "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
-    "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Золотовалютні резерви РФ впали до мінімуму з 2019",
-      "original_title": "Russia’s Gold Reserves Fall to Lowest Since 2019 as Budget Deficit Widens - The Moscow Times",
-      "summary": "Золотовалютні резерви Росії впали до найнижчого рівня з 2019 року. Причиною стало розширення бюджетного дефіциту. Це посилює тиск на державні фінанси та обмежує можливості експорту.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "The Moscow Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWtIclNPN2Njd2NpTmRTOFFTWUVPa3dqYXZ1M0VPbHlYZG9yc3NMRUlUOERpVzdkbHBkY1dJai1xaTQ0VFdBdUVtdjl2TUZjWDN5S2g4MzR6MFEyMm14X1FvQTZqNGg4OXlrTEZRVVphOU9Ma0p0LVdySjdHdmlzamU4S3U1U0ZsR0I5Um9YdnBkNjBtRzBxN0Zfc0J2Z0FMWVViWUR5TDFDTkdTa0NGWm82ZFJXMHRiTkJyblRn",
-      "published": "2026-10-20T16:45:07+00:00"
-    },
-    {
-      "title": "Норвегія розпочала місцеве виробництво танків Leopard 2A8",
-      "original_title": "Local production underway for Norway’s future Leopard 2A8 fleet",
-      "summary": "Норвегія отримала перші танки Leopard 2A8 від KNDS Deutschland і планує їх локальне виробництво. Leopard 2A8 оснащений 120‑мм гладкоствольним гарматним комплексом, покращеним системами наведення і бронюванням, що підвищує бойову ефективність. Це зміцнить оборонні можливості Норвегії та зменшить залежність від зовнішніх постачальників.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
-      "published": "2026-10-20T16:50:48+00:00"
-    },
-    {
-      "title": "Перший погляд всередину вантажного відсіку безпілотного підводного апарату Ghost Shark",
-      "original_title": "Ghost Shark Extra-Large Uncrewed Underwater Vehicles’ Payload Bay Seen For First Time",
-      "summary": "Нові фото показали внутрішній відсік вантажу австралійського XL‑AUV Ghost Shark, підтверджуючи його модульну конструкцію з можливістю швидкої заміни секцій корпусу. Відзначено три типи навантажень: до 12 морських мін, сховища постачань на дно та запуск безпілотних літальних апаратів ALTIUS. Така гнучкість розширює можливості Королівського австралійського флоту у підводних розвідці, спостереженні та ударних місіях.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
-      "published": "2026-10-20T16:53:07+00:00"
-    },
-    {
-      "title": "Northrop бачить зростання комерційного ринку мікроелектроніки та розглядає варіанти розвитку цього бізнесу",
-      "original_title": "Northrop sees growing commercial market for microelectronics products",
-      "summary": "Генеральна директорка Northrop Грумман Кеті Уорден назвала три варіанти для мікроелектронного напряму: і далі інвестувати самостійно за підтримки нинішніх акціонерів, залучити додаткових інвесторів або виділити бізнес в окрему структуру. У наведеному фрагменті немає технічних характеристик продукції чи конкретних контрактів, тому оцінити прямий вплив на оборонні програми поки неможливо. Загалом рішення може вплинути на те, як мікроелектроніка, що застосовується у військових системах, фінансуватиметься та масштабуватиметься з урахуванням комерційного попиту.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
-      "published": "2026-10-20T16:55:51+00:00"
-    },
     {
       "title": "Китай збудував понад удвічі більше тоннажу ВМС США у 2024-25: Euronaval",
       "original_title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
@@ -1623,6 +1583,16 @@
       "published": "2026-10-22T03:24:29+00:00"
     },
     {
+      "title": "Ізраїль засудив морську угоду Лівії та Туреччини",
+      "original_title": "Israel condemns Libya’s approval of maritime agreement with Turkey - The Times of Israel",
+      "summary": "Ізраїль офіційно засудив рішення лівійського уряду схвалити морську угоду з Туреччиною. Ця дипломатична реакція доповнює попередні заяви Кіпру та Єгипту, які також визнали цей меморандум недійсним. Подія підтверджує триваючий міжнародний дипломатичний конфлікт щодо визнання морських кордонів у Середземному морі.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Times of Israel",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
+      "published": "2026-10-22T03:51:05+00:00"
+    },
+    {
       "title": "Удари України по російських дата-центрах порушують ключові послуги",
       "original_title": "Ukraine's strikes on Russian data centers disrupt key services and derail AI research - Jacksonville Journal-Courier",
       "summary": "Згідно із заголовком Jacksonville Journal-Courier, українські удари по російських дата-центрах порушили роботу ключових сервісів і зірвали дослідження в галузі штучного інтелекту. У доступному тексті немає цифр, масштабів збитків, переліку уражених об'єктів чи тривалості збоїв, тому кількісно оцінити ефект неможливо. Макрофінансовий наслідок: зростають ризики для цифрової інфраструктури та технологічного розвитку РФ, а це може додатково тиснути на її економіку. Потрібні підтвердження й конкретні дані про шкоду.",
@@ -1651,6 +1621,36 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
       "published": "2026-10-22T04:47:04+00:00"
+    },
+    {
+      "title": "CSI 300 падає на 20% від червневого піку",
+      "original_title": "Chinese stock market enters bear territory! CSI 300 index crashes 20% from June peak - The Economic Times",
+      "summary": "Індекс CSI 300 впав на 20 % порівняно з максимумом у червні, що вводить китайський фондовий ринок у ведмежу зону. Така різка корекція скорочує ліквідність на біржах і підвищує ризик відтоку капіталу, що може посилити тиск на юань. Зниження вартості акцій ускладнює залучення фінансування для компаній, підвищуючи вартість боргових інструментів.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "The Economic Times",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
+      "published": "2026-10-22T05:25:09+00:00"
+    },
+    {
+      "title": "Найбутні фрегати F128 Німеччини отримають системи легкого озброєння MSI-DS Seahawk",
+      "original_title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
+      "summary": "Німецька флотяна служба планує озброїти нові фрегати F128 системами MSI-DS Seahawk – легкими артилерійськими системами з дальністю 10 км і швидкістю стрільби 120 снарядів за хвилину. Це дозволить фрегатам ефективно протидіяти повітряним та морським загрозам, підвищуючи їхню автономність у задачах протиповітряної оборони. Впровадження MSI-DS також скоротить час підготовки до бою, що важливо після затримок у виробництві F126.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
+      "published": "2026-10-22T06:19:52+00:00"
+    },
+    {
+      "title": "«Хартія» провела підземну операцію «Велес» на Куп’янщині, просунулася на 15 км",
+      "original_title": "«Хартія» провела на Куп’янщині підземну наступальну операцію «Велес» та просунулася на 15 км",
+      "summary": "Сили оборони «Хартія» використали підземні комунікації довжиною понад 15 км, інтегрувавши спеціальний зв’язок, навігацію та безшумну логістику. Операція «Велес» поєднала підземне просування з одночасними атаками на поверхні, що дозволило завдати удару з двох напрямків і ліквідувати понад 100 окупантів. Успіх забезпечив безпеку тилу Куп’янська та створив умови для подальших наступальних дій у Харківській області.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
+      "published": "2026-10-22T06:45:10+00:00"
     }
   ]
 }

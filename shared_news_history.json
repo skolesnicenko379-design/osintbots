@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies",
     "http://africanews.com/2026/10/21/un-warns-against-premature-exit-of-peacekeepers-from-central-african-republic",
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
     "https://army-technology.com/news/local-production-underway-for-norways-future-leopard-2a8-fleet",
@@ -8,7 +7,6 @@
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
-    "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
     "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
@@ -28,6 +26,7 @@
     "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
+    "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
@@ -74,6 +73,7 @@
     "https://navalnews.com/naval-news/2026/10/italian-navy-integrates-saver-submarine-rescue-suite-aboard-osv-tritone",
     "https://navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet",
     "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
+    "https://navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel",
     "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK",
@@ -126,7 +126,6 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFBWmhaLUpOb29pQWgtMEhpclJBcWpGc2hDaGg1b0xzN2s0SUtWQ29VbG5kV2dOdF9UYkVWWmRZbEF0NXdZYW1nMDVHSlVmX1VvZUdPcF95QVR1Ukxid0pIaTNKd2dNWEdUUFFycDByV1BQa3Fra05IaTNZNjF2dEpIM2kwRmw2eVNlTFlscU42UmhxNFl0VXJRV2M0bjhST2RDcEg5dzhsYU1VNl9EdU1TNDJYeGUz",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEhGVzFOVWh0MVV4WVB6aWNoREZMWHJheXRDRlJjV0g3bXZaWlZCOGlsZUNzMVRCaEdreFhfX0ZhdTc0cl9sX0ZWdW4yS2tPRU1kV1gtUjNLLTM2LUNId1dEbzNZLTMzZks3dFEybnpZY2FMSHVNdzJDUFdiQUplUk1xSGROczNwLUFQZ0htVnVyR2dRMEI0RVkxNWhSSFFEZE5mNGdGdGU4YVpMN3VWbU1SNXp3QXY4bXc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkoxeHZCRHJRaVFzeGd5WGJlY3FiQ3dITlRqWHhWMFVGa3lORWs3VFdUc1VSS1JUajhtSzJDcEtFeEh6d19XdjNhVzVjSVR1Mlo0R3pBc1o0bXQ1ZThXY0RUSEdvaXBhMGt1YW1HcHp1X01ILW1vRHNyZExCMGszTFJtalNPclRjYnJuWkQxUERtNno1ZEpWMG8wU2I3SkYzTWlLTE1OdThEeTBuTV9lS3NZNTAxNmtLU0dn",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
@@ -149,39 +148,10 @@
     "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
     "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
-    "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time"
+    "https://twz.com/sea/ghost-sharks-ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
+    "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Ghost Shark отримав «зуби»: Австралія презентує нові підводні боєприпаси для безпілотників",
-      "original_title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
-      "summary": "Австралійський Департамент оборони оголосив про нові модульні боєприпаси для підводних безпілотників Ghost Shark, Speartooth та Bluebottle, що дозволяють дистанційно доставляти запаси, мінеральні боєприпаси та безпілотники. Модуль розгортання мін може розмістити 12 мінералів, а UAV‑модуль забезпечує запуск Altius. Це розширює можливості АУКУСу у підводному бою, підвищує швидкість реагування і забезпечує захист критичної підводної інфраструктури.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
-      "published": "2026-10-20T14:01:23+00:00"
-    },
-    {
-      "title": "Володимир Зеленський прибув до Осло для зустрічі з представником Трампа Віткоффом",
-      "original_title": "Zelenskyy arrives in Oslo ahead of meeting with Trump envoy Witkoff - Euronews.com",
-      "summary": "Президент України Володимир Зеленський прибув до Осло, Норвегія, де має провести переговори з представником адміністрації Дональда Трампа Джоном Віткоффом. За словами Євроньюз, зустріч запланована на найближчі години і стосується подальшої координації підтримки України у сфері безпеки та гуманітарної допомоги.",
-      "source": "Bilateral Meetings",
-      "publisher": "Euronews.com",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEhGVzFOVWh0MVV4WVB6aWNoREZMWHJheXRDRlJjV0g3bXZaWlZCOGlsZUNzMVRCaEdreFhfX0ZhdTc0cl9sX0ZWdW4yS2tPRU1kV1gtUjNLLTM2LUNId1dEbzNZLTMzZks3dFEybnpZY2FMSHVNdzJDUFdiQUplUk1xSGROczNwLUFQZ0htVnVyR2dRMEI0RVkxNWhSSFFEZE5mNGdGdGU4YVpMN3VWbU1SNXp3QXY4bXc",
-      "published": "2026-10-20T14:07:55+00:00"
-    },
-    {
-      "title": "Ефіопія попереджає Еритрею про серйозні наслідки",
-      "original_title": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies",
-      "summary": "Ефіопський прем'єр-міністр Абій Ахмед попередив Еритрею про серйозні наслідки, якщо вона продовжить підтримку повстанців у країні. Під час зустрічі в Ефіопії він застеріг, що санкції можуть бути застосовані, і закликав до негайного припинення підтримки. Еритрея не відповіла, але заяви підвищили напруженість регіону.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies",
-      "published": "2026-10-20T14:08:23+00:00"
-    },
     {
       "title": "Туреччина планує збільшити витрати на оборонні закупки на 229% у 2027 році",
       "original_title": "Turkish defense procurement spending proposed to rise 229% in 2027",
@@ -1103,6 +1073,16 @@
       "published": "2026-10-21T11:38:18+00:00"
     },
     {
+      "title": "ST Engineering заклала кіль третього корабля класу Al Dorra для Кувейту",
+      "original_title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
+      "summary": "ST Engineering на верфі Benoi Yard у Сінгапурі 20 жовтня 2026 року заклала кіль третього ракетного катера класу Al Dorra й почала різання сталі для четвертого та п’ятого. Усі вони входять до програми з восьми суден для Військово-морських сил Кувейту. У наведеному фрагменті новини немає тактико-технічних характеристик, тож про озброєння та можливості корабля судити зарано. Паралельні роботи над кількома корпусами свідчать про поступове нарощування прибережного флоту Кувейту.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel",
+      "published": "2026-10-21T11:50:01+00:00"
+    },
+    {
       "title": "Невідомі дрони над головною базою ВМС Франції",
       "original_title": "Невідомі дрони літали над головною базою ВМС Франції",
       "summary": "У Франції зафіксували прольоти невідомих безпілотників над головною військово‑морською базою в Тулоні. Дрони, розміром з середньорозмірні квадрокоптери, не були ідентифіковані, проте їх активували системи радіоелектронного придушення, хоча успішного перехоплення не зафіксовано. Подія підкреслює потребу у посиленій обороні критичної військової інфраструктури та підвищену готовність до безпілотних загроз.",
@@ -1643,6 +1623,16 @@
       "published": "2026-10-21T21:18:10+00:00"
     },
     {
+      "title": "Колишні американські чиновники закликають Д.C. Circuit переглянути рішення щодо конфлікту Anthropic-Пентагон",
+      "original_title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
+      "summary": "Семнадцять колишніх високопосадовців національної безпеки подали юридичну заяву, закликаючи Д.C. Circuit переглянути рішення Пентагону про визнання Anthropic ризиком у ланцюжку постачання. Рішення може обмежити доступ оборонних підрядників до AI‑моделей Claude, що використовувалися у секретних мережах. Судовий процес визначить, чи буде можливим використання комерційних AI у військових цілях без обмежень.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
+      "published": "2026-10-21T22:17:26+00:00"
+    },
+    {
       "title": "Лідери армійських спецсил бачать перспективи та великий попит на нову посаду техніка‑інтегратора робототехніки",
       "original_title": "Army Special Forces leaders see promise, high demand for new robotics technician integrator job",
       "summary": "У жовтні 2024 року армія випустила перший плід робототехнічних вартових офіцерів, які отримали звання Robotics Technician Integrator (MOS 390A) і будуть працювати безпосередньо підрозділах, допомагаючи командуванню впроваджувати безпілотні системи. Командування планує розширити цю роль у рамках Futures and Autonomous Systems Command, що має підвищити ефективність автономних технологій та швидше адаптувати нові платформи у бойових умовах, зокрема з урахуванням досвіду війни в Україні.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
       "published": "2026-10-21T22:25:06+00:00"
+    },
+    {
+      "title": "Армія США планує до 100 безпілотних суден для автономної логістики у Тихому океані",
+      "original_title": "How The U.S. Army’s ‘Navy’ Aims To Go More Autonomous With Its Vessels In The Pacific",
+      "summary": "США планують інтегрувати автономні можливості в існуючі та майбутні амфібійні десантні кораблі та інші водяні платформи, включно з придбанням до 100 спеціально розроблених безпілотних надводних суден (USV). У складі армійської «військово‑морської» групи вже є LSV‑кораблі класу General Frank S. Besson, LCUs та буксири, а також планується отримання нових легких маневрових суден. Така модернізація розширить логістичні можливості армії в Тихоокеанському регіоні, забезпечуючи швидку та менш вразливу доставку вантажів за межами міжнародної лінії зміни дат.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific",
+      "published": "2026-10-21T23:30:27+00:00"
     }
   ]
 }

@@ -1,17 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTVBtb25zSU9Id21XZE85UkZFaWJoVGc5MDBXbGtBb3JhNlBCUXdJeEJqWFhHVEl6YWFvR2xHaWh2LVlHNnhGZ2FjSVpORXBWLTlDLS1hd01nVThsYnBoQU51dEVvcGVIMmRneXhfY3JUeVNIRVl6NmxWb2E3aDRiVjRVeVJYeHl3UldkNVhpb1gzRXV4UGl4aG82dTNBeENFVjI4?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaldhbXBrYTZjRHZQcEppVDBUS01mamoyTy1YWWE5aWlWa2l2bjBlZ2Y0U1Y5ai1uTld4aGY4dlVlemYtcWh3c2VieG9Sd2EyMGlJVzlFYU9Pd3liUUV6UXRrekxmMW5GYkxqejE0OVR0N2tNa2tYQ0lQcDdyU2VhTFlFY2dscGY0RG1BV1Q5Umo2NGRNOTR5NjJ0cHhkenJqbzBjY0w4RGRXVXVFZlEtaHBDRExmYlZPY1pHMWNQS0h4T0ROckFjU1ljX1ZxSUpJRTBB?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83VkMxMHVqZHp3Z3RRVm4zLWxJQmI2VC1NNVZkX0JYZUNLblhxMktkU3lrUXBnRHpoX2pkYmlCRWFwU3NlN081bUZRaEk5OFZX?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTNsTUZWQkRqVFAwZ1JYbEg2OEdqM3VCZ29sVlNNcmpDUkdrOWNXV1dqc0xFZ0dpMm5fQUx5OGhMWHlQT3kta1owMVhvX3o3dGVJTm44U2RvQV9NTVF1MktXWlU1MjloMVpGVm5jMjV1T0hGcHNvY2V4SGxOUjBoRHRxTkpXcUdfTmIzczFGZFg3OEVnWUJ6N3VUZjJtNWoydG5CanRhZHVmREVVRWk5bTZ3SGE0TU5hbWEtWXFubGxRd3J1d3RMcUg0SkZLRm9SSVZyeDlzc2dlYWJy?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY0dtUGZtUnozdXFFRXFMSmlCMmh2NFA2M0xielQ4eHRXMjBWaDdDTXBSMGg0ZjlWVG9pUlQxdTVCeEJlYWhuR3UxTk02SzBRVDdneE1uZnhRbGlVVTNkeno1X3lDd3JCWnhSdmk0WlN6X0lCYlRjRG11RDJOdUhCeVd4a3JTVUxHTkpLdlhBSlJNdkdlNmlZM3BMN2pNcU83UHZneDJNVFpSdjM5WXRGRmp5REVVdmRXQXNucmtsUGljWEhFT0EzdFJvaFhCWkJqbkJpNUdBWlZUNmVyY0lSc19qT041alJ4SzhES1hSV2JXSmtYUkVVOUxoTTY2RGRYQ3VWamx0S3M1ZG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yQmIxX1lja3k1bjlwRDBfZkVtVUttLTJmSUl5UlBzT2xLdkdEQWd4b2w1QXpudWlKbnd1blNEcXRrRFc5cjdlaDFUX1Q?oc=5",
-    "https://www.gov.uk/government/speeches/deterrence-is-not-a-threat-uk-statement-to-the-osce",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVBabjllTFk4VlpDSXNLaV83ektySVJvLVA4WXZ3TzljWTR0czZ2TmFZRGxrVTNGSjgxazRucFVnY01PMklnSko1M1diWnE0STBTWF9YbTNpRElkODdPWklCcm5ZLU9VWk9mTHBwc3FEUExjZ3NjUnh2cjZWZHV0MTllRlhXMTdkbjMtMzhUTDc3V28tQUwzQjA5UEUwNDFib0xzSzBicVFZMmpWaUdmZFpRRlQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1hObkM3cEk4Y2FvRWNuTWNQdDhOZmpxUEE2YVd3NlZ3X25wRFBPakhHQlo2MjRSMFk1MVlpMU5tSDRlVWRockQzUzJMZG8wM1pTejltbzZjbVVYVlVyV2VuVndpcVFtMEVCdHFNbU9lTzlrSlUySDVEUl83bnJMNVNWcEl2cXRKQWQ5OFNtbTNDX09MYVhieHJBcVY?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzJPTkh3X21YSTNXV1FBOGlKWThpRjFGR3ZhZUZIWlM5RWo3QjVjNHdiMnhjUjRhSU5uSGZSbGtZMWhhQUtneGlVdGJlSzBzanJRdlVWdzFmallzNU9JV25DbloybTRtc3ZKWURGSEpGaWE5UEV5NGNORFo2X3RpVXgzSklBYVdzSzF0WWR5WFl4cGlyMFRudk95bzB1cXpKRTVFbEdoWnFKQ1pOdlE5a2xxUdIBxwFBVV95cUxOekVRZWhGUll5bmdoMmhseTAzaFNJRjRYYTMxU3BEamNzbHJuZkN0bDJ1aWNhOUZQT3dURDdFU2xEYlRDdUVoUXJjT1l1ajk4Y0l2NmZIQXV3ejV6VTJSOGMzaGg3LTBsX1F4X3VqcUIxc3l5RjJoX3BEWTJmWUhKY3EzaDZ5UEVoeXVEZXFrVURBMU42VXhuZmY5TGlqdUF5dGxfTjRKeUhPUjJKb003d1R4NFhVMXh1X1FxNGdkQUNCZ1U0cWFn?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalZMYzAyNG9qQVVHVi1qRjJhYU1CTnNJTElQakNweUF2V2lxLUFzcmgzR3pFTVo1eG9DVzZ6R1JMdzk3OWU5T1hBZVJIT3JWRDBiUGF5WGk2WEFtVGwweHFkbVVoUjlOVTYxWDdJbzBibi1DMThaN1V4a2EwNzlycXNvcjU1dG1KbkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTkpha2hYakFfbkFlY3F2Znd0QUFIMmZTSkxUZ0xvbndxRTk2THBtNVNPU2I2dzdzRXZkZmtQZUoybnRWaUVaeEY2V2RjQjZ5c3dmU0ZXaG5TVEk?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UWFpIYkVRYlBLV29uR0Y3MkVzN05DV2VXd2RjaEVvWTQyX2UyZXVQVV9hcGV1YU5veVo5ODJYNGZzLXdtdG9wajJBSWJWT25QMFA3ZVdvNXpucmpS?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/14/palestinestar-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-postponement-of-elections/",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFVVRzFtRjdCd0NqMExqeHplLTRLRjdscDJSTDlZa0MwTzJoR191RnlfRzRyX0laRXRwbzIxb0J5cEEycHVwY3JCbmVidlBVU2xSLXJmampNMENRUlE5X0l3OUJYVnNCLTBIYXhzeXVIUVdGVFg2eG9aYWJCRUNlT2hWYllmVUtRZGI2eW9XNUZyRWJCVUE?oc=5",
@@ -1199,30 +1187,21 @@
     "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM?oc=5",
     "http://www.africanews.com/2026/10/22/madagascar-pauses-corruption-cases-relating-to-ex-president-officials/",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3gwYjdNU1dJNFBIdkVOYk5FcXBYZmlCc3d3Q2k3YkxySDh1dDdFa3d4UGpyd0MweHFEUHYwOWZIZUdRb0Z1ZmdESlF5ZjBwanlCLUtUTmlqeUY5aUFXRnNkazVHVFlGa2poamVBcDlCUmpsSEh4R3pNcXd2c3l1YXpDNHVxbjVzUlh3ZzBGVjYyVTlxX3ZNblk0RWtkUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pVEE2SnJMN212S3RmTkxuSkhTXzF3Y3ZFa3A4WU9GQ29HcXQwSTdTc25RbThQUUFZMGVBVzJ0enVqcGNkcG9oYzlqeTRCNmF4cWJEcEJfS0ZBS2tuZXlfbHFRZDBXTmV3TXVBZW0tVG8td01oM3NjSHF3?oc=5"
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pVEE2SnJMN212S3RmTkxuSkhTXzF3Y3ZFa3A4WU9GQ29HcXQwSTdTc25RbThQUUFZMGVBVzJ0enVqcGNkcG9oYzlqeTRCNmF4cWJEcEJfS0ZBS2tuZXlfbHFRZDBXTmV3TXVBZW0tVG8td01oM3NjSHF3?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEUyNXYxaGo4TE9FV3hBdjJZZjNWQnVvYUtoRTFKQXN5MWRfeWYzX0h0THU3ZU9HRTZvZXc3eGpTLWlkX3RYQ0RJMlFteUxhOEFmeHZySkt1WU1wcjRPb0pOcjA4UTZDNmR6YlpBcVh4SzQ2WS1YY0Q2dnI5WDhOaUtNS1ZXdw?oc=5",
+    "https://www.theafricareport.com/434290/rwanda-paul-barril-the-french-secret-agent-at-the-heart-of-the-tutsi-genocide/",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmo5dEpYQTdRWVUtZFFxb2h0Sm1XamYxd3FQRkx2OFhtZklxeTdlc05sYk9TMWtHczI5Nm1iYkJLdTZqWFhUUjFPb3hQRUp0Y1FtWHNBRndlVFpGZjktRVZXakNjWVQ0ZjBQQmFIQkFPQ3JJNzg5ZTlyN00zMnpwNEtob3FndGs0RnBvb1BXTkxTVDlyQ29obWpVOEVIVGtDQjlJTHBhTHpEMEpZOTBzN1JQbnludVU?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ19MN3ZybE1NUjNRT1p3b19IRzYybkoyWTRVQVFhbmZpQ3IyU3hKVjJtTXZPaVFSVmozUlNmU3dLU2tVUTVod0F5Q25USkQ3a0hsYzltRktTTURBVWhvM1U4cTJBMUF5VGkwRTUwak51TTRBTmZVbUZxNnZDcGNuV2lWQ0hXNUpTeTlSUVNqQmRpRzJ4RmVockpwQVcwOUZIZ1NHR2VuX1BXbWpCTklhNm9STlM?oc=5",
+    "http://www.africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court/",
+    "http://www.africanews.com/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest/",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hpUVhpdWxEVUt3Q2NjakZWeFlGWDFqc09Ed1pOc3otcFZOWVFhOWduSzRnLUlNVFVyRHBXRWc0VEhka0NveUk1Y2NkaGg2bHVqU2U3bVNORTdaUXdZaTVVXzQ5NHRqcXVQRGZFejAyU2tRa25RNV9PWnZ6N09MOQ?oc=5",
+    "http://www.africanews.com/2026/10/22/guineas-ex-constitutional-court-president-sentenced-to-seven-years-in-jail/",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWdkMkxxanZtdnU4c0RSNmJMYndEVDF0WHlWRHY4Q0FzM19tR2QtYldfeGJfNmpNeWVYUklfQ0J2X3ctMjNZMkJGUExkLUNuLVFaN2RrSWZkMnJpT293TTJ6UnB6U1dlVjlGV3RuV2NEREtjbEpUNHNoQ1pPcUhFWjI0aW1kTVlWNmNwMVFaWVRvN1RPenFmd2ZMMUMzLXNBRmZ5RmtfS1hQWXRGb2YxRjNWY3VVTGs?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Сісі заявив про готовність Єгипту захищати Саудівську Аравію",
-      "summary": "Президент Єгипту Абдель Фаттах ас-Сісі на форумі заявив, що військова підтримка Саудівської Аравії спрямована виключно на захист її території та кордонів. Він наголосив, що операції не передбачають атак на Йемен і не виходять за межі Єгипту чи запитів інших арабських держав.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T16:12:29+00:00"
-    },
-    {
-      "title": "Рада ЄС погодила позицію щодо спрощення правил для малих виробників упаковки",
-      "summary": "Рада ЄС погодила переговорну позицію для спрощення регуляторних вимог до малих виробників упаковки. Це рішення спрямоване на зменшення бюрократичного навантаження та спрощення процедур для малого бізнесу в рамках європейського законодавства.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-21T15:45:55+00:00"
-    },
-    {
-      "title": "Макрон здійснив несподіваний візит до Саудівської Аравії",
-      "summary": "Президент Франції Еммануель Макрон прибув до Саудівської Аравії для несподіваного візиту, який він назвав актом солідарності. Ця подія фіксує офіційний дипломатичний контакт між лідерами двох країн. Матеріал не містить деталей про конкретні переговори чи підписані угоди, лише факт прибуття.",
-      "source": "Bilateral Meetings",
-      "publisher": "France 24",
-      "published": "2026-10-21T15:39:40+00:00"
-    },
     {
       "title": "Кіпр засудив меморандум Туреччини та Лівії як незаконний",
       "summary": "Міністерство закордонних справ Кіпру офіційно засудило меморандум про взаєморозуміння між Туреччиною та Лівією, назвавши його незаконним, нікчемним і таким, що не має юридичної сили. Ця реакція є формальним дипломатичним кроком, що підтверджує позицію Нікосії щодо неприйнятності угоди про демаркацію морських кордонів, яку раніше відхилила Греція.",
@@ -1411,6 +1390,27 @@
       "source": "China Diplomacy",
       "publisher": "中华人民共和国外交部",
       "published": "2026-10-21T15:55:00+00:00"
+    },
+    {
+      "title": "Туреччина та Канада розпочнуть переговори про вільну торгівлю",
+      "summary": "Президент Туреччини Реджеп Таїп Ердоган оголосив, що Туреччина та Канада розпочнуть переговори щодо укладення угоди про вільну торгівлю ще до кінця поточного року. Сторони планують обговорити умови взаємного доступу до ринків та інші комерційні питання.",
+      "source": "Treaties & Agreements",
+      "publisher": "Türkiye Today",
+      "published": "2026-10-22T15:44:22+00:00"
+    },
+    {
+      "title": "ЄС нагородив Міжнародний кримінальний суд премією Сахарова",
+      "summary": "Європейський Союз нагородив Міжнародний кримінальний суд премією Сахарова, своєю найвищою нагородою у сфері прав людини. Це рішення ухвалено на тлі санкцій США та демонструє підтримку інституції, що може посварити президента Дональда Трампа.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-22T15:22:42+00:00"
+    },
+    {
+      "title": "Президент Ради ЄС Антоніу Кошта зустрівся з президентом В'єтнаму",
+      "summary": "Президент Ради Європейського Союзу Антоніу Кошта провів офіційну зустріч із президентом В'єтнаму. Ця дипломатична подія зафіксована в офіційному прес-релізі Ради ЄС. У тексті джерела відсутні деталі щодо конкретних результатів переговорів, підписаних угод чи спільних заяв, тому опис обмежується самим фактом проведення зустрічі між лідерами.",
+      "source": "EU Diplomacy",
+      "publisher": "Council of EU - Newsroom",
+      "published": "2026-10-22T14:29:06+00:00"
     }
   ]
 }

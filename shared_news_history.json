@@ -8,15 +8,12 @@
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
-    "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
     "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
-    "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
-    "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
@@ -51,6 +48,7 @@
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
+    "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
     "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
@@ -62,11 +60,14 @@
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
     "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
+    "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
     "https://militarnyi.com/uk/news/rosiyany-pochaly-zastosovuvaty-nevidomyj-dron-iz-benzynovym-dvygunom",
     "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
     "https://militarnyi.com/uk/news/u-frantsiyi-rozbyvsya-vynyshhuvach-mirage-2000d-ye-zagyblyj",
     "https://militarnyi.com/uk/news/u-kaliningradskij-oblasti-rozbyvsya-su-30sm",
+    "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
     "https://militarnyi.com/uk/news/udar-po-naftovomu-terminalu-v-rostovi-poshkodzheni-visim-rezervuariv",
+    "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
     "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
     "https://navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet",
     "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
@@ -83,7 +84,6 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlpVa1RRVjNXbG5Jem1iWVJ4SzEzNlJmZ1dEUFg1S09oOFpyNk9GMHFmQjJxLXFyRHVfS1pPYXFvMHdXQTNIYzFGY3psREtmX3Y5SzB1aDNPN1J4cEVHdTAxaDF3akNFelBuS240ZEZ6ZVkwcHkwUmhYeE9PY2tTQk9LQzBHMmszSVFrdXJoUUdUcnFKREQ0LUxxc3NLYVlxSUNxQW5zZ2d3TGRLbEVCTTVnNEVTMDBNbHZ6bHU5ZU9rRmVWUVNMSnFfUG1ZZjRJVVE",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMW5pQ1lURWF6Y0tNMXh2ZldGM2w5RUpHenhEa0hUU2tQMHBIMDlYT21LYzc5Z3NneV81RVc5eW5DV2lSTGxxQWNLVlNBSU9QLVQzLW5YcFBZNlh6cFQ1dU0wX01mdHFwY3h2OUE2TlczMXhoeDEyOEswWHpmbTZNMG5KNmN4NXBHekFyWk1id3J0OGpPMmVXeVBoMG1GWkVfUXJJWk9HVE1rUTBxXzNUNUh3QjNEenZBTlg1Vy1HemxFTXo2NjJ3ck1BRU5pdWJHUXlF",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3VfSmttLWRPWFhxLXhvTmhURzcteDFaYkJxbFV4SFdXRTQ0NFBRZXNCdUFnLUhodVdEeUVZelhYWmhFdTJWa3MzZGZPN01LNFpEVERsRVFvekdrU25GcGdyM01xUFRxdlpPZEJDY0V3R2hZSFFsX2p4eDV6WWZNTVdxWlNueHo5NHM3aW01eEZhc1JNQTFlSzFfTUU1M040QURxQkhmZUpRYlNfQzhSbXl5TDFtRnJUcFdBU0JNcUIxTVE4U3dGWkVJb29RTnJnVnRtVGNn",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnl6X0NwbnpVMl9heUFZTkluLWFYdVZ1S2x2N2ZWQnFZTzN2QTBOVmVUT3YzdDVQWHVFemR5c05XM3REekpReHZsYWw2TW1Ed2ZMelZrbTg5bXBlbUJQbkNiWDNKOFZURnRQQzJQdEtta0Q4eTRKRzV3OTVuSHljX0dUSUZrbU1jd0Q0cTFGXzVIb3lpbWc5UG85NDZGU0dWODI3M0U3VkU2OVFid3NqLUg1d2tRY1RGR3ljcng3dER5ak1FRHd6NENaTHVnWVhtbVV6cUliMUpJOVdpaVJwR080VmFLRXk3eVE",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOXpLbTNfdlFaMWtlTmlVTzVuYVFlZDZBbFFHTkw4cVNXT0FuWi1zMFBzTGVhYlR5dEdRcTdCNnE3dmlBRWIzMzg0UGNLWjJpRl9KM1RNNEp1R251eWlENXo3UzNUdzNFcW5rT3hFc0I2VFBMWHdXa29FRXpjaU5WOGJTU05xaWxFY01wdUl0M2tTT2p4NW4wSG9iUDhvTlFHNWVCdDQxMFEzbktidnlSakMySk83RUJZTzJtQjdENmJaRUw5LVFIXzk2cUwtbmt5VFR6cWh5Y1ZtSmNudExyV2FxNUxOanBRaFJsc3o1ekvSAfYBQVVfeXFMTWZoZmh5Tnljbm1NVndBQkxWaFQ1VzFnSlNFQ2ZocWdxZndxM2tNOHR2eEZqcUFocjI1SXVBUUxFbkpzRzlCSUtsZnowNHZ6VklaSE5qRjR2OUQ4NzFzaW9iTGp0dkY1WWU2dDh2eFp6enhGRzdyR3o1THNrWjFOZ19xSlNHOC1pbWNqY0pCdGFkQXhmRTlTemhsWXFyaU1rQVZWaHBZTjZaSTB5b1Z2czVTRi0xMkFqRFV3ckx3NG80XzZSenB2V0ZKbl9aOXVONUxtclVmTnRIVEFHa2RhU1BZLWtMN3JRV1NvRHI1c3dndW5GSmtB",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Китай збудував понад удвічі більше тоннажу ВМС США у 2024-25: Euronaval",
-      "original_title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-      "summary": "За даними Euronaval, Китай за 2024-25 роки побудував бойові кораблі тоннажністю 636208 тонн проти 270509 тонн у США. Китай забезпечив понад третину глобального морського будівництва, а вартість його кораблів сягнула 43,5 млрд доларів. Це прискорює скорочення розриву в тоннажі флотів і посилює виклики для американської кораблебудівної промисловості.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
-      "published": "2026-10-20T16:57:56+00:00"
-    },
-    {
-      "title": "Пілот F-22 керує безпілотним FQ-44 у польоті",
-      "original_title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-      "summary": "У цьому випробуванні F‑22 Raptor виступив як «quarterback», передаючи команди безпілотному YFQ‑44A Collaborative Combat Aircraft, який виконував маневри та симульовані боєзавдання у реальному часі. Демонстрація підтверджує концепцію «loyal wingmen» і показує, що пілотовані літаки можуть швидко інтегрувати автономні партнери, що підвищує боєздатність та швидкість розгортання нових технологій.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
-      "published": "2026-10-20T17:00:21+00:00"
-    },
-    {
-      "title": "Джаішанкар: глобалізація потребує стійкості та IMEC",
-      "original_title": "Globalisation must be navigated with greater resilience, says Dr. Jaishankar; highlights IMEC’s role in regional connectivity - DD News",
-      "summary": "Доктор Джаішанкар заявив, що глобалізацію потрібно долати з більшою стійкістю. Він підкреслив роль IMEC у регіональній зв'язності. Це впливає на торговельні коридори та макроекономічну політику.",
-      "source": "Коридори · IMEC",
-      "publisher": "DD News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY1JXdUQzSzc4SjZ3Sjl1Q2tvYlJzUWNyNFVFd3VlbkdValhmb25mNTh2bEpWai1vR0dkVktDYnoyQ0tfWGtQLUVtMzR3d2VvX3pFbXlBN3pjSkhiY3IxMnFKT1VKMUxndDBpZFdXVVp0RGo4bkJiLXQzUmRrdTB5Y3ZxY1BreV9fRU1wX1NoNjRCbFNQdDV3ZENqWktNM25QamNSTWhibjRhSEdMSUhpamdHM1NlOUtMQ1JBbkhqVEVFM1NMMHVYbHR3RW9BbEEyT20xY3lQNGgzYm1sWEk5dQ",
-      "published": "2026-10-20T17:04:38+00:00"
-    },
-    {
-      "title": "Норвегія отримає РСЗВ Chunmoo у 2028 році, а початкова боєздатність буде у 2029-му",
-      "original_title": "Norway to receive Chunmoos in 2028, reach IOC in 2029: Norwegian army leader",
-      "summary": "Норвегія закупила 16 південнокорейських РСЗВ Chunmoo від Hanwha на суму близько $2 млрд у межах програми далекобійних ракет для Арктики. За рекламними даними виробника, дальність системи становить приблизно 500 км. Базуватимуть її в Бардуфоссі на півночі країни, а екіпажі навчатимуть у самій Норвегії. За словами міністра оборони Торе Сандвіка, ракети можуть дістати до долини Печенги, де дислоковані 71-ша гвардійська мотострілецька дивізія та 61-ша бригада морської піхоти РФ. Це посилює стримування на північному фланзі НАТО, а паралельно Норвегія прискорює створення бригади Фіннмарк (близько 40",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
-      "published": "2026-10-20T17:13:00+00:00"
-    },
     {
       "title": "Армія США формує підтримку для протиракетного щита Golden Dome",
       "original_title": "US Army support for Golden Dome missile shield takes shape",
@@ -1633,6 +1593,36 @@
       "published": "2026-10-22T05:25:09+00:00"
     },
     {
+      "title": "1039-й зенітний ракетний полк отримав фінські ЗРК ItO 90M — модифікацію Crotale NG на шасі Sisu",
+      "original_title": "Україна отримала фінську версію ЗРК Crotale для перехоплення російських дронів та ракет",
+      "summary": "ItO 90M — фінська модернізована версія французького ЗРК малої дальності Crotale NG на колісному шасі Sisu XA-181 6x6. Комплекс виявляє цілі на відстані до 20 км, ракета VT-1 розвиває швидкість до 3,5 Маха, дальність стрільби — до 11 км, висота ураження — до 6 км, а час реакції становить 5 секунд. Такі характеристики підходять для прикриття об’єктів від дронів, крилатих ракет і літаків на малих висотах, тож комплекс може підсилити ешелоновану ППО. Масштаб впливу залежить від кількості переданих систем і запасу ракет, а ці дані в джерелі не наведені.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
+      "published": "2026-10-22T05:40:04+00:00"
+    },
+    {
+      "title": "Росія залучила бригаду «Варяг» для протидії наступу 3-го армійського корпусу",
+      "original_title": "Росіяни залучили бригаду «Варяг» для протидії наступу 3-го армійського корпусу",
+      "summary": "Російське командування перекинуло частину 50‑ї бригади безпілотних систем «Варяг» на Лиманський напрямок, щоб посилити оборону проти наступу 3‑го армійського корпусу ЗСУ. Бригада оснащена ударними та розвідувальними БПЛА, що дозволяє швидко реагувати на зміни на полі бою. Це підвищує здатність РФ до швидкого реагування, але також свідчить про нестачу персоналу й необхідність залучення додаткових підрозділів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
+      "published": "2026-10-22T06:02:17+00:00"
+    },
+    {
+      "title": "У Польщі спростували повідомлення про призупинення військової допомоги Україні",
+      "original_title": "У Польщі спростували призупинення військової допомоги Україні — Fakt",
+      "summary": "У відповідь на повідомлення про нібито призупинення передачі військової допомоги, речник Міністерства оборони Польщі Януш Сеймей заявив, що ця інформація є неправдивою. Це підтверджує, що польська підтримка України у вигляді озброєння продовжується, незважаючи на локальну ініціативу львівської обласної ради. Відмова від подальшого поширення чуток знижує ризик дипломатичної напруги між Польщею та Україною.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
+      "published": "2026-10-22T06:11:25+00:00"
+    },
+    {
       "title": "Найбутні фрегати F128 Німеччини отримають системи легкого озброєння MSI-DS Seahawk",
       "original_title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
       "summary": "Німецька флотяна служба планує озброїти нові фрегати F128 системами MSI-DS Seahawk – легкими артилерійськими системами з дальністю 10 км і швидкістю стрільби 120 снарядів за хвилину. Це дозволить фрегатам ефективно протидіяти повітряним та морським загрозам, підвищуючи їхню автономність у задачах протиповітряної оборони. Впровадження MSI-DS також скоротить час підготовки до бою, що важливо після затримок у виробництві F126.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
       "published": "2026-10-22T06:45:10+00:00"
+    },
+    {
+      "title": "Іспанія отримала третій заправник A330 MRTT, переобладнаний з пасажирського літака",
+      "original_title": "Іспанія отримала третій A330 MRTT, переобладнаний із пасажирського авіалайнера",
+      "summary": "20 жовтня 2026 року Airbus передав Іспанії третій A330 MRTT, завершивши замовлення 2021 року на три перетворені пасажирські A330. Літак має 111 тонн пального, може перебувати у повітрі понад 18 годин і долати до 16 000 км, використовуючи систему дозаправлення «шланг‑конус». Це відновлює стратегічну можливість довготривалої повітряної заправки, підвищуючи оперативну гнучкість ВПС Іспанії та її роль у спільних НАТО‑операціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
+      "published": "2026-10-22T06:59:09+00:00"
     }
   ]
 }

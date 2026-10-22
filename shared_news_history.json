@@ -7,6 +7,7 @@
     "https://army-technology.com/news/l3harris-gmlrs-us-army",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
+    "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
     "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
@@ -18,16 +19,15 @@
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
+    "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
     "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
-    "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/genuine-dialogue-requires-respect-for-ukraines-sovereignty-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
-    "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-us-iran-talks-ongoing",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
     "https://middleeasteye.net/live-blog/live-blog-update/iraq-orders-sheeb-crossing-closure-more-shutdowns-loom",
     "https://middleeasteye.net/live-blog/live-blog-update/morning-update-647",
@@ -47,6 +47,7 @@
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
     "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
+    "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
     "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
     "https://militarnyi.com/uk/news/kongres-ssha-proshyt-trampa-pro-starlink",
@@ -116,7 +117,6 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRURGF5OVJmbVJKMlZoT01WbmlnVzFWNmF2VTd3ZGFmcmhDX1h4S25rMkZSYmlkVEY1RmU3c0lqSHJMWmhVc3hJSE1ua1RTZURZaVBPRXg4eVhvdlVLS25vSzI2RU5YNDJOVjRfVVppbHJraWxPR20wYnNjY2FuN2tyWEw2UnpIRFVjR05IOEFFNmozdkF1Qkpn",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGlKNkF4dXhCeEZ2YnNTeDlIaElZT2g0TkFGQzAtWFNVNGJQdjZPSUwxci1kSlNsMGozUVA1SUhqUlRZLXBpSm12dUNwUzI1TzZoaFd5WGVKb3JFUGMzLU9rT05CYmpsUUJOYmRYYjEyMnRUeUM3bFZaYmRRaXUxNzlPbnJiTmJvV281UkRjVHZqdldLMkJXTzR4VWjSAVZBVV95cUxNLUF4TTZZREJmR1FDT3pRRUo1Yl81SkpDRjlQM1h3Q0taQTBCdldBNENpWU04ejRYVk9UTW1ZbDZJN2tpZnd6UXpVRzZLeFpnRjg2cUhndw",
-    "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUEtPZExyYWxNR0RLZlVlUDI0SHhsenlyeF9vcjZ1RE9YQ1ZORjl1RmxlNXU0WkhJaVZOTFdDMkhVQ2trckt4UHpOdFNfSXZWX2VXS0Q2Y2R2WEdCQ291WExVUm82aFlWeHhXbnZsbkNYM0hTYV9qdjg4UG9OSXR6blM1QUEwdVVINEllZ2lqdF9qMDVsSGlpeFpwTTdvYXRPeW1lTmdXV2VNc3c5NkxVWGNieGtIcHpyTlVVRkU3NFRXVGtrY29OYjl5cXpYZl84RG9hY1E5ckJNX0VQZG96SWN3QTZnRlNReEJBWmFtRV9yRlJDR3JkT1poUVF0X1Y1eGlCa0pkWmlSenlWQmNVNHpBVXNKYkt0YU8wcnBCSdIBpAJBVV95cUxOMmZ2c3FsSWp5Q3hrZHFBTDQwdFN4eGtjVHBhTW0zNDd1Wi1NRnVBaUpxRmgzcUx4d0tWZGVoSWtKd0tubzNQSWJkXzVmQVBJRGhJdGE0WXpsTjJsU1NsT09uaUljdUNjb0JMd2s2UzJUSzYwYTBZOW9qV09lYXdSZHhheEZZVEhkaUxVSWRIMmdUZ1FEcTVFSFdwS1dUZUxMQVNJaUdPVUtUd1J6eE83R2RZYmluQWVEY2xwMXBfWjgyVzktZGdfQTZjZ2Z0OGVsSXlqVjMxRUdZZVlYc3RZUEQ2VDdKX1VPTmZjcWlpaVM1QUlLZmM0azQ5eklBY3hBNjM2WGFRMU0zX1RWSFVFOFhjM2hJM1pmdXdDLThPMmtmb2Ni",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
@@ -128,7 +128,6 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVFwZlpMM081ano2Yl80YjMwTzh4UHFfY3dIMnN5R0c2RVhWUzNmMVdOV3BudWNxSGZxMlRhd2ZTeGJ6MDFFTHV6bDlnSGd1YmVOVE1xcTV6Mml5Mmtvdk1YNUV2Q1pVaVRrdlUzdFNMLWlJWTVDSXRnazVrSm1UeE9qMDFhaXpoQ0cxQ1V6V0lwd3lIeGVqTS1QeENaRVM2Vk5oUzgwRkt0bGZVM2dN",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjFaTGxnSzgyY3dSTlRYb3ZvNFVpQkJlNFdtVmtDVlcwZmd3OTh4ckVvbU14LXNVQmhvUk1tTkV4TThyVmpYMm16QnRwdG92VjhFZldqOHY5OTdZSzV4amk5a0pJQWZ1cnllOGtYc25SbkZ5NzA4Y3VFaHlLVVhFMkozRXZxbW5RbXI2bHIyUmdJRl9NNWlJeXN1OGZ2NVZzdkxkd3g0X0x1MEZKT1lHbVJ3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkoxeHZCRHJRaVFzeGd5WGJlY3FiQ3dITlRqWHhWMFVGa3lORWs3VFdUc1VSS1JUajhtSzJDcEtFeEh6d19XdjNhVzVjSVR1Mlo0R3pBc1o0bXQ1ZThXY0RUSEdvaXBhMGt1YW1HcHp1X01ILW1vRHNyZExCMGszTFJtalNPclRjYnJuWkQxUERtNno1ZEpWMG8wU2I3SkYzTWlLTE1OdThEeTBuTV9lS3NZNTAxNmtLU0dn",
@@ -148,50 +147,11 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
+    "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "МЕА: дефіцит дизелю може зберегтися до 2027 року",
-      "original_title": "IEA warns diesel squeeze may persist into 2027 as oil markets remain fragile - Green Building Africa",
-      "summary": "Міжнародне енергетичне агентство попереджає, що напруга на ринку дизельного пального може тривати до 2027 року, а нафтові ринки залишаються крихкими. У наданому тексті немає конкретних цифр, цін чи обсягів, тому оцінити масштаб дефіциту неможливо. Якщо прогноз підтвердиться, це може підтримувати підвищені витрати на дизель, а отже й інфляційний тиск через транспорт і логістику. Для країн-імпортерів пального це означає ризик для торгових балансів і бюджетів.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "Green Building Africa",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
-      "published": "2026-10-21T01:58:39+00:00"
-    },
-    {
-      "title": "Іран продовжує переговори з США через посередників",
-      "original_title": "Araghchi says US-Iran talks ongoing",
-      "summary": "Іранський міністр закордонних справ Аббас Арагчі заявив, що переговори з США, посередниками Пакістан і Катар, тривають. Підтверджено агентством NourNews. Переговори не завершені, продовжуються через посередників, без конкретних дат завершення. Це офіційний дипломатичний крок між двома країнами.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-us-iran-talks-ongoing",
-      "published": "2026-10-21T02:07:57+00:00"
-    },
-    {
-      "title": "Goldman Sachs: дефіцит пропозиції міді може підтримати ціни",
-      "original_title": "Copper supply crunch could push prices higher as new mines take over 16 years to develop: Goldman Sachs - The Economic Times",
-      "summary": "За оцінкою Goldman Sachs, дефіцит пропозиції міді може підвищити ціни, бо розробка нових родовищ триває понад 16 років. Заголовок не містить прогнозних рівнів цін, обсягів дефіциту чи конкретних проєктів. Довгий цикл запуску шахт обмежує швидкість реакції пропозиції на попит, що є структурним ризиком для ринку. Для макрофінансового фону це означає можливий тиск на витрати галузей-споживачів міді та підтримку сировинних ринків, але кількісних оцінок у матеріалі немає.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUEtPZExyYWxNR0RLZlVlUDI0SHhsenlyeF9vcjZ1RE9YQ1ZORjl1RmxlNXU0WkhJaVZOTFdDMkhVQ2trckt4UHpOdFNfSXZWX2VXS0Q2Y2R2WEdCQ291WExVUm82aFlWeHhXbnZsbkNYM0hTYV9qdjg4UG9OSXR6blM1QUEwdVVINEllZ2lqdF9qMDVsSGlpeFpwTTdvYXRPeW1lTmdXV2VNc3c5NkxVWGNieGtIcHpyTlVVRkU3NFRXVGtrY29OYjl5cXpYZl84RG9hY1E5ckJNX0VQZG96SWN3QTZnRlNReEJBWmFtRV9yRlJDR3JkT1poUVF0X1Y1eGlCa0pkWmlSenlWQmNVNHpBVXNKYkt0YU8wcnBCSdIBpAJBVV95cUxOMmZ2c3FsSWp5Q3hrZHFBTDQwdFN4eGtjVHBhTW0zNDd1Wi1NRnVBaUpxRmgzcUx4d0tWZGVoSWtKd0tubzNQSWJkXzVmQVBJRGhJdGE0WXpsTjJsU1NsT09uaUljdUNjb0JMd2s2UzJUSzYwYTBZOW9qV09lYXdSZHhheEZZVEhkaUxVSWRIMmdUZ1FEcTVFSFdwS1dUZUxMQVNJaUdPVUtUd1J6eE83R2RZYmluQWVEY2xwMXBfWjgyVzktZGdfQTZjZ2Z0OGVsSXlqVjMxRUdZZVlYc3RZUEQ2VDdKX1VPTmZjcWlpaVM1QUlLZmM0azQ5eklBY3hBNjM2WGFRMU0zX1RWSFVFOFhjM2hJM1pmdXdDLThPMmtmb2Ni",
-      "published": "2026-10-21T02:57:17+00:00"
-    },
-    {
-      "title": "Лейн: лінії євроліквідності та посилення механізму EUREP",
-      "original_title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-      "summary": "Головний економіст ЄЦБ Філіп Лейн наголосив, що внутрішні операції рефінансування Євросистеми, де контрагентами є лише резиденти, потребують доповнення міжнародними лініями ліквідності (репо та свопи). Цього року ЄЦБ зробив EUREP гнучкішим: стандартний доступ, у принципі, отримують усі центральні банки, а резервна євроліквідність надається під високоякісну заставу в євро з належними запобіжниками ризику. Такі лінії з резервним ціноутворенням використовуються лише під час криз, але самим існуванням стримують тиск на ставки грошового ринку євро та захищають трансмісію монетарної політики. Наслід",
-      "source": "ЄЦБ",
-      "publisher": "ЄЦБ",
-      "channel": "economy",
-      "link": "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-      "published": "2026-10-21T04:15:00+00:00"
-    },
     {
       "title": "Австралійський міністр закордонних справ відвідав Індонезію",
       "original_title": "Visit to Indonesia - Australian Minister for Foreign Affairs",
@@ -1643,6 +1603,36 @@
       "published": "2026-10-22T13:03:46+00:00"
     },
     {
+      "title": "Пентагон прагне отримати кетамінові пластинки для бойової медицини та добивається екстреного дозволу",
+      "original_title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
+      "summary": "Міноборони США уклало контракт майже на $41 млн із iX Biopharma на розробку Wafermine — небоопіоїдної кетамінової пластинки, що розчиняється під язиком, тобто альтернативи ін'єкціям для знеболення при помірному та сильному болю. Через оголошену у вересні екстрену ситуацію препарат теоретично можуть допустити до використання військовими ще до повного схвалення FDA, але Politico повідомляє, що американський виробничий партнер компанії не має потрібної ліцензії в Неваді. Якщо препарат пройде перевірки, бійці зможуть швидше знеболювати поранених без внутрішньовенного доступу чи ін'єкцій, проте в м",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
+      "published": "2026-10-22T13:45:04+00:00"
+    },
+    {
+      "title": "Армія США випробовує малі дрони для «адресних кібереффектів» і РЕБ у 11-му кібербатальйоні",
+      "original_title": "Army unit experimenting with small drones for ‘tailored cyber effects’",
+      "summary": "Армія США тестує на малих дронах платформу RDEP, поєднуючи державні й комерційні готові payload-модулі для «неконтактних ефектів» на тактичному рівні. За словами полковника Девіда Бергмана, RDEP — апаратно-програмний комплекс, що дає змогу завантажувати експлойти на карти й доставляти «цифрові кулі» для засліплення або отримання доступу до систем противника; конкретні можливості не розкриті, але зазвичай це постановка завад і доступ до Wi-Fi. Якщо підхід підтвердиться, він розширить радіус тактичних кіберопер��цій і дасть моніторинг спектра в реальному часі з меншим ризиком впливу на власні за",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
+      "published": "2026-10-22T13:59:00+00:00"
+    },
+    {
+      "title": "Будівництво підземного авіабаза «Огаб 44» Ірану продовжується незважаючи на війну",
+      "original_title": "Construction Of Iran’s “Eagle 44” Underground Airbase Hasn’t Stopped Despite War",
+      "summary": "Підземний авіабаза «Огаб 44» розташована в гірському схилі Хормозгану і здатна приховувати винищувачі, безпілотники та крилаті ракети. Сателітні знімки Planet Labs показують завершену нову частину шляху для руху літаків, хоча деякі будівлі залишилися зруйнованими. Це підтверджує стійкість Ірану до авіаційних ударів і підвищує його стратегічну глибину, що ускладнює планування ударів США.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
+      "published": "2026-10-22T14:11:02+00:00"
+    },
+    {
       "title": "Відсотки за боргом США вперше перевищили оборонний бюджет",
       "original_title": "US debt interest hits record $1.05 trillion in 2026, surpassing the $956-billion military budget - Yahoo Finance",
       "summary": "Згідно із заголовком Yahoo Finance, витрати США на обслуговування боргу у 2026 році сягнули рекордних $1,05 трлн. Це більше за військовий бюджет у $956 млрд. Відсотковий тягар стає більшою статтею видатків, ніж оборона, тому простір для фіскального маневру звужується. За відсутності деталей у тексті статті причини зростання витрат і прогноз залишаються невідомими, але показник підсилює увагу ринку до стійкості бюджету США.",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
       "published": "2026-10-22T14:25:00+00:00"
+    },
+    {
+      "title": "Індія модернізує чотири радянські кораблі надзвуковими ракетами BrahMos",
+      "original_title": "Індія посилить чотири застарілі кораблі надзвуковими ракетами BrahMos",
+      "summary": "Індійський флот встановить вертикальні пускові установки BrahMos на два есмінці класу Ranvir і два корвети Veer, збільшуючи їхній боєкомплект до 16 ракет у випадку есмінців. Це підвищить дальність і швидкість ураження морських цілей, надаючи індійським кораблям можливість вести високоточні надзвукові удари на великі відстані.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
+      "published": "2026-10-22T14:51:23+00:00"
     }
   ]
 }

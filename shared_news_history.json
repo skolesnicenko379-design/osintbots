@@ -107,7 +107,6 @@
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTE1Q2VWSEpaS3FBSk1LZW9nYlN3RGg4Y3d6RmdGZTJJNmJOSUVKQ0Y5MjEwcVZGWVJhWFdiT1VwNUJvcklpdy0zamJTc1JkOW13cVV6VVhlZHBRemRNRmIzSmNmU3F3U3pKeGNsODNVSGlUczJtWW5ZNDU2aVpNbU43OHlraFRFbUo2a3o3cll3QQ",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVG9mN1lKc3hJakRfbVlKZHdldV9UaUFUVmZZQ1NPSkFkTWQxNHNhRjEzTzJpNmFGZllWd0NUR2V4VFB0ZWlwcmNveFB5emhTdUppUTF1UkozLWNEWTB2VGRxYi1LeEo5ZTZiTGxIbjQ4c0ZwZG00NmJNNFZ0cDFRRmRYQ1ZMX1BKSzk2UjJNdWQwYjJFbi1hQ2lfOA",
@@ -116,6 +115,7 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEV4NlZYTXhQb3ZMeW9RZ3F5TkRrSXFfNXQyTWZhSDVOZXpsMTNMSHdRa2VPZWlENFhxS2tBbkQzNXRLTlZNQ0ptejh3UjdRQXJPMVJXM0JjdE56NjNkX241dllZWHJTbHZOYUljdFFUa2tyMWFIbWxhOUxmeTlDYk11Y2c2V1pzaUhCd3dWeTNza2UzWmJhSkw1V0JCY1M1bUlrQ1pn",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdLR0J3X2Y4a1A1Tk9MODZJQnFTN1RGdzV0Nml4aEMtUTRhTjU5U3RfdHU3YlRxdWZtMHU3azU3X2VMeXdJMVQ5WHlIU19VTTNkZkJPQ21wVXp4eEotWGJSQU4wVzRud3JNYmI0LVRqaGticzdYbWlQYVpUa3NES2tlRnVwdVZ1SENzSzlVOTRkdlg3M3BMQjRzZHV2cV9FTEFIZnFwVQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Імпорт Німеччини з Росії впав на 96%",
-      "original_title": "German imports from Russia plunge 96% since Ukraine invasion - Yahoo",
-      "summary": "Згідно із заголовком, імпорт Німеччини з Росії скоротився на 96% з початку вторгнення в Україну. Інших цифр у матеріалі немає: невідомі абсолютні обсяги, базовий період, товарна структура та джерело розрахунку. Якщо цей показник точний, Росія майже втратила один зі значних європейських ринків збуту, а це обмежує її експортну виручку та валютні надходження. Масштаб впливу на бюджет і торговий баланс за цими даними оцінити неможливо.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Yahoo",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTE1Q2VWSEpaS3FBSk1LZW9nYlN3RGg4Y3d6RmdGZTJJNmJOSUVKQ0Y5MjEwcVZGWVJhWFdiT1VwNUJvcklpdy0zamJTc1JkOW13cVV6VVhlZHBRemRNRmIzSmNmU3F3U3pKeGNsODNVSGlUczJtWW5ZNDU2aVpNbU43OHlraFRFbUo2a3o3cll3QQ",
-      "published": "2026-10-21T10:18:48+00:00"
-    },
     {
       "title": "Excalibur Army представила самохідний міномет Alakran на шасі PATRIOT 4×4",
       "original_title": "Excalibur Army представила самохідний міномет з системою Alakran, яку використовують в Україні, на шасі PATRIOT 4×4",
@@ -1591,6 +1581,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
       "published": "2026-10-22T18:46:45+00:00"
+    },
+    {
+      "title": "Україна та Фінляндія підписали сім документів про оборону та транспорт",
+      "original_title": "Ukraine and Finland Signed Seven Documents on Defense, Transport, Satellite Communications, and Construction – Results of the Ukraine–Finland Business Forum — Official website of the President of Ukraine - Офіційне інтернет-представництво Президента ",
+      "summary": "Під час Україно-Фінського бізнес-форуму сторони підписали сім документів, що охоплюють сфери оборони, транспорту, супутникового зв'язку та будівництва. Ця подія зафіксована на офіційному сайті Президента України. У матеріалі відсутні деталі щодо конкретних умов угод, імен підписантів чи термінів реалізації, тому аналіз обмежений фактом підписання.",
+      "source": "Treaties & Agreements",
+      "publisher": "Офіційне інтернет-представництво Президента України",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA",
+      "published": "2026-10-22T19:05:00+00:00"
     },
     {
       "title": "Австралійські родовища антимонію не забезпечують стабільність постачань",

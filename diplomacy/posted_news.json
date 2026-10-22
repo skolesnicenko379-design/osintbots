@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2o0bVE2dGNjUWRhWDNzR3Z2Q1JuSjgtT3NiSjgxQUs1TVhRYVFWRkFFZmFQdjg4WXdXa211SFc1THpLT2lGN25LV25mbElaMXNqUk5pbTIzcENqWERpZ1pySklRMWtCOVpVQUFSbURSTUpZWm9ELTdqOGZGMW5KZ1pjNVBuMWVyeUZpbG1BblJhNnh5alRBaFNudzJ2VXlRYnVVNWE1WEtDYW1neW5POHBXZkpQOFhFZl9HQ3pkME14QmNRZERQQQ?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/14/main-messages-from-the-tripartite-social-summit-of-14-october-2026/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/14/remarks-by-president-antonio-costa-at-the-press-conference-following-the-tripartite-social-summit/",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUxuU0NxcndkWWxoQ1JKWDFxWlkza2xLUzQzZ05WVGtELXVtN2FSSFBiZjc2cndGVGprR05mYXdoUHhNbkdNcEFPYlFVcHZfbjYyWXU3dUt3alFlU1J1OWk1bldLSWtKd1NMdElHRlcyckprSjlyMmZ3Rm9MMEF3UVN6R2IzTUFHY3h4dWgzZE9qZzV4ejRvSVBBeGdyTU9oS0UzUk1xTmllV0VkU3BRbmNlVHRJOXRERmNVMWhQNW84Ym8xQ2hBYg?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSzNJNGQtTzhxM3Z2VklpUF9wakxhUnlRY3RmZ3BldzlBVm1Ob3phWFRnVnZOekVlTGcyZFU5ODMxOE1yOG1WZmU4U3JHdEpKZ0FvZ1J0ODJFVURMUmZSNC1UcTJBV29TVE80cGN1YkdmN0FmNlM1dlMtT1M3ZGFsM2FjVmNhNkdsamRzbzdBcFpyMjJPWVJCaA?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSG5ZcDh6amgyM2lLWTUzbjBzOEtDVWFfeW5MY1RDczkwVDFpVzRvWm1wbWsxeXhwV2RDbEpuNHRGdEMxWmZWWWxaNnNmUEhQQjVnTm93NWRIdHRpWll1VVRfbkJsM3NEVFp5emJJMXdSN1FrMWVKOFUzYlJvc20xQk5wS1d3Qy03cE4wYkY2X1Ywd3ZxMjJIYkczbXFWRzhhRXhfdVIyMmtzUmRxdE4xTFlFeFBRSENJMWpHTmRyeE8?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qY1ZTSTRrNEhDMnZvWlNrem9Oam1Tc0VONFVxZ2JTblJRejVsTXVLQy1IcS03dlF1Z2FWMkJMbzYzUkNJUGpmTzRaWWNQRGtMMEIxanBhZlF4Y2l5cjVxRXoxUmEzZw?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkVsMmhIdFhNTi15LWMxM3U3Q0xCYXBDdzZlU0UwRnB5MUFibjR2dDF3Y3dtamJwLS1FWTV3NW5XNEp4SUU3SHE4b1BYLURGeDJOZE84ckJVX08tZTcyWjdBcVpvaWpxYTl3TmN5dVNPZjAyaHA1enMyV2ZxeGpLX1YteHp1OXJpclZ6OFMwdzFlME1QNi01bUhnSWE1Z21LMmFWenJXX056d1h6d3gxZGtaZ1QxSFhPbkZQanNhUm90cFlmYnZubGZkZ3JsM2JvdllNRXFB?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0R5cUlZb2xUWGQ1bEZULUF3bXRJaG1kYjdSLVVqX3hrVWtIMzRTZ0o4cllGQk5VQk8xNmVVTEdBOWR6ZkNUcXQ0WnBhSThncl9pWlBxTU5qNWw5OGx0Y0s0aUJwY3RNdkp0SGdFMklWQ2FpXzNqWW14bVdUR3hhUU9YSWFCSThSc01EOUlndk90UjFRcHRsR2ZYTlFBSlJtS2d0Q3NXRjFfOWxv0gGyAUFVX3lxTE9ZNlpkQm5wdUg2TWllZFdyMFBrcUtEYUtWc1dMQXNaVFhMX3JsWldQUDhoUFM4UmVQelcwdDE5NGRmRkFLZkdiUkprUVc3eWhaRDNTSjVLb2loaXJRa2diUFp5c0lEWUZIQ3pIRGhQcTE1aHQ5cWdBTTFlUWJ4ZnlEODR6Y3JUczlQMEx0dFFFUnRKRkV1aGh6SWNrZXBuUWpnNkU4bkNNZl9GU2h4NUJoc0E?oc=5",
@@ -1199,16 +1192,16 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTg5Wm9EYzBJWVNrUGE1QnJqQVFnbXVsYnVQckNmM1k0SDlUYlFiV2RfaTg2eFRBX3FIcmZfUWQxbjUwajUwMmxDQzBuMmtDNVdFMkxHbEFtSmpmOXIza0EzOF90N1JCSzFfNnlfWWNTSmk4YXQyMVJ0QS1KNTNDby13QlJuWHVYTjhtMlp5Mms4NHFWc0JqVi1GdkY?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnZtWUhWbldnWkVUR1MzcE1TMzE4WjJfVG11RjBLd1JBQ2RqYUk2ZGJrUGk4OW4zV2dQSkU3dXRqX0h2MXM5T3B3eXJuT003UUowQllpeTdrV3RtblBtMklQR0FXcHNCcnVqeVZRM0h4TmZIeGppZjloR3JQOE9pRUhhaUx4RjN2S291ZXczNnlNNEV3?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vaENNVGE5VklEcGw3Yk54LWRkZjNIR2ZYTDd6eE1CcnpSbWowbEZua0lPZDZtenFha05NVUV0MEtiSU1kM0lPejNldko4RkJ1REttWTkzeUxsdml2MzFWVEFmeEMtUVBDMFVWSzlnNTc3YjhTS1ZSOHdDdjdSd9IBfkFVX3lxTE9VVkZNd1ZHaV9OZWhNRFJhUVVZdV9TZ1pGODRXdWpyVk1LWUt0bGJwblphRDFnZW8taFl2RXFpMkU0NmFqbjAwXzVTVUFreWVmbE9JLUlJY2hVNHhZM0lzZkZWNm9EZ1FjLUZTdGpHRHZBOGtHa0JVUUljbHQ3Zw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-iran-naval-blockade-reaches-100-days"
+    "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-iran-naval-blockade-reaches-100-days",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHBJRWJUN2F3SnUxVTNZMkJMSGFWUnJsVGc2UlROOFdoX1VwVTRXTmY1N1U3ZEtlRVhPdjFZMDRJYWR0MGN1cEpNbHRtdmtKc1ktOGx2NkV0bWtZZVZMaG9GSFFHeEpDZ2Voa3ExZlNCZzhtTGxYOEE0WnZOMEw0d2NwcFlzRmxyQzN2WGltMnlhczVPTWFMemF5S0c?oc=5",
+    "https://www.middleeasteye.net/news/first-arab-american-mayor-endorse-trump-becomes-white-house-adviser-president",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-calls-yemen-talks-parliament-weighs-military-support-saudi-arabia",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ000aVVsN2xmYUFLY3BWWW1DWUlKRmd0YkRoZDBjbExYeTFLcmdNN2ZiQlZDTFd6OXpxUkVZeV9CdDNaMGN3M1piYXRuNG44V3dvU212cUhLUHI0X3F1My1xc0RkX3g3T2pzRXVRSVZyMWpZUVY1Zzk3cTUtblU1ZjVpRDZncGVKbXhNSlBBcnVtVFBUQ2xVcUd4bkNyeXhfenNIamQ2QVBGS3FpUHVidGxfVnJuTUo1VWMtUGt5UnA1SWc?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWhzTEZWck91bTdzV0lqOXB6Q2Y4SGhvcHJUWWUwaTJBNXBYSzdVV0VKNE9wX0ExYUxTWEdiV1hTaFFPNDZYVzE2azRfeXVDVkJLeTlNN0t5emdtSkdZMVg2NW1zcnlOY1BtUFl5NHZSWGlBaGdGUGd2TlJpVUFuTTNHcFNhUU83WENaUVExcG5DREwtbnc?oc=5",
+    "http://www.africanews.com/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Гани оголосив про переговори з Європою щодо репарацій",
-      "summary": "Президент Гани заявив, що країна веде переговори з європейськими націями щодо виплати репарацій. Це офіційне повідомлення підтверджує ініціювання дипломатичного діалогу між Африкою та Європою з історичних питань. У тексті джерела не вказано конкретних учасників, дати зустрічей чи підписаних документів, тому деталі обмежені самим фактом ведення переговорів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Financial Times",
-      "published": "2026-10-21T17:43:17+00:00"
-    },
     {
       "title": "США наказали вийти з посольств у країнах Персикового залива",
       "summary": "США наказали вийти з посольств у країнах Персикового залива, включаючи Саудівську Аравію, ОАЕ, Йорданію, Катар і Бахрейн, через можливий розпочатий конфлікт з хітами в Ємені. Підтверджено трьома американськими офіційними особами, що рішення прийнято у відповідь на підвищену небезпеку для персоналу. Заплановано завершення виведення до кінця тижня.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "Ukrinform",
       "published": "2026-10-22T18:40:00+00:00"
+    },
+    {
+      "title": "Україна та Фінляндія підписали сім документів про оборону та транспорт",
+      "summary": "Під час Україно-Фінського бізнес-форуму сторони підписали сім документів, що охоплюють сфери оборони, транспорту, супутникового зв'язку та будівництва. Ця подія зафіксована на офіційному сайті Президента України. У матеріалі відсутні деталі щодо конкретних умов угод, імен підписантів чи термінів реалізації, тому аналіз обмежений фактом підписання.",
+      "source": "Treaties & Agreements",
+      "publisher": "Офіційне інтернет-представництво Президента України",
+      "published": "2026-10-22T19:05:00+00:00"
     }
   ]
 }

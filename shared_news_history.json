@@ -17,6 +17,7 @@
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
     "https://defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight",
+    "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval",
     "https://defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
@@ -39,7 +40,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
     "https://middleeasteye.net/live-blog/live-blog-update/sisi-says-egypt-will-defend-saudi-territory-without-attacking-yemen",
     "https://middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet",
-    "https://middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
     "https://middleeasteye.net/live-blog/live-blog-update/us-order-departure-embassy-staff-gulf-countries-officials-say",
     "https://middleeasteye.net/live-blog/live-blog-update/us-releases-new-iran-related-sanctions",
     "https://middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
@@ -49,6 +49,7 @@
     "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
     "https://militarnyi.com/uk/news/elistair-stvoryla-drotovu-systemu-anafi-ukr",
     "https://militarnyi.com/uk/news/excalibur-army-shasi-patriot-4x4",
+    "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
     "https://militarnyi.com/uk/news/lytovtsi-zibraly-1-3-mln-na-antydronovyj-zahyst",
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
@@ -93,7 +94,6 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE82dXNPaUh0SHBsVjlEMi1uemp4YldRbVp2UTMtLTdJcmtGOWUwQXJfT01oTHVQUjdEZ1Nxc214TjhHX3hXQ1dHVkpYc3U1SW13NmNnUEVhXzczS3hsYnA3UURRdUxnSE0tbkRmNk85UUZsemVTUWc",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbF85anB1T2x1M3pyamhYd0tuVzRTVExWYXR5Yk9Hbm9sdnhXa1lHeDQ2S1Qyemt0SXdfVWVEZFo1MUxnZ1lBaVBlLTJwOEtBbVRXWWpxMDFOU3o5cXQxY2V6UUs2Y1VSSXRBRE02WXI2YnBqRTVHR25oWnAwWW9yS0VycFA2dHZHSVZlUDMzY2dkNXZfcllvTFJQUWdLaG9uamtWcnZ2TlZEVDlEZU1ndnIzZTdPRndiMDZXYXlhVHg5MVF3YTFFSVZhOU5UVmc2UDF3VVlnWUo0b0lfc01XaVBJeFc4SFAzNUFUREFVeDBValFjUWRPS0RaZnlGbUYzT19kRtIBigJBVV95cUxPbGd0WWxFdUw1aXBnS1pMbzQySU9KcVlhYmxXaUFOaElEX2ZvUmMtNENoR2xTbmNrN1BSdGFJczV5dmtPWlktamdNMF9uMVNHVmljeUQzSVNaclVGVTdFd2c0cTh5T2xoalNCeGdGZnVpVEJjZWxDejFvYlIzT2tibVdsOHFzc2lVWlpabFM4eW16VXhfdTdMay1mNEJIc2NIWjVRMGxBVmFUMzFMRVJWcV8wd2tZUi1HYlVTNW94MGxUWGd2U2FmV2hXU1F4TUdNRmh0RFV1SG9UaU5hY0Iyb3J5MzFYUkZRcW9fNWFqQWcxbTZueWhEeXQ2TFhRbTJSTldlZzVtcjV1Zw",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2ViQVAwNU5CaW5sSTUzNzBpeFQ5YmcyX0h6Y3BIYjE3dmpZM3JYejl3eXFSdXh5TFE5WlRVWHZvanVVY0JaSFdhSVRyNjc2UVlsN2lSNkg5Z2NDd0RNQ1VGUW4wUlJGUGNKdnRfZmQwZWRiVzZfWFQyNkZfajN0aTR0ME5pdw",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1BMFZEX29tZDRPeWRIX0t2TXhyVHdtM3JqdDh4OUhHRWpOSGR2YnZPNnlzeHB2X0JVVGxuUUNfM2x1WVBlcDNaLWh5QzE5Z21pWVV1ZUowWTFRV3RSeFUwQ3RmcVVtQVZvQW52NEszeDZvWG0yMi1zUmJ5dEdvSjFQUnB2YzF6NnBn",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmJ3cGowQ0EwalpnV0FVMmhZOUZmQ21CNEZObEE2SDZzUHQtWmZNR0taeHhoRUhxNXJCQmJpcDVzZWtxZko4Xzd6SHBhUEpEVUNFN2Q1V29HdUtHekpuVGhLMjdNdWwzOW9OU1NCc0dLQ01VMk9Oc3pMaWxrMXdtMkR3d2xnVGdFQ0VQT1h5VlAxcktCQlljSXVnTVFyd0U0akI3OG9KRGIzMTFEWGdhNUd6Vkx2MTZlN3RjVzJSdzJWOWpnRVVBemlYTW5KN3BUMGdsOTFlRG5aN0hJenhydFRBYjBZSVRQT29NbmVtQ21JdDZTam1iUmhHQVoxSTBjeC1mQWtfMlpxM28",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Франція переходить до обов'язкових зелених держзакупівель",
-      "original_title": "Inside France’s Shift From Voluntary to Mandatory Green Public Procurement - International Institute for Sustainable Development",
-      "summary": "Франція змінює підхід до державних закупівель, роблячи зелені критерії обов'язковими замість добровільних. Це впливає на макроекономіку та промисловість ЄС. Крок може змінити ринкові умови та політику закупівель у секторі.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "International Institute for Sustainable Development",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX2ViQVAwNU5CaW5sSTUzNzBpeFQ5YmcyX0h6Y3BIYjE3dmpZM3JYejl3eXFSdXh5TFE5WlRVWHZvanVVY0JaSFdhSVRyNjc2UVlsN2lSNkg5Z2NDd0RNQ1VGUW4wUlJGUGNKdnRfZmQwZWRiVzZfWFQyNkZfajN0aTR0ME5pdw",
-      "published": "2026-10-20T15:11:22+00:00"
-    },
-    {
-      "title": "ООН вимагала доступ гуманітарної допомоги до Тейза",
-      "original_title": "UN demands aid access to besieged Yemen city Taiz",
-      "summary": "ООН вимагала негайний доступ гуманітарної допомоги до Тейза, що обмежено хутіями. Головний правозахисник ООН Волькер Турк закликав розблокувати дорогу до Адену, підкресливши ризик для цивільного населення та необхідність швидкого реагування. У заяві зазначено, що блокування є катастрофічним для прав людини і що без допомоги міста ризикує відсутність життєво важливих товарів.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
-      "published": "2026-10-20T15:28:26+00:00"
-    },
     {
       "title": "Банк Росії збереже ключову ставку 14% на засіданні 23 жовтня",
       "original_title": "The Bank of Russia will keep its key rate at 14 at its next meeting on October 23.% - AKM.RU",
@@ -1163,6 +1143,16 @@
       "published": "2026-10-21T13:32:56+00:00"
     },
     {
+      "title": "Терміни розгортання NGC2 в армії США залежать від фінансування, заявив командувач I корпусу",
+      "original_title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
+      "summary": "Генерал-лейтенант Метт Макфарлейн заявив, що розгортання системи NGC2 у I корпусі до кінця 2027 фінансового року залежить від ресурсів, які надасть армія. Платформа має об'єднати в одній мережі сенсори, зброю та застосунки з різних підрозділів і працювати на великих відстанях, зокрема в умовах радіоелектронного придушення зв'язку. Anduril нещодавно отримала контракт на суму до $1,8 млрд на розвиток спільної бази даних NGC2, а запит на НДДКР і масштабування системи у бюджеті 2027 фінансового року становить $904 млн. Затримка ухвалення NDAA в Сенаті робить терміни невизначеними.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
+      "published": "2026-10-21T13:59:36+00:00"
+    },
+    {
       "title": "Оборонні гіганти шукають одного науковця-дослідника на кожні 1,4 вакансії розробників",
       "original_title": "Defense primes advertising one research-scientist role for every 1.4 developer roles",
       "summary": "За даними Army Technology, оборонні прайми дедалі частіше публікують вакансії дослідників (research scientist) в ІІ, тоді як попит на класичних розробників програмного забезпечення знижується. У тексті новини немає конкретних компаній, цифр чи технічних характеристик, тож висновки обмежуються загальним трендом. Якщо він збережеться, оборонна індустрія переорієнтовуватиметься з інтеграції готового софту на власні дослідження в галузі ІІ, а це може вплинути на темпи створення автономних і аналітичних систем.",
@@ -1481,6 +1471,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWoteEJZTXZ1RlZCZlYyajgtXzQyWkR5MC1uVldIQ1QtTW16dlNaeHBzS0xETXFiOVhtd0R5MFRqT2dNQVFjOFREYVVIczBnNnBiekNVRkFCanNkRTZUUjdpYkgyZE0tS2wzWlNTcGJmOERRVW9xTWFWa1lyNjlkbHBxV09pZEg3Ql9WZmVXSTFobmVYMU1CcnJobDVlRkh4STlTWUZESnZyM3VNRHdmaHFPOE5EZ3RmZUFVRktsVUFKY3pyTmlxNkVn",
       "published": "2026-10-21T19:06:34+00:00"
+    },
+    {
+      "title": "Lockheed Martin розглядає створення спеціальної модифікації F-16 для України",
+      "original_title": "Lockheed Martin пропонує Україні власну версію F-16",
+      "summary": "Компанія планує розробити варіант F-16 з більшою дальністю польоту та новітньою радіолокаційною станцією, що дозволить раніше виявляти низьколітні безпілотники та крилаті ракети. Передбачається інтеграція європейських авіабомб і крилатих ракет, що розширить вогневу потужність українських літаків. Реалізація проєкту потребує схвалення Вашингтона і наразі перебуває на початковій стадії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/lockheed-martin-proponuye-ukrayini-vlasnu-versiyu-f-16",
+      "published": "2026-10-21T19:07:19+00:00"
     },
     {
       "title": "ЄС: виняток зі санкцій США проти Росії послаблює тиск",

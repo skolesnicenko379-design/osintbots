@@ -4,6 +4,7 @@
     "http://africanews.com/2026/10/21/united-nations-condemns-drone-strikes-on-civilians-and-infrastructure-in-sudan",
     "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
+    "https://army-technology.com/news/l3harris-gmlrs-us-army",
     "https://army-technology.com/sponsored/defense-primes-advertising-one-research-scientist-role-for-every-1-4-developer-roles",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones",
@@ -12,18 +13,17 @@
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
+    "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
     "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
-    "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
     "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
     "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
     "https://gov.uk/government/speeches/genuine-dialogue-requires-respect-for-ukraines-sovereignty-uk-statement-to-the-osce",
-    "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/russias-recruitment-of-foreign-fighters-is-exploitative-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
@@ -53,6 +53,8 @@
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
     "https://militarnyi.com/uk/news/nevidomi-drony-litaly-nad-golovnoyu-bazoyu-vms-frantsiyi",
+    "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
+    "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/rosiya-narostyla-vyrobnytstvo-reaktyvnyh-geran-4-5-do-4-tysyach",
     "https://militarnyi.com/uk/news/rosiya-ta-uzbekystan-rozpochaly-spilni-vijskovi-navchannya-bilya-kordonu-z-afganistanom",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
@@ -76,7 +78,6 @@
     "https://navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy",
     "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
     "https://navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel",
-    "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
     "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNzFmYmVoRzRURWtmMHpNMzhZdHhlcnE1SHduNko3endOeV9uVjl3d2VpWDY3aWpnZXdxcnlmRzJ5U0tTaWtDTlJvNU5PT2w0MVhNNUx5ZXRDd2ZoNW1YSWZ0RGRyRm5fVVlVcUhVTFdLLWNaZkp4blIyTzlSRldOb3NBOTA1VzFDOUhOcnhRdV90MkNhMUJMLTM2QnNQeDJDaWxVQ0w0Z25WOTNKM3hyWXFGZDVmSVJKSnNYQzJ6Q3VILVN0ZWs4dTR2SEhxWTdzRFVYLXBMOVZhM0xWRkYyRnJPTEdyNmJHVXBkaWlSWTVXNWF5QzNfUmRfVdIBgAJBVV95cUxOYS1nOWg5VTVMbE1ieVJRcTA3cWpsdEJkazk5TkpUQmlZS3BCcEJJQTVjVnNaemJtSUxJaXFHSjJiaGk5Q3A2c3BlV3k0V3RCV3Jqc2NJclVzYnpHbEM5aTZHTG1Uc0lrdG0tdFVhaGV6bFF4UXJRa0FkV09yYmlQelMzRmxpVkZuQmI5ZnpsUHNsZWVQMDRobldRdTBTUkRSZ2UxSDRBeWIxZDU5M0hTOGdNOXg2cUxTRW9xTy1FU2ZXNXRrRUFDczdZVkdrMXk5QlM3LUlvRzJnbHJqWWVPVFpJWjlqSFcwT2g0NU9oZmxlSEJ5anpxY3VoZGRjblBr",
@@ -146,52 +147,11 @@
     "https://theafricareport.com/434070/sudan-army-strike-in-disputed-territory-kills-153-local-authorities",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
     "https://twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again",
-    "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
     "https://twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
     "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Фінляндія планує виготовити мільйон протипіхотних мін у відповідь на російську загрозу",
-      "original_title": "Finland Plans To Build A Million Landmines As Russian Threat Looms",
-      "summary": "Фінляндія вийшла з Конвенції Отави і готує підписання контракту на близько мільйона протипіхотних мін власного виробництва, включаючи трубчасту міну з трип‑дротиком і міну, що активується тиском. Виробництво має розпочатися у 2028 році, що посилить обороноздатність країни на східному кордоні, проте підвищить ризики гуманітарних втрат і може спонукати інші країни НАТО до подібних кроків.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
-      "published": "2026-10-20T20:53:28+00:00"
-    },
-    {
-      "title": "Великобританія закликала до нормалізації відносин Косово та Сербії в РБ ООН",
-      "original_title": "Normalisation of relations between Kosovo and Serbia remains essential to long term stability: UK statement at the UN Security Council",
-      "summary": "Політична координаторка Великобританії Дженніфер МакНагтон на засіданні Ради Безпеки ООН привітала формування уряду Косово та обрання президента Джустіни Шірока Пула. Вона закликала країни-члени ООН визнати незалежність Косово та вимагала від Бельграда та Приштини реалізувати існуючі угоди, зокрема Охридську угоду, для забезпечення довгострокової стабільності.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/normalisation-of-relations-between-kosovo-and-serbia-remains-essential-to-long-term-stability-uk-statement-at-the-un-security-council",
-      "published": "2026-10-20T20:57:41+00:00"
-    },
-    {
-      "title": "STM провела закладку кееля другого логістичного судна португальського флоту",
-      "original_title": "STM Holds Keel Laying Ceremony for Portugal’s Second Logistics Support Ship",
-      "summary": "20 жовтня 2026 року турецька компанія STM оголосила про проведення церемонії закладки кееля другого логістичного підтримуючого корабля для ВМС Португалії в Стамбулі. Судно розраховане на транспортування боєприпасів, пального та технічного обладнання, що підвищить автономність та оперативність португальської морської групи. Це зміцнює стратегічне партнерство між Туреччиною та Португалією та розширює інтернаціональну присутність STM у військовому суднобудуванні.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/stm-holds-keel-laying-ceremony-for-portugals-second-logistics-support-ship",
-      "published": "2026-10-20T21:04:06+00:00"
-    },
-    {
-      "title": "Корпус морської піхоти США розширює доступ до Maven Smart System для особового складу всіх ешелонів",
-      "original_title": "Marine Corps moves to expand Maven Smart System account access across its enterprise",
-      "summary": "З 1 жовтня корпус морської піхоти запровадив корпоративне ліцензування платформи Palantir на базі ШІ: уповноважений особовий склад усіх ешелонів отримає окремі облікові записи в мережах, до яких має допуск. MSS зводить розвідувальні дані, відео з дронів із розпізнаванням об'єктів, супутникові знімки, а також дані про особовий склад і логістику в єдину оперативну картину, що має пришвидшити ухвалення рішень командирами. За словами анонімного джерела, доступ охоплюватиме мережі різних рівнів секретності, а оновлений план упровадження MSS опублікують окремо. Фактичний ефект залежатиме від темпів",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/20/marine-corps-maven-smart-system-access",
-      "published": "2026-10-20T21:12:04+00:00"
-    },
     {
       "title": "Великий український виробник зброї переглядає майбутню залежність від Starlink",
       "original_title": "Major Ukrainian Arms Maker Rethinking Future Reliance On Starlink",
@@ -963,6 +923,16 @@
       "published": "2026-10-21T16:20:00+00:00"
     },
     {
+      "title": "L3Harris відкрила в Арканзасі завод твердопаливних ракетних двигунів для збільшення випуску GMLRS",
+      "original_title": "L3Harris opens Arkansas rocket motor facility to expand GMLRS output",
+      "summary": "Новий завод у Кемдені (Арканзас) виготовлятиме твердопаливні ракетні двигуни та має подвоїти наявні потужності L3Harris. Він працюватиме на потреби реактивної системи залпового вогню GMLRS армії США. Двигуни часто стають вузьким місцем у виробництві ракет, тому більша потужність може пришвидшити поставки боєприпасів і поповнення запасів. У тексті немає даних про терміни виходу на проєктний обсяг чи кількість двигунів на рік.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/l3harris-gmlrs-us-army",
+      "published": "2026-10-21T16:33:29+00:00"
+    },
+    {
       "title": "VettaFi прогнозує зростання попиту на газ у Північній Америці на 40%",
       "original_title": "VettaFi sees 40% North American natural gas demand growth over next decade - Proactive financial news",
       "summary": "Аналітична компанія VettaFi очікує, що попит на природний газ у Північній Америці зросте на 40% протягом наступного десятиліття. У доступному тексті немає розбивки за країнами, галузями чи драйверами попиту, тому оцінка лишається загальною. Якщо прогноз справдиться, це означатиме суттєве зростання навантаження на видобуток, транспортування та енергетичну інфраструктуру регіону. Це важливий орієнтир для енергетичної політики й інвестицій, але надійність прогнозу не можна перевірити без методології.",
@@ -1611,6 +1581,36 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
       "published": "2026-10-22T08:55:13+00:00"
+    },
+    {
+      "title": "НАТО дозволить Україні закуповувати зброю та боєприпаси через свою централізовану агенцію постачання — FT",
+      "original_title": "Ukraine to be able to buy military supplies via NATO agency: report",
+      "summary": "Агенція НАТО з підтримки та закупівель (NSPA) надасть Києву структуровану рамку для закупівель зброї, боєприпасів і військової техніки, що, за даними FT, може пришвидшити й здешевити постачання завдяки експертизі агенції та доступу до усталеної промислової бази. У матеріалі не названо ні конкретних видів озброєння, ні обсягів, ні вартості контрактів, тож реальний військовий ефект залежатиме від фінансування та черговості замовлень. Рішення важливе й у політичному контексті: воно дає Україні додатковий канал постачання на тлі ускладнення відносин зі США, зокрема через перебої з обміном розвідда",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
+      "published": "2026-10-22T08:58:25+00:00"
+    },
+    {
+      "title": "Польща отримала першу партію броньованих розвідувальних машин Kleszcz",
+      "original_title": "Польща почала отримувати розвідувальні машини Kleszcz на заміну БРДМ",
+      "summary": "Перші 28 легких броньованих розвідувальних машин Kleszcz (Bóbr‑3) були передані польським підрозділам розвідки 21 жовтня 2024 року. Машини 4×4 з дизельним двигуном 326 к.с. досягають 100 км/год на шосе, 7 км/год на воді, мають балістичний захист рівня 2a STANAG 4569 і оснащені дистанційно керованим модулем Kongsberg Protector. Ця заміна старих BRDM‑2 підвищить мобільність, розвідну ефективність і здатність польської армії вести бойові дії в різноманітних умовах.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
+      "published": "2026-10-22T09:52:26+00:00"
+    },
+    {
+      "title": "Уряд спростив правила будівництва підземних об’єктів для оборонних підприємств",
+      "original_title": "В Україні спростили правила будівництва підземних цехів для оборонних підприємств",
+      "summary": "Новий механізм дозволяє приватним інвесторам власним коштом зводити захищені підземні виробничі приміщення та передавати їх оборонним підприємствам у власність, оренду або користування. За умовами, щонайменше 25% площі кожного об’єкта має бути виділено під потреби оборони, а строки та порядок передачі регулюються договорами між інвесторами й оборонними підрядниками. Це має прискорити створення критичних виробничих потужностей і підвищити стійкість оборонного комплексу в умовах війни.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
+      "published": "2026-10-22T10:14:09+00:00"
     },
     {
       "title": "Велика Британія закликала до посилення боротьби з торгівлею людьми в ОБСЄ",

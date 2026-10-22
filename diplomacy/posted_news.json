@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDV1eC1XdndqWnhKV01Mc3NWUzZWblBCNHNDTXRLRzlVY1NoOGJrLWxHaG91UXQzUEZZRHA0OEhFbDhMUE5CRkU0WV9xbVA2eklRdEs1akpsa3BlUzVYRzBrNDJvN0c4VnhpWEJqbjIyRWpCWHpXWkZtZnUyREhaSWIzNUxmMkpyY3I1eWpYTHl1ZGZ1QmRYTUpMOGl4UkV6b3ZJV3VscElfYjdmNFRWdl9VRnE2UDhTVmZOcW1lU1JaZXdnMU0xd09nUl9tT014RmFVdnZ4SExxOWMwNUxUY0hpa1JuR2Rzbmc?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BY0k0LWNodGQtdkV6NFBlQmZENElHNVBtSnZLdmI0LU4yeFpqSkV3dTN1M2xuT1RvV0QxelJLXzExZWI5bllMSDN3bnF5VG9wSTFmSWUzUTJQaERvdUY2OTEtVkxiZGI1S1JqYzk1MHBTV0NVX2N1c1QyeXk?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFg2czcwTHFkS0RCZ2k5LXFvWE1qLXYtdEZmMTI2X0t0ZE9PYWtSUU05cXhIclZYWUdQU0kyT2UyNXJwaXd3M05odVJBNnBrUldMVWVnUFliNWVWZzlsSTlxbUZyeF9fTHNMZVJxaW1PcVNVN0cxaWdReXRnWHhWWlp6WjhiLU5sMGNmb1NFWmItZ3pZeGF0TkZlckhOUFNiZXlFNlhmZmRPeVJjODNTZjlFTlZ0emxwOWdtaVBWMW9COHJlcTdv?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUlDR0VkaDR1bnUtTHJ6UGUzUDRLTmNIVVRqNlV0Q3VoOHlubDlRLXRkcVBrMm9aSElvb09JamhCVDRSSVNzOUVDbVJxYmZRNTJ6cHlTZFNBT3piMnh2NDRfVnhqYjBDX1RoSFM2ZGVjaDJ4SDZVNU5VYnNGT09SWXRCRE45WUNFbFp1VUwwbFQ4TW55M1dUTG1SLVNnMmF5SXN2ZU9TSWpESVZQUThsa1dwRnpESkk4aDF5TTFONWlUMzA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwtBVV95cUxNemxUQ2VYSXEtaFcxdXBvanhZd1pJbFB6a1ZaRlR2V25ZSUx4d1VLWktfQjExdG9XOVNxbFhYQVZHdWpxZXZmUDYyNnNiYU1jbDRscGhGUnREOTliMkd0WU1udFZLbXRvWGx4NHZPeHE1UnlTaVJOX0tDNnpGTVFoSlVmUUs5TDZFSy14NjlReFRJZTdkZ1FaTHdoRHMtTTBhVXhHZTZzV1p1U2hqLXpJX1ZBNWhEcm1TajZKWTNIX0tqbUcyalVBYndTdlUyRFN0dGpRYTE0QjZRRFNUM2NVTnhpR1ZDR0Fiak9nYW9HVFk5QW14U29ZNE9uWFE2WkZtY19NNThXZ3BiVUNDZHpXR1lzLUFLWHhTQlFEeTlFQ19Hamo2THMxdkRZTFF1cHRFTGF2ZGxBUWZWNm9lX2R4b1BlZGNHeHZ2SWNING1OOE1kWGpLc3hxVV9GclpIcmtWdTh0cEFLeFVmWXdZRTZrMXcxTHJ4Rm90QTIyNnhaQmlLQmdRUmhKcllFbC1nX2ZiTlByMV94RVlENTNLQkZUSkJQcXQ5dUozU0FmWGlmTkZzNjZEOVJhd2FTemdjSEwzWnhNSWktUDRoNmg3dlh1bjVLZ19kOE45WlFKZTZZaFRDanF6QnhMcFhMSWhDNldLWkFyVVZQLU1oOVI1d0U5TVJBWmdvLUVqNmpYdG5RcXRHUGVrOF9RWG5CakFtd1d3U01CcVJHMTRNNmstYXBJSmdxTnVOZ29FTXN2SjZWTXpiMExQdWFWTUtwd3plMGtkcDA2RUctT0ZENUlScWZEbS00Tk41ZWNqWVlpRGdEbXY0R3ZleVoyY0xYSWZIcTlnZVFzb0t5dmhYQ3FSMVJaVW4zeHNmcDg1WEg0bDZ6bERIQXI4bFA1U1ppT0hnNHlBYklUZTZtZFo3bTd4QjNja1BBdm9NWWkxdlh1TW8tV0RzSk5pZXFlRGFfbThidnVFdmEwaWhsRG1CY2dxTG9yQXlOZTI3V284S01IYXVSa0tUT0VHYTVzcEI0VzhpTWRieU80a29Ya2pET3VqVlBrMTNWSnlFOTZxUUtUX1FBT1cyTVRqcHBjaXhpRDVLY2NuMFNNNm1PRlBwbEVqVzNnVE15QUtWeGFIRDN2S1dHOTd3Y1NuUVNVVjZvX3Q3QUc0U2tNV0ZTSWVVN1FWaFBRRDhiTGJFdUdESklIQXFHMXJtNVgzVVotZHhaSEJzeHZ2clZuVUJ3dENFTkFqQ01RMzR2WW9yTHVGX0tCbEZmZy1SdVlUQ1BIdC1lNm5PYTVYRERSb2pTdEV0ZVoyRDB4WEtfWUY3a3ZkOGZhNWFOcy16cm9YeklNLWh1ZkxJc083Q0hFVU1jSm9neWo4ZlRyQndmbzVIYUZpQkZ0VjdxNG1wS2RVYS15bnY4ZXFFZXNvZXhUbzNXcmpaWjhRdlZ1VWFFYzBwUXFJUEZtZHZnQTA1aVdzS1ltS1hjOXVUaEg0UTZjbDc2cWtvSkVGX1VYZnVXTTRGNDQweGl4alYwY3RVQzNmWVpaaDJ4U3FGMTRpWXV2ODhxV3g0WENldjJxU2g4LTF4el9zbmhGZkZJekhoQW1RUUEyaE5YWjlLdEk2dW9oREE2WkVPWERWTVNYT2pVemdpdVE5Z3Z2c1VLSTh2UWxTZzJZaTBweHYxUkw3YXdieVNCSHl5Y0pWZDF4MXZVTUxCRW9MbHFSUXF5c0UzekNMTWhKV2xyWExDOWE3UVgta2x0dkUxb2paelV4cEFNRm14UGRLUmx5NHJmTWQtNXZMaXRob09mWXRtOFFrNFZNU3RXWlRsb1V6X0FiVmY5U3lDUU1RdXlyNlBrVzEzVHFCLUpJcE9ZOGVKMVhKVkV4eTlrLXFCdkF5ZnNfUDJmMFk1WnkyaGU5VGU0VmpVTnNHU3VSNlRPaw?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWZsdXQ5bGdZU3N6QlRwbVVVOHZHTndPcXhKOENORVFFWW90V1AyU0hFalRuWkpjZFVtZFBxckI4TGk5WWVHb3RrcGFLU2ZSNC14MFFnaXdkTlQ3Vy1aM0U5eWdIcFV4R0trN0FzUUZmMkdoUVA4emNZd1l2bExYVlY0dzJkRWh2U2dLTEljQ05DYmtOdUd4ZDBWS2RManRweDZNLXhjY09oY3g2QjI0Qm40SWN3X2tYYm1ndQ?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2hUWHNUUnpzR3BhWWpvQmQwVDN1a3FHbG1lTXR4aG5BaGJWY1duOTlOUmpFV0ZkN1ZCbmRuLUdaeHRZcHJSRDdCd3lYTnBHUGw4UzhUUldUbTJYaGVnVDFMWU5zaWR2dG9Ea1FkU3d0ZEJ4QzJUaGZEeGhNRXZMbUFiZWdjOXNvM3pDRWNGUVF5S0plX2N0bQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkNrcDNqY1JpY3ltUzZRaDJ3NS11ZFdzN1MxOTZtY1hEOWxqYUlvalVTUEx4NHVNeGpiSU4tSkhMck82UHVxeTJNN3dCV2wyQ19YUHUzcjA4WWI2R2F6RGxKMFpqNG1hQlhGR1FWQ21CbUJDSVIzRnJiVTljUTlkcWd6ekxNZHV6aGtraS01OGxRcDRyQW9CenQwak14UG8xd2YxbUROWdIBrAFBVV95cUxNZXRsZkktRWZXUTFfTnVjZ25NTXpZd2VnZ3VCQk9aOWxUTF83djByNG56WFpYdGNSektYNjQxVUtfX2hldDFJb1R3SncxdDBZZ2ZiWkJ0R0lNenNNUXlMY3U4eWF2cktxRV9hbkhDX2tKYmxIZ2RYaGlFRnRYbktFSDNnZm9EQzFPd0llMERQWWh4NzdiZ3Ztd1dtOW5ab3c3YjdXbW9BYmtENmhl?oc=5",
@@ -1199,23 +1194,14 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-incursion-reported-syrias-daraa",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ODVab25haVRXUHNHRFQ1ajd6dG83enV2TnI3b3dKcC1VX2ZpRzUzVDJwSFg0cFc0dWItM3N0Q0tFQU1idkFadkJqeTJfRGhsbjlWV3NHTkJmZUFwZDBkd3RNU19pRW5tVXBEdXl4c0NzWTFNUUQ0OFpUdw?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MTmpsNjUweXJiOWQxdWhQS0lhWjRFckN0Njc1LVdxWWVxRGxmdDl4THY2bVpHeF9mTjBueVJ2cDFYeDBBeHh4ekN5WGJRdlhadVRpQlZwYmV5UnBRcWpNVFF0dnBDd3V2TXNabGh2ZG1TTFhrVVdQQ3dB?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ?oc=5"
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-he-not-endorsing-netanyahu-israeli-election",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hZGVnTnNyMzFKR3pfaHFQdkR4R1c1aF80SXBvZ0N6aEUybnFwNno4eGJDVG1hM3NRbmNLT193MjhJWmRFRFNoelNIdXAtT3N3UjVWOW5SYVpzaEdSRjZoRHA4Y185WnlNeWFzb2hxcGhMWTZQZFpUSzJNTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW90a2FqdEZaSVNXNzg4WXZsRl9CME5aVnNyOG4yXzdzQnpUeEQ2QXVrb2pHS3gzeGJpTGFSYTEzR3ZheGNHYmg4MG9YZkhtZHROQ0NaYjJwdE9VZDJUNlRrZUhBbmRQdnlCN0FCWDI3MDM0QlJLRmQ3WkhJWndER05CYlIzczNWbkU3WG5TQWVEOVhFeHozOEtxeVFnWGN3QjNIYWYyNUV2ZEE0Y1HSAbMBQVVfeXFMUE80N20xamNDNF9ZTFl0NHFrX2lqS0xPRnA0eEhMYXJkVHY1aVlSQ2JnRHlBQ3lWdXM4eDNoQVFpcVFsWWNZNDdtVnVIRHRCM0ZNdVI5Rkt2RUJydkZQVUVlTjdZUVVOOTFwTlpHaldJdlBWWmxwd0dLMy1mVl85SDZJZjFtZlBxckU4MW9LNUxnbW5xUERBX1gySXl4UWNNY080WkFzSi1GUmMyOTVvdnNnWVE?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Ірак закрити кордонний пункт Шіб з Іраном",
-      "summary": "Іракські офіційні особи оголосили про закриття кордонного пункту Шіб для пасажирів, транспортних засобів та вантажних вантажівок до подальших повідомлень. Рішення прийнято для перегляду безпекових заходів. Джерела також повідомили, що уряд планує поступово закрити кілька інших пунктів пропуску на кордоні з Іраном у найближчі дні.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T08:49:01+00:00"
-    },
-    {
-      "title": "ООН засудила удари дронів по цивільних та інфраструктурі в Судані",
-      "summary": "ООН офіційно засудила удари безпілотників по цивільному населенню та інфраструктурі в Судані на тлі повідомлень про загибель понад 150 людей у спірному прикордонному регіоні Аб’єй.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-10-21T08:11:10+00:00"
-    },
     {
       "title": "Турецький та катарський міністри оборони провели зустріч",
       "summary": "Турецький міністр оборони Ясар Ґюлер зустрівся з катарським заступником прем’єра та міністром оборони Саїдом бін Абдулрахманом Аль‑Тані, який вітав його військовою церемонією в Міністерстві оборони Катару; під час переговорів обговорювали двосторонню співпрацю, про що повідомив офіс Ґюлера у заяві на X.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "MassisPost",
       "published": "2026-10-22T00:52:37+00:00"
+    },
+    {
+      "title": "Австралія посилює оборонну співпрацю з Тимор‑Леште",
+      "summary": "Australia announced plans to deepen defence cooperation with Timor‑Leste, including joint training exercises and potential equipment sharing, with the explicit aim of limiting China’s influence in the region. The initiative was presented as a formal step to strengthen bilateral security ties.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Straits Times",
+      "published": "2026-10-22T02:48:00+00:00"
+    },
+    {
+      "title": "Іран вимагає від РБ ООН засудити загрози США та Ізраїлю",
+      "summary": "Посол Ірану при ООН Големхосейн Дарзі звернувся до Генерального секретаря та голови Ради Безпеки з вимогою засудити «незаконні загрози» США та Ізраїлю. У листі зазначено про право на самооборону та порушення міжнародного права через погрози використанням бомби MOAB проти цивільної інфраструктури. Тегеран вимагає припинення заходів та відшкодування збитків.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-22T02:47:08+00:00"
     }
   ]
 }

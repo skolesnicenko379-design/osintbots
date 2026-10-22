@@ -11,7 +11,6 @@
     "https://breakingdefense.com/2026/10/northrop-sees-growing-commercial-market-for-microelectronics-products",
     "https://breakingdefense.com/2026/10/norway-to-receive-chunmoos-in-2028-reach-ioc-in-2029-norwegian-army-leader",
     "https://breakingdefense.com/2026/10/pentagon-weighs-force-posture-costs-of-rebuilding-middle-east-bases",
-    "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape",
     "https://defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
@@ -34,6 +33,7 @@
     "https://gov.uk/government/speeches/united-kingdom-national-statement-to-untoc-cop-13",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-us-iran-talks-ongoing",
     "https://middleeasteye.net/live-blog/live-blog-update/bahrain-and-france-sign-memorandum-advance-civilian-nuclear-program",
+    "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-security-chief-rejects-moving-enriched-uranium-out-country",
     "https://middleeasteye.net/live-blog/live-blog-update/iraq-orders-sheeb-crossing-closure-more-shutdowns-loom",
     "https://middleeasteye.net/live-blog/live-blog-update/morning-update-647",
@@ -120,7 +120,6 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVFwZlpMM081ano2Yl80YjMwTzh4UHFfY3dIMnN5R0c2RVhWUzNmMVdOV3BudWNxSGZxMlRhd2ZTeGJ6MDFFTHV6bDlnSGd1YmVOVE1xcTV6Mml5Mmtvdk1YNUV2Q1pVaVRrdlUzdFNMLWlJWTVDSXRnazVrSm1UeE9qMDFhaXpoQ0cxQ1V6V0lwd3lIeGVqTS1QeENaRVM2Vk5oUzgwRkt0bGZVM2dN",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazdHcFhlVHZDb2RadDJtNUVldWVQVXlhQ0hla0hoeG53YXpSbWdEY2hNRGt0eS1rQlJNUUZKRmY2QWZyUEVmTE9nZ3hKLXVNSVk1OHZFVGFkVkRsVWtWdDYyNldyUFJfZFB0bWU0aW9pSmlhZVA2b2ZxdzVYVlVnNEZSdzNqMTNiWlRRb0g5X25xc0tfWDVLb2FQRXowQXJRV3pCc3JoeXFZSTBzTmRfaUlaWQ",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFkeGNyVDNFd2J1WWdzOVdGLTVHZEdQLWVvaHdtekdMdTJfZnR6YjRiZFRkY3FKME1MMlpIX2tlOUZ5bkxDVFBmRVpfNURQYkxncHg4QklGaU5CREVrWlRpQkxSamtNOEsza3FaVV83a2h3NGowTDNmZmhNNWRhQldjRGJheFhxOThJaWJXU2pHRG1oOVdnTFZ0ZlJnUUd2SENnSmNXYzJ6WTVtdVpIY2luaWFDZw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFBWmhaLUpOb29pQWgtMEhpclJBcWpGc2hDaGg1b0xzN2s0SUtWQ29VbG5kV2dOdF9UYkVWWmRZbEF0NXdZYW1nMDVHSlVmX1VvZUdPcF95QVR1Ukxid0pIaTNKd2dNWEdUUFFycDByV1BQa3Fra05IaTNZNjF2dEpIM2kwRmw2eVNlTFlscU42UmhxNFl0VXJRV2M0bjhST2RDcEg5dzhsYU1VNl9EdU1TNDJYeGUz",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
@@ -138,6 +137,7 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMlhORjU1TVFiTFkzeGJSVS1mUGNfZnVFaWxNbzZzNW4zdFRna2N0RE1NYTdMQUJHUk13a3FWOVFsaFAyT3I3TnhFd3dob1dpUUlkTWk2LW1qRHNLbTk2RnJOaURrRnlvQXlpRTJERVJ0UUt4eE5GRzdIRWxnR0JjXzZTX090LUpiNWZzZ1VpeTJaaFpBbDJ5ODZySkVEY1NkaW9BalJTMm0zZ0MtMmllbU5zQ2dyV00yNzRoal8tZGU5a3Z5WWNPadIBzgFBVV95cUxQZHNrdi1pM09qUVktZHNBSlZPdjQzRUdPR3ltcDZsNkN0MlZWV0J4cTIzbEdqR2NMYmF0QVFEZVgzRlNKTmxVVHBOTkE1ZlU0U0RjdDNYbElxYTJLWWk5RTZGeFUzREhEVFFJd1hlMzBkQVlHQUttekRuZzlhYzZSX05yV1JqLWxDSmpkdFdTTXBROFBLa1JvYjNDVENpMThnaVI0RGpxQ292OXRZelRsM1JWWFFTM1AxUnNnNkRQRERfRkhsUFJWYlEzb2drdw",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWoteEJZTXZ1RlZCZlYyajgtXzQyWkR5MC1uVldIQ1QtTW16dlNaeHBzS0xETXFiOVhtd0R5MFRqT2dNQVFjOFREYVVIczBnNnBiekNVRkFCanNkRTZUUjdpYkgyZE0tS2wzWlNTcGJmOERRVW9xTWFWa1lyNjlkbHBxV09pZEg3Ql9WZmVXSTFobmVYMU1CcnJobDVlRkh4STlTWUZESnZyM3VNRHdmaHFPOE5EZ3RmZUFVRktsVUFKY3pyTmlxNkVn",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMVdHbkdDT2N4bHBieC1hZlRiMUEzZnF0SGNHNktfdXh0ekJvOWlTNjhDcV82ZExUNkItVVVnZjZSUG9FUTFJeHROMlBkNjc0T0RLTU1qWFgwYWRmZ1ZLcGNTU0JManY4T1V4Vmx2Zks2ZFZIR29oMUpPMVk3dUV1ZlZldFFhNTJLS29zRS03aVhSenJ1VVBTS0NoYUh3QVRfZzE2enRtNm1yamhkODNFVjlhRHVaT0ZHaGt0LTB5TWo2WVhhUFk0Yjk4R0TSAdIBQVVfeXFMUGZMWlVveldBQUZTVmJQOHRWZ3RFNDMxYnpSa3R1MDRoOWVaSGlLZEFvb2hBUmo1ZzZQSkJGbm52SmhHM05fZGRIcEtFZDJNNEpUYmF6MGRsMmdXS0l2S05Oc05FcElwUmVWSFkyeW5PVFhGYlZsZ1F0LVVCUWFNMzA0YnhzNGlxdUM2QnJISmtmY2JSaUtsZEl5WlZRTFdMbE94TFlvYVFvMUltb0pldklrNWtsejBoRk5SelJuUE9CSDJwbm9BWG9MYUVJTG8zb3BB",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFpIcm9WOThUSlgxS21SNWJIVDQ0QUZ2bWVSNXVBaTBKRU5qRlNmSnBKY3E5V1BFVDg5bGRGYm0wNGRSNU9OMko0YUlJdHpzSVU0LUZBRVRkNFRnQzBvOU1QSGU4ZUlZQ2Q0RTE4SkJOTHFpZEMtQXVjZm5NR1F5TTFsenZWMzFFMmhqZDItcFBPZlpxVjZGLVJyLWVJZGdkWkcxVWdMa0pOVnRwOW5MRDgwYW1Bb2xMZ2RuMG1DUG14VmtfQzVsNGhQa0k",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Банк Росії збереже ключову ставку 14% на засіданні 23 жовтня",
-      "original_title": "The Bank of Russia will keep its key rate at 14 at its next meeting on October 23.% - AKM.RU",
-      "summary": "За повідомленням AKM.RU, Банк Росії на найближчому засіданні 23 жовтня збереже ключову ставку на рівні 14%. У тексті не названо джерело прогнозу, не вказано причин рішення й не наведено даних про інфляцію чи економіку. Якщо це підтвердиться, монетарні умови в Росії залишаться без змін: ні пом'якшення, ні додаткового посилення політики. Для ринку це сигнал паузи в рішеннях регулятора, але оцінювати вплив на кредитування, рубль чи бюджет за наявними фактами зарано.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "AKM.RU",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFkeGNyVDNFd2J1WWdzOVdGLTVHZEdQLWVvaHdtekdMdTJfZnR6YjRiZFRkY3FKME1MMlpIX2tlOUZ5bkxDVFBmRVpfNURQYkxncHg4QklGaU5CREVrWlRpQkxSamtNOEsza3FaVV83a2h3NGowTDNmZmhNNWRhQldjRGJheFhxOThJaWJXU2pHRG1oOVdnTFZ0ZlJnUUd2SENnSmNXYzJ6WTVtdVpIY2luaWFDZw",
-      "published": "2026-10-20T15:35:02+00:00"
-    },
-    {
-      "title": "Присутність російського флоту в Середземномор'ї значно зменшилася — НАТО",
-      "original_title": "Russia’s naval posture in the Mediterranean has ‘significantly decreased’: NATO official",
-      "summary": "Російський ВМФ не має достатньої кількості танкерів та суден забезпечення для тривалого розгортання. Для постачання фрегатів у Ла-Манші використовують ремонтний корабель класу Амур, що змушує проводити небезпечні перевантаження борт-борт. Це обмежує здатність генерувати сили для інших місій та супроводу тіньового флоту.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
-      "published": "2026-10-20T15:45:00+00:00"
-    },
     {
       "title": "Великобританія підтримала стабілізацію в ЦАР на засіданні РБ ООН",
       "original_title": "The United Kindgom welcomes the continued consolidation of peace and stability in the Central African Republic: UK statement at the UN Security Council",
@@ -1651,6 +1631,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ",
       "published": "2026-10-22T00:52:37+00:00"
+    },
+    {
+      "title": "Іран вимагає від РБ ООН засудити загрози США та Ізраїлю",
+      "original_title": "Iran calls on UN to slam 'unlawful threats' from US, Israel",
+      "summary": "Посол Ірану при ООН Големхосейн Дарзі звернувся до Генерального секретаря та голови Ради Безпеки з вимогою засудити «незаконні загрози» США та Ізраїлю. У листі зазначено про право на самооборону та порушення міжнародного права через погрози використанням бомби MOAB проти цивільної інфраструктури. Тегеран вимагає припинення заходів та відшкодування збитків.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
+      "published": "2026-10-22T02:47:08+00:00"
+    },
+    {
+      "title": "Австралія посилює оборонну співпрацю з Тимор‑Леште",
+      "original_title": "Australia boosts defence ties with Timor-Leste, seeks to curb China’s regional influence - The Straits Times",
+      "summary": "Australia announced plans to deepen defence cooperation with Timor‑Leste, including joint training exercises and potential equipment sharing, with the explicit aim of limiting China’s influence in the region. The initiative was presented as a formal step to strengthen bilateral security ties.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Straits Times",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI",
+      "published": "2026-10-22T02:48:00+00:00"
     }
   ]
 }

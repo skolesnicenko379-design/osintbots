@@ -1,14 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWZsdXQ5bGdZU3N6QlRwbVVVOHZHTndPcXhKOENORVFFWW90V1AyU0hFalRuWkpjZFVtZFBxckI4TGk5WWVHb3RrcGFLU2ZSNC14MFFnaXdkTlQ3Vy1aM0U5eWdIcFV4R0trN0FzUUZmMkdoUVA4emNZd1l2bExYVlY0dzJkRWh2U2dLTEljQ05DYmtOdUd4ZDBWS2RManRweDZNLXhjY09oY3g2QjI0Qm40SWN3X2tYYm1ndQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2hUWHNUUnpzR3BhWWpvQmQwVDN1a3FHbG1lTXR4aG5BaGJWY1duOTlOUmpFV0ZkN1ZCbmRuLUdaeHRZcHJSRDdCd3lYTnBHUGw4UzhUUldUbTJYaGVnVDFMWU5zaWR2dG9Ea1FkU3d0ZEJ4QzJUaGZEeGhNRXZMbUFiZWdjOXNvM3pDRWNGUVF5S0plX2N0bQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkNrcDNqY1JpY3ltUzZRaDJ3NS11ZFdzN1MxOTZtY1hEOWxqYUlvalVTUEx4NHVNeGpiSU4tSkhMck82UHVxeTJNN3dCV2wyQ19YUHUzcjA4WWI2R2F6RGxKMFpqNG1hQlhGR1FWQ21CbUJDSVIzRnJiVTljUTlkcWd6ekxNZHV6aGtraS01OGxRcDRyQW9CenQwak14UG8xd2YxbUROWdIBrAFBVV95cUxNZXRsZkktRWZXUTFfTnVjZ25NTXpZd2VnZ3VCQk9aOWxUTF83djByNG56WFpYdGNSektYNjQxVUtfX2hldDFJb1R3SncxdDBZZ2ZiWkJ0R0lNenNNUXlMY3U4eWF2cktxRV9hbkhDX2tKYmxIZ2RYaGlFRnRYbktFSDNnZm9EQzFPd0llMERQWWh4NzdiZ3Ztd1dtOW5ab3c3YjdXbW9BYmtENmhl?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE00enBQMU9VTjlSZFM4ZDRDdFE1eWowamFxeEN0MVBuTlZtSzFNcHJhV3VCbFh1MExEZTI5NlhWTEF5WGZDbU82M0JxOTlnVEtaQ0ZzMTdLY19SQmhIVXJPSmRvenlodjdWWGVpTHEyS0JlQktjVm1XczllVTZNQdIBfkFVX3lxTE1GZ2JvdUFGdTB3NGJXbEVaNjlidVM1aV9uZTVSMGUxd1VqTUN4c1FVQWtXVUpqVlRqMzhteDlvNzJ2YUpocnRmYW9ETDhGdFJQaTMyeS1aa1NuUG1rQVJpZ0JvRlRHNEl2aE0zay1UUTl1cUNpNW9YNU5sR0hZUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXI2QjRnVmg4ZXdkQUhTQmlkR3J6MnNFRVh5bnI5clhyS1FPSFhTUUMyV0hCZGx4cDFkRmROZmMyOG1zU2M1RU50ci1lZ2tFQ0JZdU1zdVptc1g5T1NyVzhIZ3djSk4tcVdOMC1zRURRclVUUW9KbHVtb2tsYTdZMGFhSGtjRW12S29NMHJ3a2N1ZjVjcngyVDI5Mld4eE5fVnR1ZUQzMW5WSWY0RnBQUDBENjRYdmRTWkpJalBFZw?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBQdWNVNTByaXJGYVYwbWlmeGozalg3bjdxY1ZENHlIcVVPQ1hybnNfZFBLYVd2NE9IdjI3VHdwdzlhaFdJeHdtSUJNcEJ1aU94YW8wVDlISkNONExnR2RHVHNiNzFZN0tXUWFNUnlZSGdZdXBPVjRpYV9EcTM3bFRqNlZvamdkVnBMRkRSYzhwZGhndVQyeA?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZDduenFDMUxnVFhjM0lzNl8wczFnMmt5eTFvdDJOVjA4UzRrSEJOa0dYbTdsd05WRUl6cVdDM1dLbFIxdTU4YmZsdEw0TklWalZpbVFJZjlKcjBKd2pBNFdyVHdiczA4REZmMk5YT0tBZDdVd3Vyc2xqNEtmOEJtSk9jdC12cWxrRzZHWFdoU1g?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOERZVUc1ZUt2SVZCcVQwX3J2RmJfWl9tM2RhR3Q0VWVybFNvYkxTS3UyaFhYUjBXLUdMSVhLeWRuVWJXb1hYaWNuT3IxQUlWZGVtdExZWWJobnpISWRWckRDR1VKVWlPaVc1SXFZMFFsU3lIeDBsTDZCZDhENFRDZWhmWjNQdDU0d1YwRGNDMGdrRXpRREt5TTdENNIBoAFBVV95cUxNQjlYX2dLbERmd1hKRFpZWUpVUHNnQmxpUW8yR1czMzhwWGMzOW5mdGgwVld0b25tbF9fUTMxN0pTOU1fVHZIbmpwRFNGVmJwQXh2d2NwckZzV3NzV2hjYUNXblltQTJFZFF2dW92bVlTVTV5VGlvbUZEWjBWV09uc0NicDRFTWF4WVoxSjRvMm1fU2tudmp0aUFrbHZvZndX?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qOXhjX0REYVdvdnJtNk14RGlnODNVZ1dXT0pFM28tN28wdjdtWGU4SS1nVzNGdmFBamhEMnZ2czcyY2ZtNWJVUWhBZDBZOEcyZUktU3hITV93MW1McklwWG9IblRKMjVQYWRjOEViQnFvVTNFOHU2QWJB?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnFFcTRuVzVuNU9HVnR5RnA3dk9wSV9sVksyY0pRcUJ1ZGc0anJabjNIMjhHX0Z3d294RTFMMjNOb0pjZVhCVWNJM2poWlVoN2l3VlBlTFF3bDUwN3c0TERtU3BNemROREJYZnpMaUM3S2lzajJ1Uzhya3E5Q2hoYVNCX2lYc1ZNa1dLYzJIVmJvSkEtY09pSFhXbzdVdw?oc=5",
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTlN5OXN4T1JwdEVFbEoxYmJPR3BlWjdZaTY5a2dYWHVoMnFhQ25LTEdDY0dESnVPYWxGelkyaWozSzN3WG5YZ0Z2OGk1czdiMTJJb1BKRnFveWduOTNYWkVkd3U2QmNPdlE1cGNIQWxPeV9IYmNtUnhpRnc5MVFBS3pTYlpmRTJzMk1RWWxBQWRSN1ZpN1VvRHZqeGJrcGhBaGlLTEhSSkd1WTZjZmFKcEVBVmtWRWZrT2hidkZrVmRjRmRwZ3FodTlkOFE2dGhKMmlHRFRFaEFkMWlqZ0JydHgyc204SFRuUmFqSzVtYkxWRDJlZVdIcjBiS3Flb1FxTG1r?oc=5",
@@ -1199,16 +1190,18 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hZGVnTnNyMzFKR3pfaHFQdkR4R1c1aF80SXBvZ0N6aEUybnFwNno4eGJDVG1hM3NRbmNLT193MjhJWmRFRFNoelNIdXAtT3N3UjVWOW5SYVpzaEdSRjZoRHA4Y185WnlNeWFzb2hxcGhMWTZQZFpUSzJNTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW90a2FqdEZaSVNXNzg4WXZsRl9CME5aVnNyOG4yXzdzQnpUeEQ2QXVrb2pHS3gzeGJpTGFSYTEzR3ZheGNHYmg4MG9YZkhtZHROQ0NaYjJwdE9VZDJUNlRrZUhBbmRQdnlCN0FCWDI3MDM0QlJLRmQ3WkhJWndER05CYlIzczNWbkU3WG5TQWVEOVhFeHozOEtxeVFnWGN3QjNIYWYyNUV2ZEE0Y1HSAbMBQVVfeXFMUE80N20xamNDNF9ZTFl0NHFrX2lqS0xPRnA0eEhMYXJkVHY1aVlSQ2JnRHlBQ3lWdXM4eDNoQVFpcVFsWWNZNDdtVnVIRHRCM0ZNdVI5Rkt2RUJydkZQVUVlTjdZUVVOOTFwTlpHaldJdlBWWmxwd0dLMy1mVl85SDZJZjFtZlBxckU4MW9LNUxnbW5xUERBX1gySXl4UWNNY080WkFzSi1GUmMyOTVvdnNnWVE?oc=5"
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW90a2FqdEZaSVNXNzg4WXZsRl9CME5aVnNyOG4yXzdzQnpUeEQ2QXVrb2pHS3gzeGJpTGFSYTEzR3ZheGNHYmg4MG9YZkhtZHROQ0NaYjJwdE9VZDJUNlRrZUhBbmRQdnlCN0FCWDI3MDM0QlJLRmQ3WkhJWndER05CYlIzczNWbkU3WG5TQWVEOVhFeHozOEtxeVFnWGN3QjNIYWYyNUV2ZEE0Y1HSAbMBQVVfeXFMUE80N20xamNDNF9ZTFl0NHFrX2lqS0xPRnA0eEhMYXJkVHY1aVlSQ2JnRHlBQ3lWdXM4eDNoQVFpcVFsWWNZNDdtVnVIRHRCM0ZNdVI5Rkt2RUJydkZQVUVlTjdZUVVOOTFwTlpHaldJdlBWWmxwd0dLMy1mVl85SDZJZjFtZlBxckU4MW9LNUxnbW5xUERBX1gySXl4UWNNY080WkFzSi1GUmMyOTVvdnNnWVE?oc=5",
+    "https://www.theafricareport.com/434185/south-africas-mid-term-budget-fiscal-armour-hardens-but-can-pretoria-drive-regional-growth/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-shoot-dead-man-disabilities-syrias-daraa",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/two-civilians-killed-houthi-attacks-yemens-taiz",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVlGcnRFTXJfTlJwQnk2WUZhU2lmaGtqeUJRNl9kaktrYWJ0Q19NT2c3Rnh5aDhpNldaU2hUaEFEYlBwYmNPS01VOTdrZjJBaFRuN2NEcTFDNFM5Z0gwc3p0VFFmTGEzWlgxMHNNRWVJRU1mMjRhTzM2QldxaXp6OGJHOF83aUxBWEFtMzRaY0hiUGx0UDRVMFM4ZzduS0JLZmpsRkF4NXo5MFpJaVHSAcIBQVVfeXFMT3Zta3dEbWN1RjdTZC1naV8za3Z2ajdFOEtUT29GWTBTUXVKTXBSNmhCdm5UNHNxOVNXX21QaTl1aUx4UHJLSm96UGpxNlFUTFZtQmNMN2JtTkp1cHVLdTdHUV9WSV9jWFZlcUtCNGkxR3hyQ21KOFNxQlcxNlN1RTB5Z2NTNjhMcG5fd3BMZWhHQTdPNk51UnhjS2xuOUNESzVJRlA0ZGdiLU1haUZ5NVVHNTRSeGhtd0pkREpVVGdwR0E?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzM1WWluOFNJMTV2WmN4TVhJc0dQOXFkaGNpYk9hVEtMUTdQRUNuaU9DZU9Ed0xQcUVwQXk2WldMemxYWjh4clh0STJTZDZpYmVSbE10ZUxxdEpPUy05eFdwSjVyTU05ZU9HQjJlMnNwR3VlbHJTdWNnNy1uQzN5Mk8yUktqN1BnczQ4UWJiMmkzV2FuUjhFbVNlWjdWYWhjb3F0Q3ZmcDVPOElyS1Fzbi1GQkZlc1VwRDZYeHpCVVhpTUFwb24zZ05wMjQ5UnFFMVBpelQ2VW0zN3NQYktyeDU5ZUlEWFF6SGJkNlczVUhLci1BQ1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQWlZUUFJDZlNYOXZWZXVYTl9lSXdDeXdRQWk3SkN4aEhGRXZxZTFBN2kxQUZRUTgySkZSaGxxZUlPUmMxLU1talBETTZ1UEQ2a3ZjQzdqMm9Rbm9jNkR1S2Z3WlprZk4tQUZyN1NPNWJRdVFYS2xhazl3?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rTnF0R2dpeXhMV3JZdjNFeTRyNm96djQ0RXI5bndpb3pJYTlQdXEyNEVDRWhfUlpiZ2lpM09pMEx6ZXU1NXVRckR0Y2pXbVFXSW05Umx3N2dibS1KTmtiOExmejJieTI0OGdvWlhTXzYzZFRlR3RwZ3BVbw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnSU1jQkJoeEVreDdwQnpPSTN2cWgxaW8zQ0dpQ250Wk4yLWFEUXRJT0Y3N1FfSDFXam10ZzB1NFVqNHozSkF1bzhzd3VPd01yZXR6enNNVWxtV29OVnQySGxrRElPWUhST09VWTZQWGRIZjg1dnVVb2k3WQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Турецький та катарський міністри оборони провели зустріч",
-      "summary": "Турецький міністр оборони Ясар Ґюлер зустрівся з катарським заступником прем’єра та міністром оборони Саїдом бін Абдулрахманом Аль‑Тані, який вітав його військовою церемонією в Міністерстві оборони Катару; під час переговорів обговорювали двосторонню співпрацю, про що повідомив офіс Ґюлера у заяві на X.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T10:26:09+00:00"
-    },
     {
       "title": "Рада ЄС та Європарламент досягли попередньої угоди щодо реформування ринку ETS",
       "summary": "Рада Європейського Союзу та Європейський парламент досягли попередньої домовленості щодо цільової поправки до регламенту про резерв стабільності ринку для системи торгівлі викидами (ETS). Це рішення є частиною кліматичного законодавства ЄС та спрямоване на стабілізацію ринкових механізмів скорочення викидів парникових газів.",
@@ -1411,6 +1404,13 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-22T02:47:08+00:00"
+    },
+    {
+      "title": "Заступник міністра Труонг Тхань Хоай зустрівся з Данією щодо клімату",
+      "summary": "Заступник міністра енергетики та ресурсів В’єтнаму Труонг Тхань Хоай провів зустріч з міністерством клімату, енергії та комунальних послуг Данії, обговорюючи співпрацю у сфері відновлюваних джерел енергії та енергоефективності. Сторони підтвердили намір розвивати спільні проєкти та підготувати спільну заяву.",
+      "source": "Treaties & Agreements",
+      "publisher": "moit.gov.vn",
+      "published": "2026-10-22T03:24:29+00:00"
     }
   ]
 }

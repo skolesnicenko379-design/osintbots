@@ -18,7 +18,6 @@
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
-    "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
     "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
     "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
@@ -40,6 +39,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
     "https://middleeasteye.net/news/azerbaijan-bans-31-turks-headscarf-ban-dispute",
     "https://middleeasteye.net/news/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce-weapons",
+    "https://middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/bolgariya-vidmovylasya-letalnoyi-zbroyi",
     "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
     "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
@@ -129,7 +129,6 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzVqR3FCaUtSSWE4MUdaSE1WaFl2SURFUEU3cnA1NUpRdW5qTTJGMWh4QkE4eEduZXFtYWFlbVd6aTVNRE4wYkFsRExvYW1ES1R4QWsxZnZfU3BReERjRlJFLXdVNEN4WFFZT0FzalZIUHh4ZDJhVWl3QUNIaFhpR2xNb1hrZVBucmhQQldWT3RMNkFDeXhjYVE4RFM3WlRpSVRVdHd1UGFrdXp1c003ajkwdm5XZw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlJ6QXZpSFNvMjMyMzc4b2h2UlRkbm1fSWhnQUZtMmliTFpaOENSRHVxU2RNS2ZIRVdNSmhsS3B3RUJvRXotTUNITUctcmRZOFRCSUhmcGdHOUpvVTJMeWV0SGgzcVpiV3p5Z2tzZkdoaTZ1YVcxbWxsTDIxd3BpZy1wek5HYkpzRVcyNUF2QVU4c1g1bXBwMTYwM0h1QnhtYnZWaE1DcE9qZl9UU0RVeWl6QWdtRHc",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkoxeHZCRHJRaVFzeGd5WGJlY3FiQ3dITlRqWHhWMFVGa3lORWs3VFdUc1VSS1JUajhtSzJDcEtFeEh6d19XdjNhVzVjSVR1Mlo0R3pBc1o0bXQ1ZThXY0RUSEdvaXBhMGt1YW1HcHp1X01ILW1vRHNyZExCMGszTFJtalNPclRjYnJuWkQxUERtNno1ZEpWMG8wU2I3SkYzTWlLTE1OdThEeTBuTV9lS3NZNTAxNmtLU0dn",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
@@ -138,6 +137,7 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1JGOUFfcHgwaVp3MGVaNkpYakVMT1dETi1IZmlkTVVuSE8yVDlFQjk0dVY0Ri1fRkJybmZ2a0I3NmEzQlB6U1RSaEJaYlczT0hxWjRnN3ZUeUVjUmVCM0tQdXpfV1hzbi1ZNERwWXpPNElscnh5S2hiaF8tak1TT3NSSGMzWDJrcDZoY0ZNOUx6LUczUFpTTnFUUExjclhSMWt0WmVvcmh4c1QySEg5dnRWbzlWWUY2bGJKd1BrNA",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWpqNFh3cVZTRzlNeV9VZlJoS2RtaEVhOFQtUzRJN0NEdnpXWXowWEZIS3EzQ2loWWRCQkVXYkp5QXVUOElCd0lKelpZaEktRjN0UUNPQ2p2M1pTVjVGT0dQdDZ0emdoM3FBWS1FWXd1WnFsdU1vSFRsOHFpQWdEeDN0Rjdnc1p0UEh6dGZDdEpFdk90N1J0TUwyamJ1LWRUSkdqZ0NicXNfSkcxWklzSmNvbTY5RVdTLWcxc0dSYW1WZw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXZaYTY5blYzZWJWYkJaQnI2M2RSSGJUcnpzSF9OMldoZjZxckRDRzhyb2JReEVNbEE5bjdZcUZlNzJ2b0YzQkRIZjltamVxVHVSaElldGhNUmlFZzdmZHpPOFBOSDNhbFV0NEdpYXBBN0w3VjlHV0JkSVQ3NG1hMHJMay14MWNuNDdQTldXaVE2Z205bjFkN05lVUh4TkloZWFvSm5FcGp0aS1nQ2JKcmNGTHB1NDhqdWJCaEM2NnoyRUE",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0plQVFmeFNZX3hwVmZ6TXFVaXAxb0dELTVVZXo0RFRXVnRfS09XU24xalZYdE9kR0M1M3R1eElCV0F4cDg0ZTNfS1R4MmFJZU5EV1FFS0NhNGxaWldqaVFGSnIwRkV2dTh5eHotSjZWek85OUJ0OGV6cmV0QWVneVgyQ195SERfYVBLdUlEX0RhZ2h1WkZMVEFRbGsydGx4a2dvVWtPMEV4VjZYSU10QW9zcjh5ZTNDNmExWkpBY0c3ZFF1",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "США збільшують кількість космічних захисників для Центкому та інших команд",
-      "original_title": "Space Force aims to beef up guardian presence for Centcom and other combatant commands",
-      "summary": "Командування Космічної сили США оголосило про збільшення кількості «захисників» – космічних сил, що підтримують бойові команди, зокрема Центком. План передбачає розгортання до 56 систем Meadowlands для розсмущення супротивника по всьому світу та створення нового підрозділу SPACEFOR‑SOC для підтримки спеціальних операцій. Це підвищить здатність Сполучених Штатів забезпечувати космічні можливості в реальному часі, зміцнюючи бойову ефективність та домінування у космічному просторі.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/20/space-force-capacity-combatant-commands",
-      "published": "2026-10-20T21:41:53+00:00"
-    },
-    {
-      "title": "Посланник США Віткофф зустрінеться з Путіним",
-      "original_title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle - Reuters",
-      "summary": "Посланник США Стів Віткофф поїде до Росії, щоб провести зустріч з президентом Володимиром Путіним, під час якої обговорять питання безпеки та можливі кроки щодо врегулювання конфлікту в Україні; одночасно колишній президент Дональд Трамп закликав Київ до швидкого мирного врегулювання.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c",
-      "published": "2026-10-20T21:57:52+00:00"
-    },
     {
       "title": "Армія тестує програму AIAM для цифрових технічних посібників і спрощення ремонту",
       "original_title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
@@ -1651,6 +1631,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDIwN2tVNnBSZDFJd2w4M1ZJRjFFMGxBX1RFb19kZkJUdDRFeUlnMGlUdklFTUFEQlo3dnZmWDNaNkpLVmFxUVhYOFl0WjZ3MVB0OHZTVnc5S3gwN0RIRlpSc1FTZXBzTGhnV0JXOVc1TGE2NFFIcnJ4anZ4TXR6RUdNVmEyZmtpM0hEMVVGVlItVTNjd29qYkN1d2RhektTWjBJMUZyNjdydFNpZm9LdXN2SDJ6THZsdFppeUd6SGZ1YUZNV08xTl92VHdDZXFKU2dpWk9RTQ",
       "published": "2026-10-22T11:36:45+00:00"
+    },
+    {
+      "title": "ОАЕ номінували Лану Нуссеїбех на пост генсека ООН",
+      "original_title": "UAE nominates diplomat to lead UN amid criticism over Sudan and Israel policy",
+      "summary": "Президент ОАЕ Мохаммед бен Зайєд офіційно подав кандидатуру колишньої посла Лани Нуссеїбех на пост генерального секретаря ООН. Вона залишила посаду міністра закордонних справ для участі в перегонах. Кандидатуру вже критикують через зовнішню політику ОАЕ щодо Судану та Ізраїлю.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
+      "published": "2026-10-22T12:01:07+00:00"
+    },
+    {
+      "title": "Індійський міністр торгівлі: угода з ЄС стартує у 2027",
+      "original_title": "India-EU trade deal could become operational in early-2027, Indian trade minister says - Reuters",
+      "summary": "Індійський міністр торгівлі П. Шарма заявив, що підписана в 2023 році угода про вільну торгівлю між Індією та Європейським Союзом може набути чинності на початку 2027 року, після завершення офіційних ратифікаційних процедур у обох сторін.",
+      "source": "Treaties & Agreements",
+      "publisher": "Reuters",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk",
+      "published": "2026-10-22T12:01:54+00:00"
     }
   ]
 }

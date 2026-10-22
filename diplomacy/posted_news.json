@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-yemen",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFB6MkJrYk9kT0N0Y0pDZjJoRGFialBNU1FxSnBpQWVhZlFydTlZSkQtVkxfYl9lNVBiaDdycTk2endhbHYySURnaTVjOFNVdnZlb0F5NGFxSnE5VFJ5TXY3M3RfMVNYRzlJZllfUWxEVmZWQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GLTdEd3dnMThnOEh6R05CLWlwQXhsN19wZmZOWmlGM3ZVN3Rzd21Pc0VlVi1IdDl5ZElLejE5eDdpOTdZLS13ZlBrM0pZWEZMOEFNU2Q2d0Y3dVNpUkFlaUdEaGluZzRQWUNZaHJvUlBMVWhGN2xydXljNA?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmhHczJ0bHhfVHlqdjQ4MmZac09yalF2MlRoTldDT2ZrZHJOZ2paTDhSVjlqWk9EU1NmUmhJUl9nZVJmOGdWNFBwd29oclRpTmZJT3A2U2VYVWk0dVFyMUd3VEY1X29mdzBHYmlmUWRrcVlyOUtUcVNHUktMYTgzRHdEWmp0Vkt0aHpLeUYyNHJsMEI5SUgwV01iYzhNZzF3ckxjbDRGaXM5M2t6?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUdZcmNScnIxelcwdC1lZlBFVXVKSDR3SXJUdDBNVGRDMkttQW96TTIyNnV6M0paUXM2dEE2M1JZRy1tSEdqNmVNQWN3ZUlNOXVWajV6LWctTmR5UEFfTUNHN3ZUY3N2NFRvekhaX0lyajdwRzd0Ykl2alJRaU44N3Zhd1ZHV0RHcmJ0eHRlR0RiOXFwcFFvdkg1Y0h1MU52MFRtX192UTBvMVR4d2lvQXhHM0VPS2pFNzRuMFI0OEJkQTTSAcMBQVVfeXFMTklHWXJjUnJyMXpXMHQtZWZQRVV1Skg0d0lyVHQwTVRkQzJLbUFvek0yMjZ1ejNKWlFzNnRBNjNSWUctbUhHajZlTUFjd2VJTTl1Vmo1ei1nLU5keVBBX01DRzd2VGNzdjRUb3pIWl9Jcmo3cEc3dGJJdmpSUWlOODd2YXdWR1dER3JidHh0ZUdEYjlxcHBRb3ZINWNIdTFOdjBUbV9fdlEwbzFUeHdpb0F4RzNFT0tqRTc0bjBSNDhCZEE0?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNXpqYkpCX2FieHc1TGt4c09oNkMyeXVHNWxBMm5mZjdSdEpNbUtxallJSDF3SE5YUWl4bndodTktY3lwa0NORkVkOElyM2xyenYweVJ5WGRwLWk0TEt3RlQyR2l0QnMwS2NJMkM3R3k3cXRLck9pdFVfaUhQLVRQSy13emtYX1pQdFA1dW95TlNJOG5qNmptdXFDRzI1Z2pYcTVaQ0dfbXcwU0NhdXNFQjA2RWhkVHhGV1V5azBpX3NLWEhVREhvc1RKRGFUVW04VEdjenVrLVlGZjFta3FPdXdTYTRYeUJZRk9oM3VB?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhIQmlHR19Rdi04Y3A2N1BYNzIySmNYX201QUpkUEhpYUVaRC1RYWJHSHVOaHpYWmlaQnFySUw3ZW1TX0FNTEd3SFNxU1RGVzMyc1M2LTh5WEoxN0llSU1XTVpQdE5CNTNnV0pSOGc2T1V4VlpEYmRRc215ajB6TkstQ29jaTRhYWg0Y0RZV2tKS1llZGViUnFqMzY5WHdrdkhiamRpVkdhQUtZZWc5SQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTlWNUNPUVI2QkNKelJGTTZRd3FlTUJiMU93NmMzaVVhVE1xOXV5UzBjSFJDczF6YkhMZmwzanFBanVMdHJyclUzLVRzdHNtTDJ0VmFkaENOTVJxNFE2dUtZV1Q5SUZWU284aHVfVjd2Mjh6eDhjelkwRlhlNmJ5c0VqUzBIQzV0Qm9fN1RrdHZfazBVUEZYZ1lmeGhobEZjTkdiN2JpRExtSWxXMjdfNTJvMTNLNTJkMFg3Y2xB?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHEzb2JaM2pNRG9KOFhVSnF4VTJpRHF6VEdIV2RVcmVsWlQ1NWt2dW14QTIwVG1OZ0hZTFc0bTQxcGlqT3ljTktUYk9PaTgwTThvZ1FQbDFjMXFiWnZPbHJ2bVRncUJxdDFRV0ZLRTB6QzNxMUdLQ3JzUmN3RVVRbDdMQlVDZXNkZ091cEJHMFpjLXNhbTZ3NGthaFppNnR2NFFNdjEyWXBjS210Y3dtekdMV2pQUQ?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFRDN2RjNk9NTEhPZC1pN3R6Z1hiaUFUSlU5WS1KVTQ4cnFHaEdteUJlVDd4ejl6bXhnM1RSbGE0NE82V2RPdGpPT1drMFUwNFowT0V5dkhQdXRHU2l3WjFHYmw0R1FQWFVmLWZYNFd6WUtqVzhpSTlBcDhqcTRiaGx6YUhCdWZzWXFQSEpQTUxKUE5MOWRsVFBYN2N1UW9GR0tBVG0tT1ExWHIzT1I5TnhBWHFwdw?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HZUpNUnFhaTZMd2x4Y2puNGxodXIxRGpIdzhKdHZ1OUpmVnFMQ3UzRDZVTnByc1VkQ251c3BzekhBaXRxN2M5MXlmZ3JuQ3NqaTJtM1RoTlVvaHJjMkNNT0JDdzZ6R0lqcWlzOTFqbklUT053RHc?oc=5",
@@ -1199,23 +1191,17 @@
     "http://www.africanews.com/2026/10/22/south-africa-water-crisis-over-500-fall-ill-amid-contamination-fears/",
     "http://www.africanews.com/2026/10/22/defence-seeks-acquittal-of-doctor-in-death-of-argentinas-maradona/",
     "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUGROUDVxa1dZSm5WS0gzVXQtVFNBWXFnS0JsbVBoRnA3QzV3Z0paZXAyWEtud2dZczJyZ3BYMUdGV1NQYjFXeWE3WmRCTjdkME5yY1k1N3JhN3ktMU9UTFhtVnM1UmZpRFZvc1FDUXd1VW11MS1IRi1lbTVQakN0dnp5NS1fLU1LMnY3M2VmZEpoaHpQTjJ2dlZ1aTR6YnRONlp5N1VIbER1alFxSUg5cTMyaVdENjJBZEE2THgxQ0s1VmNXUlN1Tllzb2lWX1lKSzgtek1NQTcxSlktYXZ1ZGhSMHFYWkEyU0cwZEhhbWZKWWw4UlhFdmFB?oc=5"
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUGROUDVxa1dZSm5WS0gzVXQtVFNBWXFnS0JsbVBoRnA3QzV3Z0paZXAyWEtud2dZczJyZ3BYMUdGV1NQYjFXeWE3WmRCTjdkME5yY1k1N3JhN3ktMU9UTFhtVnM1UmZpRFZvc1FDUXd1VW11MS1IRi1lbTVQakN0dnp5NS1fLU1LMnY3M2VmZEpoaHpQTjJ2dlZ1aTR6YnRONlp5N1VIbER1alFxSUg5cTMyaVdENjJBZEE2THgxQ0s1VmNXUlN1Tllzb2lWX1lKSzgtek1NQTcxSlktYXZ1ZGhSMHFYWkEyU0cwZEhhbWZKWWw4UlhFdmFB?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHBxeWJ6WW1BQ1F5TW44ZHBjNFAtaU9VZjMxUHhrb1NTRVNpcjc2VXFNcGItTnRGdlQ5T3RzdFVBRU5jdjFFX3pGQnZCZ01wTFhXS2ZOM3pUQl9RaGFHVGxJRmxEbWExOC1EWjRnNGhBTHhONFh1ZmxXUEJIWWV0OE13bnNURElxQnpjeVRsSDRHZUhpVHBzd1pNVExMYTBRTThYWjFEeDRrR0RnSkNSZUd4YVItOTBiWDhTVEp1d2YzbS10enJva2dXTmJMNk02TmlCU1VNQWQ2VWZRTWhuVVI1VmFqNGM?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2dRajZkNW1tVExNNTZaNU5ZWjBNRGNNM0xOU2RGYmxROWVhRmJhREhGcGVhSVNtNTdmbldzSV9aZWl3RzhIWXgxQ2U1YXgzRTlkdEtIUWdhUzItOEVNbWl0UXkzR2ZhQzhoTnNsdlRFSUR5SzgwRkVnUzNucWtUMzY5X1Q5TFgyWS12OXBENkx1UGhfV3hOeQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk?oc=5",
+    "https://www.middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
+    "https://www.theafricareport.com/434179/africa-helped-gilbert-houngbo-make-ilo-history-can-it-deliver-again-in-his-tough-reelection-fight/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-last-24-hours-including-teenage-girl",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-vehicle-gaza-city-kills-two",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWlvVjhHSWMtX2NzR0lUWENQTGFVaUxqMnptZHV3TGgzcE1VbkZDa29SaFVFRzl2TXRuRnlXQ3RHdFVvMVNQT2RaWkNMdDNzekh6TTBRMFNCVnVQVVF5aHVRakwwMU1fMXd6RUZnR2VzQkk1WkF3T0puYVR5OHFRNG03dmtwS2I4SGZUei1rajJxVGpoZGV0Q2ZzbnYtWGdCa1R3VXJWWlJFSmxiT1hN?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Азербайджан заборонив 31 турецького громадянина в'їзд",
-      "summary": "Азербайджан заборонив 31 турецького громадянина в'їзд у країну після заяв, що їхні коментарі загрожують національній безпеці та підтримують переворот. Список включає політиків, журналістів і академіків, серед яких Фатіх Ербакан. Дія спрямована на посилення контролю над зовнішньою політикою.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T14:40:10+00:00"
-    },
-    {
-      "title": "Путін погодився відновити трирічні переговори щодо війни в Україні",
-      "summary": "Президент Росії Володимир Путін заявив, що Кремль готовий відновити трирічні переговори про війну в Україні за участю України та Сполучених Штатів. За словами представників Кремля, це рішення передбачає нові дипломатичні контакти, без уточнення дати старту.",
-      "source": "Bilateral Meetings",
-      "publisher": "WTOP News",
-      "published": "2026-10-21T14:21:28+00:00"
-    },
     {
       "title": "Кремль готовий приєднатися до нових мирних переговорів у листопаді",
       "summary": "Кремль заявив, що Росія готова в принципі приєднатися до нових мирних переговорів щодо України, запланованих на листопад. За словами представника влади, це лише готовність, без конкретних умов чи формату, і рішення залежатиме від подальших кроків сторін.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "constructconnect.com",
       "published": "2026-10-22T11:36:45+00:00"
+    },
+    {
+      "title": "Індійський міністр торгівлі: угода з ЄС стартує у 2027",
+      "summary": "Індійський міністр торгівлі П. Шарма заявив, що підписана в 2023 році угода про вільну торгівлю між Індією та Європейським Союзом може набути чинності на початку 2027 року, після завершення офіційних ратифікаційних процедур у обох сторін.",
+      "source": "Treaties & Agreements",
+      "publisher": "Reuters",
+      "published": "2026-10-22T12:01:54+00:00"
+    },
+    {
+      "title": "ОАЕ номінували Лану Нуссеїбех на пост генсека ООН",
+      "summary": "Президент ОАЕ Мохаммед бен Зайєд офіційно подав кандидатуру колишньої посла Лани Нуссеїбех на пост генерального секретаря ООН. Вона залишила посаду міністра закордонних справ для участі в перегонах. Кандидатуру вже критикують через зовнішню політику ОАЕ щодо Судану та Ізраїлю.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-22T12:01:07+00:00"
     }
   ]
 }

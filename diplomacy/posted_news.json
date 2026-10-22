@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ejNfcHJiNHBZMlVXN09OdHNEcXdpR2FHWlZBd2ZyY0V5NE9uNVZHWGRON0h6RnpZMjFuRUxVdWdVMzctTGJJYUF3eVg1QndTMFlnLWhWb25GcTU1QmJhU2NEQzNzcl9VT2lUalBxSnQ?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnFFcTRuVzVuNU9HVnR5RnA3dk9wSV9sVksyY0pRcUJ1ZGc0anJabjNIMjhHX0Z3d294RTFMMjNOb0pjZVhCVWNJM2poWlVoN2l3VlBlTFF3bDUwN3c0TERtU3BNemROREJYZnpMaUM3S2lzajJ1Uzhya3E5Q2hoYVNCX2lYc1ZNa1dLYzJIVmJvSkEtY09pSFhXbzdVdw?oc=5",
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTlN5OXN4T1JwdEVFbEoxYmJPR3BlWjdZaTY5a2dYWHVoMnFhQ25LTEdDY0dESnVPYWxGelkyaWozSzN3WG5YZ0Z2OGk1czdiMTJJb1BKRnFveWduOTNYWkVkd3U2QmNPdlE1cGNIQWxPeV9IYmNtUnhpRnc5MVFBS3pTYlpmRTJzMk1RWWxBQWRSN1ZpN1VvRHZqeGJrcGhBaGlLTEhSSkd1WTZjZmFKcEVBVmtWRWZrT2hidkZrVmRjRmRwZ3FodTlkOFE2dGhKMmlHRFRFaEFkMWlqZ0JydHgyc204SFRuUmFqSzVtYkxWRDJlZVdIcjBiS3Flb1FxTG1r?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEdXSmNHWXRjLV9Mb0dCb09jcTlzTDhDS21KUmhZNHUyNjdISkh4SGNZdmNwck95ZE5Ud0xUZ1JTN2J2cXdxc1J3M0RRcFdUeGVEUnA4TjBzTk9odnJKRFMyblduYWFrY2NXR1VWMjBDTjd3WmlSY3BKSWQ0NmN1MkR1OHJrRHVEVGRpc0tn?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm00OVRNUWdjbl9MQjgyRkxZYUhKUVJuMjZjU200UTczM1U4T3U5Vk5ReFNMbFVFWHNkMjhCN3dDSHRwNmYtclBuOGNXbmUwdi1jY29qM0plaGljcU52d1A2d0JlS2stUUVnNGpkbnNhUDBYNG4xaTVaTFJ5dHR1ZTdhTDlvYzA?oc=5",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xVXJpLU5kWm1IWG1jNzB3NkZpRE81TVNYYzVqWERRbVZ6Nzh1R3gxV1d3Ri1pWnpBd0s0V0VYQkVMVEpHYzM5dw?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ad3RpSzJ2Ul9rWjZ1ZTBpa1hLUERpVGc1b2VzQXhZMzd5UmlBS3RPdjBGY0w5b1FUbTJDQVVIeHowakwwb3hLT3lubTc5T2hyQ3BIa296UXFKQmJQZGFBVUdnOUVpVmJBMkZBOXNqQ0NYc18taFRwNW9n?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDNTSVBIaW5Pa2loNzNqU3pUVkl3QThmTTc4aVNOS0lKcUJ3WVVsNnI5QlpwTlQzNU1DYy15YXlkQ1pjYmlKbnBCYjYydWF0akdTcmZqVTM1OEs3UUFJUEFaTTY2ajY1SXpFYjBzcEx6T2ExTGM3dFY2cDhwRlRfNkVFMmFiQ2JUVnlLLTZ0N0Y?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5UHhUTlVYdXpHTUxHOHE2aTRQTERpNkhHRnkwem52cUhJRHphanNmak1oWURPYndIRS1hSnlmdzBRUFFPWnc3ZnpKRlpmMHhuYi1jWHE5RS01X2NZdEdJcXVfWEJjLWNrYTkzNnUtOHk4MGg5UFNlZzhsOA?oc=5",
@@ -1199,16 +1193,15 @@
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdzM1WWluOFNJMTV2WmN4TVhJc0dQOXFkaGNpYk9hVEtMUTdQRUNuaU9DZU9Ed0xQcUVwQXk2WldMemxYWjh4clh0STJTZDZpYmVSbE10ZUxxdEpPUy05eFdwSjVyTU05ZU9HQjJlMnNwR3VlbHJTdWNnNy1uQzN5Mk8yUktqN1BnczQ4UWJiMmkzV2FuUjhFbVNlWjdWYWhjb3F0Q3ZmcDVPOElyS1Fzbi1GQkZlc1VwRDZYeHpCVVhpTUFwb24zZ05wMjQ5UnFFMVBpelQ2VW0zN3NQYktyeDU5ZUlEWFF6SGJkNlczVUhLci1BQ1E?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQWlZUUFJDZlNYOXZWZXVYTl9lSXdDeXdRQWk3SkN4aEhGRXZxZTFBN2kxQUZRUTgySkZSaGxxZUlPUmMxLU1talBETTZ1UEQ2a3ZjQzdqMm9Rbm9jNkR1S2Z3WlprZk4tQUZyN1NPNWJRdVFYS2xhazl3?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rTnF0R2dpeXhMV3JZdjNFeTRyNm96djQ0RXI5bndpb3pJYTlQdXEyNEVDRWhfUlpiZ2lpM09pMEx6ZXU1NXVRckR0Y2pXbVFXSW05Umx3N2dibS1KTmtiOExmejJieTI0OGdvWlhTXzYzZFRlR3RwZ3BVbw?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnSU1jQkJoeEVreDdwQnpPSTN2cWgxaW8zQ0dpQ250Wk4yLWFEUXRJT0Y3N1FfSDFXam10ZzB1NFVqNHozSkF1bzhzd3VPd01yZXR6enNNVWxtV29OVnQySGxrRElPWUhST09VWTZQWGRIZjg1dnVVb2k3WQ?oc=5"
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnSU1jQkJoeEVreDdwQnpPSTN2cWgxaW8zQ0dpQ250Wk4yLWFEUXRJT0Y3N1FfSDFXam10ZzB1NFVqNHozSkF1bzhzd3VPd01yZXR6enNNVWxtV29OVnQySGxrRElPWUhST09VWTZQWGRIZjg1dnVVb2k3WQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-seven-vessels-hit-over-past-day",
+    "https://www.theafricareport.com/434169/nigeria-2027-can-gbadebo-rhodes-vivour-break-tinubus-27-year-grip-on-lagos/",
+    "http://www.africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks-0",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUWhNUUhucVNsSHVMWDJtQlVZdFIxRUMwR0Q4Zlc4aVFvWjF6S09PYXFHSWpLMW1OcHhDMkJVVVZuU2tseTJjTDFZXzRYVGxpSE8xQ3Ria2FoNjhvbTFoZDVZTy1zalFjOTZWOGpzelRfOHhZMHlnVld0MnFfUnRrNkdCU0c1UUtuRk9Hb2toeTF0S3RKcDdLTXRVY3Nyb18xbk1OeXZKWUJKMEk1endobkhTS2Zjcm1TcS1sNGxGLVZERktpa3pkcUtiNG1qckFCWkZFajVRVy05dVY5MW8xcmRZMF8xUGF0Ync?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmRkRENiZXN3VmVGclI4TEFndUE5cm9oVFg4em5uNTdPVkdPTFpwSkVUMklOMk5XYTBXSWc2LTc5azh1R2pPMVZMZnBkZzBtX3lUMFZLeFFna1RPZzBfWF9TVE9KTWFNMnpPQ0VuaFlmT3RKQ2FhZi1vcGJlLWVYYkVHM1h4M1dtVzdVTnlOYmFrR05HdEw4ZzBDRnlBNkEtLWdnMGR1X2xRVDRvWGxYWC1iYTd4NjNQdmtN?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Рада ЄС та Європарламент досягли попередньої угоди щодо реформування ринку ETS",
-      "summary": "Рада Європейського Союзу та Європейський парламент досягли попередньої домовленості щодо цільової поправки до регламенту про резерв стабільності ринку для системи торгівлі викидами (ETS). Це рішення є частиною кліматичного законодавства ЄС та спрямоване на стабілізацію ринкових механізмів скорочення викидів парникових газів.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "published": "2026-10-21T09:52:54+00:00"
-    },
     {
       "title": "Парламент Вірменії обговорює ратифікацію угоди TRIPP зі США",
       "summary": "У парламенті Вірменії обговорюється питання ратифікації угоди TRIPP, укладеної зі Сполученими Штатами Америки. Цей дипломатичний процес стосується офіційного схвалення домовленостей між двома країнами на законодавчому рівні.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "moit.gov.vn",
       "published": "2026-10-22T03:24:29+00:00"
+    },
+    {
+      "title": "ООН і Швейцарія провели переговори щодо конфлікту в Судані",
+      "summary": "UN‑спеціальний посланець у Судані Пекка Хаавісто та представники Швейцарії у середу розпочали нову зустріч регіональних і глобальних сил, метою якої є розробка плану завершення війни в Судані. Зустріч відбулася під егідою ООН і спрямована на координацію дипломатичних ініціатив, включаючи можливі переговори з усіма зацікавленими сторонами, зокрема урядом та опозиційними групами.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-22T04:43:51+00:00"
     }
   ]
 }

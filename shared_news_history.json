@@ -2,6 +2,7 @@
   "links": [
     "http://africanews.com/2026/10/21/un-warns-against-premature-exit-of-peacekeepers-from-central-african-republic",
     "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
+    "http://africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis",
     "http://africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
     "https://army-technology.com/news/l3harris-gmlrs-us-army",
@@ -83,7 +84,6 @@
     "https://navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel",
     "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlpVa1RRVjNXbG5Jem1iWVJ4SzEzNlJmZ1dEUFg1S09oOFpyNk9GMHFmQjJxLXFyRHVfS1pPYXFvMHdXQTNIYzFGY3psREtmX3Y5SzB1aDNPN1J4cEVHdTAxaDF3akNFelBuS240ZEZ6ZVkwcHkwUmhYeE9PY2tTQk9LQzBHMmszSVFrdXJoUUdUcnFKREQ0LUxxc3NLYVlxSUNxQW5zZ2d3TGRLbEVCTTVnNEVTMDBNbHZ6bHU5ZU9rRmVWUVNMSnFfUG1ZZjRJVVE",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMW5pQ1lURWF6Y0tNMXh2ZldGM2w5RUpHenhEa0hUU2tQMHBIMDlYT21LYzc5Z3NneV81RVc5eW5DV2lSTGxxQWNLVlNBSU9QLVQzLW5YcFBZNlh6cFQ1dU0wX01mdHFwY3h2OUE2TlczMXhoeDEyOEswWHpmbTZNMG5KNmN4NXBHekFyWk1id3J0OGpPMmVXeVBoMG1GWkVfUXJJWk9HVE1rUTBxXzNUNUh3QjNEenZBTlg1Vy1HemxFTXo2NjJ3ck1BRU5pdWJHUXlF",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3VfSmttLWRPWFhxLXhvTmhURzcteDFaYkJxbFV4SFdXRTQ0NFBRZXNCdUFnLUhodVdEeUVZelhYWmhFdTJWa3MzZGZPN01LNFpEVERsRVFvekdrU25GcGdyM01xUFRxdlpPZEJDY0V3R2hZSFFsX2p4eDV6WWZNTVdxWlNueHo5NHM3aW01eEZhc1JNQTFlSzFfTUU1M040QURxQkhmZUpRYlNfQzhSbXl5TDFtRnJUcFdBU0JNcUIxTVE4U3dGWkVJb29RTnJnVnRtVGNn",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Сербія підписала угоду про продаж NIS угорській компанії Mol",
-      "original_title": "Serbian Finance Minister: Agreement signed for sale of Nis to Hungary's Mol, Antitrust approval expected - Agenzia Nova",
-      "summary": "Міністр фінансів Сербії оголосив про підписання угоди щодо продажу компанії NIS на користь угорської корпорації Mol. Для остаточного завершення угоди ще очікується отримання дозволу від антимонопольних органів. Подія є офіційною економічно-дипломатичною угодою між державами.",
-      "source": "Treaties & Agreements",
-      "publisher": "Agenzia Nova",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUURBSEsydjJzRVpUeE5ZbzBNdVpYbjZPczVsRXpaeTF1X2FyUXBNX2VzVGRjdDMtbTZiZjljYTZXSnJoeHpXUW4yMnFHd0N3cHlIQ2xlaXQwNkRXRE9jam01cmZqMHV6eFVhSG1VTzVJVzNuWkdSZjhWRGtabkhaMVp5TFZtTG9SdE0wenEzY0FiNXRleEFWTlNsbkJLVE5xbGV6cGlDUTFTUlVXVGFkVGR6MHdRUW43RjhQbnA1VEN2RVVicFVzOUVHMDBicldK",
-      "published": "2026-10-21T08:16:44+00:00"
-    },
     {
       "title": "Міністр закордонних справ Японії зустрічається з секретарем-генералом АСЕАН",
       "original_title": "Meeting between Foreign Minister MOTEGI and Dr. Kao Kim Hourn, Secretary-General of ASEAN - Ministry of Foreign Affairs of Japan",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing",
       "published": "2026-10-22T16:08:18+00:00"
+    },
+    {
+      "title": "Єгипет закликав до політичного вирішення конфлікту Саудівської Аравії та хуситів",
+      "original_title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
+      "summary": "Міністр закордонних справ Єгипту Бадр Абдельатті у четвер заявив, що необхідно розглянути всі варіанти для пошуку політичного рішення у конфлікті між Саудівською Аравією та хуситами. Це офіційна дипломатична позиція Каїру щодо ескалації напруги на Близькому Сході, що підтверджує залучення регіональних гравців до мирного процесу.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis",
+      "published": "2026-10-22T16:36:31+00:00"
     }
   ]
 }

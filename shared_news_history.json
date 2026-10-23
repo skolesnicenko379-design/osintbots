@@ -26,6 +26,7 @@
     "https://defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
     "https://defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time",
     "https://defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says",
+    "https://defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says",
     "https://defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
@@ -54,6 +55,7 @@
     "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
     "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
+    "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
     "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
     "https://militarnyi.com/uk/news/kongres-ssha-proshyt-trampa-pro-starlink",
     "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
@@ -61,9 +63,10 @@
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
+    "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
-    "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
     "https://militarnyi.com/uk/news/shho-vidomo-pro-novi-versiyi-geran-5",
+    "https://militarnyi.com/uk/news/sparta-vypustyv-100-bpla-lantset",
     "https://militarnyi.com/uk/news/studenty-shhonajmenshe-40-navchalnyh-zakladiv-rf-vyroblyayut-drony",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
     "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
@@ -72,7 +75,6 @@
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
     "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
-    "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
     "https://militarnyi.com/uk/news/v-ukrayinu-povernuly-tila-252-zahysnykiv",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
@@ -93,7 +95,6 @@
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmJNWGo3OHVZZzRBZ3M0MGUxaXdOZzRiN25KSmRrSEhjOGgzRUxUTHhORHFwYjhka1hxMHJaS0tlLWhWcUQ4aldfa1RTYVN1SXJYQ3lXcDBQaVh5MFVWSkVoWGc5ZXNKQWZQa1k3TDBRaVh1WGx5dUlVOUdYZG1mOFJsNzZhb1RSOGJndVBScWV6ZUp3NXhzN1lTdjBfTzlSVkJDamk0LTlWQjVpb1BQUHdCNmNoMDc5aUoxLUFyeFVMTk9nejlMeVpNNXlQVTZJOXI4WEYzWEpjYTYxV0k0WVFuUmxMdTktcnc",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW1ORWxJUy0wMmVXWDhGb2dMd1R3NFRLRDh4aVRhcDFaejNkS3VUVDBRczVhUHVZZzFKVmgtR0VscGVpUHk3WnBlczdZa0RleU9mZHVNS0NrY0ZYOG5PdUVDc3lZUXBKSkVibmhITnhuSGlaMWh3U09qNFZfSmtjWXBxckY5ZXRucVNLN0g2LUNpY1Viem50cHZSWVJ0NEV4TzBWdGhyaDZ1c2hiTFRxcGI5cmNDRkFKbEkydXhZamFQXzFmRURNYUl6Y1k0M3N4Uml1dmFoaVo4U1owZkFmdWoxUnZoRjdDQWlick5R",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLOWJuSlR2U2g3YkxyZlA2N2NRSlNNT3dwNkdNZnBQSGlLTHdqQ3Jna3JrV19jVjVSMkVGeDBXNUVma05lZVhfQ0EzMm41Q3JhejV2NGFORU5yV1E",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWUw5UmdvbEZ1NjdDc2l0bnVVdzI2NnR5N0xqN2g2c1UwQXNTZW16NlNOVmQxRzNUM250RFN1SjIwSzBPRWo5UnFqeTNNN1JHZkFSNml2VGY5dTdiY0RMX213",
@@ -101,7 +102,6 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMVBVTFJXT2RCVXNndkx1eEdOakJ5ZkwyWGpzVzBCN0Z0QzQ4dDVha3lsTTRZMUZFZFlJUDBUY2tTeE4tN3I2X2tPQnRIREZDcW5XRFdpY182a1dkaFkyMlE2d3RJUE9nbXpBWWJpbFh6MDl5OHU1VA",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRFZYTzBhczdjUm9oZ3RsblJTc3FqR3BOeGxTcW50UTZ2a0U2SWg5aTRJLWdJZE53NjRmUjJNejdpby0xaHFJbjN2eU05SmstSTVhbFI1d1F1RFlsX0EzOGotRUhBSU53TTB4cGlaM2F4ZDZydmdLUEh3",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHVOT2hIRnktTFJvRGtxa2dLd0prd1Fvcy1sNkwtYXdJVlNaVW45Yks1MFlPS2VJek1vRUxqa0NWMmxlYkV2Y2RkeDRoQ1g4TTc2RTRhRTJ6QXpNVDlJZEdPQnJsUlRFMzVfZVhyNGd2VzJ4YWxRdHY5WEw1X2ZQVTVhR2hUX2k3c3RPMUU0dnZPQXZPNmc0dXFEMVQ1NnNVc2F3elRaWTI2OTRoWmZHYTQyMDRlZmEtNmpiX2Rxa0Q5RGFFZ1FjdEZ1MWVEekpzMk9mR1Q1UVExUm4wb21BQ184VEdjdU9CQUpKSEVkQWxRMXNRWFVodFlzZWVFT0ZXRkE",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "1039-й зенітний ракетний полк отримав фінські ЗРК ItO 90M — модифікацію Crotale NG на шасі Sisu",
-      "original_title": "Україна отримала фінську версію ЗРК Crotale для перехоплення російських дронів та ракет",
-      "summary": "ItO 90M — фінська модернізована версія французького ЗРК малої дальності Crotale NG на колісному шасі Sisu XA-181 6x6. Комплекс виявляє цілі на відстані до 20 км, ракета VT-1 розвиває швидкість до 3,5 Маха, дальність стрільби — до 11 км, висота ураження — до 6 км, а час реакції становить 5 секунд. Такі характеристики підходять для прикриття об’єктів від дронів, крилатих ракет і літаків на малих висотах, тож комплекс може підсилити ешелоновану ППО. Масштаб впливу залежить від кількості переданих систем і запасу ракет, а ці дані в джерелі не наведені.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
-      "published": "2026-10-22T05:40:04+00:00"
-    },
-    {
-      "title": "50-мм зенітка Raid Hunter має збивати дрони на дистанції до 5 км",
-      "original_title": "50-мм зенітка Raid Hunter зможе збивати дрони на відстані у 5 км, тож як скоро буде готовий її прототип - Defense Express",
-      "summary": "За наявними даними, 50-мм зенітна система Raid Hunter призначена для боротьби з дронами та має вражати цілі на відстані до 5 км. Строки готовності прототипу в наданому тексті не наведені, а характеристики боєприпасів, наведення та розробника не підтверджені. Якщо заявлену дальність буде підтверджено випробуваннями, така система зможе доповнити ешелоноану ППО проти дронів-камікадзе, зокрема там, де використання ракет надто дороге.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUEY3YzhuWGt5dlpsVkNzRTJrX0JlTWZRSlIyRk9ESWx5Nm40UDFHTWVNTkFqS3pYNEJwci1hXzRZX213NWh0ckhNNjJweVN0aGhOTG56bm11UEtvQVltWlJpRnJDWTdwcEJjMHlzcTNqanB5V1lWVW5IYmZNalBOa0xrZlhNNnNReXJOLURBZVk1dk1FekpzVFAzdFJyRnZwTkFwVlBkZlFxQWNrY1M5S0p6S2pGSjNjYnljUUxQMFJFNEdUb2tXWnVyMjc4RlhtRVRJRTh2ZW1RNkdUaHdtVW9SZV9DRW9BX1ppR053",
-      "published": "2026-10-22T05:43:00+00:00"
-    },
-    {
-      "title": "Fed to Hike Rates Again Amid Persistent Inflation",
-      "original_title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming - Cabot Wealth Network",
-      "summary": "Fed signals additional rate hikes to curb inflation still above 2% target. Higher rates will tighten liquidity, increase borrowing costs for businesses and consumers, and likely support the dollar against other currencies. Debt servicing costs rise, potentially slowing growth. Market participants should anticipate tighter credit conditions.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Cabot Wealth Network",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n",
-      "published": "2026-10-22T06:00:00+00:00"
-    },
-    {
-      "title": "Росія залучила бригаду «Варяг» для протидії наступу 3-го армійського корпусу",
-      "original_title": "Росіяни залучили бригаду «Варяг» для протидії наступу 3-го армійського корпусу",
-      "summary": "Російське командування перекинуло частину 50‑ї бригади безпілотних систем «Варяг» на Лиманський напрямок, щоб посилити оборону проти наступу 3‑го армійського корпусу ЗСУ. Бригада оснащена ударними та розвідувальними БПЛА, що дозволяє швидко реагувати на зміни на полі бою. Це підвищує здатність РФ до швидкого реагування, але також свідчить про нестачу персоналу й необхідність залучення додаткових підрозділів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
-      "published": "2026-10-22T06:02:17+00:00"
-    },
     {
       "title": "У Польщі спростували повідомлення про призупинення військової допомоги Україні",
       "original_title": "У Польщі спростували призупинення військової допомоги Україні — Fakt",
@@ -1463,6 +1423,16 @@
       "published": "2026-10-23T13:29:33+00:00"
     },
     {
+      "title": "Саудівська Аравія розширює завод балістичних ракет: дослідники припускають випуск потужніших ракет",
+      "original_title": "Saudi missile plant expansion may produce more powerful missiles, study says",
+      "summary": "За аналізом супутникових знімків Planet Labs (квітень 2025 — вересень 2026), на комплексі аль-Дувадімі поблизу Ер-Ріяда з'явилася нова будівля з ямами для заливання твердого палива, щонайменше вдвічі більша за наявну, а також друга споруда, імовірно для зберігання компонентів палива чи готових вузлів. Дослідники FPRI вважають, що це свідчить про підготовку до випуску більших твердопаливних ракет із більшою дальністю або вагою боєголовки; експерти також вказують на ймовірне використання китайських технологій. Це можна оцінювати лише як припущення за відкритими даними, офіційних підтверджень нем",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says",
+      "published": "2026-10-23T13:57:29+00:00"
+    },
+    {
       "title": "PMI США у жовтні: промисловість 56, послуги 57,9",
       "original_title": "Breaking: US Manufacturing PMI at 56, Services at 57.9 in October - FXStreet",
       "summary": "За даними FXStreet, PMI у виробничому секторі США в жовтні становив 56, а в секторі послуг – 57,9. Обидва показники значно вищі за позначку 50, яка відділяє розширення від скорочення, тож ділова активність зростає в обох сегментах економіки. Сильніші дані можуть зменшувати ринкові очікування швидшого пом'якшення політики ФРС і підтримувати долар та дохідності. У статті немає попередніх значень, прогнозів і розбивки за компонентами, тому оцінити відхилення від очікувань неможливо.",
@@ -1651,6 +1621,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
       "published": "2026-10-23T17:16:03+00:00"
+    },
+    {
+      "title": "Ізраїль готує масштабну операцію на Західному березі після загибелі двох військових під Хевроном",
+      "original_title": "Ізраїль почав підготовку до «дуже масштабної» операції на Західному березі",
+      "summary": "Після перестрілки на тимчасовому блокпості біля Хеврона, де загинули двоє ізраїльських військових і двоє нападників, Нетаньягу наказав оточити місто та підготуватися до повного перекриття Західного берега з 23 жовтня. Він заявив про плани обходити будинки, вилучати зброю, знищувати «терористичну інфраструктуру» й виселяти мешканців району, звідки походили нападники, за моделлю, яку застосовували в таборах біженців на півночі Західного берега. Про конкретну техніку чи склад сил не повідомлялося, але досвід операції «Залізна стіна» 2025 року вказує на ймовірне тривале залучення піхоти та інженер",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
+      "published": "2026-10-23T17:28:19+00:00"
+    },
+    {
+      "title": "Російський загін «Спарта» запустив 100 дронів «Ланцет», уразив лише три цілі",
+      "original_title": "Російська «Спарта» витратила сотню БПЛА «Ланцет», уразивши лише три цілі",
+      "summary": "Згідно з даними Павла Губарєва, під командуванням старшого лейтенанта Кирила Озерова, загін «Спарта» розгорнув близько 100 безпілотників «Ланцет» протягом трьох місяців, але лише три цілі були уражені. Дрони «Ланцет» мають дальність понад 40 км і оснащені кумулятивним зарядом КЗ‑6, що забезпечує високу точність, але низька ефективність у цьому випадку. Це підкреслює проблеми координації та підготовки російських дронщиків, що знижують їх бойову ефективність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sparta-vypustyv-100-bpla-lantset",
+      "published": "2026-10-23T17:57:19+00:00"
+    },
+    {
+      "title": "Російський ударний дрон «Герань‑4» впав біля енергетичного об’єкта в Молдові",
+      "original_title": "Російська «Герань-4» впала поблизу енергетичного об’єкта в Молдові",
+      "summary": "У Молдові, у селі Кіштелніца, ударний дрон «Герань‑4» впав на відстані менше 100 м від житлових будинків і енергетичного об’єкта, ймовірно після зіткнення з деревом. Дрон, розроблений як швидкісний крилатий безпілотник, у більшості складається з американських електронних компонентів, що свідчить про складну ланцюгову постачань. Подія підтверджує здатність російської безпілотної техніки діяти за межами України, створюючи загрозу критичній інфраструктурі в регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
+      "published": "2026-10-23T18:55:12+00:00"
     }
   ]
 }

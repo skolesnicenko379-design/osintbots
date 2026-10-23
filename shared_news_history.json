@@ -81,6 +81,7 @@
     "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTNIQkhfbFVBUGlJRm9TX0Y0Y1ZRajluZzNLcFJxb2UyZ29XLVBsX2JGSmRyT3R0bTAxbmRBVzM0QWRyV1FZYk9uZy11eGRoVTd6STg4T292V0JaVDdRRDhpSFdGQVpOQXQyT0FZRlhqQlZmS2JmVjRpOHJMSlY4SUVXdzhmR2RlOElrYmcxM1VrWV83TGxBOEJOcWJqR0dJQzBxYndkV3RPWnVWN2xIb21TbzB2Yjh2LXFQUnVIRGFuREE1TFRjQ05BM3pkOWtsaEE",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDIwN2tVNnBSZDFJd2w4M1ZJRjFFMGxBX1RFb19kZkJUdDRFeUlnMGlUdklFTUFEQlo3dnZmWDNaNkpLVmFxUVhYOFl0WjZ3MVB0OHZTVnc5S3gwN0RIRlpSc1FTZXBzTGhnV0JXOVc1TGE2NFFIcnJ4anZ4TXR6RUdNVmEyZmtpM0hEMVVGVlItVTNjd29qYkN1d2RhektTWjBJMUZyNjdydFNpZm9LdXN2SDJ6THZsdFppeUd6SGZ1YUZNV08xTl92VHdDZXFKU2dpWk9RTQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
@@ -118,9 +119,8 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjFaTGxnSzgyY3dSTlRYb3ZvNFVpQkJlNFdtVmtDVlcwZmd3OTh4ckVvbU14LXNVQmhvUk1tTkV4TThyVmpYMm16QnRwdG92VjhFZldqOHY5OTdZSzV4amk5a0pJQWZ1cnllOGtYc25SbkZ5NzA4Y3VFaHlLVVhFMkozRXZxbW5RbXI2bHIyUmdJRl9NNWlJeXN1OGZ2NVZzdkxkd3g0X0x1MEZKT1lHbVJ3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmo5dEpYQTdRWVUtZFFxb2h0Sm1XamYxd3FQRkx2OFhtZklxeTdlc05sYk9TMWtHczI5Nm1iYkJLdTZqWFhUUjFPb3hQRUp0Y1FtWHNBRndlVFpGZjktRVZXakNjWVQ0ZjBQQmFIQkFPQ3JJNzg5ZTlyN00zMnpwNEtob3FndGs0RnBvb1BXTkxTVDlyQ29obWpVOEVIVGtDQjlJTHBhTHpEMEpZOTBzN1JQbnludVU",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2dPOWJyMWJLY2tQMWFQbTc5ay1QampFc3lPaDFfVm1TY09SZlJYWlNZTVJPV1pMeU5sU3pqd3dZazVnWFZFWVFWbkFqcGd0clBrSTdqdGJOeWZCTDY5VEtmQ3FUSC1jeFhVWHR6YUo0WnZLR1B3WktBOFo3QlE2VXBBNnA4cDRCSXJuOFRCZmZSZ2J5cWpDc05CZDM3SnRsVGNsWUNvUlBlWHpfYzJPTDdKYjBYdks3",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Кіпр засудив меморандум Туреччини та Лівії як незаконний",
-      "original_title": "Cyprus Foreign Ministry Condemns Turkish-Libyan Memorandum as Illegal, Null and Void - The National Herald",
-      "summary": "Міністерство закордонних справ Кіпру офіційно засудило меморандум про взаєморозуміння між Туреччиною та Лівією, назвавши його незаконним, нікчемним і таким, що не має юридичної сили. Ця реакція є формальним дипломатичним кроком, що підтверджує позицію Нікосії щодо неприйнятності угоди про демаркацію морських кордонів, яку раніше відхилила Греція.",
-      "source": "Treaties & Agreements",
-      "publisher": "The National Herald",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19jXzRaTDBiYjF4MHlDeHdKaG9SSE1fMjNfZjlMRUN6Qy04R2dfbElEQWlJcmRaLU9xUVZLWjE1Zm4tb1dfSUN2NUpwWUhnZUVJd3lmVV9uMS1LUVZwb1VFSGNObnZ2Zk51SWRIeWUtR1REU055d292YkxuZk5iTGlTblYxUTNQaXpmWXJIUFd3b2JUUmE3VHc0Q3NUS1BVYlRXZmxZTDllOWg0aXBjYU9aOWFnUGJDeXc",
-      "published": "2026-10-21T16:48:17+00:00"
-    },
-    {
-      "title": "Ціна російської нафти для оподаткування на 60% вища за бюджетну",
-      "original_title": "Price of Russian oil used for tax calculations jumps 60% above the budget level - Reuters",
-      "summary": "За заголовком Reuters, ціна російської нафти, яку використовують для розрахунку податків, зросла приблизно на 60% вище рівня, закладеного в бюджет. У наявному тексті немає точних цін, періоду та назви марки нафти, тому масштаб ефекту оцінити неможливо. За інших рівних умов такий розрив збільшує податкову базу нафтового сектора та потенційні бюджетні надходження. Це може пом'якшити тиск на бюджетний дефіцит, але остаточний вплив залежить від обсягів експорту, знижок і курсу рубля.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Reuters",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N",
-      "published": "2026-10-21T17:07:44+00:00"
-    },
     {
       "title": "Ghost Shark уперше показали під час запуску повітряних дронів: 12-трубна пускова установка й нові щогли",
       "original_title": "Ghost Shark Uncrewed Submarine Shown Launching Aerial Drones For The First Time",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class",
       "published": "2026-10-23T08:57:42+00:00"
+    },
+    {
+      "title": "Казахстан та Єгипет спростили в'їзд для туристам під час візиту міністра",
+      "original_title": "Kazakhstan Secures Easier Entry for Tourists to Egypt During Foreign Minister’s Visit - The Astana Times",
+      "summary": "Під час офіційного візиту міністра закордонних справ Казахстану до Єгипту сторони домовилися про полегшення умов в'їзду для громадян. Подія є офіційним двостороннім дипломатичним кроком між державами. Інформація відповідає критеріям міжнародних новин і не є дублікатом.",
+      "source": "Bilateral Meetings",
+      "publisher": "The Astana Times",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2dPOWJyMWJLY2tQMWFQbTc5ay1QampFc3lPaDFfVm1TY09SZlJYWlNZTVJPV1pMeU5sU3pqd3dZazVnWFZFWVFWbkFqcGd0clBrSTdqdGJOeWZCTDY5VEtmQ3FUSC1jeFhVWHR6YUo0WnZLR1B3WktBOFo3QlE2VXBBNnA4cDRCSXJuOFRCZmZSZ2J5cWpDc05CZDM3SnRsVGNsWUNvUlBlWHpfYzJPTDdKYjBYdks3",
+      "published": "2026-10-23T09:11:41+00:00"
+    },
+    {
+      "title": "Секретар війни США зустрівся з президентом Мальдів",
+      "original_title": "Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan A - U.S. Department of War (.gov)",
+      "summary": "Секретар війни США Піт Хегет провів зустріч з президентом Мальдів, доктором Мохаммедом Ірфаном, обговоривши питання безпеки, співпраці у сфері оборони та підтримки стабільності в Азійсько-Тихоокеанському регіоні. Зустріч відбулася 12 жовтня 2024 року. Під час зустрічі обговорено можливість розширення співпраці у сфері кібербезпеки та обміну інформацією.",
+      "source": "Bilateral Meetings",
+      "publisher": "U.S. Department of War (.gov)",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
+      "published": "2026-10-23T09:36:23+00:00"
     }
   ]
 }

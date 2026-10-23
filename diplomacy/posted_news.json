@@ -1,14 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnlONXVESkFZamw1M1FZRXEtbVdDcmRKRUxodzFlODlRc2hGck9XTnlyX0FzVUFlOUxvWUlUcUd6Y0RqeEEyQmpITW1HUVg1VThITjJSOERiekJvSzFQb05ZdnV5TWM5SXhEYklrM0tXR19uYzV1cERRNXhNZHVRbzh5bjBBQ2NRZ0NoSFRmbFEyaTV0dWw3a2NDNDdFSXg2eVZMQk1ocG5QQVFNZUVYcTFBU3lybnVSUHZoUlVjMDF2eUxaOGhybUxCMWdudFh6ZzFYdTNoZjJBWWNi?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2h3Rzl2M2lmMjJ4alJZQS1FRkQ1VFZZQVctdmlRQ3dTcVpXZGtXdDVEX0piako1VkE0VXMySVQybDRxaEFCVFBVYXpYRXNJN2tyemwtQ3pPai1SenBFZG5FVWh2U0tzZHdnTXFvRU90YV9TN2dZakhVRG9ZNnJ2Q2Q2X0NFZ2pJcjJaWll2ZGhuVkJfNUt2b2lMZnVVeUliOFBHOXdQONIBrAFBVV95cUxQeF9SRzVIT1FVUkc5Z0djU3hwUjdnLU1LVHd0Z0RBMmR1XzBHYWxjQ1pXb2kxeHNxUFhuTHBUZ3N5OUFyRFJVbXdtdEVmVHRVMkYxS0dINkh0Z0tYbHZObnZnY3lnM2dFbXhiQ0pwak1sUV9HekxaN2NPQzlHbXEwdVlheGFEdVRNTnB0em1uM1RBWVFqakRRY2tiZUFZQWZHTHc0aG5GTmVGV1VN?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmRKNU9BRG9YMHhHS19FQWMtaFRoV2d5Q0k2MDE1OGtybkFpcHFYak9keDFPdUpTS2F6QU1uWmltS3E5TFhBdmpzMXI5emQ4LVhOQ2twSWhJTWxtSU45ZjFJNXZBMl9FajVNV3VVRGRhYXlZM1d2dHlPem5MM3RibmdVZ1d6cFpTNVppZTM5RlM1V0JUTEdiN3JhWmFjdw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qNlBlMEZfUW1Md0RaZXE5RzNWYTlsaWhpd2hTazVXVE0zbmdIWGdNcnRVNUg5d2x0em8tMHAzZXg2bHBXMFFLeHVzb1pnR04xeWRHTWxJUjFDQ1ZDLTdKNE1NaHBUQjVnbHNUYlp4dV9zZDZHaVA0VnNYVXE?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bWhOM3licmh0bU5tb0FhUEVmUUNZY2JRUXowZXc2V1BEZjZodGhfblpmT093OEpSY0I3LU5uX3lRTGtfdkY1NEQyVWRBWDlINDlFTDhIUkFrdw?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPam9VbWlrTjJKNldiNVJYUnFkRnYxQWo0eWs5S08ycUVtLWY2aWV1SjdndWhTLUZTMEl4Z05fQTFYR19rZ2piSlFRT2U1NXVITDczNTRENGVXNURtUnZWa0dfU1JzdllpMFQ1SEZMMktpcGhfYUxEbFUyUUZtTC1MY3EwaGlla0V5Slhyb0N1aW9TUUp6RlRBSThBc3NadkE3dGdKWGxRTnUyblMy?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLang3aTRiZjVDQVJ0WmVEXzBNbnBveW1EUmxBM2FkNzQtY0FoX2Q4ZVN3eDZ0dVFMU0R5aTNRZXA0bzk1QldlTlQ1SWgxall3TThmeVNnQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRUh0YWNsTHRscG9WM3ZtaHdMTF95YnJUR1g2TlJuUEpzSmRNYjZwYUc0aXhQaktIdjdLdUo2SEV2eFVMNDBLRlFXYlJyV3ZwNVNWZm42dTJQNjRZRWhZSUhJSmw0SS1sb0l4eWF1T3FHd2NnLTJiX1pFdWZFWTIybkN1Y0pjSmlXQ1dBQmE0cEJza09MOHJaM09RdDlQZ2duOTFoSTlyaklFMlhUOW1ybjdOMUhNT3p4NlVtRWlkcVZVQmRVU3Y5eHVZM1dteVpsdkVzR3dPcEU1WDRkMVVZYlc3YnJaejFwUkttM1JpeV83TjV5?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Kcm9TUjNTRk4tUFUyNV8taV9fMkhhd2V6U3BhMDc1eVpYaWpOZVVLX0VIQVFlTUx5M2Z0QkFZWjRub2xIZmIxRGM4ekpmU2FC?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvN2UxTkQxdEZNZV94UE5JZ3dFbWMySHlYbGoyUXpmRk1MdXVjUm40bVF3aG9vUEc1c3FmbGlVWFdLZDg4MkhTTndTSTVYaWxVa3lIaHdWTGw0c0o2OERmalB4UEkxY3RRbE0tMFVtWVd0SDE1LWc?oc=5",
     "https://www.gov.uk/government/speeches/report-of-the-head-of-osce-mission-in-kosovo-uk-statement-october-2026",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/press-briefing-employment-social-policy-health-and-consumer-affairs-council-employment-and-social-policy-of-19-october-2026/",
@@ -1199,16 +1190,18 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0",
     "https://www.theafricareport.com/434399/exclusive-emmanuel-macron-cancels-planned-visits-to-nigeria-and-senegal/",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnExc2pLRHdNUW96UE1CT1NZdXkyRmxxRGxGbUpfaTJ0dll0NlZ2VHF4WGh1cHdJNzNOXzNsQ0g5WjkzU3ctdDFHZ3pVYzhOUWhmUFNWMVpWaVc3dmJ2NXhuUWpFcWliQldMSEE0VXRsOG1iZmpuS05JNE16Z0o0eXkwaHR6X3NYOXFUY1VYbXJuMW9ZcG5TQzZBOEFGNGdO?oc=5",
-    "http://www.africanews.com/2026/10/23/south-african-author-defends-use-of-ai-to-write-her-books/"
+    "http://www.africanews.com/2026/10/23/south-african-author-defends-use-of-ai-to-write-her-books/",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV0ZBTzZYeEZPODEwRFR2TUpvY2xHSHp4NERXRFdXVUY3MDZadzZvRkw3eUJCd2tzVFdyWlM5V19qRVZFVmt5cXVBMFBYUU05UVh3cS1mczFZbVdwY2pNT0ozYUl5VmR5LUxMSzQ4YmNvSTNYSUVyNlZWSzNmN0FERzQzTEtCZ244TXJpOGduODhTb3dkYUVXTDFDdm9mZ0xSN3c?oc=5",
+    "https://www.middleeasteye.net/opinion/israels-election-deepens-political-exclusion-its-palestinian-citizens",
+    "https://www.middleeasteye.net/news/hundreds-risk-arrest-mass-actions-targeting-us-embassies-over-palestine-action-ban",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFk5My1uMXkyajJXQUhfd0NQdXFKRWdIeElySWVmT2JaZUxkT3Fna21sczZuanVuXzJYeGRkYndvdl9Pb0J3U18xeHMwVHJjZ3RlUi1CaHUxcTNXVkM4SV83S1pXMjAyM3BSQllsWm1qWGJQTUUwTEZEbE1uZXU3RW5rcXpMbzFTa2ttd2xLMVk5Q3BlMHBiZ2YwTzBBcEo1bEhFSFROT0taSzhvRlp5eEVxcGtycTR2cVFHN1licmRFQQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/journalist-heidi-levine-recounts-israeli-settler-attack-and-palestinians",
+    "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/",
+    "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/",
+    "http://www.africanews.com/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom/",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVE95cXFXSTRtdFdzUmpBY1FpZi1xVENIUUN1dXZYdFdQdGVsMHkxSWlLeVAybk53cHVQZHgwRW9QcHd5TzU3NVZqNUNjUVdxU01OcFh4MFBvYkFCLWlqRHhuRVc5d2xiSjlYYXlPbUhWbE9uLTVVbF96eWVLbndsNXNBNVNuc2E0Y3kzcU5EX05JZnFKblRN?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Сомаліленд заперечив досягнення нової угоди щодо повітряного простору з урядом Сомалі",
-      "summary": "Уряд Сомаліланду офіційно заперечив інформацію про досягнення нової угоди щодо управління повітряним простором із федеральним урядом Сомалі. Ця дипломатична розбіжність стосується офіційних переговорів та взаємодії між сторонами щодо контролю над повітряним простором регіону.",
-      "source": "Treaties & Agreements",
-      "publisher": "Hiiraan Online",
-      "published": "2026-10-22T07:33:49+00:00"
-    },
     {
       "title": "Британія заявляє про необхідність поваги до суверенітету України",
       "summary": "Британський делегат Джеймс Форд заявив, що для справжнього діалогу потрібна повага до суверенітету України. У заяві, адресованій ОСЄ, він засудив російські масові удари, наголосив на територіальній цілісності та демократичних виборах України, закликав до діалогу і підкреслив, що діалог можливий лише при повазі до суверенітету.",
@@ -1411,6 +1404,13 @@
       "source": "The Africa Report",
       "publisher": "",
       "published": "2026-10-23T11:57:11+00:00"
+    },
+    {
+      "title": "Кремль анонсував тристоронні переговори з Україною та США в ОАЕ",
+      "summary": "Прес-секретар Кремля Дмитро Пєсков повідомив, що переговори між Росією, Україною та Сполученими Штатами плануються на листопад. За його словами, зустріч має відбутися в Об'єднаних Арабських Еміратах. Це офіційне оголошення щодо майбутніх дипломатичних консультацій між сторонами.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-23T12:42:49+00:00"
     }
   ]
 }

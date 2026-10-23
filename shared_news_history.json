@@ -4,6 +4,7 @@
     "http://africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis",
     "http://africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
+    "http://africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks",
     "https://army-technology.com/news/global-ordinance-sparkz-drone",
     "https://army-technology.com/news/rheinmetall-telford-gun-hall",
     "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
@@ -38,7 +39,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
     "https://middleeasteye.net/live-blog/live-blog-update/null-and-void-egypt-condemns-turkey-libya-maritime-deal-reaffirms-pact",
     "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
-    "https://middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
     "https://middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/bundeswehr-perekydannya-viysk-estonia",
     "https://militarnyi.com/uk/news/data-tsentr-podatkovoyi-u-nyzhnogorodskij",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Держдеп США наказав виїзд персоналу з посольства в Саудівській Аравії",
-      "original_title": "US State Department says departure orders for embassy staff in Saudi Arabia only",
-      "summary": "Держдепартамент США оголосив про наказаний виїзд небезпечних співробітників та їхніх сімей з посольства в Саудівській Аравії через зростаючі атаки хуситів на цивільні аеропорти та інфраструктуру, що спричинили жертви та порушення подорожей. Спікер Томмі Піготт підкреслив пріоритет безпеки та спростував повідомлення про масову евакуацію.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/us-state-department-says-departure-orders-embassy-staff-saudi-arabia",
-      "published": "2026-10-21T20:33:08+00:00"
-    },
     {
       "title": "Єгипет оголосив, що турко-лібійська угода недійсна",
       "original_title": "'Null and void:' Egypt condemns Turkey-Libya maritime deal, reaffirms pact with Greece",
@@ -1641,6 +1631,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas",
       "published": "2026-10-23T12:35:20+00:00"
+    },
+    {
+      "title": "Кремль анонсував тристоронні переговори з Україною та США в ОАЕ",
+      "original_title": "Russia, Ukraine and the US set for November peace talks",
+      "summary": "Прес-секретар Кремля Дмитро Пєсков повідомив, що переговори між Росією, Україною та Сполученими Штатами плануються на листопад. За його словами, зустріч має відбутися в Об'єднаних Арабських Еміратах. Це офіційне оголошення щодо майбутніх дипломатичних консультацій між сторонами.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks",
+      "published": "2026-10-23T12:42:49+00:00"
     },
     {
       "title": "Іран представив ударний дрон Arash‑3 з бойовою частиною до 150 кг",

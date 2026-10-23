@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
     "http://africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis",
     "http://africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court",
     "http://africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks",
@@ -9,8 +8,10 @@
     "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
     "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
+    "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
     "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard",
     "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
+    "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats",
     "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing",
     "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft",
     "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea",
@@ -65,6 +66,7 @@
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
+    "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
     "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
@@ -89,10 +91,8 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHpsWE9aVjNpY3J5OGlEVE5DbzFqRHJTejZlbjAzNG1aNGc5bnVDVmNCc3dtQkh2YnBzUDU3Sk40NTNLMmswQW9aUWdqZjRsdGlnbm5yTHF2RGdueHJOQzZvTFByVXBJNkhZV0Y5ZmRqYVBfWjYtMkMzbjRKMC1QejFnWWlYQ09GWDZWZkV3WlUtUG80ZlZuYmRCUkc0emp2YmZFeGN6SzBSVVJ3SnFwZjcxQS1oeGRoTmZsNnhWNTdzdnUwV3M1SWJOV3Y5QzBXU19LMA",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDIwN2tVNnBSZDFJd2w4M1ZJRjFFMGxBX1RFb19kZkJUdDRFeUlnMGlUdklFTUFEQlo3dnZmWDNaNkpLVmFxUVhYOFl0WjZ3MVB0OHZTVnc5S3gwN0RIRlpSc1FTZXBzTGhnV0JXOVc1TGE2NFFIcnJ4anZ4TXR6RUdNVmEyZmtpM0hEMVVGVlItVTNjd29qYkN1d2RhektTWjBJMUZyNjdydFNpZm9LdXN2SDJ6THZsdFppeUd6SGZ1YUZNV08xTl92VHdDZXFKU2dpWk9RTQ",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW1ORWxJUy0wMmVXWDhGb2dMd1R3NFRLRDh4aVRhcDFaejNkS3VUVDBRczVhUHVZZzFKVmgtR0VscGVpUHk3WnBlczdZa0RleU9mZHVNS0NrY0ZYOG5PdUVDc3lZUXBKSkVibmhITnhuSGlaMWh3U09qNFZfSmtjWXBxckY5ZXRucVNLN0g2LUNpY1Viem50cHZSWVJ0NEV4TzBWdGhyaDZ1c2hiTFRxcGI5cmNDRkFKbEkydXhZamFQXzFmRURNYUl6Y1k0M3N4Uml1dmFoaVo4U1owZkFmdWoxUnZoRjdDQWlick5R",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLOWJuSlR2U2g3YkxyZlA2N2NRSlNNT3dwNkdNZnBQSGlLTHdqQ3Jna3JrV19jVjVSMkVGeDBXNUVma05lZVhfQ0EzMm41Q3JhejV2NGFORU5yV1E",
@@ -119,7 +119,6 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGdUc1k5SmlFQ2hrWV9RV1hZdS1aSU50RmZnU1lYTnUwMi1SYVM2aWZWRnNwRzJWa1hSZ0hWNDBxcy1vVTFUVUw3M0YwZ0xJOEp0RjlaOWI4Ry11MU9NVDJTSGtCMjVOSXZaRG9XbFN5TnZmM1ZCZUxkTWRvUnhQMVd3Yi1zVkdYUl9JdmN3Zkl3VDA2cE81MVBHSVVzY05NUkRteUNjRFJSWl9qbVgw",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0lUTWZYdERMNDQ5RHo1d2FtMTRqWEZDYUVUS1ZpeU4zRkpGVkEwLUowb05jS0xmbFBBamU0WndRcUVhbmNBb0R4Z1RCVUFKd3QzSHZqblFjNXhWeUp5Qm1aZ0hsa29ZVnpUVFhBTXdlQ0JMMEtfMDZpQVlkWlFseEdvTVZSa1lqamhvcjFpYnZDdkhJdlpqYW5VUDFJVlhIQTN6cjdIUGhOdEd0amtFd1ZxWGQ",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVY0bnBzbkRXSWtmTjR1amZSRlZCVFVUT1pzZVlmZ3NBLWpJa0VBZjFhMXlQdXh3LXY0ZE1Dbnc2LTVaSTc0RzF5S3o4ckFyTE42elVocTZOWTBBTVpza3dMckx0N2ZtYUZvYXR1b1UwaUItd1l4MllUYk5zX0RoZlh4bzFFZmQzWkxRWDlWWVZ4b042ajF0ZXVlX180eGtDMnk3Y1h5Sm5pdkl5RVk4ZlhtTnk",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXpQck1UTm5pRnFnQ1haQ0ttLUFuTTZRYlNTSDRqenZCckdOSTJKZHdBUGw3NmFKdV9ldVpGZldSR0Y3UUZPQ1FWT3ZnemdTZXhNOURSeGFfSndyamFWa25IWVBpUHVpVnlIWFlxTkJSbmJLSWp3WGlvZGtrWWo5SzZrUUkwWWhKZVFFN1BOX0p4WU9lMW1QSmhpLXhZNmUyeTlrZE9fTVRzakgwR3dmZXBrNHRHdw",
@@ -149,49 +148,10 @@
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
+    "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "ЄС шукає переговорника з Путіним, розглядаючи кандидатуру Александера Стубба",
-      "original_title": "EU looks for someone to lead talks with Putin, with Finnish President Alexander Stubb among candidates, Politico reports - Meduza",
-      "summary": "Європейський Союз розглядає кандидатури на посаду очільника переговорів з російським президентом Володимиром Путіним, серед яких називають президента Фінляндії Александера Стубба. Повідомлення базується на даних видання Politico та описує поточний процес пошуку дипломатичного представника для комунікації з РФ.",
-      "source": "Bilateral Meetings",
-      "publisher": "Meduza",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
-      "published": "2026-10-22T08:04:00+00:00"
-    },
-    {
-      "title": "Бельгія засудила створення колишнім лідером ДР Конго політично-військової групи",
-      "original_title": "'Deplorable': Belgium condemns ex-DRC leader Kabila's launch of political-military group",
-      "summary": "Бельгія офіційно засудила рішення колишнього президента Демократичної Республіки Конго Жозефа Кабіли створити новий політично-військовий рух, назвавши цей крок неприйнятним та незрозумілим через десять днів після оголошення ініціативи.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/10/22/deplorable-belgium-condemns-ex-drc-leader-kabilas-launch-of-political-military-group",
-      "published": "2026-10-22T08:08:01+00:00"
-    },
-    {
-      "title": "Банк Кореї зберіг ставку, але натякнув на посилення",
-      "original_title": "BOK holds rate steady, signals further tightening as inflation rises and growth strengthens - Korea JoongAng Daily",
-      "summary": "Банк Кореї залишив базову ставку без змін, проте дав сигнал про можливе подальше посилення політики. За заголовком, причини такі: інфляція зростає, а економічне зростання прискорюється. Конкретних значень ставки, інфляції та ВВП у наданому тексті немає, тому оцінити масштаб майбутнього посилення неможливо. Макрофінансовий наслідок: ринки можуть закладати вищі ставки в Кореї, що підтримує жорсткіші фінансові умови в регіоні.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "Korea JoongAng Daily",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
-      "published": "2026-10-22T08:17:00+00:00"
-    },
-    {
-      "title": "Batumi Port Cargo Up 13% Amid Middle Corridor Growth",
-      "original_title": "Batumi Port Cargo Throughput Surges 13 Percent as Middle Corridor Trade Expands - https://streamlinefeed.co.ke/",
-      "summary": "У період останніх місяців вантажообіг у грузинському порту Батуми зріс на 13 % у зв’язку з активізацією торгівлі по Середньому коридору. Збільшення обсягів підвищує пропускну здатність трансконтинентального маршруту, що сприяє швидшому переміщенню товарів між Європою та Азією. Це може посилити надходження іноземної валюти в Грузію та підвищити привабливість інвестицій у логістичну інфраструктуру, зменшуючи залежність від альтернативних морських шляхів.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "https://streamlinefeed.co.ke/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw",
-      "published": "2026-10-22T08:22:40+00:00"
-    },
     {
       "title": "MSI Defense інтегрує системи LIONFISH 20 на катери USCG для грецької флоту",
       "original_title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
@@ -1593,6 +1553,16 @@
       "published": "2026-10-23T18:55:12+00:00"
     },
     {
+      "title": "Київ розглядає купівлю «суверенних» супутників зв'язку від ICEYE та Nokia",
+      "original_title": "Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats",
+      "summary": "Міноборони України підписало лист про наміри з фінськими ICEYE і Nokia щодо розробки «суверенних» broadband-супутників зв'язку на низькій навколоземній орбіті. Це лише вираження зацікавленості, а не замовлення: за задумом компаній, замовник отримує у власність і під контроль супутники, наземний сегмент і термінали, ICEYE постачає платформу, Nokia — захищені мережеві технології, а перший запуск планується на 2028 рік. Для України це потенційна альтернатива Starlink/Starshield, яка зменшить залежність від рішень іноземних компаній та політичних ризиків, зокрема для дронових операцій. Проте реаль",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats",
+      "published": "2026-10-23T19:07:34+00:00"
+    },
+    {
       "title": "Військові США потребують термінових революційних інституційних змін для підготовки до сучасної війни — сказав Петраус",
       "original_title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
       "summary": "Колишній генерал Дейвід Петраус зазначив, що безпілотні системи вже забезпечують понад 90% втрат російської армії на фронті, проте НАТО, зокрема США, ще не здійснили необхідної інституційної реформи. Він закликав створити нову концепцію війни, що охоплює структуру сил, підготовку, закупівлі та бази, і прискорити впровадження автономних безпілотних озброєнь. За його словами, без таких змін США ризикують залишитися неготовими до майбутніх конфліктів, де домінуватимуть безпілотники.",
@@ -1643,6 +1613,26 @@
       "published": "2026-10-23T20:41:31+00:00"
     },
     {
+      "title": "GDIT призначила Емі Джонсон новою президенткою після звільнення Емі Гілліленд",
+      "original_title": "GDIT announces Amy Johnson as new president",
+      "summary": "Джонсон має 27 років досвіду в General Dynamics Mission Systems, востаннє очолювала напрям «Космос, кібер та розвідка» і працювала з кібербезпекою, оборонною електронікою, космічними та розвідувальними системами. Вона обійме посаду 3 листопада, а до цього обов'язки виконує Пол Недзбала. GDIT — один з великих федеральних ІТ-підрядників, що постачає кібер-, програмні та мережеві рішення для військових і цивільних відомств, зокрема захищений зв'язок і моніторинг загроз для мереж. Це кадрове рішення, а не технологічна новина, тому прямого впливу на бойові можливості немає. Водночас напрям підрозді",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
+      "published": "2026-10-23T21:11:04+00:00"
+    },
+    {
+      "title": "На межі епічної гніву: раунд два",
+      "original_title": "On The Brink Of Epic Fury Round Two?",
+      "summary": "Амбасадор США в Туреччині Том Баррак заявив, що США можуть здійснити удар по Ірану вже у вихідні, що підштовхнуло очікування про новий етап конфлікту. Паралельно ізраїльські винищувачі виконували симуляційні рейси над Іраком, демонструючи можливі тактичні сценарії. Якщо удар відбудеться, це може змінити баланс сил у регіоні, підвищивши ризик широкомасштабної війни.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
+      "published": "2026-10-23T21:19:53+00:00"
+    },
+    {
       "title": "Єгипет, Саудівська Аравія, Туреччина, Пакистан заявили про інстабільність через ізраїльську окупацію",
       "original_title": "Israeli occupation ‘main source of instability’ in region: Egypt, Turkey, Saudi Arabia and Pakistan say",
       "summary": "Єгипет, Саудівська Аравія, Туреччина та Пакистан оголосили у спільному заяві, що ізраїльська окупація є головним джерелом нестабільності в регіоні. Зустріч відбулася в Стамбулі, вони закликали до швидкої реалізації двостанної рішення, підтримуючи палестинську державу на межах до 1967 року з Східним Єрусалимом як столицею.",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
       "published": "2026-10-23T21:21:42+00:00"
+    },
+    {
+      "title": "Адаптовано ракету Rusty Dagger Block 40 для наземного запуску",
+      "original_title": "Ракету Rusty Dagger, розроблену для України, адаптували для наземного запуску",
+      "summary": "У новій модифікації Block 40 малогабаритну крилату ракету Rusty Dagger, спочатку розроблену для авіаційного запуску, оснастили твердопаливним стартовим прискорювачем, що дозволяє запуск з наземних та морських платформ. Вона зберігає можливість авіаційного запуску і може нести бойові частини масою 45–113 кг, хоча максимальна дальність наземної конфігурації ще не розкрита. Це розширює арсенал США та України, забезпечуючи дешеві масштабовані протикорабельні засоби у рамках програми CHAOS.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
+      "published": "2026-10-23T21:30:50+00:00"
     }
   ]
 }

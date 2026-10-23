@@ -22,7 +22,6 @@
     "https://defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
     "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
     "https://defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
-    "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
@@ -82,6 +81,7 @@
     "https://navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ0tPUzR2eHVFZFdNVXlsdlNVZTBIdW5QZUFJczhqQ0E4VEJJbktfVC10bGVhVkFpTm5tRTExdUNEZmNsMGxoMzY3c0JrRUhyVWhaOWFFV3pTc2lqdUtzYi03WnhyTnhUeXY3QXZIal9tcVZ2R0djWnVvQnVLeEt5bHE1NmZZbTJ5a1ltOUhwVUVmTldYcU8yWlBYc0JKZVhzeVBqd0JvYUlMc2txaVJsZ1RSN1BBWUZJci15LUthOW1oOTRoMjFuekpYTjhSY2IyVndTcWNuVmV1YVNDcUhsSTRsNjluZUpzNU1DNUl2Y0t6SWsyRmlzcw",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWlpVa1RRVjNXbG5Jem1iWVJ4SzEzNlJmZ1dEUFg1S09oOFpyNk9GMHFmQjJxLXFyRHVfS1pPYXFvMHdXQTNIYzFGY3psREtmX3Y5SzB1aDNPN1J4cEVHdTAxaDF3akNFelBuS240ZEZ6ZVkwcHkwUmhYeE9PY2tTQk9LQzBHMmszSVFrdXJoUUdUcnFKREQ0LUxxc3NLYVlxSUNxQW5zZ2d3TGRLbEVCTTVnNEVTMDBNbHZ6bHU5ZU9rRmVWUVNMSnFfUG1ZZjRJVVE",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTNIQkhfbFVBUGlJRm9TX0Y0Y1ZRajluZzNLcFJxb2UyZ29XLVBsX2JGSmRyT3R0bTAxbmRBVzM0QWRyV1FZYk9uZy11eGRoVTd6STg4T292V0JaVDdRRDhpSFdGQVpOQXQyT0FZRlhqQlZmS2JmVjRpOHJMSlY4SUVXdzhmR2RlOElrYmcxM1VrWV83TGxBOEJOcWJqR0dJQzBxYndkV3RPWnVWN2xIb21TbzB2Yjh2LXFQUnVIRGFuREE1TFRjQ05BM3pkOWtsaEE",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3VfSmttLWRPWFhxLXhvTmhURzcteDFaYkJxbFV4SFdXRTQ0NFBRZXNCdUFnLUhodVdEeUVZelhYWmhFdTJWa3MzZGZPN01LNFpEVERsRVFvekdrU25GcGdyM01xUFRxdlpPZEJDY0V3R2hZSFFsX2p4eDV6WWZNTVdxWlNueHo5NHM3aW01eEZhc1JNQTFlSzFfTUU1M040QURxQkhmZUpRYlNfQzhSbXl5TDFtRnJUcFdBU0JNcUIxTVE4U3dGWkVJb29RTnJnVnRtVGNn",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDIwN2tVNnBSZDFJd2w4M1ZJRjFFMGxBX1RFb19kZkJUdDRFeUlnMGlUdklFTUFEQlo3dnZmWDNaNkpLVmFxUVhYOFl0WjZ3MVB0OHZTVnc5S3gwN0RIRlpSc1FTZXBzTGhnV0JXOVc1TGE2NFFIcnJ4anZ4TXR6RUdNVmEyZmtpM0hEMVVGVlItVTNjd29qYkN1d2RhektTWjBJMUZyNjdydFNpZm9LdXN2SDJ6THZsdFppeUd6SGZ1YUZNV08xTl92VHdDZXFKU2dpWk9RTQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Терміни розгортання NGC2 в армії США залежать від фінансування, заявив командувач I корпусу",
-      "original_title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
-      "summary": "Генерал-лейтенант Метт Макфарлейн заявив, що розгортання системи NGC2 у I корпусі до кінця 2027 фінансового року залежить від ресурсів, які надасть армія. Платформа має об'єднати в одній мережі сенсори, зброю та застосунки з різних підрозділів і працювати на великих відстанях, зокрема в умовах радіоелектронного придушення зв'язку. Anduril нещодавно отримала контракт на суму до $1,8 млрд на розвиток спільної бази даних NGC2, а запит на НДДКР і масштабування системи у бюджеті 2027 фінансового року становить $904 млн. Затримка ухвалення NDAA в Сенаті робить терміни невизначеними.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
-      "published": "2026-10-21T13:59:36+00:00"
-    },
     {
       "title": "Оборонні гіганти шукають одного науковця-дослідника на кожні 1,4 вакансії розробників",
       "original_title": "Defense primes advertising one research-scientist role for every 1.4 developer roles",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXJLSEg2VV9uMHR1QUpzMmY3OEo2TzNqN3pYZUlRQnZRZWswUGJfYUxSUHpEaDkybmlyTEZVZDM0YWhab05PSW1OU1U3cXZTWmJ0aWxqMUZMWS1sV2JheVR3a05mMXFWMDFsSXBsNFVEZGhOSE50WC1iLUhRbURIYTVBN3RQc2Y0MlhQTVcyaExkUXlKMnZScFc4NThZNXJOSUpjbDh3",
       "published": "2026-10-23T00:11:57+00:00"
+    },
+    {
+      "title": "Австралія та Тимор-Леште підписали угоду про кібербезпеку",
+      "original_title": "Australia to strengthen neighbour's cyber security under new Timor-Leste agreement - Cyber Daily",
+      "summary": "Австралія та Тимор-Леште уклали нову угоду, спрямовану на посилення кібербезпеки сусідньої держави. Цей дипломатичний крок передбачає конкретну співпрацю у сфері захисту цифрової інфраструктури. Документ підтверджує офіційну взаємодію між урядами двох країн щодо безпекових питань.",
+      "source": "Treaties & Agreements",
+      "publisher": "Cyber Daily",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTNIQkhfbFVBUGlJRm9TX0Y0Y1ZRajluZzNLcFJxb2UyZ29XLVBsX2JGSmRyT3R0bTAxbmRBVzM0QWRyV1FZYk9uZy11eGRoVTd6STg4T292V0JaVDdRRDhpSFdGQVpOQXQyT0FZRlhqQlZmS2JmVjRpOHJMSlY4SUVXdzhmR2RlOElrYmcxM1VrWV83TGxBOEJOcWJqR0dJQzBxYndkV3RPWnVWN2xIb21TbzB2Yjh2LXFQUnVIRGFuREE1TFRjQ05BM3pkOWtsaEE",
+      "published": "2026-10-23T01:37:07+00:00"
     }
   ]
 }

@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlJiU3JjMWdzZWo3WWp3SzFwQTF3eHRyWm1YOE5fcTF2M0hvOXd6YzhTYlFlWFREb3pjMGJIZGtsd0RqQ1JYdDcteDZhVndRd3NxdmFqTlN5cHFnWDlOMjVlOXBMMEp1eUI2OGl2dlhxajNZdC1ZVy1wNWFtNFdQQWtzNmE5OXQ5Q05GWHFyaXdDSFlDR3FtY3lJamFfbF9VUjM5eXZPZmJtdHlNaTFIMWhB?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDUtQWN3MXZaaFhfblpPYzRPNUdzOFg0dVU2N2RaVVM1SnJSbjlodWlnYVdPTFBpNlBZeTVWRktGXzAzZm5VZVFIUHVmWUNxMFlHVm9sZFdmUlFmYnUwYjZObU5pN1lOVHRjQkluell2MVU1dU5WVmwwbEJWRFdCaC15ekJESlNYaG9hV243Wi1hRUhzUUc5Ui1ENkJlbFJILWF0TXdsOHhCVEV0cTJpTDl5V0FuaFNFalJuZNIBwgFBVV95cUxOd2RrVmg1X2NrSEkwVGtkOVJrMFRKVl82UmFNaHBYUkxONGRzQWEySDVnVjRCcEtEczhBVmlHWEpRcUVUYVZ0a2V1YU9UMmQxWjJyT2dnOU1aN3l6cW41ajR4dHBjNGNZVmpRd3BKWXZPVnRkUVhFelFjWGFlUmlFSWtwSUxoZFdYano1ek5BS3hIeV9sU0ZWQy1vcGZuOHlRMnR0Tl84OGZuQm02N2VwSkJzYTFIS1VrazJCck15Vld6UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTSGJtVUNSMjh4bVZSX28xQ0ItSlVjdXhkaGI0T1ZaOVNlOVZSS2tfU2VrUHIwMThodm5XVVQ4YmkxUUUzQkhlV2htXzJCNklMQVZnbEkxeU0?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVOEh0eHhIODhEQWwyM2RlN3hpeTRBdm9wWTVjTXFfRWxBcktqZ0EyTmQzZUtwOFBKanc1UjNnNUVuSDRXcDhhNW9qMUJIcWFwVlBGc1dPYXZMdw?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1ppcWRZbjNOUk5HZ2tndFMtU0c0YVBkMmJCVUlWdjJaU2FvOWVTdVVjdnB1alBMOGFFQ21fcGlzOHpzMVZhellqa2NZOERWNU9acE9UeHVVcHFIQk9kd21EVXVxOTA5VE1rcGU4d0htNEd2NHdMQ3VPTWNZaC1lRFZZV2I2a3dkNktUVjBZWkFfdFFzblZweDdmbXVDaFM2NWU4X1F5SGpRMk82dFJYSEV4dWNVSFI5clpVYdIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmk3OXJoNWxmdHhrQm5sUlRnYVg0OWNFb1hMTlV6bHotbjZCVzRVUW5kY2JsSVRaQzVjLThEQTNOa0k2b055bFFRMXJfMHN2RzhHWGUtZlV3dlVuSWJPbDI3eXh2bUN4SEYxcS1lWmJtMTRYVWpYdVRDLWZmeE1YblNSQjhWdVVFaUxoXzFraWJZdXBRRzc2blN5RUE2elc4Snc?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xUDNwSFh0eU5pUEtXbGljRklnNGxQbUlibWQ5LWlTYWRnRDRsM2NGMV9yeE1CUDdQRWR2S0dTc0FpZ2pRMk1QZHo2Z0dEdUFFRUVteW5UaGE3aUdCaHFQeEZIVm13aXBZNUhyT2o5U1M3OHZKX0hNQmlUdw?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUx4ZXo1OXJ3UDh3a3JLUUxaYUZkcGN0Mk1VQWpoUmtaZzNkRVVSM1I4Z2J3dF81bGtXU01NanlyN3JtaFVuVDh2THA1N3BHOGFlVUZjSk9OVVFsMzNERnlGa3RHYzc4Q3RPdWRNWHpUR3ZETDA3d2ZHZjV1V0FjRkg2cTlPcEtpOHZCWE5wdjU4d21PQlhaSlc2am5QY1VJ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelBUejh6dUhhWUZNNG92Q2xGUzZCY2oyZFVEc2Y5dUdXZm5OUzJqajZHTGVtTUJ6d1M3dWxfLUJuZnZQbWgzRmk0d0p0Q1pYcEY1akl3enZsRXdJQ0R5TlRPdjNrMElrVl9iQ1pBOFF4RHlzc2JqWkROTzdPdTlZWkRPZk9KeDM5QWlsMnRDYVJCVXJIUmFLT2ptd09FamJ4REdQM1NmVnI3U2ZYTDZCTEZTd3JJT0M1MkdkM1NaaTRJdUNNQXJra0FGNEg0dVhlck5iOFpn?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlQ2RGtKVnJLVUhpZzdsdXhCRndERExTY2wtUk1kdFhITFAyMVFfQ1RPa1RweUdUWldPWlpCVU1Gc2VYS2hjNHBrQUdyaEZQQ0d4VzNpOGEtU1UwVkVIeE40SkRDTEl4R25EODlQX2VqMzhmcUN6MFRCUm8tcXdJUGUycmZhSkdDN0Zmdk12UElOZUlYMzdidHVCX29CZEdWSUVrZ1BTaXBPRUVzZi1aRVQtZnVHY0JUXzZMbFU3a1JpR3dPTzY5NlJ5Z1FSMk5MNmfSAd8BQVVfeXFMT293OXNvSUI4NERmcHA3YzUyQ21lMUozSG1GYmFpWk83ei1pNEpFcjRta3dDdC1udDNET3lPLW1DLVUwcGVGQjZodlZsME5tbVM2VDRkYTV0LTBQcDg2WnlqN083Y1cyWUNjUWFjOERqQWt4ekEwV1otWU9fc1YyZ3phNXFGSTdTNTl1eTNFakhOa2lBam9sV0pXLW9aTTBXT211ODN6YXBUblh0VERnRFZmSWpESFEzaENFbUVvNnU3Q1VhQU5aWjJFVHdFcEtvVGQtTHQ4TzJaRUt0STVVUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS01ubU5GRllsU1lVcGE5RndvNktlZVRULWp1MkhKR0hXd2ZfNDlkSjlSbXV1M0E5em9xZnhDakQyWk10TV9nZVFiMlRoR09JVGVGSEYzYjR0TFZkanZXNzkwUEFuUXpYR0JubHcyZkdzWW9CT1lnSDRkRzh4UG1FRmJiWmFOUGdpZ091SDBhQ0QzZUVMZGVCYVo2ZzNqMEpPY0MyVnFhX2hYcVd4TERIUVF4VTgxOXFqUUtCVzI5eENqbW1hNnRVdjUyeVF0c1l4V3ZrTHVuZ05PaXRIM0NhMFBRWDEyS1dHRkVGbkpxNA?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFRwX1NncXhXQy00Q09YNGlCOXdxSDZxbm9wZ2hTNzJUZ01FUVROYVEwT3dPU09ETE16MFlLRUdCZU04OXpOZUlFT1VoUTZBbGxqVEhCQ0NKTFZVTnlBb2ZyeW9lTUtIbXpYRnJUUFhHT1VQWlVscGtTd1NmRk5yRVRMVmwtdGZjRzUyQ2RNVjBJWUNBaDNJcjJ2Q1BEcjhrZVo5LWRjLXpSTzRW0gGyAUFVX3lxTE1ReWJ4bHhBUE1fM3dPRTh1Wk5XMkl6UVR4amxSbmFrMnlXNHRIeGhBd25xUG9GUDhlOUU3c1VlX2VmOTZtMnVreWlFaFBNSkMzbkl4bVI2NUtBRmt2WG9rQ2JsVzlzUHEyNU93SG83aUJ2ZE9mX0JjVTFzNE4zM3pjOWJkdHVRS19LVjhjdmhVN1p3ZnBPVE4yOE90dVhfTklhSlpYeDR5OWdMZzEzcmpRZ1E?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1hhQzZ2Ml95aXlLSk9LeHhFWGJkVjl1dVc1NWR3RTRNOE9Rel9NS0IzY19QaG9mX2RMdUZrVHZKN0RQZFB6a1g3QjZ1azVxbUxYY3QyaTZQTzNLMk9fa3BtZkRveWdVVHJmNVY4WWFwcWRXT0hhZ2N3ZzAyeUZHVXpLTnhYcVBIYkZEMUEtbE5jOGJLa3B4a2hocjRtQ1gyR3lZ0gGoAUFVX3lxTE9hTTBrVU9PSUg4SnNHZldIQXE4T1g3aXJBU1BVYjBYTUVNaUd1N2ZudFc3ekw5SUxUSjF2aEFKN1FSVUVOWFJlVlV5aEIza01EWENUR2VmQnlGbkc2UnNrZHRDbEx5RkNTTVVvVktHZ2dBUi10dnBmdjRxZmowa1laMTdSVzE3d3p4T1ZpS0ZCS1kxY0VCczg2MTEzZ0dRM20zYnBpS25hUQ?oc=5",
@@ -1199,16 +1189,19 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGt1VmU3T3Z5X2FvbjRHNVVRNzVVZE13TVZMWkJ2dzhjZzgwdUVFNVVjTS1IN2FuaV94UlU0X1ViZkxVS1F1aXd3NUFMMV9JQ2dpWm82X3B4cUFYYk1Yc2Y1YUFCMTYydElTY3g5QU5vd1Ytd2hJZXNZdWF4TW1NYnQ1amdqWGFsWk9BYnNmTlRIU3RSWDBSZ1B5STFfbEVBNFhHQWJZYTUyQ3pS?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rZ0VNcVA4VmV0THZKc0VrS2VtMXNaRHFBdEJFTTNWSkVna1AtenJtdkQ3LVFJREkxd0tZNi1PVGF0OC1TVDJHRXdCTzBucFNlZ0YzY2VvNVpwZU5Wbm4tQXgzdHFPekIxbE1KRDktUlh2Y1VlNTItSlR3?oc=5",
     "http://www.africanews.com/2026/10/23/south-africa-dwindling-support-for-anc-amid-service-delivery-chaos/",
-    "http://www.africanews.com/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses/"
+    "http://www.africanews.com/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/",
+    "https://www.middleeasteye.net/news/antisemitism-reviewer-david-bell-called-muslim-schools-potential-threat-uks-coherence",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSVVQU1Bnb1BORVNzN1FmOFNlajVKMFJMa2lWa0hrS2J0Y256NVhLREhfdi0tYlViU3loclBtZWtjT09SMUNBTGlpM0owRGYwV2VkOV9fazhSbUR4QlprSjlpZ25BdndMMW5td21ReGJaWWFPRW1xSGFkazloM2ZSUm84QjdOeFNDZ3IxbURBWWstb3JFZkR1MTlyVy1DMVFCQkZheG4xWDR5MV9tWkxxSXJuMWtFZ0RJcElwWnN6aVJsR2p1T3BIQllkeDBIdFFNbDZSc0toc19NX0lNQTRYbVBYby1WdWs?oc=5",
+    "https://www.middleeasteye.net/news/israel-election-2026-netanyahu-may-be-weak-right-wing-remains-strong-ever",
+    "http://www.africanews.com/2026/10/23/south-africas-bilateral-trade-with-china-surges-after-zero-tariff-deal/",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc2tWMS1DZDJYdWF4UXFBRFI3ZWgwRjBfanE4N3VfNG9LQmFVc1lvakQtRjRNdk9HWlZKcXVwVndqTnZoV1oxLVk2S0VoLUtxNExRazJoQ2Q1WldKZXJxRVZpdmlQZHZwYUFKQV9TbUtuOWR0Y05UZ3dmYlFBakVTa0wyUS1kaHRSQ0gtMzk3VjJxdmZqOEV0YWRGRDJPWXFRbC02RGFsZVRVVERLRWwtSFVRaXdqME1kelB1Q2FObHBpMm9OeVU3c3UyY1ZlSkR3VEY5cw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUxHZ0FFVHdSQktkdC1PZkNfdWlzMF9xelhXRGtUMFg5Y3ZEYXpOcGUzOGpQRjVuTnJJZjRNN3ZTQTNhTzlwRkk5ZnF1V3YxYVFuNGFCS1ZzNW1yNV9iYzFaSWV0enJOd05CNl9obEV4bmtmdVBaSTZBazBfdHhHYlBzelZlcEVBbUt5dlA4LXNnbDh0REppS05DV05ITjN5T29ISkROYnJVZk41RFU0cXV0cmpoMFBENlBRc0VR?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RN052ZlVMb2stQ3Z5Z0MyN0FoZDhaU3hfOExiNHB3amswSFBLMXc3bWhMdEJwY2J5S1o0SlMtX19rb212am1sSWxMWUM3dnNqaFZ5QUJ0MElxQzhZMFI2WmE0dEJ6M09hTUl3Mm1SdUZVX3B0QTBr?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "ОАЕ номінували Лану Нуссеїбех на пост генсека ООН",
-      "summary": "Президент ОАЕ Мохаммед бен Зайєд офіційно подав кандидатуру колишньої посла Лани Нуссеїбех на пост генерального секретаря ООН. Вона залишила посаду міністра закордонних справ для участі в перегонах. Кандидатуру вже критикують через зовнішню політику ОАЕ щодо Судану та Ізраїлю.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-22T12:01:07+00:00"
-    },
     {
       "title": "Карні та Ердоган домовилися про енергетичну та оборонну співпрацю",
       "summary": "Прем'єр-міністр Канади Марк Карні та президент Туреччини Реджеп Тайіп Ердоган провели двосторонні переговори. Сторони домовилися про партнерство у сферах енергетики та оборони. Також лідери запланували проведення переговорів щодо торгівлі. У тексті джерела відсутні конкретні цифри, строки реалізації угод або деталі підписаних документів.",
@@ -1411,6 +1404,13 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-10-23T15:00:40+00:00"
+    },
+    {
+      "title": "Італія вимагає звільнення п'яти активісток, затриманих Ізраїлом",
+      "summary": "Італійський міністр закордонних справ Антоніо Таджані закликав до негайного звільнення п'яти італійських активісток, затриманих ізраїльськими військами у Кір'ят-Арба, щоб вони захищали палестинських фермерів під час оливкової збірки. Міністр заявив, що дії є неприпустимими, і очікує звільнення протягом кількох годин.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-23T16:04:40+00:00"
     }
   ]
 }

@@ -24,13 +24,13 @@
     "https://defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
     "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
     "https://defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
+    "https://defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time",
+    "https://defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
     "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
-    "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
-    "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
     "https://defensescoop.com/2026/10/22/hegseth-memo-gambling-prediction-markets",
     "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
     "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
@@ -69,6 +69,8 @@
     "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
     "https://militarnyi.com/uk/news/v-ukrayinu-povernuly-tila-252-zahysnykiv",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
+    "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
+    "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
     "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
     "https://navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy",
     "https://navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs",
@@ -97,10 +99,8 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHVOT2hIRnktTFJvRGtxa2dLd0prd1Fvcy1sNkwtYXdJVlNaVW45Yks1MFlPS2VJek1vRUxqa0NWMmxlYkV2Y2RkeDRoQ1g4TTc2RTRhRTJ6QXpNVDlJZEdPQnJsUlRFMzVfZVhyNGd2VzJ4YWxRdHY5WEw1X2ZQVTVhR2hUX2k3c3RPMUU0dnZPQXZPNmc0dXFEMVQ1NnNVc2F3elRaWTI2OTRoWmZHYTQyMDRlZmEtNmpiX2Rxa0Q5RGFFZ1FjdEZ1MWVEekpzMk9mR1Q1UVExUm4wb21BQ184VEdjdU9CQUpKSEVkQWxRMXNRWFVodFlzZWVFT0ZXRkE",
-    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0g4WUM0RU40WWh2V3N6dXY5UTlqdnJGSzBjbGZJRURLLXA2MHZWVFR2cEFYSGE1ckRDY0tMazBPVXZoM3hDN3VoRlpiT2EzTW96TXJaRHpvQ2Q5c3plSTZUbjhZZFZXT3pZaFZUQW5QamM5bnBPcTJTY2RQQ2YyRG9YXzNUeXE5QjY2VEUyZEdZaDZDdDZ0VQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVG9mN1lKc3hJakRfbVlKZHdldV9UaUFUVmZZQ1NPSkFkTWQxNHNhRjEzTzJpNmFGZllWd0NUR2V4VFB0ZWlwcmNveFB5emhTdUppUTF1UkozLWNEWTB2VGRxYi1LeEo5ZTZiTGxIbjQ4c0ZwZG00NmJNNFZ0cDFRRmRYQ1ZMX1BKSzk2UjJNdWQwYjJFbi1hQ2lfOA",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Нова Зеландія розглядає позов у СОТ щодо канадських молочних субсидій",
-      "original_title": "New Zealand Weighs WTO Action Against Canadian Dairy Subsidies - https://en.edairynews.com/",
-      "summary": "Нова Зеландія розглядає можливість звернутися до СОТ проти канадських субсидій у молочному секторі. У матеріалі є лише заголовок, тож цифр, обсягів субсидій, термінів і формального рішення немає. Якщо Веллінгтон розпочне процедуру, це збільшить торговельну напруженість між двома країнами та ризики для доступу молочної продукції на канадський ринок. Масштаб впливу на торгівлю й ціни наразі оцінити неможливо через брак даних.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "https://en.edairynews.com/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzdZMzhHYXVxZ25NTVNOc2tDTDhJeFRmc2Z5Zk5DNU5YWkszVFgwLTFiVmxtY0tLZWw2Z2oxZHFCYUw1Y2VwWUczaGZsUjZnZGstM2JwLVZmSVczYm9QWEsyVGxmcmJhNjRyemRHSVZhYmRPVVh6YmRyRElmXzFkZkh5bEhDVjliZXF4VXlzMVoyems",
-      "published": "2026-10-21T21:10:41+00:00"
-    },
-    {
-      "title": "ЄС: Рада та Парламент погодили план відновлення ринку секьюритизації",
-      "original_title": "Savings and investments union: Council and Parliament strike deal to revitalise the EU’s securitisation market - Consilium.europa.eu",
-      "summary": "Європейська Рада та Європейський Парламент погодили спільний план, що спрямований на відновлення ринку секьюритизації. У договорі визначено нові правила, що спрощують процедури, та встановлено строки впровадження. Мета – збільшити ліквідність та залучити інвестиції до ЄС.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
-      "published": "2026-10-21T21:18:10+00:00"
-    },
-    {
-      "title": "Колишні американські чиновники закликають Д.C. Circuit переглянути рішення щодо конфлікту Anthropic-Пентагон",
-      "original_title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
-      "summary": "Семнадцять колишніх високопосадовців національної безпеки подали юридичну заяву, закликаючи Д.C. Circuit переглянути рішення Пентагону про визнання Anthropic ризиком у ланцюжку постачання. Рішення може обмежити доступ оборонних підрядників до AI‑моделей Claude, що використовувалися у секретних мережах. Судовий процес визначить, чи буде можливим використання комерційних AI у військових цілях без обмежень.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
-      "published": "2026-10-21T22:17:26+00:00"
-    },
-    {
-      "title": "Лідери армійських спецсил бачать перспективи та великий попит на нову посаду техніка‑інтегратора робототехніки",
-      "original_title": "Army Special Forces leaders see promise, high demand for new robotics technician integrator job",
-      "summary": "У жовтні 2024 року армія випустила перший плід робототехнічних вартових офіцерів, які отримали звання Robotics Technician Integrator (MOS 390A) і будуть працювати безпосередньо підрозділах, допомагаючи командуванню впроваджувати безпілотні системи. Командування планує розширити цю роль у рамках Futures and Autonomous Systems Command, що має підвищити ефективність автономних технологій та швидше адаптувати нові платформи у бойових умовах, зокрема з урахуванням досвіду війни в Україні.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
-      "published": "2026-10-21T22:25:06+00:00"
-    },
     {
       "title": "Угорщина шукає заміну Росатому в розширенні АЕС «Пакш»",
       "original_title": "Hungary looks to replace Rosatom in Paks nuclear plant expansion - Around Prague",
@@ -1543,6 +1503,16 @@
       "published": "2026-10-23T11:35:00+00:00"
     },
     {
+      "title": "Командуючи глибинами: технологічний підхід HAVELSAN до підводних операцій",
+      "original_title": "Commanding the Depths: HAVELSAN’s Technological Approach to Underwater Operations",
+      "summary": "Стаття Naval News присвячена підходу турецької компанії HAVELSAN до систем командування й управління для підводних операцій. Із наведеного фрагмента видно лише загальну тезу: попри технологічний прогрес, головним принципом лишається ухвалення правильного рішення за мінімальний час, а зростання обсягів даних, скорочення часу на рішення і когнітивне навантаження на персонал вимагають нових можливостей для операторів. Конкретних характеристик систем у наданому тексті немає, тому оцінити їхній військовий вплив можна лише в загальному сенсі: йдеться про швидшу обробку даних і підтримку рішень екіпа",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
+      "published": "2026-10-23T11:49:00+00:00"
+    },
+    {
       "title": "Макрон скасував візити до Нігерії та Сенегалу через протести у Франції",
       "original_title": "Exclusive: Emmanuel Macron cancels planned visits to Nigeria and Senegal",
       "summary": "Президент Франції Еммануель Макрон скасував заплановану поїздку до Західної Африки, яка передбачала візити до Абуджі та Дакара наприкінці жовтня. Рішення прийнято на тлі безпрецедентної хвилі соціальних заворушень у Франції. Це офіційне дипломатичне рішення впливає на графік міжнародних зустрічей лідера.",
@@ -1613,6 +1583,16 @@
       "published": "2026-10-23T13:15:00+00:00"
     },
     {
+      "title": "Кунгсберг продемонстрував контейнеризовану систему NSM «в коробці»",
+      "original_title": "Kongsberg demonstrates containerised ‘NSM in a box’",
+      "summary": "Кунгсберг показав, що система транспортування та запуску ракет Naval Strike Missile (NSM) може бути упакована у стандартний контейнер, що дозволяє швидко переміщувати її між кораблями та береговими базами. Система підтримує автономний запуск з контейнера, що зменшує час підготовки до бою і підвищує мобільність. Це підвищує здатність флоту швидко розгортати ударну ракету на віддалених місцях, що важливо для сучасних морських операцій.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
+      "published": "2026-10-23T13:29:33+00:00"
+    },
+    {
       "title": "PMI США у жовтні: промисловість 56, послуги 57,9",
       "original_title": "Breaking: US Manufacturing PMI at 56, Services at 57.9 in October - FXStreet",
       "summary": "За даними FXStreet, PMI у виробничому секторі США в жовтні становив 56, а в секторі послуг – 57,9. Обидва показники значно вищі за позначку 50, яка відділяє розширення від скорочення, тож ділова активність зростає в обох сегментах економіки. Сильніші дані можуть зменшувати ринкові очікування швидшого пом'якшення політики ФРС і підтримувати долар та дохідності. У статті немає попередніх значень, прогнозів і розбивки за компонентами, тому оцінити відхилення від очікувань неможливо.",
@@ -1621,6 +1601,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVY0bnBzbkRXSWtmTjR1amZSRlZCVFVUT1pzZVlmZ3NBLWpJa0VBZjFhMXlQdXh3LXY0ZE1Dbnc2LTVaSTc0RzF5S3o4ckFyTE42elVocTZOWTBBTVpza3dMckx0N2ZtYUZvYXR1b1UwaUItd1l4MllUYk5zX0RoZlh4bzFFZmQzWkxRWDlWWVZ4b042ajF0ZXVlX180eGtDMnk3Y1h5Sm5pdkl5RVk4ZlhtTnk",
       "published": "2026-10-23T14:00:05+00:00"
+    },
+    {
+      "title": "ВПС США хочуть залучити ШІ для аналізу дозаправлення в повітрі",
+      "original_title": "US Air Force wants AI to assist aerial refueling",
+      "summary": "ВПС США через програму SBIR шукають систему на основі комп'ютерного зору та машинного навчання, яка за відео з камер танкера KC-46 автоматично відстежуватиме танкер, штангу та літак-одержувач. Вона вимірюватиме положення, швидкість, вирівнювання та швидкість зближення, оцінюватиме відхилення від норми й формуватиме післяпольотний розбір для екіпажів. Це має зменшити суб'єктивність оцінювання, яке нині спирається на спостереження інструкторів і ручний перегляд відео, та підвищити підготовку екіпажів. Систему розглядають як прототип для майбутніх навчальних рішень зі ШІ в Міністерстві оборони СШ",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling",
+      "published": "2026-10-23T14:29:17+00:00"
     },
     {
       "title": "Міністри ЄС обіцяють відповісти на «китайський шок 2.0» переговорами",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard",
       "published": "2026-10-23T14:43:33+00:00"
+    },
+    {
+      "title": "Франція та Велика Британія провели перший спільний навчальний ядерний повітряний удар",
+      "original_title": "France, UK carry out joint airborne nuclear-strike exercise for first time",
+      "summary": "У рамках навчання «Rummy» британські Eurofighter Typhoon супроводжували французькі Rafale, які виконували симульований ядерний удар крилатими ракетами. Це перший випадок спільної повітряної ядерної операції, що підвищує рівень взаємодії та демонструє концепцію «forward deterrence» між двома ядерними державами.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time",
+      "published": "2026-10-23T14:56:29+00:00"
     }
   ]
 }

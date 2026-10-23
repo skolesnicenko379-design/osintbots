@@ -10,6 +10,7 @@
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
+    "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
     "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
     "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing",
     "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea",
@@ -24,7 +25,6 @@
     "https://defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
-    "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
     "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
@@ -68,6 +68,7 @@
     "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
     "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
+    "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
     "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
     "https://militarnyi.com/uk/news/v-ukrayinu-povernuly-tila-252-zahysnykiv",
@@ -108,7 +109,6 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGlKNkF4dXhCeEZ2YnNTeDlIaElZT2g0TkFGQzAtWFNVNGJQdjZPSUwxci1kSlNsMGozUVA1SUhqUlRZLXBpSm12dUNwUzI1TzZoaFd5WGVKb3JFUGMzLU9rT05CYmpsUUJOYmRYYjEyMnRUeUM3bFZaYmRRaXUxNzlPbnJiTmJvV281UkRjVHZqdldLMkJXTzR4VWjSAVZBVV95cUxNLUF4TTZZREJmR1FDT3pRRUo1Yl81SkpDRjlQM1h3Q0taQTBCdldBNENpWU04ejRYVk9UTW1ZbDZJN2tpZnd6UXpVRzZLeFpnRjg2cUhndw",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFl0VkFyT25rM3dDV2Y5Q0hWbXR1QjhrYlFQcmJjbktUckt6em8tVVR1UzZNNGVWRXFYMTBHd1F6YzdCSDJrYkNKeEhKbVZZN2pVT2xoRlJJR2xGRjgzNUJDZ3F6QXBwOEdPTGpPTWpmVUZfZUl5SmpiWGFVR0xibXhfX3F0bWtVRklTUFBVT0FZRUxfMnpMbHNDaU81X0U0MUpad9IBqgFBVV95cUxQUEpKSjlIN0VjZnRTZlN0OFM1Ui1pbk1vbW5Kc183M1JMRUxpV3pQZGp4U0RGaFg0cTlDQjhUaGVZM0Y2S01SZko2Y1I0cmxsbDF2bVhfM0NOQXhkaUwwZVFFVG4yTVVRdnA4Y21scXUwbnV6LXV3QzlieVc5SF9IY3hIU0dfS05xYU9qNDlJbnpIVmF3QjhyNWxOMTJwbzl1akd6MVhocjVfZw",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA",
     "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXJLSEg2VV9uMHR1QUpzMmY3OEo2TzNqN3pYZUlRQnZRZWswUGJfYUxSUHpEaDkybmlyTEZVZDM0YWhab05PSW1OU1U3cXZTWmJ0aWxqMUZMWS1sV2JheVR3a05mMXFWMDFsSXBsNFVEZGhOSE50WC1iLUhRbURIYTVBN3RQc2Y0MlhQTVcyaExkUXlKMnZScFc4NThZNXJOSUpjbDh3",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Got milk? Ветеринарні офіцери армії США пройшли в Данії навчання з аудиту пастеризації молока",
-      "original_title": "Got milk? US Army refines its pasteurization power",
-      "summary": "13 офіцерів Ветеринарного корпусу армії США завершили в Кольдінгу курс аудиту пастеризації, до якого входили польові перевірки восьми данських молочних підприємств, схвалених для закупівель для американських військових. Курс допомагає оцінювати технології пастеризації в різних регіонах, щоб молочна продукція для військових і їхніх родин за кордоном відповідала стандартам США, зокрема Pasteurized Milk Ordinance від FDA. Це не стосується озброєння, але підтримує захист здоров'я особового складу: за словами Девенпорта, спеціалізовані аудиторські навички залишаються критично важливими, зокрема в у",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
-      "published": "2026-10-21T15:18:41+00:00"
-    },
-    {
-      "title": "Макрон здійснив несподіваний візит до Саудівської Аравії",
-      "original_title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit - France 24",
-      "summary": "Президент Франції Еммануель Макрон прибув до Саудівської Аравії для несподіваного візиту, який він назвав актом солідарності. Ця подія фіксує офіційний дипломатичний контакт між лідерами двох країн. Матеріал не містить деталей про конкретні переговори чи підписані угоди, лише факт прибуття.",
-      "source": "Bilateral Meetings",
-      "publisher": "France 24",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1gtdnhqR3plRmNzbTdKZjVMeWp0WXgwZC1Eck9mcTItWjVqYkdPcXVyWUtQcGNGOFlZa3I0aDJBOVQ3QWdUY2lxbFdJdDVYUzhHV2JCajFfdUdsdEFNY2N4TU1zUnpmaURfNXVGc3p4TE93QmJCME9UbURrejRncFFIZlNQVi1ZNVVOb0s4OG9mWjZUVTRPQV9CVWVNRHFiSDQ4eA",
-      "published": "2026-10-21T15:39:40+00:00"
-    },
     {
       "title": "Рада ЄС погодила позицію щодо спрощення правил для малих виробників упаковки",
       "original_title": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers - Consilium.europa.eu",
@@ -1053,6 +1033,16 @@
       "published": "2026-10-22T12:20:28+00:00"
     },
     {
+      "title": "Як безпілотні судна виконують ISR, забезпечуючи постійну морську обізнаність",
+      "original_title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
+      "summary": "Безпілотні поверхневі судна (USV) збирають дані з радарів, сонарів і камер, передаючи їх у реальному часі до центральної платформи. Це дозволяє створити мережу спостереження, що покращує розпізнавання цілей і швидкість реагування. У військовому плануванні це підвищує ефективність патрулювання і зменшує ризик для людських операторів.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
+      "published": "2026-10-22T12:23:00+00:00"
+    },
+    {
       "title": "Бундесвер уперше проводить в Естонії навчання Brave Blue з перекидання підкріплень до Балтії",
       "original_title": "Бундесвер уперше відпрацьовує перекидання підкріплень до Естонії",
       "summary": "Німецький 4-й логістичний полк відпрацьовує одночасне перекидання особового складу і техніки до Естонії морським (пором), наземним та повітряним шляхами, а також розгортання пунктів управління, перевірку зв'язку та організацію логістичного забезпечення. Окремо вивчають рух техніки болотистою місцевістю західної Естонії, а Сили оборони Естонії відпрацьовують підтримку приймаючої держави: транспорт, розміщення, харчування та пальне. Це підвищує швидкість і злагодженість можливого посилення східного флангу НАТО в кризі, а також готує логістів до масштабніших навчань у Литві та Латвії наступного р",
@@ -1171,6 +1161,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
       "published": "2026-10-22T14:29:06+00:00"
+    },
+    {
+      "title": "Данська компанія MyDefence передала Україні 2000 детекторів дронів Wingman",
+      "original_title": "Данська MyDefence забезпечила Україну 2000 детекторами дронів Wingman",
+      "summary": "MyDefence постачила українським силам оборони 2000 портативних детекторів Wingman, які працюють у діапазонах 2,4‑5,8 ГГц, мають захист IP67 та можуть виявляти як безпілотники, так і їхні пульти керування. Пристрої доступні у двох варіантах: Wingman 103 з зовнішнім акумулятором для довшого часу роботи та Wingman 105 з вбудованим акумулятором, що робить їх легшими. Техніка забезпечує пасивне виявлення, пеленгацію з точністю до 30°, що підвищує ефективність протидії ворожим дронам та знижує ризик хибних спрацьовувань.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
+      "published": "2026-10-22T14:44:42+00:00"
     },
     {
       "title": "Трамп: торговельна угода США та Індії «досить близько»",

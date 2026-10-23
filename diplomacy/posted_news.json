@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRlV0QlBPQ1dreEdlbnVHSGxNWlFfQ0FZUjROZ2JHVElWZm4yYWU3TlJSa0hCLXhDcEU2bXhvRk1zcU1TMVV4elRiRUJta3BmYmR5RkhsQmtGN1EtSDZMRnZzZ2dCYXU3VWJsUTRB?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclVEVi15ZUcwTHBoU09wUFBHTmFWOEdFbGowWkFTTjBpSGlGemJTQU90ZVNGcGRQYnp6ZmJzN25VTmoxV1hNRXBKUmFsOGV6SVU1cGVWQlRYX253dVdOUUE5YkVxZlJ5blN3Qnl2TEh2ZDJxbUVwM3VfWFZjUWFSZ0xtd1lvV2dsMFNleWNEdzRpQmtEcFl0Qll3b29NZFlMUGhwWVkyQmRfY1dIckNnN2dobFl6N2dpblE?oc=5",
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVm5zZEtYS1kyN0tYZXVmSlZsVFlJTkdIaUhvc2xBdm1PZFM4UHA3ZHNmOEo2dml6dXZRU0t0Q1Uxb3JZaXFqVGdvUW4zdnRkTk5ST0x1REtNVmhzY1JpSUN2MHppZWV3UDBUb2dvUWZXd1dFLVJZWmFQcjlkNnlMSHlKdm9ubVZ5ejNuczVYU3dsSkM4ejY1cVktbWFoNWdPbDBGWDFHVS1hYlBjNjlJRFUtZDFlbm1JdV9PaGVkc3ltYWx1OTR4QkJmOUN6TVZUVC1hVWhibUhDeEtPZUZycTVB?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80QmEyaGpMaHhJS3ZWa3c2UlVqLTJNRXZibzlFR2l3N0VwQk1GdnV0c0pMVm1wTnZHd0ZZZ0RKRlljNzRveEVfeXV3aWZheV83cmc?oc=5",
-    "https://www.gov.uk/government/speeches/a-viable-palestinian-state-requires-not-only-recovery-in-gaza-and-political-progress-but-an-end-to-the-violence-displacement-and-settlement-expansion-",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SdlFpMGRPalQ2VnJyQWt5MzhFMVN0V2Uxc3ZTRXpqaWdZNUVvenc4a0xMUTk3X0V3MW9pNUJieXowSUs5dDkxNHZoQjF1S2pLcXFSazU0S3B4UmU2UVhhVEZOZlE0VWN2NldYWDhEempibUFxeXVZaVhvRQ?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRS21jcHBvMU8wVXRpUExBSUxGT3UxVmtWV2s5eHY1R0dMcUdjMDhSc2lxQ1JXa20zTUljYVU2aFA1dnN5SVlqRlF6NUNYWGdySXhMMXRaN1lOVFdXT09GVnVkMFlyMl91clRVYkstN3pkTXcxNXlOMGNsYzhDUQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGhKSVRfejBzNGxTcHFtZmNvNS1zaEhwRkl0SjN4cnVSV2x4dE5ZNHUyNzl6dXhTODI0dDdhVDZvdUVhdzlXV0YyaVE1SnFZbGJVbWlZalBnRklleUFZWW1Qc0hwT0pzVTdDNXkzeTlOcVhrXzJ4aHZoMWQ1enU5VmpjRU5YU3lmLWpJVVQzb3dRUlBlQmJMR00yclYyaEdudUFDRDhn?oc=5",
@@ -1199,16 +1194,14 @@
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWZMTUhtbGFXeXFrbkdfNkJZVmgwcjZzeXAyS0d4Q1kwdUlfazBvVDE4OGdJSUhqTnU5YVFOR2ZyN1BPbS12QkZtc2FWbHJaWjdwTVNRcEFPaThCYTk5bF9wLURtYWJiQXR1LXdQZ0xaZk9wN0hKYm83ZG95b19DcjhCRnZ6YnljSy1FU1ExRWsyTTlOSGFlTWQ4N3RBd0pQbWhJU3hjUXhOcmhMYVAwNUhSejJtVTlHWFlkU2FpLU12UHhqZXVuOXlKaUppRGI4TlAyeTBn?oc=5",
     "http://www.africanews.com/2026/10/23/portugals-last-circus-elephant-begins-a-new-life-at-wildlife-sanctuary/",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1BzNWI5T0hOWXpwempPNmcyMWFkTDA4N0tod2l3dGt0Q1h0dTg3b3AteUZjSDVNQjJLLWZPT1NleV9KTW1GazQ0V3RfYUdITWdlaFM3MzlzTUphak9UbGZXQlIwa2NEYzR5aHRCbl96bC1LQW5CdGVzYVVUY3lMeElUVnNUdWg4YWlhWGtydlBuQURYTGt3bWI0WVJURDJNTTdrU3E3ZEJhdURWcUE?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXhiMWotcnN5UUVGQmMyZUZfdGJDQmREZS0yQ0ZITTlkR1d5S184TjQxeWJudTlOanVpTGRFOWwzUG9RckxhTjc2Z0V1U2FJZ1VUb2s3clNUSUJTTHpzdExfR2FVWDM5cy1qNnJTTG9pazFaMWI3dWwtSkNkTG1tSUNVdGRhYTJMd2pCdF9VUEVNdWsyRzg5OUJzdVdTb0V0?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXhiMWotcnN5UUVGQmMyZUZfdGJDQmREZS0yQ0ZITTlkR1d5S184TjQxeWJudTlOanVpTGRFOWwzUG9RckxhTjc2Z0V1U2FJZ1VUb2s3clNUSUJTTHpzdExfR2FVWDM5cy1qNnJTTG9pazFaMWI3dWwtSkNkTG1tSUNVdGRhYTJMd2pCdF9VUEVNdWsyRzg5OUJzdVdTb0V0?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnBma0poOHppdERtV0IwNVZQNmQwdzgzZVU5a2Jjc29Ob21sOU9CZFhvWmdaQUk4eWZsNmZnWjVnZTNXTDBpOE5XaWlWVFh0Q1kwSVRvR2JoUDZ0TzF5YkQ0dTBJVll2V3ZBTUYwdnU2VlVRWkt3Wm9NSUFLSWM5N2NpTEx3NlBSUG9iT3F3?oc=5",
+    "https://www.middleeasteye.net/news/south-africa-durban-mayoral-candidate-says-he-would-welcome-netanyahu-despite-icc-warrant",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVNGZFJHVDdBMS03YmVWQS1JUU5PWlRXdmNtd1ltSGg1cm5TRmRkaWtKbUxjTkxObkJ4ZTh6VWxFbUVhOTVwbDB2VWRTNHdRcTVQY3RPZDBQN1ZyczlGWEZHbEN2U2tkTDR4c0U3SVh2Sks2aERlZTNuOE16MF9Md0kxRGhGbDZydDNic2ZpVTVFNDdNQUZLbElVbFk1OU1YMHhlMA?oc=5",
+    "http://www.africanews.com/2026/10/23/johannesburg-men-run-in-purple-briefs-to-raise-prostate-cancer-awareness/"
   ],
   "recent_posts": [
-    {
-      "title": "Туреччина та Канада розпочнуть переговори про вільну торгівлю",
-      "summary": "Президент Туреччини Реджеп Таїп Ердоган оголосив, що Туреччина та Канада розпочнуть переговори щодо укладення угоди про вільну торгівлю ще до кінця поточного року. Сторони планують обговорити умови взаємного доступу до ринків та інші комерційні питання.",
-      "source": "Treaties & Agreements",
-      "publisher": "Türkiye Today",
-      "published": "2026-10-22T15:44:22+00:00"
-    },
     {
       "title": "ЄС нагородив Міжнародний кримінальний суд премією Сахарова",
       "summary": "Європейський Союз нагородив Міжнародний кримінальний суд премією Сахарова, своєю найвищою нагородою у сфері прав людини. Це рішення ухвалено на тлі санкцій США та демонструє підтримку інституції, що може посварити президента Дональда Трампа.",
@@ -1411,6 +1404,13 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-23T20:27:03+00:00"
+    },
+    {
+      "title": "Єгипет, Саудівська Аравія, Туреччина, Пакистан заявили про інстабільність через ізраїльську окупацію",
+      "summary": "Єгипет, Саудівська Аравія, Туреччина та Пакистан оголосили у спільному заяві, що ізраїльська окупація є головним джерелом нестабільності в регіоні. Зустріч відбулася в Стамбулі, вони закликали до швидкої реалізації двостанної рішення, підтримуючи палестинську державу на межах до 1967 року з Східним Єрусалимом як столицею.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-23T21:21:42+00:00"
     }
   ]
 }

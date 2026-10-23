@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWWhhNl9LQWZjMkdXa19mRVp0NHE0QVI5MHk1dWEyUDFzSEFPV3U1SW5HNUdZb1lzWHRUOFJqWTBhR3FFOEMtb0Z2bXFXb2dIUWFGRjFJUlgzT3p5R19EdUthOWZxTE5COFZCOEtOLUs0WDJKd2dSckl6a2JMYWdZRHFUSHdwZzQ4X3BtTUpRT25jeDFzSEJIY0hZVUdDb3NTUGJrcGFHMHU3UXhkZHczMUtVYVFkQnk4TEVBaFkyTGNnTlpUcllhMll6ay1aLWkxOUx2Q0NOemd4UHVqQzRUc2otQWlvZjJtUGpEMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXNTLUozNnZ2ZUhsbTFEX0FmdS1Zc1NjVlZkYy1NUmdiaUVkZWg3eU9GM2JTcFJTT25Tbm1CVFNWRXBCM2xFRVNWN1pmS1o5bjA2MVQ2ZjZaRExZekFvbDFIbGNYRjlhaEk1YVN2Q2gxRFdzRWFEZ3EybHFiYk5QTFFuRVNTRk5zaEZXeEtqTU9aaUxRNjZhV2RWNzQtbkwxTWNrZHJRY2hqOGtCWW1EYklRbjhZZm50WnFGNGtDN0d4UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTkJvcm9YZDJZY2UzSnhsSGktdnFQWDc4SFVmanByNnNmWlJVdzlRbHZpWHNvWjdGYW5LanZJd1RNczZmT25RYTBSekdtMnZfNXpqRHdpcUhFUQ?oc=5",
-    "https://www.gov.uk/government/speeches/the-uk-and-the-arctic-minister-kumarans-speech-at-the-launch-of-the-united-kingdoms-arctic-policy-framework",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWlXNWpJN25TSWhvcFpHZjkzQndWb2JuZHpzR2h3TDV4b1BrZ3NFWDE3cy1GTDRNRFZsdnpOazNZekR1dHFVM2FEa2w5a2lwMl83R05WQjlINlJMV3hEWTNvSkhHVHVFdnItcDVqU3QyRHRtT3Ftdk43WE1EYk1yMVFVVVBET3hnN1pMQzBn?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UYzRSR1hfRkZmdUJoaENZeXZUdndfNGx0RGFCTGp5R3FDbE9WWE85Yi1PeWx5M053UnhuUGFZM3dqRm13blczTXNDbWpMZXJPZjdUZHc4NVdsUktJUndn?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE92UmN0NjhiT3h0ZmhHaVpLNUtiMVBiV0tGakVHRFFnS0dhNmVXWTR1aVN5M2trZUNDNVV2VGpmRHNuckdHbEtwdnR4NFUwR1BOeDZGaGQ2d3NmTUxONnVna2l4SERaWWQ1MTRaWjZsSTBDSUpfN3d3?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUZZY0p2b1dPRG5DYncxTDBSbGUtb2dmeEs1TzRpdDdhZk9GTVhReEFzZFdYU1M4LTBTcU9EcWpwd0VET040ZFlmVVJRZ3ZkNnJFUkV6RTI1elhwenhteWNnWnNieE0wOUtyVUlmSGJlNm0xdF9uRllkeGxOSFhWbC1TM3c?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0ZOS3Ewcl9zWTJlSWtTeTlfNHB3QU9lLXY2bFo0SEJwSmdpTk5hVzY2eTBwT2Izb1NuWWxla29QTmhVT2JaR0dBcHcwaFFfcWNOOFl2WWYwcUl0eFQ2NVByWWRHT0hxM0xMclpVR0ltbFVvZ0xEYmxhQXZZWnNySDViVUdaT3NpWGVhdzRJcFE3VUlrdGdSdWNUNk9LX2Ftb2k3TW9KREh0d0htOEY5V183dGFJbWs?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDNELTJWM1FYOWF0b1JPSHp2WG5PUXY5Z3cwR09QZEFfM2oxN0syTU5EYjQ1SjBOSmNyakdqcWREc3JDNVB2X01xdGZEVjV0SmY3VWdRZThoaEJEb2ZIY3Vpdi1Ma3UyNnE4MFVnTnhNOGtjRnQtOVpPVV92YzFIS0R4U05lYWh2OXNLdHkxSDdqTnA5ZnFfUUJqbFQxZw?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNekxfRWtsQ0NfWHFCV0szWUxmQTZpc21GX0gtUks1TWVOcG5XRTVGY3kydFFRdmNrNEtUbi1IZC1wWDNSSDlrTzd2RDJoZ0JZRFA1bS1wS2t4SjRsMzdGaldjMFc3allBRnQ1ODhmbmVVNEpFLXYtNTJqR0ZZTVlMNkNtRHI4WUZDeFpPYjhtTExjcnNGRFJORUdXemJrbUZuZEhIWDdKcHV1ZnR5ZEd4NnlxQUZzemVBcXFranFVd0pBVF8zNzNvNVhuVUhtQQ?oc=5",
@@ -1199,7 +1191,15 @@
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTFdibnpyTXhjamk0SWltUEV5bU1jMHZKU2NvbG9hdW5zU1BPaVN3U0NGRGpDZEIwM2dneEZqeEMwY2RnNm1vVzhLY2R0NEZ0UVJsQjBNLXo5MFBUbFVQbVBNdWJSV1RQcUhublQ2dElTWVZPWWJtbzhET2tGbEU1MnhFaHo3RWxYbzFlaU1DdUxHYnBQVEJkQTNLd05YcUdXRVhkQmhhNEVCVFdZWHVRaGhzRFVINVJyblRieUo4bUNvQ1NkaURHWDktTms1amJCelNDLUJ4bXk?oc=5",
     "http://www.africanews.com/2026/10/23/deforestation-threatens-fish-stocks-and-livelihoods-in-central-african-republic/",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUU5sUGY0V1N0VURRSjVFOGVRSWNTY2ZtM1dPaXBGV1gzOWhmZnZ3aVlkclhxMl9nUGxtUndiRXJZVVdvZmI5RktlSm8zOFNUNFpsQ0FIcy1LekZ5Ry1laUxLLTdMTDRmOVFJcVYxS1QzeEZKTHVOMDc0b2RVT1RTd0F6ZER0QkZCYXZJaTdCUDkybms?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUU5sUGY0V1N0VURRSjVFOGVRSWNTY2ZtM1dPaXBGV1gzOWhmZnZ3aVlkclhxMl9nUGxtUndiRXJZVVdvZmI5RktlSm8zOFNUNFpsQ0FIcy1LekZ5Ry1laUxLLTdMTDRmOVFJcVYxS1QzeEZKTHVOMDc0b2RVT1RTd0F6ZER0QkZCYXZJaTdCUDkybms?oc=5",
+    "https://www.middleeasteye.net/opinion/ilhan-omar-was-never-supposed-be-equal",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/time-running-out-yemens-taiz-after-20-days-under-houthi-siege-un-warns",
+    "https://www.middleeasteye.net/news/millions-removed-indias-draft-voter-rolls-viewed-targeting-muslims",
+    "https://en.mercopress.com/2026/10/23/the-pope-cancels-a-visit-to-assisi-as-a-medical-precaution-two-weeks-before-his-south-american-tour?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb2lnUkdNYXVqclpGTGRURW5XSUJaYXcxZUFicXZSOXdmcWozNXlsTXlVbmpVR2pQRHM5bE84d01PaEtIVklGTTB1NWdTN0FSSVBqSnlHRHJSTU9YUTVzN0FhZ0J2MUNTU3gwdGNWdExWS2Focm9paERaNXNvcTA4eTBxeEhPT0dZMjJIaDFYQ2FnVGp5RzBwLXhrU0xCb2pPV2FXN1lQTER3ZmFpN3FrTExXSGIzQlFRcXNUOC1IZkNfb1RfTVJvNUpxTVlwWGNlQURZSVVEbWpsVmRBTXRrMG9PU2tlV3ZwSURVeU42emZrajR0c2ltb3pydEdqd19MdFBXWEV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjE5Sm5nNXl5azFIYXBhbTAyNEswTjdjVGRrYzBNeWpjVG5Hb0gxS3pSejh5Uk96eUJFSVpKNTBPeHhmYXdNbC1OdDBZWWJTaEs3N2I1RTBGYzlwckZmdUROM1VmMndGUmM2YXBGMkN2LWxveVRxVUJtb2hIS3R4X0NCd3hXY1VDVGN1NnNjV19WdzRGQmQ0RTlWV0piTlZZSWNpUDFxUU5hWG50VDJBbHZuaW1GY2dLODNVOFJvUHVqaG02aGE5eg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DdHJNOE9BUHdVdGdPcmprOFlGMkNsTVFoTER0bTdGRnliVlRGQjFDR1BHVVBnOXFSNnF3SUJ6ejJzTFdlX0lZbEp4b2M4ZVc0QlU5U1J1MmQ0dDlndzgtQWFxVGdOdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDQzRjdJTnRtU2VPb0dvcENfOXVBRm5YYWF5RVV5TnVFSUpHdDVPSVpRVU9PWWRFdlBBV2Y0Vm1jWUZ0S0xPaERnUGNwaGNzQ1RRZS01MFN1ZDlPSE9Ed0l2clRJNUJva3FXOXZxM2E5U2x2dWJiVWFlUDFiTkxIV3JVS2NjYTZsYUU0ck5jcGpoNkdWT095VnVjUmJvb1dOeVE4YlpBUkJPYWlmc1owVDB4LS16MWVhSXc?oc=5"
   ],
   "recent_posts": [
     {

@@ -708,16 +708,11 @@
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWUw5UmdvbEZ1NjdDc2l0bnVVdzI2NnR5N0xqN2g2c1UwQXNTZW16NlNOVmQxRzNUM250RFN1SjIwSzBPRWo5UnFqeTNNN1JHZkFSNml2VGY5dTdiY0RMX213?oc=5",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUtuLWZuQ2gxSEQ4cXN2alpmV2UyUTdXOU00WFl1UjlDM3lSdmYxdkJSNjg5V0ZnYm14X1ZKeGhuSFJuWmZJTk93VzRCWmdicFJ2VGNZYnBGVkZMWFZSRXJwNzk0NVpVNTdGVGJTelFJNW16NGliZ0ZXeURSNnlqdGozU2pIYzZqbmJPb3JRNlNJODduLVFiUE51MnZrNUV0dXBVbFBmRk9PQUxXcG9n?oc=5",
-    "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html"
+    "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/"
   ],
   "recent_posts": [
-    {
-      "title": "Відсотки за боргом США вперше перевищили оборонний бюджет",
-      "original_title": "US debt interest hits record $1.05 trillion in 2026, surpassing the $956-billion military budget - Yahoo Finance",
-      "summary": "Згідно із заголовком Yahoo Finance, витрати США на обслуговування боргу у 2026 році сягнули рекордних $1,05 трлн. Це більше за військовий бюджет у $956 млрд. Відсотковий тягар стає більшою статтею видатків, ніж оборона, тому простір для фіскального маневру звужується. За відсутності деталей у тексті",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Yahoo Finance"
-    },
     {
       "title": "Казахстан розширює флот Середнього коридору попри обміління Каспію",
       "original_title": "Kazakhstan Expands Middle Corridor Fleet as Caspian Sea Levels Fall - The Times Of Central Asia",
@@ -850,6 +845,13 @@
       "summary": "Згідно з опитуванням ЄЦБ за вересень, медіанне сприйняття інфляції за 12 місяців зросло до 3,6% з 3,5%, а очікування на наступні 12 місяців — до 3,1% з 3,0%. Очікування на три та п'ять років лишилися на рівні 2,9% і 2,5%, тож довгострокові орієнтири поки стабільні. Прогноз зростання економіки погірш",
       "source": "ЄЦБ",
       "publisher": "ЄЦБ"
+    },
+    {
+      "title": "Банк Японії попередив про ризики шоку на ринку ШІ та кібератак",
+      "original_title": "Bank of Japan warns of risks from AI market shock, cyberattacks - The Business Times",
+      "summary": "Згідно із заголовком The Business Times, Банк Японії попередив про ризики для фінансової системи через можливий шок на ринку штучного інтелекту та кібератаки. У наданому тексті немає цифр, термінів чи умов, тож масштаб загроз оцінити неможливо. Попередження свідчить, що регулятор враховує технологіч",
+      "source": "Японія · монетарна політика",
+      "publisher": "The Business Times"
     }
   ]
 }

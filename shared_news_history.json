@@ -10,7 +10,6 @@
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
     "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
-    "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
     "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing",
     "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea",
     "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
@@ -18,6 +17,7 @@
     "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
     "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
     "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
+    "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
     "https://defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
     "https://defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
     "https://defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
@@ -84,6 +84,7 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDIwN2tVNnBSZDFJd2w4M1ZJRjFFMGxBX1RFb19kZkJUdDRFeUlnMGlUdklFTUFEQlo3dnZmWDNaNkpLVmFxUVhYOFl0WjZ3MVB0OHZTVnc5S3gwN0RIRlpSc1FTZXBzTGhnV0JXOVc1TGE2NFFIcnJ4anZ4TXR6RUdNVmEyZmtpM0hEMVVGVlItVTNjd29qYkN1d2RhektTWjBJMUZyNjdydFNpZm9LdXN2SDJ6THZsdFppeUd6SGZ1YUZNV08xTl92VHdDZXFKU2dpWk9RTQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmJNWGo3OHVZZzRBZ3M0MGUxaXdOZzRiN25KSmRrSEhjOGgzRUxUTHhORHFwYjhka1hxMHJaS0tlLWhWcUQ4aldfa1RTYVN1SXJYQ3lXcDBQaVh5MFVWSkVoWGc5ZXNKQWZQa1k3TDBRaVh1WGx5dUlVOUdYZG1mOFJsNzZhb1RSOGJndVBScWV6ZUp3NXhzN1lTdjBfTzlSVkJDamk0LTlWQjVpb1BQUHdCNmNoMDc5aUoxLUFyeFVMTk9nejlMeVpNNXlQVTZJOXI4WEYzWEpjYTYxV0k0WVFuUmxMdTktcnc",
@@ -96,9 +97,9 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVEdISHhjckFfODNnR2U2bE84SWh1UVU3cG42N0NuWWZ4SW8wTzduWFFzUjNZUmNTOG9ISEVEWlJLYWhLVFVmUUJFVm9jSmRMVnc5SE9GdVdUaElBRnpXQU1rUWFKbHdRZmZFa29YNWtSbi0wZ0E",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2enFTdXdrdG9jc2tKT1UxMlZ1NmFjakRWMGpqYnYtNHcyVk5CM1hRd0tDRVJYaS1wN2taM3ZReDhPdXNXeXJxYXl1YXlnRGFpTW9fZEoyd1pkdDRDb0Y3RC1EZG04WVdVRVRucjVFRlJLN0lyMkpCQWRIUQ",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRFZYTzBhczdjUm9oZ3RsblJTc3FqR3BOeGxTcW50UTZ2a0U2SWg5aTRJLWdJZE53NjRmUjJNejdpby0xaHFJbjN2eU05SmstSTVhbFI1d1F1RFlsX0EzOGotRUhBSU53TTB4cGlaM2F4ZDZydmdLUEh3",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHVOT2hIRnktTFJvRGtxa2dLd0prd1Fvcy1sNkwtYXdJVlNaVW45Yks1MFlPS2VJek1vRUxqa0NWMmxlYkV2Y2RkeDRoQ1g4TTc2RTRhRTJ6QXpNVDlJZEdPQnJsUlRFMzVfZVhyNGd2VzJ4YWxRdHY5WEw1X2ZQVTVhR2hUX2k3c3RPMUU0dnZPQXZPNmc0dXFEMVQ1NnNVc2F3elRaWTI2OTRoWmZHYTQyMDRlZmEtNmpiX2Rxa0Q5RGFFZ1FjdEZ1MWVEekpzMk9mR1Q1UVExUm4wb21BQ184VEdjdU9CQUpKSEVkQWxRMXNRWFVodFlzZWVFT0ZXRkE",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeFZ3Z1BPMG43bW1DM01OU003ekxOVk5wMUpFa3VwOU44aDJCTDA5bXVNakxHUFJNaVBGRUlOaHdXNWljU2lJU3VFd09xTzdYcmd6cnNpcE4yOWMwMGNzcnJjdDFfSDdJbDVSeHRRYk1WaUg1em9FamdPRGFtcUU0Ni1FNHZYMmJSYjhSOWJYM2VKcThwdTVNblhSWlluNXl0RjRHSzFDMzVBSWRUa2c4VnJhSkRSRElzWk53OVVEbEYzNGU4Wms4MzNtbFFkTmV4QUdfWl9SbGdodVMwcUY1RWdvZDZweWNDWGM0akxmdkhjV21qWHFuOFlKQjQ5bDFrTUtfM3pfQmU",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
@@ -106,6 +107,7 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVG9mN1lKc3hJakRfbVlKZHdldV9UaUFUVmZZQ1NPSkFkTWQxNHNhRjEzTzJpNmFGZllWd0NUR2V4VFB0ZWlwcmNveFB5emhTdUppUTF1UkozLWNEWTB2VGRxYi1LeEo5ZTZiTGxIbjQ4c0ZwZG00NmJNNFZ0cDFRRmRYQ1ZMX1BKSzk2UjJNdWQwYjJFbi1hQ2lfOA",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGlKNkF4dXhCeEZ2YnNTeDlIaElZT2g0TkFGQzAtWFNVNGJQdjZPSUwxci1kSlNsMGozUVA1SUhqUlRZLXBpSm12dUNwUzI1TzZoaFd5WGVKb3JFUGMzLU9rT05CYmpsUUJOYmRYYjEyMnRUeUM3bFZaYmRRaXUxNzlPbnJiTmJvV281UkRjVHZqdldLMkJXTzR4VWjSAVZBVV95cUxNLUF4TTZZREJmR1FDT3pRRUo1Yl81SkpDRjlQM1h3Q0taQTBCdldBNENpWU04ejRYVk9UTW1ZbDZJN2tpZnd6UXpVRzZLeFpnRjg2cUhndw",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtCc29yN0xxS2F6UENpV1VjLWt5aEVMR2lZZ3hRTFdRZ0RUMG05emwzOFRZSjhHTEJMdFFNVE5lRWM2VG1OaU1la1J2c1dDVklaS3NOQ1JMWVVoVTZaZXZpZm8xVHI4b0EySXdOTHc2a21uZzh1S3Z6LXQ1T2J5M1FFRGRyWm9UNFViSWdUdTJkN2llV1NueXgyakNaSldHZEHSAaIBQVVfeXFMTVRrQnNvcjdMcUthelBDaVdVYy1reWhFTEdpWWd4UUxXUWdEVDBtOXpsMzhUWUo4R0xCTHRRTVROZUVjNlRtTmlNZWtSdnNXQ1ZJWktzTkNSTFlVaFU2WmV2aWZvMVRyOG9BMkl3Tkx3Nmttbmc4dUt2ei10NU9ieTNRRURkclpvVDRVYklnVHUyZDdpZVdTbnl4MmpDWkpXR2RB",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFl0VkFyT25rM3dDV2Y5Q0hWbXR1QjhrYlFQcmJjbktUckt6em8tVVR1UzZNNGVWRXFYMTBHd1F6YzdCSDJrYkNKeEhKbVZZN2pVT2xoRlJJR2xGRjgzNUJDZ3F6QXBwOEdPTGpPTWpmVUZfZUl5SmpiWGFVR0xibXhfX3F0bWtVRklTUFBVT0FZRUxfMnpMbHNDaU81X0U0MUpad9IBqgFBVV95cUxQUEpKSjlIN0VjZnRTZlN0OFM1Ui1pbk1vbW5Kc183M1JMRUxpV3pQZGp4U0RGaFg0cTlDQjhUaGVZM0Y2S01SZko2Y1I0cmxsbDF2bVhfM0NOQXhkaUwwZVFFVG4yTVVRdnA4Y21scXUwbnV6LXV3QzlieVc5SF9IY3hIU0dfS05xYU9qNDlJbnpIVmF3QjhyNWxOMTJwbzl1akd6MVhocjVfZw",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA",
@@ -123,7 +125,6 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR1JGOUFfcHgwaVp3MGVaNkpYakVMT1dETi1IZmlkTVVuSE8yVDlFQjk0dVY0Ri1fRkJybmZ2a0I3NmEzQlB6U1RSaEJaYlczT0hxWjRnN3ZUeUVjUmVCM0tQdXpfV1hzbi1ZNERwWXpPNElscnh5S2hiaF8tak1TT3NSSGMzWDJrcDZoY0ZNOUx6LUczUFpTTnFUUExjclhSMWt0WmVvcmh4c1QySEg5dnRWbzlWWUY2bGJKd1BrNA",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
@@ -147,51 +148,10 @@
     "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
-    "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time",
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Ghost Shark уперше показали під час запуску повітряних дронів: 12-трубна пускова установка й нові щогли",
-      "original_title": "Ghost Shark Uncrewed Submarine Shown Launching Aerial Drones For The First Time",
-      "summary": "Відео Anduril вперше показує, як австралійський XL-AUV Ghost Shark на поверхні відкриває люки на верхній частині корпусу, піднімає пускову установку з 12 похилих труб і запускає дрон типу ALTIUS. Раніше публікувалися лише фото бічного вантажного відсіку та перелік корисного навантаження, тож це новий факт про спосіб застосування. Згідно з Anduril, ALTIUS-600 має дальність близько 275 миль і щонайменше чотири години польоту; Ghost Shark може нести до двох десятків дронів за один вихід, що дає змогу вести розвідку й завдавати ударів із прихованої позиції. Конкретний варіант ALTIUS у кадрі не вка",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time",
-      "published": "2026-10-21T17:10:21+00:00"
-    },
-    {
-      "title": "Туреччина, Пакистан та Саудівська Аравія уклали оборонну угоду в Мецці",
-      "original_title": "How the Mecca defence agreement between Turkiye, Pakistan and Saudi Arabia will work - CTV News",
-      "summary": "Туреччина, Пакистан та Саудівська Аравія підписали оборонну угоду в Мецці, яка визначає механізми військової співпраці між трьома країнами. Документ спрямований на зміцнення безпекового партнерства та координацію спільних дій у сфері оборони. Сторони погодили практичні кроки щодо реалізації домовленостей безпосередньо в регіоні.",
-      "source": "Treaties & Agreements",
-      "publisher": "CTV News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
-      "published": "2026-10-21T17:16:03+00:00"
-    },
-    {
-      "title": "Ізраїльська Elbit придбала канадську ISE, що створює автономні підводні апарати",
-      "original_title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
-      "summary": "Elbit Systems купила ванкуверську International Submarine Engineering (заснована 1974 року), яка за даними компанії поставила понад 250 підводних апаратів клієнтам у понад 20 країнах. Придбання доповнює безпілотний надводний катер Seagull і дає змогу пропонувати флотам єдину систему з БпЛА, безекіпажними катерами та автономними підводними апаратами (AUV) під спільним управлінням. Сума угоди не розголошується, а технічних характеристик конкретних апаратів у повідомленні немає, тож реальний вплив залежатиме від інтеграції цих платформ у системи управління Elbit.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems",
-      "published": "2026-10-21T17:29:24+00:00"
-    },
-    {
-      "title": "Президент Гани оголосив про переговори з Європою щодо репарацій",
-      "original_title": "Ghana in talks with European nations for reparations, president says - Financial Times",
-      "summary": "Президент Гани заявив, що країна веде переговори з європейськими націями щодо виплати репарацій. Це офіційне повідомлення підтверджує ініціювання дипломатичного діалогу між Африкою та Європою з історичних питань. У тексті джерела не вказано конкретних учасників, дати зустрічей чи підписаних документів, тому деталі обмежені самим фактом ведення переговорів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Financial Times",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXBDakxYcEVpcjUxRlJ0aFlwTG5HMTFmOXFYUTdlRWFuUkFHLWJVOXZTS0llbEVPUU1YanhENDY1TC1OTVhKZ2swT2dGVmdmOFFTRWVFUTdUTWloOEphbVdJMkJkUjNkTXRWRGdRa2xRanlsYThrem1iYm10Q3drQ3NSaWw",
-      "published": "2026-10-21T17:43:17+00:00"
-    },
     {
       "title": "Росія втратила другий винищувач Су-30СМ: пілоти загинули",
       "original_title": "Росія за день втратила другий винищувач: пілоти загинули",
@@ -1593,6 +1553,16 @@
       "published": "2026-10-23T07:00:00+00:00"
     },
     {
+      "title": "Президент Німеччини Франк-Вальтер Штайнмаєр відвідає Китай",
+      "original_title": "German President Frank-Walter Steinmeier to visit China - China Daily Global Edition",
+      "summary": "Президент Німеччини Франк-Вальтер Штайнмаєр здійснить офіційний візит до Китаю. Подія є двосторонньою дипломатичною зустріччю на найвищому рівні. Учасники обговорять актуальні питання міждержавних відносин та співпраці. Інформація базується на офіційному повідомленні міжнародного видання.",
+      "source": "Bilateral Meetings",
+      "publisher": "China Daily Global Edition",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw",
+      "published": "2026-10-23T07:38:45+00:00"
+    },
+    {
       "title": "ЄЦБ: інфляційні очікування споживачів у єврозоні зросли",
       "original_title": "ECB Consumer Expectations Survey results – September 2026",
       "summary": "Згідно з опитуванням ЄЦБ за вересень, медіанне сприйняття інфляції за 12 місяців зросло до 3,6% з 3,5%, а очікування на наступні 12 місяців — до 3,1% з 3,0%. Очікування на три та п'ять років лишилися на рівні 2,9% і 2,5%, тож довгострокові орієнтири поки стабільні. Прогноз зростання економіки погіршився до -1,5% з -1,2%, а очікувана безробітність зросла до 11,3% з 11,0%. Це посилює дилему ЄЦБ між стагфляційними ризиками та потребою утримувати довгострокові очікування, а невизначеність лишається вищою, ніж до початку конфлікту на Близькому Сході.",
@@ -1643,6 +1613,16 @@
       "published": "2026-10-23T09:11:41+00:00"
     },
     {
+      "title": "Головнокомандувач Нової Зеландії розпускається через неприйнятні стосунки",
+      "original_title": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+      "summary": "У 2024 році головнокомандувач Нової Зеландії, Аеромаршал Тоні Дейвіс, оголосив про відставку через особисті помилки, пов’язані з неприйнятними стосунками. Його місце займе Віце-головнокомандувач, адмірал Мат Уілліямс, що тимчасово очолить армію. Зміна керівництва може вплинути на внутрішню дисципліну та довіру в Збройних силах, але не має прямого впливу на технічне оснащення.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
+      "published": "2026-10-23T09:18:43+00:00"
+    },
+    {
       "title": "Секретар війни США зустрівся з президентом Мальдів",
       "original_title": "Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan A - U.S. Department of War (.gov)",
       "summary": "Секретар війни США Піт Хегет провів зустріч з президентом Мальдів, доктором Мохаммедом Ірфаном, обговоривши питання безпеки, співпраці у сфері оборони та підтримки стабільності в Азійсько-Тихоокеанському регіоні. Зустріч відбулася 12 жовтня 2024 року. Під час зустрічі обговорено можливість розширення співпраці у сфері кібербезпеки та обміну інформацією.",
@@ -1651,6 +1631,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
       "published": "2026-10-23T09:36:23+00:00"
+    },
+    {
+      "title": "Рада ЄС ухвалила позицію щодо нового корпоративного закону для інноваційних компаній",
+      "original_title": "EU Inc: Council adopts position on a new EU corporate law for innovative companies - Consilium.europa.eu",
+      "summary": "Рада Європейського Союзу ухвалила позицію щодо нового корпоративного законодавства, спрямованого на підтримку інноваційних компаній. У документі визначено принципи спрощеного створення та управління такими підприємствами, а також передбачено спеціальні податкові пільги та прозорі вимоги до звітності, які мають вступити в дію після затвердження Європейським парламентом.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
+      "published": "2026-10-23T09:43:17+00:00"
+    },
+    {
+      "title": "Банк Японії попередив про ризики шоку на ринку ШІ та кібератак",
+      "original_title": "Bank of Japan warns of risks from AI market shock, cyberattacks - The Business Times",
+      "summary": "Згідно із заголовком The Business Times, Банк Японії попередив про ризики для фінансової системи через можливий шок на ринку штучного інтелекту та кібератаки. У наданому тексті немає цифр, термінів чи умов, тож масштаб загроз оцінити неможливо. Попередження свідчить, що регулятор враховує технологічну та операційну вразливість фінансового сектора. Потенційний наслідок: більша увага до стійкості ринків і фінустанов, а також до оцінок ризиків під час аналізу політики центробанку.",
+      "source": "Японія · монетарна політика",
+      "publisher": "The Business Times",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk",
+      "published": "2026-10-23T10:14:00+00:00"
     }
   ]
 }

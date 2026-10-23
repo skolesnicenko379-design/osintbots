@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SdlFpMGRPalQ2VnJyQWt5MzhFMVN0V2Uxc3ZTRXpqaWdZNUVvenc4a0xMUTk3X0V3MW9pNUJieXowSUs5dDkxNHZoQjF1S2pLcXFSazU0S3B4UmU2UVhhVEZOZlE0VWN2NldYWDhEempibUFxeXVZaVhvRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRS21jcHBvMU8wVXRpUExBSUxGT3UxVmtWV2s5eHY1R0dMcUdjMDhSc2lxQ1JXa20zTUljYVU2aFA1dnN5SVlqRlF6NUNYWGdySXhMMXRaN1lOVFdXT09GVnVkMFlyMl91clRVYkstN3pkTXcxNXlOMGNsYzhDUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGhKSVRfejBzNGxTcHFtZmNvNS1zaEhwRkl0SjN4cnVSV2x4dE5ZNHUyNzl6dXhTODI0dDdhVDZvdUVhdzlXV0YyaVE1SnFZbGJVbWlZalBnRklleUFZWW1Qc0hwT0pzVTdDNXkzeTlOcVhrXzJ4aHZoMWQ1enU5VmpjRU5YU3lmLWpJVVQzb3dRUlBlQmJMR00yclYyaEdudUFDRDhn?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWC02V2l1emI4alIxS0M3X2NCSVNIcHRUNTVNQjduQUU1QmFQQ1UyWnVrZzhFRWk1RDY4OEs3Qk9BZ1VoSHJXTDFHUFJQRjNYZnZTN0I5dTA5bEFlMFFHX2JHZHVuWnRtTGk5ZGlQMERaRnZ4V3hIQWVtUzBnODg1LWdmV3ZPazNCV1NrQ1BOeWtsUHc4dW9hRk5YZUxaeVJqUGZBazJNNjNTTDJzSnZoNUx1a0g0X2k1QzlIdkFBdTYzdTlOTTlMLTdRcWQ4aHZzWjVtdnFvbFJGTkR6UWt5SG9VSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWVsZU51V2xfX00wVkZlUGpWbllCc2hzQXl0NXhUVTllTXhKWkc2azg5RTNpN29zbTJaS3c4NlBod0lOUnFGSTJCeExwSzdpWGlfdWVpYXRxVGoxRmlVT1M4MjR3MjlYZ0kzTmRTeWtUZzJJMnBkR0RLQ2NNaXlGd3ltRDhtdnRvbWdqQXJkRmszVjdwVE9GTHQxbUZfUUFyOUhMdGtqTmQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY2FxdEJydVpUbk5Ra2pQRlU3RG5wQjZBTDVfVVd5RlBwQ2NWb2pxWjV1a2hmLVd2T2UzbUh5V3N6ek4tSXVydDBFbHNBb3ZsTzdla1FzLW8tUFV5UDhCanRXVm9SbTNnSjdkOGhnTjFpNGNLT1Y3TEJycTM2ODJURms5LVo0VmFzR29OdFlsWlR0SDJ0ZEE?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGIwdW5lVHFyVHRQU2V6dVBLR1luRkVURkdNQnVoTVFtbzM4WmJlUTVXRXBlUjRYTEtYVkI1eE1RUHIya3pCUW9TTHFMSVQxWnhkd2FWaHIxUFVLaUJNWHRyTGFfNzd3Wi1Dc0VjX1ZmUjB5VUh4T3hXOFZ5bGl1UlVXTnVudTBibWZROEZuWnptYzFHYmdKOVVWUnVMaTBvYVcwN3lVd2Jtci1kTlYyY2RWbzJqVWJr?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDg0WlFCVExPTU1Kc3lFQ1lkTXV0OEh2OUE1cWlTOVRYaUsxSTNmQUZQbkJfaXZQX3htX1lQWXBHNWhNQ1Y3QU9qOGhaOXp6NE5QZU9QeUhDaGdqa1lkUVNpTEZaemdrQzlZYThGY295NE02X0g4dUdveS1CbWNfSjFSZ1JlWVJqcjZlZ3pOZWRsN1V4cjluX1lNVE1FZ2ZISDA2RmtoRlEyZ3dzS09FdGNLeFdpZG1WYjJWbUN2WTZrc2Vfc3JrcVoyOU8xRzdXRTR4anhxc1BpSmFOUnFOemNzNA?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWkh6Wm11alZpeXd3aWNJUmNQQkxFRTI4WHpKQlhFWDlYZ2dIR2RYek53VVd2ejI1anl3VmxTSEVBZHUyWk92UGV3cGxjSFB2YzhhTFRrSjhsZ1BzdURGcDV4WHg3N3ptMFRZSHp4OWRZZkdRZlNQb3dMMGdPYVVnWHRfOEVSUzlYQlRJQ190MlZrc0NPMkY3ejRORTBwNndnWExhUzhTUGNpV2JWU1NUN21rbGlNa2pUdUpFR1R1dWZweVdJUm9BbnRoM09LWUdtbm1oSGJSMA?oc=5",
@@ -1199,7 +1193,13 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnBma0poOHppdERtV0IwNVZQNmQwdzgzZVU5a2Jjc29Ob21sOU9CZFhvWmdaQUk4eWZsNmZnWjVnZTNXTDBpOE5XaWlWVFh0Q1kwSVRvR2JoUDZ0TzF5YkQ0dTBJVll2V3ZBTUYwdnU2VlVRWkt3Wm9NSUFLSWM5N2NpTEx3NlBSUG9iT3F3?oc=5",
     "https://www.middleeasteye.net/news/south-africa-durban-mayoral-candidate-says-he-would-welcome-netanyahu-despite-icc-warrant",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVNGZFJHVDdBMS03YmVWQS1JUU5PWlRXdmNtd1ltSGg1cm5TRmRkaWtKbUxjTkxObkJ4ZTh6VWxFbUVhOTVwbDB2VWRTNHdRcTVQY3RPZDBQN1ZyczlGWEZHbEN2U2tkTDR4c0U3SVh2Sks2aERlZTNuOE16MF9Md0kxRGhGbDZydDNic2ZpVTVFNDdNQUZLbElVbFk1OU1YMHhlMA?oc=5",
-    "http://www.africanews.com/2026/10/23/johannesburg-men-run-in-purple-briefs-to-raise-prostate-cancer-awareness/"
+    "http://www.africanews.com/2026/10/23/johannesburg-men-run-in-purple-briefs-to-raise-prostate-cancer-awareness/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/military-vehicles-storm-west-banks-hebron-israeli-army-starts-days-long",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVUFOTTdkcDBJMl93UC1tS1Q0UGVTa0U1NlItRDhTTGpLMFhJSS1xNDZmMk8wOXFYWEQtTmdTZzV2bS1LN1JuWEE0X05hdzZmeUNXVWJzYWpGRkZMQ09KeGlEN21rSlJxeWg3ZGxmRmZwRFJwc3llZlpBb2RjZWs?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-gaza-city-kill-two-palestinians-wound-several",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmtld2hsUlRXUTc5bnhfbVNpRmtuckZUcFdadno3cVRKWFZuWGlQQ0JZRnIxeEhSclU0T0VnZ2dDMlZCM0VwS05Uc0hYS3FLTWtxX1ZVYzZMMUg5cEZLMmVYcDA2dmFVU3hyTUVvNlJHM3lnbGY1Y3J2VkdRYndlYVU3TVJBejlTOEsxQk53UU5vd1pjNG1pcWRUdl9yNVlpU3ZXNFRrMmx6Ukx5MERWanJ3NWg?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raids-demolitions-and-settler-attacks-hit-palestinians-across",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhuWHRTY2U1ckZLYXlXRGtObllFZ0lUS043cnJGanB0dXgwZTdYcEk2YlQtLXVfR25BQllodFJTY0VHWW1FRTk4X0poU2N1aTJxUG9yWmFna2planA4OEUzbzVUUHlpNXhKMVd0ZkcxaFRrODRBMHVvYldkN1NEdW8yUm40ako3bzZXMVlOVy15anNSNTJaVkFtTU4yN19DMVduQVNnVzZQYTZTdmhrag?oc=5"
   ],
   "recent_posts": [
     {

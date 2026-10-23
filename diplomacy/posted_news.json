@@ -1,16 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFdlRHBEb0tnX1RFbEtuWFhQS01PcDdxS2lEcTVvUnZOTnE5dmFGRVhqbU5mam1Id2JuYXhIdFFHMkJ0eWtLQy1RdV9feXVXTk91dnUzMkY3VThmaEpRNm9vY2J5WHBFSEZzcUFfSG1SRUkxMUVLUGhLTGI4RXB6d2hlUERXdm45NE9rV0RfOUYxMTRWRURmajBNUUZjNWEtR0lnTnFoTllwWVFZQXRSSXlua1pCT19URDVFeHBzdWRkQ0U?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd05FUGotNXNfTkhOelppMWNwOERrcFhiamEydm9xVlEwTl92Ml9NOVFYMDlsMzZ0YU1udmcycncxeENSMHQ1NExkNHpZamtGOXRxNlUyUm1FcjRrS2V2VmhQZ09pTzJueEJaNVNuQlFSbU1BZnZldmlDb01IOUtyVTZFT2pORG9pN3hqVG9zSXZEUEtkNUhPcjNnS2xScFRPSEFFZHE3T3hWMHlMR3luSGstWDd2ZzBzaTNVcUljZDVtVFlOY2NBczB6YnBtM2lrcG82MUE4RFE1VV9MYmlZX0JZVEVrSDlFeGtyVm5iQzVYWVJ5dEln?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5MkZUYzBkb09BTGZYWFZoZXQtRjJwYkk2QjgyQlFSUGJvQ05KZzF4VGtuaENkdG4yY3prUXdIYktiWXlEZk5YTFpYczJveFpqSGJtX2NsU1d1enBDOG9ieC1meXFwcDU5czFVTVFWOGV2eDRmS0t6VlY5Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdlJxNVFBRTVCb2Q0Y1cwRUFsOU8wS1E0LWVPN3N1U1FtUTdfYUhGNlNuYy1vTzgwSU1WdXpaQ0FsWjFHU1RRaGpKdlQwdnpkNk5Va2F5Z1J5NzNWeEctMFpKaw?oc=5",
-    "https://www.gov.uk/government/news/uk-statement-on-escalating-tensions-between-ethiopia-and-eritrea-15-october",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE93TFBMQ3R3MC16T3pPT2JNT3FEbnJrLXpCVndYcmNJSVlOeXpVaEVlNXZKWVZFRjRzbFM3OTB3R0tUNk9kcHJxOXpCcGZkZ1l2LUQ4RGZWeEJMVlI4WVZUQlVvQTlMVmM0dlcwNzh3YmczeVVkX0JZeU1kcw?oc=5",
-    "https://www.gov.uk/government/speeches/a-just-and-lasting-peace-requires-continued-pressure-on-russia-uk-statement-to-the-osce",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PMWpZQ0ZCcFBYTDhNd1o2cmxlZjA0bUE3YzB2YjNmeDFWcTN4RjdzQ3RpYUxsZURqdDlvZ2JPYUZtbWNuUUlSTkZDZkVDcGxHdWfSAVdBVV95cUxQRjNaMldiWDAtd0hxTnRuNmo5eHE2M09uajlzWFRvVlpEMHYyWjZQNEtrNkQ1RlZGSnp4VjNrNHVJNlpGdnVxQUxpLXhPb3pOTFZxTXhtMzA?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazBCSTdXUDNnb2JzNHBUakVhMVZCdXRaeHBYWEo2YzFINWpCVHlaZ0d3RXV3c3pvWWphUEJCQ1dKYmRuZUJaRlF6LVdBMTdaLV9WVEtkczliT1F0WVZnSGlxZ2UyRWs4SG9lTEZZQWF4T3hIMU5zbEN2NWgwYndsbUhzbUNlTjFndTVrc3JkUGhTY0dTUTdXRjBVZjVlYS1zZU95UEphaHk3UkloZnphcE1qVVQ1WGhyUXVNTVNGRWdRcERDWkE?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGhLZWhvWExfV1BhRG54M0RRUk4zREJJVjdibmZlMEc3a2xJbzZONmZTeHNtbHJ2QUV0amJ1RmJfZ1BSdjBvcXhaRzBIVHBkTTNpVkpZQUFWQ1M1Mko2Z3djczM2UFhrYWs4RkI3OW05cmZGOGFQSXZJcGh3a2J1bzVOVEVsZVlBRWJkWG9JVngtOF9POGtiRGFROWNseDQ1QllrNEFocTlmNmYxQkpKbXJXVWhpQm1ueldEMy1LOHVISTZJVE5ob2xZbWRCSGZOeGt1NjlhRzIxNjRn?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5taVlMMzJpTmhHbThpS18ycHk0Nnk2NG1jSlVzb2F3T21xanFZOXpKMUNzdlhFVmFfRE5BTnB0Q0NTbUdQdk5jTFFDSFZ6b24tTGgxTWhwVTgzSmZwbXRkN0NsdVlmWk83UGlFaTVTRUk0Wnd3enAtNXZJU18?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS215NlV0aHN3WjhmdlJKVHBtUVJMdmYyZUdRUTVMSDVhNlFaMWUydFJJU3F0U0VzVmpUVV9GZWYtMy1ISFlHVTk5M2dzZEN5OGw0TmtzdWJ1OXg4X0NncHFveW9CSFQtRnM4eHZDUTFnR0w1SVdZQkhEUnRsa1JnbmZhVE5Ld3k5SVVxamlfUU51eUNtTlg4M2hjM284WkFzdVFNU2ludnpBZm91?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1FjUUxvMmNtcmVfal9vcWJOZlU5UnpySTkwcERrcHAyQmVYVDBjMm1ab1F5YVN5aUlSMFRRYmxXYXZuSlNzUXh3ZDlrblF0UFFud0Z5cmNnTHFXT0dJdkU5bVNuV3RIUmZsd0wwbEo5aVdhSEZ2TTBZc3p6bjBRZGplbVJNbEJueHRaNmJ3Z2pkSkc1SDFMTjZSTVRaZ0dWUlpWb1hycUxjWDN2VmJIVEIzT21mU0Y5ZzJ6NUVyTm1rZw?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzZ6TUhUek9vaW10LU03MjZMTnVLczdvb2labXBKcWkxRm1pSHFCMFRfX2ZzTDJtbXdBcEZONllKTFo0eUFBUk5LT0lrMG9yMDlQcFpwb2FwNUQwX3J0d0dCZlIwV21yS3BzZ3haMXp0eU16UVI2bTFjSTU0bko0ZVpiNUM3ZHZYN3daV1g2TmNaeXhxRjl6dFVLclpTZk5aYlZBel85bGZ6SWhfZzZhSFJyMGFIc2w5X1AwTlVSWFp3TWRSUlE?oc=5",
@@ -1199,30 +1188,20 @@
     "https://www.theafricareport.com/434310/meet-the-african-diaspora-candidates-running-in-the-us-midterm-elections/",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenQyT2lYUUJJU1l4V2VHQW5SS0w2TnN1QzJROXJkdEx6Yk5xLVJ6T1piZnRXM0NvY2ZkaTNzTElDXzRaQzIzOG5pN25WbDhfcEZwVEZGRUd1aWprNmItVmd1MkdwVUpKSldobTRISzV3UkRXZkVCQmJlQlFqMlhkZ2NlbTZETWZZd3ZBdjczQThUaHN5T3FzdmQ4dVdOQ214NXBCSVhn?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MN1BFNGVuc2RPMjY0LUZBSThIR3FWcFBxQjFHb0xLSGw1YTdROWtFZTVNMVg2S0ZSX053cloyZDVwbVdTTlM2SEFhaU0tQ2hwOF94VUgtM1BlbzRlanRDRl9TUEhHLVptdzNPR1hGNUtLYkxCbmc?oc=5"
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MN1BFNGVuc2RPMjY0LUZBSThIR3FWcFBxQjFHb0xLSGw1YTdROWtFZTVNMVg2S0ZSX053cloyZDVwbVdTTlM2SEFhaU0tQ2hwOF94VUgtM1BlbzRlanRDRl9TUEhHLVptdzNPR1hGNUtLYkxCbmc?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN0VnZXaGFNU3FuVXpzalRYbVd0bEdLREZITnRlUXR6NENmcGZoby1Nc1ZjUE9ScTc0bnZXcWl6U3pDRjA1dDF0c1RqbEIweENJcXp5UDZaYnRUNUZFX0xoWWVZVUNjejhNb3RCT0Z2MXBDNUtmSG5jbFEyMFU4dmFWTXE1Y1FoaXA2VmVXeXpfRVJwbEFmMFpZOWV5cWlHVjNZREF6c1BfN1VjdVh3NlVvcEMtUlEyejBXdFRkczNXWnlQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DV00yTExyWVl1bHpBS0RNM0tZRUR0b0pZQ1BEMnQ1N1NoeDV3c1FTeXZ4OFNhc19XeFRBRWozb0MtSzVGZm1adUZuQm9LRjBrSDFkMGNOdUFxMWtx?oc=5",
+    "https://www.middleeasteye.net/news/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus",
+    "https://www.theafricareport.com/434371/algeria-niger-security-pact-whats-behind-algiers-military-push-into-the-sahel/",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm9SYV9OcF94LUFKX25ILXRqS3ExNmxmanVCOXVsSXQzOElBZ1YwOGJuRE9nUk8yTWxUSG92bEM1QUhDN1Z6QWtBOHYyaFRqYmo5Ny0yWk55bFlucUJBZzRPbkpBN1RaQlJXcl9OdHhPaUxWYjRRc2N0WTRlbFpwODZVaDUwV28yY1poSERoQmxqZlZqSDN0bWhVNmRtT01RMTlSb19vdkxFWWRjTTA5amJfaXNnOEE?oc=5",
+    "https://www.middleeasteye.net/opinion/we-have-lost-hope-world-looks-away-palestines-history-crushed",
+    "http://www.africanews.com/2026/10/23/f1s-lewis-hamilton-says-hell-keep-driving-to-achieve-dream-of-racing-in-africa/",
+    "http://www.africanews.com/2026/10/23/gaza-moment-israeli-airstrike-hits-building-in-nuseirat-caught-on-camera/",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMVBVTFJXT2RCVXNndkx1eEdOakJ5ZkwyWGpzVzBCN0Z0QzQ4dDVha3lsTTRZMUZFZFlJUDBUY2tTeE4tN3I2X2tPQnRIREZDcW5XRFdpY182a1dkaFkyMlE2d3RJUE9nbXpBWWJpbFh6MDl5OHU1VA?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "ООН і Швейцарія провели переговори щодо конфлікту в Судані",
-      "summary": "UN‑спеціальний посланець у Судані Пекка Хаавісто та представники Швейцарії у середу розпочали нову зустріч регіональних і глобальних сил, метою якої є розробка плану завершення війни в Судані. Зустріч відбулася під егідою ООН і спрямована на координацію дипломатичних ініціатив, включаючи можливі переговори з усіма зацікавленими сторонами, зокрема урядом та опозиційними групами.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-10-22T04:43:51+00:00"
-    },
-    {
-      "title": "Ізраїль засудив морську угоду Лівії та Туреччини",
-      "summary": "Ізраїль офіційно засудив рішення лівійського уряду схвалити морську угоду з Туреччиною. Ця дипломатична реакція доповнює попередні заяви Кіпру та Єгипту, які також визнали цей меморандум недійсним. Подія підтверджує триваючий міжнародний дипломатичний конфлікт щодо визнання морських кордонів у Середземному морі.",
-      "source": "Treaties & Agreements",
-      "publisher": "The Times of Israel",
-      "published": "2026-10-22T03:51:05+00:00"
-    },
-    {
-      "title": "Бельгія засудила створення колишнім лідером ДР Конго політично-військової групи",
-      "summary": "Бельгія офіційно засудила рішення колишнього президента Демократичної Республіки Конго Жозефа Кабіли створити новий політично-військовий рух, назвавши цей крок неприйнятним та незрозумілим через десять днів після оголошення ініціативи.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-10-22T08:08:01+00:00"
-    },
     {
       "title": "ЄС шукає переговорника з Путіним, розглядаючи кандидатуру Александера Стубба",
       "summary": "Європейський Союз розглядає кандидатури на посаду очільника переговорів з російським президентом Володимиром Путіним, серед яких називають президента Фінляндії Александера Стубба. Повідомлення базується на даних видання Politico та описує поточний процес пошуку дипломатичного представника для комунікації з РФ.",
@@ -1411,6 +1390,27 @@
       "source": "Bilateral Meetings",
       "publisher": "China Daily Global Edition",
       "published": "2026-10-23T07:38:45+00:00"
+    },
+    {
+      "title": "TRNC підтримує схвалення Лівійським парламентом угоди з Туреччиною",
+      "summary": "TRNC підтримала схвалення Лівійським парламентом угоди про морську юрисдикцію з Туреччиною. Угода визначає морські кордони, розподіл ресурсів і набуває чинності після підписання. Підтверджено 27 жовтня 2023 року. Угода також передбачає спільні дослідження морських ресурсів, встановлює механізми вирішення спорів і забезпечує доступ до глибоководних зон. Підписання очікується в марці 2024 року.",
+      "source": "Treaties & Agreements",
+      "publisher": "Anadolu Ajansı",
+      "published": "2026-10-23T11:31:04+00:00"
+    },
+    {
+      "title": "Нігер та Алжир підписали військовий меморандум про безпеку",
+      "summary": "Міністр оборони Нігеру Саліфу Моді підписав в Алжирі з начальником генштабу Алжиру Саїдом Ченгірою меморандум про безпеку. Угода залишається непублічною, а чотири алжирські винищувачі Су-30 продовжують дислокацію в Ніамеї як стримувальний фактор.",
+      "source": "The Africa Report",
+      "publisher": "",
+      "published": "2026-10-23T11:23:34+00:00"
+    },
+    {
+      "title": "Міністри фінансів АТЕС оприлюднили спільну заяву щодо цифрової інфраструктури",
+      "summary": "Під час зустрічі міністрів фінансів АТЕС міністр фінансів Китаю Лань Фоань оголосив про випуск спільної заяви щодо розвитку цифрової фінансової інфраструктури. Подія є офіційним багатостороннім заходом і стосується прийняття спільного документа.",
+      "source": "Treaties & Agreements",
+      "publisher": "CGTN",
+      "published": "2026-10-23T09:23:17+00:00"
     }
   ]
 }

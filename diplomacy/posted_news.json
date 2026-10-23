@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvN2UxTkQxdEZNZV94UE5JZ3dFbWMySHlYbGoyUXpmRk1MdXVjUm40bVF3aG9vUEc1c3FmbGlVWFdLZDg4MkhTTndTSTVYaWxVa3lIaHdWTGw0c0o2OERmalB4UEkxY3RRbE0tMFVtWVd0SDE1LWc?oc=5",
-    "https://www.gov.uk/government/speeches/report-of-the-head-of-osce-mission-in-kosovo-uk-statement-october-2026",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/press-briefing-employment-social-policy-health-and-consumer-affairs-council-employment-and-social-policy-of-19-october-2026/",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnJNQ1hjQ29oMElqYjEtcURYVFhNVzhJMEJ0R0VkTnZCNVZ2cnNkaFAyeThpMHBPbXhqYi13Z0t4X3p2TktFSF9HLVZMQ1RhVlNJNXVfVG1RM3JzcDlIdXNLS1hZUUoyWS0zR3ZyMkI5ZTJtZmZlQm1qVU1rRG1DYkdUQXIzQXBtTW0wUFhURVpJRXgtQUtB?oc=5",
-    "https://www.gov.uk/government/speeches/world-day-against-the-death-penalty-2026-joint-statement-to-the-osce",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/15/postponement-of-the-second-eu-gcc-summit/",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fVkdIcU9ITmdoRm9MWG82MTB1Yl9jY3JIRHpObU91MG1Ud3otQ2JHMTNselpqWU4yY3FWQ1BhZm5HU1BOOGRDUFpMMU9jZ1ROOGhGWi1PTWI?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkM0X1lORGl2dzBES3JhekNubGlPQkQtOGhDSEprQmtSRjZDRmpjRzU2RzhoTjBoLWNtTkt1d2tzV29uSjQ3Ni11WVJOSzRNRkEzYm9HaVNTRFJEWUZrcmRQOHNPbzJMNHc0T2ZqVzFsWTJzek5XaXBvUm52TnVMOVZIRkJvd3ZvMVJuWDFtdGRlT2xoWXItejczUkxzQnlDa3RBcWRVOV9DeUdxTTRkLWYwY1FPWHRfcW0zeG42N0NkTGtqUFhSa09RdXZ6MkhVRGc?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYW5uTkFKOW1yZW5IOHI5OEdzZTBNZkRDUDU2dDVnYWNVN2c1b3ZiOUhrci03NTZsVkkwaV9XNXBhUDFjRmcxd01CclNTQjdsQnlka0djaGExaUdUWUZTZGxJcG9Tc21SaXFmOE43TWZ2d096aUV2OFk5LXlxMm9EMnZHNDMtYWM4WndtZHh1VTA5YUtmWlJFRXVET0t2X0RwNWlCYnJB?oc=5",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zTXBKWDVhUXBEOFBXR09BYVNOOVdYTjFQUkoteEhuM2FVZmZVUjl0T3hMaFdETUFOZG9yVDAwRUtYaU92cXNtWEtMZFZfMlMtWDJiUTV5Nk1MbEs5TGxMWE1McVk2WDVvci14aXluQVd0eWZCMU80cUN1MmI?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVNtQVVCYUNLdjJhZE4yQ0cwbVByckpodGJqV1gxelUzTUxoY2xIbG1aeUk1YXlyaU40MDQzLXluYlR4VlpCMVFkV2FoOG9nbGNIcllZMVd4d0lkOFBwWDVOb1dabW03dW9fQTdMS0dDREhBekU1bXpFZWRYWnJEaFk4VnJDdkxFSzRRb1BXMA?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2RubmVpbGlfczN4b0hub0hvdU1HSmRxRDN0Z250YjBUNTYtOEFOb2U2YV92ekdQdDdrMHZRQXFiTHVKcXRRcElUYUhrZ0ZVaC1XVHF0Zno4MXRybnVaeEowR3U1cDdSSFhTVFRPZTZDaFFBUFctY2haRU1KSFJlbVRWTUYtaWxRMkwtMlBJN0FuT1o0S3ZTUXZyM1FBRTdxVy1tNjdWSXEwZjJ0dEpUeWYxNk5IRTlROWRGZFlB?oc=5",
@@ -1199,16 +1189,19 @@
     "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/",
     "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/",
     "http://www.africanews.com/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom/",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVE95cXFXSTRtdFdzUmpBY1FpZi1xVENIUUN1dXZYdFdQdGVsMHkxSWlLeVAybk53cHVQZHgwRW9QcHd5TzU3NVZqNUNjUVdxU01OcFh4MFBvYkFCLWlqRHhuRVc5d2xiSjlYYXlPbUhWbE9uLTVVbF96eWVLbndsNXNBNVNuc2E0Y3kzcU5EX05JZnFKblRN?oc=5"
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVE95cXFXSTRtdFdzUmpBY1FpZi1xVENIUUN1dXZYdFdQdGVsMHkxSWlLeVAybk53cHVQZHgwRW9QcHd5TzU3NVZqNUNjUVdxU01OcFh4MFBvYkFCLWlqRHhuRVc5d2xiSjlYYXlPbUhWbE9uLTVVbF96eWVLbndsNXNBNVNuc2E0Y3kzcU5EX05JZnFKblRN?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settlers-destroy-shireen-abu-akleh-memorial-near-jenin",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHpsWE9aVjNpY3J5OGlEVE5DbzFqRHJTejZlbjAzNG1aNGc5bnVDVmNCc3dtQkh2YnBzUDU3Sk40NTNLMmswQW9aUWdqZjRsdGlnbm5yTHF2RGdueHJOQzZvTFByVXBJNkhZV0Y5ZmRqYVBfWjYtMkMzbjRKMC1QejFnWWlYQ09GWDZWZkV3WlUtUG80ZlZuYmRCUkc0emp2YmZFeGN6SzBSVVJ3SnFwZjcxQS1oeGRoTmZsNnhWNTdzdnUwV3M1SWJOV3Y5QzBXU19LMA?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFYzY3RUX09rVDNFYWQ0QVF1Q0ZPOXlyaC10ZGhqUUFLY0ZVMldfUnp5YWVfT2htdE0yU3dHbkF4eko2ejItNzNfeXJpYzY1aGRRZU92OG1fWndxRE00aFZnM1h0OE84cHZaMm5mQ0xmLXJrV1NuT2thbG1lVXNzX0FBc3lySVpaLUtDUTBGOUl6enRnQnU0bzNhVnNXV0xsWVkyVm9ZalBOTjdPT0Z0b0ZaQmx4YmV3cTM3WEYtaEVTSkNacnRPRzRCeVZPM2NfMjJHWA?oc=5",
+    "https://www.theafricareport.com/434373/tony-elumelus-802m-seplat-windfall-and-his-bigger-bet-on-nigeria/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-threatens-sweeping-military-offensive-occupied-west-bank",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzhDSlh5bTU0SHFkWTY2Y1Z6ZTVfQjJNSUdaTGlReXhPelNGYzFMc1VVTF93LU02Q1hEVVhRbEdjTi1qN1N0TXB0dWVXaUo5MEFEby1DU0IyN19CSnpVU2x3SUpDdktBbzJIUWpnZHdGbWtSejFMd2UzNmNyMERmWHVIbmN1S1ZCTHNXYUtwQ2Z1NE9BZUU5a1FxUVpiYmxzeXJDbm9pTDZwenpXR3NDLXMwZWkyZ2FKRExCZzc4ZGJjT1l3NEZRc2RtaTJoOVBCWUhzZ1NlX3B4YzQwZmtGQ2xDSVZ3alFQNGNoLWxjNUcyUWNmUC16TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnhGTGd1Z2ZZNFVZSGp4eFBNMHBqYklCRHJTV3hZMkxXVXNxQ1Q0dmNoMkViTnBySmE0aWFDM0VPbDUwNmVlR2luUTNTbkVuR0tzdjlJdG9EYTFnOXZZYkN2aVBZR3hlS0tibTdTUkhnbEw5NGNxaGZkLXQyS3g1ZFJSXzViUlJtbG9nWEJtWXJyQQ?oc=5",
+    "http://www.africanews.com/2026/10/23/pix-of-the-day-23rd-october-2026-across-the-world/",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT01LdDBqX3J4SDVEczVENG9jcndicmw0R1pDajZOcGdWR3ZQb2QtU0lOSjljc0drUTdwU1luclY1YklPSVpmRk5KWGl2S2NEeFE0WlVDdDVFOXk5S1JjcVhDZmczQlVwcFNQZHFzMGtTTXd1VmpfYnFwQkdBdXM2ajM4dWZrZ3BLc2xieWs2V2QzUkhtRlR1cmVBdDlwdHYxUS1jbVMyVXA4WTI3TkJOYndGZ3F3eWE2N2dqM3JJNnVHM1NUSC1mYWFyYm1DMF9sMW9RRkRvOWw2UFpTWU5MOUhGTURkRWNE?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1T3l3V1VCRW9sMzRWWFV4VHJmVFF5UFNZdjZtQ0Z1aWxaZFZwclhUUWlpM3hqVER2dm5zMnRCeUxOZ0xCSjlyNmtNcTY?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Британія заявляє про необхідність поваги до суверенітету України",
-      "summary": "Британський делегат Джеймс Форд заявив, що для справжнього діалогу потрібна повага до суверенітету України. У заяві, адресованій ОСЄ, він засудив російські масові удари, наголосив на територіальній цілісності та демократичних виборах України, закликав до діалогу і підкреслив, що діалог можливий лише при повазі до суверенітету.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-22T10:27:34+00:00"
-    },
     {
       "title": "Велика Британія закликала до посилення боротьби з торгівлею людьми в ОБСЄ",
       "summary": "Велика Британія через заступника посла Джеймса Форда у заяві до ОБСЄ закликала посилити міждержавну, цифрову та фінансову співпрацю у боротьбі з торгівлею людьми, підкресливши її зв’язок з організованою, кібер‑ та фінансовою злочинністю, а також потребу у ресурсах та жертво‑центричному підході.",
@@ -1411,6 +1404,13 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-10-23T12:42:49+00:00"
+    },
+    {
+      "title": "Країни ЄС збираються на засідання Ради з сільського господарства 26-27 жовтня",
+      "summary": "Країни ЄС зібралися на засіданні Ради з сільського господарства та рибальства 26-27 жовтня 2026 року. Учасники обговорювали політику підтримки фермерів, регулювання рибальства та стратегії сталого розвитку. Зустріч відбулася в Брюсселі, а рішення будуть затверджені у наступному раді.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "published": "2026-10-23T14:38:38+00:00"
     }
   ]
 }

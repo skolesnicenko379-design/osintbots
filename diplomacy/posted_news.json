@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVpyT1ZKeE85cWhDTTRkYnQ3b0syMTg5VXh3UGN3RGtONHkyelFsNUd6MEZrUERLRnQ5d1ZoYlN5Um1sWUt2YkhxVGFaLTJYazM0RmN2UFUwaVZRU2t3Z0lkb2NaS3dLSVktUkFYN1dvMVc0M3JGQXBWNldGUU1aM1lYUkRLNVBuUFZFZEtteThwUkVyVGJwTWVtMXh5aGZhcV81d05ZRnJCUWRURTZxa19pdUEyQdIBygFBVV95cUxQNDBodGlaVWh5V3IwbmViY3JBVjc4b05RMmdGZmUzdDBCVTl3Q0hNZjFiZXRjODNaNE5NR1dEYk9qaUw2WGFMeUVZdVdrQnIyeDFZalUzZVRRV0o0bUxzTW54RWwyVmx4bkZxVU9KbVU5eXZ5cGV4NHZQVXV0WTBCU0d1dmQ3eGd3aUV0SnZlLXdNVm5VT0ZpVktxOUdxYVF6dUxiN01wRzhvdEVzWkx4bTdzbktiNWs2Z2kxZzFPay1wUS1td0VkbWln?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUpfT0g1QTFyR014QlZLUjg3VlVsSm50YWZCcTcxbTNzaldBVmY4RFg2QjczX3RFcWY0Z1NTTDBkaEhRSzRNRF95MTJjbm93M0RqVFFHVjVpZE54bFB4NnJBWEtSS0FEOVRISDdYV3pyMDhxbkpSUjFTQ1BaLU9LOWkzSmZXM0tOZUxHM2dFMlhjYnVWdVVQVTZWZnpOZlZqbnBxag?oc=5",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd2NUei1ZS1g3N3pYSnlQbHdhX19FeHdjVHM0cWkxTTVCRUNnTkhnZnlJNmVMLWNoUVN4OXdZTk0xMXgzUzQtUFZBeG9Ha3B0b1FVUmFWWW5vRjAtODdHWl9aTnA0d0t2bGVuWDQzRVZibEs1WHhIVGtFR1NoQ1VhVkJVbWc3QUcwcUhzYzBabFl4TFFHajhzUEhfU0p3Ykd0QzRKdXlELTRmRHpaR0I5a0dTSDJTRVZqeUxremFHaDNhMTdXOVgzcFhLU3M0bDlXOU12YVdNd0xSNUhKdl9yU2U4dndLOXBSYklzQmhfSnM4bGE5NXRaRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEppSWd1YUFRSzd3WXVmWGFaWGRidUowNFZMbTJFNGRHWUNYY2VzQVh1SWoyMm9jd1d2dmpnTWhKV2I1QWxtUVJaLU1Qdlc5R1JaQ0YySF9nWVRoQUFwMUFzbl8zeUlOV1JNSXl5R0l0bkt2MUpzSGVSNjRIMUtiaE8wMWd3WGY4Z2VqYVpQQjdfX1pPT21ldWJNb0FSUURFZ0pmalpWYW9wV0NvczQyOWtrQkVZNGlDRGdoaEY3SkhZSWE3VEJ3NGJxSlZwXzJhTll3QU5jY3dTd1dmZDFz?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHd6UnRBekI2NUwxNW82RVJhRXR2bFRNUnR6RWQ5OGNVMDBEcUpqSEg3ZWN6cmFROUlJSnR6eUsyYjN6X01OQnhrRUFpaXI4Q1ZLSHVHVFMzLWV4MEtKYnFzYU1fUjY4Y01WNy1BSWdXazA1clY5ZmdiYU1FTk44dEt0dnJGVjRINU5TOF9Td01ha0U4M19sSGJnbEZCb1NVVHF5RTFpbXBHazlQOGZ4VVNxMlNoRmtHTmZrbWVBa0NDSXNrNUV2Z1JR?oc=5",
-    "https://www.gov.uk/government/news/britain-funds-critical-repairs-to-chornobyl-nuclear-power-plant-damaged-by-russian-drone-attack",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWsxVDR3UXJQRG4zUGVqZ0YyYXFMOVBvNWJkZFZKMlVnZTBkSmVJY2FtOEprbXhhckVrbWNnWmVWX2tfcDRZVG5TUVE5UXlNdnhNZ19rb29zeDhsT1FNTm0wSzRwbmtfYVJscUlKa2VQM0dEb3ByX09mbXNRWnh3WWs4b20wYS12dHpyTzRhWkN6WXhrMk5wd2J0ajQ?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVncwRGNIRHFQYi1ZbzZkV2RyUnk3QzJGZXZ5cEtTbjhxMFVKN2xSb041UVh0ZXZzYnpibHlKNlNVb2dJeHdOeE1KQUdBQnVLMTF5SGxob25raG5aR0lrRGt0NFBtODcwYy1RM1YxYjM3UkFldzZNeUx2MFRreWljYkJSR2xHRmdWdGdpeVIzcUdDQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFo4NGpaUjA5VU9xN1dISmpEMFp2XzlCbjV2ZGkyam9VUE85Nk5sVE5zbVFIdktLcm8wS2JWdXhyTVBCM2l0QmV5RlZJUFRGWUV0VEJkd0trMlctWEMxWklwTDJ0UWtTdGpPczBJSXpydE9WbU5rZVM2UndJcFNIVnI1OHpwT0E3TC1GWlBUN0c4dnBhcUJraTItTUtfUWl3M2E3cnA1dkh2Q0HSAU5BVV95cUxPekdrcDh3LUFfS24teHpLcmdKN25XcTdsdzRVMEsyc0lLemJ5c1BwTUhhakFqQzRKQ1FaUnlqUTFNRnp3X1hCb2JQMWlucUE?oc=5",
@@ -1199,16 +1193,15 @@
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSUIzcmFHUmo3U0xRcjljMHVyWm1sSXVHb2lDa0ZVcFlQTjdTdWZmUVd5TE1ES0ZZUFA0S3RHUlJMWWxHOThzeC1YTnRfcFJrZVNSWUdJUVRZUGFyaG1TZm5yRGNDQWVzSE5ORklGVkZSSGJaV25LUzRJWmcyMjVRV0puZEN6WkRNWi05REp4VUlyb3otNUdoYkhxajFEbzdHY1kxcUJCTWlYTE02SDZkOE9kc1NyamF3NmhCQi1wbEFqQmROYnExZzlpLXZmLXhuVlJ2ekVDSHVmcU1LS1p0Y2dmOUNzZmk3bWtKSGM1LUFwcFVad3RN?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/uae-announce-temporary-closure-umm-al-quwain-beaches",
     "https://www.middleeasteye.net/live-blog/live-blog-update/when-saving-your-pet-comes-guilt-reality-starvation-gaza",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1dVdmttTXI0OEw3RzBEeGlGODVNMjdPSGZYMi1Fbzk5cDZ0SnZwb1FlcjVGWm1LX1RIdGhaMUlVNndPdnFEZkxqc3dadzdHUWdORVdiSmhTdmRzQWJ2UUVXaEpRM3NJYy0yNEw3a2tGRW9qZEN5NTJ5eE9OcXpvSGcydlZ3UWlaeFJZVGtXQlU0cHZScklUTUhkY0d0dllSOFl5RXo1U3JSN09sYUFzTlppemdXS3FVR3dUYzVrVzlCcFlUX2xVejFaRHY5a3lMYnF5OTV0QWtQWUp1?oc=5"
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1dVdmttTXI0OEw3RzBEeGlGODVNMjdPSGZYMi1Fbzk5cDZ0SnZwb1FlcjVGWm1LX1RIdGhaMUlVNndPdnFEZkxqc3dadzdHUWdORVdiSmhTdmRzQWJ2UUVXaEpRM3NJYy0yNEw3a2tGRW9qZEN5NTJ5eE9OcXpvSGcydlZ3UWlaeFJZVGtXQlU0cHZScklUTUhkY0d0dllSOFl5RXo1U3JSN09sYUFzTlppemdXS3FVR3dUYzVrVzlCcFlUX2xVejFaRHY5a3lMYnF5OTV0QWtQWUp1?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHIxenR6ZXJmUGc1VUVIYVRiNmJsOE5zYTlFcFVHRFJZUThPcm9uYU05RTBtSk5RWWVGYjR2QUVuTU9CSkVMQkpVbmVnb003Z2hFTnE3R1BrQXlkQzNtMzYtVThhd2tYQmVuMUl6N2J0bkpFVzlNcXZ5WlF2d01ESS00SS1Eb3d4MUFlWC0yam5MTFk2QXRnc2tJbG9OSDJUVEdISzkwOUFYUnlaczNPQUpmVEtVNUk?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkw3ZXVpd3NUV2JqelBpckw5WnBRUUJuNE5fcDZJZ1VtVDlBTmI0Uk5paGdNZWV5ZjlnTWQxeVVwZktyeTF3TER5bzdGUWpNOEpfeGNjVWQyazM5dEVqRDYyd19PUHg1ajU1cjNIUFg1VHJKT3ROdkp3V0FBY0FNVENxbldkMlNaa1BfYnVXcVFmTzZTcDQ2VWZKWmVoaWNuT2x0Tk53WDJ5aWdCaGVTRWVrNXpjMUxBMW44?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxObHpYeWtaNkJVSzR3b2FLSjdveDdaQjczZUlIYzk2NXdlblZtRzc3b0Z2ajNYWWtUNlZhOTVnazdMYVhmNTlrY0hUQUZlTmJ4OGVkUS0xbC15VVpfalRuMkxYd05uQ19yajh1UmRnTHRFREZKLVZTN2NKLVhVU2RHYlJIb0hHU2lqOWxOZW14S2tUbWJSMkhqUkdGX2hkQk83SUtibw?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xLW54Q0FmWmN6M3hVdVA4VV9YaFdoQ0x2eC1kWENha2ZxaFJvVjZPU0EtWjZlMDUwNkQ3Y0psR2lab21LM2Y2YW4zbEZGTFNiUTFpVTJTWWhkYVZ6enpUQ0RBV3hLWXB6WnZzVEpGMVFvMGZPTmN1Rm53?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeVpKZGlxbGx3eWtUUW1Dc19HU0I2ZGgxZ1dMQVdwZG93Z1lMQVFfNVBjQjNLMnpOZlZPaTU3UnBWaG5Pc2RvdmNUX1BqVE1sYk43dWthUmJ1MjViWFVhUG1EM2NUSkxOUTBUVXJmM0hzOWp6dFVjTHdB?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRFZYTzBhczdjUm9oZ3RsblJTc3FqR3BOeGxTcW50UTZ2a0U2SWg5aTRJLWdJZE53NjRmUjJNejdpby0xaHFJbjN2eU05SmstSTVhbFI1d1F1RFlsX0EzOGotRUhBSU53TTB4cGlaM2F4ZDZydmdLUEh3?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Держдеп США наказав виїзд персоналу з посольства в Саудівській Аравії",
-      "summary": "Держдепартамент США оголосив про наказаний виїзд небезпечних співробітників та їхніх сімей з посольства в Саудівській Аравії через зростаючі атаки хуситів на цивільні аеропорти та інфраструктуру, що спричинили жертви та порушення подорожей. Спікер Томмі Піготт підкреслив пріоритет безпеки та спростував повідомлення про масову евакуацію.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-21T20:33:08+00:00"
-    },
     {
       "title": "Кая Каллас провела зустріч із міністром закордонних справ та міністром оборони В'єтнаму",
       "summary": "Високий представник ЄС з питань закордонних справ і політики безпеки Кая Каллас провела офіційні зустрічі з міністром закордонних справ В'єтнаму та міністром національної оборони В'єтнаму. Подія зафіксована в офіційному прес-релізі Ради Європейського Союзу, деталі переговорів у короткому повідомленні не розголошуються.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "Cyber Daily",
       "published": "2026-10-23T01:37:07+00:00"
+    },
+    {
+      "title": "Перший раунд консультацій ЄС‑Норвегія щодо рибальських можливостей",
+      "summary": "Рада Європейського Союзу через Генеральний секретарат провела перший раунд консультацій з Норвегією, присвячений обговоренню можливостей спільного використання рибних ресурсів. Сторони розглянули потенційні умови співпраці у секторі рибальства та підготували основу для подальших переговорів на майбутнє.",
+      "source": "EU Diplomacy",
+      "publisher": "data.consilium.europa.eu",
+      "published": "2026-10-23T01:46:56+00:00"
     }
   ]
 }

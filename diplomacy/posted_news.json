@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://www.gov.uk/government/speeches/we-are-witnessing-an-industrial-scale-assault-by-hostile-actors-like-russia-on-the-information-environment-in-the-uk-uk-statement-at-the-un-first-comm",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHNBV2tlU0hQbXUwelZHMG0tdDdXVklaVVVVZHVnTlJzNUV1M2tyWUxvb1o1czN5WUE1QzFldXNpOGgydXJaWDV1QVB6emdreG16SDI4NDhwRTFlNmFzVGt3WnVFcDh0RGRhSGVKck9rR3FqdURzWm13eFk1TEFZMnAycHdtSDV4dUNlZW95Slp3eUF6aDhpLWhZZDctYmRYM0hjNFdBVjFnQkpmWHpkMVp3OEZId2dP0gHAAUFVX3lxTE5TMjczZVBJbXNFaURUZlJiMmYwbVRqRXFTTDJfZklLVHhMYUV0bFhiaEdqcUlFbE1DQmJlajhNcXd0alFDZWswbnVkSVFuQzlaQUdfbHRMY1RGQ1dIRFQyZTF4WTUyRHlPSFNnbDJLYmJIdlZkMXJZTFFLYXRKYzVaeVJCdzhqUm5PSkNFZVpWOHRRc2E0UnAwUExNRW5VQnNmUlNPRjhWdVBndWhHZGk4QWxyMjNfVVF2MUpJV0RQcQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGw1SVBFZU0xTGFvMnpqTURjY2VLNWk4Z2VWMFJQZlVGREF3UF8wbVA4Snhka1h3em0wZzgzVHFvTDM2YVgxa3JzWFd2RE1GcFBkVWlneTFXMVhOZVVLTXp2OHF3aW5icHdNVmhUOTIxMnNmV3prNEh4VkdXX1E3eHJpRVBQUWpLWTFiamVzM2h1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMGU4M2JuOFYwSWVkNDlHc3JTT3hjVXFSbzVkci1wYTBXMEVteUZ0b2N6OFJjLWlOT083eThXamhjWmJ5QVdLU3ZEdWJ0VmtCVXF2cjBObGkxOVdqUk9Ta0xyNXQ5Q1FiT3RSNVRGX3RRN2FGd01hWEFsdDliV0ZKM3k4ZEpTZHM4MEM1bWk4S2FlQWFrUzdtS2M1b3F3TEc2WnNHa1BialJUZktncjlJSmFrQ0pDY1NaZ2E2SXdacG4xSjBncmtoXzROOHVYVlZVNnBZTEFGcEhaUFNDSHZ2WVExR0hZQ3dzemFQWg?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQenhtQWNjR0l3TUVWZEZtU1dEeXZwaXZ6UnJUXzlHeEYyaHZWVmZ6OFRCaHdtUjFOTFk3NUNoQ3l1M0VsdldxaF9nMkhfTHhmRXItM3hDWUNWcGVvSW5XVzJwcFZiQS1vRXpjYm8wSHFXUkpkcXg5VmgyR2tCVHlqUjd4bHJoelEwWTZrd1JqTXAzSVdKRkVLbDVsWmZjb0FadWE0RUxCSnM0UG1xWjRvQUwzTDN1VVpyNWhKQ0dKdFkzZDBqb0N4bjNNOWY?oc=5",
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVnZEd01nOS15dnhWTW5KZHBFbGk1MUlYc3BTMWEzVXoyVGN0MG00dmNNQ05sc3h1SURQS1N5aHhueGdGbDlDS2NaWWc3aHFWSjVkZC01bnNETjF4NW8wNDFIUlpSTFU1VnBiUmJTVkhFaXhQc2lLZW1jRmVZODB6bUtHZWJ0eUdxaUFEd2R3TDVLRk1SWHgxNkpjNldPX3JJcnVrSXV6VDVlTGxZNW9zaVFJeEstbW91ajFMMzhKd2ctbVRqRzkxNDJ6QVhoZFpDWUo3cFAtTWFHX2lWZjF2MFZ2N0FFOG1MXzFuMDY0ZXRrNnVOaERLbXFrMTVOMlI4cldQajNTS1c?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TeGJ5T3h4dlpfZnh3ZlFxakhaWnJQaFdvQ3lRbnFQOUJIRE9QYmNCemVPdGYwTUFBa2dzNHNmUFROaEFxd3VXX1FtT0JFWlUzdEFaeGxrYVRsdUNLWFpmWl9kaE9JaEtXZVRQQ05OazNiXy12M2hRc1Z2ekE?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjVzUXNmZzhWTF9UT3ZrOFNqS0tUckxuby15WG1jaF9MWlA4X29tdGFnMUxuQzJDcHNwdWdjbF91eldPQ0l2elhab2FDTmEyYVdaeG5GMTFtYlJIMFF0bjZNbWp0Y0VaQXJYVHVRUWxDendJNlVvSV90SEZFOXh6UmZfeFBZSTdwcFlPREFRSi1YWHpieG80SVhKSkhIbUhwRkd1bzhQaW1YUU80OURFNXFJUdIBuwFBVV95cUxQR2pfVFQ0S0V1YXp5QVVXOEhvenB4YXlkeXV5dnpfdldYMWhTUTdiNURuYmVLWllGZk1JUTM3SWgtbTNlb1h1Q3pBTmtXSHJsUFB6c3IwZDFaMHlRZFhEOHNWY3pkU1dqV2pjYWdqV2c2cDNXODFPSE9nUnpnYTBuTXhxTFRMNzRXeTJReEtqRFRRaFYxd25wNkRiWE9Mc1I3NHpBOU9STDZNc3FxbW9XS0VkRTc1akU2Wmww?oc=5",
@@ -1199,16 +1194,14 @@
     "https://www.theafricareport.com/434218/green-hydrogen-race-in-the-maghreb-is-morocco-still-one-step-ahead/",
     "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-postpones-un-global-forums-2027",
     "http://www.africanews.com/2026/10/23/who-africa-facing-complex-ebola-outbreak-after-nigeria-reports-first-case/",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW96Z2E4Z2I1M24zeEh4RUdiVmFNdVk3VEFHckNvV0U4QU83LUxYR29YLW9mUDMxeWN1MnlodGdhb1RieDBRcjA5WkdyZGxGaGU3bGNuc0M2dUhIUEVtamJBZlNIdEtGVjJub0xnQWdDSXBQRnhxVWp1R0sxM01lbXJ2VkJRdm94alZ1S3RQbWRwMHE1T2NnZW9hNENRcXk3aGh5NDJJS0pBSlc0V19lWFpYQ3llcG43dnBydDdvMFVTdw?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW96Z2E4Z2I1M24zeEh4RUdiVmFNdVk3VEFHckNvV0U4QU83LUxYR29YLW9mUDMxeWN1MnlodGdhb1RieDBRcjA5WkdyZGxGaGU3bGNuc0M2dUhIUEVtamJBZlNIdEtGVjJub0xnQWdDSXBQRnhxVWp1R0sxM01lbXJ2VkJRdm94alZ1S3RQbWRwMHE1T2NnZW9hNENRcXk3aGh5NDJJS0pBSlc0V19lWFpYQ3llcG43dnBydDdvMFVTdw?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWpqQ05pRy1Yd2JHRWVXdG9xbWYwemZoSEVhTFFKZjQ2TWROcnhhSGwzWmdEeTQ3aGJCa2ZjbGJ4V0toWmVkUXI3TklSaDg0ald6TjIwbjIyU3RNenZSN1V0Tm93OXZ4YUVrZGZkX3N6Z0JXZUFsREtzTzN0UW9SWEd1anZEY1RCNEI3OTQ1SC1VUnVPU2dtUmVJVlJMRWRUNGlDbDM2MVI1THgyZFRXOTBmY0lDYnNYckdoZjExWk16RHJy?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-us-and-israel-are-parasitic-relationship",
+    "http://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/more-shooting-attack-near-hebron",
+    "https://www.theafricareport.com/433927/europe-wants-a-circular-economy-will-africa-inherit-the-waste/"
   ],
   "recent_posts": [
-    {
-      "title": "Кая Каллас провела зустріч із міністром закордонних справ та міністром оборони В'єтнаму",
-      "summary": "Високий представник ЄС з питань закордонних справ і політики безпеки Кая Каллас провела офіційні зустрічі з міністром закордонних справ В'єтнаму та міністром національної оборони В'єтнаму. Подія зафіксована в офіційному прес-релізі Ради Європейського Союзу, деталі переговорів у короткому повідомленні не розголошуються.",
-      "source": "EU Diplomacy",
-      "publisher": "Council of EU - Newsroom",
-      "published": "2026-10-21T19:06:34+00:00"
-    },
     {
       "title": "Туреччина, Пакистан та Саудівська Аравія уклали оборонну угоду в Мецці",
       "summary": "Туреччина, Пакистан та Саудівська Аравія підписали оборонну угоду в Мецці, яка визначає механізми військової співпраці між трьома країнами. Документ спрямований на зміцнення безпекового партнерства та координацію спільних дій у сфері оборони. Сторони погодили практичні кроки щодо реалізації домовленостей безпосередньо в регіоні.",
@@ -1411,6 +1404,13 @@
       "source": "EU Diplomacy",
       "publisher": "data.consilium.europa.eu",
       "published": "2026-10-23T01:46:56+00:00"
+    },
+    {
+      "title": "Уряд Наоеро вийшов з ICC, підписав угоду про біженців з Австралією",
+      "summary": "Уряд Наоеро оголосив про вихід з ICC і про підписання нової угоди про біженців з Австралією. Угода передбачає прийом біженців, їхню реабілітацію та фінансову підтримку. Уряд Наоеро заявив, що угода набуде чинності з 1 січня 2025 року.",
+      "source": "Treaties & Agreements",
+      "publisher": "Civicus Monitor",
+      "published": "2026-10-23T06:38:22+00:00"
     }
   ]
 }

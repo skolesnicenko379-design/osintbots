@@ -16,6 +16,7 @@
     "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea",
     "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
     "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026",
+    "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
     "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
     "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
     "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
@@ -33,6 +34,7 @@
     "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
+    "https://defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says",
     "https://defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite",
     "https://defensescoop.com/2026/10/22/hegseth-memo-gambling-prediction-markets",
     "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
@@ -52,10 +54,8 @@
     "https://militarnyi.com/uk/news/estoniya-otrymala-rakety-gmlrs-pislya-pauzy-v-postachanni-zi-ssha-cherez-vijnu-z-iranom",
     "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
     "https://militarnyi.com/uk/news/frantsiya-zamovyla-chotyry-zrk-samp-t-ng",
-    "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
     "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
-    "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
     "https://militarnyi.com/uk/news/kbp-international-drony-taron-ta-sabre",
     "https://militarnyi.com/uk/news/kongres-ssha-proshyt-trampa-pro-starlink",
@@ -64,6 +64,7 @@
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
+    "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
     "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
     "https://militarnyi.com/uk/news/shho-vidomo-pro-novi-versiyi-geran-5",
@@ -91,7 +92,6 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDRLYlBMU0lwNkNnM1djTnRWQXZTLU5zNzhWRGdVWUxOMjU0czB2dmZfeF9JUDJleWo1d1NZU2hiVGg3Z2oxYTNzNmg2ek90SlFRblpTNVgwVE5zSTJ4VGNQZWxiSWRMNGY5NUY0VDFyT1oxMWw0LVE4RE9QZng4cy0yQ3RDZVltZjR0aGd1WVJjZFFxTjF4Uk83dDFiaHY1WW1feFhIYmZmTDdremcxczZRN2xBQTJ6X1I4bHRNcTZMLThyZFRWTFd3T1dVX1RVVlZ2bnl5Z0p5d28",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmJNWGo3OHVZZzRBZ3M0MGUxaXdOZzRiN25KSmRrSEhjOGgzRUxUTHhORHFwYjhka1hxMHJaS0tlLWhWcUQ4aldfa1RTYVN1SXJYQ3lXcDBQaVh5MFVWSkVoWGc5ZXNKQWZQa1k3TDBRaVh1WGx5dUlVOUdYZG1mOFJsNzZhb1RSOGJndVBScWV6ZUp3NXhzN1lTdjBfTzlSVkJDamk0LTlWQjVpb1BQUHdCNmNoMDc5aUoxLUFyeFVMTk9nejlMeVpNNXlQVTZJOXI4WEYzWEpjYTYxV0k0WVFuUmxMdTktcnc",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0FQWDdHQXVIcFptbklPMkIyRFZodVU5eFIzX0FhWWV5allHNUViUkpBMXZiTkdlakpHNmtOZzhneVpvam1jSVN1VWI4aWZEZFFQbW5NMVktaFBPLTFWNEprdjluUHZJSWhZUXluOEdQWkVfWFNXNEtuN1RnRXY2cm13SERYQzNPdl9kZlFkVGhGMXJFWEl6d1MzWnBBMjJtMk44YXlxY3JsRkthZ0hPZS0yMWtzRXZOS0VZVElNM3NCZmRXQkN3OVdMZkF1bFlhS0U1M2dxczIybldpeXkwbUlmZDRwUGE1cW1z0gHwAUFVX3lxTE1HcHJZeG42UG9uc3RETnJaM1RQWC1jSEx4b1JTZTNoMXJadUZac3lmSk1RRXJJTzlmd05xckdXR0RtcGx2OWV1YmF6dF9lbGhBZ05mX1NHOGk4WHlGenBUYlVNeWNmNGJpWE1GUUkyTC1ZZVFzeGRRSjRTdzdyZ1JMN3lLNUViV2NnTEZDUVctZGYtSHczenJMRVNRa1NnaDlFRjRIaTFOa011RzctQnJXYkxqa2tSZ3VtMkpYczBBbVdGYjlWS1pxc0VleTRBUG44bEZqV29mb0tLLXN4elU2NmV6TWNmTTg3OXRYVG9rNg",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW1ORWxJUy0wMmVXWDhGb2dMd1R3NFRLRDh4aVRhcDFaejNkS3VUVDBRczVhUHVZZzFKVmgtR0VscGVpUHk3WnBlczdZa0RleU9mZHVNS0NrY0ZYOG5PdUVDc3lZUXBKSkVibmhITnhuSGlaMWh3U09qNFZfSmtjWXBxckY5ZXRucVNLN0g2LUNpY1Viem50cHZSWVJ0NEV4TzBWdGhyaDZ1c2hiTFRxcGI5cmNDRkFKbEkydXhZamFQXzFmRURNYUl6Y1k0M3N4Uml1dmFoaVo4U1owZkFmdWoxUnZoRjdDQWlick5R",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
@@ -136,7 +136,6 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN0VnZXaGFNU3FuVXpzalRYbVd0bEdLREZITnRlUXR6NENmcGZoby1Nc1ZjUE9ScTc0bnZXcWl6U3pDRjA1dDF0c1RqbEIweENJcXp5UDZaYnRUNUZFX0xoWWVZVUNjejhNb3RCT0Z2MXBDNUtmSG5jbFEyMFU4dmFWTXE1Y1FoaXA2VmVXeXpfRVJwbEFmMFpZOWV5cWlHVjNZREF6c1BfN1VjdVh3NlVvcEMtUlEyejBXdFRkczNXWnlQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWpqQ05pRy1Yd2JHRWVXdG9xbWYwemZoSEVhTFFKZjQ2TWROcnhhSGwzWmdEeTQ3aGJCa2ZjbGJ4V0toWmVkUXI3TklSaDg0ald6TjIwbjIyU3RNenZSN1V0Tm93OXZ4YUVrZGZkX3N6Z0JXZUFsREtzTzN0UW9SWEd1anZEY1RCNEI3OTQ1SC1VUnVPU2dtUmVJVlJMRWRUNGlDbDM2MVI1THgyZFRXOTBmY0lDYnNYckdoZjExWk16RHJy",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJzbzRyRDVzTUJVc3RoUE1LdEI1Yi1UTnMtbHBZd2dVZ0N1ekQ5OEZfczV4eEpfN01vaGkzVzV5TkRGMzEtNXhxblNHUXJROHNfd2RDNUstMGZabWhxQ2ZHUlQyNEEtS1JWS0ZKRUF0LVNyQ1JkM01Pa0NkTmI0cUJ4LWJ6Qk9OOXo0MGo5ckx2VmZUOHVOOXRfel9FcVdnWkZ4WDc4dG11NjVhZkd1X1N2Q0xvQ3VreWptZ2V0NXhjLUJf",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa00xYmRlU1k1NXhfQWgxM1JkeDY2eFE2QXZPUExfbG80ei1BSUs1SVlCcjhqVnpGd2ZiUFkyZkpwTEVZd01yWTFVWGhrRVpXUmZDMkZoZUhXbFFJZVFsYXF6TkRxcU92c0k0TTc5R2czVTFQOS1UYjJ5UmxISndEVHh0OHdRWEpKQVUtVGZvZ0x5M1JmT1Q0bVRsWmxJT2FyMW5QUFVxTzhmYUVuMkowdmtGNUN6RHZXYzhYWTRuY2U2N0RWWVBJVQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDRyTU04MENCdmFQdHN1WkVxRmtkejRROGtNcUhaZy12SWRCd2NjSmhHYWVWTmpSdEZRdkZMME9JU3hoR2cyNEVuay1UMGtnaHhwR0NBOFJTdThuZF9zazNTaFRtcWRUQlVYTjA5RllKWGNFUEVDTmhHdUpyNVE4eUhtREZuX3Vmb2NsRExYTjZiOFVTY1p2aDBIaWdPd3p2ZjZzLTE4cGVvM3RjN3lBZktVQTJSWFZGRXpIcVR5ZU9uTk8yanRTVA",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU16TFIxMzNCNi1xNGUwSm1oSlpVaHR1YnpjNmZyajVmRENLNkswY19hTG5zQlE1RWp1Yk5NSDZCa1cyOTNBUTZsVElkWExhRjl2c0l6aTVWc1dVX3NjQmdKdjNFUFpxTDRMaEx4YWpFQ01IQS00ZGlJOXlVNEhtRHVkckxXN0Jjbl9leVRGbzdIOXVQLTE1T213RjNtV19zMUZxVFcxQ1VnX2ZTSkRGRDZzTkRjb3Q4eDduRmhiNE9qVjVEZ3lGb3RSMNIB0AFBVV95cUxNc25EdzktTUVTc2xMQzJtTzY2TEdjSlJhQzhCd085VHhfN19BSW9nMU1wdDllbHlhMHgyT1BvVTd6Q09nNkpUUG95RDdCUEROWVJGeU5DRHRYSzEyT3BZdkN3YUdmeGY0dGJLZ0JzT2FEeW5qTG5aU2hnUkJabmJhTWVnR3RvbmVVbVVvQmZ3b3M0SWdnT1B1VGh3elNMX2VMZGxudkdscFZpV1JubktZekFfYy16RWRBVVI5dVEyeEtjbTNBT3A2ODRBd1ppQmpx",
@@ -147,51 +146,12 @@
     "https://theafricareport.com/434399/exclusive-emmanuel-macron-cancels-planned-visits-to-nigeria-and-senegal",
     "https://twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
     "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
+    "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "У РФ залишилось лише ~500 Т-72 та понад 150 Т-80 – помилки підрахунків",
-      "original_title": "Що не так з підрахунками про те, що в РФ на зберіганні залишилось всього близько 500 Т-72 і понад 150 Т-80 - Defense Express",
-      "summary": "За даними Defense Express, цифри про «лише 500 Т‑72 і понад 150 Т‑80» базуються на підрахунках, що не враховують техніку, що перебуває в резерві, на ремонті або в інших підрозділах. Реальна кількість бойових танків у Росії значно вища, тому такі дані не відображають справжню боєготовність. Якщо б дійсно залишилось так мало Т‑72/Т‑80, це суттєво обмежило б можливості російських армій у наземних операціях.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdmJNWGo3OHVZZzRBZ3M0MGUxaXdOZzRiN25KSmRrSEhjOGgzRUxUTHhORHFwYjhka1hxMHJaS0tlLWhWcUQ4aldfa1RTYVN1SXJYQ3lXcDBQaVh5MFVWSkVoWGc5ZXNKQWZQa1k3TDBRaVh1WGx5dUlVOUdYZG1mOFJsNzZhb1RSOGJndVBScWV6ZUp3NXhzN1lTdjBfTzlSVkJDamk0LTlWQjVpb1BQUHdCNmNoMDc5aUoxLUFyeFVMTk9nejlMeVpNNXlQVTZJOXI4WEYzWEpjYTYxV0k0WVFuUmxMdTktcnc",
-      "published": "2026-10-22T06:43:00+00:00"
-    },
-    {
-      "title": "«Хартія» провела підземну операцію «Велес» на Куп’янщині, просунулася на 15 км",
-      "original_title": "«Хартія» провела на Куп’янщині підземну наступальну операцію «Велес» та просунулася на 15 км",
-      "summary": "Сили оборони «Хартія» використали підземні комунікації довжиною понад 15 км, інтегрувавши спеціальний зв’язок, навігацію та безшумну логістику. Операція «Велес» поєднала підземне просування з одночасними атаками на поверхні, що дозволило завдати удару з двох напрямків і ліквідувати понад 100 окупантів. Успіх забезпечив безпеку тилу Куп’янська та створив умови для подальших наступальних дій у Харківській області.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
-      "published": "2026-10-22T06:45:10+00:00"
-    },
-    {
-      "title": "Іспанія отримала третій заправник A330 MRTT, переобладнаний з пасажирського літака",
-      "original_title": "Іспанія отримала третій A330 MRTT, переобладнаний із пасажирського авіалайнера",
-      "summary": "20 жовтня 2026 року Airbus передав Іспанії третій A330 MRTT, завершивши замовлення 2021 року на три перетворені пасажирські A330. Літак має 111 тонн пального, може перебувати у повітрі понад 18 годин і долати до 16 000 км, використовуючи систему дозаправлення «шланг‑конус». Це відновлює стратегічну можливість довготривалої повітряної заправки, підвищуючи оперативну гнучкість ВПС Іспанії та її роль у спільних НАТО‑операціях.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
-      "published": "2026-10-22T06:59:09+00:00"
-    },
-    {
-      "title": "Сомаліленд заперечив досягнення нової угоди щодо повітряного простору з урядом Сомалі",
-      "original_title": "Somaliland denies reaching new airspace agreement with Somali government - Hiiraan Online",
-      "summary": "Уряд Сомаліланду офіційно заперечив інформацію про досягнення нової угоди щодо управління повітряним простором із федеральним урядом Сомалі. Ця дипломатична розбіжність стосується офіційних переговорів та взаємодії між сторонами щодо контролю над повітряним простором регіону.",
-      "source": "Treaties & Agreements",
-      "publisher": "Hiiraan Online",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
-      "published": "2026-10-22T07:33:49+00:00"
-    },
     {
       "title": "Voyant успішно продемонструвала Міноборони Британії навігацію автономних систем без GNSS",
       "original_title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
@@ -1643,6 +1603,26 @@
       "published": "2026-10-23T18:55:12+00:00"
     },
     {
+      "title": "Військові США потребують термінових революційних інституційних змін для підготовки до сучасної війни — сказав Петраус",
+      "original_title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+      "summary": "Колишній генерал Дейвід Петраус зазначив, що безпілотні системи вже забезпечують понад 90% втрат російської армії на фронті, проте НАТО, зокрема США, ще не здійснили необхідної інституційної реформи. Він закликав створити нову концепцію війни, що охоплює структуру сил, підготовку, закупівлі та бази, і прискорити впровадження автономних безпілотних озброєнь. За його словами, без таких змін США ризикують залишитися неготовими до майбутніх конфліктів, де домінуватимуть безпілотники.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says",
+      "published": "2026-10-23T19:39:05+00:00"
+    },
+    {
+      "title": "РФ передала Китаю технології неатомних підводних човнів, зокрема зниження шумності, — звіт C4ADS",
+      "original_title": "РФ передала Китаю технології неатомних підводних човнів",
+      "summary": "За даними звіту C4ADS, ЦКБ МТ «Рубин» із серпня 2015 до квітня 2023 року здійснило 12 постачань НВАК і CSOI на понад 80 млн доларів. Документація стосувалася випробувань, зокрема з оцінювання кавітації, яка погіршує акустичну прихованість, а також, імовірно, концептуальних проєктів неатомного підводного човна. Допомога у зниженні шумності, силових установках і системах управління озброєнням може підвищити скритність китайських підводних човнів і ускладнити протичовнову оборону в Індо-Тихоокеанському регіоні; водночас сам звіт зазначає, що ВМС Китаю вже перейшли на власні платформи.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
+      "published": "2026-10-23T20:18:20+00:00"
+    },
+    {
       "title": "Туреччина не планує воювати з Хутами за Саудівським договором",
       "original_title": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
       "summary": "Туреччина, за словами міністра оборони Ясара Гулера, не планує брати участь у бойових діях проти Хутів у рамках договору з Саудівською Аравією та Пакистаном. Гулер заявив, що будь-яка підтримка буде спрямована на посилення відлякування, а рішення про допомогу підлягає юридичним процедурам і парламентській затвердженню. Угода про спільну оборону підписана в серпні.",
@@ -1651,6 +1631,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
       "published": "2026-10-23T20:27:03+00:00"
+    },
+    {
+      "title": "Boeing-дочірня Spirit Defense допоможе General Atomics нарощувати виробництво дронів FQ-42A Vengeance для CCA",
+      "original_title": "General Atomics FQ-42 CCA Drone Production Ramp Up To Be Boosted By Boeing Subsidiary",
+      "summary": "General Atomics залучила Spirit Defense як партнера з проєктування та виготовлення фюзеляжу FQ-42A, щоб збільшити виробничі потужності та зменшити ризик єдиних точок відмови. Це відповідає заявленій меті ВПС США мати щонайменше 500 CCA до 2032 року, причому цей парк складатимуть FQ-42 і FQ-44A Fury від Anduril в рамках Increment 1. Промислова кооперація такого типу потрібна для досягнення амбітних темпів і обсягів програми, проте в наведеному тексті немає даних про технічні характеристики дрона чи конкретні обсяги випуску.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
+      "published": "2026-10-23T20:39:25+00:00"
+    },
+    {
+      "title": "Space Force оголосила перші 6 «операційних» контрактів на цивільну резервну підтримку в космічному моніторингу",
+      "original_title": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
+      "summary": "Space Force (USSF) підписала шість короткострокових контрактів з компаніями EOS Space Systems, NorthStar Earth and Space, InTrack Radar, Anduril, Slingshot Aerospace та LeoLabs у рамках ініціативи Commercial Augmentation Space Reserve (CASR). Загальна вартість контрактів – 1,37 млн доларів, що дозволяє перевірити військовий попит на дані з супутників і розширити можливості резервного космічного моніторингу. Якщо успішно, програма може розширитися на більше компаній і нові місії, підвищуючи швидкість реагування та автономність у космічному просторі.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
+      "published": "2026-10-23T20:41:31+00:00"
     }
   ]
 }

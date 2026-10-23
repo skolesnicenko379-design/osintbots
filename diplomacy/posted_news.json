@@ -1,18 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zTXBKWDVhUXBEOFBXR09BYVNOOVdYTjFQUkoteEhuM2FVZmZVUjl0T3hMaFdETUFOZG9yVDAwRUtYaU92cXNtWEtMZFZfMlMtWDJiUTV5Nk1MbEs5TGxMWE1McVk2WDVvci14aXluQVd0eWZCMU80cUN1MmI?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVNtQVVCYUNLdjJhZE4yQ0cwbVByckpodGJqV1gxelUzTUxoY2xIbG1aeUk1YXlyaU40MDQzLXluYlR4VlpCMVFkV2FoOG9nbGNIcllZMVd4d0lkOFBwWDVOb1dabW03dW9fQTdMS0dDREhBekU1bXpFZWRYWnJEaFk4VnJDdkxFSzRRb1BXMA?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2RubmVpbGlfczN4b0hub0hvdU1HSmRxRDN0Z250YjBUNTYtOEFOb2U2YV92ekdQdDdrMHZRQXFiTHVKcXRRcElUYUhrZ0ZVaC1XVHF0Zno4MXRybnVaeEowR3U1cDdSSFhTVFRPZTZDaFFBUFctY2haRU1KSFJlbVRWTUYtaWxRMkwtMlBJN0FuT1o0S3ZTUXZyM1FBRTdxVy1tNjdWSXEwZjJ0dEpUeWYxNk5IRTlROWRGZFlB?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ25wbUlXVVdFaHVBQkVVdUFQcEtVUG44MjJFNHl2QVpzVnVNU3BTa1VqcV92Q2U1bTh2RnlIUG9PaTVWNFh4dVZFblR5azRJZnpjUHJaZjYzYUk0ZGFuU0Q2MFV2WWNfa0VxZWdkUHVSald3aTlkUTN0QnpjdnBhSTZ3X2VKZkFzN013cmNvSlBnclYta3VmT3lsYUFvQU5GYk5N?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWE5qaFp4a2tRZjFlclZKOExPVi1MSFNVa3lTdDhOa1NjQW9NRGZmdmJ3TU9VTFJlaFV1eHFldVFQYnpwMjZZZnRRcGI2Wk1fdlZ2REw5a2FuWjl4aXFxUjVSV2dfcURuenVDaE9lMVYyZDJpUUZjaktzUkhQajdBZDg0Mk5mY1BmMVo1NVR3SE9ydktQRVctY0NNTmUxMWNESjlaWjNVdmpLNzQ0enJMUkVEMGhnNFlOcVNpQWdKZ0ZNSWJx?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWlJGeFZ2MmJQS3k3LWN2cjBKSW5odVdSTjMtTzlpbXdfMkF1LUpwSERHOExralc0eG1LTXBOdzFjY0psMFBLUjVpazBzeld2Q2hzODRzZ0N6N3pvWHFFVGNGcXU4T280SEF1cXFwQXlMbWJxZWN5V19FNkk2dHdqRjZfSU9BdHUxZF9CRnZkQWx6c0Q0WGUydGo5WHhEaGlxcHE0anhLYy1FMW0wU3VSRlQtTENzaHhZVnhtTnNQbEgxWmoyZEtVN3YtcEcycXBM?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oa014ejBqWXpkTHF0N0VrRld4MTFmc2xOeFNwLXctMEJOYmdLaHZ4c2p0RU1lYXphNGEzYVczdlJETWx0cktJUHFaN2pxTFdOUFN1Qmc3ZUVGbUJ3YjU2TTBqV3lyUmxRWk15aGx3?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFVVQ1M0dOZVp4WGxVQjJZblRHWV81Q2ZPNDM2Y2M3ZTJyN0JJdkk1WnZGZ3ZlWTdtSGpuVWljODdCd2k0RG1GbjB3NEZLNy1lRk9zTG9jNTZpZ0Ja?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LV2t4ZVFmQ3pJOEVxNmFCSTZfb3pVNUVpQlo0SFdrNnFSdjd3YThrMXhPQXJfTnZiTURHNXZxNzdIeVVQNzdacXltMGVTRndpM1h6T0ZGYjNmeDlkcUJCTDc5dGtra0E?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFONIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWtlcGVCNWtsLXdrYzRJWTVOOENHQzdld3FreWJ0NWNqcFR4YWt1WkdHa05WYzVKT0VXZENBRlA4MDE0dmhUV25aMDhKNEdDRTNsbVVrakJrNF9fdjdJelc1ejBJS1hLZEd1X2ltNXF5MGZ5dEVEY19qY0JNVWtjdW85MW1mNjF6Q0N5blNHUXYzaXFYYmJXT2cxbDNYcktvQmc?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsRDgyckppOURNTkxTeml5Z2JpTXBUQ0VXRXJlaGowYmJDN0wyMUtzXzF1Q3F2ZkNwYmJ4ejllTEdaT3hTT1VON3FURDBzdGl0T1NCRExVMTRNODIyZ0hkenVLSXBrZjlncjhzanhB?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUhzV0dzeWYzTTJsd0thbGQxYUFTa292TGpZME9nVDVwS1VtaWgweDFBVXlyRk9BOXRkMlo4bV95Zkd0SG1NODlvZ2trcUFRd3UwY3lOM004cFB5Umw3OEFSWEVzVDAwMU5TWEpvNmwxdGRVQUR1Q0ZiUU5leUQ3NElmMzlCRHJrSTMteXR6YlZqTWo4SmNnOTdqa3ZnbldiZkJOVXlsMGlVQTJDR2JyQl9RVGd5Q2lTeExLUg?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlJiU3JjMWdzZWo3WWp3SzFwQTF3eHRyWm1YOE5fcTF2M0hvOXd6YzhTYlFlWFREb3pjMGJIZGtsd0RqQ1JYdDcteDZhVndRd3NxdmFqTlN5cHFnWDlOMjVlOXBMMEp1eUI2OGl2dlhxajNZdC1ZVy1wNWFtNFdQQWtzNmE5OXQ5Q05GWHFyaXdDSFlDR3FtY3lJamFfbF9VUjM5eXZPZmJtdHlNaTFIMWhB?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDUtQWN3MXZaaFhfblpPYzRPNUdzOFg0dVU2N2RaVVM1SnJSbjlodWlnYVdPTFBpNlBZeTVWRktGXzAzZm5VZVFIUHVmWUNxMFlHVm9sZFdmUlFmYnUwYjZObU5pN1lOVHRjQkluell2MVU1dU5WVmwwbEJWRFdCaC15ekJESlNYaG9hV243Wi1hRUhzUUc5Ui1ENkJlbFJILWF0TXdsOHhCVEV0cTJpTDl5V0FuaFNFalJuZNIBwgFBVV95cUxOd2RrVmg1X2NrSEkwVGtkOVJrMFRKVl82UmFNaHBYUkxONGRzQWEySDVnVjRCcEtEczhBVmlHWEpRcUVUYVZ0a2V1YU9UMmQxWjJyT2dnOU1aN3l6cW41ajR4dHBjNGNZVmpRd3BKWXZPVnRkUVhFelFjWGFlUmlFSWtwSUxoZFdYano1ek5BS3hIeV9sU0ZWQy1vcGZuOHlRMnR0Tl84OGZuQm02N2VwSkJzYTFIS1VrazJCck15Vld6UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTSGJtVUNSMjh4bVZSX28xQ0ItSlVjdXhkaGI0T1ZaOVNlOVZSS2tfU2VrUHIwMThodm5XVVQ4YmkxUUUzQkhlV2htXzJCNklMQVZnbEkxeU0?oc=5",
@@ -1199,30 +1186,22 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnhGTGd1Z2ZZNFVZSGp4eFBNMHBqYklCRHJTV3hZMkxXVXNxQ1Q0dmNoMkViTnBySmE0aWFDM0VPbDUwNmVlR2luUTNTbkVuR0tzdjlJdG9EYTFnOXZZYkN2aVBZR3hlS0tibTdTUkhnbEw5NGNxaGZkLXQyS3g1ZFJSXzViUlJtbG9nWEJtWXJyQQ?oc=5",
     "http://www.africanews.com/2026/10/23/pix-of-the-day-23rd-october-2026-across-the-world/",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT01LdDBqX3J4SDVEczVENG9jcndicmw0R1pDajZOcGdWR3ZQb2QtU0lOSjljc0drUTdwU1luclY1YklPSVpmRk5KWGl2S2NEeFE0WlVDdDVFOXk5S1JjcVhDZmczQlVwcFNQZHFzMGtTTXd1VmpfYnFwQkdBdXM2ajM4dWZrZ3BLc2xieWs2V2QzUkhtRlR1cmVBdDlwdHYxUS1jbVMyVXA4WTI3TkJOYndGZ3F3eWE2N2dqM3JJNnVHM1NUSC1mYWFyYm1DMF9sMW9RRkRvOWw2UFpTWU5MOUhGTURkRWNE?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1T3l3V1VCRW9sMzRWWFV4VHJmVFF5UFNZdjZtQ0Z1aWxaZFZwclhUUWlpM3hqVER2dm5zMnRCeUxOZ0xCSjlyNmtNcTY?oc=5"
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1T3l3V1VCRW9sMzRWWFV4VHJmVFF5UFNZdjZtQ0Z1aWxaZFZwclhUUWlpM3hqVER2dm5zMnRCeUxOZ0xCSjlyNmtNcTY?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0pRLTF5NWJQNmZBanhYOE95UGhSNDF3S0pjcXlQelFEWHNIaVF0U05sdlJNeklaM3R0a2VscEJKZXJLMjhJdVRrN1llVExBdDEwODZGeWU4NzJ5aWNBNWRRSmxOa3JGMmRkcjNPaUhhU0E0QmRoc1VMelplM0xwRlZLdXdLTGFp?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMnR6UzV4cExKWEd6Z184c1RjNDJwR0ZJalhOYkNIRjY3UGdGN1Y3Qkw2RzA4Qmh3bWJ0OWV6a0Y0ZjRkai1RLVJBdVlMY3A0MTN5YUoxU19MRkVERHJTNlBtUWpXWEhVRFE0NTN4eFdCZUx1Z2U3MlJLdldMSTl5OHoxdUdqczlNT0lTZXdsaU51T0lab19hcE1NVkFUMzJIczZNVDc3cVlseVpXazdOMEVxN2I3d2hneWw3UkFQLWF5M2NMWE80UUFfMnEtMHpWdThieEU4UmJBd0RFZ2hZUU1XNFhUZw?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDlkeXhwRWlRZl9mdnBGV0w0dUpfR3ZxdlMxSlF5R1BTU21nYnA2cXo4cVpmekpLbXhqam1xcmJBYS1uMlBTMkJHRndGVkJ4X3pkTUVEdTkwMENSU2c3ME5yQjE4NDd5eFBPc0tPS25UMW9ERGhSMVhxRFZLVHJQZm9velM2b1dPdUJsWGpn?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlI2a1l1T25VbnVpRDRVb0VKOXgxWk85ZWlyNzgyVElrb2l4dVFNdUhud3RUeVRqVUY3bi1FNWt0WkZYekZBX3I2QTdkcmRVY2w4UDcxcXg5eEdEaV83dGZOOVZUZnJDTm1QSVRjN2lmanl5dlBNdm9xbjlKbmU4Qi1nNm15ZEFialEwc1dSNzgwSW9yV2FzRjVOeUwyclhQbHB4SE9FZ2dhZS12U1BR?oc=5",
+    "https://www.gov.uk/government/news/joint-ministerial-statement-on-the-risk-of-famine-in-sudan",
+    "https://www.theafricareport.com/434291/south-africa-from-da-to-mk-party-bongani-baloyi-says-party-hopping-makes-him-fit-to-lead-joburg/",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGt1VmU3T3Z5X2FvbjRHNVVRNzVVZE13TVZMWkJ2dzhjZzgwdUVFNVVjTS1IN2FuaV94UlU0X1ViZkxVS1F1aXd3NUFMMV9JQ2dpWm82X3B4cUFYYk1Yc2Y1YUFCMTYydElTY3g5QU5vd1Ytd2hJZXNZdWF4TW1NYnQ1amdqWGFsWk9BYnNmTlRIU3RSWDBSZ1B5STFfbEVBNFhHQWJZYTUyQ3pS?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rZ0VNcVA4VmV0THZKc0VrS2VtMXNaRHFBdEJFTTNWSkVna1AtenJtdkQ3LVFJREkxd0tZNi1PVGF0OC1TVDJHRXdCTzBucFNlZ0YzY2VvNVpwZU5Wbm4tQXgzdHFPekIxbE1KRDktUlh2Y1VlNTItSlR3?oc=5",
+    "http://www.africanews.com/2026/10/23/south-africa-dwindling-support-for-anc-amid-service-delivery-chaos/",
+    "http://www.africanews.com/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses/"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія закликала до посилення боротьби з торгівлею людьми в ОБСЄ",
-      "summary": "Велика Британія через заступника посла Джеймса Форда у заяві до ОБСЄ закликала посилити міждержавну, цифрову та фінансову співпрацю у боротьбі з торгівлею людьми, підкресливши її зв’язок з організованою, кібер‑ та фінансовою злочинністю, а також потребу у ресурсах та жертво‑центричному підході.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-22T10:15:00+00:00"
-    },
-    {
-      "title": "Провінційний уряд підписав угоду про житло з Федерацією Меті",
-      "summary": "Провінційний уряд Манітобі підписав угоду про житло з Федерацією Меті, що передбачає будівництво житла для меті-спільноти. Угода включає фінансування, терміни реалізації та координацію з місцевими органами. Підписання відбулося 2024 року. Цей крок спрямований на підтримку меті-спільноти та забезпечення доступного житла.",
-      "source": "Treaties & Agreements",
-      "publisher": "constructconnect.com",
-      "published": "2026-10-22T11:36:45+00:00"
-    },
-    {
-      "title": "Індійський міністр торгівлі: угода з ЄС стартує у 2027",
-      "summary": "Індійський міністр торгівлі П. Шарма заявив, що підписана в 2023 році угода про вільну торгівлю між Індією та Європейським Союзом може набути чинності на початку 2027 року, після завершення офіційних ратифікаційних процедур у обох сторін.",
-      "source": "Treaties & Agreements",
-      "publisher": "Reuters",
-      "published": "2026-10-22T12:01:54+00:00"
-    },
     {
       "title": "ОАЕ номінували Лану Нуссеїбех на пост генсека ООН",
       "summary": "Президент ОАЕ Мохаммед бен Зайєд офіційно подав кандидатуру колишньої посла Лани Нуссеїбех на пост генерального секретаря ООН. Вона залишила посаду міністра закордонних справ для участі в перегонах. Кандидатуру вже критикують через зовнішню політику ОАЕ щодо Судану та Ізраїлю.",
@@ -1411,6 +1390,27 @@
       "source": "EU Diplomacy",
       "publisher": "Consilium.europa.eu",
       "published": "2026-10-23T14:38:38+00:00"
+    },
+    {
+      "title": "Німеччина, Франція та Велика Британія готові вести переговори з Іраном",
+      "summary": "Німеччинець, міністр закордонних справ Йохан Вадепфуль, оголосив, що Німеччина, Франція та Велика Британія готові вести переговори з Іраном, щоб запобігти розробці ядерної зброї. На міжнародному саміті в Стамбулі він закликав підтримати Саудівську Аравію та Ємен у боротьбі з Хутиями.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-23T15:37:46+00:00"
+    },
+    {
+      "title": "Велика Британія та Оман оприлюднили спільну заяву після державного візиту",
+      "summary": "Уряд Великої Британії оприлюднив спільну заяву з Оманом, що підтверджує завершення державного візиту. Документ зафіксовано на офіційному сайті GOV.UK. Текст джерела не містить деталей щодо конкретних угод чи обговорених питань, тому подія обмежується фактом публікації дипломатичного документа.",
+      "source": "Diplomatic Visits",
+      "publisher": "GOV.UK",
+      "published": "2026-10-23T15:05:00+00:00"
+    },
+    {
+      "title": "Велика Британія та 31 партнер засудили ризик голоду в Судані",
+      "summary": "Велика Британія та 31 інший партнер оприлюднили спільну міністерську заяву щодо ризику голоду в Судані. Документ зазначає, що 19,5 мільйона людей стикаються з гострою продовольчою нестабільністю, а конфлікт є основним драйвером кризи. Партнери закликають до термінових дій для запобігання голоду та зняття перешкод для допомоги.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-23T15:00:40+00:00"
     }
   ]
 }

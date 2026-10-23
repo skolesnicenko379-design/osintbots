@@ -706,16 +706,11 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVktGRGV5NThVTnFuckpURFQxZzJyLVFtMU1KQVhvdDRLMy02bmNGLWl2WVJxTzRvZGJtdFdUYTBlaTVJYm1pd1UwOVVEeWNkanV0VjBOQlRXUV93NDdMT1N5S1hRUHJWV1E?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWUw5UmdvbEZ1NjdDc2l0bnVVdzI2NnR5N0xqN2g2c1UwQXNTZW16NlNOVmQxRzNUM250RFN1SjIwSzBPRWo5UnFqeTNNN1JHZkFSNml2VGY5dTdiY0RMX213?oc=5",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI?oc=5"
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUtuLWZuQ2gxSEQ4cXN2alpmV2UyUTdXOU00WFl1UjlDM3lSdmYxdkJSNjg5V0ZnYm14X1ZKeGhuSFJuWmZJTk93VzRCWmdicFJ2VGNZYnBGVkZMWFZSRXJwNzk0NVpVNTdGVGJTelFJNW16NGliZ0ZXeURSNnlqdGozU2pIYzZqbmJPb3JRNlNJODduLVFiUE51MnZrNUV0dXBVbFBmRk9PQUxXcG9n?oc=5",
+    "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html"
   ],
   "recent_posts": [
-    {
-      "title": "Індія та Польща домовилися подвоїти товарообіг до 2030 року",
-      "original_title": "India, Poland agree to double bilateral trade by 2030 - IANS LIVE",
-      "summary": "Індія та Польща домовилися удвічі збільшити двосторонню торгівлю до 2030 року. Стаття містить лише заголовок, тому не відомо ні поточного обсягу товарообігу, ні базового року, ні конкретних механізмів чи галузей. Наслідок для ринків поки обмежений: це політичний орієнтир, а не юридично зобов'язальна",
-      "source": "Коридори · IMEC",
-      "publisher": "IANS LIVE"
-    },
     {
       "title": "Відсотки за боргом США вперше перевищили оборонний бюджет",
       "original_title": "US debt interest hits record $1.05 trillion in 2026, surpassing the $956-billion military budget - Yahoo Finance",
@@ -848,6 +843,13 @@
       "summary": "Pulse Kenya повідомляє, що продовження залізниці стандартної колії (SGR) до кордону з Угандою обійдеться на 148 млрд кенійських шилінгів дорожче за початкові оцінки. У наявному тексті немає причин подорожчання, загальної вартості проєкту та джерел фінансування, тому оцінка обмежена. Якщо додаткові к",
       "source": "Коридори · BRI, порти та Лобіто",
       "publisher": "Pulse Kenya"
+    },
+    {
+      "title": "ЄЦБ: інфляційні очікування споживачів у єврозоні зросли",
+      "original_title": "ECB Consumer Expectations Survey results – September 2026",
+      "summary": "Згідно з опитуванням ЄЦБ за вересень, медіанне сприйняття інфляції за 12 місяців зросло до 3,6% з 3,5%, а очікування на наступні 12 місяців — до 3,1% з 3,0%. Очікування на три та п'ять років лишилися на рівні 2,9% і 2,5%, тож довгострокові орієнтири поки стабільні. Прогноз зростання економіки погірш",
+      "source": "ЄЦБ",
+      "publisher": "ЄЦБ"
     }
   ]
 }

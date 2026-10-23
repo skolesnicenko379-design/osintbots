@@ -5,8 +5,7 @@
     "http://africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court",
     "http://africanews.com/2026/10/22/this-war-must-end-un-and-swiss-officials-hold-talks-on-sudan-conflict",
     "https://army-technology.com/news/global-ordinance-sparkz-drone",
-    "https://army-technology.com/news/l3harris-gmlrs-us-army",
-    "https://army-technology.com/news/lockheed-martin-gmlrs-production",
+    "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
     "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
     "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
@@ -32,6 +31,7 @@
     "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
     "https://defensescoop.com/2026/10/22/hegseth-memo-gambling-prediction-markets",
     "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
+    "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
     "https://gov.uk/government/speeches/genuine-dialogue-requires-respect-for-ukraines-sovereignty-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-calls-un-slam-us-naval-blockade-hormuz-strait",
@@ -61,7 +61,6 @@
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
     "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
-    "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
     "https://militarnyi.com/uk/news/studenty-shhonajmenshe-40-navchalnyh-zakladiv-rf-vyroblyayut-drony",
     "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
     "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
@@ -92,7 +91,6 @@
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLOWJuSlR2U2g3YkxyZlA2N2NRSlNNT3dwNkdNZnBQSGlLTHdqQ3Jna3JrV19jVjVSMkVGeDBXNUVma05lZVhfQ0EzMm41Q3JhejV2NGFORU5yV1E",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWUw5UmdvbEZ1NjdDc2l0bnVVdzI2NnR5N0xqN2g2c1UwQXNTZW16NlNOVmQxRzNUM250RFN1SjIwSzBPRWo5UnFqeTNNN1JHZkFSNml2VGY5dTdiY0RMX213",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SN19hUWZBTTBiRDRvMU5uZF9lQ082T1hPXzM4NW1ZY09zUmpKRTZEVFAxMU5OdGRKdXluM1daSEhFZ1p3UXU5Z2swYXM3UzdCQXFYRFpoX3l2TVVOdk9xVGVZTkRiVVpial9pZmY0enBSUnc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVEdISHhjckFfODNnR2U2bE84SWh1UVU3cG42N0NuWWZ4SW8wTzduWFFzUjNZUmNTOG9ISEVEWlJLYWhLVFVmUUJFVm9jSmRMVnc5SE9GdVdUaElBRnpXQU1rUWFKbHdRZmZFa29YNWtSbi0wZ0E",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2enFTdXdrdG9jc2tKT1UxMlZ1NmFjakRWMGpqYnYtNHcyVk5CM1hRd0tDRVJYaS1wN2taM3ZReDhPdXNXeXJxYXl1YXlnRGFpTW9fZEoyd1pkdDRDb0Y3RC1EZG04WVdVRVRucjVFRlJLN0lyMkpCQWRIUQ",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRFZYTzBhczdjUm9oZ3RsblJTc3FqR3BOeGxTcW50UTZ2a0U2SWg5aTRJLWdJZE53NjRmUjJNejdpby0xaHFJbjN2eU05SmstSTVhbFI1d1F1RFlsX0EzOGotRUhBSU53TTB4cGlaM2F4ZDZydmdLUEh3",
@@ -132,6 +130,7 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1BRZjNNMUlfbXdVOEQ3c3dlVVFEWEd2djhFcDI0ckFXV2JRdV9fSmI3M3J4b2xTWkI5b3pqNkFqdVlwYWllX0RGNXktRjRoUGlYMm9UZlZPNkREODkzYUxvYWdfTmczZ29wNXVkWDJYQmRIVFBYcW01amNLZEM0bFNzeTZpREFOZ3ltMGRkdjFHNENUdktBSlMxVFhlWVN0NENDYnBCVnp1LWJlUVJtLTBLYlQ4WGhfQVRmNEc5VnYxUGM",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWpqQ05pRy1Yd2JHRWVXdG9xbWYwemZoSEVhTFFKZjQ2TWROcnhhSGwzWmdEeTQ3aGJCa2ZjbGJ4V0toWmVkUXI3TklSaDg0ald6TjIwbjIyU3RNenZSN1V0Tm93OXZ4YUVrZGZkX3N6Z0JXZUFsREtzTzN0UW9SWEd1anZEY1RCNEI3OTQ1SC1VUnVPU2dtUmVJVlJMRWRUNGlDbDM2MVI1THgyZFRXOTBmY0lDYnNYckdoZjExWk16RHJy",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJzbzRyRDVzTUJVc3RoUE1LdEI1Yi1UTnMtbHBZd2dVZ0N1ekQ5OEZfczV4eEpfN01vaGkzVzV5TkRGMzEtNXhxblNHUXJROHNfd2RDNUstMGZabWhxQ2ZHUlQyNEEtS1JWS0ZKRUF0LVNyQ1JkM01Pa0NkTmI0cUJ4LWJ6Qk9OOXo0MGo5ckx2VmZUOHVOOXRfel9FcVdnWkZ4WDc4dG11NjVhZkd1X1N2Q0xvQ3VreWptZ2V0NXhjLUJf",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0plQVFmeFNZX3hwVmZ6TXFVaXAxb0dELTVVZXo0RFRXVnRfS09XU24xalZYdE9kR0M1M3R1eElCV0F4cDg0ZTNfS1R4MmFJZU5EV1FFS0NhNGxaWldqaVFGSnIwRkV2dTh5eHotSjZWek85OUJ0OGV6cmV0QWVneVgyQ195SERfYVBLdUlEX0RhZ2h1WkZMVEFRbGsydGx4a2dvVWtPMEV4VjZYSU10QW9zcjh5ZTNDNmExWkpBY0c3ZFF1",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2pMTm1nM0xGQm44NXZyXzhDb3JNc0owTzNMYWxndnZfTzVUaENBRVNvR1ZTUFQ4dDhMM0VUU0NmbFhDb3M2VzdFbTBydFVPNFg0bkx4dzZxNHBiX0liVEROZ3dybG5wX18wSEI0WW1HZ0x4Nnp5Y0VXSWNLSGZQQjFuUVlSdi1va3RDbHk5cjVaV2VNbjJwbjFBa1dza0JsdHRZVDd2ekxZeG5mbmw1b3MzSnVFS0RIa3BJWGdkYUJDLUxzbmc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWi1nVngyeC1Ud1oyVnJ6WEVpcW9CMkdzakxCTjZ5bWx5M19ORkNSWXZ0bHNWWDNRbDNWd19LTzk3aS1jSUFZRloyWTYwVWd4ejNMLUJNYmFCMXZPUjlJVU1yWXVHT3JGTTZqMTI2eTVyYWpEZE1BRHNqdWxmb3BnOEJMc3VUaWxnajZkMUFwTkk4NXhvX3A2QWZRVnNzSXFNU1ZJTXJCeWpvZ09VdFlYRFVvbGJ1UFNXYm80VG1fUk1kWHlxOG800gHHAUFVX3lxTE1aLWdWeDJ4LVR3WjJWcnpYRWlxb0IyR3NqTEJONnltbHkzX05GQ1JZdnRsc1ZYM1FsM1Z3X0tPOTdpLWNJQVlGWjJZNjBVZ3h6M0wtQk1iYUIxdk9SOUlVTXJZdUdPckZNNmoxMjZ5NXJhakRkTUFEc2p1bGZvcGc4QkxzdVRpbGdqNmQxQXBOSTg1eG9fcDZBZlFWc3NJcU1TVklNckJ5am9nT1V0WVhEVW9sYnVQU1dibzRUbV9STWRYeXE4bzQ",
@@ -141,6 +140,7 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU16TFIxMzNCNi1xNGUwSm1oSlpVaHR1YnpjNmZyajVmRENLNkswY19hTG5zQlE1RWp1Yk5NSDZCa1cyOTNBUTZsVElkWExhRjl2c0l6aTVWc1dVX3NjQmdKdjNFUFpxTDRMaEx4YWpFQ01IQS00ZGlJOXlVNEhtRHVkckxXN0Jjbl9leVRGbzdIOXVQLTE1T213RjNtV19zMUZxVFcxQ1VnX2ZTSkRGRDZzTkRjb3Q4eDduRmhiNE9qVjVEZ3lGb3RSMNIB0AFBVV95cUxNc25EdzktTUVTc2xMQzJtTzY2TEdjSlJhQzhCd085VHhfN19BSW9nMU1wdDllbHlhMHgyT1BvVTd6Q09nNkpUUG95RDdCUEROWVJGeU5DRHRYSzEyT3BZdkN3YUdmeGY0dGJLZ0JzT2FEeW5qTG5aU2hnUkJabmJhTWVnR3RvbmVVbVVvQmZ3b3M0SWdnT1B1VGh3elNMX2VMZGxudkdscFZpV1JubktZekFfYy16RWRBVVI5dVEyeEtjbTNBT3A2ODRBd1ppQmpx",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFkzRFlPMTFVMjNRMzZnaUZ1OUwxb2RpX2ZFLTY2TGFxT1hDbm03MjBzN2pIWmpFY0xHb19RS2lJUXh6R0s0NnVLQmNxUDZ1OTFqNHNsRkZqMXU3eTdBeTdKNTFXM25Fc1BreVE1SkMtT3BiWGJWQzA4V3pjN1BydFUtSnBXVlhaWnNUYmxyRng1WDBCdjFFZTBDOHJkN0lzdjJsQmFHdndqa0N1U0hNREJIcjM4RElRcGFFZFVHXzBUV196Sk1mMnBEMlI",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlBwWExkOHEwdlBtVWs3VUpXRkd0alNLa2V4YkJjdmRGZXhiUk5sNUR0dWNGeGg5eVVxNkhXTllyTTc5Z19DU2JteFhvYl80ZlZrakdOSDFCbTh3VnVkQnBoUWZlYUZZSGJ1cE9MN2l2ODZkQXFLNUcwRExVX2E0eG92TkQzTWRMdzBPVmhaS1ZJT0hKMG9hVjhYVkF5b3Y0aVpoZ3J3VXdhTnRENTNkUlNyTnJSR2libzZEbHBFdHpXMWN1NUs5UGwxMU9sZw",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajA0VmN2YXRMZ2toMGwycUs1X1JabjdLZDJBSTVNZjVlZEVrR1lzTXpuM0hVQU5kb3NNcVZiRXJYSEt3WnhWZUhmanczNVd4OTMzLTVvbzlaYlYwZXB3Yl9rRU5lOTdERXYwSmJpZ0E2RDJVN0g0TW5VZkhmdEFlc3Iyb3RFQW9Zc0kwNGRzYmxNN1B3NDJXbnIwRFBFUG1ieWRaR1djd3R6bE5mZW1QQTZPMDlib19RX1FIQlZmdzZaODl3QkVDLTh5OW5rMVE",
     "https://sb.by/articles/daniya-priobretet-u-dvukh-postavshchikov-rakety-bolshoy-dalnosti-na-1-mlrd.html?amp=1",
     "https://twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
     "https://twz.com/air/any-decision-to-buy-new-build-f-16s-not-an-urgent-priority-usaf",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Морський дрон Sargan‑3000 збив російську ударну безпілотну «Герань» за допомогою перехоплювача Sting",
-      "original_title": "Морський дрон Sargan-3000 знищив «Герань» за допомогою перехоплювача Sting",
-      "summary": "Sargan‑3000, прийнятий у ВМС України у квітні 2026 р., має бойовий радіус до 1600 км, швидкість 40‑55 вузлів і може нести до 450 кг озброєння, у цьому випадку – дистанційно керований модуль RWS Protector калибру 12,7 мм. Для перехоплення був використаний український перехоплювач Sting, запущений з контейнерної платформи надводного апарата, що дозволяє ефективно знищувати ворожі ударні безпілотники на морі. Така комбінація розширює можливості української протиповітряної оборони у відкритих водах та підвищує ризик для російських безпілотних систем.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
-      "published": "2026-10-21T16:18:25+00:00"
-    },
-    {
-      "title": "Ціни виробників у РФ у вересні зросли на 2,5%",
-      "original_title": "Russian PPI (Sep MM) 2.5% (Prev. 0.9%) - Newsquawk",
-      "summary": "Індекс цін виробників (PPI) Росії у вересні зріс на 2,5% м/м проти 0,9% попереднього місяця, тобто темп прискорився майже втричі. У тексті немає розбивки за галузями, річної динаміки та причин зростання, тому оцінка обмежена. Такий стрибок посилює витратовий тиск на виробників і може згодом перейти в споживчі ціни. Для макрополітики це ускладнює завдання стримування інфляції та підвищує ризик збереження жорсткішої монетарної політики.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Newsquawk",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SN19hUWZBTTBiRDRvMU5uZF9lQ082T1hPXzM4NW1ZY09zUmpKRTZEVFAxMU5OdGRKdXluM1daSEhFZ1p3UXU5Z2swYXM3UzdCQXFYRFpoX3l2TVVOdk9xVGVZTkRiVVpial9pZmY0enBSUnc",
-      "published": "2026-10-21T16:20:00+00:00"
-    },
-    {
-      "title": "Lockheed Martin переходить до серійного випуску ракет ER GMLRS після успішних армійських випробувань",
-      "original_title": "Lockheed Martin moves extended-range GMLRS towards production",
-      "summary": "Lockheed Martin розпочне виробництво та постачання ракети ER GMLRS (Extended-Range Guided Multiple Launch Rocket System) після двох оперативних випробувань, які провели військовослужбовці армії США. У джерелі не наведено ані точної дальності, ані обсягів виробництва, ані термінів поставок, тож оцінювати ці параметри зарано. Загалом ER GMLRS є версією керованої реактивної ракети для пускових установок HIMARS і M270, призначеною для більшої дальності ураження. Перехід до виробництва означає, що ракета виходить зі стадії випробувань до впровадження у війська. Подія відрізняється від попередніх пу",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/lockheed-martin-gmlrs-production",
-      "published": "2026-10-21T16:26:06+00:00"
-    },
-    {
-      "title": "L3Harris відкрила в Арканзасі завод твердопаливних ракетних двигунів для збільшення випуску GMLRS",
-      "original_title": "L3Harris opens Arkansas rocket motor facility to expand GMLRS output",
-      "summary": "Новий завод у Кемдені (Арканзас) виготовлятиме твердопаливні ракетні двигуни та має подвоїти наявні потужності L3Harris. Він працюватиме на потреби реактивної системи залпового вогню GMLRS армії США. Двигуни часто стають вузьким місцем у виробництві ракет, тому більша потужність може пришвидшити поставки боєприпасів і поповнення запасів. У тексті немає даних про терміни виходу на проєктний обсяг чи кількість двигунів на рік.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/l3harris-gmlrs-us-army",
-      "published": "2026-10-21T16:33:29+00:00"
-    },
     {
       "title": "VettaFi прогнозує зростання попиту на газ у Північній Америці на 40%",
       "original_title": "VettaFi sees 40% North American natural gas demand growth over next decade - Proactive financial news",
@@ -1283,6 +1243,16 @@
       "published": "2026-10-22T18:03:21+00:00"
     },
     {
+      "title": "Швеція обирає системи протидії глушінню GPS від Raytheon UK для військових платформ",
+      "original_title": "Sweden selects Raytheon UK anti-jamming systems for military platforms",
+      "summary": "Шведське управління оборонних матеріалів (FMV) підписало контракти з Raytheon UK на постачання GPS‑систем протидії глушінню. Системи будуть інтегровані в різні військові платформи, підвищуючи стійкість навігації та точність управління зброєю у випадку електронних атак. Це посилить бойову готовність шведських підрозділів у умовах зростаючого використання засобів радіоелектронної боротьби.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
+      "published": "2026-10-22T18:05:58+00:00"
+    },
+    {
       "title": "Перемога в інформаційній війні завдяки ідеям та сприйняттю",
       "original_title": "Winning the information war through ideas and perception",
       "summary": "У статті зазначається, що соціальні мережі та штучний інтелект значно посилюють поширення дез‑ та інформаційних кампаній. Для ефективного протистояння необхідна координація між урядовими структурами, військовими та технологічними компаніями, зокрема впровадження систем автоматичного виявлення фейкових повідомлень. Такий підхід може підвищити стійкість оборони до інформаційних атак і забезпечити швидше формування правильного сприйняття подій серед населення.",
@@ -1603,6 +1573,16 @@
       "published": "2026-10-23T04:00:00+00:00"
     },
     {
+      "title": "Віце-президент США Джей Ді Ванс відвідає Белград",
+      "original_title": "Vice President JD Vance to visit Belgrade - The Belgrade News",
+      "summary": "Віце-президент США Джей Ді Ванс оголосив про запланований візит до Белграда, де він проведе двосторонні переговори з прем’єром Сербії та представниками уряду. Візит має на меті зміцнити двосторонні відносини та обговорити співпрацю у сфері безпеки та економіки.",
+      "source": "Bilateral Meetings",
+      "publisher": "The Belgrade News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUJzbzRyRDVzTUJVc3RoUE1LdEI1Yi1UTnMtbHBZd2dVZ0N1ekQ5OEZfczV4eEpfN01vaGkzVzV5TkRGMzEtNXhxblNHUXJROHNfd2RDNUstMGZabWhxQ2ZHUlQyNEEtS1JWS0ZKRUF0LVNyQ1JkM01Pa0NkTmI0cUJ4LWJ6Qk9OOXo0MGo5ckx2VmZUOHVOOXRfel9FcVdnWkZ4WDc4dG11NjVhZkd1X1N2Q0xvQ3VreWptZ2V0NXhjLUJf",
+      "published": "2026-10-23T04:40:00+00:00"
+    },
+    {
       "title": "Фінляндія готує 36‑й пакет військової допомоги Україні до кінця 2026 року",
       "original_title": "Фінляндія анонсувала 36-й пакет військової допомоги Україні",
       "summary": "Прем’єр-міністр Петтері Орпо оголосив про підготовку 36‑го пакету, рішення про його передачу планується ухвалити до кінця 2026 року. Пакет формується у тісній співпраці з українськими військовими та включає підтримку оборонної промисловості, технологій супутникового зв’язку та критичної інфраструктури. Це продовжить фінську допомогу, яка вже склала понад 500 млн євро, і посилить обороноздатність України у довгостроковій перспективі.",
@@ -1651,6 +1631,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2enFTdXdrdG9jc2tKT1UxMlZ1NmFjakRWMGpqYnYtNHcyVk5CM1hRd0tDRVJYaS1wN2taM3ZReDhPdXNXeXJxYXl1YXlnRGFpTW9fZEoyd1pkdDRDb0Y3RC1EZG04WVdVRVRucjVFRlJLN0lyMkpCQWRIUQ",
       "published": "2026-10-23T07:00:00+00:00"
+    },
+    {
+      "title": "ЄЦБ: інфляційні очікування споживачів у єврозоні зросли",
+      "original_title": "ECB Consumer Expectations Survey results – September 2026",
+      "summary": "Згідно з опитуванням ЄЦБ за вересень, медіанне сприйняття інфляції за 12 місяців зросло до 3,6% з 3,5%, а очікування на наступні 12 місяців — до 3,1% з 3,0%. Очікування на три та п'ять років лишилися на рівні 2,9% і 2,5%, тож довгострокові орієнтири поки стабільні. Прогноз зростання економіки погіршився до -1,5% з -1,2%, а очікувана безробітність зросла до 11,3% з 11,0%. Це посилює дилему ЄЦБ між стагфляційними ризиками та потребою утримувати довгострокові очікування, а невизначеність лишається вищою, ніж до початку конфлікту на Близькому Сході.",
+      "source": "ЄЦБ",
+      "publisher": "ЄЦБ",
+      "channel": "economy",
+      "link": "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "published": "2026-10-23T08:00:00+00:00"
+    },
+    {
+      "title": "ЄС проведе саміт з країнами Південної Балканії у Брюсселі 25 листопада",
+      "original_title": "EU-Western Balkans summit to take place in Brussels on 25 November - Consilium.europa.eu",
+      "summary": "ЄС оголосив, що у Брюсселі 25 листопада відбудеться саміт з країнами Південної Балканії. Ця зустріч має на меті обговорити питання інтеграції, стабільності та економічного розвитку регіону. Учасники включатимуть представників ЄС та держав Південної Балканії. Під час саміту очікується підписання угод про співпрацю.",
+      "source": "EU Diplomacy",
+      "publisher": "Consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajA0VmN2YXRMZ2toMGwycUs1X1JabjdLZDJBSTVNZjVlZEVrR1lzTXpuM0hVQU5kb3NNcVZiRXJYSEt3WnhWZUhmanczNVd4OTMzLTVvbzlaYlYwZXB3Yl9rRU5lOTdERXYwSmJpZ0E2RDJVN0g0TW5VZkhmdEFlc3Iyb3RFQW9Zc0kwNGRzYmxNN1B3NDJXbnIwRFBFUG1ieWRaR1djd3R6bE5mZW1QQTZPMDlib19RX1FIQlZmdzZaODl3QkVDLTh5OW5rMVE",
+      "published": "2026-10-23T08:03:16+00:00"
     }
   ]
 }

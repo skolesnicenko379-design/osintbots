@@ -46,6 +46,7 @@
     "https://militarnyi.com/uk/news/bundeswehr-perekydannya-viysk-estonia",
     "https://militarnyi.com/uk/news/cheska-prolab-engineering-predstavyla-linijku-bpla-orbitron-ta-nrk-hecthor-osnashhenyj-perehoplyuvachamy-tukan",
     "https://militarnyi.com/uk/news/drony-urazyly-75-arsenal",
+    "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
     "https://militarnyi.com/uk/news/hartiya-provela-pidzemnu-operatsiyu-veles",
     "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/ispaniya-otrymala-tretij-litak-a330-mrtt",
@@ -59,7 +60,6 @@
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
-    "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
     "https://militarnyi.com/uk/news/rosiya-zastosovuye-novu-raketu-fylyn",
     "https://militarnyi.com/uk/news/rosiyan-perekynula-50-brygadu-na-lyman",
     "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Росія використала МиГ-35 для перехоплення українських дронів",
-      "original_title": "Росія залучила дослідний МиГ-35 для перехоплення українських дронів",
-      "summary": "Російська авіація застосувала дослідний МиГ-35, оснащений РД-33МК і фазованою антенною решіткою, для знищення українських безпілотників. Пілоти повідомили про успішний перехоплення, що підкреслює можливість використання новітніх винищувачів у ППО. Це підвищує ризик для українських дронів і змушує розвивати нові протидії.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiya-zaluchyla-vynyshhuvachi-myg-35",
-      "published": "2026-10-21T16:10:01+00:00"
-    },
     {
       "title": "Сісі заявив про готовність Єгипту захищати Саудівську Аравію",
       "original_title": "Sisi says Egypt will 'defend Saudi territory' without attacking Yemen",
@@ -1621,6 +1611,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDRyTU04MENCdmFQdHN1WkVxRmtkejRROGtNcUhaZy12SWRCd2NjSmhHYWVWTmpSdEZRdkZMME9JU3hoR2cyNEVuay1UMGtnaHhwR0NBOFJTdThuZF9zazNTaFRtcWRUQlVYTjA5RllKWGNFUEVDTmhHdUpyNVE4eUhtREZuX3Vmb2NsRExYTjZiOFVTY1p2aDBIaWdPd3p2ZjZzLTE4cGVvM3RjN3lBZktVQTJSWFZGRXpIcVR5ZU9uTk8yanRTVA",
       "published": "2026-10-23T04:00:00+00:00"
+    },
+    {
+      "title": "Фінляндія готує 36‑й пакет військової допомоги Україні до кінця 2026 року",
+      "original_title": "Фінляндія анонсувала 36-й пакет військової допомоги Україні",
+      "summary": "Прем’єр-міністр Петтері Орпо оголосив про підготовку 36‑го пакету, рішення про його передачу планується ухвалити до кінця 2026 року. Пакет формується у тісній співпраці з українськими військовими та включає підтримку оборонної промисловості, технологій супутникового зв’язку та критичної інфраструктури. Це продовжить фінську допомогу, яка вже склала понад 500 млн євро, і посилить обороноздатність України у довгостроковій перспективі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
+      "published": "2026-10-23T05:10:38+00:00"
     },
     {
       "title": "Продовження китайської SGR Кенії до Уганди подорожчало на 148 млрд шилінгів",

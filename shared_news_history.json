@@ -16,6 +16,7 @@
     "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
     "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
     "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
+    "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
     "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
     "https://defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report",
     "https://defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
@@ -25,6 +26,7 @@
     "https://defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
     "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
     "https://defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
+    "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
     "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
@@ -57,6 +59,7 @@
     "https://militarnyi.com/uk/news/nato-vidpravyt-dodatkovi-litak-radary-drony",
     "https://militarnyi.com/uk/news/navkolo-alabug-oblashtuval-33-pozytsiyi-ppo",
     "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
+    "https://militarnyi.com/uk/news/perehoplyuvach-starhammer-proty-raket",
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/rosiya-za-den-vtratyla-drugyj-vynyshhuvach",
@@ -66,13 +69,13 @@
     "https://militarnyi.com/uk/news/sargan-3000-znyshhyv-geran-za-sting",
     "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
     "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
+    "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
     "https://militarnyi.com/uk/news/ukrayina-otrymala-finsku-versiyu-crotale",
     "https://militarnyi.com/uk/news/v-ukrayinu-povernuly-tila-252-zahysnykiv",
     "https://militarnyi.com/uk/news/zafiksuvaly-zavantazhennya-bronetehnikoyu",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
-    "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
     "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
     "https://navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy",
     "https://navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific",
@@ -114,9 +117,7 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdLR0J3X2Y4a1A1Tk9MODZJQnFTN1RGdzV0Nml4aEMtUTRhTjU5U3RfdHU3YlRxdWZtMHU3azU3X2VMeXdJMVQ5WHlIU19VTTNkZkJPQ21wVXp4eEotWGJSQU4wVzRud3JNYmI0LVRqaGticzdYbWlQYVpUa3NES2tlRnVwdVZ1SENzSzlVOTRkdlg3M3BMQjRzZHV2cV9FTEFIZnFwVQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTRzei1kaVUwMjd0ZTdjemlXNkhUSWtLSHJkMU1ramsxdVo0RTI1b3Y0Rlc3VXNic1BpY0hHLWZxZ3hiVXpDaU9YUVR1ZElRQldubnFwS0p2VmRrbk81ZkNUWkdibXRILXdPQ19aMC1SQVRGZE9zZjZRNmhGd1UyRmNzcS1qazNsN2hhVUt3MUVIcHRHbnNEbnJjMkZWYlZjOEgyT20tMUUtT1k",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGdUc1k5SmlFQ2hrWV9RV1hZdS1aSU50RmZnU1lYTnUwMi1SYVM2aWZWRnNwRzJWa1hSZ0hWNDBxcy1vVTFUVUw3M0YwZ0xJOEp0RjlaOWI4Ry11MU9NVDJTSGtCMjVOSXZaRG9XbFN5TnZmM1ZCZUxkTWRvUnhQMVd3Yi1zVkdYUl9JdmN3Zkl3VDA2cE81MVBHSVVzY05NUkRteUNjRFJSWl9qbVgw",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWjFaTGxnSzgyY3dSTlRYb3ZvNFVpQkJlNFdtVmtDVlcwZmd3OTh4ckVvbU14LXNVQmhvUk1tTkV4TThyVmpYMm16QnRwdG92VjhFZldqOHY5OTdZSzV4amk5a0pJQWZ1cnllOGtYc25SbkZ5NzA4Y3VFaHlLVVhFMkozRXZxbW5RbXI2bHIyUmdJRl9NNWlJeXN1OGZ2NVZzdkxkd3g0X0x1MEZKT1lHbVJ3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw",
@@ -125,7 +126,6 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1VvUFdrcXA5VlZyOURwRi1jUmhOMGhBTDYyVVEwbWNZRjhTT0NnbDVIT1JpeW1FOU1PTjVfWGEwYUhkNzBGTnNSb0tWZWt3VzE0ZTJTU3pUV3hOOVhBdFlfajhkZ1lOTzE5V2N1RXlFVE5VYmQwZTFfdW4tZEpRSTVFSmVMLVN4MHZJQnhDa1F6SWdSVlEzWGhNWEZHUWZwNHk5RTNwdURIYUVxY3JjZlBZODdEUUtTRy1N",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
   ],
   "recent_posts": [
-    {
-      "title": "Кремль готовий приєднатися до нових мирних переговорів у листопаді",
-      "original_title": "Russia is willing in principle to join new Ukraine peace talks in November, Kremlin says - Reuters",
-      "summary": "Кремль заявив, що Росія готова в принципі приєднатися до нових мирних переговорів щодо України, запланованих на листопад. За словами представника влади, це лише готовність, без конкретних умов чи формату, і рішення залежатиме від подальших кроків сторін.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2lXUVRRUFYxUk52Z1V0bVdLaWdydE8zV0ZfQnFxSEVjakhMNUZHNlVIaXBsZzdWUXkzRkhYX3gzTm9RbWFCQlRoWl80YUlyQWJrMVBQRUNxc0lCWWZQY2lmeGVyZDJMdEJQakFEVWMzd1BPNDRzdUtuMjh5Rkh2S3VfSzY0MFROT2dWRS1pU1RBaVY5UGlFMVMtTk10SXl6V0c0RThHd3czZ1JnLURhX1VwRHJPS0I5QmItbA",
-      "published": "2026-10-21T14:05:53+00:00"
-    },
-    {
-      "title": "EDGE інтегрувала суверенні автономні системи на демонстрації ВМС ОАЕ за участі союзників",
-      "original_title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
-      "summary": "Група EDGE очолила інтеграцію національних автономних систем на демонстрації безекіпажних морських можливостей ВМС ОАЕ, у якій узяв участь ВМС США. EDGE забезпечила планування, майданчики та технічні засоби, а її фахівці працювали разом з обома флотами над підготовкою та проведенням заходу. У повідомленні немає даних про конкретні платформи та їхні характеристики, тому оцінити бойовий вплив складно. Сам захід показує, що ОАЕ розвивають власні безекіпажні морські засоби та перевіряють їх сумісність із системами союзників.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces",
-      "published": "2026-10-21T14:17:06+00:00"
-    },
-    {
-      "title": "Путін погодився відновити трирічні переговори щодо війни в Україні",
-      "original_title": "Putin agrees to resume trilateral talks on Ukraine war with Kyiv and Washington, Kremlin says - WTOP News",
-      "summary": "Президент Росії Володимир Путін заявив, що Кремль готовий відновити трирічні переговори про війну в Україні за участю України та Сполучених Штатів. За словами представників Кремля, це рішення передбачає нові дипломатичні контакти, без уточнення дати старту.",
-      "source": "Bilateral Meetings",
-      "publisher": "WTOP News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnhNdGVqd3Q1U3ZuOE02akRBMHM3ZDQtWV9Jd0hnbkc3bXZBdGFBbjVySUk5VXUtcnBaLWp6QTFLcUt3blRYYk4wTURsbHI4cEdIM3NFZ0dMblBxOUtqZjFMQS02Smw0b0NmYWNJS09abEFJUTJjd2RBc3Y3b2gwVGp4WTV5YnZ3YXlNeXdMNWs0SmY3VFhKMVB3S0s3akdFWGp2MlFRTUhPWDQ",
-      "published": "2026-10-21T14:21:28+00:00"
-    },
-    {
-      "title": "Європарламент підтримав допомогу на відновлення після штормів",
-      "original_title": "Parliament backs storm recovery aid for Portugal, Spain, Italy and Malta - The European Sting",
-      "summary": "Європейський парламент схвалив допомогу на відновлення після штормів для Португалії, Іспанії, Італії та Мальти. У доступному тексті немає розміру допомоги, умов і строків виплат, тому оцінити масштаб неможливо. Загалом рішення означає фінансову підтримку чотирьох держав-членів ЄС, яка може частково зменшити навантаження на їхні національні бюджети на відновлення. Остаточний вплив залежатиме від суми та порядку надання коштів, яких стаття не розкриває.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "The European Sting",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXAyaEU1Sy1UMnZjd0ZqVDdxMXprY1ZNVHpTeEVmV3NwTE5Cdm9OcUh4ZmNtX0VpNVNMeXJoQ2NJT3B3QTB4MGRES1V4dzJHMzZlZk9SLTFuYkZTXzdHblZYUkwzV3dKWFJkX2NySDlKVGFzcy00T3lkUjdRTVhURDBtVUNCRGNqa1FQUzdzTE1FeHg1M0pYR3VBVFVaMEVLMTBDbDY4VGE5VzZ6",
-      "published": "2026-10-21T14:23:08+00:00"
-    },
     {
       "title": "Бундесвер підвищив оцінку російської загрози диверсій до другого найвищого рівня на тлі попереджень про атаки",
       "original_title": "German military raises sabotage threat level amid warning of Russian attacks: report",
@@ -1293,6 +1253,16 @@
       "published": "2026-10-22T15:22:42+00:00"
     },
     {
+      "title": "Британська Cambridge Aerospace показала в Празі ракету-перехоплювач Starhammer проти крилатих ракет",
+      "original_title": "Британська компанія створила перехоплювач Starhammer проти крилатих ракет",
+      "summary": "Starhammer має дальність понад 20 км, стелю перехоплення до 10 км і швидкість понад 2 Махи, тобто відповідає класу ЗРК ближнього та середнього радіуса дії. Ракета завдовжки 2,8 м із розмахом крил 0,41 м оснащена власним твердопаливним двигуном. Наведення комбіноване: INS із каналом передавання даних на маршовій ділянці та активна радіолокаційна ГСН на кінцевій. Така схема дає змогу працювати по крилатих ракетах і швидкісних цілях, але про вартість, серійне виробництво та реальні випробування в повідомленні не йдеться, тож оцінити вплив на ППО поки рано.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/perehoplyuvach-starhammer-proty-raket",
+      "published": "2026-10-22T15:40:37+00:00"
+    },
+    {
       "title": "Рейси потягів Китай–Європа перевищили 140 тисяч",
       "original_title": "China-Europe freight train trips top 140,000 as land corridor gains ground - Big News Network.com",
       "summary": "Згідно із заголовком, кумулятивна кількість вантажних рейсів потягів Китай–Європа перевищила 140 тисяч, а сухопутний коридор нарощує вплив. Період підрахунку, обсяги вантажів і структура товарів у доступному тексті не наведені, тому оцінити динаміку неможливо. Макрофінансовий наслідок: сухопутний маршрут дедалі помітніше доповнює морські перевезення в торгівлі Китаю з Європою та підтримує логістичну диверсифікацію. Для оцінки впливу на торгівлю й вартість перевезень потрібні додаткові дані.",
@@ -1343,6 +1313,16 @@
       "published": "2026-10-22T16:08:18+00:00"
     },
     {
+      "title": "General Dynamics представила PERCH 2.0 для запуску дронів Switchblade 300 з Abrams і Stryker",
+      "original_title": "У США представили систему PERCH 2.0 для запуску дронів-камікадзе з танків Abrams",
+      "summary": "PERCH 2.0 — модуль для танків M1A2 Abrams SEPv3 та восьмиколісних Stryker, який встановлюють на штатні кріплення без зварювання чи суттєвих змін конструкції. На Abrams він замінює зовнішній ящик для майна збоку башти. Екіпаж зможе вести розвідку й уражати цілі за межами прямої видимості за допомогою Switchblade 300, не виводячи машину на відкриту позицію. Наразі армія США замовила лише три дослідні зразки, а рішення щодо серійного оснащення танків не ухвалене.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
+      "published": "2026-10-22T16:20:47+00:00"
+    },
+    {
       "title": "Єгипет закликав до політичного вирішення конфлікту Саудівської Аравії та хуситів",
       "original_title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
       "summary": "Міністр закордонних справ Єгипту Бадр Абдельатті у четвер заявив, що необхідно розглянути всі варіанти для пошуку політичного рішення у конфлікті між Саудівською Аравією та хуситами. Це офіційна дипломатична позиція Каїру щодо ескалації напруги на Близькому Сході, що підтверджує залучення регіональних гравців до мирного процесу.",
@@ -1351,6 +1331,26 @@
       "channel": "diplomacy",
       "link": "http://africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis",
       "published": "2026-10-22T16:36:31+00:00"
+    },
+    {
+      "title": "Пентагон надто широко використовує OTA: Конгрес має обмежити механізм угод поза стандартними закупівлями",
+      "original_title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
+      "summary": "Це колонка з аргументами проти розширеного застосування Other Transaction Authority, яка виводить контракти з-під правил FAR: вимог до конкуренції, прозорості цін і витрат. Автор стверджує, що Пентагон не відстежує, чи виробничі OT справді прискорюють постачання військовим, а дані про перехід прототипів у серію GAO назвало «недостовірними й неточними». Він пропонує залишити OT лише для досліджень і розробок, бо інакше зростає ризик перевитрат і завищених цін на великі оборонні програми.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
+      "published": "2026-10-22T16:58:00+00:00"
+    },
+    {
+      "title": "Трамп і Путін домовились про звільнення ветерана ВПС США з російської в'язниці",
+      "original_title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+      "summary": "Старший ветеран ВПС США Стівен Хаббард, який провів у російській в'язниці понад чотири роки, був звільнений за ініціативою президента США Дональда Трампа. За словами спеціального посла США, звільнення не було частиною обміну, а стало результатом прямого запиту Трампа до Путіна. Подія підкреслює вплив дипломатичних маневрів на індивідуальні випадки, одночасно посилюючи дискусії щодо санкцій проти Росії.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
+      "published": "2026-10-22T17:17:19+00:00"
     },
     {
       "title": "Данія замовляє ракети Joint Strike Missiles для F‑35 та наземну ракетоносну систему",

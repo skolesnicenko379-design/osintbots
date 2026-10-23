@@ -1607,15 +1607,21 @@ ROLE_CONFLICT_RULES = (
 
 def validate_generated_claims(title, analysis):
     """Reject generated copy that contradicts high-confidence office-holder facts."""
-    text = normalize_text(f"{title or ''} {analysis or ''}")
-    for rule in ROLE_CONFLICT_RULES:
-        has_role = any(re.search(pattern, text, flags=re.IGNORECASE) for pattern in rule["role_patterns"])
-        has_wrong_person = any(
-            re.search(pattern, text, flags=re.IGNORECASE)
-            for pattern in rule["forbidden_person_patterns"]
-        )
-        if has_role and has_wrong_person:
-            return False, rule["message"]
+    # Check title and analysis independently: a correct article may mention
+    # both the president and chancellor without assigning the wrong office.
+    for field in (title or "", analysis or ""):
+        text = normalize_text(field)
+        for rule in ROLE_CONFLICT_RULES:
+            has_role = any(
+                re.search(pattern, text, flags=re.IGNORECASE)
+                for pattern in rule["role_patterns"]
+            )
+            has_wrong_person = any(
+                re.search(pattern, text, flags=re.IGNORECASE)
+                for pattern in rule["forbidden_person_patterns"]
+            )
+            if has_role and has_wrong_person:
+                return False, rule["message"]
     return True, ""
 
 

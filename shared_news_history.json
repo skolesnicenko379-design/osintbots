@@ -44,6 +44,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
     "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
+    "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
     "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
     "https://middleeasteye.net/news/uae-nominates-diplomat-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/bundeswehr-perekydannya-viysk-estonia",
@@ -70,7 +71,6 @@
     "https://militarnyi.com/uk/news/studenty-shhonajmenshe-40-navchalnyh-zakladiv-rf-vyroblyayut-drony",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
     "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
-    "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
     "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
     "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
@@ -80,7 +80,6 @@
     "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
     "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
-    "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
     "https://navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy",
     "https://navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs",
     "https://navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class",
@@ -103,6 +102,7 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRFZYTzBhczdjUm9oZ3RsblJTc3FqR3BOeGxTcW50UTZ2a0U2SWg5aTRJLWdJZE53NjRmUjJNejdpby0xaHFJbjN2eU05SmstSTVhbFI1d1F1RFlsX0EzOGotRUhBSU53TTB4cGlaM2F4ZDZydmdLUEh3",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTFJYXZJaXN1c083QjdJV0lXZDBzYUNEWEQ1Tm9XSWcwTkhmMkR6bV9Sb0FQczJrX0pHWXJWc1gtRlJ4aUxJYzZTaWNlbTItaEMzMklxY3NodlRFZGdVRDNkd1E3aWZOdEExUVNTaXZVR3N0dVhrZ3FBSEZIN0RZUw",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHVOT2hIRnktTFJvRGtxa2dLd0prd1Fvcy1sNkwtYXdJVlNaVW45Yks1MFlPS2VJek1vRUxqa0NWMmxlYkV2Y2RkeDRoQ1g4TTc2RTRhRTJ6QXpNVDlJZEdPQnJsUlRFMzVfZVhyNGd2VzJ4YWxRdHY5WEw1X2ZQVTVhR2hUX2k3c3RPMUU0dnZPQXZPNmc0dXFEMVQ1NnNVc2F3elRaWTI2OTRoWmZHYTQyMDRlZmEtNmpiX2Rxa0Q5RGFFZ1FjdEZ1MWVEekpzMk9mR1Q1UVExUm4wb21BQ184VEdjdU9CQUpKSEVkQWxRMXNRWFVodFlzZWVFT0ZXRkE",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQzJGdFZVcktjU3BkclV4X3JjN0VzTWpPYTU1QXlxalBPWkMwZUhmaXQ0eFV6VTlhOWVFTExxRXRyZ2FRMmF1bW0zSlBVd3dReHUtc3FTRTJzbWxfSHYzLUNsSkRzNVFoNGZFenZTR1oxY2YtZFA4S1VScjRDT2ZDNmE0Zjg",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
@@ -152,26 +152,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "У Польщі спростували повідомлення про призупинення військової допомоги Україні",
-      "original_title": "У Польщі спростували призупинення військової допомоги Україні — Fakt",
-      "summary": "У відповідь на повідомлення про нібито призупинення передачі військової допомоги, речник Міністерства оборони Польщі Януш Сеймей заявив, що ця інформація є неправдивою. Це підтверджує, що польська підтримка України у вигляді озброєння продовжується, незважаючи на локальну ініціативу львівської обласної ради. Відмова від подальшого поширення чуток знижує ризик дипломатичної напруги між Польщею та Україною.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/u-polshi-sprostuvaly-pryzupynennya-dopomogy",
-      "published": "2026-10-22T06:11:25+00:00"
-    },
-    {
-      "title": "Найбутні фрегати F128 Німеччини отримають системи легкого озброєння MSI-DS Seahawk",
-      "original_title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
-      "summary": "Німецька флотяна служба планує озброїти нові фрегати F128 системами MSI-DS Seahawk – легкими артилерійськими системами з дальністю 10 км і швидкістю стрільби 120 снарядів за хвилину. Це дозволить фрегатам ефективно протидіяти повітряним та морським загрозам, підвищуючи їхню автономність у задачах протиповітряної оборони. Впровадження MSI-DS також скоротить час підготовки до бою, що важливо після затримок у виробництві F126.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns",
-      "published": "2026-10-22T06:19:52+00:00"
-    },
     {
       "title": "У РФ залишилось лише ~500 Т-72 та понад 150 Т-80 – помилки підрахунків",
       "original_title": "Що не так з підрахунками про те, що в РФ на зберіганні залишилось всього близько 500 Т-72 і понад 150 Т-80 - Defense Express",
@@ -1453,6 +1433,16 @@
       "published": "2026-10-23T14:10:15+00:00"
     },
     {
+      "title": "Японці переходять до короткострокових депозитів під 2%",
+      "original_title": "Japanese Flock to 2% Short-Term Deposits Amid Rate Hike Hopes - 조선일보",
+      "summary": "Згідно із заголовком Chosun Ilbo, японські вкладники масово обирають короткострокові депозити зі ставкою 2% на тлі очікувань підвищення ставок. Це свідчить, що домогосподарства розраховують на подальше посилення монетарної політики Банку Японії та перекладають заощадження в короткі інструменти. Можливий наслідок: зростання конкуренції банків за депозити і більша чутливість заощаджень до ставок. У статті немає даних про обсяги, терміни чи банки, тому масштаб руху оцінити неможливо.",
+      "source": "Японія · монетарна політика",
+      "publisher": "조선일보",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQzJGdFZVcktjU3BkclV4X3JjN0VzTWpPYTU1QXlxalBPWkMwZUhmaXQ0eFV6VTlhOWVFTExxRXRyZ2FRMmF1bW0zSlBVd3dReHUtc3FTRTJzbWxfSHYzLUNsSkRzNVFoNGZFenZTR1oxY2YtZFA4S1VScjRDT2ZDNmE0Zjg",
+      "published": "2026-10-23T14:24:10+00:00"
+    },
+    {
       "title": "ВПС США хочуть залучити ШІ для аналізу дозаправлення в повітрі",
       "original_title": "US Air Force wants AI to assist aerial refueling",
       "summary": "ВПС США через програму SBIR шукають систему на основі комп'ютерного зору та машинного навчання, яка за відео з камер танкера KC-46 автоматично відстежуватиме танкер, штангу та літак-одержувач. Вона вимірюватиме положення, швидкість, вирівнювання та швидкість зближення, оцінюватиме відхилення від норми й формуватиме післяпольотний розбір для екіпажів. Це має зменшити суб'єктивність оцінювання, яке нині спирається на спостереження інструкторів і ручний перегляд відео, та підвищити підготовку екіпажів. Систему розглядають як прототип для майбутніх навчальних рішень зі ШІ в Міністерстві оборони СШ",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
       "published": "2026-10-23T18:55:12+00:00"
+    },
+    {
+      "title": "Туреччина не планує воювати з Хутами за Саудівським договором",
+      "original_title": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
+      "summary": "Туреччина, за словами міністра оборони Ясара Гулера, не планує брати участь у бойових діях проти Хутів у рамках договору з Саудівською Аравією та Пакистаном. Гулер заявив, що будь-яка підтримка буде спрямована на посилення відлякування, а рішення про допомогу підлягає юридичним процедурам і парламентській затвердженню. Угода про спільну оборону підписана в серпні.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
+      "published": "2026-10-23T20:27:03+00:00"
     }
   ]
 }

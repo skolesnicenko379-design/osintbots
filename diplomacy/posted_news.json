@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVm9jSXBuMjc4MXRiMjdhS004aEFHRHNPN3AzZUZKcHVCVk84ZnU1ajdRNnVmUWp5Tmtjc0tBTVZZMWVxb2tHamQ2ZlhlRGxrQUVFcDZGQUFOQ3Y0R1MtaFV0QldHY2Q5SU94QzdIekdRb0EteS1BVW5FbG40SVBWWE5PM0ttSG1jbmtkTlRPbGhFQXh5QndXSm9ETDBrOFZLVUx6SmRuY0lyRE9CWlUxb1AwQ1hPVHF3SkhNZ3ViVGI1VldiYVE?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzdxdnNaVGFDa09RRmxfYUYtNm9LaExUV1JjVXU1SnJWTDMtU0FHS3RWWXZETkliaFU0S1R2UDN0UHRCNnIzejJyQ1VZaDJQR1l0Tk9VaERXbEpIb0psVVhOODFiV1NFRjhKSU1qMjUxc183Z0JyMXgwRnNYaVI1TnRnTmZlR3RuUDZHbFpNZVJlR1E?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFJia1FNUHNxZ0FLQ2hYbi1LdXRUdEcwaEE1bWZTUmZWaXVobVdsS1dWcjItVjNxU3RFX1k1VldVSkJoRTVlSGdtTjE3Z1IxazNDNnRJUUMwbHBNT1prVXhTa3IzbFB5b2pXdVc5ME9PeUxXSnpZTlJHSGtldDFzcnFySnpFOTdtZXZySU03N1pkUW0wN2VKR2xjZ2pmWXlUU2V1R1pIc3hsdnpPWGRsV0Z3aDloQTUyTm9XMUxYdkFWZThyUWl5VzdGN0MyaUNDRlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3lRRTc1MUtzWHo1ZkNldkJfcjNyLVdkZm9NVy0wV29hMjJBTVE0WGprZTRFamxjVVlrNjVEWXpmY1NnMFJ1eVY2bXlWTi11enItUnQ0YmYwd3NSZWNEMWxxSG1NMVhsUTBpMW91MmRLZDVoR01MWGtrTTQwVmpTTmZpZHhZd2E0UFE?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelhJTDZPaE9QbkFodVh4Zkp1OW1tekpOTkEyNDk3blFiSDFnX0FhWjU2MUlVanY3VmJVWVJZdG85T3FSSTVOa3o2b2diOVd4RzM3Z185aFBISjdFU0RVOFBWSUhjN3ZYWjZIUl9vblU3YmNIbkp2NE9XY19ocmEwczlvckhweXhaWWNyUHVFS1lMRkN6WXd3bWZmOHY4anlQQWxFVXplc9IBrAFBVV95cUxPNXBCVWpSZWZpMV9PSTgxNExpaVZJOG5rVXZaRmx3OFhiSnoyemt2Yk40NmxCRm8wbGNzcWZ6VW1mTEhTSlVTdGpwWURTaGtDbnhjM2NZMlVxaVlrUm1wRWNmblR1Zi1ESjIyeVBXNmhRbFpDcmxBMkxCLXlpbkRQWEpsOUQzT3hDZGJVV0Q0YlEwb3pSZWFGa2hRLXVwMWpRbkliRVF3RExfZENf?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0hoS2RYVXgtQUd1WFlWQzBhWldqcUFwZlV1NjNkQmN5ZnpuTV9QQUg1S01Tb25tSkFWY1AtZHFZR0lEek1taTJDOHMxRzE0SUo4Z0hjTVlFTWNNNEUyM18zaUFTYm5JRVRNdHVXQ1BSMzRJNzhDSHdzWnhVNXN6Qzhnd05KalF0ZlZiYlFLMEdEZk1fdUp1Q3g0SQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmpreDNuREJFc0Zyckp3REFQY0twN185dWwwa0ZybUVyVnoyMVM1R1BDcENaXzQ3bTV3RFNoOFJtdkdKRDR2ejF0X3NudTZoRzBKQ0d5UjZkV3RvQmlwM3ZKdzg5ZzZ4QmpuVUlGS29PczlCZ3BjRjJCNEdGckFwSUF0U1gtS1o3bzVnck1qY3RvbmdHSXNvSmVxYmJYOGJjWWE3R2ozbUNjTlk3aXdhMWVSRGIwT3YzbkxZaW12eGxMaTJhbW00aHhIR1YwbGIzdUNKQ1ZsalVkWXRJU0l6WUJMSURQMk1SWXNv?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRlV0QlBPQ1dreEdlbnVHSGxNWlFfQ0FZUjROZ2JHVElWZm4yYWU3TlJSa0hCLXhDcEU2bXhvRk1zcU1TMVV4elRiRUJta3BmYmR5RkhsQmtGN1EtSDZMRnZzZ2dCYXU3VWJsUTRB?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclVEVi15ZUcwTHBoU09wUFBHTmFWOEdFbGowWkFTTjBpSGlGemJTQU90ZVNGcGRQYnp6ZmJzN25VTmoxV1hNRXBKUmFsOGV6SVU1cGVWQlRYX253dVdOUUE5YkVxZlJ5blN3Qnl2TEh2ZDJxbUVwM3VfWFZjUWFSZ0xtd1lvV2dsMFNleWNEdzRpQmtEcFl0Qll3b29NZFlMUGhwWVkyQmRfY1dIckNnN2dobFl6N2dpblE?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVm5zZEtYS1kyN0tYZXVmSlZsVFlJTkdIaUhvc2xBdm1PZFM4UHA3ZHNmOEo2dml6dXZRU0t0Q1Uxb3JZaXFqVGdvUW4zdnRkTk5ST0x1REtNVmhzY1JpSUN2MHppZWV3UDBUb2dvUWZXd1dFLVJZWmFQcjlkNnlMSHlKdm9ubVZ5ejNuczVYU3dsSkM4ejY1cVktbWFoNWdPbDBGWDFHVS1hYlBjNjlJRFUtZDFlbm1JdV9PaGVkc3ltYWx1OTR4QkJmOUN6TVZUVC1hVWhibUhDeEtPZUZycTVB?oc=5",
@@ -1199,16 +1192,16 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFRnLUF0cjFUTVRGTW9iRHRXa1NRbm5NaE14eDVkV2FOc1hKWmVnRW5EWWxZVFotX0M5U1ZNbHdaQkFEdnpnVlZKS2lUQldla1IwaUQ2ZFlQc2YxTURtaFpfQWNnMzBzS0ZDcFNGQWk5Znl4QUtKMXBxRHdJMHY0MmlnUGlmYkR4VFowWnQ2cldvNUJjU0FaYkJ6dw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmw1ZmpubnFpMzlQc294ZDdOaXVrZ1BoUEp2ZXJ6eXdGcnlqNFhrUHVRcnZBSTRDdDdWMXItZlJsM3pnUTJSRWh0c0VQbkgwVjNsUHhULVo4UGN3UEY1OTBDeVVWTkhVeGJzcTIzQ0Zld2tKcHhZLXhvNDNTaUp5dWhrbVlfOXZvVEJsQTNtZHRsekpBMExVWnd2RDV5dlhSNkYyMkFHVdIBrAFBVV95cUxNdnp0QzZZRVU3NDUwWXZoLVkzOWpXZk8tdDkzZzhteWExSWFRZk5JaFFRc0NuRWMzZVBaM1ZTZFBJOFEwZkJPaGRTZXFjREhpVGRQNkxyQnN6eWY1T1NDc3JvMzhSdXN1SXEzRkdMNUhSTmtadVU5NG5SOGl0bWdpRG1vVVNLMUh1RkRCWGZCWDRnRDYxQnRPVFlfUExkUDdRSFBYZ1YwYzd6NVFo?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mbVNmSFRZUUxjcUdfTEZxenI1al9ZZmJiaDBVMmlPSDhtWGV3M2llazlkNUt0eTlteXluLUlQaHljalBTdFFpNmYxZDVjYVlVU2pSVHdLaGR3WTE1Z3pPVUlxX0R5THNOaDVEczlyMFNyMVlkbnE5aV93?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGZwMnhVOURMSzFPRkdYQkZLQkRfZUhTX2VxUURubGRyVzViaXBZX3FDNnFoQmNMbDkzTGdkUGRLYS1hTUpjN1Y3cXVSQS0yMWd4VXBGblRsakpUNE9PelpuM3NTeDN3dmNzZklZNTZ0T3c1Q0JaVXFGMA?oc=5"
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGZwMnhVOURMSzFPRkdYQkZLQkRfZUhTX2VxUURubGRyVzViaXBZX3FDNnFoQmNMbDkzTGdkUGRLYS1hTUpjN1Y3cXVSQS0yMWd4VXBGblRsakpUNE9PelpuM3NTeDN3dmNzZklZNTZ0T3c1Q0JaVXFGMA?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
+    "https://www.middleeasteye.net/news/everybody-terrorised-el-fasher-population-drops-just-7-percent-last-years-high-amnesty-says",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/escalation-coming-middle-east-edge-new-israeli-us-attack-iran-looms",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWZMTUhtbGFXeXFrbkdfNkJZVmgwcjZzeXAyS0d4Q1kwdUlfazBvVDE4OGdJSUhqTnU5YVFOR2ZyN1BPbS12QkZtc2FWbHJaWjdwTVNRcEFPaThCYTk5bF9wLURtYWJiQXR1LXdQZ0xaZk9wN0hKYm83ZG95b19DcjhCRnZ6YnljSy1FU1ExRWsyTTlOSGFlTWQ4N3RBd0pQbWhJU3hjUXhOcmhMYVAwNUhSejJtVTlHWFlkU2FpLU12UHhqZXVuOXlKaUppRGI4TlAyeTBn?oc=5",
+    "http://www.africanews.com/2026/10/23/portugals-last-circus-elephant-begins-a-new-life-at-wildlife-sanctuary/",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1BzNWI5T0hOWXpwempPNmcyMWFkTDA4N0tod2l3dGt0Q1h0dTg3b3AteUZjSDVNQjJLLWZPT1NleV9KTW1GazQ0V3RfYUdITWdlaFM3MzlzTUphak9UbGZXQlIwa2NEYzR5aHRCbl96bC1LQW5CdGVzYVVUY3lMeElUVnNUdWg4YWlhWGtydlBuQURYTGt3bWI0WVJURDJNTTdrU3E3ZEJhdURWcUE?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXhiMWotcnN5UUVGQmMyZUZfdGJDQmREZS0yQ0ZITTlkR1d5S184TjQxeWJudTlOanVpTGRFOWwzUG9RckxhTjc2Z0V1U2FJZ1VUb2s3clNUSUJTTHpzdExfR2FVWDM5cy1qNnJTTG9pazFaMWI3dWwtSkNkTG1tSUNVdGRhYTJMd2pCdF9VUEVNdWsyRzg5OUJzdVdTb0V0?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Ван Ї провів переговори з міністром закордонних справ Джибуті",
-      "summary": "Міністр закордонних справ Китаю Ван Ї провів офіційні переговори з міністром закордонних справ Джибуті Абдулкадером Хуссейном Омаром. Подія є двосторонньою дипломатичною зустріччю між представниками двох держав, що відповідає критеріям міжнародної дипломатії.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-10-21T15:55:00+00:00"
-    },
     {
       "title": "Туреччина та Канада розпочнуть переговори про вільну торгівлю",
       "summary": "Президент Туреччини Реджеп Таїп Ердоган оголосив, що Туреччина та Канада розпочнуть переговори щодо укладення угоди про вільну торгівлю ще до кінця поточного року. Сторони планують обговорити умови взаємного доступу до ринків та інші комерційні питання.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "Castanet",
       "published": "2026-10-23T17:08:00+00:00"
+    },
+    {
+      "title": "Туреччина не планує воювати з Хутами за Саудівським договором",
+      "summary": "Туреччина, за словами міністра оборони Ясара Гулера, не планує брати участь у бойових діях проти Хутів у рамках договору з Саудівською Аравією та Пакистаном. Гулер заявив, що будь-яка підтримка буде спрямована на посилення відлякування, а рішення про допомогу підлягає юридичним процедурам і парламентській затвердженню. Угода про спільну оборону підписана в серпні.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-23T20:27:03+00:00"
     }
   ]
 }

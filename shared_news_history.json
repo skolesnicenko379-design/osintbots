@@ -8,7 +8,6 @@
     "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft",
     "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026",
     "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
-    "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
     "https://defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas",
     "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
     "https://defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time",
@@ -54,7 +53,6 @@
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
-    "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
@@ -90,6 +88,7 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0g4WUM0RU40WWh2V3N6dXY5UTlqdnJGSzBjbGZJRURLLXA2MHZWVFR2cEFYSGE1ckRDY0tMazBPVXZoM3hDN3VoRlpiT2EzTW96TXJaRHpvQ2Q5c3plSTZUbjhZZFZXT3pZaFZUQW5QamM5bnBPcTJTY2RQQ2YyRG9YXzNUeXE5QjY2VEUyZEdZaDZDdDZ0VQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVlZbF9NVjFDWEl3ZlhxMEJlRW1YNExNRUVsR3BQb2dhbWQ1S0RPeWczaUVhb3NUZGpBcUtxOWlDYUlidkI3cUpma3MzVFNwd0tvaTlRZk90TDQ3dzNzWkhRZ0tTWUQzeUI2aWJoTko0cjBRMXhiQThEa3hrQWQ2WjUxYi1uajJOcVFmbXoyUUNNQ0JzdzVWUk01RQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJzN0dWUlVVUmdSS1VCWWxaLWk2QVZ0SHgyX08ydFVib2xwaElVQWtWZDYxMVFmM2thcGNHdlhCT0V2eUZlaGZyVHNUeWZzWU5rVDQzSFNPUzZfRy1VRDV5d3Vyc21hbzl5dkhEc2R5U2dNRnlwc3FvUTZTVWhVaG5tVjI1TExJY3VxZ0J5ay1yWlc1ektKck15Zw",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGlJckdULWtiOWgxRDhSYVEyY3V2cEw2UTFjREs2MzNPYk11RzRpRVZHTGstYU5nQ3N3VTloQTNxc2V3b2VQZ1BpVzZpMG1wejQ2d1JWTFZKcFZkWXdHM1JnLUU3ZUtrR2RnUWhiQU9LaFMzN1hUYVFYTUtfeHFZbEhhWXMzYjRoZktSQ0lLRkhkY1JTMDNaVW8zMDZGUQ",
     "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFl0VkFyT25rM3dDV2Y5Q0hWbXR1QjhrYlFQcmJjbktUckt6em8tVVR1UzZNNGVWRXFYMTBHd1F6YzdCSDJrYkNKeEhKbVZZN2pVT2xoRlJJR2xGRjgzNUJDZ3F6QXBwOEdPTGpPTWpmVUZfZUl5SmpiWGFVR0xibXhfX3F0bWtVRklTUFBVT0FZRUxfMnpMbHNDaU81X0U0MUpad9IBqgFBVV95cUxQUEpKSjlIN0VjZnRTZlN0OFM1Ui1pbk1vbW5Kc183M1JMRUxpV3pQZGp4U0RGaFg0cTlDQjhUaGVZM0Y2S01SZko2Y1I0cmxsbDF2bVhfM0NOQXhkaUwwZVFFVG4yTVVRdnA4Y21scXUwbnV6LXV3QzlieVc5SF9IY3hIU0dfS05xYU9qNDlJbnpIVmF3QjhyNWxOMTJwbzl1akd6MVhocjVfZw",
@@ -98,7 +97,6 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEtQOWlIM01RRGdIVF9rUEUyQ21UVlZmUHJGeDVPNjhPRzZJLV9EVkpTS05vM0VnenhWaUo2ZWVJaEEtX2Y4cDlYMGZHbVMwYUNHSUtWNWNydnB2ZVZUSWJ3Z0VFdm5iNzJLR2RmVkI0dmhJMnU5b3VfX0ZOeTIzTU9Wb0FldG5KODlEemlQcjhBZVlRc1RZRjNjR1pvMW1MU25iUThZTzg",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnJxT0dYeWs4ZWVvNHY3TnBhM2RlQW0wVnRlSWxmYS12RlpCN2tFZXRsTDB6ekR4WWs3aXZjSk4walBkVjZDcEttTnhyMldiNEdyRkVFb2RVME1rTjVyS0ZQVjk3bTBVWDdoMEVHa2p6aU9FSDAwb1NIVG93aFBxMVlVSlQzQVJ4UzkxWEFIR1dxVENtT2gxUE9CcDJxYzlWV3pheXZwams",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVhCbDFUa1ltWVYyLUUxUkhuYTBIQUpUTW11cXNKQWtCS0dEanAtY2xJLTQ4MFUydTVlMnd4ZmQ2MHNnbWhrNVJRcGducXNtSkN1eGpGeTdORlVRRl95OUxUMnJIMWxEcWNYUVA2TlNCemUwOHpnNWRkbnl5RkhIeHJsQ1RPY3gxWktFRHZfcWtrd1hzZ04xS0s2VGJQZ2huYjg1b0JHU2NwTklP0gGsAUFVX3lxTE1hWEJsMVRrWW1ZVjItRTFSSG5hMEhBSlRNbXVxc0pBa0JLR0RqcC1jbEktNDgwVTJ1NWUyd3hmZDYwc2dtaGs1UlFwZ25xc21KQ3V4akZ5N05GVVFGX3k5TFQyckgxbERxY1hRUDZOU0J6ZTA4emc1ZGRueXlGSEh4cmxDVE9jeDFaS0VEdl9xa2t3WHNnTjFLSzZUYlBnaG5iODVvQkdTY3BOSU8",
     "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRWd0Y1pndVNENXVZQ1hsb201Y2tQbVhtOWpMX3hqWHRZbXJ5cGUxNGdGUDdWZGhpQV91TjJ4dG9KRUU1NDBQR2NscTJrejlSXzN0ZzhmYlJEV2FFZ1Fyd3NLUnhoTU8yR1BBQ0hTWFgwYVlmLXNjdS1fSUVJUFdwa1pZV3FvUXFfQzRocUdNcFdYODdQRlQ0cXpPR1RvTU10d0dFcWZtUWZ2NnRHazl3aHZGMEFfLUhqWXFDaDBYeVVPSUNPNVpfSDJSeW02czNVTjVsM3BPMWZtNjFjeFZZREkxandzX210emRRaXpoUm9zU0Y5OUREUWptTmN1ZVdxV0hxOFRxcS1EUXlmNnU5Tm1NVVlFbzJ6QzV4NXZoSHlENmVfUUlMWXZsRTk",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUVoOGhwRFczZkltNmRSN09aQWhzX1hxRGpFVmY2blBrUXpKb0k5UTQtZm5vWVZoQmZlZDVpV052MEh1ZFpNc1MzY01sYjJ6aExPTnFxMTFIcFRTeGoxVU1RLWdKLVlORlhUYlhLSEZJWndjTW93UUxjVlFZb3UxNmJfUDdaRHdsRzNLSHlnc2U0WVo0SW1xNXAwZE1MRWVfbGR5anE4MF9BVS1BOTlFRzlB",
@@ -107,11 +105,8 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3FVS3pnYVdOcGJTSFFtYnNuNlh1N2cxR3dUVHVqY0lWaXV6cHlJTDhhYlFNY3JhM2N2VWU4Z2hHMGExQUt5Tk1lcFpuWVRvZ0drb293WXduQ1hPd2FvMW5oZzNVc1U1NzFTbkxjZUZwWURsTGJBYWdSblBUcW5VWDZRR3NaaUpxdFd4Z1VVYjVtM0xJR252VlBpaHV0N19iN3pwa3JqOEtPYnByRW4zeExocl8",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXpQck1UTm5pRnFnQ1haQ0ttLUFuTTZRYlNTSDRqenZCckdOSTJKZHdBUGw3NmFKdV9ldVpGZldSR0Y3UUZPQ1FWT3ZnemdTZXhNOURSeGFfSndyamFWa25IWVBpUHVpVnlIWFlxTkJSbmJLSWp3WGlvZGtrWWo5SzZrUUkwWWhKZVFFN1BOX0p4WU9lMW1QSmhpLXhZNmUyeTlrZE9fTVRzakgwR3dmZXBrNHRHdw",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2dPOWJyMWJLY2tQMWFQbTc5ay1QampFc3lPaDFfVm1TY09SZlJYWlNZTVJPV1pMeU5sU3pqd3dZazVnWFZFWVFWbkFqcGd0clBrSTdqdGJOeWZCTDY5VEtmQ3FUSC1jeFhVWHR6YUo0WnZLR1B3WktBOFo3QlE2VXBBNnA4cDRCSXJuOFRCZmZSZ2J5cWpDc05CZDM3SnRsVGNsWUNvUlBlWHpfYzJPTDdKYjBYdks3",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2RXcXMzVVpDMkNzN3Y0OW9PeDM0RFFMMFg5TUVuSnQySzZMZFZQLVFMOWRlT01lSWVzenJZV3VET3pobkMzT2lob09Qd0FSdkhNT0F4bzRJbXJHMjVOem41c3RUSVAzRTE5T2hjOW5XbGc0SC00djM2eTF5RTJmMlIxbDdHUWNQRmFWT2tKY3ozQWNKenF6bEJIZVZWZE82MUlMU1F1dWVuTGFNY3JkZlhHaGJBVHlrZFdj",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFBWWVKMHUtNk1tOGstMXlGR0kyRHVlNDh5UlRxeVBMeEM3N1RQbmV4MHJ1MzBJOWlqNF9iUF93Vm0tR09ianBIYkNCWTJ0Q2hST2NHUnRSYzFYTkx3MjhXNjBYRGZ6NFRRWi1reE05TTFENWlOZnh6QmdJcElpY2VncjdDeXVoekctcGVJVGNybUJJZXdXd05FZnZNMmZveHdsLXRGS1hiZmp6Wmt6RmszaXZkbXdVWkdtMg",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjlyZV93YUVvR2VOVWd0VzZwZm04QjhDZ2tqT3lnTHd0NWM2OUtTakdpSVJKb3ZUWURxOEdvdG1UTlg2NWNOVmV1dVdpWU94VTdvOHQ5R2N3ejNLSmpCeGwtRnZtWGpIU1NHVXp2Q1dSak93ZWlHZXpERjZZR2l2ZTBpV04wYnhiN05qbmxKS1BvelZPWUJ0MnJCUUZMekM1a19tVld2SGwza3AxV3Zfak5tcWVLNGFPU05UMVdkdDlNMlU",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN0VnZXaGFNU3FuVXpzalRYbVd0bEdLREZITnRlUXR6NENmcGZoby1Nc1ZjUE9ScTc0bnZXcWl6U3pDRjA1dDF0c1RqbEIweENJcXp5UDZaYnRUNUZFX0xoWWVZVUNjejhNb3RCT0Z2MXBDNUtmSG5jbFEyMFU4dmFWTXE1Y1FoaXA2VmVXeXpfRVJwbEFmMFpZOWV5cWlHVjNZREF6c1BfN1VjdVh3NlVvcEMtUlEyejBXdFRkczNXWnlQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWpqQ05pRy1Yd2JHRWVXdG9xbWYwemZoSEVhTFFKZjQ2TWROcnhhSGwzWmdEeTQ3aGJCa2ZjbGJ4V0toWmVkUXI3TklSaDg0ald6TjIwbjIyU3RNenZSN1V0Tm93OXZ4YUVrZGZkX3N6Z0JXZUFsREtzTzN0UW9SWEd1anZEY1RCNEI3OTQ1SC1VUnVPU2dtUmVJVlJMRWRUNGlDbDM2MVI1THgyZFRXOTBmY0lDYnNYckdoZjExWk16RHJy",
@@ -127,80 +122,9 @@
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
-    "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
-    "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
+    "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Україна, ICEYE та Nokia підписали лист про наміри щодо власної системи захищеного супутникового зв’язку",
-      "original_title": "Україна, ICEYE та Nokia домовилися про розробку власного супутникового зв’язку",
-      "summary": "Документ передбачає лише вивчення можливості створення супутникової системи під контролем України, а не готовий проєкт чи контракт. Мережа може поєднувати супутники на низькій навколоземній орбіті (LEO), наземну інфраструктуру та спеціалізовані термінали. Якщо задум буде реалізовано, це зменшить залежність оборонного сектору від іноземних комерційних операторів. Технічні характеристики системи та терміни для України не називалися, а партнери раніше говорили про перші апарати зв’язку на орбіті у 2028 році.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
-      "published": "2026-10-22T19:41:13+00:00"
-    },
-    {
-      "title": "Зростання глобальної інфляції продовольства через нові шоки постачань",
-      "original_title": "Global food inflation may intensify as supply shocks pile up - The Daily Star",
-      "summary": "За даними The Daily Star, у світі посилюються шоки постачань, що можуть підвищити темпи інфляції продовольчих товарів. Це створить додатковий тиск на зовнішньоекономічний баланс країн‑імпортерів, збільшуючи їх валютні витрати та скорочуючи ліквідність у зовнішньоекономічному секторі.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "The Daily Star",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
-      "published": "2026-10-22T19:46:53+00:00"
-    },
-    {
-      "title": "ЕКЛАК знизила прогноз зростання Латинської Америки на 2026 рік до 2,0%",
-      "original_title": "ECLAC cuts Latin America’s 2026 growth forecast to 2.0% - IntelliNews",
-      "summary": "Економічна комісія ООН для Латинської Америки та Карибського басейну (ECLAC) знизила прогноз економічного зростання регіону на 2026 рік до 2,0%. У статті немає попереднього значення прогнозу, причин перегляду та даних по окремих країнах, тому масштаб коригування оцінити неможливо. Сам перегляд вниз означає погіршення очікувань щодо регіональної економічної активності. Для ринків це сигнал обережніше оцінювати попит і інвестиційні ризики в регіоні, а деталі потрібно уточнити за повним звітом.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "IntelliNews",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
-      "published": "2026-10-22T19:47:47+00:00"
-    },
-    {
-      "title": "Вперше показали наземний запуск дешевої крилатої ракети Rusty Dagger від Zone 5 Technologies",
-      "original_title": "Ground-Launched Rusty Dagger Low-Cost Cruise Missile Seen For The First Time",
-      "summary": "Zone 5 Technologies оприлюднила перші фото версії Rusty Dagger Block 40 для запуску з землі. Ракету спершу розробляли для авіації та експорту в Україну, а тепер адаптують для сухопутних і морських пусків. Для старту з наземних чи корабельних установок її оснастили твердопаливним прискорювачем у хвості, а бойова частина може важити від 100 до 250 фунтів (приблизно 45–115 кг). За даними компанії, варіанти Rusty Dagger обрали для окремих програм армії та флоту США, зокрема для LCCM, що передбачає закупівлю понад 10 000 дешевих крилатих ракет упродовж трьох років з 2027 року. Місце й час зйомки не",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time",
-      "published": "2026-10-22T20:09:51+00:00"
-    },
-    {
-      "title": "Conference Board: економіка США стабільна попри похмурі очікування споживачів",
-      "original_title": "Economy holds steady despite grim consumer expectations: Conference Board - CFO Dive",
-      "summary": "За заголовком CFO Dive, Conference Board оцінює економіку США як стабільну, хоча очікування споживачів залишаються похмурими. У наданому тексті немає конкретних показників, тому масштаб розриву між поточною активністю та настроями оцінити неможливо. Макрофінансовий наслідок: слабкі очікування домогосподарств лишаються ризиком для майбутніх витрат і зростання. Водночас стабільна поточна картина знижує потребу в терміновому пом'якшенні політики ФРС. Для підтвердження висновків потрібні дані повного звіту.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "CFO Dive",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
-      "published": "2026-10-22T20:19:22+00:00"
-    },
-    {
-      "title": "Космічна сила прискорює розвиток війни між Землею і Місяцем, скоро запит про інформацію",
-      "original_title": "Space Force shifts into high gear on cislunar warfare, with RFIs coming soon",
-      "summary": "Космічна сила США планує випустити два запити про інформацію (RFI) на комерційні технології для місій між Землею і Місяцем та програмне забезпечення штучного інтелекту, що дозволить автономно керувати космічними апаратами. Ці ініціативи мають бути впроваджені до фінансового 2029 року, що підвищить оперативну готовність у новій космічній арені. Підвищення активності у цій сфері створює стратегічну перевагу над конкурентами, зокрема Китаєм, що вже розгортає кубіт-спутники для спостереження.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
-      "published": "2026-10-22T20:27:12+00:00"
-    },
-    {
-      "title": "ЄС розглядає пом'якшення санкцій щодо китайського виробника тканин",
-      "original_title": "Exclusive | EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia - South China Morning Post",
-      "summary": "За ексклюзивними даними SCMP, ЄС розглядає можливість зняти або пом'якшити санкції щодо китайського виробника тканин, якого звинувачують у допомозі Росії. У доступному тексті немає назви компанії, дати, умов чи обсягів торгівлі, а рішення ще не ухвалене. Якщо пом'якшення схвалять, це може означати вибірковий підхід ЄС до китайських компаній у санкційному режимі проти Росії. Для ринку це ознака можливої зміни ризиків для китайських постачальників і європейських контрагентів, але без підтверджених деталей оцінка залишається попередньою.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "South China Morning Post",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
-      "published": "2026-10-22T20:32:36+00:00"
-    },
     {
       "title": "Чотири літаки‑радару KJ‑3000 виявлені на заводі в Китаї: серійне виробництво",
       "original_title": "Four KJ-3000 Radar Jets At Chinese Factory Point To Serial Production",
@@ -1400,6 +1324,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
       "published": "2026-10-24T12:17:06+00:00"
+    },
+    {
+      "title": "Китай і ЄС досягли розуміння щодо гібридних авто",
+      "original_title": "China and EU Reach Hybrid Vehicle Understanding, Averting Full Trade War - Vocal",
+      "summary": "Китай і Європейський Союз погодилися щодо гібридних транспортних засобів, що запобігло повному торговому конфлікту. Угода зберігає безперешкодний доступ європейських виробників до китайського ринку та китайських постачальників до ЄС. Це підтримує ліквідність у галузі автопрому, знижує ризики тарифних обмежень і забезпечує стабільність постачань гібридних компонентів.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Vocal",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGlJckdULWtiOWgxRDhSYVEyY3V2cEw2UTFjREs2MzNPYk11RzRpRVZHTGstYU5nQ3N3VTloQTNxc2V3b2VQZ1BpVzZpMG1wejQ2d1JWTFZKcFZkWXdHM1JnLUU3ZUtrR2RnUWhiQU9LaFMzN1hUYVFYTUtfeHFZbEhhWXMzYjRoZktSQ0lLRkhkY1JTMDNaVW8zMDZGUQ",
+      "published": "2026-10-24T12:17:53+00:00"
     },
     {
       "title": "Палестинська влада закликає до міжнародного тиску щодо атаки в Геброні",

@@ -7,7 +7,6 @@
     "https://army-technology.com/news/rheinmetall-telford-gun-hall",
     "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
-    "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
     "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
     "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard",
     "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats",
@@ -26,7 +25,6 @@
     "https://defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says",
     "https://defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says",
     "https://defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling",
-    "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
     "https://defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china",
     "https://defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
@@ -38,6 +36,7 @@
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
     "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
     "https://gov.uk/government/news/joint-ministerial-statement-on-the-risk-of-famine-in-sudan",
+    "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
     "https://middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
@@ -72,7 +71,6 @@
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
-    "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
     "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
     "https://navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs",
@@ -83,7 +81,6 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHpsWE9aVjNpY3J5OGlEVE5DbzFqRHJTejZlbjAzNG1aNGc5bnVDVmNCc3dtQkh2YnBzUDU3Sk40NTNLMmswQW9aUWdqZjRsdGlnbm5yTHF2RGdueHJOQzZvTFByVXBJNkhZV0Y5ZmRqYVBfWjYtMkMzbjRKMC1QejFnWWlYQ09GWDZWZkV3WlUtUG80ZlZuYmRCUkc0emp2YmZFeGN6SzBSVVJ3SnFwZjcxQS1oeGRoTmZsNnhWNTdzdnUwV3M1SWJOV3Y5QzBXU19LMA",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelZWNGNXZXpGWmp1R3JBWnotLTlPMS1hS0NzWnhhNzUzUEl4VHlUR1pQODRzS1BMa004YURjUUJRdlpBbnRud0hhcDRXUzRjQlVVcG4yODA5aWpMN01iMW1pUm1lVWR6TDdvQnZBSDNjX1dvWkJncV90Ty1lQVRQcDU1X1RLYW82b01jZ0NUWExnNmNrWklZQk9yOVFhZy1hZ3QtalZZekxtRExfQjhqVG5tTERmQzhpdHpYYUF4aXRUbHNmRVY4NVpYVUE5U2RzbW4wbVlJbElLOHJWUkJBUFVR0gHmAUFVX3lxTFBJSElDVmVEM2hsUVlsLW1JT051SVhmM0VqMVV0c1lsVlljbVdqZldiYUtseUxwM2FFdFNZWWUwVHgyMklQaWFUSkhmSzJ6SUozYU91SzI0czdzWFJiT1R3YXpBSkp6dlhvQTBUSU1acVR1MnhtcDFWOGloc1dWSWVRWDFRdWZfY3I0X3N2UENzTmNVLTlyQURsUTFUbC0tUE96QmZYcWlTZ2g0ZXc1d3ZiSGsyMmVaSFVWSGNRa3h4OXNIdVF0ZURFNkpOUjRPRkQ5ZWtBcEd3TEtrdExKSHhKemJOdU53",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW1ORWxJUy0wMmVXWDhGb2dMd1R3NFRLRDh4aVRhcDFaejNkS3VUVDBRczVhUHVZZzFKVmgtR0VscGVpUHk3WnBlczdZa0RleU9mZHVNS0NrY0ZYOG5PdUVDc3lZUXBKSkVibmhITnhuSGlaMWh3U09qNFZfSmtjWXBxckY5ZXRucVNLN0g2LUNpY1Viem50cHZSWVJ0NEV4TzBWdGhyaDZ1c2hiTFRxcGI5cmNDRkFKbEkydXhZamFQXzFmRURNYUl6Y1k0M3N4Uml1dmFoaVo4U1owZkFmdWoxUnZoRjdDQWlick5R",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWNETk9JNkg5bUxXR0kxT0Q2SzY1NlVsTGpEcDliU2hYM1p2azd6QjNmRUg2LWtqYVBGN0FfbkdJbUNXQ2FTMXUwMHFmU1RoNEdQOVFZNmFyRDVGVVRQV1czd0poQzVYT1BvR0JPdVV0OWVQdTBqRmpzRUo4UGN6WFN0cmhrb2FDX1R1UjV5LVBqTjNYS3JLNFZGYk9aZHBheWxUbUo5MmQ2N1dKOUFCWnhQNjN0OVlpRUFLczlPUmJ2UDVhWW02SkFRWWpxYUlzdHhWV2VYWF9pZ0RSQnRfWkhoTHE0RFdXQ1d4Mmpn",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
@@ -99,15 +96,14 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUy1rektYX01uWE00NWJkNlhYMlV1VDdNN0NfZkdVck9UWjB4Ym5GTnUtRmJURGhRRVZxeXZ5THFNZmFFVEVlanB6M016NkdYT0RhRktZd0tSQ0RsLXdzc05UeS1BVFZSTTd5S1BfVTNRNk1YNnM4MllGU1ZreTFERXZmWjdIaVd2aW4wTExR",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2ZPbnhxeGFnNDR6bjExMGtRLVpKNGtaV19QUXF6d21wUzhsMlBUQV9PdFlURndWTHg0WENPSFZJR0dhSDFTakJXbzVwN0c2ZnNOdmc5YXJ4T0NDQUQwLV9FLUQ5NnhRM05uQUdKUG44Si1Fd0Y1TEREZE1zSWJSRWk2MzJIWDZLVXQxVjZDRQ",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0g4WUM0RU40WWh2V3N6dXY5UTlqdnJGSzBjbGZJRURLLXA2MHZWVFR2cEFYSGE1ckRDY0tMazBPVXZoM3hDN3VoRlpiT2EzTW96TXJaRHpvQ2Q5c3plSTZUbjhZZFZXT3pZaFZUQW5QamM5bnBPcTJTY2RQQ2YyRG9YXzNUeXE5QjY2VEUyZEdZaDZDdDZ0VQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVlZbF9NVjFDWEl3ZlhxMEJlRW1YNExNRUVsR3BQb2dhbWQ1S0RPeWczaUVhb3NUZGpBcUtxOWlDYUlidkI3cUpma3MzVFNwd0tvaTlRZk90TDQ3dzNzWkhRZ0tTWUQzeUI2aWJoTko0cjBRMXhiQThEa3hrQWQ2WjUxYi1uajJOcVFmbXoyUUNNQ0JzdzVWUk01RQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJzN0dWUlVVUmdSS1VCWWxaLWk2QVZ0SHgyX08ydFVib2xwaElVQWtWZDYxMVFmM2thcGNHdlhCT0V2eUZlaGZyVHNUeWZzWU5rVDQzSFNPUzZfRy1VRDV5d3Vyc21hbzl5dkhEc2R5U2dNRnlwc3FvUTZTVWhVaG5tVjI1TExJY3VxZ0J5ay1yWlc1ektKck15Zw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVG9mN1lKc3hJakRfbVlKZHdldV9UaUFUVmZZQ1NPSkFkTWQxNHNhRjEzTzJpNmFGZllWd0NUR2V4VFB0ZWlwcmNveFB5emhTdUppUTF1UkozLWNEWTB2VGRxYi1LeEo5ZTZiTGxIbjQ4c0ZwZG00NmJNNFZ0cDFRRmRYQ1ZMX1BKSzk2UjJNdWQwYjJFbi1hQ2lfOA",
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFl0VkFyT25rM3dDV2Y5Q0hWbXR1QjhrYlFQcmJjbktUckt6em8tVVR1UzZNNGVWRXFYMTBHd1F6YzdCSDJrYkNKeEhKbVZZN2pVT2xoRlJJR2xGRjgzNUJDZ3F6QXBwOEdPTGpPTWpmVUZfZUl5SmpiWGFVR0xibXhfX3F0bWtVRklTUFBVT0FZRUxfMnpMbHNDaU81X0U0MUpad9IBqgFBVV95cUxQUEpKSjlIN0VjZnRTZlN0OFM1Ui1pbk1vbW5Kc183M1JMRUxpV3pQZGp4U0RGaFg0cTlDQjhUaGVZM0Y2S01SZko2Y1I0cmxsbDF2bVhfM0NOQXhkaUwwZVFFVG4yTVVRdnA4Y21scXUwbnV6LXV3QzlieVc5SF9IY3hIU0dfS05xYU9qNDlJbnpIVmF3QjhyNWxOMTJwbzl1akd6MVhocjVfZw",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA",
-    "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXJLSEg2VV9uMHR1QUpzMmY3OEo2TzNqN3pYZUlRQnZRZWswUGJfYUxSUHpEaDkybmlyTEZVZDM0YWhab05PSW1OU1U3cXZTWmJ0aWxqMUZMWS1sV2JheVR3a05mMXFWMDFsSXBsNFVEZGhOSE50WC1iLUhRbURIYTVBN3RQc2Y0MlhQTVcyaExkUXlKMnZScFc4NThZNXJOSUpjbDh3",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEtQOWlIM01RRGdIVF9rUEUyQ21UVlZmUHJGeDVPNjhPRzZJLV9EVkpTS05vM0VnenhWaUo2ZWVJaEEtX2Y4cDlYMGZHbVMwYUNHSUtWNWNydnB2ZVZUSWJ3Z0VFdm5iNzJLR2RmVkI0dmhJMnU5b3VfX0ZOeTIzTU9Wb0FldG5KODlEemlQcjhBZVlRc1RZRjNjR1pvMW1MU25iUThZTzg",
@@ -125,7 +121,6 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN01xMGc2eVJIUHIxQ0lyWDRwSmkxSUcxUTlyNHVfUHVBRXNfYURzS202dGtSVEN1cjh0cE1JNzlzSzdFRk5xMjBBWGhuLS11RGhwQlRONmlUejZ6OUdDazduT25za1UwTnNqaUNTa0MxemFWQWdKRkE2Z25MYXdYTnBVcndjVG4tYUk4b3BhSWtvcVZSSXFVQXllWGRDVFZCaktFa0tYTVVMRGpFTjRMZkxuczhUcEhaX0HSAboBQVVfeXFMTzdNcTBnNnlSSFByMUNJclg0cEppMUlHMVE5cjR1X1B1QUVzX2FEc0ttNnRrUlRDdXI4dHBNSTc5c0s3RUZOcTIwQVhobi0tdURocEJUTjZpVHo2ejlHQ2s3bk9uc2tVME5zamlDU2tDMXphVkFnSkZBNmduTGF3WE5wVXJ3Y1RuLWFJOG9wYUlrb3FWUklxVUF5ZVhkQ1RWQmpLRWtLWE1VTERqRU40TGZMbnM4VHBIWl9B",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1BRZjNNMUlfbXdVOEQ3c3dlVVFEWEd2djhFcDI0ckFXV2JRdV9fSmI3M3J4b2xTWkI5b3pqNkFqdVlwYWllX0RGNXktRjRoUGlYMm9UZlZPNkREODkzYUxvYWdfTmczZ29wNXVkWDJYQmRIVFBYcW01amNLZEM0bFNzeTZpREFOZ3ltMGRkdjFHNENUdktBSlMxVFhlWVN0NENDYnBCVnp1LWJlUVJtLTBLYlQ4WGhfQVRmNEc5VnYxUGM",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjlyZV93YUVvR2VOVWd0VzZwZm04QjhDZ2tqT3lnTHd0NWM2OUtTakdpSVJKb3ZUWURxOEdvdG1UTlg2NWNOVmV1dVdpWU94VTdvOHQ5R2N3ejNLSmpCeGwtRnZtWGpIU1NHVXp2Q1dSak93ZWlHZXpERjZZR2l2ZTBpV04wYnhiN05qbmxKS1BvelZPWUJ0MnJCUUZMekM1a19tVld2SGwza3AxV3Zfak5tcWVLNGFPU05UMVdkdDlNMlU",
@@ -146,91 +141,10 @@
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
-    "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Пентагон прагне отримати кетамінові пластинки для бойової медицини та добивається екстреного дозволу",
-      "original_title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-      "summary": "Міноборони США уклало контракт майже на $41 млн із iX Biopharma на розробку Wafermine — небоопіоїдної кетамінової пластинки, що розчиняється під язиком, тобто альтернативи ін'єкціям для знеболення при помірному та сильному болю. Через оголошену у вересні екстрену ситуацію препарат теоретично можуть допустити до використання військовими ще до повного схвалення FDA, але Politico повідомляє, що американський виробничий партнер компанії не має потрібної ліцензії в Неваді. Якщо препарат пройде перевірки, бійці зможуть швидше знеболювати поранених без внутрішньовенного доступу чи ін'єкцій, проте в м",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
-      "published": "2026-10-22T13:45:04+00:00"
-    },
-    {
-      "title": "Euronaval 2026: світове військове суднобудування зросло на 50%, Китай значно випереджає США",
-      "original_title": "Euronaval 2026: Global Naval Shipbuilding Surges 50%",
-      "summary": "Згідно зі звітом Euronaval 2026, світове військове суднобудування зросло на 50%, а Китай випускає значно більше кораблів, ніж США. У переданому тексті немає даних про конкретні типи кораблів, тоннаж чи терміни, тому оцінювати технічні характеристики поки зарано. Якщо дані підтвердяться, це свідчить про зростання промислової переваги Китаю у морській гонитві озброєнь і може змінити баланс сил в Індо-Тихоокеанському регіоні, а також посилити тиск на оборонну промисловість США та союзників.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50",
-      "published": "2026-10-22T13:51:41+00:00"
-    },
-    {
-      "title": "Армія США випробовує малі дрони для «адресних кібереффектів» і РЕБ у 11-му кібербатальйоні",
-      "original_title": "Army unit experimenting with small drones for ‘tailored cyber effects’",
-      "summary": "Армія США тестує на малих дронах платформу RDEP, поєднуючи державні й комерційні готові payload-модулі для «неконтактних ефектів» на тактичному рівні. За словами полковника Девіда Бергмана, RDEP — апаратно-програмний комплекс, що дає змогу завантажувати експлойти на карти й доставляти «цифрові кулі» для засліплення або отримання доступу до систем противника; конкретні можливості не розкриті, але зазвичай це постановка завад і доступ до Wi-Fi. Якщо підхід підтвердиться, він розширить радіус тактичних кіберопер��цій і дасть моніторинг спектра в реальному часі з меншим ризиком впливу на власні за",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects",
-      "published": "2026-10-22T13:59:00+00:00"
-    },
-    {
-      "title": "Будівництво підземного авіабаза «Огаб 44» Ірану продовжується незважаючи на війну",
-      "original_title": "Construction Of Iran’s “Eagle 44” Underground Airbase Hasn’t Stopped Despite War",
-      "summary": "Підземний авіабаза «Огаб 44» розташована в гірському схилі Хормозгану і здатна приховувати винищувачі, безпілотники та крилаті ракети. Сателітні знімки Planet Labs показують завершену нову частину шляху для руху літаків, хоча деякі будівлі залишилися зруйнованими. Це підтверджує стійкість Ірану до авіаційних ударів і підвищує його стратегічну глибину, що ускладнює планування ударів США.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
-      "published": "2026-10-22T14:11:02+00:00"
-    },
-    {
-      "title": "Тон Лам провів офіційний візит до інституцій Європейського Союзу",
-      "original_title": "Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission - Consilium.europa.eu",
-      "summary": "Генеральний секретар ЦК Компартії та президент В'єтнаму Тон Лам завершив офіційний візит до Ради ЄС та Європейської Комісії. Сторони опублікували спільну прес-реліз, що підтверджує проведення високоурівневих дипломатичних консультацій між лідером Азії та інституціями Європейського Союзу.",
-      "source": "EU Diplomacy",
-      "publisher": "Consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
-      "published": "2026-10-22T14:23:10+00:00"
-    },
-    {
-      "title": "Відсотки за боргом США вперше перевищили оборонний бюджет",
-      "original_title": "US debt interest hits record $1.05 trillion in 2026, surpassing the $956-billion military budget - Yahoo Finance",
-      "summary": "Згідно із заголовком Yahoo Finance, витрати США на обслуговування боргу у 2026 році сягнули рекордних $1,05 трлн. Це більше за військовий бюджет у $956 млрд. Відсотковий тягар стає більшою статтею видатків, ніж оборона, тому простір для фіскального маневру звужується. За відсутності деталей у тексті статті причини зростання витрат і прогноз залишаються невідомими, але показник підсилює увагу ринку до стійкості бюджету США.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Yahoo Finance",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
-      "published": "2026-10-22T14:25:00+00:00"
-    },
-    {
-      "title": "Карні та Ердоган домовилися про енергетичну та оборонну співпрацю",
-      "original_title": "Carney, Erdogan Partner on Energy and Defense, Plan Trade Talks - Bloomberg.com",
-      "summary": "Прем'єр-міністр Канади Марк Карні та президент Туреччини Реджеп Тайіп Ердоган провели двосторонні переговори. Сторони домовилися про партнерство у сферах енергетики та оборони. Також лідери запланували проведення переговорів щодо торгівлі. У тексті джерела відсутні конкретні цифри, строки реалізації угод або деталі підписаних документів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Bloomberg.com",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ",
-      "published": "2026-10-22T14:28:31+00:00"
-    },
-    {
-      "title": "Президент Ради ЄС Антоніу Кошта зустрівся з президентом В'єтнаму",
-      "original_title": "President Costa meets President of Vietnam - Council of EU - Newsroom",
-      "summary": "Президент Ради Європейського Союзу Антоніу Кошта провів офіційну зустріч із президентом В'єтнаму. Ця дипломатична подія зафіксована в офіційному прес-релізі Ради ЄС. У тексті джерела відсутні деталі щодо конкретних результатів переговорів, підписаних угод чи спільних заяв, тому опис обмежується самим фактом проведення зустрічі між лідерами.",
-      "source": "EU Diplomacy",
-      "publisher": "Council of EU - Newsroom",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E",
-      "published": "2026-10-22T14:29:06+00:00"
-    },
     {
       "title": "Данська компанія MyDefence передала Україні 2000 детекторів дронів Wingman",
       "original_title": "Данська MyDefence забезпечила Україну 2000 детекторами дронів Wingman",
@@ -1640,6 +1554,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
       "published": "2026-10-24T06:11:50+00:00"
+    },
+    {
+      "title": "Угоду про ВТ Індія–ЄС підпишуть до грудня 2026",
+      "original_title": "India-EU FTA to be Signed by December 2026, Implemented by Early 2027 - Jagran Josh",
+      "summary": "Згідно із заголовком Jagran Josh, угоду про вільну торгівлю між Індією та ЄС планують підписати до грудня 2026 року, а запровадити на початку 2027 року. У доступному тексті немає даних про тарифи, обсяги торгівлі чи умови доступу до ринків, тому оцінити ефект у цифрах неможливо. Названі терміни задають орієнтир для торговельної політики: вони вказують на можливу переорієнтацію торговельних потоків і диверсифікацію ринків для обох сторін. Реальний вплив залежатиме від остаточних умов угоди та її ратифікації.",
+      "source": "ЄС · економіка, торгівля й промислова політика",
+      "publisher": "Jagran Josh",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
+      "published": "2026-10-24T07:03:45+00:00"
+    },
+    {
+      "title": "Міністри закордонних справ 8 країн обговорили конфлікти в Істанбулі",
+      "original_title": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",
+      "summary": "Міністри закордонних справ Туреччини, Єгипту, Пакистану, Саудівської Аравії, Франції, Німеччини, Італії та Великої Британії провели у Істанбулі 23 жовтня 2026 року зустріч, обговорюючи конфлікт США/Ізраїль‑Іран, палестинську проблему, атаки хуситів, безпеку судноплавства та напруженість у стратегічних протоках.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
+      "published": "2026-10-24T07:41:44+00:00"
     }
   ]
 }

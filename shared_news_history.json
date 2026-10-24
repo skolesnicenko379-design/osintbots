@@ -33,6 +33,7 @@
     "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
     "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/data-tsentr-podatkovoyi-u-nyzhnogorodskij",
+    "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
     "https://militarnyi.com/uk/news/estoniya-otrymala-rakety-gmlrs-pislya-pauzy-v-postachanni-zi-ssha-cherez-vijnu-z-iranom",
     "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
@@ -70,6 +71,7 @@
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelZWNGNXZXpGWmp1R3JBWnotLTlPMS1hS0NzWnhhNzUzUEl4VHlUR1pQODRzS1BMa004YURjUUJRdlpBbnRud0hhcDRXUzRjQlVVcG4yODA5aWpMN01iMW1pUm1lVWR6TDdvQnZBSDNjX1dvWkJncV90Ty1lQVRQcDU1X1RLYW82b01jZ0NUWExnNmNrWklZQk9yOVFhZy1hZ3QtalZZekxtRExfQjhqVG5tTERmQzhpdHpYYUF4aXRUbHNmRVY4NVpYVUE5U2RzbW4wbVlJbElLOHJWUkJBUFVR0gHmAUFVX3lxTFBJSElDVmVEM2hsUVlsLW1JT051SVhmM0VqMVV0c1lsVlljbVdqZldiYUtseUxwM2FFdFNZWWUwVHgyMklQaWFUSkhmSzJ6SUozYU91SzI0czdzWFJiT1R3YXpBSkp6dlhvQTBUSU1acVR1MnhtcDFWOGloc1dWSWVRWDFRdWZfY3I0X3N2UENzTmNVLTlyQURsUTFUbC0tUE96QmZYcWlTZ2g0ZXc1d3ZiSGsyMmVaSFVWSGNRa3h4OXNIdVF0ZURFNkpOUjRPRkQ5ZWtBcEd3TEtrdExKSHhKemJOdU53",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0ZLb1ZJNl9maWg2eUJTM2pmY1ZDOUJ2bDhIS0FpQlE0VXBBVmpkbGNBaWphSDRIMk8td0N3eUdxOERGUVdNMC1iOE1ZbEMwR3lpdUlOZHA0bXIyUEV4Zm80Q2Y5d3ZyQzEyQnloRHI1UV9HWUpBTW8xV2h1U1h1d1RHZjZmdnRjOWdyR1FKS0liM0MwcURvbHJTYjMyQkZHVlJ5QV9majhuajlVWFhWQUMtOFFHR21qWVNkVWZZeE40dUJ2NzA3dWtyRWt0eERUdVRPalc3MUtETnJCMjROZ1kzSQ",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYlprcnRIV3ZZVVcwYkJPeVI4TXF3TjQwYlFNc3EzVGRMaVU2V3FNM0JIeGFwbGIyeENEanZLeVF2ZDNQRWhKR3MyQ3ZtVnh0ZTFBVDFfdjY0WE5uWXQ0VUtWTWFLY0c3TWc4YmYtdTFKaUdOUm5CRGxYTUFWbG5yMW5nR3c4ck1ZSU9zRHRfYkhzb2dhSmdIQXpKVFBZOHFDb1dTZ2ctRWRBOTdNNVpBYzNWY09Dc0RfNWl6NjFKTUZjYkU5LXl0RGNLTTI5NDd3MDY5LXBGRVdVbmVUcmxpSklDOHZnQQ",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0MzZVUyLVdVRGY2OFlBQmVmRUV3R3BESEx5em9Pc0NKTFlqNW9mRnpkTmF6bmhxekMxRWVhNFlzNllSR1Z2Z3lhckI4RFlieHFkdlBpNmVmY05NcE9naTJTejJMZ000UGxWc0tUa3RWNGJOS0IwWW8yRDFYUXBJUGNaZVk0N0dfa0ZwTUJWbFFTWjN0dzk5ZS11R2lob1duQVphWEwwOEZ3Z1hXamQ5c0FNSC1Fa21sZ3hxbXlMZ3I3WUhTTXNzV09KOVYyZ2FoMExmV0o0Xzd0Q3Izd3FJTTVLeGJXS00",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW1ORWxJUy0wMmVXWDhGb2dMd1R3NFRLRDh4aVRhcDFaejNkS3VUVDBRczVhUHVZZzFKVmgtR0VscGVpUHk3WnBlczdZa0RleU9mZHVNS0NrY0ZYOG5PdUVDc3lZUXBKSkVibmhITnhuSGlaMWh3U09qNFZfSmtjWXBxckY5ZXRucVNLN0g2LUNpY1Viem50cHZSWVJ0NEV4TzBWdGhyaDZ1c2hiTFRxcGI5cmNDRkFKbEkydXhZamFQXzFmRURNYUl6Y1k0M3N4Uml1dmFoaVo4U1owZkFmdWoxUnZoRjdDQWlick5R",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWNETk9JNkg5bUxXR0kxT0Q2SzY1NlVsTGpEcDliU2hYM1p2azd6QjNmRUg2LWtqYVBGN0FfbkdJbUNXQ2FTMXUwMHFmU1RoNEdQOVFZNmFyRDVGVVRQV1czd0poQzVYT1BvR0JPdVV0OWVQdTBqRmpzRUo4UGN6WFN0cmhrb2FDX1R1UjV5LVBqTjNYS3JLNFZGYk9aZHBheWxUbUo5MmQ2N1dKOUFCWnhQNjN0OVlpRUFLczlPUmJ2UDVhWW02SkFRWWpxYUlzdHhWV2VYWF9pZ0RSQnRfWkhoTHE0RFdXQ1d4Mmpn",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
@@ -1312,6 +1314,26 @@
       "channel": "diplomacy",
       "link": "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
       "published": "2026-10-24T14:09:35+00:00"
+    },
+    {
+      "title": "Українські дрони уразили хімічний завод «Омський каучук» та логістичний центр Ozon",
+      "original_title": "Дрони уразили хімічний завод «Омський каучук» та склад Ozon, за понад 2400 км від України",
+      "summary": "Українські безпілотники дальнього радіусу атакували хімічний завод «Омський каучук» в Омську, спричинивши пожежу та пошкодження виробництва синтетичних каучуків, ключового компоненту ракетного палива. Також потрапив логістичний центр Ozon, що може порушити поставки товарів у регіон. Ця атака демонструє здатність України здійснювати точкові удари на великій відстані, впливаючи на стратегічні об’єкти Росії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
+      "published": "2026-10-24T14:58:24+00:00"
+    },
+    {
+      "title": "Росія встановила рекорд вильотів над Японією: Су‑35, Іл‑20, Ту‑95МС і Ту‑142",
+      "original_title": "РФ вже побила антирекорд по вильотам проти Японії Су-35 та Ил-20, Ту-95МС і Ту-142, про що це свідчить - Defense Express",
+      "summary": "За останніми даними російські ВПС здійснили понад 200 вильотів у межах повітряного простору Японії, використовуючи винищувачі Су‑35, розвідувальний літак Іл‑20, а також стратегічні бомбардувальники Ту‑95МС і Ту‑142. Су‑35 обладнаний радіолокацією нового покоління та ракетами дальності до 200 км, а Ту‑95МС і Ту‑142 можуть нести ядерні та звичайні бомбардувальні комплекси на відстані понад 10 000 км. Така інтенсивність польотів підвищує ризик ескалації та ускладнює протиповітряну оборону Японії.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0MzZVUyLVdVRGY2OFlBQmVmRUV3R3BESEx5em9Pc0NKTFlqNW9mRnpkTmF6bmhxekMxRWVhNFlzNllSR1Z2Z3lhckI4RFlieHFkdlBpNmVmY05NcE9naTJTejJMZ000UGxWc0tUa3RWNGJOS0IwWW8yRDFYUXBJUGNaZVk0N0dfa0ZwTUJWbFFTWjN0dzk5ZS11R2lob1duQVphWEwwOEZ3Z1hXamQ5c0FNSC1Fa21sZ3hxbXlMZ3I3WUhTTXNzV09KOVYyZ2FoMExmV0o0Xzd0Q3Izd3FJTTVLeGJXS00",
+      "published": "2026-10-24T15:44:00+00:00"
     },
     {
       "title": "Литва представила реактивний дрон-перехоплювач X-12, випробуваний в Україні",

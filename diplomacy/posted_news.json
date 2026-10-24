@@ -1,9 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDMtenFMRWlxMERtR0Q4QVFNUUFtXzBqM1p3U1VSQ256Vkxod1o2Q09kSDZLamxiWUtIanlPM25KOS13eWxCMm00REhXNWVhbjlYUUxHTjB0MHZKVUpXNlBCNDduQnI1czdUR05jMzdibWVSMGlFMmlxOHdTdnB3WXlnVkh3ZGE2T2ZWdl9Jd3lGYi1scjFULUU5S29jMG15ZkZhVE1uQ3pWYWswQWwtLWFDdWwtU010ZTBJUzJZNGR4Qm1TVFBwUlJ3bw?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWtpOTh0Q3ZjOEhXaTlGSXJ0YzBRZFFHV0hKclBWU2dyN1hfWkl4TWJMS0FFMG0yUGlyMDhlY0hrSk9PN1Z2cklBTFJfUXNYY3kxallyY0wtSjJSVC1hY045UHdsWUR6Z2FKTlBudDBNSVpSSTlZMHJKWF9EQ3ZlYVB6dWYtS3R4MG5xeC1SeU9KNTNOcUHSAaoBQVVfeXFMUDZzZXY2NnNOZDZOaVgwMlZ0d1B3QlYwQXdIN2oyUUdHdDNNQkQ2MTVmU21BNnpMQmdiZF8tSFJIU0NBVHBTUU5rWmVOUmJOSTFobFlFR1cwTW9zWVBfNE5RZTJTLWpZZmpNTjJXQ1dNV3Eyekc1b2JOM2RNR2RDT2hNZFg0NjExVTVqOFpBQjBON0NLT0FCemNHLVRndjZpcngwYzlEX29FM2c?oc=5",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXNTZFotUGk0VUhXQzBrdFVJdDAwZXRRSEhJWndYbU56Y0FaaGVqSmo4OWpqbFFfOVZ4NEhiX1FJREJ4bGZJS1FndGJicGdRS2RQT1F2bV9NaTFrUDFnYllCcks1Qkw2c0FnNm00YlpVZnlUWklMX2RNamhlODQ4Q3pzeUZkajhpU0JpeUp5Z3JZQkhXeDQzbGJ2VUkzM3Y1TmtuNnM4bGZFSldfZHJXVzdESGtSY2d0ZU9WaEhiNkJweHRSY0Zqc3pVdUdDMWxmM0ZuN2p2UXZaN2p2M0poT084SkhpQWc?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXZfcWd6cWNFbUxEMEFWcVZDY05ubEJubTcwdllnQzlkV3RHU2FSd3VHZFVTTmtBNm1lWFZfQ1ptLTBrNndGay1uUzZFcDdTVkRScVBoYlowVG1GSmNKdW95SVVlV2Q3bWM1Rk5pRS0wTlRsZEI3WGdrR25fTkFnaGNhYmR6LWdDN2M5cWgxcHg5a295ZS1lclhhZWZZSVo5UWhjY3JXWk5FZ1d2aTVPVXdJdlU?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-joint-doorstep-with-presidents-volodymyr-zelenskyy-and-ursula-von-der-leyen/",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ndW5aME9PUXBiZkxSOV9jOHJpeVRZYjV2ZjFPUkx1RGxpVkVGYWxTX1RxQ0FvbGlxb3V0M0MyektzcFprblVjVUhLbXpMUDQ3bUYtZmw4WC1EbTVWSmo4Q2o4QjJiQXc2WUw4NzM1eHBVc1BESHVuZnJn?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2N5THVnQ0FvSnpJci14Rjh5SHA4MU5JOVVvNlBpU3h4T0xnNFV4bEZDN3BtZWh6LXFPZ1ZBSV9zR2pqVFh3dkxpSjU3SnBGa1VaWFhFaEdmUDBNQUdaNzNhYmFtOTdkMWs2QnFzbXpEUkdQel8yMkRjbE5USWtma0dsbzA5ak5Tb1p2MEZVRW1iQlQ4OUtsMjVzVk5iVzBMSGM4eGtNZmpqSnM1ZlE?oc=5",
@@ -1199,16 +1195,13 @@
     "http://www.africanews.com/2026/10/24/new-tumaini-ebola-vaccine-trial-launches-in-bunia-as-drc-struggles/",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXluWmVzNDlHeDNJS3BDLVZPX1pQc0ExcDRIeEpSRzU5Ynl5eXZzTnlNdVFrcmV1SVZkck9KT2p5YkdZVm0yT3BhVG16SWpFTWhlc2xIeGpzWms2Q2F2NGpia1A4SHVjOUozWXRaR0RvRVJoS2RwRzJVbEZMLW1jYkdtQWFmZUlEUDhXaWxPMklkTVZVcm8tTDdMWUI0bmdBdkdIdV9fWGlMTXVsRUtKRWR0UGxmdVQzWW4xSTctUlhtejFlcUdoYjFkcjR5Y0h1aUI0alQxWQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVpCVHVtM09uVjBuLWVNU2dneTdxQzRTdHNOeE5zel9FVGRtOGRaSzRHRUUyOW9tNmxDb1lOdTAyQy13OU96czcwU0d3bGloN2VOdWRjQTdKVlFwNXZwY0hwTGgtNHp2dTAzTW9zY1pxNHlYX0FIVktqR1dsWks4MVlpNERJeEVJUUpjT0NJLVFYbTY3dnJPcnU0bmJIanE4LVRrVmQta9IBrAFBVV95cUxQbFFqeFlCR2pqMTZGYmU2MmNuREZwQ2NVa3FOcUQyS1hUUnlVU1VJeG41bjJsbWdMc0JDamJsOFFFMnFKTzFIc2dOUTJtNGR2WXYxY2EyNDN2Y2E5SmxHcnhIZU5TUjZuM3VkNWVsaTRmcm5rYURIN3BBRXJNZjJ3OEs0YWxvai1sREpTWl9RTWxLdER5Q3l5WmVnLTg5VFVaZHNrUnl1OFhDRkJP?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPck50UHUzMUdfZENBX1FFX3lGdnpGSTVBNmtCdjNiTThOTEpIaUI4SlFBaGt6NXl5SHJMb2lXTTlZQlpyREVvNmdfWGt6SW5mUWQ3UHluUDlHbUV2aDZybWtqekdMOGE5QUVobkRWZFdzWjNKdlBpd1ln?oc=5"
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPck50UHUzMUdfZENBX1FFX3lGdnpGSTVBNmtCdjNiTThOTEpIaUI4SlFBaGt6NXl5SHJMb2lXTTlZQlpyREVvNmdfWGt6SW5mUWQ3UHluUDlHbUV2aDZybWtqekdMOGE5QUVobkRWZFdzWjNKdlBpd1ln?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3BfTHkzNTdRUTlvTVgxYmpaTWlHeGlyMjlvODUzZVdaa2t4V01vSWllQUtyaTFHbmtKWUR5VDBnQk9aSjZzblNKelh1WFk5bWQ1cmo2dGhvUVBkUmxwcXNyVE03OEVjSHdCa2gwZ1Y5ejRhOWM5ZVE0dXFfOFBBRFdvWGp3bEI4em9QMGkzTDVHd25TeklnTkt4TVdEMmdzQkNrR1dISUZDbVpLSzNVSg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0JiUlJ0NVdxTU1aeXNQNy1DYWhUdzRobFdqME1WejJfdXQ0TEVXMUNCaVVIVFdjNVU0SGlfVHJHM1YyWU92c0pPRHVRUWVuRFp6LWdyay1Ka3BEZkZOeFlsVTI1Ny1zRVZFNGpSMU9hRUhNZjlUWjJvUHNLaURjYVVMNFJMdTNCSFoxY3k1bHB3eEFkRUZ3ZFNBVXRRUkpRY0lzQWN1TnU?oc=5",
+    "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRWd0Y1pndVNENXVZQ1hsb201Y2tQbVhtOWpMX3hqWHRZbXJ5cGUxNGdGUDdWZGhpQV91TjJ4dG9KRUU1NDBQR2NscTJrejlSXzN0ZzhmYlJEV2FFZ1Fyd3NLUnhoTU8yR1BBQ0hTWFgwYVlmLXNjdS1fSUVJUFdwa1pZV3FvUXFfQzRocUdNcFdYODdQRlQ0cXpPR1RvTU10d0dFcWZtUWZ2NnRHazl3aHZGMEFfLUhqWXFDaDBYeVVPSUNPNVpfSDJSeW02czNVTjVsM3BPMWZtNjFjeFZZREkxandzX210emRRaXpoUm9zU0Y5OUREUWptTmN1ZVdxV0hxOFRxcS1EUXlmNnU5Tm1NVVlFbzJ6QzV4NXZoSHlENmVfUUlMWXZsRTk?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb3dyazdvdjhyTU9XTTQydFRMenVaN0lzQms5c2FXZzRacXd6NEVNT2kwWXM0TEdvZFVHNVRaMFpadl9uQ2tVZDNveXRDV1V4UkVRdjNnUGlVYnBVV0dWNWhDbjFrUWxWWU5ld2F5cks4SFFqN091MnRVdk01elRtMnpfNUwtQVBSVU4xTGZVT0J3QklnaEg1dVB1eG10RTY0bTNHeE05U2p2cDg2V1lfcDZLMUhNSF92QzVDTmhlR19UbVE3Y0JmbG9PZ19CRVFDdnFaRE9HUk9EWW8?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Австралія та Тимор-Леште підписали угоду про кібербезпеку",
-      "summary": "Австралія та Тимор-Леште уклали нову угоду, спрямовану на посилення кібербезпеки сусідньої держави. Цей дипломатичний крок передбачає конкретну співпрацю у сфері захисту цифрової інфраструктури. Документ підтверджує офіційну взаємодію між урядами двох країн щодо безпекових питань.",
-      "source": "Treaties & Agreements",
-      "publisher": "Cyber Daily",
-      "published": "2026-10-23T01:37:07+00:00"
-    },
     {
       "title": "Перший раунд консультацій ЄС‑Норвегія щодо рибальських можливостей",
       "summary": "Рада Європейського Союзу через Генеральний секретарат провела перший раунд консультацій з Норвегією, присвячений обговоренню можливостей спільного використання рибних ресурсів. Сторони розглянули потенційні умови співпраці у секторі рибальства та підготували основу для подальших переговорів на майбутнє.",
@@ -1411,6 +1404,13 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-10-24T07:41:44+00:00"
+    },
+    {
+      "title": "Президент США Трамп зустрічається з Президентом України Зеленським на АГП ООН",
+      "summary": "Під час 81-ї Агенції ООН у Нью-Йорку президент США Дональд Трамп провів двосторонню зустріч із президентом України Володимиром Зеленським. Обговорили питання безпеки, підтримки України та співпраці у сфері оборони. Зустріч відбулася в рамках загальних засідань АГП.",
+      "source": "Bilateral Meetings",
+      "publisher": "The Lufkin Daily News",
+      "published": "2026-10-24T10:13:32+00:00"
     }
   ]
 }

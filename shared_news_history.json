@@ -1,9 +1,7 @@
 {
   "links": [
     "http://africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks",
-    "https://army-technology.com/news/global-ordinance-sparkz-drone",
     "https://army-technology.com/news/rheinmetall-telford-gun-hall",
-    "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
     "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
     "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard",
     "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats",
@@ -11,7 +9,6 @@
     "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026",
     "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
     "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon",
-    "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
     "https://defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas",
     "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
     "https://defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
@@ -23,7 +20,6 @@
     "https://defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says",
     "https://defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite",
     "https://defensescoop.com/2026/10/22/hegseth-memo-gambling-prediction-markets",
-    "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
     "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
     "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
@@ -32,6 +28,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
+    "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
     "https://middleeasteye.net/live-blog/live-blog-update/pezeshkian-attend-moscow-gas-summit-likely-meet-putin",
     "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
     "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
@@ -62,6 +59,7 @@
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
+    "https://navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization",
     "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
     "https://navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs",
@@ -78,6 +76,8 @@
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWNETk9JNkg5bUxXR0kxT0Q2SzY1NlVsTGpEcDliU2hYM1p2azd6QjNmRUg2LWtqYVBGN0FfbkdJbUNXQ2FTMXUwMHFmU1RoNEdQOVFZNmFyRDVGVVRQV1czd0poQzVYT1BvR0JPdVV0OWVQdTBqRmpzRUo4UGN6WFN0cmhrb2FDX1R1UjV5LVBqTjNYS3JLNFZGYk9aZHBheWxUbUo5MmQ2N1dKOUFCWnhQNjN0OVlpRUFLczlPUmJ2UDVhWW02SkFRWWpxYUlzdHhWV2VYWF9pZ0RSQnRfWkhoTHE0RFdXQ1d4Mmpn",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbFZyYWNCeXBtQkRIWko4MWJhaV9IMlVOajVwZTN5VVBZUFJlNTVWZFhtbmFrY2dnUk02bGVJZzVaUlZlMndURjdxei13ZmtwVkp1MTd5WGZXd0EweDN6eVl0OUNqaHhUWDZCYUZGTUlIdU91ajVPQ3pYY0N4QUxlcTFJRlFIMm1QOU8xTGc1LUlaZjhUa0lmSGV4eFpCaW44MnBpa3lSX3c5UW9qTWY2Nnd6X2N3N2lITzRmMU5RU2Fac1Q2UkhBbEw3bVY3aGJEZjE0OHlUdURNZE9lZmJSbDFkVjRsUU80VjRzbmp6ODI",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQi1qT0gzSUNHU0VqV01Mems3US1paXhsRXN2QmpiMTlodDZRdmRXdmdydFVUVXBiT1FTdlRubjV4WVh1SWhHNTJ1THhzNDJCdTRUanFFNUJsRFVOcXZkVlNidlJ0aDhDbTBVbnNqNVBCWVZNdUlFMG9UekFTZ0dJNkt5WlcxRTZRV0kyc2xZMkdoNVBBWEx2ejJmVVVVakJxMlVkeXdUSGVFVHY0VEx0eHhOUURvZENUTkpWZC1heVhMZVZjMkxzMnVBR1NDa0RLaUJvTlAyeVh6dUxaNEQyTXNhNlk2US1RSTB2aVNsVU5Mdw",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WGJxYlp5dms3ZDRxLWVpRjVuLXhyZFNTSnJYMXJFUHAwR0FnbTUwTi1uODZYTk94OXdRVUIwOXlnd19KLTVhbzRn",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MXNIeGI3OFo3S19XUmloSktkdVV5X2NNVGdQS3VqZjk2WjVnLVpaQzJQWVo0UUxtSUNudGRWTE1fbmJBTDNIZmFHd0tJVmZJOXMwM0lvWnZTRjNvV2xtUGhZZw",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWUw5UmdvbEZ1NjdDc2l0bnVVdzI2NnR5N0xqN2g2c1UwQXNTZW16NlNOVmQxRzNUM250RFN1SjIwSzBPRWo5UnFqeTNNN1JHZkFSNml2VGY5dTdiY0RMX213",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRnpTU3JGd2NRUDNYRk5kMDBSYXplOHQ1NGhWRnlTSG40WHhybnNmZ1lQWVJFc1NiaE1KaDg5U3NBZHVXSkZ4M3hQTXE5T2NYUFlyWUNRNFZETE5Fb0xGeTZQZXBtcTBzNjFRWG1GT1BJdVlSLXc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2enFTdXdrdG9jc2tKT1UxMlZ1NmFjakRWMGpqYnYtNHcyVk5CM1hRd0tDRVJYaS1wN2taM3ZReDhPdXNXeXJxYXl1YXlnRGFpTW9fZEoyd1pkdDRDb0Y3RC1EZG04WVdVRVRucjVFRlJLN0lyMkpCQWRIUQ",
@@ -120,13 +120,10 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa00xYmRlU1k1NXhfQWgxM1JkeDY2eFE2QXZPUExfbG80ei1BSUs1SVlCcjhqVnpGd2ZiUFkyZkpwTEVZd01yWTFVWGhrRVpXUmZDMkZoZUhXbFFJZVFsYXF6TkRxcU92c0k0TTc5R2czVTFQOS1UYjJ5UmxISndEVHh0OHdRWEpKQVUtVGZvZ0x5M1JmT1Q0bVRsWmxJT2FyMW5QUFVxTzhmYUVuMkowdmtGNUN6RHZXYzhYWTRuY2U2N0RWWVBJVQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDRyTU04MENCdmFQdHN1WkVxRmtkejRROGtNcUhaZy12SWRCd2NjSmhHYWVWTmpSdEZRdkZMME9JU3hoR2cyNEVuay1UMGtnaHhwR0NBOFJTdThuZF9zazNTaFRtcWRUQlVYTjA5RllKWGNFUEVDTmhHdUpyNVE4eUhtREZuX3Vmb2NsRExYTjZiOFVTY1p2aDBIaWdPd3p2ZjZzLTE4cGVvM3RjN3lBZktVQTJSWFZGRXpIcVR5ZU9uTk8yanRTVA",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUUyZHJ0Mkx3TXIwS2l1TUxobU82RHNUX1NiUzU2dGZyb3l0d09PT3VYOWZuWU5ybEwzXzVudjdWUXRLN2VoZTZvWEJxdlk5dTlFNGtUYmJ6aHdDMFc1NDlySENkZmUtNnJkTHBCdVRjYTc5UmppNlVtV2I3Tk1RdXltalAwbk5rUDFMSnhMWEtrU210UFZrcV8wMHlhQm9rN2hQbk9sa19JakpnWldlclV4Y2phZ19fTlBMRUdfaWJlZnJvVmdHeVZR",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU16TFIxMzNCNi1xNGUwSm1oSlpVaHR1YnpjNmZyajVmRENLNkswY19hTG5zQlE1RWp1Yk5NSDZCa1cyOTNBUTZsVElkWExhRjl2c0l6aTVWc1dVX3NjQmdKdjNFUFpxTDRMaEx4YWpFQ01IQS00ZGlJOXlVNEhtRHVkckxXN0Jjbl9leVRGbzdIOXVQLTE1T213RjNtV19zMUZxVFcxQ1VnX2ZTSkRGRDZzTkRjb3Q4eDduRmhiNE9qVjVEZ3lGb3RSMNIB0AFBVV95cUxNc25EdzktTUVTc2xMQzJtTzY2TEdjSlJhQzhCd085VHhfN19BSW9nMU1wdDllbHlhMHgyT1BvVTd6Q09nNkpUUG95RDdCUEROWVJGeU5DRHRYSzEyT3BZdkN3YUdmeGY0dGJLZ0JzT2FEeW5qTG5aU2hnUkJabmJhTWVnR3RvbmVVbVVvQmZ3b3M0SWdnT1B1VGh3elNMX2VMZGxudkdscFZpV1JubktZekFfYy16RWRBVVI5dVEyeEtjbTNBT3A2ODRBd1ppQmpx",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUVQZWtzRGhXYm1XZ2xXZWwwaXBHOXdMVWp4WDBVQ2dyVmplMGVSOWt3MElhQlNzZDkyb2xGX3JmWHZpaDY2MFFVWmtMQVByVFBLd29tMkxFSE9lMHVPS2hOX1FoRTh0MGY1MkZFRGJxMUpYNUZxNm1vU25LdElEcUpvMkpzaVBQMEJ1R1o4a1V2X0xFVFVuM2NjTmg4WmpHZ3REOXE5UC1pWG1JdjI2T2YtcEtxZGZXanhlQXctdXp1UUZtZFNHQUtLdzcyZw",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajA0VmN2YXRMZ2toMGwycUs1X1JabjdLZDJBSTVNZjVlZEVrR1lzTXpuM0hVQU5kb3NNcVZiRXJYSEt3WnhWZUhmanczNVd4OTMzLTVvbzlaYlYwZXB3Yl9rRU5lOTdERXYwSmJpZ0E2RDJVN0g0TW5VZkhmdEFlc3Iyb3RFQW9Zc0kwNGRzYmxNN1B3NDJXbnIwRFBFUG1ieWRaR1djd3R6bE5mZW1QQTZPMDlib19RX1FIQlZmdzZaODl3QkVDLTh5OW5rMVE",
-    "https://sb.by/articles/daniya-priobretet-u-dvukh-postavshchikov-rakety-bolshoy-dalnosti-na-1-mlrd.html?amp=1",
     "https://theafricareport.com/434371/algeria-niger-security-pact-whats-behind-algiers-military-push-into-the-sahel",
     "https://theafricareport.com/434399/exclusive-emmanuel-macron-cancels-planned-visits-to-nigeria-and-senegal",
-    "https://twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
     "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
@@ -135,76 +132,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Global Ordnance і Sparkz планують до 2027 року виробляти батареї для дронів армії США",
-      "original_title": "Global Ordnance and Sparkz target US drone battery production in 2027",
-      "summary": "Global Ordnance уклала рамкову угоду на постачання з виробником акумуляторів Sparkz щодо випуску батарейних блоків для дронів американських військових. У наведеному тексті немає технічних характеристик батарей, обсягів чи вартості контракту, тому оцінювати їхні параметри зарано. Угода важлива для скорочення залежності від іноземних, передусім китайських, ланцюгів постачання компонентів, яка лишається вразливим місцем для масового виробництва дронів у США.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/global-ordinance-sparkz-drone",
-      "published": "2026-10-22T18:03:21+00:00"
-    },
-    {
-      "title": "Швеція обирає системи протидії глушінню GPS від Raytheon UK для військових платформ",
-      "original_title": "Sweden selects Raytheon UK anti-jamming systems for military platforms",
-      "summary": "Шведське управління оборонних матеріалів (FMV) підписало контракти з Raytheon UK на постачання GPS‑систем протидії глушінню. Системи будуть інтегровані в різні військові платформи, підвищуючи стійкість навігації та точність управління зброєю у випадку електронних атак. Це посилить бойову готовність шведських підрозділів у умовах зростаючого використання засобів радіоелектронної боротьби.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/sweden-raytheon-uk-anti-jamming",
-      "published": "2026-10-22T18:05:58+00:00"
-    },
-    {
-      "title": "Перемога в інформаційній війні завдяки ідеям та сприйняттю",
-      "original_title": "Winning the information war through ideas and perception",
-      "summary": "У статті зазначається, що соціальні мережі та штучний інтелект значно посилюють поширення дез‑ та інформаційних кампаній. Для ефективного протистояння необхідна координація між урядовими структурами, військовими та технологічними компаніями, зокрема впровадження систем автоматичного виявлення фейкових повідомлень. Такий підхід може підвищити стійкість оборони до інформаційних атак і забезпечити швидше формування правильного сприйняття подій серед населення.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
-      "published": "2026-10-22T18:22:00+00:00"
-    },
-    {
-      "title": "Дания купить ракети великої дальності у двох постачальників за 1 млрд доларів",
-      "original_title": "Дания приобретет у двух поставщиков ракеты большой дальности на $ 1 млрд",
-      "summary": "Дания оголосила про закупку ракет Joint Strike Missile від норвезько-американської системи та ракет від німецької компанії Covenant. JSM – морська ракета дальності понад 200 км з активним боєкомпонентом, призначена для знищення кораблів і наземних цілей. Ракети від Covenant, ймовірно, мають дальність до 250 км і автономну навігацію, що дозволить Датській флоту розширити можливості протидії сучасним морським загрозам.",
-      "source": "Western Defense Industry",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://sb.by/articles/daniya-priobretet-u-dvukh-postavshchikov-rakety-bolshoy-dalnosti-na-1-mlrd.html?amp=1",
-      "published": "2026-10-22T18:23:36+00:00"
-    },
-    {
-      "title": "SOCOM шукає спільне середовище PaaS для тестування та впровадження нових технологій",
-      "original_title": "SOCOM seeks common PaaS environment to support testing and fielding of new tech",
-      "summary": "Командування спецоперацій США розробляє спільне середовище PaaS біля MacDill, щоб швидко прототипувати та тестувати нові технології. План включає інтегровану контрактну платформу, підтримку RMF, мережеву інфраструктуру та інженерні послуги для хмарних рішень. Це дозволить швидше впроваджувати інновації в різних ПЕО та підвищить оперативну готовність.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
-      "published": "2026-10-22T18:28:50+00:00"
-    },
-    {
-      "title": "A-4 «Super» Skyhawks грають роль ворога в європейському небі",
-      "original_title": "A-4 ‘Super’ Skyhawks Playing The Bad Guys In European Skies",
-      "summary": "Компанія Top Aces у Німеччині експлуатує модернізовані Douglas A-4N Skyhawk, які використовуються для «red‑air» підготовки європейських ВПС. Хоча серійно випущено лише близько 3 000 одиниць у 1956‑1979 роках, сучасні оновлення включають нові авіаційні системи та озброєння, що дозволяє їм ефективно імітувати ворожі літаки проти найсучасніших винищувачів. У планах Top Aces додати F‑16, що ще більше розширить можливості агресивних навчань для європейських клієнтів.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
-      "published": "2026-10-22T18:30:26+00:00"
-    },
-    {
-      "title": "Фінляндія підписала пакет допомоги Україні на 300 млн євро",
-      "original_title": "Finland provides new aid package to Ukraine, agreements worth EUR 300M signed - Ukrinform",
-      "summary": "Фінляндія оголосила про новий пакет допомоги Україні, підписавши угоди на суму 300 мільйонів євро. За умовами угод фінансова підтримка буде надана у вигляді прямих грантів та інших форм допомоги, що сприятимуть відновленню інфраструктури та економіки країни.",
-      "source": "Treaties & Agreements",
-      "publisher": "Ukrinform",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU16TFIxMzNCNi1xNGUwSm1oSlpVaHR1YnpjNmZyajVmRENLNkswY19hTG5zQlE1RWp1Yk5NSDZCa1cyOTNBUTZsVElkWExhRjl2c0l6aTVWc1dVX3NjQmdKdjNFUFpxTDRMaEx4YWpFQ01IQS00ZGlJOXlVNEhtRHVkckxXN0Jjbl9leVRGbzdIOXVQLTE1T213RjNtV19zMUZxVFcxQ1VnX2ZTSkRGRDZzTkRjb3Q4eDduRmhiNE9qVjVEZ3lGb3RSMNIB0AFBVV95cUxNc25EdzktTUVTc2xMQzJtTzY2TEdjSlJhQzhCd085VHhfN19BSW9nMU1wdDllbHlhMHgyT1BvVTd6Q09nNkpUUG95RDdCUEROWVJGeU5DRHRYSzEyT3BZdkN3YUdmeGY0dGJLZ0JzT2FEeW5qTG5aU2hnUkJabmJhTWVnR3RvbmVVbVVvQmZ3b3M0SWdnT1B1VGh3elNMX2VMZGxudkdscFZpV1JubktZekFfYy16RWRBVVI5dVEyeEtjbTNBT3A2ODRBd1ppQmpx",
-      "published": "2026-10-22T18:40:00+00:00"
-    },
     {
       "title": "Трамп попросив Маска скасувати обмеження Starlink для України",
       "original_title": "Трамп попросив Маска скасувати обмеження Starlink для України — WSJ",
@@ -1464,6 +1391,46 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
       "published": "2026-10-24T10:49:29+00:00"
+    },
+    {
+      "title": "Перший американський зруйник вступає в фазу 2 модернізації DDG MOD 2.0",
+      "original_title": "First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization",
+      "summary": "USS Pinckney, клас DDG-73, отримав нові радіолокаторі SPY‑6, що розширюють радіус виявлення та можливості протиповітряної оборони. Цей крок підвищує здатність флоту реагувати на зростаючі глобальні загрози, забезпечуючи кращу інтеграцію в мережеву систему управління. Розширена сенсорна платформа дозволяє ефективніше координувати дії з іншими кораблями та авіаційними засобами.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization",
+      "published": "2026-10-24T11:59:17+00:00"
+    },
+    {
+      "title": "Секретар GCC обговорив вільну торгівлю з міністром Туреччини",
+      "original_title": "GCC Secretary-General Discusses Free Trade Agreement with Turkish Trade Minister - وكالة الأنباء السعودية",
+      "summary": "Секретар-генерал Ради співдружності арабських держав Перської затоки провів зустріч із міністром торгівлі Туреччини. Під час переговорів сторони обговорили питання укладення угоди про вільну торгівлю. Ця дипломатична взаємодія спрямована на поглиблення економічних відносин між блоком GCC та Туреччиною.",
+      "source": "Treaties & Agreements",
+      "publisher": "وكالة الأنباء السعودية",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WGJxYlp5dms3ZDRxLWVpRjVuLXhyZFNTSnJYMXJFUHAwR0FnbTUwTi1uODZYTk94OXdRVUIwOXlnd19KLTVhbzRn",
+      "published": "2026-10-24T12:12:09+00:00"
+    },
+    {
+      "title": "Перу планує візит президента до Японії",
+      "original_title": "Arrangements underway for Peru president's visit to Japan - NHKニュース",
+      "summary": "Президент Перу оголосив про підготовку офіційного візиту до Японії, який планується у найближчому майбутньому. За даними NHK, обидві сторони вже координують деталі візиту, включаючи програму зустрічей та протокольні питання, щоб зміцнити двосторонні зв’язки та розвивати економічне співробітництво.",
+      "source": "Bilateral Meetings",
+      "publisher": "NHKニュース",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MXNIeGI3OFo3S19XUmloSktkdVV5X2NNVGdQS3VqZjk2WjVnLVpaQzJQWVo0UUxtSUNudGRWTE1fbmJBTDNIZmFHd0tJVmZJOXMwM0lvWnZTRjNvV2xtUGhZZw",
+      "published": "2026-10-24T12:15:33+00:00"
+    },
+    {
+      "title": "Палестинська влада закликає до міжнародного тиску щодо атаки в Геброні",
+      "original_title": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+      "summary": "Палестинська влада, через Міністерство закордонних справ, закликала міжнародну спільноту до тиску на Ізраїль після того, як ізраїльські сили примусили понад 1 500 осіб переселитися з їхніх домів у Геброні. Вони вимагають конкретних заходів, що перевищують лише засудження.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
+      "published": "2026-10-24T12:29:06+00:00"
     }
   ]
 }

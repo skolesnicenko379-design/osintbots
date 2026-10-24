@@ -61,7 +61,6 @@
     "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
     "https://militarnyi.com/uk/news/perehoplyuvach-starhammer-proty-raket",
     "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
-    "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
     "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
@@ -114,6 +113,7 @@
     "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXJLSEg2VV9uMHR1QUpzMmY3OEo2TzNqN3pYZUlRQnZRZWswUGJfYUxSUHpEaDkybmlyTEZVZDM0YWhab05PSW1OU1U3cXZTWmJ0aWxqMUZMWS1sV2JheVR3a05mMXFWMDFsSXBsNFVEZGhOSE50WC1iLUhRbURIYTVBN3RQc2Y0MlhQTVcyaExkUXlKMnZScFc4NThZNXJOSUpjbDh3",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWQ0Ml9qclpWQnF3b3oyMjBsZ3J5cEFIem03NU1QV3luY1pTZXZvX2RmWFBzUFZaWEEyRmtWSGdxQVR4bmVuVUpLR2VUQnVkb1YwZWJtTV9QMnp0Z1NMbHRGTW44eVktMk56cjlkM19IVmF6dEVfaW14OXJuSC1PQmFUbFRma3dVWm1leWprcUJjTW9VTGVZcjBYRm9JVlk0ZUgtUjJiMA",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEtQOWlIM01RRGdIVF9rUEUyQ21UVlZmUHJGeDVPNjhPRzZJLV9EVkpTS05vM0VnenhWaUo2ZWVJaEEtX2Y4cDlYMGZHbVMwYUNHSUtWNWNydnB2ZVZUSWJ3Z0VFdm5iNzJLR2RmVkI0dmhJMnU5b3VfX0ZOeTIzTU9Wb0FldG5KODlEemlQcjhBZVlRc1RZRjNjR1pvMW1MU25iUThZTzg",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnJxT0dYeWs4ZWVvNHY3TnBhM2RlQW0wVnRlSWxmYS12RlpCN2tFZXRsTDB6ekR4WWs3aXZjSk4walBkVjZDcEttTnhyMldiNEdyRkVFb2RVME1rTjVyS0ZQVjk3bTBVWDdoMEVHa2p6aU9FSDAwb1NIVG93aFBxMVlVSlQzQVJ4UzkxWEFIR1dxVENtT2gxUE9CcDJxYzlWV3pheXZwams",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Польща отримала першу партію броньованих розвідувальних машин Kleszcz",
-      "original_title": "Польща почала отримувати розвідувальні машини Kleszcz на заміну БРДМ",
-      "summary": "Перші 28 легких броньованих розвідувальних машин Kleszcz (Bóbr‑3) були передані польським підрозділам розвідки 21 жовтня 2024 року. Машини 4×4 з дизельним двигуном 326 к.с. досягають 100 км/год на шосе, 7 км/год на воді, мають балістичний захист рівня 2a STANAG 4569 і оснащені дистанційно керованим модулем Kongsberg Protector. Ця заміна старих BRDM‑2 підвищить мобільність, розвідну ефективність і здатність польської армії вести бойові дії в різноманітних умовах.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/polshha-pochala-otrymuvaty-mashyny-kleszcz",
-      "published": "2026-10-22T09:52:26+00:00"
-    },
     {
       "title": "Уряд спростив правила будівництва підземних об’єктів для оборонних підприємств",
       "original_title": "В Україні спростили правила будівництва підземних цехів для оборонних підприємств",
@@ -1641,6 +1631,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUUyZHJ0Mkx3TXIwS2l1TUxobU82RHNUX1NiUzU2dGZyb3l0d09PT3VYOWZuWU5ybEwzXzVudjdWUXRLN2VoZTZvWEJxdlk5dTlFNGtUYmJ6aHdDMFc1NDlySENkZmUtNnJkTHBCdVRjYTc5UmppNlVtV2I3Tk1RdXltalAwbk5rUDFMSnhMWEtrU210UFZrcV8wMHlhQm9rN2hQbk9sa19JakpnWldlclV4Y2phZ19fTlBMRUdfaWJlZnJvVmdHeVZR",
       "published": "2026-10-23T22:57:43+00:00"
+    },
+    {
+      "title": "Прем'єр Таїланду зустрівся з австралійськими інвесторами на засіданні МВФ",
+      "original_title": "Vice Minister for Foreign Affairs joins the Prime Minister’s meeting with the Australian Ambassador to Thailand and a delegation of Australian institutional investors on the sidelines of the 2026 IMF–World Bank Group Annual Meetings - กระทรวงการต่างป",
+      "summary": "Прем'єр-міністр Таїланду провів зустріч із Послом Австралії та делегацією інституційних інвесторів на полях щорічних засідань МВФ та Світового банку 2026 року. У заході також брав участь віце-міністр закордонних справ Таїланду. Подія зафіксована офіційним сайтом міністерства закордонних справ Таїланду.",
+      "source": "Bilateral Meetings",
+      "publisher": "กระทรวงการต่างประเทศ",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEtQOWlIM01RRGdIVF9rUEUyQ21UVlZmUHJGeDVPNjhPRzZJLV9EVkpTS05vM0VnenhWaUo2ZWVJaEEtX2Y4cDlYMGZHbVMwYUNHSUtWNWNydnB2ZVZUSWJ3Z0VFdm5iNzJLR2RmVkI0dmhJMnU5b3VfX0ZOeTIzTU9Wb0FldG5KODlEemlQcjhBZVlRc1RZRjNjR1pvMW1MU25iUThZTzg",
+      "published": "2026-10-23T23:39:24+00:00"
     },
     {
       "title": "Греція та ОАЕ оцінюють нові угоди в €12 млрд",

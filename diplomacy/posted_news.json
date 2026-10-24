@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmpXbEdpb21sMGV1OG0zY0Mtd1lPYW9TZlFmWlV1cmNiNjgwc25nUTEycHcwTWlGMHd1VDJDWGtYbGRjSXlXTDN4dmgxcG9MSFdjSjdaSEdmQjVTV2NBTTBKb0t2UXpHdXllMklkTmVHcTZpVHRlU1BqamNyVEZlVzYxYlpYTlR4YTZUWWxxRVdVOGNFZFFGWm11Q2gtRHRFLXFtbW5McTlhenB4WTdrR2ZPZUV3UE9WTmlLQ0xYQl9aY0ZneW5yVFdDc2M?oc=5",
-    "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMVBNSXh1WGhpV0oxWTVkMWh3UEpOZVJMUTlVa0JDRjIwREx5ZzA1STNZbVJ4U3ZmeEhiU1RLNll3a1I5VjA0SEhScFA1SThQcnlzNUxLV0NTaHc2Wjgwam5zRE5WOHFKOFloVF91YzlXTDZNeUdBVjVveF9fVHFPYXJIT2xkYllsVjlmeUp4aFB5a19Ua3NYUWlBOTZCRDhJTzJUbFVFZFpHcWsxYXRmcW1peHZLRTFPNTdEV28wZ0c2bklzV0hMX1kxb0lDUmRxQ0taTkU3Ym0yX1VYbHg1QjhVY25Hb285RllmS2Q3U0xIeEpGQWk0N3hIR21QUDJPTmV0bEt3?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0amxzbUpTNi1wcFVTdTgtWGJBdUdIV0lhVjItNnBOc2xRWHlJYTFTMVlOejFmZTBmNHc5YjRROTNTclhoTkhRZGp4S3Q3STdwVmtMa0tVQWlxR3FRMFlKMWtJQ2xTR3F2QUd5d2M3ZV9EMHZNd2pDcnJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVlpeTE4V1VOdkxnN1pYM1BNa0FfYjM5NXVVdFhtdFlXem9OdzZiR1JWUW9feUUzbVBUMy1VaFFGMmlKV2ZwczQwRDIwSGxnYkpQZGxSdmhwQ0o2TTY2MXZ2QVh3OU1ITk9SYXhJMnh3a0hUWk1zQnczbkNaMk5SRWhkS0dTVVlVVl9pWGZjNnFQR0tZSG5UZnc5Q3pfNGtRTXFjdWRXdHV2XzBRMzlsUlFxMNIBuAFBVV95cUxNSHhlZG9jMU0tazF6RmJzVTE1YkhhZ013QkVtVzc2NnBqOWpFSVRpZG13QnJtRFFsb25ORWtlb2dYV01QNXFMc1BGUFlIQ1pnUEQzNnAxY01nejVfR0lxeTdEQ2d0MEoxNC1sNzJPSF9PQWpmWDdjdHVNWkxMSXFUYjlWRzREWlI1M3EzMHBjZXhlVGZ6SnhNZG9xQThpdnh5T1c0bHk0VjdNSHIzT1hOT3lYdnlKREd0?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQkd3cmtGZ05QN2ZtYk1tMTduVVpmOExmNzdVSEU4ZXlFaHJpWmkxUktRM3IwNjJhc2ZyNWxLemg5aHdpSWxGSl8zR2xMSVUwTERET2pYWncxVUxaV2t2d19wSTA0QzkwcHVOSWRmWVBFdnNiQURvZEJIbE1oTjBmTkJrT2FzSnBFOEo4cFZGYVFfQXptQ253TFdhd1hyUG5sLU5GX2sta0FJdUdXd0MybE92Ynk3YVR4WTMxWEltMnRrVjYtMnNz?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kNDRVSURNc0kyNm5pWFZ3MUFaTlgweGJrUVAwRnVzUFM1MWFwYTFMX29HY3pib0J5QVlCWGtSVmltcFhhbThYak1yMjJBVUdJOEsxZUhUZVVNSjZPVUk3QVlxazh5a2lLUTJmZ0wxN180Z0s5TW0xRE1acw?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE94NlNodTRaZ2t3cFhRMDZSOTB4LTFPb3hpenVvOXc0LXFCUlVUWmZUWGpuYTl0QThrbkFtTWNkNXh3bmY1OFZpcks2WUpXUnRZYk4tX3JYR0w1cVRWRF9hWmh6WnFWUXVNRXpZVWNESkxYXzVnVWptOWxn?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGNZbUc5aDVGT3h6V0VyR2hHQjBvRVl1R2FIdjlvMVRmOHNyMzZmQ3pYenI5eFFydDJnTlRleFZKdTVDWWY2cEE0WUtfT282WXhCOFQ2QkkxTWJWZUluaW9CV29RWHM4cWRmOWdfTG1XSGI5dmcwOG9qWU4wOWtWOHd0NmNHYmo4WFFzdkhzbnZNcTVvQUhEc2tUemJTcTloU3c2ZFFMVDQ4SFBpd3fSAbMBQVVfeXFMTmxfTlRIYldDU1lLakN2cW54Yldyamk2WURRaDlNQ0ctT2RYTVJETlN5NUp3Zm92S2NTZUNKUHBJS2xyamE3dVI3YVJpcXUxT2dnZDdFLXhMQTl5T0t2akJsV1I3ajdVemRCQjduakxGUU9iNEZvNWxFREIyNV9Ecl94YmxScTFnOGtGdC1tcFpJT0E5MVNSUWxJazFXa2hLdHpOVUZUUDI0bjFkYU5CTERtMVk?oc=5",
@@ -1199,16 +1194,14 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/miliband-says-uk-redoubling-diplomatic-efforts-end-iran-war",
     "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-650",
     "https://www.middleeasteye.net/live-blog/live-blog-update/wont-allow-rusty-us-warships-re-enter-persian-gulf-irans-military-chief",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/us-intelligence-chief-says-iran-increases-efforts-target-americans"
+    "https://www.middleeasteye.net/live-blog/live-blog-update/us-intelligence-chief-says-iran-increases-efforts-target-americans",
+    "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/",
+    "http://www.africanews.com/2026/10/24/car-former-hostages-greeted-by-president-touadera-on-return-to-bangui/",
+    "https://www.theafricareport.com/434360/ghanas-presidential-daughters-where-are-they/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/accountability-cant-be-swept-under-rubble-amnesty-gaza-killings-aid",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVhCbDFUa1ltWVYyLUUxUkhuYTBIQUpUTW11cXNKQWtCS0dEanAtY2xJLTQ4MFUydTVlMnd4ZmQ2MHNnbWhrNVJRcGducXNtSkN1eGpGeTdORlVRRl95OUxUMnJIMWxEcWNYUVA2TlNCemUwOHpnNWRkbnl5RkhIeHJsQ1RPY3gxWktFRHZfcWtrd1hzZ04xS0s2VGJQZ2huYjg1b0JHU2NwTklP0gGsAUFVX3lxTE1hWEJsMVRrWW1ZVjItRTFSSG5hMEhBSlRNbXVxc0pBa0JLR0RqcC1jbEktNDgwVTJ1NWUyd3hmZDYwc2dtaGs1UlFwZ25xc21KQ3V4akZ5N05GVVFGX3k5TFQyckgxbERxY1hRUDZOU0J6ZTA4emc1ZGRueXlGSEh4cmxDVE9jeDFaS0VEdl9xa2t3WHNnTjFLSzZUYlBnaG5iODVvQkdTY3BOSU8?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Україна та Фінляндія підписали сім документів про оборону та транспорт",
-      "summary": "Під час Україно-Фінського бізнес-форуму сторони підписали сім документів, що охоплюють сфери оборони, транспорту, супутникового зв'язку та будівництва. Ця подія зафіксована на офіційному сайті Президента України. У матеріалі відсутні деталі щодо конкретних умов угод, імен підписантів чи термінів реалізації, тому аналіз обмежений фактом підписання.",
-      "source": "Treaties & Agreements",
-      "publisher": "Офіційне інтернет-представництво Президента України",
-      "published": "2026-10-22T19:05:00+00:00"
-    },
     {
       "title": "ООН припиняє координацію входу в Газу через арешти",
       "summary": "ООН оголосила про припинення прийому палестинців, що повертаються з Єгипту, через ризики безпеки та повторні арешти із боку Ізраїлю. Це рішення йде після арешту пацієнта з раком та його доньки. ООН продовжить медичні евакуації, але вимагатиме альтернативу.",
@@ -1411,6 +1404,13 @@
       "source": "Bilateral Meetings",
       "publisher": "en.baochinhphu.vn",
       "published": "2026-10-24T02:05:00+00:00"
+    },
+    {
+      "title": "Кувейт та Італія підписали меморандуми під час візиту Мелоні",
+      "summary": "Під час візиту прем'єр-міністра Італії Джорджі Мелоні до Кувейту сторони підписали меморандуми про взаєморозуміння та лист намірів. Ця дипломатична подія зафіксована офіційним джерелом Kuwait Times. Текст не містить деталей щодо конкретних секторів співпраці чи умов угод.",
+      "source": "Treaties & Agreements",
+      "publisher": "Kuwait Times",
+      "published": "2026-10-24T04:33:00+00:00"
     }
   ]
 }

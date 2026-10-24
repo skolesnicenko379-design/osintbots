@@ -114,6 +114,7 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThOUnBmT1EzUkhtM1pSN3VBY1JpRmV2dW9FWnlpS25zUXQtNWJTM052T1hJaGpEenlSTGx2VjZ3dnphMzNjTkIzc3JBTHZSWHctMjZwX0VBODROdmhjSzBneXdzNFNoOV8zdEt5bjd6NjJ3OW0zUmNWRUVlTE5WZUwyRUdqTnJPYW0zZmhJeHBrRU5RWFl5WUNjRjNlNUZaOHctSEZzUnM",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnJxT0dYeWs4ZWVvNHY3TnBhM2RlQW0wVnRlSWxmYS12RlpCN2tFZXRsTDB6ekR4WWs3aXZjSk4walBkVjZDcEttTnhyMldiNEdyRkVFb2RVME1rTjVyS0ZQVjk3bTBVWDdoMEVHa2p6aU9FSDAwb1NIVG93aFBxMVlVSlQzQVJ4UzkxWEFIR1dxVENtT2gxUE9CcDJxYzlWV3pheXZwams",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0l1OFNjY25tS25hNlRzSHRabnhJNEJ5Z0ppLUZrQjZMTFdxZjNQcDN5eW5QN2RINmJmUFZWVmpOUEdrNkc0U0dpaU1Dc2ZwRnVmaDBnV3ZlVzFaZFlYckVoamRiQWFsRmVjVE50SldrNUJqdXYtaENYTURDMkE2Y2xKVW9PUU1nVUhaVElZSDZfU2Rod0trWHRuRG51Yk1hMDJyOWY5N2g5Zw",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVhCbDFUa1ltWVYyLUUxUkhuYTBIQUpUTW11cXNKQWtCS0dEanAtY2xJLTQ4MFUydTVlMnd4ZmQ2MHNnbWhrNVJRcGducXNtSkN1eGpGeTdORlVRRl95OUxUMnJIMWxEcWNYUVA2TlNCemUwOHpnNWRkbnl5RkhIeHJsQ1RPY3gxWktFRHZfcWtrd1hzZ04xS0s2VGJQZ2huYjg1b0JHU2NwTklP0gGsAUFVX3lxTE1hWEJsMVRrWW1ZVjItRTFSSG5hMEhBSlRNbXVxc0pBa0JLR0RqcC1jbEktNDgwVTJ1NWUyd3hmZDYwc2dtaGs1UlFwZ25xc21KQ3V4akZ5N05GVVFGX3k5TFQyckgxbERxY1hRUDZOU0J6ZTA4emc1ZGRueXlGSEh4cmxDVE9jeDFaS0VEdl9xa2t3WHNnTjFLSzZUYlBnaG5iODVvQkdTY3BOSU8",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGdUc1k5SmlFQ2hrWV9RV1hZdS1aSU50RmZnU1lYTnUwMi1SYVM2aWZWRnNwRzJWa1hSZ0hWNDBxcy1vVTFUVUw3M0YwZ0xJOEp0RjlaOWI4Ry11MU9NVDJTSGtCMjVOSXZaRG9XbFN5TnZmM1ZCZUxkTWRvUnhQMVd3Yi1zVkdYUl9JdmN3Zkl3VDA2cE81MVBHSVVzY05NUkRteUNjRFJSWl9qbVgw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0lUTWZYdERMNDQ5RHo1d2FtMTRqWEZDYUVUS1ZpeU4zRkpGVkEwLUowb05jS0xmbFBBamU0WndRcUVhbmNBb0R4Z1RCVUFKd3QzSHZqblFjNXhWeUp5Qm1aZ0hsa29ZVnpUVFhBTXdlQ0JMMEtfMDZpQVlkWlFseEdvTVZSa1lqamhvcjFpYnZDdkhJdlpqYW5VUDFJVlhIQTN6cjdIUGhOdEd0amtFd1ZxWGQ",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVY0bnBzbkRXSWtmTjR1amZSRlZCVFVUT1pzZVlmZ3NBLWpJa0VBZjFhMXlQdXh3LXY0ZE1Dbnc2LTVaSTc0RzF5S3o4ckFyTE42elVocTZOWTBBTVpza3dMckx0N2ZtYUZvYXR1b1UwaUItd1l4MllUYk5zX0RoZlh4bzFFZmQzWkxRWDlWWVZ4b042ajF0ZXVlX180eGtDMnk3Y1h5Sm5pdkl5RVk4ZlhtTnk",
@@ -1599,6 +1600,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/pezeshkian-attend-moscow-gas-summit-likely-meet-putin",
       "published": "2026-10-24T04:22:28+00:00"
+    },
+    {
+      "title": "Кувейт та Італія підписали меморандуми під час візиту Мелоні",
+      "original_title": "Kuwait, Italy sign MoUs, letter of intent during Meloni visit - Kuwait Times",
+      "summary": "Під час візиту прем'єр-міністра Італії Джорджі Мелоні до Кувейту сторони підписали меморандуми про взаєморозуміння та лист намірів. Ця дипломатична подія зафіксована офіційним джерелом Kuwait Times. Текст не містить деталей щодо конкретних секторів співпраці чи умов угод.",
+      "source": "Treaties & Agreements",
+      "publisher": "Kuwait Times",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVhCbDFUa1ltWVYyLUUxUkhuYTBIQUpUTW11cXNKQWtCS0dEanAtY2xJLTQ4MFUydTVlMnd4ZmQ2MHNnbWhrNVJRcGducXNtSkN1eGpGeTdORlVRRl95OUxUMnJIMWxEcWNYUVA2TlNCemUwOHpnNWRkbnl5RkhIeHJsQ1RPY3gxWktFRHZfcWtrd1hzZ04xS0s2VGJQZ2huYjg1b0JHU2NwTklP0gGsAUFVX3lxTE1hWEJsMVRrWW1ZVjItRTFSSG5hMEhBSlRNbXVxc0pBa0JLR0RqcC1jbEktNDgwVTJ1NWUyd3hmZDYwc2dtaGs1UlFwZ25xc21KQ3V4akZ5N05GVVFGX3k5TFQyckgxbERxY1hRUDZOU0J6ZTA4emc1ZGRueXlGSEh4cmxDVE9jeDFaS0VEdl9xa2t3WHNnTjFLSzZUYlBnaG5iODVvQkdTY3BOSU8",
+      "published": "2026-10-24T04:33:00+00:00"
     },
     {
       "title": "Українські дрони атакували нафтохімічний завод «Тольяттикаучук» у Тольятті",

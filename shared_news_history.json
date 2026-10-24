@@ -42,9 +42,11 @@
     "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
     "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
+    "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
     "https://militarnyi.com/uk/news/opk-ta-energetyku-pozbavyly-100-bronyuvanna",
     "https://militarnyi.com/uk/news/paralizuvaly-vsi-aeroporty-moskvy",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
+    "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
     "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
     "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
@@ -1348,6 +1350,16 @@
       "published": "2026-10-24T16:11:14+00:00"
     },
     {
+      "title": "Канада отримала перші два CF‑35A на базі Люк",
+      "original_title": "Королівські повітряні сили Канади отримали перші два CF-35A",
+      "summary": "Канада отримала свої перші два винищувачі CF‑35A (F‑35A) на авіабазі Люк в Аризоні, що підтверджує продовження програми F‑35, до якої країна приєдналася у 2002 році. CF‑35A – п’яте покоління, з низьким радарним слідом, високою авіаційною мобільністю та інтегрованими системами розвідки, що підвищить оборонну готовність Канади і зблизить її з американськими військовими стандартами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
+      "published": "2026-10-24T17:13:49+00:00"
+    },
+    {
       "title": "Дбеїбах запевнив Єгипет у вирішенні морських питань",
       "original_title": "Dbeibah tells Egyptian intelligence chief Libya will address Cairo’s maritime concerns - The Libya Observer",
       "summary": "Прем’єр-міністр Лівії Абдул Хамід Дбеїбах під час розмови з головою розвідки Єгипту заявив, що Лівія візьме на себе вирішення морських питань, які турбують Каїр, і докладе зусиль для їхньої швидкої реалізації у рамках двосторонньої співпраці та з урахуванням безпеки Середземноморського регіону.",
@@ -1366,6 +1378,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnFIaDlheEV3azExZ2VDQk5RZk5XNl91MXdfTnEyUVc2Tk9WRWt4RXdWcDV6c1k4d2lVN1dKbHBuRzRtVXlhN004TXNWeWRKNGFBeWlRdk1pT0MyX3hQOWZxb0VKelppeGxQQUQ1UVJuaVRBdDY3bUdiYnVBV283OHZOaHZ0MTJsTUg3WEpET1ZTZDhhV2tmdDBtMnotaDdGdTFuYnBaWkhHd2dDbDdmOG9nbUZuNE0wbjZIYjFKOTJlVEUtaVNDZ1dqRi03SVlzblA1Y3VRSQ",
       "published": "2026-10-24T18:05:46+00:00"
+    },
+    {
+      "title": "KONGSBERG випробувала NSM у морському контейнері – нова пускова установка",
+      "original_title": "Протикорабельна ракета NSM отримала пускову установку у вигляді морського контейнера",
+      "summary": "Норвезька KONGSBERG успішно провела випробування протикорабельної ракети Naval Strike Missile (NSM) з 20‑футової контейнерної установки, що вміщує до чотирьох ракет. NSM – субзвукова крилата ракета довжиною ~4 м, масою ~410 кг, дальністю понад 185 км, з інерційно‑GPS‑керуванням. Така мобільна система спрощує логістику та підвищує оперативну гнучкість, дозволяючи розгортати озброєння з кораблів, вантажівок або наземних позицій.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
+      "published": "2026-10-24T18:16:37+00:00"
     },
     {
       "title": "Суддя Ірану зустрівся з Верховним лідером",

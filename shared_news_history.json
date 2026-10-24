@@ -31,6 +31,8 @@
     "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
     "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
+    "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
+    "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/data-tsentr-podatkovoyi-u-nyzhnogorodskij",
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
     "https://militarnyi.com/uk/news/estoniya-otrymala-rakety-gmlrs-pislya-pauzy-v-postachanni-zi-ssha-cherez-vijnu-z-iranom",
@@ -118,23 +120,12 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajA0VmN2YXRMZ2toMGwycUs1X1JabjdLZDJBSTVNZjVlZEVrR1lzTXpuM0hVQU5kb3NNcVZiRXJYSEt3WnhWZUhmanczNVd4OTMzLTVvbzlaYlYwZXB3Yl9rRU5lOTdERXYwSmJpZ0E2RDJVN0g0TW5VZkhmdEFlc3Iyb3RFQW9Zc0kwNGRzYmxNN1B3NDJXbnIwRFBFUG1ieWRaR1djd3R6bE5mZW1QQTZPMDlib19RX1FIQlZmdzZaODl3QkVDLTh5OW5rMVE",
     "https://theafricareport.com/434371/algeria-niger-security-pact-whats-behind-algiers-military-push-into-the-sahel",
     "https://theafricareport.com/434399/exclusive-emmanuel-macron-cancels-planned-visits-to-nigeria-and-senegal",
-    "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Чотири літаки‑радару KJ‑3000 виявлені на заводі в Китаї: серійне виробництво",
-      "original_title": "Four KJ-3000 Radar Jets At Chinese Factory Point To Serial Production",
-      "summary": "Супутникові знімки показали чотири нових літаки KJ‑3000 AEW&C на заводі Xi’an Aircraft Company, що свідчить про початок або вже запущене серійне виробництво. Самі літаки базуються на чотиридвигунному транспортному Y‑20B з великим круглим радом та численними антенами, а також оснащені заправкою у польоті та системою охолодження електроніки. Масове введення KJ‑3000 значно підвищить можливості Китаю у повітряному радарному спостереженні та управлінні бойовими діями, замінивши застарілу платформу KJ‑2000, що залежить від російських компонентів.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
-      "published": "2026-10-22T20:46:07+00:00"
-    },
     {
       "title": "Український Ан-124 «Руслан» загорівся під час посадки в Японії",
       "original_title": "У Японії під час посадки загорівся український Ан-124 «Руслан»",
@@ -1276,6 +1267,16 @@
       "published": "2026-10-24T11:22:57+00:00"
     },
     {
+      "title": "Зеленський: США передали Україні лише 24 ракети до Patriot за 90 днів",
+      "original_title": "Україна отримала від США лише 24 ракети для ЗРК Patriot за останні 90 днів",
+      "summary": "За словами Зеленського, за останні 90 днів Україна отримала від США лише 24 зенітні ракети для комплексів Patriot, тоді як країни Близького Сходу в перші 48 годин війни використали близько 2000 ракет. Український посадовець повідомив The Kyiv Independent, що контракти на ракети для Patriot, які вже оплатили європейські союзники, лежать непідписаними на столі Гегсета. Patriot залишається основним засобом проти балістичних ракет, тож затримка постачання перехоплювачів збільшує ризики для цивільної інфраструктури та обмежує можливості ППО. Це заяви українських посадовців, офіційного підтвердження",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
+      "published": "2026-10-24T11:43:19+00:00"
+    },
+    {
       "title": "Египет вимагає консультацій щодо демаркації кордону з Туреччиною",
       "original_title": "Border demarcation between Egypt-Turkey requires consultation: Foreign Ministry - Egypt Independent",
       "summary": "Египетська міністерство закордонних справ оголосило, що для демаркації кордону з Туреччиною потрібні консультації. Це крок у напрямку вирішення спору про кордон, що включає обговорення умов, термінів і механізму співпраці між двома країнами. Офіційний заявник не уточнив дату.",
@@ -1354,6 +1355,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
       "published": "2026-10-24T12:44:53+00:00"
+    },
+    {
+      "title": "Данія закупить американські крилаті ракети Anthem для наземних пускових установок",
+      "original_title": "Данія закупить нові американські крилаті ракети Anthem",
+      "summary": "Данія підписала контракт на придбання крилатих ракет Anthem від американської компанії Covenant, які будуть запускатися з наземних установок. Ракета має твердопаливний двигун, корисне навантаження понад 200 кг і розрахована на масове виробництво, що дозволяє досягати великої дальності з високою точністю. Це посилить національне та колективне стримування НАТО, розширюючи можливості Данії у довгобійних ударних операціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
+      "published": "2026-10-24T14:05:06+00:00"
     }
   ]
 }

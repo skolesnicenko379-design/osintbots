@@ -27,7 +27,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
     "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
     "https://middleeasteye.net/live-blog/live-blog-update/pezeshkian-attend-moscow-gas-summit-likely-meet-putin",
-    "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
     "https://middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
     "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
@@ -53,6 +52,7 @@
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
     "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
+    "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
@@ -93,12 +93,12 @@
     "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpraVNNeDNTd2lSZ1VuYWRiWm1kU1ladTlEXzRWSVNrSXZxRGVscXROSzlYZUlXc1NzckVTUmdSd2xyNEpLdzVMZVB1N05IQ1ZiU0JwMWJNWllfM1ExVlhhSWNybjUtU0E4VWxqZFdwU0NOMHpCMmI2UE42ZThuU0RYajRFOE8taVpNWTJIampObzhpSGN0ZDJwdW1EeVk",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFl0VkFyT25rM3dDV2Y5Q0hWbXR1QjhrYlFQcmJjbktUckt6em8tVVR1UzZNNGVWRXFYMTBHd1F6YzdCSDJrYkNKeEhKbVZZN2pVT2xoRlJJR2xGRjgzNUJDZ3F6QXBwOEdPTGpPTWpmVUZfZUl5SmpiWGFVR0xibXhfX3F0bWtVRklTUFBVT0FZRUxfMnpMbHNDaU81X0U0MUpad9IBqgFBVV95cUxQUEpKSjlIN0VjZnRTZlN0OFM1Ui1pbk1vbW5Kc183M1JMRUxpV3pQZGp4U0RGaFg0cTlDQjhUaGVZM0Y2S01SZko2Y1I0cmxsbDF2bVhfM0NOQXhkaUwwZVFFVG4yTVVRdnA4Y21scXUwbnV6LXV3QzlieVc5SF9IY3hIU0dfS05xYU9qNDlJbnpIVmF3QjhyNWxOMTJwbzl1akd6MVhocjVfZw",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXJLSEg2VV9uMHR1QUpzMmY3OEo2TzNqN3pYZUlRQnZRZWswUGJfYUxSUHpEaDkybmlyTEZVZDM0YWhab05PSW1OU1U3cXZTWmJ0aWxqMUZMWS1sV2JheVR3a05mMXFWMDFsSXBsNFVEZGhOSE50WC1iLUhRbURIYTVBN3RQc2Y0MlhQTVcyaExkUXlKMnZScFc4NThZNXJOSUpjbDh3",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEtQOWlIM01RRGdIVF9rUEUyQ21UVlZmUHJGeDVPNjhPRzZJLV9EVkpTS05vM0VnenhWaUo2ZWVJaEEtX2Y4cDlYMGZHbVMwYUNHSUtWNWNydnB2ZVZUSWJ3Z0VFdm5iNzJLR2RmVkI0dmhJMnU5b3VfX0ZOeTIzTU9Wb0FldG5KODlEemlQcjhBZVlRc1RZRjNjR1pvMW1MU25iUThZTzg",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnJxT0dYeWs4ZWVvNHY3TnBhM2RlQW0wVnRlSWxmYS12RlpCN2tFZXRsTDB6ekR4WWs3aXZjSk4walBkVjZDcEttTnhyMldiNEdyRkVFb2RVME1rTjVyS0ZQVjk3bTBVWDdoMEVHa2p6aU9FSDAwb1NIVG93aFBxMVlVSlQzQVJ4UzkxWEFIR1dxVENtT2gxUE9CcDJxYzlWV3pheXZwams",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVhCbDFUa1ltWVYyLUUxUkhuYTBIQUpUTW11cXNKQWtCS0dEanAtY2xJLTQ4MFUydTVlMnd4ZmQ2MHNnbWhrNVJRcGducXNtSkN1eGpGeTdORlVRRl95OUxUMnJIMWxEcWNYUVA2TlNCemUwOHpnNWRkbnl5RkhIeHJsQ1RPY3gxWktFRHZfcWtrd1hzZ04xS0s2VGJQZ2huYjg1b0JHU2NwTklP0gGsAUFVX3lxTE1hWEJsMVRrWW1ZVjItRTFSSG5hMEhBSlRNbXVxc0pBa0JLR0RqcC1jbEktNDgwVTJ1NWUyd3hmZDYwc2dtaGs1UlFwZ25xc21KQ3V4akZ5N05GVVFGX3k5TFQyckgxbERxY1hRUDZOU0J6ZTA4emc1ZGRueXlGSEh4cmxDVE9jeDFaS0VEdl9xa2t3WHNnTjFLSzZUYlBnaG5iODVvQkdTY3BOSU8",
     "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRWd0Y1pndVNENXVZQ1hsb201Y2tQbVhtOWpMX3hqWHRZbXJ5cGUxNGdGUDdWZGhpQV91TjJ4dG9KRUU1NDBQR2NscTJrejlSXzN0ZzhmYlJEV2FFZ1Fyd3NLUnhoTU8yR1BBQ0hTWFgwYVlmLXNjdS1fSUVJUFdwa1pZV3FvUXFfQzRocUdNcFdYODdQRlQ0cXpPR1RvTU10d0dFcWZtUWZ2NnRHazl3aHZGMEFfLUhqWXFDaDBYeVVPSUNPNVpfSDJSeW02czNVTjVsM3BPMWZtNjFjeFZZREkxandzX210emRRaXpoUm9zU0Y5OUREUWptTmN1ZVdxV0hxOFRxcS1EUXlmNnU5Tm1NVVlFbzJ6QzV4NXZoSHlENmVfUUlMWXZsRTk",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZE9CcnIwV0RnLW0wRDVmNVFXaktWUTh1WUFBNVkwYWJ4VXR2M0xyWktQYTQ3aDhBVnNZOGhrcEVVZUREZVBnTnpydXZkTTRNNXFIR3JRWnZiOVR6WlN5RnlGOTl3UHp4VmRSV2x2dHg4OW02Mlo0ODJralQyLUJTYUgxYm80M0pKRHNWZXpLLVY3Rlc2bDFQUHM0aXIxVGFmUFlvYUhNcUZROGVEWmJSTw",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUVoOGhwRFczZkltNmRSN09aQWhzX1hxRGpFVmY2blBrUXpKb0k5UTQtZm5vWVZoQmZlZDVpV052MEh1ZFpNc1MzY01sYjJ6aExPTnFxMTFIcFRTeGoxVU1RLWdKLVlORlhUYlhLSEZJWndjTW93UUxjVlFZb3UxNmJfUDdaRHdsRzNLSHlnc2U0WVo0SW1xNXAwZE1MRWVfbGR5anE4MF9BVS1BOTlFRzlB",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0lUTWZYdERMNDQ5RHo1d2FtMTRqWEZDYUVUS1ZpeU4zRkpGVkEwLUowb05jS0xmbFBBamU0WndRcUVhbmNBb0R4Z1RCVUFKd3QzSHZqblFjNXhWeUp5Qm1aZ0hsa29ZVnpUVFhBTXdlQ0JMMEtfMDZpQVlkWlFseEdvTVZSa1lqamhvcjFpYnZDdkhJdlpqYW5VUDFJVlhIQTN6cjdIUGhOdEd0amtFd1ZxWGQ",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVY0bnBzbkRXSWtmTjR1amZSRlZCVFVUT1pzZVlmZ3NBLWpJa0VBZjFhMXlQdXh3LXY0ZE1Dbnc2LTVaSTc0RzF5S3o4ckFyTE42elVocTZOWTBBTVpza3dMckx0N2ZtYUZvYXR1b1UwaUItd1l4MllUYk5zX0RoZlh4bzFFZmQzWkxRWDlWWVZ4b042ajF0ZXVlX180eGtDMnk3Y1h5Sm5pdkl5RVk4ZlhtTnk",
@@ -123,26 +123,6 @@
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Європейська народна партія закликає ЄС протидіяти недобросовісній торгівлі Китаю",
-      "original_title": "EPP Group calls for EU action to tackle China’s unfair trade practices - European Interest",
-      "summary": "Група ЄНП в Європарламенті закликає ЄС вжити заходів проти недобросовісних торговельних практик Китаю. У статті є лише заголовок: конкретних цифр, інструментів чи строків немає, тому оцінити масштаб неможливо. Це політичний сигнал від найбільшої фракції Європарламенту на користь жорсткішої торговельної політики щодо Китаю. Якщо ЄС вдасться до торговельного захисту, зросте ризик нових мит і обмежень у торгівлі ЄС і Китаю. Поки це лише заклик, а не ухвалене рішення.",
-      "source": "ЄС · торгівля, угоди й економічна безпека",
-      "publisher": "European Interest",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmtKUklNa1NaZW4yWlZLM3c4c3d3Y3JjWlJoM0FIVm1fSVlETzhRWFF4N3Y3NnhqZUVjWGxrOGNDX3dCV01iZlFzc3RUYUdkb0ZyYV9LazdIdF9HTXZFQnVGNWp0Yk9Qa0dLYzNtd1NRYXljdnQ0eDZNMFZfNDl5ekQ0T3RiTWhPc0ZpWUpjcmJwdFJqUVlMWHBTeFh2V2ZtMnJmcA",
-      "published": "2026-10-22T21:53:15+00:00"
-    },
-    {
-      "title": "ООН припиняє координацію входу в Газу через арешти",
-      "original_title": "Report: UN to end Gaza entry coordination as Israel arrests returnees",
-      "summary": "ООН оголосила про припинення прийому палестинців, що повертаються з Єгипту, через ризики безпеки та повторні арешти із боку Ізраїлю. Це рішення йде після арешту пацієнта з раком та його доньки. ООН продовжить медичні евакуації, але вимагатиме альтернативу.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/report-un-end-gaza-entry-coordination-israel-arrests-returnees",
-      "published": "2026-10-22T22:17:22+00:00"
-    },
     {
       "title": "LNG Canada удвоює потужності на тлі диверсифікації Азії",
       "original_title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf - Crude Oil Prices Today | OilPrice.com",
@@ -1332,6 +1312,26 @@
       "channel": "diplomacy",
       "link": "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
       "published": "2026-10-24T14:09:35+00:00"
+    },
+    {
+      "title": "Литва представила реактивний дрон-перехоплювач X-12, випробуваний в Україні",
+      "original_title": "У Литві створили реактивний дрон-перехоплювач X-12, який вже випробували в Україні",
+      "summary": "Литовський дрон X‑12, оснащений турбореактивним двигуном, досягає 700 км/год і має дальність 126 км. Він вже випробувався в бойових умовах в Україні і планується поставляти українським військовим. Здатність швидко перехоплювати повітряні цілі, зокрема «Герань‑5», може зміцнити протиповітряну оборону України.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
+      "published": "2026-10-24T16:03:37+00:00"
+    },
+    {
+      "title": "Сент-Люсія та Індія підписали угоду про якість медикаментів",
+      "original_title": "Saint Lucia and India Sign Agreement to Strengthen Medicine Quality and Access - The Voice St. Lucia News",
+      "summary": "Сент-Люсія та Індія підписали угоду, спрямовану на підвищення якості та розширення доступу до лікарських засобів. У документі передбачено спільну співпрацю у сфері контролю якості, обміну технологіями та підтримки постачання медикаментів у обох країнах, а також створення спільних механізмів моніторингу та навчання персоналу.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Voice St. Lucia News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZE9CcnIwV0RnLW0wRDVmNVFXaktWUTh1WUFBNVkwYWJ4VXR2M0xyWktQYTQ3aDhBVnNZOGhrcEVVZUREZVBnTnpydXZkTTRNNXFIR3JRWnZiOVR6WlN5RnlGOTl3UHp4VmRSV2x2dHg4OW02Mlo0ODJralQyLUJTYUgxYm80M0pKRHNWZXpLLVY3Rlc2bDFQUHM0aXIxVGFmUFlvYUhNcUZROGVEWmJSTw",
+      "published": "2026-10-24T16:11:14+00:00"
     }
   ]
 }

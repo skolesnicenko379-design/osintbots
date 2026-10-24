@@ -48,7 +48,6 @@
     "https://militarnyi.com/uk/news/estoniya-otrymala-rakety-gmlrs-pislya-pauzy-v-postachanni-zi-ssha-cherez-vijnu-z-iranom",
     "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
     "https://militarnyi.com/uk/news/frantsiya-zamovyla-chotyry-zrk-samp-t-ng",
-    "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
     "https://militarnyi.com/uk/news/opk-ta-energetyku-pozbavyly-100-bronyuvanna",
@@ -67,12 +66,12 @@
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
-    "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
     "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
+    "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
     "https://navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs",
     "https://navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTNIQkhfbFVBUGlJRm9TX0Y0Y1ZRajluZzNLcFJxb2UyZ29XLVBsX2JGSmRyT3R0bTAxbmRBVzM0QWRyV1FZYk9uZy11eGRoVTd6STg4T292V0JaVDdRRDhpSFdGQVpOQXQyT0FZRlhqQlZmS2JmVjRpOHJMSlY4SUVXdzhmR2RlOElrYmcxM1VrWV83TGxBOEJOcWJqR0dJQzBxYndkV3RPWnVWN2xIb21TbzB2Yjh2LXFQUnVIRGFuREE1TFRjQ05BM3pkOWtsaEE",
@@ -122,7 +121,6 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWtzOXhDSmY4UmdhWUlJSThJTEUwTUNxSE5iMmJSMFd4WnJBZVBOZmNsQW4tRFUxRTdXVUhWdnBLdDZjakFwWWVqSndFbjJVNXd3dGRKaGQ3eG40cElhckJ1Q3JLNjNWeHozWW5sRXROeTJ0M0FRLU1YejVJM0wxbXp5akxhMDVpZGRRLVdaMHh2R0txSjFXSzJtbjFTWkk0MnA4eEZlSk12Qk4yenI0enVDblRNdHFLQV9j",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3ZvMU9VRDRfbUdHeHJSekEyM0M2YlZzOUtWTlBWaWlaeWVBOVlCMHI2cUpNbVVraVBHOHVCR3NoZjRBWHd2VnpUYThoM3ZuQUxiWjh5OXN6UXZsaVpndUhjS2hfNlhVd2JweEg2TVRUVFRrc1lKc3g5OTgzcF8xaDN4YWpQMW9tdnVENHFOUm1SMHB1OGFiRFJVVGU5YmZRbHN1Mld2cEh4OUR4RlFqVUprVFN1ZFR1clhEVg",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNl81YXczLVZzSkdTYWlGU005NHpYcUk2cjduYW42YXhEamhWdFJhRDBBUHBBOU1FZjVjRWdoaGpxalhVYmh4YW8yUzc0MDhkSE9DSk5SbV91dzByT1ZJSGswOFhZekNDMHdvWEZDSnFwcW1LM2dRYV9fYmN0TGN0ajVPTDRZeDF1UW03X1AyNmVPRGFocHVHNFVnNVBmUGI0eXItdmFCNkl5S2dMbXMtaTBkcE9rcHN2YV9ST1dBU0M",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1BRZjNNMUlfbXdVOEQ3c3dlVVFEWEd2djhFcDI0ckFXV2JRdV9fSmI3M3J4b2xTWkI5b3pqNkFqdVlwYWllX0RGNXktRjRoUGlYMm9UZlZPNkREODkzYUxvYWdfTmczZ29wNXVkWDJYQmRIVFBYcW01amNLZEM0bFNzeTZpREFOZ3ltMGRkdjFHNENUdktBSlMxVFhlWVN0NENDYnBCVnp1LWJlUVJtLTBLYlQ4WGhfQVRmNEc5VnYxUGM",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjlyZV93YUVvR2VOVWd0VzZwZm04QjhDZ2tqT3lnTHd0NWM2OUtTakdpSVJKb3ZUWURxOEdvdG1UTlg2NWNOVmV1dVdpWU94VTdvOHQ5R2N3ejNLSmpCeGwtRnZtWGpIU1NHVXp2Q1dSak93ZWlHZXpERjZZR2l2ZTBpV04wYnhiN05qbmxKS1BvelZPWUJ0MnJCUUZMekM1a19tVld2SGwza3AxV3Zfak5tcWVLNGFPU05UMVdkdDlNMlU",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN0VnZXaGFNU3FuVXpzalRYbVd0bEdLREZITnRlUXR6NENmcGZoby1Nc1ZjUE9ScTc0bnZXcWl6U3pDRjA1dDF0c1RqbEIweENJcXp5UDZaYnRUNUZFX0xoWWVZVUNjejhNb3RCT0Z2MXBDNUtmSG5jbFEyMFU4dmFWTXE1Y1FoaXA2VmVXeXpfRVJwbEFmMFpZOWV5cWlHVjNZREF6c1BfN1VjdVh3NlVvcEMtUlEyejBXdFRkczNXWnlQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWpqQ05pRy1Yd2JHRWVXdG9xbWYwemZoSEVhTFFKZjQ2TWROcnhhSGwzWmdEeTQ3aGJCa2ZjbGJ4V0toWmVkUXI3TklSaDg0ald6TjIwbjIyU3RNenZSN1V0Tm93OXZ4YUVrZGZkX3N6Z0JXZUFsREtzTzN0UW9SWEd1anZEY1RCNEI3OTQ1SC1VUnVPU2dtUmVJVlJMRWRUNGlDbDM2MVI1THgyZFRXOTBmY0lDYnNYckdoZjExWk16RHJy",
@@ -145,36 +143,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Данська компанія MyDefence передала Україні 2000 детекторів дронів Wingman",
-      "original_title": "Данська MyDefence забезпечила Україну 2000 детекторами дронів Wingman",
-      "summary": "MyDefence постачила українським силам оборони 2000 портативних детекторів Wingman, які працюють у діапазонах 2,4‑5,8 ГГц, мають захист IP67 та можуть виявляти як безпілотники, так і їхні пульти керування. Пристрої доступні у двох варіантах: Wingman 103 з зовнішнім акумулятором для довшого часу роботи та Wingman 105 з вбудованим акумулятором, що робить їх легшими. Техніка забезпечує пасивне виявлення, пеленгацію з точністю до 30°, що підвищує ефективність протидії ворожим дронам та знижує ризик хибних спрацьовувань.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
-      "published": "2026-10-22T14:44:42+00:00"
-    },
-    {
-      "title": "Трамп: торговельна угода США та Індії «досить близько»",
-      "original_title": "India-US trade deal: Trump says ‘pretty close’, EAM Jaishankar cautions against calling it done - Open Magazine",
-      "summary": "Президент США Дональд Трамп заявив, що угода з Індією «досить близька» до укладення. Міністр закордонних справ Індії Субраманьям Джайшанкар застеріг, що її рано вважати завершеною. У наявному тексті немає цифр про тарифи, обсяги торгівлі чи умови, тож оцінити економічний ефект неможливо. Різні сигнали сторін зберігають невизначеність щодо термінів і змісту угоди, а ринки й експортери мають чекати офіційних деталей.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "Open Magazine",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1BRZjNNMUlfbXdVOEQ3c3dlVVFEWEd2djhFcDI0ckFXV2JRdV9fSmI3M3J4b2xTWkI5b3pqNkFqdVlwYWllX0RGNXktRjRoUGlYMm9UZlZPNkREODkzYUxvYWdfTmczZ29wNXVkWDJYQmRIVFBYcW01amNLZEM0bFNzeTZpREFOZ3ltMGRkdjFHNENUdktBSlMxVFhlWVN0NENDYnBCVnp1LWJlUVJtLTBLYlQ4WGhfQVRmNEc5VnYxUGM",
-      "published": "2026-10-22T14:49:16+00:00"
-    },
-    {
-      "title": "Індія модернізує чотири радянські кораблі надзвуковими ракетами BrahMos",
-      "original_title": "Індія посилить чотири застарілі кораблі надзвуковими ракетами BrahMos",
-      "summary": "Індійський флот встановить вертикальні пускові установки BrahMos на два есмінці класу Ranvir і два корвети Veer, збільшуючи їхній боєкомплект до 16 ракет у випадку есмінців. Це підвищить дальність і швидкість ураження морських цілей, надаючи індійським кораблям можливість вести високоточні надзвукові удари на великі відстані.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
-      "published": "2026-10-22T14:51:23+00:00"
-    },
     {
       "title": "Далекобійна зброя армії США посилює позиції вздовж першого острівного ланцюга проти Китаю",
       "original_title": "US Army long-range fires make a splash on the frontline with China",
@@ -1574,6 +1542,16 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
       "published": "2026-10-24T07:41:44+00:00"
+    },
+    {
+      "title": "Грецькі та ізраїльські війська провели перші випробування ракет SPIKE під час спільних навчань",
+      "original_title": "Hellenic Navy Conducts Inaugural SPIKE Missile Firings During Joint Drills with Israel",
+      "summary": "Під час живих стрільб у Критському морі грецькі та ізраїльські підрозділи випробували нові ракетні системи SPIKE NLOS та ER2, збивши списану фрегату. Це демонструє здатність довгобійних протитанкових ракет з високою точністю та інтеграцію озброєння між союзниками, підвищуючи їхній спільний оборонний потенціал у Середземномор'ї.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
+      "published": "2026-10-24T07:42:50+00:00"
     }
   ]
 }

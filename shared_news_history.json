@@ -41,8 +41,6 @@
     "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
     "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
     "https://gov.uk/government/news/joint-ministerial-statement-on-the-risk-of-famine-in-sudan",
-    "https://gov.uk/government/speeches/genuine-dialogue-requires-respect-for-ukraines-sovereignty-uk-statement-to-the-osce",
-    "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
     "https://middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
@@ -58,9 +56,10 @@
     "https://militarnyi.com/uk/news/indiya-posylyt-korabli-raketamy-brahmos",
     "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
+    "https://militarnyi.com/uk/news/opk-ta-energetyku-pozbavyly-100-bronyuvanna",
+    "https://militarnyi.com/uk/news/paralizuvaly-vsi-aeroporty-moskvy",
     "https://militarnyi.com/uk/news/perehoplyuvach-kompleksu-skywiper-wall",
     "https://militarnyi.com/uk/news/perehoplyuvach-starhammer-proty-raket",
-    "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
     "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
     "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
@@ -70,6 +69,7 @@
     "https://militarnyi.com/uk/news/studenty-shhonajmenshe-40-navchalnyh-zakladiv-rf-vyroblyayut-drony",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
     "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
+    "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-ssha-predstavyly-systemu-perch-2-0",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
     "https://militarnyi.com/uk/news/ukrayina-2000-detektoriv-droniv-wingman",
@@ -101,7 +101,6 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUy1rektYX01uWE00NWJkNlhYMlV1VDdNN0NfZkdVck9UWjB4Ym5GTnUtRmJURGhRRVZxeXZ5THFNZmFFVEVlanB6M016NkdYT0RhRktZd0tSQ0RsLXdzc05UeS1BVFZSTTd5S1BfVTNRNk1YNnM4MllGU1ZreTFERXZmWjdIaVd2aW4wTExR",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXA0alNNWDNuT2ZXdXp4ekFJb3NKLXBwNnlfQW9xb1RLdU5JTTBYeGo0MVNrWHlCYTdnRE9DQ29lRzJTQVhISnNBcGZ6b1l4MEhzNTNwZkxuZzlTc1NFV09WMUFjZzJTVW1HX3AweUlMTzhuazIzQnhEakRySHU3Q2tsYkszYlZIRkdNQXhMU1BFc09RQkxObQ",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0g4WUM0RU40WWh2V3N6dXY5UTlqdnJGSzBjbGZJRURLLXA2MHZWVFR2cEFYSGE1ckRDY0tMazBPVXZoM3hDN3VoRlpiT2EzTW96TXJaRHpvQ2Q5c3plSTZUbjhZZFZXT3pZaFZUQW5QamM5bnBPcTJTY2RQQ2YyRG9YXzNUeXE5QjY2VEUyZEdZaDZDdDZ0VQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVlZbF9NVjFDWEl3ZlhxMEJlRW1YNExNRUVsR3BQb2dhbWQ1S0RPeWczaUVhb3NUZGpBcUtxOWlDYUlidkI3cUpma3MzVFNwd0tvaTlRZk90TDQ3dzNzWkhRZ0tTWUQzeUI2aWJoTko0cjBRMXhiQThEa3hrQWQ2WjUxYi1uajJOcVFmbXoyUUNNQ0JzdzVWUk01RQ",
@@ -147,51 +146,12 @@
     "https://twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production",
     "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/air/usaf-confirms-bombers-could-have-a-major-air-to-air-combat-role",
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
     "https://twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Уряд спростив правила будівництва підземних об’єктів для оборонних підприємств",
-      "original_title": "В Україні спростили правила будівництва підземних цехів для оборонних підприємств",
-      "summary": "Новий механізм дозволяє приватним інвесторам власним коштом зводити захищені підземні виробничі приміщення та передавати їх оборонним підприємствам у власність, оренду або користування. За умовами, щонайменше 25% площі кожного об’єкта має бути виділено під потреби оборони, а строки та порядок передачі регулюються договорами між інвесторами й оборонними підрядниками. Це має прискорити створення критичних виробничих потужностей і підвищити стійкість оборонного комплексу в умовах війни.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/pidzemni-pidpryyemstva-opk-novi-pravyla",
-      "published": "2026-10-22T10:14:09+00:00"
-    },
-    {
-      "title": "Велика Британія закликала до посилення боротьби з торгівлею людьми в ОБСЄ",
-      "original_title": "Tackling human trafficking through cross-border, digital and financial co-operation: UK statement to the OSCE",
-      "summary": "Велика Британія через заступника посла Джеймса Форда у заяві до ОБСЄ закликала посилити міждержавну, цифрову та фінансову співпрацю у боротьбі з торгівлею людьми, підкресливши її зв’язок з організованою, кібер‑ та фінансовою злочинністю, а також потребу у ресурсах та жертво‑центричному підході.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/tackling-human-trafficking-through-cross-border-digital-and-financial-co-operation-uk-statement-to-the-osce",
-      "published": "2026-10-22T10:15:00+00:00"
-    },
-    {
-      "title": "Британія заявляє про необхідність поваги до суверенітету України",
-      "original_title": "Genuine dialogue requires respect for Ukraine’s sovereignty: UK statement to the OSCE",
-      "summary": "Британський делегат Джеймс Форд заявив, що для справжнього діалогу потрібна повага до суверенітету України. У заяві, адресованій ОСЄ, він засудив російські масові удари, наголосив на територіальній цілісності та демократичних виборах України, закликав до діалогу і підкреслив, що діалог можливий лише при повазі до суверенітету.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/genuine-dialogue-requires-respect-for-ukraines-sovereignty-uk-statement-to-the-osce",
-      "published": "2026-10-22T10:27:34+00:00"
-    },
-    {
-      "title": "Індія та Польща домовилися подвоїти товарообіг до 2030 року",
-      "original_title": "India, Poland agree to double bilateral trade by 2030 - IANS LIVE",
-      "summary": "Індія та Польща домовилися удвічі збільшити двосторонню торгівлю до 2030 року. Стаття містить лише заголовок, тому не відомо ні поточного обсягу товарообігу, ні базового року, ні конкретних механізмів чи галузей. Наслідок для ринків поки обмежений: це політичний орієнтир, а не юридично зобов'язальна угода. Він може посилити торговельні зв'язки Індії з ЄС, але оцінити ефект без додаткових цифр неможливо.",
-      "source": "Коридори · IMEC",
-      "publisher": "IANS LIVE",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0V6a1F6NmJsRVR2bTBDRTJBaklXekxJYXA0X0tRbUowYXZuUTNXQ2hZOENleWl5UV9FVS1KbkJwczk3Q0ZBZjlzODlEMTF2M3RYTDBOemZsbHdlX0FWcXZKNXdQRno1N1Q5WU04LTJYZzdKZ1djSmowbzdpX2JKc29ZY2JoYVV4SlBJZkVObFBrdw",
-      "published": "2026-10-22T10:34:00+00:00"
-    },
     {
       "title": "Повернули тіла 252 загиблих на війні в Україну",
       "original_title": "В Україну повернули тіла 252 загиблих на війні",
@@ -1253,6 +1213,16 @@
       "published": "2026-10-23T13:29:33+00:00"
     },
     {
+      "title": "Білий дім: Росія й Україна домовилися про локальне припинення вогню в Олешках з 29 жовтня",
+      "original_title": "Росія та Україна домовилися тимчасово припинити бойові дії в Олешках — Білий дім",
+      "summary": "У повідомленні немає даних про техніку чи озброєння. Йдеться про локальний режим припинення вогню в межах одного міста для доставки гуманітарної допомоги та евакуації цивільних. Інформація походить із заяви Білого дому, а підтвердження від Києва чи Москви у тексті не наведено. Військовий вплив, імовірно, буде обмеженим і залежатиме від того, як сторони дотримуватимуться режиму, адже механізми контролю в матеріалі не описані.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
+      "published": "2026-10-23T13:53:51+00:00"
+    },
+    {
       "title": "Саудівська Аравія розширює завод балістичних ракет: дослідники припускають випуск потужніших ракет",
       "original_title": "Saudi missile plant expansion may produce more powerful missiles, study says",
       "summary": "За аналізом супутникових знімків Planet Labs (квітень 2025 — вересень 2026), на комплексі аль-Дувадімі поблизу Ер-Ріяда з'явилася нова будівля з ямами для заливання твердого палива, щонайменше вдвічі більша за наявну, а також друга споруда, імовірно для зберігання компонентів палива чи готових вузлів. Дослідники FPRI вважають, що це свідчить про підготовку до випуску більших твердопаливних ракет із більшою дальністю або вагою боєголовки; експерти також вказують на ймовірне використання китайських технологій. Це можна оцінювати лише як припущення за відкритими даними, офіційних підтверджень нем",
@@ -1373,6 +1343,16 @@
       "published": "2026-10-23T15:10:00+00:00"
     },
     {
+      "title": "Дрони та повітряні кулі змусили закрити всі чотири аеропорти Москви, скасовано понад 340 рейсів",
+      "original_title": "Українські дрони та повітряні кулі паралізували всі аеропорти Москви",
+      "summary": "За повідомленням Росавіації, Внуково, Домодєдово, Шереметьєво та Жуковський були закриті для прийому й відправлення літаків. За даними аналітиків Exilenova+, на Москву йшли повітряні кулі з підвісами, імовірно з вибухівкою або малими дронами, а один безпілотник літакового типу впав на території Шереметьєво. Це вже п'ятий подібний випадок за жовтень. Повторні закриття повітряного простору навантажують російську ППО та цивільну авіацію, а рейси доводиться перенаправляти до Санкт-Петербурга, Нижнього Новгорода, Мінська та Баку. Характеристики дронів і куль у джерелі не наведені, дані про вміст пі",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/paralizuvaly-vsi-aeroporty-moskvy",
+      "published": "2026-10-23T15:28:41+00:00"
+    },
+    {
       "title": "Norsk Hydro попереджає про зростання витрат на виплавку",
       "original_title": "Norsk Hydro flags higher smelting costs after quarterly profit miss - Mining.com",
       "summary": "Norsk Hydro повідомила про вищі витрати на виплавку після того, як квартальний прибуток не виправдав очікувань. У доступному тексті немає цифр: розміру прибутку, прогнозу витрат і причин їх зростання. Сам факт показує тиск на маржу одного з великих виробників алюмінію. Якщо подорожчання виявиться загальногалузевим, воно може підтримати ціни на метал і посилити інфляційний тиск у ланцюгах постачання. Оцінювати масштаб ефекту поки зарано, бо бракує даних.",
@@ -1471,6 +1451,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
       "published": "2026-10-23T17:28:19+00:00"
+    },
+    {
+      "title": "Кабінет Міністрів скасував 100% бронювання працівників ОПК та енергетики",
+      "original_title": "Оборонку та енергетику позбавили 100% бронювання",
+      "summary": "Кабінет Міністрів України закріпив нові правила бронювання, позбавивши оборонно-промисловий комплекс і енергетику права на 100% бронювання військовозобов’язаних працівників. Замість цього встановлено квоту 95 %, що дозволяє підприємствам планувати виробництво, зберігати фахівців і запобігати зловживанням. Зміна має потенційно зменшити ризик надмірного навантаження на критичну інфраструктуру, але може ускладнити забезпечення безперебійної роботи у випадках надзвичайних потреб.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/opk-ta-energetyku-pozbavyly-100-bronyuvanna",
+      "published": "2026-10-23T17:45:13+00:00"
     },
     {
       "title": "Російський загін «Спарта» запустив 100 дронів «Ланцет», уразив лише три цілі",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlJzN0dWUlVVUmdSS1VCWWxaLWk2QVZ0SHgyX08ydFVib2xwaElVQWtWZDYxMVFmM2thcGNHdlhCT0V2eUZlaGZyVHNUeWZzWU5rVDQzSFNPUzZfRy1VRDV5d3Vyc21hbzl5dkhEc2R5U2dNRnlwc3FvUTZTVWhVaG5tVjI1TExJY3VxZ0J5ay1yWlc1ektKck15Zw",
       "published": "2026-10-24T00:22:30+00:00"
+    },
+    {
+      "title": "Bunker Talk: обговорення тижневих подій та огляд підземного контрольного пункту Oscar‑1",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "У цьому пості «Bunker Talk» спільнота обговорює події тижня, включаючи фото підземного приміщення управління запуском ракетного комплексу Oscar‑1, збудованого у 1963 році. Об’єкт складається з наземного будинку підтримки та двох підземних бетонних підсилених сталевих коконів – центру управління запуском і будинку обладнання, з’єднаних тунельним переходом. Хоча це лише історичний огляд, він підкреслює важливість збереження технологічної спадщини систем стратегічного ядерного стримування США.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
+      "published": "2026-10-24T00:57:14+00:00"
     }
   ]
 }

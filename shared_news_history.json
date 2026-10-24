@@ -35,6 +35,7 @@
     "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
     "https://militarnyi.com/uk/news/data-tsentr-podatkovoyi-u-nyzhnogorodskij",
+    "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
     "https://militarnyi.com/uk/news/estoniya-otrymala-rakety-gmlrs-pislya-pauzy-v-postachanni-zi-ssha-cherez-vijnu-z-iranom",
     "https://militarnyi.com/uk/news/finlyandiya-anonsuvala-paket-vijskovoyi-dopomogy-ukrayini",
     "https://militarnyi.com/uk/news/frantsiya-zamovyla-chotyry-zrk-samp-t-ng",
@@ -51,11 +52,12 @@
     "https://militarnyi.com/uk/news/sparta-vypustyv-100-bpla-lantset",
     "https://militarnyi.com/uk/news/studenty-shhonajmenshe-40-navchalnyh-zakladiv-rf-vyroblyayut-drony",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
-    "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
     "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
+    "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/u-yaponiyi-zagorivsya-ukrayinskyj-an-124",
     "https://militarnyi.com/uk/news/ukrayina-iceye-ta-nokia-domovylysya-pro-rozrobku-suputnykovogo-zvyazku",
+    "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/v-orli-rakety-vdaryly-po-zavodu-proton",
     "https://navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box",
@@ -132,16 +134,6 @@
     "https://twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Трамп попросив Маска скасувати обмеження Starlink для України",
-      "original_title": "Трамп попросив Маска скасувати обмеження Starlink для України — WSJ",
-      "summary": "Президент США звернувся до Ілона Маска з проханням скасувати обмеження роботи Starlink‑Starshield, що обмежувало швидкість терміналів до 72 км/год. Після дзвінка обмеження частково зняли, що покращило зв’язок для українських дронів і безпілотників, але повне відновлення ще не досягнуто. Це підвищує оперативну мобільність та ефективність ударних дронів на фронті.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/tramp-poprosyv-maska-znyaty-obmezhennya-starlink-dlya-ukrayiny",
-      "published": "2026-10-22T18:46:45+00:00"
-    },
     {
       "title": "Данія купуватиме ракети Kongsberg та Covenant для нових далекобійних ударних можливостей",
       "original_title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
@@ -1393,6 +1385,16 @@
       "published": "2026-10-24T10:49:29+00:00"
     },
     {
+      "title": "На Філіппінах зіткнулися два навчальні літаки SF-260, загинули четверо льотчиків",
+      "original_title": "Два військові літаки SF-260 зіткнулися на Філіппінах — загинули чотири льотчики",
+      "summary": "Літаки SF-260 зіткнулися 23 жовтня на авіабазі Фернандо в провінції Батангас під час відпрацювання групового прольоту, обидва впали в межах периметра бази. SF-260 — двомісний одномоторний навчально-тренувальний літак італійської компанії SIAI-Marchetti, який на Філіппінах використовують для початкової підготовки пілотів, а озброєні модифікації застосовували для ударів по наземних цілях. Командування призупинило польоти всього парку SF-260 до завершення розслідування, тому на час перевірки може сповільнитися початкова льотна підготовка, а можливості легкої ударної авіації тимчасово зменшаться.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
+      "published": "2026-10-24T10:56:53+00:00"
+    },
+    {
       "title": "Перший американський зруйник вступає в фазу 2 модернізації DDG MOD 2.0",
       "original_title": "First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization",
       "summary": "USS Pinckney, клас DDG-73, отримав нові радіолокаторі SPY‑6, що розширюють радіус виявлення та можливості протиповітряної оборони. Цей крок підвищує здатність флоту реагувати на зростаючі глобальні загрози, забезпечуючи кращу інтеграцію в мережеву систему управління. Розширена сенсорна платформа дозволяє ефективніше координувати дії з іншими кораблями та авіаційними засобами.",
@@ -1423,6 +1425,16 @@
       "published": "2026-10-24T12:15:33+00:00"
     },
     {
+      "title": "Україна ввела санкції проти російських компаній, що забезпечують ракетну техніку",
+      "original_title": "Україна запровадила санкції проти осіб і компаній, які забезпечують виробництво балістики в РФ",
+      "summary": "Указ президента Володимира Зеленського включив 79 компаній і 83 особи до санкційних списків. Список охоплює виробників ракет «Іскандер», «Калибр», Х‑101, «Кинджал» та постачальників обладнання для авіації, бронетехніки і безпілотників. Ці заходи обмежують доступ Росії до ключових технологій, що може знизити її ракетну і авіаційну продуктивність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
+      "published": "2026-10-24T12:17:06+00:00"
+    },
+    {
       "title": "Палестинська влада закликає до міжнародного тиску щодо атаки в Геброні",
       "original_title": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
       "summary": "Палестинська влада, через Міністерство закордонних справ, закликала міжнародну спільноту до тиску на Ізраїль після того, як ізраїльські сили примусили понад 1 500 осіб переселитися з їхніх домів у Геброні. Вони вимагають конкретних заходів, що перевищують лише засудження.",
@@ -1431,6 +1443,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
       "published": "2026-10-24T12:29:06+00:00"
+    },
+    {
+      "title": "У Росії загинули два досвідчених льотчики пілотажної групи «Русские витязи»",
+      "original_title": "У Росії заявили про загибель льотчиків пілотажної групи «Русские витязи»",
+      "summary": "22 жовтня (за даними amic.ru) під час навчального польоту авіаційної групи «Русские витязи» стався авіаінцидент, внаслідок якого загинули полковник‑пілот Олег Єрофєєв (3300 годин льотного досвіду) та підполковник‑пілот Володимир Кочетов (1500 годин). Обидва керували винищувачами Су‑30СМ, Су‑35С та іншими типами, що свідчить про втрату цінних досвідчених екіпажів і може знизити бойову готовність групи, яка часто залучається до бойових завдань.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
+      "published": "2026-10-24T12:44:53+00:00"
     }
   ]
 }

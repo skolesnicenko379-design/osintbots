@@ -26,6 +26,8 @@
     "https://militarnyi.com/uk/news/kytaj-imovirno-pochav-vyroblyaty-kj-3000",
     "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
     "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
+    "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
+    "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
     "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
@@ -61,7 +63,6 @@
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUVpOUjJsWDhGZjlXSWs0OGpVU2x5N3F4WS1zWFlqcTM0LUpjYi05UllUNVpzV3hmSG5GckZiNTNkQlUxOVZINEtWOHBvQ0RaMTMyMVNmQndHTFZmWG1TQzFubk1xQUpNUzhhMjdjZ2d4OF9PcEpMMzllY25UTWtMRFFvUHI3OFlETml3V1pfVnlHdjlwcld2c1k5aVdLdzQyTzY0ZVVqXzlGc2MtQlNIcmplMTJKbm8zNVBSUGdxcGlacG5Gc1ZMY3VoSU5Ud3l2OGxTLVVzZjN3dTRXV2kybHpVem5LTmdFUXNZbmpKOVJQZ0l6cDY3M1VXbFI",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRnpTU3JGd2NRUDNYRk5kMDBSYXplOHQ1NGhWRnlTSG40WHhybnNmZ1lQWVJFc1NiaE1KaDg5U3NBZHVXSkZ4M3hQTXE5T2NYUFlyWUNRNFZETE5Fb0xGeTZQZXBtcTBzNjFRWG1GT1BJdVlSLXc",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2ZPbnhxeGFnNDR6bjExMGtRLVpKNGtaV19QUXF6d21wUzhsMlBUQV9PdFlURndWTHg0WENPSFZJR0dhSDFTakJXbzVwN0c2ZnNOdmc5YXJ4T0NDQUQwLV9FLUQ5NnhRM05uQUdKUG44Si1Fd0Y1TEREZE1zSWJSRWk2MzJIWDZLVXQxVjZDRQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkMzdEhmMzlCeUt4NGtwa21ld0FwaFpwakxpTEc1OC1OUW80bk1OMFA5VmR6OVNRMGg0STJmUlRPaldlRjQ3YTl5akllX0l1OW1FQXlxS3N2X0VjVGFrOUVxU0lNcjdGR0EwLUNMdnBUajdNbE1vazZCTTFaY3AtZTAtOTgyVldkZEVnRF9NcFgybC1nMXU4",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGlJckdULWtiOWgxRDhSYVEyY3V2cEw2UTFjREs2MzNPYk11RzRpRVZHTGstYU5nQ3N3VTloQTNxc2V3b2VQZ1BpVzZpMG1wejQ2d1JWTFZKcFZkWXdHM1JnLUU3ZUtrR2RnUWhiQU9LaFMzN1hUYVFYTUtfeHFZbEhhWXMzYjRoZktSQ0lLRkhkY1JTMDNaVW8zMDZGUQ",
@@ -89,19 +90,10 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQk9hM0V6YUJNS3NXQ2loRFRzejJ6WkdCR0dLaGx5akJEM005TTE5emdNU1dQeUZlal9wNmVMODhsSVBQUnJMT2o3cHJ4b0NhVk1GNU5nQ2FiRUFMOGN4SVM5QTRvekN1ZmFFQ3ZGUDdmOWJqTXBEODNWYmxxZWhtbTFoMDBzaUk2TUFIZERYTkcteXJxLTNWSHJkaVBHc1dHem12SnZfaGdDUmZ3V2pKSHdQNktHZWowTFJxVVBTVWpkLU41",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3YyZFBZYzNOS3pWMUE2eEdHczN2SWtSRUo0M21wQldWRnBkbUF3cW1jUzVYODZ5UVlqN0J1eWJtLUd5RUZDTjFuaFJfeGZNdG1OdFJlRGVoNTBGRXgyQURfMndCTzlXZDJOcHFVMlBSZHJxaHlxbExoamJmR1ZOalA5MV9jYlgxaWdEem9zT285M0ZUMl82a0RYTk9GdjUzYUpiRlVQRy1nLWpBNmNzMVNVRWJsRDBrazVqR0xZaUJyb29QUHN3UFhR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXkxR2FBdHQ4MFEzTUtDT0pHXy1lOXRhWjk0RkxJZWcyUndnb0FhTXdpVHJSMFVsNEFNUlp6cGhGdUxjenZFV2xOUDBDRzMydXZiOTNlSFVLNlhyeTFya3lIZnFqTmQ5bzlRbXpsSVRpbWlfMzU5YWcwU0ltdi1VUWNVeFlFZVg2amZrZEFZRXNxd1QxZHYxWkdpZGdITk1KZUYyNl9tNHd3ejBpUDFDM1JOZ3E2VVRabm01THh6YUM4c1Z3Z0k4VzF0SQ",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212"
   ],
   "recent_posts": [
-    {
-      "title": "Corn Falls, Soybeans Rise on China Demand",
-      "original_title": "U.S. Grain Markets Close Mixed as Corn Falls and Soybeans Gain on China Demand - AgroLatam",
-      "summary": "У США ціни на кукурудзу знизилися, тоді як соя зросла завдяки попиту з Китаю. Падіння кукурудзи може обмежити ліквідність на ринку зерна, зменшуючи обсяги торгів. Зростання цін на сою підвищує доходи експортерів, що підтримує валютний потік у вигляді американського долара. Ці зміни впливають на баланс поставок і валютний баланс США.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "AgroLatam",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2ZPbnhxeGFnNDR6bjExMGtRLVpKNGtaV19QUXF6d21wUzhsMlBUQV9PdFlURndWTHg0WENPSFZJR0dhSDFTakJXbzVwN0c2ZnNOdmc5YXJ4T0NDQUQwLV9FLUQ5NnhRM05uQUdKUG44Si1Fd0Y1TEREZE1zSWJSRWk2MzJIWDZLVXQxVjZDRQ",
-      "published": "2026-10-24T00:43:49+00:00"
-    },
     {
       "title": "Bunker Talk: обговорення тижневих подій та огляд підземного контрольного пункту Oscar‑1",
       "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -693,6 +685,16 @@
       "published": "2026-10-25T05:53:00+00:00"
     },
     {
+      "title": "Defense Express: як скоротилися донати на поточну допомогу війську",
+      "original_title": "Невидима інфраструктура війни: як скоротилися донати на поточну допомогу війську - Defense Express",
+      "summary": "У наданому матеріалі є лише заголовок, без цифр, періоду чи назв фондів, тому масштаб скорочення донатів оцінити неможливо. Йдеться про «невидиму інфраструктуру війни», тобто про поточне забезпечення підрозділів, яке значною мірою залежить від волонтерських зборів. Якщо спад підтвердиться даними, це може вплинути на постачання витратних матеріалів, але без деталей першоджерела робити висновки про конкретні наслідки зарано.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE",
+      "published": "2026-10-25T06:53:00+00:00"
+    },
+    {
       "title": "Італія замовила 30 танків NMBT на базі KF51 Panther і 48 машин Lynx на €3,7 млрд",
       "original_title": "Італія замовила танки на базі KF51 Panther та бронемашини Lynx на €3,7 млрд",
       "summary": "Спільне підприємство Leonardo Rheinmetall Military Vehicles отримало два контракти: на 30 танків нового покоління NMBT, розроблених на основі демонстратора KF51 Panther, та 48 гусеничних машин на платформі KF41 Lynx за програмою A2CS. NMBT мають замінити застарілі Ariete, а Lynx — піхотні бойові машини Dardo. Загалом Італія планує закупити близько 132 танків і 1050 машин сімейства Lynx у десяти варіантах, а частка локального виробництва має сягати близько 60%. Це суттєво оновить броньований парк італійської армії та зміцнить спільну європейську оборонно-промислову базу. Джерело не наводить дет",
@@ -991,6 +993,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
       "published": "2026-10-25T16:30:47+00:00"
+    },
+    {
+      "title": "Навколо резиденції Путіна на Валдаї збудовано понад 50 позицій ППО",
+      "original_title": "Резиденцію Путіна оточили понад 50 турелями ППО",
+      "summary": "У жовтні російські війська встановили ще 16 веж ППО, що підвищило загальну кількість оборонних пунктів у районі до понад 50. За даними розслідування, вежі призначені для розміщення комплексів «Панцирь‑С1» або «Тор», що забезпечують зенітно-ракетну та зенітно-гарматну оборону. Нове зовнішнє кільце ППО посилює захист резиденції, проте його ефективність обмежується низькою щільністю населення в регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
+      "published": "2026-10-25T17:10:29+00:00"
+    },
+    {
+      "title": "Сербія презентувала 203‑мм самохідний міномет TSMB M-25",
+      "original_title": "Сербія вперше показала стрільби з важкого 203-мм самохідного міномета TSMB M-25",
+      "summary": "Сербія оголосила про перший показ важкого 203‑мм самохідного міномета TSMB M-25, розробленого Військово‑технічним інститутом. Міномет має ствол довжиною 24 калібри, 6‑12 км дальність, можливість вести до трьох пострілів за хвилину і оснащений інерціально‑навігаційною системою. Це значно підвищить артилерійські можливості Сербії та зміцнить її оборонну промисловість у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
+      "published": "2026-10-25T18:21:05+00:00"
     }
   ]
 }

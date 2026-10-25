@@ -32,7 +32,6 @@
     "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
     "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
-    "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
     "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
     "https://militarnyi.com/uk/news/opk-ta-energetyku-pozbavyly-100-bronyuvanna",
@@ -46,6 +45,7 @@
     "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
+    "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
@@ -105,16 +105,6 @@
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Іран представив ударний дрон Arash‑3 з бойовою частиною до 150 кг",
-      "original_title": "Іран представив новий дрон Arash-3 із бойовою частиною до 150 кг",
-      "summary": "Arash‑3 отримав збільшену масу бойової частини до 100–150 кг, впроваджено ШІ‑наведення та реактивний двигун. Дрон оснащений GPS‑незалежними навігаційними системами, має крейсерську швидкість близько 100 км/год і потенційну дальність польоту кілька тисяч кілометрів, що підвищує його тактичну дієздатність.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/iran-predstavyv-novyj-dron-arash-3",
-      "published": "2026-10-23T13:04:34+00:00"
-    },
     {
       "title": "BMI: тиск Китаю на рідкісноземи зближує Японію із Заходом",
       "original_title": "Mounting Chinese rare earth pressures force Japan to strengthen partnership with Western partners, BMI reports - Mining Weekly",
@@ -1134,6 +1124,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
       "published": "2026-10-25T05:50:49+00:00"
+    },
+    {
+      "title": "Польські війська завершили пошук невідомого літального об’єкта біля Любліна",
+      "original_title": "У Польщі не знайшли слідів невідомого об’єкта, який могли помітити поблизу Любліна 18 жовтня",
+      "summary": "Протягом шести днів понад 30 військових підрозділів ТЗО та вертоліт обстежували околиці водосховища та трасу S19, проте не виявили жодних слідів об’єкта. За словами польського ОК ЗС, немає підтверджень порушення повітряного простору, а можливі пояснення включають метеорологічні явища або провокації. Відсутність доказів знижує ризик ескалації, проте інцидент підкреслює потребу у постійному моніторингу повітряного простору на кордоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
+      "published": "2026-10-25T05:53:00+00:00"
     }
   ]
 }

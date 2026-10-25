@@ -28,15 +28,17 @@
     "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
     "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/rf-peredala-kytayu-rozrobky-chovniv",
-    "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
+    "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
     "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
+    "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/vmf-rosiyi-znyk-iz-seredzemnogo-morya",
+    "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
     "https://navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
@@ -90,16 +92,6 @@
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Російський ударний дрон «Герань‑4» впав біля енергетичного об’єкта в Молдові",
-      "original_title": "Російська «Герань-4» впала поблизу енергетичного об’єкта в Молдові",
-      "summary": "У Молдові, у селі Кіштелніца, ударний дрон «Герань‑4» впав на відстані менше 100 м від житлових будинків і енергетичного об’єкта, ймовірно після зіткнення з деревом. Дрон, розроблений як швидкісний крилатий безпілотник, у більшості складається з американських електронних компонентів, що свідчить про складну ланцюгову постачань. Подія підтверджує здатність російської безпілотної техніки діяти за межами України, створюючи загрозу критичній інфраструктурі в регіоні.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
-      "published": "2026-10-23T18:55:12+00:00"
-    },
     {
       "title": "Київ розглядає купівлю «суверенних» супутників зв'язку від ICEYE та Nokia",
       "original_title": "Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats",
@@ -951,6 +943,26 @@
       "published": "2026-10-25T11:04:18+00:00"
     },
     {
+      "title": "США заборонять в’їзд китайських авто BYD на авіабазу Кадена в Японії через ризик витоку даних",
+      "original_title": "США заборонять в’їзд китайських автомобілів BYD на авіабазу в Японії",
+      "summary": "Обмеження охоплюватиме не лише приватні авто, а й транспорт підрядників, таксі та службу доставки. Причина — камери й датчики сучасних електромобілів, що можуть збирати дані про розташування та роботу об’єктів, зокрема 18-го авіакрила, літаків KC-135, E-3 і F-35A, а також ракетної системи Typhon. Якщо заборону поширять на Футемму та бази в Південній Кореї, це посилить контррозвідувальний захист американської інфраструктури в Індо-Тихоокеанському регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
+      "published": "2026-10-25T11:09:00+00:00"
+    },
+    {
+      "title": "Росія завдала ракетного удару по заводу «Энергия» в Єльці",
+      "original_title": "Виготовляє батареї до «Искандер»: ЗСУ завдали ракетного удару по заводу «Энергия»",
+      "summary": "Сили оборони України влучили кілька крилатих ракет у завод «Энергия», що виробляє елементи живлення 9Б280-1 для ракет 9М727 «Искандер-К» та батареї 9Б-287 для авіабомб УМПБ Д-30СН. Удар спричинив тимчасову зупинку виробництва критичних компонентів для російського ракетного комплексу, що знижує його бойову готовність. Таке втручання підсилює стратегічну перевагу України у сфері протидії російським ракетним загрозам.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
+      "published": "2026-10-25T11:35:51+00:00"
+    },
+    {
       "title": "ЄС розглядає пом'якшення санкцій щодо китайського виробника тканин",
       "original_title": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia - The Star",
       "summary": "Євросоюз розглядає можливість пом'якшити санкції щодо китайського виробника тканин, якого звинувачують у допомозі Росії. У заголовку немає назви компанії, обсягів торгівлі, умов і термінів, тому масштаб рішення поки не можна оцінити. Якщо рішення ухвалять, це сигналізуватиме про можливий перегляд санкційного тиску на китайські компанії та про гнучкіший підхід ЄС. Для ринків і торгівлі ЄС–Китай це важливо як індикатор жорсткості контролю над обходом санкцій, але кількісний вплив залежатиме від подальших деталей.",
@@ -969,6 +981,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOV0lUeGFqNldEempvNGM3YllYbmlyUGp6R3RrMWVVZEJfOUtEb1o5R1FOU3dMaEJLbktMXzh6R3pZODdaUDJtLVVOdUZrSUd2bU5rMm1pdUtuVG9OakJ1YWpuNGtmTzNQUzJFM0sxSHZFTkNMMkQ4M25HNkNfUUo2ak9JNmY0aldJMzIwRWhYUHVEdmhvLUNESndSa0FnRHZzWXRHZTBITHJ5dDV2M0xnMWJMdE1oZmJTUVFBOEhEdjRmckJxRW9OUTFzY18wZUR6UHg2bjlDZ2V1NXN4VmxNMWk0VmZkZno0RmhhUzhYQWU5cF9VLWRta3dpeWN3LU5rSGpmZEtidXhGNVVfQlB0TnJYQll1YWJzcTZiekE5bklyeE5nV0FJ",
       "published": "2026-10-25T12:33:25+00:00"
+    },
+    {
+      "title": "У Росії спущено на воду корвет «Грозний» проєкту 20380",
+      "original_title": "У Росії спустили на воду корвет «Грозный» проєкту 20380",
+      "summary": "На Амурському суднобудівному заводі ввели в експлуатацію п'ятий серійний корвет «Грозний» проєкту 20380, дев'ятий усього за програмою. Це багатоцільовий корвет з керованим ракетним озброєнням, здатний діяти у далекій морській зоні, протидіяти надводним і підводним цілям та підтримувати десант. Після випробувань корабель планується передати Тихоокеанському флоту, що підвищить його вогневу потужність у Тихоокеанському регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
+      "published": "2026-10-25T12:43:20+00:00"
     }
   ]
 }

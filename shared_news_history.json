@@ -2,7 +2,6 @@
   "links": [
     "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
     "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
-    "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
     "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
@@ -13,7 +12,9 @@
     "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
     "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
+    "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony",
     "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
+    "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
     "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
@@ -21,7 +22,9 @@
     "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
     "https://militarnyi.com/uk/news/italiya-zamovyla-bronetehniku-u-nimechchyny",
     "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
+    "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
     "https://militarnyi.com/uk/news/kytaj-imovirno-pochav-vyroblyaty-kj-3000",
+    "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
     "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
     "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
@@ -84,31 +87,10 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUUyZHJ0Mkx3TXIwS2l1TUxobU82RHNUX1NiUzU2dGZyb3l0d09PT3VYOWZuWU5ybEwzXzVudjdWUXRLN2VoZTZvWEJxdlk5dTlFNGtUYmJ6aHdDMFc1NDlySENkZmUtNnJkTHBCdVRjYTc5UmppNlVtV2I3Tk1RdXltalAwbk5rUDFMSnhMWEtrU210UFZrcV8wMHlhQm9rN2hQbk9sa19JakpnWldlclV4Y2phZ19fTlBMRUdfaWJlZnJvVmdHeVZR",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3YyZFBZYzNOS3pWMUE2eEdHczN2SWtSRUo0M21wQldWRnBkbUF3cW1jUzVYODZ5UVlqN0J1eWJtLUd5RUZDTjFuaFJfeGZNdG1OdFJlRGVoNTBGRXgyQURfMndCTzlXZDJOcHFVMlBSZHJxaHlxbExoamJmR1ZOalA5MV9jYlgxaWdEem9zT285M0ZUMl82a0RYTk9GdjUzYUpiRlVQRy1nLWpBNmNzMVNVRWJsRDBrazVqR0xZaUJyb29QUHN3UFhR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXkxR2FBdHQ4MFEzTUtDT0pHXy1lOXRhWjk0RkxJZWcyUndnb0FhTXdpVHJSMFVsNEFNUlp6cGhGdUxjenZFV2xOUDBDRzMydXZiOTNlSFVLNlhyeTFya3lIZnFqTmQ5bzlRbXpsSVRpbWlfMzU5YWcwU0ltdi1VUWNVeFlFZVg2amZrZEFZRXNxd1QxZHYxWkdpZGdITk1KZUYyNl9tNHd3ejBpUDFDM1JOZ3E2VVRabm01THh6YUM4c1Z3Z0k4VzF0SQ",
-    "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Boeing-дочірня Spirit Defense допоможе General Atomics нарощувати виробництво дронів FQ-42A Vengeance для CCA",
-      "original_title": "General Atomics FQ-42 CCA Drone Production Ramp Up To Be Boosted By Boeing Subsidiary",
-      "summary": "General Atomics залучила Spirit Defense як партнера з проєктування та виготовлення фюзеляжу FQ-42A, щоб збільшити виробничі потужності та зменшити ризик єдиних точок відмови. Це відповідає заявленій меті ВПС США мати щонайменше 500 CCA до 2032 року, причому цей парк складатимуть FQ-42 і FQ-44A Fury від Anduril в рамках Increment 1. Промислова кооперація такого типу потрібна для досягнення амбітних темпів і обсягів програми, проте в наведеному тексті немає даних про технічні характеристики дрона чи конкретні обсяги випуску.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/general-atomics-fq-42-cca-drone-production-ramp-up-to-be-boosted-by-boeing-subsidiary",
-      "published": "2026-10-23T20:39:25+00:00"
-    },
-    {
-      "title": "Space Force оголосила перші 6 «операційних» контрактів на цивільну резервну підтримку в космічному моніторингу",
-      "original_title": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
-      "summary": "Space Force (USSF) підписала шість короткострокових контрактів з компаніями EOS Space Systems, NorthStar Earth and Space, InTrack Radar, Anduril, Slingshot Aerospace та LeoLabs у рамках ініціативи Commercial Augmentation Space Reserve (CASR). Загальна вартість контрактів – 1,37 млн доларів, що дозволяє перевірити військовий попит на дані з супутників і розширити можливості резервного космічного моніторингу. Якщо успішно, програма може розширитися на більше компаній і нові місії, підвищуючи швидкість реагування та автономність у космічному просторі.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
-      "published": "2026-10-23T20:41:31+00:00"
-    },
     {
       "title": "GDIT призначила Емі Джонсон новою президенткою після звільнення Емі Гілліленд",
       "original_title": "GDIT announces Amy Johnson as new president",
@@ -920,6 +902,16 @@
       "published": "2026-10-25T11:09:00+00:00"
     },
     {
+      "title": "FT: у Чорному морі з початку 2026 року атакували понад 570 суден, загинули щонайменше 40 моряків",
+      "original_title": "Чорне море стало небезпечнішим, ніж Перська затока: понад 570 атакованих суден з початку року",
+      "summary": "Серед попередніх публікацій немає матеріалів про статистику атак на судноплавство в Чорному морі, тому подія нова. За даними FT, найбільше атак припало на липень–вересень (387 суден), а за оцінкою Ambrey, близько 90% атак за останні 45 днів приписують Росії. Наслідки вже помітні: через порти Великої Одеси за місяць пройшло менш ніж 10 суден проти близько 400 у липні, страхування воєнних ризиків може сягати 15% вартості корпусу, а частина компаній використовує старі судна в поганому технічному стані. Це підвищує ризик аварій і втрат екіпажів та посилює тиск на морський експортний коридор, а НАТ",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
+      "published": "2026-10-25T11:15:01+00:00"
+    },
+    {
       "title": "Росія завдала ракетного удару по заводу «Энергия» в Єльці",
       "original_title": "Виготовляє батареї до «Искандер»: ЗСУ завдали ракетного удару по заводу «Энергия»",
       "summary": "Сили оборони України влучили кілька крилатих ракет у завод «Энергия», що виробляє елементи живлення 9Б280-1 для ракет 9М727 «Искандер-К» та батареї 9Б-287 для авіабомб УМПБ Д-30СН. Удар спричинив тимчасову зупинку виробництва критичних компонентів для російського ракетного комплексу, що знижує його бойову готовність. Таке втручання підсилює стратегічну перевагу України у сфері протидії російським ракетним загрозам.",
@@ -958,6 +950,36 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
       "published": "2026-10-25T12:43:20+00:00"
+    },
+    {
+      "title": "КНДР розмістила біля кордону з Південною Кореєю САУ, імовірно 122-мм, зі стволами в бік Півдня",
+      "original_title": "КНДР розмістила 122-мм САУ біля кордону з Південною Кореєю, стволи спрямовані на Південь",
+      "summary": "Yonhap зафіксував з оглядового майданчика Егибон у Кімпхо САУ, імовірно калібру 122 мм, у прибережній частині повіту Кепхун; точний тип машин не підтверджено, а японський аккаунт KPA_bot за виглядом ствола припускає 100-мм протитанкову гармату. За оцінкою Yonhap, дальність таких систем становить приблизно 15–24 км, тому відкрите розміщення поблизу кордону загрожує прикордонним районам Півдня. За словами експерта KODEF Шін Чон У, це може бути демонстрацією сили та пов'язане із заявами Кім Йо Чжон про нові підрозділи на вогневих позиціях; реальні бойові наміри з цих даних не випливають.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
+      "published": "2026-10-25T13:09:34+00:00"
+    },
+    {
+      "title": "Нідерланди планують замінити інженерні машини Kodiak і докупити мостоукладальники Leguan разом із Німеччиною",
+      "original_title": "Лише 12 років на озброєнні: Нідерланди планують замінити інженерні машини Kodiak",
+      "summary": "Нідерланди відмовилися від модернізації 10 машин AEV 3 Kodiak (шасі Leopard 2, близько 62 т, екскаваторна стріла, бульдозерний відвал, дві лебідки, змінний мінний плуг) через застарілий захист, низьку готовність, технічну складність і тривалі строки програми MLU. Бюджет заміни та збільшення парку становить від 250 млн до 1 млрд євро, а тип нових машин ще не визначений. Приєднання до німецького контракту на модернізовані мостоукладальники Leguan може прискорити закупівлю та уніфікувати техніку з Бундесвером, посиливши здатність долати мінні поля й загородження в умовах, які показала війна в Укр",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
+      "published": "2026-10-25T14:32:59+00:00"
+    },
+    {
+      "title": "Невідомі дрони атакували Липецьк: уламки спалили автомобілі на стоянці, ураження об'єктів не підтверджено",
+      "original_title": "Для атаки на російський Липецьк застосували невідомі дрони",
+      "summary": "Тип дронів невідомий. Судячи з розмірів уламків, які опублікували місцеві жителі, апарат імовірно використовували як приманку для перевантаження ППО або для розвідки розташування її засобів. За словами губернатора Артамонова, уламки збитого БпЛА впали на автостоянку на вулиці Буніна й спричинили пожежу кількох авто. Підтверджених уражень військових чи промислових об'єктів немає, тож реальний вплив поки що обмежений, а головним ефектом може бути виснаження ресурсів ППО та виявлення її позицій.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony",
+      "published": "2026-10-25T14:39:09+00:00"
     }
   ]
 }

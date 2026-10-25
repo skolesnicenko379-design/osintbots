@@ -247,8 +247,7 @@ def get_available_groq_models():
             timeout=10,
         )
         response.raise_for_status()
-        data = response.json()        models = [
-            item["id"]
+        data = response.json()        models = [            item["id"]
             for item in data.get("data", [])
             if item.get("id") and model_is_text_generation_candidate(item["id"])
         ]
@@ -497,8 +496,7 @@ def fetch_article_details(url):
     """
     try:
         response = requests.get(            url,
-            headers=HEADERS,
-            timeout=ARTICLE_FETCH_TIMEOUT,
+            headers=HEADERS,            timeout=ARTICLE_FETCH_TIMEOUT,
         )
         response.raise_for_status()
 
@@ -527,20 +525,25 @@ def fetch_article_details(url):
                 )
             )
         )
+        container = article or soup.find("main") or soup
 
-        container = article if article else soup
+        # Таблиці, марковані переліки й підзаголовки також можуть містити
+        # технічні факти, назви, кількості, параметри та умови.
+        blocks = []
+        seen_blocks = set()
+        for node in container.find_all(["h2", "h3", "h4", "p", "li", "tr"]):
+            value = re.sub(r"\s+", " ", node.get_text(" ", strip=True)).strip()
+            if not value:
+                continue
+            minimum_length = 12 if node.name == "tr" else 28
+            if len(value) < minimum_length:
+                continue
+            normalized = normalize_text(value)
+            if normalized and normalized not in seen_blocks:
+                seen_blocks.add(normalized)
+                blocks.append(value)
 
-        paragraphs = [
-            paragraph.get_text(" ", strip=True)
-            for paragraph in container.find_all("p")
-        ]
-
-        text = " ".join(
-            paragraph
-            for paragraph in paragraphs
-            if len(paragraph) > 35
-        )
-
+        text = " ".join(blocks)
         text = re.sub(r"\s+", " ", text).strip()
 
         return text[:ARTICLE_MAX_CHARS], article_date
@@ -747,8 +750,7 @@ def is_model_dead_error(status_code, response_text):
     if status_code == 400 and (
         "model_decommissioned" in text        or "does not exist" in text
         or "model_not_found" in text
-    ):
-        return True
+    ):        return True
 
     return False
 
@@ -997,7 +999,6 @@ def analyze_with_groq(
         for post in recent_posts[-12:]:            previous_title = str(post.get("title", ""))[:150]
             previous_summary = str(post.get("summary", ""))[:250]
             previous_source = str(post.get("source", ""))[:60]
-
             lines.append(
                 f"- Джерело: {previous_source}\n"
                 f"  Заголовок: {previous_title}\n"
@@ -1247,8 +1248,7 @@ def analyze_with_groq(
                     json=retry_payload,
                     timeout=GROQ_TIMEOUT,
                 )
-                if retry_response.status_code == 429:
-                    GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
+                if retry_response.status_code == 429:                    GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
                     rate_limited_models += 1
                     print(
                         f"Groq 429 під час повторної спроби для {model}: "
@@ -1497,8 +1497,7 @@ def analyze_with_groq(
                     "Content-Type": "application/json",
                     "HTTP-Referer": "https://github.com/skolesnicenko379-design/osintbots",
                     "X-Title": "OSINT Diplomacy Bot",
-                },
-                json=openrouter_payload,
+                },                json=openrouter_payload,
                 timeout=(3, 25),
             )
 
@@ -1748,7 +1747,6 @@ def is_recent_title_duplicate(title, recent_posts):
         union = len(current_words | previous_words)
 
         similarity = intersection / union if union else 0
-
         if similarity >= 0.82:
             print(
                 "Пропущено через збіг заголовка: "
@@ -1997,8 +1995,7 @@ def main():
 
             history["recent_posts"].append({
                 "title": result["title"] or entry["title"],
-                "summary": result["analysis"][:500],
-                "source": entry["source"],
+                "summary": result["analysis"][:500],                "source": entry["source"],
                 "publisher": entry.get("publisher", ""),
                 "published": entry["published"].isoformat(),
             })

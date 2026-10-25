@@ -788,23 +788,14 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmxOblpwTEZKWVhoSEVteWZ1X0tqSzBjRERMeDVhOFQ4UUU4V01LNkZKeGZnWDBLS3lqVUxEWjhtNl9BNEI0V0hRQVE2M01yX3RUM3dHQTN3c3J0Q0NZRW1nb1hld3h1aEdscERtQWZhc0ViTzVqQWYyNmgwUGtKMS1vLWViblNQTXlvZGtrSm9KWE9OMDFyVjBldkdRZTRvMzhNYndMdldMVXBl?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0o3OU0wZ1RyWHZDYWpYWFVHM3FtQ2pRWTBhM19IZDhuOThOS2NoOW9tSFpoVjNLUUhkYk1ISi0tWnNUQm9nODVMN29ZdU16X0pNQ25XcDNkR3lhUnJkYnJzUUFiYUNmcjZHbUFEUW44YnBFOGgyUmt5SWd1VVVzdWwtRlYwSUVUU3FOVHpiNXl0Nk5zd1IzaWd0Mk51RXRGeFExbEdESUFCQlROWWF2ZUpjMWRJNTJvWFVUMW1uenZJdzRaTExBN00wRWtHTGRNSXpOSmlaYw?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONW5RUzEwbGdsa2EzakdwZ0JwOHhkMEl6eEpnZzk1YXE4c3Njb2JVN3BiaU8tbXZBLXRvYzd3bjRCT1E5ZGxzZnNzZ1AwV0gzbHBaVkxnNjEyd3NPci1hLXl1cWpoRE1lR3RaSEJYVFRZZi1CWjJVYk1JRUxFVzZuUlZkTUV0ZkVMTE80enJnZ2VtSWQtbFRoYzlRLU5OdTlzT005Mk13QlZuNXNLZ1FxZXdiLU0zbzZjbko5YzNxbHplYnNWZTVOWENacnp6Ti1QVjZuVHpwcmVwXzlPMlEzNDc4OA?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v?oc=5"
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2dmaERiN0Jnb0xqNllwRm4xVFNmOW9aQVFZNWtGY2U2eWpnaXFoNUlVVVJYbUgtTTJ5dWVDcG80azV1Nk94TnZFOHM1MFBSZFVQYWZva0N2WUdRNWZwVXVEZlVpa1RxUm5HejkzcHh4Z1dJSGdNbWpuN0NMQkxUZzZZSnhqakJzSF9mQlBmcklTMzB3MFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0pHWm9EcWpqTTNZdkt5RnlvYnRhUWZJTzhpM0RRZDc3R2RvTU4wQklrbklEeXJ4ZkU1ZmdrRjl3NFdXRE91SmtkTi1tbmYyUmhHSGd5OGw0cUpySDdEU2k3a2twa0F6ZTFYQkY2MjM1V3JNU251TFlPWHZ6YmFOdVA4OUZoTWdvanV2RExOWnhEOTd5M2k2ZUdNU25BakZ5Q1U0?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1Z3dBQWY0UHdYOGpaYzRwamlEcDlLcFhBZXhjd3NRT2JRQkFiZVBDN3JLb2JsSlpEaVVoVEZKeXA4YTltVDVmNTAzbFUtYjRMT2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNfemVreldiaTh5YmJGRHFicl9PZFNWNUx6TEZEUVVRUjhyM29XLXlvbGlBSVYyeklhUXdpeFJpRnZwWUN5MjVOdTg4am1UdmZFZ0hrQ1JMYnpOWlBabG02RktIT3FHY0RjMFJHR2F2dmtJSEhNdU9fU3BUSzdIeDEzVThneUdKMlhDNHBoRHB3T0FsM0hPTzRZODFPOWxRQXQ3WkxxVVBlck1xNkxkeWpDTzVSQlB5TFpoc25fYW0?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2lyX3Y1elMtUnAwckgtald6MDYxRlNaNjVRbjdvWmZBcTd6aXN5dEpBT3hfMzV0VHNtTWRUMU9KZm1zb1lHajJreE05NXRzN2VYQTBiMzdNRGhhR0V1dGdyT3dOUFE5UmgxZmNrdkx1NGhfTUJCV3pQQUNZdU5KTERteDhUQmlYdkI3djNsZFpSdklHRERvSTg1UDJvTW1QSVEwemdQbk1YR1k?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Рекордні поставки й El Niño тиснуть на ціни газу США",
-      "original_title": "Record Supply, Strong El Nino Seen Weighing on US Natgas Prices This Winter - EnergyNow.com",
-      "summary": "EnergyNow.com повідомляє, що рекордна пропозиція та сильний El Niño можуть знизити ціни на природний газ у США цієї зими. У наданому тексті є лише заголовок, тому конкретних цифр, прогнозних рівнів цін чи обсягів видобутку немає. Макрофінансовий наслідок: слабші ціни на газ можуть знизити енергетичн",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "EnergyNow.com"
-    },
-    {
-      "title": "Gucci Shares Drop 16% Amid Chinese Demand Slump",
-      "original_title": "Gucci Plunges 16% in a Day as Chinese Wallets Snap Shut, European Luxury Stocks Tumble - BigGo Finance",
-      "summary": "Акції Gucci впали на 16 % за один день, коли китайські споживачі зменшили витрати, що спричинило падіння цін на акції європейських брендів розкоші. Цей рух підкреслює зниження ліквідності в секторі розкішних товарів, що може збільшити витрати на обслуговування боргу компаній. Падіння акцій також мож",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "BigGo Finance"
-    },
     {
       "title": "TSMC шукає обладнання без рідкісноземів через контроль Китаю",
       "original_title": "TSMC explores rare-earth-free equipment to counter China controls: Report - electronics.economictimes.indiatimes.com",
@@ -929,6 +920,20 @@
       "original_title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - EnergyNow.com",
       "summary": "За заголовком EnergyNow.com, ОПЕК не прогнозує піку попиту на нафту, оскільки енергетична безпека має для політики більшу вагу, ніж кліматичні цілі. У доступному тексті немає цифр, прогнозних горизонтів чи умов, тому кількісно оцінити сценарій неможливо. Якщо така позиція ОПЕК закріпиться, вона підт",
       "source": "Енергетика та LNG",
+      "publisher": "EnergyNow.com"
+    },
+    {
+      "title": "Борг єврозони сягнув 88,8% ВВП наприкінці II кварталу",
+      "original_title": "Euro area government debt reaches 88.8% of GDP at Q2 end - Fibre2Fashion",
+      "summary": "Державний борг єврозони наприкінці другого кварталу становив 88,8% ВВП. У наявному тексті немає даних про динаміку до попереднього кварталу чи року, про розбивку за країнами або обсяг боргу в євро, тому оцінити зміну неможливо. Показник важливий для оцінки фіскальної стійкості регіону та умов фінанс",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "Fibre2Fashion"
+    },
+    {
+      "title": "США вдарили по трьох іранських нафтових танкерах",
+      "original_title": "U.S. Strikes Three Iranian Oil Tankers After Missile Attacks on Navy Warships - EnergyNow.com",
+      "summary": "За заголовком EnergyNow.com, США завдали ударів по трьох іранських нафтових танкерах після ракетних атак на кораблі ВМС США. Це пряма військова ескалація, яка зачіпає морську торгівлю іранською нафтою. У статті немає даних про обсяги вантажу, місце ударів чи ціни. Тому можна лише припустити, що зрос",
+      "source": "США · економіка, торгівля й державна політика",
       "publisher": "EnergyNow.com"
     }
   ]

@@ -468,7 +468,7 @@ def extract_date_from_url(url):
     Використовується лише коли сторінка не віддала дату в метаданих.
     """
     path = urllib.parse.urlparse(url).path
-    match = re.search(r"/(20\\d{2})/(0?[1-9]|1[0-2])(?:/|$)", path)
+    match = re.search(r"/(20\d{2})/(0?[1-9]|1[0-2])(?:/|$)", path)
     if not match:
         return None
     try:
@@ -1895,10 +1895,14 @@ def main():
             # Деякі сайти не віддають метадані. Для URL з датою в шляху
             # використовуємо її як консервативний резервний stale-фільтр.
             url_date = extract_date_from_url(entry["link"])
-            if url_date and not is_fresh_date(url_date):
+            now_utc = datetime.now(timezone.utc)
+            if url_date and (
+                url_date.year != now_utc.year
+                or url_date.month != now_utc.month
+            ):
                 print(
-                    "Пропущено: дата в URL вказує на стару публікацію "
-                    f"({url_date.date().isoformat()}): {entry['title']}"
+                    "Пропущено: місяць у URL не збігається з поточним "
+                    f"({url_date.strftime('%Y-%m')}): {entry['title']}"
                 )
                 remember_link(history, entry["link"])
                 continue

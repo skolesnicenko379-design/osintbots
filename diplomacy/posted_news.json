@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nem5yTE5BOUpXQVh3TlBEX0k4d3BtbVJUMFBEeVdUVzdvSUJ3YkxnUzQ0TW5neXpwS01jYTY4ajl5SWdmVHBwbnJVRmNsS2tUa2fSAVdBVV95cUxOSHdLZTlYRXdXc3NSZjdrNy11OXpRejVSRjBOWVpRMlFibzB2NmhCc0pSQktGR3kxSnZySEtMSmlfZEt5Wm5ybVFlY0ozRXpidXJxQTNvR2c?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObjlxcHp1YTMwZmVPaE4tVjZ2U3kwN0x1Yko0aVRMc1FnREh6Z2taNlc0eGhNWmpSM0tTUXU3bERZTFVuNEtsYWg4WXV3U2ZveFZpbkdCQWo5dF9aN2FTR2xXX19KbnRCblRkWmp6UW5SYjhBVXdNT3ZETERkMlNkOVhqMTlSVTFyNE8yZ050TzNlV1N1SE1QYWg1bW9uN1NDZVlQNzg1ZnRHRDVkUHlHVTlBM3hQTjdaVDdlTnk3TWJZc3FnV1VjaGtFMzJOSVJEbGFvbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0gwX19ueXVGQmdrSGd4S2pKNnMxaDFUekVkcHd6U0NXUTJhRXdDaTRNSDJhOWtuUEMzSGF5RXczSVBHYk5QTVQzbjV0T0ZnaS1jNVZVZExaYVgtQm16dFIzV3l6RjJzRjJZTmx5U056OGhkSGFQUUpIOFByaVY1LWxmcU1FcUpwMWFz?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52SzhuNHl3SXpYMVhra3JSMWxzaWtuc1FyMGU5YnpiWUdlQ1o0MmtmbjNaQWVQR1gzQXdDeUlSQ0FsYXEyczExX3JIY2M3d0ZZOFHSAVdBVV95cUxNdnpfT1hGRWhWbmtTN1dJeW5kcXFyTUw1NUZQWGVHWFpnbHhBRlVxMWdyYXlvMTZ2SW00NEJzNE9OYUFHTnZjb2dpTmF6UDhqRTl1Z2RXSjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUhwS2hOQ1BtTEt0QTFwX2RJNFY5VmF2Q0w5NEl2NUFLMmhvajF4R3hfNEpHbDJkby1tYU9QYlM0SVJhRnZqOEhVRVZXa2pRSG9NYl81UzdyNWZpcjI3b1JQUGs1MENtYUNkQ290eWZaQS1oTzMzRl91Ny00M01SUng3MEd4UU80alJsN0JJQkNNbUVrdWpiU21TMXJZemlpN1pISw?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXBfdUVSZnpmNG0yS1hTdExVcHc5dUJVR0JCbUx0Z0pDWHBqUkNaeVktZUZOSV9tLXBYMXFwM0ZxTkQ0NS1OMlNVQW94VHBVWjlyNVBVVjVCczdiOGxxOE01a1VfaEw3dTRDRnBNdklzTTA2Nm0yVF9pck5PWlRoMWRJOHVTSjVOT2xmZ0hRWW1kNjF5YTBjMUdiaG5UVHhhUnczdXo0eVJfN1BqckE?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12el9PWEZFaFZua1M3V0l5bmRxcXJNTDU1RlBYZUdYWmdseEFGVXExZ3JheW8xNnZJbTQ0QnM0T05hQUdOdmNvZ2lOYXpQOGpFOXVnZFdKNNIBV0FVX3lxTE12el9PWEZFaFZua1M3V0l5bmRxcXJNTDU1RlBYZUdYWmdseEFGVXExZ3JheW8xNnZJbTQ0QnM0T05hQUdOdmNvZ2lOYXpQOGpFOXVnZFdKNA?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGJFVURGTk94c0h1SWlfd2drLTFocVhfYkRLekxaS0pIRVhOOFFwaDdsb044OTdkQXFWZU4ydEZ5N0NCNnQ0TENfZVpNTC1OS1M1YTNPSFNqelFyYUtOUktIamQ0TXBLMVZOclpHMTJ3c3RtVVVEWDRZZ0xqMTdsZ0lDc0UtVlFRcEdEeEk4OEtCMlZ6TkJ2b0R2cFoxUjF5aFhmQWlXak5kdw?oc=5",
@@ -1199,16 +1194,14 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0NFM0d1S0JhRUtma3Q2VnZFYlpGTDdCb0tCeVBxOHFpZHZwVDNxaGw4MmhkMWJhR2k2aUtscWNwMmVlLWtvZkprdGQ5Ylg4TFdBMVVNVkdRYVp2UXhHb0YzUVNNYXdIX0JBUF9Vb1lBVTBHbV9hRmU0M1VTNklEa1BrSm1oWkw4WG9kZnE1RE9zZGY2MHVkTEJfS051d3p3WlUyaHkteXI4OUNZQkRjYlVIQ25XMzJyXzFOVA?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-release-palestinian-doctor-poor-visible-signs-abuse",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DLUZSR0U5em1PYkFoWHI3d2Rqb29Jcnk2S0VNcFZGRUNYc2pRVmNrZ01PbkVqMHF5RmVBNG5MTlQ2SVY2WDFNeUh3?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmpDcVJsblU1dDVLdjNXRTJuQkJYU1RjdVBvTTVQVnh0TmJlekZiVXFGbGNlaVVKSEhEdVhrTGFvdkQ2UWlvMWp4WGxTckJacTg1OFZrdGgtTG9GVnN3bGRpdzEwbDdWS20wVGZURjdKeUFUQ1RCZ1dpYkY2SWxCMm9TSVc1aFJDaHc?oc=5"
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmpDcVJsblU1dDVLdjNXRTJuQkJYU1RjdVBvTTVQVnh0TmJlekZiVXFGbGNlaVVKSEhEdVhrTGFvdkQ2UWlvMWp4WGxTckJacTg1OFZrdGgtTG9GVnN3bGRpdzEwbDdWS20wVGZURjdKeUFUQ1RCZ1dpYkY2SWxCMm9TSVc1aFJDaHc?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-islamic-university-suspends-classes-death-toll-reaches-eight",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMXlTMktqcDNuMlhjMmFsUFVuRjZFVlkxV19zeFhzSm9hX1N0QUlkOU1sZ1NtYnRUMG5pLTVXaFJPLVBjcTZkeVF4UWJJc0NTc3V5cUhzU0V4Sm9TekZhRmhxQ1FVeTZva0djVEJMenU5bjlSRjVneUctUU50bS02Q1dnd0xzUXZ6ZDJsanhWZURQSHdYSXVyNnU4RS00REhxOUJIYVNDMzh5ekpCczgtOFJ2X1JibVdhZ2RFb3VfMkxGOWM1VDJuQjl4djFieXNEclpLajcwbkZISkU?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHo3YWNhbEZ2cDN2QzVWSW1mRUU2RXFJU3hDdGsybDRfamhPUGNvRF9yQkF6RTM1cFdyS3A1TEtUS3VoVFc1Rk9na2xKVk5IWWsyeVp1TWlpMzNjWWkxN3RtZHFoZWV4N2pOdjdxUGdfN0FQaVhQbWtSQXA2RWx1OEgwRTZ3R3JzbnM0c0lyYVREMFZReTY1cC1HRWNCUmctanlrakg1MmYzZWlRN3dJS2tvS1N6UU5pX3pqRjBBSWxINk9iOGJWNw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
+    "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPRnJ5bDhrRzg1TVNQSk9UWGdwRm8wNWV4aGhsVi1lTzAyMmlXQVFJMDhTMDBrSHhJYzl2cFcwME1tdVpIcWJ4VXBmQUI2QnVXeFdiYlBfOEQwTG56MEM2U1EwU2ZiY1V0QWdFSkc2RmhVY3RydE4xa0hWa0M3dldocDNWNDloSmhCUUphYVVhbUkxN2NRcTR0UzdrY1V6Wi1KNmxQWlQ4T0hlMVJubDJoaUZMdUthWmFydER6WkVhWW44aVBXZGtSbVNNeEJzQWlWMkY1T1BFUGphZnhBNzVITEJmX2Qwcld4RjJDa2xrMHVCRXgzRHozMEtjeUF6VGVVWUVLSEZYSDQteDg1bXN3RUpaNkVYdzl1RlRhaXBJMERNSTByTERBOVJ4eV9Ka3RUc1VKTkpnQmZ2T1NUd203QnRMbXFGMGtRdGhrekZ2RFRxME9mT0cwWG9Ma01OWWYtZW1sOEc1dHgzdk3SAfACQVVfeXFMUGt0Mm5kbXBuRFNLMzRkS09HeWdmOTFESGRkQ05GRjc3UW0xZ2lXOGwxcXU5M1czdDk5NXlIV2FJNnBhTnVPQnh6THFKcUtLWkowdGo1bHNqZFRMSTNRSnhkMnBlQlNNVGx0RU1DRHN5TF9odjczY2h6SHNNenNYTGZmdVpsbTNQMm1sVFlRd25hT1JCNHlfZ2VTNmlPNERJTlZPU1hNbUNvU25JTmZHWUhDUC0wempycEQ4djhqWlFqd0NlUWJ3UDEwT0l0cXBwUnAyX216TlQxbjhBRHdDdlA0TW8za0R0NWUxRGlKODRRSlc2LWNGOVpzeWZCZE8zdDNscDNjemNHSTAxTU45blpRdVk1c2pCNnRRU0tOakFWRTZXMDZ0RS1vbHRQNGpza3Q4VV95VW9aT21XM1otV1JUMVBDMkpab2hQMExrUGxUdW9KN3hDdW82aEtIRzFRUkZFUFN1cGZMUERST2dTb20?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Прем'єр Таїланду зустрівся з австралійськими інвесторами на засіданні МВФ",
-      "summary": "Прем'єр-міністр Таїланду провів зустріч із Послом Австралії та делегацією інституційних інвесторів на полях щорічних засідань МВФ та Світового банку 2026 року. У заході також брав участь віце-міністр закордонних справ Таїланду. Подія зафіксована офіційним сайтом міністерства закордонних справ Таїланду.",
-      "source": "Bilateral Meetings",
-      "publisher": "กระทรวงการต่างประเทศ",
-      "published": "2026-10-23T23:39:24+00:00"
-    },
     {
       "title": "Пезешкіан відвідає Москву, зустрінеться з Путіном",
       "summary": "Ірландський президент Масуд Пезешкіан планує відвідати Москву, де очікується зустріч з президентом Росії Володимиром Путіном, а також брати участь у саміті GECF 27 жовтня. Після розмов між іранським міністром закордонних справ Араґчі та російським міністром Лавровим у Тегерані заплановано обговорити енергетичну співпрацю.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "RNZ",
       "published": "2026-10-25T21:26:10+00:00"
+    },
+    {
+      "title": "МЗС Ємену засудило атаки хуситів на Мекку та Медину",
+      "summary": "Міністерство закордонних справ Ємену 25 жовтня 2026 року офіційно засудило запуск двох балістичних ракет хуситами в напрямку регіонів Мекки та Медини в Саудівській Аравії. У заяві на платформі X також осуджено цілеспрямовані удари по містах Хаміс Мушайт та Ахад Рафід, що спричинили поранення цивільних та пошкодження майна. Паралельно уряд Ємену підтримав раніше оприлюднене засудження Папою Римським Лео облоги Тізу та закликав до міжнародних дій для припинення блокади міста та захисту мирного нас",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-25T22:38:05+00:00"
     }
   ]
 }

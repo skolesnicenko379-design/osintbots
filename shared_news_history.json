@@ -7,6 +7,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
     "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
+    "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
     "https://middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
     "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
@@ -37,7 +38,6 @@
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
-    "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/vmf-rosiyi-znyk-iz-seredzemnogo-morya",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
@@ -84,7 +84,6 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUFDcUFjWlc5YkNCWEIyVWZzLVphMlVxamZDaEhOdGFZVGVOeDZSWHpMQ1JVNE5kbGtQYlZ6bzRoNF9ER05rNGV5R0JHZ2ptNkZIUXpvYzBoU2tuYXVZbzhsMEJXdU5sMnZlUG8zaHIyRXo2NmNPcndBTWM1ZmVKbUNuN0paYXE2T1FZX3VFNEotZGkyYmQ0bjlpbXZDV0MxWUNMb3VXTmhnLWZHTWFZZnM3eERMUQ",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2RXcXMzVVpDMkNzN3Y0OW9PeDM0RFFMMFg5TUVuSnQySzZMZFZQLVFMOWRlT01lSWVzenJZV3VET3pobkMzT2lob09Qd0FSdkhNT0F4bzRJbXJHMjVOem41c3RUSVAzRTE5T2hjOW5XbGc0SC00djM2eTF5RTJmMlIxbDdHUWNQRmFWT2tKY3ozQWNKenF6bEJIZVZWZE82MUlMU1F1dWVuTGFNY3JkZlhHaGJBVHlrZFdj",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFBWWVKMHUtNk1tOGstMXlGR0kyRHVlNDh5UlRxeVBMeEM3N1RQbmV4MHJ1MzBJOWlqNF9iUF93Vm0tR09ianBIYkNCWTJ0Q2hST2NHUnRSYzFYTkx3MjhXNjBYRGZ6NFRRWi1reE05TTFENWlOZnh6QmdJcElpY2VncjdDeXVoekctcGVJVGNybUJJZXdXd05FZnZNMmZveHdsLXRGS1hiZmp6Wmt6RmszaXZkbXdVWkdtMg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUM2MGpNOUVkeVJHdDFsMmhubHZ0eTQyYzFSMVlxdG05NFRVRE41YW9adGExX3VYZ3FveXZ2NmR2WXo5aVhjZWw4SXcwSHJ2WFhLNlFUWFlackstNi1LT2VRVV96U01Ea3RpcXJZMHg0V09QZzhOVEU5WnZNMTdnRkZMWUYxdmlQelYyeVU1QWtYNHVfRTF2UmNLLXRLcWJtM2d2eWJmUGhQWmxnSXJCVFFlOUx4UGQwQllEUUVn",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0N4d1oxcnpqYjE3dUU1X0xaNVM0VG5ZWGhrRE1GVGNFWHIyUmVGTU1kNFlCTEZ2aVptYUdSX0FaREZnN01pRE1BSFFLcnhQTGprY3RIVmt1LUw5QjJSbUlzcm5GZVRaYUVHQWJtZDFTZnVKQ2FZWDB3R2tDSzdoWVJMaVdRbmRiR21QM3pGU1ZRSzRCdjd6dXJpeWp0SURjOTBpZXplbzR4VHhoZGlQM25Hd2VvclBQelRMRzJGa9IBxAFBVV95cUxOaHRtNmRUV2gtX2N4MVNPaVdLQ3ZwRmVIN2gwazVNT0NPU2dxTTQtZDlfbDJfTF94ZVYzUGFnd3hTWXdFa2pCbmk1dkp6WVhtUDRiai1mc1R2em1SLXFzSUxEb3dVRHRDZkFUbkdkdDl4OTNaWnZlb2VLLW1QRWpPUURZSGVkZ0kzMEk2ZFNwODBpS0loajhzcmFtVjMyeG5Db29BckRoSGtqcDh1S25hc1hIZmdOWnVuTzBMdWZlUWU5MXg1",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNfemVreldiaTh5YmJGRHFicl9PZFNWNUx6TEZEUVVRUjhyM29XLXlvbGlBSVYyeklhUXdpeFJpRnZwWUN5MjVOdTg4am1UdmZFZ0hrQ1JMYnpOWlBabG02RktIT3FHY0RjMFJHR2F2dmtJSEhNdU9fU3BUSzdIeDEzVThneUdKMlhDNHBoRHB3T0FsM0hPTzRZODFPOWxRQXQ3WkxxVVBlck1xNkxkeWpDTzVSQlB5TFpoc25fYW0",
@@ -96,26 +95,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Українські дрони атакували нафтохімічний завод «Тольяттикаучук» у Тольятті",
-      "original_title": "Українські дрони атакували завод «Тольяттикаучук», який виробляє компоненти для ракетного палива та бензинові присадки",
-      "summary": "У ранкових годинах 24 жовтня українські FPV‑дрони вдарили нафтохімічний завод «Тольяттикаучук» в Тольятті, де виробляються синтетичні каучуки, бутилкаучук, бутадієн та MTBE – компоненти, що використовуються у військових шинах та твердому ракетному паливі. Пошкодження можуть призвести до тимчасового скорочення постачання цих матеріалів у російський військово‑промисловий комплекс.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
-      "published": "2026-10-24T05:10:08+00:00"
-    },
-    {
-      "title": "China pays Russia cheaper gas than Turkmenistan, Carnegie says",
-      "original_title": "China pays Russia less for gas than it pays Turkmenistan, Carnegie finds - IntelliNews",
-      "summary": "Carnegie’s analysis shows that China’s contract price for Russian gas is lower than the price it pays Turkmenistan for comparable volumes. The lower per‑unit revenue cuts Russia’s gas export earnings, tightening foreign‑currency inflows that support the ruble and the state budget. Reduced earnings may limit Russia’s ability to service external debt and could push Moscow to seek higher‑priced buyers or renegotiate terms.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "IntelliNews",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFBWWVKMHUtNk1tOGstMXlGR0kyRHVlNDh5UlRxeVBMeEM3N1RQbmV4MHJ1MzBJOWlqNF9iUF93Vm0tR09ianBIYkNCWTJ0Q2hST2NHUnRSYzFYTkx3MjhXNjBYRGZ6NFRRWi1reE05TTFENWlOZnh6QmdJcElpY2VncjdDeXVoekctcGVJVGNybUJJZXdXd05FZnZNMmZveHdsLXRGS1hiZmp6Wmt6RmszaXZkbXdVWkdtMg",
-      "published": "2026-10-24T05:12:19+00:00"
-    },
     {
       "title": "Digital euro зменшить залежність від поза‑єврозонних платіжних схем",
       "original_title": "Piero Cipollone: Interview with Milano Finanza",
@@ -1035,6 +1014,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
       "published": "2026-10-25T21:26:10+00:00"
+    },
+    {
+      "title": "МЗС Ємену засудило атаки хуситів на Мекку та Медину",
+      "original_title": "Yemen government says it condemns attacks on Mecca and Medina",
+      "summary": "Міністерство закордонних справ Ємену 25 жовтня 2026 року офіційно засудило запуск двох балістичних ракет хуситами в напрямку регіонів Мекки та Медини в Саудівській Аравії. У заяві на платформі X також осуджено цілеспрямовані удари по містах Хаміс Мушайт та Ахад Рафід, що спричинили поранення цивільних та пошкодження майна. Паралельно уряд Ємену підтримав раніше оприлюднене засудження Папою Римським Лео облоги Тізу та закликав до міжнародних дій для припинення блокади міста та захисту мирного населення.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
+      "published": "2026-10-25T22:38:05+00:00"
     }
   ]
 }

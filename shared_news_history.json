@@ -5,7 +5,6 @@
     "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats",
     "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
     "https://defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says",
-    "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
     "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
@@ -18,9 +17,11 @@
     "https://middleeasteye.net/news/lebanon-israel-military-talks-us-end-without-a-breakthrough",
     "https://middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills",
     "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
+    "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
     "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
+    "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
     "https://militarnyi.com/uk/news/italiya-zamovyla-bronetehniku-u-nimechchyny",
     "https://militarnyi.com/uk/news/izrayil-operatsiyi-na-zahidnomu-berezi",
@@ -40,6 +41,7 @@
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-zavod-tolyattykauchuk-yakyj-vyroblyaye-komponenty-dlya-raketnogo-palyva-ta-benzynovi-prysadky",
     "https://militarnyi.com/uk/news/vmf-rosiyi-znyk-iz-seredzemnogo-morya",
+    "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
     "https://navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
@@ -88,16 +90,6 @@
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Пентагон випустив керівництво щодо закупівлі ШІ згідно з директивами «правди» та ідеологічної нейтральності",
-      "original_title": "Pentagon issues guidance on AI procurements to support White House’s ‘truth-seeking’ and ‘ideological neutrality’ directives",
-      "summary": "У меморандумі від 20 жовтня Пентагон представив нові інструкції з придбання штучного інтелекту, які мають забезпечити виконання указу президента Трампа про «правду» та ідеологічну нейтральність. Документ містить шаблони та стандартизовану мову для контрактів, що вимагає від постачальників доведення достовірності, об’єктивності та відсутності політичних упереджень у великих мовних моделях. Таке регулювання може підвищити надійність та прозорість AI‑систем у військових проектах, зменшуючи ризики маніпуляцій та помилкових даних.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
-      "published": "2026-10-23T16:40:41+00:00"
-    },
     {
       "title": "Канада та ЄС працюють над угодою про цифрову торгівлю",
       "original_title": "Canada, EU working on digital trade agreement ahead of summit next week - Castanet",
@@ -939,6 +931,26 @@
       "published": "2026-10-25T08:47:00+00:00"
     },
     {
+      "title": "США розглядають використання бомбардувників у повітряних боях проти Китаю",
+      "original_title": "У США розглядають використання бомбардувальників у повітряних боях",
+      "summary": "Повітряні сили США вивчають можливість залучення стратегічних бомбардувників, зокрема B‑21 Raider, до виконання завдань повітря‑повітря, оснащуючи їх далекобійними ракетами типу AIM‑260, AIM‑174 та новим AFLRW. Такий крок дозволить розширити радіус ураження та підсилити протидію зростаючій китайській авіації, особливо за умов, коли планована кількість бойових літаків може залишитися недосягнутою до 2035 року.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
+      "published": "2026-10-25T09:17:14+00:00"
+    },
+    {
+      "title": "Льодові розбивачі берегової охорони та модель Фінляндії: план для ВМС США",
+      "original_title": "Coast Guard Icebreakers and the Finland Model: A Blueprint for the U.S. Navy?",
+      "summary": "Відвідування Норвежської новини гідраційного судноплавства у Хельсінкійському судобудівному заводі розкриває, як модель Фінляндії підвищує швидкість виробництва льодових розбивачів. Ці судна оснащені спеціальними бронями та підводними системами, що дозволяють їм працювати в арктичних умовах. Якщо США застосують подібний підхід, це може зменшити затримки у розробці нових поверхневих бойових кораблів.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
+      "published": "2026-10-25T09:28:34+00:00"
+    },
+    {
       "title": "Атака на комбінат «АВИСМА» – виробник 96% титанової губки в Росії",
       "original_title": "Сили оборони атакували комбінат «АВИСМА», що виробляє 96% титанової губки в Росії",
       "summary": "Українські сили атакували хіміко‑металургійний комбінат «АВИСМА» в Березниках, який виробляє 96 % російської титанової губки, ключового сировинного матеріалу для літаків Су‑34/35 та ракет Іскандер. Атака, що призвела до пошкоджень та травм п’яти працівників, може знизити поставки титану до оборонного комплексу, обмежуючи виробництво балістичних ракет і літаків.",
@@ -947,6 +959,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
       "published": "2026-10-25T09:31:38+00:00"
+    },
+    {
+      "title": "Українська F-Drones розробляє дешевий реактивний дрон-перехоплювач F-Jet 80 проти «Шахедів» і «Гераней»",
+      "original_title": "Українська F-Drones розробляє дешевий реактивний дрон-перехоплювач F-Jet 80 для боротьби з «Шахедами»",
+      "summary": "F-Jet 80 проєктують із малогабаритним реактивним двигуном тягою 8–10 кгс і штучним інтелектом для виявлення та переслідування цілей. Заявлена вартість становить 5–7 тисяч доларів, а розробники наголошують на простому масовому виробництві. За словами інженера компанії, дрон уже перехопив і знищив кілька цілей, але незалежного підтвердження цього немає. Якщо характеристики підтвердяться, такий перехоплювач зможе економічно ефективно протидіяти реактивним «Геранням», які швидші за поршневі «Шахеди».",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
+      "published": "2026-10-25T10:08:23+00:00"
     }
   ]
 }

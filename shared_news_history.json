@@ -55,6 +55,7 @@
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0MzZVUyLVdVRGY2OFlBQmVmRUV3R3BESEx5em9Pc0NKTFlqNW9mRnpkTmF6bmhxekMxRWVhNFlzNllSR1Z2Z3lhckI4RFlieHFkdlBpNmVmY05NcE9naTJTejJMZ000UGxWc0tUa3RWNGJOS0IwWW8yRDFYUXBJUGNaZVk0N0dfa0ZwTUJWbFFTWjN0dzk5ZS11R2lob1duQVphWEwwOEZ3Z1hXamQ5c0FNSC1Fa21sZ3hxbXlMZ3I3WUhTTXNzV09KOVYyZ2FoMExmV0o0Xzd0Q3Izd3FJTTVLeGJXS00",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2VBX053SUR1M2l0LU56R2xuSnh4XzlZY0NHYU16eWtpM2RPM1Y2a3N4b1JVOGk5NEw3QTBiZzRfTGUyb19oVjFMUXpfTWJZUnZVaGktUG9XckxMNllLTXg4ZS1ZRkY4b2lfR0VWdjVqSXRiVUlzcWJIWTdOWTBSTzQ5NUtsTmluY1UycE0tVGE2MFA0SFM2Tk44c2NvM2RPdm1sbUhWMUtVWmJJZGpUSlF2OF9uaTNTclBaaEFkSmxTNnQxSzY4LVc4Z3YzTWJfV21wdXlwUGNGTWZKSHY5cW96bVlBZms",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTHpzb1ItcjZKdjdOSXJJMjlJV0hkbXgxSUVYTkM4azR1a1dMZmlKU3NEMm1Yd05qNE9FRE1XUDVlUnVsX3FHOEdIQzRpSDZWcU5lTHMwaWp3aUQyTDlfWUI5MWpRbEY4cGhySHVHWU5tNEQzSW96ckdMVkRWX3g0V2JiQzRvclEzUjdxVlJQQzBSVEdmQWRzS2hlZ0pZUXJXNU5tMWNPalI4ZGZZRzVtZkdfV0pBTl9qUHg0by1TNzBJRU84bE9rMW1yemdGbVdMY2tzQjVSWXhUdEZ1OW5xeXVlYm82U1hRSU9FNg",
+    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WGJxYlp5dms3ZDRxLWVpRjVuLXhyZFNTSnJYMXJFUHAwR0FnbTUwTi1uODZYTk94OXdRVUIwOXlnd19KLTVhbzRn",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB",
@@ -78,7 +79,6 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUVoOGhwRFczZkltNmRSN09aQWhzX1hxRGpFVmY2blBrUXpKb0k5UTQtZm5vWVZoQmZlZDVpV052MEh1ZFpNc1MzY01sYjJ6aExPTnFxMTFIcFRTeGoxVU1RLWdKLVlORlhUYlhLSEZJWndjTW93UUxjVlFZb3UxNmJfUDdaRHdsRzNLSHlnc2U0WVo0SW1xNXAwZE1MRWVfbGR5anE4MF9BVS1BOTlFRzlB",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3FVS3pnYVdOcGJTSFFtYnNuNlh1N2cxR3dUVHVqY0lWaXV6cHlJTDhhYlFNY3JhM2N2VWU4Z2hHMGExQUt5Tk1lcFpuWVRvZ0drb293WXduQ1hPd2FvMW5oZzNVc1U1NzFTbkxjZUZwWURsTGJBYWdSblBUcW5VWDZRR3NaaUpxdFd4Z1VVYjVtM0xJR252VlBpaHV0N19iN3pwa3JqOEtPYnByRW4zeExocl8",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUFDcUFjWlc5YkNCWEIyVWZzLVphMlVxamZDaEhOdGFZVGVOeDZSWHpMQ1JVNE5kbGtQYlZ6bzRoNF9ER05rNGV5R0JHZ2ptNkZIUXpvYzBoU2tuYXVZbzhsMEJXdU5sMnZlUG8zaHIyRXo2NmNPcndBTWM1ZmVKbUNuN0paYXE2T1FZX3VFNEotZGkyYmQ0bjlpbXZDV0MxWUNMb3VXTmhnLWZHTWFZZnM3eERMUQ",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2RXcXMzVVpDMkNzN3Y0OW9PeDM0RFFMMFg5TUVuSnQySzZMZFZQLVFMOWRlT01lSWVzenJZV3VET3pobkMzT2lob09Qd0FSdkhNT0F4bzRJbXJHMjVOem41c3RUSVAzRTE5T2hjOW5XbGc0SC00djM2eTF5RTJmMlIxbDdHUWNQRmFWT2tKY3ozQWNKenF6bEJIZVZWZE82MUlMU1F1dWVuTGFNY3JkZlhHaGJBVHlrZFdj",
@@ -93,16 +93,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Прем'єр Польщі розпочав триденний офіційний візит до В'єтнаму",
-      "original_title": "Polish Prime Minister begins three-day official visit to Viet Nam - en.baochinhphu.vn",
-      "summary": "Прем'єр-міністр Польщі розпочав триденний офіційний візит до В'єтнаму. Подія зафіксована на офіційному сайті уряду В'єтнаму. Текст джерела не містить деталей щодо конкретної програми зустрічей чи підписаних документів, тому описується лише факт початку візиту.",
-      "source": "Bilateral Meetings",
-      "publisher": "en.baochinhphu.vn",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3FVS3pnYVdOcGJTSFFtYnNuNlh1N2cxR3dUVHVqY0lWaXV6cHlJTDhhYlFNY3JhM2N2VWU4Z2hHMGExQUt5Tk1lcFpuWVRvZ0drb293WXduQ1hPd2FvMW5oZzNVc1U1NzFTbkxjZUZwWURsTGJBYWdSblBUcW5VWDZRR3NaaUpxdFd4Z1VVYjVtM0xJR252VlBpaHV0N19iN3pwa3JqOEtPYnByRW4zeExocl8",
-      "published": "2026-10-24T02:05:00+00:00"
-    },
     {
       "title": "Gucci Shares Drop 16% Amid Chinese Demand Slump",
       "original_title": "Gucci Plunges 16% in a Day as Chinese Wallets Snap Shut, European Luxury Stocks Tumble - BigGo Finance",
@@ -992,6 +982,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
       "published": "2026-10-25T17:10:29+00:00"
+    },
+    {
+      "title": "Росія скоротила золоті резерви на 62 тонни",
+      "original_title": "Russia Reduces Gold Reserves by 62 Tons, Kazakhstan Follows Sale, Poland Continues to Buy - VOI.ID",
+      "summary": "Згідно із заголовком VOI.ID, Росія зменшила золоті резерви на 62 тонни, Казахстан також продає золото, а Польща продовжує його купувати. У тексті немає періоду, обсягів продажів Казахстану і Польщі та причин рішень, тому оцінка обмежена. Макрофінансовий наслідок: центробанки діють по-різному, і Росія та Казахстан можуть використовувати золото як ліквідний буфер, тоді як Польща нарощує його частку в резервах. Для ринку це радше сигнал про зміну структури резервів, ніж підтверджений удар по ціні золота.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "VOI.ID",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
+      "published": "2026-10-25T18:20:45+00:00"
     },
     {
       "title": "Сербія презентувала 203‑мм самохідний міномет TSMB M-25",

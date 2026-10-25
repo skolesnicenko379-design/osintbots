@@ -406,8 +406,8 @@ def is_fresh_date(published_dt, now=None):
 
 def extract_page_date(soup):
     """
-    Шукає дату первинної публікації у стандартних метаданих сторінки.
-    Не підміняє її датою запуску бота.
+    Витягує саме дату первинної публікації, а не дату оновлення сторінки.
+    Перевіряє звичайні метатеги та вкладені структури JSON-LD.
     """
 
     selectors = [
@@ -419,74 +419,62 @@ def extract_page_date(soup):
         ("meta", {"name": "publish-date"}),
         ("meta", {"name": "publication_date"}),
         ("meta", {"name": "DC.date.issued"}),
-        ("meta", {"name": "date"}),
         ("time", {"itemprop": "datePublished"}),
+        ("time", {"itemprop": "dateCreated"}),
     ]
 
     for tag_name, attrs in selectors:
         tag = soup.find(tag_name, attrs=attrs)
-
         if not tag:
             continue
-
-        value = (
-            tag.get("content")
-            or tag.get("datetime")
-            or tag.get_text(" ", strip=True)
-        )
-
+        value = tag.get("content") or tag.get("datetime") or tag.get_text(" ", strip=True)
         parsed = to_utc_datetime(value)
-
         if parsed:
             return parsed
 
-    # Перевіряємо JSON-LD, якщо стандартні метадані відсутні.
-    for script in soup.find_all(
-        "script",
-        attrs={"type": "application/ld+json"},
-    ):
-        raw = script.string or script.get_text()
+    def walk_json(value):
+        if isinstance(value, list):
+            for child in value:
+                yield from walk_json(child)
+        elif isinstance(value, dict):
+            yield value
+            for child in value.values():
+                if isinstance(child, (dict, list)):
+                    yield from walk_json(child)
 
+    for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
+        raw = script.string or script.get_text()
         if not raw:
             continue
-
         try:
             data = json.loads(raw)
         except (json.JSONDecodeError, TypeError):
             continue
 
-        candidates = data if isinstance(data, list) else [data]
-
-        for item in candidates:
-            if not isinstance(item, dict):
-                continue
-
-            date_value = (
-                item.get("datePublished")
-                or item.get("dateCreated")
-            )
-
-            parsed = to_utc_datetime(date_value)
-
-            if parsed:
-                return parsed
-
-            graph = item.get("@graph", [])
-
-            if isinstance(graph, list):
-                for child in graph:
-                    if not isinstance(child, dict):
-                        continue
-
-                    parsed = to_utc_datetime(
-                        child.get("datePublished")
-                        or child.get("dateCreated")
-                    )
-
-                    if parsed:
-                        return parsed
+        for item in walk_json(data):
+            # dateModified навмисно не використовується: зміна сторінки
+            # сама по собі не доводить появу нової інформації.
+            for key in ("datePublished", "dateCreated"):
+                parsed = to_utc_datetime(item.get(key))
+                if parsed:
+                    return parsed
 
     return None
+
+
+def extract_date_from_url(url):
+    """
+    Низьковпевнений резервний фільтр для новинних URL зі структурою /YYYY/MM/.
+    Використовується лише коли сторінка не віддала дату в метаданих.
+    """
+    path = urllib.parse.urlparse(url).path
+    match = re.search(r"/(20\\d{2})/(0?[1-9]|1[0-2])(?:/|$)", path)
+    if not match:
+        return None
+    try:
+        return datetime(int(match.group(1)), int(match.group(2)), 1, tzinfo=timezone.utc)
+    except ValueError:
+        return None
 
 
 # ============================================================
@@ -1709,6 +1697,8 @@ def format_message(entry, ai_title, ai_analysis):
     safe_analysis = html.escape(analysis)
     safe_source = html.escape(entry["source"])
 
+    # Показуємо дату первинної публікації, підтверджену сторінкою,
+    # а не дату повторного потрапляння матеріалу до RSS.
     date_str = entry["published"].strftime("%d.%m.%Y")
 
     # Захищаємо атрибут HTML-посилання.
@@ -1889,31 +1879,38 @@ def main():
             entry["link"]
         )
 
-        # Якщо сторінка показує давнішу дату первинної публікації,
-        # вона має перевагу над датою оновлення у фіді.
+        # Дата першоджерела має перевагу над датою RSS/агрегатора.
+        # Це не дозволяє повторно подати вересневу статтю як новину жовтня.
         if article_date:
             if not is_fresh_date(article_date):
                 print(
-                    "Пропущено: першоджерело старше за ліміт "
-                    f"({entry['title']})"
+                    "Пропущено: дата первинної публікації застаріла "
+                    f"({article_date.date().isoformat()}): {entry['title']}"
+                )
+                remember_link(history, entry["link"])
+                continue
+            entry["published"] = article_date
+            entry["date_source"] = "article"
+        else:
+            # Деякі сайти не віддають метадані. Для URL з датою в шляху
+            # використовуємо її як консервативний резервний stale-фільтр.
+            url_date = extract_date_from_url(entry["link"])
+            if url_date and not is_fresh_date(url_date):
+                print(
+                    "Пропущено: дата в URL вказує на стару публікацію "
+                    f"({url_date.date().isoformat()}): {entry['title']}"
                 )
                 remember_link(history, entry["link"])
                 continue
 
-            # Дата сторінки уточнює дату RSS, якщо знайдено
-            # достовірні метадані первинної публікації.
             if entry["date_source"] == "updated":
-                entry["published"] = article_date
-
-        elif entry["date_source"] == "updated":
-            # Не довіряємо лише даті оновлення фіду: стара стаття
-            # могла отримати нову дату без нової події.
-            print(
-                "Пропущено: не вдалося підтвердити дату "
-                f"первинної публікації ({entry['title']})"
-            )
-            remember_link(history, entry["link"])
-            continue
+                # Саме оновлення RSS не доводить, що з'явилася нова подія.
+                print(
+                    "Пропущено: немає підтвердженої дати первинної "
+                    f"публікації ({entry['title']})"
+                )
+                remember_link(history, entry["link"])
+                continue
 
         # Якщо сторінка віддала лише короткий фрагмент, використовуємо
         # повніший опис із RSS, коли він містить більше змісту.

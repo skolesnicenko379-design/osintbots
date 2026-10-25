@@ -1,12 +1,10 @@
 {
   "links": [
     "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
-    "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
     "https://ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
     "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
-    "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
     "https://middleeasteye.net/live-blog/live-blog-update/pezeshkian-attend-moscow-gas-summit-likely-meet-putin",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
@@ -26,7 +24,6 @@
     "https://militarnyi.com/uk/news/kytaj-imovirno-pochav-vyroblyaty-kj-3000",
     "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
     "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
-    "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
     "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
@@ -44,6 +41,7 @@
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2pUcDhOaHNORGdUSHZ3RDctYlBYX2ZQLU1LTGduSkZxQnAzZDZCSmtKLUxJWElfYVc1OGFjTXZfd25odEItRjdPOFZMVDlJZ1ZNcDlTY3dlWnJTQnd6UnFScnlpb3oyMGJ6Rmd0aEdwekx0TXM1QjBQYUNETFlVRXgwWFhTUDBPZ3hKdW5WZ3dSSTJWcXgwcHBYRzhzQ21JcjRwMHpIWFRlTTVSU1Z0MW1DYl9YLXI0dVdLSy11SGJwemVIdEtkOUVwcl9yUFlVQW42dlpmbGl1cGpFb2JFMHp0VFZCNUJ2RkdhNXRac1M4aTRSOWNTddIB_gFBVV95cUxQTEhIa0t2aUtseldNYlVhb1ZsSEg2ZWZDclk3N2tyV2tFMkZPbEdNcnpkS3RwUDI0aHNha09hbWJsNjBhWHlTRW9YbENpSlVzM3BoaXlWRzVwZmlLMkxmM2JVVDZnZk5SbTNBNnJ2RWd3RlRUWEVENHVuS1ByaGJXa05wUUF4MWdCeExLS1hGQWd3cmRlTWNiSGpkS2NTOGJKaWdDNl9zTTYxa3BKQ1hhTHVzdXJ2Mk5DZGdlMDZZU3FqVmdXNTRWLUhGTzdMMkg2RGdLckxvMk5GaHpQTWUwM1RQZDRSYjNzLXRiTU81bDgwLWV3MVR2WXNPczRsQQ",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmNIeDllazIzTndoSGpiaFBheGlXNXp3WmV4bnBzOHdKWkR5Rkh2eHB3MDlFTHhFbDdGb0tKSGdwTFpXNWppVFB5SjgxSk9tQy1xb21YMHVhb0dCaTdwN04yWWo0aXNZMXpvYmx4OVNBTlNLNDVLYjd3X2w3aHBZOTdydFlvVnVRaXA3UDZkZDBjeW5ITmREY0RRd1dETDYxM1JiRFpMVlFDYVFILWZrUGRiSENfRkVtV2FSWXIzdjRjbUlST3VJcFdjYmszajhWZlE",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0o3OU0wZ1RyWHZDYWpYWFVHM3FtQ2pRWTBhM19IZDhuOThOS2NoOW9tSFpoVjNLUUhkYk1ISi0tWnNUQm9nODVMN29ZdU16X0pNQ25XcDNkR3lhUnJkYnJzUUFiYUNmcjZHbUFEUW44YnBFOGgyUmt5SWd1VVVzdWwtRlYwSUVUU3FOVHpiNXl0Nk5zd1IzaWd0Mk51RXRGeFExbEdESUFCQlROWWF2ZUpjMWRJNTJvWFVUMW1uenZJdzRaTExBN00wRWtHTGRNSXpOSmlaYw",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnFIaDlheEV3azExZ2VDQk5RZk5XNl91MXdfTnEyUVc2Tk9WRWt4RXdWcDV6c1k4d2lVN1dKbHBuRzRtVXlhN004TXNWeWRKNGFBeWlRdk1pT0MyX3hQOWZxb0VKelppeGxQQUQ1UVJuaVRBdDY3bUdiYnVBV283OHZOaHZ0MTJsTUg3WEpET1ZTZDhhV2tmdDBtMnotaDdGdTFuYnBaWkhHd2dDbDdmOG9nbUZuNE0wbjZIYjFKOTJlVEUtaVNDZ1dqRi03SVlzblA1Y3VRSQ",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNuLTRKVGJxdUtGa1VRY0hvdmo1TmdiODU0dUJ2WTlEVXZGQWcxSkJnbG1sbWxFdlpBZW5wX3QwN1c3c0FDS2YzTEh5N0J2dUJXZkVFRDlvc25ndG9GSjFHTkE2MFJaYlFIRXlvNlV6dnp0WmVjb2xnamxsOHd2ME85MFRDUmg4R1haTllXVkR2aFdJb0JTMWh4RkZsYW5uTkRzRnVmVmt6YjhCcS1RRnVCeDR4ZFppNW5CeFZDaGc4R2dmTjR2dmJiR1VpYXJaYmo4b3V1UUt4dw",
@@ -52,6 +50,7 @@
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0MzZVUyLVdVRGY2OFlBQmVmRUV3R3BESEx5em9Pc0NKTFlqNW9mRnpkTmF6bmhxekMxRWVhNFlzNllSR1Z2Z3lhckI4RFlieHFkdlBpNmVmY05NcE9naTJTejJMZ000UGxWc0tUa3RWNGJOS0IwWW8yRDFYUXBJUGNaZVk0N0dfa0ZwTUJWbFFTWjN0dzk5ZS11R2lob1duQVphWEwwOEZ3Z1hXamQ5c0FNSC1Fa21sZ3hxbXlMZ3I3WUhTTXNzV09KOVYyZ2FoMExmV0o0Xzd0Q3Izd3FJTTVLeGJXS00",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2VBX053SUR1M2l0LU56R2xuSnh4XzlZY0NHYU16eWtpM2RPM1Y2a3N4b1JVOGk5NEw3QTBiZzRfTGUyb19oVjFMUXpfTWJZUnZVaGktUG9XckxMNllLTXg4ZS1ZRkY4b2lfR0VWdjVqSXRiVUlzcWJIWTdOWTBSTzQ5NUtsTmluY1UycE0tVGE2MFA0SFM2Tk44c2NvM2RPdm1sbUhWMUtVWmJJZGpUSlF2OF9uaTNTclBaaEFkSmxTNnQxSzY4LVc4Z3YzTWJfV21wdXlwUGNGTWZKSHY5cW96bVlBZms",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTHpzb1ItcjZKdjdOSXJJMjlJV0hkbXgxSUVYTkM4azR1a1dMZmlKU3NEMm1Yd05qNE9FRE1XUDVlUnVsX3FHOEdIQzRpSDZWcU5lTHMwaWp3aUQyTDlfWUI5MWpRbEY4cGhySHVHWU5tNEQzSW96ckdMVkRWX3g0V2JiQzRvclEzUjdxVlJQQzBSVEdmQWRzS2hlZ0pZUXJXNU5tMWNPalI4ZGZZRzVtZkdfV0pBTl9qUHg0by1TNzBJRU84bE9rMW1yemdGbVdMY2tzQjVSWXhUdEZ1OW5xeXVlYm82U1hRSU9FNg",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94WGJxYlp5dms3ZDRxLWVpRjVuLXhyZFNTSnJYMXJFUHAwR0FnbTUwTi1uODZYTk94OXdRVUIwOXlnd19KLTVhbzRn",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MXNIeGI3OFo3S19XUmloSktkdVV5X2NNVGdQS3VqZjk2WjVnLVpaQzJQWVo0UUxtSUNudGRWTE1fbmJBTDNIZmFHd0tJVmZJOXMwM0lvWnZTRjNvV2xtUGhZZw",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXZWa2REV0NWbks3RTYyN1c2TVEyZksydUFsVS0xQV9WcTJ6V2JTOE9qbnZVb01yZ1dtTkFqYlhjTENpM3AzVVRBeVQ2VXdiWFBoSlUzZzhBOHJFdW9PUkRpSDhnaTBuNXF2RGR0bENZcFRGcjhuOFB0SEdOUEZWVGlmWjVWcWFacFlJT3QtMXc4Qnh2alFOTFp6ZHg2V2ZycG9yTkRxa3dwYmVsOUlrdDBiTmVsbUxDZTdWNzh5UkFhNUl3T2g4TEs5RWZFRzQtNTZtNVM4cXRHYkJOWENZWHUzV3ludlVQWHd5SXJxN2lsaHB1WUlZNWExQ0U",
@@ -87,50 +86,9 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUUyZHJ0Mkx3TXIwS2l1TUxobU82RHNUX1NiUzU2dGZyb3l0d09PT3VYOWZuWU5ybEwzXzVudjdWUXRLN2VoZTZvWEJxdlk5dTlFNGtUYmJ6aHdDMFc1NDlySENkZmUtNnJkTHBCdVRjYTc5UmppNlVtV2I3Tk1RdXltalAwbk5rUDFMSnhMWEtrU210UFZrcV8wMHlhQm9rN2hQbk9sa19JakpnWldlclV4Y2phZ19fTlBMRUdfaWJlZnJvVmdHeVZR",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3YyZFBZYzNOS3pWMUE2eEdHczN2SWtSRUo0M21wQldWRnBkbUF3cW1jUzVYODZ5UVlqN0J1eWJtLUd5RUZDTjFuaFJfeGZNdG1OdFJlRGVoNTBGRXgyQURfMndCTzlXZDJOcHFVMlBSZHJxaHlxbExoamJmR1ZOalA5MV9jYlgxaWdEem9zT285M0ZUMl82a0RYTk9GdjUzYUpiRlVQRy1nLWpBNmNzMVNVRWJsRDBrazVqR0xZaUJyb29QUHN3UFhR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXkxR2FBdHQ4MFEzTUtDT0pHXy1lOXRhWjk0RkxJZWcyUndnb0FhTXdpVHJSMFVsNEFNUlp6cGhGdUxjenZFV2xOUDBDRzMydXZiOTNlSFVLNlhyeTFya3lIZnFqTmQ5bzlRbXpsSVRpbWlfMzU5YWcwU0ltdi1VUWNVeFlFZVg2amZrZEFZRXNxd1QxZHYxWkdpZGdITk1KZUYyNl9tNHd3ejBpUDFDM1JOZ3E2VVRabm01THh6YUM4c1Z3Z0k4VzF0SQ",
-    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212",
-    "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212"
   ],
   "recent_posts": [
-    {
-      "title": "GDIT призначила Емі Джонсон новою президенткою після звільнення Емі Гілліленд",
-      "original_title": "GDIT announces Amy Johnson as new president",
-      "summary": "Джонсон має 27 років досвіду в General Dynamics Mission Systems, востаннє очолювала напрям «Космос, кібер та розвідка» і працювала з кібербезпекою, оборонною електронікою, космічними та розвідувальними системами. Вона обійме посаду 3 листопада, а до цього обов'язки виконує Пол Недзбала. GDIT — один з великих федеральних ІТ-підрядників, що постачає кібер-, програмні та мережеві рішення для військових і цивільних відомств, зокрема захищений зв'язок і моніторинг загроз для мереж. Це кадрове рішення, а не технологічна новина, тому прямого впливу на бойові можливості немає. Водночас напрям підрозді",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president",
-      "published": "2026-10-23T21:11:04+00:00"
-    },
-    {
-      "title": "На межі епічної гніву: раунд два",
-      "original_title": "On The Brink Of Epic Fury Round Two?",
-      "summary": "Амбасадор США в Туреччині Том Баррак заявив, що США можуть здійснити удар по Ірану вже у вихідні, що підштовхнуло очікування про новий етап конфлікту. Паралельно ізраїльські винищувачі виконували симуляційні рейси над Іраком, демонструючи можливі тактичні сценарії. Якщо удар відбудеться, це може змінити баланс сил у регіоні, підвищивши ризик широкомасштабної війни.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two",
-      "published": "2026-10-23T21:19:53+00:00"
-    },
-    {
-      "title": "Єгипет, Саудівська Аравія, Туреччина, Пакистан заявили про інстабільність через ізраїльську окупацію",
-      "original_title": "Israeli occupation ‘main source of instability’ in region: Egypt, Turkey, Saudi Arabia and Pakistan say",
-      "summary": "Єгипет, Саудівська Аравія, Туреччина та Пакистан оголосили у спільному заяві, що ізраїльська окупація є головним джерелом нестабільності в регіоні. Зустріч відбулася в Стамбулі, вони закликали до швидкої реалізації двостанної рішення, підтримуючи палестинську державу на межах до 1967 року з Східним Єрусалимом як столицею.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
-      "published": "2026-10-23T21:21:42+00:00"
-    },
-    {
-      "title": "Адаптовано ракету Rusty Dagger Block 40 для наземного запуску",
-      "original_title": "Ракету Rusty Dagger, розроблену для України, адаптували для наземного запуску",
-      "summary": "У новій модифікації Block 40 малогабаритну крилату ракету Rusty Dagger, спочатку розроблену для авіаційного запуску, оснастили твердопаливним стартовим прискорювачем, що дозволяє запуск з наземних та морських платформ. Вона зберігає можливість авіаційного запуску і може нести бойові частини масою 45–113 кг, хоча максимальна дальність наземної конфігурації ще не розкрита. Це розширює арсенал США та України, забезпечуючи дешеві масштабовані протикорабельні засоби у рамках програми CHAOS.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/raketu-rusty-dagger-nazemnogo-zapusku",
-      "published": "2026-10-23T21:30:50+00:00"
-    },
     {
       "title": "Рекордні поставки й El Niño тиснуть на ціни газу США",
       "original_title": "Record Supply, Strong El Nino Seen Weighing on US Natgas Prices This Winter - EnergyNow.com",
@@ -922,6 +880,16 @@
       "published": "2026-10-25T11:35:51+00:00"
     },
     {
+      "title": "У Кремлі заявили про підготовку тристороннього саміту Путіна, Трампа та Сі",
+      "original_title": "Preparations Underway for Putin-Trump-Xi Trilateral Summit, Ushakov Says - Kyiv Post",
+      "summary": "Помічник президента РФ Юрій Ушаков повідомив про підготовку тристороннього саміту за участю Володимира Путіна, Дональда Трампа та Сі Цзіньпіна. Інформація стосується офіційної дипломатичної підготовки міжнародної зустрічі лідерів держав, що відповідає критеріям міжнародної дипломатії.",
+      "source": "Bilateral Meetings",
+      "publisher": "Kyiv Post",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ",
+      "published": "2026-10-25T11:51:31+00:00"
+    },
+    {
       "title": "ЄС розглядає пом'якшення санкцій щодо китайського виробника тканин",
       "original_title": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia - The Star",
       "summary": "Євросоюз розглядає можливість пом'якшити санкції щодо китайського виробника тканин, якого звинувачують у допомозі Росії. У заголовку немає назви компанії, обсягів торгівлі, умов і термінів, тому масштаб рішення поки не можна оцінити. Якщо рішення ухвалять, це сигналізуватиме про можливий перегляд санкційного тиску на китайські компанії та про гнучкіший підхід ЄС. Для ринків і торгівлі ЄС–Китай це важливо як індикатор жорсткості контролю над обходом санкцій, але кількісний вплив залежатиме від подальших деталей.",
@@ -970,6 +938,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
       "published": "2026-10-25T14:32:59+00:00"
+    },
+    {
+      "title": "Президенти ОАЕ та Беніну обмінялися угодою про економічне партнерство",
+      "original_title": "UAE and Benin Presidents witness exchange of Comprehensive Economic Partnership Agreement - Gulf News",
+      "summary": "Президенти Об'єднаних Арабських Еміратів та Беніну засвідчили обмін документами Комплексної угоди про економічне партнерство. Ця подія зафіксована офіційним обміном між державними лідерами двох країн. Текст джерела не містить деталей щодо конкретних секторів, сум інвестицій чи строків вступу угоди в силу.",
+      "source": "Treaties & Agreements",
+      "publisher": "Gulf News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
+      "published": "2026-10-25T14:35:58+00:00"
     },
     {
       "title": "Невідомі дрони атакували Липецьк: уламки спалили автомобілі на стоянці, ураження об'єктів не підтверджено",

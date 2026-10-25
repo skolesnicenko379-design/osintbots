@@ -1,14 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlSVRvMkhJakNYNHo4clVpR29fajJZXzREZ1hUREpPZlFqU2RwVHlrOTcxcTZ0aHZrbkJvTXJHc3ctMUJNWjFsU1d0WG5xTjlIUHVSNktaQ0pJYTBIN2VCOTlNT0tmT0F2dEdRTk91TGZwaXMxS2d5SHNidFQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRE5wZjNaZ2JhZTVuQkNWcV9Lblo5OTVXdDFMUC1LYnZmUmQtRlRWZlJVbGY3Q1czcjE5dHRHNUlZdnFrQ3pwVWFTbGpjVmtJeEl6dnpTcXZlTHBXOFcwUTg0RGRPdDlaNVpkNXY3SWc4TjFfN2JsZ1B1YkFrQlpELW5ZZmNuUkZnejNlTmZ5LWx5TkNaV2dMRnBWWUkxOTZSZ0HSAacBQVVfeXFMTjRhNzN3d0FOc2JEaWpsQm8xSDlncEU1SS1VeFllaWNtNWtReWVMcWlwSE9OdnpfdDJUWDJkUllXRkVrMDRIZkx6Q0RJV0xRY20wZWltVDBVdkYxeERDTDNiV2R0dHMzUU8yNGdEVTNoUU1MOTBldFBfZlNhblFKSGRLNUw1S0luN1pVQ1VydzFsenp1V0lzMVBtakQxLXhyQVM2c1MyM3M?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlQ3ZfbW9Sa0JRTEEzaUxHdHRYY2lTUTVDVFU2c3lKUVFPZ1g5akxfRXF6aUt0b3ZjazdtR0kyb1B6QzJTR2EtSGpUN0VGcmZBMmNjVXo4TGFKSGNLYVJGTy1FQ0VhMGpIaVdGdHh4MFk4cDltUUdPLXRB?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODhoOVNjZHpVR2tsSkhKZlpIQl81WXBiRzdBTS1xNEZYWWREdlVGWGowWmhxNHhBQ3VlY1FxQTBCbm5CYVdyNWJoR2Q1SWs4QnhuMXQtR05hUi00NGNRTlQ3a1VjcklHUDl5Y2JHaEowVnRHR3pvWnprSVJTdTRYb0FfbWtQNWUxWWpqcnY0cGZfNnNFRW9JSm5ON3ZIMWg4VHBLV180VnZMWS1UR3Bia01EZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGF4b0k0TEJlUjFUdkZaVlF6eDhqMU9YNjZWREtBLWU2NUJoVVE5M0RJMndkT0ktaVo2bmY1Yy1Jd2lBQVl2N29DMlVhbFpQNkxGVEhNNnVfWU9tOTNnU1N3SW8xM3JwWC1yVG1MOW11SVBlR3VnbU1uYi1HOHRvNUlpbWVKX1BDb05BbzR4S3NjVGszeUoxNGhPakhzSUV3Sk1lRFc3T3ZKclJHMWxZMWxzMzZnaTJob3Vv?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0VleHlfUTRVcVk2cGpuWWN6SG5NZE9MVmplbGtIMmhGeDM0NGFBR01tZ3dWTnJ5Vk45QWNydXdOdkVHZmdaTWJPR2UxaWRtMXZBR3J5NVZ2Q0lvcWI0SUNOc3ZKVnBzNnFwQzhRcjhLWU5vZGtFdDJVb0JjMXEtM1paSFBlNTRjR2dJb3R0SnNLVmhJbG9sdmRfLUtZREhWYWg0?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTJkZXg1bW43UXNqUzdsZk9XVklBLXljMUEwZ0FYM285SEp2NFhaaXVSay0tblJPSWNUbjBmZ2dValdEbHJVa0dYakExTUc5Slp0VWFUWXRaTUw4QmdOcnNDeHZYSlJfemxzaGFUWjdieV9xaXRFclJrYnhCbTFTd0JYTVFNVjhmVnpfS0JiQjZ0TE0?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WWkwZlQzdXkwbkRqMTZNNmZ4YXQ0MEdVV18xS2JCM21YamFrWWtfWlp4eVV3NVpUZXFvQ0hKNEVYQnZEa0t0aTVibm9RcUR6UjI3aHlVeUZmRHhnRVhtYlBRSTNMS0VIbGJ5RFJwamN3dWVJd2VwWmJ3?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pOEM0bjBYZVlEME1vN0sxVXc1UkRRcHA4ZTBBckhTM3UwN3Vob2VjXzl1ZGJYZ0pHMDRENVFaMF9ZMEUtWm1QZWdvNDlST3ZXWkdjOFE1ejg5eVpvemJmcXdFR3dUcFgxZkt5bWk5dWFia1pFZzhRbmdqbkY?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBadkJ4T2ptalhVLXRCMUJQUXNxcUVOZEtuMFVBUzdyS1RxaTEyNkxNY1ZLT2c3WVMyU0VPQ0lodlZsZTZWNElTejFfaTktdndXbDdpUW5RTloyb281WER2NmtvTnpJSFVaQ3IzZ2ZTSl8tdWMtRldFMEF2RQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjJpeHl5ZjhXSU03LWllS2tpVjlpRDVGRktJSVdVRkpEN2lhSWYtYVdOMjg5bUhuMlUzTm02ZmJZWmhtbnZWSlZPMjFFUnNJWktwZUR2cFByeExTUmdSdkVEbk5oX1BoZ0FtU3BnYmxfU1BucEc0dGZTVmJkMVhZOGdEVFhwdEx0aU1yWm4yT01SOVRiNHFZcXRCMWJVRl9mTk5hakt2QUJLNUVmaTVtVA?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FOEpqWTg4Ynh6R0dNUHFKWHBySXYyTzBmaDdGU1gyMlVRNWc0bVhKSVRVaE1jVzF1Z0Q4RmlkeGtwRXNXSThUYkxVTkh6LUlYR1Z0ejVPM0ZqSkY4Z2g2OXJkQXVtQ0NOS0VxeUNlUm4yc2FBaDNvedIBeEFVX3lxTFBLalRkUUNyZXg2UEZHWktPWkpRd0NpYnBWTFVUQllVRUthaS02aTVMVEdLendvUFhwQ2NPQW1VRGQ3ajFRNGctS0djQmNzS0dhaTBiTkNaUHJKWTVGNVlObmU2Z2kwdk15SXhfVkoyYm1mVGNwbnlrbg?oc=5",
@@ -1199,23 +1190,18 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXpULV9fUktZbnM0SlNnU1prS1RjMmp2b1FfakpycmpYU2pwelRVOWxsZTFVY1I5bUE3Wm82S1I4WG1kZHBIcExkeWhlRlV5Yjc2OWJnMDZDbnFSNnhLV3FlNUFBUnhxaDJ5b1ZjRVgwUHE1ZUVIYWwyNWdNR3J2ajMwWGlsTGRaX0tGOGFnOVE4ZVd3VGU3cEFmTGRGQWpyaDZjQ0hySnpaN2Nlc2hOR1VUT1VJYXBJSW4w?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/dakar-rally-will-not-be-hosted-saudi-arabia-2027-organisers",
     "http://www.africanews.com/2026/10/25/over-1000-arrested-in-france-after-a-day-of-mostly-peaceful-protests/",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmpYSVo0YktjU0xiZXl4bWRkWTY0TnNfOTV1UFZuOUpfMGZKTFMzUFNoSUJXVGFvSkpubmtWMG1PME1hcWFNMDFXRWVkVEhQcTg1S282TEFZWVgxRGxucG9ZVmNSd0c3czhRRmM1d3RvRVExM0c1a1pBMkVlMkRwNEhhcE1UTW5ReEZuaDNOZUNVdC1PQkJQQ1JlMURIZFdJbktYUzgyQ1pVSDNyTVloVV80R21fdzRxeDJETkQwRUlUWWs?oc=5"
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmpYSVo0YktjU0xiZXl4bWRkWTY0TnNfOTV1UFZuOUpfMGZKTFMzUFNoSUJXVGFvSkpubmtWMG1PME1hcWFNMDFXRWVkVEhQcTg1S282TEFZWVgxRGxucG9ZVmNSd0c3czhRRmM1d3RvRVExM0c1a1pBMkVlMkRwNEhhcE1UTW5ReEZuaDNOZUNVdC1PQkJQQ1JlMURIZFdJbktYUzgyQ1pVSDNyTVloVV80R21fdzRxeDJETkQwRUlUWWs?oc=5",
+    "https://www.middleeasteye.net/news/israeli-press-review-israel-close-west-bank-crossings-netanyahu-orders-hebron-lockdown",
+    "https://www.middleeasteye.net/news/iran-warns-unimaginable-response-us-aggression-tensions-rise-over-hormuz",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcE5OU05HeUk5RWswMFBsdUVqNDZzSmFGTk84cFRQRUNUYjR1UDNUV0JXbldBYVJhWFBpc1A2Z2dOVVp3MjJENl84NEVEcWtoYjF1RTBRTGhNOGQ5dUNnTGhwamhLQ284MG5XN1ZmZzMybDFheXhIenUzdzN0TGg5ejFVUnVPZWZuWDRuOEJoek5kd2ZaVVNrdTUwOWQwSG8?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB?oc=5",
+    "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/",
+    "http://www.africanews.com/2026/10/25/iranian-president-blames-united-states-for-failure-of-interim-peace-deal/",
+    "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYzRiZExoSGhiSVB1SmVVWkxSY2dBbFhxbVZxTlEzaVRGampuVFVLQWtBYUZsQm15VWt1cTZWMFFrVXFyZGFSd25ZbU03SGsxRTgwQURsdDBXZ3JqLWJkYnBPcGM2OGtfUEdPdk5WZUczVmViLTZjb3Zad3NLVlVFTEpoOVlyUi14T2VsSy03WFZ2aEhyTXBqbDNrQW1adzFadzZOdnJGYVRmbFRGWEF1Sm5Rc1FkTGNTbFFYLXF1cjlVdl9Zdll5R3BjTmZmMngxSlJSRlBPcXhhejZKZURuTWp4STBhQktBajJuUEQzLWg1Q2xIYUFEM0pIVWRwZy1RWUwxcHFRaFl1aWxUWG8wdmF3YWx1SDZyMW1KQlRBcnJMcFJRaHc?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2FibGZReDduYU1ua3U4bm5JNnpYYTZYcUpmZlpPSFNOdXR2anZxeWR6b09TXy1sMWJZb1A4S1o2a1duQjFUejBXbjgwUFRRNVZkMS1SLTdkWUxqSjhnNHdRdHg2eWJkNVlMdUwwbXdxbV9taExha0RhSjllRW0welFGWHo2U3FEeDVEZ0F5ZGxMdDNCNU01NE5haEU2QkRkdjdWRTBkeU9IU2xuaXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Ліван та Ізраїль завершили переговори в США без результату",
-      "summary": "Ліванські та ізраїльські представники, за посередництва США, провели військові переговори у штаб‑квартирі US Central Command у Тампі, Флорида, проте без досягнення домовленостей; Ізраїль залишився незмінним у своїх вимогах, а Ліван наполягає на взаємних кроках та верифікації ООН.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-23T17:16:03+00:00"
-    },
-    {
-      "title": "Канада та ЄС працюють над угодою про цифрову торгівлю",
-      "summary": "Канада та Європейський Союз ведуть переговори щодо укладення угоди про цифрову торгівлю. Ці дипломатичні зусилля активізовані напередодні запланованого на наступний тиждень саміту двох сторін. Матеріал підтверджує наявність поточного офіційного процесу міжнародної взаємодії, спрямованого на формалізацію торговельних відносин у цифровій сфері.",
-      "source": "Treaties & Agreements",
-      "publisher": "Castanet",
-      "published": "2026-10-23T17:08:00+00:00"
-    },
     {
       "title": "Туреччина не планує воювати з Хутами за Саудівським договором",
       "summary": "Туреччина, за словами міністра оборони Ясара Гулера, не планує брати участь у бойових діях проти Хутів у рамках договору з Саудівською Аравією та Пакистаном. Гулер заявив, що будь-яка підтримка буде спрямована на посилення відлякування, а рішення про допомогу підлягає юридичним процедурам і парламентській затвердженню. Угода про спільну оборону підписана в серпні.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "INDIA New England News",
       "published": "2026-10-25T11:06:41+00:00"
+    },
+    {
+      "title": "Президенти ОАЕ та Беніну обмінялися угодою про економічне партнерство",
+      "summary": "Президенти Об'єднаних Арабських Еміратів та Беніну засвідчили обмін документами Комплексної угоди про економічне партнерство. Ця подія зафіксована офіційним обміном між державними лідерами двох країн. Текст джерела не містить деталей щодо конкретних секторів, сум інвестицій чи строків вступу угоди в силу.",
+      "source": "Treaties & Agreements",
+      "publisher": "Gulf News",
+      "published": "2026-10-25T14:35:58+00:00"
+    },
+    {
+      "title": "У Кремлі заявили про підготовку тристороннього саміту Путіна, Трампа та Сі",
+      "summary": "Помічник президента РФ Юрій Ушаков повідомив про підготовку тристороннього саміту за участю Володимира Путіна, Дональда Трампа та Сі Цзіньпіна. Інформація стосується офіційної дипломатичної підготовки міжнародної зустрічі лідерів держав, що відповідає критеріям міжнародної дипломатії.",
+      "source": "Bilateral Meetings",
+      "publisher": "Kyiv Post",
+      "published": "2026-10-25T11:51:31+00:00"
     }
   ]
 }

@@ -247,7 +247,10 @@ def get_available_groq_models():
             timeout=10,
         )
         response.raise_for_status()
-        data = response.json()        models = [            item["id"]
+
+        data = response.json()
+        models = [
+            item["id"]
             for item in data.get("data", [])
             if item.get("id") and model_is_text_generation_candidate(item["id"])
         ]
@@ -494,9 +497,12 @@ def fetch_article_details(url):
     """
     Повертає текст статті та, якщо знайдено, дату її первинної публікації.
     """
+
     try:
-        response = requests.get(            url,
-            headers=HEADERS,            timeout=ARTICLE_FETCH_TIMEOUT,
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=ARTICLE_FETCH_TIMEOUT,
         )
         response.raise_for_status()
 
@@ -527,8 +533,7 @@ def fetch_article_details(url):
         )
         container = article or soup.find("main") or soup
 
-        # Таблиці, марковані переліки й підзаголовки також можуть містити
-        # технічні факти, назви, кількості, параметри та умови.
+        # Таблиці, переліки й підзаголовки також можуть містити технічні факти.
         blocks = []
         seen_blocks = set()
         for node in container.find_all(["h2", "h3", "h4", "p", "li", "tr"]):
@@ -747,10 +752,13 @@ def is_model_dead_error(status_code, response_text):
 
     if status_code == 404:
         return True
+
     if status_code == 400 and (
-        "model_decommissioned" in text        or "does not exist" in text
+        "model_decommissioned" in text
+        or "does not exist" in text
         or "model_not_found" in text
-    ):        return True
+    ):
+        return True
 
     return False
 
@@ -993,12 +1001,15 @@ def analyze_with_groq(
         active_models = []
 
     recent_block = "(Нещодавніх публікацій немає.)"
+
     if recent_posts:
         lines = []
 
-        for post in recent_posts[-12:]:            previous_title = str(post.get("title", ""))[:150]
+        for post in recent_posts[-12:]:
+            previous_title = str(post.get("title", ""))[:150]
             previous_summary = str(post.get("summary", ""))[:250]
             previous_source = str(post.get("source", ""))[:60]
+
             lines.append(
                 f"- Джерело: {previous_source}\n"
                 f"  Заголовок: {previous_title}\n"
@@ -1244,11 +1255,13 @@ def analyze_with_groq(
                     },
                 ]
                 retry_response = requests.post(
-                    GROQ_API_URL,                    headers=headers,
+                    GROQ_API_URL,
+                    headers=headers,
                     json=retry_payload,
                     timeout=GROQ_TIMEOUT,
                 )
-                if retry_response.status_code == 429:                    GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
+                if retry_response.status_code == 429:
+                    GROQ_RATE_LIMITED_MODELS_THIS_RUN.add(model)
                     rate_limited_models += 1
                     print(
                         f"Groq 429 під час повторної спроби для {model}: "
@@ -1258,7 +1271,8 @@ def analyze_with_groq(
                 if retry_response.status_code != 200:
                     print(
                         f"Groq повтор JSON для {model}: HTTP "
-                        f"{retry_response.status_code}: {retry_response.text[:250]}"                    )
+                        f"{retry_response.status_code}: {retry_response.text[:250]}"
+                    )
                     continue
                 retry_data = retry_response.json()
                 retry_content = (
@@ -1492,12 +1506,14 @@ def analyze_with_groq(
         try:
             print(f"Резервна перевірка через OpenRouter ({OPENROUTER_MODEL}).")
             response = requests.post(
-                openrouter_url,                headers={
+                openrouter_url,
+                headers={
                     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
                     "Content-Type": "application/json",
                     "HTTP-Referer": "https://github.com/skolesnicenko379-design/osintbots",
                     "X-Title": "OSINT Diplomacy Bot",
-                },                json=openrouter_payload,
+                },
+                json=openrouter_payload,
                 timeout=(3, 25),
             )
 
@@ -1505,7 +1521,8 @@ def analyze_with_groq(
                 print(
                     f"OpenRouter HTTP {response.status_code}; "
                     f"резервний запит завершено: {response.text[:250]}"
-                )            else:
+                )
+            else:
                 response_data = response.json()
                 content = response_data["choices"][0]["message"]["content"]
                 if isinstance(content, list):
@@ -1740,6 +1757,7 @@ def is_recent_title_duplicate(title, recent_posts):
             continue
 
         previous_words = set(previous.split())
+
         if len(previous_words) < 4:
             continue
 
@@ -1747,12 +1765,14 @@ def is_recent_title_duplicate(title, recent_posts):
         union = len(current_words | previous_words)
 
         similarity = intersection / union if union else 0
+
         if similarity >= 0.82:
             print(
                 "Пропущено через збіг заголовка: "
                 f"{title}"
             )
             return True
+
     return False
 
 
@@ -1988,17 +2008,20 @@ def main():
         message = format_message(
             entry,
             result["title"],
-            result["analysis"],        )
+            result["analysis"],
+        )
 
         if send_to_telegram(message):
             remember_link(history, entry["link"])
 
             history["recent_posts"].append({
                 "title": result["title"] or entry["title"],
-                "summary": result["analysis"][:500],                "source": entry["source"],
+                "summary": result["analysis"][:500],
+                "source": entry["source"],
                 "publisher": entry.get("publisher", ""),
                 "published": entry["published"].isoformat(),
             })
+
             history["recent_posts"] = history["recent_posts"][
                 -RECENT_POSTS_FOR_DEDUP:
             ]

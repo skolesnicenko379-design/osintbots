@@ -13,6 +13,7 @@
     "https://militarnyi.com/uk/news/90-dniv-ssha-ukrayini-24-rakety-patriot",
     "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony",
     "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
+    "https://militarnyi.com/uk/news/brytaniya-ta-frantsiya-naybilshi-desantni-navchannya-za-20-rokiv",
     "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
     "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
@@ -30,6 +31,7 @@
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
     "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
+    "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv",
     "https://militarnyi.com/uk/news/ukrayina-zaprovadyla-sanktsiyi-proty-osib-i-kompanij-yaki-zabezpechuyut-vyrobnytstvo-balistyky-v-rf",
@@ -992,6 +994,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB",
       "published": "2026-10-25T15:50:54+00:00"
+    },
+    {
+      "title": "Росія показала гусеничний НРК «Титан» із тралами для розмінування протипіхотних мін",
+      "original_title": "У Росії розробили гусеничний НРК «Титан» оснащений тралами для розмінування",
+      "summary": "«Титан» — електричний гусеничний НРК вагою 2,3 т і вантажопідйомністю 1 т, із двома каткововими тралами спереду (смуга 2 м) та одним позаду. Заявлені швидкість становить 7 км/год із тралами та 14 км/год без них, автономність — щонайменше 3,5 год, дальність керування — від 500 м, а також круговий протиосколковий захист і можливість встановлення засобів РЕБ. Каткові трали не гарантують знищення мін із неконтактними датчиками цілі, а ефективність залежить від ґрунту й типу боєприпасів. Тому комплекс може полегшити розмінування без залучення саперів, але всі характеристики наразі лише заявлені роз",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
+      "published": "2026-10-25T15:58:04+00:00"
+    },
+    {
+      "title": "Британія та Франція провели масштабні десантні навчання Rhino Titan у Німеччині",
+      "original_title": "Велика Британія та Франція провели одні з найбільших десантних навчань за останні 20 років",
+      "summary": "Навчання Rhino Titan включали десантування близько 600 військовослужбовців з чотирьох літаків A400M Atlas та використання транспортних гелікоптерів Chinook для швидкого переміщення поранених. Участь 16-ї десантно-штурмової бригади і застосування сценарію протистояння з дронами та РЕБ підтвердили готовність до швидкого реагування на нові загрози. Ці вправи демонструють здатність НАТО оперативно розгортати повітряно-десантні сили в будь-яке місце, що підвищує загальну оборонну ефективність союзників.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/brytaniya-ta-frantsiya-naybilshi-desantni-navchannya-za-20-rokiv",
+      "published": "2026-10-25T16:01:36+00:00"
     },
     {
       "title": "Ердоган звільнив радника для поновлення стосунків з Азербайджаном",

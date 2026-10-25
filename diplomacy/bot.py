@@ -247,8 +247,7 @@ def get_available_groq_models():
             timeout=10,
         )
         response.raise_for_status()
-        data = response.json()
-        models = [
+        data = response.json()        models = [
             item["id"]
             for item in data.get("data", [])
             if item.get("id") and model_is_text_generation_candidate(item["id"])
@@ -497,8 +496,7 @@ def fetch_article_details(url):
     Повертає текст статті та, якщо знайдено, дату її первинної публікації.
     """
     try:
-        response = requests.get(
-            url,
+        response = requests.get(            url,
             headers=HEADERS,
             timeout=ARTICLE_FETCH_TIMEOUT,
         )
@@ -747,8 +745,7 @@ def is_model_dead_error(status_code, response_text):
     if status_code == 404:
         return True
     if status_code == 400 and (
-        "model_decommissioned" in text
-        or "does not exist" in text
+        "model_decommissioned" in text        or "does not exist" in text
         or "model_not_found" in text
     ):
         return True
@@ -997,8 +994,7 @@ def analyze_with_groq(
     if recent_posts:
         lines = []
 
-        for post in recent_posts[-12:]:
-            previous_title = str(post.get("title", ""))[:150]
+        for post in recent_posts[-12:]:            previous_title = str(post.get("title", ""))[:150]
             previous_summary = str(post.get("summary", ""))[:250]
             previous_source = str(post.get("source", ""))[:60]
 
@@ -1139,7 +1135,7 @@ def analyze_with_groq(
                     )
                 compact_block = "\n".join(compact_lines) or "(Нещодавніх публікацій немає.)"
                 compact_prompt = prompt.replace(
-                    f"ТЕКСТ: {clean_text(article_text)[:1600]}",
+                    f"ТЕКСТ: {clean_text(article_text)[:5200]}",
                     f"ТЕКСТ: {compact_article}",
                 )
                 compact_prompt = compact_prompt.replace(recent_block, compact_block)
@@ -1247,8 +1243,7 @@ def analyze_with_groq(
                     },
                 ]
                 retry_response = requests.post(
-                    GROQ_API_URL,
-                    headers=headers,
+                    GROQ_API_URL,                    headers=headers,
                     json=retry_payload,
                     timeout=GROQ_TIMEOUT,
                 )
@@ -1497,8 +1492,7 @@ def analyze_with_groq(
         try:
             print(f"Резервна перевірка через OpenRouter ({OPENROUTER_MODEL}).")
             response = requests.post(
-                openrouter_url,
-                headers={
+                openrouter_url,                headers={
                     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
                     "Content-Type": "application/json",
                     "HTTP-Referer": "https://github.com/skolesnicenko379-design/osintbots",
@@ -1747,7 +1741,6 @@ def is_recent_title_duplicate(title, recent_posts):
             continue
 
         previous_words = set(previous.split())
-
         if len(previous_words) < 4:
             continue
 
@@ -1997,8 +1990,7 @@ def main():
         message = format_message(
             entry,
             result["title"],
-            result["analysis"],
-        )
+            result["analysis"],        )
 
         if send_to_telegram(message):
             remember_link(history, entry["link"])

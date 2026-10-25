@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBadkJ4T2ptalhVLXRCMUJQUXNxcUVOZEtuMFVBUzdyS1RxaTEyNkxNY1ZLT2c3WVMyU0VPQ0lodlZsZTZWNElTejFfaTktdndXbDdpUW5RTloyb281WER2NmtvTnpJSFVaQ3IzZ2ZTSl8tdWMtRldFMEF2RQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjJpeHl5ZjhXSU03LWllS2tpVjlpRDVGRktJSVdVRkpEN2lhSWYtYVdOMjg5bUhuMlUzTm02ZmJZWmhtbnZWSlZPMjFFUnNJWktwZUR2cFByeExTUmdSdkVEbk5oX1BoZ0FtU3BnYmxfU1BucEc0dGZTVmJkMVhZOGdEVFhwdEx0aU1yWm4yT01SOVRiNHFZcXRCMWJVRl9mTk5hakt2QUJLNUVmaTVtVA?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FOEpqWTg4Ynh6R0dNUHFKWHBySXYyTzBmaDdGU1gyMlVRNWc0bVhKSVRVaE1jVzF1Z0Q4RmlkeGtwRXNXSThUYkxVTkh6LUlYR1Z0ejVPM0ZqSkY4Z2g2OXJkQXVtQ0NOS0VxeUNlUm4yc2FBaDNvedIBeEFVX3lxTFBLalRkUUNyZXg2UEZHWktPWkpRd0NpYnBWTFVUQllVRUthaS02aTVMVEdLendvUFhwQ2NPQW1VRGQ3ajFRNGctS0djQmNzS0dhaTBiTkNaUHJKWTVGNVlObmU2Z2kwdk15SXhfVkoyYm1mVGNwbnlrbg?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWRfS04yMFY3c3J5S2dOOTlfQUowZm1LSmFVdk9hdDQtTDlodVFxWVZGYWNDSFZQSGJJTEhNMnhLQmZFb29jc0ZON1lFT0p2dDZnQ1prNGF2WDMyVFlnTnBJMEdCWWJGREh5Rm40TWxfNjJGZHE3LVVpdFFvSm00aHBhaG9ZN2Z1b1NYcUJXUldaZw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODBOYzhGczNDZVowNWFmUGUzMkowdXg4cjFTT0JFWk1mNmlSZ3c5blJaaW1lMy1rUGZmR3BzdG8xUHFROFZNRXFSWGdmamM4b1F4SVVuQ2hiRzZ2SnRZNUR2QnpORWJpZUVsYWViaXNRX0tpN3pyd1QydXlvd0pGeWZpUVRnMnZTMlN5SA?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTFQUTlCSnA0MGtWOExJbmhfOFhzcU4zM0J2R0huOGtwd0xjekpuQ0VKQkprYjdCbHlqTGNWVGNOdUpJUUY4cExKQ1I0UGpMN0JYWlVoYmFEMEFwY21HSGVmWHZCcXRKYmg4VGhFdUNBeXVxZkF1RlZlSHYwdV9UY0wtX3VJaVh1OXBfSE1zbWtSOTk0?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDJRemxKUnN0M29GUklrX2JrVmFqMWlPZm5WZTdjVGJianpzcWJicERMVDAxWk9pYUlITXN0WlhRNFZzdWhEUUV2Q0ZRbWRtazd5Mkp2Z2NvZkpXTTVyWjFrY0ZqUFhTaC0xMHBua2gtckNmbmxhNy0xUW9NX2l3anVEUnF1dUxDZnF4TjZmQlg4V2pBUFFzRXRzUXAta1REZktFV3lwTmJGQzRaY2RVdHBtRER6QlluMVY3cVpvcFV4WHZMWTRvMEtNdXhYQWNyMkNZdE5UOXFYVzJ1MERYTGdVYnlHQ1hxUGc?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclFEaDMwdGh2VjJTLXFzaDI2V01LYmZIaWpIYUs0aUxuN19xWmJmVVRIZWpnREN3ai1yOXBkaFdOOVlCdGtxXzUweExxYTNlUk8zMWF0cHlxT1R3ZFlXQ0JxekpEN1RqdG5HUnhtTUt3WFV2WnVfUk4ySUllcTE2bk9MQkE1Tmg2eUJnZW5XM2V5ZVlmWkFZaWVKMWRieE0?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1lxZFF6b0x4RGNYdHRCWEwyd2s0Z1Z2cTV5bndIUl9US3VBdC1sRVhlajlBSTlyNzZ3RzA1bkZDZ1Z1dTRPX1RQYkV4Y2lfTzUzOXJJZUdNRzY0RXZ0MS10X1NPUnZtTUNyaGhkdEoySm5pdlN0Q0pMTS1Pd3BlSjAzeC1INnJreFRHM1VsRWJtckRlVTg1X3ktMjNpZC1CU28xN0FRVmZOWDNua1hGU0RJRXFXZFFVaGhUQUk4WkxibUJpRnc?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WclUxdEFRVTU5SHFYR1o4MzBEejJPQlNVS0NrQUdUZ2ZNOE5QWU40N19OUmw3TGNCbWdUSUNFZW8xc3BDcnBfWjY2SkY3alRiZnEzWUpKYjR0TnhKMWFiV21TcHNDWHk2enc0VmVuYkJaWTVPN0VwZA?oc=5",
@@ -1199,23 +1192,16 @@
     "http://www.africanews.com/2026/10/25/iranian-president-blames-united-states-for-failure-of-interim-peace-deal/",
     "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYzRiZExoSGhiSVB1SmVVWkxSY2dBbFhxbVZxTlEzaVRGampuVFVLQWtBYUZsQm15VWt1cTZWMFFrVXFyZGFSd25ZbU03SGsxRTgwQURsdDBXZ3JqLWJkYnBPcGM2OGtfUEdPdk5WZUczVmViLTZjb3Zad3NLVlVFTEpoOVlyUi14T2VsSy03WFZ2aEhyTXBqbDNrQW1adzFadzZOdnJGYVRmbFRGWEF1Sm5Rc1FkTGNTbFFYLXF1cjlVdl9Zdll5R3BjTmZmMngxSlJSRlBPcXhhejZKZURuTWp4STBhQktBajJuUEQzLWg1Q2xIYUFEM0pIVWRwZy1RWUwxcHFRaFl1aWxUWG8wdmF3YWx1SDZyMW1KQlRBcnJMcFJRaHc?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2FibGZReDduYU1ua3U4bm5JNnpYYTZYcUpmZlpPSFNOdXR2anZxeWR6b09TXy1sMWJZb1A4S1o2a1duQjFUejBXbjgwUFRRNVZkMS1SLTdkWUxqSjhnNHdRdHg2eWJkNVlMdUwwbXdxbV9taExha0RhSjllRW0welFGWHo2U3FEeDVEZ0F5ZGxMdDNCNU01NE5haEU2QkRkdjdWRTBkeU9IU2xuaXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ?oc=5",
+    "https://www.middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-seven",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/pope-calls-end-conflict-yemen",
+    "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXVBa3dFYUtBeE0wVmh1ajhTSGdkRmh1TWEybWhoZDNaMFNVQ05KYnE3WUh0eHF5WUNaOXJZTDlEbDdIZTd1cnlWRFlGMmJRV0pocTVwR3hteVc5SlUzUV9rXzFGczVsVTd3OWpjWmNpQTRLUTZZQ0h4emJ2Mi1ycjJMTzhRNmdVSGN6QnZFMHNzaGlsLW8tT3l1cGtlMWdxWlR1WjE1bEhzRkRORzJSa1lMVGdZMEV2dEtBM0V5d241ZW9LNndqSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MWp5WV9heVBmdUZwUWhNUVY0UnpOTWJJZVdfZ0JKRXJsT1FESW00M1VRMkFVSlBHbF9ZSTdrUW9BcllKanRyTkxIOU9IZ2VLVkJUNWpvbUozTThoY0ZfaGZTRWRJOHVDc3Q3RXZNN2p3bG5zc2xuQVhzWHl6OG8?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Туреччина не планує воювати з Хутами за Саудівським договором",
-      "summary": "Туреччина, за словами міністра оборони Ясара Гулера, не планує брати участь у бойових діях проти Хутів у рамках договору з Саудівською Аравією та Пакистаном. Гулер заявив, що будь-яка підтримка буде спрямована на посилення відлякування, а рішення про допомогу підлягає юридичним процедурам і парламентській затвердженню. Угода про спільну оборону підписана в серпні.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-23T20:27:03+00:00"
-    },
-    {
-      "title": "Єгипет, Саудівська Аравія, Туреччина, Пакистан заявили про інстабільність через ізраїльську окупацію",
-      "summary": "Єгипет, Саудівська Аравія, Туреччина та Пакистан оголосили у спільному заяві, що ізраїльська окупація є головним джерелом нестабільності в регіоні. Зустріч відбулася в Стамбулі, вони закликали до швидкої реалізації двостанної рішення, підтримуючи палестинську державу на межах до 1967 року з Східним Єрусалимом як столицею.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-23T21:21:42+00:00"
-    },
     {
       "title": "Таїланд вітає діалог США та М'янми, очікує обговорення в АСЕАН",
       "summary": "Таїланд офіційно привітав активізацію дипломатичного діалогу між Сполученими Штатами та М'янмою. Країна також висловила очікування, що Асоціація держав Південно-Східної Азії (АСЕАН) розпочне переговори щодо визначення майбутнього політичного статусу М'янми. Ця позиція відображає спробу регіональних лідерів координувати зусилля щодо врегулювання кризи.",
@@ -1411,6 +1397,20 @@
       "source": "Bilateral Meetings",
       "publisher": "Kyiv Post",
       "published": "2026-10-25T11:51:31+00:00"
+    },
+    {
+      "title": "Ердоган звільнив радника для поновлення стосунків з Азербайджаном",
+      "summary": "Президент Туреччини Реджеп Тайіп Ердоган звільнив головного радника Октай Сарала, щоб задовольнити вимоги Азербайджану та поновити дипломатичні стосунки. Ця дія стала реакцією на конфлікт, спровокований заборною хусток у школах Азербайджану та критикою Баку щодо «гегемоністських тенденцій» Анкари. Звільнення Сарала, який публічно критикував рішення Азербайджану, має забезпечити присутність президента Ільхама Алієва на саміті Організації тюркських держав у Туреччині, що відбудеться наприкінці цьо",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-25T16:30:47+00:00"
+    },
+    {
+      "title": "Король Саудівської Аравії провів переговори з прем'єром Греції в Ер-Рияді",
+      "summary": "За даними Саудівської агентності новин, Його Королівська Височість Корінний Принц Саудівської Аравії провів офіційні переговори з Прем'єр-міністром Грецької Республіки. Зустріч відбулася в Ер-Рияді. Текст джерела не містить деталей щодо конкретних тем обговорення, підписаних документів чи заявлених результатів, крім факту проведення двосторонніх дипломатичних консультацій між лідерами двох держав.",
+      "source": "Bilateral Meetings",
+      "publisher": "وكالة الأنباء السعودية",
+      "published": "2026-10-25T15:50:54+00:00"
     }
   ]
 }

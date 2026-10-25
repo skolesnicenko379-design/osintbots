@@ -10,7 +10,6 @@
     "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026",
     "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring",
     "https://defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas",
-    "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
     "https://defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time",
     "https://defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says",
     "https://defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says",
@@ -23,6 +22,7 @@
     "https://gov.uk/government/news/joint-press-release-on-the-r4-ministerial-meeting-in-istanbul",
     "https://middleeasteye.net/live-blog/live-blog-update/germany-france-and-uk-ready-negotiate-iran-german-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
+    "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
     "https://middleeasteye.net/live-blog/live-blog-update/israeli-occupation-main-source-instability-region-egypt-turkey-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/italy-demands-release-five-activists-detained-israel-during-west-bank",
     "https://middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
@@ -48,7 +48,6 @@
     "https://militarnyi.com/uk/news/rogeran-4-vpala-energetychnogo-v-moldovi",
     "https://militarnyi.com/uk/news/shho-vidomo-pro-novi-versiyi-geran-5",
     "https://militarnyi.com/uk/news/sparta-vypustyv-100-bpla-lantset",
-    "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
     "https://militarnyi.com/uk/news/tymchasovo-prypynyty-bojovi-diyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-krymu-stavsya-masshtabnyj-blekaut-pislya-ataky-droniv-na-energoob-yekty",
     "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
@@ -61,9 +60,7 @@
     "https://navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization",
     "https://navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel",
-    "https://navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmNIeDllazIzTndoSGpiaFBheGlXNXp3WmV4bnBzOHdKWkR5Rkh2eHB3MDlFTHhFbDdGb0tKSGdwTFpXNWppVFB5SjgxSk9tQy1xb21YMHVhb0dCaTdwN04yWWo0aXNZMXpvYmx4OVNBTlNLNDVLYjd3X2w3aHBZOTdydFlvVnVRaXA3UDZkZDBjeW5ITmREY0RRd1dETDYxM1JiRFpMVlFDYVFILWZrUGRiSENfRkVtV2FSWXIzdjRjbUlST3VJcFdjYmszajhWZlE",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHpsWE9aVjNpY3J5OGlEVE5DbzFqRHJTejZlbjAzNG1aNGc5bnVDVmNCc3dtQkh2YnBzUDU3Sk40NTNLMmswQW9aUWdqZjRsdGlnbm5yTHF2RGdueHJOQzZvTFByVXBJNkhZV0Y5ZmRqYVBfWjYtMkMzbjRKMC1QejFnWWlYQ09GWDZWZkV3WlUtUG80ZlZuYmRCUkc0emp2YmZFeGN6SzBSVVJ3SnFwZjcxQS1oeGRoTmZsNnhWNTdzdnUwV3M1SWJOV3Y5QzBXU19LMA",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnFIaDlheEV3azExZ2VDQk5RZk5XNl91MXdfTnEyUVc2Tk9WRWt4RXdWcDV6c1k4d2lVN1dKbHBuRzRtVXlhN004TXNWeWRKNGFBeWlRdk1pT0MyX3hQOWZxb0VKelppeGxQQUQ1UVJuaVRBdDY3bUdiYnVBV283OHZOaHZ0MTJsTUg3WEpET1ZTZDhhV2tmdDBtMnotaDdGdTFuYnBaWkhHd2dDbDdmOG9nbUZuNE0wbjZIYjFKOTJlVEUtaVNDZ1dqRi03SVlzblA1Y3VRSQ",
@@ -77,7 +74,6 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MXNIeGI3OFo3S19XUmloSktkdVV5X2NNVGdQS3VqZjk2WjVnLVpaQzJQWVo0UUxtSUNudGRWTE1fbmJBTDNIZmFHd0tJVmZJOXMwM0lvWnZTRjNvV2xtUGhZZw",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUVpOUjJsWDhGZjlXSWs0OGpVU2x5N3F4WS1zWFlqcTM0LUpjYi05UllUNVpzV3hmSG5GckZiNTNkQlUxOVZINEtWOHBvQ0RaMTMyMVNmQndHTFZmWG1TQzFubk1xQUpNUzhhMjdjZ2d4OF9PcEpMMzllY25UTWtMRFFvUHI3OFlETml3V1pfVnlHdjlwcld2c1k5aVdLdzQyTzY0ZVVqXzlGc2MtQlNIcmplMTJKbm8zNVBSUGdxcGlacG5Gc1ZMY3VoSU5Ud3l2OGxTLVVzZjN3dTRXV2kybHpVem5LTmdFUXNZbmpKOVJQZ0l6cDY3M1VXbFI",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhRnpTU3JGd2NRUDNYRk5kMDBSYXplOHQ1NGhWRnlTSG40WHhybnNmZ1lQWVJFc1NiaE1KaDg5U3NBZHVXSkZ4M3hQTXE5T2NYUFlyWUNRNFZETE5Fb0xGeTZQZXBtcTBzNjFRWG1GT1BJdVlSLXc",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMVBVTFJXT2RCVXNndkx1eEdOakJ5ZkwyWGpzVzBCN0Z0QzQ4dDVha3lsTTRZMUZFZFlJUDBUY2tTeE4tN3I2X2tPQnRIREZDcW5XRFdpY182a1dkaFkyMlE2d3RJUE9nbXpBWWJpbFh6MDl5OHU1VA",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQzJGdFZVcktjU3BkclV4X3JjN0VzTWpPYTU1QXlxalBPWkMwZUhmaXQ0eFV6VTlhOWVFTExxRXRyZ2FRMmF1bW0zSlBVd3dReHUtc3FTRTJzbWxfSHYzLUNsSkRzNVFoNGZFenZTR1oxY2YtZFA4S1VScjRDT2ZDNmE0Zjg",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUy1rektYX01uWE00NWJkNlhYMlV1VDdNN0NfZkdVck9UWjB4Ym5GTnUtRmJURGhRRVZxeXZ5THFNZmFFVEVlanB6M016NkdYT0RhRktZd0tSQ0RsLXdzc05UeS1BVFZSTTd5S1BfVTNRNk1YNnM4MllGU1ZreTFERXZmWjdIaVd2aW4wTExR",
@@ -101,7 +97,6 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3FVS3pnYVdOcGJTSFFtYnNuNlh1N2cxR3dUVHVqY0lWaXV6cHlJTDhhYlFNY3JhM2N2VWU4Z2hHMGExQUt5Tk1lcFpuWVRvZ0drb293WXduQ1hPd2FvMW5oZzNVc1U1NzFTbkxjZUZwWURsTGJBYWdSblBUcW5VWDZRR3NaaUpxdFd4Z1VVYjVtM0xJR252VlBpaHV0N19iN3pwa3JqOEtPYnByRW4zeExocl8",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXpQck1UTm5pRnFnQ1haQ0ttLUFuTTZRYlNTSDRqenZCckdOSTJKZHdBUGw3NmFKdV9ldVpGZldSR0Y3UUZPQ1FWT3ZnemdTZXhNOURSeGFfSndyamFWa25IWVBpUHVpVnlIWFlxTkJSbmJLSWp3WGlvZGtrWWo5SzZrUUkwWWhKZVFFN1BOX0p4WU9lMW1QSmhpLXhZNmUyeTlrZE9fTVRzakgwR3dmZXBrNHRHdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUFDcUFjWlc5YkNCWEIyVWZzLVphMlVxamZDaEhOdGFZVGVOeDZSWHpMQ1JVNE5kbGtQYlZ6bzRoNF9ER05rNGV5R0JHZ2ptNkZIUXpvYzBoU2tuYXVZbzhsMEJXdU5sMnZlUG8zaHIyRXo2NmNPcndBTWM1ZmVKbUNuN0paYXE2T1FZX3VFNEotZGkyYmQ0bjlpbXZDV0MxWUNMb3VXTmhnLWZHTWFZZnM3eERMUQ",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2dPOWJyMWJLY2tQMWFQbTc5ay1QampFc3lPaDFfVm1TY09SZlJYWlNZTVJPV1pMeU5sU3pqd3dZazVnWFZFWVFWbkFqcGd0clBrSTdqdGJOeWZCTDY5VEtmQ3FUSC1jeFhVWHR6YUo0WnZLR1B3WktBOFo3QlE2VXBBNnA4cDRCSXJuOFRCZmZSZ2J5cWpDc05CZDM3SnRsVGNsWUNvUlBlWHpfYzJPTDdKYjBYdks3",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2RXcXMzVVpDMkNzN3Y0OW9PeDM0RFFMMFg5TUVuSnQySzZMZFZQLVFMOWRlT01lSWVzenJZV3VET3pobkMzT2lob09Qd0FSdkhNT0F4bzRJbXJHMjVOem41c3RUSVAzRTE5T2hjOW5XbGc0SC00djM2eTF5RTJmMlIxbDdHUWNQRmFWT2tKY3ozQWNKenF6bEJIZVZWZE82MUlMU1F1dWVuTGFNY3JkZlhHaGJBVHlrZFdj",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFBWWVKMHUtNk1tOGstMXlGR0kyRHVlNDh5UlRxeVBMeEM3N1RQbmV4MHJ1MzBJOWlqNF9iUF93Vm0tR09ianBIYkNCWTJ0Q2hST2NHUnRSYzFYTkx3MjhXNjBYRGZ6NFRRWi1reE05TTFENWlOZnh6QmdJcElpY2VncjdDeXVoekctcGVJVGNybUJJZXdXd05FZnZNMmZveHdsLXRGS1hiZmp6Wmt6RmszaXZkbXdVWkdtMg",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjlyZV93YUVvR2VOVWd0VzZwZm04QjhDZ2tqT3lnTHd0NWM2OUtTakdpSVJKb3ZUWURxOEdvdG1UTlg2NWNOVmV1dVdpWU94VTdvOHQ5R2N3ejNLSmpCeGwtRnZtWGpIU1NHVXp2Q1dSak93ZWlHZXpERjZZR2l2ZTBpV04wYnhiN05qbmxKS1BvelZPWUJ0MnJCUUZMekM1a19tVld2SGwza3AxV3Zfak5tcWVLNGFPU05UMVdkdDlNMlU",
@@ -119,66 +114,6 @@
     "https://twz.com/news-features/on-the-brink-of-epic-fury-round-two"
   ],
   "recent_posts": [
-    {
-      "title": "Іспанський флот і Navantia розробляють фрегат IAMD класу F110",
-      "original_title": "Spanish Navy and Navantia design an IAMD frigate aiming to extend F110 class",
-      "summary": "Іспанський флот спільно з суднобудівною компанією Navantia працює над новим фрегатом IAMD, який є еволюцією класу Bonifaz (F110). Новий корабель матиме розширені можливості інтегрованої протиповітряної та протиракетної оборони, що підвищить захисний потенціал флоту. Це дозволить Іспанії ефективніше протистояти сучасним повітряним і ракетним загрозам у морському середовищі.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class",
-      "published": "2026-10-23T08:57:42+00:00"
-    },
-    {
-      "title": "Казахстан та Єгипет спростили в'їзд для туристам під час візиту міністра",
-      "original_title": "Kazakhstan Secures Easier Entry for Tourists to Egypt During Foreign Minister’s Visit - The Astana Times",
-      "summary": "Під час офіційного візиту міністра закордонних справ Казахстану до Єгипту сторони домовилися про полегшення умов в'їзду для громадян. Подія є офіційним двостороннім дипломатичним кроком між державами. Інформація відповідає критеріям міжнародних новин і не є дублікатом.",
-      "source": "Bilateral Meetings",
-      "publisher": "The Astana Times",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2dPOWJyMWJLY2tQMWFQbTc5ay1QampFc3lPaDFfVm1TY09SZlJYWlNZTVJPV1pMeU5sU3pqd3dZazVnWFZFWVFWbkFqcGd0clBrSTdqdGJOeWZCTDY5VEtmQ3FUSC1jeFhVWHR6YUo0WnZLR1B3WktBOFo3QlE2VXBBNnA4cDRCSXJuOFRCZmZSZ2J5cWpDc05CZDM3SnRsVGNsWUNvUlBlWHpfYzJPTDdKYjBYdks3",
-      "published": "2026-10-23T09:11:41+00:00"
-    },
-    {
-      "title": "Сили оборони ракетами атакували військовий аеродром «Балтимор» у Воронежі",
-      "original_title": "Сили оборони атакували ракетами військовий аеродром «Балтимор» у Воронежі",
-      "summary": "За даними Exilenova+, ураження зазнали стоянка літаків і територія колишнього ВВАІУ поруч з аеродромом. На «Балтиморі» базується 47-й гвардійський бомбардувальний авіаційний полк на фронтових бомбардувальниках Су-34, які застосовують для авіаційних і ракетно-бомбових ударів по Україні. Тип використаних ракет не повідомлено, а масштаби руйнувань і втрати техніки поки уточнюються, тому оцінити вплив на інтенсивність бойових вильотів наразі неможливо.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-baltymor-u-voronezhi",
-      "published": "2026-10-23T09:15:01+00:00"
-    },
-    {
-      "title": "Головнокомандувач Нової Зеландії розпускається через неприйнятні стосунки",
-      "original_title": "New Zealand defense chief resigns over ‘inappropriate relationship’",
-      "summary": "У 2024 році головнокомандувач Нової Зеландії, Аеромаршал Тоні Дейвіс, оголосив про відставку через особисті помилки, пов’язані з неприйнятними стосунками. Його місце займе Віце-головнокомандувач, адмірал Мат Уілліямс, що тимчасово очолить армію. Зміна керівництва може вплинути на внутрішню дисципліну та довіру в Збройних силах, але не має прямого впливу на технічне оснащення.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship",
-      "published": "2026-10-23T09:18:43+00:00"
-    },
-    {
-      "title": "Міністри фінансів АТЕС оприлюднили спільну заяву щодо цифрової інфраструктури",
-      "original_title": "APEC Finance Ministers' Meeting: Chinese Finance Minister Lan: Joint statement on digital financing infrastructure issued - CGTN",
-      "summary": "Під час зустрічі міністрів фінансів АТЕС міністр фінансів Китаю Лань Фоань оголосив про випуск спільної заяви щодо розвитку цифрової фінансової інфраструктури. Подія є офіційним багатостороннім заходом і стосується прийняття спільного документа.",
-      "source": "Treaties & Agreements",
-      "publisher": "CGTN",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MMVBVTFJXT2RCVXNndkx1eEdOakJ5ZkwyWGpzVzBCN0Z0QzQ4dDVha3lsTTRZMUZFZFlJUDBUY2tTeE4tN3I2X2tPQnRIREZDcW5XRFdpY182a1dkaFkyMlE2d3RJUE9nbXpBWWJpbFh6MDl5OHU1VA",
-      "published": "2026-10-23T09:23:17+00:00"
-    },
-    {
-      "title": "Секретар війни США зустрівся з президентом Мальдів",
-      "original_title": "Readout of Secretary of War Pete Hegeth's Meeting With His Excellency Dr. Mohamed Irfaan A - U.S. Department of War (.gov)",
-      "summary": "Секретар війни США Піт Хегет провів зустріч з президентом Мальдів, доктором Мохаммедом Ірфаном, обговоривши питання безпеки, співпраці у сфері оборони та підтримки стабільності в Азійсько-Тихоокеанському регіоні. Зустріч відбулася 12 жовтня 2024 року. Під час зустрічі обговорено можливість розширення співпраці у сфері кібербезпеки та обміну інформацією.",
-      "source": "Bilateral Meetings",
-      "publisher": "U.S. Department of War (.gov)",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWm1SclBFMFV6QVZha1NXUmV1SXBkMnNnM0dtS09jOE4zd0pzYWZ1QzcxRVh6dlkyUl8xR1JCemtpclNNZGxmbzVkUHptZnhJMW5tcWljYjJhN0IwNk5iR3N0OGZRNmJhcFQ1NzFYX0tNdkFDMjBtTUdHOHFjb0dxSU5hRG1mczNBTV9NN2hCZ1FlYkFTbVRhaWRCcm85VDJIUkd4X2N5S3NZWi1JeDFwOVBSUTNPUWZYaXREU1lSLTNiUDJuOGtSZ1VqTDN2dFRMRG4xbQ",
-      "published": "2026-10-23T09:36:23+00:00"
-    },
     {
       "title": "Рада ЄС ухвалила позицію щодо нового корпоративного закону для інноваційних компаній",
       "original_title": "EU Inc: Council adopts position on a new EU corporate law for innovative companies - Consilium.europa.eu",
@@ -1288,6 +1223,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1F3RmpDZFBRcWxKV0ZEamZpLWVHcjBqMEpiWXRSYjNES1Q5dEFodTE4V3Z4RGdCT0E0bGRxeDZjUTlNUzhBLWNtdzVQWjgtWFNUU3UySnY3LWJkZTBzVnNwUkhOWXg2aG9EWDJmbE9TUzZ2RUMyQ3pFc3hYbnozbENCcEN6SHQyVjhha29nX3htclF2NHVBLTgwUTRsVWRXT01yWTRyVXZiaXI1U3h6bGd0Y2Z4NHZ5dmdsT05aOGUtT01R0gHMAUFVX3lxTE10LWhydUlyR09tVm11bkJsUXdtbXFmbzJWXzBMT3ZBZGRtT1hPTkhSSWxNSFpGejU5c1RwZUNHU1lOZ2Q2Um8wbEZCdjRmUVV1ejU0dE1SbjdOZ0N3TFFkblhTNmNGcTdreUd5dFdJQ25UNjlFYWx1TFZqVTZHbUNQNEY4YlZsQXk5bTJMbXhMc0hMcWRuRnAyTkliWmpNU3JhSThwTXdOXzJPa3RxZFFIODZjWG03VXhiVVo5RXpmeUR4OEQwdGRrOExVRQ",
       "published": "2026-10-25T02:19:00+00:00"
+    },
+    {
+      "title": "Іранський спікер не відвідає BRICS у Нью-Делі",
+      "original_title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances'",
+      "summary": "Іранський спікер Мохамед-Багер Калибаф оголосив, що не зможе відвідати BRICS у Нью-Делі через непередбачені обставини, але паралельно паралельна делегація Ірану буде присутня, підтверджуючи участь країни у форумі. Підтверджено, що Іран продовжить діалог з іншими BRICS-дзвінками, розширюючи співпрацю у парламентському секторі.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
+      "published": "2026-10-25T03:15:37+00:00"
     }
   ]
 }

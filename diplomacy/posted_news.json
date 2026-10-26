@@ -1,9 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3NENXVyMlBSempqRkl0bTN0RWFvWTVEZ1lWYm5TVWhIMHd5Qk16RmFCbHl3YllsNUt1SjI0dkZfcHY3cXhlX1BLOGRoeDFlTTRTRk5aUHJ5UU92S1FNNDV0dWlGUDhDTDU3LWdYWXVaNEZqQ3B6SkNCa2FYU21HejB3SVNzWUVONWlXdWRaVUxjMUxXUXBYSUdYYzJJRWhPMzlPTnlVazBpQQ?oc=5",
-    "https://www.theafricareport.com/433708/nigeria-2027-can-tinubus-billionaires-break-peter-obis-hold-on-the-southeast/",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDl3TDNDQXN6c0h3bC1ma29fYlFrN2NGZlVsTlpvNFd2a1BQX3ZiMjhqVUtOYm56Z09wdUFtMnM3U0kyN195Mm91ZWM5aUUwZTY1eU1WSDRxeGlfTUdsZUwxaHhHMlJ2ZVpPTUdZdGZiZ0FMU0tQaHNvTjA4TnlSWk5BZ2dNeWgtX2hpcEhSTU0zbEZPbE52WVZIS2JKdFRFc3ZIbmhsZkF0MzFicGNNWnFwRTdTbTdWT3pFNFZiV01KbUlWRjZKdg?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGNraUsweWhyV2dqM2xYOVpxeEJOMzRoMDVHZmthRTBwNWxTaDRhQlhfY2JydEJ2TU1WWmxGaHhxNnEtcHB5b1FpUFB3cE9sSVpwZDIzNDFsakFIMWNLdGVHN3ptS25jcnJsYk8ydlBCQ1BUbk5hUjJTY1YzUG53TVAtc1kzNzhzR0NQM2thd2dtOEJJdExleTctQU8wYmVMaHJ0elQ2VQ?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/no-danger-found-after-tel-aviv-vienna-flight-threat-austrian-airlines",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQandwcFRqN2NKSkZfTGF5U2t1Nllfdmd3b0U1dUpRdkh1LXRoMDlSN2hkRVRjR052dVNkQ1JEWlZuREFqczR3dmp0OXREOURxZTJzN21MYnhIeV8wei0xTHhEUDVVZE9CZFBOZXF4eVN1LVQ4eGV4Q0xXc2Q2UzRkMkdOMVhuVnhISDRSVjRNN2FSd2lEX3ZjcUhzYw?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-arrest-suspects-over-settler-attacks-us-journalist",
@@ -1199,7 +1195,11 @@
     "http://www.africanews.com/2026/10/26/human-rights-activists-condemn-alleged-abduction-of-tanzanian-govt-critic/",
     "https://www.middleeasteye.net/news/shithouse-countries-trump-has-pledged-not-use-such-language-again-adviser-says",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy/",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg?oc=5"
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-burn-palestinians-car-near-nablus-local-sources-say",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWVGTTVQaUxDU0RxZ0o1cy1OWlAxeFZJYTBfNk9MM1JqcVRhTmVRS241MDdVLU9HTkU4b1VVVVJoNlVKMkNNdzFYZUFBUHFyYmQ5Q1RObFFCYm5yMmNzb21jeDZ6eUx2YU5GMTFDSGNpUmVmYmdIdXhlRmNZSHFCZjhzb2lTTGVKT2FJNDBNV01jaU10dnVZNGFiUnNrODhHSmJFTFl0MXh4aXVnY0pSWXhlZGNHS2RlaUdfSUNkdDZyclB6bTQyNXBFb3dDbHJDdUJQTFB1TQ?oc=5",
+    "http://www.africanews.com/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest/",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd2FTX2loRmhyTGRXY2RTYk11b3hIN0pKaG9CcUhadE92LUVSRndlZlVOVkJjR2xRVGxNby1sUEticzhWTDRvY3dYZVVsY1pPZnVuanFMRXhDQzZpNXdMWnBPMnhPZTdBOVhqYkpJeEcydEJ4QklvR1Y1MjYwZWw2T1dJTU9QWFA1MndtSXk5QWNPZ050emo0a2loS3hwUkxTWTJpY2w4R3FUa2taX29xUGt6SnZHQ3NGUi1URVpDRWFPdjZJMkNsRWthRDFrTk9IYzhJOXIwQW9fTG51UkpMR1VpRHdrTm9XdU51aEpzQmptRzhEelE?oc=5"
   ],
   "recent_posts": [
     {

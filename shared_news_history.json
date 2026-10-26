@@ -3,11 +3,14 @@
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
     "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
+    "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
     "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
+    "https://defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
     "https://defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
+    "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
@@ -52,6 +55,7 @@
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
+    "https://militarnyi.com/uk/news/zerno-cherez-bazu-ochamchyra-v-abhaziyi",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
     "https://navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time",
     "https://navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv",
@@ -1173,6 +1177,16 @@
       "published": "2026-10-26T15:02:10+00:00"
     },
     {
+      "title": "Армія США запустила Project Gatekeeper і планує додати до нього провідні моделі ШІ",
+      "original_title": "As Project Gatekeeper goes live, Army plans integration with frontier AI models",
+      "summary": "Project Gatekeeper автоматизує процес отримання дозволу на експлуатацію (ATO), який зазвичай триває місяцями: розробники завантажують код у DevSecOps-платформу армії США й майже в реальному часі проходять перевірку в ізольованих контейнерних середовищах. Згодом до системи додадуть провідні моделі ШІ для посилення наявних інструментів безпеки, зведеної звітності та пріоритизації виправлень, але які саме моделі, не розкрито. Якщо проєкт спрацює, комерційне ПЗ швидше потраплятиме до армії без пом'якшення вимог безпеки, а вендори зможуть перевіряти код ще до офіційного конкурсу.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
+      "published": "2026-10-26T15:28:18+00:00"
+    },
+    {
       "title": "Зеленський: Київ майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
       "original_title": "Україна майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
       "summary": "Затримка стосується ракет для ЗРК Patriot (PAC-2 і PAC-3) та NASAMS, у якому використовують AIM-120 AMRAAM, AMRAAM-ER і AIM-9X Block II. За словами Зеленського, за 90 днів Україна отримала від США лише 24 ракети для Patriot, хоча частину контрактів уже оплачено. Якщо постачання й надалі зволікатимуть, це обмежить спроможність ППО перехоплювати балістичні й крилаті ракети та літаки, а українській стороні доведеться шукати запаси PAC-2 і PAC-3 в інших партнерів.",
@@ -1233,6 +1247,16 @@
       "published": "2026-10-26T16:40:40+00:00"
     },
     {
+      "title": "BCE Consulting окреслила ключові елементи архітектури багаторівневої ППО",
+      "original_title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+      "summary": "У джерелі лише анонсовано, що консалтингова компанія BCE Consulting описує, що потрібно для захисту американських військ за допомогою багаторівневої протиповітряної оборони. Конкретних технічних характеристик систем, переліку засобів чи термінів у наведеному тексті немає, тож оцінити їхній практичний вплив неможливо. Це аналітична публікація, а не повідомлення про нову техніку чи бойове застосування, і вона не повторює попередні новини, зокрема про Helsing Contra.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
+      "published": "2026-10-26T16:41:59+00:00"
+    },
+    {
       "title": "EU Council встановив межі вилову у Балтійському морі на 2027 рік",
       "original_title": "Baltic Sea: Council reaches agreement on fishing opportunities for 2027",
       "summary": "Рада ЄС ухвалила нові обмеження вилову для хижих риб у Балтійському морі у 2027 році, включаючи оселедці, шпроти, тріску, лосося та камбалу. Скорочення квот обмежить постачання цих видів, що може підвищити їхні ціни на внутрішньому та експортному ринках країн Балтії. Підвищення цін підтримає доходи рибальських компаній, покращуючи їхню ліквідність, але може знизити обсяг торгівлі, впливаючи на торговий баланс регіону.",
@@ -1261,6 +1285,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
       "published": "2026-10-26T17:00:16+00:00"
+    },
+    {
+      "title": "Росія розглядає експорт зерна контейнерами через військово-морську базу «Очамчира» в окупованій Абхазії",
+      "original_title": "Росія планує експортувати зерно через військово-морську базу «Очамчира» в Абхазії",
+      "summary": "За даними Bloomberg, логістичний оператор Modern Way запропонував вивозити зерно в контейнерах з порту на базі «Очамчира» до турецького Гебзе. Стандартний 20-футовий контейнер вміщує близько 23 тонн зерна, а порт має обмежену пропускну спроможність, тож це дорожче за балкери й не замінить чорноморські термінали. Військове значення пов’язане з використанням бази для цивільної логістики на тлі українських ударів по російських експортних вузлах: це може підвищити її значення як цілі, але підтверджень таких планів поки немає.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zerno-cherez-bazu-ochamchyra-v-abhaziyi",
+      "published": "2026-10-26T17:14:35+00:00"
     },
     {
       "title": "Міністр закордонних справ Швейцарії візьме участь у переговорах у Північній Кореї",
@@ -1311,6 +1345,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkxteFkzcWFkS1paZ0VTUDhkV0tUczcyRmpJVEtfNmZtUEF0c0F4cHFIbjRLZW91MlR1M2ZHYnVzWC1rbERBUTBhM2ZuNjZQN3FQci02SFp5c3N1d2xpYUV2T1JxU1FQcnBCeF8tUmhIcWtKSFR0RlJRanhvTVVaVXM1MG13ZXEwdFpCdmFjaUowSTg0ZjRYYnlzMFhLQXhXakhHQdIBqgFBVV95cUxOb1I0WmRhbXlPMXZTcVhlSWdYVmdVMF92OENUcEFwSzVvNUs2MDZUR1gxMG5uUjlRUGpaRG0xZWFQSmhqdU53WFlmVmY5X3FqRnJvbXFodTJSZnRwaGwxbllxRFZzRHZXSUM0eDFmVGdfV3dxRVJtakJfNjc1OTU2Z2RuYUQ2MTBYem5iYTJ6R0o2V1NmXzZ6ZV9EeUpUZEY4VkxWM2F6RENjdw",
       "published": "2026-10-26T18:00:00+00:00"
+    },
+    {
+      "title": "Helsing представила систему протиповітряної оборони Contra та два нових перехоплювачі",
+      "original_title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
+      "summary": "Компанія Helsing анонсувала AI‑керовану автономну ППО Contra, здатну одночасно відстежувати та збивати сотні‑тисячі дронів і ракет, інтегруючись із існуючими системами. У комплекті – два нових перехоплювачі: AD‑1 Inferno з реактивним двигуном, що може патрулювати, працювати в ройах і повторно атакувати, та AD‑2 Ambush на твердому ракетному двигуні, що досягає Мах 2,5 і має радіус дії 20 км. Це може суттєво підвищити доступність і ефективність протиракетної оборони для країн НАТО, забезпечуючи автономне вогневе перевагу до 10 км висоти.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
+      "published": "2026-10-26T18:39:07+00:00"
     },
     {
       "title": "Сербські переможці хочуть зупинити експорт зброї в Україну",

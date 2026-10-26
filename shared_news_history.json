@@ -66,7 +66,6 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkMzdEhmMzlCeUt4NGtwa21ld0FwaFpwakxpTEc1OC1OUW80bk1OMFA5VmR6OVNRMGg0STJmUlRPaldlRjQ3YTl5akllX0l1OW1FQXlxS3N2X0VjVGFrOUVxU0lNcjdGR0EwLUNMdnBUajdNbE1vazZCTTFaY3AtZTAtOTgyVldkZEVnRF9NcFgybC1nMXU4",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGlJckdULWtiOWgxRDhSYVEyY3V2cEw2UTFjREs2MzNPYk11RzRpRVZHTGstYU5nQ3N3VTloQTNxc2V3b2VQZ1BpVzZpMG1wejQ2d1JWTFZKcFZkWXdHM1JnLUU3ZUtrR2RnUWhiQU9LaFMzN1hUYVFYTUtfeHFZbEhhWXMzYjRoZktSQ0lLRkhkY1JTMDNaVW8zMDZGUQ",
-    "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjRwLWEwYmdNWEp3THJNdHZvWWpkZzdzQ19OcG5jenZNSk5HUXJDcHJ4U04xcDRtV2JXRzUySXRxS0MwMmoxNGhScFd0aVBPRTd6Mmt6MHBIcFhONFJQY2hyVUpkSTVOZ0tSalFrcmFzZnlXa3B3Ml9KdTFYR1VhaEg4eUdOQk1iQVdMa2RJd0htSGVhTmxiX1FjZk9vQ0k2X0E",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOU8wQktwT3F1Ym1OUjFiSjdxLTFxOXRBTW1jbXBKcXR0LV9UUUNzWHlCd1R0MHVaUDVaaTlVMzhXNXltNXU2TXZOM1p5U3FxOEt3VEo1YndweHk3Y09aZ2NLQ2JjcHlEcGcwM3NneUZMUGZublBhOHgxUm9RN0YzWVZLUmduNkFyRC1aQ0xSU3lYS2FVbS0zd2gwb25mcXhEY2hCMHdydw",
     "https://news.google.com/rss/articles/CBMipwJBVV95cUxOV0lUeGFqNldEempvNGM3YllYbmlyUGp6R3RrMWVVZEJfOUtEb1o5R1FOU3dMaEJLbktMXzh6R3pZODdaUDJtLVVOdUZrSUd2bU5rMm1pdUtuVG9OakJ1YWpuNGtmTzNQUzJFM0sxSHZFTkNMMkQ4M25HNkNfUUo2ak9JNmY0aldJMzIwRWhYUHVEdmhvLUNESndSa0FnRHZzWXRHZTBITHJ5dDV2M0xnMWJMdE1oZmJTUVFBOEhEdjRmckJxRW9OUTFzY18wZUR6UHg2bjlDZ2V1NXN4VmxNMWk0VmZkZno0RmhhUzhYQWU5cF9VLWRta3dpeWN3LU5rSGpmZEtidXhGNVVfQlB0TnJYQll1YWJzcTZiekE5bklyeE5nV0FJ",
@@ -92,16 +91,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Угоду про ВТ Індія–ЄС підпишуть до грудня 2026",
-      "original_title": "India-EU FTA to be Signed by December 2026, Implemented by Early 2027 - Jagran Josh",
-      "summary": "Згідно із заголовком Jagran Josh, угоду про вільну торгівлю між Індією та ЄС планують підписати до грудня 2026 року, а запровадити на початку 2027 року. У доступному тексті немає даних про тарифи, обсяги торгівлі чи умови доступу до ринків, тому оцінити ефект у цифрах неможливо. Названі терміни задають орієнтир для торговельної політики: вони вказують на можливу переорієнтацію торговельних потоків і диверсифікацію ринків для обох сторін. Реальний вплив залежатиме від остаточних умов угоди та її ратифікації.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Jagran Josh",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdFl6UnhFV2NhR09fS09QU25zbXpzUDd2OHJrN1ZPUmFOZUtsNkRReFk5eDh0bkhRaWYyRG84bmVCcGM3LXg4NzFVRmpyN1VhWVBjTllla1p0SnE1Y0lzUmVyQ19tTF8zYzhCX2s3dVZLV0JsM2RnR3kwRE5ZbmwzZVBsXzdKN01uSTR2akM4cVdvamVxd1Z0M3FzelgyaTQwMjJlLURGUjZYaWI2OUtRajB0cVI3Q0R5TlNDY19QYW1fS1hQSlJVSWxFdXMzWWwwRXB0dEc0RmQzVHRnMUJrVHMteDFiai04ckFOT1BXOVk3cXlnTXdNdjR2MWdXWHR1Y2RGc3pEVGtCUXVwWU0xbGFrajhhT1VoUkR2c2dn",
-      "published": "2026-10-24T07:03:45+00:00"
-    },
     {
       "title": "Міністри закордонних справ 8 країн обговорили конфлікти в Істанбулі",
       "original_title": "Joint Press Release on the R4 Ministerial Meeting in Istanbul",

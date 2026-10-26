@@ -2,10 +2,12 @@
   "links": [
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
     "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
+    "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
     "https://defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
+    "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
@@ -42,12 +44,14 @@
     "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
     "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
+    "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
     "https://navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time",
     "https://navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv",
+    "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia",
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
     "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
@@ -1171,6 +1175,16 @@
       "published": "2026-10-26T15:02:10+00:00"
     },
     {
+      "title": "Зеленський: Київ майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
+      "original_title": "Україна майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
+      "summary": "Затримка стосується ракет для ЗРК Patriot (PAC-2 і PAC-3) та NASAMS, у якому використовують AIM-120 AMRAAM, AMRAAM-ER і AIM-9X Block II. За словами Зеленського, за 90 днів Україна отримала від США лише 24 ракети для Patriot, хоча частину контрактів уже оплачено. Якщо постачання й надалі зволікатимуть, це обмежить спроможність ППО перехоплювати балістичні й крилаті ракети та літаки, а українській стороні доведеться шукати запаси PAC-2 і PAC-3 в інших партнерів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
+      "published": "2026-10-26T15:40:46+00:00"
+    },
+    {
       "title": "Ліван розпочав розширення портів Бейрута й Тріполі після вступу до IMEC Ports Club",
       "original_title": "Lebanon begins expansion of Beirut, Tripoli ports after joining IMEC Ports Club - Arab News",
       "summary": "Згідно із заголовком Arab News, Ліван почав розширення портів Бейрута й Тріполі після приєднання до IMEC Ports Club. У наданому тексті немає даних про обсяг інвестицій, джерела фінансування, потужності чи терміни. Тому оцінити масштаб проєкту неможливо. Лише за заголовком можна припустити, що Ліван намагається підвищити роль своїх портів у логістиці коридору IMEC. Реальний вплив на торгівлю й інвестиції залежатиме від подальших деталей проєкту.",
@@ -1189,6 +1203,36 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1Z1Qk4tanI0Q2ZETU43S0tUYVBPQzIzdTNGRWxDLWFEWm9DM2plZW53cnBMZGE2S3ZHNWlmREx1czJFNURmUV9MVWlCcXpoWXJxenlFbDlNYmt1NWd3bHFDaXNiNEFTRkJvc1JsdGY4OEw2T0JDTlRNMlFPQVJTWUcxQmt3ZnZBMGNrYVhIUVVqRFNuNGNmcEJyVUptSjdjTFE",
       "published": "2026-10-26T15:54:53+00:00"
+    },
+    {
+      "title": "Smack Technologies отримала контракт до $7,5 млн на ШІ-прототип планування операцій для SOCOM",
+      "original_title": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
+      "summary": "Техаський стартап Smack Technologies прототипуватиме для Командування спецоперацій США платформу Omega, яка генерує варіанти дій для спільних кампаній. За словами засновника Енді Маркоффа, система пов'язує цілі, тактику й завдання в єдиний план і дає змогу переглядати його за лічені секунди. Вона спирається на невеликі спеціалізовані моделі: від класичних алгоритмів планування до глибокого навчання з підкріпленням. Вони працюють локально на розподілених вузлах без постійного хмарного зв'язку, а сторонні великі мовні моделі застосовуються лише обмежено. Це може прискорити штабне планування й пі",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
+      "published": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "title": "Ексклюзив: керівник SOUTHCOM шукає безпілотне річкове рішення, приймаючи автономію",
+      "original_title": "EXCLUSIVE: SOUTHCOM chief seeks unmanned river solution as he embraces autonomy",
+      "summary": "Генерал Фріджіс Донован оголосив про потребу у автономному річковому розвідницькому судні, що поєднує безпілотні поверхневі, повітряні та підводні платформи. Ці системи, розроблені під специфіку Південної та Центральної Америки, дозволять збирати дані про нелегальну транспортування наркотиків і підтримувати місцеві сили у боротьбі з наркоторговцями. Впровадження таких суден підвищить ефективність розвідки і зменшить ризик для військових при операціях у річкових районах.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
+      "published": "2026-10-26T16:30:00+00:00"
+    },
+    {
+      "title": "Ізраїль постачить Кіпру патрульний корабель з передовими морськими системами",
+      "original_title": "Israel to Supply Cyprus with an Offshore Patrol Vessel Equipped with Advanced Naval Systems",
+      "summary": "26 жовтня 2026 року Міністерства оборони Ізраїлю та Кіпру підписали угоду про постачання Кіпру новітнього патрульного корабля типу Offshore Patrol Vessel. Судно буде обладнане сучасними радарними та сенсорними системами, системою управління вогнем та можливістю інтеграції безпілотних літальних апаратів. Це підвищить морську спроможність Кіпру у сфері патрулювання, виявлення загроз та забезпечення безпеки у Середземному морі.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
+      "published": "2026-10-26T16:56:46+00:00"
     }
   ]
 }

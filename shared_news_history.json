@@ -13,6 +13,7 @@
     "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
+    "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
     "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
@@ -20,6 +21,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
     "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
     "https://middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
+    "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
     "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
     "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony",
@@ -27,6 +29,7 @@
     "https://militarnyi.com/uk/news/brytaniya-ta-frantsiya-naybilshi-desantni-navchannya-za-20-rokiv",
     "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
+    "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
     "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/frantsiya-litak-chorne-more",
     "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
@@ -111,13 +114,12 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVd6MU4tVWtqaGE0UGhZLVVyWFdqaE5xMW5RTXJTbWR2WElmd045a2M2WU54bFBJOUgxaXpqRzBJVVFHNWhGVVA2dUtyVFE1X0lkeHJueGlOYW9OMkpyM3JDZlpZaE1ORkF5bzBGbkd1d3V2V3dmbC0yem85OV9FTnk2YW11dWRVQ1dWeEREcURFa0c3RlI1bUJ3WndGNzRQNEszZUdHV3JkY1Y4MzVuZzNnV1NFY2ZoRGJn",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUM2MGpNOUVkeVJHdDFsMmhubHZ0eTQyYzFSMVlxdG05NFRVRE41YW9adGExX3VYZ3FveXZ2NmR2WXo5aVhjZWw4SXcwSHJ2WFhLNlFUWFlackstNi1LT2VRVV96U01Ea3RpcXJZMHg0V09QZzhOVEU5WnZNMTdnRkZMWUYxdmlQelYyeVU1QWtYNHVfRTF2UmNLLXRLcWJtM2d2eWJmUGhQWmxnSXJCVFFlOUx4UGQwQllEUUVn",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0N4d1oxcnpqYjE3dUU1X0xaNVM0VG5ZWGhrRE1GVGNFWHIyUmVGTU1kNFlCTEZ2aVptYUdSX0FaREZnN01pRE1BSFFLcnhQTGprY3RIVmt1LUw5QjJSbUlzcm5GZVRaYUVHQWJtZDFTZnVKQ2FZWDB3R2tDSzdoWVJMaVdRbmRiR21QM3pGU1ZRSzRCdjd6dXJpeWp0SURjOTBpZXplbzR4VHhoZGlQM25Hd2VvclBQelRMRzJGa9IBxAFBVV95cUxOaHRtNmRUV2gtX2N4MVNPaVdLQ3ZwRmVIN2gwazVNT0NPU2dxTTQtZDlfbDJfTF94ZVYzUGFnd3hTWXdFa2pCbmk1dkp6WVhtUDRiai1mc1R2em1SLXFzSUxEb3dVRHRDZkFUbkdkdDl4OTNaWnZlb2VLLW1QRWpPUURZSGVkZ0kzMEk2ZFNwODBpS0loajhzcmFtVjMyeG5Db29BckRoSGtqcDh1S25hc1hIZmdOWnVuTzBMdWZlUWU5MXg1",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNoaUFIX3o3YWpXQ1VCejZpZ1MtUWtuT0g3bWhfclVKYWpJZVlrMEVDcHBjZW9HblJ5Y25ORWlMSkxPeXBWazZoWFZrVlktdWoxbkhFTjNvX1BJNU1Ka3c0RlhVdWRJQkxHTUN6eS1FWmpKSnpiazVIREtmVHo1ZWxaTWRYMkpwRmJQM0N2MWwwMmlXQnNYRWxtY1Rkb0ltWE9jQTFZUmxHQlJpVjVyZXlZQUZ4SjNKOHZER2JTLWs",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNfemVreldiaTh5YmJGRHFicl9PZFNWNUx6TEZEUVVRUjhyM29XLXlvbGlBSVYyeklhUXdpeFJpRnZwWUN5MjVOdTg4am1UdmZFZ0hrQ1JMYnpOWlBabG02RktIT3FHY0RjMFJHR2F2dmtJSEhNdU9fU3BUSzdIeDEzVThneUdKMlhDNHBoRHB3T0FsM0hPTzRZODFPOWxRQXQ3WkxxVVBlck1xNkxkeWpDTzVSQlB5TFpoc25fYW0",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1F3RmpDZFBRcWxKV0ZEamZpLWVHcjBqMEpiWXRSYjNES1Q5dEFodTE4V3Z4RGdCT0E0bGRxeDZjUTlNUzhBLWNtdzVQWjgtWFNUU3UySnY3LWJkZTBzVnNwUkhOWXg2aG9EWDJmbE9TUzZ2RUMyQ3pFc3hYbnozbENCcEN6SHQyVjhha29nX3htclF2NHVBLTgwUTRsVWRXT01yWTRyVXZiaXI1U3h6bGd0Y2Z4NHZ5dmdsT05aOGUtT01R0gHMAUFVX3lxTE10LWhydUlyR09tVm11bkJsUXdtbXFmbzJWXzBMT3ZBZGRtT1hPTkhSSWxNSFpGejU5c1RwZUNHU1lOZ2Q2Um8wbEZCdjRmUVV1ejU0dE1SbjdOZ0N3TFFkblhTNmNGcTdreUd5dFdJQ25UNjlFYWx1TFZqVTZHbUNQNEY4YlZsQXk5bTJMbXhMc0hMcWRuRnAyTkliWmpNU3JhSThwTXdOXzJPa3RxZFFIODZjWG03VXhiVVo5RXpmeUR4OEQwdGRrOExVRQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVhqOGN4Tl8wN2ZBVEVfT1BWX0NkVGlHSFNVbzJsLTRkMkRSb3I2ajVBSllyZDhydTBPVWNpNWVMYlVZck5xLXV4NTFFd1p4eEhueko5S1hGaDcxOGpJR2gwb3hBV191aVIwYWZuU184ZkgzNmNKLU9aa01aa0M4V2ItLXFhYTJWRzZEYWJNb01NV1E3Mlp0RXp0czV5U19XYU9ZeUdJemtmeURTaTMzZ1lOT055Rks0ZFhnVk5Jb0g0ZHJ1WXc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUZqZEVaQVN6WHdBZ2lwVUJKTGhGSnhFLUdoYnJhNFN0STVXcGhpTG40QUU1Snc0aDFfWC11Y2psU2k0RVdQaHVmblQ5QnVSc1R1SmdBSm5HT3l1ZG1TSnc2dWVPS0ZGNURYcXl2ODRrQnlScjdSTWJEanVSeG5BOVF3dkdiVzJxaEdSUnpQSkpjdWJvT0EzYzBXMGIwZmFrTFdBYVI5TVZYN2tEeHBiTVF1OUQ3Z0lxMmZ5VWIwMmpQd0FIQXU00gHMAUFVX3lxTE5jZ0xBQUVkWFhxLXE5djg5UmlFZVkxREtWSG95aWpRTTdaVmFxZEtUWDlZYTVqazVUeEZMLWpjcDMxazMwenRGUDkwV0hNNDVzMWFIRjQxZkp2RHM4eE9uT2FJc3N5a3VhazlxQl9GaklzZU55WGRUYmZWdW94dUpwRXdiWUh6ek5tTUJlZlBmcWlzNUhQWXBLaVFZLXhfOWtkeU84NERqVUExa0ltc1FHQzV3S1NxR3lZNDNXZkh6TnVxb0ZXb1IxdU1ubQ",
@@ -127,26 +129,6 @@
     "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara"
   ],
   "recent_posts": [
-    {
-      "title": "Обвал акцій Китаю на $3,5 трлн не приваблює інвесторів",
-      "original_title": "China's $3.5 Trillion Stock Rout: Why Low Valuations Aren't Enough To Entice Investors - NDTV Profit",
-      "summary": "Згідно із заголовком NDTV Profit, розпродаж на китайському фондовому ринку сягнув близько $3,5 трлн ринкової вартості. Низькі оцінки акцій самі по собі не заохочують інвесторів повертатися, тобто попит стримує недовіра, а не ціна. Інших цифр і причин розпродажу в матеріалі немає, тому масштаб і терміни корекції оцінити неможливо. Макрофінансовий наслідок: слабкий ринковий настрій може стримувати приплив капіталу в китайські активи та підсилювати тиск на очікування щодо внутрішнього попиту й політики Пекіна.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "NDTV Profit",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1F3RmpDZFBRcWxKV0ZEamZpLWVHcjBqMEpiWXRSYjNES1Q5dEFodTE4V3Z4RGdCT0E0bGRxeDZjUTlNUzhBLWNtdzVQWjgtWFNUU3UySnY3LWJkZTBzVnNwUkhOWXg2aG9EWDJmbE9TUzZ2RUMyQ3pFc3hYbnozbENCcEN6SHQyVjhha29nX3htclF2NHVBLTgwUTRsVWRXT01yWTRyVXZiaXI1U3h6bGd0Y2Z4NHZ5dmdsT05aOGUtT01R0gHMAUFVX3lxTE10LWhydUlyR09tVm11bkJsUXdtbXFmbzJWXzBMT3ZBZGRtT1hPTkhSSWxNSFpGejU5c1RwZUNHU1lOZ2Q2Um8wbEZCdjRmUVV1ejU0dE1SbjdOZ0N3TFFkblhTNmNGcTdreUd5dFdJQ25UNjlFYWx1TFZqVTZHbUNQNEY4YlZsQXk5bTJMbXhMc0hMcWRuRnAyTkliWmpNU3JhSThwTXdOXzJPa3RxZFFIODZjWG03VXhiVVo5RXpmeUR4OEQwdGRrOExVRQ",
-      "published": "2026-10-25T02:19:00+00:00"
-    },
-    {
-      "title": "Борг єврозони сягнув 88,8% ВВП наприкінці II кварталу",
-      "original_title": "Euro area government debt reaches 88.8% of GDP at Q2 end - Fibre2Fashion",
-      "summary": "Державний борг єврозони наприкінці другого кварталу становив 88,8% ВВП. У наявному тексті немає даних про динаміку до попереднього кварталу чи року, про розбивку за країнами або обсяг боргу в євро, тому оцінити зміну неможливо. Показник важливий для оцінки фіскальної стійкості регіону та умов фінансування держборгу. Для висновків про вплив на ринки й бюджетну політику ЄС потрібні додаткові дані офіційної статистики.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Fibre2Fashion",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNfemVreldiaTh5YmJGRHFicl9PZFNWNUx6TEZEUVVRUjhyM29XLXlvbGlBSVYyeklhUXdpeFJpRnZwWUN5MjVOdTg4am1UdmZFZ0hrQ1JMYnpOWlBabG02RktIT3FHY0RjMFJHR2F2dmtJSEhNdU9fU3BUSzdIeDEzVThneUdKMlhDNHBoRHB3T0FsM0hPTzRZODFPOWxRQXQ3WkxxVVBlck1xNkxkeWpDTzVSQlB5TFpoc25fYW0",
-      "published": "2026-10-25T02:37:50+00:00"
-    },
     {
       "title": "Іранський спікер не відвідає BRICS у Нью-Делі",
       "original_title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances'",
@@ -1376,6 +1358,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
       "published": "2026-10-26T18:40:15+00:00"
+    },
+    {
+      "title": "Okonjo-Iweala: 72% світової торгівлі лишається за умовами СОТ",
+      "original_title": "Okonjo-Iweala: Despite Global Stressors 72% of World Trade Still Under WTO Terms - THISDAYLIVE",
+      "summary": "Генеральна директорка СОТ Нгозі Оконджо-Івеала заявила, що попри глобальні стресові фактори 72% світової торгівлі досі відбувається за умовами СОТ. Це свідчить, що багатосторонні правила залишаються основою більшості торговельних потоків, попри тарифні суперечки та фрагментацію. Для ринків це означає обмежений ризик повного розпаду системи, а частка поза правилами СОТ становить близько 28%. Інших деталей, як-от методологія розрахунку чи динаміка показника, у наявному тексті немає, тому оцінку варто робити обережно.",
+      "source": "Глобальна торгівля, СОТ і торговельні угоди",
+      "publisher": "THISDAYLIVE",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
+      "published": "2026-10-26T18:49:31+00:00"
+    },
+    {
+      "title": "Британія на РБ ООН закликала активізувати зусилля з пошуку зниклих у Кувейті та Іраку",
+      "original_title": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
+      "summary": "Заступниця постійного представника Великої Британії при ООН Кейт Фостер під час засідання Ради Безпеки ООН заявила про необхідність продовжувати зусилля задля пошуку зниклих безвісти 315 кувейтських і третіх громадян внаслідок конфлікту між Іраком і Кувейтом. Вона наголосила на важливості підтримки Тристоронньої комісії, використання ДНК-аналізу, геопросторових інструментів та отримання інформації від свідків. Британська представниця також закликала відновити роботу Об'єднаного комітету з питань зниклого кувейтського майна та національних архівів.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
+      "published": "2026-10-26T20:07:23+00:00"
+    },
+    {
+      "title": "Полк CODE 9.2 провів дві повітряні евакуації дронами StarGate",
+      "original_title": "30 кілометрів з пораненим: CODE 9.2 провели дві повітряні евакуації дроном StarGate",
+      "summary": "Дрон StarGate, розроблений SkyFall, пройшов 30 км без GPS, використавши AI навігацію, перевез 150 кг, швидкість 105 км/год. Це перша в Україні CASEVAC-платформа, що дозволяє швидко евакуювати поранених, коли наземний транспорт недоступний, підвищуючи виживаність і зменшуючи ризик для солдатів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
+      "published": "2026-10-26T20:08:37+00:00"
+    },
+    {
+      "title": "Судан вимагає відмови від кандидатури Нуссейбе на пост генсека ООН",
+      "original_title": "Sudan decries Nusseibeh UN candidacy as ‘whitewashing' Emirati role in civil war",
+      "summary": "Постійне представництво Судану при ООН закликало держави відхилити кандидатуру Лани Нуссейбе, звинувативши її в «білому пранні» ролі ОАЕ в громадянській війні. Дипломати вказали на відсутність незалежності та об'єктивності еміратської міністрки, яка раніше заперечувала підтримку Раді швидкого реагування. Заява прозвучала на тлі того, що Велика Британія схиляється до підтримки Нуссейбе, яка стала фавориткою після тупикової ситуації в Раді Безпеки щодо наступника Антоніу Гутерреша.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
+      "published": "2026-10-26T20:21:18+00:00"
     }
   ]
 }

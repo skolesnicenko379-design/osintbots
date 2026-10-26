@@ -9,12 +9,14 @@
     "https://defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
+    "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
     "https://middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
     "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
     "https://middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
+    "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
     "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony",
     "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
@@ -64,6 +66,7 @@
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUN3RzRPTXF3R0t4R0FjUVRDTDVFTVFBRV9qNnBwWXpmbmJKNnpWUTRYNVUzUXgwZGpKNTJfWkVJTnlJOXI4SWNyanFVMGdmVVFlSXBXU0ZHcDItS3VnLUpNWjZvWWJ0WVR5dXl4MFFOclU2OXRsRmRjbmdvaThRdUp5TGtzdElYS0wwZFU4LXFpdmMtV01panppNk04UnYwZ2VqcWg3MzdBbGdIcVBUYUl4OUQ2ODY1dEFyaXRoLUh5QnhSUDBONGhpRjhVd1N0UElWa3E5WnNnWVVpd3c",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2VBX053SUR1M2l0LU56R2xuSnh4XzlZY0NHYU16eWtpM2RPM1Y2a3N4b1JVOGk5NEw3QTBiZzRfTGUyb19oVjFMUXpfTWJZUnZVaGktUG9XckxMNllLTXg4ZS1ZRkY4b2lfR0VWdjVqSXRiVUlzcWJIWTdOWTBSTzQ5NUtsTmluY1UycE0tVGE2MFA0SFM2Tk44c2NvM2RPdm1sbUhWMUtVWmJJZGpUSlF2OF9uaTNTclBaaEFkSmxTNnQxSzY4LVc4Z3YzTWJfV21wdXlwUGNGTWZKSHY5cW96bVlBZms",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFV2NzBZYzRQWFRSQjZ1M3BXdE5wRTBKM3pTWndtelRrMG5FYmpVWGJ6eFVzdUpqVTdDSUpFVG9EaExjR1pHN2RDc29zYy1pWmo4azQydEc2WHNQWHEtR3V2MEN0dkZ4c0QtcEhQRWNJVWctYTAwVXA4aGhWdVRGTE96UlI5ZHlkRG1oSXNhUzNQQ0E3MEpGZnpQY19iblB6NFJSV213UUE3QU16VkRPaUZoMm1GSzBDNXBYYWlnMzhZbzB1eEJZMWlSeUFBYWFkN1lRb2FiVnpHaGtMeUZCalpBbWM3Qmc",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXVSc2hqUUhOVm5oNUFLMHVQOUtBbDctbEMxX0NRbnNaMC1YYmhPa1dtc3o4cTZrUHBxdks1cHBvaEwtdkJBUFE4Q2FvMmw5ampRSS1URi1kTlZzb2E2N3BIRTIwcndIdE12ZmtWV2xYMEV6RUcyU0o0bWVnNi1yUHR1RW0wcTJrNzYtU05acjdxMGNsWjRjeE5kTVdEOHRrVDhTdnJseVVRS1ZhMkN6QWktdUxWeTJEZkt6b21FeTJUSlc3djJJcldMcXJCdHNwcTNQaGNGUWxPZmpMVVNhM1JwT1pDZGd2dGpKUExWYw",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
@@ -95,6 +98,7 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEVNUXNKakU4VGFJbENDT1A4bV9VQ3hpOFB0UmNsSy1yRW54RE5VQV9lU1EzNklxVTVVa3U5WTdIVGREN29XM3Z2UTh2NWhTQ0F5MVZDTjlhR0RNNGx2LWFYMWlQSVpYa3UtQnRnTzE4TS1jc01HZU9LY0hETHVWaUVPS2VwRENOc1BfaFFkemtwdWNMdDN2RnJYSUptNExZZnVzS3Zwd3QzTkZKSVBR",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
@@ -1233,6 +1237,46 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
       "published": "2026-10-26T16:56:46+00:00"
+    },
+    {
+      "title": "Велика Британія схиляється до підтримки Лани Нуссейбе на посаду генсека ООН",
+      "original_title": "Exclusive: UK leans towards backing UAE's Lana Nusseibeh for UN secretary-general",
+      "summary": "Джерела, близькі до британського уряду, повідомили Middle East Eye, що Велика Британія схиляється до підтримки еміратської дипломатки Лани Нуссейбе на посаду генерального секретаря ООН, хоча остаточне рішення ще не ухвалене. 48-річна кандидатка раніше була постійною представницею ОАЕ при ООН у 2013–2024 роках, віцепрезиденткою Генеральної Асамблеї та двічі президенткою Ради Безпеки. Її кандидатура викликала критику через звинувачення ОАЕ у підтримці Сил швидкого реагування в Судані та тісні зв'язки з Ізраїлем.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
+      "published": "2026-10-26T17:00:16+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Швейцарії візьме участь у переговорах у Північній Кореї",
+      "original_title": "Swiss foreign minister to hold talks in North Korea this week - Reuters",
+      "summary": "За даними Reuters, міністр закордонних справ Швейцарії цього тижня проведе переговори в Північній Кореї. Матеріал підтверджує запланований дипломатичний візит та зустріч, що відповідає критеріям міжнародної дипломатії. У тексті відсутні додаткові деталі щодо конкретної дати, місця проведення або порядку денного, тому аналіз обмежується фактом анонсу візиту та ідентифікацією учасника з боку Швейцарії.",
+      "source": "Bilateral Meetings",
+      "publisher": "Reuters",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
+      "published": "2026-10-26T17:22:09+00:00"
+    },
+    {
+      "title": "Рада ЄС мобілізувала 4,9 млрд євро для підтримки України",
+      "original_title": "EU support for Ukraine: Council mobilises €4.9 billion under the European Peace Facility - Council, European Union",
+      "summary": "Рада Європейського Союзу ухвалила рішення про мобілізацію 4,9 мільярда євро в рамках Європейського механізму миру. Ці кошти призначені для надання підтримки Україні. Рішення офіційно затверджено Радою ЄС, що є формальним дипломатичним кроком міжнародної організації щодо фінансування безпеки та стабільності в регіоні.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
+      "published": "2026-10-26T17:24:31+00:00"
+    },
+    {
+      "title": "Британія на РБ ООН підкреслила захист дітей у конфліктах",
+      "original_title": "We must protect and build on 30 years of work supporting the protection of children in conflicts: UK statement at the UN Security Council",
+      "summary": "Посол Великобританії Саре Макінтош на засіданні Ради Безпеки ООН щодо дітей та збройних конфліктів наголосила на необхідності захисту 30-річної роботи мандату ООН. Вона зазначила, що понад 40 планів дій дозволили відокремити 220 000 дітей від збройних формувань. Макінтош привела дані про 80% дитячих жертв від дронів у Судані та шкоду інфраструктурі в Україні. Британія підтримала резолюцію 2832 про вплив цифрових технологій на дітей у конфліктах.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
+      "published": "2026-10-26T17:27:21+00:00"
     }
   ]
 }

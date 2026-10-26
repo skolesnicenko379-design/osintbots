@@ -19,7 +19,6 @@
     "https://militarnyi.com/uk/news/dva-litaky-sf-260-zitknulysya-na-filippinah",
     "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/frantsiya-litak-chorne-more",
-    "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
     "https://militarnyi.com/uk/news/italiya-zamovyla-bronetehniku-u-nimechchyny",
     "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
     "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
@@ -43,7 +42,6 @@
     "https://navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia",
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2pUcDhOaHNORGdUSHZ3RDctYlBYX2ZQLU1LTGduSkZxQnAzZDZCSmtKLUxJWElfYVc1OGFjTXZfd25odEItRjdPOFZMVDlJZ1ZNcDlTY3dlWnJTQnd6UnFScnlpb3oyMGJ6Rmd0aEdwekx0TXM1QjBQYUNETFlVRXgwWFhTUDBPZ3hKdW5WZ3dSSTJWcXgwcHBYRzhzQ21JcjRwMHpIWFRlTTVSU1Z0MW1DYl9YLXI0dVdLSy11SGJwemVIdEtkOUVwcl9yUFlVQW42dlpmbGl1cGpFb2JFMHp0VFZCNUJ2RkdhNXRac1M4aTRSOWNTddIB_gFBVV95cUxQTEhIa0t2aUtseldNYlVhb1ZsSEg2ZWZDclk3N2tyV2tFMkZPbEdNcnpkS3RwUDI0aHNha09hbWJsNjBhWHlTRW9YbENpSlVzM3BoaXlWRzVwZmlLMkxmM2JVVDZnZk5SbTNBNnJ2RWd3RlRUWEVENHVuS1ByaGJXa05wUUF4MWdCeExLS1hGQWd3cmRlTWNiSGpkS2NTOGJKaWdDNl9zTTYxa3BKQ1hhTHVzdXJ2Mk5DZGdlMDZZU3FqVmdXNTRWLUhGTzdMMkg2RGdLckxvMk5GaHpQTWUwM1RQZDRSYjNzLXRiTU81bDgwLWV3MVR2WXNPczRsQQ",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmNIeDllazIzTndoSGpiaFBheGlXNXp3WmV4bnBzOHdKWkR5Rkh2eHB3MDlFTHhFbDdGb0tKSGdwTFpXNWppVFB5SjgxSk9tQy1xb21YMHVhb0dCaTdwN04yWWo0aXNZMXpvYmx4OVNBTlNLNDVLYjd3X2w3aHBZOTdydFlvVnVRaXA3UDZkZDBjeW5ITmREY0RRd1dETDYxM1JiRFpMVlFDYVFILWZrUGRiSENfRkVtV2FSWXIzdjRjbUlST3VJcFdjYmszajhWZlE",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXdmZDAxSE81Ty1tbGJ6bXNMbEJad2FSSmg3VHkyQ3V6ZER1aHZYbTNzMThDRGUxX1M5RlhpS2s0SmNCU3pIZjNURXFha3A1TzVTRXZZNXdZN3dXR3JxLXJ1dWZqZ0JXX2JjajdKM3Y2ODA3NUVMekIybEhDa0V5dXhjbU54MnB2YkcxclVpT2R4VzhVUmJiNDNCWktsbU16U3IySk94dFhLRGhIT255bzRMTURZTTdhaWxoRFpNbkFpaEZ6bjA3UXQ0SjBQdVNXQU80aQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXVDZFcxNnNEVW13VHRxSU45QXRpYzZhajJuS2luSV9SdGh2MmVnblp2RlRWUHE3MTlUWmpWbEdxUnQ4enRDS2dYd0ZHQU9PVVRjaThQenVKRk9VaGpETXljYmY5aF9DWGVySFR3YzRWdDhBZ3hGY2t6WVBKR3poSGNzbGtGRWtSVFcxaVBTZmhUbWxna0xVYk9scnV4cmFvcmp2OVVjZVY2ZlFjQ0duZTl6UEM2aVUtdVNsb2cyWXpaNDhVdVZXRURoX1J1VnZOSVZqZlJnRQ",
@@ -66,6 +64,7 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkMzdEhmMzlCeUt4NGtwa21ld0FwaFpwakxpTEc1OC1OUW80bk1OMFA5VmR6OVNRMGg0STJmUlRPaldlRjQ3YTl5akllX0l1OW1FQXlxS3N2X0VjVGFrOUVxU0lNcjdGR0EwLUNMdnBUajdNbE1vazZCTTFaY3AtZTAtOTgyVldkZEVnRF9NcFgybC1nMXU4",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lsejFvd2t5OXFqV0hhaUNRYkIxdlJMZnZwWDJhOHNFOVR0Y2Fna2hkYmtuYWtPUDBNQ3p6SlhtNFcwUWcyMGpRbF9ralJaczRTTVE0MDZFZWN3SWR3Mm9SLTRHY0hkVUNhYzNva3hTMHJPTlBHN1pGek5CaGM2TnJURm10Tmk0bVRkR2U0OHZvV1U1ZjV1eUdR",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjAyUUlSc1ktVGxkTzZmNDhOOUR6OGZTTThqRU5WaFVwMlg2VFB2SU5KckY5dDZBYnFKLWF5MG5xYi14SDk5dDVmODZhaktOUnczbEwwT2NKVHB0al95d1U1Y2VZcC1DOHR1cWRDNURSbUxvNkVWdHZ5QXFwd1FCZVJ4WXN1Y3lnMG1ISzlQRWE2aXVzclFjTGozdWE",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGlJckdULWtiOWgxRDhSYVEyY3V2cEw2UTFjREs2MzNPYk11RzRpRVZHTGstYU5nQ3N3VTloQTNxc2V3b2VQZ1BpVzZpMG1wejQ2d1JWTFZKcFZkWXdHM1JnLUU3ZUtrR2RnUWhiQU9LaFMzN1hUYVFYTUtfeHFZbEhhWXMzYjRoZktSQ0lLRkhkY1JTMDNaVW8zMDZGUQ",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjRwLWEwYmdNWEp3THJNdHZvWWpkZzdzQ19OcG5jenZNSk5HUXJDcHJ4U04xcDRtV2JXRzUySXRxS0MwMmoxNGhScFd0aVBPRTd6Mmt6MHBIcFhONFJQY2hyVUpkSTVOZ0tSalFrcmFzZnlXa3B3Ml9KdTFYR1VhaEg4eUdOQk1iQVdMa2RJd0htSGVhTmxiX1FjZk9vQ0k2X0E",
@@ -73,7 +72,6 @@
     "https://news.google.com/rss/articles/CBMipwJBVV95cUxOV0lUeGFqNldEempvNGM3YllYbmlyUGp6R3RrMWVVZEJfOUtEb1o5R1FOU3dMaEJLbktMXzh6R3pZODdaUDJtLVVOdUZrSUd2bU5rMm1pdUtuVG9OakJ1YWpuNGtmTzNQUzJFM0sxSHZFTkNMMkQ4M25HNkNfUUo2ak9JNmY0aldJMzIwRWhYUHVEdmhvLUNESndSa0FnRHZzWXRHZTBITHJ5dDV2M0xnMWJMdE1oZmJTUVFBOEhEdjRmckJxRW9OUTFzY18wZUR6UHg2bjlDZ2V1NXN4VmxNMWk0VmZkZno0RmhhUzhYQWU5cF9VLWRta3dpeWN3LU5rSGpmZEtidXhGNVVfQlB0TnJYQll1YWJzcTZiekE5bklyeE5nV0FJ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1lGbHV0bE05eTVGdXE1cXd6RlZ2MFltZ1hKOHFhandrNVJEektLb3o1VGt2LW56Mk4tYlZJU1dHQmRBYTRld1FLTFpKQ0lwa3FhckdEY0ZUSWIwVHFJU1BySTRodS1qeXBjbHBzNVVuckNnWmFEdkhtdTlLdjNCUXRJNENBelVGUVFGRXJ1eDJ2bDdtYUI0UndYV2xVV2NIeGNyZjlCX1NXZw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2lyX3Y1elMtUnAwckgtald6MDYxRlNaNjVRbjdvWmZBcTd6aXN5dEpBT3hfMzV0VHNtTWRUMU9KZm1zb1lHajJreE05NXRzN2VYQTBiMzdNRGhhR0V1dGdyT3dOUFE5UmgxZmNrdkx1NGhfTUJCV3pQQUNZdU5KTERteDhUQmlYdkI3djNsZFpSdklHRERvSTg1UDJvTW1QSVEwemdQbk1YR1k",
-    "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRWd0Y1pndVNENXVZQ1hsb201Y2tQbVhtOWpMX3hqWHRZbXJ5cGUxNGdGUDdWZGhpQV91TjJ4dG9KRUU1NDBQR2NscTJrejlSXzN0ZzhmYlJEV2FFZ1Fyd3NLUnhoTU8yR1BBQ0hTWFgwYVlmLXNjdS1fSUVJUFdwa1pZV3FvUXFfQzRocUdNcFdYODdQRlQ0cXpPR1RvTU10d0dFcWZtUWZ2NnRHazl3aHZGMEFfLUhqWXFDaDBYeVVPSUNPNVpfSDJSeW02czNVTjVsM3BPMWZtNjFjeFZZREkxandzX210emRRaXpoUm9zU0Y5OUREUWptTmN1ZVdxV0hxOFRxcS1EUXlmNnU5Tm1NVVlFbzJ6QzV4NXZoSHlENmVfUUlMWXZsRTk",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3RQWWcyY3RLcFdZa01ld1NWdWV1azkzc29yaW5qd3loSFpLYkZKV1NveGJqRzdOd3ZGTktlckhpalhGZHpQdjdBQ1pySWJGbDkxTlZUS3Z3UGRDbEVlSWJ2NE9vSHZDSFJLMkl3X0ZhZ2E3enRYSHpwdTVZSjVIWHpmTFJZUEYtMW9BS0lQVmJsZmhPdEIwSEF0OUk2Y1NRSzZoUHBoQXRDTmYzeHJOYtIBtgFBVV95cUxQVDk1SmtJa3RlV2N2NTEySjdHN2NUcTdkaVZpNG5FdmFqalJfU3BMMDlHQkZ5T3pyM1lxbVJmUHVJSWlkclp2ZGFCN0Y1dldSVHRjTTZSRGdCNnRVckR2Z3VBWEd4cDJmaTlVaklXY003T1hHejh6LWMzTVI2MDZzYkk0c0JrWnZ6bWF5UjJsVnJ2NUVfdGx2OWZQX2JZSTFPMjA3WUNfR1VTQ0hNek9Db2dsb0RxQQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZE9CcnIwV0RnLW0wRDVmNVFXaktWUTh1WUFBNVkwYWJ4VXR2M0xyWktQYTQ3aDhBVnNZOGhrcEVVZUREZVBnTnpydXZkTTRNNXFIR3JRWnZiOVR6WlN5RnlGOTl3UHp4VmRSV2x2dHg4OW02Mlo0ODJralQyLUJTYUgxYm80M0pKRHNWZXpLLVY3Rlc2bDFQUHM0aXIxVGFmUFlvYUhNcUZROGVEWmJSTw",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA",
@@ -87,53 +85,12 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNfemVreldiaTh5YmJGRHFicl9PZFNWNUx6TEZEUVVRUjhyM29XLXlvbGlBSVYyeklhUXdpeFJpRnZwWUN5MjVOdTg4am1UdmZFZ0hrQ1JMYnpOWlBabG02RktIT3FHY0RjMFJHR2F2dmtJSEhNdU9fU3BUSzdIeDEzVThneUdKMlhDNHBoRHB3T0FsM0hPTzRZODFPOWxRQXQ3WkxxVVBlck1xNkxkeWpDTzVSQlB5TFpoc25fYW0",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1F3RmpDZFBRcWxKV0ZEamZpLWVHcjBqMEpiWXRSYjNES1Q5dEFodTE4V3Z4RGdCT0E0bGRxeDZjUTlNUzhBLWNtdzVQWjgtWFNUU3UySnY3LWJkZTBzVnNwUkhOWXg2aG9EWDJmbE9TUzZ2RUMyQ3pFc3hYbnozbENCcEN6SHQyVjhha29nX3htclF2NHVBLTgwUTRsVWRXT01yWTRyVXZiaXI1U3h6bGd0Y2Z4NHZ5dmdsT05aOGUtT01R0gHMAUFVX3lxTE10LWhydUlyR09tVm11bkJsUXdtbXFmbzJWXzBMT3ZBZGRtT1hPTkhSSWxNSFpGejU5c1RwZUNHU1lOZ2Q2Um8wbEZCdjRmUVV1ejU0dE1SbjdOZ0N3TFFkblhTNmNGcTdreUd5dFdJQ25UNjlFYWx1TFZqVTZHbUNQNEY4YlZsQXk5bTJMbXhMc0hMcWRuRnAyTkliWmpNU3JhSThwTXdOXzJPa3RxZFFIODZjWG03VXhiVVo5RXpmeUR4OEQwdGRrOExVRQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQk9hM0V6YUJNS3NXQ2loRFRzejJ6WkdCR0dLaGx5akJEM005TTE5emdNU1dQeUZlal9wNmVMODhsSVBQUnJMT2o3cHJ4b0NhVk1GNU5nQ2FiRUFMOGN4SVM5QTRvekN1ZmFFQ3ZGUDdmOWJqTXBEODNWYmxxZWhtbTFoMDBzaUk2TUFIZERYTkcteXJxLTNWSHJkaVBHc1dHem12SnZfaGdDUmZ3V2pKSHdQNktHZWowTFJxVVBTVWpkLU41",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3YyZFBZYzNOS3pWMUE2eEdHczN2SWtSRUo0M21wQldWRnBkbUF3cW1jUzVYODZ5UVlqN0J1eWJtLUd5RUZDTjFuaFJfeGZNdG1OdFJlRGVoNTBGRXgyQURfMndCTzlXZDJOcHFVMlBSZHJxaHlxbExoamJmR1ZOalA5MV9jYlgxaWdEem9zT285M0ZUMl82a0RYTk9GdjUzYUpiRlVQRy1nLWpBNmNzMVNVRWJsRDBrazVqR0xZaUJyb29QUHN3UFhR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXkxR2FBdHQ4MFEzTUtDT0pHXy1lOXRhWjk0RkxJZWcyUndnb0FhTXdpVHJSMFVsNEFNUlp6cGhGdUxjenZFV2xOUDBDRzMydXZiOTNlSFVLNlhyeTFya3lIZnFqTmQ5bzlRbXpsSVRpbWlfMzU5YWcwU0ltdi1VUWNVeFlFZVg2amZrZEFZRXNxd1QxZHYxWkdpZGdITk1KZUYyNl9tNHd3ejBpUDFDM1JOZ3E2VVRabm01THh6YUM4c1Z3Z0k4VzF0SQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Архієпископ Синаю підпише угоду з Єгиптом щодо монастирського спору",
-      "original_title": "Sinai archbishop to sign agreement with Egypt to resolve monastery dispute - eKathimerini.com",
-      "summary": "Архієпископ Синаю має підписати угоду з урядом Єгипту для вирішення тривалого спору щодо монастиря. Цей дипломатичний крок спрямований на врегулювання конфлікту між релігійною інституцією та державними органами. Точні деталі та строки підписання документа в наданому тексті не вказані.",
-      "source": "Treaties & Agreements",
-      "publisher": "eKathimerini.com",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmNIeDllazIzTndoSGpiaFBheGlXNXp3WmV4bnBzOHdKWkR5Rkh2eHB3MDlFTHhFbDdGb0tKSGdwTFpXNWppVFB5SjgxSk9tQy1xb21YMHVhb0dCaTdwN04yWWo0aXNZMXpvYmx4OVNBTlNLNDVLYjd3X2w3aHBZOTdydFlvVnVRaXA3UDZkZDBjeW5ITmREY0RRd1dETDYxM1JiRFpMVlFDYVFILWZrUGRiSENfRkVtV2FSWXIzdjRjbUlST3VJcFdjYmszajhWZlE",
-      "published": "2026-10-24T09:42:21+00:00"
-    },
-    {
-      "title": "Іран підготував план знищення підводних інтернет‑кабелів у Перській затоці",
-      "original_title": "Іран підготував план знищення підводних кабелів в Перській затоці у разі нових ударів США",
-      "summary": "Іран склав докладний план атак на сім основних підводних інтернет‑кабелів, прокладених дном Ормузької протоки, у випадку відновлення ударів США та Ізраїлю. Операції передбачають не лише їхнє пошкодження, а й ускладнення ремонтних робіт через обмежений доступ суден і підвищені страхові витрати. Пошкодження кількох кабелів може призвести до затримок інтернет‑з’єднань, фінансових транзакцій та хмарних сервісів у країнах Перської затоки, хоча глобальний вплив залишиться обмеженим.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/iran-pidgotuvav-plan-znyshhennya-pidvodnyh-kabeliv-u-perskij-zatotsi",
-      "published": "2026-10-24T10:02:18+00:00"
-    },
-    {
-      "title": "Президент США Трамп зустрічається з Президентом України Зеленським на АГП ООН",
-      "original_title": "FILE PHOTO: uS President Trump participates in a bilateral meeting with Ukraine's President Zelenskiy during the 81st United Nations General Assembly in New York City - The Lufkin Daily News",
-      "summary": "Під час 81-ї Агенції ООН у Нью-Йорку президент США Дональд Трамп провів двосторонню зустріч із президентом України Володимиром Зеленським. Обговорили питання безпеки, підтримки України та співпраці у сфері оборони. Зустріч відбулася в рамках загальних засідань АГП.",
-      "source": "Bilateral Meetings",
-      "publisher": "The Lufkin Daily News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRWd0Y1pndVNENXVZQ1hsb201Y2tQbVhtOWpMX3hqWHRZbXJ5cGUxNGdGUDdWZGhpQV91TjJ4dG9KRUU1NDBQR2NscTJrejlSXzN0ZzhmYlJEV2FFZ1Fyd3NLUnhoTU8yR1BBQ0hTWFgwYVlmLXNjdS1fSUVJUFdwa1pZV3FvUXFfQzRocUdNcFdYODdQRlQ0cXpPR1RvTU10d0dFcWZtUWZ2NnRHazl3aHZGMEFfLUhqWXFDaDBYeVVPSUNPNVpfSDJSeW02czNVTjVsM3BPMWZtNjFjeFZZREkxandzX210emRRaXpoUm9zU0Y5OUREUWptTmN1ZVdxV0hxOFRxcS1EUXlmNnU5Tm1NVVlFbzJ6QzV4NXZoSHlENmVfUUlMWXZsRTk",
-      "published": "2026-10-24T10:13:32+00:00"
-    },
-    {
-      "title": "S&P 500 падає через інфляцію та ризики AI‑боргу",
-      "original_title": "S&P 500 Forecast: SPX Falls after hot inflation and as AI debt concerns mount - StoneX",
-      "summary": "StoneX прогнозує зниження індексу S&P 500 у зв’язку з останніми даними про високий рівень інфляції та зростаючими сумнівами щодо фінансування AI‑проектів. Підвищений інфляційний тиск підвищує вартість капіталу, а побоювання щодо AI‑боргу підвищують ризик кредитних втрат. Це може скоротити ринкову ліквідність, підвищити премії за ризик і створити додатковий тиск на долар США.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "StoneX",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQk9hM0V6YUJNS3NXQ2loRFRzejJ6WkdCR0dLaGx5akJEM005TTE5emdNU1dQeUZlal9wNmVMODhsSVBQUnJMT2o3cHJ4b0NhVk1GNU5nQ2FiRUFMOGN4SVM5QTRvekN1ZmFFQ3ZGUDdmOWJqTXBEODNWYmxxZWhtbTFoMDBzaUk2TUFIZERYTkcteXJxLTNWSHJkaVBHc1dHem12SnZfaGdDUmZ3V2pKSHdQNktHZWowTFJxVVBTVWpkLU41",
-      "published": "2026-10-24T10:28:47+00:00"
-    },
     {
       "title": "Пакистан ратифікував Меццеську оборонну угоду з Туреччиною та Саудівською Аравією",
       "original_title": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
@@ -1003,6 +960,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
       "published": "2026-10-26T02:08:28+00:00"
+    },
+    {
+      "title": "Трамп: Канада користується США, але угода близька",
+      "original_title": "Canada taking advantage of US, but getting close to deal: Donald Trump - inkl",
+      "summary": "Заголовок статті inkl повідомляє, що Дональд Трамп заявив: Канада користується перевагами у відносинах зі США, проте сторони наближаються до угоди. Повного тексту статті немає, тому цифр, умов, ставок мита чи строків угоди невідомо. Заява вказує на можливе врегулювання торговельних суперечностей між США та Канадою, але без конкретних параметрів її вплив на ринки, тарифи й ланцюги постачання оцінити неможливо.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "inkl",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lsejFvd2t5OXFqV0hhaUNRYkIxdlJMZnZwWDJhOHNFOVR0Y2Fna2hkYmtuYWtPUDBNQ3p6SlhtNFcwUWcyMGpRbF9ralJaczRTTVE0MDZFZWN3SWR3Mm9SLTRHY0hkVUNhYzNva3hTMHJPTlBHN1pGek5CaGM2TnJURm10Tmk0bVRkR2U0OHZvV1U1ZjV1eUdR",
+      "published": "2026-10-26T03:15:21+00:00"
     },
     {
       "title": "Очікується зустріч керівників країн Мекканського пакту з іранськими чиновниками",

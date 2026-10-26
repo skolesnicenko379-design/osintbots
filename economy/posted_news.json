@@ -806,16 +806,10 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWhPTjNvczR4MDBoLXlpSVhiWTJaT0NoaFBuMWtqVGVJcDNDUDdFMmRfMjUzbDd4WkVmU01ORFYzdEc3VHlqR3ZJVHhrWFpBVUlzYTBmT243YXNuV1FEbFMyWURkVGl1RlBMOHJTQmM5aEdTV0s3ZjI0b1V4UE9JMWp6T1JRc1lkQ0NxNE1kcWV3MWZxSlFYOQ?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjAyUUlSc1ktVGxkTzZmNDhOOUR6OGZTTThqRU5WaFVwMlg2VFB2SU5KckY5dDZBYnFKLWF5MG5xYi14SDk5dDVmODZhaktOUnczbEwwT2NKVHB0al95d1U1Y2VZcC1DOHR1cWRDNURSbUxvNkVWdHZ5QXFwd1FCZVJ4WXN1Y3lnMG1ISzlQRWE2aXVzclFjTGozdWE?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA?oc=5"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lsejFvd2t5OXFqV0hhaUNRYkIxdlJMZnZwWDJhOHNFOVR0Y2Fna2hkYmtuYWtPUDBNQ3p6SlhtNFcwUWcyMGpRbF9ralJaczRTTVE0MDZFZWN3SWR3Mm9SLTRHY0hkVUNhYzNva3hTMHJPTlBHN1pGek5CaGM2TnJURm10Tmk0bVRkR2U0OHZvV1U1ZjV1eUdR?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "US Debt Tops $40 Trillion, Implications for Liquidity",
-      "original_title": "US National Debt Surpasses $40 Trillion: A Milestone That Reshapes America’s Economic Future - BBN Times",
-      "summary": "На кінець 2023 р. державний борг США перевищив $40 трильйонів, встановивши новий історичний рівень. Така сума суттєво скорочує фіскальний простір, змушуючи уряд частіше випускати облігації. Підвищений обсяг випуску може підняти доходність казначейських цінних паперів і створити додатковий тиск на лі",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "BBN Times"
-    },
     {
       "title": "Fed очолить трійку центробанків G7 з яструбиною паузою",
       "original_title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead - Bloomberg.com",
@@ -948,6 +942,13 @@
       "summary": "Угода про вільну торгівлю між Новою Зеландією та Індією передбачає зростання експорту новозеландського вина до індійського ринку. Це має підвищити торговий баланс Нової Зеландії, посилити її валюту та покращити ліквідність виноробного сектора. Очікуване збільшення постачань зменшить залежність від т",
       "source": "Глобальна торгівля, СОТ і торговельні угоди",
       "publisher": "The Shout"
+    },
+    {
+      "title": "Трамп: Канада користується США, але угода близька",
+      "original_title": "Canada taking advantage of US, but getting close to deal: Donald Trump - inkl",
+      "summary": "Заголовок статті inkl повідомляє, що Дональд Трамп заявив: Канада користується перевагами у відносинах зі США, проте сторони наближаються до угоди. Повного тексту статті немає, тому цифр, умов, ставок мита чи строків угоди невідомо. Заява вказує на можливе врегулювання торговельних суперечностей між",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "inkl"
     }
   ]
 }

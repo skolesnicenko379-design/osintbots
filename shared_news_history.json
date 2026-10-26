@@ -21,6 +21,7 @@
     "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
     "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
     "https://militarnyi.com/uk/news/kytaj-imovirno-pochav-vyroblyaty-kj-3000",
+    "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
     "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
     "https://militarnyi.com/uk/news/protykorabelna-raketa-nsm-puskovu-kontejner",
     "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
@@ -35,6 +36,7 @@
     "https://militarnyi.com/uk/news/vmf-rosiyi-znyk-iz-seredzemnogo-morya",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
+    "https://navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia",
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2pUcDhOaHNORGdUSHZ3RDctYlBYX2ZQLU1LTGduSkZxQnAzZDZCSmtKLUxJWElfYVc1OGFjTXZfd25odEItRjdPOFZMVDlJZ1ZNcDlTY3dlWnJTQnd6UnFScnlpb3oyMGJ6Rmd0aEdwekx0TXM1QjBQYUNETFlVRXgwWFhTUDBPZ3hKdW5WZ3dSSTJWcXgwcHBYRzhzQ21JcjRwMHpIWFRlTTVSU1Z0MW1DYl9YLXI0dVdLSy11SGJwemVIdEtkOUVwcl9yUFlVQW42dlpmbGl1cGpFb2JFMHp0VFZCNUJ2RkdhNXRac1M4aTRSOWNTddIB_gFBVV95cUxQTEhIa0t2aUtseldNYlVhb1ZsSEg2ZWZDclk3N2tyV2tFMkZPbEdNcnpkS3RwUDI0aHNha09hbWJsNjBhWHlTRW9YbENpSlVzM3BoaXlWRzVwZmlLMkxmM2JVVDZnZk5SbTNBNnJ2RWd3RlRUWEVENHVuS1ByaGJXa05wUUF4MWdCeExLS1hGQWd3cmRlTWNiSGpkS2NTOGJKaWdDNl9zTTYxa3BKQ1hhTHVzdXJ2Mk5DZGdlMDZZU3FqVmdXNTRWLUhGTzdMMkg2RGdLckxvMk5GaHpQTWUwM1RQZDRSYjNzLXRiTU81bDgwLWV3MVR2WXNPczRsQQ",
@@ -50,7 +52,6 @@
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB",
-    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXZWa2REV0NWbks3RTYyN1c2TVEyZksydUFsVS0xQV9WcTJ6V2JTOE9qbnZVb01yZ1dtTkFqYlhjTENpM3AzVVRBeVQ2VXdiWFBoSlUzZzhBOHJFdW9PUkRpSDhnaTBuNXF2RGR0bENZcFRGcjhuOFB0SEdOUEZWVGlmWjVWcWFacFlJT3QtMXc4Qnh2alFOTFp6ZHg2V2ZycG9yTkRxa3dwYmVsOUlrdDBiTmVsbUxDZTdWNzh5UkFhNUl3T2g4TEs5RWZFRzQtNTZtNVM4cXRHYkJOWENZWHUzV3ludlVQWHd5SXJxN2lsaHB1WUlZNWExQ0U",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRlhkZHVGNnZ0OHltblhpcjlEb1d5Qy1fU3pHX3JzLUJvWlItU0QyMkhfbG10Q2gxLW5aVlZyVGd0SkphWkoxRHVtX0VNY1BZc2l1ZWhsVi04THU5N3U5Wklibjg0eVRCM0c5V2ZBWlphM0xhV01EZ2FyaFNrRGgzSHUzSUtoekZIUEtOTHdJdUxqRHA3aEJOM2lFQ1lweFZHa3FfODhRNk1iZ2RvbXFyNXBtYUtSRzdPUFdMMHQ4NGpxenJnemw3UFd3aGV3cnlfQzlyZnEtWFQ0ZnpvY012SXAyT1RXTmswNEdLUzJuVl9nXzB5ank5Yy1ZOGM",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxbGxJS3lUR3ZzMTVjZFVCVThJUnpSem1GaE5QRTR5TXI2bExsZGhtaEcybXFxc18tZlVMZEhrQ1o0b2piUkkxTmxNd2pQcWVUYnVUdzJWMjFsd3ltdy11YjBJNUtrdlp6QnZkZW1DSDRsNUpyb1E",
@@ -83,16 +84,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "РФ продала шість Mi-28 Уганді та інвестувала 53 млн доларів у тамтешні об’єкти",
-      "original_title": "РФ спочатку врятувала від нашої ППО і продала в Уганду шість своїх Ми-28, а потім збудувала там ряд об'єктів на свої $53 млн - Defense Express",
-      "summary": "Росія продала шість вертольотів Mi‑28, що використовуються в бойових операціях, Уганді. Після продажу країна розпочала будівництво військово-оборонних об’єктів, що оцінюються в 53 млн доларів. Це підвищує оборонну спроможність Уганди та розширює геополітичний вплив Росії в Африці.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXZWa2REV0NWbks3RTYyN1c2TVEyZksydUFsVS0xQV9WcTJ6V2JTOE9qbnZVb01yZ1dtTkFqYlhjTENpM3AzVVRBeVQ2VXdiWFBoSlUzZzhBOHJFdW9PUkRpSDhnaTBuNXF2RGR0bENZcFRGcjhuOFB0SEdOUEZWVGlmWjVWcWFacFlJT3QtMXc4Qnh2alFOTFp6ZHg2V2ZycG9yTkRxa3dwYmVsOUlrdDBiTmVsbUxDZTdWNzh5UkFhNUl3T2g4TEs5RWZFRzQtNTZtNVM4cXRHYkJOWENZWHUzV3ludlVQWHd5SXJxN2lsaHB1WUlZNWExQ0U",
-      "published": "2026-10-24T13:12:00+00:00"
-    },
     {
       "title": "Данія закупить американські крилаті ракети Anthem для наземних пускових установок",
       "original_title": "Данія закупить нові американські крилаті ракети Anthem",
@@ -892,6 +883,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmhlVlF3cERqSW5jaVZLTHhNSkRBMy1jN0VhQTVhR3NFdmJPcVF4Vlk0aVRyenVNdHNMamZGN2RqdURYdmc1SHRJTWxsc29hczNqbXYzdlM0ZE9nQm5OMm1pSG9neWM4LVhKbmFJbDRIc1NzczlwZ0FxSXdBLTRCQzRTOV9tTFpiLWl2X25FcXEzWEdRQkFLNXRCUk52VnZ2OWF3",
       "published": "2026-10-26T06:11:21+00:00"
+    },
+    {
+      "title": "Турецький БПЛА Aksungur вперше скинув пасивні сонобої ASELSAN у Середземному морі",
+      "original_title": "Aksungur UCAV drops aselBUOY sonobuoys for the first time",
+      "summary": "У рамках навчань TURNAs‑26 турецький безпілотний бойовий літак Aksungur випустив три пасивні сонобої ASELSAN aselBUOY 100P над Середземним морем, демонструючи можливості протипідводного виявлення. БПЛА стартував з Анкари, пролетів близько 400 км до зони навчань біля Анталії під супутниковим керуванням, працюючи на вітчизняному двигуні TEI‑PD170. Це перший випадок застосування турецьких сонобоїв у поєднанні з безпілотником, що розширює потенціал морської розвідки та боротьби з підводними загрозами.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time",
+      "published": "2026-10-26T06:57:28+00:00"
+    },
+    {
+      "title": "М’янма обходила санкції, купуючи іранське авіапальне під виглядом південноафриканського дизеля",
+      "original_title": "М’янма в обхід санкцій закуповувала авіапальне з Ірану під виглядом дизеля з ПАР — Reuters",
+      "summary": "Військове керівництво М’янми замаскувало закупівлю іранського авіапального, оформлюючи його як імпорт дизелю з ПАР через тайську компанію Tawan-Oil. Танкери Reef (пізніше Maris) і Noble доставляли понад 300 тис. барелів палив, а заявлені ціни значно перевищували світові орієнтири для дизелю, що свідчить про навмисне завищення вартості та порушення санкцій. Така схема дозволяє зберігати авіаційне забезпечення військових операцій, знижуючи ефективність західних санкцій проти М’янми.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
+      "published": "2026-10-26T07:05:23+00:00"
     }
   ]
 }

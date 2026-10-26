@@ -3,6 +3,7 @@
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
+    "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
     "https://defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
@@ -22,6 +23,7 @@
     "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
     "https://militarnyi.com/uk/news/helsing-ad-1-inferno-krylati-raketu",
     "https://militarnyi.com/uk/news/helsing-predstavyla-perehopl-ad-2-ambush",
+    "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
     "https://militarnyi.com/uk/news/italiya-zamovyla-bronetehniku-u-nimechchyny",
     "https://militarnyi.com/uk/news/kndr-dijshla-seula-v-symulyatsiyi-navchan",
     "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
@@ -32,12 +34,14 @@
     "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
+    "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
     "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
     "https://militarnyi.com/uk/news/tsyfrovyj-zv-yazok-ta-vybir-chastot-video-taf-industries-predstavyla-onovlenyj-nosij-retranslyatora-kolibri-13-fr1",
     "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
     "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
+    "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
@@ -1033,6 +1037,16 @@
       "published": "2026-10-26T12:47:52+00:00"
     },
     {
+      "title": "Як оплатити навчання дитини в коледжі, не зашкодивши власним пенсійним накопиченням",
+      "original_title": "How to Fund College Without Hurting Retirement | Money Minute",
+      "summary": "Матеріал не стосується військових технологій, техніки чи оборонної галузі: це фінансова порада про одночасне накопичення на освіту дитини та на пенсію. У тексті немає ані характеристик озброєння, ані даних про події, що мали б військовий вплив. Для мілтех-каналу новина непрофільна, і її варто пропустити або віднести до рубрики особистих фінансів.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
+      "published": "2026-10-26T13:25:43+00:00"
+    },
+    {
       "title": "Лідери оборонної індустрії обговорювали розширення виробництва та впровадження ШІ на AUSA 2026",
       "original_title": "Defense leaders weigh in on expanding production | Defense News Weekly Full Episode 10.27.26",
       "summary": "На виставці AUSA 2026 провідні представники оборонного сектору поділилися планами щодо збільшення обсягів виробництва озброєнь і систем. Особливу увагу приділили інтеграції штучного інтелекту в процеси розробки та експлуатації, що має прискорити впровадження нових технологій і підвищити ефективність бойових платформ. Очікується, що масштабування виробництва у поєднанні з AI‑рішеннями підвищить оперативну готовність та знизить витрати на підтримку арсеналу.",
@@ -1043,6 +1057,16 @@
       "published": "2026-10-26T13:29:39+00:00"
     },
     {
+      "title": "HV VTX Pro: новий відеопередавач Wild Hornets пройшов державні випробування",
+      "original_title": "Новий відеопередавач HV VTX Pro від «Диких Шершнів» пройшов державні випробування",
+      "summary": "Модуль HV VTX Pro підвищив потужність до 4 Вт, розширивши радіус ефективного застосування FPV‑дронів з 20 км до 30 км. Під час випробувань підтверджено стійкість зв’язку під дією радіоелектронної боротьби, що підвищує тактику мисливських дронів. Це дозволяє Україні знизити витрати на безпілотники, збільшуючи їхню бойову ефективність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
+      "published": "2026-10-26T13:49:53+00:00"
+    },
+    {
       "title": "Міністри закордонних справ України та Норвегії відвідають Гельсінкі",
       "original_title": "Ukrainian Foreign Minister Sybiha and Norwegian Foreign Minister Eide to visit Helsinki - Valtioneuvosto",
       "summary": "Міністр закордонних справ України Сибіга та міністр закордонних справ Норвегії Ейде здійснять візит до Гельсінкі. Подія організована за участю уряду Фінляндії (Valtioneuvosto), який виступив приймаючою стороною для офіційних переговорів за участю дипломатичних керівників двох держав.",
@@ -1051,6 +1075,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
       "published": "2026-10-26T14:08:00+00:00"
+    },
+    {
+      "title": "Сили Спеціальних Операцій України отримали штурмові гвинтівки G95 від Heckler & Koch",
+      "original_title": "ССО України отримали новітню німецьку G95 від Heckler & Koch",
+      "summary": "Гвинтівки G95, базовані на HK416, оснащені газовідвідною системою, 850 пострілів/хв, ефективна дальність 450 м, вага 3,3–3,4 кг. Вони забезпечують кращу ергономіку та легше обслуговування, що підвищує боєздатність українських спецпідрозділів. Переход на G95 замінює старі G36, що збільшує стандартизацію та підтримку з боку німецьких постачальників.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
+      "published": "2026-10-26T14:16:06+00:00"
     },
     {
       "title": "Пезешкіян зустрівся з керівниками оборони Саудівської Аравії, Пакистану та Туреччини",
@@ -1071,6 +1105,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
       "published": "2026-10-26T14:28:38+00:00"
+    },
+    {
+      "title": "Helsing представила автономну систему ППО Contra з ШІ для управління перехоплювачами",
+      "original_title": "Helsing розробила автономну систему ППО Contra під управлінням ШІ",
+      "summary": "На презентації в Берліні компанія Helsing представила систему Contra, що об’єднує дані радарів, електрооптики та інших сенсорів у єдину повітряну картину та автономно приймає рішення про перехоплення цілей. Система включає швидкісні перехоплювачі AD‑1 Inferno (реактивний двигун) і AD‑2 Ambush (твердопаливний ракетний двигун) та може інтегрувати ударні дрони HX‑1/HX‑2, лазерні засоби та зенітні гармати. Така автономна ППО під керуванням ШІ дозволяє одночасно виявляти та уражати сотні дронів і ракет, підвищуючи здатність протистояти масованим атакам.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
+      "published": "2026-10-26T14:33:06+00:00"
     },
     {
       "title": "Угода DP World щодо порту Черчилль відкриває експортний коридор Канади",

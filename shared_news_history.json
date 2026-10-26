@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
@@ -12,11 +11,11 @@
     "https://militarnyi.com/uk/news/bombarduvalnyky-dlya-povitryanyh-boyiv",
     "https://militarnyi.com/uk/news/brytaniya-ta-frantsiya-naybilshi-desantni-navchannya-za-20-rokiv",
     "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
-    "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
     "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/frantsiya-litak-chorne-more",
+    "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
     "https://militarnyi.com/uk/news/italiya-zamovyla-bronetehniku-u-nimechchyny",
     "https://militarnyi.com/uk/news/kanada-otrymaly-pershi-dva-cf-35a",
     "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
@@ -48,7 +47,8 @@
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOU9mS2pmYWE4TkZ6MW01SVFvLV9pZW53NERNN1VRRkxSVGJKSUpBQ1dCZjBzYzhEa3haU25jSnZ5SndidV8wY2dxemtUNHFveGdzdnQ5RlgwTm93bVBsclVNNl9jZm16bnRNb3VVYnM4Q2ZwaGRnUXA1cENSXzJoakVhd1JKbFA1ZnZEUTMxRVBtLUJ2WEJDdDQxZVR5akdfcmp2OWtYWkNYMVc1TzhIbmd1WGdmRlJQMnNZUmNVSUVmOGpBM2hkRjdkRk4wY095S3pTZm1xRks",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV0MzZVUyLVdVRGY2OFlBQmVmRUV3R3BESEx5em9Pc0NKTFlqNW9mRnpkTmF6bmhxekMxRWVhNFlzNllSR1Z2Z3lhckI4RFlieHFkdlBpNmVmY05NcE9naTJTejJMZ000UGxWc0tUa3RWNGJOS0IwWW8yRDFYUXBJUGNaZVk0N0dfa0ZwTUJWbFFTWjN0dzk5ZS11R2lob1duQVphWEwwOEZ3Z1hXamQ5c0FNSC1Fa21sZ3hxbXlMZ3I3WUhTTXNzV09KOVYyZ2FoMExmV0o0Xzd0Q3Izd3FJTTVLeGJXS00",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2VBX053SUR1M2l0LU56R2xuSnh4XzlZY0NHYU16eWtpM2RPM1Y2a3N4b1JVOGk5NEw3QTBiZzRfTGUyb19oVjFMUXpfTWJZUnZVaGktUG9XckxMNllLTXg4ZS1ZRkY4b2lfR0VWdjVqSXRiVUlzcWJIWTdOWTBSTzQ5NUtsTmluY1UycE0tVGE2MFA0SFM2Tk44c2NvM2RPdm1sbUhWMUtVWmJJZGpUSlF2OF9uaTNTclBaaEFkSmxTNnQxSzY4LVc4Z3YzTWJfV21wdXlwUGNGTWZKSHY5cW96bVlBZms",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTHpzb1ItcjZKdjdOSXJJMjlJV0hkbXgxSUVYTkM4azR1a1dMZmlKU3NEMm1Yd05qNE9FRE1XUDVlUnVsX3FHOEdIQzRpSDZWcU5lTHMwaWp3aUQyTDlfWUI5MWpRbEY4cGhySHVHWU5tNEQzSW96ckdMVkRWX3g0V2JiQzRvclEzUjdxVlJQQzBSVEdmQWRzS2hlZ0pZUXJXNU5tMWNPalI4ZGZZRzVtZkdfV0pBTl9qUHg0by1TNzBJRU84bE9rMW1yemdGbVdMY2tzQjVSWXhUdEZ1OW5xeXVlYm82U1hRSU9FNg",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFV2NzBZYzRQWFRSQjZ1M3BXdE5wRTBKM3pTWndtelRrMG5FYmpVWGJ6eFVzdUpqVTdDSUpFVG9EaExjR1pHN2RDc29zYy1pWmo4azQydEc2WHNQWHEtR3V2MEN0dkZ4c0QtcEhQRWNJVWctYTAwVXA4aGhWdVRGTE96UlI5ZHlkRG1oSXNhUzNQQ0E3MEpGZnpQY19iblB6NFJSV213UUE3QU16VkRPaUZoMm1GSzBDNXBYYWlnMzhZbzB1eEJZMWlSeUFBYWFkN1lRb2FiVnpHaGtMeUZCalpBbWM3Qmc",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB",
@@ -69,6 +69,7 @@
     "https://news.google.com/rss/articles/CBMipwJBVV95cUxOV0lUeGFqNldEempvNGM3YllYbmlyUGp6R3RrMWVVZEJfOUtEb1o5R1FOU3dMaEJLbktMXzh6R3pZODdaUDJtLVVOdUZrSUd2bU5rMm1pdUtuVG9OakJ1YWpuNGtmTzNQUzJFM0sxSHZFTkNMMkQ4M25HNkNfUUo2ak9JNmY0aldJMzIwRWhYUHVEdmhvLUNESndSa0FnRHZzWXRHZTBITHJ5dDV2M0xnMWJMdE1oZmJTUVFBOEhEdjRmckJxRW9OUTFzY18wZUR6UHg2bjlDZ2V1NXN4VmxNMWk0VmZkZno0RmhhUzhYQWU5cF9VLWRta3dpeWN3LU5rSGpmZEtidXhGNVVfQlB0TnJYQll1YWJzcTZiekE5bklyeE5nV0FJ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1lGbHV0bE05eTVGdXE1cXd6RlZ2MFltZ1hKOHFhandrNVJEektLb3o1VGt2LW56Mk4tYlZJU1dHQmRBYTRld1FLTFpKQ0lwa3FhckdEY0ZUSWIwVHFJU1BySTRodS1qeXBjbHBzNVVuckNnWmFEdkhtdTlLdjNCUXRJNENBelVGUVFGRXJ1eDJ2bDdtYUI0UndYV2xVV2NIeGNyZjlCX1NXZw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2lyX3Y1elMtUnAwckgtald6MDYxRlNaNjVRbjdvWmZBcTd6aXN5dEpBT3hfMzV0VHNtTWRUMU9KZm1zb1lHajJreE05NXRzN2VYQTBiMzdNRGhhR0V1dGdyT3dOUFE5UmgxZmNrdkx1NGhfTUJCV3pQQUNZdU5KTERteDhUQmlYdkI3djNsZFpSdklHRERvSTg1UDJvTW1QSVEwemdQbk1YR1k",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZE9CcnIwV0RnLW0wRDVmNVFXaktWUTh1WUFBNVkwYWJ4VXR2M0xyWktQYTQ3aDhBVnNZOGhrcEVVZUREZVBnTnpydXZkTTRNNXFIR3JRWnZiOVR6WlN5RnlGOTl3UHp4VmRSV2x2dHg4OW02Mlo0ODJralQyLUJTYUgxYm80M0pKRHNWZXpLLVY3Rlc2bDFQUHM0aXIxVGFmUFlvYUhNcUZROGVEWmJSTw",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
@@ -83,39 +84,10 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3YyZFBZYzNOS3pWMUE2eEdHczN2SWtSRUo0M21wQldWRnBkbUF3cW1jUzVYODZ5UVlqN0J1eWJtLUd5RUZDTjFuaFJfeGZNdG1OdFJlRGVoNTBGRXgyQURfMndCTzlXZDJOcHFVMlBSZHJxaHlxbExoamJmR1ZOalA5MV9jYlgxaWdEem9zT285M0ZUMl82a0RYTk9GdjUzYUpiRlVQRy1nLWpBNmNzMVNVRWJsRDBrazVqR0xZaUJyb29QUHN3UFhR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXkxR2FBdHQ4MFEzTUtDT0pHXy1lOXRhWjk0RkxJZWcyUndnb0FhTXdpVHJSMFVsNEFNUlp6cGhGdUxjenZFV2xOUDBDRzMydXZiOTNlSFVLNlhyeTFya3lIZnFqTmQ5bzlRbXpsSVRpbWlfMzU5YWcwU0ltdi1VUWNVeFlFZVg2amZrZEFZRXNxd1QxZHYxWkdpZGdITk1KZUYyNl9tNHd3ejBpUDFDM1JOZ3E2VVRabm01THh6YUM4c1Z3Z0k4VzF0SQ",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Данія закупить американські крилаті ракети Anthem для наземних пускових установок",
-      "original_title": "Данія закупить нові американські крилаті ракети Anthem",
-      "summary": "Данія підписала контракт на придбання крилатих ракет Anthem від американської компанії Covenant, які будуть запускатися з наземних установок. Ракета має твердопаливний двигун, корисне навантаження понад 200 кг і розрахована на масове виробництво, що дозволяє досягати великої дальності з високою точністю. Це посилить національне та колективне стримування НАТО, розширюючи можливості Данії у довгобійних ударних операціях.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/daniya-zakupyt-krylati-rakety-anthem",
-      "published": "2026-10-24T14:05:06+00:00"
-    },
-    {
-      "title": "Експрезидент Гаїті Мішель Мартеллі зареєструвався кандидатом на виборах",
-      "original_title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
-      "summary": "Колишній президент Гаїті Мішель Мартеллі офіційно подав свою кандидатуру для участі у виборах, які мають відбутися 13 грудня і стануть першими в країні за останні 10 років. Цей кроку передувало рішення виборчої ради Гаїті скасувати заборону на участь кандидатів, які перебувають під іноземними санкціями.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election",
-      "published": "2026-10-24T14:09:35+00:00"
-    },
-    {
-      "title": "Бразилія створила ракетний комплекс Mansup на базі ASTROS II за фінансування ОАЕ",
-      "original_title": "Бразилія швидко і таємничо на гроші ОАЕ зробила ПКР Mansup на базі ASTROS II, з якою тепер не знає що робити - Defense Express",
-      "summary": "Бразилія швидко розробила новий реактивний комплекс Mansup, використовуючи шасі вже існуючого системи ASTROS II, фінансування отримавши від ОАЕ. Система, ймовірно, передбачає модульні пускові установки з 300‑мм ракетами та можливістю застосування керованих боєголовок, що розширює діапазон та точність вогню. Це підвищує артилерійські можливості Бразилії та зміцнює оборонне співробітництво між Бразилією і ОАЕ, потенційно впливаючи на регіональну військову динаміку.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTHpzb1ItcjZKdjdOSXJJMjlJV0hkbXgxSUVYTkM4azR1a1dMZmlKU3NEMm1Yd05qNE9FRE1XUDVlUnVsX3FHOEdIQzRpSDZWcU5lTHMwaWp3aUQyTDlfWUI5MWpRbEY4cGhySHVHWU5tNEQzSW96ckdMVkRWX3g0V2JiQzRvclEzUjdxVlJQQzBSVEdmQWRzS2hlZ0pZUXJXNU5tMWNPalI4ZGZZRzVtZkdfV0pBTl9qUHg0by1TNzBJRU84bE9rMW1yemdGbVdMY2tzQjVSWXhUdEZ1OW5xeXVlYm82U1hRSU9FNg",
-      "published": "2026-10-24T14:18:00+00:00"
-    },
     {
       "title": "Українські дрони уразили хімічний завод «Омський каучук» та логістичний центр Ozon",
       "original_title": "Дрони уразили хімічний завод «Омський каучук» та склад Ozon, за понад 2400 км від України",
@@ -917,6 +889,26 @@
       "published": "2026-10-26T07:05:23+00:00"
     },
     {
+      "title": "Центробанки розійшлися щодо золота: Росія продає, Китай купує",
+      "original_title": "Central banks split over gold: Russia is selling, China is buying - Euronews.com",
+      "summary": "За заголовком Euronews, центральні банки по-різному діють на ринку золота: Росія його продає, а Китай купує. У наданому тексті немає обсягів, дат чи цін, тому масштаб операцій оцінити неможливо. Макрофінансовий наслідок – розбіжність підходів до резервів: Росія зменшує свою золоту позицію, а Китай її збільшує. Для РФ це може означати використання золота як джерела ліквідності, але без цифр і підтверджень статті такий висновок лишається попереднім.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Euronews.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
+      "published": "2026-10-26T07:28:19+00:00"
+    },
+    {
+      "title": "Сінгапур і Таїланд підписали угоду про передачу вуглецевих кредитів",
+      "original_title": "Singapore inks carbon credit transfer agreement with Thailand, first one with a Southeast Asian country - Singapore Economic Development Board (EDB)",
+      "summary": "Сінгапур підписав угоду про передачу вуглецевих кредитів з Таїландом, яка стала першою подібною домовленістю для Сінгапуру з країною Південно-Східної Азії. Документ було укладено за участю Сінгапурської економічної ради (EDB). Угода створює офіційну основу для транскордонної співпраці у сфері екологічних ринків та торгівлі квотами на викиди між двома державами регіону.",
+      "source": "Treaties & Agreements",
+      "publisher": "Singapore Economic Development Board (EDB)",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFV2NzBZYzRQWFRSQjZ1M3BXdE5wRTBKM3pTWndtelRrMG5FYmpVWGJ6eFVzdUpqVTdDSUpFVG9EaExjR1pHN2RDc29zYy1pWmo4azQydEc2WHNQWHEtR3V2MEN0dkZ4c0QtcEhQRWNJVWctYTAwVXA4aGhWdVRGTE96UlI5ZHlkRG1oSXNhUzNQQ0E3MEpGZnpQY19iblB6NFJSV213UUE3QU16VkRPaUZoMm1GSzBDNXBYYWlnMzhZbzB1eEJZMWlSeUFBYWFkN1lRb2FiVnpHaGtMeUZCalpBbWM3Qmc",
+      "published": "2026-10-26T07:30:25+00:00"
+    },
+    {
       "title": "Міністр закордонних справ Кореї відвідає США для G20",
       "original_title": "Foreign Minister Cho to visit U.S. for G20 meeting - Korea JoongAng Daily",
       "summary": "Foreign Minister Cho of South Korea is scheduled to travel to Washington, D.C., to attend the G20 summit, where he will engage with U.S. officials and other delegations. The meeting will focus on global economic cooperation, climate action, and trade policies, reflecting the summit's agenda. Cho's participation underscores South Korea's active role in multilateral diplomacy.",
@@ -925,6 +917,36 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3VDS3NRZTZiZWRVX01ybVd2dkVDYnRVM3NNdHJQcG1wRl9UR3hvWV9hdVU0czlCQUNYV0VPR2FyQkNBVUR1NS1LdkhZaDFKX29DT1dUMnNnMWxCdFZZMnpFNXQ2cXdZMDRQVkQ3NmNLUTRHcnBVaXZmb3ZuMmRueUVSQXJDc3JlTFlaZm5NZEwyUC1od3NoY01XcDRjbEE",
       "published": "2026-10-26T07:42:32+00:00"
+    },
+    {
+      "title": "Золото повернулося вище $4000 напередодні тижня ФРС",
+      "original_title": "XAUUSD: Gold Reclaims $4,000 as Fed Week Begins. Silver Sinks to 2026 Lows - TradingView",
+      "summary": "За заголовком TradingView, золото (XAUUSD) знову піднялося вище $4000 за унцію на початку тижня засідання ФРС. Водночас срібло опустилося до мінімумів 2026 року. Це означає зміну динаміки після недавнього спуску золота нижче $4000 та розходження між двома дорогоцінними металами. Ринок, імовірно, зосереджений на сигналах ФРС, але у статті немає даних про причини руху, обсяги чи очікування щодо ставки.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "TradingView",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ",
+      "published": "2026-10-26T07:50:48+00:00"
+    },
+    {
+      "title": "Принц Халід бін Салман очолив саудівську делегацію на переговорах з Іраном",
+      "original_title": "Prince Khalid bin Salman leads Saudi delegation in Makkah Joint Defense Agreement talks with Iran - Saudi Gazette",
+      "summary": "Принц Халід бін Салман очолив саудівську делегацію в Мецці на переговорах з Іраном щодо спільної угоди про оборону, повідомляє Saudi Gazette. Подія є офіційною дипломатичною зустріччю між представниками двох держав.",
+      "source": "Treaties & Agreements",
+      "publisher": "Saudi Gazette",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
+      "published": "2026-10-26T07:59:00+00:00"
+    },
+    {
+      "title": "Франція випробувала лазерний антидроновий комплекс HELMA‑P на авіаносці Charles de Gaulle",
+      "original_title": "Франція випробувала лазерний антидроновий комплекс HELMA-P на авіаносці Charles de Gaulle",
+      "summary": "На палубі авіаносця Charles de Gaulle у червні 2024 року було протестовано лазерний комплекс HELMA‑P, що включає турель, LIDAR, охолоджувальну установку та пульт керування. Система, розроблена CILAS у рамках програми L2AD, здатна нейтралізувати дрібні безпілотники кількома секундами, що підвищує оборонну ефективність корабля проти «асиметричних» загроз.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
+      "published": "2026-10-26T08:41:36+00:00"
     }
   ]
 }

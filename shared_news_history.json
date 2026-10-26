@@ -1,6 +1,7 @@
 {
   "links": [
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
+    "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-judiciary-says-chief-holds-rare-meeting-supreme-leader",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
     "https://middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran",
@@ -12,7 +13,6 @@
     "https://militarnyi.com/uk/news/brytaniya-ta-frantsiya-naybilshi-desantni-navchannya-za-20-rokiv",
     "https://militarnyi.com/uk/news/chorne-more-stalo-nebezpechnym-marshrutom",
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
-    "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
     "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/frantsiya-litak-chorne-more",
     "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
@@ -28,11 +28,13 @@
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
     "https://militarnyi.com/uk/news/syly-oborony-atakuvaly-kombinat-avysma",
+    "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
     "https://militarnyi.com/uk/news/u-lytvi-stvoryly-reaktyvnyj-dron-perehoplyuvach-x-12-yakyj-vzhe-vyprobuvaly-v-ukrayini",
     "https://militarnyi.com/uk/news/u-polshhi-ne-vyyavyly-nevidomogo-obyekta",
     "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
     "https://militarnyi.com/uk/news/vmf-rosiyi-znyk-iz-seredzemnogo-morya",
+    "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
     "https://navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model",
     "https://navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time",
@@ -88,16 +90,6 @@
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNai00bm9pRURWaUJ6ZlMtTnJkMV9udkRZUlBIdTVfZFJzU080R2lLT3BhSnVGbllmemo0TTNWTWFibnVOWDhLZHpJMGxmb3hXNVlwVkFXTEp3SzJYWk9JdFlDcGt5WkUwckRUOU93bkQxeFZsbEF2SXRjYkhtQ2hkVGt4c3hFZHpMak4tSkhSNnI1WmpFSzd6bUN3RnZkU1F4Ykt5dU9sZlZoQk5Yd21ZekdiUFYxQWdGSjJ6a2ZOckxaUS1aWkpUVGdvVEJZYkE"
   ],
   "recent_posts": [
-    {
-      "title": "Українські дрони уразили хімічний завод «Омський каучук» та логістичний центр Ozon",
-      "original_title": "Дрони уразили хімічний завод «Омський каучук» та склад Ozon, за понад 2400 км від України",
-      "summary": "Українські безпілотники дальнього радіусу атакували хімічний завод «Омський каучук» в Омську, спричинивши пожежу та пошкодження виробництва синтетичних каучуків, ключового компоненту ракетного палива. Також потрапив логістичний центр Ozon, що може порушити поставки товарів у регіон. Ця атака демонструє здатність України здійснювати точкові удари на великій відстані, впливаючи на стратегічні об’єкти Росії.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/drony-urazyly-zavod-omskyj-kauchuk",
-      "published": "2026-10-24T14:58:24+00:00"
-    },
     {
       "title": "Росія встановила рекорд вильотів над Японією: Су‑35, Іл‑20, Ту‑95МС і Ту‑142",
       "original_title": "РФ вже побила антирекорд по вильотам проти Японії Су-35 та Ил-20, Ту-95МС і Ту-142, про що це свідчить - Defense Express",
@@ -939,6 +931,26 @@
       "published": "2026-10-26T07:59:00+00:00"
     },
     {
+      "title": "Удар по «Тольяттикаучуку» пошкодив два об'єкти виробництва ізобутилену для синтетичних каучуків",
+      "original_title": "Удар по «Тольяттикаучуку» пошкодив виробництво сировини для ракетного палива",
+      "summary": "За аналізом Exilenova+, внаслідок атаки 24 жовтня українські дрони уразили цех дегідрування ізобутану та зовнішню установку №2 цеху БК-4, які задіяні в отриманні й очищенні високочистого ізобутилену. Пошкодження можуть спричинити затримки у виробництві синтетичних каучуків і постачанні сировини для подальших процесів, зокрема для твердого ракетного палива. Масштаб і терміни відновлення в джерелі не вказані, тож оцінити реальний вплив на військове виробництво РФ поки неможливо.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
+      "published": "2026-10-26T08:16:29+00:00"
+    },
+    {
+      "title": "Дрони атакували у Воронежі авіазавод ВАСО та Північний міст, окрім нафтохімічного заводу",
+      "original_title": "Атака на Воронеж: крім нафтохімічного заводу, дрони, ймовірно, уразили авіазавод та міст",
+      "summary": "Раніше повідомлялося лише про ймовірне ураження «Воронежсинтезкаучука». Тепер з'явилися нові факти: під ударом, ймовірно, опинилися авіазавод ВАСО та Північний міст через Воронезьке водосховище, тому це не дублікат. За даними ГУР, ВАСО виготовляє Ил-96-400М, компоненти для МС-21, SJ-100 та Ил-114-300, пілони й мотогондоли для ПД-14 і ПД-8, а також залучався до програми Ил-112В. Масштаби пошкоджень заводів і мосту невідомі, тип дронів не уточнено. Якщо ураження підтвердяться, це може ускладнити виробництво авіакомпонентів і логістику в районі мосту.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
+      "published": "2026-10-26T08:28:01+00:00"
+    },
+    {
       "title": "Франція випробувала лазерний антидроновий комплекс HELMA‑P на авіаносці Charles de Gaulle",
       "original_title": "Франція випробувала лазерний антидроновий комплекс HELMA-P на авіаносці Charles de Gaulle",
       "summary": "На палубі авіаносця Charles de Gaulle у червні 2024 року було протестовано лазерний комплекс HELMA‑P, що включає турель, LIDAR, охолоджувальну установку та пульт керування. Система, розроблена CILAS у рамках програми L2AD, здатна нейтралізувати дрібні безпілотники кількома секундами, що підвищує оборонну ефективність корабля проти «асиметричних» загроз.",
@@ -947,6 +959,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
       "published": "2026-10-26T08:41:36+00:00"
+    },
+    {
+      "title": "Безпілотні системи у центрі уваги на турецькому демонстраційному випробуванні Ateş Serbest",
+      "original_title": "Unmanned systems take center stage at Turkish Ateş Serbest military demonstration",
+      "summary": "Турецька армія вперше продемонструвала новий безпілотний літальний апарат Ayaz, розроблений Turkish Aerospace Industries. Це одноразовий ударний БПЛА з турбореактивним двигуном, що забезпечує високі швидкості та дальність польоту. Така платформа підвищує можливості швидкого ураження цілей і розширює спектр застосувань безпілотних систем у турецькій військовій стратегії.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
+      "published": "2026-10-26T09:00:00+00:00"
     }
   ]
 }

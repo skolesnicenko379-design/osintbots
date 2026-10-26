@@ -7,6 +7,7 @@
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
+    "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
     "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
@@ -68,7 +69,6 @@
     "https://navalnews.com/naval-news/2026/10/op-ed-us-navy-distributed-manufacturing",
     "https://navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group",
     "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2pUcDhOaHNORGdUSHZ3RDctYlBYX2ZQLU1LTGduSkZxQnAzZDZCSmtKLUxJWElfYVc1OGFjTXZfd25odEItRjdPOFZMVDlJZ1ZNcDlTY3dlWnJTQnd6UnFScnlpb3oyMGJ6Rmd0aEdwekx0TXM1QjBQYUNETFlVRXgwWFhTUDBPZ3hKdW5WZ3dSSTJWcXgwcHBYRzhzQ21JcjRwMHpIWFRlTTVSU1Z0MW1DYl9YLXI0dVdLSy11SGJwemVIdEtkOUVwcl9yUFlVQW42dlpmbGl1cGpFb2JFMHp0VFZCNUJ2RkdhNXRac1M4aTRSOWNTddIB_gFBVV95cUxQTEhIa0t2aUtseldNYlVhb1ZsSEg2ZWZDclk3N2tyV2tFMkZPbEdNcnpkS3RwUDI0aHNha09hbWJsNjBhWHlTRW9YbENpSlVzM3BoaXlWRzVwZmlLMkxmM2JVVDZnZk5SbTNBNnJ2RWd3RlRUWEVENHVuS1ByaGJXa05wUUF4MWdCeExLS1hGQWd3cmRlTWNiSGpkS2NTOGJKaWdDNl9zTTYxa3BKQ1hhTHVzdXJ2Mk5DZGdlMDZZU3FqVmdXNTRWLUhGTzdMMkg2RGdLckxvMk5GaHpQTWUwM1RQZDRSYjNzLXRiTU81bDgwLWV3MVR2WXNPczRsQQ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXdmZDAxSE81Ty1tbGJ6bXNMbEJad2FSSmg3VHkyQ3V6ZER1aHZYbTNzMThDRGUxX1M5RlhpS2s0SmNCU3pIZjNURXFha3A1TzVTRXZZNXdZN3dXR3JxLXJ1dWZqZ0JXX2JjajdKM3Y2ODA3NUVMekIybEhDa0V5dXhjbU54MnB2YkcxclVpT2R4VzhVUmJiNDNCWktsbU16U3IySk94dFhLRGhIT255bzRMTURZTTdhaWxoRFpNbkFpaEZ6bjA3UXQ0SjBQdVNXQU80aQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0o3OU0wZ1RyWHZDYWpYWFVHM3FtQ2pRWTBhM19IZDhuOThOS2NoOW9tSFpoVjNLUUhkYk1ISi0tWnNUQm9nODVMN29ZdU16X0pNQ25XcDNkR3lhUnJkYnJzUUFiYUNmcjZHbUFEUW44YnBFOGgyUmt5SWd1VVVzdWwtRlYwSUVUU3FOVHpiNXl0Nk5zd1IzaWd0Mk51RXRGeFExbEdESUFCQlROWWF2ZUpjMWRJNTJvWFVUMW1uenZJdzRaTExBN00wRWtHTGRNSXpOSmlaYw",
@@ -92,6 +92,7 @@
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHozWnVNU3g2Nkw0ZlpfMFRFS1ZDM0ZnTktWbFhPa196MFl4QjJTTk9MRDNlZ1VHdU4yRGxjcEdEN0NlZmNMMDM0TS1vWUNOcjNfVWRjdlZvSVNFRU9JMW5QcTdnNWdoeWZFZ1dFUkUxVmNPN0VmVGplNHpTdTBoUU1sRdIBgwFBVV95cUxPdHozWnVNU3g2Nkw0ZlpfMFRFS1ZDM0ZnTktWbFhPa196MFl4QjJTTk9MRDNlZ1VHdU4yRGxjcEdEN0NlZmNMMDM0TS1vWUNOcjNfVWRjdlZvSVNFRU9JMW5QcTdnNWdoeWZFZ1dFUkUxVmNPN0VmVGplNHpTdTBoUU1sRQ",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkVjeTN4TVNzcnFfbnZrcHZYSF9vRHFTQUV0bV9pcHlLWlNacVJqeW90Z2tFQ3htLUF6YlRYMEdxWE9OTDU2YXloMW9Uc1d5dFN4MnA3UWFQRmZfN2xjSmE1eUhQMFBkWk5sWVR2UE5tUDBiem95REF4akIteEh2bFY1X0dnSUl4Y0h2dg",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWQ1RllvTUpVOFUwSUEtNC1Jd3VOSEJzTGE0UERXS3dEby1kam43enFtNzJPSFFwOXhHYlUtRW9lRllCb3h1eW0zS19WTTh1T3hJRVFDOW50NDByemVYdW5oWWRDODQxdF93U2xfT3B1dU5xS2JoTV9jZENHamtuaHhiUnJCeVBwTnpRZ0l3",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkMzdEhmMzlCeUt4NGtwa21ld0FwaFpwakxpTEc1OC1OUW80bk1OMFA5VmR6OVNRMGg0STJmUlRPaldlRjQ3YTl5akllX0l1OW1FQXlxS3N2X0VjVGFrOUVxU0lNcjdGR0EwLUNMdnBUajdNbE1vazZCTTFaY3AtZTAtOTgyVldkZEVnRF9NcFgybC1nMXU4",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lsejFvd2t5OXFqV0hhaUNRYkIxdlJMZnZwWDJhOHNFOVR0Y2Fna2hkYmtuYWtPUDBNQ3p6SlhtNFcwUWcyMGpRbF9ralJaczRTTVE0MDZFZWN3SWR3Mm9SLTRHY0hkVUNhYzNva3hTMHJPTlBHN1pGek5CaGM2TnJURm10Tmk0bVRkR2U0OHZvV1U1ZjV1eUdR",
@@ -120,8 +121,8 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVd6MU4tVWtqaGE0UGhZLVVyWFdqaE5xMW5RTXJTbWR2WElmd045a2M2WU54bFBJOUgxaXpqRzBJVVFHNWhGVVA2dUtyVFE1X0lkeHJueGlOYW9OMkpyM3JDZlpZaE1ORkF5bzBGbkd1d3V2V3dmbC0yem85OV9FTnk2YW11dWRVQ1dWeEREcURFa0c3RlI1bUJ3WndGNzRQNEszZUdHV3JkY1Y4MzVuZzNnV1NFY2ZoRGJn",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUM2MGpNOUVkeVJHdDFsMmhubHZ0eTQyYzFSMVlxdG05NFRVRE41YW9adGExX3VYZ3FveXZ2NmR2WXo5aVhjZWw4SXcwSHJ2WFhLNlFUWFlackstNi1LT2VRVV96U01Ea3RpcXJZMHg0V09QZzhOVEU5WnZNMTdnRkZMWUYxdmlQelYyeVU1QWtYNHVfRTF2UmNLLXRLcWJtM2d2eWJmUGhQWmxnSXJCVFFlOUx4UGQwQllEUUVn",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0N4d1oxcnpqYjE3dUU1X0xaNVM0VG5ZWGhrRE1GVGNFWHIyUmVGTU1kNFlCTEZ2aVptYUdSX0FaREZnN01pRE1BSFFLcnhQTGprY3RIVmt1LUw5QjJSbUlzcm5GZVRaYUVHQWJtZDFTZnVKQ2FZWDB3R2tDSzdoWVJMaVdRbmRiR21QM3pGU1ZRSzRCdjd6dXJpeWp0SURjOTBpZXplbzR4VHhoZGlQM25Hd2VvclBQelRMRzJGa9IBxAFBVV95cUxOaHRtNmRUV2gtX2N4MVNPaVdLQ3ZwRmVIN2gwazVNT0NPU2dxTTQtZDlfbDJfTF94ZVYzUGFnd3hTWXdFa2pCbmk1dkp6WVhtUDRiai1mc1R2em1SLXFzSUxEb3dVRHRDZkFUbkdkdDl4OTNaWnZlb2VLLW1QRWpPUURZSGVkZ0kzMEk2ZFNwODBpS0loajhzcmFtVjMyeG5Db29BckRoSGtqcDh1S25hc1hIZmdOWnVuTzBMdWZlUWU5MXg1",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNoaUFIX3o3YWpXQ1VCejZpZ1MtUWtuT0g3bWhfclVKYWpJZVlrMEVDcHBjZW9HblJ5Y25ORWlMSkxPeXBWazZoWFZrVlktdWoxbkhFTjNvX1BJNU1Ka3c0RlhVdWRJQkxHTUN6eS1FWmpKSnpiazVIREtmVHo1ZWxaTWRYMkpwRmJQM0N2MWwwMmlXQnNYRWxtY1Rkb0ltWE9jQTFZUmxHQlJpVjVyZXlZQUZ4SjNKOHZER2JTLWs",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVhqOGN4Tl8wN2ZBVEVfT1BWX0NkVGlHSFNVbzJsLTRkMkRSb3I2ajVBSllyZDhydTBPVWNpNWVMYlVZck5xLXV4NTFFd1p4eEhueko5S1hGaDcxOGpJR2gwb3hBV191aVIwYWZuU184ZkgzNmNKLU9aa01aa0M4V2ItLXFhYTJWRzZEYWJNb01NV1E3Mlp0RXp0czV5U19XYU9ZeUdJemtmeURTaTMzZ1lOT055Rks0ZFhnVk5Jb0g0ZHJ1WXc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUZqZEVaQVN6WHdBZ2lwVUJKTGhGSnhFLUdoYnJhNFN0STVXcGhpTG40QUU1Snc0aDFfWC11Y2psU2k0RVdQaHVmblQ5QnVSc1R1SmdBSm5HT3l1ZG1TSnc2dWVPS0ZGNURYcXl2ODRrQnlScjdSTWJEanVSeG5BOVF3dkdiVzJxaEdSUnpQSkpjdWJvT0EzYzBXMGIwZmFrTFdBYVI5TVZYN2tEeHBiTVF1OUQ3Z0lxMmZ5VWIwMmpQd0FIQXU00gHMAUFVX3lxTE5jZ0xBQUVkWFhxLXE5djg5UmlFZVkxREtWSG95aWpRTTdaVmFxZEtUWDlZYTVqazVUeEZMLWpjcDMxazMwenRGUDkwV0hNNDVzMWFIRjQxZkp2RHM4eE9uT2FJc3N5a3VhazlxQl9GaklzZU55WGRUYmZWdW94dUpwRXdiWUh6ek5tTUJlZlBmcWlzNUhQWXBLaVFZLXhfOWtkeU84NERqVUExa0ltc1FHQzV3S1NxR3lZNDNXZkh6TnVxb0ZXb1IxdU1ubQ",
@@ -132,26 +133,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Oil Surge Spurs Commodity Volatility, Fed Focus Intensifies",
-      "original_title": "Commodities to be on edge as oil surges and Fed takes centre stage - Moneycontrol.com",
-      "summary": "Резкий підйом цін на нафту підштовхує індекси сировинних товарів до високої волатильності, що підвищує очікування інфляції. Це посилює тиск на Федеральну резервну систему, яка розглядає можливість збільшення процентних ставок. Підвищення ставок підвищує доходність державних облігацій, що знижує їх ліквідність, і посилює позицію долара, що впливає на валютні ринки.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Moneycontrol.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0N4d1oxcnpqYjE3dUU1X0xaNVM0VG5ZWGhrRE1GVGNFWHIyUmVGTU1kNFlCTEZ2aVptYUdSX0FaREZnN01pRE1BSFFLcnhQTGprY3RIVmt1LUw5QjJSbUlzcm5GZVRaYUVHQWJtZDFTZnVKQ2FZWDB3R2tDSzdoWVJMaVdRbmRiR21QM3pGU1ZRSzRCdjd6dXJpeWp0SURjOTBpZXplbzR4VHhoZGlQM25Hd2VvclBQelRMRzJGa9IBxAFBVV95cUxOaHRtNmRUV2gtX2N4MVNPaVdLQ3ZwRmVIN2gwazVNT0NPU2dxTTQtZDlfbDJfTF94ZVYzUGFnd3hTWXdFa2pCbmk1dkp6WVhtUDRiai1mc1R2em1SLXFzSUxEb3dVRHRDZkFUbkdkdDl4OTNaWnZlb2VLLW1QRWpPUURZSGVkZ0kzMEk2ZFNwODBpS0loajhzcmFtVjMyeG5Db29BckRoSGtqcDh1S25hc1hIZmdOWnVuTzBMdWZlUWU5MXg1",
-      "published": "2026-10-25T03:44:11+00:00"
-    },
-    {
-      "title": "Борг Франції майже 122% ВВП, зростання лише 0,4%",
-      "original_title": "France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4% - The Times of India",
-      "summary": "За заголовком The Times of India, державний борг Франції наближається до 122% ВВП, а прогноз зростання економіки становить лише 0,4%. У доступному тексті немає ні джерела прогнозу, ні року, ні подробиць, тому ці дані слід перевіряти за першоджерелом. Поєднання високого боргу та слабкого зростання, імовірно, звужує бюджетний простір Франції та посилює тиск на фіскальну консолідацію. Для ринку це може бути чинником ризику для французьких держоблігацій та оцінки перспектив єврозони.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "The Times of India",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2pUcDhOaHNORGdUSHZ3RDctYlBYX2ZQLU1LTGduSkZxQnAzZDZCSmtKLUxJWElfYVc1OGFjTXZfd25odEItRjdPOFZMVDlJZ1ZNcDlTY3dlWnJTQnd6UnFScnlpb3oyMGJ6Rmd0aEdwekx0TXM1QjBQYUNETFlVRXgwWFhTUDBPZ3hKdW5WZ3dSSTJWcXgwcHBYRzhzQ21JcjRwMHpIWFRlTTVSU1Z0MW1DYl9YLXI0dVdLSy11SGJwemVIdEtkOUVwcl9yUFlVQW42dlpmbGl1cGpFb2JFMHp0VFZCNUJ2RkdhNXRac1M4aTRSOWNTddIB_gFBVV95cUxQTEhIa0t2aUtseldNYlVhb1ZsSEg2ZWZDclk3N2tyV2tFMkZPbEdNcnpkS3RwUDI0aHNha09hbWJsNjBhWHlTRW9YbENpSlVzM3BoaXlWRzVwZmlLMkxmM2JVVDZnZk5SbTNBNnJ2RWd3RlRUWEVENHVuS1ByaGJXa05wUUF4MWdCeExLS1hGQWd3cmRlTWNiSGpkS2NTOGJKaWdDNl9zTTYxa3BKQ1hhTHVzdXJ2Mk5DZGdlMDZZU3FqVmdXNTRWLUhGTzdMMkg2RGdLckxvMk5GaHpQTWUwM1RQZDRSYjNzLXRiTU81bDgwLWV3MVR2WXNPczRsQQ",
-      "published": "2026-10-25T04:40:00+00:00"
-    },
     {
       "title": "Китайський попит скоротив вартість люксових груп на €250 млрд",
       "original_title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades - Financial Times",
@@ -1431,6 +1412,36 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/op-ed-us-navy-distributed-manufacturing",
       "published": "2026-10-26T20:50:59+00:00"
+    },
+    {
+      "title": "Рада ЄС погодила позицію щодо аграрної політики після 2027",
+      "original_title": "MFF 2028-2034: Council secures negotiating position for a strong and future-oriented common agricultural policy",
+      "summary": "Рада ЄС погодила переговорну позицію щодо регламенту спільної аграрної політики після 2027 року в межах дискусії про бюджет ЄС на 2028–2034 роки. Мета політики, за повідомленням, полягає в тому, щоб зробити аграрний сектор ЄС конкурентнішим, сталішим і стійкішим. У матеріалі немає цифр про обсяги фінансування чи умови виплат. Макрофінансовий наслідок: відкривається шлях до переговорів щодо остаточних параметрів аграрних видатків, які впливатимуть на майбутній бюджет ЄС і підтримку фермерів.",
+      "source": "Рада ЄС",
+      "publisher": "Рада ЄС",
+      "channel": "economy",
+      "link": "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
+      "published": "2026-10-26T20:58:00+00:00"
+    },
+    {
+      "title": "US Treasury Yields Exceed 5% While Stock Market Remains Stable",
+      "original_title": "U.S. Yields Top 5% Yet Stock Market Holds Steady Amid Strong Growth - 조선일보",
+      "summary": "У статті зазначено, що доходність державних облігацій США перевищила 5%, одночасно фондовий ринок залишився стабільним на фоні сильного економічного зростання. Підвищені доходи підвищують вартість обслуговування державного боргу та можуть посилити тиск на долар, проте відсутність різкого падіння акцій свідчить про збереження інвесторської ліквідності та довіри до ринку.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "조선일보",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWQ1RllvTUpVOFUwSUEtNC1Jd3VOSEJzTGE0UERXS3dEby1kam43enFtNzJPSFFwOXhHYlUtRW9lRllCb3h1eW0zS19WTTh1T3hJRVFDOW50NDByemVYdW5oWWRDODQxdF93U2xfT3B1dU5xS2JoTV9jZENHamtuaHhiUnJCeVBwTnpRZ0l3",
+      "published": "2026-10-26T21:07:04+00:00"
+    },
+    {
+      "title": "Грецький міністр закордонних справ назвав турко-лібійську морську угоду нікчемною",
+      "original_title": "Turkey-Libya maritime deal 'remains null and void,' Greek FM says - Euronews.com",
+      "summary": "Міністр закордонних справ Греції офіційно заявив, що морська угода між Туреччиною та Лівією залишається нікчемною. Це дипломатичне твердження підтверджує незмінну позицію Афін щодо недійсності документа, який суперечить міжнародному морському праву. Заява міністра є формальним кроком у триваючому територіальному суперечці у Східному Середземномор'ї, де Греція та Єгипет виступають проти розмежування морських кордонів, укладеного Анкарою з Триполі.",
+      "source": "Treaties & Agreements",
+      "publisher": "Euronews.com",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
+      "published": "2026-10-26T22:10:23+00:00"
     }
   ]
 }

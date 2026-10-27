@@ -2,6 +2,7 @@
   "links": [
     "http://africanews.com/2026/10/26/ebola-uganda-introduces-21-day-quarantine-for-people-entering-from-drc",
     "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
+    "http://africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
     "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
@@ -83,6 +84,7 @@
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acUkyeGwyNFp1RVp2RW9HWldJak1adXNoeHVlb1o5QnphUmhrWV9HbTNfbDFSVEk5SUsxZEIzaDV5bVB2bG9jaFk0NmJUZTlwLXc",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZi1JUC1fVGlnOXZES1ZucGVDQi1DRnh5TU1aX1hSS1ptYzhBZ2dxZjVnQnluUjJWRVZYQUN5NU5vUmpBSWlBa29vMFdmdFRmVzRpVGtJSQ",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxbGxJS3lUR3ZzMTVjZFVCVThJUnpSem1GaE5QRTR5TXI2bExsZGhtaEcybXFxc18tZlVMZEhrQ1o0b2piUkkxTmxNd2pQcWVUYnVUdzJWMjFsd3ltdy11YjBJNUtrdlp6QnZkZW1DSDRsNUpyb1E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZnpGV2h2Z1ZwSUl5dzFmUDNOSkRmVnFINnZZNUdvcW9pM25WWTZGeUFkTWY3dUthZGR4OFowd2R5M2kxQU5mSEVuUGpPeE96MDVRenFZQmtXMW1iTG5SeGVDNUNUNF8yMVpEU3VtNGtIdTNpYVE",
@@ -103,6 +105,7 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1lGbHV0bE05eTVGdXE1cXd6RlZ2MFltZ1hKOHFhandrNVJEektLb3o1VGt2LW56Mk4tYlZJU1dHQmRBYTRld1FLTFpKQ0lwa3FhckdEY0ZUSWIwVHFJU1BySTRodS1qeXBjbHBzNVVuckNnWmFEdkhtdTlLdjNCUXRJNENBelVGUVFGRXJ1eDJ2bDdtYUI0UndYV2xVV2NIeGNyZjlCX1NXZw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg5ZmJreWZuZENCUFZ4WGR3ZVNDQXlCMjNlNmh3NnJMN25tSVRoSmRkUFJUa2poOEVxd3BIVVRieUhLOGlVSlI4QWV2VGluRFNCdVAtVmxzVWE1LS1yM2hTQ2VSTUhDR0dfck5FS3hkaGtzWFA2V2ZkY3otQ0t1eF93amhoa3o4eG9sODJ0SDRIMzNfOHpwZW1majFVS3FsTVRjMGg1bDN0QQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeS1falBJUHlWUXhibUpwdHhkRlp3WnZ4dDhNX1ZneXZYeGxFUVA3eVk5V3c1US16VVZ0UmZiNmwyS3VHMXB5SW1RUGhSc0xpQk9rSnZuWmxlUXkwME00OGo4eWFWQlp4Qk5ZWi0tWTBCNmFqaHdQMnpreTZFSjY0NjhrSTNqWWVfN2M1ZFVORUFTTHA3ZjJFa3hvMXZxZVBrakpPMUl0WFlndw",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0JiaG5tQzZnRWZqSFlmSGhtMVQ4bGRiTWZRTjFaWEl2RTJyQjN6SUJ6M05XVzJ2Y2JsaUdtc3lkRkZoWTcxNEJiR0s2cjc4VUJFM1dwMWtKOGVRQVh2OXpMS2hPQldmWFh2bEE2VHo2cmJyWmhBOU5vWC1NVFQ4QjY2TmJkck5TTG1NYlRLTUlWTHdKeTFsa20tUElJTVF2Tk1HNFFrd1RRbmRyMVE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c",
@@ -1370,6 +1373,16 @@
       "published": "2026-10-27T07:02:44+00:00"
     },
     {
+      "title": "Нігер викликав посла Чаду через смертоносну атаку безпілотника",
+      "original_title": "Niger accuses Chad of deadly drone attack in which two civilians died",
+      "summary": "Військова влада Нігеру викликала посла Чаду через інцидент із застосуванням безпілотника, в результаті якого загинули двоє цивільних осіб. Нігерська сторона вимагає компенсації за завдані збитки. Подія стосується офіційних міждержавних відносин та дипломатичних кроків між двома африканськими країнами.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died",
+      "published": "2026-10-27T07:24:55+00:00"
+    },
+    {
       "title": "Балістичний удар пошкодив Південний міст у Києві, рух обмежено в обох напрямках",
       "original_title": "У Києві після удару балістики пошкоджений Південний міст",
       "summary": "У ніч на 27 жовтня російські балістичні ракети атакували Південний міст через Дніпро, повідомив мер Києва Віталій Кличко. Міст пошкоджено, також постраждала інфраструктура метрополітену. Поліція й міська влада тимчасово обмежили автомобільний рух в обох напрямках, фахівці оцінюють наслідки. Тип ракет і ступінь пошкоджень конструкцій не уточнюються. Це повторна атака на міст: 1 жовтня два дрони влучили поблизу опорної частини. Якщо міст виведено з ладу надовго, це ускладнить логістику та рух містом, а також може свідчити про прицільні удари по критичних переправах.",
@@ -1398,6 +1411,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/giperzvukovu-raketu-blackbeard-na-f-16",
       "published": "2026-10-27T08:47:53+00:00"
+    },
+    {
+      "title": "Путін планує переговори з лідерами Фінляндії та Норвегії щодо України",
+      "original_title": "Putin Plans Talks With Finland, Norway Leaders on Ukraine - Bloomberg.com",
+      "summary": "Згідно з повідомленням Bloomberg, президент Росії Володимир Путін планує провести переговори з лідерами Фінляндії та Норвегії, присвячені ситуації навколо України. У короткому тексті джерела не наводяться конкретні дати проведення зустрічей, формати переговорів чи інші додаткові деталі щодо майбутніх контактів між главами держав.",
+      "source": "Bilateral Meetings",
+      "publisher": "Bloomberg.com",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA",
+      "published": "2026-10-27T08:58:47+00:00"
+    },
+    {
+      "title": "Парламент Вірменії обговорює ратифікацію рамкової угоди TRIPP зі США",
+      "original_title": "Armenian parliament debates ratification of TRIPP framework agreement with U.S. - Armenpress",
+      "summary": "Парламент Вірменії розпочав дебати щодо ратифікації рамкової угоди TRIPP, укладеної зі Сполученими Штатами Америки. Процедура передбачає розгляд офіційного документа законодавчим органом республіки задля подальшого затвердження та набуття чинності домовленостей між двома країнами.",
+      "source": "Treaties & Agreements",
+      "publisher": "Armenpress",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
+      "published": "2026-10-27T09:04:00+00:00"
     }
   ]
 }

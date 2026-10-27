@@ -57,6 +57,7 @@
     "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj",
     "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
     "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
+    "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya",
@@ -68,6 +69,7 @@
     "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia",
     "https://navalnews.com/naval-news/2026/10/op-ed-us-navy-distributed-manufacturing",
+    "https://navalnews.com/naval-news/2026/10/sweden-selects-saildrone-for-year-long-mda-mission-in-the-baltic-sea",
     "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXdmZDAxSE81Ty1tbGJ6bXNMbEJad2FSSmg3VHkyQ3V6ZER1aHZYbTNzMThDRGUxX1M5RlhpS2s0SmNCU3pIZjNURXFha3A1TzVTRXZZNXdZN3dXR3JxLXJ1dWZqZ0JXX2JjajdKM3Y2ODA3NUVMekIybEhDa0V5dXhjbU54MnB2YkcxclVpT2R4VzhVUmJiNDNCWktsbU16U3IySk94dFhLRGhIT255bzRMTURZTTdhaWxoRFpNbkFpaEZ6bjA3UXQ0SjBQdVNXQU80aQ",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
@@ -98,6 +100,7 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZXam85Z0lCUF8xSWNldG1lcHFBNkFYZVJzeWs3eFRNbkl2R1I1VTNMUWtNNGNTcFU4bElNV3FUNUItV3prZG5VTmEybzdIVUtmZzlPSm1iWm1XR0FoN2N4SU5GeWdWRnNaVWJ5QmlmMVBFTGpRV3pjaXgzU3Fnc3RUWERidHN3bklVTzhUQkM5dUJWOVRTdVB3",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjAyUUlSc1ktVGxkTzZmNDhOOUR6OGZTTThqRU5WaFVwMlg2VFB2SU5KckY5dDZBYnFKLWF5MG5xYi14SDk5dDVmODZhaktOUnczbEwwT2NKVHB0al95d1U1Y2VZcC1DOHR1cWRDNURSbUxvNkVWdHZ5QXFwd1FCZVJ4WXN1Y3lnMG1ISzlQRWE2aXVzclFjTGozdWE",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3VDS3NRZTZiZWRVX01ybVd2dkVDYnRVM3NNdHJQcG1wRl9UR3hvWV9hdVU0czlCQUNYV0VPR2FyQkNBVUR1NS1LdkhZaDFKX29DT1dUMnNnMWxCdFZZMnpFNXQ2cXdZMDRQVkQ3NmNLUTRHcnBVaXZmb3ZuMmRueUVSQXJDc3JlTFlaZm5NZEwyUC1od3NoY01XcDRjbEE",
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxPM19WVndjOFlaU19xaVVQbGNfbHNDaU9DOWl5cklpR3l5c3pCYVNRQmx6YUw1OFJKeFpRWXhmcElSWjh4ODVEVXBhOWF3aVJtMmRad2t0X0hTWkZYcE1uREdONG1hY0tHMmJ2TmIzZlcwM0JuelE3LW9rWlhxWnppR09BbjQ1Q241RXhkaUUtejhUYnR5M001RGx5bTMtNXRlWjdYTUFQcnJrRjRJNEhacVZTRVpQZE1rUFV3dkVqUDVGWjQxcHBMYURvT0laelhaeXE0TU5rYWE2bGlzU1dNRVZUeTFCa0tRT0U1SWQwTWo1cnNRQ3V0YmlMTFAwUm9adjhXRlluQXhXOFZjVEdWTzhPOWRvb3VVMEFHdURDZ1o",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1Z1Qk4tanI0Q2ZETU43S0tUYVBPQzIzdTNGRWxDLWFEWm9DM2plZW53cnBMZGE2S3ZHNWlmREx1czJFNURmUV9MVWlCcXpoWXJxenlFbDlNYmt1NWd3bHFDaXNiNEFTRkJvc1JsdGY4OEw2T0JDTlRNMlFPQVJTWUcxQmt3ZnZBMGNrYVhIUVVqRFNuNGNmcEJyVUptSjdjTFE",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmhlVlF3cERqSW5jaVZLTHhNSkRBMy1jN0VhQTVhR3NFdmJPcVF4Vlk0aVRyenVNdHNMamZGN2RqdURYdmc1SHRJTWxsc29hczNqbXYzdlM0ZE9nQm5OMm1pSG9neWM4LVhKbmFJbDRIc1NzczlwZ0FxSXdBLTRCQzRTOV9tTFpiLWl2X25FcXEzWEdRQkFLNXRCUk52VnZ2OWF3",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1Zwdkp6Unlhd21PMHdnQkxrSzViVUIzdmlfOTdMX0hzNjFuQ0NwQWxLVU92QkZacWxyMWxjRTJiV2prNlBvS2lVNWdieG8zbjgxUzJDSDA5ZHBjMnFqYlFVcDRERTdESWk5aG5qWmVRbTdJaktOUlhYZnhmNFlLVmctelZKUXR6SmdBQmJHSW5rZ0tKZXFyNFd4VmJlU1dMeW1QMA",
@@ -114,7 +117,6 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEVNUXNKakU4VGFJbENDT1A4bV9VQ3hpOFB0UmNsSy1yRW54RE5VQV9lU1EzNklxVTVVa3U5WTdIVGREN29XM3Z2UTh2NWhTQ0F5MVZDTjlhR0RNNGx2LWFYMWlQSVpYa3UtQnRnTzE4TS1jc01HZU9LY0hETHVWaUVPS2VwRENOc1BfaFFkemtwdWNMdDN2RnJYSUptNExZZnVzS3Zwd3QzTkZKSVBR",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
@@ -132,19 +134,10 @@
     "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
+    "https://twz.com/sea/britains-final-plan-to-kill-argentinas-super-etendards-attack-jets",
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Міністр закордонних справ Єгипту відправився до Алжиру для тристоронніх переговорів щодо Лівії",
-      "original_title": "Egyptian foreign minister heads to Algeria for tripartite Libya talks - Egypt Today",
-      "summary": "Міністр закордонних справ Єгипту вирушив до Алжиру для проведення тристоронніх переговорів щодо Лівії. Ця дипломатична місія спрямована на обговорення ситуації в Лівії з залученням алжирської сторони. Подія зафіксована як офіційний візит міністра закордонних справ до сусідньої країни для проведення консультацій.",
-      "source": "Bilateral Meetings",
-      "publisher": "Egypt Today",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA",
-      "published": "2026-10-25T08:47:00+00:00"
-    },
     {
       "title": "США розглядають використання бомбардувників у повітряних боях проти Китаю",
       "original_title": "У США розглядають використання бомбардувальників у повітряних боях",
@@ -906,6 +899,16 @@
       "published": "2026-10-26T11:20:00+00:00"
     },
     {
+      "title": "Швеція обирає Saildrone для річної місії з морської доменної обізнаності у Балтійському морі",
+      "original_title": "Sweden Selects Saildrone for Year-long MDA Mission in the Baltic Sea",
+      "summary": "Шведські збройні сили підписали угоду з Saildrone про розгортання чотирьох безпілотних поверхневих суден Voyager, кожне з яких працюватиме 360 днів, забезпечуючи безперервний моніторинг морської доменної обізнаності у територіальних водах та виключній економічній зоні країни. USV оснащені багатофункціональними сенсорами для виявлення суден, збору даних про стан моря та екологічного моніторингу, працюючи автономно протягом року. Така система підвищує ситуаційну обізнаність Швеції у Балтійському морі, посилюючи можливості виявлення нелегальних судноплавних операцій та підвищуючи обороноздатність",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/sweden-selects-saildrone-for-year-long-mda-mission-in-the-baltic-sea",
+      "published": "2026-10-26T11:50:42+00:00"
+    },
+    {
       "title": "Україна та ЄС обговорюють нагляд за кредитом €90 млрд",
       "original_title": "Ukraine and EU Discuss Oversight of €90 Billion Support Loan - Oj - Odessa Journal",
       "summary": "Згідно із заголовком Odessa Journal, Україна та ЄС обговорюють механізми нагляду за підтримувальним кредитом обсягом €90 млрд. У наданому тексті немає деталей щодо умов, строків, траншів чи конкретних механізмів контролю, тому оцінка обмежується заявленим фактом. Сама сума свідчить про потенційно суттєвий зовнішній ресурс для фінансування України. Порядок нагляду, ймовірно, впливатиме на графік і умови надходження коштів, але підтвердження цього в матеріалі немає.",
@@ -914,6 +917,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
       "published": "2026-10-26T12:06:15+00:00"
+    },
+    {
+      "title": "Зеленський: Україна виконала свою частину антибалістичного проєкту Freyja, партнери ще в процесі",
+      "original_title": "Україна виконала свою частину антибалістичного проєкту Freyja — Зеленський",
+      "summary": "Проєкт Freyja передбачає розробку ракети-перехоплювача FP-7.X для знищення балістичних цілей. За раніше оприлюдненими даними, усі її компоненти виготовляють в Україні, окрім однієї деталі. Тепер темп робіт залежить від 10 країн-учасниць, серед яких ключові партнери Франція та Норвегія. Строки та тактико-технічні характеристики системи в повідомленні не наведено, тому її вплив на протиракетну оборону можна оцінити лише після випробувань і початку серійного виробництва.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
+      "published": "2026-10-26T12:09:34+00:00"
     },
     {
       "title": "Стартап Warhound із $200 млн інвестицій створюватиме генетично покращених службових собак для армії та поліції",
@@ -934,6 +947,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
       "published": "2026-10-26T12:47:52+00:00"
+    },
+    {
+      "title": "США планують купити 850 F‑35 за 10 років, щоб уникнути проблем з РЛС",
+      "original_title": "Щоб уникнути випадків постачання винищувачів без РЛС та інших проблем США готуються купити 850 F-35 за 10 років і чим це допоможе - Defense Express",
+      "summary": "США розробляють план закупки 850 літаків F‑35 за десять років, щоб уникнути випадків поставки винищувачів без радіолокаційних систем. F‑35 – п’ятого покоління, з інтегрованим сенсорним фузіоном, що забезпечує кращу об’єднану обізнаність та можливість спільного використання з союзниками. Це дозволить зменшити ризики технічних недоліків і підвищить ефективність авіаційних операцій у глобальному масштабі.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPM19WVndjOFlaU19xaVVQbGNfbHNDaU9DOWl5cklpR3l5c3pCYVNRQmx6YUw1OFJKeFpRWXhmcElSWjh4ODVEVXBhOWF3aVJtMmRad2t0X0hTWkZYcE1uREdONG1hY0tHMmJ2TmIzZlcwM0JuelE3LW9rWlhxWnppR09BbjQ1Q241RXhkaUUtejhUYnR5M001RGx5bTMtNXRlWjdYTUFQcnJrRjRJNEhacVZTRVpQZE1rUFV3dkVqUDVGWjQxcHBMYURvT0laelhaeXE0TU5rYWE2bGlzU1dNRVZUeTFCa0tRT0U1SWQwTWo1cnNRQ3V0YmlMTFAwUm9adjhXRlluQXhXOFZjVEdWTzhPOWRvb3VVMEFHdURDZ1o",
+      "published": "2026-10-26T12:59:00+00:00"
     },
     {
       "title": "СВР РФ готувала провокаційний мітинг на підтримку Paks II у Будапешті, але акцію скасували",
@@ -1394,6 +1417,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWQ1RllvTUpVOFUwSUEtNC1Jd3VOSEJzTGE0UERXS3dEby1kam43enFtNzJPSFFwOXhHYlUtRW9lRllCb3h1eW0zS19WTTh1T3hJRVFDOW50NDByemVYdW5oWWRDODQxdF93U2xfT3B1dU5xS2JoTV9jZENHamtuaHhiUnJCeVBwTnpRZ0l3",
       "published": "2026-10-26T21:07:04+00:00"
+    },
+    {
+      "title": "Остаточний план Британії знищити аргентинські Super Étendard",
+      "original_title": "Britain’s Final Plan To Kill Argentina’s Super Étendards Attack Jets",
+      "summary": "У 1982 році під час Фолклендської війни британці розробили спеціальну операцію, метою якої було знищення пілотів та винищувачів Super Étendard і їхніх протикорабельних ракет AM39 Exocet. Операція включала кілька етапів (PLUM DUFF, MIKADO, KETTLEDRUM, IMPI) і передбачала використання десантних вертольотів і транспортних літаків для проникнення в Аргентинську Тірру-дель-Фуего. Успішне усунення цієї комбінації могло б суттєво знизити загрозу для британського флоту, який вже втратив HMS Sheffield і Atlantic Conveyor через Exocet.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/britains-final-plan-to-kill-argentinas-super-etendards-attack-jets",
+      "published": "2026-10-26T21:11:58+00:00"
     },
     {
       "title": "Бійці 63 ОМБр за дві доби евакуювали 8 цивільних з Лимана, один військовий прикрив людей від FPV",

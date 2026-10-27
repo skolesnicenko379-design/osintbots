@@ -20,6 +20,7 @@
     "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
+    "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
     "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
     "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/british-politicians-detained-israel-why-trying-access-west-bank",
@@ -45,7 +46,6 @@
     "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
     "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
     "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
-    "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
     "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
@@ -80,7 +80,6 @@
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXVSc2hqUUhOVm5oNUFLMHVQOUtBbDctbEMxX0NRbnNaMC1YYmhPa1dtc3o4cTZrUHBxdks1cHBvaEwtdkJBUFE4Q2FvMmw5ampRSS1URi1kTlZzb2E2N3BIRTIwcndIdE12ZmtWV2xYMEV6RUcyU0o0bWVnNi1yUHR1RW0wcTJrNzYtU05acjdxMGNsWjRjeE5kTVdEOHRrVDhTdnJseVVRS1ZhMkN6QWktdUxWeTJEZkt6b21FeTJUSlc3djJJcldMcXJCdHNwcTNQaGNGUWxPZmpMVVNhM1JwT1pDZGd2dGpKUExWYw",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acUkyeGwyNFp1RVp2RW9HWldJak1adXNoeHVlb1o5QnphUmhrWV9HbTNfbDFSVEk5SUsxZEIzaDV5bVB2bG9jaFk0NmJUZTlwLXc",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZi1JUC1fVGlnOXZES1ZucGVDQi1DRnh5TU1aX1hSS1ptYzhBZ2dxZjVnQnluUjJWRVZYQUN5NU5vUmpBSWlBa29vMFdmdFRmVzRpVGtJSQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
@@ -115,10 +114,12 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVd6MU4tVWtqaGE0UGhZLVVyWFdqaE5xMW5RTXJTbWR2WElmd045a2M2WU54bFBJOUgxaXpqRzBJVVFHNWhGVVA2dUtyVFE1X0lkeHJueGlOYW9OMkpyM3JDZlpZaE1ORkF5bzBGbkd1d3V2V3dmbC0yem85OV9FTnk2YW11dWRVQ1dWeEREcURFa0c3RlI1bUJ3WndGNzRQNEszZUdHV3JkY1Y4MzVuZzNnV1NFY2ZoRGJn",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNoaUFIX3o3YWpXQ1VCejZpZ1MtUWtuT0g3bWhfclVKYWpJZVlrMEVDcHBjZW9HblJ5Y25ORWlMSkxPeXBWazZoWFZrVlktdWoxbkhFTjNvX1BJNU1Ka3c0RlhVdWRJQkxHTUN6eS1FWmpKSnpiazVIREtmVHo1ZWxaTWRYMkpwRmJQM0N2MWwwMmlXQnNYRWxtY1Rkb0ltWE9jQTFZUmxHQlJpVjVyZXlZQUZ4SjNKOHZER2JTLWs",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVhqOGN4Tl8wN2ZBVEVfT1BWX0NkVGlHSFNVbzJsLTRkMkRSb3I2ajVBSllyZDhydTBPVWNpNWVMYlVZck5xLXV4NTFFd1p4eEhueko5S1hGaDcxOGpJR2gwb3hBV191aVIwYWZuU184ZkgzNmNKLU9aa01aa0M4V2ItLXFhYTJWRzZEYWJNb01NV1E3Mlp0RXp0czV5U19XYU9ZeUdJemtmeURTaTMzZ1lOT055Rks0ZFhnVk5Jb0g0ZHJ1WXc",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3pMcnpSWnhRSU9XN1NCT3BSSFBOeVNDS3ctemtkR3JseTZ5d0htdzFyWXhUc1dtWUhxeTYyQWlUSERTQ2VkTHd1Ykk1S0hxaW1PTnlVWTQwZEc1a29tN0ozU0gwS2wtU3dhX2FCU3c2T1VEcjJyR05rRVFSX0N1RGozM092OGM5dno1a3R3eUxyVWg5YVdRYzBad0VMWk9zVV96MmMwQUpnbERsS3hYUDZ5V0hvTEd0QVdGQ0xILWJyeGlNOFHSAcsBQVVfeXFMTVAwWnhNOGhlVVphNk1JZnlOc0JnenZQdXZGZWw0clBESmVLeHZzSzBiTzlJSkJMdlpSekpLZjVoLXBtY1hEelBwTUNSSjBWdDY5RVc1LWE3U0F1Ni1SVGN6bTJCdHhHRnlHbFctX01feE5TXy10bDFNeWVsTlo2NnVJMTVDcDJoeWkwLTlRNVVRV1I5a2VTVnBTY1FScldsZWpxWEphd0o2aE1QQzEzM3NSd3pUNnNHVGVPOU5aTWFUT3dKNGV4YXAtTnM",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1dzZ2xhTUlVU1BHaktQNTRfR1lJMmVESnVzbk1PcTBIRDBPTDBYekZYRU5hNnRYNWFBdXBhc0oxUkFLeWNuRk9uenhKOUhDYVlBbnltUW1tLWl0Vll4QXZBci1aMm84TUZZVWF4MzEtOS1wQkdSX0ZWd1p1ekxwNU5VM094Vy1qZlNYVEJSUkp4U043cHZRc3Q0VkotNXcxWWdFODN5RXNXbDBKMlJ2RmhkYWJuaVg5dlBudXIyUDVNa0RRUksw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUZqZEVaQVN6WHdBZ2lwVUJKTGhGSnhFLUdoYnJhNFN0STVXcGhpTG40QUU1Snc0aDFfWC11Y2psU2k0RVdQaHVmblQ5QnVSc1R1SmdBSm5HT3l1ZG1TSnc2dWVPS0ZGNURYcXl2ODRrQnlScjdSTWJEanVSeG5BOVF3dkdiVzJxaEdSUnpQSkpjdWJvT0EzYzBXMGIwZmFrTFdBYVI5TVZYN2tEeHBiTVF1OUQ3Z0lxMmZ5VWIwMmpQd0FIQXU00gHMAUFVX3lxTE5jZ0xBQUVkWFhxLXE5djg5UmlFZVkxREtWSG95aWpRTTdaVmFxZEtUWDlZYTVqazVUeEZMLWpjcDMxazMwenRGUDkwV0hNNDVzMWFIRjQxZkp2RHM4eE9uT2FJc3N5a3VhazlxQl9GaklzZU55WGRUYmZWdW94dUpwRXdiWUh6ek5tTUJlZlBmcWlzNUhQWXBLaVFZLXhfOWtkeU84NERqVUExa0ltc1FHQzV3S1NxR3lZNDNXZkh6TnVxb0ZXb1IxdU1ubQ",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
@@ -131,26 +132,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Росія скоротила золоті резерви на 62 тонни",
-      "original_title": "Russia Reduces Gold Reserves by 62 Tons, Kazakhstan Follows Sale, Poland Continues to Buy - VOI.ID",
-      "summary": "Згідно із заголовком VOI.ID, Росія зменшила золоті резерви на 62 тонни, Казахстан також продає золото, а Польща продовжує його купувати. У тексті немає періоду, обсягів продажів Казахстану і Польщі та причин рішень, тому оцінка обмежена. Макрофінансовий наслідок: центробанки діють по-різному, і Росія та Казахстан можуть використовувати золото як ліквідний буфер, тоді як Польща нарощує його частку в резервах. Для ринку це радше сигнал про зміну структури резервів, ніж підтверджений удар по ціні золота.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "VOI.ID",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZ9IBQkFVX3lxTE1xVjlXcmlRTm1feFhzNklyYzNMd3BiSXQ5M1c1a3BrUWpjZjlPTHRPNFBUMlJWNjZONDZxdXJwRmFGZw",
-      "published": "2026-10-25T18:20:45+00:00"
-    },
-    {
-      "title": "Сербія презентувала 203‑мм самохідний міномет TSMB M-25",
-      "original_title": "Сербія вперше показала стрільби з важкого 203-мм самохідного міномета TSMB M-25",
-      "summary": "Сербія оголосила про перший показ важкого 203‑мм самохідного міномета TSMB M-25, розробленого Військово‑технічним інститутом. Міномет має ствол довжиною 24 калібри, 6‑12 км дальність, можливість вести до трьох пострілів за хвилину і оснащений інерціально‑навігаційною системою. Це значно підвищить артилерійські можливості Сербії та зміцнить її оборонну промисловість у регіоні.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
-      "published": "2026-10-25T18:21:05+00:00"
-    },
     {
       "title": "Франція розгорнула літак Atlantique 2 для патрулювання Чорного моря",
       "original_title": "Франція залучила патрульний літак до захисту судноплавства в Чорному морі",
@@ -1412,6 +1393,26 @@
       "published": "2026-10-27T10:36:43+00:00"
     },
     {
+      "title": "Енергодоходи Росії падають попри зростання цін на нафту",
+      "original_title": "Russia’s energy revenues plummet despite surging global oil prices amid drone attacks - Anadolu Ajansı",
+      "summary": "За заголовком Anadolu, енергетичні доходи Росії різко падають, хоча світові ціни на нафту зростають, а на тлі атак дронів це говорить про фізичні обмеження експорту чи переробки. У наявному тексті немає конкретних цифр щодо обсягу падіння, періоду чи впливу на бюджет, тому масштаб оцінити неможливо. Якщо тенденція підтвердиться, зростання цін не компенсуватиме Росії втрати від атак, що створює ризик для бюджетних надходжень від нафтогазового сектору.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Anadolu Ajansı",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
+      "published": "2026-10-27T10:50:33+00:00"
+    },
+    {
+      "title": "Президент Фінляндії та прем'єр Норвегії провели телефонну розмову з Путіним",
+      "original_title": "President Stubb, Prime Minister Støre hold phone call with President Putin - Ukrinform",
+      "summary": "Президент Фінляндії Александер Стубб та прем'єр-міністр Норвегії Юнас Гар Стере провели телефонну розмову з президентом Росії Володимиром Путіным. Подія зафіксована у джерелі Ukrinform та стосується офіційних дипломатичних контактів на найвищому рівні між главами держав і урядів.",
+      "source": "Bilateral Meetings",
+      "publisher": "Ukrinform",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3pMcnpSWnhRSU9XN1NCT3BSSFBOeVNDS3ctemtkR3JseTZ5d0htdzFyWXhUc1dtWUhxeTYyQWlUSERTQ2VkTHd1Ykk1S0hxaW1PTnlVWTQwZEc1a29tN0ozU0gwS2wtU3dhX2FCU3c2T1VEcjJyR05rRVFSX0N1RGozM092OGM5dno1a3R3eUxyVWg5YVdRYzBad0VMWk9zVV96MmMwQUpnbERsS3hYUDZ5V0hvTEd0QVdGQ0xILWJyeGlNOFHSAcsBQVVfeXFMTVAwWnhNOGhlVVphNk1JZnlOc0JnenZQdXZGZWw0clBESmVLeHZzSzBiTzlJSkJMdlpSekpLZjVoLXBtY1hEelBwTUNSSjBWdDY5RVc1LWE3U0F1Ni1SVGN6bTJCdHhHRnlHbFctX01feE5TXy10bDFNeWVsTlo2NnVJMTVDcDJoeWkwLTlRNVVRV1I5a2VTVnBTY1FScldsZWpxWEphd0o2aE1QQzEzM3NSd3pUNnNHVGVPOU5aTWFUT3dKNGV4YXAtTnM",
+      "published": "2026-10-27T10:58:00+00:00"
+    },
+    {
       "title": "Reuters виправив повідомлення про план Сербії зупинити експорт зброї до України",
       "original_title": "Reuters прибрало згадку про плани Сербії припинити експорт зброї до України",
       "summary": "Reuters видалив згадку про намір новообраного уряду Сербії припинити постачання озброєння в Україну, додавши редакційну примітку про відсутність підтверджень. Це свідчить про невизначеність щодо майбутньої політики експорту сербської зброї, включаючи малу вогневу техніку та артилерію, що може продовжити їх постачання на український фронт.",
@@ -1420,6 +1421,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
       "published": "2026-10-27T10:59:05+00:00"
+    },
+    {
+      "title": "Посол Великої Британії з прав людини відвідує Танзанію",
+      "original_title": "UK Human Rights Ambassador visits Tanzania ahead of UN review",
+      "summary": "20 жовтня посол Великої Британії з прав людини Елінор Сандерс прибув до Дар‑ес‑Салама, Танзанія, для зустрічей з представниками медіа, релігійних організацій, пасторальних груп, політичних партій та правозахисних організацій. Вона також відвідає проєкти, фінансовані Великою Британією, що забезпечують доступ до засобів сексуального та репродуктивного здоров’я та борються з торгівлею людьми. Візит передує Універсальному періодичному огляду Танзанії в ООН.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
+      "published": "2026-10-27T12:15:00+00:00"
     }
   ]
 }

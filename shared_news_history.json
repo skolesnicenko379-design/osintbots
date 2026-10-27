@@ -3,6 +3,7 @@
     "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
     "http://africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died",
     "http://africanews.com/2026/10/27/south-african-ambassador-calls-for-talks-to-ease-tensions-with-us",
+    "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
     "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
@@ -19,6 +20,7 @@
     "https://defensenews.com/video/2026/10/26/semiautomatic-grenade-launcher-and-aim-assist-for-shooting-down-drones-highlights-from-ausa-2026",
     "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
+    "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
     "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
@@ -48,6 +50,8 @@
     "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
+    "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
+    "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
     "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
     "https://militarnyi.com/uk/news/tsyfrovyj-zv-yazok-ta-vybir-chastot-video-taf-industries-predstavyla-onovlenyj-nosij-retranslyatora-kolibri-13-fr1",
     "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
@@ -1431,6 +1435,46 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
       "published": "2026-10-27T12:15:00+00:00"
+    },
+    {
+      "title": "Anduril разом із Qualcomm почне випускати ноутбуки в межах нової ініціативи BlueChip",
+      "original_title": "Anduril expanding into laptop manufacturing in partnership with Qualcomm",
+      "summary": "Ноутбуки BlueChip працюватимуть на процесорах Qualcomm Snapdragon X Series, які забезпечать обчислення, графіку та ШІ безпосередньо на пристрої. Наразі є лише «функціональні прототипи», а прийом замовлень заплановано на наступний рік. Обсяги виробництва та конкретні технічні параметри не розголошуються. Компанії націлюються на державних і військових замовників та заявляють, що хочуть зменшити залежність США від іноземних ланцюгів постачання комп'ютерної техніки.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
+      "published": "2026-10-27T13:00:00+00:00"
+    },
+    {
+      "title": "Шпаргалка до проміжних виборів 2026: за якими перегонами стежити в оборонній сфері",
+      "original_title": "2026 midterm cheat sheet: Which races to watch on defense",
+      "summary": "Йдеться не про техніку, а про політику: за чинними опитуваннями, на виборах 3 листопада демократи можуть здобути Палату представників, а також, імовірно, Сенат. Ключова перегонова кампанія — у штаті Мен, де голова комітету Сенату з асигнувань Сьюзен Коллінз, яка відіграє важливу роль у визначенні оборонного бюджету, змагається з демократом Троєм Джексоном. Зміна складу Конгресу, зокрема вихід у відставку голови оборонних асигнувань у Сенаті Мітча Макконнелла, може вплинути на рівень оборонного фінансування та допомогу Україні.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
+      "published": "2026-10-27T13:00:00+00:00"
+    },
+    {
+      "title": "TAF Industries збільшила радіус розвідника «Бабка» до 60 км",
+      "original_title": "TAF Industries збільшила радіус розвідника «Бабка» до 60 км",
+      "summary": "TAF Industries оновила безпілотник «Бабка», збільшуючи тактичний радіус з 40 до 60 км і загальну дистанцію польоту з 120 до 160 км. Новий зв’язок Sign Engineering і акумулятор 30 000 мА·год дозволяють дрону залишатися в зоні розвідки довше, що підвищує ефективність місій без збільшення вартості. Це розширює можливості українських військ у зборі інформації та підтримці бойових операцій.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
+      "published": "2026-10-27T13:11:01+00:00"
+    },
+    {
+      "title": "TAF Industries інтегрувала ШІ‑модуль Aura AI у дрон Колібрі 10″ Advance",
+      "original_title": "TAF Industries інтегрувала ШІ-модуль Aura AI у Колібрі 10″ Advance",
+      "summary": "Компанія TAF Industries встановила у FPV‑дрон Колібрі 10″ Advance систему донаведення Aura AI від DOD Solution, яка автоматично розпізнає та слідкує за потенційними цілями, використовуючи алгоритми машинного зору. Під час польотних випробувань система виявляла близько 80% підготовлених цілей, що підвищує автономність ударних безпілотників і дозволяє продовжувати атаку при втраті керування чи відеосигналу. Така інтеграція може суттєво підвищити ефективність дронів у умовах поганої видимості та електронної боротьби.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
+      "published": "2026-10-27T13:11:25+00:00"
     }
   ]
 }

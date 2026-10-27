@@ -7,6 +7,7 @@
     "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
     "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
+    "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
     "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
     "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
@@ -20,6 +21,7 @@
     "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
     "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
     "https://defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
+    "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
     "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
@@ -50,8 +52,8 @@
     "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
     "https://militarnyi.com/uk/news/giperzvukovu-raketu-blackbeard-na-f-16",
     "https://militarnyi.com/uk/news/helsing-ad-1-inferno-krylati-raketu",
-    "https://militarnyi.com/uk/news/helsing-predstavyla-perehopl-ad-2-ambush",
     "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
+    "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
     "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
     "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
     "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
@@ -84,7 +86,6 @@
     "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFBsSDdnWkZQOFh0d1l5bTRPMnBQT19SdXJsZU9zSVdzNFV5ZXRaUjRLVEh3WU85Ri1lc2Z3QVNzaGM4dlZjWHUtMmp5cURjQ1BLUDFEMFVFdW9aRHhlZmxrM1RqNXlXcXNCSExCazIyYVZObDB3akdUMHNUNDlIODhRZXdiTTNTNFJ2RzZNbW5uSm9XdFc4SkNidWFvT3NmUzRqazFwMk50dVJGWEJVeThnbnJVZ044Z0hHX3NPcmlPMDJ6UFZCTno3WmZ4bzFHN2ltTGRwM185eWgxOUQ5Zkh4ZUR4U0tBSExvT29oQ1RpV2o2cHJSWTV30gH_AUFVX3lxTE1DemZzTE9LeWNhemIxZTBSTzF1RDNXVUhrNUdDZS1ZWkF2WUpEMDlyQ0VIYUgxRnlYdHhnM01CVDNsRUpreTNnYklJYTE2VzZFS3RWLUtPLWZLWWk2OGE5UkxGeGlLa3UxejdVbGs4SXR2LURfSThTZHE4NjBiMlA5ZG1hWVpwZTV4WWdRaHhkbmhyNlVIM2xuYWRsQTljSmFUdzZyOWEyRzNiMWlyTXRuWDZkLUJlR0dSMy15djJuZGY3Q3Z0aXlBeV9keEd0bWowcFZ6QWJkbWZEYTdiTVNJZUxmSm9Pc2I3SkR2T3VYMmZtLWREUlpSU2xZZ2NGbw",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDRXazV2RlNvWk5ycjlsbXdOQjJ4TkFrTHVwbnNmbW5UTlliSDB3U1dCNVBOYjJHY0FQOVhvMzQwMnNaUXlKOFZjeEhCNWM2NUxqekY5M2hibTMzcDdMUlpFQ3FfWlZ3akJJX1JWcUMxRkxRV3ZRNHFiZGJYSVUtdndMLU5mV1VlTFJPS2FyajdzYk5mamJPRUtrUTVsVnZCbU9SMTVLT1VNaEIta1BUTHE0U1o1eGpsQnY1Q3NKdGd6ME5LM20yM1dfYmhHZ2FtT2fSAdcBQVVfeXFMUGZ4cmo4dl9fR1lSOU1ZTnRMWTVXM2RSN2QtdDdLYXpud2xLT1FBUUlaTEVES0pRemtNX0NHdENzZXVoS2EtWXIzdm1PM3RQbnFJWVVjQmRWdEFXTkl6dExwVzNSRFZIdE1MTHdVdkFCNE9rMzRVQUtOV2FKN2hFc0F2S3RLWEZBWHlmRVlpSmU1cnVjUGVGVHFXdmFLcVM4cmttMjI0YVJjT1RqN1FaQkhSTWE5LVdxRV9yV1BlanJDZ3lTRFg5VGlHX2JMV2hSd1A0YnJMQms",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmYwUHllRFExX3hDVWtkd1IwVGRmY1VMMVY3RVA0V2tIS1VtZzFqakRhMHgycG1XcVk2cDFPczM5QUZlc0p5dE1nUjRpU0J0d2NfYmpwRHo2Um52Q3pNOVVtUWZ6cnFuODhVNUZzbk85c1RUbDFBZEtoNUtqVF9URFVtSUZKUFlYSnU2c2NrVllVYmRvbkFEWVRiZjNIbzdfaGN0aG5lSHpWcXEwbk4xdlM4TjlZOGNpb0dPQTN3MFhJbXAyZGNRT3JteXdCSVpUOFlPMUotNlRFc0k",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFp4X1hFRGtmQ3AweE1yNWh2R1duTFVHcEpKVkJBeFpwR0xwQW1RNHVvdEN2VmdZSzRHR1plcEwxbnNSM0dMYXBUUVR6ME9uSHNXaGVVZ0RGd3VkSjhkX3pFRFEwM28taEZPNHUyUVZRSW14M3pFb0ZZV1BVVDVxOGdVdTlHZXllWjQ1OW40RFVUdGk5VGpidnVCSzFxY18zZVdoWkVtRXRQbHZaM3VPM1VydVZ6NmhRdmZNbVdHQ2NwLUJ6cFVxRUh2cjlaV0R5cXh5cUJrMWlhWWc",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTFqLXpxTVotbzlObTdJR1FOdlRrUGdnQWptRFpTY2dMVFBqOW5zRmFkdG9aZ1dsTVlFUkM0ZExlNUhZLTh4YWxnbEFCb2hDNnBUVjVXZmMyOGxQeEc4dGkxUjJGWGRNeVVQUXpmU21sRVZqdWRqRnMyeURKa1NqX1FZNl9JRUx3VkphcXNWT1NlMjlXV1UxS3lUSUV6UUZHa2tvZkhJSUNXYnpXUm90bG1NTVFmV0J1Y0FIeWxBcWxmcmJKRmo5VjdNdzFsNGFHVWVRdXk4RUJDWWlX",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0szMkZKaURHY2hnWl83dVZ0Rl95ZnpLSU40UnRRTjdGT3ZpUEkwY2VBTlNSRVc2cGV1UUx1d1FZeTZYNklxMFdaYnFEV3RhT214OEd4ZlZOSWxMNFpLS1FiaUtBM3NkNF9GaThacDdNUjBHTGpmYnlsTkZOa2VSU0hNNjZSeFdiZFY5dlYzTlYtUm1HZGwzZ19oYl9XSEw4b1lDWG5iMEE4azkzYlFERkNhQ0h4emJka0RDTlQ0TnM1X0NsRHJHV25UVnZmT3ZoLXlkNllRd29hZkpxSUdDUkRzT3E",
@@ -112,7 +113,6 @@
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3pWMkVJWUlpTFMyYW03c3JuVktMWTcyajRkdUFKekpWMTVOZEFmZ0tOaUp3Tm9tYVBLVTF1UE5hMk1rdWVuMHpEYWFUWUI1STBOa2lnRmw3QWhGa1B6R2JSeE02QzNXVm11VDJvZkdxWGc2OFo0VHQyOFFGcjgxaVpCbU9xYXQybXdtaDVlTnBSM2Jsc2ttTFVKbGIwYUE2ZlBr",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1Zwdkp6Unlhd21PMHdnQkxrSzViVUIzdmlfOTdMX0hzNjFuQ0NwQWxLVU92QkZacWxyMWxjRTJiV2prNlBvS2lVNWdieG8zbjgxUzJDSDA5ZHBjMnFqYlFVcDRERTdESWk5aG5qWmVRbTdJaktOUlhYZnhmNFlLVmctelZKUXR6SmdBQmJHSW5rZ0tKZXFyNFd4VmJlU1dMeW1QMA",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkxteFkzcWFkS1paZ0VTUDhkV0tUczcyRmpJVEtfNmZtUEF0c0F4cHFIbjRLZW91MlR1M2ZHYnVzWC1rbERBUTBhM2ZuNjZQN3FQci02SFp5c3N1d2xpYUV2T1JxU1FQcnBCeF8tUmhIcWtKSFR0RlJRanhvTVVaVXM1MG13ZXEwdFpCdmFjaUowSTg0ZjRYYnlzMFhLQXhXakhHQdIBqgFBVV95cUxOb1I0WmRhbXlPMXZTcVhlSWdYVmdVMF92OENUcEFwSzVvNUs2MDZUR1gxMG5uUjlRUGpaRG0xZWFQSmhqdU53WFlmVmY5X3FqRnJvbXFodTJSZnRwaGwxbllxRFZzRHZXSUM0eDFmVGdfV3dxRVJtakJfNjc1OTU2Z2RuYUQ2MTBYem5iYTJ6R0o2V1NmXzZ6ZV9EeUpUZEY4VkxWM2F6RENjdw",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJTSUowWlRNd2NzR1RjTl9hTUVEMEFLbDV3ZDNYV1htNm5oaXoya2xwb2xpTjZYRVY5LWU4aG0xTEh1UDNMbEJyejFoQi1mdElzR1hxc096WHNjckpGYVBsdmQ2NmhraUFQdVVvemlSV0gtcnlZY3V6NWdfbGV0bU1UNEZQMTdlVGp3SG0yeEdVUmRKTEkxV0loY3ZzUEhELVdpbklxUQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWJybk5fUTRUd1F3emtrMWV0VnpYbmdJaTJwSm5JOXNPQkNvbmFxbFoxWVNDLXU4SjJVT3FBQ0NlYXZxVzkzN3liMkh5QTFIYzVHQWFhUldEMDZ3SWJ5SEdFazB0dUhGYUdMb3Fuc180R2tycHVkUzZLdXNQYXc1N3lkcmVuTzV3aVhxbWVZQk9VZkIxUlk3SGlNeXk5TXZ4Z2RWM0FOME0",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg5ZmJreWZuZENCUFZ4WGR3ZVNDQXlCMjNlNmh3NnJMN25tSVRoSmRkUFJUa2poOEVxd3BIVVRieUhLOGlVSlI4QWV2VGluRFNCdVAtVmxzVWE1LS1yM2hTQ2VSTUhDR0dfck5FS3hkaGtzWFA2V2ZkY3otQ0t1eF93amhoa3o4eG9sODJ0SDRIMzNfOHpwZW1majFVS3FsTVRjMGg1bDN0QQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeS1falBJUHlWUXhibUpwdHhkRlp3WnZ4dDhNX1ZneXZYeGxFUVA3eVk5V3c1US16VVZ0UmZiNmwyS3VHMXB5SW1RUGhSc0xpQk9rSnZuWmxlUXkwME00OGo4eWFWQlp4Qk5ZWi0tWTBCNmFqaHdQMnpreTZFSjY0NjhrSTNqWWVfN2M1ZFVORUFTTHA3ZjJFa3hvMXZxZVBrakpPMUl0WFlndw",
@@ -120,7 +120,6 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjRONGxRUmF1UHlpdzlacU1FcEZ1b1dIUmNWR29MRDI3Q2RkMmRpVzlaaEkxNnVFMmZlY0JDSllJZW5vdWhsM2c3T1F3U0ZfeGliU05rOFJZdkx0N3pYdVhtcU52aXJrY0lIeEFXVm5XbG85ZTFCc2Z2NThZRm9NQWF0ajJqOGlEN09MN2NRZjdWNnZ3YzVGd1NYYk9rdUlkeFBNbE9hcVJmZVE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0JiaG5tQzZnRWZqSFlmSGhtMVQ4bGRiTWZRTjFaWEl2RTJyQjN6SUJ6M05XVzJ2Y2JsaUdtc3lkRkZoWTcxNEJiR0s2cjc4VUJFM1dwMWtKOGVRQVh2OXpMS2hPQldmWFh2bEE2VHo2cmJyWmhBOU5vWC1NVFQ4QjY2TmJkck5TTG1NYlRLTUlWTHdKeTFsa20tUElJTVF2Tk1HNFFrd1RRbmRyMVE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXBUOTl1eTRiQmxBWjFkanVua284Qk8tMEdZS0VBYmYta2w0WnVZWHRGYXhwLWtyM1hiVXFzbGZManc",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEVNUXNKakU4VGFJbENDT1A4bV9VQ3hpOFB0UmNsSy1yRW54RE5VQV9lU1EzNklxVTVVa3U5WTdIVGREN29XM3Z2UTh2NWhTQ0F5MVZDTjlhR0RNNGx2LWFYMWlQSVpYa3UtQnRnTzE4TS1jc01HZU9LY0hETHVWaUVPS2VwRENOc1BfaFFkemtwdWNMdDN2RnJYSUptNExZZnVzS3Zwd3QzTkZKSVBR",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFBLb3BmYnRhcFQxaXBxdWdDV1B1N3dGRUpqc1FXb2Zlbl9PQWlkQlU5TDZkOEhQMUpPS2RzeGxQMEpKbzZsZi14Y3VSWjB6SGd3R0o5M293TlY5TDBkMkNQMFVLNjBLNF8tTmNtcTBZbFJ5d0s4cmtrenA4ZnlGbjF4a21acTBoOGdhQ1FSeW9yUXc0Qm9YMFRXN0lNYUJENTYxUkcyRGkzQzVIN2hyTUZn",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
@@ -147,51 +146,12 @@
     "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
+    "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
     "https://twz.com/sea/britains-final-plan-to-kill-argentinas-super-etendards-attack-jets",
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Британія очікує обмежених бюджетних послаблень на тлі зростання вартості запозичень",
-      "original_title": "UK set for 'limited' budget giveaways as borrowing costs surge - RFI",
-      "summary": "За заголовком RFI, Велика Британія готується до «обмежених» бюджетних послаблень, оскільки вартість державних запозичень різко зростає. У тексті немає цифр щодо рівня дохідності гілтів, обсягу фіскального простору чи конкретних заходів, тому масштаб обмежень оцінити неможливо. Макрофінансовий наслідок: дорожчі запозичення звужують маневр уряду, а отже, фіскальна політика, ймовірно, буде стриманішою, а підтримка економіки через податкові чи видаткові стимули — слабшою.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "RFI",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEVNUXNKakU4VGFJbENDT1A4bV9VQ3hpOFB0UmNsSy1yRW54RE5VQV9lU1EzNklxVTVVa3U5WTdIVGREN29XM3Z2UTh2NWhTQ0F5MVZDTjlhR0RNNGx2LWFYMWlQSVpYa3UtQnRnTzE4TS1jc01HZU9LY0hETHVWaUVPS2VwRENOc1BfaFFkemtwdWNMdDN2RnJYSUptNExZZnVzS3Zwd3QzTkZKSVBR",
-      "published": "2026-10-26T10:15:06+00:00"
-    },
-    {
-      "title": "Велика Британія ввела санкції проти командирів у Судані та оголосила підтримку жертвам",
-      "original_title": "UK sanctions senior commanders implicated in campaign of rape in Sudan and unveils new support for survivors - GOV.UK",
-      "summary": "Уряд Великої Британії, повідомивши на сайті GOV.UK, ввів санкції проти старших командирів, які беруть участь у кампанії сексуального насильства в Судані. Санкції включають замороження активів і заборону на в'їзд. Одночасно оголошено нову програму підтримки виживших, що передбачає фінансову допомогу, медичні та психологічні послуги, а також реабілітаційні проекти. Це офіційний дипломатичний крок, спрямований на притягнення до відповідальності та допомогу постраждалим.",
-      "source": "Diplomatic Visits",
-      "publisher": "GOV.UK",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmYwUHllRFExX3hDVWtkd1IwVGRmY1VMMVY3RVA0V2tIS1VtZzFqakRhMHgycG1XcVk2cDFPczM5QUZlc0p5dE1nUjRpU0J0d2NfYmpwRHo2Um52Q3pNOVVtUWZ6cnFuODhVNUZzbk85c1RUbDFBZEtoNUtqVF9URFVtSUZKUFlYSnU2c2NrVllVYmRvbkFEWVRiZjNIbzdfaGN0aG5lSHpWcXEwbk4xdlM4TjlZOGNpb0dPQTN3MFhJbXAyZGNRT3JteXdCSVpUOFlPMUotNlRFc0k",
-      "published": "2026-10-26T10:18:45+00:00"
-    },
-    {
-      "title": "Німецька компанія Helsing представила ракету-перехоплювач AD-2 Ambush з ураженням до 9 км",
-      "original_title": "Helsing представила антидроновий перехоплювач AD-2 Ambush із висотою ураження до 9 км",
-      "summary": "Нова ракетна система AD-2 Ambush від Helsing оснащена твердопаливним двигуном, що дозволяє досягати швидкості понад 2,5 Маха і боєвого радіусу понад 20 км. Вона здатна уражати цілі на висотах до 9 км, що перевищує можливості більшості дешевих антидронових систем, і використовує AI‑підтримувану самонаведену радіолокаційну головку. Це забезпечує Україні автономну вогневу перевагу над високошвидкісними повітряними загрозами, підвищуючи ефективність протиповітряної оборони в умовах складної метеорології.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/helsing-predstavyla-perehopl-ad-2-ambush",
-      "published": "2026-10-26T10:30:10+00:00"
-    },
-    {
-      "title": "Єгипет готує юридичну справу проти турко‑лібійської морської угоди",
-      "original_title": "Cairo Builds Legal Case Against Turkey-Libya Maritime Memorandum - Egyptian Streets",
-      "summary": "За повідомленням Egyptian Streets Каїр планує подати юридичну скаргу щодо морської угоди, укладеної між Туреччиною та Лівією. Єгипет стверджує, що документ порушує його права у виключній економічній зоні Східного Середземномор’я. Підготовка справи здійснюється єгипетськими дипломатичними органами, які прагнуть оскаржити угоду в міжнародних правових інстанціях.",
-      "source": "Treaties & Agreements",
-      "publisher": "Egyptian Streets",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJTSUowWlRNd2NzR1RjTl9hTUVEMEFLbDV3ZDNYV1htNm5oaXoya2xwb2xpTjZYRVY5LWU4aG0xTEh1UDNMbEJyejFoQi1mdElzR1hxc096WHNjckpGYVBsdmQ2NmhraUFQdVVvemlSV0gtcnlZY3V6NWdfbGV0bU1UNEZQMTdlVGp3SG0yeEdVUmRKTEkxV0loY3ZzUEhELVdpbklxUQ",
-      "published": "2026-10-26T10:33:11+00:00"
-    },
     {
       "title": "Helsing представила реактивний дрон‑перехоплювач AD‑1 Inferno для боротьби з крилатими ракетами",
       "original_title": "Helsing представила реактивний дрон-перехоплювач AD-1 Inferno для боротьби з крилатими ракетами",
@@ -1573,6 +1533,16 @@
       "published": "2026-10-27T18:50:27+00:00"
     },
     {
+      "title": "Армія США опитує промисловість щодо можливості виробити майже 21 000 піхотних машин ISV",
+      "original_title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
+      "summary": "Ринкове опитування армії охоплює 20 787 машин: 9 003 ISV-9 на дев'ять осіб і 11 784 ISV-U на п'ятьох пасажирів із вантажним кузовом. Закупівлі заплановано з 2028 фінансового року (106 машин) до 2036-го, приблизно по 2 000–2 100 машин на рік, а виробників просять оцінити собівартість за різних обсягів випуску. Вимоги такі: споряджена маса до 5 200 фунтів, повна маса до 10 200 фунтів, бортова мережа 24 В, шини run-flat, захист пасажирів при перекиданні та здатність долати брід. ISV-U додатково має лебідку, інвертор на 4 000 Вт і буксирування до 6 500 фунтів. Обсяг замовлення залежить від фінансу",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
+      "published": "2026-10-27T19:22:31+00:00"
+    },
+    {
       "title": "Пентагон створить дорадчу раду з питань боєздатності та здоров'я військових",
       "original_title": "Pentagon creates advisory council on human performance, health",
       "summary": "Згідно з повідомленням у Federal Register, комітет вартістю 1,4 млн доларів займатиметься виключно людською продуктивністю: відновленням функцій, подоланням так званого «операторського синдрому» та запобіганням травмам і операційному стресу. Рада доповнює нову структуру Warfighter Performance Optimization в офісі заступника міністра оборони з персоналу та готовності Ентоні Тати, яка координує зусилля видів ЗС. Військовий ефект залежатиме від впровадження рекомендацій: Хегсет прагне пришвидшити поставки носимих пристроїв та аналітичних інструментів і зробити когнітивну продуктивність ключем до",
@@ -1633,6 +1603,16 @@
       "published": "2026-10-27T20:52:26+00:00"
     },
     {
+      "title": "DIA: Китай утричі збільшив угруповання розвідувальних супутників з 2018 року й продовжує його розширення",
+      "original_title": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
+      "summary": "За оцінкою DIA, станом на липень Китай має понад 510 супутників ISR: оптико-електронних, радіолокаційних (SAR) та засобів радіо- й радіотехнічної розвідки. У цей підрахунок входять і супутники комерційних компаній, але через дводозову природу їхніх можливостей і політику військово-цивільного злиття PLA може використовувати отримані дані. Така мережа, особливо зі зростанням угруповання на низькій навколоземній орбіті, допомагає PLA краще відстежувати й наводити далекобійні удари по американських та союзних силах в Індо-Тихоокеанському регіоні. Це посилює побоювання, що китайські сенсорні мережі",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
+      "published": "2026-10-27T20:56:45+00:00"
+    },
+    {
       "title": "Карні погодив переговори про екстрадицію з ОАЕ",
       "original_title": "Carney agrees to extradition treaty talks with UAE as he deepens ties with Gulf state - The Globe and Mail",
       "summary": "Прем'єр-міністр Канади Марк Карні погодився розпочати переговори щодо укладення договору про екстрадицію з Об'єднаними Арабськими Еміратами. Це рішення є частиною стратегії углиблення дипломатичних та стратегічних зв'язків між Канадою та країнами Перської затоки. Матеріал The Globe and Mail фіксує офіційну згоду на розпочаток переговорного процесу, що є конкретним міжнародним дипломатичним кроком.",
@@ -1641,6 +1621,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmZkZ3FiejlXOXQydjlONDFQUV9TcVVnNlFsdm5feUlnM0NLS1NqZ1g0UXdGbXVZaWJNeFBiV0VXUFg2cGx2NW1nUGppbGFEcC1CNHo2bTR2cE5vb0hKd3FOVTZlUS1RdG14a2Q0UThXanhvbmxSRFZqVHg2a0NzR18tTXZjQQ",
       "published": "2026-10-27T21:03:02+00:00"
+    },
+    {
+      "title": "США оприлюднили фото китайського космоплана Shenlong, що запускається з ракетою Long March 2F",
+      "original_title": "Розвідка США вперше оприлюднила фото китайського космоплана",
+      "summary": "Китайський космоплан Shenlong, розроблений на ракеті Long March 2F, вже пройшов чотири місії, з трьома орбітальними перебуваннями до 276 днів. Його здатність до повторного використання може знизити вартість польотів і забезпечити Пекіну швидкий доступ до космосу для військових операцій, що підсилює стратегічну конкуренція з США.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
+      "published": "2026-10-27T21:15:12+00:00"
+    },
+    {
+      "title": "США підтвердили існування китайського експериментального багаторазового космічного літака",
+      "original_title": "U.S. Intel Confirms This Is China’s Secret Spaceplane",
+      "summary": "U.S. Defense Intelligence Agency підтвердила, що зображення показує китайський багаторазовий космічний літак, зовнішньо схожий на американський X-37B, з довшими крилами, двома вертикальними стабілізаторами та розкладними сонячними панелями. Така платформа дозволяє Китаю запускати, тестувати та повертати об'єкти з орбіти, що підвищує його можливості у космічній розвідці та потенційних військових місіях. Це свідчить про зростаючу технологічну конкуренцію у сфері орбітальних багаторазових апаратів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
+      "published": "2026-10-27T21:33:06+00:00"
     },
     {
       "title": "Сербський вантажівка перевозить справді величезний мортар",

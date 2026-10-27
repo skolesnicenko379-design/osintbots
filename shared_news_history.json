@@ -33,7 +33,6 @@
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
     "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
     "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
-    "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
     "https://militarnyi.com/uk/news/frantsiya-litak-chorne-more",
     "https://militarnyi.com/uk/news/frantsiya-vyprobuvala-lazernyj-helma-p",
     "https://militarnyi.com/uk/news/helsing-ad-1-inferno-krylati-raketu",
@@ -91,7 +90,6 @@
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHozWnVNU3g2Nkw0ZlpfMFRFS1ZDM0ZnTktWbFhPa196MFl4QjJTTk9MRDNlZ1VHdU4yRGxjcEdEN0NlZmNMMDM0TS1vWUNOcjNfVWRjdlZvSVNFRU9JMW5QcTdnNWdoeWZFZ1dFUkUxVmNPN0VmVGplNHpTdTBoUU1sRdIBgwFBVV95cUxPdHozWnVNU3g2Nkw0ZlpfMFRFS1ZDM0ZnTktWbFhPa196MFl4QjJTTk9MRDNlZ1VHdU4yRGxjcEdEN0NlZmNMMDM0TS1vWUNOcjNfVWRjdlZvSVNFRU9JMW5QcTdnNWdoeWZFZ1dFUkUxVmNPN0VmVGplNHpTdTBoUU1sRQ",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkVjeTN4TVNzcnFfbnZrcHZYSF9vRHFTQUV0bV9pcHlLWlNacVJqeW90Z2tFQ3htLUF6YlRYMEdxWE9OTDU2YXloMW9Uc1d5dFN4MnA3UWFQRmZfN2xjSmE1eUhQMFBkWk5sWVR2UE5tUDBiem95REF4akIteEh2bFY1X0dnSUl4Y0h2dg",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWQ1RllvTUpVOFUwSUEtNC1Jd3VOSEJzTGE0UERXS3dEby1kam43enFtNzJPSFFwOXhHYlUtRW9lRllCb3h1eW0zS19WTTh1T3hJRVFDOW50NDByemVYdW5oWWRDODQxdF93U2xfT3B1dU5xS2JoTV9jZENHamtuaHhiUnJCeVBwTnpRZ0l3",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkMzdEhmMzlCeUt4NGtwa21ld0FwaFpwakxpTEc1OC1OUW80bk1OMFA5VmR6OVNRMGg0STJmUlRPaldlRjQ3YTl5akllX0l1OW1FQXlxS3N2X0VjVGFrOUVxU0lNcjdGR0EwLUNMdnBUajdNbE1vazZCTTFaY3AtZTAtOTgyVldkZEVnRF9NcFgybC1nMXU4",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1lsejFvd2t5OXFqV0hhaUNRYkIxdlJMZnZwWDJhOHNFOVR0Y2Fna2hkYmtuYWtPUDBNQ3p6SlhtNFcwUWcyMGpRbF9ralJaczRTTVE0MDZFZWN3SWR3Mm9SLTRHY0hkVUNhYzNva3hTMHJPTlBHN1pGek5CaGM2TnJURm10Tmk0bVRkR2U0OHZvV1U1ZjV1eUdR",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZXam85Z0lCUF8xSWNldG1lcHFBNkFYZVJzeWs3eFRNbkl2R1I1VTNMUWtNNGNTcFU4bElNV3FUNUItV3prZG5VTmEybzdIVUtmZzlPSm1iWm1XR0FoN2N4SU5GeWdWRnNaVWJ5QmlmMVBFTGpRV3pjaXgzU3Fnc3RUWERidHN3bklVTzhUQkM5dUJWOVRTdVB3",
@@ -108,7 +106,6 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1lGbHV0bE05eTVGdXE1cXd6RlZ2MFltZ1hKOHFhandrNVJEektLb3o1VGt2LW56Mk4tYlZJU1dHQmRBYTRld1FLTFpKQ0lwa3FhckdEY0ZUSWIwVHFJU1BySTRodS1qeXBjbHBzNVVuckNnWmFEdkhtdTlLdjNCUXRJNENBelVGUVFGRXJ1eDJ2bDdtYUI0UndYV2xVV2NIeGNyZjlCX1NXZw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg5ZmJreWZuZENCUFZ4WGR3ZVNDQXlCMjNlNmh3NnJMN25tSVRoSmRkUFJUa2poOEVxd3BIVVRieUhLOGlVSlI4QWV2VGluRFNCdVAtVmxzVWE1LS1yM2hTQ2VSTUhDR0dfck5FS3hkaGtzWFA2V2ZkY3otQ0t1eF93amhoa3o4eG9sODJ0SDRIMzNfOHpwZW1majFVS3FsTVRjMGg1bDN0QQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeS1falBJUHlWUXhibUpwdHhkRlp3WnZ4dDhNX1ZneXZYeGxFUVA3eVk5V3c1US16VVZ0UmZiNmwyS3VHMXB5SW1RUGhSc0xpQk9rSnZuWmxlUXkwME00OGo4eWFWQlp4Qk5ZWi0tWTBCNmFqaHdQMnpreTZFSjY0NjhrSTNqWWVfN2M1ZFVORUFTTHA3ZjJFa3hvMXZxZVBrakpPMUl0WFlndw",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2lyX3Y1elMtUnAwckgtald6MDYxRlNaNjVRbjdvWmZBcTd6aXN5dEpBT3hfMzV0VHNtTWRUMU9KZm1zb1lHajJreE05NXRzN2VYQTBiMzdNRGhhR0V1dGdyT3dOUFE5UmgxZmNrdkx1NGhfTUJCV3pQQUNZdU5KTERteDhUQmlYdkI3djNsZFpSdklHRERvSTg1UDJvTW1QSVEwemdQbk1YR1k",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0JiaG5tQzZnRWZqSFlmSGhtMVQ4bGRiTWZRTjFaWEl2RTJyQjN6SUJ6M05XVzJ2Y2JsaUdtc3lkRkZoWTcxNEJiR0s2cjc4VUJFM1dwMWtKOGVRQVh2OXpMS2hPQldmWFh2bEE2VHo2cmJyWmhBOU5vWC1NVFQ4QjY2TmJkck5TTG1NYlRLTUlWTHdKeTFsa20tUElJTVF2Tk1HNFFrd1RRbmRyMVE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c",
@@ -135,36 +132,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "ОПЕК не бачить піку попиту на нафту",
-      "original_title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate - EnergyNow.com",
-      "summary": "За заголовком EnergyNow.com, ОПЕК не прогнозує піку попиту на нафту, оскільки енергетична безпека має для політики більшу вагу, ніж кліматичні цілі. У доступному тексті немає цифр, прогнозних горизонтів чи умов, тому кількісно оцінити сценарій неможливо. Якщо така позиція ОПЕК закріпиться, вона підтримуватиме очікування стійкого попиту й інвестицій у видобуток. Це може впливати на довгострокові очікування щодо цін на нафту та інфляційних ризиків, але масштаб ефекту за наявними даними визначити не можна.",
-      "source": "Енергетика та LNG",
-      "publisher": "EnergyNow.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v",
-      "published": "2026-10-25T10:07:20+00:00"
-    },
-    {
-      "title": "Українська F-Drones розробляє дешевий реактивний дрон-перехоплювач F-Jet 80 проти «Шахедів» і «Гераней»",
-      "original_title": "Українська F-Drones розробляє дешевий реактивний дрон-перехоплювач F-Jet 80 для боротьби з «Шахедами»",
-      "summary": "F-Jet 80 проєктують із малогабаритним реактивним двигуном тягою 8–10 кгс і штучним інтелектом для виявлення та переслідування цілей. Заявлена вартість становить 5–7 тисяч доларів, а розробники наголошують на простому масовому виробництві. За словами інженера компанії, дрон уже перехопив і знищив кілька цілей, але незалежного підтвердження цього немає. Якщо характеристики підтвердяться, такий перехоплювач зможе економічно ефективно протидіяти реактивним «Геранням», які швидші за поршневі «Шахеди».",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/f-drones-rozroblyaye-dron-perehoplyuvach",
-      "published": "2026-10-25T10:08:23+00:00"
-    },
-    {
-      "title": "США вдарили по трьох іранських нафтових танкерах",
-      "original_title": "U.S. Strikes Three Iranian Oil Tankers After Missile Attacks on Navy Warships - EnergyNow.com",
-      "summary": "За заголовком EnergyNow.com, США завдали ударів по трьох іранських нафтових танкерах після ракетних атак на кораблі ВМС США. Це пряма військова ескалація, яка зачіпає морську торгівлю іранською нафтою. У статті немає даних про обсяги вантажу, місце ударів чи ціни. Тому можна лише припустити, що зросли геополітичні ризики для нафтового ринку, а з ними й вартість морських перевезень та страхування. Масштаб впливу на ціни залежатиме від подальшої реакції Ірану.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "EnergyNow.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2lyX3Y1elMtUnAwckgtald6MDYxRlNaNjVRbjdvWmZBcTd6aXN5dEpBT3hfMzV0VHNtTWRUMU9KZm1zb1lHajJreE05NXRzN2VYQTBiMzdNRGhhR0V1dGdyT3dOUFE5UmgxZmNrdkx1NGhfTUJCV3pQQUNZdU5KTERteDhUQmlYdkI3djNsZFpSdklHRERvSTg1UDJvTW1QSVEwemdQbk1YR1k",
-      "published": "2026-10-25T10:40:53+00:00"
-    },
     {
       "title": "Фінляндія та Австралія підписали спільну заяву про поглиблення оборонної співпраці",
       "original_title": "Finland and Australia sign joint statement on deeper defence cooperation - Nordic Defence Sector",

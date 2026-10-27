@@ -29,6 +29,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran",
     "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
+    "https://middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
     "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
     "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
@@ -1475,6 +1476,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
       "published": "2026-10-27T13:11:25+00:00"
+    },
+    {
+      "title": "Іран погрожує «руйнівальною» відповіддю на нові атаки США та Ізраїлю",
+      "original_title": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
+      "summary": "Представник іранського лідера Абдолла Хаджі Садегі заявив, що Тегеран знає про вразливості ворога і погрожує «жорсткішою та руйнівною» відповіддю на подальші американські удари. Це сталося після зустрічі секретаря Ради нацбезпеки Мохсена Резаї з лідером Мохаммадом Хаменеї та переговорів із Саудівською Аравією, Пакистаном і Туреччиною. Паралельно хусити заявили про ракетний удар по нафтопереробному заводу Рас-Танура в Саудівській Аравії, що спричинило пожежу, яку, за даними Bloomberg, вдалося локалізувати.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+      "published": "2026-10-27T13:48:20+00:00"
     }
   ]
 }

@@ -1,14 +1,5 @@
 {
   "links": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUg2WkZLTjU3RndPQjk0LUVMVU9XX0UzeWZGcmw2VGt2U2dyLW14N1JyaTloRmRobFBvMTVYV0hPczFFTzhlRFA3SGRtWUlSV29ieWpXTC03eFFjTFFiTmJSZTBXQ1FCUVpsaktMZ2ZEUl9CRGJvTzlBRlcyLWZpNWdBZ1JjVzlfaHM2VXVaYmFTR0FDcnEtZHdHRTY0dEp6WlU2cWRPektSSDdJVDhqNWJ3?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeE9MX1lUN1p0Y0V4aWpSSVBlbDJBYXZmY2tiMkotQW83Q05TMVFRT1dXZ0cyYVkzTVNUeXdoX0l4OUlmVXJmdXc0VGNkakdIbUFQQlhwSDVLaUxHZlFMb3ZOVXVRYzJyaHdhQU5iUjk4REJGQnhQOWhrU09odGxxUHUwc3oxZDdKUklB?oc=5",
-    "https://www.middleeasteye.net/news/inside-turkey-azerbaijan-rift-how-headscarf-ban-strained-alliance",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUpoNjFKblJrTkZlb0MyMEZwZ1pSSFktU3RHcmRJb3RXTmJmX1NjN1hBMVNyOEk2S2tJTENGMGdtSklQUU5zYXdDblZyOEF4SEQtMkFHdnNreGxsQkdBRm5oUnVGanc3bEtmWVA4N1YyUkRCdXRqS2s5RDQ0T2o3SnpkTGRGNU9HdEpmQkN5UF9kc2psbUZqMXNmT3dqM3pvOXBkVDRNRWU2WW1LQ3c?oc=5",
-    "https://www.theafricareport.com/433846/forget-gold-and-coltan-m23-is-cashing-in-on-congos-beer/",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVQ2amdkc01NSHEzcVlJRjN2cldNbXM2NVJEdmNUUEl4bVlfUmt2UDlGbWhhbTNENk5UYm93RWVVMHltWDZEeHJCeEdLRDF0bHRqMldhRy1md0k4SWVmblJBQTRRbEc0X3VyTTRFTzZvN0ZMcTFDU2pOV0gtWGNGWHNSN0dkUHZjODRwSGpqWDAxYXp0MUlwcWNXZ0tjNm83R2pyVTBtTkJFMkY1TE82MmtEVG0yVjdUdjJ5UUtGVnZFZzdCbUNHQnFpTE5sSU9tSldDcnNUb1JpS0hlb09KZFJWMA?oc=5",
-    "https://www.middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-wounds-several-gaza-hospital-says",
     "https://www.middleeasteye.net/live-blog/live-blog-update/financial-times-saudi-arabia-postpones-person-davos-desert-amid-houthi",
     "https://www.theafricareport.com/433843/battle-for-comeback-kqs-cash-crunch-vs-saas-governance-woes-who-will-fly-higher/",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWdlcFU3ZUxvWXlLaGFUWTBkVGNBUXotdEE4eWtWZnN5ZWNQVTRQNjhiaVBlZm1hcTNaQkJDTzhtc0hsNUNFY1BVUmNBWDJKc1d5WFFWUVpDYm5FWDhBS25fZzhzQXgzT2toUmZ0Y3JoTk81cFE3V2JoQTBMLWsyVGVvbTk3WTM0b0E?oc=5",
@@ -1199,16 +1190,18 @@
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYW41ancyYW5ieUFZdmwxM2lpUnhWeTdxMjhxSDBkWWVfTkZzeXVXOEJKc29VTVJFRE8wa3VuSkhkQVNuNnNpNDR5ZVo5ZHU1Q05PdVJudWlOQ0pHZ1hpQW13ZUJLVmJMYS1DZ3RETS1ReG00MUNvQmk3Q3NlVWFUZlRSTDVEUEc1QVdkR3BsR0JqVWdnZk8yM1lZRXNqZDR1d3dSZGpQaS1EbUZ3SnNtMzJyX2tmMXpjR3M0ZEdR?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/media-advisory-accreditation-for-the-eu-uk-summit-on-20-november-2026/",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckVXVkN5S3RsSkVqZmFfRjBmY1pyT0ZyZC1Ud2EtSF9yNkZubGRidUUzT2RGRjE4S0dvbWY5dlEzUkYzMzVTLWlWYUJxR2twYUJ5ODBSQ19BNWpMZVZKeWt2a0lkVVd0UjZCajR4THBsWEFlWlRGU3Y0OWtPQjlrZS1uNFhfWTBTVkJUbWxwVlk1ajRLbWVpTXAyTXNGdzRvWE1vLU5LTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3pMcnpSWnhRSU9XN1NCT3BSSFBOeVNDS3ctemtkR3JseTZ5d0htdzFyWXhUc1dtWUhxeTYyQWlUSERTQ2VkTHd1Ykk1S0hxaW1PTnlVWTQwZEc1a29tN0ozU0gwS2wtU3dhX2FCU3c2T1VEcjJyR05rRVFSX0N1RGozM092OGM5dno1a3R3eUxyVWg5YVdRYzBad0VMWk9zVV96MmMwQUpnbERsS3hYUDZ5V0hvTEd0QVdGQ0xILWJyeGlNOFHSAcsBQVVfeXFMTVAwWnhNOGhlVVphNk1JZnlOc0JnenZQdXZGZWw0clBESmVLeHZzSzBiTzlJSkJMdlpSekpLZjVoLXBtY1hEelBwTUNSSjBWdDY5RVc1LWE3U0F1Ni1SVGN6bTJCdHhHRnlHbFctX01feE5TXy10bDFNeWVsTlo2NnVJMTVDcDJoeWkwLTlRNVVRV1I5a2VTVnBTY1FScldsZWpxWEphd0o2aE1QQzEzM3NSd3pUNnNHVGVPOU5aTWFUT3dKNGV4YXAtTnM?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3pMcnpSWnhRSU9XN1NCT3BSSFBOeVNDS3ctemtkR3JseTZ5d0htdzFyWXhUc1dtWUhxeTYyQWlUSERTQ2VkTHd1Ykk1S0hxaW1PTnlVWTQwZEc1a29tN0ozU0gwS2wtU3dhX2FCU3c2T1VEcjJyR05rRVFSX0N1RGozM092OGM5dno1a3R3eUxyVWg5YVdRYzBad0VMWk9zVV96MmMwQUpnbERsS3hYUDZ5V0hvTEd0QVdGQ0xILWJyeGlNOFHSAcsBQVVfeXFMTVAwWnhNOGhlVVphNk1JZnlOc0JnenZQdXZGZWw0clBESmVLeHZzSzBiTzlJSkJMdlpSekpLZjVoLXBtY1hEelBwTUNSSjBWdDY5RVc1LWE3U0F1Ni1SVGN6bTJCdHhHRnlHbFctX01feE5TXy10bDFNeWVsTlo2NnVJMTVDcDJoeWkwLTlRNVVRV1I5a2VTVnBTY1FScldsZWpxWEphd0o2aE1QQzEzM3NSd3pUNnNHVGVPOU5aTWFUT3dKNGV4YXAtTnM?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-claims-muslim-brotherhood-supporters-are-raiding-polling",
+    "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+    "http://www.africanews.com/2026/10/27/nasa-astronaut-christina-koch-on-life-in-space-humanity-and-her-african-connection/",
+    "https://news.google.com/rss/articles/CBMisgJBVV95cUxQenY5b0NRWklYcS02TFkwVXNQSm1QeklFRFZHQVJ5ZmNsWFJFbElDUWd2RGxGeWM4MEFUZUZVQkZFcl9zLWxVRGxMaW1NWVV2WTZfT0tscV9xVVpoY2d3RExxTTNvTXZEdnV0M0M1bV9TS2NXRE9SQ2k2TEFBTHliRlVucjhTZmVsa2wtZGxObDlpUlhuS2R2VzJJRnJxZE5OTGQxVzE5WlFaekJoX2xzYnhIelQ5eTRYWlczRnlYWC1EN25IVVFLX3h1TkNrc3ZwbjB4TG1fMHJLYWk3NEFUUkp1bDQ1REVLYVVCeVg2T0RONEdNekFKZWZOTGlsc21icktQODZQYVpLWEhqcGgyOUUxQ3VqUmNBR1JhNjExSEZiZGYzNmJ0Wnp1TjdVSEdxOWc?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/voter-turnout-highest-1973-2pm",
+    "http://www.africanews.com/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-begins-hunger-strike/",
+    "https://www.theafricareport.com/434628/get-rich-or-get-ruined-ghanas-youth-caught-in-africas-ponzi-trap/",
+    "http://www.africanews.com/2026/10/27/israelis-vote-in-pivotal-election-as-netanyahu-faces-challenge-from-eisenkot/",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE10YkhMb1FDTkxJWHpsN2I5NHVSd1JKSldFMWNDRmVrV3J6Qk1Jbzltek54OWdwOW8wdVRmeXdiSWlUamVxYm5Gc05pWU5IWnItX3lsTFFIWkhfLWFMUk84ODY1aVh3RlJ1Zzc4ZW5tcEdCQQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Сінгапур і Таїланд підписали угоду про передачу вуглецевих кредитів",
-      "summary": "Сінгапур підписав угоду про передачу вуглецевих кредитів з Таїландом, яка стала першою подібною домовленістю для Сінгапуру з країною Південно-Східної Азії. Документ було укладено за участю Сінгапурської економічної ради (EDB). Угода створює офіційну основу для транскордонної співпраці у сфері екологічних ринків та торгівлі квотами на викиди між двома державами регіону.",
-      "source": "Treaties & Agreements",
-      "publisher": "Singapore Economic Development Board (EDB)",
-      "published": "2026-10-26T07:30:25+00:00"
-    },
     {
       "title": "Єгипет готує юридичну справу проти турко‑лібійської морської угоди",
       "summary": "За повідомленням Egyptian Streets Каїр планує подати юридичну скаргу щодо морської угоди, укладеної між Туреччиною та Лівією. Єгипет стверджує, що документ порушує його права у виключній економічній зоні Східного Середземномор’я. Підготовка справи здійснюється єгипетськими дипломатичними органами, які прагнуть оскаржити угоду в міжнародних правових інстанціях.",
@@ -1411,6 +1404,13 @@
       "source": "Bilateral Meetings",
       "publisher": "Ukrinform",
       "published": "2026-10-27T10:58:00+00:00"
+    },
+    {
+      "title": "Іран погрожує «руйнівальною» відповіддю на нові атаки США та Ізраїлю",
+      "summary": "Представник іранського лідера Абдолла Хаджі Садегі заявив, що Тегеран знає про вразливості ворога і погрожує «жорсткішою та руйнівною» відповіддю на подальші американські удари. Це сталося після зустрічі секретаря Ради нацбезпеки Мохсена Резаї з лідером Мохаммадом Хаменеї та переговорів із Саудівською Аравією, Пакистаном і Туреччиною. Паралельно хусити заявили про ракетний удар по нафтопереробному заводу Рас-Танура в Саудівській Аравії, що спричинило пожежу, яку, за даними Bloomberg, вдалося лок",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-27T13:48:20+00:00"
     }
   ]
 }

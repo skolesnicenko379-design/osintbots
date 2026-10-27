@@ -12,7 +12,8 @@
     "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
     "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
-    "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
+    "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
+    "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report",
     "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
@@ -23,6 +24,7 @@
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
     "https://defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
+    "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
     "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
     "https://defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
     "https://defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
@@ -62,6 +64,7 @@
     "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
     "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
     "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
+    "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
     "https://militarnyi.com/uk/news/tsyfrovyj-zv-yazok-ta-vybir-chastot-video-taf-industries-predstavyla-onovlenyj-nosij-retranslyatora-kolibri-13-fr1",
     "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
     "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
@@ -75,7 +78,6 @@
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/zerno-cherez-bazu-ochamchyra-v-abhaziyi",
     "https://navalnews.com/naval-news/2026/10/exail-unveils-marins-m1-compact-ins-for-smaller-naval-platforms-and-uxvs",
-    "https://navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv",
     "https://navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb",
     "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
@@ -97,7 +99,6 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fQkJmaGotbGZ3XzV6a05CRVdCR1E4UG03dFRaYzRYS3BIeXZlQVh1N2xkTHBqeFNsSkJlZ0Q4b3drSmZsWlNmWGE1NXZQZS0xV0NkN2U4SHUySmlnVmRBdlNB",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nak1sWDcyWEN2TFFzczROVjAzaTBBMTV4em1IUVVJdm1QQ05oUVQ1SEtLTTlJeXRlSzQ3RThkbnI1dW5rQnA2MGdzSnpGNi1UbC1TSTFLQndqenVfT2ZfRzlBX0tLSUlLOW1lTUlTMA",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZnpGV2h2Z1ZwSUl5dzFmUDNOSkRmVnFINnZZNUdvcW9pM25WWTZGeUFkTWY3dUthZGR4OFowd2R5M2kxQU5mSEVuUGpPeE96MDVRenFZQmtXMW1iTG5SeGVDNUNUNF8yMVpEU3VtNGtIdTNpYVE",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZnlndEFQUlozbDVoSXZsdVhwRFR0VGpVbjEtVjJpczVNV0hPcmVRdVdvckF6TkFoWjZkdUthYUd2YVA3YV8xWm1yaDE3SlQzNG1GLUxaYWk4elRQT0QtTnpjdnJEUmJsallSenMxWmNhRFVWRDlkVA",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDE4dnJ3UW9waXFCd1hkQlRUbi1UTjdCZlNOWktEbnBFbUdVNTVXZG8zaFU4OEFoQ0dKQ3ZhTE9lVU9XRV9GSGhvYzFrWTItMGgtRkpKVzl6RkFITVh5RFh1Skt2X3UxNWtIWi1VNDU2SXJyLWdMRzAyNEk5TGZzNA",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmxuTHd4VGZwdkRNcHNSYThkRW9nQWFIdVlTSy1wZmpKOTFBLVBwYlF6ZlNaOG5GcjBXb01zc1NEMGs0TWdNVEUtS0hHOFd3OXN3U0VDLWFYeURyR0pja29WOWpWQTItVHVuWmx2eXNObXpnTDl3bmlmd3lVbjlFaExRU3M5UQ",
@@ -129,7 +130,6 @@
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NWRmo1QmFFNmx5WlFTdDdyQUpiYXIxVUFUSFZidjFHZ3RvTkdub0Q1ZkZ6Q0NRQ2ZzdkJsWVQ1Z203MEZ1V2hRZS1JRm5XQkR2OWFiV1lyZVpvT3lqOWZwblcyWlowSnl1UV9NU3B3b25yeVZUSWNwcGRmSnkyNmQzTGxOSk4zeUo5cURMbEFJcDBSNkN5Nndic3pNVmQ0eVBUQ2N0djBKMnl2TE1rNWNTeGRSVDQ",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVd6MU4tVWtqaGE0UGhZLVVyWFdqaE5xMW5RTXJTbWR2WElmd045a2M2WU54bFBJOUgxaXpqRzBJVVFHNWhGVVA2dUtyVFE1X0lkeHJueGlOYW9OMkpyM3JDZlpZaE1ORkF5bzBGbkd1d3V2V3dmbC0yem85OV9FTnk2YW11dWRVQ1dWeEREcURFa0c3RlI1bUJ3WndGNzRQNEszZUdHV3JkY1Y4MzVuZzNnV1NFY2ZoRGJn",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2pKeW4wX3ViQlR1WmVGcnJZLXl5MVFBb3BXUTFZOWYwWEdvNkdUZS1LNzdPSlk1WDdrc18zZ21lZXhTNUFNbVYwb3R0bWNzbjZHdERNUkVaS2xsNFJ4WXZIS1lPeTZLNm5hZW9Dc082cDNPVUNrRjQxLUZGVVkyTDRtSHZKNFIzamp5QVptREJPZkNBOGdBVEdMS01hVDRDVXVmU3dLdnB6eUgzNjRmaG9BSWhFUlNIMmNJcg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0cxSklZZThSTDdJV0dUaXFCa2hjSm9pYU1lN1haanJyREkzYzNqN2ZaUEhiREpaNERQZ21IOFFxMUhqTkVQZkZHcExyaFB5NExiTVRnVWxEeU5VRmdhX21jVTRSQmRCSk5GdjR6NHZWdWs1R2V3NVEwWVM4Tkg4eFlzLVlmWjBFRkItcEotUHN5N2NvdmdKeExPSm5IZk5BUUxhSHJIQW05b2I2UEUtLVdwa2ZvWkJtc1k3MVpR",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Безпілотні системи у центрі уваги на турецькому демонстраційному випробуванні Ateş Serbest",
-      "original_title": "Unmanned systems take center stage at Turkish Ateş Serbest military demonstration",
-      "summary": "Турецька армія вперше продемонструвала новий безпілотний літальний апарат Ayaz, розроблений Turkish Aerospace Industries. Це одноразовий ударний БПЛА з турбореактивним двигуном, що забезпечує високі швидкості та дальність польоту. Така платформа підвищує можливості швидкого ураження цілей і розширює спектр застосувань безпілотних систем у турецькій військовій стратегії.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
-      "published": "2026-10-26T09:00:00+00:00"
-    },
-    {
-      "title": "В'єтнам і Польща випустили спільну заяву про встановлення стратегічного партнерства",
-      "original_title": "Vietnam, Poland issue joint statement on establishment of strategic partnership - Vietnam+ (VietnamPlus)",
-      "summary": "В'єтнам та Польща офіційно випустили спільну заяву щодо встановлення стратегічного партнерства між двома державами. Подія охоплює дипломатичні кроки на рівні держав і спрямована на поглиблення двосторонніх відносин та співпраці. Інформація викладена відповідно до офіційного повідомлення джерела Vietnam+ (VietnamPlus) без додавання сторонніх інтерпретацій чи непідтверджених деталей.",
-      "source": "Treaties & Agreements",
-      "publisher": "Vietnam+ (VietnamPlus)",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVd6MU4tVWtqaGE0UGhZLVVyWFdqaE5xMW5RTXJTbWR2WElmd045a2M2WU54bFBJOUgxaXpqRzBJVVFHNWhGVVA2dUtyVFE1X0lkeHJueGlOYW9OMkpyM3JDZlpZaE1ORkF5bzBGbkd1d3V2V3dmbC0yem85OV9FTnk2YW11dWRVQ1dWeEREcURFa0c3RlI1bUJ3WndGNzRQNEszZUdHV3JkY1Y4MzVuZzNnV1NFY2ZoRGJn",
-      "published": "2026-10-26T09:03:52+00:00"
-    },
-    {
-      "title": "Акції США впали через борги в сфері ШІ",
-      "original_title": "New York Stocks Fall Broadly on AI Debt Warnings; 10-Year Treasury Yield Slips Below 5% - BigGo Finance",
-      "summary": "За заголовком BigGo Finance, фондові індекси Нью-Йорка знизилися широким фронтом через попередження про боргове навантаження в сфері штучного інтелекту. Дохідність 10-річних казначейських облігацій США при цьому опустилася нижче 5%. Одночасне падіння акцій і дохідності вказує на зміщення інвесторів від ризикових активів до державних облігацій. Для ринку це сигнал підвищеної чутливості технологічного сектору до умов фінансування. У статті немає точних відсотків падіння індексів чи інших цифр, тому масштаб руху оцінити неможливо.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "BigGo Finance",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZnpGV2h2Z1ZwSUl5dzFmUDNOSkRmVnFINnZZNUdvcW9pM25WWTZGeUFkTWY3dUthZGR4OFowd2R5M2kxQU5mSEVuUGpPeE96MDVRenFZQmtXMW1iTG5SeGVDNUNUNF8yMVpEU3VtNGtIdTNpYVE",
-      "published": "2026-10-26T09:25:00+00:00"
-    },
-    {
-      "title": "Від концепції до морських випробувань за шість місяців: Франція прискорено розробила ударний безпілотний катер SMOKERS",
-      "original_title": "From Concept to Sea Trials in Six Months: France Fast-Tracks SMOKERS Kamikaze USV",
-      "summary": "Французьке агентство оборонних закупівель (DGA) за шість місяців довело недорогий ударний безпілотний катер-камікадзе SMOKERS від концепції до морських випробувань. У наведеному тексті немає даних про розміри, дальність, швидкість, боєголовку чи систему керування, тому оцінювати бойові характеристики поки зарано. Головне тут темп розробки: він показує, що Франція прагне швидко отримати дешеві засоби ураження для морського бою. Реальний військовий вплив залежатиме від результатів випробувань і подальших рішень про закупівлю.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/france-smokers-kamikaze-usv",
-      "published": "2026-10-26T09:27:39+00:00"
-    },
     {
       "title": "У симуляції навчань Ulchi Freedom Shield північнокорейські війська прорвали оборону та вийшли до околиць Сеула",
       "original_title": "КНДР «дійшла» до Сеула в симуляції навчань Південної Кореї та США",
@@ -1173,6 +1133,16 @@
       "published": "2026-10-27T10:59:05+00:00"
     },
     {
+      "title": "Звіт: ВПС США мають купити новий танкер замість нескінченних KC-46 через загрозу з боку Китаю",
+      "original_title": "USAF should buy newly designed air refuelers to meet China threat: Report",
+      "summary": "Аналітик Hudson Institute Тімоті Волтон вважає, що закупівля ще 75 танкерів KC-46 виробництва Boeing має стати «верхньою межею», після якої слід перейти до нового танкера більшої дальності. Попри спокусу й надалі купувати KC-46, у війні з Китаєм у Тихоокеанському регіоні величезні відстані вимагатимуть заправників із більшим радіусом дії. Конкретних характеристик нового літака в повідомленні не наведено.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report",
+      "published": "2026-10-27T12:00:00+00:00"
+    },
+    {
       "title": "Посол Великої Британії з прав людини відвідує Танзанію",
       "original_title": "UK Human Rights Ambassador visits Tanzania ahead of UN review",
       "summary": "20 жовтня посол Великої Британії з прав людини Елінор Сандерс прибув до Дар‑ес‑Салама, Танзанія, для зустрічей з представниками медіа, релігійних організацій, пасторальних груп, політичних партій та правозахисних організацій. Вона також відвідає проєкти, фінансовані Великою Британією, що забезпечують доступ до засобів сексуального та репродуктивного здоров’я та борються з торгівлею людьми. Візит передує Універсальному періодичному огляду Танзанії в ООН.",
@@ -1181,6 +1151,16 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
       "published": "2026-10-27T12:15:00+00:00"
+    },
+    {
+      "title": "Нові обов’язкові можливості дронів: РЕБ, відсутність GPS та втрати на полі бою диктують вимоги до малих БпЛА",
+      "original_title": "The new must-have capabilities for drones",
+      "summary": "Це спонсорований матеріал Breaking Defense, у якому лише коротко йдеться, що радіоелектронна боротьба, придушення GPS та високі бойові втрати формують нові вимоги до малих БпЛА (small UAS). Конкретних моделей, технічних характеристик чи контрактів у наданому тексті немає, тому оцінити їхні параметри неможливо. Загалом це свідчить про тенденцію: малі дрони мають бути стійкими до РЕБ, здатними працювати без GPS і достатньо дешевими, щоб масово компенсувати втрати. Подібної публікації в попередніх новинах немає, тож це не дублікат.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
+      "published": "2026-10-27T12:24:00+00:00"
     },
     {
       "title": "Казахстан змінив пріоритетність вантажних залізничних перевезень",
@@ -1643,6 +1623,16 @@
       "published": "2026-10-27T18:50:27+00:00"
     },
     {
+      "title": "Пентагон створить дорадчу раду з питань боєздатності та здоров'я військових",
+      "original_title": "Pentagon creates advisory council on human performance, health",
+      "summary": "Згідно з повідомленням у Federal Register, комітет вартістю 1,4 млн доларів займатиметься виключно людською продуктивністю: відновленням функцій, подоланням так званого «операторського синдрому» та запобіганням травмам і операційному стресу. Рада доповнює нову структуру Warfighter Performance Optimization в офісі заступника міністра оборони з персоналу та готовності Ентоні Тати, яка координує зусилля видів ЗС. Військовий ефект залежатиме від впровадження рекомендацій: Хегсет прагне пришвидшити поставки носимих пристроїв та аналітичних інструментів і зробити когнітивну продуктивність ключем до",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
+      "published": "2026-10-27T19:24:01+00:00"
+    },
+    {
       "title": "У Каїрі 14 жовтня ФАТХ вимагав від ХАМАС прийняти умови",
       "original_title": "Why Hamas must not repeat Fatah's historic mistakes",
       "summary": "14 жовтня 2023 року у Каїрі відбулася переговорна сесія, у якій делегацію ФАТХ очолював Джибріл Раджуб, до складу якої входив колишній прем’єр‑міністр Мохаммед Штайє. ФАТХ вимагав, щоб ХАМАС офіційно прийняв сім політичних умов, включаючи визнання Ізраїлю, підтримку двохдержавного рішення та підпорядкування ПЛО. ХАМАС заявив про готовність вивчити документ, висловивши сумніви щодо пункту про двохдержавне рішення; подальша сесія була перенесена після виборів в Ізраїлі.",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
       "published": "2026-10-27T19:38:16+00:00"
+    },
+    {
+      "title": "Британія розгорнула три з чотирьох атомних підводних човнів з ракетами Trident II D5",
+      "original_title": "Три з чотирьох британських атомних ракетоносців вийшли в море",
+      "summary": "Велика Британія одночасно розгорнула три з чотирьох атомних підводних човнів класу Vanguard, оснащених ракетами Trident II D5 з ядерними боєголовками. Це підвищує оперативну готовність і сигналізує про можливу підвищену загрозу для противників. Підводні човни забезпечують ядерне стримування країни та є ключовим елементом її стратегічної оборони.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
+      "published": "2026-10-27T20:15:39+00:00"
     }
   ]
 }

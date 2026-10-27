@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-local-sources-report",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWs1cG1neWJ2a09DQ1NDS2NnZnRlbFVWSXRsWWpHR3JLOE5RUlprWUpvN09rTzdVWC1UdHB1MDBRN0Y2YzE5N2FyOWNLT1cyQ0IxLWpjRE9PUTR0b2F5blhWVFU5Z0pFdEhEVzk1S0t0NHMta1Z6aXJxZmwwRmZTUmJNNWZnaVk0dWI5VGxmQzlmYTdVc3J4MFdQVy0xbWxyYVdmNmYzbDhUOWxQeFE?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wcTlmNDZ2NXlOSG1pZDl2SEhUYVRqNU9UMHFOZGNVR21uakhKY2dLUFpUdENzekdSS3gwUFBvaU96Umg4ZDBab1BQdXBPXzZXVXRLWEVhUUxnUGpxeUkxWi16ZWJ6b1FRc2VhcmF5dXZDNFM5VkkydkFzaw?oc=5",
-    "http://www.africanews.com/2026/10/19/kenyan-cult-leader-paul-mackenzie-faces-verdict-over-191-starvation-deaths/",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFRUZXo3MXFRXzhfN1M3cG9uU05fRU5qSTM3RjNUS0ViRWt6VzFiTlp2WjZLSmZqckVSdzZ2ZjRDekZqSGtXcDJOUmFxZGlMRm5PNzNBQzNaal9vVlk0cVVBYnRmd2JFSnEyQkVZREhQVFVRSWpfT2xYMGpGMXBOMmtoYTg0VF9kRDYxV2NPdTd4eFV4T1RNNEJjTXVCZTVXRUVLc3hLc3ZKcVY5R2pJampfZ19rVWFiVTd1UHNDZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGoyRnBhNXdBWHpXNGc4cjVFT0syaXdmbTF3VXpiVThNRjZWSndzVUtHVEJpWjBZZ2ZRS1RzUDFNY25GR2s0UmpfblFXbG1UbWJQYlVfTHJUcUtKUnp1cG1wbEotQm9uSFNZT1BmMFpkN191c2pqaWtJTFpkbVRTdkdrcVJnVUNEYUtCZU9kaHZHWnBOWE5OMVJINy14OUhIUnAtSW1ORFpPMTZXQWZwbHU0TQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVzVxbzJTRnBiVW90RlhSczVRMEVfVkttSHYzOHB4NUNvUlJXQlZFQzRHMmx2UVNCY2VUb1c5V1lYS3B6Y3lyU0tfZE9qc2tHSUlGcVBFZDM2YXg3b0x0cmhBZGtQbzlIaWlBTHpwUHBjVWt4NmxUR0VKdzhLbmpiZ3RxM2tVWnBDVXYyQTRxZ2JzT1pFcEpic0V6ZEhLUkhDemJVY3Y4VGR5eVB2c0tFNV9RVDFpRmdXMXBHSkFqNnJVeDItY3Y2REpFSFBuU21vT2VVLVNXQ0xVbWtTZjRsbjh0Y1NYQ3ktQU4wNXpFeUtJdldhSzFFT1hqbHFJbVdBN1BFNThENUJZYzVQbTFyMHBDcUsyeTNORU1TMjMtUmh2ZzBrREl3Uw?oc=5",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU09VemV5QW5OekNxUTNENkowNVlJWmhYUnFvb2ttbEZwQW9rTGViNXZ2S1VWOG1qbUU3SERqNzctT0ZHdXFVNU0yV0lldmo3ZGxiTGdlWDd1QjFabHFKbUtvN0x2V2Q4bWVfb0x3Q1VGZFl2UkxSa2RwRDlJd1lkWGwtUDdPSHJ4RklqeER3V1QxY3N4dEhJR2ZjRDdfOXdhcnhfSGpFMEhxd3Yyb25pd0NObTFWVnBiUE5QcGRIYW52b2x2eTBCZUhJdXFhbEJ6R2p5ZnhvT1NvYnFzT193SzIyc25zaDFxUE1NMEIzRkhEbnZKYlpySzF1NGR5cXVaMTVIV1QtdkJJeEZvTUt0ZjI5Yw?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
     "https://www.gov.uk/government/speeches/haiti-cannot-afford-another-year-in-which-insecurity-outpaces-political-progress-uk-statement-at-the-un-security-council",
@@ -1199,16 +1191,17 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajFveDZxbUNudU9iS2RuOGozdWhDc19VaV80eWU3SGFTTmN0QTlUUEd2TlNqUWNMOUQ4cERtNXBwWmhmdUk2SGFYTlpvcHRFS3FMbEtIUV9fcGZMUlVtTjhseE1ueDF0anY3ckFQSHl0NnoycFFVWXpVUmdqWkNlR0NfQTE5QQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXROYjVUUkZ5RWJGWkdjNjZzUk1aNUsxOVBLSmpZTGhKcE82T2FIbTA3NERSVEZodjdrSy1aanQ3ZWhVdXc2QmpSeXIzZUVJZVd0RWZUczkzWUlaVTQwcWxab25EVzlNMHBMZnRMb0wyVTlIWTZqLWRGQWdyYU5uWEE2cHBXQ2M2b05VYXc0cWJLU0lEcVhYelFvNFdnVjVRUzJjQ19zV2Y?oc=5",
     "https://news.google.com/rss/articles/CBMitAJBVV95cUxOSUpORU5INE0yRVhMbzFHY3lZQWtpd3RnSWY2S0RoX1Zfd1AwUG1BcEVYX0U5ZlRyaVRTZ0pVU1BfekRDbE9TaUV5QWQ3WTlqeGZpY0dTZFNhTW1YbHVJNHRoOUpJVWtIVmYwMERVQkVSUHV6Qi1kODJFWE1KT0ZYZ1I4aGZjeEtMS2J2SS1KNC1EOVI5WkJEVzE4Umk2MTZ3bGFJcXBVMEtEV25CS2dtUEN0RkMzM2M4QXprS0pRSjJwN1BFRG1TVXdMUE56UUhwc0ZEX2VNLXRpdC1HS0xWWFhPOUhVX19tSkQtWGY4QTczVmxySDhQTXpfeVhiU1ZzM0Q0aUNsczFWUS1Bbi1ER2JzNDcwSksyMDFkR0hrenpvOXFhWHdHMWhPMzdvN0xqTWNPZA?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkw2LXVXbG5fQmFLcW1YYjVEbEdyNF9xOFMycmNlR21GaGFiaEZtZV96TnJCNUdyUXpSZmJodEo1T1QtRE82VG45OEphNTZldVFVbUFqSGJnMUtSZ1Z6TzNDM0xnVUxtUldwWDNJLUxJYUROWi01VG9tazJHS3ZueGc0elhWdjJNMkNVdnljeVJoblRWb3U2X29faWViWS1SSUFnN0VEbUc0S0NnUkQzNGZtQUlpT3lteFM0Wnl2ekpFb0hFRTdNemdJTllkVDdfYW5XMlliREg?oc=5"
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkw2LXVXbG5fQmFLcW1YYjVEbEdyNF9xOFMycmNlR21GaGFiaEZtZV96TnJCNUdyUXpSZmJodEo1T1QtRE82VG45OEphNTZldVFVbUFqSGJnMUtSZ1Z6TzNDM0xnVUxtUldwWDNJLUxJYUROWi01VG9tazJHS3ZueGc0elhWdjJNMkNVdnljeVJoblRWb3U2X29faWViWS1SSUFnN0VEbUc0S0NnUkQzNGZtQUlpT3lteFM0Wnl2ekpFb0hFRTdNemdJTllkVDdfYW5XMlliREg?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0VwNzhzMXN3WE56TzFHaTBBa0xqSTFuakdYc243b055NVVXTU1FTnJaM0xUMVM0WVdraVo0Rk52VWtLN2dZdmFNNnpkRVFrZTRmNHpnRTBhb2l1V3F0akxNVXN3SDZUdGxZQTdxMDR5R2d0WUdqSFdRdFlZaUNmeWZqZFlFNHFLemJoNmppajZKcVYwNlRGcGlkNmx3RGZEVDV4MExpMll5MGZRTVk2eWR1cw?oc=5",
+    "https://www.middleeasteye.net/news/egypts-mada-masr-editor-lina-attalah-jailed-court-orders-outlet-shut",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/raam-leader-accuses-netanyahu-inciting-against-his-party",
+    "https://www.middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlZBbERPcTJRQ1JDNVhFbERMU1J0cm9GY09ROXJDUWVPSm1qQzRlOG4wOU5rWkdmQ3ZyTW8tVmFYS2V5SjBYN3h1S3N4VFc3VV96V2NSdnRyTFNBcmozSkFlRW1aOFY2WWFFRVl4Uno4eFR2QzVyVzVkNEhralFScTV5MndFWWstSFB6T2FCNGl2R1l2eHI1UDBvdnUtdWRfSElyZWxnVVNxN0ltOW53TDdGbWk?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFIyMDZmUHNWeks1MS1vWFNaWmVJVEdkRlM1U3lKUkI1RjNkeDBhZ2E2alNTNlFzR3lEa1FnSWg4Q3lDZGpKVHJJeF9GTE1CVGhSRTdza1hyYzIzXzBuVUdMeThuOU9jYUVBWTNoZzE5ckdJOWU5Y2tycXBLeGNERkE0MW1CcXhUVFkyVnMyeG5zVXBlckRqeExJbjl5R1lYTUVVcFBpN2ZWTlhZQ2VBSFBwbEtDMktxVFV1VnRJRjVWR3d2NlFxV0wydw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EZFEtb0xCeGNxVWtSUThrT1YyQzZqZ2JtakZWLUd3dDdNVnljNVJQLV9wRlhBbU8xTW1vMVcxajZwX3lnQ1U1UHFaZUEzTEVIU1g4emF5eTFzZ09F?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTdPSlBXLVhIbElXaDV5bUVVRU5EWTV6VWZBazFqZ29YSURtVXJ5UTk1am1Wc0huTW5ZV1NGNGUyLWNXOVpBNDM4a3hKVUo4cFFIVlhmaTJGRW0yN0pINUdWeldTSzF6Y24zM2JvcVQ2VndVQzY2RFBkczBVdi01bmVBc3BoeDhsOFNLZGdWa1BsdlhhVWlfUU5fZkV1VEZSUUdUaDl6THczRXAwcXc?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія ввела санкції проти командирів у Судані та оголосила підтримку жертвам",
-      "summary": "Уряд Великої Британії, повідомивши на сайті GOV.UK, ввів санкції проти старших командирів, які беруть участь у кампанії сексуального насильства в Судані. Санкції включають замороження активів і заборону на в'їзд. Одночасно оголошено нову програму підтримки виживших, що передбачає фінансову допомогу, медичні та психологічні послуги, а також реабілітаційні проекти. Це офіційний дипломатичний крок, спрямований на притягнення до відповідальності та допомогу постраждалим.",
-      "source": "Diplomatic Visits",
-      "publisher": "GOV.UK",
-      "published": "2026-10-26T10:18:45+00:00"
-    },
     {
       "title": "Рада ЄС продовжила санкції проти ІСІС та Аль-Каїди до 2027 року",
       "summary": "Рада Європейського Союзу ухвалила рішення про продовження режиму санкційних заходів проти терористичних організацій ІСІС (Дайш) та Аль-Каїди. Цей дипломатичний крок офіційно затверджує подовження дії обмежувальних заходів до 2027 року. Рішення є формальним актом міжнародної організації, що підтверджує збереження санкційного тиску на зазначені групи. Матеріал не містить дублікатів серед наведених свіжих новин, оскільки інші заголовки стосуються різних регіонів та тем.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "Anadolu Ajansı",
       "published": "2026-10-27T14:12:24+00:00"
+    },
+    {
+      "title": "Міжнародна комісія ООН визнала переслідування палестинських дітей зброєю",
+      "summary": "Незалежна міжнародна комісія ООН з розслідування окупованої Палестинської території опублікувала п'ятий звіт, у якому визнала, що Ізраїль вчинив злочин проти людяності у вигляді вікової переслідування палестинських дітей на Західному березі. Документ зазначає, що між 7 жовтня 2023 року та 30 вересня 2026 року ізраїльські сили вбили 1080 палестинців, серед яких 237 хлопчиків та 7 дівчаток, а поранили 10 940 осіб. Комісія підкреслила, що насильство було цілеспрямованим, а не випадковим, і зафіксув",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-10-27T15:28:00+00:00"
     }
   ]
 }

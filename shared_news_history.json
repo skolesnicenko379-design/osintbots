@@ -35,6 +35,7 @@
     "https://middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
     "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
     "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
+    "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
     "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
@@ -136,7 +137,6 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1dzZ2xhTUlVU1BHaktQNTRfR1lJMmVESnVzbk1PcTBIRDBPTDBYekZYRU5hNnRYNWFBdXBhc0oxUkFLeWNuRk9uenhKOUhDYVlBbnltUW1tLWl0Vll4QXZBci1aMm84TUZZVWF4MzEtOS1wQkdSX0ZWd1p1ekxwNU5VM094Vy1qZlNYVEJSUkp4U043cHZRc3Q0VkotNXcxWWdFODN5RXNXbDBKMlJ2RmhkYWJuaVg5dlBudXIyUDVNa0RRUksw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWUZqZEVaQVN6WHdBZ2lwVUJKTGhGSnhFLUdoYnJhNFN0STVXcGhpTG40QUU1Snc0aDFfWC11Y2psU2k0RVdQaHVmblQ5QnVSc1R1SmdBSm5HT3l1ZG1TSnc2dWVPS0ZGNURYcXl2ODRrQnlScjdSTWJEanVSeG5BOVF3dkdiVzJxaEdSUnpQSkpjdWJvT0EzYzBXMGIwZmFrTFdBYVI5TVZYN2tEeHBiTVF1OUQ3Z0lxMmZ5VWIwMmpQd0FIQXU00gHMAUFVX3lxTE5jZ0xBQUVkWFhxLXE5djg5UmlFZVkxREtWSG95aWpRTTdaVmFxZEtUWDlZYTVqazVUeEZMLWpjcDMxazMwenRGUDkwV0hNNDVzMWFIRjQxZkp2RHM4eE9uT2FJc3N5a3VhazlxQl9GaklzZU55WGRUYmZWdW94dUpwRXdiWUh6ek5tTUJlZlBmcWlzNUhQWXBLaVFZLXhfOWtkeU84NERqVUExa0ltc1FHQzV3S1NxR3lZNDNXZkh6TnVxb0ZXb1IxdU1ubQ",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc29hcGhzN0dlMW5BckxRTEM4OVNWYlJhcmtEczdXZ0pXYV9vZFZSTmRub2NfRlV4VG0wSGpQVC14MzQzMTR4OF9taUhzaHhGZUlmVjQ4ZFNwOTZuX2NxWm0tQXhmRGppZTlaRW85aFdJQVhfTVZUS25GcldtS2o5Z1VQclh2bGQ2amcxWnd3b0kwTWpiT3ppM0RNdF9hOG5HUHIwWlItUWJtUlVja3hfb0c0YXg2YnpvWjVad3hCbGtWRFVneWNxRA",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ",
     "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara",
@@ -147,16 +147,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Прем'єр Самоа відмовив Нова Зеландія у оновленні угоди до виборів",
-      "original_title": "'I said no': Samoan PM told Luxon treaty refresh must wait until new NZ government elected - RNZ",
-      "summary": "Прем'єр-міністр Самоа повідомив прем'єру Нової Зеландії Крісу Лаксону, що оновлення двосторонньої угоди має відбутися лише після обрання нового уряду в Новій Зеландії. Лідер Самоа прямо відмовив у проведенні переговорів зараз, заявивши: «Я сказав ні». Це рішення призупиняє дипломатичний процес до завершення виборчого циклу в сусідній країні.",
-      "source": "Treaties & Agreements",
-      "publisher": "RNZ",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
-      "published": "2026-10-25T21:26:10+00:00"
-    },
     {
       "title": "МЗС Ємену засудило атаки хуситів на Мекку та Медину",
       "original_title": "Yemen government says it condemns attacks on Mecca and Medina",
@@ -1596,6 +1586,16 @@
       "channel": "miltech",
       "link": "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
       "published": "2026-10-27T14:57:03+00:00"
+    },
+    {
+      "title": "Міжнародна комісія ООН визнала переслідування палестинських дітей зброєю",
+      "original_title": "UN inquiry finds Israel committed age-based persecution of Palestinian children in West Bank",
+      "summary": "Незалежна міжнародна комісія ООН з розслідування окупованої Палестинської території опублікувала п'ятий звіт, у якому визнала, що Ізраїль вчинив злочин проти людяності у вигляді вікової переслідування палестинських дітей на Західному березі. Документ зазначає, що між 7 жовтня 2023 року та 30 вересня 2026 року ізраїльські сили вбили 1080 палестинців, серед яких 237 хлопчиків та 7 дівчаток, а поранили 10 940 осіб. Комісія підкреслила, що насильство було цілеспрямованим, а не випадковим, і зафіксувала випадки, зокрема загибель немовляти в Хевроні та сім'ї в Тубасі, відмічаючи відсутність ефективн",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
+      "published": "2026-10-27T15:28:00+00:00"
     }
   ]
 }

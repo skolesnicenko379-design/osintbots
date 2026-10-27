@@ -9,6 +9,7 @@
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
+    "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
     "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
@@ -41,13 +42,16 @@
     "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
     "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
     "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
+    "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
     "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
     "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
+    "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
     "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
     "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
     "https://militarnyi.com/uk/news/tsyfrovyj-zv-yazok-ta-vybir-chastot-video-taf-industries-predstavyla-onovlenyj-nosij-retranslyatora-kolibri-13-fr1",
+    "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
     "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
     "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
     "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
@@ -1369,6 +1373,16 @@
       "published": "2026-10-27T09:04:00+00:00"
     },
     {
+      "title": "Британія не приєднається до оборонного банку DSRB під проводом Канади",
+      "original_title": "Britain will not join Canada-led defense bank initiative",
+      "summary": "Лондон і Оттава замість спільної установи домовилися розробити рамки співпраці між британським Multilateral Defence Mechanism (MDM) та канадським Defence, Security and Resilience Bank (DSRB). MDM зосередиться на пришвидшенні оборонних інвестицій і спільних закупівлях через фінансування, а DSRB — на підтримці оборонної промисловості та ланцюгів постачання, переважно через кредитування окремих держав. Відмова Британії та позиція Німеччини, яка поки спостерігає, ускладнюють збір цільових ≈€100 млрд, тож фінансування спільних оборонних проєктів ймовірно залишиться фрагментованим; статут банку план",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
+      "published": "2026-10-27T09:46:52+00:00"
+    },
+    {
       "title": "Президент Коста відвідає Монреаль на саміті ЄС‑Канада",
       "original_title": "President Costa travels to Montreal for the EU-Canada Summit - Council, European Union",
       "summary": "Президент Коста вирушає до Монреаля, Канада, для участі у саміті Європейського Союзу та Канади, організованому Радою ЄС. Подія передбачає офіційні переговори між представниками ЄС і Канади, спрямовані на зміцнення двосторонньої співпраці та обговорення спільних політичних та економічних питань. Візит підкреслює дипломатичний характер заходу та його роль у поглибленні трансатлантичних зв’язків.",
@@ -1379,6 +1393,16 @@
       "published": "2026-10-27T10:06:50+00:00"
     },
     {
+      "title": "Французька SEABER представила підводний дрон RAVEN для пошуку морських мін",
+      "original_title": "У Франції представили підводний дрон RAVEN для пошуку морських мін",
+      "summary": "RAVEN — компактний автономний апарат масою 13 кг і діаметром корпусу 12 см. Він занурюється до 300 м, розвиває 3–6 вузлів і працює до восьми годин. Версія SCAN-MAG має магнітометр для пошуку металевих об'єктів, а SCAN-LUMEN — камеру та освітлення 24 тис. люменів для розпізнавання знайдених цілей. Навігація спирається на інерціальну систему LYNX із доплерівським лагом (заявлена похибка менш як 0,2% пройденої відстані). Для спуску достатньо одного оператора, тож такі апарати можуть зменшити ризики для водолазів і прискорити розвідку мінної обстановки. Ціну, замовників і терміни поставок виробник",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
+      "published": "2026-10-27T10:15:24+00:00"
+    },
+    {
       "title": "Три британські парламентарі затримані Ізраїлем під час візиту на Західний берег",
       "original_title": "British politicians detained by Israel why trying to access West Bank",
       "summary": "Три британські парламентарі — лейбористський депутат Клайв Льюїс, депутат Шотландської національної партії Лара Бірд та депутат Шотландських зелених Кейт Невенс — були затримані ізраїльськими силами під час спроби потрапити на окупований Західний берег. Вони подорожували у складі делегації, організованої Progressive International. Ізраїль закрив доступ до території напередодні виборів, що й стало підставою їхнього затримання.",
@@ -1387,6 +1411,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/british-politicians-detained-israel-why-trying-access-west-bank",
       "published": "2026-10-27T10:23:11+00:00"
+    },
+    {
+      "title": "Safran збільшує виробництво авіабомб AASM Hammer до 2000 шт. щорічно",
+      "original_title": "Safran щорічно вироблятиме 2000 авіабомб AASM Hammer, які використовує Україна",
+      "summary": "Safran планує подвоїти виробництво авіабомб AASM Hammer, збільшуючи щорічний випуск до 2000 одиниць до 2027 року. Ці 500‑кгова точкова бомба, що використовується Україною, підвищить здатність до точкових ударів по стратегічним цілям, розширюючи можливості української авіації у конфлікті.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
+      "published": "2026-10-27T10:36:43+00:00"
+    },
+    {
+      "title": "Reuters виправив повідомлення про план Сербії зупинити експорт зброї до України",
+      "original_title": "Reuters прибрало згадку про плани Сербії припинити експорт зброї до України",
+      "summary": "Reuters видалив згадку про намір новообраного уряду Сербії припинити постачання озброєння в Україну, додавши редакційну примітку про відсутність підтверджень. Це свідчить про невизначеність щодо майбутньої політики експорту сербської зброї, включаючи малу вогневу техніку та артилерію, що може продовжити їх постачання на український фронт.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
+      "published": "2026-10-27T10:59:05+00:00"
     }
   ]
 }

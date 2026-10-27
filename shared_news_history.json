@@ -13,6 +13,7 @@
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
     "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
     "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
+    "https://defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
     "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
@@ -26,17 +27,18 @@
     "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
+    "https://gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
     "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
     "https://gov.uk/government/speeches/we-must-protect-and-build-on-30-years-of-work-supporting-the-protection-of-children-in-conflicts-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/british-politicians-detained-israel-why-trying-access-west-bank",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-president-says-tehran-seeks-unity-and-security-among-muslim-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran",
-    "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
     "https://middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
     "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
     "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
     "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
+    "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
     "https://militarnyi.com/uk/news/drony-atakuvaly-voronezh-jmovirno-udaryly-po-voronezhsyntezkauchuk",
     "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
     "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
@@ -92,7 +94,6 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acUkyeGwyNFp1RVp2RW9HWldJak1adXNoeHVlb1o5QnphUmhrWV9HbTNfbDFSVEk5SUsxZEIzaDV5bVB2bG9jaFk0NmJUZTlwLXc",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZi1JUC1fVGlnOXZES1ZucGVDQi1DRnh5TU1aX1hSS1ptYzhBZ2dxZjVnQnluUjJWRVZYQUN5NU5vUmpBSWlBa29vMFdmdFRmVzRpVGtJSQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nak1sWDcyWEN2TFFzczROVjAzaTBBMTV4em1IUVVJdm1QQ05oUVQ1SEtLTTlJeXRlSzQ3RThkbnI1dW5rQnA2MGdzSnpGNi1UbC1TSTFLQndqenVfT2ZfRzlBX0tLSUlLOW1lTUlTMA",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxbGxJS3lUR3ZzMTVjZFVCVThJUnpSem1GaE5QRTR5TXI2bExsZGhtaEcybXFxc18tZlVMZEhrQ1o0b2piUkkxTmxNd2pQcWVUYnVUdzJWMjFsd3ltdy11YjBJNUtrdlp6QnZkZW1DSDRsNUpyb1E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZnpGV2h2Z1ZwSUl5dzFmUDNOSkRmVnFINnZZNUdvcW9pM25WWTZGeUFkTWY3dUthZGR4OFowd2R5M2kxQU5mSEVuUGpPeE96MDVRenFZQmtXMW1iTG5SeGVDNUNUNF8yMVpEU3VtNGtIdTNpYVE",
@@ -107,6 +108,7 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3VDS3NRZTZiZWRVX01ybVd2dkVDYnRVM3NNdHJQcG1wRl9UR3hvWV9hdVU0czlCQUNYV0VPR2FyQkNBVUR1NS1LdkhZaDFKX29DT1dUMnNnMWxCdFZZMnpFNXQ2cXdZMDRQVkQ3NmNLUTRHcnBVaXZmb3ZuMmRueUVSQXJDc3JlTFlaZm5NZEwyUC1od3NoY01XcDRjbEE",
     "https://news.google.com/rss/articles/CBMioAJBVV95cUxPM19WVndjOFlaU19xaVVQbGNfbHNDaU9DOWl5cklpR3l5c3pCYVNRQmx6YUw1OFJKeFpRWXhmcElSWjh4ODVEVXBhOWF3aVJtMmRad2t0X0hTWkZYcE1uREdONG1hY0tHMmJ2TmIzZlcwM0JuelE3LW9rWlhxWnppR09BbjQ1Q241RXhkaUUtejhUYnR5M001RGx5bTMtNXRlWjdYTUFQcnJrRjRJNEhacVZTRVpQZE1rUFV3dkVqUDVGWjQxcHBMYURvT0laelhaeXE0TU5rYWE2bGlzU1dNRVZUeTFCa0tRT0U1SWQwTWo1cnNRQ3V0YmlMTFAwUm9adjhXRlluQXhXOFZjVEdWTzhPOWRvb3VVMEFHdURDZ1o",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1Z1Qk4tanI0Q2ZETU43S0tUYVBPQzIzdTNGRWxDLWFEWm9DM2plZW53cnBMZGE2S3ZHNWlmREx1czJFNURmUV9MVWlCcXpoWXJxenlFbDlNYmt1NWd3bHFDaXNiNEFTRkJvc1JsdGY4OEw2T0JDTlRNMlFPQVJTWUcxQmt3ZnZBMGNrYVhIUVVqRFNuNGNmcEJyVUptSjdjTFE",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEIwUVVfTXlqMUpfXzg0d2JadTFxSlZVdmMwU3VUTWtEVHo4UDdld3VUNGNPTUZpZjRkeFlOSEpJTnppbTBqZWRfRTVJNEZFMzRwOTFybXhCc25QU2l6elZpeGdhaWhJOEVKQkV3VnFuWm1vSnFDdDltcUtxNTI5UUlVUTJsSWdaN2ZDT05rel9odE1QMkNoRmVNcThoM183T3c",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmhlVlF3cERqSW5jaVZLTHhNSkRBMy1jN0VhQTVhR3NFdmJPcVF4Vlk0aVRyenVNdHNMamZGN2RqdURYdmc1SHRJTWxsc29hczNqbXYzdlM0ZE9nQm5OMm1pSG9neWM4LVhKbmFJbDRIc1NzczlwZ0FxSXdBLTRCQzRTOV9tTFpiLWl2X25FcXEzWEdRQkFLNXRCUk52VnZ2OWF3",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3pWMkVJWUlpTFMyYW03c3JuVktMWTcyajRkdUFKekpWMTVOZEFmZ0tOaUp3Tm9tYVBLVTF1UE5hMk1rdWVuMHpEYWFUWUI1STBOa2lnRmw3QWhGa1B6R2JSeE02QzNXVm11VDJvZkdxWGc2OFo0VHQyOFFGcjgxaVpCbU9xYXQybXdtaDVlTnBSM2Jsc2ttTFVKbGIwYUE2ZlBr",
     "https://news.google.com/rss/articles/CBMiowJBVV95cUxNN1ZmTU5XbWFVbkRuQ3lfVUpIdUdzVXFJbHJKQkF1U3NvVXViRE1nQzc5YjgtNjdqTXZoZUQ3aGhGdF9wSjZCdkNOWk5CLVYtb3BFZzh6bEYxTFJmZVF3ZWhDYzg1aW5JVk9NT0RzSFlFN2dlTXFlYWZRVUxKd0JxUHlMVXFEaDVSQ241eXhKUm1lNW9OT1NZY3Ytd0dsTnVwcXZaVmhTQ2NhOEdSY0dxRWV6dUNxaHN0cXNCenE1RkRxYmdqYWE3eHJzeklYRG5XcmpoQkh1aV9Hczh5TWp2aC1CNjhac0JEc1VlM2U2YW5oNU1yZG5LNm9CaG1nTy1EaHkwV2c0UXNuQWtfQzhDV3NYbE9xNFBncmRaNTVleVNoRXc",
@@ -119,6 +121,7 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0JiaG5tQzZnRWZqSFlmSGhtMVQ4bGRiTWZRTjFaWEl2RTJyQjN6SUJ6M05XVzJ2Y2JsaUdtc3lkRkZoWTcxNEJiR0s2cjc4VUJFM1dwMWtKOGVRQVh2OXpMS2hPQldmWFh2bEE2VHo2cmJyWmhBOU5vWC1NVFQ4QjY2TmJkck5TTG1NYlRLTUlWTHdKeTFsa20tUElJTVF2Tk1HNFFrd1RRbmRyMVE",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTFySmU5dkZnVmZpVkJsOEdjYWgtVHpxbWVkYW1Td3hnYWZBNXI3d3dWei1Ibms0T1F4aE9KRjN6OTJoZHJiQmtYZlF4Wmxyb0lVY1UweWhXaEgxM0VIRE1xamUxMkV0QXZlYzZTQTNlbmxUODZiVnJfX1BIUW5fRGNmN3RqcHJiWFhJUWlvbzM5eENEUDd4MXhHeEpocXhtUnJNSkp5TTgta3F6T3c",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXBUOTl1eTRiQmxBWjFkanVua284Qk8tMEdZS0VBYmYta2w0WnVZWHRGYXhwLWtyM1hiVXFzbGZManc",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEVNUXNKakU4VGFJbENDT1A4bV9VQ3hpOFB0UmNsSy1yRW54RE5VQV9lU1EzNklxVTVVa3U5WTdIVGREN29XM3Z2UTh2NWhTQ0F5MVZDTjlhR0RNNGx2LWFYMWlQSVpYa3UtQnRnTzE4TS1jc01HZU9LY0hETHVWaUVPS2VwRENOc1BfaFFkemtwdWNMdDN2RnJYSUptNExZZnVzS3Zwd3QzTkZKSVBR",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFBLb3BmYnRhcFQxaXBxdWdDV1B1N3dGRUpqc1FXb2Zlbl9PQWlkQlU5TDZkOEhQMUpPS2RzeGxQMEpKbzZsZi14Y3VSWjB6SGd3R0o5M293TlY5TDBkMkNQMFVLNjBLNF8tTmNtcTBZbFJ5d0s4cmtrenA4ZnlGbjF4a21acTBoOGdhQ1FSeW9yUXc0Qm9YMFRXN0lNYUJENTYxUkcyRGkzQzVIN2hyTUZn",
@@ -132,6 +135,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0FJTUpmeHBOeXRZWHlBXzFoejlXdzRLeE9PX2N6emZjOXpfbGNJaGc1QWF1S2xoMzlWMGRJT1dfUXNLUzBvUjJwRUZRSjlvSHFLSmN1VEl1UVdGVHhoNi1jUVdIcG5ITktVVFhjYk52VXduT05CM05jeXl0RXo0eE91Mk1rN1YwU3RtakthWWpJTlZNRngtdFIxNVR0ZnZXczJSUmlhdUF3dVpPeUwtTXpYZ29hdlprRG9FMXY3NGR1OGM",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1owQ25laDA5LVFMNXdsWTFFVE4wMC1XX3dPYXVCTEw0TVZCZVc0QWcySFhzeGppRndGVEhpeV9fLU9UYnF4dzR2RVJKRVByRl9Uai1Hc2NfWGVlWFBRODhRZExtTHhPVWwzQkFLWWotY2hMaGhBaEE3UGVJVm95Z0VyejdyclRfMENlZnY5QlFpVHFYR2VObVNpX2tEYnF3NjVWQ2VEV19zT09fR0RrYTVqLTBGVGZHQTFTWWVkN1JjMFJM",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2NLRXVyU0lmSFREMHgtVFYxN1FIR0dXWVR1U0l4Y0RaUVZjaXF1dHE2RHJxbXNRWk1oM1VjMks0ejlhVDNkeHFUcVlrUERTemhWN1BOUXhYRmFaZXpidlNlSFBiSEtoTUtiTWt2TXQ2dTZuMFEwVEdsZWxBUkh3dVFwWlg2MG9NQmlNRnluU25qVERXeVF6V2thSW1zMXF3d0xYeWhScTJFZmFvU3pTbEsxcks2a2p4TzNobi1JRUo5b2dN",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVhqOGN4Tl8wN2ZBVEVfT1BWX0NkVGlHSFNVbzJsLTRkMkRSb3I2ajVBSllyZDhydTBPVWNpNWVMYlVZck5xLXV4NTFFd1p4eEhueko5S1hGaDcxOGpJR2gwb3hBV191aVIwYWZuU184ZkgzNmNKLU9aa01aa0M4V2ItLXFhYTJWRzZEYWJNb01NV1E3Mlp0RXp0czV5U19XYU9ZeUdJemtmeURTaTMzZ1lOT055Rks0ZFhnVk5Jb0g0ZHJ1WXc",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3pMcnpSWnhRSU9XN1NCT3BSSFBOeVNDS3ctemtkR3JseTZ5d0htdzFyWXhUc1dtWUhxeTYyQWlUSERTQ2VkTHd1Ykk1S0hxaW1PTnlVWTQwZEc1a29tN0ozU0gwS2wtU3dhX2FCU3c2T1VEcjJyR05rRVFSX0N1RGozM092OGM5dno1a3R3eUxyVWg5YVdRYzBad0VMWk9zVV96MmMwQUpnbERsS3hYUDZ5V0hvTEd0QVdGQ0xILWJyeGlNOFHSAcsBQVVfeXFMTVAwWnhNOGhlVVphNk1JZnlOc0JnenZQdXZGZWw0clBESmVLeHZzSzBiTzlJSkJMdlpSekpLZjVoLXBtY1hEelBwTUNSSjBWdDY5RVc1LWE3U0F1Ni1SVGN6bTJCdHhHRnlHbFctX01feE5TXy10bDFNeWVsTlo2NnVJMTVDcDJoeWkwLTlRNVVRV1I5a2VTVnBTY1FScldsZWpxWEphd0o2aE1QQzEzM3NSd3pUNnNHVGVPOU5aTWFUT3dKNGV4YXAtTnM",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1dzZ2xhTUlVU1BHaktQNTRfR1lJMmVESnVzbk1PcTBIRDBPTDBYekZYRU5hNnRYNWFBdXBhc0oxUkFLeWNuRk9uenhKOUhDYVlBbnltUW1tLWl0Vll4QXZBci1aMm84TUZZVWF4MzEtOS1wQkdSX0ZWd1p1ekxwNU5VM094Vy1qZlNYVEJSUkp4U043cHZRc3Q0VkotNXcxWWdFODN5RXNXbDBKMlJ2RmhkYWJuaVg5dlBudXIyUDVNa0RRUksw",
@@ -140,6 +144,7 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ",
     "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara",
+    "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
     "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
@@ -147,26 +152,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "МЗС Ємену засудило атаки хуситів на Мекку та Медину",
-      "original_title": "Yemen government says it condemns attacks on Mecca and Medina",
-      "summary": "Міністерство закордонних справ Ємену 25 жовтня 2026 року офіційно засудило запуск двох балістичних ракет хуситами в напрямку регіонів Мекки та Медини в Саудівській Аравії. У заяві на платформі X також осуджено цілеспрямовані удари по містах Хаміс Мушайт та Ахад Рафід, що спричинили поранення цивільних та пошкодження майна. Паралельно уряд Ємену підтримав раніше оприлюднене засудження Папою Римським Лео облоги Тізу та закликав до міжнародних дій для припинення блокади міста та захисту мирного населення.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
-      "published": "2026-10-25T22:38:05+00:00"
-    },
-    {
-      "title": "FTA між Новою Зеландією та Індією підвищує експорт вина",
-      "original_title": "New Zealand wine boost with India FTA - The Shout",
-      "summary": "Угода про вільну торгівлю між Новою Зеландією та Індією передбачає зростання експорту новозеландського вина до індійського ринку. Це має підвищити торговий баланс Нової Зеландії, посилити її валюту та покращити ліквідність виноробного сектора. Очікуване збільшення постачань зменшить залежність від традиційних ринків і створить нові можливості для інвесторів у агропродовольчий сектор.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "The Shout",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YZ3V2WUVFOXUyUWk3OWdQVENHSWlzNW9EdWQ2cWw5Q2dFbWxlcUZaUGxUN3R5QXd0UEh3cFI5QzRpR3g1NUl2T2tLWkZLVmx6MXlLbWNxSUY3MktpSVdOeHlvVjNuTFJ4YVFZZ1oxMA",
-      "published": "2026-10-26T00:58:23+00:00"
-    },
     {
       "title": "Gold Drops Below $4,000; Bearish Sentiment Hits 41%",
       "original_title": "Gold Falls Below $4,000 Threshold as Wall Street Bearish Sentiment Rises to 41% - BigGo Finance",
@@ -1558,6 +1543,16 @@
       "published": "2026-10-27T14:22:15+00:00"
     },
     {
+      "title": "Азія: акції чипмейкерів зросли, HSBC впав у Гонконгу",
+      "original_title": "Asia report: Chipmakers jump but HSBC tumbles in Hong Kong - Sharecast.com",
+      "summary": "Згідно із заголовком Sharecast, у підсумках торгів в Азії акції виробників мікросхем стрімко зросли. Водночас акції HSBC суттєво подешевшали на гонконзькому ринку.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Sharecast.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2NLRXVyU0lmSFREMHgtVFYxN1FIR0dXWVR1U0l4Y0RaUVZjaXF1dHE2RHJxbXNRWk1oM1VjMks0ejlhVDNkeHFUcVlrUERTemhWN1BOUXhYRmFaZXpidlNlSFBiSEtoTUtiTWt2TXQ2dTZuMFEwVEdsZWxBUkh3dVFwWlg2MG9NQmlNRnluU25qVERXeVF6V2thSW1zMXF3d0xYeWhScTJFZmFvU3pTbEsxcks2a2p4TzNobi1JRUo5b2dN",
+      "published": "2026-10-27T14:26:25+00:00"
+    },
+    {
       "title": "Китай тисне на ціну російського газу",
       "original_title": "China driving down price of Russian gas - Eurasianet",
       "summary": "Eurasianet повідомляє, що Китай знижує ціну російського газу. Йдеться про вплив Китаю на ціноутворення в російському газовому експорті.",
@@ -1596,6 +1591,66 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
       "published": "2026-10-27T15:28:00+00:00"
+    },
+    {
+      "title": "Британія в Радбезі ООН закликала Іран допустити інспекторів МАГАТЕ",
+      "original_title": "Iran must allow the return of IAEA inspectors to all nuclear sites: UK statement at the UN Security Council",
+      "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош під час засідання Ради Безпеки ООН заявила, що Іран повинен дозволити повернення інспекторів Міжнародного агентства з атомної енергії на всі ядерні об'єкти. У британському заяві наголошується, що Рада керуючих МАГАТЕ у червні 2025 року визнала Іран таким, що не виконує зобов'язання за Угодою про всеосяжні гарантії, а минулого місяця передала справу на розгляд Ради Безпеки. За даними Британії, Тегеран накопичив понад 400 кг урану, збагаченого до 60%, і понад рік залишається беззвітним запас високозбагаченого урану без цивільного випра",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
+      "published": "2026-10-27T15:51:00+00:00"
+    },
+    {
+      "title": "МВФ і Bruegel закликали боргові країни діяти завчасно",
+      "original_title": "IMF, Bruegel urge countries in debt to act before the markets do - eKathimerini.com",
+      "summary": "МВФ та аналітичний центр Bruegel закликали країни з боргами діяти раніше, ніж це змусять зробити ринки. Про це повідомляє eKathimerini. Заклик стосується боргової політики урядів у межах глобальної макроекономічної дискусії.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "eKathimerini.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXBUOTl1eTRiQmxBWjFkanVua284Qk8tMEdZS0VBYmYta2w0WnVZWHRGYXhwLWtyM1hiVXFzbGZManc",
+      "published": "2026-10-27T16:28:34+00:00"
+    },
+    {
+      "title": "Український безпілотник StarGate вже виконує евакуацію поранених",
+      "original_title": "Ukraine’s StarGate Drone Now Evacuating Wounded Soldiers",
+      "summary": "У цьому випадку український безпілотник StarGate, розроблений компанією SkyFall, успішно доставив двох поранених солдатів на понад 20 км, обходячи російські електронні системи. Платформа використовувала штучний інтелект для навігації, що дозволило уникнути впливу знищення супутникових сигналів. Така можливість підвищує ефективність евакуації поранених у складних умовах, зменшуючи залежність від наземних транспортних засобів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
+      "published": "2026-10-27T16:32:30+00:00"
+    },
+    {
+      "title": "США вибрали Польщу для розміщення європейського центру обслуговування ракет PAC-3",
+      "original_title": "US taps Poland to host European PAC-3 missile maintenance facility",
+      "summary": "США обрали Польщу як місце розміщення нового європейського центру обслуговування ракет Patriot Advanced Capability‑3 (PAC‑3), що виробляються Lockheed Martin. Центр, який буде підтримувати інтерцептори, скоротить час обслуговування і посилить здатність НАТО протидіяти ракетним загрозам на східному фронті. Співпраця з Німеччиною, Нідерландами та Швецією забезпечить інтеграцію критичних ланок ланцюжка постачань.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
+      "published": "2026-10-27T16:42:28+00:00"
+    },
+    {
+      "title": "AFC назвала будівельників Лобіто-коридору",
+      "original_title": "Africa Finance Corporation names Lobito Corridor builders - Semafor",
+      "summary": "Africa Finance Corporation назвала компанії, які будуватимуть Лобіто-коридор, повідомляє Semafor. Рішення стосується реалізації проєкту Лобіто-коридору, який належить до транспортної інфраструктури Африки.",
+      "source": "Коридори · BRI, порти та Лобіто",
+      "publisher": "Semafor",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEIwUVVfTXlqMUpfXzg0d2JadTFxSlZVdmMwU3VUTWtEVHo4UDdld3VUNGNPTUZpZjRkeFlOSEpJTnppbTBqZWRfRTVJNEZFMzRwOTFybXhCc25QU2l6elZpeGdhaWhJOEVKQkV3VnFuWm1vSnFDdDltcUtxNTI5UUlVUTJsSWdaN2ZDT05rel9odE1QMkNoRmVNcThoM183T3c",
+      "published": "2026-10-27T16:45:00+00:00"
+    },
+    {
+      "title": "Auterion розробила перехоплювач Talon, що запускається з ручної гвинтової установки",
+      "original_title": "Auterion розробила перехоплювач Talon з «гвинтівковим» запуском",
+      "summary": "Auterion представила Talon – автономний перехоплювач, що запускається з ручної гвинтової установки і вражає цілі прямим зіткненням, не використовуючи підриву. Система оснащена FLIR Boson 640 LWIR, має дальність 5 км, висоту до 2000 м, швидкість перехоплення 60 м/с, ймовірність ураження понад 80 % і перезарядка менше 60 секунд. Це дозволяє мобільним підрозділам швидко протистояти одиночним дронам і рійним атакам, підвищуючи ефективність ППО на короткій дистанції, особливо в умовах обмеженого GPS‑сигналу.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
+      "published": "2026-10-27T16:47:30+00:00"
     }
   ]
 }

@@ -6,10 +6,12 @@
     "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
     "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
+    "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment",
     "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask",
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
+    "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
     "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
     "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
@@ -21,6 +23,7 @@
     "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
+    "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
     "https://gov.uk/government/news/statement-from-the-coalition-on-atrocity-prevention-and-justice-for-sudan-one-year-on-from-the-26-october-2025-atrocity-in-el-fasher",
     "https://gov.uk/government/news/uk-human-rights-ambassador-visits-tanzania-ahead-of-un-review",
     "https://gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
@@ -60,6 +63,7 @@
     "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
     "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
     "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
+    "https://militarnyi.com/uk/news/ukrayinskyj-suputnyk-obria-nano-na-orbiti",
     "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
@@ -1514,6 +1518,26 @@
       "published": "2026-10-27T13:48:20+00:00"
     },
     {
+      "title": "Як Пентагон хоче купувати кібер-результати, а не обладнання: модель Cyber Effects-as-a-Service",
+      "original_title": "How the Pentagon wants to buy cyber outcomes, not equipment",
+      "summary": "Пентагон просуває модель Cyber Effects-as-a-Service (CEaaS): контракти укладаються на конкретні результати кібероперацій, а не на окремі інструменти, і підрядники беруть значно більшу участь в самих операціях. За словами помічниці міністра оборони з кіберполітики Кейті Саттон, попит командувачів об'єднаних командувань значно перевищує наявні спроможності, а чернетки нової кіберстратегії, за даними Politico, передбачають ширшу роль підрядників. Якщо модель запрацює, вона може швидше наростити кіберспроможності та відкрити ринок для стартапів, які фінансуються через венчурний і приватний капітал",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment",
+      "published": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "title": "Індія скористалася зростаючим попитом Європи на боєприпаси",
+      "original_title": "India capitalizes on Europe’s growing demand for ammunition",
+      "summary": "Індійські оборонні експорти до Європи зросли на 1,600 % за останні чотири роки, переважно боєприпасами та артилерійськими снарядами, що відповідає ініціативі \"ReArm Europe\" та збільшенню військових витрат. Це відкриває перспективи глибшої індустріальної співпраці, включаючи спільні підприємства та зниження тарифів після майбутньої угоди про вільну торгівлю, що зміцнить оборонну базу Індії та забезпечить Європу альтернативними постачальниками.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
+      "published": "2026-10-27T14:04:24+00:00"
+    },
+    {
       "title": "Комітет турецького парламенту схвалив Мекку угоду з Саудівською Аравією та Пакистаном",
       "original_title": "Turkish parliament committee approves Mecca Agreement on joint defense with Pakistan, Saudi Arabia - Anadolu Ajansı",
       "summary": "Комітет турецького парламенту офіційно схвалив Мекку угоду про спільну оборону, укладену між Туреччиною, Саудівською Аравією та Пакистаном. Це рішення є частиною формального дипломатичного процесу ратифікації міжнародного договору, який передбачає координацію оборонних зусиль трьох держав. Подія засвідчує перехід від підписання документа до його внутрішньопарламентського затвердження в Туреччині, що є необхідним кроком для набрання чинності угодою.",
@@ -1552,6 +1576,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nak1sWDcyWEN2TFFzczROVjAzaTBBMTV4em1IUVVJdm1QQ05oUVQ1SEtLTTlJeXRlSzQ3RThkbnI1dW5rQnA2MGdzSnpGNi1UbC1TSTFLQndqenVfT2ZfRzlBX0tLSUlLOW1lTUlTMA",
       "published": "2026-10-27T14:34:01+00:00"
+    },
+    {
+      "title": "Український тестовий супутник зв'язку OBRIA NANO запущено на орбіту разом із GomSpace",
+      "original_title": "Український супутник звʼязку OBRIA NANO вже працює на орбіті",
+      "summary": "HIMERA та GomSpace вивели OBRIA NANO на орбіту 1 жовтня в межах місії SpaceX Transporter-18; це перший тестовий апарат майбутнього українського супутникового угруповання. Його завдання — перевірити технології на орбіті та набути практичного досвіду для інтеграції в національну інфраструктуру, а керувати апаратом буде український оператор. Технічних характеристик супутника в повідомленні не наведено. У перспективі власна мережа може диверсифікувати канали зв'язку та зменшити залежність від зовнішніх постачальників, проте один тестовий апарат оперативних спроможностей для армії ще не дає.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayinskyj-suputnyk-obria-nano-na-orbiti",
+      "published": "2026-10-27T14:35:20+00:00"
+    },
+    {
+      "title": "Генерал Кейн закликав лідерів оборонної логістики до креативності та підприємництва",
+      "original_title": "Gen. Caine urges defense logistics leaders to be ‘creative and entrepreneurial’ ahead of future fights",
+      "summary": "На щорічному Fall Meeting у Техасі генерал Дан Кейн наголосив, що для майбутніх конфліктів необхідно розширювати промислову потужність і стратегічну мобільність армії, впроваджуючи нові бізнес‑моделі, включаючи космічну логістику та штучний інтелект. Він закликав як військових, так і представників приватного сектора бути більш підприємницькими, що може підвищити швидкість постачання озброєнь і забезпечення сил у бойових умовах.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
+      "published": "2026-10-27T14:57:03+00:00"
     }
   ]
 }

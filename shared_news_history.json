@@ -8,6 +8,7 @@
     "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/baltic-sea-council-reaches-agreement-on-fishing-opportunities-for-2027",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy",
+    "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
     "https://defensenews.com/uncategorized/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute",
@@ -44,6 +45,7 @@
     "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
     "https://militarnyi.com/uk/news/kytaj-imovirno-pochav-vyroblyaty-kj-3000",
     "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
+    "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
     "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
     "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
     "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
@@ -129,6 +131,8 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXRrUjdxRXdyREx5Z2VITk05aUVkNFR4QVVubGR2eUN1N05LODFBRFJ5YlplaHdoNFd1QVN1VkZKa1B3THJmR083bF9KRXZkdmN0TDI0OVJHUWszaHdlYm1zNF8xRWMxZk9QSk1OSWowdm85SzdrSU5iRlB0Um90LXBPQkVEaWVhb1F5MURLWXdpU1dWOW5yUkMxcjZGeTV3RlgxcUthQ21RTzZXTTl6RmprdTdFSnNKUEZMZ3hVZ0VjVXo0RWdkUWtR",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ",
     "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara",
+    "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
+    "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
@@ -954,6 +958,16 @@
       "published": "2026-10-26T12:06:15+00:00"
     },
     {
+      "title": "Стартап Warhound із $200 млн інвестицій створюватиме генетично покращених службових собак для армії та поліції",
+      "original_title": "Defense startup wants to make genetically enhanced military dogs",
+      "summary": "Warhound, заснований Палмером Лаkі та Беном Ламмом, прагне вирішити дві проблеми програм службових собак: велику частку тварин, що не завершують навчання (для 100 придатних собак треба підготувати близько 200), та залежність США від закордонних постачальників, на яких, за даними компанії, припадає 80% собак. Colossal Biosciences має допомогти вивести здоровіших тварин із характеристиками, потрібними для складних завдань, а технології Anduril — підвищити обізнаність і захищеність собак та провідників у полі. Конкретних генетичних модифікацій і строків компанія не називає, тож реальний вплив зал",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
+      "published": "2026-10-26T12:32:48+00:00"
+    },
+    {
       "title": "США будуть будувати об’єкт для гіперзвукових зброї в NWS Yorktown для класів Zumwalt і Virginia",
       "original_title": "U.S. Navy to Build Hypersonic Weapon Facility at NWS Yorktown for Zumwalt and Virginia Classes",
       "summary": "У США планується будівництво спеціального складу для гіперзвукових ракет у NWS Yorktown, що забезпечить підтримку кораблів класів Zumwalt і Virginia, обладнаних системою CPS. Зберігання та обслуговування гіперзвукових боєприпасів дозволить швидко розгортати зброю на відстані понад 2000 км, підвищуючи стратегічну перевагу. Це крок у напрямку модернізації флоту та посилення здатності протидіяти новим загрозам у морських конфліктах.",
@@ -962,6 +976,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
       "published": "2026-10-26T12:47:52+00:00"
+    },
+    {
+      "title": "СВР РФ готувала провокаційний мітинг на підтримку Paks II у Будапешті, але акцію скасували",
+      "original_title": "Спецслужби РФ намагалися організувати мітинг на підтримку АЕС Paks II у Будапешті — InformNapalm",
+      "summary": "Витік даних CYBINT, за версією InformNapalm, вказує на підготовку «активного заходу» СВР: анонімні оголошення у Facebook, закрита Telegram-група з оплатою учасників і агітаційні PDF угорською з метаданими авторки. Це приклад гібридного впливу на політичне середовище країни НАТО та ЄС, що спирається на інформаційні й агентурні методи, а не на військову техніку. Дані ґрунтуються на матеріалах розслідувальної групи й офіційно не підтверджені, а мітинг так і не відбувся, тож реальний вплив на ситуацію в Угорщині залишився мінімальним.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
+      "published": "2026-10-26T13:00:21+00:00"
     },
     {
       "title": "Напівавтоматичний гранатомет і система допомоги в прицілюванні для збиття дронів: підсумки AUSA 2026",
@@ -1442,6 +1466,26 @@
       "channel": "miltech",
       "link": "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
       "published": "2026-10-26T22:20:20+00:00"
+    },
+    {
+      "title": "Остання зустріч у Ірані прагне запобігти перезапуску повномасштабного конфлікту в регіоні",
+      "original_title": "Last-Ditch Meeting In Iran Seeks To Stave-Off A Restart Of All-Out Fighting In The Region",
+      "summary": "У Тегерані відбулася зустріч представників Ірану, Саудівської Аравії, Пакистану та Туреччини, яка стала першою після створення Мекканського пакту у серпні. Учасники погодили продовжувати діалог і посилювати співпрацю, щоб уникнути нової ескалації, зокрема у контексті атак хутей на нафтову інфраструктуру Саудівської Аравії. Якщо переговори будуть успішними, це зменшить ризик розширення конфлікту і стабілізує світові енергетичні ринки.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
+      "published": "2026-10-26T23:23:37+00:00"
+    },
+    {
+      "title": "USAF підписав контракт на серійне виробництво гіперзвукової ракети ARRW",
+      "original_title": "USAF Orders ARRW Hypersonic Missile Into Production, The Same Weapon It Nearly Cancelled",
+      "summary": "US Air Force передала Lockheed Martin контракт на $694 млн для серійного виготовлення гіперзвукових ракет AGM‑183A ARRW, що переходять від прототипного етапу до виробництва. Ракета типу boost‑glide розганяється ракетним прискорювачем, а потім скользить у атмосфері зі швидкістю понад Мах 5, що ускладнює її виявлення та перехоплення. Інтеграція на B‑52 і B‑1 забезпечить США можливість швидких стійких ударів по високовартісних цілях, включаючи рухомі об'єкти, після розробки нових варіантів з активним сейсером.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
+      "published": "2026-10-27T00:04:14+00:00"
     }
   ]
 }

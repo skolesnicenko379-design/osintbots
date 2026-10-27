@@ -42,6 +42,7 @@
     "https://middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
     "https://middleeasteye.net/news/uk-leaning-towards-backing-uaes-lana-nusseibeh-un-secretary-general",
     "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
+    "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
     "https://militarnyi.com/uk/news/alzhyr-zatverdyv-vijskovu-misiyu-u-nigeri",
     "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
     "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
@@ -92,7 +93,6 @@
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUN3RzRPTXF3R0t4R0FjUVRDTDVFTVFBRV9qNnBwWXpmbmJKNnpWUTRYNVUzUXgwZGpKNTJfWkVJTnlJOXI4SWNyanFVMGdmVVFlSXBXU0ZHcDItS3VnLUpNWjZvWWJ0WVR5dXl4MFFOclU2OXRsRmRjbmdvaThRdUp5TGtzdElYS0wwZFU4LXFpdmMtV01panppNk04UnYwZ2VqcWg3MzdBbGdIcVBUYUl4OUQ2ODY1dEFyaXRoLUh5QnhSUDBONGhpRjhVd1N0UElWa3E5WnNnWVVpd3c",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0szMkZKaURHY2hnWl83dVZ0Rl95ZnpLSU40UnRRTjdGT3ZpUEkwY2VBTlNSRVc2cGV1UUx1d1FZeTZYNklxMFdaYnFEV3RhT214OEd4ZlZOSWxMNFpLS1FiaUtBM3NkNF9GaThacDdNUjBHTGpmYnlsTkZOa2VSU0hNNjZSeFdiZFY5dlYzTlYtUm1HZGwzZ19oYl9XSEw4b1lDWG5iMEE4azkzYlFERkNhQ0h4emJka0RDTlQ0TnM1X0NsRHJHV25UVnZmT3ZoLXlkNllRd29hZkpxSUdDUkRzT3E",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXVSc2hqUUhOVm5oNUFLMHVQOUtBbDctbEMxX0NRbnNaMC1YYmhPa1dtc3o4cTZrUHBxdks1cHBvaEwtdkJBUFE4Q2FvMmw5ampRSS1URi1kTlZzb2E2N3BIRTIwcndIdE12ZmtWV2xYMEV6RUcyU0o0bWVnNi1yUHR1RW0wcTJrNzYtU05acjdxMGNsWjRjeE5kTVdEOHRrVDhTdnJseVVRS1ZhMkN6QWktdUxWeTJEZkt6b21FeTJUSlc3djJJcldMcXJCdHNwcTNQaGNGUWxPZmpMVVNhM1JwT1pDZGd2dGpKUExWYw",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZV0JGencybk0xZmJQbVBNbEhQQ1RmbDIzOWxZbF9TSllnS1VhenhFSlBvUV84VmE4VHlGamxCWUxVSzg0eFJ3cHpMbmotdjlrR1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acUkyeGwyNFp1RVp2RW9HWldJak1adXNoeHVlb1o5QnphUmhrWV9HbTNfbDFSVEk5SUsxZEIzaDV5bVB2bG9jaFk0NmJUZTlwLXc",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "Принц Халід бін Салман очолив саудівську делегацію на переговорах з Іраном",
-      "original_title": "Prince Khalid bin Salman leads Saudi delegation in Makkah Joint Defense Agreement talks with Iran - Saudi Gazette",
-      "summary": "Принц Халід бін Салман очолив саудівську делегацію в Мецці на переговорах з Іраном щодо спільної угоди про оборону, повідомляє Saudi Gazette. Подія є офіційною дипломатичною зустріччю між представниками двох держав.",
-      "source": "Treaties & Agreements",
-      "publisher": "Saudi Gazette",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzdKZ0txLTZBaW5nckdsMDVpcVdWdXlKa2dHSkQ5VlhBcHV4aHprU3BVdFpzNUF2R3pjbVJBSWZPMGwyVzROYndBSXJzNjQyajlhd0VIOWgtendmN2NIYUEycEtPb0V2eUViTURQWEVsdEF0d01BajlfOGNXdDEtUzVXcEFCMjBHNUZOUzVhZVFqLUZEcE1id0loYS1TNTh4anBDWmFHQUxzdVhIR2FncVVjejZhSXlPWXJYb2RKLWF6eUlpb2VKUzZwbm9XaVU3Wi12em9WUlBCZDBwSTRTdVFKSzVHWUtxbmVz",
-      "published": "2026-10-26T07:59:00+00:00"
-    },
     {
       "title": "Удар по «Тольяттикаучуку» пошкодив два об'єкти виробництва ізобутилену для синтетичних каучуків",
       "original_title": "Удар по «Тольяттикаучуку» пошкодив виробництво сировини для ракетного палива",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
       "published": "2026-10-27T18:50:27+00:00"
+    },
+    {
+      "title": "У Каїрі 14 жовтня ФАТХ вимагав від ХАМАС прийняти умови",
+      "original_title": "Why Hamas must not repeat Fatah's historic mistakes",
+      "summary": "14 жовтня 2023 року у Каїрі відбулася переговорна сесія, у якій делегацію ФАТХ очолював Джибріл Раджуб, до складу якої входив колишній прем’єр‑міністр Мохаммед Штайє. ФАТХ вимагав, щоб ХАМАС офіційно прийняв сім політичних умов, включаючи визнання Ізраїлю, підтримку двохдержавного рішення та підпорядкування ПЛО. ХАМАС заявив про готовність вивчити документ, висловивши сумніви щодо пункту про двохдержавне рішення; подальша сесія була перенесена після виборів в Ізраїлі.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
+      "published": "2026-10-27T19:38:16+00:00"
     }
   ]
 }

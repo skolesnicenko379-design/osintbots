@@ -39,8 +39,10 @@
     "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
     "https://militarnyi.com/uk/news/kndr-dijshla-seula-v-symulyatsiyi-navchan",
     "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
+    "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
     "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
     "https://militarnyi.com/uk/news/rezydentsiyu-putina-otochyly-ponad-50-ppo",
+    "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
     "https://militarnyi.com/uk/news/serbiya-strilby-z-203-mm-minometa-tsmb-m-25",
     "https://militarnyi.com/uk/news/ssha-gotuyut-bazy-do-trymisyachnyh-bojovyh-dij",
     "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
@@ -1366,6 +1368,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
       "published": "2026-10-27T07:02:44+00:00"
+    },
+    {
+      "title": "Балістичний удар пошкодив Південний міст у Києві, рух обмежено в обох напрямках",
+      "original_title": "У Києві після удару балістики пошкоджений Південний міст",
+      "summary": "У ніч на 27 жовтня російські балістичні ракети атакували Південний міст через Дніпро, повідомив мер Києва Віталій Кличко. Міст пошкоджено, також постраждала інфраструктура метрополітену. Поліція й міська влада тимчасово обмежили автомобільний рух в обох напрямках, фахівці оцінюють наслідки. Тип ракет і ступінь пошкоджень конструкцій не уточнюються. Це повторна атака на міст: 1 жовтня два дрони влучили поблизу опорної частини. Якщо міст виведено з ладу надовго, це ускладнить логістику та рух містом, а також може свідчити про прицільні удари по критичних переправах.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
+      "published": "2026-10-27T07:38:08+00:00"
+    },
+    {
+      "title": "На Донеччині ліквідували індонезійця, завербованого Росією, у першому бою",
+      "original_title": "На Донеччині ліквідували завербованого Росією індонезійця в його першому бою",
+      "summary": "Індонезійський громадянин, який був завербований Росією та підписав контракт у Корольові, був ліквідуваний під час свого першого бою на Донеччині. Це ще один приклад використання Росією іноземців як резервуару, що підкреслює ризики та слабкість такої тактики, оскільки 46 тисяч іноземців вже підписали контракти з РФ. Подія підкреслює, що українські сили продовжують ефективно протидіяти новим підрозділам, знищуючи новобранців у перших діях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
+      "published": "2026-10-27T07:54:11+00:00"
     },
     {
       "title": "Blackbeard: інтеграція гіперзвукової ракети на F‑16",

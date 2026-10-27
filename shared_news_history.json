@@ -38,7 +38,6 @@
     "https://militarnyi.com/uk/news/helsing-predstavyla-perehopl-ad-2-ambush",
     "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
     "https://militarnyi.com/uk/news/kndr-dijshla-seula-v-symulyatsiyi-navchan",
-    "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
     "https://militarnyi.com/uk/news/m-yanma-kupuvala-aviapalne-u-iranu",
     "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
     "https://militarnyi.com/uk/news/niderlandy-zaminyat-kodiak-kypluat-leguan",
@@ -49,10 +48,12 @@
     "https://militarnyi.com/uk/news/tolyattykauchuku-poshkodzhennya-vyrobnytstva",
     "https://militarnyi.com/uk/news/tsyfrovyj-zv-yazok-ta-vybir-chastot-video-taf-industries-predstavyla-onovlenyj-nosij-retranslyatora-kolibri-13-fr1",
     "https://militarnyi.com/uk/news/u-rosiyi-predstavyly-gusenychnyj-nrk-tytan",
+    "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
     "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
     "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
     "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
     "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
+    "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
     "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/voronezh-jmovirno-urazyly-aviazavod-mist",
     "https://militarnyi.com/uk/news/zerno-cherez-bazu-ochamchyra-v-abhaziyi",
@@ -70,6 +71,7 @@
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOU9mS2pmYWE4TkZ6MW01SVFvLV9pZW53NERNN1VRRkxSVGJKSUpBQ1dCZjBzYzhEa3haU25jSnZ5SndidV8wY2dxemtUNHFveGdzdnQ5RlgwTm93bVBsclVNNl9jZm16bnRNb3VVYnM4Q2ZwaGRnUXA1cENSXzJoakVhd1JKbFA1ZnZEUTMxRVBtLUJ2WEJDdDQxZVR5akdfcmp2OWtYWkNYMVc1TzhIbmd1WGdmRlJQMnNZUmNVSUVmOGpBM2hkRjdkRk4wY095S3pTZm1xRks",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmYwUHllRFExX3hDVWtkd1IwVGRmY1VMMVY3RVA0V2tIS1VtZzFqakRhMHgycG1XcVk2cDFPczM5QUZlc0p5dE1nUjRpU0J0d2NfYmpwRHo2Um52Q3pNOVVtUWZ6cnFuODhVNUZzbk85c1RUbDFBZEtoNUtqVF9URFVtSUZKUFlYSnU2c2NrVllVYmRvbkFEWVRiZjNIbzdfaGN0aG5lSHpWcXEwbk4xdlM4TjlZOGNpb0dPQTN3MFhJbXAyZGNRT3JteXdCSVpUOFlPMUotNlRFc0k",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWUVUQXE3N2tMVHYyaDhnYVhtdG9wVmtZM1BITzFWbEJ3bU1oTmVUMWdyU29nRGJrWXJfdVFzNXFPMW1ROGhpYlJuMlBzR2xHVmNYZGd3LW1EWm1HckFiOFE3UXZzcWxZczhlLWdGc21xUW9zQ1psY1FMVkYtTnRlS19aWmFXVkVpdkpBVWlMRUhXc20xS0ZnbWs0cHppaEJZWE5KbzRMbWRmUUNLVlpidjNPQXlsVmIwTzloNHVrdVBCcXVBTDhTU1doalQ5TnI3R1lVLUhSNkc5Zm5k",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTFqLXpxTVotbzlObTdJR1FOdlRrUGdnQWptRFpTY2dMVFBqOW5zRmFkdG9aZ1dsTVlFUkM0ZExlNUhZLTh4YWxnbEFCb2hDNnBUVjVXZmMyOGxQeEc4dGkxUjJGWGRNeVVQUXpmU21sRVZqdWRqRnMyeURKa1NqX1FZNl9JRUx3VkphcXNWT1NlMjlXV1UxS3lUSUV6UUZHa2tvZkhJSUNXYnpXUm90bG1NTVFmV0J1Y0FIeWxBcWxmcmJKRmo5VjdNdzFsNGFHVWVRdXk4RUJDWWlX",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUN3RzRPTXF3R0t4R0FjUVRDTDVFTVFBRV9qNnBwWXpmbmJKNnpWUTRYNVUzUXgwZGpKNTJfWkVJTnlJOXI4SWNyanFVMGdmVVFlSXBXU0ZHcDItS3VnLUpNWjZvWWJ0WVR5dXl4MFFOclU2OXRsRmRjbmdvaThRdUp5TGtzdElYS0wwZFU4LXFpdmMtV01panppNk04UnYwZ2VqcWg3MzdBbGdIcVBUYUl4OUQ2ODY1dEFyaXRoLUh5QnhSUDBONGhpRjhVd1N0UElWa3E5WnNnWVVpd3c",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0szMkZKaURHY2hnWl83dVZ0Rl95ZnpLSU40UnRRTjdGT3ZpUEkwY2VBTlNSRVc2cGV1UUx1d1FZeTZYNklxMFdaYnFEV3RhT214OEd4ZlZOSWxMNFpLS1FiaUtBM3NkNF9GaThacDdNUjBHTGpmYnlsTkZOa2VSU0hNNjZSeFdiZFY5dlYzTlYtUm1HZGwzZ19oYl9XSEw4b1lDWG5iMEE4azkzYlFERkNhQ0h4emJka0RDTlQ0TnM1X0NsRHJHV25UVnZmT3ZoLXlkNllRd29hZkpxSUdDUkRzT3E",
@@ -99,7 +101,6 @@
     "https://news.google.com/rss/articles/CBMiowJBVV95cUxNN1ZmTU5XbWFVbkRuQ3lfVUpIdUdzVXFJbHJKQkF1U3NvVXViRE1nQzc5YjgtNjdqTXZoZUQ3aGhGdF9wSjZCdkNOWk5CLVYtb3BFZzh6bEYxTFJmZVF3ZWhDYzg1aW5JVk9NT0RzSFlFN2dlTXFlYWZRVUxKd0JxUHlMVXFEaDVSQ241eXhKUm1lNW9OT1NZY3Ytd0dsTnVwcXZaVmhTQ2NhOEdSY0dxRWV6dUNxaHN0cXNCenE1RkRxYmdqYWE3eHJzeklYRG5XcmpoQkh1aV9Hczh5TWp2aC1CNjhac0JEc1VlM2U2YW5oNU1yZG5LNm9CaG1nTy1EaHkwV2c0UXNuQWtfQzhDV3NYbE9xNFBncmRaNTVleVNoRXc",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1Zwdkp6Unlhd21PMHdnQkxrSzViVUIzdmlfOTdMX0hzNjFuQ0NwQWxLVU92QkZacWxyMWxjRTJiV2prNlBvS2lVNWdieG8zbjgxUzJDSDA5ZHBjMnFqYlFVcDRERTdESWk5aG5qWmVRbTdJaktOUlhYZnhmNFlLVmctelZKUXR6SmdBQmJHSW5rZ0tKZXFyNFd4VmJlU1dMeW1QMA",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkxteFkzcWFkS1paZ0VTUDhkV0tUczcyRmpJVEtfNmZtUEF0c0F4cHFIbjRLZW91MlR1M2ZHYnVzWC1rbERBUTBhM2ZuNjZQN3FQci02SFp5c3N1d2xpYUV2T1JxU1FQcnBCeF8tUmhIcWtKSFR0RlJRanhvTVVaVXM1MG13ZXEwdFpCdmFjaUowSTg0ZjRYYnlzMFhLQXhXakhHQdIBqgFBVV95cUxOb1I0WmRhbXlPMXZTcVhlSWdYVmdVMF92OENUcEFwSzVvNUs2MDZUR1gxMG5uUjlRUGpaRG0xZWFQSmhqdU53WFlmVmY5X3FqRnJvbXFodTJSZnRwaGwxbllxRFZzRHZXSUM0eDFmVGdfV3dxRVJtakJfNjc1OTU2Z2RuYUQ2MTBYem5iYTJ6R0o2V1NmXzZ6ZV9EeUpUZEY4VkxWM2F6RENjdw",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOU8wQktwT3F1Ym1OUjFiSjdxLTFxOXRBTW1jbXBKcXR0LV9UUUNzWHlCd1R0MHVaUDVaaTlVMzhXNXltNXU2TXZOM1p5U3FxOEt3VEo1YndweHk3Y09aZ2NLQ2JjcHlEcGcwM3NneUZMUGZublBhOHgxUm9RN0YzWVZLUmduNkFyRC1aQ0xSU3lYS2FVbS0zd2gwb25mcXhEY2hCMHdydw",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJTSUowWlRNd2NzR1RjTl9hTUVEMEFLbDV3ZDNYV1htNm5oaXoya2xwb2xpTjZYRVY5LWU4aG0xTEh1UDNMbEJyejFoQi1mdElzR1hxc096WHNjckpGYVBsdmQ2NmhraUFQdVVvemlSV0gtcnlZY3V6NWdfbGV0bU1UNEZQMTdlVGp3SG0yeEdVUmRKTEkxV0loY3ZzUEhELVdpbklxUQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1lGbHV0bE05eTVGdXE1cXd6RlZ2MFltZ1hKOHFhandrNVJEektLb3o1VGt2LW56Mk4tYlZJU1dHQmRBYTRld1FLTFpKQ0lwa3FhckdEY0ZUSWIwVHFJU1BySTRodS1qeXBjbHBzNVVuckNnWmFEdkhtdTlLdjNCUXRJNENBelVGUVFGRXJ1eDJ2bDdtYUI0UndYV2xVV2NIeGNyZjlCX1NXZw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg5ZmJreWZuZENCUFZ4WGR3ZVNDQXlCMjNlNmh3NnJMN25tSVRoSmRkUFJUa2poOEVxd3BIVVRieUhLOGlVSlI4QWV2VGluRFNCdVAtVmxzVWE1LS1yM2hTQ2VSTUhDR0dfck5FS3hkaGtzWFA2V2ZkY3otQ0t1eF93amhoa3o4eG9sODJ0SDRIMzNfOHpwZW1majFVS3FsTVRjMGg1bDN0QQ",
@@ -130,26 +131,6 @@
     "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
   ],
   "recent_posts": [
-    {
-      "title": "КНДР розмістила біля кордону з Південною Кореєю САУ, імовірно 122-мм, зі стволами в бік Півдня",
-      "original_title": "КНДР розмістила 122-мм САУ біля кордону з Південною Кореєю, стволи спрямовані на Південь",
-      "summary": "Yonhap зафіксував з оглядового майданчика Егибон у Кімпхо САУ, імовірно калібру 122 мм, у прибережній частині повіту Кепхун; точний тип машин не підтверджено, а японський аккаунт KPA_bot за виглядом ствола припускає 100-мм протитанкову гармату. За оцінкою Yonhap, дальність таких систем становить приблизно 15–24 км, тому відкрите розміщення поблизу кордону загрожує прикордонним районам Півдня. За словами експерта KODEF Шін Чон У, це може бути демонстрацією сили та пов'язане із заявами Кім Йо Чжон про нові підрозділи на вогневих позиціях; реальні бойові наміри з цих даних не випливають.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/kndr-rozgornula-artyleriyu-pivdenna-koreya",
-      "published": "2026-10-25T13:09:34+00:00"
-    },
-    {
-      "title": "Defense Express розглядає вартість ЗРК «Шершень» і перспективи нових ракет до нього",
-      "original_title": "Скільки коштуватиме ЗРК \"Шершень\" і що з новими ракетами до нього - Defense Express",
-      "summary": "У наданому матеріалі є лише заголовок: ані ціни комплексу, ані характеристик ракет, ані строків постачання не наведено. Тема нова для стрічки, бо раніше про «Шершень» не писали, тому це не дублікат. Питання вартості та боєприпасів для ЗРК напряму впливає на масштаби його закупівлі й здатність посилити ППО, але без цифр з першоджерела оцінити це неможливо.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOU8wQktwT3F1Ym1OUjFiSjdxLTFxOXRBTW1jbXBKcXR0LV9UUUNzWHlCd1R0MHVaUDVaaTlVMzhXNXltNXU2TXZOM1p5U3FxOEt3VEo1YndweHk3Y09aZ2NLQ2JjcHlEcGcwM3NneUZMUGZublBhOHgxUm9RN0YzWVZLUmduNkFyRC1aQ0xSU3lYS2FVbS0zd2gwb25mcXhEY2hCMHdydw",
-      "published": "2026-10-25T13:11:00+00:00"
-    },
     {
       "title": "Азербайджан і Казахстан прагнуть збільшити торгівлю до $1 млрд",
       "original_title": "Azerbaijan and Kazakhstan work toward $1 billion trade target - Operativ Məlumat Mərkəzi",
@@ -499,6 +480,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3VDS3NRZTZiZWRVX01ybVd2dkVDYnRVM3NNdHJQcG1wRl9UR3hvWV9hdVU0czlCQUNYV0VPR2FyQkNBVUR1NS1LdkhZaDFKX29DT1dUMnNnMWxCdFZZMnpFNXQ2cXdZMDRQVkQ3NmNLUTRHcnBVaXZmb3ZuMmRueUVSQXJDc3JlTFlaZm5NZEwyUC1od3NoY01XcDRjbEE",
       "published": "2026-10-26T07:42:32+00:00"
+    },
+    {
+      "title": "У ЗСУ з'явився 240‑мм міномет M‑240, а також 203‑мм TSMB M‑25",
+      "original_title": "Сербам схоже \"зайшов\" 240-мм міномет M-240 в ЗСУ, інакше як пояснити появу 203-мм TSMB M-25 - Defense Express",
+      "summary": "За даними Defense Express, у ЗСУ з'явився 240‑мм міномет M‑240, який має дальність до 16 км і вистрілює 60‑кг снаряди, що значно підвищує вогневу потужність артилерії. Окрім того, підтверджено наявність 203‑мм самохідного міномету TSMB M‑25, озброєння з автоплатформою, швидкістю вогню до 6 пострілів за хвилину та дальністю до 12 км, що розширює можливості підрозділів у швидкій реакції.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWUVUQXE3N2tMVHYyaDhnYVhtdG9wVmtZM1BITzFWbEJ3bU1oTmVUMWdyU29nRGJrWXJfdVFzNXFPMW1ROGhpYlJuMlBzR2xHVmNYZGd3LW1EWm1HckFiOFE3UXZzcWxZczhlLWdGc21xUW9zQ1psY1FMVkYtTnRlS19aWmFXVkVpdkpBVWlMRUhXc20xS0ZnbWs0cHppaEJZWE5KbzRMbWRmUUNLVlpidjNPQXlsVmIwTzloNHVrdVBCcXVBTDhTU1doalQ5TnI3R1lVLUhSNkc5Zm5k",
+      "published": "2026-10-26T07:48:00+00:00"
     },
     {
       "title": "Золото повернулося вище $4000 напередодні тижня ФРС",
@@ -1391,6 +1382,16 @@
       "published": "2026-10-27T05:30:00+00:00"
     },
     {
+      "title": "У Олешках запровадили режим припинення вогню для гуманітарної операції",
+      "original_title": "В Олешках на Херсонщині запровадили режим припинення вогню для гуманітарної операції",
+      "summary": "У тимчасово окупованому місті Олешки запровадили режим припинення вогню для гуманітарної операції, що дозволить доставляти продовольство та забезпечити безпечне пересування місцевих жителів. Операція координується українськими та російськими представниками з посередництвом Меланії Трамп, що підкреслює її політичну складність. Хоча припинення вогню сприяє гуманітарним діям, воно також створює ризик розповсюдження тактичної інформації, що може вплинути на безпеку місцевих колон.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
+      "published": "2026-10-27T05:45:08+00:00"
+    },
+    {
       "title": "Міністр енергетики РФ: Ормузька протока загрожує 20% світового LNG",
       "original_title": "Russian Energy Minister Warns Strait of Hormuz Tensions Threaten 20% of Global LNG Supply - https://streamlinefeed.co.ke/",
       "summary": "Міністр енергетики Росії попередив, що напруженість навколо Ормузької протоки загрожує приблизно 20% світових поставок скрапленого природного газу. Стаття містить лише це твердження, без додаткових цифр, термінів чи конкретних заходів. Якщо ризик матеріалізується, світовий ринок LNG зіткнеться з дефіцитом пропозиції та вищою волатильністю цін для імпортерів. Оцінювати наслідки для російського експорту та бюджету зарано, бо в матеріалі немає відповідних даних.",
@@ -1409,6 +1410,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
       "published": "2026-10-27T06:23:37+00:00"
+    },
+    {
+      "title": "Румунська розвідка виявила російсько‑білоруську диверсійну мережу, пов’язану з пожежою в Брашові",
+      "original_title": "Румунська розвідка викрила диверсійну мережу, яку координували з Росії",
+      "summary": "SRI розкрила мережу, що організовувала підриви на території Румунії, включаючи підпал промислового майданчика CARFIL SA у місті Брашов 14 вересня 2026 р. У справі фігурують два білоруси та український громадянин, які координували дії з Росії. Затримання підозрюваних та арештні ордери свідчать про серйозну загрозу оборонним підприємствам та інфраструктурі регіону.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
+      "published": "2026-10-27T07:02:44+00:00"
     }
   ]
 }

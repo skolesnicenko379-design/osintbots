@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnVSekI5SVY3Znd0OEVIbnlNcGxRQThocElob2JnZ0U4ZlVhRHZVUnFZc1c2eTdOLUdKendaZHFhMTlEWGFYcnJqNWxLMncxVmMzekR1X1ZwSDFTeVpQNUQ3V2RBZTNtWDk0a2VkQUZTaWpCN056TUtjQm5iSmFQS291cTkyQkkyU3p5ZUVfRElodHVJcVNrYnRnT3BQWTNCdkJFM1lkeG1jTUFSR3BFaXZDaGRaODN0T2ZZVkxyTEp5azFOcmI1bmgycnRvZHNFa2p0Uw?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUFNREluMURzRkpjcDBkVVgyWFFvcFo3YmZjbTIyU0tnenp0Y24xc1VLZHJ3TjA4S2dJeElfWGMtaDZJQy12N244VVVMZjA1SXBEU0FTSl9vWHdmQlY1ajRNcXhaY1J5NTJjdXlNZllERHRXSHpfSWRKamlVX21PNllYMERNbFdnUlpCRU93al80V2V4NmRTeThfekx0ZUE4bVhraHdKdGphLXZ2bEVnb0xKcEc?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-no-fundamental-differences-regional-countries-pezeshkian-says",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/pakistans-military-chief-asim-munir-visit-tehran-tuesday-tasnim-reports",
-    "http://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today/",
     "http://www.africanews.com/2026/10/19/cas-verdict-on-senegal-afcon-title-appeal-expected-end-november/",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkxDOXBxWVRjYnY3NUFfemFEOENnRjNkbjRxOW9wa3VLUXdaTWQ0VzBvNTE1VHFOSTNwQWNqRTRXajFSUWE0Ymg5WllrZW5sRndOVlB1WVQ1SG1UMVBFOHFyQzBsQjkyOGhlQzk2S1QzVDVQRFRkMU9uTy1zQUU0SWFjYlpsLXNMdENaYjE1RFBxdVdlM1ZQVzJNSlE5MGRXWUg5OG43VEdoSklVS1F6eGZlcmxGdHNvbll4NU1LNA?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE05U3BleDd4VXNDRU5HX0lDeVgwMG1nbm9ZZGtvQnZTWV8tZkdhRl8ycmtodTRJNnZCcHAyaGpPWl9nQnpMVGxfeW9FS0d2UE14YndPU2dyN25ZT3luUFBBdy1kSE81d2VCUWd3U0o0bkZId1MwZ3dxcmk0TQ?oc=5",
@@ -1199,7 +1194,12 @@
     "http://www.africanews.com/2026/10/27/myanmar-spectacular-lantern-festival-lights-up-ancient-temples-in-bagan/",
     "https://www.gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2pFc1A3alMtQy1VS2ZiOFQya1UyWkIzVkN6VjVabTBwWnlZQWI1OFlWLVNRMXNNUnRhU3FwUG4zSzN1M1poUDRFUm1xRXMzVHlTOUdyY3FVT1JsaW43cl8tWUdPLUhRNzVIQWNHcy1fZHhuVF9rNWJVcmJQYWh3cVFVd3JjSC0tQngyVjdRRjJ3WjZCaUN5N0VOWWdCMEJBcGdXZXpIVC12UEg2QWVTS2VybzgwQmpGd1dQZVhUQy1ocVk3aUdiY0VUaHNaMmdFWS1V?oc=5",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZG9YUGFCa1J2VDZ3Z3JlWE1fck5SR1dUU2l3YlJMeFZGbVJEQWx0STJ0T0JhSV9sOEd0RVJxWGVBT0MyVzlOY0FnLUxqd0JzMzMtSzlDdUs5d1VWLWx6SXJmWFE0RkVCSW1GSUlpbklaTUQzMGVPNWs3NlBWM3cwUnZwU05EYnZHbWZIRDdDMWM4aV84dEZxRDdPTkQ3NkFLb3Nod3J4bGxZZXpLRFN3aGVCV1Y4ejBRXzBmRHJVQ3RvTDdicUF1M0NLdGdCeXZZR2JhX0tfZVhDMk9Kc2xISy1lRTlON2U3VUpsYw?oc=5"
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZG9YUGFCa1J2VDZ3Z3JlWE1fck5SR1dUU2l3YlJMeFZGbVJEQWx0STJ0T0JhSV9sOEd0RVJxWGVBT0MyVzlOY0FnLUxqd0JzMzMtSzlDdUs5d1VWLWx6SXJmWFE0RkVCSW1GSUlpbklaTUQzMGVPNWs3NlBWM3cwUnZwU05EYnZHbWZIRDdDMWM4aV84dEZxRDdPTkQ3NkFLb3Nod3J4bGxZZXpLRFN3aGVCV1Y4ejBRXzBmRHJVQ3RvTDdicUF1M0NLdGdCeXZZR2JhX0tfZVhDMk9Kc2xISy1lRTlON2U3VUpsYw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/raam-says-israeli-police-seized-ballot-boxes-negev",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xReG5IbDd2VEVRZXJ1VUtaNGtlSFhpa3paSkFQVWhLWVk3NzNkendFMXNTZ3p5b3R6aTJTUzluYk1PUGlySXNEaDZPdXN2ZEx2WTF0SlRZZ1lmRmtRZnpFSVU4WGp0ZkdfY18tQlYwck9GbVBRUXR0Q2x2bVlkWDdMbVNFSVVZNnh2bXpjMm9hRjd3eThsYXRqQ0JhT05hc2hIWG93U005R2pFOXlORmZmNV9uYW02cGM4?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/raams-abbas-calls-sustained-voting-bring-down-netanyahu",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmlNT2pyMm13QzlVT0ZGdXZoZnQ0S1JSdVJqdE05QTJTaHNMcjRDZ004OU1CUnk5MW9EM0Q2LTFDblVhM1o0R2NGSzdndHI4SEZYUnJNNzFXaHJ1MTdYaVJXWF9CWnFFX3ZHNEJZeUpYTHBaT2NBWkRtdWs3Z1ZxVGRVNXYtRDUtRW02bzc4UmVmZnhxVFNiLVJJR0VMVVVYVk9tTXk2cXpCNUNKWUM1M3lScTRSZzhPVDkyX2NNdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0Jfd2JWS0RfZWtNejBIRU9hdFBhY2dNMlNYNUtDam9jMkVMTjFTM1BiaDlaVXNhSktVelBMV3d2U29hUkhJaHExejVjUGNTNm9vTC05QkgwN1AwTFByWlBTRnQ1dWF1aVc0OUdTVkZ1MHNwbE1fVnBHWWlCMWY0eEM2QWVpU0M0NHJBRTJUVU0wSEhONGI1UGtHclJ6NWdESWQ0ZkZ3MDBpQUlFclJxdEVqd2F2YUZYOFE?oc=5"
   ],
   "recent_posts": [
     {

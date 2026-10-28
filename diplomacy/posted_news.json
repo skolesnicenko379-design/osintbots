@@ -1,16 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN1M5WDhVRTl1RnowMlptY1kxdW53NEVBdzlQcDZtWnAtRzItMGM5OU9COU1wRGRZZ1BRU3M1US14U3lONWFxbjUwVUEzRWdXVExCZU9oOEpwSC1DaF9NaGJkczYxamhMeTlOUjh6RWpNc1Z5MlZzbEZYN1pmUGdoTkhXUmJYUnZWOTlOeW1rMFJIYlEzMml6dGlVNEFzcjFIdGdBRXIwUnVzU1FoQ2hHdjhpRDllWWF5aExPVHN2ZUoydy1RQ1pCbWVMa1JGYnRrVmE4dldwU0IyMXVp?oc=5",
-    "http://www.africanews.com/2026/10/20/in-ghana-diaspora-visitors-pay-pilgrimage-to-lost-ancestors/",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jUWp0SHkwdDM4a042Q2U1N2dweEtlZFJYU3YxbldEME9uNmxySmxLN1UtWGdoTXJpSzR1RURxSnZ3bzNMdjlEeGNySDdhclFSYldJZV9OZVVBdw?oc=5",
-    "https://www.middleeasteye.net/opinion/azerbaijan-revives-soviet-era-repression-school-headscarf-ban",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjZEUXJkaHcxMENZY0piT2JnamhrR0RGNHRBQTg1SDFQQkNwVHJIWEJIN3RVRHZISzV6OWV0UjJnU0g3cWJKTWNVbzc2WkMyUkpLSDNkVXhNWDRIR0VxM1AxWHNoeTRLOG5OeVc0WkQtWEFUMWFzU01RZzVQN1NfbDUyNndfVjg0UFFHRU9yVTFsT0hINjZvTTA4eTNTY2dYSENUTkZVa9IBrAFBVV95cUxNazYxUE1NMk5GMmprRGI5UE1hRlFJcXpPM05NZEtEZF9UbTAzQkVGNi1YNEFhWG8zazh2RnRQX3FDZnY1UkFCLW8zTFZnQzNOVkI2MEs3dzJHNUdFVU1kd1h1LUhST0c4VmNIcm05ZTdlR2F2czdjbVdDU3VIMl9vQXh0bkJCT211aHRXaVdQRmdQYk8zdnRtS0xoUWhsUUZVYVh6eFhoS3NSN1hz?oc=5",
-    "http://www.africanews.com/2026/10/20/african-americans-return-to-ghana-to-honour-ancestors-lost-to-slavery/",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQ2dLX1d0WXRLWnhIWjlERV9DTGpQTUgzeUJzQ3lzbWp2SFpTRmgyZG1Jem1FS2UzeHZLMUVDdHVXNG5wVG96QjVhcDUybkE1alJNVkJxVGpsQjVQMGJ4T0VOZlBObmZqWlNIRU5R?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUZ1S0JqWktwRU5fNXg1aWgzc1F1MzdSYnRPM2lQZWJWa2tzenVlQXRSWmFFcy1QQkJ3VWppVmVGdF8ySUd2RHNMSFFXdzAtZ1JOT1puZlZtazdqbkpaQVBsd0xFb3ZVLVBDd05jUWxBbFZMN2lBQi1uV3ZjakJzeGhITU5TN1V5Z1d1RlZ1T3dlZEpFV3NYR0lBYTR5Zkt6aEtDUA?oc=5",
-    "http://www.africanews.com/2026/10/20/more-than-40-civilians-killed-in-mali-attack-blamed-on-islamic-state/",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42T0NtX3V5SVpObGJ1OXp4X3FvT3ptU1hrXzcycXNaRHJkNkI2bWFQXzFXMHVCQlVvQnNxS3duaGhBZkpvSE1tbTNQYkx2UVV1?oc=5",
-    "http://www.africanews.com/2026/10/20/ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies/",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEhGVzFOVWh0MVV4WVB6aWNoREZMWHJheXRDRlJjV0g3bXZaWlZCOGlsZUNzMVRCaEdreFhfX0ZhdTc0cl9sX0ZWdW4yS2tPRU1kV1gtUjNLLTM2LUNId1dEbzNZLTMzZks3dFEybnpZY2FMSHVNdzJDUFdiQUplUk1xSGROczNwLUFQZ0htVnVyR2dRMEI0RVkxNWhSSFFEZE5mNGdGdGU4YVpMN3VWbU1SNXp3QXY4bXc?oc=5",
     "https://www.theafricareport.com/434021/cameroon-eko-eko-vs-ngoh-ngoh-the-bitter-war-inside-biyas-inner-circle/",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEJzaHBuT3NhV3VyMmpNaUNfLVlvdDNCcUZoSHNiMnVmQU95N2lVZGFuWVBzOURmcDNJdXM0aE16TVhDbXlXX1B5dXN4ekNBQTJDc3pQVlBEZzBCR2ZQNDl2UUlVa05tbUk1aGIyWG5YZDFMRkpyUHdMOEh2OG15Xy04SUtCNW5NRVNqNks3U3R0SFFQ?oc=5",
@@ -1199,16 +1188,20 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xOEtMdEdtaEpOeDZsYzhSZGVPWExicUMzY0NNbFh0TWpBSm5jU0V1TksyVHFzZkRwOW1rU1lCeVVQUU5hYTdhVnNnYzhISGZyd19ULWZ6Z2kybFk3ejlZTjI1VFhNX0F6S1Z5eEpuMVVHLWJlUndpdkV3?oc=5",
     "http://www.africanews.com/2026/10/28/judge-throws-out-attempted-murder-case-against-zimbabwe-vps-ex-wife/",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTNrUzJTVEpkRndLRnFSRGxkNEFpdkFDWGdiU1hRUWk2endubGNXVUdsYVVKYzRYbzkzUjk0cHVYRDRTM1pSbEwtajl6TEdnd19JaGdFUmdmdGVGZ21LejhXOGMxT3BYX3FIb1NpeE13VUpLM0JMQWFPVDlfNUl5ZmNZMklRRXlNMnE5TS1FRnBoUGZvZzJDNNIBngFBVV95cUxNeDZHdFhHemNiZnp2Q3RkdFN0RzQ1aHk5ZmdERFlLZm53aUxYWUdwVHNnZm9ZdmZHOW5wS01BUWNNb2JrSEN3cEhVcnZXR1M0RWROMThMaXM1bGZvNjY5QUhfdU80RDFWZ1Nnc3pXNlZvajJWMG9DMmR2aWQ4RllRYThneWlSQUNJZTlTVVowUTNiejVOT2JUcjM4UUs5dw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGpUUmFCUTRXTlBLTHFSMHgzbkpwaUphbnNWY2Y3MjYtRUpLWUY3YVhPTVIzcnJqdWRMZV8yZVptSXYtNzR6NHpsR1p3SHhvNUJDLUdITVZSUWNCN3JkMEtGdTZKQVdtOTZfWWFHZy16cjJTd2NudDFEdUp1dzRGNVZBQmFLVXdaMDlUSnVQQ1NMT1RQZDMxa2xuWnhOeldreXZmMHpBNUdBZkxkNTdBdlNR0gG3AUFVX3lxTE1FbDB2UGZSY1o3akZpVlhnUS1ROE0wS1dqUUVrQ2I5QXBYM2s0NzlrbkpLWGZCTWpaR0VlT2pjR19HM2xpVTExNGplM2V2S1g5TkkzUXhLbS1Ec3hYRl9NTUZscFJNM3E3d3RqMHlRWTFJaXRaVHRVT2NKZEFFVzdmT2NodHJmTmNJcERZallUcDZwM3J0aWtTZTdRUWNRSWZQekpXODBaYVFQYXBvRnltOFpOWGY1MA?oc=5"
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGpUUmFCUTRXTlBLTHFSMHgzbkpwaUphbnNWY2Y3MjYtRUpLWUY3YVhPTVIzcnJqdWRMZV8yZVptSXYtNzR6NHpsR1p3SHhvNUJDLUdITVZSUWNCN3JkMEtGdTZKQVdtOTZfWWFHZy16cjJTd2NudDFEdUp1dzRGNVZBQmFLVXdaMDlUSnVQQ1NMT1RQZDMxa2xuWnhOeldreXZmMHpBNUdBZkxkNTdBdlNR0gG3AUFVX3lxTE1FbDB2UGZSY1o3akZpVlhnUS1ROE0wS1dqUUVrQ2I5QXBYM2s0NzlrbkpLWGZCTWpaR0VlT2pjR19HM2xpVTExNGplM2V2S1g5TkkzUXhLbS1Ec3hYRl9NTUZscFJNM3E3d3RqMHlRWTFJaXRaVHRVT2NKZEFFVzdmT2NodHJmTmNJcERZallUcDZwM3J0aWtTZTdRUWNRSWZQekpXODBaYVFQYXBvRnltOFpOWGY1MA?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-bloc-short-majority-77-percent-votes-counted",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/ethnic-cleansing-siege-and-collective-punishment-records-israels",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA?oc=5",
+    "https://www.theafricareport.com/434758/inside-ecobanks-boardroom-power-struggle-and-conflict-of-interest-allegations/",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlZLY3VEbmNtQUlfSllfQk95S3pZblNzOE54Tk5IRjBWVXcxSl9xWGtMXzVkT3g1US1yam4zTVdtMGltTmdYQ2pudHRZNkVOa0t1eE1mOUptXzZScmxSLUV1RTRfS05CdmgydFQ3WGlqUmlwdXgtenpneFF0ZmtJR1lyMmhENGlPVFE1S1JKZXBKcDFCZE05QmJqVVpYOVRmc2xjZnlTU2pBWjh5aDNlcHZB?oc=5",
+    "http://www.africanews.com/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash/",
+    "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-seoul",
+    "http://www.africanews.com/2026/10/28/whereabouts-of-brazils-defeated-presidential-candidate-bolsonaro-unknown/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/every-baby-gaza-enemy-who-are-israels-incoming-mps-and-what-do-they",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNemhySkg5TlYtQWNYUW5FclBIZHhtOGtET3BkcUR6UnVQYmQtZ0dwbWN6Zm1XOVNTd1RZUC10THI3MnIxVkM1dXZPOXYyUGVIa3JNV2dBZWczMzJUUzctakxkbmNEcmNHWFF0dmtUWW1LTUp0MHFnSl85SmJpbnVKRzJKbzR1TXE5OUxYTGtpVFRaRjBKMFVrcU91YkQxOGtZbGVCUHFKV0c0bFJL0gGyAUFVX3lxTFBQZU5RT2pMWUo2RmZJUE54VDlubE9NaWFUT0hfdDdaN3VzTUpNZmpTNmdUcDFxZnpkOVNlVXRtSzRhS1RHVVZ5SmpxWUlSWkZpMXNMazZDVGQyZVA2dkUwNXdaTnZDeXNYWUZ2ZEtXVzZKN0xmSkdzR0hVd3RaZk1kOHpPaS0wdzc2eEREVm9hZ1ZsQkQySnJmaWg4ZW9pdEhpXzlWaWYzZEdKZ21VVDlJeEE?oc=5",
+    "http://www.africanews.com/2026/10/28/no-clear-winner-in-israels-first-election-since-hamas-attack-in-2023/"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія схиляється до підтримки Лани Нуссейбе на посаду генсека ООН",
-      "summary": "Джерела, близькі до британського уряду, повідомили Middle East Eye, що Велика Британія схиляється до підтримки еміратської дипломатки Лани Нуссейбе на посаду генерального секретаря ООН, хоча остаточне рішення ще не ухвалене. 48-річна кандидатка раніше була постійною представницею ОАЕ при ООН у 2013–2024 роках, віцепрезиденткою Генеральної Асамблеї та двічі президенткою Ради Безпеки. Її кандидатура викликала критику через звинувачення ОАЕ у підтримці Сил швидкого реагування в Судані та тісні зв'я",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-26T17:00:16+00:00"
-    },
     {
       "title": "Опозиція Словаччини обурена візитом міністра закордонних справ до Москви",
       "summary": "Словацька опозиція висловила обурення через візит міністра закордонних справ країни до Москви. Подія стосується офіційного дипломатичного візиту представника уряду Словаччини до столиці Російської Федерації, що викликало критику всередині держави з боку опозиційних сил. Учасниками взаємодії є міністр закордонних справ Словаччини та опозиційні політичні сили країни.",
@@ -1411,6 +1404,13 @@
       "source": "Treaties & Agreements",
       "publisher": "Armenpress",
       "published": "2026-10-28T08:33:00+00:00"
+    },
+    {
+      "title": "Змінено посаду посла Великої Британії в Сеулі",
+      "summary": "The UK government (GOV.UK) published a notice that His Majesty’s Ambassador to Seoul will be changed. The notice states that the current ambassador will be succeeded by a new appointee, effective on a specified date (not given). The change reflects routine diplomatic rotation and will be formalized through presentation of credentials to the President of South Korea. No further details provided.",
+      "source": "Diplomatic Visits",
+      "publisher": "GOV.UK",
+      "published": "2026-10-28T11:34:44+00:00"
     }
   ]
 }

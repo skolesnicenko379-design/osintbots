@@ -98,6 +98,7 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZnlndEFQUlozbDVoSXZsdVhwRFR0VGpVbjEtVjJpczVNV0hPcmVRdVdvckF6TkFoWjZkdUthYUd2YVA3YV8xWm1yaDE3SlQzNG1GLUxaYWk4elRQT0QtTnpjdnJEUmJsallSenMxWmNhRFVWRDlkVA",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE95c2VuTzEwMHB0QWtadFVGVmxMd3FvUEFhVE41WkFsZlYwWlhJeVJneUFvcUxWQWkwZkFxNVVDTVd4Nm0xclRBNUNSZ0tFNnJsV0psQWduWElhdWY0ZjBRVTZUQVFmVU43R3Mza3UxTXZhZUJnTHlLSFdNajY",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDE4dnJ3UW9waXFCd1hkQlRUbi1UTjdCZlNOWktEbnBFbUdVNTVXZG8zaFU4OEFoQ0dKQ3ZhTE9lVU9XRV9GSGhvYzFrWTItMGgtRkpKVzl6RkFITVh5RFh1Skt2X3UxNWtIWi1VNDU2SXJyLWdMRzAyNEk5TGZzNA",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmxuTHd4VGZwdkRNcHNSYThkRW9nQWFIdVlTSy1wZmpKOTFBLVBwYlF6ZlNaOG5GcjBXb01zc1NEMGs0TWdNVEUtS0hHOFd3OXN3U0VDLWFYeURyR0pja29WOWpWQTItVHVuWmx2eXNObXpnTDl3bmlmd3lVbjlFaExRU3M5UQ",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVhveG1RdWRUUTAtZ2Q5Z3lnSnhsMlZQemdaV09HdnlPQ2JfZGtIVzJqdEZQNElLUHAxelBTN1dQMmkzVjBRZXdKbUM0TU5uVEFGU2dJakFrVktPNUJfSl9pN2RUTFRYWno4VkVHdG9kU2ZMa1k3UDY5STdiV3BWeXo3cXlsdw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmZkZ3FiejlXOXQydjlONDFQUV9TcVVnNlFsdm5feUlnM0NLS1NqZ1g0UXdGbXVZaWJNeFBiV0VXUFg2cGx2NW1nUGppbGFEcC1CNHo2bTR2cE5vb0hKd3FOVTZlUS1RdG14a2Q0UThXanhvbmxSRFZqVHg2a0NzR18tTXZjQQ",
@@ -146,22 +147,11 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
     "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
-    "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "USAF підписав контракт на серійне виробництво гіперзвукової ракети ARRW",
-      "original_title": "USAF Orders ARRW Hypersonic Missile Into Production, The Same Weapon It Nearly Cancelled",
-      "summary": "US Air Force передала Lockheed Martin контракт на $694 млн для серійного виготовлення гіперзвукових ракет AGM‑183A ARRW, що переходять від прототипного етапу до виробництва. Ракета типу boost‑glide розганяється ракетним прискорювачем, а потім скользить у атмосфері зі швидкістю понад Мах 5, що ускладнює її виявлення та перехоплення. Інтеграція на B‑52 і B‑1 забезпечить США можливість швидких стійких ударів по високовартісних цілях, включаючи рухомі об'єкти, після розробки нових варіантів з активним сейсером.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
-      "published": "2026-10-27T00:04:14+00:00"
-    },
     {
       "title": "USTR попередило ЄС: кредит Airbus загрожує торговельному перемир'ю",
       "original_title": "USTR Warns EU: Airbus Loan Threatens Transatlantic Trade Truce - Global Banking & Finance Review",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
       "published": "2026-10-28T10:58:43+00:00"
+    },
+    {
+      "title": "Змінено посаду посла Великої Британії в Сеулі",
+      "original_title": "Change of His Majesty’s Ambassador to Seoul - GOV.UK",
+      "summary": "The UK government (GOV.UK) published a notice that His Majesty’s Ambassador to Seoul will be changed. The notice states that the current ambassador will be succeeded by a new appointee, effective on a specified date (not given). The change reflects routine diplomatic rotation and will be formalized through presentation of credentials to the President of South Korea. No further details provided.",
+      "source": "Diplomatic Visits",
+      "publisher": "GOV.UK",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA",
+      "published": "2026-10-28T11:34:44+00:00"
     }
   ]
 }

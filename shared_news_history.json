@@ -2,7 +2,6 @@
   "links": [
     "https://army-technology.com/news/tekever-ussocom-uncrewed-aerial-systems",
     "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
-    "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
@@ -26,6 +25,7 @@
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
     "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
+    "https://defensescoop.com/2026/10/28/us-military-opsec-risks-automated-surveillance-networks",
     "https://gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
@@ -54,13 +54,14 @@
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-vid-niderlandiv-500-mln",
     "https://militarnyi.com/uk/news/v-omsku-pislya-udaru-droniv-poshkodzheni-dva-himzavody-i-vygorila-sektsiya-skladu-ozon-suputnykovi-znimky",
     "https://militarnyi.com/uk/news/verhovna-rada-umovy-inozemtsiv-syly-oborony",
+    "https://militarnyi.com/uk/news/yaponiya-perehopyla-korabel-i-aviatsiyu-knr",
+    "https://navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design",
     "https://navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029",
     "https://navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2tVdk5jeTZEek1FSGVNRWItMmFaVGNZOENQTWdxYngxOG9Jakd3Y21ETVhxM2JQNllNNmd5WWQ3NVFBU2NhQzFvU3psOS1oNW1oUS11V0VsTDdRVDhPQW5qeHFFcG9xaUppejJSMW5ZSG5yU0Z6dGFBaDJZY0lBMElDVVN3dk9NMkpYZ3cyNExFcGxxSU1hcFFwT2RHVzZMcDY5TncxS0M0eEJOdzFiUnY2bVJKRzg0T2lEOTFkTHpQT1ZJS0FxYUEzQW8taFlfT3R6MUhoWQ",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1lScHN3NldQN3BvcWM0V1lGdUhWTG1WWS1maS13N1JpSHFiazVvdFNqTjJaWFdCZlA1WUd5QTl3U2hDSGRDQU9CTGNMYmxFeWNwZklmRWVjdDIxampPMExlaU5uamRHZGVhdUNyaHFtV3hNNHllUzdrZDlFMVp3MTN1U0lKR3VqYzNXc3pTU2ZpN3RjS0htLWRfRXhJenBQZm40YjdZcTktTkJzall3cTljaEVCRUxnVUlqOUJwTUxraFNrOExxOC1sMWtxVFFGLXQ2dWRyNzQ2QQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWm9YRzF4VWdGSXY0azl6SExSdFB0Z1RWem44WVpYT1o5ZmZQVU4wVmFDbEpnc0lqSHNRRDZqRUlMSWVOTzZjOEdzNXlZd1ZPQzVhN2ZDZ2hZcFpLekRRLTNvd3ZlZ2dzZUJ4UTRzQWxNMTFnbU1vSHVDMmJJQ0R1TkdzYTluWFFUMmxHRlY0TWZ4Y1BQZkJZTXhnMEgxS2FtTEJ0Si05aEhJWW9lN1NHNjRIYXNLbnJSaDU1bEJVdW9CZkpjdDlOV3JXNXdicElDQi10b2V6dDBVSjQ",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFp4X1hFRGtmQ3AweE1yNWh2R1duTFVHcEpKVkJBeFpwR0xwQW1RNHVvdEN2VmdZSzRHR1plcEwxbnNSM0dMYXBUUVR6ME9uSHNXaGVVZ0RGd3VkSjhkX3pFRFEwM28taEZPNHUyUVZRSW14M3pFb0ZZV1BVVDVxOGdVdTlHZXllWjQ1OW40RFVUdGk5VGpidnVCSzFxY18zZVdoWkVtRXRQbHZaM3VPM1VydVZ6NmhRdmZNbVdHQ2NwLUJ6cFVxRUh2cjlaV0R5cXh5cUJrMWlhWWc",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXp0ZURGN0RnVHpiOFhRdjNqTGRwNjRXT2VMazFIeENFaTRBa0U2aVBUSWR5al8xREN5dy1JZHZlQ1ZMbzlJeFBSaVR0WEVRTlFfemJCbVhOTVA1UnRRelRfRXo2LXRNRk9QaW5OMEs3Q0M5RzkxVTFZOWh4VTdOdUVkeVI5YS1kNk5RMUwzaHR4SDVmR1IzZnl1cnBhZGxQSWRqdlNvaDdZMW5zcmxNbE01ZGJxWUhJZ0JhVGlDN2ZUQnR4aDFtQkNzSGpodWFPTEdFWUpOM3doYXIyMlE",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFV4UE5lSmR5LS1IdG9XZEZEM0dvRXRPOVRuaWNPQzQzZjFfUmsyZUY0NVZ2bzBWNHJFamlDcU1wZmV2OVVTSV85TjBQcHlmcllVSGQxYmhzdTViWExEa2cxRGxwbHJueUZUeGtlb0Iwd1d5aktMdjNzOUN1SU9fNl92akdKemYxUUN1ek1uclFKWFY0QUJXN1RVbU5yekUzOTY4YkZjdElSVVg2dWg2bmNJREdySGJValJhbUNpc0Q0bDNxRC1GLWloTmdYVGwwNWlHZVFiUHp0R04xdVVmUnpmMNIB6AFBVV95cUxQczMzcFlRbV94Y2dQTDhBdG1pc0JWOU1SSm1rQzZRLVJzMnhhUFZFdGo1TUxYc3NmZzFONGNRTjlMR3BkdExyZTNMN2s0SmQ0d2dVN3ktTkFub0I4VHk1cUVNeS0wN1kxMUlUOFNuOWxraDMzcU56dTdRZnBTRlZVQlVQRFpRbGVnaE84T2ZZU3JYY0VGOG45aFBQckdpY2lmWUR6TkZDY0xLTnp2SVdtMFo3NHpvQ0hsYUNGcVJrcUxLVER0OVFVcVI0TjlDeDlBakVmdjFXcmR5alg2eHZQVl85a0RjWUdL",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1lYTjRDRUZKUmZtd3NIM0taTzAyUmo5ZUVvcXZiVEtVdGZZT25Nd1VJRVNELVA1ZzBsN1dPX1N3OFlpZDVxRWl2b051Y3BuWGpNSjRKSVhYY0lTNmZULVllcTJ4SnA5a194VzFVdzJuX2ZQSzRYOXNlakN2RF9mS25od3A4dlA5V1Fvclo2dUNwb2hHMWphbEJGY2ZWY2R3Y0xHVEF3WlVjZlRXS1d5UGVTQlFOSnhleXdGaGxlaVY2QzVuRGlvWHYxVGV0QkNSa0toLVZBLVJPMElzWmFqc195T2pDME5wMThr",
@@ -86,7 +87,6 @@
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHduT1RMWDR5S19GbktLTWF6RERWREY1MUxnTTZzcllkYnl2eHhRMkI3ZkRMTEl5TXdiWXRpYTlDOXM4dVFKczkxUmJPSnhabVN6OVZyRFVORzR4bW0tUW9SUU53SVFnQlpaeklDMmdEdUUySzRMYnJGYkVoRGJGVmJ1TnJRd04tdWlodnRCVWFOLTQzRC1xS01CeXZkdDgzU2gzeFlCSWFCMnlTQzBIRXB4ZkFKVXQzbVdMaTNkOWR6cnZZcXNuT2tCanIyZ1Z2YUZ0Ni1BN3FibTQxcFQ2Q3BlcHBkMUxSXy1XYjB4R0Ftbzk1dS1uYVRMVC1ZZw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zR2J6Zy1ESlpwMS1nUDVGdVdEU0UzSHE3eG9VUkRfaEc4N3RGX0JpR2hEQmZkRUx2MU9Od1FIeXpxcXpxaXBZN296S2dOTE8tNFIyajJKUjhzSVdzSWYyenNScHNBSWhwMHZ6eU5CMWZkNnBJd2c",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2enhTWHhtYXRiaFpyaHBGNTJMMW4tQ3pMNkpmMExXaXF2Z1Qtb3huX1U2SUxzRzFzc3lBYVJ6VkQ5TVY4ZUhYN1M2clhBSU1zUDRJMFRnY3hMTEFaUHB3U0Jqcl94V0pEaWZwcVpOTTJjczVvT0E",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZnlndEFQUlozbDVoSXZsdVhwRFR0VGpVbjEtVjJpczVNV0hPcmVRdVdvckF6TkFoWjZkdUthYUd2YVA3YV8xWm1yaDE3SlQzNG1GLUxaYWk4elRQT0QtTnpjdnJEUmJsallSenMxWmNhRFVWRDlkVA",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZVpDa2F3S2NUMG1tTG9oZHJaRFFqTlZaVWt5QzBlTUhWVS0ydDNxYk00SV9VZ2pyMjJwSlBScElGcGl6bHRzOFhnT1JxaEpaUlltX2dEM2dmY3lyajNmb0dweXd4M2RQV21aVlk5MDk4SWh1d2pubWFZc2c",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE95c2VuTzEwMHB0QWtadFVGVmxMd3FvUEFhVE41WkFsZlYwWlhJeVJneUFvcUxWQWkwZkFxNVVDTVd4Nm0xclRBNUNSZ0tFNnJsV0psQWduWElhdWY0ZjBRVTZUQVFmVU43R3Mza3UxTXZhZUJnTHlLSFdNajY",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlhBSnlucTBBQ2ZWQks2Z05Sc0pYaTVUZXdpdzlTT1RSZEdpWkNyVTNKSzlqSG5IaVV0dExDc0NCOWlhUUlCWkpma0d1cWpnazViS0c3LWV5U2FDTF9aMWw2VkhISXpHQU5uT2EtZC1iQmc2VVFUUzF1VzFpclBWUQ",
@@ -133,7 +133,6 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JETEwxQWpCbDBxRmQ4RjVsbEktclotY0R3Q2RKOWk2dS1wYXJhb3BtRVYzWUtidE9WSTVPMk5vZXJhYUtzWktrTzlTZ2JZb1RSaXYyNnVrbUlYdkRXZzZGa05YcjJFRHpXVVNmQnpCYVdqTTRmc0VaQ05JMklrNUs5Tk8yeVc4bDczRWlCdUxGOF9kUkV4dF9EbHlzbjlDTmpvbDhUNko4NWQxbVE5bEd3WUpFaEtiWUJz",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGh0OUhPanJIZFQzaTJodnZRb19Fb2paSlVvMmlXUkQwNXlob2RNUk9DeV9DUUl3cm5xNG4zSC1NVFF1UGxEejQyOUQ4LUR2QWNncnhqVHR3WHlleWhMSHZGMGE5elM1X2EzbDhlS096YmV3WGExSE4zaWZlVkZIcWVlbEhCbEROSEl4cHRUNFFlOC1TSzFIdkh4MFB3M3BCX0hhWjJ0WW1VenpuNjNHQjRrS05yeGlVclZN",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2pKeW4wX3ViQlR1WmVGcnJZLXl5MVFBb3BXUTFZOWYwWEdvNkdUZS1LNzdPSlk1WDdrc18zZ21lZXhTNUFNbVYwb3R0bWNzbjZHdERNUkVaS2xsNFJ4WXZIS1lPeTZLNm5hZW9Dc082cDNPVUNrRjQxLUZGVVkyTDRtSHZKNFIzamp5QVptREJPZkNBOGdBVEdMS01hVDRDVXVmU3dLdnB6eUgzNjRmaG9BSWhFUlNIMmNJcg",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0cxSklZZThSTDdJV0dUaXFCa2hjSm9pYU1lN1haanJyREkzYzNqN2ZaUEhiREpaNERQZ21IOFFxMUhqTkVQZkZHcExyaFB5NExiTVRnVWxEeU5VRmdhX21jVTRSQmRCSk5GdjR6NHZWdWs1R2V3NVEwWVM4Tkg4eFlzLVlmWjBFRkItcEotUHN5N2NvdmdKeExPSm5IZk5BUUxhSHJIQW05b2I2UEUtLVdwa2ZvWkJtc1k3MVpR",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEkxZjlUemtVZFRua1ZMZ0ZiNlVhZnFLSm9lbTgybEpfWjFLT296ZnZaMG9CckwtRmRpVEVIa0stWFAtS0lWbUxhR2lGcmptdm8zUWlGcnZ4VlpQY0NjR1JpSFliYzJlX1IzME84aGlaa2sta1BwR3VkZVRjcG9SMEpmdEx0TzdDRVAxcjAtbDF0dXhLb1dLNzlacE94MWNxZ3VKUFZDR1UxOGdZNHhNck9fa0V4Zmh4MEJHSWt3",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWVDNC1GRkV0a182eWtyQ1dCM3NINGZIZkQxRUhXd2tWNHJyd3o1eFFYc1ROUXc3Ty1UYjl3b2pOMlgtV1dvdzRUMkM0VkVNa0FpclF6ZGV2M2pxOVg1d1dkOW1aNUEtbEhYSzZhdW1qWjlBNXpjcUN0enBoYVpIejdqOHlvd1Bma0toTDNDUjNZVkhiZ0daYS1xQ1d4SndZWWUxNUhiWjF2TXRvbFl4MVBBQ0k1Mi1CZjhxaklfdWQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
@@ -149,49 +148,10 @@
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
-    "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
+    "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026",
+    "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Єврокомісія пропонує Закон про кліматичну стійкість",
-      "original_title": "EU Commission proposes Climate Resilience Law to address €50bn annual losses - INSIGHT EU MONITORING",
-      "summary": "Європейська комісія запропонувала Закон про кліматичну стійкість (Climate Resilience Law). Він має відповісти на щорічні збитки в ЄС, які оцінюють у €50 млрд.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "INSIGHT EU MONITORING",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFp4X1hFRGtmQ3AweE1yNWh2R1duTFVHcEpKVkJBeFpwR0xwQW1RNHVvdEN2VmdZSzRHR1plcEwxbnNSM0dMYXBUUVR6ME9uSHNXaGVVZ0RGd3VkSjhkX3pFRFEwM28taEZPNHUyUVZRSW14M3pFb0ZZV1BVVDVxOGdVdTlHZXllWjQ1OW40RFVUdGk5VGpidnVCSzFxY18zZVdoWkVtRXRQbHZaM3VPM1VydVZ6NmhRdmZNbVdHQ2NwLUJ6cFVxRUh2cjlaV0R5cXh5cUJrMWlhWWc",
-      "published": "2026-10-27T16:57:51+00:00"
-    },
-    {
-      "title": "Компанія JVIS з Мічигану відкриває оборонний підрозділ, отримавши контракт на $13,2 млн",
-      "original_title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
-      "summary": "JVIS створила окремий підрозділ JVIS Defense and Aerospace, який вже отримав перший контракт — $13,2 млн — на розробку APU «Silent Watch» для Армійського центру наземних транспортних систем. Пристрій перетворює дизель у електрику, забезпечуючи безшумне живлення без великого теплового сліду, що підвищує стелс‑можливості наземних систем та дозволяє ефективніше заряджати дрони й інше обладнання на полі бою.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
-      "published": "2026-10-27T17:00:00+00:00"
-    },
-    {
-      "title": "China Rare Earth Index 258.6, Heavy Oxide Gap Explained",
-      "original_title": "China Rare Earth Price Index 258.6 Heavy Oxide Gap Explained - Rare Earth Exchanges",
-      "summary": "Індекс цін на рідкі землі в Китаї склав 258,6. У статті роз’яснюється причина розриву між цінами на важкі оксиди та загальними ціновими показниками рідких земель. Це допомагає зрозуміти поточну цінову структуру ринку та його вплив на виробництво.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "Rare Earth Exchanges",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqZnlndEFQUlozbDVoSXZsdVhwRFR0VGpVbjEtVjJpczVNV0hPcmVRdVdvckF6TkFoWjZkdUthYUd2YVA3YV8xWm1yaDE3SlQzNG1GLUxaYWk4elRQT0QtTnpjdnJEUmJsallSenMxWmNhRFVWRDlkVA",
-      "published": "2026-10-27T17:18:36+00:00"
-    },
-    {
-      "title": "Канада уклала угоду про доступ до ринку з Ефіопією",
-      "original_title": "Canada, Once Among Ethiopia’s Tough WTO Negotiators, Now Concludes Market Access Deal - https://etbusinessview.com/",
-      "summary": "Канада завершила переговори щодо угоди про доступ до ринку в межах взаємодії з Ефіопією в рамках СОТ, повідомляє ET Business View. Раніше Канада належала до тих партнерів, що вели жорсткі переговори з Ефіопією в СОТ.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "https://etbusinessview.com/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0cxSklZZThSTDdJV0dUaXFCa2hjSm9pYU1lN1haanJyREkzYzNqN2ZaUEhiREpaNERQZ21IOFFxMUhqTkVQZkZHcExyaFB5NExiTVRnVWxEeU5VRmdhX21jVTRSQmRCSk5GdjR6NHZWdWs1R2V3NVEwWVM4Tkg4eFlzLVlmWjBFRkItcEotUHN5N2NvdmdKeExPSm5IZk5BUUxhSHJIQW05b2I2UEUtLVdwa2ZvWkJtc1k3MVpR",
-      "published": "2026-10-27T17:21:48+00:00"
-    },
     {
       "title": "Армія США розглядає використання високопілотних повітряних кулей для спостереження та ударів проти Китаю",
       "original_title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
@@ -831,6 +791,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
       "published": "2026-10-28T09:28:28+00:00"
+    },
+    {
+      "title": "Новий китайський підводний човен-тримаран: 16 ракет і нетрадиційна конструкція",
+      "original_title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
+      "summary": "За анонсом Naval News, Китай будує більше підводних човнів і більше їхніх класів, ніж будь-яка інша країна, а кілька нових амбітних проєктів готують до серійного виробництва. Тримаранна схема корпусу для підводного човна незвична, а в анонсі згадано 16 ракет. Тип цих ракет, вододатність, призначення та стан програми з наведеного фрагмента встановити неможливо. Тому оцінювати вплив на баланс сил у Тихому океані зарано, поки немає підтверджених технічних даних.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design",
+      "published": "2026-10-28T09:29:00+00:00"
     },
     {
       "title": "ESMC: без чесної конкуренції ЄС не диверсифікує сонячні ланцюги",
@@ -1533,6 +1503,16 @@
       "published": "2026-10-28T19:09:15+00:00"
     },
     {
+      "title": "Армія США посилює захист від ризиків OPSEC через автоматизовані мережі комерційного відеоспостереження",
+      "original_title": "U.S. military building resilience against emerging OPSEC risks from automated surveillance networks",
+      "summary": "Посадовці Transcom заявляють, що комерційні системи на кшталт зчитувачів номерних знаків і хмарних камер (Flock Safety, Axon, Motorola Solutions) дають змогу відстежувати розпорядок життя військових, а також ознаки переміщення сил і розгортання підрозділів. Через щільну мережу пристроїв, яку посадовці порівнюють із «picket line», противник потенційно може дізнатися про графіки навчань і плани мобілізації. Для логістики та особового складу це означає додаткові OPSEC-ризики, а вразливими точками можуть бути канали, якими дані проходять між системами. Конкретних заходів захисту в наведеному фрагм",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/28/us-military-opsec-risks-automated-surveillance-networks",
+      "published": "2026-10-28T19:27:58+00:00"
+    },
+    {
       "title": "Світовий банк підвищив прогноз цін на мідь на 18%",
       "original_title": "World Bank lifts copper price outlook by 18% - The Northern Miner",
       "summary": "Світовий банк підвищив прогноз цін на мідь на 18%, повідомляє The Northern Miner. Це суттєве коригування очікувань щодо одного з ключових промислових металів на глобальному сировинному ринку.",
@@ -1541,6 +1521,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2xDbzV2OE04SnpnZy14RzJpeEkzSUtxNUpQVWdOYlhGRmtsak8ta0dGX2Z3Z3UtQ2hhXzRVTkN6VHU4bElkYW5Zamh5NHJPeDZoMU4tSVVQdHhMdVZ1b2l0TUNaWWJzSUFxcFd0TWRPWUV6UmhwU1BBMjFPRm1oTU9QejNMY1VYeGk5V3UtanNKNFU3",
       "published": "2026-10-28T19:38:08+00:00"
+    },
+    {
+      "title": "Розвідка США: до кінця десятиліття Китай може загрожувати супутникам космічною променевою зброєю",
+      "original_title": "U.S. Intel Warns China’s Space-Based Directed Energy Weapons Could Soon Threaten Satellites",
+      "summary": "За доповіддю Розвідувального управління Міноборони США (DIA), до кінця 2020-х Китай може розгорнути космічні системи спрямованої енергії та потужніші наземні, здатні уражати супутники на високих орбітах. У звіті не уточнено, йдеться про лазери, надпотужні мікрохвилі, пучкову зброю чи їх поєднання. Така зброя здатна завдавати як оборотних ударів (засліплення оптики, наприклад лазерними засліплювачами), так і незворотних ушкоджень, що розширює арсенал КНР проти супутників. Хоча у попередніх публікаціях згадувалася інша доповідь DIA про космічний літак, ця подія стосується саме загрози супутникам",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites",
+      "published": "2026-10-28T19:53:21+00:00"
     },
     {
       "title": "Армія США оголосила два нових тестових майданчики для комерційних дронів і протидронних систем",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEhDZzE4NW9YRG53TmhJZ2FCZmNTQzBEMlpwVl9TblpPaWJEZUFlWTN4X3FkNDZqdlRvaGViTkZmRG82aXhjVTYySXNEcWU4bnBiNjVEY19aa3VXbzFyZmZCd04yZTNlSmdIY2tuVDhmd1RkbHpGSG8xUjZYclYtMHUwNFp5aHd5SWdzOHdCRW9DYTZHQ1NmTmdTVzRtZjE1VE1TMXhpdWNMQVI3VFpOZVBCRG5QTDd4",
       "published": "2026-10-28T21:43:08+00:00"
+    },
+    {
+      "title": "Японія перехопила російський розвідувальний корабель та китайські розвідувальні літаки біля Цусіми",
+      "original_title": "Маневри біля Цусіми: Японія перехопила російський розвідувальний корабель і авіацію КНР",
+      "summary": "У період 27‑28 жовтня російський розвідувальний корабель ССВ‑535 «Карелія» класу «Меридіан», обладнаний радіоелектронними та гідроакустичними системами, пройшов через Цусімську протоку під спостереженням японських тральщиків Hirashima та П‑1. Одночасно над морем пролетіли китайський безпілотник BZK‑005 (автономність до 40 годин, SAR‑радар) і розвідувальний літак Y‑9 з антенними комплексами для перехоплення сигналів. Ці дії підкреслюють зростаючу інтенсивність розвідки у стратегічному регіоні та можливе посилення напруженості між Японією, Росією та КНР.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/yaponiya-perehopyla-korabel-i-aviatsiyu-knr",
+      "published": "2026-10-28T21:50:51+00:00"
     }
   ]
 }

@@ -28,6 +28,7 @@
     "https://gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
     "https://middleeasteye.net/live-blog/live-blog-update/british-politicians-detained-israel-why-trying-access-west-bank",
     "https://middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+    "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
     "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
     "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
     "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
@@ -106,7 +107,6 @@
     "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSjltS0hFcjlUOFB4NkZvZFpLS3hFVEhZaFlLNGgxSFJlbWlBWTBMeHZWY3dEOEJUU0VTNXNSQ2czeXdqLVJQSnkwVVVPaXFVSG9zMHRWTVFGbkJ6b2xxdUgzQVl2dkJoaFY1bDVMV0VXTnA4QmNLb1RUd3pIZGpVOWNHN1lsS2Z6aHNUV2Qzd2ZfQ1lVMzJaOTM0WTR0S29aMDg3c2NhRzV5RWFmbVo5Wm5WWkg4ZklXYnVzTjNoVGFGQnhSS0NiOEFkWHBEbmVMdFFzendtY011VmpVQjlJTTBjcXVoT3FRbnRZRHM4LWhrTUIybVJKOTBTcU85SWxQVEtYUkFJekJlcUFiX1FwZQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9Udjc3Y1lsemltSy1kVmM3YkFTWnU1ZnpLVUdIZ0JaSWJhX0wtdTFlQ29FaGllc0ZYOU0tR0JZZ2d0QUVaQzFycVVfUWRXcDRmQnVZaF9DMDUwTzBHaDdlN1B1Qlg5MmtVc0xaR0xLV2szQUpHUUg3TFFwaTdSZk1HOGFQWWlpVGZzb1M5LXlKQQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUhDUUEwRGppSi1fREI3Q3djNkdpdFNsRlM4RGQwa2xPRnFfbDNiS3R6OEJUYUw5ZUwyTU82WVkyaVNnMDcwWm42NUYwMTNXSG1hLWJvMkF4Qm1ITHZJY2F3Yko1SUxvaDMzUm1ScmtqS0ZnYXdMN0VsQ0FkZ3VzakRzWDBTbktPQllBUE80b2t6aEpj",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZXam85Z0lCUF8xSWNldG1lcHFBNkFYZVJzeWs3eFRNbkl2R1I1VTNMUWtNNGNTcFU4bElNV3FUNUItV3prZG5VTmEybzdIVUtmZzlPSm1iWm1XR0FoN2N4SU5GeWdWRnNaVWJ5QmlmMVBFTGpRV3pjaXgzU3Fnc3RUWERidHN3bklVTzhUQkM5dUJWOVRTdVB3",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBtY0VaYWVBVXNNeks5cmw5aUtGSll4eWV1SFN2ZnRfXzJocUNlN0E0R0dpajJfYVR1X1JXa3JkMEx3WnhYNFc4U05idWE4cjNadEd1OXRxNGE1cHFNdzdPRnRwQ1NjXzJoT0JkSDh6YWU3UHNmQ3I2YTZxalFBVWtOYnZpS1pVeV9LVHVsTlBTcUNSTU81aGlQZw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVA1QXBaVThiMklXTnF0cWhOMGU5Ymh3M2RGNkdoX0tBMUdPTDB3WEtOWHR2bHV2ajEwb3lPR3VoWk1xcmpqN3RKNFFJX0RmeUhrdEp2MWN2MnhUM2NZSGNCUjFMTnVxc04wdzZtS0tYMWRkR083VDhXMTdQTk1QRERFQ1l1Q3Yta0x4OF9xQTVIV3VScDRlYTJiQQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "USTR попередило ЄС: кредит Airbus загрожує торговельному перемир'ю",
-      "original_title": "USTR Warns EU: Airbus Loan Threatens Transatlantic Trade Truce - Global Banking & Finance Review",
-      "summary": "Торговельний представник США (USTR) попередив ЄС, що кредит для Airbus може поставити під загрозу торговельне перемир'я між США та ЄС. У доступному тексті, тобто заголовку, немає суми кредиту, його умов і можливих контрзаходів. Для ринків це сигнал ризику, що спір щодо підтримки авіабудівника знову загострить трансатлантичні торговельні відносини. Якщо суперечка переросте в нові обмеження, під тиском можуть опинитися авіаційна промисловість і ланцюги постачання, а також загальні торговельні очікування щодо ЄС.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Global Banking & Finance Review",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZXam85Z0lCUF8xSWNldG1lcHFBNkFYZVJzeWs3eFRNbkl2R1I1VTNMUWtNNGNTcFU4bElNV3FUNUItV3prZG5VTmEybzdIVUtmZzlPSm1iWm1XR0FoN2N4SU5GeWdWRnNaVWJ5QmlmMVBFTGpRV3pjaXgzU3Fnc3RUWERidHN3bklVTzhUQkM5dUJWOVRTdVB3",
-      "published": "2026-10-27T00:59:02+00:00"
-    },
     {
       "title": "Індія та США доопрацьовують торговельну угоду після основних переговорів",
       "original_title": "India, US fine-tuning trade pact after concluding most discussions: Goyal - Business Standard",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA",
       "published": "2026-10-28T11:34:44+00:00"
+    },
+    {
+      "title": "Іран відхилив пропозицію Катару про завершення війни з США",
+      "original_title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US",
+      "summary": "Іран відхилив у середу пропозицію Катару, яка передбачала завершення восьмимісячного конфлікту між Техасом і Тегераном, назвавши її «неприйнятною». За словами старшого іранського чиновника, представлений чернетковий договір не передбачає гнучкості щодо ядерного питання, і Тегеран не готовий йти на компроміси. Віце‑президент США Джей Ді Ванс раніше вимагав скорочення збагачення урану, а Тегеран стверджує, що його програма мирна.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
+      "published": "2026-10-28T12:14:30+00:00"
     }
   ]
 }

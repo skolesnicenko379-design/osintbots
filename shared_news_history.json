@@ -26,7 +26,6 @@
     "https://defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
     "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
     "https://defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
-    "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
     "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
     "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
     "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
@@ -61,7 +60,6 @@
     "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
     "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
     "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
-    "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
     "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
     "https://militarnyi.com/uk/news/ukrayinskyj-suputnyk-obria-nano-na-orbiti",
     "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
@@ -80,7 +78,9 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWm9YRzF4VWdGSXY0azl6SExSdFB0Z1RWem44WVpYT1o5ZmZQVU4wVmFDbEpnc0lqSHNRRDZqRUlMSWVOTzZjOEdzNXlZd1ZPQzVhN2ZDZ2hZcFpLekRRLTNvd3ZlZ2dzZUJ4UTRzQWxNMTFnbU1vSHVDMmJJQ0R1TkdzYTluWFFUMmxHRlY0TWZ4Y1BQZkJZTXhnMEgxS2FtTEJ0Si05aEhJWW9lN1NHNjRIYXNLbnJSaDU1bEJVdW9CZkpjdDlOV3JXNXdicElDQi10b2V6dDBVSjQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFp4X1hFRGtmQ3AweE1yNWh2R1duTFVHcEpKVkJBeFpwR0xwQW1RNHVvdEN2VmdZSzRHR1plcEwxbnNSM0dMYXBUUVR6ME9uSHNXaGVVZ0RGd3VkSjhkX3pFRFEwM28taEZPNHUyUVZRSW14M3pFb0ZZV1BVVDVxOGdVdTlHZXllWjQ1OW40RFVUdGk5VGpidnVCSzFxY18zZVdoWkVtRXRQbHZaM3VPM1VydVZ6NmhRdmZNbVdHQ2NwLUJ6cFVxRUh2cjlaV0R5cXh5cUJrMWlhWWc",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMTFqLXpxTVotbzlObTdJR1FOdlRrUGdnQWptRFpTY2dMVFBqOW5zRmFkdG9aZ1dsTVlFUkM0ZExlNUhZLTh4YWxnbEFCb2hDNnBUVjVXZmMyOGxQeEc4dGkxUjJGWGRNeVVQUXpmU21sRVZqdWRqRnMyeURKa1NqX1FZNl9JRUx3VkphcXNWT1NlMjlXV1UxS3lUSUV6UUZHa2tvZkhJSUNXYnpXUm90bG1NTVFmV0J1Y0FIeWxBcWxmcmJKRmo5VjdNdzFsNGFHVWVRdXk4RUJDWWlX",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3ZydGVBRzZQc1JrYzc1TW1FQnhzdlhHWEk1cjB1WDU5Qmp5N2p5dFFpU196bHBsSVJKc0pKaDVVenZBRnpEaVotWEljWnZUOHBqaTBka1poaFZKYkRiNmdXQTZob3B3cTQzQ05WX080WFR2c3U3dlE1ZHI1S25ObUpOa2laX3hrRlo0STBlcncxNEcwQzRPUHM3ODFxckxDZGNYaHRJZ3RCSzRUM2dtSjcyajd0QU1qWUNTX1NDYVB4TlJCTW9HZk4zeHJsMEdtUW41UmZQaldMZkR1",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0szMkZKaURHY2hnWl83dVZ0Rl95ZnpLSU40UnRRTjdGT3ZpUEkwY2VBTlNSRVc2cGV1UUx1d1FZeTZYNklxMFdaYnFEV3RhT214OEd4ZlZOSWxMNFpLS1FiaUtBM3NkNF9GaThacDdNUjBHTGpmYnlsTkZOa2VSU0hNNjZSeFdiZFY5dlYzTlYtUm1HZGwzZ19oYl9XSEw4b1lDWG5iMEE4azkzYlFERkNhQ0h4emJka0RDTlQ0TnM1X0NsRHJHV25UVnZmT3ZoLXlkNllRd29hZkpxSUdDUkRzT3E",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWERrZDUwSWhrRzg5ajdpaVBYQ2JzdUVRR1hZOXh3NzZsWG9wQXJ1S0xaTEhadktreF9rMUVRWEZzWFk5M3RfbURjR2tQbmZuMkxCTkxub1hEVGhZb0ZEV3F4djdGUWlSVGxPLXpONGRvS0ZBZVU4NzFWNkNIZ3pia0lfQXQ3SG1pNFQyS3BQVHdhMHU3MXJfWTlDR3FTUWg4bHEtVG1tVy1YdjVQTm0xYlFILTl3ckhwbW1reGEyM2c5U1JEbFdjMHh0cUMyaXF0dXZYUl9oRGNEU0YwRXdFWkQwbDZkQ2F5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMHh5WnAwMHRWMXNEZF9rSThIaEVuRHh6cG4zQVNvOF91b3lWd01tV2UwXzFZMzZXdnZoQ0JZbWZzWE9zdGRiaThZM01MUXZfQVZkSzVmbWxPYVRPVWlBY0hKcnhSM21FSlRJaTUxV0hRYWs3d09JT0VqdDFJNW9hd3lzS2ZiS3lXYWhUNUdBem5Cejg1Q1Z4NEt1ay1WalJpN3hObnM5TnNTNzdhVlc2TzUtbnBGQmNRdE1UOWZOdlprVTB1d0dNelZVS3NMY2lMbzlfdjlvWDNqTVgwYUxIOUI2MGZCQ25nMVZhY2stVdIB9AFBVV95cUxNR3Q1dUI4WEh2UzlYZkVDMnpVN25JVzhVMWYycDNiTUZFZlE4MnZteTUyQzZtTnJKWjJpMS1QRDdod0JPZlkxUTZKZTlKV2hDUGJDZXZkRlQwTUo1SjFfc3NzMnBoTFd4Y0NENzI1VDRMb2ZlSFBiVHV6VGl6TERXc3E4QzdnYWpET095OHltLS1fSjljV195VXlHUHVNWXA1ck52UktrQy1SVVZraWNuQlZqLVh3S3NJWkwxNHQ5Q2JQYml4bWc2aThzR0tkdjFxVGtmODZMN2ZnQ1VtNHFZVUphbHpSTWI0czNfWFJ3dS1SQmxP",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOalNqRzBDZGUyX182c3AtZzVMTnlfWUU2Sld5cy15SWhCa2tnWEpjbmtHeXFxWVFEOEQ1Uk1JTi1VZHppRUdQdV83c1BmTFZSaGpRdDZ6Slh2ZXhNQWR3MmtCVlZKbFBxRnR2UDVrczl1WGpSWnJ5d0tMRGF6RldWV182U1VkWU9La0h5ZTJCendoSG5DQlptakZzUVpDUEQ1S0dfaW5WdnhEcWo4UXl1VEtfSFFrOVpSS0V1Qi1XN1EydTB2YTlUOXZzbEI0NkRmSk80bXIzRDBlTW9aSzhid0RFNnEtTFNYZDRWb0dtTQ",
@@ -100,6 +100,7 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmZkZ3FiejlXOXQydjlONDFQUV9TcVVnNlFsdm5feUlnM0NLS1NqZ1g0UXdGbXVZaWJNeFBiV0VXUFg2cGx2NW1nUGppbGFEcC1CNHo2bTR2cE5vb0hKd3FOVTZlUS1RdG14a2Q0UThXanhvbmxSRFZqVHg2a0NzR18tTXZjQQ",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkVjeTN4TVNzcnFfbnZrcHZYSF9vRHFTQUV0bV9pcHlLWlNacVJqeW90Z2tFQ3htLUF6YlRYMEdxWE9OTDU2YXloMW9Uc1d5dFN4MnA3UWFQRmZfN2xjSmE1eUhQMFBkWk5sWVR2UE5tUDBiem95REF4akIteEh2bFY1X0dnSUl4Y0h2dg",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWQ1RllvTUpVOFUwSUEtNC1Jd3VOSEJzTGE0UERXS3dEby1kam43enFtNzJPSFFwOXhHYlUtRW9lRllCb3h1eW0zS19WTTh1T3hJRVFDOW50NDByemVYdW5oWWRDODQxdF93U2xfT3B1dU5xS2JoTV9jZENHamtuaHhiUnJCeVBwTnpRZ0l3",
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSjltS0hFcjlUOFB4NkZvZFpLS3hFVEhZaFlLNGgxSFJlbWlBWTBMeHZWY3dEOEJUU0VTNXNSQ2czeXdqLVJQSnkwVVVPaXFVSG9zMHRWTVFGbkJ6b2xxdUgzQVl2dkJoaFY1bDVMV0VXTnA4QmNLb1RUd3pIZGpVOWNHN1lsS2Z6aHNUV2Qzd2ZfQ1lVMzJaOTM0WTR0S29aMDg3c2NhRzV5RWFmbVo5Wm5WWkg4ZklXYnVzTjNoVGFGQnhSS0NiOEFkWHBEbmVMdFFzendtY011VmpVQjlJTTBjcXVoT3FRbnRZRHM4LWhrTUIybVJKOTBTcU85SWxQVEtYUkFJekJlcUFiX1FwZQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9Udjc3Y1lsemltSy1kVmM3YkFTWnU1ZnpLVUdIZ0JaSWJhX0wtdTFlQ29FaGllc0ZYOU0tR0JZZ2d0QUVaQzFycVVfUWRXcDRmQnVZaF9DMDUwTzBHaDdlN1B1Qlg5MmtVc0xaR0xLV2szQUpHUUg3TFFwaTdSZk1HOGFQWWlpVGZzb1M5LXlKQQ",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUhDUUEwRGppSi1fREI3Q3djNkdpdFNsRlM4RGQwa2xPRnFfbDNiS3R6OEJUYUw5ZUwyTU82WVkyaVNnMDcwWm42NUYwMTNXSG1hLWJvMkF4Qm1ITHZJY2F3Yko1SUxvaDMzUm1ScmtqS0ZnYXdMN0VsQ0FkZ3VzakRzWDBTbktPQllBUE80b2t6aEpj",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZXam85Z0lCUF8xSWNldG1lcHFBNkFYZVJzeWs3eFRNbkl2R1I1VTNMUWtNNGNTcFU4bElNV3FUNUItV3prZG5VTmEybzdIVUtmZzlPSm1iWm1XR0FoN2N4SU5GeWdWRnNaVWJ5QmlmMVBFTGpRV3pjaXgzU3Fnc3RUWERidHN3bklVTzhUQkM5dUJWOVRTdVB3",
@@ -129,7 +130,6 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2pKeW4wX3ViQlR1WmVGcnJZLXl5MVFBb3BXUTFZOWYwWEdvNkdUZS1LNzdPSlk1WDdrc18zZ21lZXhTNUFNbVYwb3R0bWNzbjZHdERNUkVaS2xsNFJ4WXZIS1lPeTZLNm5hZW9Dc082cDNPVUNrRjQxLUZGVVkyTDRtSHZKNFIzamp5QVptREJPZkNBOGdBVEdMS01hVDRDVXVmU3dLdnB6eUgzNjRmaG9BSWhFUlNIMmNJcg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0cxSklZZThSTDdJV0dUaXFCa2hjSm9pYU1lN1haanJyREkzYzNqN2ZaUEhiREpaNERQZ21IOFFxMUhqTkVQZkZHcExyaFB5NExiTVRnVWxEeU5VRmdhX21jVTRSQmRCSk5GdjR6NHZWdWs1R2V3NVEwWVM4Tkg4eFlzLVlmWjBFRkItcEotUHN5N2NvdmdKeExPSm5IZk5BUUxhSHJIQW05b2I2UEUtLVdwa2ZvWkJtc1k3MVpR",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNoaUFIX3o3YWpXQ1VCejZpZ1MtUWtuT0g3bWhfclVKYWpJZVlrMEVDcHBjZW9HblJ5Y25ORWlMSkxPeXBWazZoWFZrVlktdWoxbkhFTjNvX1BJNU1Ka3c0RlhVdWRJQkxHTUN6eS1FWmpKSnpiazVIREtmVHo1ZWxaTWRYMkpwRmJQM0N2MWwwMmlXQnNYRWxtY1Rkb0ltWE9jQTFZUmxHQlJpVjVyZXlZQUZ4SjNKOHZER2JTLWs",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWVDNC1GRkV0a182eWtyQ1dCM3NINGZIZkQxRUhXd2tWNHJyd3o1eFFYc1ROUXc3Ty1UYjl3b2pOMlgtV1dvdzRUMkM0VkVNa0FpclF6ZGV2M2pxOVg1d1dkOW1aNUEtbEhYSzZhdW1qWjlBNXpjcUN0enBoYVpIejdqOHlvd1Bma0toTDNDUjNZVkhiZ0daYS1xQ1d4SndZWWUxNUhiWjF2TXRvbFl4MVBBQ0k1Mi1CZjhxaklfdWQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0FJTUpmeHBOeXRZWHlBXzFoejlXdzRLeE9PX2N6emZjOXpfbGNJaGc1QWF1S2xoMzlWMGRJT1dfUXNLUzBvUjJwRUZRSjlvSHFLSmN1VEl1UVdGVHhoNi1jUVdIcG5ITktVVFhjYk52VXduT05CM05jeXl0RXo0eE91Mk1rN1YwU3RtakthWWpJTlZNRngtdFIxNVR0ZnZXczJSUmlhdUF3dVpPeUwtTXpYZ29hdlprRG9FMXY3NGR1OGM",
@@ -152,36 +152,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Армія США запустила Project Gatekeeper і планує додати до нього провідні моделі ШІ",
-      "original_title": "As Project Gatekeeper goes live, Army plans integration with frontier AI models",
-      "summary": "Project Gatekeeper автоматизує процес отримання дозволу на експлуатацію (ATO), який зазвичай триває місяцями: розробники завантажують код у DevSecOps-платформу армії США й майже в реальному часі проходять перевірку в ізольованих контейнерних середовищах. Згодом до системи додадуть провідні моделі ШІ для посилення наявних інструментів безпеки, зведеної звітності та пріоритизації виправлень, але які саме моделі, не розкрито. Якщо проєкт спрацює, комерційне ПЗ швидше потраплятиме до армії без пом'якшення вимог безпеки, а вендори зможуть перевіряти код ще до офіційного конкурсу.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
-      "published": "2026-10-26T15:28:18+00:00"
-    },
-    {
-      "title": "Зеленський: Київ майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
-      "original_title": "Україна майже місяць чекає на підпис Гегсета щодо ракет для Patriot і NASAMS",
-      "summary": "Затримка стосується ракет для ЗРК Patriot (PAC-2 і PAC-3) та NASAMS, у якому використовують AIM-120 AMRAAM, AMRAAM-ER і AIM-9X Block II. За словами Зеленського, за 90 днів Україна отримала від США лише 24 ракети для Patriot, хоча частину контрактів уже оплачено. Якщо постачання й надалі зволікатимуть, це обмежить спроможність ППО перехоплювати балістичні й крилаті ракети та літаки, а українській стороні доведеться шукати запаси PAC-2 і PAC-3 в інших партнерів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
-      "published": "2026-10-26T15:40:46+00:00"
-    },
-    {
-      "title": "Ліван розпочав розширення портів Бейрута й Тріполі після вступу до IMEC Ports Club",
-      "original_title": "Lebanon begins expansion of Beirut, Tripoli ports after joining IMEC Ports Club - Arab News",
-      "summary": "Згідно із заголовком Arab News, Ліван почав розширення портів Бейрута й Тріполі після приєднання до IMEC Ports Club. У наданому тексті немає даних про обсяг інвестицій, джерела фінансування, потужності чи терміни. Тому оцінити масштаб проєкту неможливо. Лише за заголовком можна припустити, що Ліван намагається підвищити роль своїх портів у логістиці коридору IMEC. Реальний вплив на торгівлю й інвестиції залежатиме від подальших деталей проєкту.",
-      "source": "Коридори · IMEC",
-      "publisher": "Arab News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNoaUFIX3o3YWpXQ1VCejZpZ1MtUWtuT0g3bWhfclVKYWpJZVlrMEVDcHBjZW9HblJ5Y25ORWlMSkxPeXBWazZoWFZrVlktdWoxbkhFTjNvX1BJNU1Ka3c0RlhVdWRJQkxHTUN6eS1FWmpKSnpiazVIREtmVHo1ZWxaTWRYMkpwRmJQM0N2MWwwMmlXQnNYRWxtY1Rkb0ltWE9jQTFZUmxHQlJpVjVyZXlZQUZ4SjNKOHZER2JTLWs",
-      "published": "2026-10-26T15:41:58+00:00"
-    },
     {
       "title": "Експорт підняв зростання Китаю в III кварталі вище прогнозів",
       "original_title": "China’s economy steadies as surging exports lift Q3 growth above forecasts - Mercator Institute for China Studies (MERICS)",
@@ -733,6 +703,16 @@
       "published": "2026-10-27T09:04:00+00:00"
     },
     {
+      "title": "Монголія може стати новим покупцем чеських L-410NG та L-39NG Skyfox попри шість МиГ-29УБ",
+      "original_title": "Новим покупцем L-410NG та L-39NG Skyfox може стати взагалі Монголія, в якої всього шість МиГ-29УБ - Defense Express",
+      "summary": "За даними Defense Express, Монголія розглядається як потенційний покупець транспортних L-410NG і навчально-бойових L-39NG Skyfox. Наразі її винищувальна авіація обмежена шістьма двомісними МиГ-29УБ, тож ці літаки могли б закрити потреби в підготовці пілотів і легкій авіації. Про обсяги, строки та підписання контракту в повідомленні не йдеться, тому це лише потенційна угода, а її вплив на регіональний баланс сил буде незначним.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWERrZDUwSWhrRzg5ajdpaVBYQ2JzdUVRR1hZOXh3NzZsWG9wQXJ1S0xaTEhadktreF9rMUVRWEZzWFk5M3RfbURjR2tQbmZuMkxCTkxub1hEVGhZb0ZEV3F4djdGUWlSVGxPLXpONGRvS0ZBZVU4NzFWNkNIZ3pia0lfQXQ3SG1pNFQyS3BQVHdhMHU3MXJfWTlDR3FTUWg4bHEtVG1tVy1YdjVQTm0xYlFILTl3ckhwbW1reGEyM2c5U1JEbFdjMHh0cUMyaXF0dXZYUl9oRGNEU0YwRXdFWkQwbDZkQ2F5",
+      "published": "2026-10-27T09:10:00+00:00"
+    },
+    {
       "title": "Канада змінює проєкт бойової системи есмінців класу River: акцент на Aegis і готових рішеннях Type 26",
       "original_title": "Canada modifies River-class Destroyer combat system design to focus on Aegis and MOTS solutions",
       "summary": "Згідно з повідомленням, Канада переглянула проєкт бойової системи есмінців класу River: індивідуально розроблене обладнання замінюють на Aegis та готові комерційні рішення (MOTS) з програми фрегатів Type 26, щоб знизити ризики. Таке рішення, імовірно, має скоротити обсяг нової розробки й інтеграції, а отже зменшити ризик затримок і подорожчання програми. Подробиць щодо складу системи, озброєння чи строків у наявному тексті немає, тому оцінити вплив на бойові можливості кораблів поки неможливо.",
@@ -1213,6 +1193,16 @@
       "published": "2026-10-27T16:47:30+00:00"
     },
     {
+      "title": "Приватна ППО «Нова пошта» збиває російські БПЛА: вплив на оборону",
+      "original_title": "Приватна ППО “Нової пошти” вже збиває російські БПЛА, але що ж тестовий проект дає державі в цілому - Defense Express",
+      "summary": "Система ППО «Нова пошта» – це приватний проект, що поєднує радіолокаційний модуль з ракетним комплексом типу 9K33 Osa. Вона вже збила кілька російських БПЛА над українськими територіями, що підвищує оборонну здатність регіонів і демонструє можливість швидкого впровадження приватних технологій у державну оборону.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ3ZydGVBRzZQc1JrYzc1TW1FQnhzdlhHWEk1cjB1WDU5Qmp5N2p5dFFpU196bHBsSVJKc0pKaDVVenZBRnpEaVotWEljWnZUOHBqaTBka1poaFZKYkRiNmdXQTZob3B3cTQzQ05WX080WFR2c3U3dlE1ZHI1S25ObUpOa2laX3hrRlo0STBlcncxNEcwQzRPUHM3ODFxckxDZGNYaHRJZ3RCSzRUM2dtSjcyajd0QU1qWUNTX1NDYVB4TlJCTW9HZk4zeHJsMEdtUW41UmZQaldMZkR1",
+      "published": "2026-10-27T16:50:00+00:00"
+    },
+    {
       "title": "Єврокомісія пропонує Закон про кліматичну стійкість",
       "original_title": "EU Commission proposes Climate Resilience Law to address €50bn annual losses - INSIGHT EU MONITORING",
       "summary": "Європейська комісія запропонувала Закон про кліматичну стійкість (Climate Resilience Law). Він має відповісти на щорічні збитки в ЄС, які оцінюють у €50 млрд.",
@@ -1321,6 +1311,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBtY0VaYWVBVXNNeks5cmw5aUtGSll4eWV1SFN2ZnRfXzJocUNlN0E0R0dpajJfYVR1X1JXa3JkMEx3WnhYNFc4U05idWE4cjNadEd1OXRxNGE1cHFNdzdPRnRwQ1NjXzJoT0JkSDh6YWU3UHNmQ3I2YTZxalFBVWtOYnZpS1pVeV9LVHVsTlBTcUNSTU81aGlQZw",
       "published": "2026-10-27T18:10:44+00:00"
+    },
+    {
+      "title": "Китай можливо купив іл‑78МК‑90А для Росії: нове фото підтверджує",
+      "original_title": "Невже Китай вирішив підтримати рашистів через купівлю літаків Ил-78МК-90А, якщо нове фото може вказати на справжність покупки - Defense Express",
+      "summary": "З'явилося фото, на якому іл‑78МК‑90А, модернізований танкер-рефіл, розпізнається за китайськими позначеннями, що може свідчити про його продаж до Росії. Іл‑78МК‑90А має збільшену паливну ємність, нові авіаційні системи та здатність підтримувати бойові літаки у повітрі до 12 годин. Якщо поставка відбудеться, це подовжить діапазон та тривалість польотів російських бойових літаків, посилюючи їхню оперативність у конфлікті.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSjltS0hFcjlUOFB4NkZvZFpLS3hFVEhZaFlLNGgxSFJlbWlBWTBMeHZWY3dEOEJUU0VTNXNSQ2czeXdqLVJQSnkwVVVPaXFVSG9zMHRWTVFGbkJ6b2xxdUgzQVl2dkJoaFY1bDVMV0VXTnA4QmNLb1RUd3pIZGpVOWNHN1lsS2Z6aHNUV2Qzd2ZfQ1lVMzJaOTM0WTR0S29aMDg3c2NhRzV5RWFmbVo5Wm5WWkg4ZklXYnVzTjNoVGFGQnhSS0NiOEFkWHBEbmVMdFFzendtY011VmpVQjlJTTBjcXVoT3FRbnRZRHM4LWhrTUIybVJKOTBTcU85SWxQVEtYUkFJekJlcUFiX1FwZQ",
+      "published": "2026-10-27T18:11:00+00:00"
     },
     {
       "title": "Іран і Росія розглядають спільні нафтогазові проєкти",

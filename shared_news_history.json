@@ -6,6 +6,7 @@
     "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
     "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
     "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
+    "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
     "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
     "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
@@ -17,10 +18,9 @@
     "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
     "https://defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
     "https://defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
+    "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
     "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
     "https://defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
-    "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
-    "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
     "https://defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
     "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
     "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
@@ -37,6 +37,7 @@
     "https://militarnyi.com/uk/news/evakuatsiyi-poranenyh-dronom-stargate",
     "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
     "https://militarnyi.com/uk/news/giperzvukovu-raketu-blackbeard-na-f-16",
+    "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
     "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
     "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
@@ -148,40 +149,9 @@
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
     "https://twz.com/sea/britains-final-plan-to-kill-argentinas-super-etendards-attack-jets",
-    "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Пентагон назвав першу американську субмарину для ротаційних сил Submarine Rotational Force-West в Австралії",
-      "original_title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
-      "summary": "USS Colorado, багатоцільовий атомний підводний човен класу Virginia, першим увійде до складу SRF-West: це ротаційне угруповання з чотирьох американських і одного британського човнів на базі HMAS Stirling поблизу Перта. Повної боєготовності сил очікують у 2027 році. Присутність союзників розширить ремонтні та логістичні можливості в регіоні для партнерів AUKUS і допоможе Австралії підготуватися до експлуатації власних атомних субмарин зі звичайним озброєнням. У публікації немає тактико-технічних характеристик човнів.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
-      "published": "2026-10-26T18:50:06+00:00"
-    },
-    {
-      "title": "Армія США тренує розкопку тимчасових полівих гробів",
-      "original_title": "US Army practices digging temporary battlefield graves",
-      "summary": "Під час навчання в Північній Кароліні солдати Армії США випробовували швидкість розкопки тимчасових гробів, використовуючи моделі тіла та водні контейнери, щоб зберегти йдентифікаційні дані. Це підготовка до можливих масштабних конфліктів, де швидка евакуація могил неможлива, і підкреслює важливість систематичного управління телесними залишками у високотемпературних умовах.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
-      "published": "2026-10-26T18:57:25+00:00"
-    },
-    {
-      "title": "Британський підрядник Babcock пропонує США фрегат типу Arrowhead 140",
-      "original_title": "British Type 31 Frigate Variant Offered To The U.S. Navy",
-      "summary": "Babcock представив Arrowhead 140 — базовий проєкт британського Type 31 — як варіант для майбутньої програми фрегатів ВМС США. За планом, будівництво може здійснюватися в США за ліцензією спільно з Huntington Ingalls Industries, що забезпечить швидке масштабування та інтеграцію у американську суднобудівну інфраструктуру. Це дозволить США швидко поповнити флот малих поверхневих бойових кораблів після скасування програми Constellation, підвищуючи їхню оперативну спроможність у морських операціях.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy",
-      "published": "2026-10-26T19:53:56+00:00"
-    },
     {
       "title": "Британія на РБ ООН закликала активізувати зусилля з пошуку зниклих у Кувейті та Іраку",
       "original_title": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
@@ -1651,6 +1621,36 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YWlpdGlIYW1ncGhwUUlTX0lhV2h3YlBuUWNlajNqcUlkcmlWN19rMk00UVFPc2VaMFVTemFaTEtVWUFpWG5nZDI5clJHSVJBb3J4R1NDNS1fQ0Zt",
       "published": "2026-10-28T08:32:41+00:00"
+    },
+    {
+      "title": "Австралія посилює ППО: вибір платформи для проєкту LAND 6504 очікується наприкінці 2027 року",
+      "original_title": "Australia pushes to beef up air defenses",
+      "summary": "Австралія планує обрати переможну платформу для програми LAND 6504 наприкінці 2027 року, а запит пропозицій (RFP) очікується на початку року. У наведеному тексті немає технічних характеристик системи чи переліку претендентів, тому оцінювати її можливості зарано. Сам графік свідчить про намір наростити наземну протиповітряну оборону Австралії, але реальний вплив залежатиме від обраної платформи та термінів її постачання.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
+      "published": "2026-10-28T08:34:00+00:00"
+    },
+    {
+      "title": "Якщо Канада обере істріляч Gripen, ці місцеві компанії допоможуть Saab поставити літаки",
+      "original_title": "If Canada picks the Gripen fighter, these local firms would help Saab deliver the jets",
+      "summary": "Saab оголосив про створення альянсу з CAE, IMP та Magellan Aerospace для збірки та підтримки Gripen E в Канаді. Якщо уряд вибере Gripen замість F‑35, це забезпечить місцеву виробничу лінію, електричну збірку, а також навчання пілотів і техніків. Таке рішення підвищить національну суверенітетність, розвине авіаційний сектор і надасть Канада сучасний багатофункціональний істріляч з високим рівнем авіаційної технології.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
+      "published": "2026-10-28T08:43:30+00:00"
+    },
+    {
+      "title": "ГУР розкрив мережу 49 російсько-білоруських підприємств, що створюють супутникову систему «Рассвет»",
+      "original_title": "ГУР розкрило мережу підприємств, які створюють російську супутникову систему зв’язку «Рассвет»",
+      "summary": "Гур повідомив про 49 російських і білоруських компаній, які беруть участь у створенні низькоорбітальної супутникової системи «Рассвет», включаючи IT, мікроелектроніку, виробництво ракет‑носіїв та наземну інфраструктуру. Планується розгортання 292 супутників, що забезпечать стратегічний зв’язок над Україною та країнами ЄС, а 23 з цих підприємств не підпадають під міжнародні санкції, що створює вразливі точки для гібридних операцій.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
+      "published": "2026-10-28T09:09:34+00:00"
     }
   ]
 }

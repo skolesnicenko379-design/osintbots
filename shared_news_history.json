@@ -51,7 +51,6 @@
     "https://militarnyi.com/uk/news/ssha-posylyly-ostriv-guam-bataljonom-ppo",
     "https://militarnyi.com/uk/news/sso-nimechchyny-rosiya",
     "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
-    "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
     "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
     "https://militarnyi.com/uk/news/u-rosiyi-pislya-udaru-droniv-goryt-zavod-azot-yakyj-postachaye-komponenty-dlya-vybuhivky",
@@ -82,6 +81,7 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWV3BPaDJNLVhNcjZVclFDcjJIUzRLQ2VTbnhCRDdXYVltVHVnQmljMmxCcm9TRHZJRjhzSEZIalc2U2JiUnB5QXhSNFA3eGJhMGfSAVdBVV95cUxNSnEtbVBweGQtd181S181cW43WFZqaW5hZEN2LTdrc084QkNFUkxuM2N2ZWFveDl0ejZZc1UySHJkX09pTnhBT3BpWkxpZnFqUWgxeGpzcEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZUhOMGNZVUNXUWlwTFN5THB3MllvdWN2bWhmdXM4MDBFN2FDYVRWUTBzY081VFdDcFJNZElObzlCMFZsTkh2cHFIQXAtemVJeHc",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oem1CUlRxczBwUDhXOUdqbkVkU0laN3JabU1kVzY5Mm5NLUhtblhCajNGNFNBVW00RG1mZ2E5OVZoNzBZblcxV3hRT2thckhzY1ZmM2FVYw",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uLVR3cjNaNzA5cmpVa3V6WElVcWcxTDF0bmE5cEdzODNhU2FEZlhtakVkbDdkREZEam9JNTgydkhPcmlKdDlLV0x1OFRiQU1GTnpidEx1TVlZNGs",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y19DT05NS210bDVrSHYwcUtJbWVKenIyTVd3MXN0NUtkSnpWWm4zSDh6Zmtub2F5TFdpNDlqN3hjMDVnMWdqSjlVN0RaSWpmZVpFXzM5Nkw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yM21YU295amc1TVU5VGVnSGE0WVdwMGNRZzl6WndfUmRUZ3lyTVBiVG9xMFExN2pkOXMxcjRXTnNKRzZkMXByU0NIcmNWQU42UXdoQmJGOUt3Zw",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUU5mZy1UZ1ZaaHh0bFk0ZVl3czhEUWZvdFgwUGxmZnNZbHFIUFhrMk14VHpla1RZaE9xTDN3WnUzQm9uT1FGR3FGLWFoTVdYVEFjTzJSV3FhdmNLYVVV0gFsQVVfeXFMTVlMN3dRMmR1OTlhUDdiU01JVnc5WDFaNWxuanRFVmRGRVRadGlicGtqVUZPcXlKSTluZVgzd21Mdk9palotdjBCRm13U2VzNFd0V3FUVUJCVnRFZmlYWDlpVm5TUlJPRG45eHl4",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "TAF Industries збільшила радіус розвідника «Бабка» до 60 км",
-      "original_title": "TAF Industries збільшила радіус розвідника «Бабка» до 60 км",
-      "summary": "TAF Industries оновила безпілотник «Бабка», збільшуючи тактичний радіус з 40 до 60 км і загальну дистанцію польоту з 120 до 160 км. Новий зв’язок Sign Engineering і акумулятор 30 000 мА·год дозволяють дрону залишатися в зоні розвідки довше, що підвищує ефективність місій без збільшення вартості. Це розширює можливості українських військ у зборі інформації та підтримці бойових операцій.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
-      "published": "2026-10-27T13:11:01+00:00"
-    },
     {
       "title": "TAF Industries інтегрувала ШІ‑модуль Aura AI у дрон Колібрі 10″ Advance",
       "original_title": "TAF Industries інтегрувала ШІ-модуль Aura AI у Колібрі 10″ Advance",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
       "published": "2026-10-28T17:01:40+00:00"
+    },
+    {
+      "title": "Джерсі підписала податкову угоду для стимулювання інвестицій",
+      "original_title": "Jersey signs tax treaty to bolster investment and support jobs - BBC",
+      "summary": "Відомство Джерсі офіційно підписало податкову угоду, спрямовану на зміцнення інвестиційного клімату та підтримку робочих місць. Цей дипломатичний крок має на меті створити сприятливі умови для бізнесу та захистити економічні інтереси території. Текст джерела не містить інформації про конкретну країну-партнера, дату підписання або деталі податкових ставок, тому подання обмежене фактом укладення договору та його заявленою метою.",
+      "source": "Treaties & Agreements",
+      "publisher": "BBC",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uLVR3cjNaNzA5cmpVa3V6WElVcWcxTDF0bmE5cEdzODNhU2FEZlhtakVkbDdkREZEam9JNTgydkhPcmlKdDlLV0x1OFRiQU1GTnpidEx1TVlZNGs",
+      "published": "2026-10-28T17:24:19+00:00"
     }
   ]
 }

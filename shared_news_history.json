@@ -10,7 +10,6 @@
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
     "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
-    "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
     "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
     "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
     "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry",
@@ -29,6 +28,7 @@
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
     "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
     "https://gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
+    "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
     "https://middleeasteye.net/live-blog/live-blog-update/eu-welcomes-ties-israels-next-government-palestinians-remain-under",
     "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
@@ -152,16 +152,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Як F‑15 і F‑22 допоможуть у закупівлі F‑47",
-      "original_title": "How the F-15 and F-22 should inform the F-47’s procurement",
-      "summary": "Аналіз показує, що досвід F‑15 і F‑22 може допомогти визначити вимоги до нового F‑47, зокрема щодо систем управління, авіоніки та боєприпасів. Це дозволить уникнути повторення помилок і скоротити час впровадження. Підвищення ефективності боєздатності в умовах сучасних конфліктів.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
-      "published": "2026-10-27T16:13:00+00:00"
-    },
     {
       "title": "ЄС запроваджує збір у 2 євро за дистанційні продажі",
       "original_title": "EU Introduces EUR 2 Handling Fee for Distance Sales from November - HKTDC Research",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
       "published": "2026-10-28T21:01:41+00:00"
+    },
+    {
+      "title": "МЗС Ірану: готовність до дипломатії, армія готова",
+      "original_title": "Araghchi says Iran will give diplomacy a chance but 'forces are fully prepared'",
+      "summary": "У середу міністр закордонних справ Ірану Аббас Арагчі заявив, що Тегеран продовжуватиме тісний контакт з посередниками, щоб надати дипломатії шанс, одночасно підкресливши повну готовність збройних сил захищати країну. За його словами, Іран вивчатиме пропозиції щодо реалізації «семиденного плану» протягом менш ніж тижня. Інформація опублікована агентством Middle East Eye.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
+      "published": "2026-10-28T21:34:06+00:00"
     }
   ]
 }

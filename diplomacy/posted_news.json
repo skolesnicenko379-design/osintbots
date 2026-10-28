@@ -1,13 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42QUNJLU9ySnVPZGJVT091MWdpMDlxUkV5cHBTSTN1bHpDNnZDQW5HYXF4VXRIZUowaU9WaEZSZFNRejlpYmRQTWsyNGdtb0hJY2c?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/un-demands-aid-access-besieged-yemen-city-taiz",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-full-text-mecca-defence-pact-signed-turkey-saudi-arabia-and",
-    "http://www.africanews.com/2026/10/20/orchestra-baobab-keeps-senegals-musical-legacy-alive/",
-    "https://www.theafricareport.com/433960/women-driving-innovation-in-cameroons-economy/",
-    "http://www.africanews.com/2026/10/20/woman-65-killed-in-shark-attack-at-south-african-beach/",
-    "https://www.middleeasteye.net/news/turkey-secures-strategic-win-over-greece-eastern-libya-maritime-deal",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/strategic-threat-israel-faces-healthcare-brain-drain-1369-doctors-leave",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE96WWVuUEZTdWhhTU9yTV81cTdaNmZkeVhKMkdZWUZPQnJhM1lkbF9JUVYxUm5HdmZoMnkwbnRsdk5kdUVONFFwUVplT080d1dkdEdGcmNhcTVEZkZRcUg2ckg1X1VDVE1QMEpCbWdOQmdROGxQcXo0?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1JaUWZqbmpMcWRkSlZFZVJqMGRYWmE3T3BiQnU2a0VGaGNBQnREZlRVTmhjN3U1UGdSc1lRZGtlNHlKM2pnTW83RFp1Sm55d2FGY0x1cThZTW9UTmFVX0VqcmIwQzZ5Z0FnTWJiSGk3aFVjdmtIUlk1MVFMUHczbUZwTTZGOUR6b25kV2tJY1VMX0xjN0NMdHVNU3JXaGZ0NXVqUtIBqgFBVV95cUxNdjZBZzlvN3JweWNUU2tXSzRla0Z4dHB3TFBoNElGX3FwRkFXMnI3b1Jibk1DTi03eGhLMGJSZUZ1MUVvdVVxZmNNQmVaS2pTS09obmFXN052UVhENVdTUDRsM0xIRS0tWVp0OU9LaUxXcGtZdXdNTlBua09qRmZweVFER0NWOFVGRjU0NzN6UnY5V1BYT1pVUUZ0aF8ycTN2VGFMYUNMTVhJQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazdHcFhlVHZDb2RadDJtNUVldWVQVXlhQ0hla0hoeG53YXpSbWdEY2hNRGt0eS1rQlJNUUZKRmY2QWZyUEVmTE9nZ3hKLXVNSVk1OHZFVGFkVkRsVWtWdDYyNldyUFJfZFB0bWU0aW9pSmlhZVA2b2ZxdzVYVlVnNEZSdzNqMTNiWlRRb0g5X25xc0tfWDVLb2FQRXowQXJRV3pCc3JoeXFZSTBzTmRfaUlaWQ?oc=5",
@@ -1199,23 +1191,17 @@
     "http://www.africanews.com/2026/10/28/nigerias-dangote-oil-refinery-closes-historic-ipo/",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmw0cXRSb2JhRTZWbklyaGhMZkhFZ201OFY0eWFISG44RGxaWnhCbjFJdVY0S1pzSzhwNzdrOHIxLW1YQ29JUnBNWnBnYU95UlgyZ3hLMzIzUkFITzJyYzB3aGVxWjNldkxkTXdZRVJoc1hoLXhNSW4yWHVORkVlZHhISnBjYU1OOWJNTlpoeU9PUDdtUTY0U2Zic0EtUGRuQVd5MS1PSkJIM1nSAbABQVVfeXFMTWhMZ0RKM2QxU2tRQ0toU2o3dnFvT1lJRTgwQ2hmanJTS2c0cGFEb2U3VWZ4TjJpaXo5OHV2bkZGSFFhZ1c3RlZpX0JmYVhFNEx0SndPWW5CTVBpd2E1SjNvSEl1U19PYmswUUdHak01OXhnUWNCWnAyeUxtZ0lJTTZjMnJHeWlDMWFrYjltQzlHeFFtZEJTbk0yU0NsdVp2V293dkNNVkM4YXlpMGRwdFI?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPT2R5WktmZTJ2NjZBOExJdXJIcHBMNGZOOUU0X2xCZDRmUzJuZUhzVEw4VnhZTGJ5Q1lwelZPdWJiX0E5enRERkI5TlM5OHBURkNWSGRfcV9TOF9Za2x4WGt4VGIybzlmWXRSekY0ejJEaXEyVFl2dFpwNnFxM1R2MWN5eU1aVjJIQzBTcm9VZUdnZDZ4N1dOSGdEWFNmM3B2MGtwdko1dVZ0cWxCRjlFalZRdzlfbDFXU3pWdlVjOFhZX0swUGZDQWVPWGVSaVRvcmI1NkQxTGl2RlB0LTJzb3ZCNVdEWk1vbDExM3lUcjlvM0Ri0gH0AUFVX3lxTE9PZHlaS2ZlMnY2NkE4TEl1ckhwcEw0Zk45RTRfbEJkNGZTMm5lSHNUTDhWeFlMYnlDWXB6Vk91YmJfQTl6dERGQjlOUzk4cFRGQ1ZIZF9xX1M4X1lrbHhYa3hUYjJvOWZZdFJ6RjR6MkRpcTJUWXZ0WnA2cXEzVHYxY3l5TVpWMkhDMFNyb1VlR2dkNng3V05IZ0RYU2YzcHYwa3B2SjV1VnRxbEJGOUVqVlF3OV9sMVdTelZ2VWM4WFlfSzBQZkNBZU9YZVJpVG9yYjU2RDFMaXZGUHQtMnNvdkI1V0RaTW9sMTEzeVRyOW8zRGI?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNFl1dVJwTGRodVQ4Y2UxZGlvY1lGZVUzbDZpVl9NOHJJYVVFLW5pNmt2OGtkLVN0WjAwWkQzdEFCcWVkeVE2MlRuc1dQUjN5aGfSAVdBVV95cUxObEhNODhwMjlvZTI0eDgwTkpFVTBpMWdsU052WjMwdHFFT3ZJNUhSUkNrWndkVGtiVF9MSXhhVWNIR0VhbFV5MjFkdDR4WWhfVDhpTjYyUGs?oc=5"
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNFl1dVJwTGRodVQ4Y2UxZGlvY1lGZVUzbDZpVl9NOHJJYVVFLW5pNmt2OGtkLVN0WjAwWkQzdEFCcWVkeVE2MlRuc1dQUjN5aGfSAVdBVV95cUxObEhNODhwMjlvZTI0eDgwTkpFVTBpMWdsU052WjMwdHFFT3ZJNUhSUkNrWndkVGtiVF9MSXhhVWNIR0VhbFV5MjFkdDR4WWhfVDhpTjYyUGs?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JETEwxQWpCbDBxRmQ4RjVsbEktclotY0R3Q2RKOWk2dS1wYXJhb3BtRVYzWUtidE9WSTVPMk5vZXJhYUtzWktrTzlTZ2JZb1RSaXYyNnVrbUlYdkRXZzZGa05YcjJFRHpXVVNmQnpCYVdqTTRmc0VaQ05JMklrNUs5Tk8yeVc4bDczRWlCdUxGOF9kUkV4dF9EbHlzbjlDTmpvbDhUNko4NWQxbVE5bEd3WUpFaEtiWUJz?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wVHRPeGRCcnJlQ25lai1pdXZjTHJ2dWFsTFRtWUFLOG8xTmRraFc0bXMwT0t0Yk9OaVVKSXdBNEpyNXNmeXN5ek9iNzh3bkgwdGstd3dKMmNrdmpJdTNmRzY0T1p2SUdVWTBn?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/after-taking-break-vote-elections-israeli-army-resumes-home-demolitions",
+    "https://www.gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
+    "https://www.theafricareport.com/434764/nigeria-algeria-liberia-african-governments-woo-oil-investors-in-licensing-revival/",
+    "http://www.africanews.com/2026/10/28/putin-hosts-counterparts-from-mozambique-libya-and-equatorial-guinea/",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEVtaW5vSnhkRHhEa2xaNFlEeXhsU3pKVlE2UHVKSllYRXVQZFFrMzlhVUFuREUzTC1mdlVBSTJ2M09PMlBUanhNLVhqanFXRUMxTF9QaElQeXRsR0M1TXVtcWo3QkhHVnpVMU9TMm8wdDczUGpJaDZQV1hIN2RMYnhBVHJLWG03SW5GX9IBjAFBVV95cUxNcW1NRzVYb21QQ0pvSVk5bFQ1VzlVczd1a0J4eWlLaDc1MkxrQUR0RWoycktUdVI4X1VPTzd0SnZJYVdyTkJIR3I2UHJ1djN1SmhWYlhlYmNvaE9IUXFtd2pUQTZUaFZVUHdZVkhLRnI3bmJGMllSb3JfMUpDZWR6ekNVTEFHQlVsTkNoRA?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRV80Mkx6N25NQ2FnT1hhSG9LdDhuNFIxLXVqTm1hWC0tUFZOaDhnRHcwcUhrdXZUNGxnYmZDVGRVVVA3aFZnMkNwR3JkRGVTLXYxMkU1c3ZENUdud1Z3aTkxUGgteE5lVzBXVzlkZzVMcDJWTHp4N2NFTDJwdVctSUJrdUhPczZfLWJhZld0SE9QU2t1YWRlZllQTXE5bDhTTDBlOFF1U0VYdw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Судан вимагає відмови від кандидатури Нуссейбе на пост генсека ООН",
-      "summary": "Постійне представництво Судану при ООН закликало держави відхилити кандидатуру Лани Нуссейбе, звинувативши її в «білому пранні» ролі ОАЕ в громадянській війні. Дипломати вказали на відсутність незалежності та об'єктивності еміратської міністрки, яка раніше заперечувала підтримку Раді швидкого реагування. Заява прозвучала на тлі того, що Велика Британія схиляється до підтримки Нуссейбе, яка стала фавориткою після тупикової ситуації в Раді Безпеки щодо наступника Антоніу Гутерреша.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-26T20:21:18+00:00"
-    },
-    {
-      "title": "Британія на РБ ООН закликала активізувати зусилля з пошуку зниклих у Кувейті та Іраку",
-      "summary": "Заступниця постійного представника Великої Британії при ООН Кейт Фостер під час засідання Ради Безпеки ООН заявила про необхідність продовжувати зусилля задля пошуку зниклих безвісти 315 кувейтських і третіх громадян внаслідок конфлікту між Іраком і Кувейтом. Вона наголосила на важливості підтримки Тристоронньої комісії, використання ДНК-аналізу, геопросторових інструментів та отримання інформації від свідків. Британська представниця також закликала відновити роботу Об'єднаного комітету з питань",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-26T20:07:23+00:00"
-    },
     {
       "title": "Грецький міністр закордонних справ назвав турко-лібійську морську угоду нікчемною",
       "summary": "Міністр закордонних справ Греції офіційно заявив, що морська угода між Туреччиною та Лівією залишається нікчемною. Це дипломатичне твердження підтверджує незмінну позицію Афін щодо недійсності документа, який суперечить міжнародному морському праву. Заява міністра є формальним кроком у триваючому територіальному суперечці у Східному Середземномор'ї, де Греція та Єгипет виступають проти розмежування морських кордонів, укладеного Анкарою з Триполі.",
@@ -1411,6 +1397,20 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-28T12:14:30+00:00"
+    },
+    {
+      "title": "Вірменія готова підписати мирний договір з Азербайджаном у 2026 році",
+      "summary": "У заяві, оприлюдненій Public Radio of Armenia, міністр закордонних справ Ваге́н Мірзоян повідомив, що Вірменія готова підписати мирний договір з Азербайджаном уже у 2026 році. Це офіційне повідомлення про готовність до підписання, без уточнення деталей переговорного процесу, місця чи конкретних умов договору. Інформація не містить підтвердження вже проведених переговорів чи підписання документу.",
+      "source": "Treaties & Agreements",
+      "publisher": "Public Radio of Armenia",
+      "published": "2026-10-28T13:54:55+00:00"
+    },
+    {
+      "title": "Велика Британія на засіданні ФСК звинуватила Росію у зростанні військових витрат",
+      "summary": "Політико-військовий радник Великої Британії Аррон Ньюбл під час виступу на засіданні Форуму з безпекового співробітництва (ФСК) заявив, що Росія витрачає зростаючу частку бюджету на війну проти України за обмежених успіхів на полі бою. Британський представник зазначив, що дефіцит російського держбюджету зріс, а ліквідні активи Фонду національного добробуту зменшилися порівняно з періодом до повномасштабного вторгнення. Ньюбл закликав російську делегацію пояснити, як такі витрати суперечать зобов",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-10-28T13:28:52+00:00"
     }
   ]
 }

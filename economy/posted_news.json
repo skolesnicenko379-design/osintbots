@@ -881,51 +881,15 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUhDUUEwRGppSi1fREI3Q3djNkdpdFNsRlM4RGQwa2xPRnFfbDNiS3R6OEJUYUw5ZUwyTU82WVkyaVNnMDcwWm42NUYwMTNXSG1hLWJvMkF4Qm1ITHZJY2F3Yko1SUxvaDMzUm1ScmtqS0ZnYXdMN0VsQ0FkZ3VzakRzWDBTbktPQllBUE80b2t6aEpj?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVhSR0M2R2d6Z2ZkZFBQSm9wUHBxaWt6Qm5CbXNMRGdFcm9PRm1YSzBxRWF5RzBrbkdyUTRjLTJ0NmRxN1JhUjdDbUdNamxfaW16aTlSWFl4d0wxSUxGR1g4Ymo4UTNPSFcyYlhuQW9aS3VBUTdkT3A2U2VmaFRtZFdkUEJ4X0tETS1LWjdxY3d6OHBWcHI3V01lY2hiMFJUS0E?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUU5mZy1UZ1ZaaHh0bFk0ZVl3czhEUWZvdFgwUGxmZnNZbHFIUFhrMk14VHpla1RZaE9xTDN3WnUzQm9uT1FGR3FGLWFoTVdYVEFjTzJSV3FhdmNLYVVV0gFsQVVfeXFMTVlMN3dRMmR1OTlhUDdiU01JVnc5WDFaNWxuanRFVmRGRVRadGlicGtqVUZPcXlKSTluZVgzd21Mdk9palotdjBCRm13U2VzNFd0V3FUVUJCVnRFZmlYWDlpVm5TUlJPRG45eHl4?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlJ4RWJ5Wm5hTVY3d3ZzUWhPRElwQldoYnBCanI4SW14cm91TXFxbkNhR3JsNWZmUDIya0M3QVNUQ2ZtUEZZUnRQRE5XdEMzNmtXcTdqRG9TV2o4STdTczZkMGRPTFdRcW81MGNLMVJTWHk0aTh1a2ZVbjZBSmVDY0NMRW9XUzNfa0NtRlM4czc2Wi1KZVZNWmIwUjVyRnZya29DSzFJUXJKYnN0?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlJ4RWJ5Wm5hTVY3d3ZzUWhPRElwQldoYnBCanI4SW14cm91TXFxbkNhR3JsNWZmUDIya0M3QVNUQ2ZtUEZZUnRQRE5XdEMzNmtXcTdqRG9TV2o4STdTczZkMGRPTFdRcW81MGNLMVJTWHk0aTh1a2ZVbjZBSmVDY0NMRW9XUzNfa0NtRlM4czc2Wi1KZVZNWmIwUjVyRnZya29DSzFJUXJKYnN0?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZENWVkcy1YVHlSRVBaaGI1cjRGX3pVNGNEY1FOY25IeUp0bkt4X1p1bTJtXzRxdWQyaV9ZV2dKWFRpbUFHR19HZTZ1VmpVWHZCNUN3RXdVOWN6cC12c2xQNmNUaHVlVjFlNjVQTkZGYzhLSDRrMTlGSEhRSzFKdUtlb2ttRS1EejA1ZUo4VUNfS1Q3dDdMd2RZYkdaQXV0c3JZZ19vRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zR2J6Zy1ESlpwMS1nUDVGdVdEU0UzSHE3eG9VUkRfaEc4N3RGX0JpR2hEQmZkRUx2MU9Od1FIeXpxcXpxaXBZN296S2dOTE8tNFIyajJKUjhzSVdzSWYyenNScHNBSWhwMHZ6eU5CMWZkNnBJd2c?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMHh5WnAwMHRWMXNEZF9rSThIaEVuRHh6cG4zQVNvOF91b3lWd01tV2UwXzFZMzZXdnZoQ0JZbWZzWE9zdGRiaThZM01MUXZfQVZkSzVmbWxPYVRPVWlBY0hKcnhSM21FSlRJaTUxV0hRYWs3d09JT0VqdDFJNW9hd3lzS2ZiS3lXYWhUNUdBem5Cejg1Q1Z4NEt1ay1WalJpN3hObnM5TnNTNzdhVlc2TzUtbnBGQmNRdE1UOWZOdlprVTB1d0dNelZVS3NMY2lMbzlfdjlvWDNqTVgwYUxIOUI2MGZCQ25nMVZhY2stVdIB9AFBVV95cUxNR3Q1dUI4WEh2UzlYZkVDMnpVN25JVzhVMWYycDNiTUZFZlE4MnZteTUyQzZtTnJKWjJpMS1QRDdod0JPZlkxUTZKZTlKV2hDUGJDZXZkRlQwTUo1SjFfc3NzMnBoTFd4Y0NENzI1VDRMb2ZlSFBiVHV6VGl6TERXc3E4QzdnYWpET095OHltLS1fSjljV195VXlHUHVNWXA1ck52UktrQy1SVVZraWNuQlZqLVh3S3NJWkwxNHQ5Q2JQYml4bWc2aThzR0tkdjFxVGtmODZMN2ZnQ1VtNHFZVUphbHpSTWI0czNfWFJ3dS1SQmxP?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWRwVV9FWTdqX3owblhFcVRKVUdwU1ZLTUhYSnNMWEJXTnJvRVFHalRmdGwyZVp1dDQ4d0MycFBDQ3BVeFlKT0Y0bEJ6cGRVLS1tSWduZy1kQm5FckxVUkxSUWVpeE9EVUJfLTI3bGtLZWRlMU12S0lybkcybnphbno5ME5kNUNYRDJteldxOHB4Wno4d3czcUdHX0hmV3ludTlzWUliZDlnYTc1SlY0?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yM21YU295amc1TVU5VGVnSGE0WVdwMGNRZzl6WndfUmRUZ3lyTVBiVG9xMFExN2pkOXMxcjRXTnNKRzZkMXByU0NIcmNWQU42UXdoQmJGOUt3Zw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "МВФ і Bruegel закликали боргові країни діяти завчасно",
-      "original_title": "IMF, Bruegel urge countries in debt to act before the markets do - eKathimerini.com",
-      "summary": "МВФ та аналітичний центр Bruegel закликали країни з боргами діяти раніше, ніж це змусять зробити ринки. Про це повідомляє eKathimerini. Заклик стосується боргової політики урядів у межах глобальної макроекономічної дискусії.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "eKathimerini.com"
-    },
-    {
-      "title": "AFC назвала будівельників Лобіто-коридору",
-      "original_title": "Africa Finance Corporation names Lobito Corridor builders - Semafor",
-      "summary": "Africa Finance Corporation назвала компанії, які будуватимуть Лобіто-коридор, повідомляє Semafor. Рішення стосується реалізації проєкту Лобіто-коридору, який належить до транспортної інфраструктури Африки.",
-      "source": "Коридори · BRI, порти та Лобіто",
-      "publisher": "Semafor"
-    },
-    {
-      "title": "Китай: надмірна конкуренція та нестача споживачів",
-      "original_title": "China says it has too much competition — it has too few customers - 9DashLine",
-      "summary": "Китай заявив, що на внутрішньому ринку спостерігається надмірна конкуренція та недостатня кількість споживачів, що створює складнощі для компаній у залученні клієнтів.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "9DashLine"
-    },
-    {
-      "title": "Іран і Росія розглядають спільні нафтогазові проєкти",
-      "original_title": "Iran, Russia eye joint oil and gas projects amid US blockade - Iran International",
-      "summary": "Іран і Росія розглядають можливість спільних нафтогазових проєктів на тлі блокади з боку США, повідомляє Iran International. Мова йде про співпрацю двох країн в енергетичному секторі в умовах американського тиску.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Iran International"
-    },
-    {
-      "title": "Єврокомісія пропонує Закон про кліматичну стійкість",
-      "original_title": "EU Commission proposes Climate Resilience Law to address €50bn annual losses - INSIGHT EU MONITORING",
-      "summary": "Європейська комісія запропонувала Закон про кліматичну стійкість (Climate Resilience Law). Він має відповісти на щорічні збитки в ЄС, які оцінюють у €50 млрд.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "INSIGHT EU MONITORING"
-    },
-    {
-      "title": "Goldman: наслідки кризи нерухомості Китаю гірші за очікування",
-      "original_title": "China's Housing Bust Enters Year Six: Goldman Says the Economic Damage Is Worse Than Expected - The Dark Side Of The Boom",
-      "summary": "Криза на ринку житла Китаю входить у шостий рік, а Goldman Sachs оцінює її економічну шкоду як більшу, ніж очікувалося. Про це йдеться в заголовку матеріалу The Dark Side Of The Boom. Йдеться про оцінку банком впливу тривалого спаду на ринку нерухомості на економіку країни.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "The Dark Side Of The Boom"
-    },
     {
       "title": "WSJ: триває боротьба за перевезення російської нафти",
       "original_title": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil - WSJ",
@@ -1023,6 +987,48 @@
       "summary": "Японська єна залишається млявою, повідомляє FXStreet. Дорожча нафта збільшує вартість імпорту, і це стримує національну валюту.",
       "source": "Японія · монетарна політика",
       "publisher": "FXStreet"
+    },
+    {
+      "title": "Франція: Диверсифікація рідкоземельних металів за 3‑5 років",
+      "original_title": "France: Rare Earths Diversification From China Feasible in 3-5 Years - Global Banking & Finance Review",
+      "summary": "Франція заявила, що зменшення залежності від Китаю у постачанні рідкоземельних металів можливо протягом 3‑5 років. Це відкриває перспективу створення альтернативних джерел і ланцюгів постачання, що може вплинути на європейську промисловість та безпеку постачань.",
+      "source": "Китай · економіка, торгівля й промисловість",
+      "publisher": "Global Banking & Finance Review"
+    },
+    {
+      "title": "Lowy Institute: ризики ратифікації угоди ЄС і Австралії",
+      "original_title": "EU–Australia FTA: the threat to ratification runs both ways - Lowy Institute",
+      "summary": "Lowy Institute опублікував аналітичний матеріал про угоду про вільну торгівлю між ЄС і Австралією. У ньому йдеться, що загроза її ратифікації виходить з обох сторін. Тема стосується майбутньої торговельної угоди між ЄС та Австралією.",
+      "source": "ЄС · економіка, торгівля й промислова політика",
+      "publisher": "Lowy Institute"
+    },
+    {
+      "title": "Ринок очікує підвищення ставки ФРС у грудні",
+      "original_title": "Fed Seen Holding Rates in October; Market Already Bets on December Hike as Focus Shifts to AI and Fiscal Policy - BigGo Finance",
+      "summary": "За оцінкою BigGo Finance, ФРС у жовтні, імовірно, збереже ставки без змін. Ринок уже робить ставку на підвищення в грудні. Водночас, за даними видання, фокус уваги зміщується на тему штучного інтелекту та фіскальну політику.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "BigGo Finance"
+    },
+    {
+      "title": "Індія та Азербайджан перезавантажують відносини",
+      "original_title": "India, Azerbaijan move to reset ties, boost energy investments and connectivity - The Economic Times",
+      "summary": "Індія та Азербайджан рухаються до перезавантаження двосторонніх відносин. Згідно з The Economic Times, сторони хочуть збільшити інвестиції в енергетику та посилити взаємну зв'язність.",
+      "source": "Коридори · Північ–Південь (INSTC)",
+      "publisher": "The Economic Times"
+    },
+    {
+      "title": "Банк Японії, імовірно, збереже ставку без змін",
+      "original_title": "BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance - WSJ",
+      "summary": "За заголовком WSJ, збереження процентної ставки Банком Японії сприймається як майже вирішене питання. Через це головна увага зміщується на орієнтири щодо майбутньої монетарної політики, які дасть центробанк.",
+      "source": "Японія · монетарна політика",
+      "publisher": "WSJ"
+    },
+    {
+      "title": "Південнокорейські оборонні групи переходять на виробництво в Європі",
+      "original_title": "South Korean Defense Groups Shift to European Production - https://economy.ac/",
+      "summary": "Південнокорейські оборонні групи зміщують виробництво до Європи, повідомляє economy.ac. Для промисловості ЄС це сигнал про посилення присутності азійських виробників оборонної продукції на європейському ринку.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "https://economy.ac/"
     }
   ]
 }

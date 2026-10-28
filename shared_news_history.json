@@ -6,6 +6,7 @@
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
+    "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
     "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
@@ -26,7 +27,7 @@
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
-    "https://gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
+    "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
     "https://gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
     "https://middleeasteye.net/live-blog/live-blog-update/eu-welcomes-ties-israels-next-government-palestinians-remain-under",
@@ -40,13 +41,13 @@
     "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
     "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
-    "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
     "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
     "https://militarnyi.com/uk/news/pershyj-ne-v-ssha-tsentr-pac-3-patriot",
     "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
     "https://militarnyi.com/uk/news/sklad-boyeprypasiv-poblyzu-sela-dyakove",
+    "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
     "https://militarnyi.com/uk/news/slovachchyna-vidnovyt-ohoronu-neba-f-16",
     "https://militarnyi.com/uk/news/ssha-poperedyly-krayiny-perskoyi-zatoky-pro-mozhlyvu-novu-vijskovu-operatsiyu-proty-iranu",
     "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
@@ -56,7 +57,6 @@
     "https://militarnyi.com/uk/news/v-omsku-pislya-udaru-droniv-poshkodzheni-dva-himzavody-i-vygorila-sektsiya-skladu-ozon-suputnykovi-znimky",
     "https://militarnyi.com/uk/news/verhovna-rada-umovy-inozemtsiv-syly-oborony",
     "https://navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029",
-    "https://navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard",
     "https://navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2tVdk5jeTZEek1FSGVNRWItMmFaVGNZOENQTWdxYngxOG9Jakd3Y21ETVhxM2JQNllNNmd5WWQ3NVFBU2NhQzFvU3psOS1oNW1oUS11V0VsTDdRVDhPQW5qeHFFcG9xaUppejJSMW5ZSG5yU0Z6dGFBaDJZY0lBMElDVVN3dk9NMkpYZ3cyNExFcGxxSU1hcFFwT2RHVzZMcDY5TncxS0M0eEJOdzFiUnY2bVJKRzg0T2lEOTFkTHpQT1ZJS0FxYUEzQW8taFlfT3R6MUhoWQ",
@@ -105,7 +105,6 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBtY0VaYWVBVXNNeks5cmw5aUtGSll4eWV1SFN2ZnRfXzJocUNlN0E0R0dpajJfYVR1X1JXa3JkMEx3WnhYNFc4U05idWE4cjNadEd1OXRxNGE1cHFNdzdPRnRwQ1NjXzJoT0JkSDh6YWU3UHNmQ3I2YTZxalFBVWtOYnZpS1pVeV9LVHVsTlBTcUNSTU81aGlQZw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVA1QXBaVThiMklXTnF0cWhOMGU5Ymh3M2RGNkdoX0tBMUdPTDB3WEtOWHR2bHV2ajEwb3lPR3VoWk1xcmpqN3RKNFFJX0RmeUhrdEp2MWN2MnhUM2NZSGNCUjFMTnVxc04wdzZtS0tYMWRkR083VDhXMTdQTk1QRERFQ1l1Q3Yta0x4OF9xQTVIV3VScDRlYTJiQQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEg4YmQ4RmxMVTFNN2tmSUpkamFlX0dTOTFuck5YbFNiTzVfTWNhZzN0T25WVGx6dHhZbUh5X185aTUzLWdmSDFPQUpYNFllWWtFdlpiSVh4cnAtT2pfYXVfejNvdkgydUpsREJnNXl2MGFxM2RXb3lzOFlJOE9sR0tvdTdtanpVYmF6TkNncEp2SFk2NGkzT1JVd053Zw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTJmbjVDWFdzc3d6dTl4VWIxMHE1dWgzdlBvX0YySVJKbE5lNVRkYkpfRWEzbVpwSU5KRXZSQUIyUDkwYnNrQTJwUUxtY1lQZ00yVE1zdkl3U1NDRzgweGIwX1N1NUV2dk13UnA5eWJrcE1HQ1c4VkpudTZrR0VodWpjNmo0Zld5RmwzM1FJc2RYaHRLOVV0WjExd21uZw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnNsT1NwWDEyQ0Q1QzlBZHk0NUNlS2V3NGJCWHd5UDVYSUlJdS12MTRrcVFVSDJPSjdMWjJOYUhIRjk3bG5oaVJqYnB6aXBBWWMydG43Qm1OS1pFX2lsNlZWSlNpVXlkVC1JWjZJYk9SeE5hRzhQazdvSE9raWdRYmEwZnQ3VE1yZGYwWFJjRVNmbWNDbGpJZDRCYW9kN00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejhXdlcwTmVRU215SDlXUC16SlhMR1pFek1fUGY3SlhQWGZmQnBkOGVJVWN2TUl5VEJKNzRBRVhCY2NZN0piNmdpbXE1cnhsZDBibFlKZHdFZXJsY3FGY1VCdWpGN1B1cDF3cHZJN0tlT0hxXzFHUlRYWFpWU1FhTmQyczJRc2NLU0ZidDA5NHFFTDhRVDdGUTl1VEs0NEU",
@@ -146,52 +145,13 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ",
     "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
+    "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
     "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Київ виділить 1 млрд грн на резервні переправи через Дніпро на випадок ударів по мостах",
-      "original_title": "Київ виділить 1 млрд гривень на будівництво резервних переправ через Дніпро",
-      "summary": "Проєкт є експериментальним: за постановою уряду №1295 передбачено комбіновані водні переправи та під'їзні шляхи до них. Раніше міністр Калашник згадував насипні дамби й понтонні переправи, але остаточні типи конструкцій і їхні характеристики не наведено. Місця розміщення визначатиме військове командування. Резервні переправи можуть зберегти логістичне сполучення між берегами Києва, якщо мости буде пошкоджено, як Південний міст під час атак 1 і 27 жовтня.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
-      "published": "2026-10-27T15:48:53+00:00"
-    },
-    {
-      "title": "Британія в Радбезі ООН закликала Іран допустити інспекторів МАГАТЕ",
-      "original_title": "Iran must allow the return of IAEA inspectors to all nuclear sites: UK statement at the UN Security Council",
-      "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош під час засідання Ради Безпеки ООН заявила, що Іран повинен дозволити повернення інспекторів Міжнародного агентства з атомної енергії на всі ядерні об'єкти. У британському заяві наголошується, що Рада керуючих МАГАТЕ у червні 2025 року визнала Іран таким, що не виконує зобов'язання за Угодою про всеосяжні гарантії, а минулого місяця передала справу на розгляд Ради Безпеки. За даними Британії, Тегеран накопичив понад 400 кг урану, збагаченого до 60%, і понад рік залишається беззвітним запас високозбагаченого урану без цивільного випра",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
-      "published": "2026-10-27T15:51:00+00:00"
-    },
-    {
-      "title": "Hanwha Defense USA придбає контрольний пакет у Hanwha Philly Shipyard",
-      "original_title": "Hanwha Defense USA to Acquire Hanwha Philly Shipyard",
-      "summary": "Hanwha Defense USA оголосила про придбання контрольного пакету у Hanwha Philly Shipyard, що дозволить компанії розширити виробництво військових суден у США. Підприємство вже працює над модернізацією інфраструктури, що підвищить швидкість виготовлення та підтримку суден. Це зміцнить позиції HDUSA на американському ринку оборони, забезпечуючи більш швидку доставку суден та технологій.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard",
-      "published": "2026-10-27T15:51:23+00:00"
-    },
-    {
-      "title": "Китай: надмірна конкуренція та нестача споживачів",
-      "original_title": "China says it has too much competition — it has too few customers - 9DashLine",
-      "summary": "Китай заявив, що на внутрішньому ринку спостерігається надмірна конкуренція та недостатня кількість споживачів, що створює складнощі для компаній у залученні клієнтів.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "9DashLine",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEg4YmQ4RmxMVTFNN2tmSUpkamFlX0dTOTFuck5YbFNiTzVfTWNhZzN0T25WVGx6dHhZbUh5X185aTUzLWdmSDFPQUpYNFllWWtFdlpiSVh4cnAtT2pfYXVfejNvdkgydUpsREJnNXl2MGFxM2RXb3lzOFlJOE9sR0tvdTdtanpVYmF6TkNncEp2SFk2NGkzT1JVd053Zw",
-      "published": "2026-10-27T15:55:31+00:00"
-    },
     {
       "title": "Як F‑15 і F‑22 допоможуть у закупівлі F‑47",
       "original_title": "How the F-15 and F-22 should inform the F-47’s procurement",
@@ -1543,6 +1503,16 @@
       "published": "2026-10-28T17:24:19+00:00"
     },
     {
+      "title": "Ефіопія отримала 12 російських винищувачів Су-35 і розраховує на комплекси ППО С-400",
+      "original_title": "Ethiopia Gets 12 Russian Su-35 Fighters, Eyes S-400 Air Defenses",
+      "summary": "Прем'єр Абій Ахмед повідомив, що 12 багатоцільових Су-35 надійшли на рік раніше за графіком; угода також передбачає чотири батареї С-400, але терміни їх поставки невідомі. Су-35 — глибоко модернізований родич Су-27 із двигунами з вектором тяги, сучасною РЛС і широким арсеналом зброї «повітря-повітря» та «повітря-поверхня». Це помітно розширює можливості Ефіопії з виявлення та перехоплення повітряних цілей і ударних завдань, а наявний досвід експлуатації Су-27 спростить освоєння. Вартість контракту, місця базування та можливі додаткові поставки не розголошуються.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
+      "published": "2026-10-28T17:54:35+00:00"
+    },
+    {
       "title": "Витрати США на війну з Іраном перевищили 47 млрд доларів за оцінкою Пентагону",
       "original_title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
       "summary": "Понад 29 млрд доларів із загальної суми припадає на заміщення витрачених боєприпасів, ще понад 6 млрд — на відновлення техніки та «платформні втрати», зокрема літаків і дронів. Початкова стратегія передбачала спершу використання дорогих високоточних ракет для придушення іранської ППО, а потім дешевших боєприпасів, як-от авіабомби JDAM. Квітневе перемир'я дало Ірану змогу відкопати підземні сховища та частково відновити оборону, ракетні та дронові засоби, тож Пентагон планує відновлення інтенсивних бойових дій у разі наказу. Оцінка також чітко не враховує витрати на ремонт баз США, пошкоджених",
@@ -1613,6 +1583,26 @@
       "published": "2026-10-28T19:09:15+00:00"
     },
     {
+      "title": "Армія США оголосила два нових тестових майданчики для комерційних дронів і протидронних систем",
+      "original_title": "Army designates 2 additional ‘permissive’ sites for commercial vendors to test their drone and counter-drone tech",
+      "summary": "Армія визначила Camp Atterbury Joint Maneuver Training Center (34 000 акр, коридор повітряного простору до 40 000 фут) та Muscatatuck Training Center (1 000 акр, конфігурована міська інфраструктура) як \"пермісивні\" майданчики для випробувань дронів і протидронних технологій. Це частина ініціативи розширення тестових ділянок, яка спрощує доступ постачальників до армійських полів і прискорює інтеграцію нових безпілотних систем та засобів протидії у військовий арсенал.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
+      "published": "2026-10-28T19:56:07+00:00"
+    },
+    {
+      "title": "Протидронове рішення Warden виявляє й класифікує цілі на безпечній відстані завдяки «автономному сприйняттю»",
+      "original_title": "Counter-UAS solution finds and classifies targets at standoff distance with “autonomous perception”",
+      "summary": "Це спонсорований матеріал про систему Warden, яка працює як пасивний перший рівень виявлення дронів і доповнює електронно-оптичні/інфрачервоні засоби та радіолокацію. Пасивний підхід не випромінює сигналів, тому може ускладнювати виявлення самої системи супротивником. Конкретних технічних характеристик (дальність, точність класифікації, типи цілей) у наданому тексті не наведено, тож оцінити реальний військовий вплив неможливо, а матеріал має рекламний характер.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
+      "published": "2026-10-28T19:59:25+00:00"
+    },
+    {
       "title": "Рекордні закупівлі LNG в Індії збіглися з рекордними цінами",
       "original_title": "India's Record LNG Buying Meets Record-High Prices - Crude Oil Prices Today | OilPrice.com",
       "summary": "Індія закуповує LNG рекордними темпами, і це збігається з рекордно високими цінами на ринку, повідомляє OilPrice.com. Йдеться про одночасне зростання індійського попиту на скраплений газ і цінового рівня.",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
       "published": "2026-10-28T20:33:28+00:00"
+    },
+    {
+      "title": "Словаччина отримає другу батарею ЗРК Barak MX до 2026 року",
+      "original_title": "Словаччина отримає другу батарею ЗРК Barak MX до кінця 2026 року",
+      "summary": "Словаччина отримала другу батарею ізраїльського комплексу протиповітряної оборони Barak MX, що дозволить замінити старі радянські зенітно‑ракетні комплекси «Куб». Система включає три типи ракет з дальністю до 150 км і може перехоплювати літаки, дрони та крилаті ракети. Це підвищить ефективність повітряної оборони країни і забезпечить кращу інтеграцію з новими F‑16 Block 70.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
+      "published": "2026-10-28T21:01:41+00:00"
     }
   ]
 }

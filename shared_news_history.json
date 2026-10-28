@@ -3,6 +3,7 @@
     "https://army-technology.com/news/tekever-ussocom-uncrewed-aerial-systems",
     "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
     "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
+    "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
@@ -23,6 +24,7 @@
     "https://defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
     "https://defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
     "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
+    "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
@@ -35,6 +37,7 @@
     "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
     "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
     "https://militarnyi.com/uk/news/azov-zavdav-ponad-100-udariv-po-potyagah-yaki-zabezpechuvaly-logistyku-armiyi-rf",
+    "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
     "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
     "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
@@ -57,7 +60,6 @@
     "https://militarnyi.com/uk/news/verhovna-rada-umovy-inozemtsiv-syly-oborony",
     "https://navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029",
     "https://navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard",
-    "https://navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb",
     "https://navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2tVdk5jeTZEek1FSGVNRWItMmFaVGNZOENQTWdxYngxOG9Jakd3Y21ETVhxM2JQNllNNmd5WWQ3NVFBU2NhQzFvU3psOS1oNW1oUS11V0VsTDdRVDhPQW5qeHFFcG9xaUppejJSMW5ZSG5yU0Z6dGFBaDJZY0lBMElDVVN3dk9NMkpYZ3cyNExFcGxxSU1hcFFwT2RHVzZMcDY5TncxS0M0eEJOdzFiUnY2bVJKRzg0T2lEOTFkTHpQT1ZJS0FxYUEzQW8taFlfT3R6MUhoWQ",
@@ -105,7 +107,6 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBtY0VaYWVBVXNNeks5cmw5aUtGSll4eWV1SFN2ZnRfXzJocUNlN0E0R0dpajJfYVR1X1JXa3JkMEx3WnhYNFc4U05idWE4cjNadEd1OXRxNGE1cHFNdzdPRnRwQ1NjXzJoT0JkSDh6YWU3UHNmQ3I2YTZxalFBVWtOYnZpS1pVeV9LVHVsTlBTcUNSTU81aGlQZw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVA1QXBaVThiMklXTnF0cWhOMGU5Ymh3M2RGNkdoX0tBMUdPTDB3WEtOWHR2bHV2ajEwb3lPR3VoWk1xcmpqN3RKNFFJX0RmeUhrdEp2MWN2MnhUM2NZSGNCUjFMTnVxc04wdzZtS0tYMWRkR083VDhXMTdQTk1QRERFQ1l1Q3Yta0x4OF9xQTVIV3VScDRlYTJiQQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDNILUlQVGRHWHNncjlHb3c4SW45V2pvYlFLYThjcTRhRzQ4QklMUHZEY2JUVGhfNXAtSERTSVZpY01KVnhGUm9ZajFHNkhNbHdBQ0s0eTN0bnNkRlh3Y29vZVdxR2I5QVpDY3lEZldUTFNfd2lEVzd4STlWVS1wWmJ3ZFNpNEZzS1VaZloyb2hDemtYN3ZqenRRY0NMUQ",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEg4YmQ4RmxMVTFNN2tmSUpkamFlX0dTOTFuck5YbFNiTzVfTWNhZzN0T25WVGx6dHhZbUh5X185aTUzLWdmSDFPQUpYNFllWWtFdlpiSVh4cnAtT2pfYXVfejNvdkgydUpsREJnNXl2MGFxM2RXb3lzOFlJOE9sR0tvdTdtanpVYmF6TkNncEp2SFk2NGkzT1JVd053Zw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTJmbjVDWFdzc3d6dTl4VWIxMHE1dWgzdlBvX0YySVJKbE5lNVRkYkpfRWEzbVpwSU5KRXZSQUIyUDkwYnNrQTJwUUxtY1lQZ00yVE1zdkl3U1NDRzgweGIwX1N1NUV2dk13UnA5eWJrcE1HQ1c4VkpudTZrR0VodWpjNmo0Zld5RmwzM1FJc2RYaHRLOVV0WjExd21uZw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnNsT1NwWDEyQ0Q1QzlBZHk0NUNlS2V3NGJCWHd5UDVYSUlJdS12MTRrcVFVSDJPSjdMWjJOYUhIRjk3bG5oaVJqYnB6aXBBWWMydG43Qm1OS1pFX2lsNlZWSlNpVXlkVC1JWjZJYk9SeE5hRzhQazdvSE9raWdRYmEwZnQ3VE1yZGYwWFJjRVNmbWNDbGpJZDRCYW9kN00",
@@ -139,59 +140,18 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2p0dUxvdXVWQU5hUzkxN1VZMGNQTzAyZVJwYWZqV1FBbmZnZVBEZWJRN2J3Z3Z1Rjh6dmQyZk16cHdsTDFWRXRQcmt5UldNZWJRa2tJWEprRGJZMVI4NENEVXp4MkJDeUczcWJuNTU4UjdpdzExOG45bm1SUEVTd3RZSTM1aFREcU1IWUtOQXdncmZEMF9nRmpuRmJGc3pEOVBfWkxMcWNoVXF5MHA4Y0d3bDZZV2syS09FMVlBdklRS0ct",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFc1dzh1eUNsVFZmNURoaXRyLUxGbm1aM1pkQ2R3MGsycHJrcHEyOHpFM09qSEN4QVNWUG9MSTkydjNrclVrb2VZOGZoZUtVZG5iTjkwZEhxNXJubUlzTlFUNXVnc0d0VXpxNGRoY3BKTml2emxNWFR0UE5TYlBFUnJ3R1N6T19uTmdDX1RKbkRXUkQyUWhwaUV0dTItdk1iUVRfSnpKSm4xNW1MLWd3dWZmSnRZM3dYWUFTRmJpMmhkUXBj",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2NLRXVyU0lmSFREMHgtVFYxN1FIR0dXWVR1U0l4Y0RaUVZjaXF1dHE2RHJxbXNRWk1oM1VjMks0ejlhVDNkeHFUcVlrUERTemhWN1BOUXhYRmFaZXpidlNlSFBiSEtoTUtiTWt2TXQ2dTZuMFEwVEdsZWxBUkh3dVFwWlg2MG9NQmlNRnluU25qVERXeVF6V2thSW1zMXF3d0xYeWhScTJFZmFvU3pTbEsxcks2a2p4TzNobi1JRUo5b2dN",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzk2XzU2VjB5VDFxaHJmSmt0Q1RpRl8wSklIakIzcmx3R18tZkQyczJ4dnozRkY0M25Gc3dVbGFiQmFHNjlYaDJHRHowMGo0RElicFJUcHlZQldpOU9ZNm5SbnN4Q25KeGFsbENWbFUySXJSSmF2NlprTDJCenJCYU1GUjl3U0pYbkROdGJqTGFnR09XQ0hTa0dvSDlpQmIzWTJhMmc4Z192VThpVzN2MXk0Uy1DN0hDXzRTemxoOGRmTkxhOXc",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZmaDZONXB5UWtiTW53NnM0ZFZsSW9IdmFBSkhyVmItUVRYTEgtZV80bFcxcVQ3a3NIYVBiSXVfcVBTQWItZjNEYV9rWllXaTRjVjlsR00zOEVXQnRHcDZWUDd1c3RzTDBjd1dMdXp6dzlOOEdCUVlIOEhNbko4eFJ6ZlVqZnNzWUV1Z1E5UmhybVNDYXV5SW40TUlpbG1YTzFPZC1HWlJSQzV4WWhJLTZHSkRZWjRVMndOVmRub2RYZi1jemJr0gHHAUFVX3lxTE9ZUGlZNEpZd3YwMWpPcGthSU9Va21tRnZyc21KVWRBbHVxRURMQTIyNV9rQ0wzR2FNZ0lBM29sQzVSaUpKc25RY3ZCMXlWODFwcmx1ZDdGTjI5M01EVUVPQmNkUU1vUFF5WlZZVWJ6ZTg5THJfSU5Jd2psT3huMzV4cUo0U01xbVN2Uk5SSXFOdEJEdE5BYlp0QXdMaGtWZnU0eU82amJtQ0VxWGZlcjJIb1JmOGdtNFYwXzd0U1lBeW5YMHB3ckU",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamRuV3F3b0JjMFlHa0xXX0EtTnQxWElWSVR5eDhsVmxPSnF4b1NfcEx5dGptUllvT1YyRVhSZ0tyczkwMFpaX1dUVWx0WnAyYTBwcEhhWG4wbUtXZkxaRnBwbm5yVmRobHFoajFGMXU2aGNsN01lSDVOQzg0Nk1oQTIxMkxKR2hqWmhNY2ZyTGVjQ2VmcnR1bkwzRTlyTVVkdEl5anByVFdNWUVpZTVBUDUwNVFfbGFBdHNXU3RoUkR2LU9KRDBBbWtR",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ",
+    "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
     "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Комітет турецького парламенту схвалив Мекку угоду з Саудівською Аравією та Пакистаном",
-      "original_title": "Turkish parliament committee approves Mecca Agreement on joint defense with Pakistan, Saudi Arabia - Anadolu Ajansı",
-      "summary": "Комітет турецького парламенту офіційно схвалив Мекку угоду про спільну оборону, укладену між Туреччиною, Саудівською Аравією та Пакистаном. Це рішення є частиною формального дипломатичного процесу ратифікації міжнародного договору, який передбачає координацію оборонних зусиль трьох держав. Подія засвідчує перехід від підписання документа до його внутрішньопарламентського затвердження в Туреччині, що є необхідним кроком для набрання чинності угодою.",
-      "source": "Treaties & Agreements",
-      "publisher": "Anadolu Ajansı",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
-      "published": "2026-10-27T14:12:24+00:00"
-    },
-    {
-      "title": "Опитування Reuters: висока інфляція у світі збережеться до наступного року",
-      "original_title": "High inflation to persist globally into next year, Reuters poll shows - KFGO",
-      "summary": "За результатами опитування Reuters, високий рівень інфляції у світі зберігатиметься і в наступному році. Про це повідомило видання KFGO. Висновок стосується глобальних інфляційних очікувань і є орієнтиром для макроекономічних прогнозів.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "KFGO",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDNILUlQVGRHWHNncjlHb3c4SW45V2pvYlFLYThjcTRhRzQ4QklMUHZEY2JUVGhfNXAtSERTSVZpY01KVnhGUm9ZajFHNkhNbHdBQ0s0eTN0bnNkRlh3Y29vZVdxR2I5QVpDY3lEZldUTFNfd2lEVzd4STlWVS1wWmJ3ZFNpNEZzS1VaZloyb2hDemtYN3ZqenRRY0NMUQ",
-      "published": "2026-10-27T14:15:39+00:00"
-    },
-    {
-      "title": "Французький корабель перехопив балістичну ракету поблизу бельгійського мінного корабля в Баб-ел-Мандеб",
-      "original_title": "Houthi Ballistic Missile Intercepted Near Belgian Minehunter in Bab el-Mandeb",
-      "summary": "Французький військовий корабель перехопив балістичну ракету, запущену в районі бельгійського мінного корабля BNS Primula, під час патрулювання Баб-ел-Мандеб у середньому жовтні 2026 року. Подія свідчить про постійне загрозливе середовище для військових і комерційних суден у Червоному морі, підкреслюючи необхідність посилення ППО та координації між державами. Перехоплення демонструє ефективність сучасних радарних систем і швидкості реакції французької флотилії.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb",
-      "published": "2026-10-27T14:22:15+00:00"
-    },
-    {
-      "title": "Азія: акції чипмейкерів зросли, HSBC впав у Гонконгу",
-      "original_title": "Asia report: Chipmakers jump but HSBC tumbles in Hong Kong - Sharecast.com",
-      "summary": "Згідно із заголовком Sharecast, у підсумках торгів в Азії акції виробників мікросхем стрімко зросли. Водночас акції HSBC суттєво подешевшали на гонконзькому ринку.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "Sharecast.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2NLRXVyU0lmSFREMHgtVFYxN1FIR0dXWVR1U0l4Y0RaUVZjaXF1dHE2RHJxbXNRWk1oM1VjMks0ejlhVDNkeHFUcVlrUERTemhWN1BOUXhYRmFaZXpidlNlSFBiSEtoTUtiTWt2TXQ2dTZuMFEwVEdsZWxBUkh3dVFwWlg2MG9NQmlNRnluU25qVERXeVF6V2thSW1zMXF3d0xYeWhScTJFZmFvU3pTbEsxcks2a2p4TzNobi1JRUo5b2dN",
-      "published": "2026-10-27T14:26:25+00:00"
-    },
     {
       "title": "Китай тисне на ціну російського газу",
       "original_title": "China driving down price of Russian gas - Eurasianet",
@@ -1633,6 +1593,36 @@
       "published": "2026-10-28T17:24:19+00:00"
     },
     {
+      "title": "Витрати США на війну з Іраном перевищили 47 млрд доларів за оцінкою Пентагону",
+      "original_title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "summary": "Понад 29 млрд доларів із загальної суми припадає на заміщення витрачених боєприпасів, ще понад 6 млрд — на відновлення техніки та «платформні втрати», зокрема літаків і дронів. Початкова стратегія передбачала спершу використання дорогих високоточних ракет для придушення іранської ППО, а потім дешевших боєприпасів, як-от авіабомби JDAM. Квітневе перемир'я дало Ірану змогу відкопати підземні сховища та частково відновити оборону, ракетні та дронові засоби, тож Пентагон планує відновлення інтенсивних бойових дій у разі наказу. Оцінка також чітко не враховує витрати на ремонт баз США, пошкоджених",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
+      "published": "2026-10-28T18:10:50+00:00"
+    },
+    {
+      "title": "У Китаї показали повнорозмірний демонстратор електричного 19-місного літака CE-25A компанії COMAC",
+      "original_title": "China’s CE-25A Electric Commuter Airliner Demonstrator Emerges",
+      "summary": "Нові фото, імовірно, показують повнорозмірний демонстратор CE-25A із бортовим номером B-0EFH. Автентичність знімків підтвердити неможливо, хоча аналіз кількома ШІ-моделями не виявив ознак штучної генерації, а польоти літака публічно не підтверджені. За опублікованими даними, літак має 10 електричних канальних вентиляторів у крилі, крейсерську швидкість близько 400 км/год і дальність 400–500 км, тобто поступається Beechcraft 1900. Прямого військового застосування в проєкті не заявлено, але досвід розподіленої електричної тяги може бути корисним для майбутніх китайських літальних апаратів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
+      "published": "2026-10-28T18:26:01+00:00"
+    },
+    {
+      "title": "Три морські дрони атакували контейнеровоз у чорноморській ВЕЗ біля Болгарії",
+      "original_title": "Біля Болгарії три морські дрони атакували торговельне судно",
+      "summary": "У виключній економічній зоні Болгарії, за 20 морських миль від Шабли, три невідомі морські дрони атакували контейнеровоз під прапором Ліберії. Судно, що прямував з Хайфи до Констанці, отримало пошкодження, але весь екіпаж (14 філіппінців і 4 українців) залишився у безпеці. Подія підкреслює зростаючу загрозу безпілотних систем для комерційного судноплавства в Чорному морі та спонукає НАТО розширювати розвідку і безпілотні ресурси у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
+      "published": "2026-10-28T18:31:47+00:00"
+    },
+    {
       "title": "Внутрішній огляд нової генерації протидронної системи MSI",
       "original_title": "Inside MSI’s Next Generation of Counter-Drone Defense",
       "summary": "MSI презентує платформу EAGLS, що об’єднує радіолокаційні, ракетні та безпілотні елементи для протидії дроном. Розробка EAGLS X підкреслює модульність і зниження вартості, що дозволяє швидко масштабувати захист на різних рівнях. Це може значно підвищити оборонну готовність середньо- та довгострокових операцій, зменшуючи ризики від безпілотників.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
       "published": "2026-10-28T18:32:20+00:00"
+    },
+    {
+      "title": "Партнери AUKUS протестували автономні системи під час морської вправи біля Сан-Дієго",
+      "original_title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
+      "summary": "У рамках навчання Maritime Big Play, що пройшло біля Сан-Дієго, США, Велика Британія та Австралія випробували понад 40 автономних систем, включаючи безпілотні поверхневі судна, підводні глайдери, дрони та підводні транспортні засоби, для виявлення підводних загроз і обміну даними. Операція продемонструвала інтеграцію технологій у підводному та надводному бою, підвищуючи спроможність коаліції AUKUS у морському спостереженні та протипідводній боротьбі.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
+      "published": "2026-10-28T19:09:15+00:00"
     }
   ]
 }

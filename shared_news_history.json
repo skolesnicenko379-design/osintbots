@@ -23,6 +23,7 @@
     "https://defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
     "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
     "https://defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs",
+    "https://defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
     "https://defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
     "https://defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
     "https://defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
@@ -51,10 +52,12 @@
     "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
     "https://militarnyi.com/uk/news/giperzvukovu-raketu-blackbeard-na-f-16",
     "https://militarnyi.com/uk/news/helsing-rozrobyla-contra-upravlinnyam-shi",
+    "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
     "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
     "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
     "https://militarnyi.com/uk/news/namagalysya-organizuvaty-mityng-aes-paks-2",
+    "https://militarnyi.com/uk/news/pershyj-ne-v-ssha-tsentr-pac-3-patriot",
     "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
     "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
     "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
@@ -69,7 +72,6 @@
     "https://militarnyi.com/uk/news/u-serbiyi-hochut-zupynyty-eksport-zbroyi",
     "https://militarnyi.com/uk/news/ukrayina-misyats-chekaye-na-pidpys-gegseta",
     "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
-    "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
     "https://militarnyi.com/uk/news/ukrayinskyj-suputnyk-obria-nano-na-orbiti",
     "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
     "https://militarnyi.com/uk/news/verhovna-rada-umovy-inozemtsiv-syly-oborony",
@@ -80,7 +82,6 @@
     "https://navalnews.com/naval-news/2026/10/israel-to-supply-cyprus-with-an-offshore-patrol-vessel-equipped-with-advanced-naval-systems",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
     "https://navalnews.com/naval-news/2026/10/op-ed-us-navy-distributed-manufacturing",
-    "https://navalnews.com/naval-news/2026/10/sweden-selects-saildrone-for-year-long-mda-mission-in-the-baltic-sea",
     "https://navalnews.com/naval-news/2026/10/us-navy-hypersonic-facility-nws-yorktown",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFBsSDdnWkZQOFh0d1l5bTRPMnBQT19SdXJsZU9zSVdzNFV5ZXRaUjRLVEh3WU85Ri1lc2Z3QVNzaGM4dlZjWHUtMmp5cURjQ1BLUDFEMFVFdW9aRHhlZmxrM1RqNXlXcXNCSExCazIyYVZObDB3akdUMHNUNDlIODhRZXdiTTNTNFJ2RzZNbW5uSm9XdFc4SkNidWFvT3NmUzRqazFwMk50dVJGWEJVeThnbnJVZ044Z0hHX3NPcmlPMDJ6UFZCTno3WmZ4bzFHN2ltTGRwM185eWgxOUQ5Zkh4ZUR4U0tBSExvT29oQ1RpV2o2cHJSWTV30gH_AUFVX3lxTE1DemZzTE9LeWNhemIxZTBSTzF1RDNXVUhrNUdDZS1ZWkF2WUpEMDlyQ0VIYUgxRnlYdHhnM01CVDNsRUpreTNnYklJYTE2VzZFS3RWLUtPLWZLWWk2OGE5UkxGeGlLa3UxejdVbGs4SXR2LURfSThTZHE4NjBiMlA5ZG1hWVpwZTV4WWdRaHhkbmhyNlVIM2xuYWRsQTljSmFUdzZyOWEyRzNiMWlyTXRuWDZkLUJlR0dSMy15djJuZGY3Q3Z0aXlBeV9keEd0bWowcFZ6QWJkbWZEYTdiTVNJZUxmSm9Pc2I3SkR2T3VYMmZtLWREUlpSU2xZZ2NGbw",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDRXazV2RlNvWk5ycjlsbXdOQjJ4TkFrTHVwbnNmbW5UTlliSDB3U1dCNVBOYjJHY0FQOVhvMzQwMnNaUXlKOFZjeEhCNWM2NUxqekY5M2hibTMzcDdMUlpFQ3FfWlZ3akJJX1JWcUMxRkxRV3ZRNHFiZGJYSVUtdndMLU5mV1VlTFJPS2FyajdzYk5mamJPRUtrUTVsVnZCbU9SMTVLT1VNaEIta1BUTHE0U1o1eGpsQnY1Q3NKdGd6ME5LM20yM1dfYmhHZ2FtT2fSAdcBQVVfeXFMUGZ4cmo4dl9fR1lSOU1ZTnRMWTVXM2RSN2QtdDdLYXpud2xLT1FBUUlaTEVES0pRemtNX0NHdENzZXVoS2EtWXIzdm1PM3RQbnFJWVVjQmRWdEFXTkl6dExwVzNSRFZIdE1MTHdVdkFCNE9rMzRVQUtOV2FKN2hFc0F2S3RLWEZBWHlmRVlpSmU1cnVjUGVGVHFXdmFLcVM4cmttMjI0YVJjT1RqN1FaQkhSTWE5LVdxRV9yV1BlanJDZ3lTRFg5VGlHX2JMV2hSd1A0YnJMQms",
@@ -121,7 +122,6 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXBUOTl1eTRiQmxBWjFkanVua284Qk8tMEdZS0VBYmYta2w0WnVZWHRGYXhwLWtyM1hiVXFzbGZManc",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEhPcjZnYlFzZ1FyWVZSV2Z3OWlWZXBnU21PNGNVWkQ0eW02ZXFmUmxxZGlodHNyenBVdE81Q3pqaWNhODYxbmFDRG5YaHJmdlQ4MENCVFBfZGNPN1FQVkwydzk0Wk9NUzRrcDZlbmlpM3U0MnlaOEpVMXNZV2FsbEhyNkctcFVPcU5GbFZRTkFVTkxGSURZZ1h2QXpIQkZuWFdlX1Z0V1lscDdkbWJJ",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFBLb3BmYnRhcFQxaXBxdWdDV1B1N3dGRUpqc1FXb2Zlbl9PQWlkQlU5TDZkOEhQMUpPS2RzeGxQMEpKbzZsZi14Y3VSWjB6SGd3R0o5M293TlY5TDBkMkNQMFVLNjBLNF8tTmNtcTBZbFJ5d0s4cmtrenA4ZnlGbjF4a21acTBoOGdhQ1FSeW9yUXc0Qm9YMFRXN0lNYUJENTYxUkcyRGkzQzVIN2hyTUZn",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NWRmo1QmFFNmx5WlFTdDdyQUpiYXIxVUFUSFZidjFHZ3RvTkdub0Q1ZkZ6Q0NRQ2ZzdkJsWVQ1Z203MEZ1V2hRZS1JRm5XQkR2OWFiV1lyZVpvT3lqOWZwblcyWlowSnl1UV9NU3B3b25yeVZUSWNwcGRmSnkyNmQzTGxOSk4zeUo5cURMbEFJcDBSNkN5Nndic3pNVmQ0eVBUQ2N0djBKMnl2TE1rNWNTeGRSVDQ",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
@@ -141,7 +141,6 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc29hcGhzN0dlMW5BckxRTEM4OVNWYlJhcmtEczdXZ0pXYV9vZFZSTmRub2NfRlV4VG0wSGpQVC14MzQzMTR4OF9taUhzaHhGZUlmVjQ4ZFNwOTZuX2NxWm0tQXhmRGppZTlaRW85aFdJQVhfTVZUS25GcldtS2o5Z1VQclh2bGQ2amcxWnd3b0kwTWpiT3ppM0RNdF9hOG5HUHIwWlItUWJtUlVja3hfb0c0YXg2YnpvWjVad3hCbGtWRFVneWNxRA",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamRuV3F3b0JjMFlHa0xXX0EtTnQxWElWSVR5eDhsVmxPSnF4b1NfcEx5dGptUllvT1YyRVhSZ0tyczkwMFpaX1dUVWx0WnAyYTBwcEhhWG4wbUtXZkxaRnBwbm5yVmRobHFoajFGMXU2aGNsN01lSDVOQzg0Nk1oQTIxMkxKR2hqWmhNY2ZyTGVjQ2VmcnR1bkwzRTlyTVVkdEl5anByVFdNWUVpZTVBUDUwNVFfbGFBdHNXU3RoUkR2LU9KRDBBbWtR",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGxBTkU3aGQteWhxNWZaNDQzVjlPVHhvd3BXWlNfUncwdVhsaDJKX0tRbUNxS21kNjh1aVdrVjJjeHZadTh6emVaVm5ZZ0NyS2NkdmQ5LW5IQWlWZXFUSlhKbVd5dk55dG1LQ1pfd3RVYXdrRnIyclBWTlhnbGF6NzVkWXItN3BNYWtpalJfTUl2ZGtJZFdKR2dSczBJN1hrS1FBZ3VvYVNUNmJaQjVnRnRBS2NpaVJMbFRrWTI1WG8zY3VRRHJ6NUpJdEM",
-    "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara",
     "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
     "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
@@ -149,49 +148,10 @@
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
     "https://twz.com/sea/britains-final-plan-to-kill-argentinas-super-etendards-attack-jets",
-    "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy"
+    "https://twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy",
+    "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "США пропонують радикальну зміну мандату місії ООН у Західній Сахарі",
-      "original_title": "US-Africa Week Ahead: Watching Russia, excluding South Africa, rethinking Western Sahara",
-      "summary": "США передали Раді Безпеки ООН проєкт резолюції, що передбачає підтримку плану автономії Марокко як єдиного варіанту для Західної Сахари та перейменування місії MINURSO на MINUSO. Документ скасовує згадку про референдум про незалежність. Голосування очікується у п'ятницю, тоді як Polisario Front погрожує вийти з мирного процесу. Паралельно Росія проводить третій саміт з Африкою, а США виключили ПАР із зустрічі міністрів закордонних справ G20.",
-      "source": "The Africa Report",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://theafricareport.com/434473/us-africa-week-ahead-watching-russia-excluding-south-africa-rethinking-western-sahara",
-      "published": "2026-10-26T11:20:00+00:00"
-    },
-    {
-      "title": "Швеція обирає Saildrone для річної місії з морської доменної обізнаності у Балтійському морі",
-      "original_title": "Sweden Selects Saildrone for Year-long MDA Mission in the Baltic Sea",
-      "summary": "Шведські збройні сили підписали угоду з Saildrone про розгортання чотирьох безпілотних поверхневих суден Voyager, кожне з яких працюватиме 360 днів, забезпечуючи безперервний моніторинг морської доменної обізнаності у територіальних водах та виключній економічній зоні країни. USV оснащені багатофункціональними сенсорами для виявлення суден, збору даних про стан моря та екологічного моніторингу, працюючи автономно протягом року. Така система підвищує ситуаційну обізнаність Швеції у Балтійському морі, посилюючи можливості виявлення нелегальних судноплавних операцій та підвищуючи обороноздатність",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/sweden-selects-saildrone-for-year-long-mda-mission-in-the-baltic-sea",
-      "published": "2026-10-26T11:50:42+00:00"
-    },
-    {
-      "title": "Україна та ЄС обговорюють нагляд за кредитом €90 млрд",
-      "original_title": "Ukraine and EU Discuss Oversight of €90 Billion Support Loan - Oj - Odessa Journal",
-      "summary": "Згідно із заголовком Odessa Journal, Україна та ЄС обговорюють механізми нагляду за підтримувальним кредитом обсягом €90 млрд. У наданому тексті немає деталей щодо умов, строків, траншів чи конкретних механізмів контролю, тому оцінка обмежується заявленим фактом. Сама сума свідчить про потенційно суттєвий зовнішній ресурс для фінансування України. Порядок нагляду, ймовірно, впливатиме на графік і умови надходження коштів, але підтвердження цього в матеріалі немає.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Odessa Journal",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzBWZ0ZtMG1zRndFR2RjQmZodDFZRUhMalZOc1p4cGpBTlVHcFk5ZDl5QU1EeXlBWTIzMy1UUl9aeGVxLV83Z2dKUFUzNHRSU1JoMjI4SE9NRHlDTTEtVTY3dzl1QWZPNGdqQ3laV1pESTZlTHRad3dGbXh6U0VNQWdKdUpMdnZIM2hOTzdfb3kzRi0tY0tpdjBESDVQVFd2bE5OUFVRRVMzSTVYUjZrWnhVZXNQdw",
-      "published": "2026-10-26T12:06:15+00:00"
-    },
-    {
-      "title": "Зеленський: Україна виконала свою частину антибалістичного проєкту Freyja, партнери ще в процесі",
-      "original_title": "Україна виконала свою частину антибалістичного проєкту Freyja — Зеленський",
-      "summary": "Проєкт Freyja передбачає розробку ракети-перехоплювача FP-7.X для знищення балістичних цілей. За раніше оприлюдненими даними, усі її компоненти виготовляють в Україні, окрім однієї деталі. Тепер темп робіт залежить від 10 країн-учасниць, серед яких ключові партнери Франція та Норвегія. Строки та тактико-технічні характеристики системи в повідомленні не наведено, тому її вплив на протиракетну оборону можна оцінити лише після випробувань і початку серійного виробництва.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ukrayina-vykonala-svoyu-chastynu-freyja",
-      "published": "2026-10-26T12:09:34+00:00"
-    },
     {
       "title": "Стартап Warhound із $200 млн інвестицій створюватиме генетично покращених службових собак для армії та поліції",
       "original_title": "Defense startup wants to make genetically enhanced military dogs",
@@ -1413,6 +1373,26 @@
       "published": "2026-10-27T17:21:48+00:00"
     },
     {
+      "title": "Армія США розглядає використання високопілотних повітряних кулей для спостереження та ударів проти Китаю",
+      "original_title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+      "summary": "Армія США розглядає високопілотні повітряні кулі (HAB) з навантаженням, що дозволяє спостерігати поле бою, передавати комунікації та здійснювати удари. Кулі, що залишаються в польоті понад 60 000 футів протягом тижнів, забезпечують низьку сигнатуру, дешевший розгорток і можливість розміщення радарів, сенсорів і дроном. Це дозволить створювати «вікна» для спільних сил, відкривати прориви в мережі А2/АД Китаю та підвищувати ефективність ударів з далекої дистанції.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
+      "published": "2026-10-27T17:22:47+00:00"
+    },
+    {
+      "title": "Італія відкладає передачу ракет Aster‑30 Україні через внутрішньополітичні суперечки",
+      "original_title": "Італія затримує передачу Україні ракет Aster 30 через політичні суперечки — італійські ЗМІ",
+      "summary": "Уряд Італії відклало затвердження 13‑го пакету військової допомоги, у якому передбачено поставки зенітних ракет Aster 30 для систем SAMP/T, через суперечки в урядовій коаліції. Aster 30 – це ракетний комплекс дальності до 120 км, здатний знищувати стратегічні та тактичні авіаційні цілі, що є важливим елементом протиповітряної оборони України. Затримка постачання обмежує можливості Києва протидіяти російським повітряним атакам у критичний період.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
+      "published": "2026-10-27T17:34:33+00:00"
+    },
+    {
       "title": "Економічні зв'язки Росії та Сербії залежать від газу й нафти",
       "original_title": "Russia's economic ties with Serbia hinge on gas and oil - IntelliNews",
       "summary": "За заголовком IntelliNews, економічні зв'язки Росії із Сербією трималися насамперед на постачаннях газу й нафти. Ці енергоресурси названо ключовою основою двосторонніх економічних відносин.",
@@ -1543,6 +1523,16 @@
       "published": "2026-10-27T19:38:16+00:00"
     },
     {
+      "title": "У Польщі створять перший у Європі центр обслуговування ракет PAC‑3",
+      "original_title": "У Польщі обслуговуватимуть ракети PAC-3 — це перший такий центр за межами США",
+      "summary": "Уряд США разом із Lockheed Martin обрав Польщу місцем розташування європейського центру технічного обслуговування зенітних ракет PAC‑3, що використовуються в системах Patriot. За оцінками, проєкт коштуватиме близько 1 млрд злотих і дозволить скоротити час повернення ракет до бойової готовності з до двох років до кількох місяців, підвищуючи оперативність ППО НАТО. Центр також передбачає ремонт, відновлення та повторну сертифікацію ракет, що зміцнить обороноздатність країн‑учасниць альянсу.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pershyj-ne-v-ssha-tsentr-pac-3-patriot",
+      "published": "2026-10-27T19:40:23+00:00"
+    },
+    {
       "title": "Власники порту Черчилл і DP World прагнуть збільшити трафік маршруту",
       "original_title": "Port of Churchill owners, Dubai-based DP World aim to boost trade route traffic – Eye on the Arctic - Radio-Canada",
       "summary": "Власники порту Черчилл у Канаді та дубайська компанія DP World прагнуть збільшити вантажопотік торговим маршрутом, пов'язаним із цим портом. Про це повідомляє Radio-Canada у рубриці Eye on the Arctic.",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFc1dzh1eUNsVFZmNURoaXRyLUxGbm1aM1pkQ2R3MGsycHJrcHEyOHpFM09qSEN4QVNWUG9MSTkydjNrclVrb2VZOGZoZUtVZG5iTjkwZEhxNXJubUlzTlFUNXVnc0d0VXpxNGRoY3BKTml2emxNWFR0UE5TYlBFUnJ3R1N6T19uTmdDX1RKbkRXUkQyUWhwaUV0dTItdk1iUVRfSnpKSm4xNW1MLWd3dWZmSnRZM3dYWUFTRmJpMmhkUXBj",
       "published": "2026-10-27T23:36:00+00:00"
+    },
+    {
+      "title": "US‑військово‑морські групи ARG і CSG готуються до розгортання в Середньому Сході",
+      "original_title": "Where Are The Aircraft Carriers?: October 27, 2026",
+      "summary": "У понеділок група амфібійних готових сил (ARG) Makin Island прибув до Йокосуки, а тиждень тому з того ж порту вийшла авіаносна група (CSG) Theodore Roosevelt, обидві готуються до перебування в зоні відповідальності CENTCOM у листопаді. До їх складу додаються понад десять ракетних есмінців і новітній безпілотний танкер‑дрон MQ‑25A, що підвищує дальність авіаційної підтримки, а також планується перенесення базування USS Abraham Lincoln у Бремертон, що посилює морську присутність США в регіоні та слугує стримувальним фактором проти можливих дій Ірану.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026",
+      "published": "2026-10-27T23:43:17+00:00"
     }
   ]
 }

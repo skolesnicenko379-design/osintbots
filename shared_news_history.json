@@ -31,17 +31,18 @@
     "https://middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
     "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
     "https://militarnyi.com/uk/news/auterion-rozrobyla-perehoplyuvach-talon",
-    "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
     "https://militarnyi.com/uk/news/giperzvukovu-raketu-blackbeard-na-f-16",
     "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
     "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
     "https://militarnyi.com/uk/news/kyyiv-budivnytstvo-pereprav-cherez-dnipro",
     "https://militarnyi.com/uk/news/na-donechchyni-likviduvaly-zaverbovanogo-rosiyeyu-indonezijtsya-v-jogo-pershomu-boyu",
+    "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
     "https://militarnyi.com/uk/news/pershyj-ne-v-ssha-tsentr-pac-3-patriot",
     "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
     "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
     "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
+    "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
     "https://militarnyi.com/uk/news/sklad-boyeprypasiv-poblyzu-sela-dyakove",
     "https://militarnyi.com/uk/news/ssha-poperedyly-krayiny-perskoyi-zatoky-pro-mozhlyvu-novu-vijskovu-operatsiyu-proty-iranu",
     "https://militarnyi.com/uk/news/ssha-posylyly-ostriv-guam-bataljonom-ppo",
@@ -50,6 +51,7 @@
     "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
     "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
     "https://militarnyi.com/uk/news/u-frantsiyi-predstavyly-pidvodnyj-dron-raven-dlya-poshuku-morskyh-min",
+    "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
     "https://militarnyi.com/uk/news/u-rosiyi-pislya-udaru-droniv-goryt-zavod-azot-yakyj-postachaye-komponenty-dlya-vybuhivky",
     "https://militarnyi.com/uk/news/u-rumuniyi-vykryly-dyversijnu-ugrupuvannya",
     "https://militarnyi.com/uk/news/ukrayina-podilytsya-bojovym-dosvidom-iz-moldovoyu-krayiny-pidpysaly-ugodu-pro-vijskovo-tehnichnu-spivpratsyu",
@@ -78,6 +80,7 @@
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3REakE3UWU5cThfQXRjdGVDZnloR0hISzRyUWZpVFNGTWhUR2NmQTVWTGVzVDJCRkcwMVNQTk8xSGNpMGJodHRhR2t2ZzlRa3JBYU5xRU5pSlJPSHhTVEJJVk1mVWFTUlR4YUZITXpHLV9Fa3dsal9mSGdfT05Sc3hnRmJENERlMHNvMUt4ZXNBRmRHWGMtWFRQT05XYldpWVlIMlJ2amltS2JKQk9PWXVxclp3VEdWU2Zyczc3UzVmbE5mTkJOZ2lVTjMtT3ZYTm1DeVpGZEQ2bTNVZGZpX3BiUkpnTnNsUTVLVnIwQ1TSAfYBQVVfeXFMTi1KaXg4SER6dEhDS0V5bjRyYldDSGxzRjd2Tnc2dUNCN3ZyWjdoSV9CcWVVN0plWDUydi1MOW85VVpoQ1A5dC1BVFFaWW0yWHVTdDFWTkFnZFFIMEQ1YXRYeGJYSXJxMU1WZzhCNWxWTDBqLXBJLWFuMjVxSUxHb2xGakRqVkRHV280aUtfTFNVeU01MjktWGFYaW95eWI0cVdDbFczcVVYdGZhaThYZzNBRF9sYjJaUWdaUmZDclNKQnlfeFlaY1JMdTRzWkxBRzFiX2wxLTh0U1NEOXRsQklWdGVVd3VnSHFNTFZBcmxJMlQ2WkZR",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ0hBNUcwSENwbkJzRUs4WUpRakFrT3Y3WFlOX3Q2SmhCZXBza1FGWkxlRGgwTjdQSEtIV24xM3BDNDRxNDVGVzhrN2RiUGV5WE1wUDZtWE9uaktCMkpCZ09VTFVtZ3FTOHF5YjU0d2hQSE1qMWJIWldUWDNhUi03b2M5ckZTelJzeUZyZjZ2R2dLWnFFT1U2N2NjNU1EaFZEUUl1eHE1Y3FfSm5qaVg3eUZkTXVFSF9aNV9NNTNIVnozWDRndW1KVVdlNkZtVGhOTkRKdm1JT1JpbDg2OVp1V0ttOS01cjVFbGItNVJreUFoUEE",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnRTcWF4VFlQVFNaVjZMYUpwNFkza2g4RmxTTXlFanhRUElqWFVDTFJGeF8zeTFNSE5feDRJZTlwOWQxcU42X2FVM3BNSHdlSTBLRE41dGRWZGExRDBVd2V3TnBGX21sdzVkdDRlMHhjMkE2YlRTakl5MXVPMjM3Z0lTX3VDMHVKcF80bm1kZm9mU19BdEtZTElDT2paWkZldDNud1NyNHEyRnR0WjE0VkVOMGoyUHhjOXdiSjJfQVQwT0VqbEt2N2xTeHdEU2ZFV2FSaldwOEFXdGFPOGVReXo2OHdNUUFUalJDWXp2MnhVeU1K",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHJGRWJUbEZpTFpqSTFkVkhvV05xYzgtNE14eU5sVmVmVGc1N2hkT25DYkhnVDI4UGcycVo5S1pNTTk0d2tqdGgycVIxOXlORjJYUEQ0MnBMUlpHeDFzVE9WU0xpSDF1YUZrbmk0d2U2NzRHVWdZV1hXM3laSlBsMzBTelA5NWlMSFlaUUtwWVJXNVppZWpEYS1lTXhZYWlWU3ZMRWhFeVZLZmpfTTBGcENlRkdpUE1EZ09Ec3dzOUpmZ2dyczE5eXZaTDdXTTVrQlVMRWlMZUJiTzA4M01iMTM5dXNfRmhfZ2pRUnVQZ1VOaU5qcEhv",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZV0JGencybk0xZmJQbVBNbEhQQ1RmbDIzOWxZbF9TSllnS1VhenhFSlBvUV84VmE4VHlGamxCWUxVSzg0eFJ3cHpMbmotdjlrR1E",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWV3BPaDJNLVhNcjZVclFDcjJIUzRLQ2VTbnhCRDdXYVltVHVnQmljMmxCcm9TRHZJRjhzSEZIalc2U2JiUnB5QXhSNFA3eGJhMGfSAVdBVV95cUxNSnEtbVBweGQtd181S181cW43WFZqaW5hZEN2LTdrc084QkNFUkxuM2N2ZWFveDl0ejZZc1UySHJkX09pTnhBT3BpWkxpZnFqUWgxeGpzcEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZUhOMGNZVUNXUWlwTFN5THB3MllvdWN2bWhmdXM4MDBFN2FDYVRWUTBzY081VFdDcFJNZElObzlCMFZsTkh2cHFIQXAtemVJeHc",
@@ -130,7 +133,6 @@
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEkxZjlUemtVZFRua1ZMZ0ZiNlVhZnFLSm9lbTgybEpfWjFLT296ZnZaMG9CckwtRmRpVEVIa0stWFAtS0lWbUxhR2lGcmptdm8zUWlGcnZ4VlpQY0NjR1JpSFliYzJlX1IzME84aGlaa2sta1BwR3VkZVRjcG9SMEpmdEx0TzdDRVAxcjAtbDF0dXhLb1dLNzlacE94MWNxZ3VKUFZDR1UxOGdZNHhNck9fa0V4Zmh4MEJHSWt3",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWVDNC1GRkV0a182eWtyQ1dCM3NINGZIZkQxRUhXd2tWNHJyd3o1eFFYc1ROUXc3Ty1UYjl3b2pOMlgtV1dvdzRUMkM0VkVNa0FpclF6ZGV2M2pxOVg1d1dkOW1aNUEtbEhYSzZhdW1qWjlBNXpjcUN0enBoYVpIejdqOHlvd1Bma0toTDNDUjNZVkhiZ0daYS1xQ1d4SndZWWUxNUhiWjF2TXRvbFl4MVBBQ0k1Mi1CZjhxaklfdWQ",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0FJTUpmeHBOeXRZWHlBXzFoejlXdzRLeE9PX2N6emZjOXpfbGNJaGc1QWF1S2xoMzlWMGRJT1dfUXNLUzBvUjJwRUZRSjlvSHFLSmN1VEl1UVdGVHhoNi1jUVdIcG5ITktVVFhjYk52VXduT05CM05jeXl0RXo0eE91Mk1rN1YwU3RtakthWWpJTlZNRngtdFIxNVR0ZnZXczJSUmlhdUF3dVpPeUwtTXpYZ29hdlprRG9FMXY3NGR1OGM",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2p0dUxvdXVWQU5hUzkxN1VZMGNQTzAyZVJwYWZqV1FBbmZnZVBEZWJRN2J3Z3Z1Rjh6dmQyZk16cHdsTDFWRXRQcmt5UldNZWJRa2tJWEprRGJZMVI4NENEVXp4MkJDeUczcWJuNTU4UjdpdzExOG45bm1SUEVTd3RZSTM1aFREcU1IWUtOQXdncmZEMF9nRmpuRmJGc3pEOVBfWkxMcWNoVXF5MHA4Y0d3bDZZV2syS09FMVlBdklRS0ct",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFc1dzh1eUNsVFZmNURoaXRyLUxGbm1aM1pkQ2R3MGsycHJrcHEyOHpFM09qSEN4QVNWUG9MSTkydjNrclVrb2VZOGZoZUtVZG5iTjkwZEhxNXJubUlzTlFUNXVnc0d0VXpxNGRoY3BKTml2emxNWFR0UE5TYlBFUnJ3R1N6T19uTmdDX1RKbkRXUkQyUWhwaUV0dTItdk1iUVRfSnpKSm4xNW1MLWd3dWZmSnRZM3dYWUFTRmJpMmhkUXBj",
@@ -146,52 +148,10 @@
     "https://twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers",
     "https://twz.com/air/usaf-orders-arrw-hypersonic-missile-into-production-the-same-weapon-it-nearly-cancelled",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
-    "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
-    "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Бійці 63 ОМБр за дві доби евакуювали 8 цивільних з Лимана, один військовий прикрив людей від FPV",
-      "original_title": "Прикрив собою від FPV: бійці 63 ОМБр евакуювали 8 цивільних з Лиману",
-      "summary": "Операцію провела зведена ударно-пошукова група за підтримки аеророзвідки, яка прокладала безпечні маршрути й виявляла засідки. Мінометна батарея та підрозділ наземних роботизованих комплексів забезпечували логістику, а переправу здійснювали на бронемашинах MaxxPro. Російські FPV-дрони та засідки залишаються головною загрозою для евакуації в прифронтових населених пунктах, тому ключовими стають повітряна розвідка й бронезахист. Це приклад використання наземних роботизованих платформ і розвідки для порятунку людей, а не лише для бойових завдань.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/evakuyuvaly-8-tsyvilnyh-iz-lymanu",
-      "published": "2026-10-26T21:14:57+00:00"
-    },
-    {
-      "title": "Грецький міністр закордонних справ назвав турко-лібійську морську угоду нікчемною",
-      "original_title": "Turkey-Libya maritime deal 'remains null and void,' Greek FM says - Euronews.com",
-      "summary": "Міністр закордонних справ Греції офіційно заявив, що морська угода між Туреччиною та Лівією залишається нікчемною. Це дипломатичне твердження підтверджує незмінну позицію Афін щодо недійсності документа, який суперечить міжнародному морському праву. Заява міністра є формальним кроком у триваючому територіальному суперечці у Східному Середземномор'ї, де Греція та Єгипет виступають проти розмежування морських кордонів, укладеного Анкарою з Триполі.",
-      "source": "Treaties & Agreements",
-      "publisher": "Euronews.com",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg",
-      "published": "2026-10-26T22:10:23+00:00"
-    },
-    {
-      "title": "Pentagon планує забезпечити 90‑денну автономність військових баз у рамках «Fortress America»",
-      "original_title": "90 Days No Help: Fortress America’s Goal To Make Bases Resilient Bastions In A Crisis",
-      "summary": "Pentagon ставить за мету, щоб усі великі військові інсталяції США могли самостійно підтримувати критичні операції протягом щонайменше 90 днів без зовнішньої підтримки, зокрема шляхом встановлення малих ядерних реакторів та автономних систем водопостачання, палива і зв'язку. Така автономність підвищує стійкість до масових відключень електромереж, кібератак і атак безпілотних ройів, забезпечуючи безперервність бойових можливостей навіть у випадку серйозних криз.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
-      "published": "2026-10-26T22:20:20+00:00"
-    },
-    {
-      "title": "Остання зустріч у Ірані прагне запобігти перезапуску повномасштабного конфлікту в регіоні",
-      "original_title": "Last-Ditch Meeting In Iran Seeks To Stave-Off A Restart Of All-Out Fighting In The Region",
-      "summary": "У Тегерані відбулася зустріч представників Ірану, Саудівської Аравії, Пакистану та Туреччини, яка стала першою після створення Мекканського пакту у серпні. Учасники погодили продовжувати діалог і посилювати співпрацю, щоб уникнути нової ескалації, зокрема у контексті атак хутей на нафтову інфраструктуру Саудівської Аравії. Якщо переговори будуть успішними, це зменшить ризик розширення конфлікту і стабілізує світові енергетичні ринки.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
-      "published": "2026-10-26T23:23:37+00:00"
-    },
     {
       "title": "USAF підписав контракт на серійне виробництво гіперзвукової ракети ARRW",
       "original_title": "USAF Orders ARRW Hypersonic Missile Into Production, The Same Weapon It Nearly Cancelled",
@@ -501,6 +461,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/reuters-prybralozghadkueksportzbroi-serbiia",
       "published": "2026-10-27T10:59:05+00:00"
+    },
+    {
+      "title": "Нідерланди оновлюють та розширюють парк БМП CV90 у рамках спільних закупівель",
+      "original_title": "Що про спільні закупівлі БМП CV90 кажуть новини з Нідерландів, де оголосили про оновлення та розширення парку бронетехніки - Defense Express",
+      "summary": "У Нідерландах оголосили про оновлення та розширення парку бойових машин піхоти CV90 у рамках спільних закупівель. CV90 – модульна БМП з 30‑мм автоматичною гарматою, бронею, що захищає від калібрів до 30 мм, та можливістю водоплавання. Збільшення кількості та модернізація цих машин підвищить мобільність і вогневу потужність сухопутних сил, а також сприятиме уніфікації техніки з потенційними партнерами.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNHJGRWJUbEZpTFpqSTFkVkhvV05xYzgtNE14eU5sVmVmVGc1N2hkT25DYkhnVDI4UGcycVo5S1pNTTk0d2tqdGgycVIxOXlORjJYUEQ0MnBMUlpHeDFzVE9WU0xpSDF1YUZrbmk0d2U2NzRHVWdZV1hXM3laSlBsMzBTelA5NWlMSFlaUUtwWVJXNVppZWpEYS1lTXhZYWlWU3ZMRWhFeVZLZmpfTTBGcENlRkdpUE1EZ09Ec3dzOUpmZ2dyczE5eXZaTDdXTTVrQlVMRWlMZUJiTzA4M01iMTM5dXNfRmhfZ2pRUnVQZ1VOaU5qcEhv",
+      "published": "2026-10-27T11:38:00+00:00"
     },
     {
       "title": "Звіт: ВПС США мають купити новий танкер замість нескінченних KC-46 через загрозу з боку Китаю",
@@ -1593,6 +1563,16 @@
       "published": "2026-10-28T09:09:34+00:00"
     },
     {
+      "title": "У Варшаві затримали українця за підозрою у підпалі поблизу румунського оборонного заводу Carfil",
+      "original_title": "У Польщі затримали українця у справі про підпал поблизу оборонного заводу в Румунії",
+      "summary": "Йдеться про диверсію проти виробника озброєння та боєприпасів, а не про конкретний зразок техніки, тому технічних характеристик у повідомленні немає. За версією слідства, мережа, яку координували з Росії, обирала цілі серед оборонних підприємств у країнах ЄС. Затриманий мав визначати об'єкт підпалу та фінансувати операцію. Такі диверсії можуть тимчасово порушувати виробництво і постачання, а також підвищують потребу в захисті оборонної промисловості та в координації розвідок країн ЄС і НАТО.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
+      "published": "2026-10-28T09:28:28+00:00"
+    },
+    {
       "title": "ESMC: без чесної конкуренції ЄС не диверсифікує сонячні ланцюги",
       "original_title": "ESMC: Without fair competition, Europe cannot diversify its solar supply chains - pv magazine Global",
       "summary": "Європейська рада з виробництва сонячного обладнання (ESMC) заявила, що без справедливої конкуренції Європа не зможе диверсифікувати свої ланцюги постачання у сонячній галузі. Про це повідомляє pv magazine Global.",
@@ -1633,6 +1613,16 @@
       "published": "2026-10-28T10:30:08+00:00"
     },
     {
+      "title": "На Луганщині ліквідовано першого ідентифікованого найманця РФ із Ботсвани: ГУР розкрило схему вербування",
+      "original_title": "На Луганщині ліквідували першого ідентифікованого найманця РФ із Ботсвани",
+      "summary": "Це не технічна подія, а випадок вербування іноземців до армії РФ: за даними ГУР, від підписання контракту до загибелі біля Новолюбівки минуло менше місяця, з яких близько півтора тижня тривала підготовка. Така короткa підготовка свідчить, що іноземних найманців, імовірно, використовують як піхоту без достатнього досвіду, тому їхні втрати можуть бути високими. Інформація про щонайменше 25 громадян Ботсвани з контрактами та про задіяних вербувальників може допомогти ідентифікувати канали залучення найманців і посилити міжнародний тиск на них. Даних про техніку чи озброєння у повідомленні немає.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
+      "published": "2026-10-28T10:31:41+00:00"
+    },
+    {
       "title": "Мерц запропонував новий альянс на захист правил торгівлі",
       "original_title": "Germany's Merz proposes new alliance to defend global trade rules - Yahoo",
       "summary": "Канцлер Німеччини Фрідріх Мерц запропонував створити новий альянс для захисту глобальних торговельних правил. Про це повідомляє Yahoo. Ініціатива стосується збереження міжнародних правил торгівлі.",
@@ -1651,6 +1641,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTBFTTZ2VWpJRTVJTXVoemVGeEtNYXZwSFF0d3NEaW1hLWxlZkljM2NreFVqT3Z4TmFwNDdiN3pSQTk3ZmUyN3NtTmNpZmZ0UWlQMkdxQnZjaVZURFFkLWNnWDREcWdWeEtHV181ZWJETWEwSHRqdTFKWGNVaDk3Q1VVUDBsMEFqRmpqTDJqQkxjRmRIOU9iOGdqU1lBU1JT",
       "published": "2026-10-28T10:46:03+00:00"
+    },
+    {
+      "title": "Двоє російських військових затримали під час спроби дістатися Києва",
+      "original_title": "Двоє військових РФ намагалися дістатися Києва під виглядом цивільних: їх затримала СБУ",
+      "summary": "Служба безпеки України затримала двох російських контрактників 291‑го мотострілецького полку, які після втечі з Краматорського напрямку спробували проникнути до Києва, переодягнувшись у цивільний одяг. Під час перевірки виявлено жетон російської армії та кримінальні записи, що підкреслює їхню роль у бойових діях. Цей випадок демонструє активність СБУ у протидії інфильтрації та потенційним загрозам для безпеки столиці.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
+      "published": "2026-10-28T10:58:43+00:00"
     }
   ]
 }

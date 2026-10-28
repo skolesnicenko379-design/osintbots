@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
     "http://africanews.com/2026/10/27/niger-accuses-chad-of-deadly-drone-attack-in-which-two-civilians-died",
     "http://africanews.com/2026/10/27/south-african-ambassador-calls-for-talks-to-ease-tensions-with-us",
     "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
@@ -57,7 +56,8 @@
     "https://militarnyi.com/uk/news/rosiyany-atakuvaly-pivdennyj-mist",
     "https://militarnyi.com/uk/news/safran-vyroblyatyme-2000-aasm-hammer",
     "https://militarnyi.com/uk/news/sklad-boyeprypasiv-poblyzu-sela-dyakove",
-    "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
+    "https://militarnyi.com/uk/news/ssha-posylyly-ostriv-guam-bataljonom-ppo",
+    "https://militarnyi.com/uk/news/sso-nimechchyny-rosiya",
     "https://militarnyi.com/uk/news/taf-industries-shi-modul-aura-ai-u-kolibri",
     "https://militarnyi.com/uk/news/taf-zbilshyla-radius-rozvidnyka-babka-do-60-km",
     "https://militarnyi.com/uk/news/try-z-chotyroh-brytanskyh-atomnyh-raketonostsiv-vyjshly-v-more",
@@ -70,8 +70,8 @@
     "https://militarnyi.com/uk/news/ukrayinskyj-suputnyk-obria-nano-na-orbiti",
     "https://militarnyi.com/uk/news/v-oleshkah-rezhym-prypynennya-vognyu",
     "https://militarnyi.com/uk/news/verhovna-rada-umovy-inozemtsiv-syly-oborony",
-    "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
     "https://militarnyi.com/uk/news/zerno-cherez-bazu-ochamchyra-v-abhaziyi",
+    "https://navalnews.com/features/2026/10/canada-river-class-destroyer-aegis-mots",
     "https://navalnews.com/naval-news/2026/10/exail-unveils-marins-m1-compact-ins-for-smaller-naval-platforms-and-uxvs",
     "https://navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard",
     "https://navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb",
@@ -87,6 +87,7 @@
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0szMkZKaURHY2hnWl83dVZ0Rl95ZnpLSU40UnRRTjdGT3ZpUEkwY2VBTlNSRVc2cGV1UUx1d1FZeTZYNklxMFdaYnFEV3RhT214OEd4ZlZOSWxMNFpLS1FiaUtBM3NkNF9GaThacDdNUjBHTGpmYnlsTkZOa2VSU0hNNjZSeFdiZFY5dlYzTlYtUm1HZGwzZ19oYl9XSEw4b1lDWG5iMEE4azkzYlFERkNhQ0h4emJka0RDTlQ0TnM1X0NsRHJHV25UVnZmT3ZoLXlkNllRd29hZkpxSUdDUkRzT3E",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeUlENEZpQlVscHpBSkVnQTBjMGhJOENBdXdFQ1YzQVFudUh6ZWxWOUZfNENMRE04LUFTdnF2Zkx5RjJaZURTbFNVS1Nuek5DbWxGLXZFellRS1prTXczdUxEZ0hNa1QtWjgyM1VfVVhvODhDZnVLOXJNQjNTMjU5V1BnTzBHYUZBZjltbDBQU1VWUU12cko0eU1tWEJKdjlzQW50UlRMa2JqbFoyalZoek53WGpHdVRxb0x3YVJ1WUxYZVJzRmo2TFZsWDlpRkRpSUJScm5xNUtNY09ueVdlTTBpVVduWHk2",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXVSc2hqUUhOVm5oNUFLMHVQOUtBbDctbEMxX0NRbnNaMC1YYmhPa1dtc3o4cTZrUHBxdks1cHBvaEwtdkJBUFE4Q2FvMmw5ampRSS1URi1kTlZzb2E2N3BIRTIwcndIdE12ZmtWV2xYMEV6RUcyU0o0bWVnNi1yUHR1RW0wcTJrNzYtU05acjdxMGNsWjRjeE5kTVdEOHRrVDhTdnJseVVRS1ZhMkN6QWktdUxWeTJEZkt6b21FeTJUSlc3djJJcldMcXJCdHNwcTNQaGNGUWxPZmpMVVNhM1JwT1pDZGd2dGpKUExWYw",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnRTcWF4VFlQVFNaVjZMYUpwNFkza2g4RmxTTXlFanhRUElqWFVDTFJGeF8zeTFNSE5feDRJZTlwOWQxcU42X2FVM3BNSHdlSTBLRE41dGRWZGExRDBVd2V3TnBGX21sdzVkdDRlMHhjMkE2YlRTakl5MXVPMjM3Z0lTX3VDMHVKcF80bm1kZm9mU19BdEtZTElDT2paWkZldDNud1NyNHEyRnR0WjE0VkVOMGoyUHhjOXdiSjJfQVQwT0VqbEt2N2xTeHdEU2ZFV2FSaldwOEFXdGFPOGVReXo2OHdNUUFUalJDWXp2MnhVeU1K",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZV0JGencybk0xZmJQbVBNbEhQQ1RmbDIzOWxZbF9TSllnS1VhenhFSlBvUV84VmE4VHlGamxCWUxVSzg0eFJ3cHpMbmotdjlrR1E",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZi1JUC1fVGlnOXZES1ZucGVDQi1DRnh5TU1aX1hSS1ptYzhBZ2dxZjVnQnluUjJWRVZYQUN5NU5vUmpBSWlBa29vMFdmdFRmVzRpVGtJSQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VdIBV0FVX3lxTFBMVnNEMEpJODg2R1h1S0ljS0t6M1RvSmpSS0RyTmtvWkZMcDhNZnBNdFREcVJaQW1lUzNqeXdRdUxFWDk0TlJyOWtMT21Ka0xCYlVhSmh1VQ",
@@ -124,7 +125,6 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFBLb3BmYnRhcFQxaXBxdWdDV1B1N3dGRUpqc1FXb2Zlbl9PQWlkQlU5TDZkOEhQMUpPS2RzeGxQMEpKbzZsZi14Y3VSWjB6SGd3R0o5M293TlY5TDBkMkNQMFVLNjBLNF8tTmNtcTBZbFJ5d0s4cmtrenA4ZnlGbjF4a21acTBoOGdhQ1FSeW9yUXc0Qm9YMFRXN0lNYUJENTYxUkcyRGkzQzVIN2hyTUZn",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NWRmo1QmFFNmx5WlFTdDdyQUpiYXIxVUFUSFZidjFHZ3RvTkdub0Q1ZkZ6Q0NRQ2ZzdkJsWVQ1Z203MEZ1V2hRZS1JRm5XQkR2OWFiV1lyZVpvT3lqOWZwblcyWlowSnl1UV9NU3B3b25yeVZUSWNwcGRmSnkyNmQzTGxOSk4zeUo5cURMbEFJcDBSNkN5Nndic3pNVmQ0eVBUQ2N0djBKMnl2TE1rNWNTeGRSVDQ",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMC11a3E5X2lDUnhfNnZxVDA2dVNvTEI5NzQ0Z3d6M2plYms2NENHbUhlNDNlOWtmajNvR3h3ODJDTXdVTTNPaExkUmVwRFM0a1NQOTc2S1VBYjdMNWhYdWNpalZpWmQtX0h0S0liM0ZMOU0zQ3Z0TExYNzNoZlNtQld0Ty1OeXd5dnFqTllnZGxYY0FZZXVUMUotZVYtR19FUjExWGkwVHBQU0RWRF9tN25FZnRBWHprclE",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2pKeW4wX3ViQlR1WmVGcnJZLXl5MVFBb3BXUTFZOWYwWEdvNkdUZS1LNzdPSlk1WDdrc18zZ21lZXhTNUFNbVYwb3R0bWNzbjZHdERNUkVaS2xsNFJ4WXZIS1lPeTZLNm5hZW9Dc082cDNPVUNrRjQxLUZGVVkyTDRtSHZKNFIzamp5QVptREJPZkNBOGdBVEdMS01hVDRDVXVmU3dLdnB6eUgzNjRmaG9BSWhFUlNIMmNJcg",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0cxSklZZThSTDdJV0dUaXFCa2hjSm9pYU1lN1haanJyREkzYzNqN2ZaUEhiREpaNERQZ21IOFFxMUhqTkVQZkZHcExyaFB5NExiTVRnVWxEeU5VRmdhX21jVTRSQmRCSk5GdjR6NHZWdWs1R2V3NVEwWVM4Tkg4eFlzLVlmWjBFRkItcEotUHN5N2NvdmdKeExPSm5IZk5BUUxhSHJIQW05b2I2UEUtLVdwa2ZvWkJtc1k3MVpR",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOblo4UVNORG1oVklDOThPMnpXWmZXZTZEdUl1MEdPcEZTVWUzY3NfNFN0cV9wSzk3OXN0anBTSEM1c2g3bXlac1RiSXQycHhSc2QzVXQ1VEQ4M19VQ1R3Znl6Q0dWTmdJUHdDXzVvdl8xbTdPVU8ydjJ4Vkg5MjdqREp3Slp0MzBVNUYtZk4zWnl2b3Jib1dvNmNpaV9qQUpPai1oT24wd3o5aTBOVnZrVGxPUDJWcWttU2pNRHFpcw",
@@ -152,46 +152,6 @@
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
   ],
   "recent_posts": [
-    {
-      "title": "Єгипет схвалив військову підтримку Саудівської Аравії через атаки хуситів",
-      "original_title": "Egypt approves military support for Saudi Arabia amid escalating Houthi attacks",
-      "summary": "Єгипет наближається до регіонального конфлікту після того, як парламент країни офіційно схвалив надання військової підтримки Саудівській Аравії. Рішення було ухвалене на тлі ескалації нападів з боку руху хуситів. У наданому тексті джерела відсутні додаткові деталі щодо термінів розгортання сил, чисельності військових контингентів, обсягів озброєння чи інших конкретних параметрів ухваленої угоди між державами.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/10/26/egypt-approves-military-support-for-saudi-arabia-amid-escalating-houthi-attacks",
-      "published": "2026-10-26T13:31:22+00:00"
-    },
-    {
-      "title": "HV VTX Pro: новий відеопередавач Wild Hornets пройшов державні випробування",
-      "original_title": "Новий відеопередавач HV VTX Pro від «Диких Шершнів» пройшов державні випробування",
-      "summary": "Модуль HV VTX Pro підвищив потужність до 4 Вт, розширивши радіус ефективного застосування FPV‑дронів з 20 км до 30 км. Під час випробувань підтверджено стійкість зв’язку під дією радіоелектронної боротьби, що підвищує тактику мисливських дронів. Це дозволяє Україні знизити витрати на безпілотники, збільшуючи їхню бойову ефективність.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/videoperedavach-hv-vtx-pro-vyprobuvannya",
-      "published": "2026-10-26T13:49:53+00:00"
-    },
-    {
-      "title": "Міністри закордонних справ України та Норвегії відвідають Гельсінкі",
-      "original_title": "Ukrainian Foreign Minister Sybiha and Norwegian Foreign Minister Eide to visit Helsinki - Valtioneuvosto",
-      "summary": "Міністр закордонних справ України Сибіга та міністр закордонних справ Норвегії Ейде здійснять візит до Гельсінкі. Подія організована за участю уряду Фінляндії (Valtioneuvosto), який виступив приймаючою стороною для офіційних переговорів за участю дипломатичних керівників двох держав.",
-      "source": "Bilateral Meetings",
-      "publisher": "Valtioneuvosto",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpnOE03OGpJdGEwQWh5VGRrbWlCcTlYVW05bkVUMlFoU1lvNEN1ZHB2VnFfVFJzalpfc0lOZ1Ryc3Z6d0x2ZVl5aDhVUXNPVnZfdmRCcFZ3M2RwQ2tpaV9rWGRhVkNveUlVM2tSMWhObWVlV0U0Y3VISnFETTRXSUw0Umh3Q0ZmWEdGYmVtRWpEeDlqZXMxejAxbDJibkc2d0FRTjB0ZWFOSFplRF9NNnJMNFNkcXV4ZGc",
-      "published": "2026-10-26T14:08:00+00:00"
-    },
-    {
-      "title": "Сили Спеціальних Операцій України отримали штурмові гвинтівки G95 від Heckler & Koch",
-      "original_title": "ССО України отримали новітню німецьку G95 від Heckler & Koch",
-      "summary": "Гвинтівки G95, базовані на HK416, оснащені газовідвідною системою, 850 пострілів/хв, ефективна дальність 450 м, вага 3,3–3,4 кг. Вони забезпечують кращу ергономіку та легше обслуговування, що підвищує боєздатність українських спецпідрозділів. Переход на G95 замінює старі G36, що збільшує стандартизацію та підтримку з боку німецьких постачальників.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/sso-ukrayiny-otrymaly-novu-gvyntivku-g95",
-      "published": "2026-10-26T14:16:06+00:00"
-    },
     {
       "title": "Пезешкіян зустрівся з керівниками оборони Саудівської Аравії, Пакистану та Туреччини",
       "original_title": "Iran president says Tehran seeks unity and security among Muslim nations",
@@ -833,6 +793,16 @@
       "published": "2026-10-27T09:04:00+00:00"
     },
     {
+      "title": "Канада змінює проєкт бойової системи есмінців класу River: акцент на Aegis і готових рішеннях Type 26",
+      "original_title": "Canada modifies River-class Destroyer combat system design to focus on Aegis and MOTS solutions",
+      "summary": "Згідно з повідомленням, Канада переглянула проєкт бойової системи есмінців класу River: індивідуально розроблене обладнання замінюють на Aegis та готові комерційні рішення (MOTS) з програми фрегатів Type 26, щоб знизити ризики. Таке рішення, імовірно, має скоротити обсяг нової розробки й інтеграції, а отже зменшити ризик затримок і подорожчання програми. Подробиць щодо складу системи, озброєння чи строків у наявному тексті немає, тому оцінити вплив на бойові можливості кораблів поки неможливо.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/features/2026/10/canada-river-class-destroyer-aegis-mots",
+      "published": "2026-10-27T09:41:21+00:00"
+    },
+    {
       "title": "Британія не приєднається до оборонного банку DSRB під проводом Канади",
       "original_title": "Britain will not join Canada-led defense bank initiative",
       "summary": "Лондон і Оттава замість спільної установи домовилися розробити рамки співпраці між британським Multilateral Defence Mechanism (MDM) та канадським Defence, Security and Resilience Bank (DSRB). MDM зосередиться на пришвидшенні оборонних інвестицій і спільних закупівлях через фінансування, а DSRB — на підтримці оборонної промисловості та ланцюгів постачання, переважно через кредитування окремих держав. Відмова Британії та позиція Німеччини, яка поки спостерігає, ускладнюють збір цільових ≈€100 млрд, тож фінансування спільних оборонних проєктів ймовірно залишиться фрагментованим; статут банку план",
@@ -1013,6 +983,16 @@
       "published": "2026-10-27T13:29:43+00:00"
     },
     {
+      "title": "Британці просувають фрегати Type 31 для ВМС США, незважаючи на затримки",
+      "original_title": "Хоча для себе фрегати Type 31 затримуються на роки, британці просувають їх для ВМС США і які тут особливості - Defense Express",
+      "summary": "Фрегати Type 31, розроблені для британської ВМС, мають модульну конструкцію, здатні виконувати роль патрульних, протиповітряних та протиморських операцій. Британський уряд оголосив про продаж цих суден до ВМС США, що дозволить американським кораблям швидко оновити свій флот без довготривалих будівельних процесів. Це рішення підвищить оперативну гнучкість США в Північній Атлантиці та Південному Середземному морі.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnRTcWF4VFlQVFNaVjZMYUpwNFkza2g4RmxTTXlFanhRUElqWFVDTFJGeF8zeTFNSE5feDRJZTlwOWQxcU42X2FVM3BNSHdlSTBLRE41dGRWZGExRDBVd2V3TnBGX21sdzVkdDRlMHhjMkE2YlRTakl5MXVPMjM3Z0lTX3VDMHVKcF80bm1kZm9mU19BdEtZTElDT2paWkZldDNud1NyNHEyRnR0WjE0VkVOMGoyUHhjOXdiSjJfQVQwT0VqbEt2N2xTeHdEU2ZFV2FSaldwOEFXdGFPOGVReXo2OHdNUUFUalJDWXp2MnhVeU1K",
+      "published": "2026-10-27T13:43:00+00:00"
+    },
+    {
       "title": "Іран погрожує «руйнівальною» відповіддю на нові атаки США та Ізраїлю",
       "original_title": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
       "summary": "Представник іранського лідера Абдолла Хаджі Садегі заявив, що Тегеран знає про вразливості ворога і погрожує «жорсткішою та руйнівною» відповіддю на подальші американські удари. Це сталося після зустрічі секретаря Ради нацбезпеки Мохсена Резаї з лідером Мохаммадом Хаменеї та переговорів із Саудівською Аравією, Пакистаном і Туреччиною. Паралельно хусити заявили про ракетний удар по нафтопереробному заводу Рас-Танура в Саудівській Аравії, що спричинило пожежу, яку, за даними Bloomberg, вдалося локалізувати.",
@@ -1041,6 +1021,26 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/asia-pacific/2026/10/27/india-capitalizes-on-europes-growing-demand-for-ammunition",
       "published": "2026-10-27T14:04:24+00:00"
+    },
+    {
+      "title": "США сформували на Гуамі новий батальйон ППО з комплексами THAAD і Patriot",
+      "original_title": "США посилили острів Гуам новим батальйоном ППО з THAAD, Patriot і БпЛА",
+      "summary": "3-й батальйон 43-го полку зенітної артилерії 38-ї бригади ППО замінив ротаційну оперативну групу Task Force Talon, яка діяла з 2013 року, тож Гуам отримав постійний підрозділ ППО/ПРО. Він оперуватиме комплексами THAAD, Patriot і БпЛА. THAAD уражає балістичні цілі на висотах 40–150 км і дальності до 200 км, а радар AN/TPY-2 виявляє загрози на відстані до 1000 км. Це посилює захист авіабази Андерсен, бази підводних човнів і логістичного хабу США в регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-posylyly-ostriv-guam-bataljonom-ppo",
+      "published": "2026-10-27T14:07:13+00:00"
+    },
+    {
+      "title": "Німецькі спецпідрозділи KSK переорієнтовуються на можливу війну з Росією",
+      "original_title": "ССО Німеччини переорієнтовується на війну з Росією",
+      "summary": "KSK змінює підготовку, орієнтуючись на тривалі операції проти Росії, включаючи дії проти бронетехніки, артилерії, безпілотників і радіоелектронної боротьби, а також роботу в умовах низьких температур. Підрозділи готові протягом чотирьох годин вийти зі Штутгарта літаком з необхідним спорядженням, що дозволить їм діяти ще до вступу в бій основних сухопутних сил. Така швидка реакція підвищує обороноздатність НАТО на східному фланзі та ускладнює планування російської агресії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/sso-nimechchyny-rosiya",
+      "published": "2026-10-27T14:10:54+00:00"
     },
     {
       "title": "Комітет турецького парламенту схвалив Мекку угоду з Саудівською Аравією та Пакистаном",

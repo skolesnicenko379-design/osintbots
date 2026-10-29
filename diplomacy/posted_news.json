@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KV2hGb3U3NG1yZlRSU1JDQ2xlblU2MGY3WWtsOTJuM3o3MXBxYjNtejZyYzZneEk2ZkFUeEo5eHdmcVEwOTJnWTladW9xQzJRbDRpNFJZUjByMnpXUGdtN0ZoWkxZejZxVU1RbF83Wm83cjFrYWtkQkhR?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbDQ0QXY0STFDZTVnNko3bTZ6bzdFa3Iwa1Z3S0tpXy1ZQ3JRSlprVWNWVUZOYi1OdldUZ2w0UGNPamhEZC1wd1plMHo0S0xKbGFnMWFZb3ZnaDRzMW1sSFlicTlFektwQXdpMzdibG5zQ3VocG5KSEgzMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XbE9XdVU1UTZLS0JCYVRiZ19fZXJaZ05USFZpOU9ERGtCZGFMNmdiMFk2UXY2S2l0V0hWTDJMWFJ4Z2FQRFQxdmJ3dDVYRlI2cXJ2OUVlamg1VDB3QjNZbDBtV3YyZlNmZnVES1NfZTJrSnVQQlJVVnpB?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHpXTlJrM0o3U2hMaE1vOWNTazRYaHdLWlo4N3FMaDgtRUF2NXd1VDVSUXJRTVREVXlFb2dKRXdaaGswWHdZM1JTTEFIWmVncDBWaEdSczJZVVlpdFY4T0dnTFJGbm5LYnJwMjlCcWN6UzliSmNqT2xYaHktTjdSMlZHMHpkLXlrb0tabllrTWZDZWh4cXhnOFFmc2xwakRGNDlhaG9Hc0o1UlRJbGFQZFktR0lHeFBhWnRUVU45V3RpcnlhXzZtZGRtX1lwQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTgzQzNPS0pxa01CNVFjUVMwVVhTMkJNeUJNUjhpemdzTDVycHh2aHdOeHQza01GQVotOWhwdWljZURZQW5rS005RFlrUXlEeFpGSW5jRUVqTGdpbFN2b2tJZEJvWk1vLXpiZ3I1RjFodVVIczRpVVZvcjVMRjVFMEtIQVJqR3lLVTRZOE9fOA?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/uk-deploy-fighter-jets-military-advisers-saudi-arabia-defence-houthi",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE53U1FHZlpHbHM2TlhqM0Fad2RUMDdsRHhmc1NEdWVDSHpRd2N1aW5VMzhuM2Vibnl5UE40V3lDZEZRcVQ4ZnVVUWEyN09Pc1BFWHRKcFhkZjBKVVp0NGhUWmU4eHpmZkp6Ml9KaC04Y0l2WmlVTGozZnNB?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE50cTRMY0h3V1ZCOGVtcjFVUjZjc1h5NG9uQjdDeDh6NGdkSEozamFpZEVXUEJZaTdvYnJBOFcxS0oyS3cwMURhM0hkVHdMY0pBSjVKMGl5U2o2WnR0RDVaTGNYNDYxUnVJLVRkUkZtaDFneGFOZGtkSUN3?oc=5",
@@ -1199,7 +1194,12 @@
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzVvb25ndkFLZDV5RnM2dGE2NGRlcHZNTV8wMFl2Z3lNdFk2TnpqSUQ5QXJkSkNlZThnMzI0ai1iVW1YMWxsZUdGcFRBdmNudmR0SFZqOTJMOUNIVjRzNV84OWVoMkhvZy16VzFsel8zOVVyLXpxajV2WlQ3TVdScTFwZGh6NTUzbjBxa0I3bzVDWDFHUFBRUHFPcW9GeU41cVpKN0xMYTdJek54VXQtSlVEZVM4M1k?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWh0YWZPMXNzb3gxQ2lQbXhtRzV3VzdLMVBDTlhqRkUzMXRMWmpwRWFLcXFwUjBNQlBZRDdOSWlhTVpxa3FwSXRKN1FhMlliVmJJTFBlN1EzbFhkSkNoOG1KeFN3VnMxUnByVUZsek91Xzg2ei1FZExaUG1VOWlkVGg3RUtWY2E5cGhBd2VUTQ?oc=5",
     "http://www.africanews.com/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night/",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicmYzRU44dU5TSWNqVmU1VDRSWml2MGFLUGxudmZLeUZBY0hZYVJ6LUhZcWxnOU5EdWx6R0VUeTBFSzJPWWx1Q20yektxZFNhbEN5dHpjU1NZYnhYaUlCMi1wZnZJXzZhTWc?oc=5"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicmYzRU44dU5TSWNqVmU1VDRSWml2MGFLUGxudmZLeUZBY0hZYVJ6LUhZcWxnOU5EdWx6R0VUeTBFSzJPWWx1Q20yektxZFNhbEN5dHpjU1NZYnhYaUlCMi1wZnZJXzZhTWc?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-president-herzog-warns-against-repeating-elections",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTBtbXpmNTN2WmI3ejBiU0tETHJKbklwWVlaQkR4SEVDaEJtQlluTTFOWXhESldsdWJqZnN1NV9EOXVnU3R0aDhUWF9UTDA3eElJVE9rdUduMzBDeXZyUGRIMUhMSzFUNHhobUZLNE40ZG5VNjZ6VnhjcUJWVXlVMmJpY3l0WjViVUxEb1FfdDFKZw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-it-destroyed-houthi-ballistic-missile-fired",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNXRhOEpEOHZTaFNHcXhrTUZLUENVTGljYlJtXzZnZFZqMnNXc3pTZDNIWGhkX25wTlprdGVnaUVoUVN4WXNQRlZQb0tuaktBQzZYVHVRLUJsX09DdlhzNmZSLURuekxEbjhPYVBrRDlyYmdUd1BoQ0R1QUxhTEF4bWpONmZkY25HSUp1dm9MSk9pTWN0NlNIdHRiRjJlZHB0YWRrc3ZIRFItWWRCOEE2R0VKRHA1ZE5ydmlFYVJTS2gtYmNwdGtHcW01V0IwYzl6bGlTeG44czBZNmFXSWlBLXpwdVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1VaNFliRDlvZ1ZLZVRsVC1ZS29TMnlZQ1BnTUktQ0t2U2llb1ZyeFYwYzZaOVljOWVIeFRtaldpRDZsX2dEeVR2NzhCVHEzMlgzSnIxdzF6NEtndlZOaVExX1Nud3hUNlJpRGd6ME8wQ1dJY3FVbVlCTldCa0hNa3NrbWtjczZTSDFobXZ2YTc0VzNHdFQxZ0o2djBKajU1N21N?oc=5"
   ],
   "recent_posts": [
     {

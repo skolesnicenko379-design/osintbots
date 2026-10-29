@@ -5,7 +5,6 @@
     "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
     "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
-    "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
     "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
     "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
@@ -16,7 +15,6 @@
     "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
     "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
-    "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
     "https://defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years",
     "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
@@ -42,6 +40,7 @@
     "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
     "https://militarnyi.com/uk/news/pershyj-ne-v-ssha-tsentr-pac-3-patriot",
+    "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
     "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry",
     "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
     "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
@@ -144,6 +143,7 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ",
     "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
+    "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
     "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
@@ -152,26 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Польща обрана для нового центру обслуговування ракет PAC‑3",
-      "original_title": "Defense Department selects Poland for new PAC-3 maintenance facility",
-      "summary": "У США, у співпраці з Lockheed Martin, Польща, Німеччина, Нідерланди та Швеція, оголосили про створення нового центру, який збільшить швидкість та масштаб ремонту ракет Patriot PAC‑3. Цей крок покращить оперативну готовність ППО в Європі, дозволяючи швидше реагувати на загрози. Розширення інфраструктури підвищить ефективність підтримки та зменшить час простою систем.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
-      "published": "2026-10-27T18:50:27+00:00"
-    },
-    {
-      "title": "Армія США опитує промисловість щодо можливості виробити майже 21 000 піхотних машин ISV",
-      "original_title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
-      "summary": "Ринкове опитування армії охоплює 20 787 машин: 9 003 ISV-9 на дев'ять осіб і 11 784 ISV-U на п'ятьох пасажирів із вантажним кузовом. Закупівлі заплановано з 2028 фінансового року (106 машин) до 2036-го, приблизно по 2 000–2 100 машин на рік, а виробників просять оцінити собівартість за різних обсягів випуску. Вимоги такі: споряджена маса до 5 200 фунтів, повна маса до 10 200 фунтів, бортова мережа 24 В, шини run-flat, захист пасажирів при перекиданні та здатність долати брід. ISV-U додатково має лебідку, інвертор на 4 000 Вт і буксирування до 6 500 фунтів. Обсяг замовлення залежить від фінансу",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
-      "published": "2026-10-27T19:22:31+00:00"
-    },
     {
       "title": "Пентагон створить дорадчу раду з питань боєздатності та здоров'я військових",
       "original_title": "Pentagon creates advisory council on human performance, health",
@@ -1063,6 +1043,16 @@
       "published": "2026-10-28T15:32:30+00:00"
     },
     {
+      "title": "Відкриття пілота SR-71 Blackbird",
+      "original_title": "Confessions Of An SR-71 Blackbird Pilot",
+      "summary": "Пілот SR‑71 Blackbird розповідає про свої 230 місій, що перевищували тричі швидкість звуку, і про підготовку до польотів на 80 000 футів. Самоліт, що був одним із найшвидших та найвищих реактивних літаків, мав унікальні системи реактивного двигуна Pratt‑Whitney J58 та спеціальну конструкцію для зниження теплового сліду. Його повернення в новини підкреслює потенціал для розвідки та швидкого реагування у стратегічних регіонах.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
+      "published": "2026-10-28T15:44:30+00:00"
+    },
+    {
       "title": "ШОС прискорює євразійську торгівлю через цифрову логістику",
       "original_title": "Shanghai Cooperation Organisation Targets Faster Eurasian Trade Through Digital Freight, Local-Currency Payments And Industrial Investment - russia's pivot to asia",
       "summary": "Шанхайська організація співробітництва націлилась на швидшу євразійську торгівлю. Заявлені напрями — цифровізація вантажних перевезень, розрахунки в національних валютах та інвестиції в промисловість. Це відображає курс на розвиток торговельної та логістичної взаємодії країн регіону.",
@@ -1071,6 +1061,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHduT1RMWDR5S19GbktLTWF6RERWREY1MUxnTTZzcllkYnl2eHhRMkI3ZkRMTEl5TXdiWXRpYTlDOXM4dVFKczkxUmJPSnhabVN6OVZyRFVORzR4bW0tUW9SUU53SVFnQlpaeklDMmdEdUUySzRMYnJGYkVoRGJGVmJ1TnJRd04tdWlodnRCVWFOLTQzRC1xS01CeXZkdDgzU2gzeFlCSWFCMnlTQzBIRXB4ZkFKVXQzbVdMaTNkOWR6cnZZcXNuT2tCanIyZ1Z2YUZ0Ni1BN3FibTQxcFQ2Q3BlcHBkMUxSXy1XYjB4R0Ftbzk1dS1uYVRMVC1ZZw",
       "published": "2026-10-28T15:46:59+00:00"
+    },
+    {
+      "title": "Quantum Systems відкрила представництво в Японії, підписала меморандуми з Mitsubishi та Panasonic",
+      "original_title": "Quantum Systems зайшла на ринок Японії: компанія підписала меморандуми з Mitsubishi і Panasonic",
+      "summary": "Quantum Systems створила дочірню компанію Quantum Systems Japan G.K. і відкрила офіс у Токіо, підписавши меморандуми про співпрацю з Mitsubishi Chemical і Panasonic. Партнерство передбачає використання платформи MOSAIC UXS для координації безпілотних систем у повітрі, на суші та на морі, що розширить можливості Японії у сфері оборони та зменшить залежність від іноземних ланцюгів постачання.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
+      "published": "2026-10-28T15:58:05+00:00"
     },
     {
       "title": "Як General Atomics бачить майбутнє безпілотної авіації в Європі",

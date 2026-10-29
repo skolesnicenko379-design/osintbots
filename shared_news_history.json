@@ -1,6 +1,7 @@
 {
   "links": [
     "http://africanews.com/2026/10/29/russia-africa-summit-putin-seeks-to-expand-ties-with-the-continent",
+    "http://africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels",
     "https://army-technology.com/news/tekever-ussocom-uncrewed-aerial-systems",
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
@@ -98,7 +99,6 @@
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGE3QjRXT244THBLbFllbFQyYkpuQWJOR0U2Z2FHbHN2YUhmMkdhWU1ZdmN0TFBKemt4YkRYNnByR0VWOFV2eGNlRGFIVHE1aVJnaTdCNnE1bWVhd1V0ZVhsUkVyYmdNMXdLbmo3QkdZcDB6X0ZVTnpvaFd2dElBd2tWdw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXZhNnMxVklMallwdngxSEkwWkVxWmdvenNqLTIyb2pucGdERFk1VXkwWlU4SzZmazAzYnh2Z2dWMDQ1c0x6WWFoeFBjRDZzbVRLNlFWQUtLZmpoLVk2N0tZVlhHWnBCbGNxOWpwcXIwSGJvTU83cS1wZ1ozR25lRDNvb1pOQQ",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVhveG1RdWRUUTAtZ2Q5Z3lnSnhsMlZQemdaV09HdnlPQ2JfZGtIVzJqdEZQNElLUHAxelBTN1dQMmkzVjBRZXdKbUM0TU5uVEFGU2dJakFrVktPNUJfSl9pN2RUTFRYWno4VkVHdG9kU2ZMa1k3UDY5STdiV3BWeXo3cXlsdw",
     "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR3FpejljNUNOUDJNVkVmZUNLanRLMV9vQkFKaUdCbHhuYjZ0ejRRZkRDRlp4LUU1VTYtMkhyVTloMGlqajVSaWtlSjNZdkViQTRGd05fRm9meXBUZ2hnVzVMY091Zi1UcndNdTRYbXpreThVR2tlR2lzQXZvaTd5VlFhTllfZFMxb1JvbjNzZzBWQmFXUzJfVjhZX0ZTLVNINktQYW9aRlJtWFdqM1lqOGxudmttcnBaNFNIbmtqRExTaEFpMThVR0pXbHNidmxYWEpqZmpTWDVPa2psXzdEU2NQc0VuNFRkaVk1anFzbl9Jc3JtU0llUFVHeHliYWJhXzJlNkdn",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTN2ZVQtSkxjRk9uOFN2bnA1TXRYVTM5WkhFVGhreWxUbzJNQWptVHdsYjgyN3ZOalZHdW9TcGRwY1kxTU5jUm9yb3FCUkt4TXNrMFYyVE5EdjBnU0ZiN1o4UmF2dFZLNUlzcGhycGxWbEVyMnpvWkVZWEFObG8zRzdZWXYwc0E",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmJ2NC1QMDNlMHNHR0o5TGhYZ05sZ2JPbWxPQW5ab0Vwd3hjZFdRR0pic0F5dHBIZXpmSlRMX2Jody1CUTNPamNMeHB2WjVOamhOa0I0OG4wVUxwRU1YbmdPcVdRem5RLUpzRUhhM3pPNkhNTGZ2Wi1uUllLWGQtSkJpakJ2X2dK0gGHAUFVX3lxTE8yWUNjTnpycDZ4Szl6QW41RnF1VnlvVXMta2pGZ0JKZ1JqZnkyem9BU1otY1NxMXNYc1h1dTFXMmMwVzJBcl9kVUJRa3ZCTWNwMWRocV9ZRWd5U0tlM25LeGszd0VjMEdleWplXzVTUjJHZklpQ0tjU2M0UXVwX2gwckNLYXlpWQ",
@@ -152,16 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Іран та Білорусь підписали меморандум про енергетичну співпрацю",
-      "original_title": "Iran, Belarus ink energy cooperation MOU - Tehran Times",
-      "summary": "Іран та Білорусь підписали меморандум про взаєморозуміння щодо співпраці у сфері енергетики, повідомляє Tehran Times. Документ спрямований на розвиток двосторонніх відносин та зміцнення партнерства між двома державами у відповідному секторі. Конкретні обсяги, суми чи строки реалізації домовленостей у наданому короткому джерелі не уточнюються.",
-      "source": "Treaties & Agreements",
-      "publisher": "Tehran Times",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVhveG1RdWRUUTAtZ2Q5Z3lnSnhsMlZQemdaV09HdnlPQ2JfZGtIVzJqdEZQNElLUHAxelBTN1dQMmkzVjBRZXdKbUM0TU5uVEFGU2dJakFrVktPNUJfSl9pN2RUTFRYWno4VkVHdG9kU2ZMa1k3UDY5STdiV3BWeXo3cXlsdw",
-      "published": "2026-10-28T06:23:47+00:00"
-    },
     {
       "title": "Дохідність японських облігацій зросла перед засіданням Банку Японії",
       "original_title": "Global Market: Japan bond yields rise as investors eye BOJ policy meeting - The Economic Times",
@@ -1551,6 +1541,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQ0k4bXhxZVBLOHVIVjRwNVVkVmNVa092XzdOX0x3aHZqdG96UWlrY1lVcTZERmYyR3VTRE5neVN1eDBHSjhfUlpQRm9OMXU3SXNnMVNUSDJYZ09oaGxQVnJmOHpIOVliLUNQODA2QWRKTTg",
       "published": "2026-10-29T07:01:22+00:00"
+    },
+    {
+      "title": "США ввели санкції проти міністерства оборони Руанди",
+      "original_title": "US imposes sanctions on Rwandan defence ministry over links to Congo rebels",
+      "summary": "Вашингтон запровадив санкції проти міністерства оборони Руанди через зв'язки з повстанцями в Демократичній Республіці Конго. Ця міра має на меті збільшити тиск на Кігалі, щоб змусити її вивести війська з території ДРК та припинити підтримку угруповання M23. Рішення є формальним дипломатичним кроком США щодо врегулювання конфлікту в регіоні.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels",
+      "published": "2026-10-29T07:42:26+00:00"
     },
     {
       "title": "Польща найближчим часом передасть Україні два МиГ-29 у пакеті допомоги на 50 млн євро",

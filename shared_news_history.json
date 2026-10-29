@@ -15,6 +15,7 @@
     "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
     "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
+    "https://defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
     "https://defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
@@ -31,6 +32,7 @@
     "https://militarnyi.com/uk/news/azov-zavdav-ponad-100-udariv-po-potyagah-yaki-zabezpechuvaly-logistyku-armiyi-rf",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
     "https://militarnyi.com/uk/news/drony-urazyly-himzavod",
+    "https://militarnyi.com/uk/news/dvoh-nimtsiv-zatrymaly-za-pidpal-anten-starlink-u-bolgariyi",
     "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
     "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
     "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
@@ -38,6 +40,7 @@
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
     "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
+    "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29",
     "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
     "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
     "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry",
@@ -45,8 +48,8 @@
     "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
     "https://militarnyi.com/uk/news/slovachchyna-vidnovyt-ohoronu-neba-f-16",
     "https://militarnyi.com/uk/news/ssha-poperedyly-krayiny-perskoyi-zatoky-pro-mozhlyvu-novu-vijskovu-operatsiyu-proty-iranu",
+    "https://militarnyi.com/uk/news/u-pentagoni-vidmovylysya-rozsliduvaty-obmezhennya-starlink-i-starshield-dlya-ukrayiny",
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
-    "https://militarnyi.com/uk/news/u-rosiyi-pislya-udaru-droniv-goryt-zavod-azot-yakyj-postachaye-komponenty-dlya-vybuhivky",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-vid-niderlandiv-500-mln",
     "https://militarnyi.com/uk/news/ukrayina-stane-spivzasnovnytseyu-mizhnarodnogo-oboronnogo-banku-dsrb",
     "https://militarnyi.com/uk/news/ukrayinskyj-nrk-iz-shi-samostijno-19-km",
@@ -62,11 +65,9 @@
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXp0ZURGN0RnVHpiOFhRdjNqTGRwNjRXT2VMazFIeENFaTRBa0U2aVBUSWR5al8xREN5dy1JZHZlQ1ZMbzlJeFBSaVR0WEVRTlFfemJCbVhOTVA1UnRRelRfRXo2LXRNRk9QaW5OMEs3Q0M5RzkxVTFZOWh4VTdOdUVkeVI5YS1kNk5RMUwzaHR4SDVmR1IzZnl1cnBhZGxQSWRqdlNvaDdZMW5zcmxNbE01ZGJxWUhJZ0JhVGlDN2ZUQnR4aDFtQkNzSGpodWFPTEdFWUpOM3doYXIyMlE",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFV4UE5lSmR5LS1IdG9XZEZEM0dvRXRPOVRuaWNPQzQzZjFfUmsyZUY0NVZ2bzBWNHJFamlDcU1wZmV2OVVTSV85TjBQcHlmcllVSGQxYmhzdTViWExEa2cxRGxwbHJueUZUeGtlb0Iwd1d5aktMdjNzOUN1SU9fNl92akdKemYxUUN1ek1uclFKWFY0QUJXN1RVbU5yekUzOTY4YkZjdElSVVg2dWg2bmNJREdySGJValJhbUNpc0Q0bDNxRC1GLWloTmdYVGwwNWlHZVFiUHp0R04xdVVmUnpmMNIB6AFBVV95cUxQczMzcFlRbV94Y2dQTDhBdG1pc0JWOU1SSm1rQzZRLVJzMnhhUFZFdGo1TUxYc3NmZzFONGNRTjlMR3BkdExyZTNMN2s0SmQ0d2dVN3ktTkFub0I4VHk1cUVNeS0wN1kxMUlUOFNuOWxraDMzcU56dTdRZnBTRlZVQlVQRFpRbGVnaE84T2ZZU3JYY0VGOG45aFBQckdpY2lmWUR6TkZDY0xLTnp2SVdtMFo3NHpvQ0hsYUNGcVJrcUxLVER0OVFVcVI0TjlDeDlBakVmdjFXcmR5alg2eHZQVl85a0RjWUdL",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1lYTjRDRUZKUmZtd3NIM0taTzAyUmo5ZUVvcXZiVEtVdGZZT25Nd1VJRVNELVA1ZzBsN1dPX1N3OFlpZDVxRWl2b051Y3BuWGpNSjRKSVhYY0lTNmZULVllcTJ4SnA5a194VzFVdzJuX2ZQSzRYOXNlakN2RF9mS25od3A4dlA5V1Fvclo2dUNwb2hHMWphbEJGY2ZWY2R3Y0xHVEF3WlVjZlRXS1d5UGVTQlFOSnhleXdGaGxlaVY2QzVuRGlvWHYxVGV0QkNSa0toLVZBLVJPMElzWmFqc195T2pDME5wMThr",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3REakE3UWU5cThfQXRjdGVDZnloR0hISzRyUWZpVFNGTWhUR2NmQTVWTGVzVDJCRkcwMVNQTk8xSGNpMGJodHRhR2t2ZzlRa3JBYU5xRU5pSlJPSHhTVEJJVk1mVWFTUlR4YUZITXpHLV9Fa3dsal9mSGdfT05Sc3hnRmJENERlMHNvMUt4ZXNBRmRHWGMtWFRQT05XYldpWVlIMlJ2amltS2JKQk9PWXVxclp3VEdWU2Zyczc3UzVmbE5mTkJOZ2lVTjMtT3ZYTm1DeVpGZEQ2bTNVZGZpX3BiUkpnTnNsUTVLVnIwQ1TSAfYBQVVfeXFMTi1KaXg4SER6dEhDS0V5bjRyYldDSGxzRjd2Tnc2dUNCN3ZyWjdoSV9CcWVVN0plWDUydi1MOW85VVpoQ1A5dC1BVFFaWW0yWHVTdDFWTkFnZFFIMEQ1YXRYeGJYSXJxMU1WZzhCNWxWTDBqLXBJLWFuMjVxSUxHb2xGakRqVkRHV280aUtfTFNVeU01MjktWGFYaW95eWI0cVdDbFczcVVYdGZhaThYZzNBRF9sYjJaUWdaUmZDclNKQnlfeFlaY1JMdTRzWkxBRzFiX2wxLTh0U1NEOXRsQklWdGVVd3VnSHFNTFZBcmxJMlQ2WkZR",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcUp4b25LakJEMUJqOTFwVmZJS0FGS29uTnc4NjIxMl9LaHZNRzFqT0dYWU95MERTMmVEWS1GbnFzeF9ZM0RTZmNEMExTWVZrNi1xMGRXSm5ENndmX2tCbFR3RnhmUXB2dkQ1T3dfSFNFSFk4dDVmZ1hreUxPLTJ3dThCVzBZNVFEd00wTXhFaW5vQThEWkxiTDVkSlExTUQta2sxb1A3R3NKc3lOQU9reHNwUVMxOHRFQlFYeDRDOHJnQ2JOX1Y2d2Y5bzBZQ3A5bGxjSEVoNGhpcHdNUHZBUkFmS3hJRWZKRkdkb1VoT1E",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR1A4dEktTzFWTkNOOHU1UmF1SzkzSWJiSlJqM3czYlU4X09YT1J0NllmSUFFellNMlB0VExWSXJzbkdHQkROVXc0UkcxUEN0MU5DMnAxQlRiaExRSGlfcnFEdWdWbTJDTXB3QWZXZWhzSXo3MHRVdFNPZ25OZ211STYtS1kxNGZ0Nm4zV2ZwWFVMRHNhT2p0cFpvTEotSHZBMGxYUkVRWWJsOXdEcDJDZ2ZTblNNNGRiWXR3U3hFSVZLeUZQTVp6R3lST2JIZ0ZaR1BfT3Q5am52U0tHc0lhaWtwWnc5RkRaWHFzNU5aYkVudw",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlVsbjhQOW9yQWV5eEZyeV91QkNRMUJFa3BvVXQwQ2dKa0x1bHItWEtUYlpraWtKRTlJZFdoWUM4bE9lUDVKRlBGRE84anRRU1NyZmZrWlFIdnBPMXExQnM2SnhaZlVybkd4VG1UYkVheHhNZEhaZ0pwODdZZkVONkdOZzlsMVBMUzBOOUJYaVZzTTA5MW5fbndPVjhEYkRJT0RwdmFoZkk4QmlfRTNJUDFWR0p5cGdMY1FYOWJiVDg4U0lHNFczQllDc3BEd3pSX0tka1Q2bHJ4SEZsMkt6S3lNUDlYR3l6bm12UnoySkQzZ2fSAfgBQVVfeXFMTU1ka0JTd21rRlJ0NnBBaEVHRW1Qc2owZm9PMkVCd21VNWtwNXY1RjR5REV5UDdaazM3elc5UFRjTGxSWHZZSEVraFZwQkFDSTdVUU5VUHdtMjRmR1Q5N1pVZHVWS0dkMzNUZDJjeElMUi1OLWxsRk13OE9lV01INm1NaTR3MHJHMlJnLXpDalZhYnA1VklrcDQtQ25EMzFhTG5BWXI4ZFVqUHJNTWZkaE0wQzlpRkFXYkwtTzNyT2VLQThydmlUZHl3SXpEZTlsY2RBLW1SWGZId01pU1BaTUpTcUpSaDBsZUdybUplbW9Ldjk4TndFRFA",
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ0hBNUcwSENwbkJzRUs4WUpRakFrT3Y3WFlOX3Q2SmhCZXBza1FGWkxlRGgwTjdQSEtIV24xM3BDNDRxNDVGVzhrN2RiUGV5WE1wUDZtWE9uaktCMkpCZ09VTFVtZ3FTOHF5YjU0d2hQSE1qMWJIWldUWDNhUi03b2M5ckZTelJzeUZyZjZ2R2dLWnFFT1U2N2NjNU1EaFZEUUl1eHE1Y3FfSm5qaVg3eUZkTXVFSF9aNV9NNTNIVnozWDRndW1KVVdlNkZtVGhOTkRKdm1JT1JpbDg2OVp1V0ttOS01cjVFbGItNVJreUFoUEE",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHZZZkNXQ3JVMGRhbnNXY0dKOEQzV2JPdGhBdWFnNjBHZ25QVXdsZzRrN2JMLWN0Z05id3RUWWlUQXdwYkRCcVNwMmp0c2lSWnYxdmlDWXBZbzRFRHFBOWpLY2VzeDVKZEhvdVNmLWtlb3ktZ1lNRUZyVGlXU1YwMDl5RDY4dW1ISFpvNVgyb2FWZjBEb3VKYzZEaFdJVnBxYU16RFRwdlBJY0NFUUJaSXA4QnRNUlhMS3FnWVFBR05JcWhmMUVxamM5V19hYUJ4SWduT3VUV0tPZ0N4WWxzd29JaEJOc1A4eGpDZVdwb1F3NjVyRXc",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
@@ -101,7 +102,6 @@
     "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR3FpejljNUNOUDJNVkVmZUNLanRLMV9vQkFKaUdCbHhuYjZ0ejRRZkRDRlp4LUU1VTYtMkhyVTloMGlqajVSaWtlSjNZdkViQTRGd05fRm9meXBUZ2hnVzVMY091Zi1UcndNdTRYbXpreThVR2tlR2lzQXZvaTd5VlFhTllfZFMxb1JvbjNzZzBWQmFXUzJfVjhZX0ZTLVNINktQYW9aRlJtWFdqM1lqOGxudmttcnBaNFNIbmtqRExTaEFpMThVR0pXbHNidmxYWEpqZmpTWDVPa2psXzdEU2NQc0VuNFRkaVk1anFzbl9Jc3JtU0llUFVHeHliYWJhXzJlNkdn",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTN2ZVQtSkxjRk9uOFN2bnA1TXRYVTM5WkhFVGhreWxUbzJNQWptVHdsYjgyN3ZOalZHdW9TcGRwY1kxTU5jUm9yb3FCUkt4TXNrMFYyVE5EdjBnU0ZiN1o4UmF2dFZLNUlzcGhycGxWbEVyMnpvWkVZWEFObG8zRzdZWXYwc0E",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmJ2NC1QMDNlMHNHR0o5TGhYZ05sZ2JPbWxPQW5ab0Vwd3hjZFdRR0pic0F5dHBIZXpmSlRMX2Jody1CUTNPamNMeHB2WjVOamhOa0I0OG4wVUxwRU1YbmdPcVdRem5RLUpzRUhhM3pPNkhNTGZ2Wi1uUllLWGQtSkJpakJ2X2dK0gGHAUFVX3lxTE8yWUNjTnpycDZ4Szl6QW41RnF1VnlvVXMta2pGZ0JKZ1JqZnkyem9BU1otY1NxMXNYc1h1dTFXMmMwVzJBcl9kVUJRa3ZCTWNwMWRocV9ZRWd5U0tlM25LeGszd0VjMEdleWplXzVTUjJHZklpQ0tjU2M0UXVwX2gwckNLYXlpWQ",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWFMZzB6cFRQTHAzWnFMdjB1aThfeXVvNnM4akxBTGNWbWdkVlJ4djU0V18tWm83QndTSDdtTC00MXRhcmJ1LThGQllkVmhKWWZIaHgxUDZuMWxjZDRrZjlobzdfOUlQaE9SUGZxZEE0dzBYeTZaMFJDMUtFMzdWRVRmME5xbERjeXVrOGhn",
     "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaV96eHBtcVJlQnc2cjNuMFFnaWxGOTNPTWRhRFF5SEdTUU04ZGFNNHBLalVCV2Q5S2NzczFOaTRhSktuVng1NVFOV3pOUC04UGI1MnhhNGo3dEpBX2lQTndfcW1Nc3lLRDVRNHhwSmdrSFhiTG9pRlNTVndKSVByVkUySEZRWXZ2Y3EycG5VT3o4ZU9NbGV3NUpGaDk0OWdQMm9NQzBhdHdhUGZVSHd0UHlFSFJfV2xqYXRIUTl3bmZOX05pdXFhSDJ6MDBBV3JVWUE5Y3RwQ1Jsd0VkZGVHNWRvSnRSd21qbTJ2QkNJdW80dU9KYWFJa0VrSjVIVnQ4dGhPbC1VRGF0UmpSMXZJ",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTR0Wjd5MXI4cV9MaXRIQ0lGXy1QeVBrcDBObnk3WmNDN2swVmxkUkhscloycjdLakMxZ3VFamk5NXRpM3B1b21kek93MFRqZ3NWZG8yXzA3SGpHY2ZZRmtNMHo4a1VLYlZmWUU4a1daSDB0UXlaXzhiT3VPTENzR3c4NFFOUnVqZnVWbTZrTEU",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1RqQzgxaVlUYTdvb210WUJNeUhWUWZUTEtJeFVrWmtVM2RuZGNjWENEeWVkT3RZTENycU9iQ1pfYU9zbDE5bmZPUXlzQXN0aGZ3LXZpMGlRNndqYlVsZHdXRDBZa0JfUE9QM1RucmNxUW9reW5yVmtjcTVPenRsNDJDZF9DUlFKVVNDR3loZ3lDdw",
@@ -152,46 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Акції Китаю та Гонконгу відновилися після звіту SK Hynix",
-      "original_title": "Global Market: China, Hong Kong stocks rebound as SK Hynix earnings lift AI optimism - The Economic Times",
-      "summary": "Фондові ринки материкового Китаю та Гонконгу відновили зростання після публікації фінансових результатів SK Hynix. Згідно із заголовком The Economic Times, звіт південнокорейського виробника чипів підсилив оптимізм інвесторів щодо ШІ та став чинником відскоку на китайських майданчиках.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "The Economic Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3REakE3UWU5cThfQXRjdGVDZnloR0hISzRyUWZpVFNGTWhUR2NmQTVWTGVzVDJCRkcwMVNQTk8xSGNpMGJodHRhR2t2ZzlRa3JBYU5xRU5pSlJPSHhTVEJJVk1mVWFTUlR4YUZITXpHLV9Fa3dsal9mSGdfT05Sc3hnRmJENERlMHNvMUt4ZXNBRmRHWGMtWFRQT05XYldpWVlIMlJ2amltS2JKQk9PWXVxclp3VEdWU2Zyczc3UzVmbE5mTkJOZ2lVTjMtT3ZYTm1DeVpGZEQ2bTNVZGZpX3BiUkpnTnNsUTVLVnIwQ1TSAfYBQVVfeXFMTi1KaXg4SER6dEhDS0V5bjRyYldDSGxzRjd2Tnc2dUNCN3ZyWjdoSV9CcWVVN0plWDUydi1MOW85VVpoQ1A5dC1BVFFaWW0yWHVTdDFWTkFnZFFIMEQ1YXRYeGJYSXJxMU1WZzhCNWxWTDBqLXBJLWFuMjVxSUxHb2xGakRqVkRHV280aUtfTFNVeU01MjktWGFYaW95eWI0cVdDbFczcVVYdGZhaThYZzNBRF9sYjJaUWdaUmZDclNKQnlfeFlaY1JMdTRzWkxBRzFiX2wxLTh0U1NEOXRsQklWdGVVd3VnSHFNTFZBcmxJMlQ2WkZR",
-      "published": "2026-10-28T05:37:23+00:00"
-    },
-    {
-      "title": "У Росії після удару дронів горить завод «Азот», що виробляє компоненти для вибухівки",
-      "original_title": "У Росії після удару дронів горить завод «Азот», який постачає компоненти для виробництва вибухівки",
-      "summary": "БПЛА атакували хімічний завод «Азот» у Новомосковську, спричинивши пожежу. Завод виробляє аміак, азотну кислоту й нітрат амонію, що використовуються у виробництві вибухових речовин, тому його пошкодження може тимчасово знизити поставки сировини для військових боєприпасів. Це продовження систематичних дронових ударів по ключовій інфраструктурі Росії, що підвищує ризик порушень у виробництві озброєння.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/u-rosiyi-pislya-udaru-droniv-goryt-zavod-azot-yakyj-postachaye-komponenty-dlya-vybuhivky",
-      "published": "2026-10-28T05:46:07+00:00"
-    },
-    {
-      "title": "Лейбл «Зроблено в Європі» не охоплює Марокко й Туреччину",
-      "original_title": "Europe’s Made in Europe Label Shuts Out Morocco and Turkey - Social Europe",
-      "summary": "Social Europe повідомляє, що європейський лейбл «Made in Europe» виключає Марокко та Туреччину. Таким чином, продукція з цих двох країн не потрапляє під дію цього маркування.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Social Europe",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWFMZzB6cFRQTHAzWnFMdjB1aThfeXVvNnM4akxBTGNWbWdkVlJ4djU0V18tWm83QndTSDdtTC00MXRhcmJ1LThGQllkVmhKWWZIaHgxUDZuMWxjZDRrZjlobzdfOUlQaE9SUGZxZEE0dzBYeTZaMFJDMUtFMzdWRVRmME5xbERjeXVrOGhn",
-      "published": "2026-10-28T06:00:00+00:00"
-    },
-    {
-      "title": "China Industrial Profits Rise 15.5% on AI Demand",
-      "original_title": "China’s Industrial Profits Climb 15.5% as AI Demand Transforms Manufacturing Performance - Spherical Insights",
-      "summary": "In the first nine months of 2026, industrial profits in China increased by 15.5% compared with the same period last year, driven by growing demand for AI technologies that are reshaping manufacturing performance.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "Spherical Insights",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ0hBNUcwSENwbkJzRUs4WUpRakFrT3Y3WFlOX3Q2SmhCZXBza1FGWkxlRGgwTjdQSEtIV24xM3BDNDRxNDVGVzhrN2RiUGV5WE1wUDZtWE9uaktCMkpCZ09VTFVtZ3FTOHF5YjU0d2hQSE1qMWJIWldUWDNhUi03b2M5ckZTelJzeUZyZjZ2R2dLWnFFT1U2N2NjNU1EaFZEUUl1eHE1Y3FfSm5qaVg3eUZkTXVFSF9aNV9NNTNIVnozWDRndW1KVVdlNkZtVGhOTkRKdm1JT1JpbDg2OVp1V0ttOS01cjVFbGItNVJreUFoUEE",
-      "published": "2026-10-28T06:12:25+00:00"
-    },
     {
       "title": "Іран та Білорусь підписали меморандум про енергетичну співпрацю",
       "original_title": "Iran, Belarus ink energy cooperation MOU - Tehran Times",
@@ -1593,6 +1553,16 @@
       "published": "2026-10-29T07:01:22+00:00"
     },
     {
+      "title": "Польща найближчим часом передасть Україні два МиГ-29 у пакеті допомоги на 50 млн євро",
+      "original_title": "Польща передасть Україні два винищувачі МиГ-29",
+      "summary": "За даними Rzeczpospolita, один із двох МиГ-29 уже вичерпав призначений ресурс, тому Україна, ймовірно, використає його як донора запчастин. Другий літак ще літає, а це небагато, але допомагає підтримувати наявний парк. Разом із винищувачами Польща передасть боєприпаси калібрів 155 і 152 мм, 20-мм набої для гармат F-16 та ракети до ПЗРК Piorun. Така допомога закриває потреби артилерії та ППО, а також підтримує експлуатацію F-16. Точні терміни передачі не названо.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29",
+      "published": "2026-10-29T07:45:14+00:00"
+    },
+    {
       "title": "Президент Німеччини: декаплінг із Китаєм не потрібен, але інтереси слід захищати",
       "original_title": "Germany does not want China decoupling but must defend interests, president says - South China Morning Post",
       "summary": "Президент Німеччини заявив, що країна не прагне декаплінгу, тобто розриву економічних зв'язків із Китаєм, але має захищати свої інтереси. Про це повідомляє South China Morning Post. Заява окреслює підхід Берліна до відносин із Китаєм.",
@@ -1601,6 +1571,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU9FdmZWWktjaFJtNXVjWFFkaVZPSFBzYzY2MUpZdVZwYmotdFB2QXBPTThSWnc2NDdKazlCMnpCNDRFMFV0V1pBOGFTUURCbXhCQU1rMDY2bi0td0FLXy1YbFpMYUJNNGM0aVR0MUZtTWtWd3c0QS01eFB4MndFZGYyVjFsS0VIUG5pMWxWWVczbGJhM2hTdE9LV245WjZPdUlSNFdYdTAtZ3NtNEdlQ3dFWjc0b3lPdTRlNWNlNk52RVppRzA4RmNGU1J1LUhVOHNkbEJB0gHWAUFVX3lxTE5oU2NTZ1VxOXhXX0djTlRjR3NxSGNlUlhIblB6cy13d0M2M2xwVmFOUG54Qzh3NFgxZmZPSUljakJjc1BtUDI5N3JxczFZNVN6cHdDT1loM3pURFhQbThvQlo5RFpBYkpQSE9QemdDZlVRWkk5UmwxbmhkclJJOUw0V0NXSEhPU3RVaVVrWlRGX1pHc2NybjVoWnpOX1hNU0V1TUhlclZHTHlzSlhFcDM5b1A4bVdOVEUyS204S2dzWWRKZEo0TWFvNjhxZERDWVd6aEp6eEE",
       "published": "2026-10-29T07:48:43+00:00"
+    },
+    {
+      "title": "Генінспектор Пентагону відмовив сенаторам у розслідуванні обмежень Starlink і Starshield в Україні",
+      "original_title": "У Пентагоні відмовилися розслідувати обмеження Starlink і Starshield для України",
+      "summary": "Зниження швидкості Starlink, за даними сенаторів, ускладнило перехоплення російських ударних дронів, тобто безпосередньо вплинуло на протидронову оборону. Відмова від незалежної перевірки та перенаправлення питання до Повітряних сил залишає невирішеним, хто саме контролює умови роботи військової системи Starshield. Це підсилює для України ризики залежності від одного комерційного постачальника зв'язку та пояснює інтерес до власної незалежної супутникової системи, зокрема у співпраці з ICEYE та Nokia.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-pentagoni-vidmovylysya-rozsliduvaty-obmezhennya-starlink-i-starshield-dlya-ukrayiny",
+      "published": "2026-10-29T07:52:22+00:00"
     },
     {
       "title": "Geely's profit rises, exports offset China slowdown",
@@ -1643,6 +1623,16 @@
       "published": "2026-10-29T08:16:23+00:00"
     },
     {
+      "title": "Після відставки Вучича: збірка зброї Сербії піддається ретельному розслідуванню",
+      "original_title": "After Vucic ouster, Serbia’s weapons-buying habits are under the microscope",
+      "summary": "Після виборчого переміщення у Сербії, уряд планує зменшити оборонні закупівлі і розслідувати попередні угоди, включаючи 12 італійських літаків Rafale, системи ППО FK‑3 та HQ‑17A, а також китайські дрони CH‑92/95. Це може призвести до скорочення військових витрат у найближчі роки, зосередження на підвищенні кваліфікації персоналу і внутрішньому виробництві дронів через співпрацю з Elbit. Технічно це означає зменшення швидкості модернізації повітряної оборони, але потенційно збільшує автономність у виробництві та зменшує залежність від зовнішніх постачальників.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
+      "published": "2026-10-29T08:53:25+00:00"
+    },
+    {
       "title": "Супутники зафіксували пожежу на аеродромі «Мариновка» у Волгоградській області",
       "original_title": "На аеродромі «Мариновка» у Волгоградській області супутники зафіксували пожежу",
       "summary": "Пожежа на аеродромі «Мариновка» зафіксована супутниками NASA FIRMS о 02:28 ночі після оголошення дронової небезпеки о 01:25. Аеродром базує 11-й змішаний авіаційний полк з Су-24М, Су-24МР і Су-34, тому інцидент може вплинути на бойову готовність російських літаків у регіоні.",
@@ -1651,6 +1641,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
       "published": "2026-10-29T08:54:42+00:00"
+    },
+    {
+      "title": "У Німеччині затримали двох підозрюваних у підпалі антен Starlink у Болгарії",
+      "original_title": "У Німеччині затримали двох підозрюваних у підпалі антен Starlink в Болгарії",
+      "summary": "У Болгарії під час підпалу на об’єкті Плана згоріли три наземні антени системи Starlink, що забезпечують широкосмуговий супутниковий зв’язок. За даними слідства, підозрювані використали автомобіль з німецькими номерами, що вказує на міжнародну організовану операцію. Втрата наземних станцій ускладнює доступ до інтернету в регіоні та може вплинути на військові та цивільні комунікації, особливо в умовах конфлікту.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/dvoh-nimtsiv-zatrymaly-za-pidpal-anten-starlink-u-bolgariyi",
+      "published": "2026-10-29T09:07:39+00:00"
     }
   ]
 }

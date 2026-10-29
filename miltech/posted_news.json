@@ -1,8 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWlxaUM2YUJsYUFCMXNTZ0xUWm9lSDNrTEE0ZnBzR3pIWms5QVlCNDA1RGI1a3hBYk9PS2VxN0lEeTVxYWx2V1MxVm9ibHpleHl4OV9XeUREby1QNUNwcXFoOVRvdEdJMEh4ZjRYQ3JMX3EtQUJKc0JxTjBaZWdQd2Z1RHN1N2E5dzZTN0NDVXRLM051V2c5OG1qODZLeUphQ1J0d3JIODhoaDBvcHE3dE90cC00blBQdUFGVTBXVVhLQXh5SkFnUFRXMVVWTWtYZmpnb2ZiRHpTUGlkdXdFb2Vyb2lySVFlVktFYWtSRTN5RHp1TlE?oc=5",
-  "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdDdnWVdfTnVFUllMeWtLUU8yWEY4anUyck9HRVBmbXJkcVNvdzZod1hXeDd3OHJWeVVtUWxzX3diYm1EeVM2ZjVqbnI3TGNSZVo4bjBsQmMySl94VjFjcXFYYmVYTjFROFAwbFJNbDhJbEFTSl9QclJUZmxTZC02dGl3UHdqczZ3VFI1cE85MXdZU3ZXVkgxUVI1eGdZYlRfYU1CbXpsV2tXWkRrbHlaT2ZLSEhPT0N1am5GTURRZUN4MDZYTE92U0NDanIyUkdJcUhVOVVDX2sxNXZka2JDOXowaUxYU0RLTG8yOQ?oc=5",
-  "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRmVKTndQVzQwMDhYcE02amJjem9WYW5sTFhOU2FMTEJmYWxhczluRnN4aEpuYTdlZUNXTTVfM1dReFdYazNTOXpVOTl2V0FCS3BYTElaVmkxQ0hxeEZyVk5WQ3FERWlTSXlJdWVVdkR1ejFFTFQ2WjVRaE5iZ2QyeWtub3B4eVNpLXdDamZrd19wV3k2TjE0UTJJekxSNW1PeDVtaUh1aW0tRUlxVUp5VkRZSzRJQUJjWUZqRE9CZkxrUEpjckhjOXF4UVUxTUhwWm9XTU5BZTFFRDJ0TXFldFNoTHZkcWlYTWdwVW1PWS1KcUxEcmo0dHRyWElWaVRxT0FQeDVxTEpzaTY1UWc?oc=5",
-  "https://www.army-technology.com/news/sweden-raytheon-uk-anti-jamming/",
   "https://militarnyi.com/uk/news/bijtsi-polku-skelya-doluchylysya-do-pidzemnoyi-operatsiyi-na-kup-yanshhyni/?utm_source=rss&utm_medium=rss&utm_campaign=bijtsi-polku-skelya-doluchylysya-do-pidzemnoyi-operatsiyi-na-kup-yanshhyni",
   "https://www.navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class/",
   "https://militarnyi.com/uk/news/ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16/?utm_source=rss&utm_medium=rss&utm_campaign=ponad-50-tysyach-20-mm-snaryadiv-dlya-f-16",
@@ -298,5 +294,9 @@
   "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29/?utm_source=rss&utm_medium=rss&utm_campaign=polshha-peredast-ukrayini-dva-myg-29",
   "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
   "https://militarnyi.com/uk/news/finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110/?utm_source=rss&utm_medium=rss&utm_campaign=finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110",
-  "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol/?utm_source=rss&utm_medium=rss&utm_campaign=biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol"
+  "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol/?utm_source=rss&utm_medium=rss&utm_campaign=biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
+  "https://www.navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise/",
+  "https://militarnyi.com/uk/news/nimechchyna-niderlandy-zbilshyv-schakal-291/?utm_source=rss&utm_medium=rss&utm_campaign=nimechchyna-niderlandy-zbilshyv-schakal-291",
+  "https://www.navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability/",
+  "https://www.navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher/"
 ]

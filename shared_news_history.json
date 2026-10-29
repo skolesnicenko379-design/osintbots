@@ -40,10 +40,10 @@
     "https://militarnyi.com/uk/news/finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110",
     "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
     "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
-    "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
     "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
+    "https://militarnyi.com/uk/news/nimechchyna-niderlandy-zbilshyv-schakal-291",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
     "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29",
     "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
@@ -53,7 +53,6 @@
     "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
     "https://militarnyi.com/uk/news/slovachchyna-vidnovyt-ohoronu-neba-f-16",
     "https://militarnyi.com/uk/news/u-pentagoni-vidmovylysya-rozsliduvaty-obmezhennya-starlink-i-starshield-dlya-ukrayiny",
-    "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-vid-niderlandiv-500-mln",
     "https://militarnyi.com/uk/news/ukrayina-stane-spivzasnovnytseyu-mizhnarodnogo-oboronnogo-banku-dsrb",
     "https://militarnyi.com/uk/news/ukrayinskyj-nrk-iz-shi-samostijno-19-km",
@@ -61,7 +60,9 @@
     "https://militarnyi.com/uk/news/velyka-brytaniya-vydil-3-milyardy-funtiv",
     "https://militarnyi.com/uk/news/yaponiya-perehopyla-korabel-i-aviatsiyu-knr",
     "https://militarnyi.com/uk/news/zavod-z-vyrobnytstva-aim-120-v-yaponiyi",
-    "https://navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design",
+    "https://navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher",
+    "https://navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise",
+    "https://navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU9FdmZWWktjaFJtNXVjWFFkaVZPSFBzYzY2MUpZdVZwYmotdFB2QXBPTThSWnc2NDdKazlCMnpCNDRFMFV0V1pBOGFTUURCbXhCQU1rMDY2bi0td0FLXy1YbFpMYUJNNGM0aVR0MUZtTWtWd3c0QS01eFB4MndFZGYyVjFsS0VIUG5pMWxWWVczbGJhM2hTdE9LV245WjZPdUlSNFdYdTAtZ3NtNEdlQ3dFWjc0b3lPdTRlNWNlNk52RVppRzA4RmNGU1J1LUhVOHNkbEJB0gHWAUFVX3lxTE5oU2NTZ1VxOXhXX0djTlRjR3NxSGNlUlhIblB6cy13d0M2M2xwVmFOUG54Qzh3NFgxZmZPSUljakJjc1BtUDI5N3JxczFZNVN6cHdDT1loM3pURFhQbThvQlo5RFpBYkpQSE9QemdDZlVRWkk5UmwxbmhkclJJOUw0V0NXSEhPU3RVaVVrWlRGX1pHc2NybjVoWnpOX1hNU0V1TUhlclZHTHlzSlhFcDM5b1A4bVdOVEUyS204S2dzWWRKZEo0TWFvNjhxZERDWVd6aEp6eEE",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXp0ZURGN0RnVHpiOFhRdjNqTGRwNjRXT2VMazFIeENFaTRBa0U2aVBUSWR5al8xREN5dy1JZHZlQ1ZMbzlJeFBSaVR0WEVRTlFfemJCbVhOTVA1UnRRelRfRXo2LXRNRk9QaW5OMEs3Q0M5RzkxVTFZOWh4VTdOdUVkeVI5YS1kNk5RMUwzaHR4SDVmR1IzZnl1cnBhZGxQSWRqdlNvaDdZMW5zcmxNbE01ZGJxWUhJZ0JhVGlDN2ZUQnR4aDFtQkNzSGpodWFPTEdFWUpOM3doYXIyMlE",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1lYTjRDRUZKUmZtd3NIM0taTzAyUmo5ZUVvcXZiVEtVdGZZT25Nd1VJRVNELVA1ZzBsN1dPX1N3OFlpZDVxRWl2b051Y3BuWGpNSjRKSVhYY0lTNmZULVllcTJ4SnA5a194VzFVdzJuX2ZQSzRYOXNlakN2RF9mS25od3A4dlA5V1Fvclo2dUNwb2hHMWphbEJGY2ZWY2R3Y0xHVEF3WlVjZlRXS1d5UGVTQlFOSnhleXdGaGxlaVY2QzVuRGlvWHYxVGV0QkNSa0toLVZBLVJPMElzWmFqc195T2pDME5wMThr",
@@ -131,7 +132,6 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1k0TjFEZEwyNU5PUGdhNnFQMU0tRk5ZZGVoSlNka1NQcmNfOTB0c3ktX1hhMDNDYzByVTB3bUFleFRxVGlscHFuTE1mRVdxanJjaW8xemtscHNtOHkteUZ4aGViOG1aWnpzLXNSNENfem9MSEpPT1QyUDFGeWV1bTdlUklkNWRXZ2h2Zk04eUdoZzVSeVg0dnVTeVBrVjVGa05TV0ljNjF2T2lwUTNOazNYZDdKZU9WNW1r",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JETEwxQWpCbDBxRmQ4RjVsbEktclotY0R3Q2RKOWk2dS1wYXJhb3BtRVYzWUtidE9WSTVPMk5vZXJhYUtzWktrTzlTZ2JZb1RSaXYyNnVrbUlYdkRXZzZGa05YcjJFRHpXVVNmQnpCYVdqTTRmc0VaQ05JMklrNUs5Tk8yeVc4bDczRWlCdUxGOF9kUkV4dF9EbHlzbjlDTmpvbDhUNko4NWQxbVE5bEd3WUpFaEtiWUJz",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGh0OUhPanJIZFQzaTJodnZRb19Fb2paSlVvMmlXUkQwNXlob2RNUk9DeV9DUUl3cm5xNG4zSC1NVFF1UGxEejQyOUQ4LUR2QWNncnhqVHR3WHlleWhMSHZGMGE5elM1X2EzbDhlS096YmV3WGExSE4zaWZlVkZIcWVlbEhCbEROSEl4cHRUNFFlOC1TSzFIdkh4MFB3M3BCX0hhWjJ0WW1VenpuNjNHQjRrS05yeGlVclZN",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEkxZjlUemtVZFRua1ZMZ0ZiNlVhZnFLSm9lbTgybEpfWjFLT296ZnZaMG9CckwtRmRpVEVIa0stWFAtS0lWbUxhR2lGcmptdm8zUWlGcnZ4VlpQY0NjR1JpSFliYzJlX1IzME84aGlaa2sta1BwR3VkZVRjcG9SMEpmdEx0TzdDRVAxcjAtbDF0dXhLb1dLNzlacE94MWNxZ3VKUFZDR1UxOGdZNHhNck9fa0V4Zmh4MEJHSWt3",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHNqSkU1VWhvcEpzS1lmZ1lVTGdFck9EZVl2ZGN5WTh3VEtuQWh4a1RLRDZsamxEekhGNklFRkJwNXJhZ0oyNmJKQXo5VVJneXI4MHNvVlNTMmduZWRpLWJ4X0I2SWUwcGctcTJjTkVXSFZrTVRYOV9xUWtJZ0xvZTVRUGFIVmJoZlZTYTJUU0FVTXVJcFBjMGh0ZXFCT0prbnNjY1JoVDl0ZHpiX3ZDTjNKZTQ3dF9md1FLM2t3",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWVPczNia3FyR0F3QlVMY2hBVnhJUEEybnE4UDZrX21ocG5yaEJFc2sxaGdTazFGUGYyTU9pdzJFa1NibDdrdHlXVVdpbzZZMFdlNjJETVE1UEg0UmM5U2plWHN5MGM0QUhSZW1KdGpDdWJQaVhwNWFxZzJZZ0NDUnVialdFcEk3aXpLdEo4UmNvU2poYkJCSFBpUVdxaEtyaFpzUHRoaTFlMU9vN3kwcF9vRjlOVlA0a3JKdWdGRFlJTVE",
@@ -152,46 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "ГУР розкрив мережу 49 російсько-білоруських підприємств, що створюють супутникову систему «Рассвет»",
-      "original_title": "ГУР розкрило мережу підприємств, які створюють російську супутникову систему зв’язку «Рассвет»",
-      "summary": "Гур повідомив про 49 російських і білоруських компаній, які беруть участь у створенні низькоорбітальної супутникової системи «Рассвет», включаючи IT, мікроелектроніку, виробництво ракет‑носіїв та наземну інфраструктуру. Планується розгортання 292 супутників, що забезпечать стратегічний зв’язок над Україною та країнами ЄС, а 23 з цих підприємств не підпадають під міжнародні санкції, що створює вразливі точки для гібридних операцій.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
-      "published": "2026-10-28T09:09:34+00:00"
-    },
-    {
-      "title": "У Варшаві затримали українця за підозрою у підпалі поблизу румунського оборонного заводу Carfil",
-      "original_title": "У Польщі затримали українця у справі про підпал поблизу оборонного заводу в Румунії",
-      "summary": "Йдеться про диверсію проти виробника озброєння та боєприпасів, а не про конкретний зразок техніки, тому технічних характеристик у повідомленні немає. За версією слідства, мережа, яку координували з Росії, обирала цілі серед оборонних підприємств у країнах ЄС. Затриманий мав визначати об'єкт підпалу та фінансувати операцію. Такі диверсії можуть тимчасово порушувати виробництво і постачання, а також підвищують потребу в захисті оборонної промисловості та в координації розвідок країн ЄС і НАТО.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
-      "published": "2026-10-28T09:28:28+00:00"
-    },
-    {
-      "title": "Новий китайський підводний човен-тримаран: 16 ракет і нетрадиційна конструкція",
-      "original_title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
-      "summary": "За анонсом Naval News, Китай будує більше підводних човнів і більше їхніх класів, ніж будь-яка інша країна, а кілька нових амбітних проєктів готують до серійного виробництва. Тримаранна схема корпусу для підводного човна незвична, а в анонсі згадано 16 ракет. Тип цих ракет, вододатність, призначення та стан програми з наведеного фрагмента встановити неможливо. Тому оцінювати вплив на баланс сил у Тихому океані зарано, поки немає підтверджених технічних даних.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design",
-      "published": "2026-10-28T09:29:00+00:00"
-    },
-    {
-      "title": "ESMC: без чесної конкуренції ЄС не диверсифікує сонячні ланцюги",
-      "original_title": "ESMC: Without fair competition, Europe cannot diversify its solar supply chains - pv magazine Global",
-      "summary": "Європейська рада з виробництва сонячного обладнання (ESMC) заявила, що без справедливої конкуренції Європа не зможе диверсифікувати свої ланцюги постачання у сонячній галузі. Про це повідомляє pv magazine Global.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "pv magazine Global",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEkxZjlUemtVZFRua1ZMZ0ZiNlVhZnFLSm9lbTgybEpfWjFLT296ZnZaMG9CckwtRmRpVEVIa0stWFAtS0lWbUxhR2lGcmptdm8zUWlGcnZ4VlpQY0NjR1JpSFliYzJlX1IzME84aGlaa2sta1BwR3VkZVRjcG9SMEpmdEx0TzdDRVAxcjAtbDF0dXhLb1dLNzlacE94MWNxZ3VKUFZDR1UxOGdZNHhNck9fa0V4Zmh4MEJHSWt3",
-      "published": "2026-10-28T09:44:54+00:00"
-    },
     {
       "title": "Nasdaq 100 rebounds amid Anthropic IPO filing",
       "original_title": "Nasdaq 100 Forecast: NDX rebounds as Anthropic files for IPO - StoneX",
@@ -1651,6 +1611,46 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/defending-odihrs-independence-and-the-osce-human-dimension-uk-statement-to-the-osce-october-2026",
       "published": "2026-10-29T12:53:59+00:00"
+    },
+    {
+      "title": "BAE Systems успішно випробувала адаптивну палубну пускову установку",
+      "original_title": "BAE Systems successfully tests Adaptable Deck Launcher",
+      "summary": "У США проведено перший живий випробувальний запуск Adaptable Deck Launcher (ADL) — модульної системи запуску ракет з палуби. ADL дозволяє швидко розгорнути до 8 ракетних блоків на будь‑якій палубі корабля, підвищуючи вогневу міць і виживаність суден. Така масштабована система розширює бойові можливості ВМС США та їхніх союзників, забезпечуючи швидку реакцію та більшу кількість цілей у конфлікті.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher",
+      "published": "2026-10-29T13:13:25+00:00"
+    },
+    {
+      "title": "Fairbanks Morse Defense отримала контракт на $100 млн для підвищення готовності підводних човнів",
+      "original_title": "Fairbanks Morse Defense Awarded $100M Contract to Accelerate Global Submarine Availability",
+      "summary": "Компанія Fairbanks Morse Defense отримала контракт вартістю $99,09 млн від NAVSEA для проведення критичних послуг продовження строку служби американських атакувальних (SSN) та балістичних (SSBN) підводних човнів до 2030‑х років. Це включає модернізацію систем, ремонт та технічне обслуговування, що підвищить їхню бойову готовність та знизить час простою. Така інвестиція зміцнює стратегічну здатність ВМС США підтримувати постійний підводний патруль і ядерний стримування.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability",
+      "published": "2026-10-29T13:18:19+00:00"
+    },
+    {
+      "title": "Німеччина та Нідерланди отримають 69 додаткових БМП Schakal (Boxer RCT30)",
+      "original_title": "Німеччина та Нідерланди отримають 69 додаткових БМП Schakal",
+      "summary": "ОККАР замовив у спільного підрядника ARTEC GmbH ще 69 колісних БМП Schakal: 35 машин для Бундесверу та 34 – для Королівської армії Нідерландів. Техніка оснащена 30‑мм автоматичною гарматою MK 30‑2/ABM, ракетним комплексом MELLS, баштою RCT30 з протидією безпілотникам та може перевозити шість десантників. Доставки заплановані на 2027‑2033 роки, що підвищить мобільність та вогневу потужність наземних сил обох країн, зокрема у боротьбі з дронами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/nimechchyna-niderlandy-zbilshyv-schakal-291",
+      "published": "2026-10-29T13:25:55+00:00"
+    },
+    {
+      "title": "UUV‑підводний розвідний та атакувальний апарат LÜFER від DATUM продемонстровано у турецькому морському навчанні",
+      "original_title": "DATUM LÜFER Reconnaissance & Attack UUV Showcased in Turkish Naval Exercise",
+      "summary": "Під час навчання TURNAs‑2026 у Антальйській затоці турецькі спецпідрозділи використали підводний безпілотний апарат LÜFER, розроблений DATUM Denizaltı Teknolojileri у співпраці з ІТУ. LÜFER оснащений волоконно-оптичним управлінням, поєднує розвідку, спостереження та можливість атакувати підводні цілі, що підвищує ефективність морської спецоперації. Така технологія розширює можливості ВМС у безпілотних підводних діях, зокрема у виявленні та нейтралізації ворожих об’єктів у складних умовах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise",
+      "published": "2026-10-29T13:26:18+00:00"
     }
   ]
 }

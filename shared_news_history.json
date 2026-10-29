@@ -38,6 +38,7 @@
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
     "https://militarnyi.com/uk/news/na-luganshhyni-likviduvaly-pershogo-identyfikovanogo-najmantsya-rf-iz-botsvany",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
+    "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
     "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
     "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry",
     "https://militarnyi.com/uk/news/sbu-zatrymala-rosijan-vtekly-z-frontu",
@@ -68,6 +69,7 @@
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ0hBNUcwSENwbkJzRUs4WUpRakFrT3Y3WFlOX3Q2SmhCZXBza1FGWkxlRGgwTjdQSEtIV24xM3BDNDRxNDVGVzhrN2RiUGV5WE1wUDZtWE9uaktCMkpCZ09VTFVtZ3FTOHF5YjU0d2hQSE1qMWJIWldUWDNhUi03b2M5ckZTelJzeUZyZjZ2R2dLWnFFT1U2N2NjNU1EaFZEUUl1eHE1Y3FfSm5qaVg3eUZkTXVFSF9aNV9NNTNIVnozWDRndW1KVVdlNkZtVGhOTkRKdm1JT1JpbDg2OVp1V0ttOS01cjVFbGItNVJreUFoUEE",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHZZZkNXQ3JVMGRhbnNXY0dKOEQzV2JPdGhBdWFnNjBHZ25QVXdsZzRrN2JMLWN0Z05id3RUWWlUQXdwYkRCcVNwMmp0c2lSWnYxdmlDWXBZbzRFRHFBOWpLY2VzeDVKZEhvdVNmLWtlb3ktZ1lNRUZyVGlXU1YwMDl5RDY4dW1ISFpvNVgyb2FWZjBEb3VKYzZEaFdJVnBxYU16RFRwdlBJY0NFUUJaSXA4QnRNUlhMS3FnWVFBR05JcWhmMUVxamM5V19hYUJ4SWduT3VUV0tPZ0N4WWxzd29JaEJOc1A4eGpDZVdwb1F3NjVyRXc",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MVRaVFBONkZJa2w3ejlpYWsxY2w5VEphMDZxUjhKNzdIXzEydzBxbjNHRmo2S0NzaDU0ZW5Tak5HM3MtT2p0aFVncEpZWk1PMEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWV3BPaDJNLVhNcjZVclFDcjJIUzRLQ2VTbnhCRDdXYVltVHVnQmljMmxCcm9TRHZJRjhzSEZIalc2U2JiUnB5QXhSNFA3eGJhMGfSAVdBVV95cUxNSnEtbVBweGQtd181S181cW43WFZqaW5hZEN2LTdrc084QkNFUkxuM2N2ZWFveDl0ejZZc1UySHJkX09pTnhBT3BpWkxpZnFqUWgxeGpzcEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZUhOMGNZVUNXUWlwTFN5THB3MllvdWN2bWhmdXM4MDBFN2FDYVRWUTBzY081VFdDcFJNZElObzlCMFZsTkh2cHFIQXAtemVJeHc",
@@ -78,14 +80,15 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uLVR3cjNaNzA5cmpVa3V6WElVcWcxTDF0bmE5cEdzODNhU2FEZlhtakVkbDdkREZEam9JNTgydkhPcmlKdDlLV0x1OFRiQU1GTnpidEx1TVlZNGs",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y19DT05NS210bDVrSHYwcUtJbWVKenIyTVd3MXN0NUtkSnpWWm4zSDh6Zmtub2F5TFdpNDlqN3hjMDVnMWdqSjlVN0RaSWpmZVpFXzM5Nkw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5b1BNYW45RGRRcDJyOGpEV1BGd0s0cjZKYXV1bHppeXh6WnFGWW5JT1NIM2dMRzZtMU5WbkNidENkRkNwcTBXbFdFZ1dnMVRNRUVOaEl2azFkQQ",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdThPOXVxY2lYVllrUzV0a0t4MXdLdjBKMk1hN01uV293XzlTZlY1QVpPMjNhNzJGcHJjZS01RGk2S3ZHbzRrMk82MkZpOHgxNWRST3dGMmxGOFVNMk00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YWlpdGlIYW1ncGhwUUlTX0lhV2h3YlBuUWNlajNqcUlkcmlWN19rMk00UVFPc2VaMFVTemFaTEtVWUFpWG5nZDI5clJHSVJBb3J4R1NDNS1fQ0Zt",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91QXZRRlJBbThUYkRfTUpIay1NaXpKYWh2WlphR01wVjRvSGhmaVJYaXRWVjUtelBvMGJQcExaRXdqZW1qLUF0MXJ0dlRIN1VZSmpZOW9QUkMtTlFUQlZVQi1n",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UTEc2d3BYUE9wdkpINVNSX2docEtHaEg0UTVUTk90Y1k1N2FVelI4QUVaOHZhTjlpejZlU2FHbG01bU5QV2I3Rk9QZU9pX09PeUVDU3BtSWd2NVFCSkswMjN3",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHduT1RMWDR5S19GbktLTWF6RERWREY1MUxnTTZzcllkYnl2eHhRMkI3ZkRMTEl5TXdiWXRpYTlDOXM4dVFKczkxUmJPSnhabVN6OVZyRFVORzR4bW0tUW9SUU53SVFnQlpaeklDMmdEdUUySzRMYnJGYkVoRGJGVmJ1TnJRd04tdWlodnRCVWFOLTQzRC1xS01CeXZkdDgzU2gzeFlCSWFCMnlTQzBIRXB4ZkFKVXQzbVdMaTNkOWR6cnZZcXNuT2tCanIyZ1Z2YUZ0Ni1BN3FibTQxcFQ2Q3BlcHBkMUxSXy1XYjB4R0Ftbzk1dS1uYVRMVC1ZZw",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicmYzRU44dU5TSWNqVmU1VDRSWml2MGFLUGxudmZLeUZBY0hZYVJ6LUhZcWxnOU5EdWx6R0VUeTBFSzJPWWx1Q20yektxZFNhbEN5dHpjU1NZYnhYaUlCMi1wZnZJXzZhTWc",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQ0k4bXhxZVBLOHVIVjRwNVVkVmNVa092XzdOX0x3aHZqdG96UWlrY1lVcTZERmYyR3VTRE5neVN1eDBHSjhfUlpQRm9OMXU3SXNnMVNUSDJYZ09oaGxQVnJmOHpIOVliLUNQODA2QWRKTTg",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LVB2Nnh0MGdpanE2Mm1TTHFMU2ZyRzBhN3Rnb3JCaHhYRElXSkVQUlNnbkdqQnpxTk5Oa1pFUjFMWFdPUmk3RXVqaGgyYnZ3c20ySTZXeTI5a0oxN0gzTlY0b1NQNWltYkdnb19YdXJGRjRDcnc",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zR2J6Zy1ESlpwMS1nUDVGdVdEU0UzSHE3eG9VUkRfaEc4N3RGX0JpR2hEQmZkRUx2MU9Od1FIeXpxcXpxaXBZN296S2dOTE8tNFIyajJKUjhzSVdzSWYyenNScHNBSWhwMHZ6eU5CMWZkNnBJd2c",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNWtOaGlZeWg5WHJXZUk1eUJpREF2YkV5eGdHdDA1azg3MzRmSE1tdUtDM3kwOWdqM0QyWjZ3MFNYWk9WVzE0OG1NVXp0TFlHWk5NdTZabnJ4YXJ4T25uUW1Md3Vhd2wwZnJwWE9hQW9MeGd3Ync",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2enhTWHhtYXRiaFpyaHBGNTJMMW4tQ3pMNkpmMExXaXF2Z1Qtb3huX1U2SUxzRzFzc3lBYVJ6VkQ5TVY4ZUhYN1M2clhBSU1zUDRJMFRnY3hMTEFaUHB3U0Jqcl94V0pEaWZwcVpOTTJjczVvT0E",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZVpDa2F3S2NUMG1tTG9oZHJaRFFqTlZaVWt5QzBlTUhWVS0ydDNxYk00SV9VZ2pyMjJwSlBScElGcGl6bHRzOFhnT1JxaEpaUlltX2dEM2dmY3lyajNmb0dweXd4M2RQV21aVlk5MDk4SWh1d2pubWFZc2c",
@@ -105,14 +108,12 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2xDbzV2OE04SnpnZy14RzJpeEkzSUtxNUpQVWdOYlhGRmtsak8ta0dGX2Z3Z3UtQ2hhXzRVTkN6VHU4bElkYW5Zamh5NHJPeDZoMU4tSVVQdHhMdVZ1b2l0TUNaWWJzSUFxcFd0TWRPWUV6UmhwU1BBMjFPRm1oTU9QejNMY1VYeGk5V3UtanNKNFU3",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRvUDRtaEpvQjZ1UERHMnhmSDcwajRHV3hlV3Bhd3FOSjM0UmtPSFYtZk5kUGE5Smx4QlN3dzNzbEJKeHgzRklaQXB2ZHQxM3B6Nm5ST2dyMzNDbFExYWVjSEFYQ3V2QVJQUGhSY1pyQ3d4dHZDeTlpeTkyZzQzVUtjSURacHhhVGk3a1l6S1otek9GRmRfMWdB0gGfAUFVX3lxTE5Ec05LSV9qUjBVOGs3ZTVZbUNQYmRHSV9fOG9saDJDWnk1UVN4NEFaS2NRUkhua0s1VkJheThPVEwxVk5OaUg5OUVOWTl1b3hoaW1TeU1nZ0ZSQ3MyQ1JuWFVRR2FlT3QyMnE1TU13Q1dzSUw3Q1dZOHJrWkR4ZmJrWVk4a0xhX2oycU1GZ2NHTGNySGZVVDItVUs5czlGVQ",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVA1QXBaVThiMklXTnF0cWhOMGU5Ymh3M2RGNkdoX0tBMUdPTDB3WEtOWHR2bHV2ajEwb3lPR3VoWk1xcmpqN3RKNFFJX0RmeUhrdEp2MWN2MnhUM2NZSGNCUjFMTnVxc04wdzZtS0tYMWRkR083VDhXMTdQTk1QRERFQ1l1Q3Yta0x4OF9xQTVIV3VScDRlYTJiQQ",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTJmbjVDWFdzc3d6dTl4VWIxMHE1dWgzdlBvX0YySVJKbE5lNVRkYkpfRWEzbVpwSU5KRXZSQUIyUDkwYnNrQTJwUUxtY1lQZ00yVE1zdkl3U1NDRzgweGIwX1N1NUV2dk13UnA5eWJrcE1HQ1c4VkpudTZrR0VodWpjNmo0Zld5RmwzM1FJc2RYaHRLOVV0WjExd21uZw",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnNsT1NwWDEyQ0Q1QzlBZHk0NUNlS2V3NGJCWHd5UDVYSUlJdS12MTRrcVFVSDJPSjdMWjJOYUhIRjk3bG5oaVJqYnB6aXBBWWMydG43Qm1OS1pFX2lsNlZWSlNpVXlkVC1JWjZJYk9SeE5hRzhQazdvSE9raWdRYmEwZnQ3VE1yZGYwWFJjRVNmbWNDbGpJZDRCYW9kN00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejhXdlcwTmVRU215SDlXUC16SlhMR1pFek1fUGY3SlhQWGZmQnBkOGVJVWN2TUl5VEJKNzRBRVhCY2NZN0piNmdpbXE1cnhsZDBibFlKZHdFZXJsY3FGY1VCdWpGN1B1cDF3cHZJN0tlT0hxXzFHUlRYWFpWU1FhTmQyczJRc2NLU0ZidDA5NHFFTDhRVDdGUTl1VEs0NEU",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWJGdlVBWU54VE1ZdVlmTTFTRkV5SEl5YXhVSTI3UmdLMkxZYVZKTGZMcEtnaF95Slh2OVZEcXkyQUtYVnFCSVlVTTBya1dfWktUOWNDeVJ0Y1ZiLXlYMXBZVngwZm5PUjlseG9rQTljakd2bVM3QUswbHNLWC1Hb1lWd1R4X24yZnVYTjR4bjJmQXc4Y25MVkJ0Q2ZjcnZx",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTBFTTZ2VWpJRTVJTXVoemVGeEtNYXZwSFF0d3NEaW1hLWxlZkljM2NreFVqT3Z4TmFwNDdiN3pSQTk3ZmUyN3NtTmNpZmZ0UWlQMkdxQnZjaVZURFFkLWNnWDREcWdWeEtHV181ZWJETWEwSHRqdTFKWGNVaDk3Q1VVUDBsMEFqRmpqTDJqQkxjRmRIOU9iOGdqU1lBU1JT",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFNiY1F5ZEVCY1BUTWhjX05xZlhrdGJDc2h4M0ZWRmlHNUpVTl84cXEyRzUzVGxBaVhtdVp4Z3BBY2Jic0FaZTF4RlVXLVBkQlVGdk41N19paDFDaUw5VUY5eFc1eFFiZUpMbGM0X2F1VFNCVmlBS2NUNDhQRHU4TnZUSFlZeldtNzNDU0hIZm95bG4tN0VvYUFrd2FOQVVXYnE2b1dR",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZENWVkcy1YVHlSRVBaaGI1cjRGX3pVNGNEY1FOY25IeUp0bkt4X1p1bTJtXzRxdWQyaV9ZV2dKWFRpbUFHR19HZTZ1VmpVWHZCNUN3RXdVOWN6cC12c2xQNmNUaHVlVjFlNjVQTkZGYzhLSDRrMTlGSEhRSzFKdUtlb2ttRS1EejA1ZUo4VUNfS1Q3dDdMd2RZYkdaQXV0c3JZZ19vRQ",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnVFUTZ4Y0lDbG5FSGlfanQ3SlJDYWZ2bDY3X09fWHNaNm12NEczNHlsSl9zN2lVXzVXdXZsa2NNYXpEVDZDWWVMenhjR29SWGFvV1FaQ1hNZVJ1cjFFZkl4S3NhVS1FUVNCZHZ1QWdWbU51Q2pwMUFUaWRCQ2NNTEVpaEhIeHEwZnZ4T0hFd1F6a3RiTHkzUURLZ2Q4OEw5bjhHUFNaOA",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUhySmR1aHB6eTVtLTRrNGt4RmF0MnJQdjNBaGZuZ3RXbGNkZnZNLVYwQnlsX3BjS1ptUVJTd3c1NGYxTFlUN2FHVDJJazE4c25vblVwSVlITlp0bU1mMU5wQUZzbjNqaXZsNm5GcVZ0OVViaE5WR0FHZDBnWEQ0b3VfTmRmQldGeTVhNUN1c19VV083blU0UTV1QmUwUDFmM1NQT2VQNjNuVXc",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUtMUUl3djRxeTJCYld4ZzdaZDRmTE5tcGZzRVcwaDczSW5FVEtwVlRoUzlBbTBhZHF6emhueFZLMWhtUlF6VGpTS0FNTDJic0tjQjcyeDRLcHZXZElGYkM4YWU2ODdDQ0lHX2lGZlR1YUNHQnFfZzdXSWUtNVhUcGxnbUVxb1phb3V2MlFvbTc1R2Z6R0pjdTEtS3Z1OWluNDR4SV8yTWxDWXpU",
@@ -120,7 +121,6 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdm5TdE9Pa3JlUXo3d3JTOEtUT1VyeGtFSXFOcGFqMXpsOVN3U1lxNnhqaWNkZHQxUzUyWjNrX25OTXpPLU1tclVNWG1xTERfT1lCUk5tNi1PRW92YzBLQ2N4dkMtcVRlazBybFhVQ1N4Zmg1TXp3OGNjcDBGZUxJYXlPdlNMbzFFcjV2MDBzamZWWHNjTUQ0cjVYM2lkU2M2VW9ENjRsSmNuVkR0aWfSAbMBQVVfeXFMTkRNcGNqdXdyaTU5eVZienRUS0k3M1lhOUJEQlBVTGFhY0ZfZm5xZ3Y5cWV6cUR4ZU1welplRlZVYUR6UXFlNHQ2X0RPSG1TX1pLcGtKeXhUUkF4cDlwNFJ6dmp2cnJLZm8zRGVNMWlCdndIampRcGR5RExMS0lCck5WVGJrSlB5SnpOeDV5aHoxV1J2UElUREFYcHdDd25lTS1SUVJ4eTYzdFFmTFl4NVFuWHM",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDBkTU1TLTNpUWlOeW52U05YZGRUNVJpTHdtTUFXM0NUMXlYSU1kUWlFQXNNa25wU1BRZzNuZXNDZHVVTm9aeDVNQ3FpekIyRmRDQW52TFVsdzdXY1hhbWhBc0swWTAxVU4zc0d3cWxHaXlCOXVGYTFfT0hLUWR5cHM4dzJ4d2VXSEVUdVljdENGeURVSUNoUjFhZm1rZzJqNWJHcDc1SWZSNkg4RHhB",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNendpR0E1RkNSOW9NZktodEJyLURvNWI3RHJhamRIbHZLRFRCVHZZWlc3WGRseGpqNnZGV0dSOXF2N2RDbFRaYnU4WnZUT3ZkZkZuZDl0Y0pEX1dJYzZRSmh6eC1DWU9XSXMzUEJORzAtY1Q0eTFZZDVTNGN3OGpUemJTcmdlTVJpRWYtWFozQlVwV1VBU2JPeWNaV3JUdGRDdDM1VlpyTXdCMS1fSmZR",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWRwVV9FWTdqX3owblhFcVRKVUdwU1ZLTUhYSnNMWEJXTnJvRVFHalRmdGwyZVp1dDQ4d0MycFBDQ3BVeFlKT0Y0bEJ6cGRVLS1tSWduZy1kQm5FckxVUkxSUWVpeE9EVUJfLTI3bGtLZWRlMU12S0lybkcybnphbno5ME5kNUNYRDJteldxOHB4Wno4d3czcUdHX0hmV3ludTlzWUliZDlnYTc1SlY0",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlJyRlhGOUVzRkVPOUpUbVp0M2JWdm80Zk5kalVzQ3J0OEtaanhwaElKemZqTE1GR09ad3M1WVRMMVp6b3ZYR0R1bFJiOVFRb2FzUHhuamVFR2NmR2xuLVExT2dSRDlmMFpfRGE5RWhoWHZBNm9HMGNpelV1TUxwVTR3R2JLMjRZcU42VUpXWldxYV85cExla0RrbU9TNVZSR2pDRXZuTVdabWJiMEp6Zg",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGFUYWxWbDR3QTNtdnZzeVJKTTRBc1ZHVWxRT042Z3pmUFg3ZmZHMWtfMndKRDc3VHFEN3JwZHBKZWlkbkxiZm1QNTBRaUFObHp2R1pySHhzQTRic25NU3RxUDhVdDVQaloyY2Q2OHJwWGtCc0NJSnNHOVV1UDExc1ptejBleG5hYnRYRllJZ2RuNnB2ME1KajVNcllHNHJ2MDBJNlZwcV9VZmd5cDh5RWN3",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw",
@@ -152,56 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Lowy Institute: ризики ратифікації угоди ЄС і Австралії",
-      "original_title": "EU–Australia FTA: the threat to ratification runs both ways - Lowy Institute",
-      "summary": "Lowy Institute опублікував аналітичний матеріал про угоду про вільну торгівлю між ЄС і Австралією. У ньому йдеться, що загроза її ратифікації виходить з обох сторін. Тема стосується майбутньої торговельної угоди між ЄС та Австралією.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Lowy Institute",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZENWVkcy1YVHlSRVBaaGI1cjRGX3pVNGNEY1FOY25IeUp0bkt4X1p1bTJtXzRxdWQyaV9ZV2dKWFRpbUFHR19HZTZ1VmpVWHZCNUN3RXdVOWN6cC12c2xQNmNUaHVlVjFlNjVQTkZGYzhLSDRrMTlGSEhRSzFKdUtlb2ttRS1EejA1ZUo4VUNfS1Q3dDdMd2RZYkdaQXV0c3JZZ19vRQ",
-      "published": "2026-10-28T03:00:00+00:00"
-    },
-    {
-      "title": "Ринок очікує підвищення ставки ФРС у грудні",
-      "original_title": "Fed Seen Holding Rates in October; Market Already Bets on December Hike as Focus Shifts to AI and Fiscal Policy - BigGo Finance",
-      "summary": "За оцінкою BigGo Finance, ФРС у жовтні, імовірно, збереже ставки без змін. Ринок уже робить ставку на підвищення в грудні. Водночас, за даними видання, фокус уваги зміщується на тему штучного інтелекту та фіскальну політику.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "BigGo Finance",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zR2J6Zy1ESlpwMS1nUDVGdVdEU0UzSHE3eG9VUkRfaEc4N3RGX0JpR2hEQmZkRUx2MU9Od1FIeXpxcXpxaXBZN296S2dOTE8tNFIyajJKUjhzSVdzSWYyenNScHNBSWhwMHZ6eU5CMWZkNnBJd2c",
-      "published": "2026-10-28T04:05:00+00:00"
-    },
-    {
-      "title": "Франція: Диверсифікація рідкоземельних металів за 3‑5 років",
-      "original_title": "France: Rare Earths Diversification From China Feasible in 3-5 Years - Global Banking & Finance Review",
-      "summary": "Франція заявила, що зменшення залежності від Китаю у постачанні рідкоземельних металів можливо протягом 3‑5 років. Це відкриває перспективу створення альтернативних джерел і ланцюгів постачання, що може вплинути на європейську промисловість та безпеку постачань.",
-      "source": "Китай · економіка, торгівля й промисловість",
-      "publisher": "Global Banking & Finance Review",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEEyR0owS0w0UEVhX0hUNUpmUEp3UW1ZNWJfMEp0SDZ1Z2k4dkQ0LVV6Yk0xRTVkeHFSRl9HbGJtSVpkZkVObGRXTXNyWnNobDdvYS03VFA0NW01R0FiTEVXRUcwMkZ5NmVrbURaR1dQRDUyTmdqV2xTcUl1WTZ5RHp1b3prdDNFYXNnck1nbVVyTlljWXRwRkcxaGk",
-      "published": "2026-10-28T04:19:22+00:00"
-    },
-    {
-      "title": "Банк Японії, імовірно, збереже ставку без змін",
-      "original_title": "BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance - WSJ",
-      "summary": "За заголовком WSJ, збереження процентної ставки Банком Японії сприймається як майже вирішене питання. Через це головна увага зміщується на орієнтири щодо майбутньої монетарної політики, які дасть центробанк.",
-      "source": "Японія · монетарна політика",
-      "publisher": "WSJ",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWRwVV9FWTdqX3owblhFcVRKVUdwU1ZLTUhYSnNMWEJXTnJvRVFHalRmdGwyZVp1dDQ4d0MycFBDQ3BVeFlKT0Y0bEJ6cGRVLS1tSWduZy1kQm5FckxVUkxSUWVpeE9EVUJfLTI3bGtLZWRlMU12S0lybkcybnphbno5ME5kNUNYRDJteldxOHB4Wno4d3czcUdHX0hmV3ludTlzWUliZDlnYTc1SlY0",
-      "published": "2026-10-28T04:32:29+00:00"
-    },
-    {
-      "title": "Пекін розкритикував повідомлення про пошук TSMC альтернатив рідкісноземам КНР",
-      "original_title": "Chinese mainland spokesperson slams reports of TSMC asking suppliers to assess alternatives that do not use mainland rare earths - Global Times",
-      "summary": "Речник материкового Китаю розкритикував повідомлення, що TSMC попросила постачальників оцінити альтернативи, які не використовують рідкісноземельні метали з материкового Китаю, про це пише Global Times. Реакцію Пекіна викликали саме ці публікації медіа. Тема стосується ланцюгів постачання в галузі напівпровідників і доступу до китайських рідкісноземів.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "Global Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UTEc2d3BYUE9wdkpINVNSX2docEtHaEg0UTVUTk90Y1k1N2FVelI4QUVaOHZhTjlpejZlU2FHbG01bU5QV2I3Rk9QZU9pX09PeUVDU3BtSWd2NVFCSkswMjN3",
-      "published": "2026-10-28T05:22:00+00:00"
-    },
     {
       "title": "Акції Китаю та Гонконгу відновилися після звіту SK Hynix",
       "original_title": "Global Market: China, Hong Kong stocks rebound as SK Hynix earnings lift AI optimism - The Economic Times",
@@ -1633,6 +1583,16 @@
       "published": "2026-10-29T06:55:00+00:00"
     },
     {
+      "title": "Банк Японії ймовірно визнає досягнення цілі інфляції 2%",
+      "original_title": "BOJ likely to conclude 2% inflation goal met, keep policy rate unchanged - 毎日新聞",
+      "summary": "Банк Японії, імовірно, дійде висновку, що цільовий рівень інфляції 2% досягнуто, і залишить ключову ставку без змін, повідомляє Mainichi. Йдеться про очікуване рішення центробанку, яке ще не ухвалене.",
+      "source": "Японія · монетарна політика",
+      "publisher": "毎日新聞",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQ0k4bXhxZVBLOHVIVjRwNVVkVmNVa092XzdOX0x3aHZqdG96UWlrY1lVcTZERmYyR3VTRE5neVN1eDBHSjhfUlpQRm9OMXU3SXNnMVNUSDJYZ09oaGxQVnJmOHpIOVliLUNQODA2QWRKTTg",
+      "published": "2026-10-29T07:01:22+00:00"
+    },
+    {
       "title": "Президент Німеччини: декаплінг із Китаєм не потрібен, але інтереси слід захищати",
       "original_title": "Germany does not want China decoupling but must defend interests, president says - South China Morning Post",
       "summary": "Президент Німеччини заявив, що країна не прагне декаплінгу, тобто розриву економічних зв'язків із Китаєм, але має захищати свої інтереси. Про це повідомляє South China Morning Post. Заява окреслює підхід Берліна до відносин із Китаєм.",
@@ -1651,6 +1611,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQak55S2dlYU5qSl9PTWFuOGt4S2VXMVo2M0otcmRndUQ0RUhOU2JoZ3VWV21vU1hqQW45LTZicmdlX19MVEdiZVdMbi1WaTdBVTJldTk2MVpfSm5CdGRQa2VyclhhNFJuUDB5S2tmWmM2QUZITXBxWlRRR29YbTN2NFY2YmJVanR3Z3Rwc1lzcnQzdFpwYTRJb243X2w3Zlo4NWJxUlhKT2NRTHlBSXc",
       "published": "2026-10-29T08:02:00+00:00"
+    },
+    {
+      "title": "ЄС бачить інвестиційні можливості в Мангістауській області Казахстану",
+      "original_title": "EU sees investment opportunities in Kazakhstan's Mangystau region - Trend News Agency",
+      "summary": "Європейський союз бачить інвестиційні можливості в Мангістауській області Казахстану, повідомляє Trend News Agency. Це підтверджує заголовок матеріалу.",
+      "source": "ЄС · економіка, торгівля й промислова політика",
+      "publisher": "Trend News Agency",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdThPOXVxY2lYVllrUzV0a0t4MXdLdjBKMk1hN01uV293XzlTZlY1QVpPMjNhNzJGcHJjZS01RGk2S3ZHbzRrMk82MkZpOHgxNWRST3dGMmxGOFVNMk00",
+      "published": "2026-10-29T08:08:46+00:00"
+    },
+    {
+      "title": "Спікер парламенту Туркменістану: Центральна Азія стає ключовим хабом",
+      "original_title": "Central Asia emerging as key geopolitical, economic hub - Turkmen parliament speaker - Trend News Agency",
+      "summary": "Спікер парламенту Туркменістану заявив, що Центральна Азія стає ключовим геополітичним та економічним хабом, повідомляє Trend News Agency. Інших підтверджених деталей заяви наразі немає.",
+      "source": "Коридори · Global Gateway і TRACECA",
+      "publisher": "Trend News Agency",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
+      "published": "2026-10-29T08:10:44+00:00"
+    },
+    {
+      "title": "Президент РФ зустрічається з прем'єр-майстром Ефіопії",
+      "original_title": "Meeting with Prime Minister of Ethiopia Abiy Ahmed - Президент России",
+      "summary": "На двосторонній зустрічі Президент Росії провів переговори з прем'єр-майстром Ефіопії Абієм Ахмедом. Обидва лідери обговорили питання зміцнення двосторонніх відносин, економічної співпраці та регіональної безпеки. Зустріч відбулася в рамках регулярних дипломатичних контактів між двома країнами, без оголошення конкретних угод чи нових ініціатив.",
+      "source": "Bilateral Meetings",
+      "publisher": "Президент России",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
+      "published": "2026-10-29T08:16:23+00:00"
+    },
+    {
+      "title": "Супутники зафіксували пожежу на аеродромі «Мариновка» у Волгоградській області",
+      "original_title": "На аеродромі «Мариновка» у Волгоградській області супутники зафіксували пожежу",
+      "summary": "Пожежа на аеродромі «Мариновка» зафіксована супутниками NASA FIRMS о 02:28 ночі після оголошення дронової небезпеки о 01:25. Аеродром базує 11-й змішаний авіаційний полк з Су-24М, Су-24МР і Су-34, тому інцидент може вплинути на бойову готовність російських літаків у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
+      "published": "2026-10-29T08:54:42+00:00"
     }
   ]
 }

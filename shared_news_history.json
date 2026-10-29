@@ -6,6 +6,7 @@
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
     "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
+    "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
     "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
     "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
@@ -13,7 +14,6 @@
     "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027",
-    "https://defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
     "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
     "https://defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
@@ -22,6 +22,7 @@
     "https://defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
+    "https://defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield",
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
     "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
     "https://defensescoop.com/2026/10/28/us-military-opsec-risks-automated-surveillance-networks",
@@ -35,7 +36,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
     "https://middleeasteye.net/live-blog/live-blog-update/un-rights-chief-says-next-israeli-government-must-change-course",
-    "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
     "https://middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
     "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
@@ -45,17 +45,18 @@
     "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
     "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
+    "https://militarnyi.com/uk/news/legyon-svobod-rossy-vybyt-rosiyan-pidzemnyh",
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
     "https://militarnyi.com/uk/news/nimechchyna-niderlandy-zbilshyv-schakal-291",
     "https://militarnyi.com/uk/news/obmezhennya-starshield-zablokuvaly-bars",
     "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29",
+    "https://militarnyi.com/uk/news/ponad-500-vijskovyh-pidgotovku-na-sokil",
     "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
     "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
     "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry",
     "https://militarnyi.com/uk/news/rosiya-trymaye-s-400-u-bojovij-gotovnosti",
     "https://militarnyi.com/uk/news/shablya-z-integruyut-na-nrk-gereon",
     "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
-    "https://militarnyi.com/uk/news/slovachchyna-vidnovyt-ohoronu-neba-f-16",
     "https://militarnyi.com/uk/news/u-pentagoni-vidmovylysya-rozsliduvaty-obmezhennya-starlink-i-starshield-dlya-ukrayiny",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-vid-niderlandiv-500-mln",
     "https://militarnyi.com/uk/news/ukrayina-stane-spivzasnovnytseyu-mizhnarodnogo-oboronnogo-banku-dsrb",
@@ -79,7 +80,6 @@
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CeHB1SmxOa2NTY21zMDMydVB5RVZ5RTNoaWNYRTRBeG5vZVNnZzBORmcxdEpOZktPYUFxSVJoOTBtTm5xRmZSVWZQeWJYSGctak9NNXNITQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56SnZpb1FpVmZXcUM2OVdFaktmalY2cWNjRDZsNlRKR183TmNMWDZXbnVnRWFUamRRSldkREhSdElFUklhSURpOUlReEIybUloRGFRNmdVVQ",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oem1CUlRxczBwUDhXOUdqbkVkU0laN3JabU1kVzY5Mm5NLUhtblhCajNGNFNBVW00RG1mZ2E5OVZoNzBZblcxV3hRT2thckhzY1ZmM2FVYw",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZMllpc1FGNTZmdHZ6NkI5bVE2ek5TMHcwSnZDOUJuWG5QZ3ZfRk1TVW9ENkxKZ3Vzc1lsTERIcDNGWTB6akZocGpBZVc1YnpDejRxQWdR",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uLVR3cjNaNzA5cmpVa3V6WElVcWcxTDF0bmE5cEdzODNhU2FEZlhtakVkbDdkREZEam9JNTgydkhPcmlKdDlLV0x1OFRiQU1GTnpidEx1TVlZNGs",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5b1BNYW45RGRRcDJyOGpEV1BGd0s0cjZKYXV1bHppeXh6WnFGWW5JT1NIM2dMRzZtMU5WbkNidENkRkNwcTBXbFdFZ1dnMVRNRUVOaEl2azFkQQ",
@@ -152,46 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Словаччина відновить захист повітряного простору власними F‑16",
-      "original_title": "Словаччина відновить охорону свого неба власними силами за допомогою F-16",
-      "summary": "Словаччина планує використати 14 F‑16 Block 70/30 (12 однопілотних F‑16C і 2 двопілотних F‑16D), які були закуплені у 2018 р. Перші два літаків прийняті в США в січні 2024 р., останній – в квітні 2026 р. Це дозволить країні відновити власний патруль після припинення експлуатації МиГ‑29 у 2022 р. і підвищить оборонну готовність у рамках НАТО, зокрема потенційно долучивши F‑16 до Baltic Air Policing у 2027 р.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/slovachchyna-vidnovyt-ohoronu-neba-f-16",
-      "published": "2026-10-28T12:09:02+00:00"
-    },
-    {
-      "title": "Торгові партнери об'єднуються проти китайського експорту",
-      "original_title": "Trading partners form united front against Chinese export onslaught, while export-dependent China prepares to hold out using supply-chain leverage - https://economy.ac/",
-      "summary": "За заголовком economy.ac, торгові партнери Китаю формують єдиний фронт проти натиску китайського експорту. Економіка Китаю залежить від експорту, і, як зазначено, Пекін готується протистояти, використовуючи свій вплив на ланцюги постачання. Це вказує на загострення торгового протистояння між Китаєм і його партнерами.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "https://economy.ac/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oem1CUlRxczBwUDhXOUdqbkVkU0laN3JabU1kVzY5Mm5NLUhtblhCajNGNFNBVW00RG1mZ2E5OVZoNzBZblcxV3hRT2thckhzY1ZmM2FVYw",
-      "published": "2026-10-28T12:12:54+00:00"
-    },
-    {
-      "title": "Іран відхилив пропозицію Катару про завершення війни з США",
-      "original_title": "Iran rejects 'unacceptable' proposal by Qatar to end war with US",
-      "summary": "Іран відхилив у середу пропозицію Катару, яка передбачала завершення восьмимісячного конфлікту між Техасом і Тегераном, назвавши її «неприйнятною». За словами старшого іранського чиновника, представлений чернетковий договір не передбачає гнучкості щодо ядерного питання, і Тегеран не готовий йти на компроміси. Віце‑президент США Джей Ді Ванс раніше вимагав скорочення збагачення урану, а Тегеран стверджує, що його програма мирна.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
-      "published": "2026-10-28T12:14:30+00:00"
-    },
-    {
-      "title": "Міністр оборони Фінляндії в Новій Зеландії про НАТО, оборонну політику та співпрацю в Індо-Пацифіці",
-      "original_title": "Finlands defense minister talks NATO, Ukraine and fishing",
-      "summary": "Антті Гяккянен під час візиту до Нової Зеландії (далі в програмі Австралія та Японія) назвав чотири опори оборонної політики Фінляндії: самостійну готовність до оборони, сильне НАТО на півночі Європи, оборонну співпрацю з іншими країнами та всеосяжну безпеку. Він згадав штаб сухопутних військ НАТО в Арктиці на фінській території та укриття приблизно на 5,5 млн осіб. Також міністр сказав, що вертольоти NH90 адаптовано до фінських умов і ними користуються сили спеціальних операцій та сухопутні війська. Візит свідчить про прагнення Гельсінкі поглибити оборонно-матеріальну співпрацю з партнерами в",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
-      "published": "2026-10-28T12:28:34+00:00"
-    },
     {
       "title": "Витрати США на відсотки за боргом сягнуть $20 трлн",
       "original_title": "Over the next decade, the U.S. Treasury will spend $20 trillion in interest on the national debt—$200 billion a month by 2036 - Fortune",
@@ -1643,6 +1603,16 @@
       "published": "2026-10-29T14:04:32+00:00"
     },
     {
+      "title": "Vyriy Industries підготувала понад 500 військових до роботи з розвідувальним БпЛА Sokil",
+      "original_title": "Понад 500 військових пройшли підготовку на БпЛА Sokil за програмою Vyriy Aero School",
+      "summary": "Підготовка діє на базі шести партнерських центрів зі єдиним стандартом практичних навичок. Курс триває 10 днів для пілотів без досвіду з літакових БпЛА і 5–7 днів для перенавчання досвідчених екіпажів. Sokil контролює оперативну глибину до 70 км, літає до 3 годин із крейсерською швидкістю 65 км/год, запускається з руки, а серійні борти з жовтня мають функцію автозахоплення цілі. Вже підготовлено понад 170 екіпажів, які працюють на фронті, зокрема у 82-й ДШБр, тож масштабування навчання може пришвидшити насичення підрозділів розвідувальними засобами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ponad-500-vijskovyh-pidgotovku-na-sokil",
+      "published": "2026-10-29T14:48:47+00:00"
+    },
+    {
       "title": "Іран отримав лист від Ванса, ще не відповів",
       "original_title": "Iran received letter from US's Vance but yet to respond, news agency reports",
       "summary": "У листі, надісланому американським віце-президентом Джей‑Ді Вансом, йдеться про відновлення мирних переговорів із Іраном. Лист адресовано іранському голові безпеки Мохсену Резайєву. Іран отримав його, але ще не відповів. У відповідь Іран наголосив на своїх семи умовах, які мають бути виконані США, і відкинув будь‑яку позицію, що суперечить цьому плану.",
@@ -1651,6 +1621,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
       "published": "2026-10-29T14:58:47+00:00"
+    },
+    {
+      "title": "Надання оператору протидронної системи 75 км попередження дає перевагу",
+      "original_title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
+      "summary": "SkyValor розширив радіочастотний діапазон виявлення, що дозволяє оператору отримувати сигнал про надходження дронів на відстані до 75 км. Це збільшує час на оцінку загрози та реагування, що підвищує ефективність протидронної оборони. У такому випадку можливе швидке знищення або відхилення небезпечних літаків, що зменшує ризик пошкодження критичної інфраструктури.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them",
+      "published": "2026-10-29T15:00:14+00:00"
+    },
+    {
+      "title": "ГУР і підрозділ «Свобода России» провели підземний наступ у Харківщині",
+      "original_title": "Воїни «Свобода России» ГУР допомогли вибити окупантів з підземних комунікацій Харківщини",
+      "summary": "Бійці підрозділу «Легіон «Свобода России» ГУР разом із 2‑м корпусом НГУ «Хартія» та іншими підрозділами пройшли понад 15 км підземних комунікацій у тилу ворога, синхронізувавши дії з ударними безпілотниками 429‑ї бригади «Ахіллес». Використання саперних і інженерних підрозділів, систем життєзабезпечення та координація з повітряними засобами дозволили здійснити несподіваний наступ, порушивши логістичні лінії окупантів і підвищивши обороноздатність українських сил у Харківській області.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/legyon-svobod-rossy-vybyt-rosiyan-pidzemnyh",
+      "published": "2026-10-29T15:07:39+00:00"
+    },
+    {
+      "title": "Silvus: як з’єднати солдатів і системи на полі бою",
+      "original_title": "How Silvus Is Connecting Soldiers and Systems Across the Battlefield",
+      "summary": "Silvus демонструє тактичні радіо з можливостями виявлення загроз і захисту від заглушення, що дозволяє армії підтримувати зв'язок у умовах активного протидії. Пристрої працюють у широкому діапазоні частот, підтримують автоматичне формування мережі та швидку передачу даних. Це підвищує стійкість командно‑управлінської структури та забезпечує надійність комунікацій у складних бойових умовах.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield",
+      "published": "2026-10-29T15:08:26+00:00"
     }
   ]
 }

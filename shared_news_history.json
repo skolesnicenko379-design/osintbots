@@ -12,13 +12,13 @@
     "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
     "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
     "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry",
-    "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
     "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander",
     "https://defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
     "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
     "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
     "https://defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
+    "https://defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years",
     "https://defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
@@ -34,8 +34,9 @@
     "https://middleeasteye.net/opinion/why-hamas-must-not-repeat-fatahs-historic-mistakes",
     "https://militarnyi.com/uk/news/azov-zavdav-ponad-100-udariv-po-potyagah-yaki-zabezpechuvaly-logistyku-armiyi-rf",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
+    "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
+    "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
     "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
-    "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
     "https://militarnyi.com/uk/news/kytaj-stvoryv-bagatorazovyj-kosmoplan",
     "https://militarnyi.com/uk/news/muraha-rozroblyayut-evakuatsijnyj-modul",
@@ -56,7 +57,6 @@
     "https://militarnyi.com/uk/news/yaponiya-perehopyla-korabel-i-aviatsiyu-knr",
     "https://navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design",
     "https://navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029",
-    "https://navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype",
     "https://navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2tVdk5jeTZEek1FSGVNRWItMmFaVGNZOENQTWdxYngxOG9Jakd3Y21ETVhxM2JQNllNNmd5WWQ3NVFBU2NhQzFvU3psOS1oNW1oUS11V0VsTDdRVDhPQW5qeHFFcG9xaUppejJSMW5ZSG5yU0Z6dGFBaDJZY0lBMElDVVN3dk9NMkpYZ3cyNExFcGxxSU1hcFFwT2RHVzZMcDY5TncxS0M0eEJOdzFiUnY2bVJKRzg0T2lEOTFkTHpQT1ZJS0FxYUEzQW8taFlfT3R6MUhoWQ",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1lScHN3NldQN3BvcWM0V1lGdUhWTG1WWS1maS13N1JpSHFiazVvdFNqTjJaWFdCZlA1WUd5QTl3U2hDSGRDQU9CTGNMYmxFeWNwZklmRWVjdDIxampPMExlaU5uamRHZGVhdUNyaHFtV3hNNHllUzdrZDlFMVp3MTN1U0lKR3VqYzNXc3pTU2ZpN3RjS0htLWRfRXhJenBQZm40YjdZcTktTkJzall3cTljaEVCRUxnVUlqOUJwTUxraFNrOExxOC1sMWtxVFFGLXQ2dWRyNzQ2QQ",
@@ -115,7 +115,6 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVhSR0M2R2d6Z2ZkZFBQSm9wUHBxaWt6Qm5CbXNMRGdFcm9PRm1YSzBxRWF5RzBrbkdyUTRjLTJ0NmRxN1JhUjdDbUdNamxfaW16aTlSWFl4d0wxSUxGR1g4Ymo4UTNPSFcyYlhuQW9aS3VBUTdkT3A2U2VmaFRtZFdkUEJ4X0tETS1LWjdxY3d6OHBWcHI3V01lY2hiMFJUS0E",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFNiY1F5ZEVCY1BUTWhjX05xZlhrdGJDc2h4M0ZWRmlHNUpVTl84cXEyRzUzVGxBaVhtdVp4Z3BBY2Jic0FaZTF4RlVXLVBkQlVGdk41N19paDFDaUw5VUY5eFc1eFFiZUpMbGM0X2F1VFNCVmlBS2NUNDhQRHU4TnZUSFlZeldtNzNDU0hIZm95bG4tN0VvYUFrd2FOQVVXYnE2b1dR",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZENWVkcy1YVHlSRVBaaGI1cjRGX3pVNGNEY1FOY25IeUp0bkt4X1p1bTJtXzRxdWQyaV9ZV2dKWFRpbUFHR19HZTZ1VmpVWHZCNUN3RXdVOWN6cC12c2xQNmNUaHVlVjFlNjVQTkZGYzhLSDRrMTlGSEhRSzFKdUtlb2ttRS1EejA1ZUo4VUNfS1Q3dDdMd2RZYkdaQXV0c3JZZ19vRQ",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWJybk5fUTRUd1F3emtrMWV0VnpYbmdJaTJwSm5JOXNPQkNvbmFxbFoxWVNDLXU4SjJVT3FBQ0NlYXZxVzkzN3liMkh5QTFIYzVHQWFhUldEMDZ3SWJ5SEdFazB0dUhGYUdMb3Fuc180R2tycHVkUzZLdXNQYXc1N3lkcmVuTzV3aVhxbWVZQk9VZkIxUlk3SGlNeXk5TXZ4Z2RWM0FOME0",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUhySmR1aHB6eTVtLTRrNGt4RmF0MnJQdjNBaGZuZ3RXbGNkZnZNLVYwQnlsX3BjS1ptUVJTd3c1NGYxTFlUN2FHVDJJazE4c25vblVwSVlITlp0bU1mMU5wQUZzbjNqaXZsNm5GcVZ0OVViaE5WR0FHZDBnWEQ0b3VfTmRmQldGeTVhNUN1c19VV083blU0UTV1QmUwUDFmM1NQT2VQNjNuVXc",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlJ4RWJ5Wm5hTVY3d3ZzUWhPRElwQldoYnBCanI4SW14cm91TXFxbkNhR3JsNWZmUDIya0M3QVNUQ2ZtUEZZUnRQRE5XdEMzNmtXcTdqRG9TV2o4STdTczZkMGRPTFdRcW81MGNLMVJTWHk0aTh1a2ZVbjZBSmVDY0NMRW9XUzNfa0NtRlM4czc2Wi1KZVZNWmIwUjVyRnZya29DSzFJUXJKYnN0",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUtMUUl3djRxeTJCYld4ZzdaZDRmTE5tcGZzRVcwaDczSW5FVEtwVlRoUzlBbTBhZHF6emhueFZLMWhtUlF6VGpTS0FNTDJic0tjQjcyeDRLcHZXZElGYkM4YWU2ODdDQ0lHX2lGZlR1YUNHQnFfZzdXSWUtNVhUcGxnbUVxb1phb3V2MlFvbTc1R2Z6R0pjdTEtS3Z1OWluNDR4SV8yTWxDWXpU",
@@ -147,51 +146,12 @@
     "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
     "https://twz.com/land/this-serbian-truck-carries-a-truly-massive-mortar",
+    "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
     "https://twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
     "https://twz.com/sea/where-are-the-aircraft-carriers-october-27-2026",
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Італія відкладає передачу ракет Aster‑30 Україні через внутрішньополітичні суперечки",
-      "original_title": "Італія затримує передачу Україні ракет Aster 30 через політичні суперечки — італійські ЗМІ",
-      "summary": "Уряд Італії відклало затвердження 13‑го пакету військової допомоги, у якому передбачено поставки зенітних ракет Aster 30 для систем SAMP/T, через суперечки в урядовій коаліції. Aster 30 – це ракетний комплекс дальності до 120 км, здатний знищувати стратегічні та тактичні авіаційні цілі, що є важливим елементом протиповітряної оборони України. Затримка постачання обмежує можливості Києва протидіяти російським повітряним атакам у критичний період.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/italiya-zatrymuye-peredachu-aster-30",
-      "published": "2026-10-27T17:34:33+00:00"
-    },
-    {
-      "title": "Lockheed Martin презентує прототип PrSM Increment 4 з дальністю 1000 км",
-      "original_title": "Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype",
-      "summary": "Прототип PrSM Increment 4, розроблений Lockheed Martin, оснащений раджетом і розширеним сенсорним набором, що дозволяє атакувати рухомі кораблі на відстані понад 1000 км. Технологія раджета забезпечує високу точність і швидку реакцію, а інтеграція з HIMARS розширює можливості артилерійського застосування. Це підвищує стратегічну перевагу США, дозволяючи ефективно протидіяти морським загрозам на великій відстані.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype",
-      "published": "2026-10-27T17:41:05+00:00"
-    },
-    {
-      "title": "Економічні зв'язки Росії та Сербії залежать від газу й нафти",
-      "original_title": "Russia's economic ties with Serbia hinge on gas and oil - IntelliNews",
-      "summary": "За заголовком IntelliNews, економічні зв'язки Росії із Сербією трималися насамперед на постачаннях газу й нафти. Ці енергоресурси названо ключовою основою двосторонніх економічних відносин.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "IntelliNews",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWJybk5fUTRUd1F3emtrMWV0VnpYbmdJaTJwSm5JOXNPQkNvbmFxbFoxWVNDLXU4SjJVT3FBQ0NlYXZxVzkzN3liMkh5QTFIYzVHQWFhUldEMDZ3SWJ5SEdFazB0dUhGYUdMb3Fuc180R2tycHVkUzZLdXNQYXc1N3lkcmVuTzV3aVhxbWVZQk9VZkIxUlk3SGlNeXk5TXZ4Z2RWM0FOME0",
-      "published": "2026-10-27T17:43:22+00:00"
-    },
-    {
-      "title": "Що лякає Пентагон на Гелловін: космічна зброя, вакуум керівництва в армії, кіберпроблеми та ядерні плани ВПС",
-      "original_title": "What’s haunting the Pentagon this Halloween?",
-      "summary": "Це розважальний гелловінський випуск подкасту The Weekly Break Out, а не повідомлення про конкретну подію чи техніку. У ньому журналісти Breaking Defense коротко називають ключові теми: зброя в космосі, нестача керівників у Сухопутних військах США, виклики в кіберсфері та ядерні плани ВПС на найближчі місяці. Технічних характеристик чи нових фактів у тексті немає, тому оцінити військовий вплив неможливо. Матеріал показує лише, на яких темах оборонні журналісти зараз зосереджені.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
-      "published": "2026-10-27T17:45:00+00:00"
-    },
     {
       "title": "WSJ: триває боротьба за перевезення російської нафти",
       "original_title": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil - WSJ",
@@ -1403,6 +1363,16 @@
       "published": "2026-10-28T17:28:00+00:00"
     },
     {
+      "title": "Жорсткі укриття критичні для виживання американських танкерів: дослідження",
+      "original_title": "Hardened Shelters Critical To Survival Of USAF’s Tanker Fleet: Study",
+      "summary": "У незалежному звіті Hudson Institute стверджується, що будівництво нових захищених укриттів для танкерів є не менш важливим, ніж придбання нових літаків-заправників, для забезпечення майбутніх потреб США у повітряному заправленні. Автори закликають інвестувати у великі бетонні сховища та впроваджувати адаптивні системи місій, включаючи нові засоби зв'язку та самозахист, а також розвивати наступне покоління танкерів з дизайном blended wing body. Такі кроки підвищать стійкість інфраструктури та зменшать уразливість повітряних заправок у конфліктних умовах, зокрема проти потенційної загрози з бок",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
+      "published": "2026-10-28T17:28:45+00:00"
+    },
+    {
       "title": "Ефіопія отримала 12 російських винищувачів Су-35 і розраховує на комплекси ППО С-400",
       "original_title": "Ethiopia Gets 12 Russian Su-35 Fighters, Eyes S-400 Air Defenses",
       "summary": "Прем'єр Абій Ахмед повідомив, що 12 багатоцільових Су-35 надійшли на рік раніше за графіком; угода також передбачає чотири батареї С-400, але терміни їх поставки невідомі. Су-35 — глибоко модернізований родич Су-27 із двигунами з вектором тяги, сучасною РЛС і широким арсеналом зброї «повітря-повітря» та «повітря-поверхня». Це помітно розширює можливості Ефіопії з виявлення та перехоплення повітряних цілей і ударних завдань, а наявний досвід експлуатації Су-27 спростить освоєння. Вартість контракту, місця базування та можливі додаткові поставки не розголошуються.",
@@ -1593,6 +1563,26 @@
       "published": "2026-10-28T20:33:28+00:00"
     },
     {
+      "title": "Європейський гіперзвуковий перехоплювач HYDEF перейшов до етапу виготовлення прототипів",
+      "original_title": "Європейський гіперзвуковий перехоплювач HYDEF перейшов на етап виготовлення прототипів",
+      "summary": "У першій фазі проєкту HYDEF розробники завершили концепт перехоплювача та довели ключові технології до рівня TRL 3‑6, підготувавши дорожню карту до технологічного демонстратора TRL 6 до 2030 р. Це дозволить Європі створити власну систему протиракетної оборони проти гіперзвукових та балістичних цілей, зменшуючи залежність від іноземних розробок.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
+      "published": "2026-10-28T20:33:46+00:00"
+    },
+    {
+      "title": "Субмарина «Генераліссимус Суворов» випустила міжконтинентальну ракету «Булава»",
+      "original_title": "Російська субмарина «Генералиссимус Суворов» запустила міжконтинентальну ракету «Булава»",
+      "summary": "У Охотському морі підводний ракетний крейсер «Генераліссимус Суворов» здійснив пуск міжконтинентальної балістичної ракети «Булава» в рамках бойової підготовки. «Булава» – триступенева ракета з твердопаливними першим і другим ступенями та рідинним третім, здатна до маневрів у польоті та оснащена комбінованою навігацією за зорями та ГЛОНАСС. Запуск демонструє готовність російських стратегічних ядерних сил і підвищує загрозу їхнього використання у глобальному масштабі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
+      "published": "2026-10-28T20:49:59+00:00"
+    },
+    {
       "title": "Словаччина отримає другу батарею ЗРК Barak MX до 2026 року",
       "original_title": "Словаччина отримає другу батарею ЗРК Barak MX до кінця 2026 року",
       "summary": "Словаччина отримала другу батарею ізраїльського комплексу протиповітряної оборони Barak MX, що дозволить замінити старі радянські зенітно‑ракетні комплекси «Куб». Система включає три типи ракет з дальністю до 150 км і може перехоплювати літаки, дрони та крилаті ракети. Це підвищить ефективність повітряної оборони країни і забезпечить кращу інтеграцію з новими F‑16 Block 70.",
@@ -1651,6 +1641,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlVsbjhQOW9yQWV5eEZyeV91QkNRMUJFa3BvVXQwQ2dKa0x1bHItWEtUYlpraWtKRTlJZFdoWUM4bE9lUDVKRlBGRE84anRRU1NyZmZrWlFIdnBPMXExQnM2SnhaZlVybkd4VG1UYkVheHhNZEhaZ0pwODdZZkVONkdOZzlsMVBMUzBOOUJYaVZzTTA5MW5fbndPVjhEYkRJT0RwdmFoZkk4QmlfRTNJUDFWR0p5cGdMY1FYOWJiVDg4U0lHNFczQllDc3BEd3pSX0tka1Q2bHJ4SEZsMkt6S3lNUDlYR3l6bm12UnoySkQzZ2fSAfgBQVVfeXFMTU1ka0JTd21rRlJ0NnBBaEVHRW1Qc2owZm9PMkVCd21VNWtwNXY1RjR5REV5UDdaazM3elc5UFRjTGxSWHZZSEVraFZwQkFDSTdVUU5VUHdtMjRmR1Q5N1pVZHVWS0dkMzNUZDJjeElMUi1OLWxsRk13OE9lV01INm1NaTR3MHJHMlJnLXpDalZhYnA1VklrcDQtQ25EMzFhTG5BWXI4ZFVqUHJNTWZkaE0wQzlpRkFXYkwtTzNyT2VLQThydmlUZHl3SXpEZTlsY2RBLW1SWGZId01pU1BaTUpTcUpSaDBsZUdybUplbW9Ldjk4TndFRFA",
       "published": "2026-10-28T22:28:00+00:00"
+    },
+    {
+      "title": "Військово-морські сили США зафіксували найвищу за 10 років кількість авіаційних та морських інцидентів класу А",
+      "original_title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+      "summary": "У 2026 фінансовому році ВМС США зафіксували 16 авіаційних і 11 морських інцидентів класу А — це найвища кількість за останнє десятиліття. Серед випадків — аварійна посадка гелікоптера MH‑60S Sea Hawk, пожежа на авіаносці USS Gerald R. Ford та аварія E/A‑18G Growler на USS Dwight D. Eisenhower. Такі події підкреслюють потребу посилення технічного обслуговування та підготовки персоналу, оскільки вони можуть вплинути на бойову готовність флота в умовах активних операцій.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years",
+      "published": "2026-10-28T23:02:32+00:00"
     }
   ]
 }

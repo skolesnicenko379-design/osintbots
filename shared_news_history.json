@@ -3,6 +3,7 @@
     "http://africanews.com/2026/10/29/russia-africa-summit-putin-seeks-to-expand-ties-with-the-continent",
     "http://africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels",
     "https://army-technology.com/news/lockheed-martin-army-gmlrs",
+    "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense",
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
     "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
@@ -16,7 +17,6 @@
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/speech-by-president-antonio-costa-at-the-montreal-council-on-foreign-relations",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
-    "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
     "https://defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
     "https://defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic",
     "https://defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos",
@@ -24,6 +24,7 @@
     "https://defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance",
     "https://defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
+    "https://defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield",
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
@@ -36,7 +37,6 @@
     "https://gov.uk/government/speeches/russias-justifications-for-its-war-do-not-withstand-scrutiny-uk-statement-to-the-osce",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
-    "https://middleeasteye.net/live-blog/live-blog-update/eu-welcomes-ties-israels-next-government-palestinians-remain-under",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
     "https://middleeasteye.net/live-blog/live-blog-update/un-rights-chief-says-next-israeli-government-must-change-course",
@@ -58,6 +58,7 @@
     "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi",
     "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry",
     "https://militarnyi.com/uk/news/rosiya-trymaye-s-400-u-bojovij-gotovnosti",
+    "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
     "https://militarnyi.com/uk/news/shablya-z-integruyut-na-nrk-gereon",
     "https://militarnyi.com/uk/news/slovachchyna-otrymaye-drugu-zrk-barak-mx",
     "https://militarnyi.com/uk/news/u-pentagoni-vidmovylysya-rozsliduvaty-obmezhennya-starlink-i-starshield-dlya-ukrayiny",
@@ -76,7 +77,6 @@
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1lYTjRDRUZKUmZtd3NIM0taTzAyUmo5ZUVvcXZiVEtVdGZZT25Nd1VJRVNELVA1ZzBsN1dPX1N3OFlpZDVxRWl2b051Y3BuWGpNSjRKSVhYY0lTNmZULVllcTJ4SnA5a194VzFVdzJuX2ZQSzRYOXNlakN2RF9mS25od3A4dlA5V1Fvclo2dUNwb2hHMWphbEJGY2ZWY2R3Y0xHVEF3WlVjZlRXS1d5UGVTQlFOSnhleXdGaGxlaVY2QzVuRGlvWHYxVGV0QkNSa0toLVZBLVJPMElzWmFqc195T2pDME5wMThr",
     "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQdXEtX1h3M0JndXh3a0xuNHI2bFFtN0R3S0V5QUtGZFh1akxnVl9IVk81MGZUclVMTmcyU096dnd5dE13XzE0OVlEZnZlQzdIYTA2REE2OUJPbHVZd0VyVjhrLTFGRXM0dkNNSFFZTDNSOFg4LVlVOUkyaWJETVAtb2Vxc1laT3hNSTVnVHRmUldQbEJtMDUwNU10UTk3QUxTRVNOQ2ViWmFOU2hpT3huUm1CRm5VZUxtb1d4aER1bnVUZmVFU1dVb0VZNXJ4TnNjakpKelc0RzRMb01MUm81NE1MNHlvYUtLdG9BWWt4SEF6MEtvQWd1QWFicVdSazlOaFg4dENVYksySnFwUjVBYTBJN0FRNC1jWGdMcEJJcUVGVFRja0QzUnk3T0JlcFpqb0VzbHBSS3hHQVMwWjNhMmhjeHNsMzliSEd0djZxU0dxTzJsUHpaMnJKTGhYQ0M0OURTZ3E1M01ZbFF6QUlj",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlVsbjhQOW9yQWV5eEZyeV91QkNRMUJFa3BvVXQwQ2dKa0x1bHItWEtUYlpraWtKRTlJZFdoWUM4bE9lUDVKRlBGRE84anRRU1NyZmZrWlFIdnBPMXExQnM2SnhaZlVybkd4VG1UYkVheHhNZEhaZ0pwODdZZkVONkdOZzlsMVBMUzBOOUJYaVZzTTA5MW5fbndPVjhEYkRJT0RwdmFoZkk4QmlfRTNJUDFWR0p5cGdMY1FYOWJiVDg4U0lHNFczQllDc3BEd3pSX0tka1Q2bHJ4SEZsMkt6S3lNUDlYR3l6bm12UnoySkQzZ2fSAfgBQVVfeXFMTU1ka0JTd21rRlJ0NnBBaEVHRW1Qc2owZm9PMkVCd21VNWtwNXY1RjR5REV5UDdaazM3elc5UFRjTGxSWHZZSEVraFZwQkFDSTdVUU5VUHdtMjRmR1Q5N1pVZHVWS0dkMzNUZDJjeElMUi1OLWxsRk13OE9lV01INm1NaTR3MHJHMlJnLXpDalZhYnA1VklrcDQtQ25EMzFhTG5BWXI4ZFVqUHJNTWZkaE0wQzlpRkFXYkwtTzNyT2VLQThydmlUZHl3SXpEZTlsY2RBLW1SWGZId01pU1BaTUpTcUpSaDBsZUdybUplbW9Ldjk4TndFRFA",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHZZZkNXQ3JVMGRhbnNXY0dKOEQzV2JPdGhBdWFnNjBHZ25QVXdsZzRrN2JMLWN0Z05id3RUWWlUQXdwYkRCcVNwMmp0c2lSWnYxdmlDWXBZbzRFRHFBOWpLY2VzeDVKZEhvdVNmLWtlb3ktZ1lNRUZyVGlXU1YwMDl5RDY4dW1ISFpvNVgyb2FWZjBEb3VKYzZEaFdJVnBxYU16RFRwdlBJY0NFUUJaSXA4QnRNUlhMS3FnWVFBR05JcWhmMUVxamM5V19hYUJ4SWduT3VUV0tPZ0N4WWxzd29JaEJOc1A4eGpDZVdwb1F3NjVyRXc",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0ZkQzBycHFtRGtKY3c1MnUtTHY3aVFRM2x1Mk5rdFJHaEotemJ2bkV0TVJWcnhMVTVRRWc4T3Vic1hvWGJ0Q1R3c3JLX3Eza0xPa1UxV3ptLVBqUEk4VGhyWlM5UXFXbjV1TWo2aS1neTVhV21BeVJuOTJWODNweFZxVlRIdlpqUWtGX1pnaTM1bjBoM2FsTFl6TndHS1FsUktrdFpaTE52Q0RXUWd2QmsxSXhNdVB5YlNoZkVtbm56RnM2TFZqakU2aHVEeXA3b0FVczFVclhDekNQNm1MVVhNTEFsTk5pNG92NlpaMnc0dXB4NzJF",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54enB4eXgtaS1GNm0tUGZCRjlWVmpWY3BQa2p2S0hHZERtczlCTURud2VQUUhRM2JjdU9HaUZ1dDdEQ2oyYWNhTUk2TQ",
@@ -121,7 +121,6 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQak55S2dlYU5qSl9PTWFuOGt4S2VXMVo2M0otcmRndUQ0RUhOU2JoZ3VWV21vU1hqQW45LTZicmdlX19MVEdiZVdMbi1WaTdBVTJldTk2MVpfSm5CdGRQa2VyclhhNFJuUDB5S2tmWmM2QUZITXBxWlRRR29YbTN2NFY2YmJVanR3Z3Rwc1lzcnQzdFpwYTRJb243X2w3Zlo4NWJxUlhKT2NRTHlBSXc",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDBkTU1TLTNpUWlOeW52U05YZGRUNVJpTHdtTUFXM0NUMXlYSU1kUWlFQXNNa25wU1BRZzNuZXNDZHVVTm9aeDVNQ3FpekIyRmRDQW52TFVsdzdXY1hhbWhBc0swWTAxVU4zc0d3cWxHaXlCOXVGYTFfT0hLUWR5cHM4dzJ4d2VXSEVUdVljdENGeURVSUNoUjFhZm1rZzJqNWJHcDc1SWZSNkg4RHhB",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNendpR0E1RkNSOW9NZktodEJyLURvNWI3RHJhamRIbHZLRFRCVHZZWlc3WGRseGpqNnZGV0dSOXF2N2RDbFRaYnU4WnZUT3ZkZkZuZDl0Y0pEX1dJYzZRSmh6eC1DWU9XSXMzUEJORzAtY1Q0eTFZZDVTNGN3OGpUemJTcmdlTVJpRWYtWFozQlVwV1VBU2JPeWNaV3JUdGRDdDM1VlpyTXdCMS1fSmZR",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUU3ZDMtekh4b0QyTEw3MW5WUXAzYmVHNTVuMmhHblBnV05GQVlIN2xuRFlPdEhQN0R1RGdyRU1paDRKSnczbEFxY29HWmhlLUZQTy12Y3lZSVZKdW96bTBGYkdCVWR4ZkoyMFdhbENzM296NFpZSm9tVHFXejVwNFltTXF1cEtTbVpJNEdkU1lfb3Y2dldZZmY5VWx3OWthVzdVTGtfeFlDN3lHenF0Vy1ubmE",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb3hlU2lXYVhwODREdExhT3dyM0pVMWotZUZkTVEtU0Q2RkdjUkZJMjlOUU1xdElENWdSTV9URXdtenBiX05remR0cm8wS1oxLTRnb3ZEb21uWmFPSlR4TGdKWnpHY3BYampqcTgwRzlNcXhOUHN5R2tjaXAwSUUzUVFSZjdNT2M2Ymh6T1VGQVhYYm02SURXQktZYTJMYThFdktwQWM2LVZfcW5ZZzVvcHgzd0pxQQ",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDdmaEdxZEE2dG9VMXlWMDdOSTNrWVAtcUtpRXA4WDZrOHFRMW9ScFhhVi1oMlZOZ004ci1zeko1UFFQcm5aY0Q3djFjRjJDQUZvOEhwQnBvYmVYNngtM3k4cWVSNldpZEk3UXVaV1Z6QXVKRXFPYmgyV01KUTd3T0Q5QkhrRDNWUEU3ZWFuajVFX0hIZXNlU1MtZS1QdWY1bmE1cjZGUmpQME16emdiMEU5UHZpd9IBuwFBVV95cUxOUVpqSm1ueVlOSzZuQmJqUDBEX2hNVDEycDF0b0VPSzhMcUYwVjZiZWJvV0R5M3dSX090Qm5xX3FHV1NqSk1GRWNvQUJwVXhLWmdHVVppRk5aY2tYd0FxcTVBVmxoTFB0OVlOZXFoUlBNa1hoMGF6X0pzTWQwSnZrZXA4YzZDZTZqaFFaazV6eUhmN2QtZHJuMzBzcW54TUlVWWxaZkkxZzRHVnI0UWFrOXVJdDZfcHdnNjU4",
@@ -149,49 +148,10 @@
     "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
     "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
+    "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Хілі: уряд закриє прогалину у плані оборони через переприоритизацію",
-      "original_title": "UK’s Healey says government will fill defense plan gap by ‘reprioritizing’",
-      "summary": "Міністр фінансів Джон Хілі оголосив, що переприоритизація бюджетних коштів у різних відомствах покриє недостачу у £4,7 млрд у Defence Investment Plan, що дозволить виконати зобов'язання НАТО щодо 3% ВВП до 2030 року та 3,5% до 2035 року. План передбачає використання інноваційного фінансування, залучення приватного сектору та міжнародних партнерів, що має забезпечити безперервність закупівлі озброєння та модернізації, хоча деякі проєкти можуть бути відкладені у зв'язку з перерозподілом коштів.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
-      "published": "2026-10-28T14:30:30+00:00"
-    },
-    {
-      "title": "Дохідність Treasuries майже не змінилась, французькі облігації випереджають",
-      "original_title": "Treasury Yields Little Changed, French Bonds Outperform - WSJ",
-      "summary": "Дохідність казначейських облігацій США майже не змінилася, повідомляє WSJ. Французькі облігації при цьому показали кращу динаміку.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "WSJ",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw",
-      "published": "2026-10-28T14:31:01+00:00"
-    },
-    {
-      "title": "ЄС заявив про готовність до діалогу з новою владою Ізраїлю",
-      "original_title": "EU welcomes ties with Israel’s next government as Palestinians remain under apartheid rule in the West Bank",
-      "summary": "Речник ЄС з питань зовнішньої політики Ануар Ель Ануні повідомив, що Європейський Союз очікує взаємодії з майбутнім урядом Ізраїлю на основі довгострокових відносин та спільних демократичних цінностей. Він підкреслив, що ЄС збереже «відвертий і відкритий діалог» із новою адміністрацією. Ця заява прозвучала на тлі того, що палестинці на окупованому Західному березі залишаються під ізраїльським військовим контролем, який джерело кваліфікує як апартеїд.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/eu-welcomes-ties-israels-next-government-palestinians-remain-under",
-      "published": "2026-10-28T14:40:10+00:00"
-    },
-    {
-      "title": "Шейх Халід провів переговори з прем'єром Канади Марком Карні",
-      "original_title": "Sheikh Khaled holds talks with Canadian Prime Minister Mark Carney as economic partnership confirmed - The National",
-      "summary": "Шейх Халід провів офіційні переговори з прем'єр-міністром Канади Марком Карні. Під час зустрічі сторони підтвердили економічне партнерство між країнами. Матеріал The National фіксує проведення двосторонніх консультацій та досягнення згоди щодо зміцнення економічних зв'язків, що є конкретним дипломатичним кроком між лідерами держав.",
-      "source": "Bilateral Meetings",
-      "publisher": "The National",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHZZZkNXQ3JVMGRhbnNXY0dKOEQzV2JPdGhBdWFnNjBHZ25QVXdsZzRrN2JMLWN0Z05id3RUWWlUQXdwYkRCcVNwMmp0c2lSWnYxdmlDWXBZbzRFRHFBOWpLY2VzeDVKZEhvdVNmLWtlb3ktZ1lNRUZyVGlXU1YwMDl5RDY4dW1ISFpvNVgyb2FWZjBEb3VKYzZEaFdJVnBxYU16RFRwdlBJY0NFUUJaSXA4QnRNUlhMS3FnWVFBR05JcWhmMUVxamM5V19hYUJ4SWduT3VUV0tPZ0N4WWxzd29JaEJOc1A4eGpDZVdwb1F3NjVyRXc",
-      "published": "2026-10-28T14:41:57+00:00"
-    },
     {
       "title": "OBR знизило прогноз зростання економіки Британії на 2027 рік",
       "original_title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures - The Guardian",
@@ -1613,6 +1573,26 @@
       "published": "2026-10-29T18:45:00+00:00"
     },
     {
+      "title": "Старшого генерала США уволив міністр оборони через розголошення секретної інформації",
+      "original_title": "Senior US general fired, accused of leaking classified information",
+      "summary": "Пентагон звільнив лейтенант‑генерала Бретта Сільвія після того, як три поліграфи виявили його причетність до розголошення класифікованих даних. Сільвія очолював підрозділ J5, відповідальний за стратегію та планування, що ускладнює координацію операцій у війні з Іраном. Відсутність такого ключового планувальника може затримати підготовку та реалізацію військових операцій, а також підвищити ризик подальших витоків.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information",
+      "published": "2026-10-29T18:52:30+00:00"
+    },
+    {
+      "title": "Польща передасть Україні два винищувачі МиГ-29 та боєприпаси 20‑мм гармат F‑16",
+      "original_title": "Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals",
+      "summary": "Уряд Польщі погодився передати Україні два винищувачі МиГ-29 (один у справному стані, інший – для запчастин) і значну кількість 20×102 мм боєприпасів для шести‑ствольних гармат F‑16, а також артилерійські снаряди. Це підсилить авіаційний потенціал України, зокрема забезпечить безперервну дію старих, але важливих МиГ‑29, і дозволить пілотам F‑16 частіше користуватися гарматним вогнем у випадку нестачі ракет.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
+      "published": "2026-10-29T18:58:29+00:00"
+    },
+    {
       "title": "Армія обирає Lockheed Martin для мільярдного проєкту Future Interceptor",
       "original_title": "Army selects Lockheed Martin for billion-dollar Future Interceptor program",
       "summary": "Армія США підписала угоду Other Transaction з Lockheed Martin на розробку нової системи перехоплення Future Interceptor вартістю понад 1 мільярд доларів. Компанія інвестує $423 млн, а уряд – близько $660 млн, плануючи випробування прототипу у 2027 році та введення в експлуатацію до 2031 року. Новий перехоплювач має забезпечити більший радіус дії, висоту, швидкість і маневреність, посилюючи багаторівневу протиракетну оборону проти гіперзвукових, балістичних та безпілотних загроз.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years",
       "published": "2026-10-29T20:07:11+00:00"
+    },
+    {
+      "title": "Три вибори до Конгресу, важливі для оборони США",
+      "original_title": "3 congressional races that matter for defense",
+      "summary": "У цьому середньостроковому виборчому циклі кілька республіканців, які контролюють ключові підрозділи оборони, змагаються у конкурентних гонках: сенатор Сьюзен Коллінз (Мейн), представник Роб Віттман (Вірджинія) та Кен Кальверт (Каліфорнія). Перемоги чи поразки цих політиків можуть суттєво вплинути на формування бюджету та політики Пентагону, оскільки Конгрес готується до нових великих витрат на оборону.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense",
+      "published": "2026-10-29T20:41:31+00:00"
+    },
+    {
+      "title": "Росія втратила мінімум 9000 офіцерів з початку повномасштабної війни",
+      "original_title": "Росія втратила щонайменше 9000 офіцерів від початку повномасштабної війни",
+      "summary": "Дослідницька група KIU зафіксувала, що з 1 лютого 2022 р. у російській армії підтверджено щонайменше 9000 втрат серед офіцерського складу, що є мінімальною оцінкою, оскільки враховуються лише ідентифіковані особи. Середньоденно втрачається близько 5 офіцерів, що свідчить про стабільний, проте суттєвий рівень деградації командного потенціалу ворога. Така втрата персоналу у вищих підрозділах може ускладнити планування операцій, знизити ефективність управління підрозділами та вплинути на бойову готовність російських сил.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
+      "published": "2026-10-29T21:01:07+00:00"
     }
   ]
 }

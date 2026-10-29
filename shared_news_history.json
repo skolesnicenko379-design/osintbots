@@ -34,9 +34,11 @@
     "https://middleeasteye.net/news/iran-rejects-unacceptable-proposal-qatar-end-war-us",
     "https://middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
     "https://militarnyi.com/uk/news/azov-zavdav-ponad-100-udariv-po-potyagah-yaki-zabezpechuvaly-logistyku-armiyi-rf",
+    "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
     "https://militarnyi.com/uk/news/drony-urazyly-himzavod",
     "https://militarnyi.com/uk/news/dvoh-nimtsiv-zatrymaly-za-pidpal-anten-starlink-u-bolgariyi",
+    "https://militarnyi.com/uk/news/finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110",
     "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
     "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
     "https://militarnyi.com/uk/news/gur-pidpryyemstva-suputnyk-system-rassvet",
@@ -80,7 +82,6 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y19DT05NS210bDVrSHYwcUtJbWVKenIyTVd3MXN0NUtkSnpWWm4zSDh6Zmtub2F5TFdpNDlqN3hjMDVnMWdqSjlVN0RaSWpmZVpFXzM5Nkw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5b1BNYW45RGRRcDJyOGpEV1BGd0s0cjZKYXV1bHppeXh6WnFGWW5JT1NIM2dMRzZtMU5WbkNidENkRkNwcTBXbFdFZ1dnMVRNRUVOaEl2azFkQQ",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdThPOXVxY2lYVllrUzV0a0t4MXdLdjBKMk1hN01uV293XzlTZlY1QVpPMjNhNzJGcHJjZS01RGk2S3ZHbzRrMk82MkZpOHgxNWRST3dGMmxGOFVNMk00",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YWlpdGlIYW1ncGhwUUlTX0lhV2h3YlBuUWNlajNqcUlkcmlWN19rMk00UVFPc2VaMFVTemFaTEtVWUFpWG5nZDI5clJHSVJBb3J4R1NDNS1fQ0Zt",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91QXZRRlJBbThUYkRfTUpIay1NaXpKYWh2WlphR01wVjRvSGhmaVJYaXRWVjUtelBvMGJQcExaRXdqZW1qLUF0MXJ0dlRIN1VZSmpZOW9QUkMtTlFUQlZVQi1n",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYlh5Z2xZeVZ2bFVpUTVxSkZ5bHBrcVA5ek12TmVKSWRTMmQtN01zRDFrTlpNc05zbHRrbVZmZmlpSUVpc05SdExWR0ZydjJnbHJrWWl4eDNLNENxbnNGLWRn",
@@ -141,7 +142,6 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnM4RlczTlZVR1l6SXhNWDdJeGZZY1ZfVnVybFJWc19NMXpwNXZoT2Vrbktua201S0hhTXk4SklMRERtYm5SRHVaNTFwdmFpNHpVZFg0OElaalpyZ0VYWll4MVBxMjYtR1hwOVl2V0ppdndGVUV1Sld0eldCRElDSjJDWGVOaVJnN3RQWjdsSlF5b3NSeTM5THE3U1NGQWJuMVpUTWVtMnRvWnoxM280dUJVUHFIazNnQVpVTnJlcEpqNXpldDhhWkxn0gHPAUFVX3lxTE1IanVzV2JZSnJlUzhqanpNMUNIME13THZhRnFYU3Z5RTFkZGNQTU5DMXdZbE1GcTRNamIzY1FJbF9TMGVWLWItYVVHT1ZTVHJFbmNpM0thaXJtZnRKWUktV3c4ejNhODBTRGZlaDl1MDRZTlNWSnltQ0Q5RGhzLXNaYS0xckJMTkoyUXhIMTZWc2daWjhmZm16SGY3RDhSVkZrWkQwRHlLYjhHREtMbVY3bTAtMTdHcWoyWWxFWmhUc21ZVDdya2FDTTFRc3ZNRQ",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzZTa3pfMHVTeWZSVUw0QU1pUGprQnhjb2lZRWFodW5FeTVNY3pmRFlUZ081YldpYXptcVVyTHZJSFpEak9XU1FJanZycjRKallRckFobEdxVDRtNDlxdU9odHNJUUlEQkJmbjVCV0RTYXZ6b19mWDlySnA4WlRKbTZWNDhiRkxIUnpUN1gzcHdydEk3SDF5SExtQ2k3YXhVNWZnSEVJZEtZRzlhMW1yNmUzbjJBVklqVUx0SUNuelUyc1dnNlgxaW1B",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWREVXVURjA3LWFSTXdHR01yRS1YU2txWTBTR0N2Qk92S0RzaFhadmtHZU1rRmVPZTNFUzdXbWtqUE5tSW9FNG9sT1B4M0JOcWZrRVdQVlVmNnRrUjZ6eWVDd0M5X25ZeGQzczFQcFhMS2tFazhyUVB0UEw5U0RqV1g3X2xTMVNLVmdmZTU2M0liTHlFeTdBeXRid3FhMWRLbG1pcmJRVFZEaDN4Q0pYUlI5S0ktcmFhcnc3QS1yUU02dWg0eUdPNldWYw",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3pmRE10eUFpWjkxaThGTHFXdkhHT3ZfdE1tUEtudGdBRHltT2FHQjF2aV9JQzJFd1hXMms1eXg2eUdXT3l1dEVWLWVOdGhEbFVKT3hLZE1LZVZFMmMycXlnQ3ltRnVBQ2hhWnBTdVR3RVV4U1Q0WDF1RnY4bC1nY0VqYnB5cXZrNURnMVpfZHBnWWJlY1I4cGE0OGJfR3E0REJaMk5iY2dPOURJMjdNOVRBZEdELVF1U1hMUV9HTTVsaVBocmFDWmZDVQ",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ",
     "https://theafricareport.com/434844/au-should-take-up-issue-of-african-recruits-to-russia-says-kenya-foreign-minister",
@@ -152,26 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Індія та Мексика підписали ToR для преференційної торговельної угоди",
-      "original_title": "India, Mexico sign Terms of Reference for Preferential Trade Agreement, launch negotiations - CNBC TV18",
-      "summary": "Індія та Мексика підписали Terms of Reference для Преференційної торговельної угоди та розпочали переговори. Підписання технічного мандата означає формальний старт переговорного процесу між двома країнами.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "CNBC TV18",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQlh5Y0p6OXN0M2ZJbG1vRWFfZV93QVdYeU5VYkVieU9NUW9IVDh2TnJQa25zSjFiMkpwQ0FxMk9zSnFsVlNTQjBPMGl4bFcwQmNDSFZjS1lqMGVyUVNHdmZKc0NnWkVtS243NG5rcHE5bWd2N25VMVFUQjBtLU8xWjh4UHpuWkZzdXppbkJXMzlJUDZSVlJsZTAxWWhKUFlqZ0pVeElLVnBueXhydmNXQndkazhRQmZjcDhnWXhyMjVNaTByZ0UtYWwtb9IB0AFBVV95cUxPTmtkQ1hYMF9Mbmc1a1VkS0Nwd2h2M2FFU2o2bDk3VlVnVFVXN3JJLUN2UWlVMHpXeHd0amJsdmNWTi1oc1JtQThuRnU0S3pQYlpucEd0QjZ0Qnhnc0oyLUdHZ3FZb19aQ2VkRGVoN3JzbTR0S1duOU83VWwxUElLU3lUZHhab3pWZndEd3pFQ1BpZk43Y0lHZWluNUdTbmlCM1J0dGJVclhGM19DTzlRelpzazJFZWRDdVRfYTBraHVKa2ZVenNwUHI0QkFRVXhp",
-      "published": "2026-10-28T08:10:25+00:00"
-    },
-    {
-      "title": "Президент РФ зустрівся з президентом Екваторіальної Гвінеї",
-      "original_title": "Meeting with President of the Republic of Equatorial Guinea Teodoro Obiang Nguema Mbasogo - Президент России",
-      "summary": "На зустрічі обговорили питання двосторонньої співпраці, економічної інтеграції та безпеки. Обидва лідери підкреслили важливість зміцнення двосторонніх відносин та обміну досвідом у сфері енергетики, інфраструктури і культурного обміну. Вони також розглянули можливість розширення торговельних зв'язків і спільних ініціатив у регіоні.",
-      "source": "Bilateral Meetings",
-      "publisher": "Президент России",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54YWlpdGlIYW1ncGhwUUlTX0lhV2h3YlBuUWNlajNqcUlkcmlWN19rMk00UVFPc2VaMFVTemFaTEtVWUFpWG5nZDI5clJHSVJBb3J4R1NDNS1fQ0Zt",
-      "published": "2026-10-28T08:32:41+00:00"
-    },
     {
       "title": "Вірменія та Словенія підписали меморандум про посилення політичного діалогу",
       "original_title": "Armenia and Slovenia sign memorandum on enhanced political dialogue - Armenpress",
@@ -1573,6 +1553,16 @@
       "published": "2026-10-29T09:39:54+00:00"
     },
     {
+      "title": "Білоруський завод постачає до РФ верстати для оптики, яку використовують у Су-57, — BELPOL",
+      "original_title": "Білоруський завод постачає до Росії верстати для обробки оптики, яку використовують у Су-57 – BELPOL",
+      "summary": "За розслідуванням BELPOL, Сморгонський завод оптичного верстатобудування постачає шліфувальні, полірувальні та доводочні верстати й модернізує обладнання для російських оборонних підприємств, зокрема ЦНДІ «ЦИКЛОН», який, за даними ГУР, бере участь у виробництві Су-57. Така техніка потрібна для виготовлення оптичних компонентів моноклів, тепловізорів, прицілів, далекомірів і головок самонаведення ракет. Це допомагає РФ підтримувати випуск оптико-електронних систем, а відсутність санкцій проти заводу залишає для Білорусі канал обходу обмежень. Конкретних технічних характеристик верстатів у джере",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
+      "published": "2026-10-29T09:53:45+00:00"
+    },
+    {
       "title": "Morningstar: два сценарії бума ШІ ведуть до нижчих ставок",
       "original_title": "There Are Three Paths Forward for the AI Boom. Two of Them Lead to Lower Interest Rates - Morningstar",
       "summary": "Morningstar виділяє три можливі шляхи розвитку бума штучного інтелекту. За оцінкою видання, два з них ведуть до зниження процентних ставок. Матеріал пов'язує траєкторію ШІ-буму з майбутньою динамікою ставок у США.",
@@ -1621,6 +1611,16 @@
       "channel": "economy",
       "link": "https://consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027",
       "published": "2026-10-29T10:10:00+00:00"
+    },
+    {
+      "title": "Фінляндія закупить німецькі протитанкові гранатомети RGW 110 на 84,5 млн євро",
+      "original_title": "Фінляндія озброїться німецькими протитанковими гранатометами RGW 110",
+      "summary": "Фінляндія підписала контракт на придбання ручних протитанкових гранатометів RGW 110 (калібр 110 мм, тандемна кумулятивна боєголовка) вартістю 84,5 млн євро, постачання розпочнеться у 2027 році. Система має ефективну дальність до 800 м і здатна пробивати динамічний захист сучасних танків, замінюючи старі французькі APILAS. Це підвищить можливості фінської армії у ближньому протитанковому бою та спростить підготовку особового складу завдяки одноразовому використанню без складних прицільних систем.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110",
+      "published": "2026-10-29T10:26:36+00:00"
     },
     {
       "title": "Сі Цзіньпін готує кадрову чистку: хто вже звільнений",

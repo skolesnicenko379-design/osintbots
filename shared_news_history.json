@@ -4,7 +4,6 @@
     "http://africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels",
     "https://army-technology.com/news/tekever-ussocom-uncrewed-aerial-systems",
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
-    "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
     "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work",
     "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
@@ -15,7 +14,6 @@
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027",
     "https://defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
-    "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
     "https://defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say",
     "https://defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
     "https://defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
@@ -26,6 +24,7 @@
     "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin",
     "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology",
     "https://defensescoop.com/2026/10/28/us-military-opsec-risks-automated-surveillance-networks",
+    "https://gov.uk/government/speeches/defending-odihrs-independence-and-the-osce-human-dimension-uk-statement-to-the-osce-october-2026",
     "https://gov.uk/government/speeches/russias-war-against-ukraine-is-costing-more-and-achieving-less-uk-statement-to-the-fsc",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
@@ -70,6 +69,7 @@
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlVsbjhQOW9yQWV5eEZyeV91QkNRMUJFa3BvVXQwQ2dKa0x1bHItWEtUYlpraWtKRTlJZFdoWUM4bE9lUDVKRlBGRE84anRRU1NyZmZrWlFIdnBPMXExQnM2SnhaZlVybkd4VG1UYkVheHhNZEhaZ0pwODdZZkVONkdOZzlsMVBMUzBOOUJYaVZzTTA5MW5fbndPVjhEYkRJT0RwdmFoZkk4QmlfRTNJUDFWR0p5cGdMY1FYOWJiVDg4U0lHNFczQllDc3BEd3pSX0tka1Q2bHJ4SEZsMkt6S3lNUDlYR3l6bm12UnoySkQzZ2fSAfgBQVVfeXFMTU1ka0JTd21rRlJ0NnBBaEVHRW1Qc2owZm9PMkVCd21VNWtwNXY1RjR5REV5UDdaazM3elc5UFRjTGxSWHZZSEVraFZwQkFDSTdVUU5VUHdtMjRmR1Q5N1pVZHVWS0dkMzNUZDJjeElMUi1OLWxsRk13OE9lV01INm1NaTR3MHJHMlJnLXpDalZhYnA1VklrcDQtQ25EMzFhTG5BWXI4ZFVqUHJNTWZkaE0wQzlpRkFXYkwtTzNyT2VLQThydmlUZHl3SXpEZTlsY2RBLW1SWGZId01pU1BaTUpTcUpSaDBsZUdybUplbW9Ldjk4TndFRFA",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHZZZkNXQ3JVMGRhbnNXY0dKOEQzV2JPdGhBdWFnNjBHZ25QVXdsZzRrN2JMLWN0Z05id3RUWWlUQXdwYkRCcVNwMmp0c2lSWnYxdmlDWXBZbzRFRHFBOWpLY2VzeDVKZEhvdVNmLWtlb3ktZ1lNRUZyVGlXU1YwMDl5RDY4dW1ISFpvNVgyb2FWZjBEb3VKYzZEaFdJVnBxYU16RFRwdlBJY0NFUUJaSXA4QnRNUlhMS3FnWVFBR05JcWhmMUVxamM5V19hYUJ4SWduT3VUV0tPZ0N4WWxzd29JaEJOc1A4eGpDZVdwb1F3NjVyRXc",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0ZkQzBycHFtRGtKY3c1MnUtTHY3aVFRM2x1Mk5rdFJHaEotemJ2bkV0TVJWcnhMVTVRRWc4T3Vic1hvWGJ0Q1R3c3JLX3Eza0xPa1UxV3ptLVBqUEk4VGhyWlM5UXFXbjV1TWo2aS1neTVhV21BeVJuOTJWODNweFZxVlRIdlpqUWtGX1pnaTM1bjBoM2FsTFl6TndHS1FsUktrdFpaTE52Q0RXUWd2QmsxSXhNdVB5YlNoZkVtbm56RnM2TFZqakU2aHVEeXA3b0FVczFVclhDekNQNm1MVVhNTEFsTk5pNG92NlpaMnc0dXB4NzJF",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MVRaVFBONkZJa2w3ejlpYWsxY2w5VEphMDZxUjhKNzdIXzEydzBxbjNHRmo2S0NzaDU0ZW5Tak5HM3MtT2p0aFVncEpZWk1PMEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZUhOMGNZVUNXUWlwTFN5THB3MllvdWN2bWhmdXM4MDBFN2FDYVRWUTBzY081VFdDcFJNZElObzlCMFZsTkh2cHFIQXAtemVJeHc",
@@ -78,7 +78,6 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Oem1CUlRxczBwUDhXOUdqbkVkU0laN3JabU1kVzY5Mm5NLUhtblhCajNGNFNBVW00RG1mZ2E5OVZoNzBZblcxV3hRT2thckhzY1ZmM2FVYw",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZMllpc1FGNTZmdHZ6NkI5bVE2ek5TMHcwSnZDOUJuWG5QZ3ZfRk1TVW9ENkxKZ3Vzc1lsTERIcDNGWTB6akZocGpBZVc1YnpDejRxQWdR",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uLVR3cjNaNzA5cmpVa3V6WElVcWcxTDF0bmE5cEdzODNhU2FEZlhtakVkbDdkREZEam9JNTgydkhPcmlKdDlLV0x1OFRiQU1GTnpidEx1TVlZNGs",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y19DT05NS210bDVrSHYwcUtJbWVKenIyTVd3MXN0NUtkSnpWWm4zSDh6Zmtub2F5TFdpNDlqN3hjMDVnMWdqSjlVN0RaSWpmZVpFXzM5Nkw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5b1BNYW45RGRRcDJyOGpEV1BGd0s0cjZKYXV1bHppeXh6WnFGWW5JT1NIM2dMRzZtMU5WbkNidENkRkNwcTBXbFdFZ1dnMVRNRUVOaEl2azFkQQ",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdThPOXVxY2lYVllrUzV0a0t4MXdLdjBKMk1hN01uV293XzlTZlY1QVpPMjNhNzJGcHJjZS01RGk2S3ZHbzRrMk82MkZpOHgxNWRST3dGMmxGOFVNMk00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
@@ -145,6 +144,7 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3pmRE10eUFpWjkxaThGTHFXdkhHT3ZfdE1tUEtudGdBRHltT2FHQjF2aV9JQzJFd1hXMms1eXg2eUdXT3l1dEVWLWVOdGhEbFVKT3hLZE1LZVZFMmMycXlnQ3ltRnVBQ2hhWnBTdVR3RVV4U1Q0WDF1RnY4bC1nY0VqYnB5cXZrNURnMVpfZHBnWWJlY1I4cGE0OGJfR3E0REJaMk5iY2dPOURJMjdNOVRBZEdELVF1U1hMUV9HTTVsaVBocmFDWmZDVQ",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ",
     "https://theafricareport.com/434844/au-should-take-up-issue-of-african-recruits-to-russia-says-kenya-foreign-minister",
+    "https://theafricareport.com/434864/algeria-prepares-troop-deployment-in-niger-to-protect-oil-assets-and-expand-influence",
     "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
     "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
@@ -152,36 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Австралія посилює ППО: вибір платформи для проєкту LAND 6504 очікується наприкінці 2027 року",
-      "original_title": "Australia pushes to beef up air defenses",
-      "summary": "Австралія планує обрати переможну платформу для програми LAND 6504 наприкінці 2027 року, а запит пропозицій (RFP) очікується на початку року. У наведеному тексті немає технічних характеристик системи чи переліку претендентів, тому оцінювати її можливості зарано. Сам графік свідчить про намір наростити наземну протиповітряну оборону Австралії, але реальний вплив залежатиме від обраної платформи та термінів її постачання.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
-      "published": "2026-10-28T08:34:00+00:00"
-    },
-    {
-      "title": "Якщо Канада обере істріляч Gripen, ці місцеві компанії допоможуть Saab поставити літаки",
-      "original_title": "If Canada picks the Gripen fighter, these local firms would help Saab deliver the jets",
-      "summary": "Saab оголосив про створення альянсу з CAE, IMP та Magellan Aerospace для збірки та підтримки Gripen E в Канаді. Якщо уряд вибере Gripen замість F‑35, це забезпечить місцеву виробничу лінію, електричну збірку, а також навчання пілотів і техніків. Таке рішення підвищить національну суверенітетність, розвине авіаційний сектор і надасть Канада сучасний багатофункціональний істріляч з високим рівнем авіаційної технології.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
-      "published": "2026-10-28T08:43:30+00:00"
-    },
-    {
-      "title": "Президент Швейцарської Конфедерації відвідає Китай",
-      "original_title": "President of Swiss Confederation to visit China - chinadailyhk",
-      "summary": "Президент Швейцарської Конфедерації здійснить офіційний візит до Китаю, повідомляє видання chinadailyhk. Подія спрямована на розвиток двосторонніх відносин та обговорення взаємної співпраці між двома державами. Деталі щодо точної дати, порядку денного переговорів та офіційних осіб, які супроводжуватимуть главу швейцарської держави під час поїздки, у джерелі наразі не уточнюються.",
-      "source": "Bilateral Meetings",
-      "publisher": "chinadailyhk",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y19DT05NS210bDVrSHYwcUtJbWVKenIyTVd3MXN0NUtkSnpWWm4zSDh6Zmtub2F5TFdpNDlqN3hjMDVnMWdqSjlVN0RaSWpmZVpFXzM5Nkw",
-      "published": "2026-10-28T09:00:23+00:00"
-    },
     {
       "title": "ГУР розкрив мережу 49 російсько-білоруських підприємств, що створюють супутникову систему «Рассвет»",
       "original_title": "ГУР розкрило мережу підприємств, які створюють російську супутникову систему зв’язку «Рассвет»",
@@ -1651,6 +1621,36 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic",
       "published": "2026-10-29T10:50:56+00:00"
+    },
+    {
+      "title": "Алжир готує введення військ до Нігеру для захисту енергетичних інтересів",
+      "original_title": "Algeria prepares troop deployment in Niger to protect oil assets and expand influence",
+      "summary": "Президент Алжиру Абдельмаджид Теббун оголосив плани захистити енергетичні інтереси країни та реалізувати військово-безпекову угоду, підписану з Ніамеєм 21 жовтня. Ця заява пролунала наступного дня після того, як алжирський парламент 25 жовтня ухвалив рішення про дозвіл на військове втручання в Нігері. Подія стосується міждержавної безпекової взаємодії та офіційних кроків керівництва двох країн.",
+      "source": "The Africa Report",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://theafricareport.com/434864/algeria-prepares-troop-deployment-in-niger-to-protect-oil-assets-and-expand-influence",
+      "published": "2026-10-29T12:30:00+00:00"
+    },
+    {
+      "title": "Рада ЄС ухвалила четвертий захід допомоги для Мавританії",
+      "original_title": "European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania - Council, European Union",
+      "summary": "Рада Європейського Союзу офіційно ухвалила четвертий захід двосторонньої допомоги на підтримку Мавританії в межах Європейського фонду миру (European Peace Facility). Це рішення спрямоване на зміцнення співпраці та підтримку країни через дипломатичні та безпекові механізми ЄС. Подробиці щодо обсягів фінансування чи конкретного переліку обладнання в повідомленні не зазначаються, проте зафіксовано сам факт ухвалення офіційного рішення на рівні європейської інституції.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0ZkQzBycHFtRGtKY3c1MnUtTHY3aVFRM2x1Mk5rdFJHaEotemJ2bkV0TVJWcnhMVTVRRWc4T3Vic1hvWGJ0Q1R3c3JLX3Eza0xPa1UxV3ptLVBqUEk4VGhyWlM5UXFXbjV1TWo2aS1neTVhV21BeVJuOTJWODNweFZxVlRIdlpqUWtGX1pnaTM1bjBoM2FsTFl6TndHS1FsUktrdFpaTE52Q0RXUWd2QmsxSXhNdVB5YlNoZkVtbm56RnM2TFZqakU2aHVEeXA3b0FVczFVclhDekNQNm1MVVhNTEFsTk5pNG92NlpaMnc0dXB4NzJF",
+      "published": "2026-10-29T12:32:09+00:00"
+    },
+    {
+      "title": "Британія на ОСБЄ вимагає захисту незалежності ODIHR",
+      "original_title": "Defending ODIHR’s independence and the OSCE human dimension: UK statement to the OSCE, October 2026",
+      "summary": "Посол Великої Британії Нейл Голланд на засіданні Постійної ради ОСБЄ підтвердив політичну та фінансову підтримку ODIHR, закликавши країни-учасниці захистити незалежність організації. Лондон вимагає від Білорусі негайного звільнення політв'язнів, від Грузії — виконання рекомендацій Московського механізму, а також закликав до документування порушень Росією в Україні та захисту громадянського суспільства від переслідувань.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/defending-odihrs-independence-and-the-osce-human-dimension-uk-statement-to-the-osce-october-2026",
+      "published": "2026-10-29T12:53:59+00:00"
     }
   ]
 }

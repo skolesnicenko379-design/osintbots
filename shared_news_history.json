@@ -10,7 +10,6 @@
     "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception",
     "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them",
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future",
-    "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
     "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry",
     "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures",
@@ -40,6 +39,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
     "https://middleeasteye.net/live-blog/live-blog-update/un-rights-chief-says-next-israeli-government-must-change-course",
+    "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
     "https://middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
     "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
@@ -75,6 +75,7 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGtHN21rR2hfd24xaW5CWjVITkJSWWwzVHB0dGoxcldaamU4QnFDYzM3SGJQT05rSXdUVlItbjhESmcyX0ktWGh2bzBGQzNJbURLS3hmNUlReWFRYUNDVFRZUTlTWndZSkFPbWpBWHlIaWczYkh6R1kxTUlYeWRtMVM0R2drdVljUmhaZVVzQ3VUQl9nQWdMNC1DTG0zd01CcWVidWR4Y0N3LWY2d2dOa29BbXVETjJCRUN0aHBGb2kzWlVONDltLVpic2FQNlM1NTlmZmJYeE9za0E",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVXp0ZURGN0RnVHpiOFhRdjNqTGRwNjRXT2VMazFIeENFaTRBa0U2aVBUSWR5al8xREN5dy1JZHZlQ1ZMbzlJeFBSaVR0WEVRTlFfemJCbVhOTVA1UnRRelRfRXo2LXRNRk9QaW5OMEs3Q0M5RzkxVTFZOWh4VTdOdUVkeVI5YS1kNk5RMUwzaHR4SDVmR1IzZnl1cnBhZGxQSWRqdlNvaDdZMW5zcmxNbE01ZGJxWUhJZ0JhVGlDN2ZUQnR4aDFtQkNzSGpodWFPTEdFWUpOM3doYXIyMlE",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1lYTjRDRUZKUmZtd3NIM0taTzAyUmo5ZUVvcXZiVEtVdGZZT25Nd1VJRVNELVA1ZzBsN1dPX1N3OFlpZDVxRWl2b051Y3BuWGpNSjRKSVhYY0lTNmZULVllcTJ4SnA5a194VzFVdzJuX2ZQSzRYOXNlakN2RF9mS25od3A4dlA5V1Fvclo2dUNwb2hHMWphbEJGY2ZWY2R3Y0xHVEF3WlVjZlRXS1d5UGVTQlFOSnhleXdGaGxlaVY2QzVuRGlvWHYxVGV0QkNSa0toLVZBLVJPMElzWmFqc195T2pDME5wMThr",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ29nN2xzV29yR0pDeDQxalZIRnZCZV95TUFOeTU1dVdXWFUzV294dGlVV3BRMUM0ci1nWmdVMWE0TUhoVElUTVJSMVBHZ3FuY3BGREc5aW1XV2lFQ2wwZWducEVoWV8xZl85dzhuVC1TT2pUUDBidnNGYnlkZWQ1Z1Foak51TGhHblJwVnJZMGJYX1J4MmdPdWJnQjRQbEF3UVhKVUxTWDBKVmJqc3Z2SzFZcEdHTGM4eGpxcGExVU5TSGpQd2VDTUFkaWRjdko5a2toeE91Wk80VkFiVUdPSDFDdGs5TTdtcW5qQQ",
     "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQdXEtX1h3M0JndXh3a0xuNHI2bFFtN0R3S0V5QUtGZFh1akxnVl9IVk81MGZUclVMTmcyU096dnd5dE13XzE0OVlEZnZlQzdIYTA2REE2OUJPbHVZd0VyVjhrLTFGRXM0dkNNSFFZTDNSOFg4LVlVOUkyaWJETVAtb2Vxc1laT3hNSTVnVHRmUldQbEJtMDUwNU10UTk3QUxTRVNOQ2ViWmFOU2hpT3huUm1CRm5VZUxtb1d4aER1bnVUZmVFU1dVb0VZNXJ4TnNjakpKelc0RzRMb01MUm81NE1MNHlvYUtLdG9BWWt4SEF6MEtvQWd1QWFicVdSazlOaFg4dENVYksySnFwUjVBYTBJN0FRNC1jWGdMcEJJcUVGVFRja0QzUnk3T0JlcFpqb0VzbHBSS3hHQVMwWjNhMmhjeHNsMzliSEd0djZxU0dxTzJsUHpaMnJKTGhYQ0M0OURTZ3E1M01ZbFF6QUlj",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlVsbjhQOW9yQWV5eEZyeV91QkNRMUJFa3BvVXQwQ2dKa0x1bHItWEtUYlpraWtKRTlJZFdoWUM4bE9lUDVKRlBGRE84anRRU1NyZmZrWlFIdnBPMXExQnM2SnhaZlVybkd4VG1UYkVheHhNZEhaZ0pwODdZZkVONkdOZzlsMVBMUzBOOUJYaVZzTTA5MW5fbndPVjhEYkRJT0RwdmFoZkk4QmlfRTNJUDFWR0p5cGdMY1FYOWJiVDg4U0lHNFczQllDc3BEd3pSX0tka1Q2bHJ4SEZsMkt6S3lNUDlYR3l6bm12UnoySkQzZ2fSAfgBQVVfeXFMTU1ka0JTd21rRlJ0NnBBaEVHRW1Qc2owZm9PMkVCd21VNWtwNXY1RjR5REV5UDdaazM3elc5UFRjTGxSWHZZSEVraFZwQkFDSTdVUU5VUHdtMjRmR1Q5N1pVZHVWS0dkMzNUZDJjeElMUi1OLWxsRk13OE9lV01INm1NaTR3MHJHMlJnLXpDalZhYnA1VklrcDQtQ25EMzFhTG5BWXI4ZFVqUHJNTWZkaE0wQzlpRkFXYkwtTzNyT2VLQThydmlUZHl3SXpEZTlsY2RBLW1SWGZId01pU1BaTUpTcUpSaDBsZUdybUplbW9Ldjk4TndFRFA",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
@@ -98,6 +99,7 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LVB2Nnh0MGdpanE2Mm1TTHFMU2ZyRzBhN3Rnb3JCaHhYRElXSkVQUlNnbkdqQnpxTk5Oa1pFUjFMWFdPUmk3RXVqaGgyYnZ3c20ySTZXeTI5a0oxN0gzTlY0b1NQNWltYkdnb19YdXJGRjRDcnc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNWtOaGlZeWg5WHJXZUk1eUJpREF2YkV5eGdHdDA1azg3MzRmSE1tdUtDM3kwOWdqM0QyWjZ3MFNYWk9WVzE0OG1NVXp0TFlHWk5NdTZabnJ4YXJ4T25uUW1Md3Vhd2wwZnJwWE9hQW9MeGd3Ync",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZVpDa2F3S2NUMG1tTG9oZHJaRFFqTlZaVWt5QzBlTUhWVS0ydDNxYk00SV9VZ2pyMjJwSlBScElGcGl6bHRzOFhnT1JxaEpaUlltX2dEM2dmY3lyajNmb0dweXd4M2RQV21aVlk5MDk4SWh1d2pubWFZc2c",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1aU9OWTR1b2Y0XzFQWE1tR1ZxcHJHVU1QX3BBNGNCWVF6SDhhckpPQVJ4VjJ3NGt5OHRzVmhTZGU0R25Qb1pPb3laYklMNmJIejR3UHJFZjhWc3FWc3M1Y2lCNVd3WW1UY3VPakJQaE9EVFotWEptaTVTdFE",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlhBSnlucTBBQ2ZWQks2Z05Sc0pYaTVUZXdpdzlTT1RSZEdpWkNyVTNKSzlqSG5IaVV0dExDc0NCOWlhUUlCWkpma0d1cWpnazViS0c3LWV5U2FDTF9aMWw2VkhISXpHQU5uT2EtZC1iQmc2VVFUUzF1VzFpclBWUQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeThDZzhHWFFlZ29YLS12NTFmUDl5MFBCWVpwQ0d3TWdxeEdoTWlLYnlMUl85aXZhcHZ1MVRsT2FzMHpzZlpTZGI5cUh5ZXJsbXNxTElzRHBYX21QTXl2ZGpDNjd2Mi1IbXJid0hJRVFIZGxBMTRabnhha1RnTWdneg",
@@ -121,14 +123,12 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQak55S2dlYU5qSl9PTWFuOGt4S2VXMVo2M0otcmRndUQ0RUhOU2JoZ3VWV21vU1hqQW45LTZicmdlX19MVEdiZVdMbi1WaTdBVTJldTk2MVpfSm5CdGRQa2VyclhhNFJuUDB5S2tmWmM2QUZITXBxWlRRR29YbTN2NFY2YmJVanR3Z3Rwc1lzcnQzdFpwYTRJb243X2w3Zlo4NWJxUlhKT2NRTHlBSXc",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDBkTU1TLTNpUWlOeW52U05YZGRUNVJpTHdtTUFXM0NUMXlYSU1kUWlFQXNNa25wU1BRZzNuZXNDZHVVTm9aeDVNQ3FpekIyRmRDQW52TFVsdzdXY1hhbWhBc0swWTAxVU4zc0d3cWxHaXlCOXVGYTFfT0hLUWR5cHM4dzJ4d2VXSEVUdVljdENGeURVSUNoUjFhZm1rZzJqNWJHcDc1SWZSNkg4RHhB",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNendpR0E1RkNSOW9NZktodEJyLURvNWI3RHJhamRIbHZLRFRCVHZZWlc3WGRseGpqNnZGV0dSOXF2N2RDbFRaYnU4WnZUT3ZkZkZuZDl0Y0pEX1dJYzZRSmh6eC1DWU9XSXMzUEJORzAtY1Q0eTFZZDVTNGN3OGpUemJTcmdlTVJpRWYtWFozQlVwV1VBU2JPeWNaV3JUdGRDdDM1VlpyTXdCMS1fSmZR",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUU3ZDMtekh4b0QyTEw3MW5WUXAzYmVHNTVuMmhHblBnV05GQVlIN2xuRFlPdEhQN0R1RGdyRU1paDRKSnczbEFxY29HWmhlLUZQTy12Y3lZSVZKdW96bTBGYkdCVWR4ZkoyMFdhbENzM296NFpZSm9tVHFXejVwNFltTXF1cEtTbVpJNEdkU1lfb3Y2dldZZmY5VWx3OWthVzdVTGtfeFlDN3lHenF0Vy1ubmE",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb3hlU2lXYVhwODREdExhT3dyM0pVMWotZUZkTVEtU0Q2RkdjUkZJMjlOUU1xdElENWdSTV9URXdtenBiX05remR0cm8wS1oxLTRnb3ZEb21uWmFPSlR4TGdKWnpHY3BYampqcTgwRzlNcXhOUHN5R2tjaXAwSUUzUVFSZjdNT2M2Ymh6T1VGQVhYYm02SURXQktZYTJMYThFdktwQWM2LVZfcW5ZZzVvcHgzd0pxQQ",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDdmaEdxZEE2dG9VMXlWMDdOSTNrWVAtcUtpRXA4WDZrOHFRMW9ScFhhVi1oMlZOZ004ci1zeko1UFFQcm5aY0Q3djFjRjJDQUZvOEhwQnBvYmVYNngtM3k4cWVSNldpZEk3UXVaV1Z6QXVKRXFPYmgyV01KUTd3T0Q5QkhrRDNWUEU3ZWFuajVFX0hIZXNlU1MtZS1QdWY1bmE1cjZGUmpQME16emdiMEU5UHZpd9IBuwFBVV95cUxOUVpqSm1ueVlOSzZuQmJqUDBEX2hNVDEycDF0b0VPSzhMcUYwVjZiZWJvV0R5M3dSX090Qm5xX3FHV1NqSk1GRWNvQUJwVXhLWmdHVVppRk5aY2tYd0FxcTVBVmxoTFB0OVlOZXFoUlBNa1hoMGF6X0pzTWQwSnZrZXA4YzZDZTZqaFFaazV6eUhmN2QtZHJuMzBzcW54TUlVWWxaZkkxZzRHVnI0UWFrOXVJdDZfcHdnNjU4",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFltQmpmVUJMWHZINEZtZGw2WXFIbTNPZVZEaDMzVVR5OEc0LXJkVFM0OTNncl9CM2dSdXJYNHRBTVZZVU1ScUtON0dMa252RENkejZDQnh6d2JOcGdsNE9EWXRaTmI2X2sxM1RyaUZBdjRhNGtjMm9jeXl6cjBKY0V0UU0wM1o5ZlBoV0xCdWE4bEV2WHEyYUhfR1NkYkF3aVBhaFpFRERnN2xoUVpnaVJ3UDhVUQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEhDZzE4NW9YRG53TmhJZ2FCZmNTQzBEMlpwVl9TblpPaWJEZUFlWTN4X3FkNDZqdlRvaGViTkZmRG82aXhjVTYySXNEcWU4bnBiNjVEY19aa3VXbzFyZmZCd04yZTNlSmdIY2tuVDhmd1RkbHpGSG8xUjZYclYtMHUwNFp5aHd5SWdzOHdCRW9DYTZHQ1NmTmdTVzRtZjE1VE1TMXhpdWNMQVI3VFpOZVBCRG5QTDd4",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVllpYXpPeXJwR0p1NmtQVHdybHp5am9nd0RPRUFhSXU0UVNOVThHTm1MdHE5S2RvdE1HdUoxeEtUOTlKd0RZRmpob3FXT0o5b2Y3OGRJM3Z5Yld6NXcyM0xJU2pjSEx6Q2tQWktPbnZwNTZUd1RqSlNDTWd6Y19DRXhNX2cwWFR3OXZUT1RkVXA2QmUtS0ZtTU1sQjVWcGNCSlFadE0xYldWa0twU1RQNEFwSWR2NHln",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWVIYThBQThya25fMHNDVDVRN0s3TEc1TzI2YUFFd2JkR0NVd1JNem84TzRrTGpLdE8tSmxHdzRoai10SlZBenZJNUtDSU4xNUJ1cDgyazZSa3JoelJXazZ3MENTc0pRcTlJWTJJZGdCV1kyLS15VW1kX1hLYVZBb0dkT090M281MWhvWlFLdzNnOWpfM2pnZzZ2Zk5oQW5CeTh4SzlrVWxoTWRmUlZoaV9aUkFYMUxRVEVr",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1k0TjFEZEwyNU5PUGdhNnFQMU0tRk5ZZGVoSlNka1NQcmNfOTB0c3ktX1hhMDNDYzByVTB3bUFleFRxVGlscHFuTE1mRVdxanJjaW8xemtscHNtOHkteUZ4aGViOG1aWnpzLXNSNENfem9MSEpPT1QyUDFGeWV1bTdlUklkNWRXZ2h2Zk04eUdoZzVSeVg0dnVTeVBrVjVGa05TV0ljNjF2T2lwUTNOazNYZDdKZU9WNW1r",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGh0OUhPanJIZFQzaTJodnZRb19Fb2paSlVvMmlXUkQwNXlob2RNUk9DeV9DUUl3cm5xNG4zSC1NVFF1UGxEejQyOUQ4LUR2QWNncnhqVHR3WHlleWhMSHZGMGE5elM1X2EzbDhlS096YmV3WGExSE4zaWZlVkZIcWVlbEhCbEROSEl4cHRUNFFlOC1TSzFIdkh4MFB3M3BCX0hhWjJ0WW1VenpuNjNHQjRrS05yeGlVclZN",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1J3aU5Wb1p0QTN1ejdOOFROcUNtZmtzYzhMZmlqbTdPRlVSZmlxbUpLSmhfa3k5b1FiR3luNGhCdDJESy1oa2owc3V2QThRQmptT3B6T2pGczF4UFJLRVJ1Nng1OGxWVDI5Wl8wT1RUb0Z0Q0pjNTJCQnhBZG9qQ1F4eDZOQmoyckc1WTNkZG1fMzVpbG1pX0YzczJaWWRhOC1zclcwbGxON1JLTUtoN2F2NlBhMkY4aWxrRw",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHNqSkU1VWhvcEpzS1lmZ1lVTGdFck9EZVl2ZGN5WTh3VEtuQWh4a1RLRDZsamxEekhGNklFRkJwNXJhZ0oyNmJKQXo5VVJneXI4MHNvVlNTMmduZWRpLWJ4X0I2SWUwcGctcTJjTkVXSFZrTVRYOV9xUWtJZ0xvZTVRUGFIVmJoZlZTYTJUU0FVTXVJcFBjMGh0ZXFCT0prbnNjY1JoVDl0ZHpiX3ZDTjNKZTQ3dF9md1FLM2t3",
@@ -152,36 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "OBR знизило прогноз зростання економіки Британії на 2027 рік",
-      "original_title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures - The Guardian",
-      "summary": "Управління з бюджетної відповідальності Великої Британії (OBR) різко знизило прогноз зростання економіки країни на 2027 рік. За повідомленням The Guardian, прогноз погіршено попри бюджетні заходи, які запропонував Гіли.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "The Guardian",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1k0TjFEZEwyNU5PUGdhNnFQMU0tRk5ZZGVoSlNka1NQcmNfOTB0c3ktX1hhMDNDYzByVTB3bUFleFRxVGlscHFuTE1mRVdxanJjaW8xemtscHNtOHkteUZ4aGViOG1aWnpzLXNSNENfem9MSEpPT1QyUDFGeWV1bTdlUklkNWRXZ2h2Zk04eUdoZzVSeVg0dnVTeVBrVjVGa05TV0ljNjF2T2lwUTNOazNYZDdKZU9WNW1r",
-      "published": "2026-10-28T14:43:00+00:00"
-    },
-    {
-      "title": "Військово-морський флот США стикається з багаторічним дефіцитом обслуговування через рекордні, тривалі місії",
-      "original_title": "Navy faces ‘years-long’ maintenance crunch amid record-breaking, extended deployments",
-      "summary": "США очікують, що відновлення флоту після тривалих місій займе роки, що створює великий дефіцит обслуговування, особливо серед ідеалів. Повернення авіаносців після понад 300 днів на морі збільшує навантаження на верфи, що може призвести до відстрочення модернізаційних проектів і зміни пріоритетів ремонту.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
-      "published": "2026-10-28T14:44:00+00:00"
-    },
-    {
-      "title": "Ямайка і Велика Британія підписали угоду про відновлення після «Мелісси»",
-      "original_title": "Jamaica, UK to sign agreement for post-Melissa reconstruction support - Caribbean National Weekly",
-      "summary": "За повідомленням Caribbean National Weekly, представники Ямайки та Сполученого Королівства підготували підписання угоди, спрямованої на підтримку відновлення після урагану Мелісса. Угода передбачає спільні дії щодо надання допомоги, координовані між урядами обох країн, і є частиною більш широких дипломатичних зусиль щодо реагування на стихійні лиха. Джерело: Treaties & Agreements.",
-      "source": "Treaties & Agreements",
-      "publisher": "Caribbean National Weekly",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUU3ZDMtekh4b0QyTEw3MW5WUXAzYmVHNTVuMmhHblBnV05GQVlIN2xuRFlPdEhQN0R1RGdyRU1paDRKSnczbEFxY29HWmhlLUZQTy12Y3lZSVZKdW96bTBGYkdCVWR4ZkoyMFdhbENzM296NFpZSm9tVHFXejVwNFltTXF1cEtTbVpJNEdkU1lfb3Y2dldZZmY5VWx3OWthVzdVTGtfeFlDN3lHenF0Vy1ubmE",
-      "published": "2026-10-28T14:46:04+00:00"
-    },
     {
       "title": "Великобританія ввела санкції проти 15 командирів за злочини в Судані",
       "original_title": "UK sanctions Sudanese officials implicated in mass sexual violence in el-Fasher",
@@ -1643,6 +1613,16 @@
       "published": "2026-10-29T20:41:31+00:00"
     },
     {
+      "title": "Міністр оборони Молдови відвідав Бухарест для підписання угоди про співпрацю",
+      "original_title": "Moldovan defense minister goes to Bucharest: meeting with Romanian counterpart, signing of military cooperation agreement - Moldpres",
+      "summary": "Міністр оборони Молдови здійснив візит до Бухареста, де зустрівся зі своїм румунським колегою. Під час зустрічі сторони офіційно підписали угоду про військове співробітництво між двома державами. Подія є конкретним дипломатичним та безпековим кроком у двосторонніх відносинах Молдови та Румунії, підтвердженим офіційним повідомленням.",
+      "source": "Treaties & Agreements",
+      "publisher": "Moldpres",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ29nN2xzV29yR0pDeDQxalZIRnZCZV95TUFOeTU1dVdXWFUzV294dGlVV3BRMUM0ci1nWmdVMWE0TUhoVElUTVJSMVBHZ3FuY3BGREc5aW1XV2lFQ2wwZWducEVoWV8xZl85dzhuVC1TT2pUUDBidnNGYnlkZWQ1Z1Foak51TGhHblJwVnJZMGJYX1J4MmdPdWJnQjRQbEF3UVhKVUxTWDBKVmJqc3Z2SzFZcEdHTGM4eGpxcGExVU5TSGpQd2VDTUFkaWRjdko5a2toeE91Wk80VkFiVUdPSDFDdGs5TTdtcW5qQQ",
+      "published": "2026-10-29T21:01:00+00:00"
+    },
+    {
       "title": "Росія втратила мінімум 9000 офіцерів з початку повномасштабної війни",
       "original_title": "Росія втратила щонайменше 9000 офіцерів від початку повномасштабної війни",
       "summary": "Дослідницька група KIU зафіксувала, що з 1 лютого 2022 р. у російській армії підтверджено щонайменше 9000 втрат серед офіцерського складу, що є мінімальною оцінкою, оскільки враховуються лише ідентифіковані особи. Середньоденно втрачається близько 5 офіцерів, що свідчить про стабільний, проте суттєвий рівень деградації командного потенціалу ворога. Така втрата персоналу у вищих підрозділах може ускладнити планування операцій, знизити ефективність управління підрозділами та вплинути на бойову готовність російських сил.",
@@ -1651,6 +1631,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
       "published": "2026-10-29T21:01:07+00:00"
+    },
+    {
+      "title": "Спецпосланник США заявив про близькість угоди щодо деескалації з Іраном",
+      "original_title": "US envoy says Iran talks ‘very close’ to agreement on de-escalation process",
+      "summary": "Посол США в Туреччині Том Баррак повідомив, що дипломатичні зусилля за посередництва Катару, Пакистану та інших союзників наблизили сторони до угоди про тимчасову паузу в бойових діях, яка може бути досягнута протягом двох тижнів. За словами Баррака, загального рішення одразу не буде, проте адміністрація президента США також серйозно розглядає можливу силову операцію.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
+      "published": "2026-10-29T22:52:16+00:00"
+    },
+    {
+      "title": "Комісія ЄС подала до Ради рекомендацію 11 вересня 2026 року",
+      "original_title": "14740/1/26 REV 1 1 RELEX.2 Council of the European Union 1. On 11 September 2026, the Commission submitted to the Council a Reco - data.consilium.europa.eu",
+      "summary": "11 вересня 2026 року Європейська Комісія передала Раді Європейського Союзу рекомендацію, зазначену у документі 14740/1/26 REV 1 1 RELEX.2. Це формальний крок у законодавчому процесі ЄС, коли Комісія ініціює пропозицію, яку Раді доведеться розглянути та, за потреби, схвалити. У повідомленні вказано лише факт подання без уточнення змісту рекомендації чи подальших строків розгляду.",
+      "source": "EU Diplomacy",
+      "publisher": "data.consilium.europa.eu",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
+      "published": "2026-10-29T23:42:50+00:00"
     }
   ]
 }

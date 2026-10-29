@@ -46,6 +46,7 @@
     "https://militarnyi.com/uk/news/u-polshhi-zatrymaly-ukrayintsya-u-spravi-pro-pidpal-poblyzu-oboronnogo-zavodu-v-rumuniyi",
     "https://militarnyi.com/uk/news/u-rosiyi-pislya-udaru-droniv-goryt-zavod-azot-yakyj-postachaye-komponenty-dlya-vybuhivky",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-vid-niderlandiv-500-mln",
+    "https://militarnyi.com/uk/news/ukrayinskyj-nrk-iz-shi-samostijno-19-km",
     "https://militarnyi.com/uk/news/v-omsku-pislya-udaru-droniv-poshkodzheni-dva-himzavody-i-vygorila-sektsiya-skladu-ozon-suputnykovi-znimky",
     "https://militarnyi.com/uk/news/velyka-brytaniya-vydil-3-milyardy-funtiv",
     "https://militarnyi.com/uk/news/yaponiya-perehopyla-korabel-i-aviatsiyu-knr",
@@ -84,7 +85,6 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zR2J6Zy1ESlpwMS1nUDVGdVdEU0UzSHE3eG9VUkRfaEc4N3RGX0JpR2hEQmZkRUx2MU9Od1FIeXpxcXpxaXBZN296S2dOTE8tNFIyajJKUjhzSVdzSWYyenNScHNBSWhwMHZ6eU5CMWZkNnBJd2c",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2enhTWHhtYXRiaFpyaHBGNTJMMW4tQ3pMNkpmMExXaXF2Z1Qtb3huX1U2SUxzRzFzc3lBYVJ6VkQ5TVY4ZUhYN1M2clhBSU1zUDRJMFRnY3hMTEFaUHB3U0Jqcl94V0pEaWZwcVpOTTJjczVvT0E",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZVpDa2F3S2NUMG1tTG9oZHJaRFFqTlZaVWt5QzBlTUhWVS0ydDNxYk00SV9VZ2pyMjJwSlBScElGcGl6bHRzOFhnT1JxaEpaUlltX2dEM2dmY3lyajNmb0dweXd4M2RQV21aVlk5MDk4SWh1d2pubWFZc2c",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE95c2VuTzEwMHB0QWtadFVGVmxMd3FvUEFhVE41WkFsZlYwWlhJeVJneUFvcUxWQWkwZkFxNVVDTVd4Nm0xclRBNUNSZ0tFNnJsV0psQWduWElhdWY0ZjBRVTZUQVFmVU43R3Mza3UxTXZhZUJnTHlLSFdNajY",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlhBSnlucTBBQ2ZWQks2Z05Sc0pYaTVUZXdpdzlTT1RSZEdpWkNyVTNKSzlqSG5IaVV0dExDc0NCOWlhUUlCWkpma0d1cWpnazViS0c3LWV5U2FDTF9aMWw2VkhISXpHQU5uT2EtZC1iQmc2VVFUUzF1VzFpclBWUQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeThDZzhHWFFlZ29YLS12NTFmUDl5MFBCWVpwQ0d3TWdxeEdoTWlLYnlMUl85aXZhcHZ1MVRsT2FzMHpzZlpTZGI5cUh5ZXJsbXNxTElzRHBYX21QTXl2ZGpDNjd2Mi1IbXJid0hJRVFIZGxBMTRabnhha1RnTWdneg",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHB3XzUtNTdRSU93VEswZ3FHbXZkNEVvcTdURVp3MFMyb1RNX2FYdFNXNHZEUGlBNi11Z19MblF5STJqZDhCR3FRcFN3RmxZbk1xSkp3ZXpTXzcxcmVZdHZueHhpNzNOZUQ5MTRCNTVqQzNTSmg1MUZzQl9IT1lCUU9kOA",
@@ -132,8 +132,8 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGh0OUhPanJIZFQzaTJodnZRb19Fb2paSlVvMmlXUkQwNXlob2RNUk9DeV9DUUl3cm5xNG4zSC1NVFF1UGxEejQyOUQ4LUR2QWNncnhqVHR3WHlleWhMSHZGMGE5elM1X2EzbDhlS096YmV3WGExSE4zaWZlVkZIcWVlbEhCbEROSEl4cHRUNFFlOC1TSzFIdkh4MFB3M3BCX0hhWjJ0WW1VenpuNjNHQjRrS05yeGlVclZN",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSEkxZjlUemtVZFRua1ZMZ0ZiNlVhZnFLSm9lbTgybEpfWjFLT296ZnZaMG9CckwtRmRpVEVIa0stWFAtS0lWbUxhR2lGcmptdm8zUWlGcnZ4VlpQY0NjR1JpSFliYzJlX1IzME84aGlaa2sta1BwR3VkZVRjcG9SMEpmdEx0TzdDRVAxcjAtbDF0dXhLb1dLNzlacE94MWNxZ3VKUFZDR1UxOGdZNHhNck9fa0V4Zmh4MEJHSWt3",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHNqSkU1VWhvcEpzS1lmZ1lVTGdFck9EZVl2ZGN5WTh3VEtuQWh4a1RLRDZsamxEekhGNklFRkJwNXJhZ0oyNmJKQXo5VVJneXI4MHNvVlNTMmduZWRpLWJ4X0I2SWUwcGctcTJjTkVXSFZrTVRYOV9xUWtJZ0xvZTVRUGFIVmJoZlZTYTJUU0FVTXVJcFBjMGh0ZXFCT0prbnNjY1JoVDl0ZHpiX3ZDTjNKZTQ3dF9md1FLM2t3",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWVDNC1GRkV0a182eWtyQ1dCM3NINGZIZkQxRUhXd2tWNHJyd3o1eFFYc1ROUXc3Ty1UYjl3b2pOMlgtV1dvdzRUMkM0VkVNa0FpclF6ZGV2M2pxOVg1d1dkOW1aNUEtbEhYSzZhdW1qWjlBNXpjcUN0enBoYVpIejdqOHlvd1Bma0toTDNDUjNZVkhiZ0daYS1xQ1d4SndZWWUxNUhiWjF2TXRvbFl4MVBBQ0k1Mi1CZjhxaklfdWQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMExMd0h3VTZZUGVhTmVoNENZT0RDYkZhOFlTUzZUd3RmT0RNRGJKVjlQVTBmRnkwa21iZEl6ZlNJYmIzVTJjQzU1eGhrcTFPOHhNQWRlSWVWaDlwR2FIVGZmSWJlQk00ZmNRUE5oc1owOGtPSzM2QzNCY0R4YXJNdjdwWExHVzNDM1JXSGRpMnNTdHQ1QXdnWlk2MFlFc21GRXd5QjVVYVItalFMN2hjZmZqZi1nd2I5aVBhYlRhbTQ",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZko5ODk2Z0QzZy0zNGlSbzdMQXFHZ1g3eDdUUFV0UDZNai1wUTQzMmx2bFdJTmxjbERKbkVIWXlxZ3hkX2Q5ckRKWVFfYTlIYndZZWJRZDc5WW8yZlpXazRCQl9fMzQ4QTByTGFxMjIzajNlQXNIVmtjQkJhWFU5RGdoY2RRWUpDdU1wOFFOU3VHYUxnU0dSeV9yc3ZtZ05QY2ZjZjRYbTBoazh5NlVXMnYzbTRoQ2d6TkxZR1E5bTNObk0",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2p0dUxvdXVWQU5hUzkxN1VZMGNQTzAyZVJwYWZqV1FBbmZnZVBEZWJRN2J3Z3Z1Rjh6dmQyZk16cHdsTDFWRXRQcmt5UldNZWJRa2tJWEprRGJZMVI4NENEVXp4MkJDeUczcWJuNTU4UjdpdzExOG45bm1SUEVTd3RZSTM1aFREcU1IWUtOQXdncmZEMF9nRmpuRmJGc3pEOVBfWkxMcWNoVXF5MHA4Y0d3bDZZV2syS09FMVlBdklRS0ct",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFc1dzh1eUNsVFZmNURoaXRyLUxGbm1aM1pkQ2R3MGsycHJrcHEyOHpFM09qSEN4QVNWUG9MSTkydjNrclVrb2VZOGZoZUtVZG5iTjkwZEhxNXJubUlzTlFUNXVnc0d0VXpxNGRoY3BKTml2emxNWFR0UE5TYlBFUnJ3R1N6T19uTmdDX1RKbkRXUkQyUWhwaUV0dTItdk1iUVRfSnpKSm4xNW1MLWd3dWZmSnRZM3dYWUFTRmJpMmhkUXBj",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZmaDZONXB5UWtiTW53NnM0ZFZsSW9IdmFBSkhyVmItUVRYTEgtZV80bFcxcVQ3a3NIYVBiSXVfcVBTQWItZjNEYV9rWllXaTRjVjlsR00zOEVXQnRHcDZWUDd1c3RzTDBjd1dMdXp6dzlOOEdCUVlIOEhNbko4eFJ6ZlVqZnNzWUV1Z1E5UmhybVNDYXV5SW40TUlpbG1YTzFPZC1HWlJSQzV4WWhJLTZHSkRZWjRVMndOVmRub2RYZi1jemJr0gHHAUFVX3lxTE9ZUGlZNEpZd3YwMWpPcGthSU9Va21tRnZyc21KVWRBbHVxRURMQTIyNV9rQ0wzR2FNZ0lBM29sQzVSaUpKc25RY3ZCMXlWODFwcmx1ZDdGTjI5M01EVUVPQmNkUU1vUFF5WlZZVWJ6ZTg5THJfSU5Jd2psT3huMzV4cUo0U01xbVN2Uk5SSXFOdEJEdE5BYlp0QXdMaGtWZnU0eU82amJtQ0VxWGZlcjJIb1JmOGdtNFYwXzd0U1lBeW5YMHB3ckU",
@@ -152,26 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Канада та ОАЕ уклали стратегічне партнерство та торговельну угоду",
-      "original_title": "Prime Minister Carney launches new Strategic Partnership with the UAE, welcomes landmark trade agreement and billions in investment - Prime Minister of Canada",
-      "summary": "Прем'єр-міністр Канади Марк Карні офіційно анонсував встановлення нового стратегічного партнерства з Об'єднаними Арабськими Еміратами. У ході заходу було представлено земельну торговельну угоду, яка передбачає залучення інвестицій на суму в мільярди доларів. Ця ініціатива закріплює формальні дипломатичні та економічні зв'язки між двома країнами, розширюючи співпрацю за межами традиційних сфер. Оголошення зроблено на офіційному рівні уряду Канади, що підтверджує статус угоди як державного рішення.",
-      "source": "Treaties & Agreements",
-      "publisher": "Prime Minister of Canada",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWVDNC1GRkV0a182eWtyQ1dCM3NINGZIZkQxRUhXd2tWNHJyd3o1eFFYc1ROUXc3Ty1UYjl3b2pOMlgtV1dvdzRUMkM0VkVNa0FpclF6ZGV2M2pxOVg1d1dkOW1aNUEtbEhYSzZhdW1qWjlBNXpjcUN0enBoYVpIejdqOHlvd1Bma0toTDNDUjNZVkhiZ0daYS1xQ1d4SndZWWUxNUhiWjF2TXRvbFl4MVBBQ0k1Mi1CZjhxaklfdWQ",
-      "published": "2026-10-27T20:30:10+00:00"
-    },
-    {
-      "title": "Дохід Росії від морського експорту нафти сягнув рекорду",
-      "original_title": "Russia Earns $2.76 Billion From Seaborne Oil Exports in One Week—a Record Since the Start of the Full-Scale War, Bloomberg Reports - SFG Media",
-      "summary": "Росія за тиждень отримала $2,76 млрд від морського експорту нафти, повідомляє Bloomberg. Це найвищий показник від початку повномасштабної війни.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "SFG Media",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95c2VuTzEwMHB0QWtadFVGVmxMd3FvUEFhVE41WkFsZlYwWlhJeVJneUFvcUxWQWkwZkFxNVVDTVd4Nm0xclRBNUNSZ0tFNnJsV0psQWduWElhdWY0ZjBRVTZUQVFmVU43R3Mza3UxTXZhZUJnTHlLSFdNajY",
-      "published": "2026-10-27T20:52:26+00:00"
-    },
     {
       "title": "DIA: Китай утричі збільшив угруповання розвідувальних супутників з 2018 року й продовжує його розширення",
       "original_title": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
@@ -621,6 +601,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUhySmR1aHB6eTVtLTRrNGt4RmF0MnJQdjNBaGZuZ3RXbGNkZnZNLVYwQnlsX3BjS1ptUVJTd3c1NGYxTFlUN2FHVDJJazE4c25vblVwSVlITlp0bU1mMU5wQUZzbjNqaXZsNm5GcVZ0OVViaE5WR0FHZDBnWEQ0b3VfTmRmQldGeTVhNUN1c19VV083blU0UTV1QmUwUDFmM1NQT2VQNjNuVXc",
       "published": "2026-10-28T10:15:00+00:00"
+    },
+    {
+      "title": "Румунія майже списала F‑16 після 10 років служби: причини курйозу",
+      "original_title": "Як в Румунії ледь не \"списали\" F-16 після 10 років служби, та чому виник такий курйоз - Defense Express",
+      "summary": "Румунія розглянула списання одного з 12 F‑16, що служили понад десятиліття, через високі витрати на технічне обслуговування та зниження бойової готовності. F‑16 – багатофункціональний істребитель з 2‑потужним двигуном Pratt & Whitney, що забезпечує швидкість понад 2 000 км/год. Списання може створити вакуум у системі протиповітряної оборони, що підштовхує країну до пошуку нових літаків або модернізації існуючого флоту.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZko5ODk2Z0QzZy0zNGlSbzdMQXFHZ1g3eDdUUFV0UDZNai1wUTQzMmx2bFdJTmxjbERKbkVIWXlxZ3hkX2Q5ckRKWVFfYTlIYndZZWJRZDc5WW8yZlpXazRCQl9fMzQ4QTByTGFxMjIzajNlQXNIVmtjQkJhWFU5RGdoY2RRWUpDdU1wOFFOU3VHYUxnU0dSeV9yc3ZtZ05QY2ZjZjRYbTBoazh5NlVXMnYzbTRoQ2d6TkxZR1E5bTNObk0",
+      "published": "2026-10-28T10:28:00+00:00"
     },
     {
       "title": "Банк Намібії підвищив ставку репо до 7,00%",
@@ -1241,6 +1231,16 @@
       "channel": "miltech",
       "link": "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
       "published": "2026-10-28T17:28:45+00:00"
+    },
+    {
+      "title": "Український наземний роботизований комплекс з ШІ самостійно проїхав 20 км",
+      "original_title": "Український НРК із ШІ вперше самостійно проїхав 19 км під час логістичної місії",
+      "summary": "Полк «Лава» 2‑го корпусу Нацгвардії провів перший автономний логістичний рейс наземного роботизованого комплексу (НРК) зі штучним інтелектом, який самостійно подолав 93% маршруту (19,6 км) і лише на 1,4 км передавав керування оператору. Система використовує лідар для 3D‑моделювання місцевості, камери в реальному часі та AI‑алгоритми для розпізнавання дороги, узбіччя та перешкод, що знижує залежність від постійного зв'язку та дозволяє одному оператору контролювати кілька машин. Це підвищує ефективність логістичних і евакуаційних операцій, зменшує ризики для персоналу та відкриває шлях до масово",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayinskyj-nrk-iz-shi-samostijno-19-km",
+      "published": "2026-10-28T17:38:18+00:00"
     },
     {
       "title": "Ефіопія отримала 12 російських винищувачів Су-35 і розраховує на комплекси ППО С-400",

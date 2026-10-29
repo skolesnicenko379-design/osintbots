@@ -72,7 +72,6 @@
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLVdEQ2xERmJ6aUVkYy1TbnFBa3YwVlM3TkZtLWFpM0xEQk90TS1KUzFBMUZMa1Q2bVctR21UNjlVa3dBbFNyRFI4anRmNmZodm1MVE1LNFdFMGtWdXd6amREQVhCbk1zRXk4THFmMnZiNjNwYjhyYUkzbkdDR29aQzZWNXQwcm9jR1NpNjBSWk9URlNGUC1TQjRXTHFwNEhlNWRBR0tEbEZKT0NDWFY5OGtjT2h4WTJCT0lWbGxoUnVwVks5Y2VWNVVDZ2I3N3VCNE5qUUk2VVIzNTdSSTc3RHVGeGNNWW9MQmpvMGNrOXZOb1BfU1E",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MVRaVFBONkZJa2w3ejlpYWsxY2w5VEphMDZxUjhKNzdIXzEydzBxbjNHRmo2S0NzaDU0ZW5Tak5HM3MtT2p0aFVncEpZWk1PMEE",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWV3BPaDJNLVhNcjZVclFDcjJIUzRLQ2VTbnhCRDdXYVltVHVnQmljMmxCcm9TRHZJRjhzSEZIalc2U2JiUnB5QXhSNFA3eGJhMGfSAVdBVV95cUxNSnEtbVBweGQtd181S181cW43WFZqaW5hZEN2LTdrc084QkNFUkxuM2N2ZWFveDl0ejZZc1UySHJkX09pTnhBT3BpWkxpZnFqUWgxeGpzcEE",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZUhOMGNZVUNXUWlwTFN5THB3MllvdWN2bWhmdXM4MDBFN2FDYVRWUTBzY081VFdDcFJNZElObzlCMFZsTkh2cHFIQXAtemVJeHc",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CeHB1SmxOa2NTY21zMDMydVB5RVZ5RTNoaWNYRTRBeG5vZVNnZzBORmcxdEpOZktPYUFxSVJoOTBtTm5xRmZSVWZQeWJYSGctak9NNXNITQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56SnZpb1FpVmZXcUM2OVdFaktmalY2cWNjRDZsNlRKR183TmNMWDZXbnVnRWFUamRRSldkREhSdElFUklhSURpOUlReEIybUloRGFRNmdVVQ",
@@ -139,6 +138,7 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWVPczNia3FyR0F3QlVMY2hBVnhJUEEybnE4UDZrX21ocG5yaEJFc2sxaGdTazFGUGYyTU9pdzJFa1NibDdrdHlXVVdpbzZZMFdlNjJETVE1UEg0UmM5U2plWHN5MGM0QUhSZW1KdGpDdWJQaVhwNWFxZzJZZ0NDUnVialdFcEk3aXpLdEo4UmNvU2poYkJCSFBpUVdxaEtyaFpzUHRoaTFlMU9vN3kwcF9vRjlOVlA0a3JKdWdGRFlJTVE",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZko5ODk2Z0QzZy0zNGlSbzdMQXFHZ1g3eDdUUFV0UDZNai1wUTQzMmx2bFdJTmxjbERKbkVIWXlxZ3hkX2Q5ckRKWVFfYTlIYndZZWJRZDc5WW8yZlpXazRCQl9fMzQ4QTByTGFxMjIzajNlQXNIVmtjQkJhWFU5RGdoY2RRWUpDdU1wOFFOU3VHYUxnU0dSeV9yc3ZtZ05QY2ZjZjRYbTBoazh5NlVXMnYzbTRoQ2d6TkxZR1E5bTNObk0",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZmaDZONXB5UWtiTW53NnM0ZFZsSW9IdmFBSkhyVmItUVRYTEgtZV80bFcxcVQ3a3NIYVBiSXVfcVBTQWItZjNEYV9rWllXaTRjVjlsR00zOEVXQnRHcDZWUDd1c3RzTDBjd1dMdXp6dzlOOEdCUVlIOEhNbko4eFJ6ZlVqZnNzWUV1Z1E5UmhybVNDYXV5SW40TUlpbG1YTzFPZC1HWlJSQzV4WWhJLTZHSkRZWjRVMndOVmRub2RYZi1jemJr0gHHAUFVX3lxTE9ZUGlZNEpZd3YwMWpPcGthSU9Va21tRnZyc21KVWRBbHVxRURMQTIyNV9rQ0wzR2FNZ0lBM29sQzVSaUpKc25RY3ZCMXlWODFwcmx1ZDdGTjI5M01EVUVPQmNkUU1vUFF5WlZZVWJ6ZTg5THJfSU5Jd2psT3huMzV4cUo0U01xbVN2Uk5SSXFOdEJEdE5BYlp0QXdMaGtWZnU0eU82amJtQ0VxWGZlcjJIb1JmOGdtNFYwXzd0U1lBeW5YMHB3ckU",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdYX3BjZ3kwZW9NWE14Si1xMUc5V0s0MnM5eExtUXQ5UU0xbnAxT2xZWnhBSTJwYU9vMFduMkF0X3R1OTBXWUM5SGgyRjFBVzdfajZNakg0bDl0Y1gyeHl1NDUwdmRsWF9QTUhjUGtKMkpwb3JMSkdxeTJOa1RMN0N5SXFuSGRRZkZieDJPR0ZxT09pamxranVicFNETmVRTDBpaWh2WXdYZ0dLa09YX0FOdkVJckxmM1JtRlNLTXFUakxwUzFlTdIBzgFBVV95cUxNaVBqeFgyMGFVUjRjdFF4VnprcTFES3lsZWNqRGpGdzUyVmNfLXJmRUVjSWNJZkF0NG82TDlOMmNBa3ZjbHdTUWJjZWVNNXlHSDF0MmxjSFZPbVZ3RV83aHJEeUNBa3VINWNmNllXaWQ3QVpKNkVtaFA1LUp1b0NfSmtMdkswQ3U3MUp1ei1HTlIzTDdXMnVCTWJ0VDdEWUlTeURyMXl2R1hnLUFSNTB6eEt1ZGUySDRuYjB0V3NnaVdhR1FjSklDSExEaE5Qdw",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnM4RlczTlZVR1l6SXhNWDdJeGZZY1ZfVnVybFJWc19NMXpwNXZoT2Vrbktua201S0hhTXk4SklMRERtYm5SRHVaNTFwdmFpNHpVZFg0OElaalpyZ0VYWll4MVBxMjYtR1hwOVl2V0ppdndGVUV1Sld0eldCRElDSjJDWGVOaVJnN3RQWjdsSlF5b3NSeTM5THE3U1NGQWJuMVpUTWVtMnRvWnoxM280dUJVUHFIazNnQVpVTnJlcEpqNXpldDhhWkxn0gHPAUFVX3lxTE1IanVzV2JZSnJlUzhqanpNMUNIME13THZhRnFYU3Z5RTFkZGNQTU5DMXdZbE1GcTRNamIzY1FJbF9TMGVWLWItYVVHT1ZTVHJFbmNpM0thaXJtZnRKWUktV3c4ejNhODBTRGZlaDl1MDRZTlNWSnltQ0Q5RGhzLXNaYS0xckJMTkoyUXhIMTZWc2daWjhmZm16SGY3RDhSVkZrWkQwRHlLYjhHREtMbVY3bTAtMTdHcWoyWWxFWmhUc21ZVDdya2FDTTFRc3ZNRQ",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzZTa3pfMHVTeWZSVUw0QU1pUGprQnhjb2lZRWFodW5FeTVNY3pmRFlUZ081YldpYXptcVVyTHZJSFpEak9XU1FJanZycjRKallRckFobEdxVDRtNDlxdU9odHNJUUlEQkJmbjVCV0RTYXZ6b19mWDlySnA4WlRKbTZWNDhiRkxIUnpUN1gzcHdydEk3SDF5SExtQ2k3YXhVNWZnSEVJZEtZRzlhMW1yNmUzbjJBVklqVUx0SUNuelUyc1dnNlgxaW1B",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWREVXVURjA3LWFSTXdHR01yRS1YU2txWTBTR0N2Qk92S0RzaFhadmtHZU1rRmVPZTNFUzdXbWtqUE5tSW9FNG9sT1B4M0JOcWZrRVdQVlVmNnRrUjZ6eWVDd0M5X25ZeGQzczFQcFhMS2tFazhyUVB0UEw5U0RqV1g3X2xTMVNLVmdmZTU2M0liTHlFeTdBeXRid3FhMWRLbG1pcmJRVFZEaDN4Q0pYUlI5S0ktcmFhcnc3QS1yUU02dWg0eUdPNldWYw",
@@ -152,16 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Вірменія та Словенія підписали меморандум про посилення політичного діалогу",
-      "original_title": "Armenia and Slovenia sign memorandum on enhanced political dialogue - Armenpress",
-      "summary": "Вірменія та Словенія підписали меморандум про взаєморозуміння, спрямований на посилення двостороннього політичного діалогу. Про це повідомляє інформаційне агентство Armenpress. Документ офіційно закріплює наміри обох держав розширювати дипломатичну співпрацю та розвивати подальші контакти між відомствами двох країн.",
-      "source": "Treaties & Agreements",
-      "publisher": "Armenpress",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWV3BPaDJNLVhNcjZVclFDcjJIUzRLQ2VTbnhCRDdXYVltVHVnQmljMmxCcm9TRHZJRjhzSEZIalc2U2JiUnB5QXhSNFA3eGJhMGfSAVdBVV95cUxNSnEtbVBweGQtd181S181cW43WFZqaW5hZEN2LTdrc084QkNFUkxuM2N2ZWFveDl0ejZZc1UySHJkX09pTnhBT3BpWkxpZnFqUWgxeGpzcEE",
-      "published": "2026-10-28T08:33:00+00:00"
-    },
     {
       "title": "Австралія посилює ППО: вибір платформи для проєкту LAND 6504 очікується наприкінці 2027 року",
       "original_title": "Australia pushes to beef up air defenses",
@@ -1631,6 +1621,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzZTa3pfMHVTeWZSVUw0QU1pUGprQnhjb2lZRWFodW5FeTVNY3pmRFlUZ081YldpYXptcVVyTHZJSFpEak9XU1FJanZycjRKallRckFobEdxVDRtNDlxdU9odHNJUUlEQkJmbjVCV0RTYXZ6b19mWDlySnA4WlRKbTZWNDhiRkxIUnpUN1gzcHdydEk3SDF5SExtQ2k3YXhVNWZnSEVJZEtZRzlhMW1yNmUzbjJBVklqVUx0SUNuelUyc1dnNlgxaW1B",
       "published": "2026-10-29T10:36:00+00:00"
+    },
+    {
+      "title": "Візит прем'єр-міністра Великої Британії до Індії може відбутися незабаром",
+      "original_title": "UK PM Burnham's trip to India could take place soon: British envoy - The Economic Times",
+      "summary": "Британський дипломат повідомив, що найближчим часом може відбутися візит прем'єр-міністра Великої Британії Бернема до Індії. Сторони обговорюють перспективи майбутньої поїздки та подальші кроки для зміцнення двосторонніх відносин між двома державами. Подробиці щодо точної дати та офіційної програми візиту наразі опрацьовуються дипломатичними відомствами.",
+      "source": "Treaties & Agreements",
+      "publisher": "The Economic Times",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdYX3BjZ3kwZW9NWE14Si1xMUc5V0s0MnM5eExtUXQ5UU0xbnAxT2xZWnhBSTJwYU9vMFduMkF0X3R1OTBXWUM5SGgyRjFBVzdfajZNakg0bDl0Y1gyeHl1NDUwdmRsWF9QTUhjUGtKMkpwb3JMSkdxeTJOa1RMN0N5SXFuSGRRZkZieDJPR0ZxT09pamxranVicFNETmVRTDBpaWh2WXdYZ0dLa09YX0FOdkVJckxmM1JtRlNLTXFUakxwUzFlTdIBzgFBVV95cUxNaVBqeFgyMGFVUjRjdFF4VnprcTFES3lsZWNqRGpGdzUyVmNfLXJmRUVjSWNJZkF0NG82TDlOMmNBa3ZjbHdTUWJjZWVNNXlHSDF0MmxjSFZPbVZ3RV83aHJEeUNBa3VINWNmNllXaWQ3QVpKNkVtaFA1LUp1b0NfSmtMdkswQ3U3MUp1ei1HTlIzTDdXMnVCTWJ0VDdEWUlTeURyMXl2R1hnLUFSNTB6eEt1ZGUySDRuYjB0V3NnaVdhR1FjSklDSExEaE5Qdw",
+      "published": "2026-10-29T10:39:24+00:00"
     },
     {
       "title": "ЄС оприлюднив кліматичне фінансування для країн, що розвиваються, за 2025 рік",

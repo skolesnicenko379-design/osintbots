@@ -1,19 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWoteEJZTXZ1RlZCZlYyajgtXzQyWkR5MC1uVldIQ1QtTW16dlNaeHBzS0xETXFiOVhtd0R5MFRqT2dNQVFjOFREYVVIczBnNnBiekNVRkFCanNkRTZUUjdpYkgyZE0tS2wzWlNTcGJmOERRVW9xTWFWa1lyNjlkbHBxV09pZEg3Ql9WZmVXSTFobmVYMU1CcnJobDVlRkh4STlTWUZESnZyM3VNRHdmaHFPOE5EZ3RmZUFVRktsVUFKY3pyTmlxNkVn?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYWlXVHlINEtKcGhtSEFYUEt0dlNMNnBoU2NEaEdfV1AySnNjMTVIREs1RFF3eDlaOUFGNXNnT01UMVJvOGdQeVdlbnZIZWdLbXhxUFpfUllTcTl5WG90VHBpMnpJZTJoVFRwaHFzYS1YbTVOemdybmE5OC1vVGQ1RERLbEJUd18taFJ4S09LRGN4TElsMWNhTlhUWTI1WTVmNURWTHBmc3J0OUt5c3Q4MkdBeUtObFdLaGdaSU5n?oc=5",
-    "https://www.middleeasteye.net/news/property-sales-illegal-israeli-settlement-land-challenged-complaint-canada",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fighter-jets-carried-out-training-exercise-iran-border-provoke",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-several-injured-israeli-drone-strike-gaza-city",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTRoSEppNXRPdmQ0VHFPNXZNVkh1bTg4bnlnN2xLY3dTOWdXRVhadFIzVm5DVm9TZHIxWlFjUGNvaXJjTlg5N1NFVlRfZFA0Skc5NG5CZWF5NWpCeGMzVGwxdmMtX1NUQ3hGQ3pMSWNsN2RMaWtsQnZDNHlrVklXWjFERGRGU2NNZzBwNFlHZFAtMEhpS3ZqVHRZR3NFMGJMSkN3WENUOEhBZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX1VBWUhZNDduMHp0ODI5VlNmbHItZGxoUDNFUVBRMTIwaWNuUEFlWnNORm9fZ3dldnozUkdpVWNSNDZuYU12M1VWV1J5TmpVdjdNZFdPTVZsTkJFTzY3cXVpeDBYNHJ6YXVHXzlucnZXVGg4VjZsVUtyQ2xZZXpZLXFranlzZnFmbXQ0bDlCSnc2NXFjWGdJcW9xOHJOeEZOZjhaZWtxaG9ORWplUUZWMFR0Z05YMWY2YnUxSi1GLS14Tmc5R0hUamdMQWUxdXZsb0HSAdIBQVVfeXFMTV9VQVlIWTQ3bjB6dDgyOVZTZmxyLWRsaFAzRVFQUTEyMGljblBBZVpzTkZvX2d3ZXZ6M1JHaVVjUjQ2bmFNdjNVVldSeU5qVXY3TWRXT01WbE5CRU82N3F1aXgwWDRyemF1R185bnJ2V1RoOFY2bFVLckNsWWV6WS1xa2p5c2ZxZm10NGw5Qkp3NjVxY1hnSXFvcThyTnhGTmY4WmVrcWhvTkVqZVFGVjBUdGdOWDFmNmJ1MUotRi0teE5nOUdIVGpnTEFlMXV2bG9B?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-four-drones-intercepted-and-destroyed-eastern",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-eight-injured-saudi-arabias-king-fahd-airport-attack",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-air-strikes-demolitions-across-southern-lebanon",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFRac3Q2SFk3RlhKRHBnTEhMd3p3OTVIcFdYUE9saUo1WXo1bTlsVG5saW1vZDNFVEM1elVGc3dEVUsyQkVHcmNuTk9kSTU0bmV1cEhUbUZZVGxsQ2ZCOUN1N2J4aXZHX3NiWF8zanJvR2xiTWYtQy05R014WFZmVmFLSlFJeVBYb2NVRmp6VmtEcUJackI1eWF1NDV0WkhMYXdpb3owMGliMWpaeENGWjFrNUhmVnlCVTU0bnVlVDV4U0RtTlNCOWtOUnFMNm0tZkluQmgxOFF2QQ?oc=5",
-    "http://www.africanews.com/2026/10/21/yemen-tanks-fire-as-fighting-erupts-on-the-outskirts-of-taiz/",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMTBHU0VIcWVHWmc3cUROVkRNbGFFMkxHMGtlSmJER1gxaHNGQWFqa190YkN0b2w2U2lYbkRnaDl3MEVTcHgyYlVuRFFJeDBGRk9yel9MeTZOc3hKS0JVeEh6cno5bF9tcUM4UUFYR0pDeE5KUGdFZ01OQ2pqaXNLc0RnYTlSWjFmZDYyd1AxLVpCZU9raFc4MzhVSE4zTEF2RTZBRThkMWtFQnRaYWFHd0lhS0tSV0tPcFhWVms4dkw2MkpWQTdTSW9DTTdfYkR6RFhDN2pxX0dCcTBKdFd3emZacmlkSFgxekRwUEsweDRJTUxYT2c?oc=5",
     "http://www.africanews.com/2026/10/21/greece-thousands-flood-athens-streets-in-education-protest/",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkNRVjZTdXhLSmQ3Q0xLMk80emxOM2h4QkdwdHBGcmZNV0d3VmFrek9zT2pDOUN3Y2IxekdqSlpKVFg4TUtfam5WX1JtSFZzRkxDdk00UmFMMjJzcldZOGNEcDZ0MTR0c3kwTlpvdFZNZ2dxQnZyaHFxVklIc095N09nVmxZN0JRNGFQcWlKbFBGVS1uT0RDdFk3QU1pS1lHbjRLZjc1bGplZF9EREpsTlVyTWxON3ZiQkxXU0w1R3R5NVFtQkhscFVpUFJCcmc3OHM5N25uOHhEZjlFaEZJbGx3RDQ4dnRucWc?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXZtUDI5ckprZVk2ZGxnamp0Z1lzTjZwRUNaeXlETWt5MlhWYWQyVWVvcnM0X2t2ZGlvVl92VGlxQW1lYV90Y2lVVk9hQ0xsU3dJNFo2V0FZWGoyY201dVBoUU9QLXlJakNaR0dUMkdhcTZRZG15VWg2djBwMEVSQjJjVFlyUUNXUG1rM3JLX25QbWVqRkRhaFRsOF9kZ3dXdk5xNHpNYi1FbmZLME81VkxEZFpwckNFLWZwaHpfdw?oc=5",
@@ -1199,16 +1185,23 @@
     "https://www.gov.uk/government/speeches/professor-akande-brings-the-independence-legal-rigour-judgement-and-breadth-of-perspective-that-the-court-needs-uk-national-statement-at-the-un-genera",
     "https://www.gov.uk/government/speeches/the-uk-is-ready-to-work-across-the-wider-un-membership-to-ensure-emerging-technologies-help-deliver-safer-seas-uk-statement-at-the-un-security-council",
     "https://www.theafricareport.com/434915/dangote-refinery-ipo-nigerias-pension-funds-take-their-biggest-equity-bet/",
-    "https://www.theafricareport.com/434873/ethiopias-russian-fighter-jets-raise-stakes-in-eritrea-standoff/"
+    "https://www.theafricareport.com/434873/ethiopias-russian-fighter-jets-raise-stakes-in-eritrea-standoff/",
+    "https://www.middleeasteye.net/discover/lebanese-bank-heist-towers-over-winters-middle-eastern-film-offerings",
+    "https://www.middleeasteye.net/opinion/if-israel-regions-only-democracy-why-are-palestinian-voters-cast-criminals",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0VlTTZIMGxDWTZDY3poMVY4TV9lQXpDZ3lkODZVcHgxNU1haEQ2XzBtNGZEOHpfVWRxYUVpLTJrb3pHeEtlM28yaFNNM2tuVHBzWXdvcldKYzBwRVZJejFvWWQzT2RpYTl3UDFYZFBDRUtBUU8wZDRZN21uMGlLVHhiZHNZOHpqcVU2cVZ1eWQzZlk0b1HSAZYBQVVfeXFMTUVwVG1IYWc3Q2JucFRVWktqQjVRekx0WWNsMEtlOHpFSDZ4V0MwWXk1Wm1PQVF5bm9lZzUyVVdQaDVfTENIMkVMZVV5ZnVDVzVKMHF2cXZhc1AxSENPSmEtQkF1YjdSdVpka3l4ZTRyLUNTeWk1NUNPcERvWlZIal82QUZLOVZLSDJIV2JFQzlWbVZaSG1B?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/uk-denies-entry-swedish-academic-due-appear-pro-palestine-event",
+    "http://www.africanews.com/2026/10/30/france-and-chad-resume-military-cooperation-as-they-mend-ties/",
+    "https://www.theafricareport.com/434985/new-us-sanctions-deepen-congo-rwanda-spat/",
+    "http://www.africanews.com/2026/10/30/king-charles-visit-to-guyana-reignites-calls-for-a-british-apology-and-reparations-for-sla/",
+    "http://www.africanews.com/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest/",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nNlh3aUV2X2JBZkRQSkxDZWgwbDFFbFZIRE9QT1l0enNjeUJvdkgtaTJTVlhId2tYbUx5Z2ttR3NtSlRJdkR2R0tWUzNZVVh2WlFmTVRJOGNJaDhNb3B3ZC1KSmx2aWhJMFNlUlhOOXlaRzd3NjVDN1ZvVVZSVDA?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xa25UelNud25fejRSSFJncEg0dHk5N0hxd011VkZoU0xHb3ZEdXVxS25nNmx2NTlHeU9wWjlxaHVTajB1azgxMWR2UGxBcjF6aXY1RU9wNEVJUVZnRW1faTNERVBYYjc1Zk1mRG9nbGVHQXQzLVhnR2NjdlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hd1lPNVBFcWZDUHRNeFRIMW5rbkFmUTNsdDJKS3AwYTNVYXJ4Y1BiN1A4TnZDZFFxazluTmVDNkNpTW9lb2pxbXZybjFhc25WSmJ5bkM4Wk5tZ00?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkZpMG9ONHAyZ01RWURhNzk5emE4OUFiblZUVDZqODNlMmFVRDhEckhCb3RxcHVYQlRrNFdaZ0RZN0NlMTJXd29rcVF3SG83eWVHbDJ4bnNZWmgtTkxtNUpXbWw3Wi1FQS10bS1Icl8zVnZVeTZ4WC1kS2NTVi1wTkg4YnJWTkVKOFV3?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmhqbGVOajdULWVGMGNzNWQ0cXhQemNrNkhaM3dMZGxRbkcyU1JpOVZOVTlYOGdzZ3c3VWdUeTdMdDBHX25aNXpVSm1wS0Q2WkNmdzAtUkViNldFTFYxZEFyY1E5T1ZMVEFUbklzSGxMbDVEYk5HSTRobnRUQURHUnp1Y0lHLTRZbFhXNF9qbGo2UG1ETUpEY2Q1ZVo0dU9sdnNTNm1zWENwMzdzalNwaE1TSmlKaE5hUGpwVFh5RlNucklwVmfSAcsBQVVfeXFMTkxyZndHZnBKU3R2cGo0U3ZJLTNXU25XOGpfYnA0WXFmSkptTTd5c3ZET2syM3dkVXN5amU0T3JDbE5QWEZxLWZlNndNZklnem5HOERERVlaM0xCME0tQklObE0yRERyclNwTzY2Q2ZMUmZLWjhyY21fWW5HYmRyMlB2dkN5Y3NEQXRibm9QdmJGdkFBQWRjdTh2LUtrMVNEU2dBT015aXdLSDVPa3NlSWxoTGVOZHhVMlNITGt0amVybEdfcVR2Tkc4WW8?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlJlYTdodFExTWV5ZnRnbjQ0bFgxYUVFbk1yTURhVzNmWUIxM20wWFl0VDIteTB2UHo2ZWs4STFOTUZlUllKVDZzZklWNVRRQXd2akdqWGdiNjcwM1ZSWG1HVk5wR3BzTjdQSWVnVkxycTV2VEIwMXQ4THJtQndDa3l6NGh5QlNjaFdTcWtSb1ZxaGhoYjZOZ0xvcm9pbFFMTVRaSkVR?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Прем'єр-міністр Іраку Алі аль-Зайді відвідав Сирію для зустрічі з Ахмедом аш-Шарою",
-      "summary": "Прем'єр-міністр Іраку Алі аль-Зайді здійснив історичний візит до Сирії, під час якого відбулася його зустріч із Ахмедом аш-Шарою. Подія зафіксована як офіційний дипломатичний контакт між представниками двох країн. Оскільки в наданому тексті відсутні додаткові деталі щодо порядку денного, конкретних домовленостей або місця проведення зустрічі, опис обмежений підтвердженим фактом візиту та проведенням двосторонніх переговорів між зазначеними особами.",
-      "source": "Bilateral Meetings",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-28T14:00:07+00:00"
-    },
     {
       "title": "Фінляндія та Японія підписали угоду про передачу оборонних технологій",
       "summary": "Фінляндія та Японія підписали офіційну угоду про передачу оборонних технологій. Цей дипломатичний та безпековий крок спрямований на зміцнення двосторонньої співпраці між двома державами у сфері оборони. Деталі щодо конкретних проєктів чи видів озброєнь, які підпадають під дію домовленості, у джерелі не уточнюються.",
@@ -1411,6 +1404,13 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-10-29T15:28:29+00:00"
+    },
+    {
+      "title": "Візит короля Чарльза ІІІ до Гаяни відродив заклики до вибачень за рабство",
+      "summary": "Візит короля Великої Британії Чарльза Третього до Гаяни привернув підвищену увагу до колоніального минулого країни. Поїздка монарха викликала поновлені заклики до британського уряду щодо офіційних вибачень за работоргівлю та виплати репарацій. Подія актуалізує дискусії про історичну відповідальність Великої Британії перед колишніми колоніями у Карибському регіоні.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-10-30T09:05:05+00:00"
     }
   ]
 }

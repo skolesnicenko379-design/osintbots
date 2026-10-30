@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/10/29/russia-africa-summit-putin-seeks-to-expand-ties-with-the-continent",
     "http://africanews.com/2026/10/29/us-imposes-sanctions-on-rwandan-defence-ministry-over-links-to-congo-rebels",
     "https://army-technology.com/news/lockheed-martin-army-gmlrs",
     "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense",
@@ -34,7 +33,9 @@
     "https://ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
     "https://gov.uk/government/speeches/berlin-process-leaders-summit-2026-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/defending-odihrs-independence-and-the-osce-human-dimension-uk-statement-to-the-osce-october-2026",
+    "https://gov.uk/government/speeches/professor-akande-brings-the-independence-legal-rigour-judgement-and-breadth-of-perspective-that-the-court-needs-uk-national-statement-at-the-un-genera",
     "https://gov.uk/government/speeches/russias-justifications-for-its-war-do-not-withstand-scrutiny-uk-statement-to-the-osce",
+    "https://gov.uk/government/speeches/the-uk-is-ready-to-work-across-the-wider-un-membership-to-ensure-emerging-technologies-help-deliver-safer-seas-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-will-give-diplomacy-chance-forces-prepared",
     "https://middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
@@ -93,7 +94,6 @@
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91QXZRRlJBbThUYkRfTUpIay1NaXpKYWh2WlphR01wVjRvSGhmaVJYaXRWVjUtelBvMGJQcExaRXdqZW1qLUF0MXJ0dlRIN1VZSmpZOW9QUkMtTlFUQlZVQi1n",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYlh5Z2xZeVZ2bFVpUTVxSkZ5bHBrcVA5ek12TmVKSWRTMmQtN01zRDFrTlpNc05zbHRrbVZmZmlpSUVpc05SdExWR0ZydjJnbHJrWWl4eDNLNENxbnNGLWRn",
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHduT1RMWDR5S19GbktLTWF6RERWREY1MUxnTTZzcllkYnl2eHhRMkI3ZkRMTEl5TXdiWXRpYTlDOXM4dVFKczkxUmJPSnhabVN6OVZyRFVORzR4bW0tUW9SUU53SVFnQlpaeklDMmdEdUUySzRMYnJGYkVoRGJGVmJ1TnJRd04tdWlodnRCVWFOLTQzRC1xS01CeXZkdDgzU2gzeFlCSWFCMnlTQzBIRXB4ZkFKVXQzbVdMaTNkOWR6cnZZcXNuT2tCanIyZ1Z2YUZ0Ni1BN3FibTQxcFQ2Q3BlcHBkMUxSXy1XYjB4R0Ftbzk1dS1uYVRMVC1ZZw",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicmYzRU44dU5TSWNqVmU1VDRSWml2MGFLUGxudmZLeUZBY0hZYVJ6LUhZcWxnOU5EdWx6R0VUeTBFSzJPWWx1Q20yektxZFNhbEN5dHpjU1NZYnhYaUlCMi1wZnZJXzZhTWc",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQ0k4bXhxZVBLOHVIVjRwNVVkVmNVa092XzdOX0x3aHZqdG96UWlrY1lVcTZERmYyR3VTRE5neVN1eDBHSjhfUlpQRm9OMXU3SXNnMVNUSDJYZ09oaGxQVnJmOHpIOVliLUNQODA2QWRKTTg",
@@ -152,26 +152,6 @@
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "ШОС прискорює євразійську торгівлю через цифрову логістику",
-      "original_title": "Shanghai Cooperation Organisation Targets Faster Eurasian Trade Through Digital Freight, Local-Currency Payments And Industrial Investment - russia's pivot to asia",
-      "summary": "Шанхайська організація співробітництва націлилась на швидшу євразійську торгівлю. Заявлені напрями — цифровізація вантажних перевезень, розрахунки в національних валютах та інвестиції в промисловість. Це відображає курс на розвиток торговельної та логістичної взаємодії країн регіону.",
-      "source": "РФ · економіка, бюджет і зовнішня торгівля",
-      "publisher": "russia's pivot to asia",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHduT1RMWDR5S19GbktLTWF6RERWREY1MUxnTTZzcllkYnl2eHhRMkI3ZkRMTEl5TXdiWXRpYTlDOXM4dVFKczkxUmJPSnhabVN6OVZyRFVORzR4bW0tUW9SUU53SVFnQlpaeklDMmdEdUUySzRMYnJGYkVoRGJGVmJ1TnJRd04tdWlodnRCVWFOLTQzRC1xS01CeXZkdDgzU2gzeFlCSWFCMnlTQzBIRXB4ZkFKVXQzbVdMaTNkOWR6cnZZcXNuT2tCanIyZ1Z2YUZ0Ni1BN3FibTQxcFQ2Q3BlcHBkMUxSXy1XYjB4R0Ftbzk1dS1uYVRMVC1ZZw",
-      "published": "2026-10-28T15:46:59+00:00"
-    },
-    {
-      "title": "Володимир Путін закликав покласти край західній домінації на саміті Росія-Африка",
-      "original_title": "Russia-Africa Summit: Putin seeks to expand ties with the continent",
-      "summary": "Під час пленарного засідання саміту Росія-Африка Володимир Путін звернувся до делегатів із заявою про те, що Москва є найкращим партнером для країн континенту. Російський лідер також закликав покласти край західній домінації, наголосивши на необхідності розширення зв'язків із африканськими країнами.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/10/29/russia-africa-summit-putin-seeks-to-expand-ties-with-the-continent",
-      "published": "2026-10-28T15:56:59+00:00"
-    },
     {
       "title": "Quantum Systems відкрила представництво в Японії, підписала меморандуми з Mitsubishi та Panasonic",
       "original_title": "Quantum Systems зайшла на ринок Японії: компанія підписала меморандуми з Mitsubishi і Panasonic",
@@ -1421,6 +1401,26 @@
       "channel": "miltech",
       "link": "https://defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield",
       "published": "2026-10-29T15:08:26+00:00"
+    },
+    {
+      "title": "Велика Британія на Раді Безпеки ООН закликала гарантувати безпеку судноплавства",
+      "original_title": "The UK is ready to work across the wider UN membership to ensure emerging technologies help deliver safer seas: UK Statement at the UN Security Council",
+      "summary": "Під час засідання Ради Безпеки ООН з питань морської безпеки парламентський заступник міністра закордонних справ Великої Британії Кріс Елмор заявив про необхідність захисту міжнародного права та свободи судноплавства. Британський представник наголосив на ролі Конвенції ООН з морського права (UNCLOS) та закликав протидіяти загрозам для глобальної торгівлі, які створюють несанкціоновані системи та порушення морських мереж. Британія підтвердила готовність співпрацювати з країнами-членами ООН та Міжнародною морською організацією задля безпечного впровадження новітніх технологій.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-uk-is-ready-to-work-across-the-wider-un-membership-to-ensure-emerging-technologies-help-deliver-safer-seas-uk-statement-at-the-un-security-council",
+      "published": "2026-10-29T15:28:29+00:00"
+    },
+    {
+      "title": "Велика Британія виступила на Генасамблеї ООН на підтримку Міжнародного суду",
+      "original_title": "Professor Akande brings the independence, legal rigour, judgement and breadth of perspective that the Court needs: UK National Statement at the UN General Assembly",
+      "summary": "Лорд-канцлер та міністр юстиції Великої Британії Алекс Норріс виступив на Генеральній Асамблеї ООН під час представлення щорічної звітності Міжнародного суду ООН (ICJ). Британський урядовець підтвердив підтримку незалежності судової інституції, її фінансування та юрисдикції, а також оголосив про підтримку кандидатури професора Дапо Аканде на виборах судді, які відбудуться 3 листопада. Окрім того, міністр заявив про незгоду Британії із санкціями проти Міжнародного кримінального суду.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/professor-akande-brings-the-independence-legal-rigour-judgement-and-breadth-of-perspective-that-the-court-needs-uk-national-statement-at-the-un-genera",
+      "published": "2026-10-29T16:14:00+00:00"
     },
     {
       "title": "Велика Британія на ОБСЄ підтримала результати саміту Берлінського процесу",

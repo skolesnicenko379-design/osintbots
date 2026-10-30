@@ -23,6 +23,7 @@
     "https://defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance",
     "https://defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time",
     "https://defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
+    "https://defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
     "https://defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information",
     "https://defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield",
@@ -40,12 +41,13 @@
     "https://middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
     "https://middleeasteye.net/live-blog/live-blog-update/un-rights-chief-says-next-israeli-government-must-change-course",
     "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
-    "https://middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
+    "https://militarnyi.com/uk/news/avtomatyzovani-tureli-znyshhyly-60-tsilej",
     "https://militarnyi.com/uk/news/biloruskyj-smorgonskyj-zavod-pratsyuye-v-interesah-mo-rf-i-spivpratsyuye-z-vyrobnykom-komponentiv-dlya-su-57-belpol",
     "https://militarnyi.com/uk/news/bilya-bolgariyi-atakuvaly-torgovelne-sudno",
     "https://militarnyi.com/uk/news/drony-urazyly-himzavod",
     "https://militarnyi.com/uk/news/dvoh-nimtsiv-zatrymaly-za-pidpal-anten-starlink-u-bolgariyi",
     "https://militarnyi.com/uk/news/finlyandiya-ozbroyitsya-nimetskymy-protytankovymy-granatometamy-rgw-110",
+    "https://militarnyi.com/uk/news/generala-zvilnyly-peredachu-tayemnyh-danyh",
     "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket",
     "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp",
     "https://militarnyi.com/uk/news/knr-vyprobovuye-raketnyj-pidvodnyj-trymaran",
@@ -101,7 +103,6 @@
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZVpDa2F3S2NUMG1tTG9oZHJaRFFqTlZaVWt5QzBlTUhWVS0ydDNxYk00SV9VZ2pyMjJwSlBScElGcGl6bHRzOFhnT1JxaEpaUlltX2dEM2dmY3lyajNmb0dweXd4M2RQV21aVlk5MDk4SWh1d2pubWFZc2c",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1aU9OWTR1b2Y0XzFQWE1tR1ZxcHJHVU1QX3BBNGNCWVF6SDhhckpPQVJ4VjJ3NGt5OHRzVmhTZGU0R25Qb1pPb3laYklMNmJIejR3UHJFZjhWc3FWc3M1Y2lCNVd3WW1UY3VPakJQaE9EVFotWEptaTVTdFE",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlhBSnlucTBBQ2ZWQks2Z05Sc0pYaTVUZXdpdzlTT1RSZEdpWkNyVTNKSzlqSG5IaVV0dExDc0NCOWlhUUlCWkpma0d1cWpnazViS0c3LWV5U2FDTF9aMWw2VkhISXpHQU5uT2EtZC1iQmc2VVFUUzF1VzFpclBWUQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeThDZzhHWFFlZ29YLS12NTFmUDl5MFBCWVpwQ0d3TWdxeEdoTWlLYnlMUl85aXZhcHZ1MVRsT2FzMHpzZlpTZGI5cUh5ZXJsbXNxTElzRHBYX21QTXl2ZGpDNjd2Mi1IbXJid0hJRVFIZGxBMTRabnhha1RnTWdneg",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVkZoRjNTazBFNm5hOGdlT2lsVng0eHgyaE90TjJGbmZaSnNFVUtSZGdOZVF6UWJIT3g3UDQ1eXM1YTBISGFaU3pKSUNWZFVVLUw4U0g4ckxWWTFQOVcxdjFBNFlpeVJVQURRNHJLWDJBOEZ5aXZBc1BRZU43WW5OWXpZaUhYZ0VCWThFcFFLZkpha0VsLTE1dWhXRUI5cFZxLURTU055dDktdVhLZlJkNlA0NXM4Rk9ycWo3Vmx3bTNxVlF5ZlFZS0YwRVJucEY0aldEWFBVblZxN3NEdDdhSTVvNVFTOHFuSHg3Sy1KZUJ6QVVoTmgzY0JJekxCWFY1SFE",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGE3QjRXT244THBLbFllbFQyYkpuQWJOR0U2Z2FHbHN2YUhmMkdhWU1ZdmN0TFBKemt4YkRYNnByR0VWOFV2eGNlRGFIVHE1aVJnaTdCNnE1bWVhd1V0ZVhsUkVyYmdNMXdLbmo3QkdZcDB6X0ZVTnpvaFd2dElBd2tWdw",
@@ -124,7 +125,6 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDBkTU1TLTNpUWlOeW52U05YZGRUNVJpTHdtTUFXM0NUMXlYSU1kUWlFQXNNa25wU1BRZzNuZXNDZHVVTm9aeDVNQ3FpekIyRmRDQW52TFVsdzdXY1hhbWhBc0swWTAxVU4zc0d3cWxHaXlCOXVGYTFfT0hLUWR5cHM4dzJ4d2VXSEVUdVljdENGeURVSUNoUjFhZm1rZzJqNWJHcDc1SWZSNkg4RHhB",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNendpR0E1RkNSOW9NZktodEJyLURvNWI3RHJhamRIbHZLRFRCVHZZWlc3WGRseGpqNnZGV0dSOXF2N2RDbFRaYnU4WnZUT3ZkZkZuZDl0Y0pEX1dJYzZRSmh6eC1DWU9XSXMzUEJORzAtY1Q0eTFZZDVTNGN3OGpUemJTcmdlTVJpRWYtWFozQlVwV1VBU2JPeWNaV3JUdGRDdDM1VlpyTXdCMS1fSmZR",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb3hlU2lXYVhwODREdExhT3dyM0pVMWotZUZkTVEtU0Q2RkdjUkZJMjlOUU1xdElENWdSTV9URXdtenBiX05remR0cm8wS1oxLTRnb3ZEb21uWmFPSlR4TGdKWnpHY3BYampqcTgwRzlNcXhOUHN5R2tjaXAwSUUzUVFSZjdNT2M2Ymh6T1VGQVhYYm02SURXQktZYTJMYThFdktwQWM2LVZfcW5ZZzVvcHgzd0pxQQ",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDdmaEdxZEE2dG9VMXlWMDdOSTNrWVAtcUtpRXA4WDZrOHFRMW9ScFhhVi1oMlZOZ004ci1zeko1UFFQcm5aY0Q3djFjRjJDQUZvOEhwQnBvYmVYNngtM3k4cWVSNldpZEk3UXVaV1Z6QXVKRXFPYmgyV01KUTd3T0Q5QkhrRDNWUEU3ZWFuajVFX0hIZXNlU1MtZS1QdWY1bmE1cjZGUmpQME16emdiMEU5UHZpd9IBuwFBVV95cUxOUVpqSm1ueVlOSzZuQmJqUDBEX2hNVDEycDF0b0VPSzhMcUYwVjZiZWJvV0R5M3dSX090Qm5xX3FHV1NqSk1GRWNvQUJwVXhLWmdHVVppRk5aY2tYd0FxcTVBVmxoTFB0OVlOZXFoUlBNa1hoMGF6X0pzTWQwSnZrZXA4YzZDZTZqaFFaazV6eUhmN2QtZHJuMzBzcW54TUlVWWxaZkkxZzRHVnI0UWFrOXVJdDZfcHdnNjU4",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFltQmpmVUJMWHZINEZtZGw2WXFIbTNPZVZEaDMzVVR5OEc0LXJkVFM0OTNncl9CM2dSdXJYNHRBTVZZVU1ScUtON0dMa252RENkejZDQnh6d2JOcGdsNE9EWXRaTmI2X2sxM1RyaUZBdjRhNGtjMm9jeXl6cjBKY0V0UU0wM1o5ZlBoV0xCdWE4bEV2WHEyYUhfR1NkYkF3aVBhaFpFRERnN2xoUVpnaVJ3UDhVUQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEhDZzE4NW9YRG53TmhJZ2FCZmNTQzBEMlpwVl9TblpPaWJEZUFlWTN4X3FkNDZqdlRvaGViTkZmRG82aXhjVTYySXNEcWU4bnBiNjVEY19aa3VXbzFyZmZCd04yZTNlSmdIY2tuVDhmd1RkbHpGSG8xUjZYclYtMHUwNFp5aHd5SWdzOHdCRW9DYTZHQ1NmTmdTVzRtZjE1VE1TMXhpdWNMQVI3VFpOZVBCRG5QTDd4",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVllpYXpPeXJwR0p1NmtQVHdybHp5am9nd0RPRUFhSXU0UVNOVThHTm1MdHE5S2RvdE1HdUoxeEtUOTlKd0RZRmpob3FXT0o5b2Y3OGRJM3Z5Yld6NXcyM0xJU2pjSEx6Q2tQWktPbnZwNTZUd1RqSlNDTWd6Y19DRXhNX2cwWFR3OXZUT1RkVXA2QmUtS0ZtTU1sQjVWcGNCSlFadE0xYldWa0twU1RQNEFwSWR2NHln",
@@ -145,53 +145,13 @@
     "https://theafricareport.com/434844/au-should-take-up-issue-of-african-recruits-to-russia-says-kenya-foreign-minister",
     "https://theafricareport.com/434864/algeria-prepares-troop-deployment-in-niger-to-protect-oil-assets-and-expand-influence",
     "https://twz.com/air/chinas-ce-25a-electric-commuter-airliner-demonstrator-emerges-in-photos",
-    "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
     "https://twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
+    "https://twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
     "https://twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
     "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
     "https://twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
   ],
   "recent_posts": [
-    {
-      "title": "Великобританія ввела санкції проти 15 командирів за злочини в Судані",
-      "original_title": "UK sanctions Sudanese officials implicated in mass sexual violence in el-Fasher",
-      "summary": "Зовнішньоекономічне міністерство Великої Британії оголосило про введення санкцій проти 15 командирів з Руху швидкої підтримки (RSF) та Збройних сил Судану (SAF). Офіційною причиною стало причетність до масового сексуального насильства та злочинів проти людяності в місті ель-Фашер. Санкції передбачають заборону на в'їзд до країни та заморожування активів. Міністр закордонних справ Ед Мілібенд наголосив на необхідності притягнення винних до відповідальності та припиненні зовнішньої підтримки воюючих сторін.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/news/uk-sanctions-sudanese-officials-implicated-mass-sexual-violence-el-fasher-0",
-      "published": "2026-10-28T15:28:57+00:00"
-    },
-    {
-      "title": "Південний Судан шукає консультанта для транспортного коридору",
-      "original_title": "South Sudan seeks consultant for 280-kilometre regional transport corridor - Consultancy.africa",
-      "summary": "Південний Судан оголосив пошук консультанта для проєкту регіонального транспортного коридору завдовжки 280 км, повідомляє Consultancy.africa. Йдеться про етап залучення зовнішньої експертизи до підготовки або реалізації коридору.",
-      "source": "Коридори · Північ–Південь (INSTC)",
-      "publisher": "Consultancy.africa",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDdmaEdxZEE2dG9VMXlWMDdOSTNrWVAtcUtpRXA4WDZrOHFRMW9ScFhhVi1oMlZOZ004ci1zeko1UFFQcm5aY0Q3djFjRjJDQUZvOEhwQnBvYmVYNngtM3k4cWVSNldpZEk3UXVaV1Z6QXVKRXFPYmgyV01KUTd3T0Q5QkhrRDNWUEU3ZWFuajVFX0hIZXNlU1MtZS1QdWY1bmE1cjZGUmpQME16emdiMEU5UHZpd9IBuwFBVV95cUxOUVpqSm1ueVlOSzZuQmJqUDBEX2hNVDEycDF0b0VPSzhMcUYwVjZiZWJvV0R5M3dSX090Qm5xX3FHV1NqSk1GRWNvQUJwVXhLWmdHVVppRk5aY2tYd0FxcTVBVmxoTFB0OVlOZXFoUlBNa1hoMGF6X0pzTWQwSnZrZXA4YzZDZTZqaFFaazV6eUhmN2QtZHJuMzBzcW54TUlVWWxaZkkxZzRHVnI0UWFrOXVJdDZfcHdnNjU4",
-      "published": "2026-10-28T15:29:55+00:00"
-    },
-    {
-      "title": "Банк Канади підвищив ключову ставку, допускає ще одне підвищення",
-      "original_title": "Bank of Canada raises key interest rate, says another hike possible - AOL.com",
-      "summary": "Банк Канади підвищив ключову процентну ставку. Регулятор також заявив, що можливе ще одне підвищення. Це свідчить про подальше посилення монетарної політики в Канаді.",
-      "source": "Японія · монетарна політика",
-      "publisher": "AOL.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlhBSnlucTBBQ2ZWQks2Z05Sc0pYaTVUZXdpdzlTT1RSZEdpWkNyVTNKSzlqSG5IaVV0dExDc0NCOWlhUUlCWkpma0d1cWpnazViS0c3LWV5U2FDTF9aMWw2VkhISXpHQU5uT2EtZC1iQmc2VVFUUzF1VzFpclBWUQ",
-      "published": "2026-10-28T15:32:30+00:00"
-    },
-    {
-      "title": "Відкриття пілота SR-71 Blackbird",
-      "original_title": "Confessions Of An SR-71 Blackbird Pilot",
-      "summary": "Пілот SR‑71 Blackbird розповідає про свої 230 місій, що перевищували тричі швидкість звуку, і про підготовку до польотів на 80 000 футів. Самоліт, що був одним із найшвидших та найвищих реактивних літаків, мав унікальні системи реактивного двигуна Pratt‑Whitney J58 та спеціальну конструкцію для зниження теплового сліду. Його повернення в новини підкреслює потенціал для розвідки та швидкого реагування у стратегічних регіонах.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
-      "published": "2026-10-28T15:44:30+00:00"
-    },
     {
       "title": "ШОС прискорює євразійську торгівлю через цифрову логістику",
       "original_title": "Shanghai Cooperation Organisation Targets Faster Eurasian Trade Through Digital Freight, Local-Currency Payments And Industrial Investment - russia's pivot to asia",
@@ -1613,6 +1573,16 @@
       "published": "2026-10-29T20:41:31+00:00"
     },
     {
+      "title": "Приватні автоматизовані турелі ППО знищили понад 60 цілей",
+      "original_title": "Приватні автоматизовані турелі ППО знищили понад 60 цілей",
+      "summary": "За даними кластера Brave1, автоматизовані турелі в рамках приватного проєкту ППО вже збили більше 60 ворожих безпілотників і ракет. Використовуються системи з кулеметами калібру 7,62–12,7 мм, зокрема Sky Sentinel з M2 Browning та турель «Хижак», які самостійно розпізнають цілі і відкривають вогонь за підтвердженням оператора на відстані. Така масштабна «турелізація» підвищує ефективність протиповітряної оборони, знижуючи потребу у ручному управлінні та розширюючи зону захисту над містами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/avtomatyzovani-tureli-znyshhyly-60-tsilej",
+      "published": "2026-10-29T20:48:25+00:00"
+    },
+    {
       "title": "Міністр оборони Молдови відвідав Бухарест для підписання угоди про співпрацю",
       "original_title": "Moldovan defense minister goes to Bucharest: meeting with Romanian counterpart, signing of military cooperation agreement - Moldpres",
       "summary": "Міністр оборони Молдови здійснив візит до Бухареста, де зустрівся зі своїм румунським колегою. Під час зустрічі сторони офіційно підписали угоду про військове співробітництво між двома державами. Подія є конкретним дипломатичним та безпековим кроком у двосторонніх відносинах Молдови та Румунії, підтвердженим офіційним повідомленням.",
@@ -1631,6 +1601,36 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
       "published": "2026-10-29T21:01:07+00:00"
+    },
+    {
+      "title": "У США звільнили генерала‑лейтенанта Бретта Сільвію за витік секретних даних",
+      "original_title": "У США генерала звільнили за передачу журналістам таємних даних про війну в Україні",
+      "summary": "Генерал‑лейтенант Бретт Сільвія, колишній директор J‑5 Об’єднаного штабу США, був звільнений після розкриття, що передавав журналістам конфіденційну інформацію про війну в Україні та інші чутливі питання. Розслідування провело Управління спеціальних розслідів Повітряних сил, і справа передана до Міністерства юстиції США. Це підкреслює підвищену увагу до захисту військових даних та може вплинути на довіру до стратегічних підрозділів Пентагону.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/generala-zvilnyly-peredachu-tayemnyh-danyh",
+      "published": "2026-10-29T21:45:28+00:00"
+    },
+    {
+      "title": "Японія створить центр фінальної збірки ракет AMRAAM у співпраці з США",
+      "original_title": "Japan To Assemble AMRAAM Missiles As U.S. Moves To Dramatically Boost AIM-120 Production",
+      "summary": "США і Японія підписали угоду про створення в Японії заводу з фінальної збірки та інспекції ракет AIM‑120 (AMRAAM). Це дозволить збільшити щорічне виробництво, яке вже планується на рівні 1 900 одиниць, і забезпечить обидві країни стабільними поставками для F‑35, F‑15 та інших платформ. Розширення виробничих потужностей у Японії підвищить обороноздатність регіону та зміцнить японську оборонну промисловість.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
+      "published": "2026-10-29T21:59:58+00:00"
+    },
+    {
+      "title": "Швидке вихід США з Європи може відштовхнути союзників від американської зброї, за даними RAND",
+      "original_title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+      "summary": "RAND застерігає, що раптове, некоординоване скорочення американських військ у Європі створить значні прогалини у спроможності союзників і змусить їх купувати готову зброю США, що може підсилити агресію Росії. Автори радять узгоджений, довгостроковий план виведення, розроблений спільно з Францією, Німеччиною, Польщею та Великою Британією, щоб зберегти оборонні витрати та підтримати індустріальну базу США.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
+      "published": "2026-10-29T22:25:13+00:00"
     },
     {
       "title": "Спецпосланник США заявив про близькість угоди щодо деескалації з Іраном",

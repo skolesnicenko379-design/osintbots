@@ -11,6 +11,7 @@
     "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years",
     "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them",
     "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha",
+    "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion",
     "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures",
     "https://consilium.europa.eu/en/press/press-releases/2026/10/29/press-statement-by-eurogroup-president-kyriakos-pierrakakis-following-the-announcement-of-the-president-of-the-european-central-bank-christine-lagarde-to-step-down-on-7-february-2027",
@@ -35,6 +36,8 @@
     "https://gov.uk/government/speeches/professor-akande-brings-the-independence-legal-rigour-judgement-and-breadth-of-perspective-that-the-court-needs-uk-national-statement-at-the-un-genera",
     "https://gov.uk/government/speeches/russias-justifications-for-its-war-do-not-withstand-scrutiny-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/the-uk-is-ready-to-work-across-the-wider-un-membership-to-ensure-emerging-technologies-help-deliver-safer-seas-uk-statement-at-the-un-security-council",
+    "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
+    "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-received-letter-uss-vance-yet-respond-news-agency-reports",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistan-cautiously-optimistic-us-iran-talks-says-mecca-pact-open-new",
     "https://middleeasteye.net/live-blog/live-blog-update/russia-offers-mediate-between-iran-and-us-report",
@@ -53,6 +56,7 @@
     "https://militarnyi.com/uk/news/polshha-peredast-ukrayini-dva-myg-29",
     "https://militarnyi.com/uk/news/ponad-500-vijskovyh-pidgotovku-na-sokil",
     "https://militarnyi.com/uk/news/pozhezha-na-aerodromi-marynivka",
+    "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
     "https://militarnyi.com/uk/news/rosiya-trymaye-s-400-u-bojovij-gotovnosti",
     "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
     "https://militarnyi.com/uk/news/shablya-z-integruyut-na-nrk-gereon",
@@ -65,6 +69,7 @@
     "https://navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher",
     "https://navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise",
     "https://navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability",
+    "https://navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbU9FdmZWWktjaFJtNXVjWFFkaVZPSFBzYzY2MUpZdVZwYmotdFB2QXBPTThSWnc2NDdKazlCMnpCNDRFMFV0V1pBOGFTUURCbXhCQU1rMDY2bi0td0FLXy1YbFpMYUJNNGM0aVR0MUZtTWtWd3c0QS01eFB4MndFZGYyVjFsS0VIUG5pMWxWWVczbGJhM2hTdE9LV245WjZPdUlSNFdYdTAtZ3NtNEdlQ3dFWjc0b3lPdTRlNWNlNk52RVppRzA4RmNGU1J1LUhVOHNkbEJB0gHWAUFVX3lxTE5oU2NTZ1VxOXhXX0djTlRjR3NxSGNlUlhIblB6cy13d0M2M2xwVmFOUG54Qzh3NFgxZmZPSUljakJjc1BtUDI5N3JxczFZNVN6cHdDT1loM3pURFhQbThvQlo5RFpBYkpQSE9QemdDZlVRWkk5UmwxbmhkclJJOUw0V0NXSEhPU3RVaVVrWlRGX1pHc2NybjVoWnpOX1hNU0V1TUhlclZHTHlzSlhFcDM5b1A4bVdOVEUyS204S2dzWWRKZEo0TWFvNjhxZERDWVd6aEp6eEE",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGtHN21rR2hfd24xaW5CWjVITkJSWWwzVHB0dGoxcldaamU4QnFDYzM3SGJQT05rSXdUVlItbjhESmcyX0ktWGh2bzBGQzNJbURLS3hmNUlReWFRYUNDVFRZUTlTWndZSkFPbWpBWHlIaWczYkh6R1kxTUlYeWRtMVM0R2drdVljUmhaZVVzQ3VUQl9nQWdMNC1DTG0zd01CcWVidWR4Y0N3LWY2d2dOa29BbXVETjJCRUN0aHBGb2kzWlVONDltLVpic2FQNlM1NTlmZmJYeE9za0E",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ29nN2xzV29yR0pDeDQxalZIRnZCZV95TUFOeTU1dVdXWFUzV294dGlVV3BRMUM0ci1nWmdVMWE0TUhoVElUTVJSMVBHZ3FuY3BGREc5aW1XV2lFQ2wwZWducEVoWV8xZl85dzhuVC1TT2pUUDBidnNGYnlkZWQ1Z1Foak51TGhHblJwVnJZMGJYX1J4MmdPdWJnQjRQbEF3UVhKVUxTWDBKVmJqc3Z2SzFZcEdHTGM4eGpxcGExVU5TSGpQd2VDTUFkaWRjdko5a2toeE91Wk80VkFiVUdPSDFDdGs5TTdtcW5qQQ",
@@ -72,7 +77,6 @@
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0ZkQzBycHFtRGtKY3c1MnUtTHY3aVFRM2x1Mk5rdFJHaEotemJ2bkV0TVJWcnhMVTVRRWc4T3Vic1hvWGJ0Q1R3c3JLX3Eza0xPa1UxV3ptLVBqUEk4VGhyWlM5UXFXbjV1TWo2aS1neTVhV21BeVJuOTJWODNweFZxVlRIdlpqUWtGX1pnaTM1bjBoM2FsTFl6TndHS1FsUktrdFpaTE52Q0RXUWd2QmsxSXhNdVB5YlNoZkVtbm56RnM2TFZqakU2aHVEeXA3b0FVczFVclhDekNQNm1MVVhNTEFsTk5pNG92NlpaMnc0dXB4NzJF",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54enB4eXgtaS1GNm0tUGZCRjlWVmpWY3BQa2p2S0hHZERtczlCTURud2VQUUhRM2JjdU9HaUZ1dDdEQ2oyYWNhTUk2TQ",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NVJkNVU2NnZEZ0tXdk10V3JFd1FIY01SRDFOVk9FMGNhenlfd3YyOU1ROHJJenlZeDV2QU1ldU82S043ZWI4TVZIeDQyUnRu",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CeHB1SmxOa2NTY21zMDMydVB5RVZ5RTNoaWNYRTRBeG5vZVNnZzBORmcxdEpOZktPYUFxSVJoOTBtTm5xRmZSVWZQeWJYSGctak9NNXNITQ",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByT0VpSldDQnJkUkN3WENmV0ZUX1h5SjNEWUZ5eEprVmFDRWpobVBuellrV0QwakhaRFhlSTdqbG1UcnFkNjU1ZG01MENmU0xNY3BYY2RReWpCZw",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdThPOXVxY2lYVllrUzV0a0t4MXdLdjBKMk1hN01uV293XzlTZlY1QVpPMjNhNzJGcHJjZS01RGk2S3ZHbzRrMk82MkZpOHgxNWRST3dGMmxGOFVNMk00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTld0SGxUd2RVQkFXcjR3ZzRaQms3MDVrc1dyNTFBZzl2R193dWs4Q1psM01uZnFFSU5WTkRWdVBLLVZUeWRNYkJSMGhkVUpEVURPZTAxWEpEUHM5",
@@ -81,6 +85,7 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DV1RvZTQwdmNyaVBrQW00ZjBxTTJmYnItRGQwNkh4RHgxQTJlbXJOOWNjZFl0SmkyNkgzTGtjQXFwZGpkVXZQanRyZTl1TWgwSlhWTlZ4dV9Ndk5Ec1VvZmVNTUVqdzFvMEFJRlE2SXFtZlk",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TZXdRRHRYcTlhRlBlTDA4U255TV9PQkYwYXJuNEhNem1yd3dUVFBicTNzRmpFekdUU0tIaktwN1VOZWVMN2s3Q2lpUDREekxYM3FLQnNZcEQ1N1BzOFZKTjFsSFBhZzU2czh1ZjE3bXE",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNWtOaGlZeWg5WHJXZUk1eUJpREF2YkV5eGdHdDA1azg3MzRmSE1tdUtDM3kwOWdqM0QyWjZ3MFNYWk9WVzE0OG1NVXp0TFlHWk5NdTZabnJ4YXJ4T25uUW1Md3Vhd2wwZnJwWE9hQW9MeGd3Ync",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE80eDg1SVc2N3ZhQXVzVUlWQmh2N2ZiWGl6LTk3SVFBRThHWDg5TGJzUHVpaHZxdjlPeDZ2MFlheWlPZkZ6YW1EOGdweWJ3TDFmaTBpYzdxd2tva19ySGktVUhYZ0h0T1NzXzRlQ0xXemROTWVDazIwNm0tVdIBgAFBVV95cUxObkl4dFNudW9wdVRhMlRkRjE4dWFtRldtaUZ0SzVKMEY5Z3hhM0VwYy1QX04wVEVBcmFtejNIVGY1NEZhU1lPMF9Vc0VSMHZnR08xNzkyQ0RwUVhETXoxVTVCSXNQMlZVb2FRQ1J3Y1FyaHdsVmxkYkFHMnVaNXYxYg",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1aU9OWTR1b2Y0XzFQWE1tR1ZxcHJHVU1QX3BBNGNCWVF6SDhhckpPQVJ4VjJ3NGt5OHRzVmhTZGU0R25Qb1pPb3laYklMNmJIejR3UHJFZjhWc3FWc3M1Y2lCNVd3WW1UY3VPakJQaE9EVFotWEptaTVTdFE",
     "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeVF2NkZsUE10aFoyTzVlODVidXVkbUZYb3N0TEdLaVpjM0tHeXptcHdyS0Vadzl3czkzdDBnWGRQSmk4QWlXR3FaR1FxdHJxejhhRjNBdV91aHYyQmdYdVRiR0N6MHJQMHRoaGNWR292TEw2SkxjbklWY2o3WDlaRmhCdHZEbjNxSmozZmZDZVc4Q2tQVWh4dTFVVUxnU0FSNHhBa0Qtdl8xNHhVeExOLWJRZDRRN1NuWjdpa1BHeFctZFNMRDYxTTg3NUNNSnNCSGhBM0tyN2t1QmJFcFFEQjQ5MF9XaXU4bjg5ckREcjI4ejQ4WWUtWFhjTzVnLUdn",
@@ -94,53 +99,38 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWJqUGFHZXU2a1VvMWdfcXdFdEZoZXNRWm1wUW83LXRLQzZvbDNqU2dxcVdsSjJGcTMwaTZ2bm41Y1pjOERJdnNhNUViQ3NtY2FoM19JdHh4a3BwMGdpRDJkcXg3alFrX3k5enNZcEl5a0F4c0RYaVE4ajZXTERwcWtJQWVTaGY2T1VNc180eGg5dUVKb0lRSWNxWEw",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZm1XVXpIT2xRZkxWLUI2QmVEUlQwTm9TQnRUbTN5SmxySmM0ek56cGkyUU9hX05RQ0VYR0JDZl9vcGYzMUpIVFg3NmVuYlhUV2x1YWRlLWJiQkZ5QVlKOE5femJrRGlLX3NnUlU0MmtlSlRMTGprMkd1Qkt5ZkJTME9oS3BrUVFBZW4wN2RrMHBIRWFJNTdLN0lxb0FNUlpqY0E",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2tfQlQ1d2h1ZW5GT1NoalIxZk1oWUVUT3R5VEplTXlQLS0tRk1YZEhmWFVXd28zUGJXWXpyZE1lUTJsZ1BpM1dWUDVsWXFrem1hM2x3UGV2NkVSSUtDdUhPNjJ1dEpJXzU2Qm9lVS14MmtkTDg2eVNXWWdnVmlLLU43MElUa1kxUVZJWlN1UXNyQkVkT1FmMGYybGpBUXNza2c",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYThiVERSbWtEOC05djduOWlQZlpRMVAxWXJHS1lORWhFN01MTXVpWF9MOHlvcG5Rblp1ZG9NRF9zdGJKT1JHVGlkQXBTOTBsYThrVkQxLWhRSG11a09FRkMyTVJnYmIyOWVZREluTDlVeVlMUTVCLVV0d0tHQktlZnJFQVZSOHEtZk5pQUozSS00SExWcnhOMTN3Y2RabDJoblRWM2lvMA",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2lIM0JLeXR3eWROOWdOTW1OQUJveGhiNV9RRzZuVUt1X0lIczJzc2hfUy1nei1LYzhTRGRJX3FUNVNKOWoyT05KTUlqcGpkZVlmNnVwZE4yUVBHNTZHMi1vbUo2b3M2RmdzaTViNlVvaTlnV2lIbGZhZTdsb2RiSlVOVzgzYnltQzJ5N3J4VkQtdXhwaVlDdEVXNzY2WWI3QnJqazFoYw",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1VGRWlVaGh4STJUMTFpQ1FZUm40clhlWG9iM2xGakhQMzdsejhjdk9PTHdmQnl2bGRrY29pM0F0eklDcF92MWotZFZkQVg1UHZrT1Z0UkFob0hDb2lxTmJ4NmpUOWQ0Y3N0UE1fdERWYmplU2RmWXRjaXZNRzBjN21fRnVTbTZmTXo4WF9VMGZ2VmJtZW9uSkVYRGZrbFdrQnlqNWJJaDI",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDBkYlJ0dWZuQkRlWm1zU29XMF9paFVRYTNSTkZoOTBLaFE0MG95QktJZFN0VDlvTmI0RXR2dDRYTzRrVmdHdGMwbDhUc09yWXkxU2VNaE1rWkJHS2ZwbHYxVUlxdGJHUGd4OTBoemF6SHppa181cXpaVjQ1RWhNUi12V3BkUUhOZTIyX0FRazB0ZmVUMF9SZVdVZUFxYWFzb2xoQW9pc1dkdw",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFY4MTdSb2pRWWx4MjVWN19aSktZZzNrOXlHaVlWTi1GR0pqQUVVMVlxXzNHTEVPYmtaV1N0VHYxc05kYXFyc09FTVRDMkxPcXE5U0xMWlhtUmhXa3VDano2M0txRXBhdlZqUjdfelZCVGN3a2VnTGk4aGMzOFdodEkySEVMVFBZVjJ5Rk13MVNqclFLS3hwTkJLWFBIdjhRaEo2aTZQM0prUQ",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQak55S2dlYU5qSl9PTWFuOGt4S2VXMVo2M0otcmRndUQ0RUhOU2JoZ3VWV21vU1hqQW45LTZicmdlX19MVEdiZVdMbi1WaTdBVTJldTk2MVpfSm5CdGRQa2VyclhhNFJuUDB5S2tmWmM2QUZITXBxWlRRR29YbTN2NFY2YmJVanR3Z3Rwc1lzcnQzdFpwYTRJb243X2w3Zlo4NWJxUlhKT2NRTHlBSXc",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEVRNHBQWlRFbGRuNHRlNmFSQUowWjk0Wi1XQjFScFRWZ1dhMTN0OU1kX1I2aExYaktFeFVrWFZDc29yMHpHVUUyaF82NVQycGM1dWluTWdTNnduTmdvNWUtOGUxU1prLUdJLW83cFZlZGZhRUFDT2toVlFCeHNCUXpZczN5WUl6SC1XaFFRR0p2Sk5KdGFoZVlLUmcyQ2lQYThiZHpScjBKb2xMZUhMMQ",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFltQmpmVUJMWHZINEZtZGw2WXFIbTNPZVZEaDMzVVR5OEc0LXJkVFM0OTNncl9CM2dSdXJYNHRBTVZZVU1ScUtON0dMa252RENkejZDQnh6d2JOcGdsNE9EWXRaTmI2X2sxM1RyaUZBdjRhNGtjMm9jeXl6cjBKY0V0UU0wM1o5ZlBoV0xCdWE4bEV2WHEyYUhfR1NkYkF3aVBhaFpFRERnN2xoUVpnaVJ3UDhVUQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVllpYXpPeXJwR0p1NmtQVHdybHp5am9nd0RPRUFhSXU0UVNOVThHTm1MdHE5S2RvdE1HdUoxeEtUOTlKd0RZRmpob3FXT0o5b2Y3OGRJM3Z5Yld6NXcyM0xJU2pjSEx6Q2tQWktPbnZwNTZUd1RqSlNDTWd6Y19DRXhNX2cwWFR3OXZUT1RkVXA2QmUtS0ZtTU1sQjVWcGNCSlFadE0xYldWa0twU1RQNEFwSWR2NHln",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUZKZmM3YVNQUUVlSFlvX2RjemRXNVl2OEtfTnQtQnlfRFhjVnEtZ1lMLXRTcEQ4eWdqNmthMG1YdUJvd05Ua0dBOEJPSy1DU3kzbjZTUzRTN0xHdHg1eFNicmVPQjRXM0szUGNvZHdSdjI4Y3pNcF9lSlU0YWk0dG1OVld0Ymh2N0g3MUc5OHI3WkhHTFhQZnVXdlNrR19tWEx5VGZXVGlvV3k1N283X0czQjYtek1aVGc",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWVIYThBQThya25fMHNDVDVRN0s3TEc1TzI2YUFFd2JkR0NVd1JNem84TzRrTGpLdE8tSmxHdzRoai10SlZBenZJNUtDSU4xNUJ1cDgyazZSa3JoelJXazZ3MENTc0pRcTlJWTJJZGdCV1kyLS15VW1kX1hLYVZBb0dkT090M281MWhvWlFLdzNnOWpfM2pnZzZ2Zk5oQW5CeTh4SzlrVWxoTWRmUlZoaV9aUkFYMUxRVEVr",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1J3aU5Wb1p0QTN1ejdOOFROcUNtZmtzYzhMZmlqbTdPRlVSZmlxbUpLSmhfa3k5b1FiR3luNGhCdDJESy1oa2owc3V2QThRQmptT3B6T2pGczF4UFJLRVJ1Nng1OGxWVDI5Wl8wT1RUb0Z0Q0pjNTJCQnhBZG9qQ1F4eDZOQmoyckc1WTNkZG1fMzVpbG1pX0YzczJaWWRhOC1zclcwbGxON1JLTUtoN2F2NlBhMkY4aWxrRw",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVRWcVUzbmNVaVNmblBVdmpqU3E1OE1iUjIwcG5YX05SckFoVVhraTQ5VFhkVzduMHVleE5mU1U5cElwbXZabnpfUDZDZUtGWVZSU0swQ3VEeDJIakQ2WVdEVTNReUJfcW9LX184bEEwc2gtQTAzTzBUbDBmMnc1dTNBaDVkWG42QmpubkppV04yU1d1aUtTSzNydGl2T0R4TGJhSDVfSm5KaFpPZGI0ZjNfRzhwS3ZNOTFPM2VQcU9mZ9IBwgFBVV95cUxPNVRWcVUzbmNVaVNmblBVdmpqU3E1OE1iUjIwcG5YX05SckFoVVhraTQ5VFhkVzduMHVleE5mU1U5cElwbXZabnpfUDZDZUtGWVZSU0swQ3VEeDJIakQ2WVdEVTNReUJfcW9LX184bEEwc2gtQTAzTzBUbDBmMnc1dTNBaDVkWG42QmpubkppV04yU1d1aUtTSzNydGl2T0R4TGJhSDVfSm5KaFpPZGI0ZjNfRzhwS3ZNOTFPM2VQcU9mZw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU18wbm9Mc21NeWY3ZjRPU0VYZjU5Ty1qb3JLMlBaOTN0OE05SURleUNKRy1IcUJhc0R6MFlsWTNjSVRQREpJb0VDMWtpeExpcXV4MmJuU2lTOUlDajJHNlREV2NKRUZJenlHa0NYbmQ3SFo1dnFUUzhOM2RPQTlHNGUtRkNFS1FYUzVKQjdrUU5NcllCWk1XZHpRcW5aV1RWVy1NenpHTWo3V2M0YmtqYlJaN0VvcjVNRnVMcmgySHpselU",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWVPczNia3FyR0F3QlVMY2hBVnhJUEEybnE4UDZrX21ocG5yaEJFc2sxaGdTazFGUGYyTU9pdzJFa1NibDdrdHlXVVdpbzZZMFdlNjJETVE1UEg0UmM5U2plWHN5MGM0QUhSZW1KdGpDdWJQaVhwNWFxZzJZZ0NDUnVialdFcEk3aXpLdEo4UmNvU2poYkJCSFBpUVdxaEtyaFpzUHRoaTFlMU9vN3kwcF9vRjlOVlA0a3JKdWdGRFlJTVE",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdYX3BjZ3kwZW9NWE14Si1xMUc5V0s0MnM5eExtUXQ5UU0xbnAxT2xZWnhBSTJwYU9vMFduMkF0X3R1OTBXWUM5SGgyRjFBVzdfajZNakg0bDl0Y1gyeHl1NDUwdmRsWF9QTUhjUGtKMkpwb3JMSkdxeTJOa1RMN0N5SXFuSGRRZkZieDJPR0ZxT09pamxranVicFNETmVRTDBpaWh2WXdYZ0dLa09YX0FOdkVJckxmM1JtRlNLTXFUakxwUzFlTdIBzgFBVV95cUxNaVBqeFgyMGFVUjRjdFF4VnprcTFES3lsZWNqRGpGdzUyVmNfLXJmRUVjSWNJZkF0NG82TDlOMmNBa3ZjbHdTUWJjZWVNNXlHSDF0MmxjSFZPbVZ3RV83aHJEeUNBa3VINWNmNllXaWQ3QVpKNkVtaFA1LUp1b0NfSmtMdkswQ3U3MUp1ei1HTlIzTDdXMnVCTWJ0VDdEWUlTeURyMXl2R1hnLUFSNTB6eEt1ZGUySDRuYjB0V3NnaVdhR1FjSklDSExEaE5Qdw",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzZTa3pfMHVTeWZSVUw0QU1pUGprQnhjb2lZRWFodW5FeTVNY3pmRFlUZ081YldpYXptcVVyTHZJSFpEak9XU1FJanZycjRKallRckFobEdxVDRtNDlxdU9odHNJUUlEQkJmbjVCV0RTYXZ6b19mWDlySnA4WlRKbTZWNDhiRkxIUnpUN1gzcHdydEk3SDF5SExtQ2k3YXhVNWZnSEVJZEtZRzlhMW1yNmUzbjJBVklqVUx0SUNuelUyc1dnNlgxaW1B",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2Q5OEMzT2JSRVVZYXh5TlE0VTdmMndISVQ2bGg3dmNnbVpSQUZoTlhNU0lCdlBlbnd6M1REcGF4dkkzTVRMZlpwRjczbFd6cWxFYmcyWTR1VHNrRUpPOXhXUjRQcTZmWF95OEdzV2hoQ0o3dnZ2UzlWRTNnVzR6Q1RJMzdsVnVkMk0zQU5UTm1oSy1ZRGc0cXYydkZDYWpqWW1OVVc4SGVMdlhkMTgwTDM2LUNFYi1XWnM5dFBNcUZ1LXBGQlRWY2t0Wlc",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWEhRUTJYR051NzBtdWRtcUxPQUxfWWdCdnBzSU9QS0FmRW5vSlRkdzVHRjZPN0c3bHdWU094UVpOcVA5OWQtV3JiYTVIeEVHRU92a2RLRU0zOGJwWXgtaEpQdEFWMVRramVRdDNucWJZWjJGU0NyTElXQmtrNklSSnR0UnhvT243NDhVUldGcUNDTndERmdjNG9hZ3lnNkE1WkdGa2xhd2JmSDdpMWM1OGJ3MUFfT1ppVkJHbXpCU2x5d2JjVG5jR2I4ZTg4UdIB0wFBVV95cUxPc2VsTDl4UjFJSks5aE96YVNXSTRJaUU4ODJjTW03WGR5NlVQdDBVY1JRTmk2VGpBN09wV0Qyb2NMS085TEJFZWx4Z2FXYmZENWhNSm0wem1BZUdKRGpESXZEN0ZNaDdKa1BzRlBseVF5VGFZYk9jY3FheEhSRkxFak9mTVE3ZVVSU2NlM2xGRjFFRzdpRmlyVXhnSm51dUtjSGd6NDZObGpHUHRZdXZDMGZjU0NTc2tlWExqbmg0WkhvMnNlM2oyZXpkU0U3NzQybDVB",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTRIa19SMGhyYWFXZ0VKMzl5UTVTZXhJRXFqQ0dhS1JnUWpaYlJ0azRSVE5JNWQxcjRWVm5peTVoS1cwU0VwR2N6akJwRU9Od1ZtTkowblN3eHlRX0VZZGJybFJmUGJIbHVlUzR1eTQxZjFkMDA5YWlFdHVuQlBBWDlTTjRjbVlfdEh2dF9HMFBka3c4Y0o1ai1ZVm96V1RsdWVSUmRlUHJ0Sl9IaXdLRnJrdHBia2FvZnZaSmRhYi1SMzN3QmdoSGRuMElBZlE",
     "https://theafricareport.com/434844/au-should-take-up-issue-of-african-recruits-to-russia-says-kenya-foreign-minister",
     "https://theafricareport.com/434864/algeria-prepares-troop-deployment-in-niger-to-protect-oil-assets-and-expand-influence",
     "https://twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
     "https://twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213",
     "https://twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion",
     "https://twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
     "https://twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact",
     "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals"
   ],
   "recent_posts": [
-    {
-      "title": "Росія залучає Китай до співпраці щодо криголамів",
-      "original_title": "Russia Courts China for Icebreakers: Will a Market Closed to South Korea Open to China? | Policy News - https://economy.ac/",
-      "summary": "За заголовком economy.ac, Росія залицяється до Китаю у сфері криголамів. Видання ставить питання, чи відкриється для Китаю ринок, який лишався закритим для Південної Кореї.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "https://economy.ac/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CeHB1SmxOa2NTY21zMDMydVB5RVZ5RTNoaWNYRTRBeG5vZVNnZzBORmcxdEpOZktPYUFxSVJoOTBtTm5xRmZSVWZQeWJYSGctak9NNXNITQ",
-      "published": "2026-10-29T04:42:41+00:00"
-    },
-    {
-      "title": "Міністр закордонних справ вирушив на саміт G20 та зустріч з Рубіо",
-      "original_title": "Foreign minister departs for G20 meeting of top envoys and talks with Rubio - Korea JoongAng Daily",
-      "summary": "Південнокорейський міністр закордонних справ вирушив до місця проведення саміту G20, де збираються представники урядів країн‑учасниць. Під час підготовчого етапу заплановано офіційну зустріч міністра з американським сенатором Марко Рубіо, що має стати платформою для обговорення спільних питань зовнішньої політики та безпеки. Подія підтверджена лише повідомленням Korea JoongAng Daily.",
-      "source": "Bilateral Meetings",
-      "publisher": "Korea JoongAng Daily",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWVPczNia3FyR0F3QlVMY2hBVnhJUEEybnE4UDZrX21ocG5yaEJFc2sxaGdTazFGUGYyTU9pdzJFa1NibDdrdHlXVVdpbzZZMFdlNjJETVE1UEg0UmM5U2plWHN5MGM0QUhSZW1KdGpDdWJQaVhwNWFxZzJZZ0NDUnVialdFcEk3aXpLdEo4UmNvU2poYkJCSFBpUVdxaEtyaFpzUHRoaTFlMU9vN3kwcF9vRjlOVlA0a3JKdWdGRFlJTVE",
-      "published": "2026-10-29T04:49:20+00:00"
-    },
     {
       "title": "ФРС зберегла ставку, долар послабшав на тлі нафти",
       "original_title": "【TMGM Financial Recap】Fed Rate Hold Sees Dollar Ease as Oil Prices Renew Inflation Concerns; US GDP and PCE Data Come into Focus - www.tmgm.com",
@@ -1162,6 +1152,16 @@
       "published": "2026-10-30T16:35:14+00:00"
     },
     {
+      "title": "Пентагон оголосив бюджет розвідки FY26 у 30,9 млрд доларів",
+      "original_title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
+      "summary": "Бюджет Програмі розвідки військових (MIP) на 2026 рік склав 30,9 млрд доларів, що на 3 млрд більше, ніж у 2025, але на 2,7 млрд менше запиту 33,6 млрд. Паралельно бюджет Національної розвідки (NIP) становив 78,1 млрд доларів, що також нижче запиту 81,9 млрд. Збільшення фінансування MIP може покращити оперативну розвідку, але залишає деякі платформи, наприклад дронові програми, поза його сферою.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion",
+      "published": "2026-10-30T17:28:09+00:00"
+    },
+    {
       "title": "Малайзія підтвердила збереження заборони на експорт рідкоземельних металів",
       "original_title": "Malaysia confirms its raw rare earth export ban survives the Trump trade deal - Startup Fortune",
       "summary": "Малайзія офіційно заявила, що її заборона на експорт сировини рідкоземельних металів залишилася в силі після підписання торгової угоди за президентства Дональда Трампа. Це означає, що постачання цих стратегічних матеріалів у світовий ринок не буде розширено, зберігаючи обмеження на їхній вивіз.",
@@ -1190,6 +1190,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZm1XVXpIT2xRZkxWLUI2QmVEUlQwTm9TQnRUbTN5SmxySmM0ek56cGkyUU9hX05RQ0VYR0JDZl9vcGYzMUpIVFg3NmVuYlhUV2x1YWRlLWJiQkZ5QVlKOE5femJrRGlLX3NnUlU0MmtlSlRMTGprMkd1Qkt5ZkJTME9oS3BrUVFBZW4wN2RrMHBIRWFJNTdLN0lxb0FNUlpqY0E",
       "published": "2026-10-30T17:38:30+00:00"
+    },
+    {
+      "title": "Грецькій Військово-Морській Флот отримав другий фрегат FDI від Naval Group",
+      "original_title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+      "summary": "Грецькій ВМС передали другий з чотирьох фрегатів типу Defense and Intervention (FDI) — Nearchos (F602). За відмінністю від першого корабля «Кімон», новий фрегат обладнано конфігурацією Standard 2, що підвищує його бойові можливості, зокрема системи ППО та радарний комплекс. Це посилює оборонний потенціал Греції у Середземному морі та розширює її можливості у багатофункціональних морських операціях.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group",
+      "published": "2026-10-30T17:40:22+00:00"
     },
     {
       "title": "Прем'єр-міністр Карні планує завершити переговори щодо асоційованого членства Канади в ЄС у червні",
@@ -1230,6 +1240,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TZXdRRHRYcTlhRlBlTDA4U255TV9PQkYwYXJuNEhNem1yd3dUVFBicTNzRmpFekdUU0tIaktwN1VOZWVMN2s3Q2lpUDREekxYM3FLQnNZcEQ1N1BzOFZKTjFsSFBhZzU2czh1ZjE3bXE",
       "published": "2026-10-30T17:59:31+00:00"
+    },
+    {
+      "title": "Bank of Japan залишив ставку 1.25% та прискорив продаж ETF",
+      "original_title": "Bank of Japan holds interest rate at 1.25%, accelerates ETF sales - Fibre2Fashion",
+      "summary": "Банк Японії залишив офіційну процентну ставку на рівні 1,25% і оголосив про прискорення продажу біржових фондів (ETF). Це свідчить про продовження поточної монетарної політики та активізацію інструменту підтримки ринку акцій.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Fibre2Fashion",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTRIa19SMGhyYWFXZ0VKMzl5UTVTZXhJRXFqQ0dhS1JnUWpaYlJ0azRSVE5JNWQxcjRWVm5peTVoS1cwU0VwR2N6akJwRU9Od1ZtTkowblN3eHlRX0VZZGJybFJmUGJIbHVlUzR1eTQxZjFkMDA5YWlFdHVuQlBBWDlTTjRjbVlfdEh2dF9HMFBka3c4Y0o1ai1ZVm96V1RsdWVSUmRlUHJ0Sl9IaXdLRnJrdHBia2FvZnZaSmRhYi1SMzN3QmdoSGRuMElBZlE",
+      "published": "2026-10-30T18:08:58+00:00"
     },
     {
       "title": "Комісія ЄС пропонує заходи для цифрової економіки",
@@ -1282,6 +1302,36 @@
       "published": "2026-10-30T18:33:46+00:00"
     },
     {
+      "title": "Китай легше домовляється з Берном, ніж з Брюсселем",
+      "original_title": "Why is it easier for China to reach an agreement with Bern than with Brussels? - Tomorrow's Affairs",
+      "summary": "Згідно з матеріалом Tomorrow's Affairs, Китай вважає переговори з Швейцарією (Берн) простішими, ніж з інституціями Європейського Союзу (Брюссель). Це свідчить про більш сприятливі умови для двосторонніх угод з Швейцарією порівняно з євроспільними процесами.",
+      "source": "Китай · економіка, торгівля й промисловість",
+      "publisher": "Tomorrow's Affairs",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFY4MTdSb2pRWWx4MjVWN19aSktZZzNrOXlHaVlWTi1GR0pqQUVVMVlxXzNHTEVPYmtaV1N0VHYxc05kYXFyc09FTVRDMkxPcXE5U0xMWlhtUmhXa3VDano2M0txRXBhdlZqUjdfelZCVGN3a2VnTGk4aGMzOFdodEkySEVMVFBZVjJ5Rk13MVNqclFLS3hwTkJLWFBIdjhRaEo2aTZQM0prUQ",
+      "published": "2026-10-30T19:11:04+00:00"
+    },
+    {
+      "title": "Велика Британія в Раді Безпеки ООН підтримала поновлення мандата UNSMIL",
+      "original_title": "This mandate will strengthen UNSMIL’s ability to advance a Libyan-led and Libyan-owned political process: UK statement at the UN Security Council",
+      "summary": "Постійний представник Великої Британії в ООН Сара Макінтош під час засідання Ради Безпеки ООН привітала ухвалення резолюції 2835 про продовження мандата Місії ООН з підтримки Лівії (UNSMIL) на 12 місяців. Британський представник зазначила, що новий мандат посилить спроможність UNSMIL просувати лівійський політичний процес, сприяти виконанню домовленостей «Smaller Convening» щодо проведення виборів протягом 24 місяців, об'єднанню державних інституцій та створенню єдиного виконавчого органу влади.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
+      "published": "2026-10-30T19:26:00+00:00"
+    },
+    {
+      "title": "Світові дохідності облігацій різко впали в жовтні",
+      "original_title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety - WSJ",
+      "summary": "Дохідність облігацій у світі в жовтні різко знизилася, повідомляє WSJ. Падіння відбулося на тлі переміщення інвесторів у безпечні активи.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "WSJ",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz",
+      "published": "2026-10-30T19:35:00+00:00"
+    },
+    {
       "title": "США схвалили продаж 500 ракет Patriot Україні, фінансує 2,1 млрд доларів союзники",
       "original_title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
       "summary": "Уряд США затвердив можливий продаж 500 ракет Patriot типу PAC-3 MSE вартістю $2,1 млрд, які будуть фінансовані Канадою, Німеччиною, Норвегією та ЄС, без залучення американських коштів. Ці високотехнологічні ракети здатні перехоплювати балистичні ракети, крилаті боєприпаси та безпілотники, підвищуючи здатність української ППО протистояти російським атакам. Отримання такої кількості ракет значно посилить обороноздатність України у повітряному просторі та може змінити баланс протиповітряної боротьби.",
@@ -1290,6 +1340,56 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
       "published": "2026-10-30T20:17:22+00:00"
+    },
+    {
+      "title": "Ціни на нафту зростають через конфлікти на Близькому Сході та в Україні‑Росії",
+      "original_title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries - WSJ",
+      "summary": "Нафтові ціни піднялися, оскільки посилилися побоювання щодо постачання, викликані конфліктом на Близькому Сході та війною між Україною та Росією. Це відображає зростаючу напругу на світових енергетичних ринках.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "WSJ",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw",
+      "published": "2026-10-30T20:19:00+00:00"
+    },
+    {
+      "title": "Британія закликає ООН продовжити мандат MINURSO в Західній Сахарі",
+      "original_title": "We urge those who did not support the US’ resolution to seek to find a solution on the basis of that draft: UK statement at the UN Security Council",
+      "summary": "Постійний представник Великої Британії в ООН Сара Макінтош під час засідання Ради Безпеки закликала країни, які не підтримали американський проєкт резолюції, знайти рішення на його основі. Це необхідно для запобігання завершенню мандату місії MINURSO, який спливає найближчим часом. Британська сторона наголосила на спільній відповідальності за стабільність регіону та безпеку населення, яке роками проживає в таборах для біженців, підкресливши важливість політичного процесу врегулювання ситуації в Західній Сахарі.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
+      "published": "2026-10-30T20:57:58+00:00"
+    },
+    {
+      "title": "Canada and EU sign ‘Alliance for the Future’ pact in Montreal",
+      "original_title": "Canada, European Union close Montreal summit with ‘alliance for the future’ pact - CTV News",
+      "summary": "Canada and the European Union concluded their Montreal summit by adopting the ‘Alliance for the Future’ pact. The agreement formalises a new framework for cooperation between the two partners, signalling a strengthening of bilateral ties.",
+      "source": "ЄС · економіка, торгівля й промислова політика",
+      "publisher": "CTV News",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUZKZmM3YVNQUUVlSFlvX2RjemRXNVl2OEtfTnQtQnlfRFhjVnEtZ1lMLXRTcEQ4eWdqNmthMG1YdUJvd05Ua0dBOEJPSy1DU3kzbjZTUzRTN0xHdHg1eFNicmVPQjRXM0szUGNvZHdSdjI4Y3pNcF9lSlU0YWk0dG1OVld0Ymh2N0g3MUc5OHI3WkhHTFhQZnVXdlNrR19tWEx5VGZXVGlvV3k1N283X0czQjYtek1aVGc",
+      "published": "2026-10-30T20:58:10+00:00"
+    },
+    {
+      "title": "Палубний винищувач Rafale M успішно посадився на індійський авіаносець INS Vikrant",
+      "original_title": "Палубний винищувач Rafale M вперше здійснив посадку на індійський авіаносець INS Vikrant",
+      "summary": "Перший успішний посадковий прохід французького винищувача Rafale M на авіаносці INS Vikrant підтвердив готовність індійської армії до впровадження нової палубної авіації. Літак, що зазвичай використовується на авіаносці Charles de Gaulle, демонструє здатність виконувати короткі зльоти та посадки без катапульти, що важливо для індійського флоту. Це крок до заміни російських МиГ-29К/КУБ і розширення оперативних можливостей ВМС Індії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
+      "published": "2026-10-30T21:05:29+00:00"
+    },
+    {
+      "title": "Федеральний борг США перевищив ВВП у 2026 фінансовому році",
+      "original_title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
+      "summary": "У 2026 фінансовому році федеральний борг США перевищив обсяг ВВП, що означає, що співвідношення боргу до ВВП стало більше 100 %. Це свідчить про зростання державної заборгованості вище рівня національного виробництва.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "The Hill",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80eDg1SVc2N3ZhQXVzVUlWQmh2N2ZiWGl6LTk3SVFBRThHWDg5TGJzUHVpaHZxdjlPeDZ2MFlheWlPZkZ6YW1EOGdweWJ3TDFmaTBpYzdxd2tva19ySGktVUhYZ0h0T1NzXzRlQ0xXemROTWVDazIwNm0tVdIBgAFBVV95cUxObkl4dFNudW9wdVRhMlRkRjE4dWFtRldtaUZ0SzVKMEY5Z3hhM0VwYy1QX04wVEVBcmFtejNIVGY1NEZhU1lPMF9Vc0VSMHZnR08xNzkyQ0RwUVhETXoxVTVCSXNQMlZVb2FRQ1J3Y1FyaHdsVmxkYkFHMnVaNXYxYg",
+      "published": "2026-10-30T21:05:43+00:00"
     },
     {
       "title": "Китай запустив і повернув безпілотник-стелс GJ-21 з амфібійного корабля типу 076",
@@ -1310,6 +1410,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/kytaj-rozpochav-budivnytstvo-novoyi-aviabaz",
       "published": "2026-10-30T22:07:18+00:00"
+    },
+    {
+      "title": "Bunker Talk: обговорення подій тижня та огляд командного бункера Кеммель",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "У пості розповідається про візит до командного бункера Кеммель у Heuvelland, збудованого у середині холодної війни Бельгією, Францією та Великою Британією для координації західноєвропейської повітряної оборони. Бункер розташований у стратегічно важливому регіоні та обладнаний типово для того часу підземними сховищами, зв'язковими пунктами та системами радіоелектронного спостереження. Така інфраструктура досі слугує як історичний приклад інтегрованих оборонних мереж і може бути використана для навчань або як резервний центр управління у випадку сучасних конфліктів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213",
+      "published": "2026-10-30T22:33:00+00:00"
     }
   ]
 }

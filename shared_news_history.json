@@ -15,7 +15,7 @@
     "https://defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots",
     "https://defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say",
     "https://defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components",
-    "https://defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
+    "https://defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems",
     "https://defensescoop.com/2026/10/30/how-can-we-trust-ai-in-national-defense-missions",
     "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
     "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
@@ -25,8 +25,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/pakistan-cautiously-optimistic-us-iran-talks-says-mecca-pact-open-new",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
     "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
-    "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
-    "https://militarnyi.com/uk/news/generala-zvilnyly-peredachu-tayemnyh-danyh",
     "https://militarnyi.com/uk/news/kytaj-rozpochav-budivnytstvo-novoyi-aviabaz",
     "https://militarnyi.com/uk/news/lockheed-martin-660-mln-na-pac-3-edge",
     "https://militarnyi.com/uk/news/polshha-otrymala-novu-partiyu-tankovyh-mostoukladalnykiv-m1110-jab-na-bazi-abrams",
@@ -35,8 +33,11 @@
     "https://militarnyi.com/uk/news/syly-oborony-urazyly-puskovu-ustanovku-otrk-yskander-m-na-kurshhyni",
     "https://militarnyi.com/uk/news/ukrayinski-bezpilotnyky-atakuvaly-promyslovu-zonu-u-rosijskij-ufi",
     "https://militarnyi.com/uk/news/ukrspetsystems-rozrobyl-ram2x-black-betty",
+    "https://militarnyi.com/uk/news/zirka-modernizuvaly-znyshhennya-reaktyvnyh",
     "https://militarnyi.com/uk/news/znyshhennya-su-34-raketamy-neptun",
     "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
+    "https://navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates",
+    "https://navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZY0VCa3pTVjFLZVU2cE85NDJwVXhPWmRPMEJwbnQyZVRJSFRnR3FPSDR5NmVCM185ekFnLVdPSDdDOHdvYXRqcmJKOHJjMEhpdEh5TUl6WQ",
@@ -46,7 +47,6 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CZjYxTVBEYkJaOGtGMVcyTDNTejYwclJjeXA3a0E0b1FKaVpMYUlacldSUjJsellGUXIxSlhKeUViVk9vcHFaR3Nud0FWd2V4ZHk5Y3lDd2owSWE2ZTNoWWo2bzBCZ1VsemNCU1l2QWtKSThDV0QzNzUwRQ",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PdGN4bmp0eHh6cE9KaDRzN1Z5N0xBdnYzbnhKM1Nrdm16SmlZdE1NekZrTXZuaU9TYWo3dzE0M3J4SUY1R1dDNV9DRlc2aFIxVk5waVIyeUpDcVF1WExFNkVIQ01WYWJka0ZxMmowbzV2OE5YakxMRlVpUQ",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9idXRNSm9iNHh4RWxRelprd0d5X2lieU1sWFhHWUVVZld3cFAyNVVGSTFlWER0SmN6Wi1uQUMtMEpqYWo2anJQOV85UnZXcFpNbFVtT2x3WmY2MExBTVFwWkZUTnBrMFlpTkpuemV6UE9hQ3hldndpQlFuZw",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
     "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeVF2NkZsUE10aFoyTzVlODVidXVkbUZYb3N0TEdLaVpjM0tHeXptcHdyS0Vadzl3czkzdDBnWGRQSmk4QWlXR3FaR1FxdHJxejhhRjNBdV91aHYyQmdYdVRiR0N6MHJQMHRoaGNWR292TEw2SkxjbklWY2o3WDlaRmhCdHZEbjNxSmozZmZDZVc4Q2tQVWh4dTFVVUxnU0FSNHhBa0Qtdl8xNHhVeExOLWJRZDRRN1NuWjdpa1BHeFctZFNMRDYxTTg3NUNNSnNCSGhBM0tyN2t1QmJFcFFEQjQ5MF9XaXU4bjg5ckREcjI4ejQ4WWUtWFhjTzVnLUdn",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWhkT2JsUDdPZDZueTJzdWk2aHRYWVljRlRpT2U1WkZ5ZlZ1WGZDWDN3SFN1VFZNZW5oMXVYU1ZhdF9tbWxBMzlKZl9HOXJqWk42Q3ZsRGMzM1hBNGVwRG5jcFVlWEFfMUxXV3RKMjgtTVBTRzBSTzNNTVhEQWFDNFRjZUw",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbTFfSk5vSUxSMUEya3lKbUUyZVRMeU43S2EwNUgzZUhGa2hIUDRPMWlKYkZuTnRYLWFVWTBScVE3amRUTm1SVXJpeXJnZ3JDRFUwclJ2SVduYjBOU1hhVmJ0MUJXMEI0cEJfZ1dRaGNGbk1vQ2V3aTVvOFI0WWJkTS05djlLQ19RM1RiZV9MOW5CVHdS",
@@ -68,7 +68,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWEhRUTJYR051NzBtdWRtcUxPQUxfWWdCdnBzSU9QS0FmRW5vSlRkdzVHRjZPN0c3bHdWU094UVpOcVA5OWQtV3JiYTVIeEVHRU92a2RLRU0zOGJwWXgtaEpQdEFWMVRramVRdDNucWJZWjJGU0NyTElXQmtrNklSSnR0UnhvT243NDhVUldGcUNDTndERmdjNG9hZ3lnNkE1WkdGa2xhd2JmSDdpMWM1OGJ3MUFfT1ppVkJHbXpCU2x5d2JjVG5jR2I4ZTg4UdIB0wFBVV95cUxPc2VsTDl4UjFJSks5aE96YVNXSTRJaUU4ODJjTW03WGR5NlVQdDBVY1JRTmk2VGpBN09wV0Qyb2NMS085TEJFZWx4Z2FXYmZENWhNSm0wem1BZUdKRGpESXZEN0ZNaDdKa1BzRlBseVF5VGFZYk9jY3FheEhSRkxFak9mTVE3ZVVSU2NlM2xGRjFFRzdpRmlyVXhnSm51dUtjSGd6NDZObGpHUHRZdXZDMGZjU0NTc2tlWExqbmg0WkhvMnNlM2oyZXpkU0U3NzQybDVB",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTRIa19SMGhyYWFXZ0VKMzl5UTVTZXhJRXFqQ0dhS1JnUWpaYlJ0azRSVE5JNWQxcjRWVm5peTVoS1cwU0VwR2N6akJwRU9Od1ZtTkowblN3eHlRX0VZZGJybFJmUGJIbHVlUzR1eTQxZjFkMDA5YWlFdHVuQlBBWDlTTjRjbVlfdEh2dF9HMFBka3c4Y0o1ai1ZVm96V1RsdWVSUmRlUHJ0Sl9IaXdLRnJrdHBia2FvZnZaSmRhYi1SMzN3QmdoSGRuMElBZlE",
     "https://twz.com/air/highlights-from-north-koreas-drone-a-palooza",
-    "https://twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
     "https://twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
     "https://twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades",
     "https://twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate",
@@ -77,56 +76,6 @@
     "https://twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report"
   ],
   "recent_posts": [
-    {
-      "title": "У США звільнили генерала‑лейтенанта Бретта Сільвію за витік секретних даних",
-      "original_title": "У США генерала звільнили за передачу журналістам таємних даних про війну в Україні",
-      "summary": "Генерал‑лейтенант Бретт Сільвія, колишній директор J‑5 Об’єднаного штабу США, був звільнений після розкриття, що передавав журналістам конфіденційну інформацію про війну в Україні та інші чутливі питання. Розслідування провело Управління спеціальних розслідів Повітряних сил, і справа передана до Міністерства юстиції США. Це підкреслює підвищену увагу до захисту військових даних та може вплинути на довіру до стратегічних підрозділів Пентагону.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/generala-zvilnyly-peredachu-tayemnyh-danyh",
-      "published": "2026-10-29T21:45:28+00:00"
-    },
-    {
-      "title": "Японія створить центр фінальної збірки ракет AMRAAM у співпраці з США",
-      "original_title": "Japan To Assemble AMRAAM Missiles As U.S. Moves To Dramatically Boost AIM-120 Production",
-      "summary": "США і Японія підписали угоду про створення в Японії заводу з фінальної збірки та інспекції ракет AIM‑120 (AMRAAM). Це дозволить збільшити щорічне виробництво, яке вже планується на рівні 1 900 одиниць, і забезпечить обидві країни стабільними поставками для F‑35, F‑15 та інших платформ. Розширення виробничих потужностей у Японії підвищить обороноздатність регіону та зміцнить японську оборонну промисловість.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production",
-      "published": "2026-10-29T21:59:58+00:00"
-    },
-    {
-      "title": "Швидке вихід США з Європи може відштовхнути союзників від американської зброї, за даними RAND",
-      "original_title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-      "summary": "RAND застерігає, що раптове, некоординоване скорочення американських військ у Європі створить значні прогалини у спроможності союзників і змусить їх купувати готову зброю США, що може підсилити агресію Росії. Автори радять узгоджений, довгостроковий план виведення, розроблений спільно з Францією, Німеччиною, Польщею та Великою Британією, щоб зберегти оборонні витрати та підтримати індустріальну базу США.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
-      "published": "2026-10-29T22:25:13+00:00"
-    },
-    {
-      "title": "Спецпосланник США заявив про близькість угоди щодо деескалації з Іраном",
-      "original_title": "US envoy says Iran talks ‘very close’ to agreement on de-escalation process",
-      "summary": "Посол США в Туреччині Том Баррак повідомив, що дипломатичні зусилля за посередництва Катару, Пакистану та інших союзників наблизили сторони до угоди про тимчасову паузу в бойових діях, яка може бути досягнута протягом двох тижнів. За словами Баррака, загального рішення одразу не буде, проте адміністрація президента США також серйозно розглядає можливу силову операцію.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
-      "published": "2026-10-29T22:52:16+00:00"
-    },
-    {
-      "title": "Комісія ЄС подала до Ради рекомендацію 11 вересня 2026 року",
-      "original_title": "14740/1/26 REV 1 1 RELEX.2 Council of the European Union 1. On 11 September 2026, the Commission submitted to the Council a Reco - data.consilium.europa.eu",
-      "summary": "11 вересня 2026 року Європейська Комісія передала Раді Європейського Союзу рекомендацію, зазначену у документі 14740/1/26 REV 1 1 RELEX.2. Це формальний крок у законодавчому процесі ЄС, коли Комісія ініціює пропозицію, яку Раді доведеться розглянути та, за потреби, схвалити. У повідомленні вказано лише факт подання без уточнення змісту рекомендації чи подальших строків розгляду.",
-      "source": "EU Diplomacy",
-      "publisher": "data.consilium.europa.eu",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZTE3OTVyRlJfZ0c0dmJEM3RHNElLUnF5NHF0Y1RPaDI5LVlRUGY0Y1pzWnZFbVJVV1F1blVuWnRQcXRibS1WNDhldmFrWGJtODNlQmNQeG5sX25wRUZCT2N0aGExYXVNOXRCeDdvUXJXLVN5cFRjdG1BQnk",
-      "published": "2026-10-29T23:42:50+00:00"
-    },
     {
       "title": "Візит короля Чарльза ІІІ до Гаяни відродив заклики до вибачень за рабство",
       "original_title": "King Charles’ visit to Guyana reignites calls for a British apology and reparations for slavery",
@@ -226,6 +175,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/polshha-otrymala-novu-partiyu-tankovyh-mostoukladalnykiv-m1110-jab-na-bazi-abrams",
       "published": "2026-10-30T12:14:14+00:00"
+    },
+    {
+      "title": "Hanwha Philly Shipyard побудує перший середній десантний корабель (LSM) для Військово‑морських сил США",
+      "original_title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)",
+      "summary": "TOTE Services підписала з Hanwha Defense USA контракт на $269 млн для будівництва першого у США середнього десантного корабля (LSM) на верфі Hanwha у Філадельфії. LSM — це корабель середнього розміру, здатний перевозити до 600 тонн вантажу, техніку та до 300 військових, забезпечуючи швидке висадження на узбережжях. Запуск проєкту підвищить амфібійні можливості ВМС США та розширить локальну оборонну інфраструктуру.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm",
+      "published": "2026-10-30T14:16:41+00:00"
+    },
+    {
+      "title": "EOS Defense Systems готує виробництво системи протидії дронів Slinger у США",
+      "original_title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
+      "summary": "Компанія EOS Defense Systems оголосила про плани з виробництва у США своєї системи Slinger, призначеної для протидії безпілотникам. Slinger оснащена AI‑допомогою у націлюванні та має регульовані рівні автономії — від ручного керування до повністю автономного режиму. Така система підвищить можливості захисту військових об'єктів і критичної інфраструктури від атак дрон‑свортів.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems",
+      "published": "2026-10-30T14:28:39+00:00"
     },
     {
       "title": "Внутрішня зброя Катару, арсенал турецьких дронів та наступний випробувальний етап пакту Мекки",
@@ -788,6 +757,16 @@
       "published": "2026-10-31T07:19:01+00:00"
     },
     {
+      "title": "Chess Dynamics отримала £3 млн контракт на системи управління вогнем для індонезійських фрегатів",
+      "original_title": "Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates",
+      "summary": "Британська компанія Chess Dynamics підписала контракт з індонезійським PT Len Industri на постачання електро-оптичних систем SeaEagle Fire Control (FCEO) для двох легких фрегатів/корветів класу Bung Tomo. Система забезпечує точне наведення артилерії та протиповітряних засобів, підвищуючи бойову ефективність кораблів у складних морських умовах. Це посилює обороноздатність індонезійського флоту та розширює присутність Chess Dynamics на азійському ринку.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates",
+      "published": "2026-10-31T07:48:30+00:00"
+    },
+    {
       "title": "Бельгія передала першого мінно-розвідника класу Tripartite BNS Bellis Військово-морському флоту Болгарії",
       "original_title": "Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy",
       "summary": "Бельгія передала Болгарії BNS Bellis — перший з чотирьох мінно-розвідних кораблів класу Tripartite, що підвищує можливості протимінної оборони у Чорному морі. Корабель має водотонний корпус, дислокаційну сонарну систему та безпілотні підводні апарати, що дозволяє ефективно виявляти та знешкоджувати міни. Це зміцнює безпеку НАТО в регіоні, розширюючи потенціал союзницьких сил у протидії мінним загрозам.",
@@ -826,6 +805,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
       "published": "2026-10-31T15:38:24+00:00"
+    },
+    {
+      "title": "Модернізований дрон ZIRKA знищив реактивний безпілотник «Герань-5» на 400 км/год",
+      "original_title": "Модернізований дрон-перехоплювач ZIRKA знищив «Герань-5» на швидкості 400 км/год",
+      "summary": "Дрон-перехоплювач ZIRKA, розроблений NOCTIS, досяг швидкості 400 км/год і знищив «Герань‑5» на висоті 3500 м. Оснащений Raspberry Pi 5 з AI‑системою розпізнавання, він виявляє ціль на відстані до 1 км і самостійно слідкує за нею. Це підтверджує здатність української технології протидіяти швидкоспрямованим безпілотникам, що підвищує оборонну готовність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zirka-modernizuvaly-znyshhennya-reaktyvnyh",
+      "published": "2026-10-31T17:17:26+00:00"
     }
   ]
 }

@@ -2,12 +2,9 @@
   "links": [
     "http://africanews.com/2026/10/30/king-charles-visit-to-guyana-reignites-calls-for-a-british-apology-and-reparations-for-sla",
     "http://africanews.com/2026/10/31/ghana-in-talks-with-russia-for-first-nuclear-power-plant",
+    "http://africanews.com/2026/10/31/tshisekedi-seeks-putins-help-against-rwanda-backed-rebels",
     "https://army-technology.com/analyst-comment/asean-evolving-defence-industries",
-    "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense",
-    "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron",
-    "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy",
     "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network",
-    "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years",
     "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha",
     "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals",
     "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan",
@@ -18,27 +15,23 @@
     "https://defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots",
     "https://defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say",
     "https://defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components",
-    "https://defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos",
-    "https://defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance",
     "https://defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says",
-    "https://defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information",
-    "https://defensescoop.com/2026/10/29/army-selects-lockheed-martin-future-interceptor-program",
     "https://defensescoop.com/2026/10/30/how-can-we-trust-ai-in-national-defense-missions",
     "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
     "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
+    "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
     "https://middleeasteye.net/live-blog/live-blog-update/morning-update-656",
     "https://middleeasteye.net/live-blog/live-blog-update/pakistan-cautiously-optimistic-us-iran-talks-says-mecca-pact-open-new",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
+    "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
     "https://middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
-    "https://militarnyi.com/uk/news/avtomatyzovani-tureli-znyshhyly-60-tsilej",
     "https://militarnyi.com/uk/news/generala-zvilnyly-peredachu-tayemnyh-danyh",
     "https://militarnyi.com/uk/news/kytaj-rozpochav-budivnytstvo-novoyi-aviabaz",
     "https://militarnyi.com/uk/news/lockheed-martin-660-mln-na-pac-3-edge",
     "https://militarnyi.com/uk/news/polshha-otrymala-novu-partiyu-tankovyh-mostoukladalnykiv-m1110-jab-na-bazi-abrams",
     "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
     "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
-    "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
     "https://militarnyi.com/uk/news/syly-oborony-urazyly-puskovu-ustanovku-otrk-yskander-m-na-kurshhyni",
     "https://militarnyi.com/uk/news/ukrayinski-bezpilotnyky-atakuvaly-promyslovu-zonu-u-rosijskij-ufi",
     "https://militarnyi.com/uk/news/ukrspetsystems-rozrobyl-ram2x-black-betty",
@@ -46,7 +39,6 @@
     "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ29nN2xzV29yR0pDeDQxalZIRnZCZV95TUFOeTU1dVdXWFUzV294dGlVV3BRMUM0ci1nWmdVMWE0TUhoVElUTVJSMVBHZ3FuY3BGREc5aW1XV2lFQ2wwZWducEVoWV8xZl85dzhuVC1TT2pUUDBidnNGYnlkZWQ1Z1Foak51TGhHblJwVnJZMGJYX1J4MmdPdWJnQjRQbEF3UVhKVUxTWDBKVmJqc3Z2SzFZcEdHTGM4eGpxcGExVU5TSGpQd2VDTUFkaWRjdko5a2toeE91Wk80VkFiVUdPSDFDdGs5TTdtcW5qQQ",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZY0VCa3pTVjFLZVU2cE85NDJwVXhPWmRPMEJwbnQyZVRJSFRnR3FPSDR5NmVCM185ekFnLVdPSDdDOHdvYXRqcmJKOHJjMEhpdEh5TUl6WQ",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByT0VpSldDQnJkUkN3WENmV0ZUX1h5SjNEWUZ5eEprVmFDRWpobVBuellrV0QwakhaRFhlSTdqbG1UcnFkNjU1ZG01MENmU0xNY3BYY2RReWpCZw",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TZXdRRHRYcTlhRlBlTDA4U255TV9PQkYwYXJuNEhNem1yd3dUVFBicTNzRmpFekdUU0tIaktwN1VOZWVMN2s3Q2lpUDREekxYM3FLQnNZcEQ1N1BzOFZKTjFsSFBhZzU2czh1ZjE3bXE",
@@ -82,130 +74,9 @@
     "https://twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213",
     "https://twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion",
-    "https://twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
-    "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals"
+    "https://twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report"
   ],
   "recent_posts": [
-    {
-      "title": "Старшого генерала США уволив міністр оборони через розголошення секретної інформації",
-      "original_title": "Senior US general fired, accused of leaking classified information",
-      "summary": "Пентагон звільнив лейтенант‑генерала Бретта Сільвія після того, як три поліграфи виявили його причетність до розголошення класифікованих даних. Сільвія очолював підрозділ J5, відповідальний за стратегію та планування, що ускладнює координацію операцій у війні з Іраном. Відсутність такого ключового планувальника може затримати підготовку та реалізацію військових операцій, а також підвищити ризик подальших витоків.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information",
-      "published": "2026-10-29T18:52:30+00:00"
-    },
-    {
-      "title": "Польща передасть Україні два винищувачі МиГ-29 та боєприпаси 20‑мм гармат F‑16",
-      "original_title": "Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals",
-      "summary": "Уряд Польщі погодився передати Україні два винищувачі МиГ-29 (один у справному стані, інший – для запчастин) і значну кількість 20×102 мм боєприпасів для шести‑ствольних гармат F‑16, а також артилерійські снаряди. Це підсилить авіаційний потенціал України, зокрема забезпечить безперервну дію старих, але важливих МиГ‑29, і дозволить пілотам F‑16 частіше користуватися гарматним вогнем у випадку нестачі ракет.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
-      "published": "2026-10-29T18:58:29+00:00"
-    },
-    {
-      "title": "Армія обирає Lockheed Martin для мільярдного проєкту Future Interceptor",
-      "original_title": "Army selects Lockheed Martin for billion-dollar Future Interceptor program",
-      "summary": "Армія США підписала угоду Other Transaction з Lockheed Martin на розробку нової системи перехоплення Future Interceptor вартістю понад 1 мільярд доларів. Компанія інвестує $423 млн, а уряд – близько $660 млн, плануючи випробування прототипу у 2027 році та введення в експлуатацію до 2031 року. Новий перехоплювач має забезпечити більший радіус дії, висоту, швидкість і маневреність, посилюючи багаторівневу протиракетну оборону проти гіперзвукових, балістичних та безпілотних загроз.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/10/29/army-selects-lockheed-martin-future-interceptor-program",
-      "published": "2026-10-29T19:08:00+00:00"
-    },
-    {
-      "title": "Рекордний розгорток зруйдера USS Spruance підкидає сумніви щодо обслуговування ВМС США",
-      "original_title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
-      "summary": "USS Spruance, зруйдер класу Arleigh‑Burke, перебувала в морі 342 дні, що перевищує звичайний 7‑місцевий поріг. Така тривала експлуатація підсилює затримки в обслуговуванні і створює навантаження на приватні верфі, що може знизити готовність флоту. У довгостроковій перспективі це може вимагати прискорення ремонтних робіт і вплинути на розклад наступних груп ударних кораблів.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance",
-      "published": "2026-10-29T19:15:42+00:00"
-    },
-    {
-      "title": "Понад автопілот: розуміння п'яти рівнів автономії бойових дронів",
-      "original_title": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
-      "summary": "Новий звіт розкриває п'ять рівнів автономії дронів, що йдуть від простого дистанційного керування до повної самостійної місії. Ключовим є розподілена інтелігенція, що дозволяє дронам обмінюватися даними і приймати рішення без центрального керування. Це підвищує швидкість реакції, зменшує навантаження на операторів і створює нові можливості для координації багатодронових операцій.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy",
-      "published": "2026-10-29T19:22:59+00:00"
-    },
-    {
-      "title": "Виробничу нагороду MV-75 може затримати CR, збільшуючи витрати програми до $150 млн",
-      "original_title": "Army’s MV-75 production award could slip due to CR, raising program costs: Textron",
-      "summary": "Тексрон повідомив, що затримка підписання першого контракту на низькорівневий випуск гелікоптера MV-75 може підвищити фінансове навантаження програми до $150 млн. Це пов’язано з відстрочкою старту серійного виробництва, що може відкласти поставки нових літаків у армію. Збільшені витрати та затримка можуть вплинути на оперативну готовність та модернізацію авіаційних сил.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron",
-      "published": "2026-10-29T19:32:11+00:00"
-    },
-    {
-      "title": "Новий тактичний комунікаційний комплекс Vion для сухопутних військ США",
-      "original_title": "New tactical comms system for US ground troops aims to break network silos",
-      "summary": "General Dynamics представив портативну систему Vion — штучний інтелект, відкриту архітектуру та модульність, що дозволяє швидко встановлювати захищені зв'язки з командними центрами та союзними силами. Пристрій розміром зі валізу підтримує передачу тексту, голосу, відео та автоматичний переклад, забезпечуючи захист за принципом Zero Trust. Така гнучкість і сумісність з різними мережами може суттєво підвищити оперативність та координацію підрозділів у складних бойових умовах.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos",
-      "published": "2026-10-29T19:44:45+00:00"
-    },
-    {
-      "title": "Канада представила першу за 20 років стратегію національної безпеки",
-      "original_title": "Canada unveils first national security strategy in more than 20 years",
-      "summary": "У документі Отави викладено пріоритети – посилення суверенітету, інвестиції в оборону, розширення економічних та безпекових зв’язків, зокрема продовження закупівлі F‑35. Стратегія передбачає модернізацію збройних сил, диверсифікацію партнерств у Близькому Сході, Африці та інших регіонах, що має підвищити військову спроможність Канади та зменшити залежність від США.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years",
-      "published": "2026-10-29T20:07:11+00:00"
-    },
-    {
-      "title": "Три вибори до Конгресу, важливі для оборони США",
-      "original_title": "3 congressional races that matter for defense",
-      "summary": "У цьому середньостроковому виборчому циклі кілька республіканців, які контролюють ключові підрозділи оборони, змагаються у конкурентних гонках: сенатор Сьюзен Коллінз (Мейн), представник Роб Віттман (Вірджинія) та Кен Кальверт (Каліфорнія). Перемоги чи поразки цих політиків можуть суттєво вплинути на формування бюджету та політики Пентагону, оскільки Конгрес готується до нових великих витрат на оборону.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense",
-      "published": "2026-10-29T20:41:31+00:00"
-    },
-    {
-      "title": "Приватні автоматизовані турелі ППО знищили понад 60 цілей",
-      "original_title": "Приватні автоматизовані турелі ППО знищили понад 60 цілей",
-      "summary": "За даними кластера Brave1, автоматизовані турелі в рамках приватного проєкту ППО вже збили більше 60 ворожих безпілотників і ракет. Використовуються системи з кулеметами калібру 7,62–12,7 мм, зокрема Sky Sentinel з M2 Browning та турель «Хижак», які самостійно розпізнають цілі і відкривають вогонь за підтвердженням оператора на відстані. Така масштабна «турелізація» підвищує ефективність протиповітряної оборони, знижуючи потребу у ручному управлінні та розширюючи зону захисту над містами.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/avtomatyzovani-tureli-znyshhyly-60-tsilej",
-      "published": "2026-10-29T20:48:25+00:00"
-    },
-    {
-      "title": "Міністр оборони Молдови відвідав Бухарест для підписання угоди про співпрацю",
-      "original_title": "Moldovan defense minister goes to Bucharest: meeting with Romanian counterpart, signing of military cooperation agreement - Moldpres",
-      "summary": "Міністр оборони Молдови здійснив візит до Бухареста, де зустрівся зі своїм румунським колегою. Під час зустрічі сторони офіційно підписали угоду про військове співробітництво між двома державами. Подія є конкретним дипломатичним та безпековим кроком у двосторонніх відносинах Молдови та Румунії, підтвердженим офіційним повідомленням.",
-      "source": "Treaties & Agreements",
-      "publisher": "Moldpres",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ29nN2xzV29yR0pDeDQxalZIRnZCZV95TUFOeTU1dVdXWFUzV294dGlVV3BRMUM0ci1nWmdVMWE0TUhoVElUTVJSMVBHZ3FuY3BGREc5aW1XV2lFQ2wwZWducEVoWV8xZl85dzhuVC1TT2pUUDBidnNGYnlkZWQ1Z1Foak51TGhHblJwVnJZMGJYX1J4MmdPdWJnQjRQbEF3UVhKVUxTWDBKVmJqc3Z2SzFZcEdHTGM4eGpxcGExVU5TSGpQd2VDTUFkaWRjdko5a2toeE91Wk80VkFiVUdPSDFDdGs5TTdtcW5qQQ",
-      "published": "2026-10-29T21:01:00+00:00"
-    },
-    {
-      "title": "Росія втратила мінімум 9000 офіцерів з початку повномасштабної війни",
-      "original_title": "Росія втратила щонайменше 9000 офіцерів від початку повномасштабної війни",
-      "summary": "Дослідницька група KIU зафіксувала, що з 1 лютого 2022 р. у російській армії підтверджено щонайменше 9000 втрат серед офіцерського складу, що є мінімальною оцінкою, оскільки враховуються лише ідентифіковані особи. Середньоденно втрачається близько 5 офіцерів, що свідчить про стабільний, проте суттєвий рівень деградації командного потенціалу ворога. Така втрата персоналу у вищих підрозділах може ускладнити планування операцій, знизити ефективність управління підрозділами та вплинути на бойову готовність російських сил.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-9000-ofitseriv-vid-pochatku-povnomasshtabnoyi-vijny",
-      "published": "2026-10-29T21:01:07+00:00"
-    },
     {
       "title": "У США звільнили генерала‑лейтенанта Бретта Сільвію за витік секретних даних",
       "original_title": "У США генерала звільнили за передачу журналістам таємних даних про війну в Україні",
@@ -907,6 +778,16 @@
       "published": "2026-10-31T07:13:14+00:00"
     },
     {
+      "title": "Президент ДР Конго Фелікс Чісекеді зустрівся з Путіним щодо пошуку миру",
+      "original_title": "Tshisekedi seeks Putin's help against Rwanda-backed rebels",
+      "summary": "Президент Демократичної Республіки Конго Фелікс Чісекеді провів переговори з президентом Росії Володимиром Путіним наприкінці саміту Росія-Африка. Під час зустрічі Чісекеді заявив, що він «абсолютно» прагне допомоги Росії як постійного члена Ради Безпеки ООН у «пошуку миру» у протистоянні з підтримуваними Руандою повстанцями.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/10/31/tshisekedi-seeks-putins-help-against-rwanda-backed-rebels",
+      "published": "2026-10-31T07:19:01+00:00"
+    },
+    {
       "title": "Бельгія передала першого мінно-розвідника класу Tripartite BNS Bellis Військово-морському флоту Болгарії",
       "original_title": "Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy",
       "summary": "Бельгія передала Болгарії BNS Bellis — перший з чотирьох мінно-розвідних кораблів класу Tripartite, що підвищує можливості протимінної оборони у Чорному морі. Корабель має водотонний корпус, дислокаційну сонарну систему та безпілотні підводні апарати, що дозволяє ефективно виявляти та знешкоджувати міни. Це зміцнює безпеку НАТО в регіоні, розширюючи потенціал союзницьких сил у протидії мінним загрозам.",
@@ -925,6 +806,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
       "published": "2026-10-31T11:33:28+00:00"
+    },
+    {
+      "title": "Арагчі: Іран встановив умови для відкриття протоки Ормуз",
+      "original_title": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening",
+      "summary": "Міністр закордонних справ Ірану Аббас Арагчі заявив, що Тегеран встановив умови для відкриття протоки Ормуз, включаючи зняття санкцій, зменшення американського військового присутності та розмороження коштів. За його словами, консультації з катарськими посередниками скоротили строк реалізації з п'яти до двох днів. Іранська делегація перебуває в Катарі для продовження переговорів, попри відсутність безпосередніх зустрічей з США.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
+      "published": "2026-10-31T15:35:13+00:00"
+    },
+    {
+      "title": "Резолюції США і Росії блокували мандат МІД у Західному Сахарі",
+      "original_title": "UN Western Sahara peacekeeping mission left in limbo after US-Russia veto standoff",
+      "summary": "У сесії Ради Безпеки ООН США та Росія взаємно ветою заблокували резолюції щодо продовження мандату місії ООН у Західному Сахарі (MINURSO). США пропонували, щоб план автономії Марокко став єдиною основою переговорів, скоротити військовий склад місії та подовжити її строк ще на один рік. Росія підтримала альтернативну резолюцію, яку США теж ветою відхилили, залишивши місію без мандату.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
+      "published": "2026-10-31T15:38:24+00:00"
     }
   ]
 }

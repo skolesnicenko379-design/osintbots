@@ -17,6 +17,7 @@
     "https://defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components",
     "https://defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems",
     "https://defensescoop.com/2026/10/30/how-can-we-trust-ai-in-national-defense-missions",
+    "https://defensescoop.com/2026/10/30/space-superiority-us-government-vleo",
     "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
     "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
@@ -34,14 +35,17 @@
     "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
     "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
     "https://militarnyi.com/uk/news/syly-oborony-urazyly-puskovu-ustanovku-otrk-yskander-m-na-kurshhyni",
+    "https://militarnyi.com/uk/news/ukrayina-otrymala-majzhe-3000-senator",
     "https://militarnyi.com/uk/news/ukrayinski-bezpilotnyky-atakuvaly-promyslovu-zonu-u-rosijskij-ufi",
     "https://militarnyi.com/uk/news/ukrspetsystems-rozrobyl-ram2x-black-betty",
+    "https://militarnyi.com/uk/news/vidklasty-budivnytstvo-vijskovyh-korabliv",
     "https://militarnyi.com/uk/news/zirka-modernizuvaly-znyshhennya-reaktyvnyh",
     "https://militarnyi.com/uk/news/znyshhennya-su-34-raketamy-neptun",
     "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
     "https://navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates",
     "https://navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm",
     "https://navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group",
+    "https://navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZY0VCa3pTVjFLZVU2cE85NDJwVXhPWmRPMEJwbnQyZVRJSFRnR3FPSDR5NmVCM185ekFnLVdPSDdDOHdvYXRqcmJKOHJjMEhpdEh5TUl6WQ",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByT0VpSldDQnJkUkN3WENmV0ZUX1h5SjNEWUZ5eEprVmFDRWpobVBuellrV0QwakhaRFhlSTdqbG1UcnFkNjU1ZG01MENmU0xNY3BYY2RReWpCZw",
@@ -179,6 +183,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/polshha-otrymala-novu-partiyu-tankovyh-mostoukladalnykiv-m1110-jab-na-bazi-abrams",
       "published": "2026-10-30T12:14:14+00:00"
+    },
+    {
+      "title": "Чому США мають пріоритетно розвивати наднизьку орбіту (VLEO) для забезпечення переваги у космосі",
+      "original_title": "The missing puzzle piece in space superiority: Why it’s time for the U.S. government to prioritize VLEO",
+      "summary": "У США зростає усвідомлення, що орбіта LEO стає уразливою через можливість ядерного вибуху, який створить штучні радіаційні пояси на рік. Тому Міністерство оборони планує інвестувати в VLEO‑системи, які дозволять швидко замінювати знищені супутники та підвищити стійкість космічної архітектури. Така стратегія підвищить оперативну гнучкість і знизить ризик втрати критичних комунікаційних та розвідувальних можливостей.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/10/30/space-superiority-us-government-vleo",
+      "published": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "title": "Kongsberg отримала контракт США на автономні підводні апарати вартістю 54 млн доларів",
+      "original_title": "KONGSBERG secures US government contract for underwater capabilities",
+      "summary": "Компанія Kongsberg Gruppen підписала модифікацію Prototype Other Transaction Agreement на $54 млн для постачання широкого спектра автономних підводних апаратів (AUV). Угода передбачає розробку та виготовлення різних типів AUV, які можуть виконувати розвідку, мінний клір та інші підводні місії. Це посилить можливості США у підводних безпілотних системах, підвищуючи їхню гнучкість та ефективність у морських операціях.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities",
+      "published": "2026-10-30T13:53:45+00:00"
     },
     {
       "title": "Hanwha Philly Shipyard побудує перший середній десантний корабель (LSM) для Військово‑морських сил США",
@@ -841,6 +865,16 @@
       "published": "2026-10-31T18:40:18+00:00"
     },
     {
+      "title": "Україна отримала майже 3000 канадських бронемашин Roshel Senator",
+      "original_title": "Україна отримала майже 3000 канадських бронемашин Senator",
+      "summary": "З 2022 року в межах канадської військової допомоги Україна отримала майже 3000 бронемашин Roshel Senator, хоча офіційні дані коливаються між «понад 2700» і «майже 3000». Це V‑hull, 8‑тонні броневики, що використовуються для транспортування особового складу, евакуації та виконання спеціальних завдань у небезпечних районах. Масове надходження цих машин суттєво підвищує мобільність та захист українських підрозділів на полі бою.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-otrymala-majzhe-3000-senator",
+      "published": "2026-10-31T19:29:24+00:00"
+    },
+    {
       "title": "ООН вимагає розслідування смерті співробітника в полоні хуситів",
       "original_title": "UN demands probe into death of staff member in Houthi custody",
       "summary": "ООН засудила смерть співробітника Управління Верховного комісара з прав людини Мохаммада аш-Шамі, який перебував у довільному утриманні хуситів у Ємені з червня 2024 року. Верховний комісар Волкер Тюрк вимагає термінового незалежного розслідування та повної прозорості від влади хуситів, оскільки причини смерті не розкрито. Також він висловив занепокоєння безпекою інших 71 затриманого співробітника ООН. Прем'єр-міністр Ємену Шая аз-Зіндані звинуватив хуситів у вбивстві та повній відповідальності за порушення.",
@@ -849,6 +883,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
       "published": "2026-10-31T19:44:22+00:00"
+    },
+    {
+      "title": "Норвезький парламент закликав відкласти тендер на будівництво військових кораблів за кордоном",
+      "original_title": "У Норвегії закликали відкласти будівництво військових кораблів за кордоном",
+      "summary": "Комітет з іноземних справ і оборони Норвегії попросив відкласти оголошення тендеру, вимагаючи виключити можливість будівництва корпусів кораблів за межами країни. Це стосується програми P1118, яка передбачає до 28 уніфікованих патрульних суден, і може уповільнити постачання, якщо не буде знайдено конкурентоспроможних умов у вітчизняних верфях. Відмова від іноземного виробництва може підвищити навантаження на норвезькі суднобудівні підприємства, але ризикує вийти за межі бюджету та графіку.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/vidklasty-budivnytstvo-vijskovyh-korabliv",
+      "published": "2026-10-31T20:31:06+00:00"
     },
     {
       "title": "Сирія розглядає вступ до оборонного пакту Мекки",

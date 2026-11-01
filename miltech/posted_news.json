@@ -1,8 +1,4 @@
 [
-  "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLXZWa2REV0NWbks3RTYyN1c2TVEyZksydUFsVS0xQV9WcTJ6V2JTOE9qbnZVb01yZ1dtTkFqYlhjTENpM3AzVVRBeVQ2VXdiWFBoSlUzZzhBOHJFdW9PUkRpSDhnaTBuNXF2RGR0bENZcFRGcjhuOFB0SEdOUEZWVGlmWjVWcWFacFlJT3QtMXc4Qnh2alFOTFp6ZHg2V2ZycG9yTkRxa3dwYmVsOUlrdDBiTmVsbUxDZTdWNzh5UkFhNUl3T2g4TEs5RWZFRzQtNTZtNVM4cXRHYkJOWENZWHUzV3ludlVQWHd5SXJxN2lsaHB1WUlZNWExQ0U?oc=5",
-  "https://militarnyi.com/uk/news/u-rosiyi-spustyly-na-vodu-korvet-groznyj/?utm_source=rss&utm_medium=rss&utm_campaign=u-rosiyi-spustyly-na-vodu-korvet-groznyj",
-  "https://militarnyi.com/uk/news/2-etap-modernizatsiyi-uss-pinckney/?utm_source=rss&utm_medium=rss&utm_campaign=2-etap-modernizatsiyi-uss-pinckney",
-  "https://militarnyi.com/uk/news/zavdaly-raketnogo-udaru-po-zavodu-energyya/?utm_source=rss&utm_medium=rss&utm_campaign=zavdaly-raketnogo-udaru-po-zavodu-energyya",
   "https://militarnyi.com/uk/news/ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv/?utm_source=rss&utm_medium=rss&utm_campaign=ssha-zaboronyat-v-yizd-kytajsky-avtomobiliv",
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHFjYnl4LUd4WWtUSEpJUVB3YW1JRXNWNFEzMW9HcWszNTcxd0xVSURoYlZDVnNuenJ1bkxFc01JS3g4TG1UNVFzdVFYWndxTnk2S2dIblhpUmNqY0g1Q3ZaQW1EOUNfUl9xTE9SOEROQUJZYk8xaXpGaUJvUjlDRjQtY3RqU1hfZkI1ZXNqYy1xY2hIbTB3Zllva1dhaGF5TlEySUt0Sl9IYkJoWWc2VVNXTmwwWVJ6bjZsY0FXRVR0Yk8xa1lySUtRM19kcWdjbVdKSWJPdw?oc=5",
   "https://militarnyi.com/uk/news/ataky-na-rosijskyj-lypetsk-nevidomi-drony/?utm_source=rss&utm_medium=rss&utm_campaign=ataky-na-rosijskyj-lypetsk-nevidomi-drony",
@@ -298,5 +294,9 @@
   "https://militarnyi.com/uk/news/syly-oborony-evakuyuvaly-167-hersonshhyna/?utm_source=rss&utm_medium=rss&utm_campaign=syly-oborony-evakuyuvaly-167-hersonshhyna",
   "https://militarnyi.com/uk/news/u-latviyi-tsentr-vyprobuvan-shi-zv-yazku-6g/?utm_source=rss&utm_medium=rss&utm_campaign=u-latviyi-tsentr-vyprobuvan-shi-zv-yazku-6g",
   "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdUpjN2piWVVDb2plWmpyX2VsVzBwUXV1aEZjVWx4U2pZaWRiUVhDTmpaMXJEUkpzT1l1TnJKaXQ5WnhmdjlkRTd5YUJzNWMzT0RDMXNkSnFFV3I5Ql9hdU5ydkxPT0lqN1FsSWdwR1oyM3Z1dUZLWGdsUFhvZGtrX0Nqd01Wa2tyWFFqZWpWVW9kUzlKZ2pXZjdvX2pMbFJQSnNTRXVXXzVlcTdSUXlGa0NfN0FfaEs0YnJCOThwRG8xWWpMRVBFc1BZdV9qOWtpZUhrX0hxdEc0ZWY3blhVTWxKbnl2RDR0Q0hUZmpOaXJpcm5ycm5N?oc=5",
-  "https://www.navalnews.com/features/2026/10/four-decades-of-naval-expertise-a-new-global-chapter-for-hanwha-ocean/"
+  "https://www.navalnews.com/features/2026/10/four-decades-of-naval-expertise-a-new-global-chapter-for-hanwha-ocean/",
+  "https://militarnyi.com/uk/news/ssha-pershiy-polit-prototyp-hades/?utm_source=rss&utm_medium=rss&utm_campaign=ssha-pershiy-polit-prototyp-hades",
+  "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli/?utm_source=rss&utm_medium=rss&utm_campaign=protector-rg1-10-godyn-rosijski-korabli",
+  "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWk1yWmM0dWQ0Y21UcU1sODV4cEl2SzYxQkMtQklzSmhkTmd3dUlLNGtHSDRpM1F0Y29hbk52d0Q4dG4zazdTV1hhZVZodmV3dElVUUNoc1VROHJwd0VNV3hQRVlNeHJSclRFckJwTHdHRFQwY215TEJBdGFoenVXeDAzU0ctZlBPcjRpakMtMGpJSWNVdWFnMm05eUZ3WEZoSE53c1NOOTJHWEI2cm9kWkVQYzVUUXloSERQWDNsemxMSVktMW9RVzNGNW9YZVhpSW04U194MGMyeURkckJZamJWOW9mQW9vbTJhM2VweXBFcGlYYkpyUW5kUmhGQ3pmaWcyUzNn?oc=5",
+  "https://www.navalnews.com/naval-news/2026/10/china-expands-construction-of-type-071-amphibious-warfare-ships-to-guangzhou/"
 ]

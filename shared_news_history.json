@@ -1,12 +1,10 @@
 {
   "links": [
     "http://africanews.com/2026/10/31/tshisekedi-seeks-putins-help-against-rwanda-backed-rebels",
-    "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
     "https://middleeasteye.net/live-blog/live-blog-update/morning-update-656",
-    "https://middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
     "https://middleeasteye.net/live-blog/live-blog-update/syria-weighs-joining-mecca-defence-pact-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
@@ -15,6 +13,8 @@
     "https://militarnyi.com/uk/news/f-16-cherguvannya-z-aviabazy-erekson",
     "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
     "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
+    "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli",
+    "https://militarnyi.com/uk/news/ssha-pershiy-polit-prototyp-hades",
     "https://militarnyi.com/uk/news/syly-oborony-evakuyuvaly-167-hersonshhyna",
     "https://militarnyi.com/uk/news/u-latviyi-tsentr-vyprobuvan-shi-zv-yazku-6g",
     "https://militarnyi.com/uk/news/ukrayina-otrymala-majzhe-3000-senator",
@@ -26,13 +26,10 @@
     "https://navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates",
     "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
     "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUkdfS3pMZ2o5N084UUZFWHZIRXVIbExkZ3lzUXU5LUVUNnZ5SVUtY05HaTRrMHNGYzc3bUZpZml5SE5IN3hrdV80bEhYd0ZCa09ST3kyOWE",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PdGN4bmp0eHh6cE9KaDRzN1Z5N0xBdnYzbnhKM1Nrdm16SmlZdE1NekZrTXZuaU9TYWo3dzE0M3J4SUY1R1dDNV9DRlc2aFIxVk5waVIyeUpDcVF1WExFNkVIQ01WYWJka0ZxMmowbzV2OE5YakxMRlVpUQ",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckVIQmhIUnd5bkhTY1NEUHpuaWlnTWYtY3lMUW5iUmJqTWh6WjZBZFdaNURocEZ6dk9QeEd6SkdNR0h3REo4aTJNY0gwY0h5QksxYnUyNTQtdjdYV1dhdGoxV21JUnlkRkFqcVdSUTN3Wmx5bnZIcTFyNjJEeTZLRlRyblM2dG9E",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1YzNk1XeGRTYXZBdV9sRUxRMEtDSEtLaXR4UVQxNEkxMmlfM2dseVB6U09JNGkzaEg5WV9RbmR6b2dtbzE4cTlWd2JKYnEyYU9ES0laMGx0VFR0NzJ0OGNSM1hkRjY4dXJGVjFfb1BlMEJGT0FyYlBkSTVVMGY0a2xYbWEzOEtIWGYxVDlQNzJSNGJndkVzMlZn",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejRpTHVRbnpkVE90RGtubF94QktpTHNTbGlfTmptbWdQZEpvOEY5TUpuaEFpMG5QYlRlZF8zbU5HR3Nla3NBMU5ucVZpQkNUWmhrbkRXQzVKbUVCUVI5UmxaT0tkaFo4amFIUG1OcDNvTzFBc2o3MUk0RjZ3M29CbFVVVkF0Sm43Q05FR0NyTlhwd2dqM25ZMUZEWEpWbUdYemo2RTNMVWY",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYW1naGk0UUh3UnFhTUw4NEcwM2Vid09Db3FUbl91bXBhNDdjQWVaYWZjajNDVHRTenN1WEM5bGxJZ3dCMkJ5eGJybS1tbVNRemo2UGhrRXhDVHF4NzBTZzF6MHpKenVtX0V4N2d2ZFNfUmdoM3prNkhsR2RwN3NlTVJzSGJpZ1o4UHNSY3J0RjFEcTZwVWZfSG9tZ3N3Z2hBbmprTVJXYlRqd1NaVFZabw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU25YOUZ1U192TlJqVExLak84V1NoUWlPVDEwUUJ4YWptRWN5djNhb0xLbHhZSE5CeUllOC1TbGFySHBRTV9hMDdVbjNzMlZnNjBOd3hBY25zYkM0UGJBVWNUV0dUUXpwVGJPSkI1SUlIM0VKb1B5ZjIzTDF4STV4Z05tQUJIRE9mQUVxTUZRc1pSQk1ueTNWOW9iV0xCVWhYa1kwT3BiM1lvSXRUUHpBS1BRbUo",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDcwblE5RGttbEZ0eE94UEZQUTJabDdJOE1hcTdDVWtMZHJFUlBHbmZKRE15bnlRT3BIVlZYblRwMzlDYkZkSnN0MXIzUjBpYnFwSWppOVhUeER4Q3ZQNTIwVzVxMUU3OHdGZzN2ZUlEcVdENkZ0YVNBakpOaGtOcGg4T3NlVWdQaFBETjNzOWJ1UUdUbkZvbU90YW5FVVdqUHpCN053ejJsVzVxMDU4NGd6dFNQQdIBuwFBVV95cUxOS0ZLMmctVlEzTmlib3FUTHpfd0lpemRYYVVkZzY1amw3eTE0c3BjaFE5ajZXNHAwOXVQWEtqa2d2d2VoN2QxWklGWFhzY3JJZk5tU3N5cnI3SVZ1SjR6a01MbWp6ZTN1M29RcEpsQXNhNkQ4MnZ1cGFGQ250MkdoVExIR0VBWkxWMWplUXVmLWdXaHlXQ19UNkY0emFpUlZyWE56eFh1WFdrWEl1RENHWFpNMzBpZnAwRUdN",
@@ -42,56 +39,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84"
   ],
   "recent_posts": [
-    {
-      "title": "Poland now six times richer than Venezuela since 1990",
-      "original_title": "Venezuela Was Richer Than Poland in 1990. Now Poland Is Six Times Richer - USFunds",
-      "summary": "У 1990 році Венеціуела мала вищий рівень добробуту, ніж Польща. Сьогодні, за даними USFunds, Польща в шість разів багатша за Венеціуелу. Це свідчить про значну зміну економічних позицій обох країн за тридцять років.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "USFunds",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejRpTHVRbnpkVE90RGtubF94QktpTHNTbGlfTmptbWdQZEpvOEY5TUpuaEFpMG5QYlRlZF8zbU5HR3Nla3NBMU5ucVZpQkNUWmhrbkRXQzVKbUVCUVI5UmxaT0tkaFo4amFIUG1OcDNvTzFBc2o3MUk0RjZ3M29CbFVVVkF0Sm43Q05FR0NyTlhwd2dqM25ZMUZEWEpWbUdYemo2RTNMVWY",
-      "published": "2026-10-31T01:00:46+00:00"
-    },
-    {
-      "title": "Міністри закордонних справ Саудівської Аравії та Росії обговорили Ормуз на G20",
-      "original_title": "Saudi and Russian foreign ministers discuss Hormuz, Yemen at G20",
-      "summary": "Міністр закордонних справ Саудівської Аравії Фейсал бен Фархан провів зустріч із російським колегою Сергієм Лавровим на полях засідання міністрів закордонних справ G20 в Атланті, США. Згідно з МЗС Саудівської Аравії, сторони обговорили регіональні процеси, зосередившись на ситуації в Ємені та морській навігації протоками Ормуз і Баб-ель-Мандеб. Reuters зазначає, що присутність Лаврова на дводенному заході викликала невдоволення багатьох міністрів через глибокі розбіжності щодо воєн в Україні та на Близькому Сході, що може завадити досягненню прогресу на переговорах.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
-      "published": "2026-10-31T01:13:30+00:00"
-    },
-    {
-      "title": "Папа Лев XIV розпочне візит до Уругваю та Аргентини",
-      "original_title": "From Montevideo to Luján: Leo XIV’s tour of Uruguay and Argentina",
-      "summary": "Папа Римський Лев XIV розпочне турне Південною Америкою 6 листопада з Уругваю, де зустрінеться з президентом Яманду Орсі. 8–11 листопада він перебуватиме в Аргентині, що стане першим візитом Папи до країни з 1987 року. У Буенос-Айресі очікується зустріч із президентом Хав'єром Мілеєм та офіційні заходи. Аргентинський уряд оголосив три вихідні дні для забезпечення логістики візиту.",
-      "source": "MercoPress — Latin America",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
-      "published": "2026-10-31T01:14:00+00:00"
-    },
-    {
-      "title": "Узбекистан об’єднав Середній коридор і CKU",
-      "original_title": "Uzbekistan Integrates Middle Corridor and CKU Railway to Shift from Transit to Logistics Hub - PravdaReport",
-      "summary": "Узбекистан інтегрував Середній коридор та залізницю CKU, заявивши про намір перейти від ролі транзитної країни до логістичного хабу. Це передбачає використання нових транспортних зв’язків для підвищення об’єму перевезень і додавання вартості до товарних потоків у регіоні.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "PravdaReport",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1YzNk1XeGRTYXZBdV9sRUxRMEtDSEtLaXR4UVQxNEkxMmlfM2dseVB6U09JNGkzaEg5WV9RbmR6b2dtbzE4cTlWd2JKYnEyYU9ES0laMGx0VFR0NzJ0OGNSM1hkRjY4dXJGVjFfb1BlMEJGT0FyYlBkSTVVMGY0a2xYbWEzOEtIWGYxVDlQNzJSNGJndkVzMlZn",
-      "published": "2026-10-31T01:24:00+00:00"
-    },
-    {
-      "title": "Росія та Іран посилюють торговельні зв’язки, проте мають обмеження",
-      "original_title": "Marriage Of Convenience: Russia And Iran Deepen Trade Ties, But Their Partnership Has Limits - Analysis - Eurasia Review",
-      "summary": "За аналізом Eurasia Review, Росія і Іран поглиблюють взаємну торгівлю, розширюючи економічне співробітництво, однак їхній партнерський зв’язок стикається з певними обмеженнями.",
-      "source": "РФ · економіка, бюджет і зовнішня торгівля",
-      "publisher": "Eurasia Review",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
-      "published": "2026-10-31T02:00:01+00:00"
-    },
     {
       "title": "Прем'єр Китаю Лі Цян прибув до Санкт-Петербурга на переговори з РФ",
       "original_title": "Li Qiang Arrives in St. Petersburg for the 31st Regular Meeting Between Chinese and Russian Heads of Government - 中华人民共和国外交部",
@@ -441,6 +388,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84",
       "published": "2026-11-01T18:00:43+00:00"
+    },
+    {
+      "title": "Британський БПЛА Protector RG1 10 годин спостерігав за російськими кораблями в Ла‑Манші",
+      "original_title": "10 годин в повітрі: новий британський БПЛА Protector RG1 вперше слідкував за росіянами в Ла-Манші",
+      "summary": "Уперше у британському повітряному просторі безпілотник Protector RG1 здійснив понад 10‑годинний розвідувальний політ над Ла‑Маншем, стежачи за російським фрегатом та торговельними суднами. RG1, модифікація MQ‑9B SkyGuardian, може перебувати в повітрі понад 30 годин і працювати на висоті до 12,2 км, що забезпечує тривалу морську спостережливість без озброєння. Така здатність підвищує оперативну обізнаність ВМС Великої Британії та підтримує зобов'язання перед НАТО щодо контролю російської «тіньової» флоти.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli",
+      "published": "2026-11-01T18:57:09+00:00"
+    },
+    {
+      "title": "Перший прототип розвідувального літака HADES здійснив успішний політ у США",
+      "original_title": "У США вперше піднявся в небо прототип розвідувального літака HADES",
+      "summary": "11 вересня прототип HADES Prototype 1, створений на базі реактивного Bombardier Global 6500, здійснив дебютний політ у рамках модернізації авіаційної розвідки армії США. Літак поєднує до 18‑годинну автономність, підвищені швидкість, висоту та вантажопідйомність, а також інтеграцію систем SIGINT, що дозволить замінити старі турбогвинтові розвідувальні платформи та розширити можливості довготривалих розвідувальних місій.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-pershiy-polit-prototyp-hades",
+      "published": "2026-11-01T19:46:07+00:00"
     }
   ]
 }

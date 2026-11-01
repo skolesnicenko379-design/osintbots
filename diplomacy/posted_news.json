@@ -1,18 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hpUVhpdWxEVUt3Q2NjakZWeFlGWDFqc09Ed1pOc3otcFZOWVFhOWduSzRnLUlNVFVyRHBXRWc0VEhka0NveUk1Y2NkaGg2bHVqU2U3bVNORTdaUXdZaTVVXzQ5NHRqcXVQRGZFejAyU2tRa25RNV9PWnZ6N09MOQ?oc=5",
-    "http://www.africanews.com/2026/10/22/guineas-ex-constitutional-court-president-sentenced-to-seven-years-in-jail/",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWdkMkxxanZtdnU4c0RSNmJMYndEVDF0WHlWRHY4Q0FzM19tR2QtYldfeGJfNmpNeWVYUklfQ0J2X3ctMjNZMkJGUExkLUNuLVFaN2RrSWZkMnJpT293TTJ6UnB6U1dlVjlGV3RuV2NEREtjbEpUNHNoQ1pPcUhFWjI0aW1kTVlWNmNwMVFaWVRvN1RPenFmd2ZMMUMzLXNBRmZ5RmtfS1hQWXRGb2YxRjNWY3VVTGs?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWNHV0JtR2xmXzJiTlk3OW00QmFFTlp2b1I1RktRUFFfOGlJSV9yOWc5WndPMEZtYVYxOFp3SGZteVk3aHNWNHVfU3RNbWlJZDdTNDkza19PNVhQNk1nMmpQR1B1R3FPUWxsbEtiM0lEb2RzeFVzdjg1bzh6T1NKcnJQMXhrMURTM1FlaDl0Q0RWNEhuaE8zUw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/impact-houthi-attacks-saudi-economy-limited-now-imf",
-    "http://www.africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis/",
-    "http://www.africanews.com/2026/10/22/swiss-and-austrian-women-in-libya-after-release-from-niger-kidnap-ordeal/",
-    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2dxTF8zWWtjX0gzQ0hIWlBIREJVaVBxMmFpR2ZSMXF6MFV0ZW45RHlpcTF1STVlLTU2aEI4SVNabU5Gc3Y3MlZyMW5BcUM5ZkMyTm1MWnlZN05MSC1WUzFLSXRoUHE2Q2pJYlRRSGVEZTdIeUpFSDJWbGVYU0puQU1tckF0Z2dsNjdneGlnYVBET2doTzVaOEdaYUl0b1hReEtsYXphSk1fd1lReXZMbVUxX3gyTWZXdWl1VzZJaF9DRUViSXUtNXpXM25XOEgtVEcyNXdsZEdNbUtveFhCeUdpOXAwSy1ZR09UNWhfdmtQV25qSnFPMVB2emc?oc=5",
-    "http://www.africanews.com/2026/10/22/crowds-watch-twice-a-year-sunrise-ceremony-at-abu-simbel-temple/",
-    "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVnkteHVTWTlnNVBQV2VhRFBOYWQ2bUJvRDQ2b2JQU29WRklTRnprLTBhTnZESU5SNGdCX0pMRWJoeXU2RlNQSks3bGdGT2FIcEtzamZFNzlJWmFQSjU1dFJKby10cmFFbEMxX3I3X3RuSTNMdHY2QTRIVzJTYXFVdnhwVEl2YU1xMngyOWcxaEhHZGdMZldZaHc5NE1fLWFWSGNUNkV5cUpUOG4xdERzeUhYaEs3YkJPdXZfQXd2T0J5YTlOeVVvWERYLWZVdVo0Ty1kTG1GVWJtelRDQUFOVTVkVUxRWE1aMzRFTDlFOFROMktBWkVlVk0xWkcyNDNFRWw2dHV3?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdW8ycHFBeE1aazhMQ0ZfSlpXUGlHSTVpN1hoWWtpb3N0aDF4Smgyc2lnZWVsUzk0OVlMaEZ3X05mM2lBTVVORkxRM0hpTF9ucTlqek1lU2JJbzBQSTR5SnNicVlpWFR5VkNwVDNTZzVHX3B3TDFhYzcySjRDak5iTGc0ZzhKTV8wVFJuUTNvdVIyVHBLYlQtalNJNmJjZDJKcWZsd1RlS3NnUTh1QkM0T2JwOGFSbnFjbkE?oc=5",
-    "https://www.middleeasteye.net/news/pro-israel-lobbying-group-aipac-ends-endorsements-direct-funding-us-candidates",
     "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-common-enemy-pro-israel-network-forms-parliamentary-groups-greece",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODdNYzB2bU9oSjhScWFza0M4LVhHWmY5bG9fRXp6d0M1VFp0M1FtNGhIT2dVdUhnY3duNGY3RGZNaW81UWxPb1lfMWhWZjNkOVhjdlZnWG1ZMU4wd08yZXVXaGxaLWpXZ2d5dFI2Q01ZaFExQS1TcHRTNmhrUk9FXzJjZ2sxZVQtQzdPRE5SeWxFSDY3T2E0WllzWkJGc2dHa1lCTTd4bWgyRnNtWVdoNFp2dUdnb2lvYkR0MGhtdlViUzQ?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-expresses-appreciation-qatars-mediation-efforts-call-prime",
@@ -1199,23 +1186,22 @@
     "https://www.theafricareport.com/434787/from-civic-turnarounds-to-the-banking-c-suite-inside-kenny-fihlas-pan-african-power-network/",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJLUFRKTG5MNDdobUNEa2s2VXFkYmlFUGxFSDZUamhnUnFFQTgteWdfYXdMQnpTb0ZlSVd2Q3BzNmJmaGZDYldrdkhIZXFoLWsyb0t1MXJGT09UTTd5a3FJeldSdm9CRDI4N0xPck8zVzh1UTBPeUlLVEY4Z1FxZGx3NlNMRG5fOFNKZ2o0NVNxMTBPdUNCUw?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VUFBYZmJzQVJUOXdTNjRkMEo0bFVIQ3gxemRRQ19HNXczNW1qSnBkM3dZN09mUExZZEhDcEN3NG9qSG9tZzlhaXdxWXBsVFk3ZXlNQnNEZWc1MmZfUk1rS2hhV3QtTHVsVFNFN0tyVk5VdlkyN3VxbWFEOUk?oc=5",
-    "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/"
+    "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0lYM1lPUk9zeV9fcjRTS3lTQlpka0lleVJ2OFJuVVdmdHdvSFlIeldtbUtGX0djQUVjUXI3X29yNm5mc2lYbFVMNDlFcEQ2UXJ1cWh2Y2ZpeDJDRENwN0xDcjZsdEhGakhmUzUwWUE5WnVMU0Q0dDU5ZnZCcTJBSXUxT1M2amdsTHlpOTZGWWdXTzRaYU5Sd1prRnFZcUhQY1F4Z1VNcw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUJjbmVISWdZb2FkX2RRUkZDNDAzRDNYYU9wYzROWnVZTEEtTFZ0WVhEY1dwVEg2aTZNb3BKT3ZCOXllMWRvYXNwNERDS1ppai1Za0pyOTdsbmZxaVFHYldPMFlPbnNNSXREalBDVUNKam9fUk9OalBCNWRXZXl5MHU1a0VsbTUyUERNRHMxVWRkVnpMX01JRTNTVEQ5M19WTm1ZeDhn0gGiAUFVX3lxTE1uYkJlMEdpcXhoTHdPWjNFU0FsRHNhWDM1eDlxQklYb0R3SnpKUGhuODNFdElzT1EzeF9uUWk4dWhNUjJSd19VRjZWMVlHMkZBWUpQWDR4cFZ1ZUk2WEIweWFGY1RFY0lPM0pqcnNDLWN3X2lwRTFKMENTeWk5c2lid0hvTTJySWRrQmdXcWVIb3J1emdfYk5ZN0w0dzFta3F1dw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-ten-people-gaza",
+    "http://www.africanews.com/2026/11/01/in-lome-a-soviet-era-sport-celebrates-togo-russia-ties/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-repeat-threats-against-saudi-oil-giant-aviation",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HdkJmcXhiLW9YcWRQZlZmT0xwTXJyejhRY1BhMTV4NThpY3ZEWTh2UjlYdmZtbHFqdE1SUjFuT1hNaXlWN2M0NlRPV3B6NXg4MjRIcWR4dng?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUkdfS3pMZ2o5N084UUZFWHZIRXVIbExkZ3lzUXU5LUVUNnZ5SVUtY05HaTRrMHNGYzc3bUZpZml5SE5IN3hrdV80bEhYd0ZCa09ST3kyOWE?oc=5",
+    "http://www.africanews.com/2026/11/01/hundreds-march-in-johannesburg-to-celebrate-lgbtq-pride-in-south-africa/",
+    "http://www.africanews.com/2026/11/01/africa-suffering-in-strongmen-era-governance-watchdog-mo-ibrahim/",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ncHFWay1VOUd2Ykt5Nm1pLXBnaVplTVZxR2E2ZllhNXp3NmNTeTZBS0VoMWNidV9CSnFCRUtVS2NjU3hHRjVSQWxramdMN0RFYTM4QjJVclVrc001LTdQRzdMT29DTXFTQWhEVk5uM3B0Q2IzRHNz?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NRVN2cUN4Mm5QT2d1U29TeVFmLU94c0VWTzFEZHh4MFdQOHIwLW12VDBYNm92Mk90MzNELXBnU05memhFeUpjMl9ZRzhnd2pfTUlOa2VBbmlXRDFKSUxyRUk5aTBNYXBxSy02TlNtdWc1eEtaanYw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Іран отримав лист від Ванса, ще не відповів",
-      "summary": "У листі, надісланому американським віце-президентом Джей‑Ді Вансом, йдеться про відновлення мирних переговорів із Іраном. Лист адресовано іранському голові безпеки Мохсену Резайєву. Іран отримав його, але ще не відповів. У відповідь Іран наголосив на своїх семи умовах, які мають бути виконані США, і відкинув будь‑яку позицію, що суперечить цьому плану.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-29T14:58:47+00:00"
-    },
-    {
-      "title": "Марко Рубіо та Еліна Валтонен підписали меморандуми про критичні мінерали",
-      "summary": "Державний секретар США Марко Рубіо та міністерка закордонних справ Фінляндії Еліна Валтонен провели офіційну церемонію підписання меморандумів про взаєморозуміння. Сторони уклали рамкову угоду щодо критичних мінералів та угоду про технологічне процвітання (Critical Minerals Framework і Technology Prosperity Deal). Подія відбулася за участю представників зовнішньополітичних відомств обох держав у межах офіційного візиту та двосторонніх дипломатичних домовленостей.",
-      "source": "Treaties & Agreements",
-      "publisher": "U.S. Department of State (.gov)",
-      "published": "2026-10-29T17:10:53+00:00"
-    },
     {
       "title": "Велика Британія на ОБСЄ підтримала результати саміту Берлінського процесу",
       "summary": "Посол Великої Британії Нейл Голланд на засіданні ОБСЄ привітав Чорногорію з успішним проведенням саміту Берлінського процесу та лідерством протягом минулого року. Британський представник наголосив, що ініціатива сприяє практичному прогресу в інтеграції, стійкості, примиренні та зміцненні безпеки на Західних Балканах та в Європі загалом. Велика Британія підтвердила подальшу підтримку цього формату співпраці, наголосивши на важливості інституційних реформ, економічної інтеграції, гендерної рівност",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "ASHARQ AL-AWSAT English",
       "published": "2026-11-01T10:22:03+00:00"
+    },
+    {
+      "title": "Саудівська Аравія засудила атаку на катарський LNG-танкер",
+      "summary": "Міністерство закордонних справ Саудівської Аравії офіційно засудило атаку на катарський танкер зрідженого природного газу Al Mayeda, який належить Qatar Gas Transport Company. У заяві, опублікованій у мережі X, саудівська сторона підтвердила підтримку заходів щодо захисту катарських суден та міжнародної торгівлі. МЗС Саудівської Аравії наголосило на відмові від порушень, що загрожують безпеці морської навігації та глобальним енергетичним постачанням, і закликало міжнародну спільноту негайно діят",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-01T17:44:54+00:00"
+    },
+    {
+      "title": "Єгипет підписав угоду зі Світовим банком на $1 млрд",
+      "summary": "Єгипет підписав із Світовим банком фінансову угоду на суму 1 мільярд доларів США в межах реалізації другого етапу програми політики розвитку. Цей крок спрямований на підтримку економічних та структурних реформ у країні через міжнародне фінансування. Докладної інформації про конкретні терміни виплат та інші супутні умови в тексті джерела не наведено.",
+      "source": "Treaties & Agreements",
+      "publisher": "Ahram Online",
+      "published": "2026-11-01T16:15:34+00:00"
     }
   ]
 }

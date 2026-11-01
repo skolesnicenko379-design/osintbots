@@ -1,19 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHV0ZDdpUUktTFNJaHNDOVhHanRlZ1BiOXkzLWEzVG5QTm9ibHZUWVhKZGJ0OHVHT0gzYVc1aWdhcDB1V3h2YlgyQkZQSGxaMWFFUndJM2w4dFIxXzF5NHRlTVdlbmx6Ry1Jb19pZmx1SnJUekRLM1ZNWHNnVmVOWmdrOXB1dGVRZ1V2cWd4dmxNU1RWNW1WdmJTamZ6S3JZYjd1THQ3aGJCNGM5SXJlbkFB?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFNtUm1YSVZGZVhCckdqYVNOS0pXdUY2LWJuSlVPd09aV0FUMFNpZmk3cDMtYlU5NjNvT0hKWFd1ck5STU10UDh6UlNsZ1lYbkE1QTlCV0hwSXU5X205Nk95NUpOekVDZmQwaklmMWdJVXVOT21tYjc4eERRN2lHcVZybzJ6T196RURwN2dQRHlpT3lISk9RdGJvWUZvTVVfYk1WNDJ4b29JMzRuM0hCcHBmVjNxVDNuSXpZTG5rVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipANBVV95cUxOR3Q1S2hnQkQ3VTNNa09VWHZGZlJwT0ZGcG5haTFTUVFTbkgtUTNjQ1JHSEJQdGVicUkxcTlUekh6c21RNkY2RUFlYjRwWG45eUlnUGxUUktfTkdFeXNKQVFxWUtHUFFoTUt5bkR1blBVM1dzeWFrTkZQMS1uanpnckY1OW9PZVVISzIyNHhvU1RiWXhOLTYtN0ppTklINUdDa1V1WThfc1ZOLWtYdlJTck93d3BraTBob21HRjZWbk95QzF3MTdMXzRlU0Y2YVFDYkhuVXN2aVc0UHF0NzhubVVycWFodVAxdjFGTHFFbGxoVzhhaTNyTWNiVXdwbTB1RE1aT1B5T1pQNGpldm9SRmlTMVQzQ2c3ZEotcjBUZi1lSngwYUowOFYweUF2Y1dxeXYwUlhEaHl5MVNhdmJCdElUZzZ1MmtiWDdpTmx2MTVNMzN3MWpDbHNvd092Y2ZtMlRMc09jTUpmWFcxRjVRclZCX1ZydjFDcklHNkN3b0pJVWtHc0ZHMFplU2lDcHdaYjVpYWdjT19pTFlpSEg0YWVRaTM?oc=5",
-    "http://www.africanews.com/2026/10/22/madagascar-pauses-corruption-cases-relating-to-ex-president-officials/",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3gwYjdNU1dJNFBIdkVOYk5FcXBYZmlCc3d3Q2k3YkxySDh1dDdFa3d4UGpyd0MweHFEUHYwOWZIZUdRb0Z1ZmdESlF5ZjBwanlCLUtUTmlqeUY5aUFXRnNkazVHVFlGa2poamVBcDlCUmpsSEh4R3pNcXd2c3l1YXpDNHVxbjVzUlh3ZzBGVjYyVTlxX3ZNblk0RWtkUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pVEE2SnJMN212S3RmTkxuSkhTXzF3Y3ZFa3A4WU9GQ29HcXQwSTdTc25RbThQUUFZMGVBVzJ0enVqcGNkcG9oYzlqeTRCNmF4cWJEcEJfS0ZBS2tuZXlfbHFRZDBXTmV3TXVBZW0tVG8td01oM3NjSHF3?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strikes-kill-one-palestinian-wound-13-gaza",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEUyNXYxaGo4TE9FV3hBdjJZZjNWQnVvYUtoRTFKQXN5MWRfeWYzX0h0THU3ZU9HRTZvZXc3eGpTLWlkX3RYQ0RJMlFteUxhOEFmeHZySkt1WU1wcjRPb0pOcjA4UTZDNmR6YlpBcVh4SzQ2WS1YY0Q2dnI5WDhOaUtNS1ZXdw?oc=5",
-    "https://www.theafricareport.com/434290/rwanda-paul-barril-the-french-secret-agent-at-the-heart-of-the-tutsi-genocide/",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmo5dEpYQTdRWVUtZFFxb2h0Sm1XamYxd3FQRkx2OFhtZklxeTdlc05sYk9TMWtHczI5Nm1iYkJLdTZqWFhUUjFPb3hQRUp0Y1FtWHNBRndlVFpGZjktRVZXakNjWVQ0ZjBQQmFIQkFPQ3JJNzg5ZTlyN00zMnpwNEtob3FndGs0RnBvb1BXTkxTVDlyQ29obWpVOEVIVGtDQjlJTHBhTHpEMEpZOTBzN1JQbnludVU?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ19MN3ZybE1NUjNRT1p3b19IRzYybkoyWTRVQVFhbmZpQ3IyU3hKVjJtTXZPaVFSVmozUlNmU3dLU2tVUTVod0F5Q25USkQ3a0hsYzltRktTTURBVWhvM1U4cTJBMUF5VGkwRTUwak51TTRBTmZVbUZxNnZDcGNuV2lWQ0hXNUpTeTlSUVNqQmRpRzJ4RmVockpwQVcwOUZIZ1NHR2VuX1BXbWpCTklhNm9STlM?oc=5",
-    "http://www.africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court/",
-    "http://www.africanews.com/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest/",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hpUVhpdWxEVUt3Q2NjakZWeFlGWDFqc09Ed1pOc3otcFZOWVFhOWduSzRnLUlNVFVyRHBXRWc0VEhka0NveUk1Y2NkaGg2bHVqU2U3bVNORTdaUXdZaTVVXzQ5NHRqcXVQRGZFejAyU2tRa25RNV9PWnZ6N09MOQ?oc=5",
     "http://www.africanews.com/2026/10/22/guineas-ex-constitutional-court-president-sentenced-to-seven-years-in-jail/",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWwxek1oU3lWekgtZklUTFFuN204anZrdGctSnJJbHJCdUd4TDBaclZVLTVHZXh6V201MHhiMmpjcVdqUmZwd3hQeERFUlk1Q1BUdEI3WkRlMktRRGJUaDJCSFJiWWttR3ctbTdHZm1ETXk4MzZwZkxwT1pjRWpRTldfYjU3YjV2SVhQX0NXd1BaLWtJd0xGT05jcTRaNldQdnRzbnZUcXhFQTQ3MW96b3lIREtDWDBkbW9qcVMxVmk2a3RmVGdBZ0hqZEFKYy1KWnB5Ql92ek5VUTFxS19NTkpCb0FveEJFM0E?oc=5",
@@ -1199,30 +1185,23 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlJtaVJ3WjM1TjNwWFVZeGd3aVFIdFNUb3dHMmNUanhtODY3Q0xiSUQzS09vMkpJbHVhQjNTMmdFRWNVbmZKRmp0ZVdVczR5RGhRMWZ6Sjl5azdzb0hCYlZjekFaVjlHeEx5M0d6bnQ2bG9VeDRGQWFVTlFmYk5QNVhKSm1SV3Nqdi10MVNyUGpGYjl6ZC1qdktDUDlmbFFkRXRGVEdtVFJVa1g0NkJOdQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3NNRmg2clZoRVpOMUxsTjZ5RHZDajUzN0RtUV9JamxybFkxTFNQeEticnVzSWtjYmp4WXBBNjFySEZ0cEc3NlpUaXlBMnNiTjE1enRsMXJra3BVcUxLTkNTVjZ0WTl2d0hpZ0hJYk1UeGp0ZU94U0VnVDVGeU51ZV92S3J0b3BQVG1EUzZwNA?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVlEYTZpZUlCVktEZGZRSEVKREllNU1GelFrR0V5UG8xNTIzd2RtUUdtQ2VaTFlqMjFOdUczdGQwYmRMVVJLUlN5WUwzeWJQZ3NhZUdtX09nSEdvcVBOT0N1dDRWNGNTT3VhbzZsOU1CZTd6Sjdtdm9Oc0FGWEE2UWF2SWxldDg5Vlp3VGpic2pzVVhsVDd3VGRRaHQ5MXNveks4XzJ2SjJiQ2tJa08tZExMNmEzZ1R6aGlaVEkxeUJ4dmdQZVBfYks3MGE3UUFM0gHQAUFVX3lxTE4tWURhNmllSUJWS0RkZlFIRUpESWU1TUZ6UWtHRXlQbzE1MjN3ZG1RR21DZVpMWWoyMU51RzN0ZDBiZExVUktSU3lZTDN5YlBnc2FlR21fT2dIR29xUE5PQ3V0NFY0Y1NPdWFvNmw5TUJlN3pKN212b05zQUZYQTZRYXZJbGV0ODlWWndUamJzanNVWGxUN3dUZFFodDkxc296SzhfMnZKMmJDa0lrTy1kTEw2YTNnVHpoaVpUSTF5Qnh2Z1BlUF9iSzcwYTdRQUw?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aZ3pfUmxFY1hmSjVTcm0wT1lFcEFHd3VfZ2FmXzlETzhKZ0pRZmo1UXVSUkVyQmd5TkpFMDc5ZnJWdWlMTUZlaXo4bzdRSHlIX0NWZnZuQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aZ3pfUmxFY1hmSjVTcm0wT1lFcEFHd3VfZ2FmXzlETzhKZ0pRZmo1UXVSUkVyQmd5TkpFMDc5ZnJWdWlMTUZlaXo4bzdRSHlIX0NWZnZuQQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yamaha-skip-qatar-grand-prix-over-security-concerns",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRV8yMTZTWFh5S1dTWnlmYVo3U3VCNVhIZTJwSG9kY0RLRmlVX2pXYzdJUEtTREtLb3EtYmpuNXhnWUhsNkJwNmpfYThKR0hGdGRZMjNZZUdRekczWG5DeEJnQm5mVHpYYmNCcnRVWHdURE1yWlpJMTJ0U08wRW9tVTZOM1dKU2VIa2Q1eElnak1JQTQyckh4WFE5UlNtcWx0UlFpaVozNUJNOUdCa2hoc0hzWjNXbF9hMjJpZGtDWG5kR1JzZUpNWENEcnE4czA1WEJTRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckVIQmhIUnd5bkhTY1NEUHpuaWlnTWYtY3lMUW5iUmJqTWh6WjZBZFdaNURocEZ6dk9QeEd6SkdNR0h3REo4aTJNY0gwY0h5QksxYnUyNTQtdjdYV1dhdGoxV21JUnlkRkFqcVdSUTN3Wmx5bnZIcTFyNjJEeTZLRlRyblM2dG9E?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlFiNnFkTmpUcVdvald2bExhR3RXdlZMb3laRnNrTUhOVWlpUTZNQm5qenR0cF9IenRNQlFnVnhEd0RrUWJKcmpkUDRCWkdnOFpHdEROakI5X2xPMXFOeFVteTE3ZE1WbnBvQjRROUtJS0JnNDV1VzlCZ3dzN2ZPbzZfR3ZhZVFUQ3V6bW02aw?oc=5",
+    "https://www.middleeasteye.net/news/iran-has-no-intention-engage-peace-talks-united-states-war-looms",
+    "http://www.africanews.com/2026/11/01/migrants-find-shelter-in-cyprus-as-eu-slows-admissions/",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdi16d3A4NWxtTzdkOUJVNHBHVzdlNC1KN0VqN21lZjVQMXpJbkxWYnNvTTctZDM4ZWV1eGI2Y2FWbjY1dmdFWkdDUllOYkVNUzVNaS1ORk1YUHVvZkxCUU51SDRzeGw4b1VEeHlOM0EyQ0pwTTA2eWF3VVRycUNzdmlvWXhyOFdDNVVyTFF6THRaUElRa0pTTGo5Uld2Tmlr?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGE5enVfV1lEWlZvWXFYYThNMVBDWVhnR3gyMVNPTXJYYktFa0xuNmhwVkF0UjBMYXY1Wm4zSnFJb3hkVE1Jak5rX1RwajRJaHBlbXpkTjBILW5UR0E1SFVqRGswUEhHRlAyckpYZV9odkVCUkpWNzhGSWZjUEZocERXOFNEbTl6MUxKNlNMbUEzU01INGw5Q0wwSEpSUmVDY1Z5b19hR3pud184dHpkLUs1UEpWMTVo?oc=5",
+    "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
+    "https://www.theafricareport.com/434787/from-civic-turnarounds-to-the-banking-c-suite-inside-kenny-fihlas-pan-african-power-network/",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDJLUFRKTG5MNDdobUNEa2s2VXFkYmlFUGxFSDZUamhnUnFFQTgteWdfYXdMQnpTb0ZlSVd2Q3BzNmJmaGZDYldrdkhIZXFoLWsyb0t1MXJGT09UTTd5a3FJeldSdm9CRDI4N0xPck8zVzh1UTBPeUlLVEY4Z1FxZGx3NlNMRG5fOFNKZ2o0NVNxMTBPdUNCUw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VUFBYZmJzQVJUOXdTNjRkMEo0bFVIQ3gxemRRQ19HNXczNW1qSnBkM3dZN09mUExZZEhDcEN3NG9qSG9tZzlhaXdxWXBsVFk3ZXlNQnNEZWc1MmZfUk1rS2hhV3QtTHVsVFNFN0tyVk5VdlkyN3VxbWFEOUk?oc=5",
+    "http://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/"
   ],
   "recent_posts": [
-    {
-      "title": "Алжир готує введення військ до Нігеру для захисту енергетичних інтересів",
-      "summary": "Президент Алжиру Абдельмаджид Теббун оголосив плани захистити енергетичні інтереси країни та реалізувати військово-безпекову угоду, підписану з Ніамеєм 21 жовтня. Ця заява пролунала наступного дня після того, як алжирський парламент 25 жовтня ухвалив рішення про дозвіл на військове втручання в Нігері. Подія стосується міждержавної безпекової взаємодії та офіційних кроків керівництва двох країн.",
-      "source": "The Africa Report",
-      "publisher": "",
-      "published": "2026-10-29T12:30:00+00:00"
-    },
-    {
-      "title": "Кремль запропонував посередництво між Іраном та США",
-      "summary": "Речник Кремля заявив Al Jazeera, що Росія готова посередничати між Іраном та США за запитом сторін. Москва підтвердила готовність докласти зусиль для запобігання подальшій військовій ескалації в регіоні Перської затоки. Окремо було оголошено про готовність Росії прийняти збагачений уран Ірану, якщо цей матеріал залишиться перешкодою в переговорах. Заява зроблена на тлі напруженості у взаєминах між Тегераном і Вашингтоном.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-10-29T13:37:50+00:00"
-    },
-    {
-      "title": "Велика Британія на ОБСЄ закликала Росію пояснити порушення Гельсінських принципів",
-      "summary": "Британія виступила із заявою на ОБСЄ, закликавши Росію пояснити несумісність її дій в Україні з принципами Гельсінського заключного акта. У заяві наголошено на зростанні кількості жерт серед цивільних у вересні через російські атаки, а також наведено дані ООН та незалежної комісії щодо обстрілів і воєнних злочинів. Британська делегація розкритикувала неспроможність Москви надати послідовне виправдання агресії, спростувавши тези РФ щодо захисту нацменшин, нелегітимності українського уряду, забезп",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-10-29T13:21:38+00:00"
-    },
     {
       "title": "Іран отримав лист від Ванса, ще не відповів",
       "summary": "У листі, надісланому американським віце-президентом Джей‑Ді Вансом, йдеться про відновлення мирних переговорів із Іраном. Лист адресовано іранському голові безпеки Мохсену Резайєву. Іран отримав його, але ще не відповів. У відповідь Іран наголосив на своїх семи умовах, які мають бути виконані США, і відкинув будь‑яку позицію, що суперечить цьому плану.",
@@ -1411,6 +1390,27 @@
       "source": "Middle East Eye",
       "publisher": "",
       "published": "2026-10-31T20:41:20+00:00"
+    },
+    {
+      "title": "Іран передав докази атак США та Ізраїлю до ІМО",
+      "summary": "Іран повідомив, що передав до Міжнародної морської організації (ІМО) пакет документів і фотоматеріалів, що, за його словами, підтверджують атаки Сполучених Штатів і Ізраїлю на іранську морську інфраструктуру. У досьє зазначено пошкодження систем управління морським трафіком та знищення рятувальних об’єктів. Члени ІМО мають обговорити матеріали на засіданні Ради в Лондоні 2‑6 листопада, наголошуючи на загрозі безпеці судноплавства та моряків.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-01T13:03:53+00:00"
+    },
+    {
+      "title": "Президенти Південної Кореї та Туреччини провели двосторонній саміт",
+      "summary": "Президент Південної Кореї Лі Чже Мьонг провів двосторонній саміт із президентом Туреччини Реджепом Тайіпом Ердоганом. Ця зустріч є офіційним дипломатичним кроком між лідерами двох держав, спрямованим на обговорення двосторонніх відносин. Матеріал підтверджує факт проведення зустрічі, що відповідає критеріям міжнародної дипломатії, не містить дублікатів серед наведених заголовків та не потребує додаткових уточнень щодо персоналії, оскільки джерело прямо вказує на участь обох глав держав.",
+      "source": "Bilateral Meetings",
+      "publisher": "조선일보",
+      "published": "2026-11-01T11:45:57+00:00"
+    },
+    {
+      "title": "Бін Фархан та Рубіо підписали угоду щодо участі США в Експо-2030",
+      "summary": "Міністр закордонних справ Саудівської Аравії принц Фейсал бін Фархан Аль Сауд та державний секретар США Марко Рубіо підписали офіційну угоду, яка формалізує участь Сполучених Штатів у всесвітній виставці Експо-2030 в Ер-Ріяді. Підписання документа закріплює рамки співпраці між двома державами в рамках підготовки та проведення цього масштабного міжнародного заходу в столиці Саудівської Аравії.",
+      "source": "Treaties & Agreements",
+      "publisher": "ASHARQ AL-AWSAT English",
+      "published": "2026-11-01T10:22:03+00:00"
     }
   ]
 }

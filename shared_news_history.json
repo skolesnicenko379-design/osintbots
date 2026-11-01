@@ -1,10 +1,7 @@
 {
   "links": [
     "http://africanews.com/2026/10/31/tshisekedi-seeks-putins-help-against-rwanda-backed-rebels",
-    "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
     "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina",
-    "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
-    "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
@@ -13,11 +10,11 @@
     "https://middleeasteye.net/live-blog/live-blog-update/syria-weighs-joining-mecca-defence-pact-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
     "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
+    "https://militarnyi.com/uk/news/avstraliya-fidzhi-drony-narkotrafik",
     "https://militarnyi.com/uk/news/f-16-cherguvannya-z-aviabazy-erekson",
+    "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
     "https://militarnyi.com/uk/news/kytaj-rozpochav-budivnytstvo-novoyi-aviabaz",
-    "https://militarnyi.com/uk/news/lockheed-martin-660-mln-na-pac-3-edge",
     "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
-    "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
     "https://militarnyi.com/uk/news/ukrayina-otrymala-majzhe-3000-senator",
     "https://militarnyi.com/uk/news/ukrayinski-bezpilotnyky-atakuvaly-promyslovu-zonu-u-rosijskij-ufi",
     "https://militarnyi.com/uk/news/urazyly-npz-lukojl-u-kstovo",
@@ -25,136 +22,22 @@
     "https://militarnyi.com/uk/news/zirka-modernizuvaly-znyshhennya-reaktyvnyh",
     "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
     "https://navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates",
+    "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
+    "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmRDVmZhQVRkaGdieS1GTmVuR3RVdWhWbmM0WUlLcTU1T2prZzNIeWdvSWZET00yNkhFekRtSFBhR25JcGlkemwtWEU1UmN0b0FMYzYzVmsxZk1vcnNodFJ6dUU4VHRKcUJlTVF6a2JJUHZLQmMzV29XVHN2X0FwUVNpTHFCLTRaNVpDc1Q5ZFVId2F0QWg4YW43d193NEZzNFQ5R3BtUUZZSExIdjJJa3RtUVB1azVrUW9LV0w5UGhqbTFFQmVPX3lzWkh6TnliVFg2MTV3",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZY0VCa3pTVjFLZVU2cE85NDJwVXhPWmRPMEJwbnQyZVRJSFRnR3FPSDR5NmVCM185ekFnLVdPSDdDOHdvYXRqcmJKOHJjMEhpdEh5TUl6WQ",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE80eDg1SVc2N3ZhQXVzVUlWQmh2N2ZiWGl6LTk3SVFBRThHWDg5TGJzUHVpaHZxdjlPeDZ2MFlheWlPZkZ6YW1EOGdweWJ3TDFmaTBpYzdxd2tva19ySGktVUhYZ0h0T1NzXzRlQ0xXemROTWVDazIwNm0tVdIBgAFBVV95cUxObkl4dFNudW9wdVRhMlRkRjE4dWFtRldtaUZ0SzVKMEY5Z3hhM0VwYy1QX04wVEVBcmFtejNIVGY1NEZhU1lPMF9Vc0VSMHZnR08xNzkyQ0RwUVhETXoxVTVCSXNQMlZVb2FRQ1J3Y1FyaHdsVmxkYkFHMnVaNXYxYg",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PdGN4bmp0eHh6cE9KaDRzN1Z5N0xBdnYzbnhKM1Nrdm16SmlZdE1NekZrTXZuaU9TYWo3dzE0M3J4SUY1R1dDNV9DRlc2aFIxVk5waVIyeUpDcVF1WExFNkVIQ01WYWJka0ZxMmowbzV2OE5YakxMRlVpUQ",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckVIQmhIUnd5bkhTY1NEUHpuaWlnTWYtY3lMUW5iUmJqTWh6WjZBZFdaNURocEZ6dk9QeEd6SkdNR0h3REo4aTJNY0gwY0h5QksxYnUyNTQtdjdYV1dhdGoxV21JUnlkRkFqcVdSUTN3Wmx5bnZIcTFyNjJEeTZLRlRyblM2dG9E",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbTFfSk5vSUxSMUEya3lKbUUyZVRMeU43S2EwNUgzZUhGa2hIUDRPMWlKYkZuTnRYLWFVWTBScVE3amRUTm1SVXJpeXJnZ3JDRFUwclJ2SVduYjBOU1hhVmJ0MUJXMEI0cEJfZ1dRaGNGbk1vQ2V3aTVvOFI0WWJkTS05djlLQ19RM1RiZV9MOW5CVHdS",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1YzNk1XeGRTYXZBdV9sRUxRMEtDSEtLaXR4UVQxNEkxMmlfM2dseVB6U09JNGkzaEg5WV9RbmR6b2dtbzE4cTlWd2JKYnEyYU9ES0laMGx0VFR0NzJ0OGNSM1hkRjY4dXJGVjFfb1BlMEJGT0FyYlBkSTVVMGY0a2xYbWEzOEtIWGYxVDlQNzJSNGJndkVzMlZn",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejRpTHVRbnpkVE90RGtubF94QktpTHNTbGlfTmptbWdQZEpvOEY5TUpuaEFpMG5QYlRlZF8zbU5HR3Nla3NBMU5ucVZpQkNUWmhrbkRXQzVKbUVCUVI5UmxaT0tkaFo4amFIUG1OcDNvTzFBc2o3MUk0RjZ3M29CbFVVVkF0Sm43Q05FR0NyTlhwd2dqM25ZMUZEWEpWbUdYemo2RTNMVWY",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFV6YnJIOU9vZzc3UFdIYkN6akNxaWJnSWdmWkdILUZlSUc5Vm4wV1pNUjdfMVNTaGkzNFRBcG5HTjhkOFdIU1NfdENNaXhyT0t3WGVWWDJZQzl5Z3FGNDFoWjBBQW1PckcwdGFpTkpNR25FM0R5SE0yV2ppSThtUnlZYk1qbXFzeGFDcGxRZlk1NnBMbGxkY3ZvMmVyRTFHMXpzdVdNaVFEX3BBUTNrVF9wNV8",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDcwblE5RGttbEZ0eE94UEZQUTJabDdJOE1hcTdDVWtMZHJFUlBHbmZKRE15bnlRT3BIVlZYblRwMzlDYkZkSnN0MXIzUjBpYnFwSWppOVhUeER4Q3ZQNTIwVzVxMUU3OHdGZzN2ZUlEcVdENkZ0YVNBakpOaGtOcGg4T3NlVWdQaFBETjNzOWJ1UUdUbkZvbU90YW5FVVdqUHpCN053ejJsVzVxMDU4NGd6dFNQQdIBuwFBVV95cUxOS0ZLMmctVlEzTmlib3FUTHpfd0lpemRYYVVkZzY1amw3eTE0c3BjaFE5ajZXNHAwOXVQWEtqa2d2d2VoN2QxWklGWFhzY3JJZk5tU3N5cnI3SVZ1SjR6a01MbWp6ZTN1M29RcEpsQXNhNkQ4MnZ1cGFGQ250MkdoVExIR0VBWkxWMWplUXVmLWdXaHlXQ19UNkY0emFpUlZyWE56eFh1WFdrWEl1RENHWFpNMzBpZnAwRUdN",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGE5enVfV1lEWlZvWXFYYThNMVBDWVhnR3gyMVNPTXJYYktFa0xuNmhwVkF0UjBMYXY1Wm4zSnFJb3hkVE1Jak5rX1RwajRJaHBlbXpkTjBILW5UR0E1SFVqRGswUEhHRlAyckpYZV9odkVCUkpWNzhGSWZjUEZocERXOFNEbTl6MUxKNlNMbUEzU01INGw5Q0wwSEpSUmVDY1Z5b19hR3pud184dHpkLUs1UEpWMTVo",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUZKZmM3YVNQUUVlSFlvX2RjemRXNVl2OEtfTnQtQnlfRFhjVnEtZ1lMLXRTcEQ4eWdqNmthMG1YdUJvd05Ua0dBOEJPSy1DU3kzbjZTUzRTN0xHdHg1eFNicmVPQjRXM0szUGNvZHdSdjI4Y3pNcF9lSlU0YWk0dG1OVld0Ymh2N0g3MUc5OHI3WkhHTFhQZnVXdlNrR19tWEx5VGZXVGlvV3k1N283X0czQjYtek1aVGc",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw",
-    "https://twz.com/air/highlights-from-north-koreas-drone-a-palooza",
     "https://twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims",
     "https://twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія в Раді Безпеки ООН підтримала поновлення мандата UNSMIL",
-      "original_title": "This mandate will strengthen UNSMIL’s ability to advance a Libyan-led and Libyan-owned political process: UK statement at the UN Security Council",
-      "summary": "Постійний представник Великої Британії в ООН Сара Макінтош під час засідання Ради Безпеки ООН привітала ухвалення резолюції 2835 про продовження мандата Місії ООН з підтримки Лівії (UNSMIL) на 12 місяців. Британський представник зазначила, що новий мандат посилить спроможність UNSMIL просувати лівійський політичний процес, сприяти виконанню домовленостей «Smaller Convening» щодо проведення виборів протягом 24 місяців, об'єднанню державних інституцій та створенню єдиного виконавчого органу влади.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/this-mandate-will-strengthen-unsmils-ability-to-advance-a-libyan-led-and-libyan-owned-political-process-uk-statement-at-the-un-security-council",
-      "published": "2026-10-30T19:26:00+00:00"
-    },
-    {
-      "title": "Світові дохідності облігацій різко впали в жовтні",
-      "original_title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety - WSJ",
-      "summary": "Дохідність облігацій у світі в жовтні різко знизилася, повідомляє WSJ. Падіння відбулося на тлі переміщення інвесторів у безпечні активи.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "WSJ",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz",
-      "published": "2026-10-30T19:35:00+00:00"
-    },
-    {
-      "title": "США фінансують розробку PAC-3 Edge для Patriot – $660 млн",
-      "original_title": "Перехоплювачі гіперзвукових ракет до Patriot: США виділили $660 млн на розробку PAC-3 Edge",
-      "summary": "У США та Lockheed Martin уклали угоду про розробку нової ракети PAC‑3 Edge, здатної перехоплювати гіперзвукові цілі. Ракета оснащена багатим твердопаливним двигуном Northrop Grumman і новою системою самонаведення, розробленою в центрі Strigo. Це збільшить дальність, швидкість і маневреність Patriot, підвищуючи ефективність протиповітряної оборони США.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/lockheed-martin-660-mln-na-pac-3-edge",
-      "published": "2026-10-30T19:39:20+00:00"
-    },
-    {
-      "title": "США схвалили продаж 500 ракет Patriot Україні, фінансує 2,1 млрд доларів союзники",
-      "original_title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
-      "summary": "Уряд США затвердив можливий продаж 500 ракет Patriot типу PAC-3 MSE вартістю $2,1 млрд, які будуть фінансовані Канадою, Німеччиною, Норвегією та ЄС, без залучення американських коштів. Ці високотехнологічні ракети здатні перехоплювати балистичні ракети, крилаті боєприпаси та безпілотники, підвищуючи здатність української ППО протистояти російським атакам. Отримання такої кількості ракет значно посилить обороноздатність України у повітряному просторі та може змінити баланс протиповітряної боротьби.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
-      "published": "2026-10-30T20:17:22+00:00"
-    },
-    {
-      "title": "Ціни на нафту зростають через конфлікти на Близькому Сході та в Україні‑Росії",
-      "original_title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries - WSJ",
-      "summary": "Нафтові ціни піднялися, оскільки посилилися побоювання щодо постачання, викликані конфліктом на Близькому Сході та війною між Україною та Росією. Це відображає зростаючу напругу на світових енергетичних ринках.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "WSJ",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw",
-      "published": "2026-10-30T20:19:00+00:00"
-    },
-    {
-      "title": "Показ нових дронів Північної Кореї: виставка та макет стелс‑дрону",
-      "original_title": "Highlights From North Korea’s Drone-A-Palooza",
-      "summary": "Кім Чен Ин відкрив виставку «Unmanned Aeronautical Technology Development‑2026», де було представлено широкий спектр розвідувальних, озброєних та атакувальних безпілотників, а також макет великого стелс‑дрону‑літака з крилами 56‑66 футів і задньою повітряною інтенсією. За зовнішнім виглядом він нагадує американський X‑47B та китайський GJ‑11, проте поки немає доказів, що Пхеньян здатний створити функціональний прототип зі справжніми технологіями стелс. Якщо успішно розвине такі системи, це може підвищити стратегічну роль безпілотної авіації у корейській армії, хоча наразі їх практичне застосув",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/highlights-from-north-koreas-drone-a-palooza",
-      "published": "2026-10-30T20:34:48+00:00"
-    },
-    {
-      "title": "US GDP зростає вище очікувань, ЄЦБ залишає ставки незмінними",
-      "original_title": "US GDP surprises higher; ECB holds rates as Amazon misses estimates - www.equiti.com",
-      "summary": "Станом на сьогодні США повідомили про зростання ВВП, що перевищило прогнозовані показники. Європейський центральний банк утримав ключову ставку на поточному рівні, а компанія Amazon оголосила про прибутки нижчі очікуваних аналітиками.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "www.equiti.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFV6YnJIOU9vZzc3UFdIYkN6akNxaWJnSWdmWkdILUZlSUc5Vm4wV1pNUjdfMVNTaGkzNFRBcG5HTjhkOFdIU1NfdENNaXhyT0t3WGVWWDJZQzl5Z3FGNDFoWjBBQW1PckcwdGFpTkpNR25FM0R5SE0yV2ppSThtUnlZYk1qbXFzeGFDcGxRZlk1NnBMbGxkY3ZvMmVyRTFHMXpzdVdNaVFEX3BBUTNrVF9wNV8",
-      "published": "2026-10-30T20:54:37+00:00"
-    },
-    {
-      "title": "Британія закликає ООН продовжити мандат MINURSO в Західній Сахарі",
-      "original_title": "We urge those who did not support the US’ resolution to seek to find a solution on the basis of that draft: UK statement at the UN Security Council",
-      "summary": "Постійний представник Великої Британії в ООН Сара Макінтош під час засідання Ради Безпеки закликала країни, які не підтримали американський проєкт резолюції, знайти рішення на його основі. Це необхідно для запобігання завершенню мандату місії MINURSO, який спливає найближчим часом. Британська сторона наголосила на спільній відповідальності за стабільність регіону та безпеку населення, яке роками проживає в таборах для біженців, підкресливши важливість політичного процесу врегулювання ситуації в Західній Сахарі.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
-      "published": "2026-10-30T20:57:58+00:00"
-    },
-    {
-      "title": "Canada and EU sign ‘Alliance for the Future’ pact in Montreal",
-      "original_title": "Canada, European Union close Montreal summit with ‘alliance for the future’ pact - CTV News",
-      "summary": "Canada and the European Union concluded their Montreal summit by adopting the ‘Alliance for the Future’ pact. The agreement formalises a new framework for cooperation between the two partners, signalling a strengthening of bilateral ties.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "CTV News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUZKZmM3YVNQUUVlSFlvX2RjemRXNVl2OEtfTnQtQnlfRFhjVnEtZ1lMLXRTcEQ4eWdqNmthMG1YdUJvd05Ua0dBOEJPSy1DU3kzbjZTUzRTN0xHdHg1eFNicmVPQjRXM0szUGNvZHdSdjI4Y3pNcF9lSlU0YWk0dG1OVld0Ymh2N0g3MUc5OHI3WkhHTFhQZnVXdlNrR19tWEx5VGZXVGlvV3k1N283X0czQjYtek1aVGc",
-      "published": "2026-10-30T20:58:10+00:00"
-    },
-    {
-      "title": "Палубний винищувач Rafale M успішно посадився на індійський авіаносець INS Vikrant",
-      "original_title": "Палубний винищувач Rafale M вперше здійснив посадку на індійський авіаносець INS Vikrant",
-      "summary": "Перший успішний посадковий прохід французького винищувача Rafale M на авіаносці INS Vikrant підтвердив готовність індійської армії до впровадження нової палубної авіації. Літак, що зазвичай використовується на авіаносці Charles de Gaulle, демонструє здатність виконувати короткі зльоти та посадки без катапульти, що важливо для індійського флоту. Це крок до заміни російських МиГ-29К/КУБ і розширення оперативних можливостей ВМС Індії.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rafale-m-posadku-na-indijskyj-avianosets",
-      "published": "2026-10-30T21:05:29+00:00"
-    },
-    {
-      "title": "Федеральний борг США перевищив ВВП у 2026 фінансовому році",
-      "original_title": "Federal debt surpassed GDP for fiscal 2026 - The Hill",
-      "summary": "У 2026 фінансовому році федеральний борг США перевищив обсяг ВВП, що означає, що співвідношення боргу до ВВП стало більше 100 %. Це свідчить про зростання державної заборгованості вище рівня національного виробництва.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "The Hill",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80eDg1SVc2N3ZhQXVzVUlWQmh2N2ZiWGl6LTk3SVFBRThHWDg5TGJzUHVpaHZxdjlPeDZ2MFlheWlPZkZ6YW1EOGdweWJ3TDFmaTBpYzdxd2tva19ySGktVUhYZ0h0T1NzXzRlQ0xXemROTWVDazIwNm0tVdIBgAFBVV95cUxObkl4dFNudW9wdVRhMlRkRjE4dWFtRldtaUZ0SzVKMEY5Z3hhM0VwYy1QX04wVEVBcmFtejNIVGY1NEZhU1lPMF9Vc0VSMHZnR08xNzkyQ0RwUVhETXoxVTVCSXNQMlZVb2FRQ1J3Y1FyaHdsVmxkYkFHMnVaNXYxYg",
-      "published": "2026-10-30T21:05:43+00:00"
-    },
     {
       "title": "Китай запустив і повернув безпілотник-стелс GJ-21 з амфібійного корабля типу 076",
       "original_title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
@@ -446,6 +329,16 @@
       "published": "2026-11-01T05:23:28+00:00"
     },
     {
+      "title": "Російський флот скасував модернізацію криголаву «Петро Великий»",
+      "original_title": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy",
+      "summary": "Уряд Росії скасував план оновлення криголаву «Петро Великий» (Kirov‑class) через обмеження бюджету. Корабель, вагою близько 24 000 тонн і озброєний ракетними комплексами «Порт‑Ілля» та протиповітряними системами, залишиться у стані, близькому до вихідного, без запланованих модернізацій електроніки та озброєння. Це зменшує потенціал російського надводного флоту, особливо у сфері далекобійних ударних можливостей і захисту від протиповітряних загроз.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
+      "published": "2026-11-01T08:05:55+00:00"
+    },
+    {
       "title": "Бін Фархан та Рубіо підписали угоду щодо участі США в Експо-2030",
       "original_title": "Bin Farhan, Rubio Sign Agreement Formalizing US Participation in Expo 2030 Riyadh - ASHARQ AL-AWSAT English",
       "summary": "Міністр закордонних справ Саудівської Аравії принц Фейсал бін Фархан Аль Сауд та державний секретар США Марко Рубіо підписали офіційну угоду, яка формалізує участь Сполучених Штатів у всесвітній виставці Експо-2030 в Ер-Ріяді. Підписання документа закріплює рамки співпраці між двома державами в рамках підготовки та проведення цього масштабного міжнародного заходу в столиці Саудівської Аравії.",
@@ -474,6 +367,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
       "published": "2026-11-01T13:03:53+00:00"
+    },
+    {
+      "title": "Стратегічні проекти «Сарават» і «Тувайк» зміцнюють королівські саудівські військово-морські сили, локалізують морську оборону",
+      "original_title": "Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense",
+      "summary": "Міністерство оборони Саудівської Аравії прискорює створення сучасного флоту з передовими бойовими системами, підвищеною ефективністю та кваліфікованим національним персоналом. Проекти «Сарават» і «Тувайк» передбачають локалізацію виробництва морської оборони, включаючи будівництво кораблів, інтеграцію озброєння та підготовку екіпажу. Це підвищить бойову спроможність королівських військово-морських сил і зменшить залежність від іноземних постачальників, посилюючи контроль над стратегічними морськими шляхами регіону.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
+      "published": "2026-11-01T13:11:27+00:00"
+    },
+    {
+      "title": "КНДР випробувала тактичну балістичну ракету Hwasong‑11D з касетною боєголовкою",
+      "original_title": "КНДР провела випробування балістичної ракети Hwasong-11D з касетною бойовою частиною",
+      "summary": "31 жовтня Північна Корея провела випробування тактичної балістичної ракети Hwasong‑11D, оснащеної стандартною касетною боєголовкою, яка, за заявами, може уражати ділянку 12‑13 гектарів. Ракета має довжину близько 4,5 м, діаметр 600 мм і, за даними KODEF, у квітні 2022 р. пройшла 110 км, а у травні 2024 р. досягла 300 км. Такий тип зброї підвищує можливості КНДР у тактичному ураженні широких площ, що створює нову загрозу для регіональних сил безпеки.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
+      "published": "2026-11-01T14:45:33+00:00"
+    },
+    {
+      "title": "Австралія передасть Фіджі сонячні надводні дрони Bluebottle для боротьби з наркотрафіком",
+      "original_title": "Шість місяців у морі на сонячній енергії: Австралія передасть Фіджі надводні дрони для боротьби з наркотрафіком",
+      "summary": "Bluebottle — 7,4‑метровий автономний надводний апарат, що живиться сонячною енергією, вітром і хвилями, здатний патрулювати до 30 морських миль і перебувати в морі кілька місяців без дозаправки. Він оснащений радаром, оптичними та інфрачервоними камерами, гідроакустичними системами та AI‑аналізом даних, що дозволяє виявляти судна‑контрабандисти. Передача цих дронів Фіджі значно підвищить спроможність країни контролювати великі морські простори та ускладнить транзит наркотиків у Тихоокеанському регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/avstraliya-fidzhi-drony-narkotrafik",
+      "published": "2026-11-01T15:02:35+00:00"
     }
   ]
 }

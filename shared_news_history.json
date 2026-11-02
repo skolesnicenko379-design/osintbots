@@ -3,6 +3,8 @@
     "http://africanews.com/2026/11/02/iran-proposes-two-day-plan-to-reopen-strait-of-hormuz",
     "https://army-technology.com/news/project-grayburn-uk-sa80-replacement-remains-in-concept",
     "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec",
+    "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
+    "https://defensescoop.com/2026/11/02/army-high-energy-laser-program-leonardo-drs-av",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-says-he-had-good-talk-netanyahu",
@@ -16,6 +18,7 @@
     "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
     "https://militarnyi.com/uk/news/peredachu-type-31-zatrymaly-na-dva-roky",
     "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli",
+    "https://militarnyi.com/uk/news/rosijski-udary-po-selyshhu-komyshuvaha",
     "https://militarnyi.com/uk/news/rosiya-reaktyvni-bm-35-ta-bm-70",
     "https://militarnyi.com/uk/news/rosiyany-vykorystovuyut-rakety-s-8",
     "https://militarnyi.com/uk/news/shvetsiya-sudno-zv-yazku-spetssluzhbamy-rf",
@@ -30,7 +33,9 @@
     "https://navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile",
     "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
     "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVNXVk1hSk54RWhJODN0MXYyVlFiUVZRd253cms1RjNZU1JENXEwcDhxVEFYNHpraFpwdFRqWTVhb2pjTk51MXFSV1h6V1F3YzJBV2k3Mktpa1JVSnVXUzNjcWl4NmlETkpuNXNhQmNfUl9pU0pDTWtibHNHTXVGd05UWnd0bmRscWdHeU9TaENWT3NpV3FWSWR2WjYzY3AxSEJXR2FSVS0yN1RmWkpaWnFFU191MkJnTzlYNWgyN3hob2t1X09nTHpDMU0xNmpkZWc",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmdJLWlETF9LQXBqVlFwZFBqVFFpRC1RT0dLSUdOTG5YQzdzbWJ1bHQxQmNUbGFySWx2aVdZcjZRNldVRGYwY3lCNEZDNktmRWpBVGlPYjJiV3VmNTF4M18yNDlKcEtyb1h2WXNmd1hmY20waDl6b2RSbnBmOTh3NDRPdnZIekFDVkZBaXRualJMYnJvUnU1WnhUZE5ybEFSZ05fVjlXNDcwNV9EMWdEdlBqcnBjQmMwTktxRUFxaGlNdGFXVk9Uc2RONnNRZUhCcmVROEJZRHh6QmdwdXlpZGUtYWo4RmZNUlY5eHhqOU4yd9IB9gFBVV95cUxPdDZWM09HamV0NjVjWVdDUEtDN0Y0UmVWSEhNS3p5MUNTWnBsVU9JV2VBU1ViWVVkRjJnazlEQ3ZEbEtlcXQ3SloyaFM4cXIyMFR5ZG9KbUMzV1VjeUExNHJHLS1tSEpSNHY2eEViMFktTFVmQlpMWmFrc2MtTnRlWnprVVMzY0lsUzZ6Z1hLMDYtTDBxUFpBZTh5ZHMwOW45WU5DVmdjeTl1TXBzaktmM3pILTdrdUZkdXlUTGszZi1sQlZTODVfcFlEdjYwZHRGdXUtRGtZSE1yaGw1eHRlSHF3UnNieG5XQzlkb1g1UmZhWk1UR3c",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Iak9oQ0NCeEFPVm9hSDJwdmtrLXN0RURvQW51dUJvQ0VUY0JmR0dvaENQTWJveEU3TDA0TTEzbDlUbGNURWhOTGZIcjNLUXRN",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNlFGSUNjcGQ0R2lkRTRhY1BzeFBxSmZTTloydDRDc3RtM1JKaUlXa093SXNOS25vSGNnQmpPZDRJWW16VFNlU0RhWVNuTHdHYWk5U01KWQ",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KaGRlTlpvSFVyQWVHeEdwRVpuLVFiNWJVRkZDa1dSLWFPNVRHM0o4R1B0dWxDSDNIS2QyeFF2eXEzRXZfbXdaelNSTVVCdHdrcXRsdQ",
@@ -46,8 +51,10 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1B3WU9OZ25nbUw1aXVOZ242TUMzS0FsRkt5NEsyRk1YZ19sTDhkM0s5cGc1Y0Y5ZGJxNFRITThiNHpoQm1PdWRxeTg0azUyWnhlR0ZZTDZESG9QdHIzR2dnUlRuRW5YdzVRb05DZHExQTM0eXAweXJENW13UUUwdGNad3ZQWmkwaHAteExLQzI4OUNJSDkxZko5RQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmx3V0tGdXhLZjFnT3pBakhMUXUxT1dxeUdrYU10NnlIQzN6d0Fkc2dtT1NWM1Bsb0U0Z0tGYnZ4eW5odnI1TjMzbVdvdVpfOW93SlFvNndyMW1JdHhJOThLc1ZSVXZrUUZHSHJ2T2VlLUVWTUdjaTVWY3RUY1poMklMa195bVFRVlpvMWdQb1ZIZGR1MFVHVE0xU1E",
     "https://news.google.com/rss/articles/CBMinAJBVV95cUxQck9aVENkcmxNZVl4QnUzZWtWLVpMaXJTZTgxWkJWRXpfenJ5Y01IWlpmZUh2MXZwN3d6eUYyaE5XbURCbnE3UWJsMXRSbHJ3U2ZLWlZvME40WHBVQmhtWXhiQ19lYlpwc1N5OVdMSFdCYnJwZzFZZFlYOFZCQUZURUxzSDdwU0hnR1BoM0JqbGJ4ZHBYdllGNlRxQjN3ZVZQY0JkTm5hNGV5TnFQcDc4VDJIVHRHTWZnWkFIN3ROR1FBMGxjeWdYcWd2SG5kcVpxWUd2ZzBVVURTOGZUMnZjSXdYQk9HNTRHQS0wbzN1dHN6b0dUaFNaeEIwZ053Y3NNQ1JRcnBqTVQ1bFhhMEh5Tl9Lc0NWaTBrUlNUMNIBogJBVV95cUxQVTl1MVlYVTJmdXNibUpWQmpsZ1dzTzNqSDhBelVoM1JNZzhud2FwaHlfdk1BWldRLTd3NkM1RlNIYTZ1MFRJODhYbnNhUVRtdFZhUEctWGlROXBRbW1PVFVDU053VEN5cmRYU1A2bklNRjBRcmNFamJVT185WW5NWDUwQm94VXBONUs2SUt1Uk9LZXJlZEpESTVLRlZPZF8wRjR6NnR3LWNjaHU5R0dtdUc5bVRpRkluU1FHZV9NR081YWhBWEh1RWsyaE96SUw4b1hYMFpYamR3aG9LNDVJVFo2aWhSMDY5Y0FlbGtOYmFCS2lyQU5BOTdOMnpVNGVXNFRrbVlnUmdmTDdYRzRkU3F2RnloakhEUjUyZzhDSEIwQQ",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ29RZlZ4Smt2ZlJ6QURkb1FCZ01GZkNjUW9BbXEwMkdGdW44YjE2WUp2N1c5WEVlejNLVGdfVEtTOTNFd2tGZFNNYXJ2Q1U0VEROVXFmeUx4UXY0MC1ZOG1Rak0yR1B3cVRWbTRFd1NCc3NxZGIwSnBhWFNLREdveXBZTlQzOGZGaGRzZzNCczNXamtmMUNiMmhSVEtVQQ",
     "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZXA2SGlfOU91VnkxUUxnRklySnJDUklkb2pXQlhVUjdJY29aTGM0RGcydVNPTm1scGM4U1V0ZHVCcGZzdlBaa0RwTTdsSFp0UHJFQXUyZ01xUDFBQ1BQaGRBZDVrc2ZZeE1uNnBrUFhUVWdZbVRJOHhXMG84QkVacS1kUUVzVU5XclA4eDdWcm95MmI5T2NsMGRtRHBtbTczXy0yR09TOENJTGlEaEJJQjlqWXNyZ0FKcmlKTHVjUEdSWGZ0Z3F6SDNTd0RXd1Q0dnhIYzVadkh1dmxHbTNZNnJ4S085QkVEeVJqaTBVV2ZZNk5JbGM4bEJwTmktbnhjUUdoYmRKeXFwakVLMlZjRlFVZ1VyVndsc3l1Rklsd0lvQQ",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkJZOUIwaDVycjREWnNmLVMwN3VhalNMeHVpUHNZN2ZjTndHSmFhY0JKcEgzRlk3VFhQZnpscmptSWxEQzJ3NW9uZVEtUEJMdXNQdFRzcG00UTBJbkFnVVpMTEp5UWNQUDVZT3BUMjJXbHo1MWZuMTdyeW5seXd5YTFLcFdtMWNZYWFLcU5uN3hhR1FqUVcwaUNKVFZkZkhobmF4RkdPcUw",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk5QRGVDanpTRzNLWlV6cVNycEUxQ0ZjQnZnVXpUNWVmekRiZVI1QWFRZFVKLWVkQVZhVVlpb3QwOW1xNWVVVlpXVmw2aXlIRGFXN0oyZlh0SzNWdGV1R3FDWHpyZk1TbzBxNVhZbnowVTlJVVdmM0ZXWjczRVBYaVlGZHRJUHRWMXhfT05UZnNpT2ZEYllEczV4R1NobUlUSFlHaDNXOEdxUQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDhfcDhCY3VIWkRtdlJjeG91UUFweFQwUUFKMGhjdHFRZFlNSVhVSlNMSm03WkJ0TjdnWTNWUmZFdHpLOE5rMU9QTXBQVUk3S2s3VzZkOGNRZEZZaF91MVQ5SkdVQ2V1MXNBODJkTDVkRFhfN2tYay1BY3ZaOHd5bjVDZVJJY3RqYU1Rek1WTHZxY0hQWFZmNXZxbThES0lXa25Mcmk3ZURQSTA",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGVVR2hORXVtcEs3MThSdnRFd1JtUmJXSEV4UlR3N0oySUJ0ZGJwMlo2cWowaEFwd0N6cWhvX1Rob1V6RGFtbklPMkpEOThIMGgtcE9lMkxpVFFSSW04MHFVUWV6Ymc4cHZPcFd2bGliT0VIdEZGbjZsTHBfcjJfUTVVMVQyelR0SEExNTQ1V1FHYktTYkNsLTh0aEgtTVNiMWZ4azRMNWNuWFRU",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYW1naGk0UUh3UnFhTUw4NEcwM2Vid09Db3FUbl91bXBhNDdjQWVaYWZjajNDVHRTenN1WEM5bGxJZ3dCMkJ5eGJybS1tbVNRemo2UGhrRXhDVHF4NzBTZzF6MHpKenVtX0V4N2d2ZFNfUmdoM3prNkhsR2RwN3NlTVJzSGJpZ1o4UHNSY3J0RjFEcTZwVWZfSG9tZ3N3Z2hBbmprTVJXYlRqd1NaVFZabw",
@@ -55,10 +62,16 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVgyV0NaWmJKNS0yUDZVcFJyaDJhcThxWk9KM2puRDlIYzF3TFlTMzQ1el9lRDlqMGpRcVE0WUhSRHZsalRpZHZmM1ZNeHRORXFHRlR5M0phWUxQX3dmdU5yUW0td1BDZkgzeWxtd0dGZjJ3R1M5VUgzZ2lGV2VsdVBlRm9iUlhWNFFWekZYT3dUVlV0dnZ1YTQyaGxpOXhvREhReEJsaS1wTW5PY0lhemY0cFU",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU25YOUZ1U192TlJqVExLak84V1NoUWlPVDEwUUJ4YWptRWN5djNhb0xLbHhZSE5CeUllOC1TbGFySHBRTV9hMDdVbjNzMlZnNjBOd3hBY25zYkM0UGJBVWNUV0dUUXpwVGJPSkI1SUlIM0VKb1B5ZjIzTDF4STV4Z05tQUJIRE9mQUVxTUZRc1pSQk1ueTNWOW9iV0xCVWhYa1kwT3BiM1lvSXRUUHpBS1BRbUo",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGE5enVfV1lEWlZvWXFYYThNMVBDWVhnR3gyMVNPTXJYYktFa0xuNmhwVkF0UjBMYXY1Wm4zSnFJb3hkVE1Jak5rX1RwajRJaHBlbXpkTjBILW5UR0E1SFVqRGswUEhHRlAyckpYZV9odkVCUkpWNzhGSWZjUEZocERXOFNEbTl6MUxKNlNMbUEzU01INGw5Q0wwSEpSUmVDY1Z5b19hR3pud184dHpkLUs1UEpWMTVo",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkFLdlUwNTNmN0tXeEgzY25yNjZvOWFFcFA2WmxTbUk0RHNEWkZLYW5UZFVZZHlwYzQ1WmhVUU9sczF0UkZzdjhZczlKeVVxRVpRRTFNd1NNb1BySjBxcmVEcmpmcGNLMjdMQ2tnZUduT2s4WG1oNmZZdkl3b1BqWWtpY2tVbnljc05xa2RnSVFqZFozNERneDIzaXpSQnc2Rk55U2d0ZkRoSXdEREQ3U3BUQUNJTEFK",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm5Eam5ITlpDZWJETHNtVzVMLTFnZEVGQUF1X2JVWTNGSWF0UGU1VnExdXZuOFFHOUtVU3Q3YVdldVpBQ3NQMXludXpySFp5UHZIb3hOanNBS3ZvaGRBNnBaaWF1dHJUeTBHNFZyRDZ0MGw0S0VfcUpyRGNYQmc0UGdfdG5oUTRuLW1MT1hFN0NJNmdteWFEbEhIeWw4YnNaaFJpclRCbXQ1b2swWTNINm9QVVRjWHpXLVloMQ",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3Z4emdNNzJfamlkbm5xb015THVwTTRHa3owUE0xUXBRMU1ITFY0MlROMEJHTHRLd1JqOEpWNzRtbDlDbWJLY3hmdFhXUWlTcE5DT1c0ZEpwdUdyY0c0U1hybGxJV2RMVzU5cGZkQTZiRmZ4cE5hUkhJWmdLNGZHcDhHV1ljVUR2ZTM2RlNneENLemtrejhFV2lSby1NMmc2WVdDT3pSNzBKN1hhM0xkQ2Zwc3ZVS3dpNGxlQnlyQQ",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS21hbERXTW1IdElXSDN3ZE1zRzg5R1pfU0o3XzZxWlFTTk1BMmdJNkJrRHk3LXJ0VXVWVURyME9fZWR3YWtNTGtXTTVEdWdqaE1HbUhFWlY3UzBPcERmeVRqdTM5dHpiWTlldHl0cUdLMVRqRTJDWmw3RTFtV0hjWGMyR1kyZHNvZk5ZOTdoZ1NSZWthRTVTTmR4T21odUdpLXk0dmZteGFYbWFVMEpvb2RfYmVNNlJ4ZmJUQjFnUQ",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTE0Y0dkMmttVmRuSUhKRmNHQmx4bXpVV2dHQklFOUVadlI0dE5hc3pFZ2Y2QmtuTlVhbWMtX3V0X3pVTlpNQkFFSm1sSU1wZ0pXLXBHNTNzejlXSnNhSFczdzQxbmU5TmVlUEpEUEcwM3I2eERnT0dyOEQ1QUlqM2JlWDB0OXRDS0NNSWVXWTdieXBzdXpBOUJUZUV1b2F6ajJTVzJxeHdXVFRsRmxSa1JaY21vQlZ2bDlQcHBQYnRidw",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlFfcFlyeTFiQTVJUTFhUWxuUkt5TlpsN0F2cERIa09qUzF5MmdKLUpabXRXU2xmT29wT1VLX1VtQTJJQXVoRWQ4TUpKd3FVMGRPUjlmY0Vycjh4bzZ3RjB1SUc4aUM1SkJ4R0RlNWtXMm9KZWhxaUtRS2hRS0MyU0t2U0k2SFJTNTc3LTU2bEVXbTU0WHJSQ285VjRrNjlHQUE0UzdUV0ExcURWZE42R2t0MU0tOTU5a2VuOFpSMTVPaGZoRWVB",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFF5Z0VyS1c1cGFxQTBpTHN0UmhMZmJSZGp2UHh1Z0hyOEZZdTk1U1I1QW04RUt5eVZnaUJwM3ZQcThIMGFFNHRnbWZ2NFRZSzJfWFdLTE9mTHBpVjhDRmc3YnYwRFg5WEh4MGo2OV9NS3pkSUFTZno0NExVMWQycWZtc1V3QXpHZ2Y2RnZYeFJ3R2RzcmhYdmVjVlZxUWJsd1pNcWdsV1FsNVNhY056eFRHMHBFM1pQU292TTRweTNQY1lnOTRN",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84"
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84",
+    "https://theafricareport.com/435266/us-kicks-south-africa-rwanda-out-of-agoa",
+    "https://twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat"
   ],
   "recent_posts": [
     {
@@ -612,6 +625,96 @@
       "published": "2026-11-02T10:57:33+00:00"
     },
     {
+      "title": "Pakistan Could Diversify Critical Minerals Supply",
+      "original_title": "Can Pakistan Help Break China’s Critical Minerals Dominance? - The National Interest",
+      "summary": "The National Interest reports that Pakistan may help reduce China’s dominance in critical minerals. This could open new supply routes for global markets.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "The National Interest",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk5QRGVDanpTRzNLWlV6cVNycEUxQ0ZjQnZnVXpUNWVmekRiZVI1QWFRZFVKLWVkQVZhVVlpb3QwOW1xNWVVVlpXVmw2aXlIRGFXN0oyZlh0SzNWdGV1R3FDWHpyZk1TbzBxNVhZbnowVTlJVVdmM0ZXWjczRVBYaVlGZHRJUHRWMXhfT05UZnNpT2ZEYllEczV4R1NobUlUSFlHaDNXOEdxUQ",
+      "published": "2026-11-02T16:27:08+00:00"
+    },
+    {
+      "title": "India and EU discuss FTA implementation in Brussels",
+      "original_title": "India, EU discuss FTA implementation, customs cooperation and market access in Brussels - ET Manufacturing",
+      "summary": "India and the European Union held talks in Brussels on the implementation of their free‑trade agreement, customs cooperation and market access. The meeting focused on advancing the FTA provisions and improving trade procedures between the parties.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "ET Manufacturing",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmdJLWlETF9LQXBqVlFwZFBqVFFpRC1RT0dLSUdOTG5YQzdzbWJ1bHQxQmNUbGFySWx2aVdZcjZRNldVRGYwY3lCNEZDNktmRWpBVGlPYjJiV3VmNTF4M18yNDlKcEtyb1h2WXNmd1hmY20waDl6b2RSbnBmOTh3NDRPdnZIekFDVkZBaXRualJMYnJvUnU1WnhUZE5ybEFSZ05fVjlXNDcwNV9EMWdEdlBqcnBjQmMwTktxRUFxaGlNdGFXVk9Uc2RONnNRZUhCcmVROEJZRHh6QmdwdXlpZGUtYWo4RmZNUlY5eHhqOU4yd9IB9gFBVV95cUxPdDZWM09HamV0NjVjWVdDUEtDN0Y0UmVWSEhNS3p5MUNTWnBsVU9JV2VBU1ViWVVkRjJnazlEQ3ZEbEtlcXQ3SloyaFM4cXIyMFR5ZG9KbUMzV1VjeUExNHJHLS1tSEpSNHY2eEViMFktTFVmQlpMWmFrc2MtTnRlWnprVVMzY0lsUzZ6Z1hLMDYtTDBxUFpBZTh5ZHMwOW45WU5DVmdjeTl1TXBzaktmM3pILTdrdUZkdXlUTGszZi1sQlZTODVfcFlEdjYwZHRGdXUtRGtZSE1yaGw1eHRlSHF3UnNieG5XQzlkb1g1UmZhWk1UR3c",
+      "published": "2026-11-02T16:41:15+00:00"
+    },
+    {
+      "title": "Вплив Росії в Африці зріс на третину за десятиліття",
+      "original_title": "Russia's influence in Africa grows by a third in a decade but stays a quarter of China's - IntelliNews",
+      "summary": "Вплив Росії в Африці за десять років зріс на третину, повідомляє IntelliNews. Попри це він залишається приблизно на чверті від рівня впливу Китаю на континенті.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "IntelliNews",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVNXVk1hSk54RWhJODN0MXYyVlFiUVZRd253cms1RjNZU1JENXEwcDhxVEFYNHpraFpwdFRqWTVhb2pjTk51MXFSV1h6V1F3YzJBV2k3Mktpa1JVSnVXUzNjcWl4NmlETkpuNXNhQmNfUl9pU0pDTWtibHNHTXVGd05UWnd0bmRscWdHeU9TaENWT3NpV3FWSWR2WjYzY3AxSEJXR2FSVS0yN1RmWkpaWnFFU191MkJnTzlYNWgyN3hob2t1X09nTHpDMU0xNmpkZWc",
+      "published": "2026-11-02T17:48:03+00:00"
+    },
+    {
+      "title": "Фіскальні ризики від зменшення американських військ у Європі",
+      "original_title": "The fiscal risks of bringing US troops out of Europe",
+      "summary": "Пентагон розглядає скорочення американських військ у Європі, що може підвищити витрати на розміщення та знизити ефективність ядерного стримування. Зменшення кількості 80 000 солдатів, включно з 65 000 на тривалій місії, вимагатиме нових баз у США, що збільшить бюджетні навантаження. Також це може послабити стратегічну присутність НАТО на східному краю Європи.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
+      "published": "2026-11-02T18:15:00+00:00"
+    },
+    {
+      "title": "Leonardo DRS призначено підтримати програму високоефективних лазерів армії",
+      "original_title": "Leonardo DRS tapped to support Army’s high-energy laser program",
+      "summary": "Leonardo DRS отримала підконтракт на «тверду» інтеграцію систем високої енергії для програми E‑HEL, що дозволить швидко перейти від прототипу до серійного виробництва. Компанія допоможе впровадити лазер LOCUST X3 у транспортні засоби JLTV, Infantry Squad Vehicle або палетизовані установки, що підвищить ефективність протидії дронам. Це крок у напрямку створення багаторівневих систем безпілотного захисту з високою енергією.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/02/army-high-energy-laser-program-leonardo-drs-av",
+      "published": "2026-11-02T18:19:40+00:00"
+    },
+    {
+      "title": "США виключили Південну Африку та Руанду з програми AGOA",
+      "original_title": "US kicks South Africa, Rwanda out of AGOA",
+      "summary": "Адміністрація президента США Дональда Трампа 2 листопада оголосила про виключення Південної Африки та Руанди з програми торговельних переваг AGOA на тлі місяців поглиблення політичних напруженостей з обоми країнами. За заявою торгового представника США Джеймісона Гріра, обидві країни здійснюють практики, які не відповідають критеріям прийнятності для африканського регіону.",
+      "source": "The Africa Report",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://theafricareport.com/435266/us-kicks-south-africa-rwanda-out-of-agoa",
+      "published": "2026-11-02T18:24:17+00:00"
+    },
+    {
+      "title": "Beijing Provides New Support to Chinese Tech Stocks",
+      "original_title": "China Tech Stocks Get Fresh Lifeline From Beijing - Yahoo Finance",
+      "summary": "Пекін оголосив про нові заходи підтримки технологічних компаній у Китаї, що стало свіжим «диханням» для їхніх акцій. Ці кроки мають підвищити інвесторську впевненість і можуть стимулювати короткострокове зростання ринку технологічного сектора.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Yahoo Finance",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ29RZlZ4Smt2ZlJ6QURkb1FCZ01GZkNjUW9BbXEwMkdGdW44YjE2WUp2N1c5WEVlejNLVGdfVEtTOTNFd2tGZFNNYXJ2Q1U0VEROVXFmeUx4UXY0MC1ZOG1Rak0yR1B3cVRWbTRFd1NCc3NxZGIwSnBhWFNLREdveXBZTlQzOGZGaGRzZzNCczNXamtmMUNiMmhSVEtVQQ",
+      "published": "2026-11-02T18:48:35+00:00"
+    },
+    {
+      "title": "Saab представила збільшений CB90 CX з можливістю без екіпажу",
+      "original_title": "New CB90 CX Is Bigger, Optionally Crewed Evolution Of Saab’s Proven Combat Boat",
+      "summary": "Saab розробляє нову версію десантного катера CB90 CX, яка є більшою за базову модель і може працювати як з екіпажем, так і без нього. Новий варіант передбачає підвищену вантажопідйомність, оновлені сенсори та озброєння для ISR, протиповерхневих дій та короткодіапазонної ППО, а також замовлення на 36 одиниць для Шведського амфібійного батальйону. Це розширює можливості малих бойових суден у прибережних та морських операціях, підвищуючи їх автономність і бойову ефективність.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat",
+      "published": "2026-11-02T18:50:34+00:00"
+    },
+    {
+      "title": "Оттава захищає переговори щодо договору про екстрадицію з ОАЕ",
+      "original_title": "Ottawa defends extradition treaty talks with UAE as civil society group sounds alarm - Castanet",
+      "summary": "Уряд Канади захищає переговори з Об'єднаними Арабськими Еміратами щодо укладення договору про екстрадицію на тлі занепокоєння та застережень з боку правозахисної групи громадянського суспільства. Подія викликала суспільну дискусію щодо доцільності та умов майбутньої угоди між двома державами.",
+      "source": "Treaties & Agreements",
+      "publisher": "Castanet",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlFfcFlyeTFiQTVJUTFhUWxuUkt5TlpsN0F2cERIa09qUzF5MmdKLUpabXRXU2xmT29wT1VLX1VtQTJJQXVoRWQ4TUpKd3FVMGRPUjlmY0Vycjh4bzZ3RjB1SUc4aUM1SkJ4R0RlNWtXMm9KZWhxaUtRS2hRS0MyU0t2U0k2SFJTNTc3LTU2bEVXbTU0WHJSQ285VjRrNjlHQUE0UzdUV0ExcURWZE42R2t0MU0tOTU5a2VuOFpSMTVPaGZoRWVB",
+      "published": "2026-11-02T19:07:00+00:00"
+    },
+    {
       "title": "У Києві розгорнули систему радіоелектронної боротьби проти MESH‑зв’язку Шахедів",
       "original_title": "У Києві розгорнули анти-MESH-купол, який розриває зв’язок «Шахедів», — Флеш",
       "summary": "У столиці встановили масштабну REB‑мережу з сотень антен, що глушить MESH‑радіомодем, яким російські оператори керують безпілотниками‑Шахедами. Участь у проєкті взяли Генштаб, МО, МВС, РНБО, Офіс президента та підрозділи ЗСУ, що дозволяє швидко охопити місто. Припинення MESH‑зв’язку ускладнює дистанційне управління «Шахедами», змушуючи ворога модернізувати їх або шукати інші канали керування.",
@@ -632,6 +735,26 @@
       "published": "2026-11-02T19:19:55+00:00"
     },
     {
+      "title": "Ankara Summit визначив нові напрямки співпраці тюркських держав",
+      "original_title": "Ankara Summit: new areas of cooperation among Turkic states and Uzbekistan’s initiatives - UZA.uz",
+      "summary": "На саміті в Анкарі представники тюркських країн та Узбекистан обговорили нові напрямки співпраці, включно з ініціативами Узбекистану. За результатами зустрічі планується розширення економічних коридорів у Середньому та Транскаспійському регіонах.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "UZA.uz",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkFLdlUwNTNmN0tXeEgzY25yNjZvOWFFcFA2WmxTbUk0RHNEWkZLYW5UZFVZZHlwYzQ1WmhVUU9sczF0UkZzdjhZczlKeVVxRVpRRTFNd1NNb1BySjBxcmVEcmpmcGNLMjdMQ2tnZUduT2s4WG1oNmZZdkl3b1BqWWtpY2tVbnljc05xa2RnSVFqZFozNERneDIzaXpSQnc2Rk55U2d0ZkRoSXdEREQ3U3BUQUNJTEFK",
+      "published": "2026-11-02T19:36:24+00:00"
+    },
+    {
+      "title": "Egypt, IFAD Sign $64.9M Nile Valley Water Project Financing",
+      "original_title": "Egypt, IFAD Sign $64.9M Financing For Nile Valley Water Project - Forbes Middle East",
+      "summary": "Egypt and the International Fund for Agricultural Development (IFAD) signed a financing agreement worth $64.9 million for a Nile Valley water project. The funding will support water infrastructure and management in the region, potentially enhancing agricultural productivity and water security.",
+      "source": "Коридори · IMEC",
+      "publisher": "Forbes Middle East",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS21hbERXTW1IdElXSDN3ZE1zRzg5R1pfU0o3XzZxWlFTTk1BMmdJNkJrRHk3LXJ0VXVWVURyME9fZWR3YWtNTGtXTTVEdWdqaE1HbUhFWlY3UzBPcERmeVRqdTM5dHpiWTlldHl0cUdLMVRqRTJDWmw3RTFtV0hjWGMyR1kyZHNvZk5ZOTdoZ1NSZWthRTVTTmR4T21odUdpLXk0dmZteGFYbWFVMEpvb2RfYmVNNlJ4ZmJUQjFnUQ",
+      "published": "2026-11-02T19:41:19+00:00"
+    },
+    {
       "title": "Потрібен стабільний попит, щоб збільшити виробництво наземних безпілотників: керівник консорціуму Autonomy",
       "original_title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
       "summary": "У інтерв'ю Воррен Спонслер, COO NAMC, зазначив, що галузь стикається з проблемою визначення реального попиту та напрямків інвестування, що ускладнює масштабування виробництва наземних безпілотних транспортних засобів (UGV). Без чіткої сигнали про замовлення компанії не можуть планувати обсяги виробництва та оптимізувати технологічні процеси. Це може затримати впровадження автономних наземних систем у військових підрозділах, знижуючи їхню оперативну готовність.",
@@ -650,6 +773,26 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile",
       "published": "2026-11-02T20:20:07+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Ірану повідомив про інтенсивні непрямі переговори з Вашингтоном",
+      "original_title": "Iran foreign minister says in ‘very intensive’ indirect talks with Washington - アラブニュース",
+      "summary": "За даними Arab News, міністр закордонних справ Ірану заявив, що наразі тривають «дуже інтенсивні» непрямі переговори з представниками Вашингтона. У повідомленні не вказано конкретних дат, місць чи учасників, окрім іранського міністра, і підкреслює, що діалог здійснюється через посередників. Це свідчить про продовження дипломатичного контакту між Тегераном і США без офіційних зустрічей.",
+      "source": "Bilateral Meetings",
+      "publisher": "アラブニュース",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3Z4emdNNzJfamlkbm5xb015THVwTTRHa3owUE0xUXBRMU1ITFY0MlROMEJHTHRLd1JqOEpWNzRtbDlDbWJLY3hmdFhXUWlTcE5DT1c0ZEpwdUdyY0c0U1hybGxJV2RMVzU5cGZkQTZiRmZ4cE5hUkhJWmdLNGZHcDhHV1ljVUR2ZTM2RlNneENLemtrejhFV2lSby1NMmc2WVdDT3pSNzBKN1hhM0xkQ2Zwc3ZVS3dpNGxlQnlyQQ",
+      "published": "2026-11-02T20:20:48+00:00"
+    },
+    {
+      "title": "Росіяни скинули бомби на пункт гуманітарної допомоги у Комишувасі, загинуло 26 осіб",
+      "original_title": "Росіяни скинули бомби на пункт гуманітарної допомоги у Комишувасі – відомо про 26 загиблих",
+      "summary": "Російські авіабомби типу ФАБ‑3000 обстріляли школу, що роздавала гуманітарну допомогу, у Комишувасі. Удар, що тривалістю близько години, призвів до 26 загиблих, серед яких рятувальники та поліцейські. Таке використання авіабомб підриває безпеку цивільного населення і підсилює тиск на українські структури гуманітарної допомоги.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosijski-udary-po-selyshhu-komyshuvaha",
+      "published": "2026-11-02T20:32:16+00:00"
     }
   ]
 }

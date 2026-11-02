@@ -1,5 +1,6 @@
 {
   "links": [
+    "http://africanews.com/2026/11/02/iran-proposes-two-day-plan-to-reopen-strait-of-hormuz",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
@@ -7,13 +8,17 @@
     "https://middleeasteye.net/live-blog/live-blog-update/trump-says-he-had-good-talk-netanyahu",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
     "https://militarnyi.com/uk/news/avstraliya-fidzhi-drony-narkotrafik",
+    "https://militarnyi.com/uk/news/bpla-lugakom-operator-zvyazku-lugansk",
     "https://militarnyi.com/uk/news/brytanskyj-gchq-zagubyv-tysyachi-nosiyiv",
     "https://militarnyi.com/uk/news/dipstrajky-u-zhovtni-raketne-npz-aviatsiya",
+    "https://militarnyi.com/uk/news/estoniya-deportuvala-rosiyanyna-fsb",
     "https://militarnyi.com/uk/news/f-16-cherguvannya-z-aviabazy-erekson",
+    "https://militarnyi.com/uk/news/gerbera-2-z-dalnistyu-1200-km",
     "https://militarnyi.com/uk/news/kaliningradskij-postrazhdaly-dva-su-30",
     "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
     "https://militarnyi.com/uk/news/peredachu-type-31-zatrymaly-na-dva-roky",
     "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli",
+    "https://militarnyi.com/uk/news/rosiya-reaktyvni-bm-35-ta-bm-70",
     "https://militarnyi.com/uk/news/rosiyany-vykorystovuyut-rakety-s-8",
     "https://militarnyi.com/uk/news/shvetsiya-sudno-zv-yazku-spetssluzhbamy-rf",
     "https://militarnyi.com/uk/news/ssha-pershiy-polit-prototyp-hades",
@@ -29,16 +34,23 @@
     "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
     "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Iak9oQ0NCeEFPVm9hSDJwdmtrLXN0RURvQW51dUJvQ0VUY0JmR0dvaENQTWJveEU3TDA0TTEzbDlUbGNURWhOTGZIcjNLUXRN",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNlFGSUNjcGQ0R2lkRTRhY1BzeFBxSmZTTloydDRDc3RtM1JKaUlXa093SXNOS25vSGNnQmpPZDRJWW16VFNlU0RhWVNuTHdHYWk5U01KWQ",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KaGRlTlpvSFVyQWVHeEdwRVpuLVFiNWJVRkZDa1dSLWFPNVRHM0o4R1B0dWxDSDNIS2QyeFF2eXEzRXZfbXdaelNSTVVCdHdrcXRsdQ",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUkdfS3pMZ2o5N084UUZFWHZIRXVIbExkZ3lzUXU5LUVUNnZ5SVUtY05HaTRrMHNGYzc3bUZpZml5SE5IN3hrdV80bEhYd0ZCa09ST3kyOWE",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDWjllcC12SWZnbzdrMUd2aWgxWmhFamZmWXJsVUJPWFRjZzNJNUZ5QTl5SWZaUmVJemltN2ZWamFuZ0ZLMUNpTFNwRTVEeUhLQUJ4OE9WSEFIMk9mNllKMGl4TQ",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDYVdiamc4NkF5UnAtbW1EQVdNYUNrbWUxeml1UUkxZGRwOFdodGJWaE5FQ2pFMVhmTnRBTXRXTXhHQUFYUkFqWW5XNldmWUxsMkV4V1pya1ZqYVRxZEdveVpVMA",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ha2pFREI3WHY2WGRPbGJXVGlIRy14bWEyS1RKUXo3Qy1mYV9COWNZWUhxQTRRR2poVkZGcWxYV25laDJwSU1jQ1hUN0Q2VjNZa0wwb09ySEQzaEt0bTQ1eUdSbEszZjdzdTBPNE42djVyS00",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdGMyMVVnTHNIMjVCdXJ5elFLbGpSaVRWOUJiWmg3LU1WQ251RmFxZG1nNXBUU09NNHpTODBKdHZvMncwODVaTnU1ZDVJaVhDNXBmNDBocXhsemE0eEEtX3E1czB6UVlDQUp2RnJuUFkxTUV0bWc",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGhlU19qTFIzTHZVMHF3ZWVLcUlraXBocGQxS2FWeU1QVm1qaWpoUlphVE9PQTFVOTUyZFBHdUlzZGVrYldXaVFkVkQwS01zUkd5LXFablB3Z05tNEJ3XzNHdEFLNDRWTk5tTmZhaENYV29EWm5TSWx5R2syNjRjTElXRUw",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckVIQmhIUnd5bkhTY1NEUHpuaWlnTWYtY3lMUW5iUmJqTWh6WjZBZFdaNURocEZ6dk9QeEd6SkdNR0h3REo4aTJNY0gwY0h5QksxYnUyNTQtdjdYV1dhdGoxV21JUnlkRkFqcVdSUTN3Wmx5bnZIcTFyNjJEeTZLRlRyblM2dG9E",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQend1bGNXeDVFNllZS05kc3U5N090TzlEWXVZRG1nSzk4YndBOEhGdExfZ0FEb25FM001SHZSSW5XRnlvcmVhNENXQVdBeDU2NUZETFJ5ZUY1NndWWnVhMXZGcmJGTVQ0YXZoYW5aWkp0WUQxNXYwaEFiRWZlUmtiNzA3T29mX184bkow",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlkyeTlnX0tDWnk4NnVEV0l0ck12T0pwaDBRNDY5aHlvbVFvcEdtZG41ZExIWFNaczNMM05NV2hpcURObzMyWDRaU0I2RmpVdkhQY0FuU0puWjZNMWZCRWgwR2NsdkZGV0VXQThlQmRkUkZScGhxeUI5XzJ5ZHlvblc5RlVnbGZsNzFUdVpR",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1B3WU9OZ25nbUw1aXVOZ242TUMzS0FsRkt5NEsyRk1YZ19sTDhkM0s5cGc1Y0Y5ZGJxNFRITThiNHpoQm1PdWRxeTg0azUyWnhlR0ZZTDZESG9QdHIzR2dnUlRuRW5YdzVRb05DZHExQTM0eXAweXJENW13UUUwdGNad3ZQWmkwaHAteExLQzI4OUNJSDkxZko5RQ",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmx3V0tGdXhLZjFnT3pBakhMUXUxT1dxeUdrYU10NnlIQzN6d0Fkc2dtT1NWM1Bsb0U0Z0tGYnZ4eW5odnI1TjMzbVdvdVpfOW93SlFvNndyMW1JdHhJOThLc1ZSVXZrUUZHSHJ2T2VlLUVWTUdjaTVWY3RUY1poMklMa195bVFRVlpvMWdQb1ZIZGR1MFVHVE0xU1E",
     "https://news.google.com/rss/articles/CBMinAJBVV95cUxQck9aVENkcmxNZVl4QnUzZWtWLVpMaXJTZTgxWkJWRXpfenJ5Y01IWlpmZUh2MXZwN3d6eUYyaE5XbURCbnE3UWJsMXRSbHJ3U2ZLWlZvME40WHBVQmhtWXhiQ19lYlpwc1N5OVdMSFdCYnJwZzFZZFlYOFZCQUZURUxzSDdwU0hnR1BoM0JqbGJ4ZHBYdllGNlRxQjN3ZVZQY0JkTm5hNGV5TnFQcDc4VDJIVHRHTWZnWkFIN3ROR1FBMGxjeWdYcWd2SG5kcVpxWUd2ZzBVVURTOGZUMnZjSXdYQk9HNTRHQS0wbzN1dHN6b0dUaFNaeEIwZ053Y3NNQ1JRcnBqTVQ1bFhhMEh5Tl9Lc0NWaTBrUlNUMNIBogJBVV95cUxQVTl1MVlYVTJmdXNibUpWQmpsZ1dzTzNqSDhBelVoM1JNZzhud2FwaHlfdk1BWldRLTd3NkM1RlNIYTZ1MFRJODhYbnNhUVRtdFZhUEctWGlROXBRbW1PVFVDU053VEN5cmRYU1A2bklNRjBRcmNFamJVT185WW5NWDUwQm94VXBONUs2SUt1Uk9LZXJlZEpESTVLRlZPZF8wRjR6NnR3LWNjaHU5R0dtdUc5bVRpRkluU1FHZV9NR081YWhBWEh1RWsyaE96SUw4b1hYMFpYamR3aG9LNDVJVFo2aWhSMDY5Y0FlbGtOYmFCS2lyQU5BOTdOMnpVNGVXNFRrbVlnUmdmTDdYRzRkU3F2RnloakhEUjUyZzhDSEIwQQ",
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZXA2SGlfOU91VnkxUUxnRklySnJDUklkb2pXQlhVUjdJY29aTGM0RGcydVNPTm1scGM4U1V0ZHVCcGZzdlBaa0RwTTdsSFp0UHJFQXUyZ01xUDFBQ1BQaGRBZDVrc2ZZeE1uNnBrUFhUVWdZbVRJOHhXMG84QkVacS1kUUVzVU5XclA4eDdWcm95MmI5T2NsMGRtRHBtbTczXy0yR09TOENJTGlEaEJJQjlqWXNyZ0FKcmlKTHVjUEdSWGZ0Z3F6SDNTd0RXd1Q0dnhIYzVadkh1dmxHbTNZNnJ4S085QkVEeVJqaTBVV2ZZNk5JbGM4bEJwTmktbnhjUUdoYmRKeXFwakVLMlZjRlFVZ1VyVndsc3l1Rklsd0lvQQ",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkJZOUIwaDVycjREWnNmLVMwN3VhalNMeHVpUHNZN2ZjTndHSmFhY0JKcEgzRlk3VFhQZnpscmptSWxEQzJ3NW9uZVEtUEJMdXNQdFRzcG00UTBJbkFnVVpMTEp5UWNQUDVZT3BUMjJXbHo1MWZuMTdyeW5seXd5YTFLcFdtMWNZYWFLcU5uN3hhR1FqUVcwaUNKVFZkZkhobmF4RkdPcUw",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDhfcDhCY3VIWkRtdlJjeG91UUFweFQwUUFKMGhjdHFRZFlNSVhVSlNMSm03WkJ0TjdnWTNWUmZFdHpLOE5rMU9QTXBQVUk3S2s3VzZkOGNRZEZZaF91MVQ5SkdVQ2V1MXNBODJkTDVkRFhfN2tYay1BY3ZaOHd5bjVDZVJJY3RqYU1Rek1WTHZxY0hQWFZmNXZxbThES0lXa25Mcmk3ZURQSTA",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGVVR2hORXVtcEs3MThSdnRFd1JtUmJXSEV4UlR3N0oySUJ0ZGJwMlo2cWowaEFwd0N6cWhvX1Rob1V6RGFtbklPMkpEOThIMGgtcE9lMkxpVFFSSW04MHFVUWV6Ymc4cHZPcFd2bGliT0VIdEZGbjZsTHBfcjJfUTVVMVQyelR0SEExNTQ1V1FHYktTYkNsLTh0aEgtTVNiMWZ4azRMNWNuWFRU",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYW1naGk0UUh3UnFhTUw4NEcwM2Vid09Db3FUbl91bXBhNDdjQWVaYWZjajNDVHRTenN1WEM5bGxJZ3dCMkJ5eGJybS1tbVNRemo2UGhrRXhDVHF4NzBTZzF6MHpKenVtX0V4N2d2ZFNfUmdoM3prNkhsR2RwN3NlTVJzSGJpZ1o4UHNSY3J0RjFEcTZwVWZfSG9tZ3N3Z2hBbmprTVJXYlRqd1NaVFZabw",
@@ -524,6 +536,26 @@
       "published": "2026-11-02T02:28:03+00:00"
     },
     {
+      "title": "Ван Ї проведе 11-ту зустріч міністрів закордонних справ співпраці Ланкацзян-Меконг",
+      "original_title": "Wang Yi to Chair the 11th Lancang-Mekong Cooperation Foreign Ministers’ Meeting - 中华人民共和国外交部",
+      "summary": "Міністр закордонних справ Китаю Ван Ї головуватиме на 11-й зустрічі міністрів закордонних справ у межах механізму співпраці Ланкацзян-Меконг (Lancang-Mekong Cooperation). Захід організовано Міністерством закордонних справ Китайської Народної Республіки з метою обговорення регіональної взаємодії та партнерства між країнами басейну річки Меконг та Китаю. Зустріч є черговим формальним дипломатичним кроком у рамках цього багатостороннього формату співпраці в азійському регіоні.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdGMyMVVnTHNIMjVCdXJ5elFLbGpSaVRWOUJiWmg3LU1WQ251RmFxZG1nNXBUU09NNHpTODBKdHZvMncwODVaTnU1ZDVJaVhDNXBmNDBocXhsemE0eEEtX3E1czB6UVlDQUp2RnJuUFkxTUV0bWc",
+      "published": "2026-11-02T07:05:00+00:00"
+    },
+    {
+      "title": "Іран запропонував дводенний план відкриття Ормузької протоки",
+      "original_title": "Iran proposes two-day plan to reopen Strait of Hormuz",
+      "summary": "Міністр закордонних справ Ірану Сейед Аббас Арагчі повідомив у неділю, що Тегеран погодився на «дводенний план» для відновлення навігації в Ормузькій протоці. Це рішення скоротує попередню пропозицію Ірану, яка передбачала семиденний строк. Заяву зроблено на тлі того, як іранська делегація продовжує переговори з посередниками в Катарі. Текст не містить деталей щодо конкретних умов плану або реакції інших сторін.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/11/02/iran-proposes-two-day-plan-to-reopen-strait-of-hormuz",
+      "published": "2026-11-02T08:11:36+00:00"
+    },
+    {
       "title": "Saab представила варіант CB90 CX з можливістю без екіпажу перед Euronaval 2026",
       "original_title": "Saab unveils optionally crewed CB90 CX ahead of Euronaval 2026",
       "summary": "Saab анонсувала новий варіант шведського десантного катера CB90 — Capability X (CB90 CX), який може працювати як з екіпажем, так і без нього. Спочатку пропонуються три конфігурації: розвідка/спостереження (ISR), протиповерхнева протикорабельна боротьба та короткодальне протиповітряне ППО. Така універсальність і можливість автономного управління підвищують оперативну гнучкість морських сил, дозволяючи швидко адаптувати катери під різні бойові завдання під час майбутніх морських виставок і операцій.",
@@ -534,6 +566,16 @@
       "published": "2026-11-02T08:57:08+00:00"
     },
     {
+      "title": "Ukrainian drone strike rattles Russian economy",
+      "original_title": "The Ukrainian drone strike shakes the Russian economy, oil becomes the Kremlin's weak point, what is happening to the billions that keep the war machine going? - Gazeta Sot",
+      "summary": "Ukrainian drone strike has disrupted Russian economic activity, particularly in the oil sector, which is now seen as a vulnerability for the Kremlin. The attack raises questions about the billions of dollars sustaining Russia’s war effort.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Gazeta Sot",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZXA2SGlfOU91VnkxUUxnRklySnJDUklkb2pXQlhVUjdJY29aTGM0RGcydVNPTm1scGM4U1V0ZHVCcGZzdlBaa0RwTTdsSFp0UHJFQXUyZ01xUDFBQ1BQaGRBZDVrc2ZZeE1uNnBrUFhUVWdZbVRJOHhXMG84QkVacS1kUUVzVU5XclA4eDdWcm95MmI5T2NsMGRtRHBtbTczXy0yR09TOENJTGlEaEJJQjlqWXNyZ0FKcmlKTHVjUEdSWGZ0Z3F6SDNTd0RXd1Q0dnhIYzVadkh1dmxHbTNZNnJ4S085QkVEeVJqaTBVV2ZZNk5JbGM4bEJwTmktbnhjUUdoYmRKeXFwakVLMlZjRlFVZ1VyVndsc3l1Rklsd0lvQQ",
+      "published": "2026-11-02T09:02:15+00:00"
+    },
+    {
       "title": "Передача першого британського фрегата Type 31 HMS Venturer відкладена до 2028 року",
       "original_title": "Передачу першого британського фрегата Type 31 затримали на два роки — до 2028",
       "summary": "Будівництво першого фрегата Type 31 HMS Venturer затримано приблизно на два роки – планована передача у 2028 році замість 2025‑2026. Причинами стали пандемія COVID‑19, Brexit та війна в Україні, що підвищили вартість енергоносіїв, робочої сили та ускладнили ланцюги постачання, а також зміни у проєкті і повторні роботи. Затримка скорочує темпи введення нових багатофункціональних фрегатів у ВМФ Великої Британії, що може вплинути на їхню здатність підтримувати морську присутність у стратегічних регіонах.",
@@ -542,6 +584,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/peredachu-type-31-zatrymaly-na-dva-roky",
       "published": "2026-11-02T09:09:17+00:00"
+    },
+    {
+      "title": "Тиждень вперед: середньовибори, NFP, рішення RBA та прибутки Apple",
+      "original_title": "Week Ahead: Midterms, NFP, the RBA rate decision and Apple earnings set the agenda - www.tmgm.com",
+      "summary": "На цьому тижні в центрі уваги будуть вибори до Палати представників США, дані про зайнятість (NFP), рішення Резервного банку Австралії щодо ставки та звітність Apple. Кожна подія може вплинути на фінансові ринки: вибори – на політичний курс, NFP – на оцінку стану ринку праці, рішення RBA – на глобальні процентні ставки, а прибутки Apple – на технологічний сектор.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "www.tmgm.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmx3V0tGdXhLZjFnT3pBakhMUXUxT1dxeUdrYU10NnlIQzN6d0Fkc2dtT1NWM1Bsb0U0Z0tGYnZ4eW5odnI1TjMzbVdvdVpfOW93SlFvNndyMW1JdHhJOThLc1ZSVXZrUUZHSHJ2T2VlLUVWTUdjaTVWY3RUY1poMklMa195bVFRVlpvMWdQb1ZIZGR1MFVHVE0xU1E",
+      "published": "2026-11-02T09:11:04+00:00"
     },
     {
       "title": "Тестування курсу пролонгованого догляду за пораненими у 151‑му центрі: 98% теорія, 93,8% практичний сценарій",
@@ -562,6 +614,86 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rosiyany-vykorystovuyut-rakety-s-8",
       "published": "2026-11-02T09:38:47+00:00"
+    },
+    {
+      "title": "Геополітична конкуренція підштовхує глобальний контроль ресурсів",
+      "original_title": "Great-Power Rivalry Fuels a Global Wave of Resource Controls - China-US Focus",
+      "summary": "Зростаюча конкуренція між Сполученими Штатами та Китаєм спричиняє всесвітню хвилю запровадження обмежень на стратегічні ресурси. За словами China‑US Focus, це впливає на міжнародну торгівлю, підвищуючи ризики постачань у різних секторах.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "China-US Focus",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkJZOUIwaDVycjREWnNmLVMwN3VhalNMeHVpUHNZN2ZjTndHSmFhY0JKcEgzRlk3VFhQZnpscmptSWxEQzJ3NW9uZVEtUEJMdXNQdFRzcG00UTBJbkFnVVpMTEp5UWNQUDVZT3BUMjJXbHo1MWZuMTdyeW5seXd5YTFLcFdtMWNZYWFLcU5uN3hhR1FqUVcwaUNKVFZkZkhobmF4RkdPcUw",
+      "published": "2026-11-02T10:11:19+00:00"
+    },
+    {
+      "title": "Українські війська перехопили реактивні БПЛА BM-35 та BM-70",
+      "original_title": "Росія почала застосовувати реактивні БпЛА БМ-35 та БМ-70 — українські військові показали їх знищення",
+      "summary": "Росія запустила реактивні модифікації БПЛА BM-35 і BM-70, що досягають швидкості понад 350 км/год і дальності понад 200 км. Українські сили, використовуючи FPV‑дрони, перехопили та знищили ці цілі, що зменшує ризик ударів по транспортних засобах і логістичних маршрутів. Цей успіх підкреслює ефективність української контррозвідки та безпілотних систем перехоплення.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-reaktyvni-bm-35-ta-bm-70",
+      "published": "2026-11-02T10:14:01+00:00"
+    },
+    {
+      "title": "Головне управління розвідки оприлюднило характеристики дрона-камікадзе «Гербера-2»",
+      "original_title": "Дальність до 1200 км: ГУР розкрило характеристики «Гербери-2»",
+      "summary": "Головне управління розвідки оприлюднило характеристики нового російського дрона-камікадзе «Гербера-2», який має дальність до 1200 км і можливість нести боєприпаси до 25 кг. Дрон оснащений удвічі розширеним корпусом, новим 12‑канальним навігаційним модулем «Комета‑М12» та китайським mesh‑модемом, що підвищує його автономність і стійкість до електронної боротьби. З такою дальністю та вантажопідйомністю «Гербера‑2» може виконувати стратегічні місії, наприклад, знищення авіаційних об’єктів або перехоплення українських дронів‑перехоплювачів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/gerbera-2-z-dalnistyu-1200-km",
+      "published": "2026-11-02T10:32:01+00:00"
+    },
+    {
+      "title": "Глобальне зростання під загрозою через зростаючі борги та енергетичні ризики",
+      "original_title": "Global growth faces fragile future as debt, energy risks mount - AzerNews",
+      "summary": "AzerNews повідомляє, що глобальне економічне зростання стикається з крихким майбутнім у зв’язку зі збільшенням боргових навантажень та енергетичних ризиків, що створює нові виклики для світової економіки.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "AzerNews",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KNlFGSUNjcGQ0R2lkRTRhY1BzeFBxSmZTTloydDRDc3RtM1JKaUlXa093SXNOS25vSGNnQmpPZDRJWW16VFNlU0RhWVNuTHdHYWk5U01KWQ",
+      "published": "2026-11-02T10:34:00+00:00"
+    },
+    {
+      "title": "Естонія вигнала росіянина Леоніда Карабешкіна та заборонила в'їзд у Шенген",
+      "original_title": "Естонія депортувала росіянина за зв’язки з ФСБ та заборонила йому в’їзд до Європи",
+      "summary": "Естонський Департамент поліції та прикордонної охорони на підставі пропозиції KAPO вигнав громадянина Росії Леоніда Карабешкіна, якого підозрюють у співпраці з ФСБ та мережами CIRP, RuBaltic і Regnum. На нього накладено заборону на в'їзд до Шенгенської зони, що ускладнює його можливості координувати діяльність у Європі. Такий крок підкреслює посилення контррозвідувальних заходів країн Північної Європи проти російської пропаганди та шпигунства.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/estoniya-deportuvala-rosiyanyna-fsb",
+      "published": "2026-11-02T10:35:15+00:00"
+    },
+    {
+      "title": "EU обговорить інвестиційну підтримку «Середнього коридору» 17 листопада",
+      "original_title": "EU to discuss investment support for Middle Corridor development on Nov. 17 - Trend News Agency",
+      "summary": "Європейський Союз проведе обговорення інвестиційної підтримки розвитку «Середнього коридору» 17 листопада. Це свідчить про зацікавленість ЄС у зміцненні транспортно‑логістичного зв’язку між Європою та Азією, що може підвищити обсяги торгівлі через цей маршрут.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "Trend News Agency",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Iak9oQ0NCeEFPVm9hSDJwdmtrLXN0RURvQW51dUJvQ0VUY0JmR0dvaENQTWJveEU3TDA0TTEzbDlUbGNURWhOTGZIcjNLUXRN",
+      "published": "2026-11-02T10:47:33+00:00"
+    },
+    {
+      "title": "Belgian PM Bart De Wever Offers Resignation Over Rising National Debt",
+      "original_title": "Belgian Prime Minister Bart De Wever Offers Resignation as National Debt Mounts - EU Today",
+      "summary": "Prime Minister Bart De Wever announced his resignation as Belgium’s national debt continues to climb. The move reflects growing fiscal pressure on the country’s government.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "EU Today",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDWjllcC12SWZnbzdrMUd2aWgxWmhFamZmWXJsVUJPWFRjZzNJNUZ5QTl5SWZaUmVJemltN2ZWamFuZ0ZLMUNpTFNwRTVEeUhLQUJ4OE9WSEFIMk9mNllKMGl4TQ",
+      "published": "2026-11-02T10:49:28+00:00"
+    },
+    {
+      "title": "Безпілотники вразили будівлю оператора зв’язку «Лугак» у Луганську",
+      "original_title": "Безпілотники уразили будівлю «Лугаком» — одного з операторів зв’язку на окупованій Луганщині",
+      "summary": "У ніч на 2 листопада безпілотники атакували будівлю оператора зв’язку «Лугак» у Луганську, координати 48.576245, 39.301153. Зруйновано інфраструктуру, що забезпечує мобільний зв’язок і доступ до інтернету для окупованої території, а також використовується російською армією для передачі даних. Ця атака порушує комунікаційні ланцюги окупантів і може знизити їх оперативну ефективність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bpla-lugakom-operator-zvyazku-lugansk",
+      "published": "2026-11-02T10:57:33+00:00"
     }
   ]
 }

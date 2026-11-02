@@ -1,13 +1,5 @@
 {
   "links": [
-    "http://www.africanews.com/2026/10/22/young-uganda-based-refugees-chase-their-olympic-dream-in-senegal/",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWFZmQ1YtYWYyV2MtZDlBOVNJeDFCNGxDVExVUE1HQXFnQk91bG8td1Ffb1A4UHVIUjBBY3VmOHhaYy1SNWxjUDlHRVgzNzJoQjBNb25Xa1AzaHZFdk9PaVdnSXptWHNLMXlFQW5qN19SNGQ1eEhtODk2aTd4cGNtOUVYYmhzaXVKTmdJMnNURkVYandMSTRhaVhydEE1WEwxZG93eWdpb0lzZk1YUHFad3J5TzlNa01tczBwZUdtNlp3Mzl6NFN3RkF4dl9Cek0tSmVQQ3MxR3VQbGxLQklkcjJ0RVJGQTVI?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTg5Wm9EYzBJWVNrUGE1QnJqQVFnbXVsYnVQckNmM1k0SDlUYlFiV2RfaTg2eFRBX3FIcmZfUWQxbjUwajUwMmxDQzBuMmtDNVdFMkxHbEFtSmpmOXIza0EzOF90N1JCSzFfNnlfWWNTSmk4YXQyMVJ0QS1KNTNDby13QlJuWHVYTjhtMlp5Mms4NHFWc0JqVi1GdkY?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnZtWUhWbldnWkVUR1MzcE1TMzE4WjJfVG11RjBLd1JBQ2RqYUk2ZGJrUGk4OW4zV2dQSkU3dXRqX0h2MXM5T3B3eXJuT003UUowQllpeTdrV3RtblBtMklQR0FXcHNCcnVqeVZRM0h4TmZIeGppZjloR3JQOE9pRUhhaUx4RjN2S291ZXczNnlNNEV3?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vaENNVGE5VklEcGw3Yk54LWRkZjNIR2ZYTDd6eE1CcnpSbWowbEZua0lPZDZtenFha05NVUV0MEtiSU1kM0lPejNldko4RkJ1REttWTkzeUxsdml2MzFWVEFmeEMtUVBDMFVWSzlnNTc3YjhTS1ZSOHdDdjdSd9IBfkFVX3lxTE9VVkZNd1ZHaV9OZWhNRFJhUVVZdV9TZ1pGODRXdWpyVk1LWUt0bGJwblphRDFnZW8taFl2RXFpMkU0NmFqbjAwXzVTVUFreWVmbE9JLUlJY2hVNHhZM0lzZkZWNm9EZ1FjLUZTdGpHRHZBOGtHa0JVUUljbHQ3Zw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-iran-naval-blockade-reaches-100-days",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHBJRWJUN2F3SnUxVTNZMkJMSGFWUnJsVGc2UlROOFdoX1VwVTRXTmY1N1U3ZEtlRVhPdjFZMDRJYWR0MGN1cEpNbHRtdmtKc1ktOGx2NkV0bWtZZVZMaG9GSFFHeEpDZ2Voa3ExZlNCZzhtTGxYOEE0WnZOMEw0d2NwcFlzRmxyQzN2WGltMnlhczVPTWFMemF5S0c?oc=5",
     "https://www.middleeasteye.net/news/first-arab-american-mayor-endorse-trump-becomes-white-house-adviser-president",
     "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-calls-yemen-talks-parliament-weighs-military-support-saudi-arabia",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ000aVVsN2xmYUFLY3BWWW1DWUlKRmd0YkRoZDBjbExYeTFLcmdNN2ZiQlZDTFd6OXpxUkVZeV9CdDNaMGN3M1piYXRuNG44V3dvU212cUhLUHI0X3F1My1xc0RkX3g3T2pzRXVRSVZyMWpZUVY1Zzk3cTUtblU1ZjVpRDZncGVKbXhNSlBBcnVtVFBUQ2xVcUd4bkNyeXhfenNIamQ2QVBGS3FpUHVidGxfVnJuTUo1VWMtUGt5UnA1SWc?oc=5",
@@ -1199,7 +1191,15 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk1Xb0pLWnVwcXJJWThKa2hkMGpKYXNySTRGaEU2YW1ONFpjLS1ZdXhDOVVISVM2anVoTWM1RFpueHdaTW5vNWVHTEtYMmxmblYxUUEydDhVN3Mwb2pQd05qYzVYX0kzUlc4Y1piNC1IVzQ5UGpxQlA3QWxhLTlSd3Vydi05X0g4WnFYSzFhQVplV0JMel9pckdtWk5IVnlNT0JMN25lc0IxUk1lS3phbmhvZTUybFhiaW03ZjZZUkdGek1HOFc1dEdPUQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmptVTQyZm5rbWZwU2ZLUDZxai1GWXpLNkNIQy1CUUZTb0E1bXlYd1ZrTXdlVURNbkNyQ0tHWjZRTnYzZWoxOTh1UVg2a0pnWkpwb2MyZWRzUUFQcEZ2RXM3bFJHQTliQUczVTFSRzlpalVOUFNCalRYRzBtemN2ZGx5Mlh2VVd6c3hxMWx6NlBpemFCM3V1WFNOVmFkNEl4dG83MW82U3RPV2drdWZ4dA?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRiUlBWTjhFV0ZoQmxNTlB5aXFUck5wdjlmc1RMOExtZkhhWHQ2NjNJUTZGNEU0cmdXZ0dmM1F3UWZzUjdPNUFXR25VcTdhM0h2ak9UZU5zd00tYmVTV0F0Z1lvTVVNTElpX3BBWXh0cGxfYURLZEh4TEl5VHJPY1F5WGphaHZOQ1dnSC1NekVySmVvNEE?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91UGJLTzVFRE5JRnRXdFFVZldrNXJDblc4SWhNenRST0FxQVU4T3NLb1A3WWxzR3dtdkpsakhfUXJ0RndTb0tvWHZ4VHE5Ny05VkZ0OUR1a3ZzTnFzMGpDcVNWdEdkQ0Q3TG1QVG1ZbGZOZkJMNVJR?oc=5"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91UGJLTzVFRE5JRnRXdFFVZldrNXJDblc4SWhNenRST0FxQVU4T3NLb1A3WWxzR3dtdkpsakhfUXJ0RndTb0tvWHZ4VHE5Ny05VkZ0OUR1a3ZzTnFzMGpDcVNWdEdkQ0Q3TG1QVG1ZbGZOZkJMNVJR?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/casualties-reported-after-attacks-saudi-led-coalition-yemens-hodeidah",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-hoping-breakthrough-yet-braced-worst-iran-us-war",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-some-point-will-need-give-iran-hammer",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjl0aWhiVVlueW44Rm9ROERGV09Xc0Qzd3lMN2UzRjJEbXFWTlVKSHhEZ1VYYWk1eWxONF82UkpGTTlRMVpfeFE4WmZaX3JPMWFPY3JCVk5LQXE5a2VzVC1LeTRuWk14SVJKbU15eFdVeUZsWVBWZFdpbElFQnZ2UFNHNnBUZkpscmprVWhuSllaYS12eUFUa0hjM3RidjVEZnlTcWpMNWxiTWRiU1FRaEVjRlc3TGpRVldYX3pNM0psMVdtZU5CQXNPTGwxMUNiSzQwd3otcFEzYjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE91RVl5dTluQXM3V1RCeVE0Y0ZKeG5aZlVtU2xCQ2RMa0JHQ0pRN2RiTFlBY3dKcVRlRjNfLU5jcHVNWG1IbmhMX0tXQ3pvRURnQW9OSWg2VHNvUzJUOWhxU0psMEI0Mmo2YkNBd09R?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW1SMDlBY2s0WEVULU4tLWxBakxuV0djWUxfMkMzcHFvdFNHeU1nMldEdHB4ZEpvYjZpbGxzZXhidFdNb25yQnA1OFItb1RFSXNTbmxXZ25vc2JBeXFLU085WnRVRXFRaTJqdzUzSkFTMVNUT2ltUGNQU1oxUElUb0hFTjh1aGNWckFONV85SUVISTE2dmwtQVRPLWtSUEt6elpaWnpYd2ZGUWF2SnFuWjQxMno?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjFXWnNqc3RITnBwTDhlVzZKMlhkNkc0bW5wV2NWOXBpdXRITTBMSUFyWjh1SHRIYUNCTWhjTkxqSkRVNF9KZkNpaTR3V25NTDRKbTVqd25kZWd2eDgxSVl4ZGZJZDFGMVZCSjRid2lLcFNnN0p3TV9kZko2WTBmemlHQnZMa0tXVS1qWUJ3b3RvQkZ2eDhvN9IBrAFBVV95cUxOZzM2VVhiaTNkNGtrUE9pTXZaWmlMRjlkbnRvaWdQNFlVNXcwMVI3MWRvUEpEdjRlQ1FtYlJSXzFZTkxQMkNsZDQ2QzlGVjJZa1BwR2FNVERfNmYtaEpiWmx1VllUOHBrVEZweFduY0tXT2lwSDR1cGE0Z3ZqeWlZem5QamJjRGxKcWxvMlcyMjQ3YlNJUE0wX0pXdExRc0t5LXZ1SXctWm44bEFR?oc=5"
   ],
   "recent_posts": [
     {

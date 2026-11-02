@@ -1,31 +1,31 @@
 {
   "links": [
-    "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
     "https://middleeasteye.net/live-blog/live-blog-update/syria-weighs-joining-mecca-defence-pact-foreign-minister-says",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-says-he-had-good-talk-netanyahu",
     "https://middleeasteye.net/live-blog/live-blog-update/un-demands-probe-death-staff-member-houthi-custody",
-    "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
     "https://militarnyi.com/uk/news/avstraliya-fidzhi-drony-narkotrafik",
     "https://militarnyi.com/uk/news/brytanskyj-gchq-zagubyv-tysyachi-nosiyiv",
     "https://militarnyi.com/uk/news/dipstrajky-u-zhovtni-raketne-npz-aviatsiya",
     "https://militarnyi.com/uk/news/f-16-cherguvannya-z-aviabazy-erekson",
     "https://militarnyi.com/uk/news/kaliningradskij-postrazhdaly-dva-su-30",
     "https://militarnyi.com/uk/news/kndr-provela-vyprobuvannya-balistysnyj-raket-hwasong-11d-z-kasetnoyu-bojovoyu-chastynoyu",
-    "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
+    "https://militarnyi.com/uk/news/peredachu-type-31-zatrymaly-na-dva-roky",
     "https://militarnyi.com/uk/news/protector-rg1-10-godyn-rosijski-korabli",
+    "https://militarnyi.com/uk/news/rosiyany-vykorystovuyut-rakety-s-8",
     "https://militarnyi.com/uk/news/shvetsiya-sudno-zv-yazku-spetssluzhbamy-rf",
     "https://militarnyi.com/uk/news/ssha-pershiy-polit-prototyp-hades",
     "https://militarnyi.com/uk/news/ssha-planuyut-deportuvaty-afgantsiv",
     "https://militarnyi.com/uk/news/syly-oborony-evakuyuvaly-167-hersonshhyna",
+    "https://militarnyi.com/uk/news/tryvalyj-doglyad-za-poranenymy-gotuyut-bzvp",
     "https://militarnyi.com/uk/news/u-latviyi-tsentr-vyprobuvan-shi-zv-yazku-6g",
     "https://militarnyi.com/uk/news/ukrayina-otrymala-majzhe-3000-senator",
     "https://militarnyi.com/uk/news/urazyly-npz-lukojl-u-kstovo",
     "https://militarnyi.com/uk/news/vidklasty-budivnytstvo-vijskovyh-korabliv",
     "https://militarnyi.com/uk/news/zirka-modernizuvaly-znyshhennya-reaktyvnyh",
-    "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/saab-unveils-optionally-crewed-cb90-cx-ahead-of-euronaval-2026",
     "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
     "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg",
@@ -53,46 +53,6 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84"
   ],
   "recent_posts": [
-    {
-      "title": "Бельгія передала першого мінно-розвідника класу Tripartite BNS Bellis Військово-морському флоту Болгарії",
-      "original_title": "Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy",
-      "summary": "Бельгія передала Болгарії BNS Bellis — перший з чотирьох мінно-розвідних кораблів класу Tripartite, що підвищує можливості протимінної оборони у Чорному морі. Корабель має водотонний корпус, дислокаційну сонарну систему та безпілотні підводні апарати, що дозволяє ефективно виявляти та знешкоджувати міни. Це зміцнює безпеку НАТО в регіоні, розширюючи потенціал союзницьких сил у протидії мінним загрозам.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy",
-      "published": "2026-10-31T09:54:43+00:00"
-    },
-    {
-      "title": "Повітряні кулі з дронами обмежили роботу трьох московських аеропортів, спалахнула пожежа біля Шереметьєво",
-      "original_title": "Повітряні кулі з дронами обмежили роботу аеропортів Москви. Поблизу «Шереметьєво» — пожежа",
-      "summary": "31 жовтня в Москві підвісні повітряні кулі, оснащені малими безпілотниками або вибуховою начинкою, змусили обмежити роботу трьох аеропортів. Після падіння одного з дронів або внаслідок дії протиповітряної оборони спалахнула пожежа в лісі поблизу складу паливно‑масляних матеріалів Шереметьєво, що підкреслює нову загрозу низькоорбітальної техніки для інфраструктури аеродромів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/povitryani-kuli-z-dronamy-obmezhyly-robotu-aeroportiv-moskvy-poblyzu-sheremetyevo-pozhezha",
-      "published": "2026-10-31T11:33:28+00:00"
-    },
-    {
-      "title": "Арагчі: Іран встановив умови для відкриття протоки Ормуз",
-      "original_title": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening",
-      "summary": "Міністр закордонних справ Ірану Аббас Арагчі заявив, що Тегеран встановив умови для відкриття протоки Ормуз, включаючи зняття санкцій, зменшення американського військового присутності та розмороження коштів. За його словами, консультації з катарськими посередниками скоротили строк реалізації з п'яти до двох днів. Іранська делегація перебуває в Катарі для продовження переговорів, попри відсутність безпосередніх зустрічей з США.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
-      "published": "2026-10-31T15:35:13+00:00"
-    },
-    {
-      "title": "Резолюції США і Росії блокували мандат МІД у Західному Сахарі",
-      "original_title": "UN Western Sahara peacekeeping mission left in limbo after US-Russia veto standoff",
-      "summary": "У сесії Ради Безпеки ООН США та Росія взаємно ветою заблокували резолюції щодо продовження мандату місії ООН у Західному Сахарі (MINURSO). США пропонували, щоб план автономії Марокко став єдиною основою переговорів, скоротити військовий склад місії та подовжити її строк ще на один рік. Росія підтримала альтернативну резолюцію, яку США теж ветою відхилили, залишивши місію без мандату.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto",
-      "published": "2026-10-31T15:38:24+00:00"
-    },
     {
       "title": "Модернізований дрон ZIRKA знищив реактивний безпілотник «Герань-5» на 400 км/год",
       "original_title": "Модернізований дрон-перехоплювач ZIRKA знищив «Герань-5» на швидкості 400 км/год",
@@ -562,6 +522,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1B3WU9OZ25nbUw1aXVOZ242TUMzS0FsRkt5NEsyRk1YZ19sTDhkM0s5cGc1Y0Y5ZGJxNFRITThiNHpoQm1PdWRxeTg0azUyWnhlR0ZZTDZESG9QdHIzR2dnUlRuRW5YdzVRb05DZHExQTM0eXAweXJENW13UUUwdGNad3ZQWmkwaHAteExLQzI4OUNJSDkxZko5RQ",
       "published": "2026-11-02T02:28:03+00:00"
+    },
+    {
+      "title": "Saab представила варіант CB90 CX з можливістю без екіпажу перед Euronaval 2026",
+      "original_title": "Saab unveils optionally crewed CB90 CX ahead of Euronaval 2026",
+      "summary": "Saab анонсувала новий варіант шведського десантного катера CB90 — Capability X (CB90 CX), який може працювати як з екіпажем, так і без нього. Спочатку пропонуються три конфігурації: розвідка/спостереження (ISR), протиповерхнева протикорабельна боротьба та короткодальне протиповітряне ППО. Така універсальність і можливість автономного управління підвищують оперативну гнучкість морських сил, дозволяючи швидко адаптувати катери під різні бойові завдання під час майбутніх морських виставок і операцій.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/saab-unveils-optionally-crewed-cb90-cx-ahead-of-euronaval-2026",
+      "published": "2026-11-02T08:57:08+00:00"
+    },
+    {
+      "title": "Передача першого британського фрегата Type 31 HMS Venturer відкладена до 2028 року",
+      "original_title": "Передачу першого британського фрегата Type 31 затримали на два роки — до 2028",
+      "summary": "Будівництво першого фрегата Type 31 HMS Venturer затримано приблизно на два роки – планована передача у 2028 році замість 2025‑2026. Причинами стали пандемія COVID‑19, Brexit та війна в Україні, що підвищили вартість енергоносіїв, робочої сили та ускладнили ланцюги постачання, а також зміни у проєкті і повторні роботи. Затримка скорочує темпи введення нових багатофункціональних фрегатів у ВМФ Великої Британії, що може вплинути на їхню здатність підтримувати морську присутність у стратегічних регіонах.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/peredachu-type-31-zatrymaly-na-dva-roky",
+      "published": "2026-11-02T09:09:17+00:00"
+    },
+    {
+      "title": "Тестування курсу пролонгованого догляду за пораненими у 151‑му центрі: 98% теорія, 93,8% практичний сценарій",
+      "original_title": "Тривалий догляд за пораненими на БЗВП: тестовий курс в 151 Центрі показав ефективність 98% на теорії та 93,8% на сценарії MARCH, тепер його готують на всі Навчальні центри",
+      "summary": "У 151‑му навчальному центрі Сухопутних військ проведено другий етап випробування дисципліни Prolonged Casualty Care (PCC) у межах БЗВП, де 98% учасників склали теоретичний тест, а 93,8% успішно виконали комплексний сценарій MARCH+HITMAN. Включені практичні навички — внутрішньом’язова ін’єкція (82,4%) та інші медичні процедури — підтвердили підвищену ефективність навчання після коригувань інструкторського складу. Результати дозволять масштабувати курс на інші навчальні центри, підвищуючи готовність військових до надання довготривалої догоспітальної допомоги під умовами затриманої евакуації.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/tryvalyj-doglyad-za-poranenymy-gotuyut-bzvp",
+      "published": "2026-11-02T09:13:20+00:00"
+    },
+    {
+      "title": "Ка-52М застосували модифіковані ракети С-8ВЦ для перехоплення дронів",
+      "original_title": "Збивають дрони ракетами С-8: росіяни заявили про нову тактику застосування гелікоптерів Ка-52",
+      "summary": "Російські гелікоптери Ка-52М почали використовувати модифіковані некеровані авіаційні ракети С-8ВЦ, оснащені безконтактним підривачем, що створює вибухову хмару біля цілі без прямого влучання. Ракети 80 мм, діють на кілька кілометрів і наведені оптико‑електронною станцією з денним і нічним каналами. Така тактика дозволяє ефективніше протидіяти безпілотним літальним апаратам, розширюючи можливості Ка-52 у повітряній обороні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiyany-vykorystovuyut-rakety-s-8",
+      "published": "2026-11-02T09:38:47+00:00"
     }
   ]
 }

@@ -12,6 +12,7 @@
     "https://militarnyi.com/uk/news/bpla-lugakom-operator-zvyazku-lugansk",
     "https://militarnyi.com/uk/news/brytanskyj-gchq-zagubyv-tysyachi-nosiyiv",
     "https://militarnyi.com/uk/news/dipstrajky-u-zhovtni-raketne-npz-aviatsiya",
+    "https://militarnyi.com/uk/news/dvygunom-nadrukovanym-na-3d-prynteri",
     "https://militarnyi.com/uk/news/estoniya-deportuvala-rosiyanyna-fsb",
     "https://militarnyi.com/uk/news/gerbera-2-z-dalnistyu-1200-km",
     "https://militarnyi.com/uk/news/kaliningradskij-postrazhdaly-dva-su-30",
@@ -28,10 +29,9 @@
     "https://militarnyi.com/uk/news/tryvalyj-doglyad-za-poranenymy-gotuyut-bzvp",
     "https://militarnyi.com/uk/news/u-kyyevi-rozgornuly-anty-mesh-kupol",
     "https://militarnyi.com/uk/news/u-latviyi-tsentr-vyprobuvan-shi-zv-yazku-6g",
-    "https://militarnyi.com/uk/news/urazyly-npz-lukojl-u-kstovo",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/saab-unveils-optionally-crewed-cb90-cx-ahead-of-euronaval-2026",
     "https://navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile",
-    "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
+    "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
     "https://navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVNXVk1hSk54RWhJODN0MXYyVlFiUVZRd253cms1RjNZU1JENXEwcDhxVEFYNHpraFpwdFRqWTVhb2pjTk51MXFSV1h6V1F3YzJBV2k3Mktpa1JVSnVXUzNjcWl4NmlETkpuNXNhQmNfUl9pU0pDTWtibHNHTXVGd05UWnd0bmRscWdHeU9TaENWT3NpV3FWSWR2WjYzY3AxSEJXR2FSVS0yN1RmWkpaWnFFU191MkJnTzlYNWgyN3hob2t1X09nTHpDMU0xNmpkZWc",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg",
@@ -71,29 +71,11 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFF5Z0VyS1c1cGFxQTBpTHN0UmhMZmJSZGp2UHh1Z0hyOEZZdTk1U1I1QW04RUt5eVZnaUJwM3ZQcThIMGFFNHRnbWZ2NFRZSzJfWFdLTE9mTHBpVjhDRmc3YnYwRFg5WEh4MGo2OV9NS3pkSUFTZno0NExVMWQycWZtc1V3QXpHZ2Y2RnZYeFJ3R2RzcmhYdmVjVlZxUWJsd1pNcWdsV1FsNVNhY056eFRHMHBFM1pQU292TTRweTNQY1lnOTRN",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84",
     "https://theafricareport.com/435266/us-kicks-south-africa-rwanda-out-of-agoa",
+    "https://twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
+    "https://twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it",
     "https://twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat"
   ],
   "recent_posts": [
-    {
-      "title": "Українські дрони вразили нафтопереробний завод «ЛУКОЙЛ-Нижегороднефтеоргсинтез» в Кстово, спалахнула пожежа",
-      "original_title": "Українські дрони уразили НПЗ «ЛУКОЙЛ» у Кстово. Там пожежа",
-      "summary": "Ударними безпілотниками Сил оборони України влучено у установки АВТ‑5 та АВТ‑6 на НПЗ «ЛУКОЙЛ-Нижегороднефтеоргсинтез», що спричинило потужну пожежу. Завод переробляє 15‑17 млн тонн нафти на рік, тому його пошкодження може тимчасово знизити постачання бензину, дизеля та авіаційного палива в Росії. Інцидент підтверджує здатність українських дронів здійснювати точкові удари на стратегічно важливі об’єкти на великій відстані.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/urazyly-npz-lukojl-u-kstovo",
-      "published": "2026-11-01T05:23:28+00:00"
-    },
-    {
-      "title": "Російський флот скасував модернізацію криголаву «Петро Великий»",
-      "original_title": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy",
-      "summary": "Уряд Росії скасував план оновлення криголаву «Петро Великий» (Kirov‑class) через обмеження бюджету. Корабель, вагою близько 24 000 тонн і озброєний ракетними комплексами «Порт‑Ілля» та протиповітряними системами, залишиться у стані, близькому до вихідного, без запланованих модернізацій електроніки та озброєння. Це зменшує потенціал російського надводного флоту, особливо у сфері далекобійних ударних можливостей і захисту від протиповітряних загроз.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled",
-      "published": "2026-11-01T08:05:55+00:00"
-    },
     {
       "title": "CEO Kärcher: Європа в «ідеальній бурі», потрібні реформи",
       "original_title": "Kärcher CEO warns Europe faces 'perfect storm' as he calls for economic reforms - Yahoo News UK",
@@ -793,6 +775,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/rosijski-udary-po-selyshhu-komyshuvaha",
       "published": "2026-11-02T20:32:16+00:00"
+    },
+    {
+      "title": "Армія США випробувала дрон з 3D‑друкованим гібридним двигуном на важкому паливі",
+      "original_title": "Армія США випробувала дрон із двигуном надрукованим на 3D-принтері",
+      "summary": "У США протестували безпілотник VICTOR, оснащений гібридною силовою установкою: 3D‑друкований роторний двигун, що працює на важкому паливі, та електродвигун‑генератор 400 В. Завдяки повітряному охолодженню та відсутності рідинної системи, установка компактна, забезпечує довший час польоту, більшу швидкість і підвищену вантажопідйомність, що розширює тактичні можливості дронів у умовах протидії противника.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/dvygunom-nadrukovanym-na-3d-prynteri",
+      "published": "2026-11-02T21:28:49+00:00"
+    },
+    {
+      "title": "На тестовому кораблі JMSDF JS Asuka виявлено пускову установку підводних обманок NGDS від Safran",
+      "original_title": "Safran’s NGDS Decoy Launcher Spotted Aboard JMSDF Test Ship JS Asuka",
+      "summary": "Японський випробувальний корабель JS Asuka оснащений новою навчальною системою підводних обманок NGDS (New Generation Dagaie System) від Safran, яка здатна швидко переміщуватися та запускати різні типи декой‑пакетів для захисту від протикорабельних ракет. Система має автоматичний контроль траєкторії та можливість інтеграції з існуючими радарними та електронними підсистемами корабля, що підвищує його стійкість у морському протиракетному бою.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
+      "published": "2026-11-02T21:43:21+00:00"
+    },
+    {
+      "title": "Лазерна система проти дронів LOCUST охороняє Мар-а-Лаго разом із ЗРК",
+      "original_title": "Counter-Drone Laser Weapon Now Guarding Trump’s Mar-a-Lago Alongside SAMs",
+      "summary": "У Мар-а-Лаго встановлено лазерну систему протидії безпілотникам AeroVironment LOCUST, змонтовану на 4×4 JLTV, як частину комплексної протиповітряної оборони. Поруч розташовані короткодіапазонні ЗРК AN/TWQ-1 Avenger, а також комплекси C‑UAS з радаром Ku‑band, ЕПС‑системами та інфрачервоним трекером. Це підвищує захист майна та персоналу від потенційних безпілотних атак і демонструє практичне застосування лазерних DEW у реальних умовах.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
+      "published": "2026-11-02T22:54:04+00:00"
+    },
+    {
+      "title": "Твердження Т. Карлсона про можливий ядерний удар США по Ірану",
+      "original_title": "A Nuclear Strike On Iran? It Sounds Absurd Because It Is. Let’s Talk About It",
+      "summary": "Коментатор Тукер Карлсон заявив, що президент США може використати ядерну зброю проти іранської ядерної установки Pickaxe Mountain, що викликало широке обговорення перед виборами. Білий дім спростував ці слова, підкресливши, що у президента є широкий спектр варіантів і він не планує ядерних ударів. Якщо б така атака відбулася, це відкриє \"пандорину скриню\" і матиме незворотні геополітичні та безпекові наслідки.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it",
+      "published": "2026-11-03T00:49:12+00:00"
     }
   ]
 }

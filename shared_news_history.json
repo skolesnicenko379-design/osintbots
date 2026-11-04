@@ -7,6 +7,7 @@
     "https://army-technology.com/news/project-grayburn-uk-sa80-replacement-remains-in-concept",
     "https://breakingdefense.com/2026/11/bae-systems-launches-new-sea-tridon-naval-gun-series",
     "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec",
+    "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
     "https://breakingdefense.com/2026/11/socom-taps-aeon-for-limited-run-of-shoulder-fired-zeus-with-13-8m-deal",
     "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
     "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
@@ -31,12 +32,14 @@
     "https://militarnyi.com/uk/news/tryvalyj-doglyad-za-poranenymy-gotuyut-bzvp",
     "https://militarnyi.com/uk/news/u-kyyevi-rozgornuly-anty-mesh-kupol",
     "https://militarnyi.com/uk/news/u-polshhi-vyroblyatymut-sau-bogdana",
+    "https://militarnyi.com/uk/news/unimechchyni-sanitarni-potyag-dly-vijskovyh",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-air-defence-without-platform-boundaries-aselsan-takes-gokdeniz-and-goksur-vls-to-new-platforms",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/saab-unveils-optionally-crewed-cb90-cx-ahead-of-euronaval-2026",
     "https://navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile",
     "https://navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities",
     "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
+    "https://navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVNXVk1hSk54RWhJODN0MXYyVlFiUVZRd253cms1RjNZU1JENXEwcDhxVEFYNHpraFpwdFRqWTVhb2pjTk51MXFSV1h6V1F3YzJBV2k3Mktpa1JVSnVXUzNjcWl4NmlETkpuNXNhQmNfUl9pU0pDTWtibHNHTXVGd05UWnd0bmRscWdHeU9TaENWT3NpV3FWSWR2WjYzY3AxSEJXR2FSVS0yN1RmWkpaWnFFU191MkJnTzlYNWgyN3hob2t1X09nTHpDMU0xNmpkZWc",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUFWcmJoUnpCVU8zV3Z5N1VqckNRTEdnZHFoWGlKSlV4a3AtVDZsMTdpNWY0V0ZHNlVwMzR5dnk0NU9fVUVBNmE5RVhRVnd0QXlxdzV1WHNqVWswMHp0LTRmUS1FSjNBV0tvNWMyZ1BwR1NzRGF1cXJwVENtT1hoVFpfZzNNSW9MUkJOSERWMXQyanM5SHhyaEhNc3N1Wmc5a25NV2hQR042bERKT3JaNEJiZFNITTFPWE1JR1ZsVjZKa2s0MllvTFRPTXotOVhRUEdpMGRUV21NV1k",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeFBNaVpNbVJHbFlFS2JTNjNMYUMwY0I3YnZWNWNsZWVZN3hUOTVKd2JGOEd4d3lQcmQ5YnlzbHFuQjVOcWlKaDc0QjZpd0lzeElhaFV6bXNFd0doX0Y1bVMtVnUzNEJYNTktQ2RIOFFOVVRKcVRBSW9wOUJkYTlfal92cy1hUl8zd0txcjFQemQ3bkN0VjhjbzZKb3hvTFU0RjJ6akQzNmhJc3lhUkktcVpmbjZ5SGI0N0k5RXRId2ttQTNPOUlnd2p0Q1VwSnQ4VHdxYjhQVE5MRnljN25PUGJxYU1pWDdXTzU0eXc3enc",
@@ -84,6 +87,7 @@
     "https://twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman",
     "https://twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
     "https://twz.com/news-features/these-are-the-u-s-weapons-most-at-risk-in-the-looming-rare-earths-supply-crisis",
+    "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
     "https://twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it",
     "https://twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat",
     "https://twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer"
@@ -958,6 +962,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82b1cxcldrNXhXOGhsVXd6eHN3dkhxVl9nMnVKQjRGOHhCakZZMzZrNWJGNi1IaWVhSGpNcmNXbjV0bG9sTkgxWUgwMmJhd0w1OTI5MW96OUhsbWM",
       "published": "2026-11-03T20:53:03+00:00"
+    },
+    {
+      "title": "Siemens і Lufthansa Technik розроблять санітарний потяг для військових та цивільних",
+      "original_title": "У Німеччині розроблять санітарний потяг для військових і цивільних потреб",
+      "summary": "Компанії Siemens Mobility та Lufthansa Technik Defense спільно створюють медичний евакуаційний потяг, який зможе перевозити понад 150 поранених і хворих. Для цього будуть використані пасажирські вагони Vectouro та локомотиви Vectron X (або Dual Mode), що забезпечують роботу як від електромережі, так і на дизелі, і дозволяють рухати потяг по неелектрифікованих ділянках. Таке рішення значно скоротить час транспортування пацієнтів між країнами Європи, підвищуючи мобільність медичних ресурсів у військових та надзвичайних ситуаціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/unimechchyni-sanitarni-potyag-dly-vijskovyh",
+      "published": "2026-11-03T21:01:44+00:00"
+    },
+    {
+      "title": "Південна Корея запустила другий підводний човен KSS-III Batch-II «ROKS Seo Hui»",
+      "original_title": "South Korea Launches Second KSS-III Batch-II Submarine, ROKS Seo Hui",
+      "summary": "У морському флоті Південної Кореї 3 листопада відбулася церемонія спуску на воду підводного човна «Seo Hui», другого з серії KSS-III Batch-II, збудованого на верфі Hanwha Ocean у Геоґе. Човен оснащений 70 типами вітчизняного обладнання, що підвищує його логістичні можливості та зміцнює базу для експорту оборонної техніки. Запуск підсилює стратегічний потенціал РКК та розширює її підводний арсенал.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui",
+      "published": "2026-11-03T21:39:19+00:00"
+    },
+    {
+      "title": "Трамп оголосив про скорочення американської військової допомоги Ізраїлю до $4 млрд",
+      "original_title": "What Trump’s Drastic Reduction Of U.S. Military Aid To Israel Could Mean",
+      "summary": "Президент США Дональд Трамп заявив, що до кінця 2024 року США припинять виплату близько 4 млрд доларів річної військової допомоги Ізраїлю, завершивши дію Меморандуму про взаєморозуміння 2019‑2028 років. Це означає кінець більшості фінансування Foreign Military Financing, яке передбачало закупівлю озброєння у американських виробників, і може змусити Ізраїль шукати альтернативні джерела постачання. Скорочення допомоги також вплине на доходи оборонного сектору США та політичний клімат перед виборами.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
+      "published": "2026-11-03T23:15:40+00:00"
+    },
+    {
+      "title": "SNC виходить з конкурсу на новий навчальний винищувач ВМС США",
+      "original_title": "EXCLUSIVE: SNC pulls out of Navy’s trainer jet competition",
+      "summary": "Sierra Nevada Corporation оголосила про вихід зі змагання за контракт UJTS, залишивши єдиного серйозного конкурента – Textron Aviation Defense з тренером M‑346N. Відмова SNC, а також відмова Lockheed Martin, Boeing та Northrop Grumman скоротили поле учасників, що може прискорити вибір M‑346N як замінника старих T‑45 Goshawk. Затримка у визначенні переможця перенесена на липень‑вересень 2027 року, що вплине на модернізацію підготовки пілотів ВМС і морської піхоти.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
+      "published": "2026-11-03T23:19:46+00:00"
     }
   ]
 }

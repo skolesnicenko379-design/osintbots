@@ -8,6 +8,7 @@
     "https://army-technology.com/news/north-korea-missile-test",
     "https://breakingdefense.com/2026/11/bae-systems-launches-new-sea-tridon-naval-gun-series",
     "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
+    "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
     "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
     "https://breakingdefense.com/2026/11/socom-taps-aeon-for-limited-run-of-shoulder-fired-zeus-with-13-8m-deal",
     "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
@@ -16,7 +17,9 @@
     "https://defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
     "https://defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine",
     "https://defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps",
+    "https://defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23",
     "https://defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price",
+    "https://defensescoop.com/2026/11/04/prototype-apps-transportation-command-operation-epic-fury",
     "https://gov.uk/government/news/new-ukrainian-gcse-to-help-young-people-preserve-their-heritage",
     "https://middleeasteye.net/live-blog/live-blog-update/bessent-says-you-are-either-us-or-against-us-after-new-iran-linked",
     "https://middleeasteye.net/news/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm-island",
@@ -49,13 +52,11 @@
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUWJCRTRiRk1IWDhYSXk1UzFEcFRwRjVfY09ONGZnYS1JeDBSWGlwengwUDV4bHJxa1FUSVJXZ0Vyc1dfd2FlTXVmYVhrdkc4SUNOdmFXRlM0a0lBYWhNQ2tqUldtOTlsZVVPWExxeDc3X3Jx",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GN2ZHemFVazdxS3ZtLVpYRnFlcDdZZ0xtT3JwNGR6R2lYT0EyM3g4X1hwa1ROWnhXSi1ULVlfcUZ3cGQxNHJjU2J1cm55NWhoMm5scDZGcWhiN205T3JhQ2ljVHplTFJibUl4clNCTklmVDZ3YTBtRGxB",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXg0dHU4S2Eyc0RKR1NaSlh3NkVxYldaWG1WZUMyVkVwUnpkRHNiWjJuUEc2aWFsR3Q2T0todkNhby1JMEZaV0gwcElIS0tUdVZjUUp3LWNRNHk4ODBfR29nV1RGZHlRWEdDRlB5eElCT195T0VUNHdjaEcxWXB2eXpn",
-    "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX191RHF5NjUxNFBFOEhYUW9jQ3VEZHgtOEtFNnNZS3VnOXdJRUUtR2RCemZoWVlJVURFVnA5VlpQV001LWRLNW5JdE5ZZW9oRGJDY2JoajZaMHhjSGpCSDNic2Y3UnhFR2xrR1JwdXlGSDZSRVI5b3lrZFlDYVlmWnl2WFVaaHI3Y0FVZEtKQWpITm9ycGRnTVJ6YVdqV3hvd2NIdEZVUnJnN2xfUHFXN0dCWm5FbUNEZWZZN1I0SFNra241OUF1NUVjTTRiWTZ0dm14VXJuOGxKM0d2VUhDUnNlVGR1d2lWaFBxVF9aV1NXc3NqMFhrZkJ5d1VJamtWZnc",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNl9ILUZuYi1KUVlPMDhfclFjWjlPX2ZEbHNEVGRCYi1nNXdHRE9mRHc2V1NEVkZHRXhEemNaQ3pueWhzdmJqSGcwMTdFWFh2elBfQVFNZnJUT0V6UjNFWExRcm8zTloyeXdUMUpqb2RVV3JWSDVlaE5NTnlhVnM2Wi1wUE5JeUFjTnc",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWx5bi13cnRrV19IUFYtVUdHTHhEYzI5MTYtTEZHY3lJNzNwRVI5TUp6SVJQcWYtSDY5VXpKbEZGNGdkN2RVU2x5bTAtb2Fmc2RQVzJyUWU4Y18yT1R6SUMzUHNBeFVwMmJrcjBNa1BCdzhPNUNjVGdLWDRPbmx5MlMxV1FPdzZkSTJB",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWh2NmZScndFUGFpeUFOLXFGUmNDTERhNV9KNUdPallpREJzV290U1gxcW42TVlqWThwdWpxdzh6TTdXNzQzYXdsa0xGenhNcE1GV2hJMlBNSTZYOWNqSlpvelA1cElGXzlqcVBETlZTV0hRYklKTmgyWExpdTNTVy1xNDBrcDB2UkMw",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUtDMHY2Wk5LNnlZU29sNkVYZkl1OExlaUZNNHFSdlI5WGs0S1lCSkZ1eVhQeURNRkFWT2ViTlo1dWxya3hVWXF0TFFiR1JibmlidTdNYWdkWW9SRG9lMzlIZjBrbWItbVRuUW5NTHJfTGFDZTBoOTRkVTJVSWJxYnJhSUJCZVlLbmVNZnhR",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVm4yMVVQZFZOMDJfb3ZmaVEydkEzSm9kRkp1clJVNlR5c3dXZy1BSi1tSTNRemswdjZlRklEQzVpMEtEYWt3MVNybXNIbWF6Wnp2X19uTUtMdGFfMUdsZnA1MlJnVGVRYlFoamtZTWtaNXJRc0syZUYwVENpRzd5RFJ3aDBJQTRnVXJYaTFXdUJ4QQ",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakdESHJRU0RybThtcU9EdDAtcWUtM19GUEJQOWUzaXFKZWNoQ0N0MmtVNjlOVy1kUGwxY2cwTWtqNll0OEl6R21kcTREUG5vWXY5ZWFNRHUyUGlGLTBKWWlVbWlYWU9ha1YtR1p0NG9JWlVQMVVTWVFGalY5TDNZWm1wSFNtUlRjdDR5VHBaa29FOXIyT3ByRDlxWQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkNJZXBOZVZjbGExOWZtY1NGdjdzVjFNWHBhQmR2WU1TWEZSWlEwaVBMNDN1NUlPMFJYVDA5MWIwVDNRRVZaWVppX3RxVzkyMnBleGsyNXZWblhmSW5XUTV3cVZjczBNdTNoVXA4WlBwdnpTNTBWMVNzSnlucjk0el9xS05JQlZjeHNGbWlTRnZBUFhybmpuMTRQNljSAZgBQVVfeXFMTi1DUURubk54clpOS1RtQVBmSldNZU5ZZHM0cnRlRWJFYzRZZmQ4XzJiaGxxU3BCdXQ2RTFIZWt0aHU3UVVUb3FmQ2I0eHcwOGxkOW04UlZrOXlIUWVRTXd6MDJUM0w2V0xPdExqMEgwZzlCZHZXVExFMDFSc01Cak9hOEJaNFNsOEUxVUl3U0hpeU11WGJpdUo",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1kyTmZoeFc5UlN0cFdnekJSZjg0c1FrS3ltX2h3VzR0VjlmUDF4MEQtVnRpdWtVczZvYkhSeVVHdW5nVUR2SDVTNDBXWXdCSzM0eHdEMURXQ191RWttbDRGNHFlZWRPTHFQenVyWFp5dTJRUHA4QzJJMXhZZWZtN0M1OTdSVjEyZHpycHN2QTE5T2NaVHdIelNCYzhMd3hmeEE",
@@ -75,29 +76,10 @@
     "https://twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs",
     "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
     "https://twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled",
+    "https://twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship",
     "https://twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer"
   ],
   "recent_posts": [
-    {
-      "title": "US stocks rise, Treasury yields mixed after Fed rate hold",
-      "original_title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold - WSJ",
-      "summary": "Після рішення Федеральної резервної системи залишити процентну ставку без змін, американські фондові індекси піднялися, а доходність казначейських облігацій показала змішані коливання. Це свідчить про позитивну реакцію ринку акцій на стабільність монетарної політики та неоднозначну динаміку облігаційного ринку.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "WSJ",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB",
-      "published": "2026-11-03T04:14:32+00:00"
-    },
-    {
-      "title": "Російські удари паралізують українську сталеливарну галузь і зерновий експорт",
-      "original_title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall - reflector.com",
-      "summary": "Російські удари призвели до зупинки роботи сталеливарних заводів в Україні та затримки експорту зерна. Це ускладнює економічну діяльність країни, скорочуючи надходження від ключових галузей.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "reflector.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX191RHF5NjUxNFBFOEhYUW9jQ3VEZHgtOEtFNnNZS3VnOXdJRUUtR2RCemZoWVlJVURFVnA5VlpQV001LWRLNW5JdE5ZZW9oRGJDY2JoajZaMHhjSGpCSDNic2Y3UnhFR2xrR1JwdXlGSDZSRVI5b3lrZFlDYVlmWnl2WFVaaHI3Y0FVZEtKQWpITm9ycGRnTVJ6YVdqV3hvd2NIdEZVUnJnN2xfUHFXN0dCWm5FbUNEZWZZN1I0SFNra241OUF1NUVjTTRiWTZ0dm14VXJuOGxKM0d2VUhDUnNlVGR1d2lWaFBxVF9aV1NXc3NqMFhrZkJ5d1VJamtWZnc",
-      "published": "2026-11-03T05:10:50+00:00"
-    },
     {
       "title": "Росія розробляє супутникову систему «Рассвет‑4» як заміну «Рассвет‑3» для власного Starlink",
       "original_title": "Виявилось, що рашисти таємно розробляють новий \"Рассвет-4\" на заміну \"Рассвет-3\", під свій аналог Starlink від \"Бюро 1440\" - Defense Express",
@@ -837,6 +819,46 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/bessent-says-you-are-either-us-or-against-us-after-new-iran-linked",
       "published": "2026-11-04T20:47:11+00:00"
+    },
+    {
+      "title": "Технічних експертів залучили до розробки десятків AI‑додатків у Transcom під час війни в Ірані",
+      "original_title": "Tech expert ‘embeds’ prototyped dozens of apps alongside Transcom operators during Iran war",
+      "summary": "Під час операції \"Epic Fury\" у Техасі до підрозділу Транскому були приєднані дата‑науковці та інші технічні спеціалісти, які за два тижні створили близько 33 прототипних AI‑застосунків. Використано платформу Maven Smart System від Palantir, що об’єднує різноманітні дані (супутникові знімки, телеметрію, радар) в єдиному інтерфейсі та застосовує комп'ютерний зір для виявлення цілей. Така швидка розробка інструментів підвищує швидкість прийняття рішень і ефективність логістики під час війни.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/04/prototype-apps-transportation-command-operation-epic-fury",
+      "published": "2026-11-04T22:29:49+00:00"
+    },
+    {
+      "title": "Демократи планують скасувати ядерний корабель класу Трамп",
+      "original_title": "Did The Blue Wave Just Sink Trump’s Battleship?",
+      "summary": "Після перемоги демократів на виборах 2026‑р. у Конгресі, їхні представники оголосили про намір скасувати програму ядерного бойового корабля класу «Трамп». Корабель, запланований у грудні 2025‑го, оцінюється у кілька десятків мільярдів доларів і критикується за низьку практичність та надмірну вартість. Якщо проєкт буде зупинений, це відкриє бюджет для більш гнучких, дешевших систем морської оборони.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship",
+      "published": "2026-11-04T23:00:28+00:00"
+    },
+    {
+      "title": "У Ірані під час конфлікту загинули два американських авіаційних працівники у «небоївих» випадках",
+      "original_title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+      "summary": "У минулому тижні два американських авіаційних працівники загинули у «небоївих» інцидентах під час війни в Ірані, підвищивши загальну кількість американських жертв до 23. За даними системи DCAS, один випадок пов’язаний з хворобою або травмою, інший – у стані розслідування, і обидва віднесені до категорії «загальні операції за кордоном», а не до операції Epic Fury. Це підкреслює, що навіть поза бойовими діями під час широкомасштабного конфлікту продовжується втрата персоналу, що може вплинути на готовність та мораль військ.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23",
+      "published": "2026-11-04T23:08:17+00:00"
+    },
+    {
+      "title": "Суд постановив, що ВМС США неправильно оцінювали пропозицію Saildrone для програми MUSV",
+      "original_title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
+      "summary": "Суд США визнав, що ВМС несправедливо дискваліфікували пропозицію Saildrone через розбіжності у даних про максимальну витрату, надаючи перевагу Sea Machines. За рішенням суду, ВМС мають протягом 60 днів переглянути пропозицію Saildrone та не можуть витрачати частину бюджету MUSV, доки процес не завершиться. Це затримує впровадження середніх безпілотних надводних суден, які потрібні для багатодоменних операцій.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
+      "published": "2026-11-04T23:23:22+00:00"
     }
   ]
 }

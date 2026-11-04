@@ -6,6 +6,7 @@
     "https://army-technology.com/features/forecasts-global-tactical-communications-market-2026-2036",
     "https://army-technology.com/news/north-korea-missile-test",
     "https://breakingdefense.com/2026/11/bae-systems-launches-new-sea-tridon-naval-gun-series",
+    "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
     "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
     "https://breakingdefense.com/2026/11/socom-taps-aeon-for-limited-run-of-shoulder-fired-zeus-with-13-8m-deal",
     "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
@@ -14,10 +15,10 @@
     "https://defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
     "https://defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine",
     "https://defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps",
+    "https://defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price",
     "https://gov.uk/government/news/new-ukrainian-gcse-to-help-young-people-preserve-their-heritage",
     "https://middleeasteye.net/news/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm-island",
     "https://militarnyi.com/uk/news/bayraktartb2-proviv-vyprobuvanny-zapusk-fpv",
-    "https://militarnyi.com/uk/news/dvygunom-nadrukovanym-na-3d-prynteri",
     "https://militarnyi.com/uk/news/gur-mo-oprylyudnylo-dani-vchenyh-instytutiv",
     "https://militarnyi.com/uk/news/kasetna-bojova-chastyna-kndr-dlya-rakety",
     "https://militarnyi.com/uk/news/kazahstan-posylyv-park-drugym-a400m",
@@ -27,11 +28,12 @@
     "https://militarnyi.com/uk/news/rf-13-suputnykiv-drugoyi-partiyi-rassvet",
     "https://militarnyi.com/uk/news/u-polshhi-vyroblyatymut-sau-bogdana",
     "https://militarnyi.com/uk/news/unimechchyni-sanitarni-potyag-dly-vijskovyh",
+    "https://militarnyi.com/uk/news/zvilnyv-spivrobitnykiv-sluzhby-bezpeky-yaki-staly-figurantamy-rozsliduvannya-nabu",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-air-defence-without-platform-boundaries-aselsan-takes-gokdeniz-and-goksur-vls-to-new-platforms",
     "https://navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae",
     "https://navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities",
-    "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
+    "https://navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence",
     "https://navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS29fZXB5am5MVVR6OEVjXzR2QjJNRlJIb3dKZ3dnQmNnQ2Y0RjFGVDVzSnhxMDFod0hRWFZSNWlSNkV1Y1BDQVFjZFBGc3o0SDJCa050Y090LW1nWS1IVjNZSnZCY05BUzdWbUJGb3M3VDdldUYxdWlBYXFnVTJuTWIzbnlZZTBaTGoxUG45QmRST0hJMDZOOVBxQ2ZWUHlmMlB2S2dkQXpTdkZMck11TEROMnRubTBYZVVQQ1BBYUd5SHhzb2l3enpmNDRVazhCbVNzbW13",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUFWcmJoUnpCVU8zV3Z5N1VqckNRTEdnZHFoWGlKSlV4a3AtVDZsMTdpNWY0V0ZHNlVwMzR5dnk0NU9fVUVBNmE5RVhRVnd0QXlxdzV1WHNqVWswMHp0LTRmUS1FSjNBV0tvNWMyZ1BwR1NzRGF1cXJwVENtT1hoVFpfZzNNSW9MUkJOSERWMXQyanM5SHhyaEhNc3N1Wmc5a25NV2hQR042bERKT3JaNEJiZFNITTFPWE1JR1ZsVjZKa2s0MllvTFRPTXotOVhRUEdpMGRUV21NV1k",
@@ -67,69 +69,16 @@
     "https://news.google.com/rss/articles/CBMitwNBVV95cUxQMnROS1pYcWU5UWNvR0d1SWhzZFZVVmRLM3gxWm9BSS1XR3ZUSjFGaENUTUtsd19TQjQyT1U3dzkzZkhUQ05UdXZUMUNCWmNGYmZ6eFdOd1p1SWVwcEFtWVotWFJMZk5VVlVqQjhGVXBqYTd1dF9zb3YweU11bWx5NW41aVNwMVQ5RUhoYkUteUUtV0RiWUowUWZPWTNiTWRYLTFGXzVsZ0o2bzI2RV9aZy1TUHBnaElFM2lSdFUwd3FFaDV2dFE2NDhxWklZbHgtcjZKMDRtYmRwUVNheUdTUFQ1emJHZkpBRVBOS21wY0F6eVF5U1pnNUhkOGF3RDBGVXIzSU1xYkdUdVFZcldpSk8ybVN0RXo3YmUwdlRaSlVfMEVpckgwX3lZRGJzRWxmVDBYQnl0dGRocnNOSlpmVUxLUTN0WmZadlpYakZaZGU5ZG8wT1ZTVTB4T3VlVTVlb2IxN3lUT3UyN0w2Z2VJTHgzamFTVldBeDluQkp2VmNYUnZ0QVI0cG9HMkVQU1NjMW1FMWNnTjE2cmZhcUgyWkRJd0NSQm9vN1R4emIzWnJ3SVcxZ3NB",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlFEUTBJaEZkRHRZNVNiWFpibXdDZ1NaWGxwQi05Z2FmYnB4RVE3WFR3VW4wRWhUeEd0bVBTSVUxRDBQVHhMM2JqaVBFeFpCRndCQXNFTFJ4REhYWGR5NTlMUGhhdVE4QWZfUXV1ZDlJdjNtZHk4YUUta2o3N1o4REw3YUZra1N1VWpkV1J1TmltSVYxOXE5RW85cWdWQ0VNR0ZnMVZoaW5iM29XbkUzVFdpbl9acHZmV1k4",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjh2enJ3S2VLRzJvRFJ4WXRpU3ZhWkNhUzV4VjV6OXNmNVcwMDN5UldxdGVydE5xMDZmZHZta012ci1YWUZOQnR3b0t3TWRxazVfNXBwV1pVLU40MUQtdkE4Qm1ibmJLbXBXUkVJTlFVcnRPR21WblM2T3NwMEtsNzllMU5zWVBiS1dISzdKLXkyVUZmMmlpZUxzTVlvNVJINlBXZklCaHRuNHVOZzJDRFZTa2ZNcmhvb2ZlLQ",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnBoR2s4UmROUG1lWVFXU3BCNWRzc2N5N29LNGtNSTltNF94aUU2ZzlKdVhoQTdNbHdaU2phcXhWZWt1SHgxQjM3d0w3bS1SWGc0NlhOUW1MTlFCbjN6bVFDbnQtV0pReGNNZWh6UlRMY1VOVWREVWdpOHRZNDA5NTBvbU4xZWhsbmI4RmJ0WjdHWXpWbkxmZk8wcnNXTDVqOEp2alJEc3h2T3lhZmNFOTdodEgyT19QU0hNNlV5MjNmSmpJYUHSAcYBQVVfeXFMTnJwaEdrOFJkTlBtZVlRV1NwQjVkc3NjeTdvSzRrTUk5bTRfeGlFNmc5SnVYaEE3TWx3WlNqYXF4VmVrdUh4MUIzN3dMN20tUlhnNDZYTlFtTE5RQm4zem1RQ250LVdKUXhjTWVoelJUTGNVTlVkRFVnaTh0WTQwOTUwb21OMWVobG5iOEZidFo3R1l6Vm5MZmZPMHJzV0w1ajhKdmpSRHN4dk95YWZjRTk3aHRIMk9fUFNITTZVeTIzZkpqSWFB",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTdCVVpSclRIU05IWDFtRnRWdDNDbTU4a2k1ZGJoeTFCSUZMOHpIQ3lFaVJMc0F0N3JaMS00dkY4WkhUdG5xUjJiQ0J6LUY4Y3ZsNlN6cWJWMDRRWnd3MUxQMnVyRkJwT19UQnFiODBUVXV0eVZ3ZEZLd21FVm1lMTl4NDFTbW1tbXUtaWhlZWVBZm1Ldzdpb2JlUXRzdktDQUhpRDlFT3p2VnhyaFJJYk9IU0dTNzBVZk11bGhMblpueG1BQ0d1VNIBzwFBVV95cUxQbDAyNmRZOS0xaW45VlZxR0FRdk9vTWRGOWlkc3RKR192YkxDYXNNZWNfaEVDVE4yTjZwU0FDRkxsLXMtOFhBTDROY0JzTjJzWEpaZTNJZkJwUUllN2lLS21VVkE3WUZ4ZWdOaUxDOVBYZmh0UEpUaWtTeW5xdWl3ZUMxWENJcFd6em1QWnJiUjdwWVpmd2tzVDg1Y1VES2pONjBXbWNESzRPTzNqWVRqS1ZPTHM3NkloS3h1b1ZXd2ZJQWJkM1Q1bGFPTklIWFk",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWVqZldoTEE4SEhDQl92MHNUYjdqdnJubnNDSXNFcmhYWjNOODRfczhEZDZNOFpGTEdlMVpGaU9JVXFYeTBMQ0VWYi01d3dBUURLd3lXNDZfREFiYnBRSm5DQzFfMFUxNlp1MUVtYWpqMU9qRG0wSnZiN2dmMmVkc1BjLUJ2b0xEVUU0MlVneG9DX3VLYzdKTVU2MTNBakJjN2NCR1JuZjhxMDlKYkszOFN3U0JxOWlXT2FiYmtwOXVwNnhHb3dCbDI5RDAyQQ",
     "https://twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs",
-    "https://twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
     "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
     "https://twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled",
     "https://twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it",
     "https://twz.com/sea/this-is-naval-groups-concept-for-a-stealthy-drone-armed-future-destroyer"
   ],
   "recent_posts": [
-    {
-      "title": "Армія США випробувала дрон з 3D‑друкованим гібридним двигуном на важкому паливі",
-      "original_title": "Армія США випробувала дрон із двигуном надрукованим на 3D-принтері",
-      "summary": "У США протестували безпілотник VICTOR, оснащений гібридною силовою установкою: 3D‑друкований роторний двигун, що працює на важкому паливі, та електродвигун‑генератор 400 В. Завдяки повітряному охолодженню та відсутності рідинної системи, установка компактна, забезпечує довший час польоту, більшу швидкість і підвищену вантажопідйомність, що розширює тактичні можливості дронів у умовах протидії противника.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/dvygunom-nadrukovanym-na-3d-prynteri",
-      "published": "2026-11-02T21:28:49+00:00"
-    },
-    {
-      "title": "На тестовому кораблі JMSDF JS Asuka виявлено пускову установку підводних обманок NGDS від Safran",
-      "original_title": "Safran’s NGDS Decoy Launcher Spotted Aboard JMSDF Test Ship JS Asuka",
-      "summary": "Японський випробувальний корабель JS Asuka оснащений новою навчальною системою підводних обманок NGDS (New Generation Dagaie System) від Safran, яка здатна швидко переміщуватися та запускати різні типи декой‑пакетів для захисту від протикорабельних ракет. Система має автоматичний контроль траєкторії та можливість інтеграції з існуючими радарними та електронними підсистемами корабля, що підвищує його стійкість у морському протиракетному бою.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
-      "published": "2026-11-02T21:43:21+00:00"
-    },
-    {
-      "title": "Лазерна система проти дронів LOCUST охороняє Мар-а-Лаго разом із ЗРК",
-      "original_title": "Counter-Drone Laser Weapon Now Guarding Trump’s Mar-a-Lago Alongside SAMs",
-      "summary": "У Мар-а-Лаго встановлено лазерну систему протидії безпілотникам AeroVironment LOCUST, змонтовану на 4×4 JLTV, як частину комплексної протиповітряної оборони. Поруч розташовані короткодіапазонні ЗРК AN/TWQ-1 Avenger, а також комплекси C‑UAS з радаром Ku‑band, ЕПС‑системами та інфрачервоним трекером. Це підвищує захист майна та персоналу від потенційних безпілотних атак і демонструє практичне застосування лазерних DEW у реальних умовах.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/laser-weapon-now-guarding-trumps-mar-a-lago-estate",
-      "published": "2026-11-02T22:54:04+00:00"
-    },
-    {
-      "title": "США посередник тристоронніх переговорів Україна-Росія в Абу-Дабі",
-      "original_title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says - Reuters",
-      "summary": "За словами американського посланника, США виступатимуть посередником у тристоронніх переговорах між Україною та Росією, які заплановано провести наступного тижня в Абу-Дабі. Це офіційне повідомлення підтверджує залучення Вашингтона до дипломатичного процесу щодо врегулювання конфлікту. Конкретна дата зустрічі не вказана, але визначено місце проведення та роль США як посередника між двома сторонами.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ",
-      "published": "2026-11-02T23:35:16+00:00"
-    },
-    {
-      "title": "Іран повідомив про продовження контактів щодо завершення війни",
-      "original_title": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
-      "summary": "За даними Reuters, після завершення двосторонніх переговорів, які не принесли прориву, Іран заявив, що контакти щодо закінчення війни продовжуються. У заяві не вказано нових умов чи конкретних учасників, лише підкреслено, що дипломатичний діалог залишається відкритим. Подія відображає поточний стан переговорного процесу без досягнення конкретних домовленостей.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA",
-      "published": "2026-11-02T23:57:41+00:00"
-    },
     {
       "title": "Твердження Т. Карлсона про можливий ядерний удар США по Ірану",
       "original_title": "A Nuclear Strike On Iran? It Sounds Absurd Because It Is. Let’s Talk About It",
@@ -859,6 +808,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/bayraktartb2-proviv-vyprobuvanny-zapusk-fpv",
       "published": "2026-11-04T14:28:59+00:00"
+    },
+    {
+      "title": "Глава СБУ звільнив двох співробітників, які підпадають під розслідування НАБУ",
+      "original_title": "Очільник СБУ звільнив співробітників Служби безпеки, які стали фігурантами розслідування НАБУ",
+      "summary": "Олександр Поклад звільнив двох високопосадовців СБУ, які стали об’єктами слідства НАБУ у справі про підкуп та загрозу детективам. Це свідчить про посилення внутрішнього контролю в СБУ та готовність співпрацювати з антикорупційними органами. Такий крок може підвищити довіру до спецслужб у контексті поточних розслідувань.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/zvilnyv-spivrobitnykiv-sluzhby-bezpeky-yaki-staly-figurantamy-rozsliduvannya-nabu",
+      "published": "2026-11-04T17:29:08+00:00"
+    },
+    {
+      "title": "Індія обирає двох вітчизняних суднобудівників для програми корветів вартістю $5,7 млрд",
+      "original_title": "India taps two domestic shipbuilders for $5.7B corvette program",
+      "summary": "Індія підписала контракти з Garden Reach Shipbuilders & Engineers та Goa Shipyard Limited на будівництво відповідно п'яти і трьох корветів для ВМС. Корвети, ймовірно, базуватимуться на сучасних індійських проектах з підвищеними можливостями протиповітряної та протипідводної оборони, а також ракетними системами класу \"повітря‑земля\". Це посилить морську присутність Індії у прибережних районах та підвищить її здатність до швидкого реагування у регіоні.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
+      "published": "2026-11-04T17:37:32+00:00"
+    },
+    {
+      "title": "Пентгон шукає боєприпаси, а громади страждають через забруднення на Радфордському заводі",
+      "original_title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
+      "summary": "Після повені 2024 року внаслідок урагану Хелена води з New River зруйнували сховища на Радфордському армійському заводі боєприпасів, вивівши тисячі галонів дібутилфталату, дизельного палива та інших токсичних речовин. Три контейнери досі не знайдено, а викиди вже забруднили навколишнє середовище, що підкреслює ризики використання старих амуніційних заводів у ланцюжку постачання Пентагону під час війни в Ірані.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price",
+      "published": "2026-11-04T17:38:06+00:00"
+    },
+    {
+      "title": "Safran отримала контракти на інерційні навігаційні системи для французької ядерної стримуючої сили",
+      "original_title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
+      "summary": "2 листопада 2026 року Safran Electronics підписала три контракти на постачання інерційних навігаційних систем (INS) з технологією HRG (гемісферичний резонаторний гіроскоп) для підводних балистичних ракетних підводних човнів французького флоту. HRG забезпечує надвисоку точність позиціонування без зовнішніх сигналів, що підвищує надійність стратегічних ядерних ракет. Це зміцнює здатність Франції до автономного запуску підводних ядерних боєголовок у будь‑яких умовах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence",
+      "published": "2026-11-04T17:44:06+00:00"
     }
   ]
 }

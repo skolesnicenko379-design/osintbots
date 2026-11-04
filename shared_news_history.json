@@ -13,17 +13,20 @@
     "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
     "https://defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming",
     "https://defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine",
+    "https://defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet",
     "https://defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine",
     "https://defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps",
     "https://defensescoop.com/2026/11/02/army-high-energy-laser-program-leonardo-drs-av",
     "https://middleeasteye.net/news/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm-island",
     "https://militarnyi.com/uk/news/dvygunom-nadrukovanym-na-3d-prynteri",
+    "https://militarnyi.com/uk/news/gur-mo-oprylyudnylo-dani-vchenyh-instytutiv",
     "https://militarnyi.com/uk/news/kasetna-bojova-chastyna-kndr-dlya-rakety",
     "https://militarnyi.com/uk/news/kazahstan-posylyv-park-drugym-a400m",
     "https://militarnyi.com/uk/news/norvegiya-vydilyt-86-mln-na-investytsiyi",
     "https://militarnyi.com/uk/news/nosij-bezpilotnykiv-naval-group-scx-26",
     "https://militarnyi.com/uk/news/pantsyr-s1-zatsikavyv-azerbajdzhan",
     "https://militarnyi.com/uk/news/proralestynskyj-aktyvisty-poshkodyly-ultra",
+    "https://militarnyi.com/uk/news/rf-13-suputnykiv-drugoyi-partiyi-rassvet",
     "https://militarnyi.com/uk/news/rosijski-udary-po-selyshhu-komyshuvaha",
     "https://militarnyi.com/uk/news/u-kyyevi-rozgornuly-anty-mesh-kupol",
     "https://militarnyi.com/uk/news/u-polshhi-vyroblyatymut-sau-bogdana",
@@ -31,6 +34,7 @@
     "https://navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-air-defence-without-platform-boundaries-aselsan-takes-gokdeniz-and-goksur-vls-to-new-platforms",
     "https://navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile",
+    "https://navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae",
     "https://navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities",
     "https://navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka",
     "https://navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui",
@@ -925,6 +929,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/norvegiya-vydilyt-86-mln-na-investytsiyi",
       "published": "2026-11-04T05:53:47+00:00"
+    },
+    {
+      "title": "У MBDA розробляють високошвидкісну ракету-ударник зі дальністю, що значно перевищує Exocet",
+      "original_title": "MBDA’s high-speed strike missile to have range ‘far’ exceeding Exocet",
+      "summary": "MBDA планує нову ракету Stratus RS, яка завдяки рямджеру понад 200 км значно перевищує Exocet і призначена для Франції та Великобританії. Це надзвукова ракета‑ударник з рідинним рамджетом, радіочастотним та SAR‑сенсором, здатна виконувати глибокі удари, протиракетну боротьбу та топ‑атаки. Вона заповнить прогалину в озброєнні європейських армій, надаючи можливість знищувати ППО та великі морські цілі.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet",
+      "published": "2026-11-04T06:30:53+00:00"
+    },
+    {
+      "title": "ГУР МО оприлюднило список російських інженерів та інститутів, що підтримують ВПК",
+      "original_title": "«Інженери агресії»: ГУР МО оприлюднило дані вчених та інститутів РФ, які допомагають ВПК",
+      "summary": "Головне управління розвідки МО України опублікувало оновлений перелік російських вишів і наукових інститутів, серед яких Сколтех, МФТІ та Чуваський державний університет, які розробляють протиобледенювальні покриття, турбінні лопатки, системи комп'ютерного зору та підготовлюють операторів безпілотників. Ці дані розкривають масштабний двосторонній технологічний ланцюг, що підсилює можливості російської авіації та безпілотних систем, і можуть стати підставою для посилення санкцій проти відповідних наукових підрозділів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/gur-mo-oprylyudnylo-dani-vchenyh-instytutiv",
+      "published": "2026-11-04T08:58:52+00:00"
+    },
+    {
+      "title": "13 з 16 супутників «Рассвет‑2» стабілізовано на орбіті 508 км",
+      "original_title": "Росія стабілізувала на орбіті 13 із 16 супутників другої партії «Рассвет»",
+      "summary": "У другій партії російської системи зв’язку «Рассвет» 13 із 16 супутників досягли цільової орбіти близько 508 км і стабілізувалися на ній. Це дозволяє забезпечити принаймні два стабільні вікна зв’язку над Україною щодня, хоча висота нижча за заявлену 800 км, що обмежує покриття та тривалість сигналу. Три апарати ще не досягли потрібної висоти, що знижує загальну ефективність системи.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rf-13-suputnykiv-drugoyi-partiyi-rassvet",
+      "published": "2026-11-04T09:21:48+00:00"
+    },
+    {
+      "title": "EDGE запустила другу корвету BR71 MK II для ВМС Анголи, перша в ОАЕ",
+      "original_title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
+      "summary": "28 жовтня 2026 року на верфі Abu Dhabi Ship Building (ADSB) було спущено на воду корвету NRA Nimi-ya-Lukeni (F301) – другий багатофункціональний корвет класу BR71 MK II, розроблений EDGE для ангольського флоту. Корабель обладнано сучасними радарними та електронними системами, системою протиповітряної оборони та можливістю запуску протиракетних боєприпасів, що підвищує бойову гнучкість ВМС Анголи у західноафриканському регіоні. Запуск першого в ОАЕ представника цього класу демонструє зростаючу роль Об’єднаних Арабських Еміратів у постачанні високотехнологічних військових платформ для країн Афри",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae",
+      "published": "2026-11-04T09:25:42+00:00"
     }
   ]
 }

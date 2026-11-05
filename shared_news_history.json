@@ -7,6 +7,7 @@
     "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
     "https://breakingdefense.com/2026/11/navy-appoints-rucker-as-new-pae-maritime-lead",
     "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
+    "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense",
     "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal",
     "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems",
     "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms",
@@ -29,6 +30,7 @@
     "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
     "https://militarnyi.com/uk/news/bayraktartb2-proviv-vyprobuvanny-zapusk-fpv",
     "https://militarnyi.com/uk/news/gur-mo-oprylyudnylo-dani-vchenyh-instytutiv",
+    "https://militarnyi.com/uk/news/ispaniya-nadast-ukrayini-paket-dopomogy",
     "https://militarnyi.com/uk/news/norvegiya-vydilyt-86-mln-na-investytsiyi",
     "https://militarnyi.com/uk/news/rf-13-suputnykiv-drugoyi-partiyi-rassvet",
     "https://militarnyi.com/uk/news/u-rosiyi-zaareshtuvaly-gendyrektora-najbilshogo-vyrobnyka-patroniv",
@@ -38,20 +40,18 @@
     "https://militarnyi.com/uk/news/zvilnyv-spivrobitnykiv-sluzhby-bezpeky-yaki-staly-figurantamy-rozsliduvannya-nabu",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets",
     "https://navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae",
     "https://navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS29fZXB5am5MVVR6OEVjXzR2QjJNRlJIb3dKZ3dnQmNnQ2Y0RjFGVDVzSnhxMDFod0hRWFZSNWlSNkV1Y1BDQVFjZFBGc3o0SDJCa050Y090LW1nWS1IVjNZSnZCY05BUzdWbUJGb3M3VDdldUYxdWlBYXFnVTJuTWIzbnlZZTBaTGoxUG45QmRST0hJMDZOOVBxQ2ZWUHlmMlB2S2dkQXpTdkZMck11TEROMnRubTBYZVVQQ1BBYUd5SHhzb2l3enpmNDRVazhCbVNzbW13",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOGprTE96MlpTYnQ4MEpiM1dxT1VXOWF1aWtETXJzTkdaeXdzcmdzWGdfVzR4dTNULWRvMjlmd0lSM25HRndjOEpUb3Z4QkRvbWlwWmNWV0NsQXI1a2RlMHdJVzRTRWxHeWxIWUlFR2o1TGdSQXVwOGhRaW9aemZwUFZacGhrNS1wNmRPX2ZaaGh4UDJhMWlHaEZOalVuZndTakNVTzljRHFtb3lJZ1RGdmw3UlFwV2NGT0VyUlJNV2RTZlRaRGZUWHNLX3h3SGlxQkM5Q3ZHTmllem5RbDlZNmJIbGZtSHJiSUpwcHdDSdIB7wFBVV95cUxQOGprTE96MlpTYnQ4MEpiM1dxT1VXOWF1aWtETXJzTkdaeXdzcmdzWGdfVzR4dTNULWRvMjlmd0lSM25HRndjOEpUb3Z4QkRvbWlwWmNWV0NsQXI1a2RlMHdJVzRTRWxHeWxIWUlFR2o1TGdSQXVwOGhRaW9aemZwUFZacGhrNS1wNmRPX2ZaaGh4UDJhMWlHaEZOalVuZndTakNVTzljRHFtb3lJZ1RGdmw3UlFwV2NGT0VyUlJNV2RTZlRaRGZUWHNLX3h3SGlxQkM5Q3ZHTmllem5RbDlZNmJIbGZtSHJiSUpwcHdDSQ",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GUE5RQk1vekl0SmRDQXRMLW0zamJCX3NHakJ1dE8xXzJ2aFBxdmItS3htbEJNTTEyNzdlT3FOaFZRaENzbDl6Nw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xbU5zUWVjY2hybGJsWmU4MVBUU29YT2Z1OGVfS1VpRHI0NDlvLW9xbExVc3Vodi1Pb3lESGFFcTFvdkJSSzRsQzJXTEtBak1MVHR4QVVpSUNGZw",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OGNTR3lhRG56SnI4SXp5eHlPaDhlM01jeHFWM3k4endJN1p5bFpNclZYaXg1UzNEb1hPLVczWkpzOFVjbnc3cTFCTTc3eUhPaVkxS0YxWUpEM1M1RFlr",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wNnNFV1JnUk5GRHlYQ2hNczFSRTlpNE4yalN2aUxxRHZjeWsxN2k5SVN3bGpvYmFnZGU0ejNnOUxDSnR6VmFvbjNFUjZiSUQyUVQta0VSUVpvXzR0d2c",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xWnk2djhyYm1IZ2I4dkRTUnV1cGtKR192TENDN2puSVZsa2FhWjBFWFZQOG1rVU9GR1JLLURGNGM5bi1jdi13dlFoRklUeUpwX0YwVWM5ZnI4VVhKNEZ5aklR",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNjZCcTlqeWR5VlpRZERpM2JqQXNOcFNvdDNvWkJ1WWNCLTdpcFVvT0N0cURDR1VwUEl1ZEc2RUNSMFRqTm9iSjZkNHMyX1lRRml1aWpibUJmMjdFYWxGZjRMQV9wd1ZfbXAyVU84SG0xdThMcTdPTGtXWQ",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTS1lNGYxRENOV28xbUdzMncxRUhQRnNmZFptUHh0aF9uSWg0dTh1VllOeExfbW5QRjYteXZLa0NWdFp5OHJtUTd5TWlObTBnZGNSMDVJbFJza0VzdDUwbWc4eWtLLWU5dVo0RHVLcVRNeExQWUFvd05SdnBkMFVkVGtn",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXZZcVBGUHJRVVFqN0tDZldmNmU0SmhycVBDWXBjZ0JoRHJaUXRJSWRRQVNJTHFGMEZYOExPdDJjY0NFcU1aYmxNaEZJRTNaaXNGb18zNjdkdjBtc3hCTHAybnNpZFEydGxiYmlyQ0xFUTdtZUNNbGNDUm9MU3UzLVphMA",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNl9ILUZuYi1KUVlPMDhfclFjWjlPX2ZEbHNEVGRCYi1nNXdHRE9mRHc2V1NEVkZHRXhEemNaQ3pueWhzdmJqSGcwMTdFWFh2elBfQVFNZnJUT0V6UjNFWExRcm8zTloyeXdUMUpqb2RVV3JWSDVlaE5NTnlhVnM2Wi1wUE5JeUFjTnc",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWx5bi13cnRrV19IUFYtVUdHTHhEYzI5MTYtTEZHY3lJNzNwRVI5TUp6SVJQcWYtSDY5VXpKbEZGNGdkN2RVU2x5bTAtb2Fmc2RQVzJyUWU4Y18yT1R6SUMzUHNBeFVwMmJrcjBNa1BCdzhPNUNjVGdLWDRPbmx5MlMxV1FPdzZkSTJB",
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVm01ek5KOGJRNC1uZ2dxVzlBbEFSTkY2SmxFOXBpVkhlZlZKOWlTeF9LZ2VBR3VjaUpyZHgwX1V0cm5MclBCRVYwVzdOTUhka3JsZmd5V1ZNdWFMWU9nb0tmX3Jua0dzVUdoZkhXS1V4dDN4Zl8tZU5PbTV5Y0ExX2p2OUJsTHVNUVlFNVVGbXFKbHBQY3ZkZGNLeDJIY08za1I3SmNrNThybFdiY1JqMjV1RGNmSUs4ZkdMc0w4UGpHUExmcHByT1c5clRycllfX2FJSG1OSDc5WXdQcEhqcmVCbEhfMUV4bVFJTUNNNExFMmhmY2RfcjIxckZPcFl5N00wQVhYNkJuMmpjQXc",
     "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFBZVjE4RVM4U3V1QWpDSWRJVkMxYTd0WnhVeWY2NVNraWdtcDh2NlFzRDVWeDA4ZF9rVWxid1VzbTFWVW15cUFab2dIbE1NZUVuQ0FrV0tYU0wzRDByb1JHVUZtNmF1QmZMMVlPZWh3Q2VURGU5UnNBMDVXVmV6M0ZuUF9zUDBrMVhBNGc2NkVraFphd2Y4QjVYbmZRTGl1T3ZONHpJV2wyS09WWEU5dHl4Q21mejVWdlJsSTl0X3FSUXhTUXBpdnBuY1NJcW1JRGZfdDhfOHJzOHpKbUozaUtDQVBmM3lYUXl2bzVRS3d2TFZfVlAtM3VnN0RHOFRMLXc3UHpwcFNfOGxiYnBLbkJfcW12Zw",
@@ -59,7 +59,6 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG9zWnlVSXRtalFPSjJyR1p2WXkta3FqeVNJUWd6bmxzOFBPLUtKMU9SRS1Gek93YTV0ZlFDMXM5emNNdWRPREtZdnNEQ3l1bDlzRTN0emF2T3Q0NC13anY3V0JOTmd2X3JQVXkyS3owb0laS3JXTG1WVzhQQWc3MkpWWUIxbHp6eVFNclp5MGpuMnVyQ2VkdWpyTXZVUdIBowFBVV95cUxOMlpzUjNLbXRJazVuREQtV09FeEhzY1p1UkVaTVFNcDZhUk04ZDlxSjVCTlZQN2duZ3FjUG5DS0dOaVpUYlhITWNpOC16M2czS1NqLXVYMXJpWmZ1M0tuRUwyQV90NW1aYXdJcDZFUW02dnBhVlB2MW1WU2ZRQ3NRSm9fSV9VamN3Vm9Weko2QW5hR1RlZTlmRzRUdjJ4UTFaMGNJ",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmdLMDNBV0RKZnhXVU9BYVlKSnRGTl9PcS1fZFhJODhvU0l5YXo3TW45MlJtZzBnWVQyY0F2UkNyZVhoUzUybVV4dDdReEl6UzkwdUdyaWxpTXREcXd1T2YwMkplVFpzTFcybnl2eFpRckItR3laWkFuV0ZIX0RBVmRMU2dTb0ZkRHpZenllenZ0dlc1N3dpZHNNMndjS3BPZ0E",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3d4MS15SzA4Wk1LVkhRQ1hJbnFRd21wdTFZelFLY2NNaFM2R05KOWVaUWxMRUQ2cklZV1VwOUlJazc4NDNHTWxPOHZqRTVpUWM0TmRjeDFnenNSVVBuTlRUdUxfUFlFVVRMXzA5WWhEclpmNENaVjNyMC03OGVTRmxMSlpzVHByanpFZXF3WVFmRWNsYVZaenptMXJ0bDJoT3l3",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2pNV1ItR29KdDdrdk9KUENkMm1FckYwRUdkMGJqZFJsVHkyTTEzYmFLMnpNTHlvNEZZZlg4TGVmRXU4V0xkcU1DWGIzQUlvZjM4SVFycFY5UnJxb3ljTTltZUJQU21hVnVNMlFuYm50dXV0bi1fRWxHeHN0ODRHa2xfeXhGSHhLWnhvamhXVkJMV3RET0pIVVlPbHlaamwyT2VTdNIBqgFBVV95cUxOSUF3OVR3Qm1vUnZPYmNpRksybzY1VUJ5eEZEbVIzRmk2UURSaER3aFg2YUdBYnRJbktQUEZrNm9OS1pXenFrYVVHYzM4ekhnbVdlWjlPd2JaaHEtcUlacUZYNk5CaUFpdVkxM3FRaVZhRnRFeWdtbENsSDNmTTdDNnNVZ24zTjE2cnpPLUxiSkdLY29ROEVIWDE1ZmM5Z09GRkxGTHZER253QQ",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0xpSHc2OER0bXJSRnkzRjM4VmhDeFNnZXJ2ekQyanRuU050dlRLbnNSS19kU1BnLW5FNDZLWExOdkhVUnllUGJwZzl5TG13cjVNY19BYlhtcTZ3bmNlQk5YQll4MWI4Snk5TTd3SWUxYmhFV1VsejBkUWoyeTJaU3NyYUswNkN0aEhDaWI4cElreXRCWVpDYTVPdl9ROURZcjlCTjR0WExmZw",
@@ -80,50 +79,11 @@
     "https://twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz",
     "https://twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs",
     "https://twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship",
+    "https://twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
     "https://twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid",
     "https://twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
   ],
   "recent_posts": [
-    {
-      "title": "Asahi закликає до швидких дій через інфляцію на цілі БЯ",
-      "original_title": "EDITORIAL: Quick policy action needed as inflation hits BOJ’s 2% target - 朝日新聞",
-      "summary": "Японське видання Asahi Shimbun в редакційній статті закликає до швидких політичних дій, оскільки інфляція досягла 2-відсоткового таргету Банку Японії. Видання пов'язує досягнення цільового рівня цін з потребою оперативних рішень у монетарній політиці.",
-      "source": "Японія · монетарна політика",
-      "publisher": "朝日新聞",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wNnNFV1JnUk5GRHlYQ2hNczFSRTlpNE4yalN2aUxxRHZjeWsxN2k5SVN3bGpvYmFnZGU0ejNnOUxDSnR6VmFvbjNFUjZiSUQyUVQta0VSUVpvXzR0d2c",
-      "published": "2026-11-04T01:40:55+00:00"
-    },
-    {
-      "title": "EU countries' government debt share of GDP mapped by Visual Capitalist",
-      "original_title": "Mapped: EU Countries by Government Debt (% of GDP) - Visual Capitalist",
-      "summary": "Visual Capitalist опублікував інфографіку, що показує рівень державного боргу країн ЄС у відсотках від ВВП. На карті наведено порівняння боргових навантажень усіх членів блоку, що дозволяє швидко оцінити, які держави мають найвищі та найнижчі показники.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Visual Capitalist",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNl9ILUZuYi1KUVlPMDhfclFjWjlPX2ZEbHNEVGRCYi1nNXdHRE9mRHc2V1NEVkZHRXhEemNaQ3pueWhzdmJqSGcwMTdFWFh2elBfQVFNZnJUT0V6UjNFWExRcm8zTloyeXdUMUpqb2RVV3JWSDVlaE5NTnlhVnM2Wi1wUE5JeUFjTnc",
-      "published": "2026-11-04T03:50:22+00:00"
-    },
-    {
-      "title": "Китайський конгломерат придбав німецького роздрібного гіганта MediaMarktSaturn",
-      "original_title": "Chinese conglomerate acquires German electronics retailer MediaMarktSaturn. - Vietnam.vn",
-      "summary": "Китайський конгломерат придбав німецького роздрібного гіганта MediaMarktSaturn. Угода розширює присутність китайських інвесторів у європейському ритейлі електроніки, потенційно впливаючи на структуру ринку та конкурентоспроможність.",
-      "source": "Китай · економіка, торгівля й промисловість",
-      "publisher": "Vietnam.vn",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3d4MS15SzA4Wk1LVkhRQ1hJbnFRd21wdTFZelFLY2NNaFM2R05KOWVaUWxMRUQ2cklZV1VwOUlJazc4NDNHTWxPOHZqRTVpUWM0TmRjeDFnenNSVVBuTlRUdUxfUFlFVVRMXzA5WWhEclpmNENaVjNyMC03OGVTRmxMSlpzVHByanpFZXF3WVFmRWNsYVZaenptMXJ0bDJoT3l3",
-      "published": "2026-11-04T05:29:14+00:00"
-    },
-    {
-      "title": "Democrats gain ground; Trump's India tariff may face challenges",
-      "original_title": "Democrats gain ground in US midterm election: Could Trump's tariff for India face fresh challenges? - Moneycontrol.com",
-      "summary": "Democrats increased their share in the US midterm elections, according to Moneycontrol. The shift could create fresh political pressure on President Trump's tariff imposed on India, potentially affecting its future implementation.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "Moneycontrol.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOGprTE96MlpTYnQ4MEpiM1dxT1VXOWF1aWtETXJzTkdaeXdzcmdzWGdfVzR4dTNULWRvMjlmd0lSM25HRndjOEpUb3Z4QkRvbWlwWmNWV0NsQXI1a2RlMHdJVzRTRWxHeWxIWUlFR2o1TGdSQXVwOGhRaW9aemZwUFZacGhrNS1wNmRPX2ZaaGh4UDJhMWlHaEZOalVuZndTakNVTzljRHFtb3lJZ1RGdmw3UlFwV2NGT0VyUlJNV2RTZlRaRGZUWHNLX3h3SGlxQkM5Q3ZHTmllem5RbDlZNmJIbGZtSHJiSUpwcHdDSdIB7wFBVV95cUxQOGprTE96MlpTYnQ4MEpiM1dxT1VXOWF1aWtETXJzTkdaeXdzcmdzWGdfVzR4dTNULWRvMjlmd0lSM25HRndjOEpUb3Z4QkRvbWlwWmNWV0NsQXI1a2RlMHdJVzRTRWxHeWxIWUlFR2o1TGdSQXVwOGhRaW9aemZwUFZacGhrNS1wNmRPX2ZaaGh4UDJhMWlHaEZOalVuZndTakNVTzljRHFtb3lJZ1RGdmw3UlFwV2NGT0VyUlJNV2RTZlRaRGZUWHNLX3h3SGlxQkM5Q3ZHTmllem5RbDlZNmJIbGZtSHJiSUpwcHdDSQ",
-      "published": "2026-11-04T05:32:18+00:00"
-    },
     {
       "title": "Норвегія виділить €86 млн на інвестиції в українську оборонну промисловість",
       "original_title": "Норвегія виділить €86 млн на інвестиції в український ОПК",
@@ -903,6 +863,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
       "published": "2026-11-05T18:39:02+00:00"
+    },
+    {
+      "title": "Іспанія оголосила новий пакет військової допомоги Україні на €437 млн",
+      "original_title": "Іспанія надасть Україні новий пакет військової допомоги на €437 мільйонів",
+      "summary": "Під час зустрічі президента Зеленського з прем’єром Педро Санчесом у Мадриді Іспанія підтвердила готовність надати Україні новий пакет військової допомоги вартістю 437 мільйонів євро. За словами керівників, у пакеті будуть сучасні засоби протиповітряної оборони, артилерійські системи та інше обладнання, що відповідає актуальним потребам ЗСУ. Така сума значно підвищить обороноздатність України, дозволяючи посилити захист на фронті та модернізувати арсенал.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ispaniya-nadast-ukrayini-paket-dopomogy",
+      "published": "2026-11-05T21:44:27+00:00"
+    },
+    {
+      "title": "Республіканці під тиском часу: що вдасться зробити у сфері оборони?",
+      "original_title": "Republicans have a ticking clock. What can they get done on defense?",
+      "summary": "Конгрес США розглядає питання про імпічмент міністра оборони Піта Хегсетха, одночасно намагаючись узгодити законопроекти про примирення, оборонний бюджет та NDAA. Конкуренція між цими ініціативами ускладнює швидке ухвалення фінансування та реформ у військовій сфері, що може затримати постачання обладнання та модернізацію армії. Якщо республіканці не встигнуть пройти законодавчі процеси, це створить прогалини у фінансуванні оборони та вплине на готовність США до потенційних конфліктів.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense",
+      "published": "2026-11-05T21:55:18+00:00"
+    },
+    {
+      "title": "Naval Group представила збільшений і потужніший варіант фрегата FDI",
+      "original_title": "Naval Group Unveils a Larger, More Powerful FDI Frigate",
+      "summary": "Під час виставки Euronaval 2026 компанія Naval Group анонсувала нову модифікацію фрегатів FDI з більшою водотонною масою та потужнішими системами озброєння. Збільшений корпус дозволяє встановити додаткові вертикальні пускові установки, модернізовані радіолокаційні системи та підвищену енергоефективність. Це підвищить вогневу потужність і дальність дії фрегатів, розширюючи їх роль у протиповітряній та протимісійній обороні флотів.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate",
+      "published": "2026-11-05T22:20:21+00:00"
+    },
+    {
+      "title": "USMC вимагає ще дев'ять амфібійних кораблів для виконання місій",
+      "original_title": "USMC Says It Needs Nine More Amphibious Warships To Carry Out Its Missions",
+      "summary": "Marine Corps потребує 40 амфібійних суден, щоб одночасно підтримувати три підрозділи MEU, а наразі у ВМС лише 31. Потрібно 13 великих десантних кораблів (Wasp та America) і 27 транспортних докових (LPD), які вміщують F‑35B, MV‑22, вертольоти та інше авіаційне обладнання. Така кількість дозволить MEU діяти автономно, у деяких випадках замінюючи авіаносний ударний групу.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
+      "published": "2026-11-05T23:08:57+00:00"
     }
   ]
 }

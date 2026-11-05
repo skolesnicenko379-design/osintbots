@@ -8,11 +8,11 @@
     "https://breakingdefense.com/2026/11/navy-appoints-rucker-as-new-pae-maritime-lead",
     "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
     "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal",
-    "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
-    "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules",
+    "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems",
     "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms",
     "https://defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet",
     "https://defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
+    "https://defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense",
     "https://defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029",
     "https://defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing",
     "https://defensenews.com/news/2026/11/05/israeli-defense-company-says-this-trigger-is-programmed-to-shoot-drones",
@@ -22,8 +22,11 @@
     "https://defensescoop.com/2026/11/04/space-force-gen-schiess-russian-satellite-maneuvers",
     "https://gov.uk/government/news/joint-communique-between-the-uk-special-envoy-for-women-and-girls-and-members-of-the-romanian-parliamentary-delegation-22-october-2026",
     "https://gov.uk/government/news/new-ukrainian-gcse-to-help-young-people-preserve-their-heritage",
+    "https://gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-tanzania",
+    "https://gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/international-development-minister-speech-at-education-cannot-wait-replenishment-conference",
     "https://middleeasteye.net/live-blog/live-blog-update/bessent-says-you-are-either-us-or-against-us-after-new-iran-linked",
+    "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
     "https://militarnyi.com/uk/news/bayraktartb2-proviv-vyprobuvanny-zapusk-fpv",
     "https://militarnyi.com/uk/news/gur-mo-oprylyudnylo-dani-vchenyh-instytutiv",
     "https://militarnyi.com/uk/news/norvegiya-vydilyt-86-mln-na-investytsiyi",
@@ -51,9 +54,14 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNl9ILUZuYi1KUVlPMDhfclFjWjlPX2ZEbHNEVGRCYi1nNXdHRE9mRHc2V1NEVkZHRXhEemNaQ3pueWhzdmJqSGcwMTdFWFh2elBfQVFNZnJUT0V6UjNFWExRcm8zTloyeXdUMUpqb2RVV3JWSDVlaE5NTnlhVnM2Wi1wUE5JeUFjTnc",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWx5bi13cnRrV19IUFYtVUdHTHhEYzI5MTYtTEZHY3lJNzNwRVI5TUp6SVJQcWYtSDY5VXpKbEZGNGdkN2RVU2x5bTAtb2Fmc2RQVzJyUWU4Y18yT1R6SUMzUHNBeFVwMmJrcjBNa1BCdzhPNUNjVGdLWDRPbmx5MlMxV1FPdzZkSTJB",
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVm01ek5KOGJRNC1uZ2dxVzlBbEFSTkY2SmxFOXBpVkhlZlZKOWlTeF9LZ2VBR3VjaUpyZHgwX1V0cm5MclBCRVYwVzdOTUhka3JsZmd5V1ZNdWFMWU9nb0tmX3Jua0dzVUdoZkhXS1V4dDN4Zl8tZU5PbTV5Y0ExX2p2OUJsTHVNUVlFNVVGbXFKbHBQY3ZkZGNLeDJIY08za1I3SmNrNThybFdiY1JqMjV1RGNmSUs4ZkdMc0w4UGpHUExmcHByT1c5clRycllfX2FJSG1OSDc5WXdQcEhqcmVCbEhfMUV4bVFJTUNNNExFMmhmY2RfcjIxckZPcFl5N00wQVhYNkJuMmpjQXc",
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFBZVjE4RVM4U3V1QWpDSWRJVkMxYTd0WnhVeWY2NVNraWdtcDh2NlFzRDVWeDA4ZF9rVWxid1VzbTFWVW15cUFab2dIbE1NZUVuQ0FrV0tYU0wzRDByb1JHVUZtNmF1QmZMMVlPZWh3Q2VURGU5UnNBMDVXVmV6M0ZuUF9zUDBrMVhBNGc2NkVraFphd2Y4QjVYbmZRTGl1T3ZONHpJV2wyS09WWEU5dHl4Q21mejVWdlJsSTl0X3FSUXhTUXBpdnBuY1NJcW1JRGZfdDhfOHJzOHpKbUozaUtDQVBmM3lYUXl2bzVRS3d2TFZfVlAtM3VnN0RHOFRMLXc3UHpwcFNfOGxiYnBLbkJfcW12Zw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakdESHJRU0RybThtcU9EdDAtcWUtM19GUEJQOWUzaXFKZWNoQ0N0MmtVNjlOVy1kUGwxY2cwTWtqNll0OEl6R21kcTREUG5vWXY5ZWFNRHUyUGlGLTBKWWlVbWlYWU9ha1YtR1p0NG9JWlVQMVVTWVFGalY5TDNZWm1wSFNtUlRjdDR5VHBaa29FOXIyT3ByRDlxWQ",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG9zWnlVSXRtalFPSjJyR1p2WXkta3FqeVNJUWd6bmxzOFBPLUtKMU9SRS1Gek93YTV0ZlFDMXM5emNNdWRPREtZdnNEQ3l1bDlzRTN0emF2T3Q0NC13anY3V0JOTmd2X3JQVXkyS3owb0laS3JXTG1WVzhQQWc3MkpWWUIxbHp6eVFNclp5MGpuMnVyQ2VkdWpyTXZVUdIBowFBVV95cUxOMlpzUjNLbXRJazVuREQtV09FeEhzY1p1UkVaTVFNcDZhUk04ZDlxSjVCTlZQN2duZ3FjUG5DS0dOaVpUYlhITWNpOC16M2czS1NqLXVYMXJpWmZ1M0tuRUwyQV90NW1aYXdJcDZFUW02dnBhVlB2MW1WU2ZRQ3NRSm9fSV9VamN3Vm9Weko2QW5hR1RlZTlmRzRUdjJ4UTFaMGNJ",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmdLMDNBV0RKZnhXVU9BYVlKSnRGTl9PcS1fZFhJODhvU0l5YXo3TW45MlJtZzBnWVQyY0F2UkNyZVhoUzUybVV4dDdReEl6UzkwdUdyaWxpTXREcXd1T2YwMkplVFpzTFcybnl2eFpRckItR3laWkFuV0ZIX0RBVmRMU2dTb0ZkRHpZenllenZ0dlc1N3dpZHNNMndjS3BPZ0E",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3d4MS15SzA4Wk1LVkhRQ1hJbnFRd21wdTFZelFLY2NNaFM2R05KOWVaUWxMRUQ2cklZV1VwOUlJazc4NDNHTWxPOHZqRTVpUWM0TmRjeDFnenNSVVBuTlRUdUxfUFlFVVRMXzA5WWhEclpmNENaVjNyMC03OGVTRmxMSlpzVHByanpFZXF3WVFmRWNsYVZaenptMXJ0bDJoT3l3",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2pNV1ItR29KdDdrdk9KUENkMm1FckYwRUdkMGJqZFJsVHkyTTEzYmFLMnpNTHlvNEZZZlg4TGVmRXU4V0xkcU1DWGIzQUlvZjM4SVFycFY5UnJxb3ljTTltZUJQU21hVnVNMlFuYm50dXV0bi1fRWxHeHN0ODRHa2xfeXhGSHhLWnhvamhXVkJMV3RET0pIVVlPbHlaamwyT2VTdNIBqgFBVV95cUxOSUF3OVR3Qm1vUnZPYmNpRksybzY1VUJ5eEZEbVIzRmk2UURSaER3aFg2YUdBYnRJbktQUEZrNm9OS1pXenFrYVVHYzM4ekhnbVdlWjlPd2JaaHEtcUlacUZYNk5CaUFpdVkxM3FRaVZhRnRFeWdtbENsSDNmTTdDNnNVZ24zTjE2cnpPLUxiSkdLY29ROEVIWDE1ZmM5Z09GRkxGTHZER253QQ",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0xpSHc2OER0bXJSRnkzRjM4VmhDeFNnZXJ2ekQyanRuU050dlRLbnNSS19kU1BnLW5FNDZLWExOdkhVUnllUGJwZzl5TG13cjVNY19BYlhtcTZ3bmNlQk5YQll4MWI4Snk5TTd3SWUxYmhFV1VsejBkUWoyeTJaU3NyYUswNkN0aEhDaWI4cElreXRCWVpDYTVPdl9ROURZcjlCTjR0WExmZw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEZPV3REVEk0VXVIaU1DbkVQUnRvX0JHdUk3Y2RfZ01VRjdtM3Y4VWFlSGJua21LVlhtNG5LbnlIaDlncjNwZDMzb2RvVW13bkIzenR5TzFrRHA3TW9JR3I2TXhSRGV0OHdGcnRHN0pZQlIyME5admdzNEVkSzRQcERrWks0d04tbzFNbHlJaXlHMkpDV1pfWlRUMXZ6RXJCaEhoMWZfSTZwUWlR",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemNNMVNJd0xod3FZd3d2UFpJaFl0VU42RU14WjFLSlpzeHA5NzJTMHJhYWxiTU84VkhqNFhQemNxZXBBaU5NZWlJWWVfbWx3YU5CbVR3QWRWQnp6TEI5bFJEejVJejUxYW1qTHIxTVg1TW52YVNENlFYbEJTVE5XaGxEa1NrOU1KR2JGd2NZbHc3ZThqclQ4bFlQYnRzTG13cUNKT2dYX3AxdS1G",
@@ -63,47 +71,19 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlFEUTBJaEZkRHRZNVNiWFpibXdDZ1NaWGxwQi05Z2FmYnB4RVE3WFR3VW4wRWhUeEd0bVBTSVUxRDBQVHhMM2JqaVBFeFpCRndCQXNFTFJ4REhYWGR5NTlMUGhhdVE4QWZfUXV1ZDlJdjNtZHk4YUUta2o3N1o4REw3YUZra1N1VWpkV1J1TmltSVYxOXE5RW85cWdWQ0VNR0ZnMVZoaW5iM29XbkUzVFdpbl9acHZmV1k4",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjZURmhQRHFISDloNWJlU3RNLU9BaXlZT3VBWFZxdnhsLVBXcFhCZGJKeURqcFJaX1o0eGRZR25nWkFPT1ExbXRyelhjckE5d21wZG55SWZhckNFNmp0S2JmdTA0OS16eENHX1BDOThpX3ZldkF1RTFNSjhDS1NBOGtzTTBkbjBPenEwVTF0Z2JLeEEtd1hSS2gtUmFLMzhCLUQ5bVd1VVFnNFlvQ19oWERCU3ZzR2xiS3RiRVdPTQ",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjd1WmF2T05ZeUhkYUwzTnZDc1VmcWExYkF3UmlsOXE5dzFqZS1VVlp5TU0xOHRuUmY5Yy1xanpFUVFPS2dPVUY2RHdndWdJajBOWVhuTFdManQtaWdvQ2VhZVMzdEtPSTNoUnhNNGVyVEp6LUcwd0c2TTB5WGRjb0Z2VWI4aWQ5VGllWXZSQzN3RnI3UWJpZ0s2VW1vX1NmV0M0VXpYY1J3SWhYaDNldUpfWjFGRXM1TkdTbl9TaFA",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemxjbTJZVVlsTHF2SlFkM0VGYVVLTW5DYU1zRGxUS0JIQlBxYVFoNVZpRGpSOGlrb0hYOUR5dU16ZzlhbEhMZUJZN29fY0lZNjAwcmMyM0NQTVpLSHRtOWFVakRwRk8xOGE2RllIM2hRSEpCNEhTTEF6SlhEdjE0MFpibklHV09pTlM0Y3JfNC1RQ0ZNYW1BZEllN05mRDlDRXdpbmoxTE5vUWhZbG1CbmdDbGZzSnY5X3ZrbG05MkE",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkhmOUVydGFWZVdDMXBDNVBaUVVLN21McGp4Vm9BVjVyaHVVZ294YmdwTkhDanVMN2V1Njg2T0hiR0J4TGhfal8zTlVCeDlUeU9LVFFueVJtelB1UVB2QWlYcTBqXy01dHlvV2tqV1V5RDRtMktVTDV4TGotQkpQZF9KSFRGaVhhMjhSUE5IVk9tVWlESXg5Vi1rVU5mZ1NOTV9WU2EySTlnT2tLSl82TFc5am85ZGhfUHVVQWMyclZwbzg",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFdES1VmUHAwNFBPS1o3ZS1ENEFmTDZZemtPTHdMdld1Tl90amk5VEdwbzlVcDJmRzYzZzBFbHBmNDZxa2hSM1FWeVg0eHVVZ1ZLQXZNc1JPamRiUGRveDR4d2dXQmRFR2tYcjU1OTVsN3VmcFBjUnJBa2hES0NYcFZMRnJXN3pkZnBIRnA0RFZRMEtMWDl1Szc2RFBqQXo4b0VkTThNVmZxTjJKNjhMVmhZZlBRZnFLWmdsUWV0SnhfNHE5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlpTZktGR25QWjNyekJJakM5akVYUVo5X1hpN2tFS29ZR2tmRWlCSVlzeS1WRjlUMTZrQVBtNU1mVXl1Qmt6LTNmNEo3ZlBOVWh2N0cyS0FJby00ZnhvWllJQ3B3MWZIcTV5d1lOaW1MWElzdWZvVDlPQkFlcjF5Q0pDdnkxU19nNGk3Y1NFdEFWM2RyeVYxcVRnajYweUFqWTVMTTkwcUZJRUpINlZCS3RuX3FJMURLRVFKX3c2YkZwY25qenA0",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajFIVnR1S19aV3BTV1NlOWpCMVkzS2UxWnpUMmNIc1o2YzVNY1ZISzlYR1NPbXIzbk42N0t2UmJLUTVka2FmRDRPR0VTRkt6VlNTdEtrYnJPbS1odDJIMWpKdkJBUEpuT1kwcjRFeTVsazVRempBanN0eVo4dU1mQXhWeFNYMVg1VzBfYU1RTEl1WGFZSVdGbXgxVG0tZUFDVS1rd3J4UzBhME5tazNmeXRPdHR1R193WWk4ZDcwenJRYUE0cXR5Nw",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2J2SEY4cFgtU0pWREdQcDlSelpjblh2ZGR3cU14a1RiNXlZcjVwUjhyWWFnQ215VktfdW8wV09MZU1ONUFiUm1wTi1LN1VCNlRpYlNScm04N3ctQ2R5R1FXR1pUMTJiVkVxWGlXdHFHWlhwbkMtLVp3UEJRYkRvOVJQVEdCUDc4cW5pUWJMeW9tdFBadHplM3U5R0d0dTdZUnFjWXl3a2dVNnRXVnVON1RyWHpwX1A4U2FLbnlxVnN0NEczT2NBMUFLVQ",
     "https://twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz",
     "https://twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs",
-    "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
     "https://twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship",
+    "https://twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid",
     "https://twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
   ],
   "recent_posts": [
-    {
-      "title": "Thales підрозділ отримав контракт на модулі віддаленого розвідки мін для ВМС США",
-      "original_title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
-      "summary": "У США підрозділ Thales отримав контракт на два модулі віддаленого розвідки мін (RMH) на суму 53,9 млн доларів, з можливістю розширення до 196,2 млн. Модулі оснащені сонаром SAMDIS 600 з трьохлучовою системою та AI‑програмою для швидкої обробки даних, що підвищує швидкість і точність виявлення мін. Це зміцнить безпеку флоту та підвищить готовність до операцій у мінних зонах.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules",
-      "published": "2026-11-03T22:40:45+00:00"
-    },
-    {
-      "title": "Трамп оголосив про скорочення американської військової допомоги Ізраїлю до $4 млрд",
-      "original_title": "What Trump’s Drastic Reduction Of U.S. Military Aid To Israel Could Mean",
-      "summary": "Президент США Дональд Трамп заявив, що до кінця 2024 року США припинять виплату близько 4 млрд доларів річної військової допомоги Ізраїлю, завершивши дію Меморандуму про взаєморозуміння 2019‑2028 років. Це означає кінець більшості фінансування Foreign Military Financing, яке передбачало закупівлю озброєння у американських виробників, і може змусити Ізраїль шукати альтернативні джерела постачання. Скорочення допомоги також вплине на доходи оборонного сектору США та політичний клімат перед виборами.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean",
-      "published": "2026-11-03T23:15:40+00:00"
-    },
-    {
-      "title": "SNC виходить з конкурсу на новий навчальний винищувач ВМС США",
-      "original_title": "EXCLUSIVE: SNC pulls out of Navy’s trainer jet competition",
-      "summary": "Sierra Nevada Corporation оголосила про вихід зі змагання за контракт UJTS, залишивши єдиного серйозного конкурента – Textron Aviation Defense з тренером M‑346N. Відмова SNC, а також відмова Lockheed Martin, Boeing та Northrop Grumman скоротили поле учасників, що може прискорити вибір M‑346N як замінника старих T‑45 Goshawk. Затримка у визначенні переможця перенесена на липень‑вересень 2027 року, що вплине на модернізацію підготовки пілотів ВМС і морської піхоти.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron",
-      "published": "2026-11-03T23:19:46+00:00"
-    },
     {
       "title": "Asahi закликає до швидких дій через інфляцію на цілі БЯ",
       "original_title": "EDITORIAL: Quick policy action needed as inflation hits BOJ’s 2% target - 朝日新聞",
@@ -765,6 +745,16 @@
       "published": "2026-11-05T14:00:00+00:00"
     },
     {
+      "title": "Israel і Німеччина продовжують енергетичну співпрацю",
+      "original_title": "Israel and Germany extend energy cooperation - Al Arabiya English",
+      "summary": "Ізраїль і Німеччина офіційно продовжили співпрацю у сфері енергетики, згідно з повідомленням Al Arabiya English. Це рішення передбачає подальший розвиток спільних енергетичних проектів і зміцнення економічних зв’язків між країнами.",
+      "source": "Коридори · IMEC",
+      "publisher": "Al Arabiya English",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2pNV1ItR29KdDdrdk9KUENkMm1FckYwRUdkMGJqZFJsVHkyTTEzYmFLMnpNTHlvNEZZZlg4TGVmRXU4V0xkcU1DWGIzQUlvZjM4SVFycFY5UnJxb3ljTTltZUJQU21hVnVNMlFuYm50dXV0bi1fRWxHeHN0ODRHa2xfeXhGSHhLWnhvamhXVkJMV3RET0pIVVlPbHlaamwyT2VTdNIBqgFBVV95cUxOSUF3OVR3Qm1vUnZPYmNpRksybzY1VUJ5eEZEbVIzRmk2UURSaER3aFg2YUdBYnRJbktQUEZrNm9OS1pXenFrYVVHYzM4ekhnbVdlWjlPd2JaaHEtcUlacUZYNk5CaUFpdVkxM3FRaVZhRnRFeWdtbENsSDNmTTdDNnNVZ24zTjE2cnpPLUxiSkdLY29ROEVIWDE1ZmM5Z09GRkxGTHZER253QQ",
+      "published": "2026-11-05T15:42:00+00:00"
+    },
+    {
       "title": "RTsys Group продала кілька навчальних цілей SEMA канадським оборонним агентствам",
       "original_title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
       "summary": "На виставці Euronaval 2026 компанія RTsys Group оголосила про продаж кількох навчальних цілей SEMA двом канадським оборонним структурам — DRDC та NETE. Ці цілі призначені для підготовки та тестування систем протипідводної боротьби, що дозволить Канаді підвищити ефективність своїх ASW‑платформ. Укреплення присутності RTsys у Північній Америці розширює можливості спільних навчань і підвищує рівень підготовки персоналу до протидії підводним загрозам.",
@@ -773,6 +763,26 @@
       "channel": "miltech",
       "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets",
       "published": "2026-11-05T15:49:45+00:00"
+    },
+    {
+      "title": "Велика Британія закликала Танзанію розслідувати насильство під час виборів 2025 року",
+      "original_title": "53rd Universal Periodic Review of human rights: UK Statement on Tanzania",
+      "summary": "Під час Універсального періодичного огляду Ради з прав людини ООН у Женеві посол Великої Британії з прав людини Елеанор Сандерс виступила із заявою щодо Танзанії. Велика Британія висловила глибоку стурбованість насильством під час виборів у Танзанії в жовтні 2025 року, зокрема повідомленнями про надмірне застосування сили силовиками та людські втрати. Британська сторона розкритикувала неопублікування звіту Комісії з розслідування та наголосила на необхідності підзвітності. Крім того, Лондон згадав думку Робочої групи ООН про довільні затримання щодо арешту опозиціонера Тунду Ліссу та закликав",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-tanzania",
+      "published": "2026-11-05T16:05:07+00:00"
+    },
+    {
+      "title": "Велика Британія в Радбезі ООН засудила порушення демілітаризованого статусу Аб'єй",
+      "original_title": "Continued violations of Abyei’s demilitarised status are unacceptable: UK statement at the UN Security Council",
+      "summary": "Під час засідання Ради Безпеки ООН щодо Судану та Південного Судану заступниця постійного представника Великої Британії при ООН Кейт Фостер заявила, що триваючі порушення демілітаризованого статусу Аб'єй є неприйнятними. Британія засудила нещодавні атаки безпілотників поблизу ринку Амієт і Тодаха, які сталися 19 жовтня та призвели до жертв серед цивільних і переміщення тисяч людей. У Лондоні наголосили на необхідності забезпечення безпеки місії UNISFA, виведення всіх несанкціонованих збройних сил та активізації політичного діалогу між Суданом і Південним Суданом для вирішення остаточного стату",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
+      "published": "2026-11-05T16:11:59+00:00"
     },
     {
       "title": "ЄС надав Україні 660 млн євро на оборону в рамках Ukraine Support Loan",
@@ -793,6 +803,106 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal",
       "published": "2026-11-05T16:30:00+00:00"
+    },
+    {
+      "title": "Торговельний конфлікт США‑Канада через тарифи загострюється",
+      "original_title": "THE WORLD BRACES as Trump’s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
+      "summary": "США під керівництвом Трампа посилили торговельний спір з Канадою щодо тарифів, що викликає занепокоєння на світових ринках. За даними EnergyNow.com, конфлікт ескалює, і міжнародна спільнота стежить за його розвитком.",
+      "source": "Глобальна торгівля, СОТ і торговельні угоди",
+      "publisher": "EnergyNow.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E",
+      "published": "2026-11-05T16:30:54+00:00"
+    },
+    {
+      "title": "Швейцарія приєднується до санкцій ЄС проти Росії та Білорусі",
+      "original_title": "Switzerland Joins Latest Round of EU Sanctions Against Russia and Belarus - REFORM.news",
+      "summary": "Швейцарія офіційно включилася до останнього раунду санкцій ЄС проти Росії та Білорусі. Це розширює міжнародний тиск на обидві країни, підсилюючи економічні обмеження, що вже застосовуються ЄС.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "REFORM.news",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG9zWnlVSXRtalFPSjJyR1p2WXkta3FqeVNJUWd6bmxzOFBPLUtKMU9SRS1Gek93YTV0ZlFDMXM5emNNdWRPREtZdnNEQ3l1bDlzRTN0emF2T3Q0NC13anY3V0JOTmd2X3JQVXkyS3owb0laS3JXTG1WVzhQQWc3MkpWWUIxbHp6eVFNclp5MGpuMnVyQ2VkdWpyTXZVUdIBowFBVV95cUxOMlpzUjNLbXRJazVuREQtV09FeEhzY1p1UkVaTVFNcDZhUk04ZDlxSjVCTlZQN2duZ3FjUG5DS0dOaVpUYlhITWNpOC16M2czS1NqLXVYMXJpWmZ1M0tuRUwyQV90NW1aYXdJcDZFUW02dnBhVlB2MW1WU2ZRQ3NRSm9fSV9VamN3Vm9Weko2QW5hR1RlZTlmRzRUdjJ4UTFaMGNJ",
+      "published": "2026-11-05T16:48:17+00:00"
+    },
+    {
+      "title": "В’єтнам і ЄС обговорюють економічне співробітництво",
+      "original_title": "Policy dialogue, business networking: Finding solutions for Vietnam-EU economic and trade cooperation. - Vietnam.vn",
+      "summary": "В’єтнам і Європейський Союз провели діалог з політики та бізнес-нетворкінг, шукаючи рішення для поглиблення економічної та торговельної співпраці. За результатами заходу планується розширити взаємні інвестиції та торгівлю між сторонами.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "Vietnam.vn",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemxjbTJZVVlsTHF2SlFkM0VGYVVLTW5DYU1zRGxUS0JIQlBxYVFoNVZpRGpSOGlrb0hYOUR5dU16ZzlhbEhMZUJZN29fY0lZNjAwcmMyM0NQTVpLSHRtOWFVakRwRk8xOGE2RllIM2hRSEpCNEhTTEF6SlhEdjE0MFpibklHV09pTlM0Y3JfNC1RQ0ZNYW1BZEllN05mRDlDRXdpbmoxTE5vUWhZbG1CbmdDbGZzSnY5X3ZrbG05MkE",
+      "published": "2026-11-05T17:37:09+00:00"
+    },
+    {
+      "title": "У Чорногорії відбудеться міністерський форум ЄС та Західних Балкан",
+      "original_title": "Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026) - Council, European Union",
+      "summary": "У місті Будва (Чорногорія) 5–6 листопада 2026 року заплановано проведення Міжнародного форуму міністрів юстиції та внутрішніх справ Європейського Союзу та країн Західних Балкан. Захід організовано за участю Ради Європейського Союзу та представників ЄС з метою обговорення ключових питань співпраці у сфері правосуддя та внутрішніх справ між європейськими інституціями та регіональними партнерами.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUFBZVjE4RVM4U3V1QWpDSWRJVkMxYTd0WnhVeWY2NVNraWdtcDh2NlFzRDVWeDA4ZF9rVWxid1VzbTFWVW15cUFab2dIbE1NZUVuQ0FrV0tYU0wzRDByb1JHVUZtNmF1QmZMMVlPZWh3Q2VURGU5UnNBMDVXVmV6M0ZuUF9zUDBrMVhBNGc2NkVraFphd2Y4QjVYbmZRTGl1T3ZONHpJV2wyS09WWEU5dHl4Q21mejVWdlJsSTl0X3FSUXhTUXBpdnBuY1NJcW1JRGZfdDhfOHJzOHpKbUozaUtDQVBmM3lYUXl2bzVRS3d2TFZfVlAtM3VnN0RHOFRMLXc3UHpwcFNfOGxiYnBLbkJfcW12Zw",
+      "published": "2026-11-05T17:37:43+00:00"
+    },
+    {
+      "title": "UK needs financing overhaul for critical minerals strategy",
+      "original_title": "UK ‘needs financing overhaul’ to repair critical minerals strategy - Global Trade Review (GTR)",
+      "summary": "У статті Global Trade Review зазначено, що Сполучене Королівство має переглянути фінансування, щоб виправити недоліки у своїй стратегії щодо критичних мінералів. Це вказує на існуючі проблеми з фінансуванням у сфері забезпечення постачання стратегічних ресурсів.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Global Trade Review (GTR)",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw",
+      "published": "2026-11-05T17:48:00+00:00"
+    },
+    {
+      "title": "US midterms: Implications for Bangladesh trade",
+      "original_title": "US midterm results: What it means for Bangladesh’s trade and economic challenges - The Daily Star",
+      "summary": "The Daily Star examines how the results of the US midterm elections may affect Bangladesh’s trade and broader economic challenges. It notes that shifts in the US political landscape could influence trade policies relevant to Bangladeshi exporters. The analysis focuses on potential repercussions for Bangladesh’s economy without providing specific figures.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "The Daily Star",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkhmOUVydGFWZVdDMXBDNVBaUVVLN21McGp4Vm9BVjVyaHVVZ294YmdwTkhDanVMN2V1Njg2T0hiR0J4TGhfal8zTlVCeDlUeU9LVFFueVJtelB1UVB2QWlYcTBqXy01dHlvV2tqV1V5RDRtMktVTDV4TGotQkpQZF9KSFRGaVhhMjhSUE5IVk9tVWlESXg5Vi1rVU5mZ1NOTV9WU2EySTlnT2tLSl82TFc5am85ZGhfUHVVQWMyclZwbzg",
+      "published": "2026-11-05T17:54:24+00:00"
+    },
+    {
+      "title": "SNC відмовилась від участі у конкурсі на новий навчальний реактивний літак ВМС США",
+      "original_title": "We Now Know Why Sierra Nevada Corp Canned Its Navy Jet Trainer Bid",
+      "summary": "SNC заявила, що відмова від подачі пропозиції на програму UJTS зумовлена вимогою фіксованої ціни до завершення зрілості дизайну, що створює неприпустимий фінансовий ризик. Компанія відмовилась від свого чистого проєкту Freedom Jet, залишивши єдиного відомого учасника – Beechcraft M‑346N, розроблений у співпраці Textron і Leonardo. Це може уповільнити впровадження нових навчальних реактивних літаків у ВМС, які шукають заміну старих T‑45 Goshawk.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid",
+      "published": "2026-11-05T17:57:32+00:00"
+    },
+    {
+      "title": "Україна планує нову угоду про Starshield до середини 2027, не отримала відповіді про жовтневі проблеми",
+      "original_title": "Ukraine eyeing new SpaceX Starshield deal by mid-2027, still no answers about October problems",
+      "summary": "Україна веде переговори про новий контракт з SpaceX щодо Starshield, що забезпечує супутникову зв’язку для дронів. У жовтні відзначено несподівані збої в мережі, що призвели до втрат зброї та цивільних жертв, і наразі не розкрито причину. Якщо проблема не вирішиться, Україна розглядає альтернативні системи, що може вплинути на її можливості протидії російським дронам.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems",
+      "published": "2026-11-05T18:02:00+00:00"
+    },
+    {
+      "title": "Німеччина призначила головнокомандувача армії Фройдинга головою оборони",
+      "original_title": "Germany names Army Chief Freuding as next chief of defense",
+      "summary": "У лютому 2027 року головнокомандувач армії Німеччини Християн Фройдинг стане головою оборони, замінивши Карстена Бройєра, який перейде до голови військового комітету НАТО. Фройдинг, який з жовтня 2025 року керував постачанням зброї до України, активно впроваджував нові технології, протестовані в Україні, і ініціював створення дронового полку в німецькій армії. Його призначення може посилити інтеграцію сучасних безпілотних систем і технологічних інновацій у Bundeswehr, підвищуючи бойову готовність та сумісність з союзниками НАТО.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense",
+      "published": "2026-11-05T18:30:53+00:00"
+    },
+    {
+      "title": "Франція представила морську версію балістичної ракети B-STRIKE 1000 з дальністю 1000 км",
+      "original_title": "У Франції розробили морську версію балістичної ракети B-STRIKE 1000 дальністю 1000 км",
+      "summary": "На виставці Euronaval 2026 компанія ArianeGroup представила концепт морської модифікації B-STRIKE 1000, оснащеної маневровим бойовим блоком MaRV і здатної уражати рухомі надводні цілі з точністю до 10 м при дальності близько 1000 км. Ракета може запускатися з вертикальних пускових установок діаметром 25 дюймів, палубних пускових систем або безекіпажних надводних платформ, що розширює можливості Європи у сфері протикорабельних балістичних ударів і ускладнює протиракетну оборону кораблів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
+      "published": "2026-11-05T18:39:02+00:00"
     }
   ]
 }

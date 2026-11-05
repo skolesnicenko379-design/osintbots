@@ -1086,51 +1086,16 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXprWjJCQzVEUTk3MlhZd3VVXzAxNy0zX2VEV0FiSWJkRENtQjBkdE4ycjRZcE9xX1BHTi10cVdtLXplNjdCRUhyaU41Zm9tMHpoU3oxN0tFbnpZTEJFMEROZ2hfMnJLUGZ3UjBGQ3VZcjN4ZXZRWThjMWo0NmtwVXM1MlNxaXp0bzcyaw?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OGNTR3lhRG56SnI4SXp5eHlPaDhlM01jeHFWM3k4endJN1p5bFpNclZYaXg1UzNEb1hPLVczWkpzOFVjbnc3cTFCTTc3eUhPaVkxS0YxWUpEM1M1RFlr?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmdLMDNBV0RKZnhXVU9BYVlKSnRGTl9PcS1fZFhJODhvU0l5YXo3TW45MlJtZzBnWVQyY0F2UkNyZVhoUzUybVV4dDdReEl6UzkwdUdyaWxpTXREcXd1T2YwMkplVFpzTFcybnl2eFpRckItR3laWkFuV0ZIX0RBVmRMU2dTb0ZkRHpZenllenZ0dlc1N3dpZHNNMndjS3BPZ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS29fZXB5am5MVVR6OEVjXzR2QjJNRlJIb3dKZ3dnQmNnQ2Y0RjFGVDVzSnhxMDFod0hRWFZSNWlSNkV1Y1BDQVFjZFBGc3o0SDJCa050Y090LW1nWS1IVjNZSnZCY05BUzdWbUJGb3M3VDdldUYxdWlBYXFnVTJuTWIzbnlZZTBaTGoxUG45QmRST0hJMDZOOVBxQ2ZWUHlmMlB2S2dkQXpTdkZMck11TEROMnRubTBYZVVQQ1BBYUd5SHhzb2l3enpmNDRVazhCbVNzbW13?oc=5"
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS29fZXB5am5MVVR6OEVjXzR2QjJNRlJIb3dKZ3dnQmNnQ2Y0RjFGVDVzSnhxMDFod0hRWFZSNWlSNkV1Y1BDQVFjZFBGc3o0SDJCa050Y090LW1nWS1IVjNZSnZCY05BUzdWbUJGb3M3VDdldUYxdWlBYXFnVTJuTWIzbnlZZTBaTGoxUG45QmRST0hJMDZOOVBxQ2ZWUHlmMlB2S2dkQXpTdkZMck11TEROMnRubTBYZVVQQ1BBYUd5SHhzb2l3enpmNDRVazhCbVNzbW13?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTS1lNGYxRENOV28xbUdzMncxRUhQRnNmZFptUHh0aF9uSWg0dTh1VllOeExfbW5QRjYteXZLa0NWdFp5OHJtUTd5TWlObTBnZGNSMDVJbFJza0VzdDUwbWc4eWtLLWU5dVo0RHVLcVRNeExQWUFvd05SdnBkMFVkVGtn?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNjZCcTlqeWR5VlpRZERpM2JqQXNOcFNvdDNvWkJ1WWNCLTdpcFVvT0N0cURDR1VwUEl1ZEc2RUNSMFRqTm9iSjZkNHMyX1lRRml1aWpibUJmMjdFYWxGZjRMQV9wd1ZfbXAyVU84SG0xdThMcTdPTGtXWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajQzeUxzQWxnUlh4TXB1a29uV09JMV9WaXBRY0hqTk9pSC1hdUZUSEFVbzVTemhpYVRVZUdiM1RHVXRLa0FZLVF2Rld3OTVsYjZQcDFBdEROWGx5Z3U0MnplbExiQlBqWW9PSHg3SlVmY1lreTE2UjJDYnpPZWxTR0VKbV9OdFp4N2ktck9YSDVZOHp3UE5OSTRuNzk2STFPUVdkVEZJTXo5TmtJQUE3QU9yajVMS2VxX3p4XzA5dXRlQlEyT2tYVElqbDJrMUlGUUI3dF96NXlVSlFqc2NzUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2J2SEY4cFgtU0pWREdQcDlSelpjblh2ZGR3cU14a1RiNXlZcjVwUjhyWWFnQ215VktfdW8wV09MZU1ONUFiUm1wTi1LN1VCNlRpYlNScm04N3ctQ2R5R1FXR1pUMTJiVkVxWGlXdHFHWlhwbkMtLVp3UEJRYkRvOVJQVEdCUDc4cW5pUWJMeW9tdFBadHplM3U5R0d0dTdZUnFjWXl3a2dVNnRXVnVON1RyWHpwX1A4U2FLbnlxVnN0NEczT2NBMUFLVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEZPV3REVEk0VXVIaU1DbkVQUnRvX0JHdUk3Y2RfZ01VRjdtM3Y4VWFlSGJua21LVlhtNG5LbnlIaDlncjNwZDMzb2RvVW13bkIzenR5TzFrRHA3TW9JR3I2TXhSRGV0OHdGcnRHN0pZQlIyME5admdzNEVkSzRQcERrWks0d04tbzFNbHlJaXlHMkpDV1pfWlRUMXZ6RXJCaEhoMWZfSTZwUWlR?oc=5",
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVm01ek5KOGJRNC1uZ2dxVzlBbEFSTkY2SmxFOXBpVkhlZlZKOWlTeF9LZ2VBR3VjaUpyZHgwX1V0cm5MclBCRVYwVzdOTUhka3JsZmd5V1ZNdWFMWU9nb0tmX3Jua0dzVUdoZkhXS1V4dDN4Zl8tZU5PbTV5Y0ExX2p2OUJsTHVNUVlFNVVGbXFKbHBQY3ZkZGNLeDJIY08za1I3SmNrNThybFdiY1JqMjV1RGNmSUs4ZkdMc0w4UGpHUExmcHByT1c5clRycllfX2FJSG1OSDc5WXdQcEhqcmVCbEhfMUV4bVFJTUNNNExFMmhmY2RfcjIxckZPcFl5N00wQVhYNkJuMmpjQXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX05mZ3JoMVo4eXhMSnB4TnFfMWdKMXBqdEVDdl9KOVJmNlFJR1NLU2xHTjdhQkhMR3VDbllNZUNQZHhZWGxvbUlHaUt0T2Q1S0JoaUw1blFKLWlMMkszS3pwX3pPOUpFNDdZMDR0MDU4WEpCRmxsb1VLanliX2J1SExhQnk4X0lsQXRBM0VPYm1NY1o1YjFRMjE5Z1BlMDlLQ2dHbm1xTmhmenB5UnF3NHZDNA?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "IEA: Global LNG supply to drop 3% in 2026",
-      "original_title": "Global LNG Supply To Fall By Record 3% In 2026, IEA Warns - Forbes Middle East",
-      "summary": "Міжнародна енергетична агенція (IEA) повідомила, що світова пропозиція природного газу у вигляді LNG зменшиться на 3 % у 2026 р. Це найсильніше зниження за останні роки, що може підвищити конкуренцію за доступні поставки і вплинути на ціни на газ.",
-      "source": "Енергетика та LNG",
-      "publisher": "Forbes Middle East"
-    },
-    {
-      "title": "Yen торкається 158 $/долар на фоні ризику інтервенції",
-      "original_title": "Yen struggles near 158 per dollar as intervention concerns grow ahead of US elections - Economies.com",
-      "summary": "Йєн коливається біля 158 ієн за долар, що підвищує побоювання щодо можливого валютного втручання. Тривога посилюється у зв’язку з наближенням виборів у США, які можуть вплинути на глобальні фінансові потоки.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Economies.com"
-    },
-    {
-      "title": "EU та Китай прагнуть справедливіших торгових відносин",
-      "original_title": "Europe and China can build a fairer trading relationship through cooperation - EU Reporter",
-      "summary": "EU Reporter повідомляє, що Європа та Китай можуть створити більш справедливі торгові відносини шляхом співпраці. У заяві підкреслюється необхідність взаємних зусиль для поліпшення умов торгівлі між континентами.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "EU Reporter"
-    },
-    {
-      "title": "Вірменський податковий комітет попередив про заборону експорту російських рублів",
-      "original_title": "State Revenue Committee of Armenia warned of a ban on export of cash rubles from Russia to Armenia and several other countries - ArmBanks.am",
-      "summary": "Державний податковий комітет Вірменії повідомив про можливу заборону експорту готівкових рублів з Росії до Вірменії та кількох інших країн. Це рішення може ускладнити готівкові розрахунки між країнами та вплинути на обіг російської валюти в регіоні.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "ArmBanks.am"
-    },
-    {
-      "title": "Трамп повідомив про оновлення угоди США‑Канада",
-      "original_title": "Trump shares major update on US trade deal with Canada - The News International",
-      "summary": "Трамп поділився важливим оновленням щодо торгової угоди між Сполученими Штатами та Канадою. За його словами, зміни можуть вплинути на умови двосторонньої торгівлі, хоча конкретні деталі не розкрито. Це сигналізує про можливе коригування торгових правил між країнами.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "The News International"
-    },
-    {
-      "title": "Афганістан повертається до євразійських транзитних розрахунків",
-      "original_title": "Afghanistan’s Re-Emergence in Eurasian Transit Calculus - SpecialEurasia",
-      "summary": "У статті SpecialEurasia зазначено, що Афганістан знову стає важливим фактором у транзитних маршрутах Євразії, що може вплинути на логістичні та торгові зв’язки регіону.",
-      "source": "Коридори · IMEC",
-      "publisher": "SpecialEurasia"
-    },
     {
       "title": "Провідні центробанки сигналізують про посилення політики в грудні",
       "original_title": "Major central banks signal December tightening amid persistent inflation - Anadolu Ajansı",
@@ -1228,6 +1193,48 @@
       "summary": "Russia sold a stake in its shadow‑fleet tanker conglomerate for $183 million, aiming to raise funds for the war effort. The deal involves a major oil‑product tanker operator that has been linked to sanctions‑evasion activities.",
       "source": "РФ · економіка, бюджет і експорт",
       "publisher": "UNITED24 Media"
+    },
+    {
+      "title": "Китайський новий попит відкриває торгівельні можливості для Африки",
+      "original_title": "Nation's new demand opens trade opportunities for Africa - China Daily Global Edition",
+      "summary": "Китай оголосив про новий попит, який створює нові можливості для африканських країн у сфері експорту. За словами China Daily Global Edition, це може розширити торговельні зв’язки між Китаєм та Африкою.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "China Daily Global Edition"
+    },
+    {
+      "title": "Російський експорт зерна стикається з випробуванням",
+      "original_title": "Harvest of War: Russia’s Grain Export Boom Faces a Test - Riddle Russia",
+      "summary": "Росія продовжує збільшувати обсяги експорту зерна, проте зараз цей підйом піддається випробуванню, згідно з матеріалом Riddle Russia. Це свідчить про можливі труднощі для російської аграрної галузі у поточному періоді.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Riddle Russia"
+    },
+    {
+      "title": "US Midterms Heighten Debt Ceiling Risk, May Lift Treasury Yields",
+      "original_title": "US Midterm Results Raise Debt Ceiling Risks, Could Push Treasury Yield Higher, Schroders - BusinessToday Malaysia",
+      "summary": "Schroders зазначає, що результати середньострокових виборів у США підвищили ризик швидшого досягнення ліміту державного боргу, що може створити тиск на прибутковість казначейських облігацій. Зростання доходності підвищить вартість фінансування для казначейства та може вплинути на ширші кредитні ринк",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "BusinessToday Malaysia"
+    },
+    {
+      "title": "Kazakhstan, Bulgaria Boost Transport & Logistics Cooperation",
+      "original_title": "Kazakhstan and Bulgaria Strengthen Cooperation in Transport and Logistics - Enbekshi QazaQ",
+      "summary": "Казахстан і Болгарія підписали угоди про посилення співпраці у сфері транспорту та логістики. Це має покращити транспортні зв’язки між Євразією та Європою, сприяючи більш ефективному руху товарів.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "Enbekshi QazaQ"
+    },
+    {
+      "title": "BOJ розглядав подальші підвищення ставок у вересневих протоколах",
+      "original_title": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show - Central Oregon Daily",
+      "summary": "У протоколах засідання Банку Японії за вересень зазначено, що члени обговорювали потребу у подальших підвищеннях процентних ставок та можливість швидших монетарних кроків. Це свідчить про те, що центральний банк продовжує оцінювати подальше жорстке регулювання грошово-кредитної політики.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Central Oregon Daily"
+    },
+    {
+      "title": "India планує власні тунельні бурові машини у випадку обмежень Китаю",
+      "original_title": "India to develop indigenous tunnel boring machines if China restricts supplies: minister - Asia News Network",
+      "summary": "Міністр повідомив, що Індія розпочне розробку власних тунельних бурових машин, якщо Китай обмежить їх постачання. Це рішення передбачає створення вітчизняного виробництва обладнання для будівельних та інфраструктурних проєктів, зменшуючи залежність від зовнішніх постачальників.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Asia News Network"
     }
   ]
 }

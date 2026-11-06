@@ -1,6 +1,7 @@
 {
   "links": [
     "https://army-technology.com/news/nato-c-uas-marketplace-procurement",
+    "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
     "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources",
     "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook",
     "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense",
@@ -15,6 +16,7 @@
     "https://defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029",
     "https://defensenews.com/global/europe/2026/11/05/popular-military-air-show-permanently-pulled-from-raf-fairford-after-suspected-terror-threat",
     "https://defensenews.com/global/europe/2026/11/06/denmark-lithuania-latest-baltic-navies-to-buy-blocker-mines-through-finnish-scheme",
+    "https://defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot",
     "https://defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone",
     "https://defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title",
     "https://defensenews.com/news/2026/11/05/israeli-defense-company-says-this-trigger-is-programmed-to-shoot-drones",
@@ -34,6 +36,7 @@
     "https://militarnyi.com/uk/news/detektor-shheznyk-mesh-geran",
     "https://militarnyi.com/uk/news/f-35b-zdijsyv-pershi-kydkovi-meteor",
     "https://militarnyi.com/uk/news/finlyandiyi-system-keruvanny-dronamy-patria",
+    "https://militarnyi.com/uk/news/iran-i-rosiya-vedut-peregovory-s-400",
     "https://militarnyi.com/uk/news/ispaniya-nadast-ukrayini-paket-dopomogy",
     "https://militarnyi.com/uk/news/prypynyla-vyprobuvannya-shi-v-ukrayini",
     "https://militarnyi.com/uk/news/ssh-vyprobuvaly-bojovyj-blok-mk21a",
@@ -83,6 +86,7 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajFIVnR1S19aV3BTV1NlOWpCMVkzS2UxWnpUMmNIc1o2YzVNY1ZISzlYR1NPbXIzbk42N0t2UmJLUTVka2FmRDRPR0VTRkt6VlNTdEtrYnJPbS1odDJIMWpKdkJBUEpuT1kwcjRFeTVsazVRempBanN0eVo4dU1mQXhWeFNYMVg1VzBfYU1RTEl1WGFZSVdGbXgxVG0tZUFDVS1rd3J4UzBhME5tazNmeXRPdHR1R193WWk4ZDcwenJRYUE0cXR5Nw",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXdiVWxORXhmTF9YYmNpTHlDZzV6eEpYX0RpQ2RFWDgwMWZnZFkyTW5UYnBKWEpZREw1M3M5Y1lPclNTY3l6ZzVCRVAtemxxWWpndW03dk91cW84LWJlTVZZVTYxb1pJT3RkVTBsbTVfY3AwM2V6aEFTVGp6WHBXd2hfSkNWajZMSXZ1RFRkMk9mYnBRZzZKdUMzcldUbVVQb2pZT1BrLTZfOXc0Tmh3RVZXcWNpQng1dVpwMUZkZGdPQmphc0JCZk42N0hXQdIBzgFBVV95cUxNUXdiVWxORXhmTF9YYmNpTHlDZzV6eEpYX0RpQ2RFWDgwMWZnZFkyTW5UYnBKWEpZREw1M3M5Y1lPclNTY3l6ZzVCRVAtemxxWWpndW03dk91cW84LWJlTVZZVTYxb1pJT3RkVTBsbTVfY3AwM2V6aEFTVGp6WHBXd2hfSkNWajZMSXZ1RFRkMk9mYnBRZzZKdUMzcldUbVVQb2pZT1BrLTZfOXc0Tmh3RVZXcWNpQng1dVpwMUZkZGdPQmphc0JCZk42N0hXQQ",
     "https://twz.com/air/chinas-military-helicopters-a-guide",
+    "https://twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks",
     "https://twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons",
     "https://twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
     "https://twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid"
@@ -879,6 +883,16 @@
       "published": "2026-11-06T18:02:14+00:00"
     },
     {
+      "title": "DoD обирає Viasat для створення центру управління даними супутника Golden Dome",
+      "original_title": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
+      "summary": "Viasat отримала контракт до $450 млн на розробку та розгортання Mission Operations Center, який інтегруватиме кілька супутникових сузір'їв у мережу Space Data Network Backbone, створену SpaceX. Центр стане оркестратором трафіку, забезпечуючи швидку, низьколатентну передачу даних і автоматичне перенаправлення у випадку перевантаження чи заглушення, що підвищить ефективність системи протиракетної оборони Golden Dome.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
+      "published": "2026-11-06T18:41:12+00:00"
+    },
+    {
       "title": "Пропустили AUSA 2026? Завантажте безкоштовний звіт Breaking Defense",
       "original_title": "Missed AUSA 2026? Get the Ground Truth from Breaking Defense’s free eBook",
       "summary": "У жовтні 2026 р. армія США взяла участь у щорічній конференції AUSA у Вашингтоні, де було представлено численні безпілотники, ракетні комплекси та важку техніку. Після заходу Breaking Defense випустив безкоштовний e‑book «AUSA 2026: The Ground Truth – After‑Action Report», який підсумовує нові технології та стратегії армії. Такий огляд дозволяє аналітикам швидко ознайомитися з напрямками модернізації та потенційним впливом нових систем на бойові можливості.",
@@ -889,6 +903,16 @@
       "published": "2026-11-06T18:59:47+00:00"
     },
     {
+      "title": "Іран звернувся до Росії за постачанням С‑400 та іншої зброї",
+      "original_title": "Іран хоче С-400: країна звернулась до Росії щодо придбання",
+      "summary": "Іран і Росія провели переговори про поставку ірану системи ППО С‑400, здатної знищувати цілі на відстані до 400 км і працювати у багатьох діапазонах частот. За домовленістю Росія також готова передати 90 пускових установок для ракет Х‑39 ЛМУР малої дальності, що підвищить можливості іранської армії у тактичному повітря‑земельному ураженні. Отримання цих систем може суттєво посилити протиповітряну оборону Тегерану та розширити його ударний потенціал у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/iran-i-rosiya-vedut-peregovory-s-400",
+      "published": "2026-11-06T19:07:12+00:00"
+    },
+    {
       "title": "Глава безпеки Ірану відмовився від переговорів з США",
       "original_title": "Iran Security Chief Meets Putin, Says No Talks With US Until Demands Met - Around Prague",
       "summary": "Іранський глава безпеки зустрівся з президентом Росії Володимиром Путіним і заявив, що не буде вести переговори зі Сполученими Штатами, доки не будуть виконані його вимоги. Це підкреслює напруженість у зовнішньополітичних відносинах, що може ускладнити дипломатичні зусилля США у регіоні.",
@@ -897,6 +921,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEhkdDFBQmVMbmhDM3U0b3h0Qlk0SzZNTG5JcmFfOExhWFdUVUxBUkM3VEVZMHl4bVBzeF8tOWttTDFTZk9hOGp3YUVaMi1acWpSdmJncWl1aVdtbTEzZTZwU2lKZ084X3A2a1FPdi1meEZBNmx4Qm1CSjU5SGlrWUd3SU13OHdJVWVGM3loNUdmcWV5ZW9aakhmUHR3Q2p0MnotME5qdEM2YVhCM1E",
       "published": "2026-11-06T19:24:16+00:00"
+    },
+    {
+      "title": "США і колумбійські війська розпочали навчання «Південний Вангард‑2027»",
+      "original_title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
+      "summary": "У Колумбії стартувало масштабне спільне навчання США та колумбійської армії, у якому беруть участь близько 350 американських і понад 400 колумбійських солдатів. Тренування охоплюють бойові дії в джунглях, протидію ППЗ, кібер‑вміння, морську інтерцепцію та командування постами. Подія підкреслює переорієнтацію Пентагону на західний півкульний регіон і підвищує готовність сил до операцій у складних лісових умовах.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot",
+      "published": "2026-11-06T19:27:32+00:00"
     },
     {
       "title": "F-35B провів перші кидкові випробування ракети Meteor з інертною боєприпасною частиною",
@@ -947,6 +981,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title",
       "published": "2026-11-06T20:43:37+00:00"
+    },
+    {
+      "title": "Оперативні F-15EX почали летіти з конформальними паливними баками",
+      "original_title": "Operational F-15EXs Have Started Flying With Conformal Fuel Tanks",
+      "summary": "Пілоти 142‑го полку Орегонської Національної гвардії отримали два бойові F-15EX Eagle II, оснащені конформальними паливними баками (CFT). Кожен бак вміщує близько 750 галонів палива і додає шість зовнішніх пунктирів, що збільшує дальність польоту та можливість нести важкі бомбардувальні комплекси. Це відхилення від первинної політики ВПС, яка передбачала лише зовнішні танки, підвищує універсальність літака у повітряно‑земельних місіях.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks",
+      "published": "2026-11-06T21:25:42+00:00"
     }
   ]
 }

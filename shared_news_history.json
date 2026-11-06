@@ -1,8 +1,10 @@
 {
   "links": [
+    "https://army-technology.com/news/nato-c-uas-marketplace-procurement",
     "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources",
     "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
     "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense",
+    "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership",
     "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal",
     "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go",
     "https://breakingdefense.com/2026/11/the-push-to-give-dismounted-forces-direct-access-to-leo-and-meo-networks",
@@ -15,6 +17,7 @@
     "https://defensenews.com/global/europe/2026/11/06/denmark-lithuania-latest-baltic-navies-to-buy-blocker-mines-through-finnish-scheme",
     "https://defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone",
     "https://defensenews.com/news/2026/11/05/israeli-defense-company-says-this-trigger-is-programmed-to-shoot-drones",
+    "https://defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount",
     "https://defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23",
     "https://defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security",
     "https://defensescoop.com/2026/11/04/prototype-apps-transportation-command-operation-epic-fury",
@@ -30,6 +33,7 @@
     "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
     "https://militarnyi.com/uk/news/daniya-ozbroyitsya-finskymy-morskymy-minamy-blocker-dlya-zahystu-svoyih-vod",
     "https://militarnyi.com/uk/news/detektor-shheznyk-mesh-geran",
+    "https://militarnyi.com/uk/news/finlyandiyi-system-keruvanny-dronamy-patria",
     "https://militarnyi.com/uk/news/ispaniya-nadast-ukrayini-paket-dopomogy",
     "https://militarnyi.com/uk/news/prypynyla-vyprobuvannya-shi-v-ukrayini",
     "https://militarnyi.com/uk/news/ssh-vyprobuvaly-bojovyj-blok-mk21a",
@@ -38,7 +42,6 @@
     "https://militarnyi.com/uk/news/uryad-dozvolyv-pryvatnij-ppo-zastosovuvaty-pilotovani-povitryani-sudna-ta-bojovi-drony",
     "https://militarnyi.com/uk/news/yes-nadav-ukrayini-dodatkovi-660-mln-yevro-na-oboronu-v-ramkah-ukraine-support-loan",
     "https://militarnyi.com/uk/news/zagynuv-ukrayinskyj-vijskovosluzhbovets",
-    "https://navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets",
@@ -87,16 +90,6 @@
     "https://twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
   ],
   "recent_posts": [
-    {
-      "title": "Babcock створює провідну екосистему для майбутнього гібридного флоту",
-      "original_title": "Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future",
-      "summary": "Babcock International оголосив про приєднання семи провідних технологічних і оборонних партнерів до платформи ARMOR Force, що формує повний екосистемний підхід до гібридних морських сил. Нові учасники, серед яких CUBEDIN, Exail, Hensoldt та Kraken Technology, забезпечать автономні та віддалені морські системи, включаючи сенсори, комунікації та зброю. Це дозволить створити масштабовану, інтегровану архітектуру, яка підвищить оперативну гнучкість і стійкість флоту майбутнього.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future",
-      "published": "2026-11-04T21:39:47+00:00"
-    },
     {
       "title": "Уряд розширив можливості приватної ППО: дрони‑перехоплювачі з бойовими частинами та пілотовані апарати",
       "original_title": "Уряд дозволив приватній ППО застосовувати пілотовану авіацію та бойові дрони",
@@ -858,6 +851,16 @@
       "published": "2026-11-06T14:00:34+00:00"
     },
     {
+      "title": "НАТО відкриває маркетплейс C‑UAS для швидшого придбання протидронових систем",
+      "original_title": "Nato opens C-UAS marketplace to expedite counter-drone procurement",
+      "summary": "НАТО запустило спеціальну платформу закупівлі протидронових технологій, що дозволяє державам‑учасникам швидко отримувати готові рішення проти безпілотних апаратів. У маркетплейсі представлено різноманітні системи: радіоелектронна боротьба, перехоплювальні мережі та автономні протидронові комплекси. Це має прискорити інтеграцію протидронових засобів у армії, підвищуючи їхню здатність протистояти зростаючій загрозі з боку безпілотників.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/nato-c-uas-marketplace-procurement",
+      "published": "2026-11-06T14:01:49+00:00"
+    },
+    {
       "title": "EU, Montenegro close accession talks on goods and food safety",
       "original_title": "Enlargement: EU and Montenegro close accession negotiations on free movement of goods and food safety",
       "summary": "EU та Чорногорія тимчасово завершили переговори про вільний рух товарів (глава 1) та безпеку харчових продуктів (глава 12). Це означає, що Чорногорія наближається до членства в ЄС, що відкриває доступ до єдиного ринку та зобов’язання щодо регуляторної відповідності.",
@@ -936,6 +939,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/us-and-iran-edge-closer-potential-breakthrough-talks-end-war-bloomberg",
       "published": "2026-11-06T14:47:17+00:00"
+    },
+    {
+      "title": "Саудівська Аравія підписала першу угоду про військову співпрацю з новим керівництвом Сирії",
+      "original_title": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership",
+      "summary": "Угода передбачає спільне військове навчання, обмін розвідувальними даними, передачу озброєння та допомогу у відновленні сирійських збройних сил. Це може підвищити бойову готовність сирійської армії та зміцнити позиції Саудівської Аравії у регіональній безпеці, створюючи нову динаміку у ближньосхідному балансі сил.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership",
+      "published": "2026-11-06T15:18:39+00:00"
+    },
+    {
+      "title": "Командування США в Європі запустило кампанію «Побачити, повідомити» проти гібридних загроз",
+      "original_title": "US European Command launches vigilance campaign as hybrid threats mount",
+      "summary": "Командування США в Європі оголосило ініціативу «See Something, Do Something», закликаючи військових, їхні сім'ї та цивільних працівників стежити за підозрілою поведінкою на базах і в громадських місцях та приховувати цифрові сліди. Заходи включають підвищення обізнаності про дрони, кібератаки та інші гібридні загрози, а також рекомендації щодо цифрової гігієни та варіативності маршрутів. Це має підвищити рівень захисту персоналу та знизити вразливість до російської гібридної війни в Європі.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount",
+      "published": "2026-11-06T15:39:51+00:00"
+    },
+    {
+      "title": "Фінляндія випробувала багатодоменну систему керування дронами Patria",
+      "original_title": "Фінляндія випробувала багатодоменну систему керування дронами Patria",
+      "summary": "Під час випробувань у Упінніємі патріанський роєвий комплекс Multi‑Domain, що включає надводний безпілотник, легкий БПЛА‑літак та квадрокоптер Patria ONE, успішно виконав завдання, керуючись з двох віддалених пунктів. Система дозволяє інтегрувати різні платформи в єдину мережу управління, забезпечуючи спільну розвідку, виявлення цілей та можливість односпрямованого озброєння. Це підвищує гнучкість і швидкість реакції Фінської морської оборони, а також відкриває шлях до створення окремих рот безпілотних систем.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/finlyandiyi-system-keruvanny-dronamy-patria",
+      "published": "2026-11-06T16:00:40+00:00"
     }
   ]
 }

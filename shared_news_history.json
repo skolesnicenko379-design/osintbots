@@ -4,6 +4,7 @@
     "https://army-technology.com/news/shield-echodyne-radar-acquisition",
     "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
     "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
+    "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs",
     "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
     "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources",
     "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook",
@@ -27,6 +28,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/syria-denies-plans-send-troops-yemen-says-military-cooperation-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/us-and-iran-edge-closer-potential-breakthrough-talks-end-war-bloomberg",
     "https://militarnyi.com/uk/news/airbus-zavershyv-pryjmalni-poloty-a320-atra",
+    "https://militarnyi.com/uk/news/brytaniya-vyvela-na-orbitu-suputnyk-titania",
     "https://militarnyi.com/uk/news/daniya-ozbroyitsya-finskymy-morskymy-minamy-blocker-dlya-zahystu-svoyih-vod",
     "https://militarnyi.com/uk/news/detektor-shheznyk-mesh-geran",
     "https://militarnyi.com/uk/news/dsns-vidnovlyuye-aeromedychnu-evakuatsiyu",
@@ -38,12 +40,14 @@
     "https://militarnyi.com/uk/news/udar-ukrayinskyh-droniv-sprychynyv-pozhezhu-na-afipskomu-npz-u-rosiyi",
     "https://militarnyi.com/uk/news/vms-ukrayiny-raketamy-neptun-urazyly-zavod-proton-u-rosijskomu-misti-orel",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/france-orders-32-aster-missiles-upgrade-fdi-frigates",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/kongsberg-expands-aegir-ssa-sonar-family-alongside-virtual-operator-for-maritime-security-and-navigation",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/saab-receives-order-to-equip-swedens-new-frigates",
     "https://navalnews.com/naval-news/2026/11/strike-drones-launched-from-british-aircraft-carrier-for-the-first-time",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRXNfSFNPZ1h3MDREcmx6dUdQVkl5ajFxcmJNOUo2TkNnc3J3X3dFbE9DYUxEdWRwZXJ5UEVjSDlnSkVRcUhyUFowd0NXTWEzd3lJX00zREpKbDJPTGlkdVBXMXBORGFqbTBnTlFwYXVTZ1VGNEx2TmdUaTB3emZaYWMyMUdidzdsMHkxNXZSYktuelhkUUZiU2RsU2FycWRURU9EcXp6cXFuVERkQlMyeXZZSmtsMTBldnVrLXNEczBjWEdhX2dkWjdzTlFuSUtIMDRzcHVFWGg0WUVkTVpGVHc2eFFXdGxqcVFWSmNITlhtdEpOSFVLUWJB",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT1huOVFLQy1Bc054aXVBeHNpU1NOaUROcEU3VlIydkZkZnFHWFpQQWNSZkVQUlFBUmluOFgzUHJpeFp1UlhkQzNfcVBUZTRPZTdNeFdFS05YVEtwZXh6eVlHb0VjdWI4cVgtaThzOUdQdVVDTy1MZEV1Y1pSbVhpMURwUnZoOWlGSWhUWXNTdm5kRlF3YkJLRVpsWF9lRVdmUHBTQk8zOFZmSFM0bnRrcG5fYlVTZmxvaVlaYndBRjEyNUJFWjNmSGdKeGJOZk91dWtYVVVR",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmR5YXZOS1ZBd3E1bEtXUmF2UFZodEt6RjJwcm95dS00R3lWcUFyUzB2Q0ZkdXZNRkxnQlN2TEdIcUJCRGF5TjVjQjFNRnBtOExVS01aTS1FcGR0dlJiMURJYlJmcElYMUp6Qzl1LTc1TS1WZlI0SjdTSktaMFJSVDZVamxMdW9Xd1dxVGJYWjAxMHRxT3dPSHB6VjQ3RDNXeHoyazV2LWh3SURacVNQbTJIa1J5TWhxTG95OHQ0eHcxUlJrcl9ZT1g0TmZFTFBvVFRwVWFhYw",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY01tVDdITk1ybjFLbFhiaG5CbnZMUFR5SHh5LTdUYm80cWhfeHcyQWIxZ0xuazlaSjN1WFgyMFowU0s0R3ZuUU92TVByRi0yQnBCRDB6YUVKOUljV2xjMWNFbERJeEh4U3JjV1JXS195WWNhVHB5OXpWeWhpTWhLSDZ2M3N1Q2dWQU1OTFpnbVF6aXVvUTNJb2hsdi1VY3NhMzBoQUtsZkpiOF9PU2NuSXpXV3c1c3R6c3BLQl9jQ0VsaWJBaFlmMl82aV9QMWNQcjl6c2ZCSENNMjBPdVBDal9SWnQ",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkhmNUkzaURjeHp1aDhGSlZ4c3BPRl9DckcwcEVHa0VnVDQzVERaQzFZcXFLcUgydnJwVFJ1NDlGQkRJV212OGNIRWlxUXpBWTgxRTZPNWt2aklQUzZhSEUyeXladXpkVERkVjA0RVpUZzd2SnRmMm5WNWdfWUN5RWxvaXowcVFmc2d6UWV0cVZ2bTF5bDdENDRpM0FxaU1NU0ZPUkdhTDMydS1TUGdFSmZUWE9OZmU1Q3NJdkVRaUE2VTlGWFpqUF9nMTNrUHV2QWU3V1RmMjhHSTg0Wkh0NzVUY0ctREtqb2dta2ZqNUduUQ",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XVVI1eExRbVRlQ0h6UTR1cThlUkxWQXM4SlVaeUVVNVBBbkV3RmpSeVJvZmRwNjRBVGNHaXMzZERZRlNpU1JPTl9TZDQyWHg0NWkxSmhxS091bXRGOWUycmxn",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zcmR5T3JYVUtDeUZTem1LbWdncG53b3owOFBxd01OTE50MUxaWjh2aDNkOUlheGtZZEFrMi1IeTV0R2RldG9kX1lNeE40Nks3UXRKbEdMOTl6M0RoV2RzOXpUa002X2xlVlNMR2NjZ19uaFU",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KWE5uczdCeXNGa2RfMmNoaXRjaVNkU1V4bnhNbjA3a3FFSTU1UzY4OEdnQVBIVGdWcXdTLTNSaklSaFBuVmJBa0RJZ0gybm5fNmQ1ZjhBbWNCR21IRUQya3lHM2ZvY3NIS1pXM1JlbmRrclZqZkE",
@@ -174,6 +178,16 @@
       "published": "2026-11-06T07:00:33+00:00"
     },
     {
+      "title": "Європа наближається до вибору програми гіперзвукового перехоплювача",
+      "original_title": "Europe nears decision on competing hypersonic interceptor programs",
+      "summary": "Комісія ЄС планує до кінця листопада обрати одну з двох консорціумних пропозицій для розробки європейського перехоплювача, здатного знищувати гіперзвукові та балістичні ракети. Демонстратор системи має бути готовим до 2030 року, що дозволить Європі посилити протиракетну оборону проти нових загроз. Це стане важливим кроком у створенні автономної європейської здатності протидії швидкоковзним озброєнням.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs",
+      "published": "2026-11-06T11:10:00+00:00"
+    },
+    {
       "title": "Данія та Литва приєдналися до балтійських флотів у закупівлі мін «Blocker» через фінську схему",
       "original_title": "Denmark, Lithuania latest Baltic navies to buy ‘Blocker’ mines through Finnish scheme",
       "summary": "Данія стала останньою країною, яка придбала фінські морські міни «Blocker», слідом за Литвою, у рамках пенталатальної спільної закупівлі разом з Фінляндією, Німеччиною та Норвегією. Мінa «Blocker» має вибухову потужність близько тонни ТНТ і оснащена багатьма датчиками для виявлення кораблів, що підвищує ефективність протиморської оборони. Це посилює можливості НАТО у Балтійському морі, ускладнюючи Росії проходи через данські протоки та інші стратегічні вузли.",
@@ -182,6 +196,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/europe/2026/11/06/denmark-lithuania-latest-baltic-navies-to-buy-blocker-mines-through-finnish-scheme",
       "published": "2026-11-06T13:49:41+00:00"
+    },
+    {
+      "title": "KONGSBERG розширює сімейство сонарів Aegir SSA та запускає віртуального оператора",
+      "original_title": "KONGSBERG expands Aegir SSA sonar family alongside virtual operator for maritime security and navigation",
+      "summary": "KONGSBERG представив нові моделі Aegir17 і Aegir57N, доповнивши повний спектр трьох сонарів сімейства Aegir SSA, призначених для захисту критичної морської інфраструктури. Компанія разом з платформою автоматизації Viam розробляє AI‑оператора, який віртуально керуватиме сонаром, підвищуючи ефективність морської безпеки та навігації.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/kongsberg-expands-aegir-ssa-sonar-family-alongside-virtual-operator-for-maritime-security-and-navigation",
+      "published": "2026-11-06T13:50:34+00:00"
     },
     {
       "title": "Shield погодився на придбання радарного виробника Echodyne за $5,3 млрд",
@@ -764,6 +788,16 @@
       "published": "2026-11-07T09:59:30+00:00"
     },
     {
+      "title": "Польща не отримає вчасно перші зенітні системи San проти російських дронів",
+      "original_title": "Польща не отримає вчасно перші зенітки San проти російських дронів, хоча робила все, аби чимшвидше озброїтися ними - Defense Express",
+      "summary": "Система San – короткодальне протидронове рішення, оснащене радаром X‑бічної частоти та ракетами типу M‑SDS, призначене для знищення малих безпілотників на відстані до 10 км. Через затримки у постачанні Польща залишиться без нових засобів захисту, змушена покладатися на існуючі зенітні комплекси та союзницьку підтримку. Це може знизити ефективність протидії російським безпілотникам у критичний період підвищеної активності.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkhmNUkzaURjeHp1aDhGSlZ4c3BPRl9DckcwcEVHa0VnVDQzVERaQzFZcXFLcUgydnJwVFJ1NDlGQkRJV212OGNIRWlxUXpBWTgxRTZPNWt2aklQUzZhSEUyeXladXpkVERkVjA0RVpUZzd2SnRmMm5WNWdfWUN5RWxvaXowcVFmc2d6UWV0cVZ2bTF5bDdENDRpM0FxaU1NU0ZPUkdhTDMydS1TUGdFSmZUWE9OZmU1Q3NJdkVRaUE2VTlGWFpqUF9nMTNrUHV2QWU3V1RmMjhHSTg0Wkh0NzVUY0ctREtqb2dta2ZqNUduUQ",
+      "published": "2026-11-07T13:02:00+00:00"
+    },
+    {
       "title": "Молдова потребує масштабних реформ для входу в ЄС",
       "original_title": "Moldova faces major reforms to join the EU single market - Moldova 1",
       "summary": "Молдова має здійснити суттєві реформи, щоб відповідати вимогам Європейського єдиного ринку. Це передбачає узгодження законодавства, стандартів і регуляторних практик з ЄС, що є необхідною умовою для подальшої інтеграції країни в європейський економічний простір.",
@@ -892,6 +926,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1lFWVBQaG5ZRlRWY2xCUGtnaG1yU18zbktKTVpqX1pUeUNJQmw5UVVpcWU3dTNuZGlLVmpLYkVRRV9ubGRyRUZPVFpqdUJscm1YWTIzMlJkRzM0Rkpkam1wM3hnQTRiUHJISVhjZnFyUnZEV0pfR1JMUHBYc0IwRnRtRmVleW9xM2Vac0Vrc2t6eGw4Z1RuLWtmSTFBbFZtbnVhS0ZaU0RBdw",
       "published": "2026-11-07T18:38:37+00:00"
+    },
+    {
+      "title": "Британія запустила військовий супутник Titania для випробування лазерного зв’язку",
+      "original_title": "Британія вивела на орбіту військовий супутник Titania для випробування лазерного зв’язку",
+      "summary": "Titania вагою близько 100 кг і розміром, схожим на пральну машину, обертається навколо Землі кожні 90 хв при швидкості 27 000 км/год. Супутник є другим у рамках програми ISTARI після Tyche і призначений для тестування захищеного високошвидкісного лазерного зв’язку «космос‑Земля», що може забезпечити швидку та стійку передачу даних між наземними підрозділами та космічними платформами. Поєднання цього зв’язку з новою наземною мережею датчиків Inaros підвищить можливості раннього виявлення загроз і координації військових операцій у космосі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/brytaniya-vyvela-na-orbitu-suputnyk-titania",
+      "published": "2026-11-07T20:12:29+00:00"
     }
   ]
 }

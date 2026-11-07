@@ -1,6 +1,7 @@
 {
   "links": [
     "https://army-technology.com/news/nato-c-uas-marketplace-procurement",
+    "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
     "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
     "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
     "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources",
@@ -26,6 +27,7 @@
     "https://defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
     "https://defensescoop.com/2026/11/05/navy-innovation-unit-private-sector-technology-talent",
     "https://defensescoop.com/2026/11/05/where-ai-is-and-isnt-accelerating-military-missions-today",
+    "https://defensescoop.com/2026/11/06/gps-jamming-risks-to-civilians-from-military-testing",
     "https://gov.uk/government/news/joint-communique-between-the-uk-special-envoy-for-women-and-girls-and-members-of-the-romanian-parliamentary-delegation-22-october-2026",
     "https://gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-tanzania",
     "https://gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
@@ -37,6 +39,7 @@
     "https://militarnyi.com/uk/news/arianegroup-morska-versiyu-b-strike-1000",
     "https://militarnyi.com/uk/news/daniya-ozbroyitsya-finskymy-morskymy-minamy-blocker-dlya-zahystu-svoyih-vod",
     "https://militarnyi.com/uk/news/detektor-shheznyk-mesh-geran",
+    "https://militarnyi.com/uk/news/dsns-vidnovlyuye-aeromedychnu-evakuatsiyu",
     "https://militarnyi.com/uk/news/f-35b-zdijsyv-pershi-kydkovi-meteor",
     "https://militarnyi.com/uk/news/finlyandiyi-system-keruvanny-dronamy-patria",
     "https://militarnyi.com/uk/news/iran-i-rosiya-vedut-peregovory-s-400",
@@ -98,6 +101,7 @@
     "https://twz.com/land/this-is-the-armys-new-malet-kit-that-turns-mortars-into-drone-dropped-weapons",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-214",
     "https://twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
+    "https://twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east",
     "https://twz.com/sea/we-now-know-why-sierra-nevada-corp-canned-its-navy-jet-trainer-bid"
   ],
   "recent_posts": [
@@ -862,6 +866,16 @@
       "published": "2026-11-06T16:37:43+00:00"
     },
     {
+      "title": "Скорочення США допомоги вплине на графіки закупівель та витрати Ізраїлю, за словами аналітиків",
+      "original_title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
+      "summary": "Аналітики зазначають, що скорочення $4 млрд щорічного фінансування FMF США ускладнить Ізраїлю швидке придбання нових озброєнь і може затримати впровадження сучасних систем ППО та безпілотників. Через залежність від американських технологій, відмова від фінансування ускладнить отримання схвалень на нові контракти, що знизить оборонний потенціал країни під час поточних конфліктів.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
+      "published": "2026-11-06T16:55:00+00:00"
+    },
+    {
       "title": "BCE Consulting визначає ключові елементи багатошарової повітряної оборони",
       "original_title": "BCE Consulting outlines the critical elements of layered air defense architecture",
       "summary": "BCE Consulting розкриває ключові вимоги до багатошарової повітряної оборони, включаючи інтеграцію сенсорів, систем вогневого управління та командно-розподільних вузлів. Компанія підкреслює важливість швидкого реагування та взаємодії між різними рівнями оборони для забезпечення захисту американських сил. Якщо реалізувати ці рекомендації, система зможе ефективніше виявляти та нейтралізувати повітряні загрози, підвищуючи стійкість до сучасних аеродронів та ракет.",
@@ -870,6 +884,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
       "published": "2026-11-06T17:28:08+00:00"
+    },
+    {
+      "title": "Керівник GPS Innovation Alliance попереджає про ризики для цивільних від військових випробувань GPS",
+      "original_title": "Director of GPS Innovation Alliance warns of risks to civilians from military testing of jamming and spoofing technologies",
+      "summary": "У Техасі під час щорічної зустрічі NDTAA представник GPS Innovation Alliance Ліза Дайер закликала уряд і військових посилити контроль за випробуваннями технологій глушіння та підміни GPS‑сигналу, які можуть порушити роботу цивільних систем. Тести включають поєднання лазерних та мікрохвильових засобів з електронними засобами боротьби з безпілотниками, що створює ризик для навігації, комунікацій та критичної інфраструктури. Якщо такі випробування не координуватимуться належним чином, вони можуть призвести до масових збоїв у транспорті, сільському господарстві та інших галузях, що залежать від GP",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/06/gps-jamming-risks-to-civilians-from-military-testing",
+      "published": "2026-11-06T17:29:17+00:00"
     },
     {
       "title": "Віцепрезидент Китаю візьме участь у кліматичному саміті ООН у Туреччині",
@@ -910,6 +934,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
       "published": "2026-11-06T18:41:12+00:00"
+    },
+    {
+      "title": "ДСНС відновлює аеромедичну евакуацію: польоти до закордонних медичних хабів",
+      "original_title": "ДСНС відновлює аеромедичну евакуацію: пацієнтів зможуть доправляти до закордонних медичних хабів",
+      "summary": "Державна служба України з надзвичайних ситуацій відновлює аеромедичну евакуацію, використовуючи літаки Ан‑32П, Ан‑26, Ан‑30, Airbus H225 Super Puma та EC145, які зможуть перетинати кордон і доставляти пацієнтів до медичних хабів, зокрема в Польщі. Це скоротить час транспортування з 12 годин наземним шляхом до 2‑3 годин авіацією, а також дозволить швидко перевозити донорські органи, підвищуючи ефективність лікування та порятунку життя.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/dsns-vidnovlyuye-aeromedychnu-evakuatsiyu",
+      "published": "2026-11-06T18:57:55+00:00"
     },
     {
       "title": "Пропустили AUSA 2026? Завантажте безкоштовний звіт Breaking Defense",
@@ -1020,6 +1054,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTlTckRGanNCN3RxVS1QeEYwbTJEYnpnakN5WkVEa1lXbmRjS0sxYzEzY3JhdkFSR2tqMTU4M1lZN2xRR3B3OTVPVVowU2FVaXQ2Rkh5eVZyMmJzQ21UNTRJUkFnaThOZDhNemptVHAyS0dXOWFlTDJwU3JCQjVLRURRTkZZTm9oemc",
       "published": "2026-11-06T21:15:20+00:00"
+    },
+    {
+      "title": "USS Theodore Roosevelt прибув у Сінгапур перед переходом до Близького Сходу",
+      "original_title": "USS Theodore Roosevelt Arrives In Singapore; Last Stop Before Third Strike Group Reaches The Middle East",
+      "summary": "Корабель‑авіаносець USS Theodore Roosevelt і його ескорт (кр. USS Chosin, есмінці USS Paul Hamilton і USS Decatur) прибули до бази Чангі в Сінгапур, завершивши останню зупинку перед переходом у зону відповідальності CENTCOM. Після Сінгапуру група пройде через протоку Малакка і вирушить у західному напрямку, підвищуючи військову присутність США в регіоні на фоні зростаючої напруженості з Іраном.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/sea/uss-theodore-roosevelt-arrives-in-singapore-last-stop-before-third-strike-group-reaches-the-middle-east",
+      "published": "2026-11-06T21:17:39+00:00"
     },
     {
       "title": "Bulgaria 2027 Budget: Not Catastrophe, Not Cure",

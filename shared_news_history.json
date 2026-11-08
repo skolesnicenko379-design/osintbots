@@ -9,9 +9,11 @@
     "https://middleeasteye.net/live-blog/live-blog-update/syria-denies-plans-send-troops-yemen-says-military-cooperation-saudi",
     "https://militarnyi.com/uk/news/15-mlrd-dopomogy-dlya-ukrayiny-vid-demokrativ",
     "https://militarnyi.com/uk/news/airbus-zavershyv-pryjmalni-poloty-a320-atra",
+    "https://militarnyi.com/uk/news/berni-sanders-finansuvannya-vijny-z-iranom",
     "https://militarnyi.com/uk/news/brytaniya-vyvela-na-orbitu-suputnyk-titania",
     "https://militarnyi.com/uk/news/chehi-operatoram-krytychnoyi-infrastruktury",
     "https://militarnyi.com/uk/news/daniyi-mesh-merezhi-dlya-zv-yazku",
+    "https://militarnyi.com/uk/news/gayiti-operatsiyi-likvidovano-vatazhka",
     "https://militarnyi.com/uk/news/mke-predstavyla-turel-tolga-2-20-mm-garmaty",
     "https://militarnyi.com/uk/news/morska-pihota-zdijsnyly-uspishnu-vysadku",
     "https://militarnyi.com/uk/news/nato-16-protydronovyh-system-dlya-zakupivel",
@@ -29,7 +31,9 @@
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1hhTEM1dkNvMlhUWWRNRFQ5Um5CX3BqcWYyYk02TjJyLV8teDZPMk82bGZUM3NqUjBtSFZ5VXlyRXJBN3lhYVRaemYtMTdSTjBEM2hmcGxFN2FUTkhLTnYwV3VxXzBtcHZOSjRabVZmUlplRnViMjNBMFV0eXQyQXJpalVOY3VRdTZRNzJYVjF1Q2gta3RmRUlkSVdiMlRyN21HYVg2Z1Z1RzQtV1hoTGgxQmNTSEl3azk0WDR1Y3N6WXE0MWZYa3hwY092WkN5M1NuSlR5NA",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFlxMWhaMVBvWHF4ZF9hcmRxbnpqLTF2ZWxrSmZOcS1rNGsyOGY2bmlfaUlNVzJabDZieE80TGl0aG9SVkQtaW4xZXV2TWQ4bExHRHJZZV91VWJqWFNlNGY0dTU1enlkb3I1WC02d1NaYXNGUEtycW85LXY5SmtpelZFX3d3cHc1VDU5cmttTTVBYXRsbXpNZXk5cEVkRE80UHNjenIwZldOS2hHWHNuYUxSWmc4bmY5NEEta0tEdk5UaWhJMTB2NGU5a1Vmb2RVb1pmRXdKZlc",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY01tVDdITk1ybjFLbFhiaG5CbnZMUFR5SHh5LTdUYm80cWhfeHcyQWIxZ0xuazlaSjN1WFgyMFowU0s0R3ZuUU92TVByRi0yQnBCRDB6YUVKOUljV2xjMWNFbERJeEh4U3JjV1JXS195WWNhVHB5OXpWeWhpTWhLSDZ2M3N1Q2dWQU1OTFpnbVF6aXVvUTNJb2hsdi1VY3NhMzBoQUtsZkpiOF9PU2NuSXpXV3c1c3R6c3BLQl9jQ0VsaWJBaFlmMl82aV9QMWNQcjl6c2ZCSENNMjBPdVBDal9SWnQ",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2ZMOE5TNGtzX2RDTWNSZkJPdEh6THBKR2kyRlkxVzJDVGVHNjRFYzRvbzY0S0ZyaVZkWm1nTnkzenpmY19jTHZmUTU2U3FNTXp2Z2dwSE84bVlGLW1SeVhVM21qT0pRMzk4NllxTk93UHNSMS1VWk8xSnRTRHdEdXdNNm9mVTBZUHNyckpjUnZkNmJnVDNiQjJPdjd0czBhSldBbGJXenVST2QzeFZwR0Rab1FObnZ5QkhfZ1VlNmdaRk5PekhCOUNfd1RNcmZ4NlNCMVdWZ1psNWRsd05kT19ON051U2lW",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkhmNUkzaURjeHp1aDhGSlZ4c3BPRl9DckcwcEVHa0VnVDQzVERaQzFZcXFLcUgydnJwVFJ1NDlGQkRJV212OGNIRWlxUXpBWTgxRTZPNWt2aklQUzZhSEUyeXladXpkVERkVjA0RVpUZzd2SnRmMm5WNWdfWUN5RWxvaXowcVFmc2d6UWV0cVZ2bTF5bDdENDRpM0FxaU1NU0ZPUkdhTDMydS1TUGdFSmZUWE9OZmU1Q3NJdkVRaUE2VTlGWFpqUF9nMTNrUHV2QWU3V1RmMjhHSTg0Wkh0NzVUY0ctREtqb2dta2ZqNUduUQ",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU5fQzVtdmEzaXZobGZfOG84b2R6aWNuM3ZhQUNuaE1iM2hTUU81ZklvMW5KdDFILXBXd25YclY3STMxYm54d3dOenVjeW96U2p4SXN1N2VUNklCWEpVZndvVUNMUEtSeFJFc3hKdlhVVGF0M2k0MXZEdWtGNGdLUkhmdlRlRk5xWFRLTjVqYU1MN2pPYXg3TzdhQklIWk5FVEZ4b1VPVzFrWkxnM3NWV25IT3I0ZkU2MG5UbEV3Umo4YVBIaDB4UWNfNmFNTm9ldll2bmQ5ZTl3VHdZc1hIUzJkV3hScWtDMkFjdElXT2tncTg",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxeTQyREFNTjkzMEFKMVg0cmd4MlNPOW5ILUU0bnBPQ1FoMTV1X05Geld0M3FPd1ZVdFdMNGlrSFM5eEZ5YWc",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UVZ3b0dJM2c0M0FhLUd6MnpBXzBYVTYxYmgtNFRsREZTbFl2VlFkdHFwcnhQWW9jeklZUnlSSEF1ZkRvWmIzYjVLSzgwZjNjVTNj",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUFA2VjB5MlZ0YzlTcGlKdl9aSTE2bWhYMS1YQ04yVFljcmJzWXN6VnRFcEJzejNaanNLSEdaUWJ6dnEyeDJCSW1sUXVudmU2N3ZVdlNfYw",
@@ -650,6 +654,16 @@
       "published": "2026-11-08T14:18:44+00:00"
     },
     {
+      "title": "У ПС США залишилось 0 штурмовиків Super Tucano: скільки їх було і що далі",
+      "original_title": "Якщо у ПС США тепер \"нуль\" штурмовиків Super Tucano, то скільки було і чи значить, що є \"вільні\" літаки для когось - Defense Express",
+      "summary": "Згідно з повідомленням Defense Express, у складі Повітряних сил США більше немає жодного діючого штурмовика Super Tucano, що раніше використовувався для легких ударних місій і підготовки. Раніше у армії було лише кілька одиниць (зазвичай 2‑3), які виконували роль швидких реактивних платформ у регіонах з низьким рівнем протиповітряної загрози. Виведення цих літаків означає, що США можуть переорієнтувати ресурси на більш сучасні безпілотники або інші легкі бойові літаки, хоча це й зменшує їхню можливість проводити низьковисотні удари в умовах обмеженого протиповітряного захисту.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2ZMOE5TNGtzX2RDTWNSZkJPdEh6THBKR2kyRlkxVzJDVGVHNjRFYzRvbzY0S0ZyaVZkWm1nTnkzenpmY19jTHZmUTU2U3FNTXp2Z2dwSE84bVlGLW1SeVhVM21qT0pRMzk4NllxTk93UHNSMS1VWk8xSnRTRHdEdXdNNm9mVTBZUHNyckpjUnZkNmJnVDNiQjJPdjd0czBhSldBbGJXenVST2QzeFZwR0Rab1FObnZ5QkhfZ1VlNmdaRk5PekhCOUNfd1RNcmZ4NlNCMVdWZ1psNWRsd05kT19ON051U2lW",
+      "published": "2026-11-08T14:22:00+00:00"
+    },
+    {
       "title": "Французький міністр заявив про участь європейців у переговорах щодо України в Абу-Дабі",
       "original_title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - The Business Standard",
       "summary": "Міністр закордонних справ Франції повідомив, що європейські представники візьмуть участь у переговорах щодо України, які відбудуться в Абу-Дабі. Ця дипломатична подія стосується міжнародних зусиль щодо врегулювання ситуації в Україні за участю європейських посадовців на території Об'єднаних Арабських Еміратів.",
@@ -690,6 +704,16 @@
       "published": "2026-11-08T15:45:11+00:00"
     },
     {
+      "title": "Росія планує використовувати модифікацію «Стрела‑10» для збиття дронів та експорту",
+      "original_title": "Що там у рашиcтів із \"дальнім родичем\" комплексу \"Стрела-10\", яким РФ хоче збивати українські дрони і продавати на експорт - Defense Express",
+      "summary": "У Росії розробляють «дальній родич» комплексу «Стрела‑10», призначений для знищення українських безпілотників і подальшого продажу за кордон. Система, ймовірно, зберігає короткодальну радіальну дію та інфрачервону головку самонаведення, що дозволяє ефективно працювати проти низьколітальних цілей. Якщо буде введена в експлуатацію, це підвищить можливості російської ППО проти дронів, хоча її ефективність залишиться обмеженою порівняно з більш сучасними засобами.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU5fQzVtdmEzaXZobGZfOG84b2R6aWNuM3ZhQUNuaE1iM2hTUU81ZklvMW5KdDFILXBXd25YclY3STMxYm54d3dOenVjeW96U2p4SXN1N2VUNklCWEpVZndvVUNMUEtSeFJFc3hKdlhVVGF0M2k0MXZEdWtGNGdLUkhmdlRlRk5xWFRLTjVqYU1MN2pPYXg3TzdhQklIWk5FVEZ4b1VPVzFrWkxnM3NWV25IT3I0ZkU2MG5UbEV3Umo4YVBIaDB4UWNfNmFNTm9ldll2bmQ5ZTl3VHdZc1hIUzJkV3hScWtDMkFjdElXT2tncTg",
+      "published": "2026-11-08T16:07:00+00:00"
+    },
+    {
       "title": "НАТО обрало 16 протидронових систем для прискорених закупівель",
       "original_title": "НАТО відібрало 16 протидронових систем для прискорених закупівель",
       "summary": "НАТО запустило механізм C‑UAS, у рамках якого Агентство НАТО зі зв’язку та інформації відібрало 16 рішень від п’яти компаній – Alta Ares, Axon Enterprise, Northrop Grumman, OSL UK та Quantum Systems. Системи охоплюють стаціонарні, мобільні та транспортабельні рішення, а рамкові контракти діятимуть 1,5 роки, що дозволить швидше постачати їх Україні та іншим країнам Альянсу. Виділені 3,1 млн євро на додаткові випробування підвищать оперативність впровадження новітніх протидронових технологій.",
@@ -728,6 +752,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb25xYVhUMVEtdHlsdGhDNkJ2a1BsX3h5SUVyaXJlLXloeDZobktFeWRMRHo0eDA2VUpUbDBzZ0JMZWhaUDRoaGpsbWRIbENXYm5zS2N1d2E0RnhZaXJWYzA3YUphdmlwUXhJRnF1MWxjVGRLLUh0Z2dEZE9NZGtxYW93cHdaZHhnR1QzdUtDX0VDelBV0gGYAUFVX3lxTE0yUE5palViUlJnOHc4S2VJQllGNDBwOUF3cWIxUzloUUw1amc3cTJoTlZCX2dKVkFMTndaeXJLVkd2c2d1TmdOdmtJcGZJWjh0d0lRZGttQUh0bHNnSF9GYmRleW5jczQwZ2xIYktsQXU5NDJYV3ZKdHYtaGNLem9MX2VxT1ZaVm5NR0pnajRHUzdENE5tcTU0",
       "published": "2026-11-08T18:41:17+00:00"
+    },
+    {
+      "title": "Берні Сандерс закликав демократів блокувати фінансування війни проти Ірану",
+      "original_title": "Берні Сандерс закликав демократів припинити фінансування війни проти Ірану",
+      "summary": "Сенатор‑демократ Берні Сандерс у інтерв’ю CNN закликав Конгрес використати свої бюджетні повноваження для припинення фінансування військових операцій проти Ірану, посилаючись на законопроект No War Against Iran Act. За його словами, війна вже коштує США десятки мільярдів доларів, призвела до загибелі 19 американців і тисяч цивільних, а також підвищила ціни на паливо. Якщо закон буде прийнято, федеральні кошти не зможуть використовуватись для військових дій проти Ірану без спеціального дозволу Конгресу, що може суттєво обмежити американське військове втручання.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/berni-sanders-finansuvannya-vijny-z-iranom",
+      "published": "2026-11-08T18:51:46+00:00"
+    },
+    {
+      "title": "На Гаїті безпілотник вбив ватажка банди Nan Boston",
+      "original_title": "На Гаїті безпілотник ліквідував ватажка банди Nan Boston",
+      "summary": "У Порт-о-Пренсі, Гаїті, безпілотний удар знищив Матіаса Сентіля, лідера угруповання Nan Boston, який отримав тяжкі поранення 5 листопада і помер наступного дня. У нападі використано сучасний бойовий дрон, а також залучено ударні гелікоптери та понад 2000 сальвадорських військовослужбовців, що свідчить про масштабну міжнародну коаліцію проти банд. Подія підкреслює зростаючу роль безпілотних систем у протидії злочинним угрупованням та можливість їхньої інтеграції у спільні операції різних країн.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/gayiti-operatsiyi-likvidovano-vatazhka",
+      "published": "2026-11-08T20:15:53+00:00"
     },
     {
       "title": "Іранська делегація зустрілася з президентом Курдистану в Іраку",

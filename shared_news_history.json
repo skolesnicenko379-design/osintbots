@@ -11,7 +11,9 @@
     "https://militarnyi.com/uk/news/15-mlrd-dopomogy-dlya-ukrayiny-vid-demokrativ",
     "https://militarnyi.com/uk/news/airbus-zavershyv-pryjmalni-poloty-a320-atra",
     "https://militarnyi.com/uk/news/brytaniya-vyvela-na-orbitu-suputnyk-titania",
+    "https://militarnyi.com/uk/news/chehi-operatoram-krytychnoyi-infrastruktury",
     "https://militarnyi.com/uk/news/daniyi-mesh-merezhi-dlya-zv-yazku",
+    "https://militarnyi.com/uk/news/mke-predstavyla-turel-tolga-2-20-mm-garmaty",
     "https://militarnyi.com/uk/news/morska-pihota-zdijsnyly-uspishnu-vysadku",
     "https://militarnyi.com/uk/news/nato-16-protydronovyh-system-dlya-zakupivel",
     "https://militarnyi.com/uk/news/nimechchyna-investuye-50-mln-v-osint-iz-shi",
@@ -719,6 +721,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVJfbFE1VnNLcVNyZkt3VlQxZmk4UWpDaGxDNFFMNVkyYjVTMWEtcEl3UERVWGNBd2NsNFRyNkk5cWJWV0dMeDlJQTFtRWdybXY5b08wSGliWkFqQmt0dmJXOUVuU1BiZGZhUlJPWm5JbFQ5VXJmZ252XzU3X3M0UDBUZ3Y5SWZkcWprbVFJQktmbEM2dS1wd0pLcWtaREtz",
       "published": "2026-11-08T15:11:14+00:00"
+    },
+    {
+      "title": "Туреччина представила морську турель TOLGA з двома 20‑мм гарматами на Euronaval 2026",
+      "original_title": "3200 пострілів за хвилину: турецька MKE представила морську турель TOLGA з двома 20-мм гарматами",
+      "summary": "На виставці Euronaval 2026 компанія MKE продемонструвала морську версію системи TOLGA 20 mm Dual Weapon Revolver, що оснащена двома 20‑мм автоматичними гарматами з сумарною скорострільністю 3200 пострілів за хвилину та ефективною дальністю до 1000 м. Система може вести вогонь окремо або одночасно, має вертикальний кут наведення –30°…+70°, швидкість повороту 60°/с і здатна протидіяти як безпілотним, так і надводним цілям, що підвищує обороноздатність військових і цивільних суден.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/mke-predstavyla-turel-tolga-2-20-mm-garmaty",
+      "published": "2026-11-08T15:43:12+00:00"
+    },
+    {
+      "title": "Чехія розгляне закон про збиття дронів операторами критичної інфраструктури",
+      "original_title": "У Чехії планують дозволити збивати дрони операторам критичної інфраструктури",
+      "summary": "Уряд Чехії планує дозволити операторам критичної інфраструктури створювати захищені зони над своїми об’єктами та збивати ворожі безпілотники підготовленими працівниками. Це розширює права, які наразі мають лише поліція та військові, і включає співробітників розвідки, пенітенціаріїв, GIBS та пожежників під час рятувальних операцій. Така модель може підвищити швидкість реакції на загрози з боку дронів над стратегічними об’єктами, зменшуючи ризик пошкоджень енергетичних та аеропортових інфраструктур.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/chehi-operatoram-krytychnoyi-infrastruktury",
+      "published": "2026-11-08T15:45:11+00:00"
     },
     {
       "title": "НАТО обрало 16 протидронових систем для прискорених закупівель",

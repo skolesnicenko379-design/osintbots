@@ -1173,44 +1173,17 @@
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDN2UkhwTWV3eUVNTG1WSXVzbklYZVBXMFZTSFBqUmJraXdfSDhwbVotTU9vR2xHSHhUUEJIeE5fWDlnY1E1U2JyQld0Q2djRWdzYnI0ZW14cnlvaUhlYjVJODl2SmxoUlVFTm1IRm5LS1pCMEJTemRsaFpVTVBNNnpaR0RQNzF4d3c?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaEFlMThVZkd0SUlpVVFXM0pLeDFmV3ZUcTZ2Z1BGbjNGNmxLQ0EzdzJXdnhVc1IzM3N4VkltaGFfVHBCYWxFNldnRGZNWXFKb196UWJRZ2lHbUl4MlJ0dGh3?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3VWVjNuVGtCdXVodW8wOFRQMUEzZ19rQ3oxeWJHOU1JODUzQmx4a01NOVhwbklUZzdzMEVCRGE2X0haMnZYazgzTndfTzZLYUVUWDdsN3B1RmZBbE5UTDU0ZGNaMzh4Nm41QnVDdzlzM0pDcHdveXBnRFd3TTFTOThxTjU5YUVsWmEwMXFaNWJGOG5vdXQ5b0ZEcWZtU2s4ZERlQkxoUUlUeFZ1NU9oQnJDSC1jRE1FZnlXYjZyUGxqSmNjcXFXb1Z2c3diY1dX0gHYAUFVX3lxTE5jN0JtNDV4eW9JVjZnMUJDTVRkVkFuWHBlS1FmVENrR1UxMmdDa3NFeWJoMFVldFEtaks0ZFQxaFBKVTlZUTF6ZWJEQnA2d2ZhdWh3OVFERFFKV0sycWNDWWpvV2J6aVdZbzktai1NM3labzdNZ01DU3BQQmlwSWc0RXBWRy1iZkVPdklDNlEtOVdmSHVrLWVOSzN3MXRWVUtTdUZGNHg5LVR2NEJoY0hXUWFUYTExc3Vob2lUNER3d0ZuY1pqZC15QU9HOWF3ejRicWhwQVhtNA?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHdFU2xMN1JzN1h3QUlyWHA1ZHlzMThWcmlkT3J6Z2F1Uk1qeXRNS2MxV0NTeTZic013TVhjYWhpZm9kYlFBVkE3QTRFRlplYzNuMmJCQ1U1UTRmVXlZY1lUTURwVDR4RWJ5YUNkVDNiVEhQVUVhY2podDRRYTBpX1NzZU95Y0pFTTZKUW1UekE3eXhrVEhTYzFTLWNPME15aDVnbXF3anNCMnp0Qm5V?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHdFU2xMN1JzN1h3QUlyWHA1ZHlzMThWcmlkT3J6Z2F1Uk1qeXRNS2MxV0NTeTZic013TVhjYWhpZm9kYlFBVkE3QTRFRlplYzNuMmJCQ1U1UTRmVXlZY1lUTURwVDR4RWJ5YUNkVDNiVEhQVUVhY2podDRRYTBpX1NzZU95Y0pFTTZKUW1UekE3eXhrVEhTYzFTLWNPME15aDVnbXF3anNCMnp0Qm5V?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdHU2NWRUaEQxQkZIaUh5RFBBMjgyZmxha0pLR3pDMHM5MGFTNHVnVDdncmQtbE9hVDh4ZDRrLVdHQnBxUFJEcEwtWHFUV1JtX0JFNjI0aWlsZXJDZUNxakR3UVJuQWhkbkRLMjliNGdrNWNVUjZxQVo2Zkttd0tFdzd0ZVlSUURWaE1SLVBqbXY3QkhDMHJnaVY2YWZCUFpRQ1ZoQ2pYRTdNdm1ROWNpRmFYTWdaNU3SAbwBQVVfeXFMUHpvcW5rWWtPMm5yRkgxZG0xRDFVTTRackx1ektwcEpLSmtwZ1ZkUHVrY2JHdGxReEJHdm52cl9LZDViQWpLbUZFUjZKbzAwUUhwOF9UMGVlSEY1dXd1dmNnVGxfeGstck9LTHdVd21DN0RQN1NrWFNkcFMzLWQ5X3VTSDFqRmxhZjdTcU84TnZmZE1uY25hYU9sQ0NKeXppUHFzVm9vS0ZhanZaenZHRk1mRXdqbWt6ZkF1MGY?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFlxMWhaMVBvWHF4ZF9hcmRxbnpqLTF2ZWxrSmZOcS1rNGsyOGY2bmlfaUlNVzJabDZieE80TGl0aG9SVkQtaW4xZXV2TWQ4bExHRHJZZV91VWJqWFNlNGY0dTU1enlkb3I1WC02d1NaYXNGUEtycW85LXY5SmtpelZFX3d3cHc1VDU5cmttTTVBYXRsbXpNZXk5cEVkRE80UHNjenIwZldOS2hHWHNuYUxSWmc4bmY5NEEta0tEdk5UaWhJMTB2NGU5a1Vmb2RVb1pmRXdKZlc?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KczhlRGFtRXNjS1hRUDdxS2NLLWg1c2c4OGlWRE0xeDhGZ09UeTEyUTI3VnB6MzNxak9rUnB6c2RsR04xamlRU2RRRjJNVzRBbzRIV05KSTNfdUNBZk10dEo2dHkxdXlRZlE?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYzhqUkZ1YTZjS09jaDI3Y3dUa21zVmxtSjUydmRid1VxWWdabEV1dEk0bW9DdUlxTVpsLUltQWxHN0xrbS1WdmFBSDIyNTNlOVJ1WG9ZVlFxSXh5VlhYSkV2bHVBeW1NTkV0WVVmR2hFVFNTTEE?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNDYXFrSnlPd3NNbF81aFo2WWsxM3hHOEY4QS1HS1d4dzc2bEVXWGFhaUFkazFDM1BZZDNodnhvWXV2cHVBR3V3dm1BX2twTnlFZm5mamg3dUt5UklCS1BlVEQ4Sl9LT0t4Z1F4c1lZTTJzdlZmQnEzQTVtcTA4dENvZ3JhTVVRNG1NNzRYQm1lRE5hSF81aEM0OS12WlNrNFFvM0V30gGuAUFVX3lxTFA5bTJxaUFEZGJFRHBSR1p5SG9uN2NLZ21tVThLM04tTTl0X3FXTjEybjZFcnRWZG5hRXdkMXV2OVJtUzl5Wno1NjBuR2lLQ3NUWjVYVmdfUW9fTEZkUUY2VGRabm4wQWpCRzFlUmdtSVBpcTJDZGR3VFNjdjNUYlhESDJMeV85d2N6aDA1QVIwcFk1SWkwb2pwSTJjenRVckNyWklhNnAtV3dIRnNTdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1hhTEM1dkNvMlhUWWRNRFQ5Um5CX3BqcWYyYk02TjJyLV8teDZPMk82bGZUM3NqUjBtSFZ5VXlyRXJBN3lhYVRaemYtMTdSTjBEM2hmcGxFN2FUTkhLTnYwV3VxXzBtcHZOSjRabVZmUlplRnViMjNBMFV0eXQyQXJpalVOY3VRdTZRNzJYVjF1Q2gta3RmRUlkSVdiMlRyN21HYVg2Z1Z1RzQtV1hoTGgxQmNTSEl3azk0WDR1Y3N6WXE0MWZYa3hwY092WkN5M1NuSlR5NA?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDF5YUgweTNQVS1oTFgyWXg4VktacjRaaHIwaGNCMzVJb0haUmxzb0l3U21kcHpseUNuUFNDRkJ2T2FrMmpBYjYxVzJESElXU3Q2SHhNNTlQU1lRbkxXcng0dXBkdTlibEU2eTB3UGdIRVdEclZLRmJkTGs0bEljSGFtbE9odEhqUFVwUXJFOU8zb0xETlVmdUNFOVFwenkydWd6R3Y5dTQzZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa25DWFdia3hYalNfSkRYek5pZ09uYzV3dmIzSnViMDZqQ2RqSVMtOWNycmYxSmNzTFIwZHJMYWUwTllsUmQ2MlhJLTBCWGRpcGdBcWRsZ2hNbkxoaG9CTVhkVkZtNmJZUV9PQU1HZkVobUlpUFhkeTJHZlNRSWkwTHNNS2FxYVV0ODN2bzFXMFp0OG4yTlpXNW4zRERXZHRYazFscFFNZm0yWm0zLWQ0OVlVRWxlMS05ZjJudmx1Tjk5SmRQRHVid1V4WGQ2TTlYb0hWLWZMVXV5cHNBM1R5cGlSY2xzeGpGNHgw0gH_AUFVX3lxTE5qNzlqa1lEOGVkWkd1TDVQb0x2TlpJdy1oNVlTUDNYLXhESW9JSTJLVkV3TG1fdHhLLVZZLVhlWGdMUXdaMWFuV0ZjVUNfWmhPRHNsR2dlS29IMDREc1RTOXRBdC1JRHZmeV9jZkt5akk5S2huSGs1ZDBscUNIckF4elZuTC1yOWtUSFQtcXZRdlpzbWIzR1JRWkVFY2hFSU8yUXZjai1QYm5GOWFvV3pnWGFPRVRDZHViU1lpTTQyQ2ZGNUVTNmZQbnJqczExTVZpOVJJeUU1YlBtME42ekdGeWR0Rm12Z0UtZTU3dl9ROXN2d2VLSWxlTnNndFhBVQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "BOJ chief warns of upside risks to inflation",
-      "original_title": "BOJ chief warns of 'upside risks' to inflation after 2% target reached - 毎日新聞",
-      "summary": "Після досягнення інфляцією Японії цільових 2 %, головний банкір Кадзуа Уеда попередив про «upside risks», що можуть підвищити інфляцію. Це сигналізує про можливу потребу переглянути політику підтримки, якщо інфляція зростатиме.",
-      "source": "Японія · монетарна політика",
-      "publisher": "毎日新聞"
-    },
-    {
-      "title": "Французькі напої: експорт у США +34% у 3‑м кв.",
-      "original_title": "French beverage exports to the United States rose 34% in the third quarter - Vinetur",
-      "summary": "У третьому кварталі 2023 року експорт французьких напоїв до Сполучених Штатів зріс на 34 % порівняно з попереднім періодом, повідомляє Vinetur. Зростання свідчить про посилення торгових потоків між Францією та США у секторі напоїв.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "Vinetur"
-    },
-    {
-      "title": "Корейська сталь: галузь вимагає тарифів на китайську HGI",
-      "original_title": "South Korea's Steel Industry Presses for Tariffs as Chinese HGI Imports Quadruple; Government Wary of Anti-Dumping Duties - BigGo Finance",
-      "summary": "Після чотирикратного зростання імпорту китайської гарячої прокатної сталі (HGI) південнокорейські сталеливарні компанії закликали уряд ввести тарифні обмеження. Уряд, проте, обережно ставиться до застосування антидемпінгових мита.",
-      "source": "Китай · економіка, торгівля й промисловість",
-      "publisher": "BigGo Finance"
-    },
-    {
-      "title": "Експерти закликають до конкурентоспроможності для США",
-      "original_title": "Experts urge competitiveness to tap US market potential - www.daily-sun.com",
-      "summary": "Експерти підкреслюють необхідність підвищення конкурентоспроможності, щоб скористатися потенціалом американського ринку. Вони вказують, що компанії повинні покращити якість продукції, інновації та ефективність витрат, щоб успішно входити у США.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "www.daily-sun.com"
-    },
-    {
-      "title": "У Баку пройшов круглий стіл щодо звернення президента Казахстану",
-      "original_title": "Baku hosts roundtable on Kazakh President's state-of-the-nation address - Qazinform",
-      "summary": "У Баку відбувся круглий стіл, присвячений доповіді про стан нації, яку виголосив президент Казахстану. За участі представників регіональних інституцій обговорювали зміст звернення та його вплив на співпрацю в рамках середньо‑каспійських та транскаспійських коридорів.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Qazinform"
-    },
     {
       "title": "USD/CAD падає, тестує підтримку перед BoC та Fed",
       "original_title": "Canadian Dollar Technical Outlook: USD/CAD Plunge Tests Critical Support Ahead of BoC, Fed - StoneX",
@@ -1315,6 +1288,41 @@
       "summary": "Російська розвідка повідомила про можливий дефіцит державного бюджету, пов’язаний із мільярдами доларів, витраченими на військові потреби. Це свідчить про фінансовий тиск на державні фінанси у зв’язку зі збільшенням оборонних витрат.",
       "source": "РФ · економіка, бюджет і експорт",
       "publisher": "UA.NEWS"
+    },
+    {
+      "title": "Російські дрони відключили електроенергію понад 600 000 мешканців Дніпропетровської",
+      "original_title": "Missile War Monitor: Russian drones cut power to more than 600,000 in Dnipropetrovska oblast - IntelliNews",
+      "summary": "У Дніпропетровській області російські дрони порушили електропостачання, що призвело до відключення живлення понад 600 000 осіб. Це підвищує ризики для місцевої інфраструктури та економічної активності. Подія продовжує негативний вплив війни на цивільне населення.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "IntelliNews"
+    },
+    {
+      "title": "Іран вважає Каспійський торговий коридор стратегічно важливим",
+      "original_title": "Iran’s Caspian Sea trade route is of great strategic significance - The Jerusalem Post",
+      "summary": "Іран підкреслив, що його Каспійський торговий маршрут має велике стратегічне значення. Це може посилити роль коридору у північ‑південних транспортних зв’язках та вплинути на регіональну торгівлю.",
+      "source": "Коридори · Північ–Південь (INSTC)",
+      "publisher": "The Jerusalem Post"
+    },
+    {
+      "title": "Прогноз: ціни на продовольчі товари зростуть на 18% у 2026‑27",
+      "original_title": "Food Commodity Prices Forecast to Rise 18% in 2026–27 | CEO Magazine Poland - CEO Magazyn",
+      "summary": "CEO Magazine Poland прогнозує підвищення цін на продовольчі товари на 18 % у 2026‑27 роках. Такий зріст може підвищити витрати споживачів і тиснути на інфляцію в глобальній економіці.",
+      "source": "Глобальні сировинні ринки",
+      "publisher": "CEO Magazyn"
+    },
+    {
+      "title": "Трейдери більше хвилюються через зростання, ніж інфляцію",
+      "original_title": "Trader angst pivots from inflation to growth as tech rout deepens - Khaleej Times",
+      "summary": "Занепокоєння трейдерів змістилося з інфляції на ризики для економічного зростання. Причиною є поглиблення розпродажу технологічних акцій. Про це повідомляє Khaleej Times.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Khaleej Times"
+    },
+    {
+      "title": "Africa's top car maker faces 2027 job, export losses",
+      "original_title": "Like Canada, Africa’s largest car producer faces 2027 job and export losses as world’s $32 trillion economy ends duty-free access, with China and Europe offering hope - Business Insider Africa",
+      "summary": "Africa’s largest car producer expects job and export losses by 2027 after the world’s $32 trillion economy ends duty‑free access for its vehicles. The firm looks to China and Europe as alternative markets to offset the anticipated decline.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Business Insider Africa"
     }
   ]
 }

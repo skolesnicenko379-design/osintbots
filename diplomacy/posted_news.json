@@ -1,18 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFh2UW5wN2w5MlItWkRVNHE3bFpFaUR6Mkc3WVk4LU9XdkVFWjEwM0NpRVkxOExhMjRaUGtraEJaRDR3b3ZWdnpKNGpnWkREejBOa0hRem1GbUxqQmdyR3lqZHNRclRRQUwtRXVBUVlNbk05Vm80N296SExBem1YT244cVpZOFo3ZlZiOE4zcUdaejM5WlE?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-20-palestinians-during-searches-besieged-hebron",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0cybUlfMS12aXh3TFRtYnRCN1NEMUk1N3JvMVVGQWJIT0dHV1VLTm9lWE5oZnVNaWp6VUh0VzVVNWwwdXNBMVQyNkNRa1FZYVNSMFZVbTUxYmp5NEtEMGh4VHBSLXdvT1RKY1U2ZU93ekJXUUpWRzVWYlNKWElTWHJwQTZqbm9fdVhQTjYtcU5sSE9Xcjc5N1R3?oc=5",
-    "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbi1IQVdrRTRNb0RYYzJpdWJFVHdCU3R0OEpmNFV0cVE2QXQ5aXFPeEZzbmxyWjloa3J5VHpLdWNEZGpHajd5TjMycmVRT1FyZmR6UE5xdFZyOUpTMWE4bTRZRVk3UDFudnJZNG5YSDZ4SjFxdjF2WEZkZWNFOURtcFZBSU9JaElyTFFKaFctVkpwSjV3MU9qMDhtSGwxSlIzb3VXdElPWEhpcy15ampPc1ZUeUpWQURyUWtYRGs4RW5QV1BKZW5DZjJ1M0pNU29nYVBYSnhPS0FmUFM3Z3hyOFdBWWZnVWprTXVkMktWZnMwMHNodmlvempneTM1WV9OUlNGRHBXempMTFhGdlE?oc=5",
-    "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOenJUUjhKcmNxVFJ1M1cxNmUxWGV5WXhFZ3h5bjNGTllJSUJwRi10VHB1NWxKanQ0S0F1OVJHYUNZZXFQS2NlSjhZNmd3WktFcXRlSjNtZnhWeVMxamN0WlhKU1NOZ0x3dnlyOG1TVEtiTS1palFweS1hTzd4NTllNHBDN29HeVZSeWgwRXcyVXJUeDBERTh2eTEwWFpUV2JJRWlBeGp1Y0hzbHZLYTVjcllPeTZpRGhVclNTQkxlZzNYM25YN19KQ05UajRlWG54N2NiMXpJeFR4LXNZejNhcWd6aUl6dG9kckVtVnpkQTd4T3lsck11VWRvQVNENHB3VW1Bc0xTWGZrazhSX3VZVl8zTHNtekRENWNISzZicm42XzdyX3U4M3FvbmFsekY2Rmd6WW80b3hQZ1pzZE5Hai1zdGZZOFM0bmxRdnlrZm9UUkZrRGMwWUdjbkhoZjBmSVNVZzRwZ1NQaU02U2pncWNGaWM?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNanlBVlBNR2JzaVExOVB1cmMtdmdFTGZEa1pXSS1XcUo4VG9uX2lvaG9GREF4TDVlVnhLOGNMUHVQc3pYcnJvSnRZd1lwbi15a3c0UGRPbFlVMmZVZ1V1NWVNOHJIOTNlQlRhemQ4NmlJWk1JUjk1YzNEb3RKQnczTG5zZUxweURGQzlxRGsxZVN6TGQ4?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0VicGVIWXBiWTNzUTd4dGtINWRTSkRIYkRuYld6aUxIMmFUT29fa2JwS3I0Zlh1VEV2NzhnV3FRYlpXWkE5aEhZODJhXzNVeDJ2ZVBKVlRRcXg1UlVjMmZaaWNFdmNuV2wxYzR1QXUwRmp3cWkwOTNXR0ZjX0hsM1VJNzhHV3lncjFockpGRWdBalI3NzAyQmd5YWhTZ3J0YjRJUXlDNWhnOEt5OHVVMnJWMA?oc=5",
-    "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY2pINl9mV2pRbldZTlhBQ0tsVHJlRzRqYVZ2MnBFbDBUZkxsTHhESERUZG9Sd0dfbHBvY29zaXROczhBMFpITENuVUJ4R1Qwamp5ejVLbUJKclJ2LXBFUmJqd1lFRVhZMDNUcDE3X0FpVEhsUHIzR3MzdUtmS01rMjVfREI3S2JNaGZ0b2pJa1dKYnBOcFJPdkhkTzJ0ZlpzcFhGSFBnck44bmRObjhvcHVkc0xxZUxfWGRGdG5SemtPNmFCSjlJMkx3Yl91U0hFRDZoUURyLUlldUlSR3Rfbm5hNnlLSDJPRW5PUVE3bFVYZXpuUXBQLU5OcXVMbEswa1M1S2UwZ3FLTTVlTlRhbmVCSkNSUHFHZUE?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Tb0haT0QtOWdWTFpvOUlGWTlFRGVpTmdvVFVBUzg5ek1rUTN4WU9OdVhXMExXUzBnLTVFMnkySmpwSHhqalRsQXZGUks5LUUzYmVkVWx0d3hUMkl3SlJYQzQ3VDJyVGRwYnFPemFWODI?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
-    "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaEFlZ0NkVWt3TE9NclRsSWYwVzBjaXZ2YkNrczdJY0o0YlZDNmphTmUtRzNRWC1SX3k1bUZDOG44SFF3SFlJaXNGeFUwMWxTR0llaDRZYmtIZzdHR3lYdXo2YXdBM29lQU9ScjE0cXNaaVVrVVJGLTJXcG5HalFOV2lSQ2NtZm9vRVlDak1HSk9KQzRRQ2lCbkZid3hUaGdEaTlfdHlHd3VmWEJSdFpsTFRMcmxadTV5dU5lLWVGRHFwUElmN0YxUkhEaW5KeXZqOVAxN2JJMGtoTlBqbzNabzc5Qm51QWtlcjZTZDE0U1o1QlVXeWo1bC1USEozVWxhV3BlWi1sR3Bfam5IZ3FuZ1R5em5Edlh4VHE1NTJCZXI4RHNGZzRQRXI0VHI?oc=5",
-    "http://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage/",
     "http://www.africanews.com/2026/10/25/nigerias-tinubu-defends-policies-as-he-launches-re-election-bid/",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNKMDNCN08ybTZ5TGhfLV9rWi1FMTVrWHRLTloxUkxIOUJsTVZwb1ZUUy1hZTdMU3FvZWg2ek0wc2szWm1jZnBOMFdJRUlGODhIYlN3cUdoTHZRWnNVaFdNZ1JSZ1lFOVdrUGdyWmVQdWhnVmhWZExGVE9hd0hHdzJPLXlSRXp6M29LeVp5Y0RRVENoVXFGSGpxMHJRYVRJWTJRS1cyOV8yR19NM2F5WG1fWi1Sdw?oc=5",
     "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood",
@@ -1199,30 +1186,22 @@
     "https://www.theafricareport.com/435664/nigeria-2027-the-igbo-powerbrokers-helping-seyi-tinubu-penetrate-peter-obis-stronghold/",
     "http://www.africanews.com/2026/11/08/egypt-reopens-embassy-in-libya-as-it-seeks-to-rebuild-energy-ties-with-tripoli/",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1BydHZiM245SFFsYk9wYTQtbzdfNzBaeEFiYjF1ZklmSU5FemE2X0pTX3cwcXZvaW5pendieC1lZTRHV1BfeldBZDQzeUJCcTREeF9VejRmdjkxQm02aFF4c3BjWkdUWGVtSFBLSkpnaE5FU2QzcmV0T3pvT0Z1SmcyQkdBNW5XTkxrQzVwSmZZUUtwSHlMUjdDRDlLT2JTbUxGc04xaUM1Tm9uUmlmQXI4R29yc2xleHc?oc=5",
-    "http://www.africanews.com/2026/11/08/gambias-opposition-leader-bensouda-files-for-presidential-election-despite-abuse-allegatio/"
+    "http://www.africanews.com/2026/11/08/gambias-opposition-leader-bensouda-files-for-presidential-election-despite-abuse-allegatio/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-saudi-aggression-after-dozens-killed-attack-taiz-market",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DTkxHOHRrbTZENm9TVjJYcFJvM2tPak40dFd2MGVHaUdmVVZmQ251ZEpQZFp5VzJXRmE2ZmoxYkN2RmdRVTM2Q19HT3BaOV9acXNTY3FNNW1jbjE4RTl4Ny1ya2phSE1HMHhjX3JLRzI?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iron-gate-plan-merely-wordplay-iran-mocks-us-military-initiative-disrupt",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUh3dmFQRHJtLUNlajg2YWZxUUhPNGNQLUlPMlRYeVVTTlB1REJ5NUZPMGd6TTNrUTNWU1QyamZGUlhCVThIMGlYMGcyYUVLbnBfOGEwTENPN1BubHljMXlUVFJsYWN6QjBaRDJabkxQcjN0Y3VoTDRCNjBNZHNkZ2wtWGM1ckQ0SHNldGp0b0hEZGE2WGZJ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-two-palestinians-attack-gazas-khan-younis",
+    "http://www.africanews.com/2026/11/08/egypt-4-dead-and-dozens-injured-after-two-trains-collide-south-of-cairo/",
+    "http://www.africanews.com/2026/11/08/spanish-police-launch-new-id-procedure-for-migrants-at-temporary-camps/",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVJfbFE1VnNLcVNyZkt3VlQxZmk4UWpDaGxDNFFMNVkyYjVTMWEtcEl3UERVWGNBd2NsNFRyNkk5cWJWV0dMeDlJQTFtRWdybXY5b08wSGliWkFqQmt0dmJXOUVuU1BiZGZhUlJPWm5JbFQ5VXJmZ252XzU3X3M0UDBUZ3Y5SWZkcWprbVFJQktmbEM2dS1wd0pLcWtaREtz?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2U4ejIyRzE5MjlWSTJJTVRhLXM3aEZSdnpJSmQwbE4yN3FhSmhVLXdZUFE4MXhvNTBObkE5SkdVXzUyaE1fMS1VOTV3SEo0VWlhNElwbFpjQWJtNllESmZjc0U0TjRQQzFXYnBjMUVlcm4yNXQwdHRsMUx2aTBicDVBNFlGRFR0MGlSYUcweUNpOWZBeHRhLXNLUHlWSEpSRnFsR2ZzaGNiU3RIOV8yakdhOHZYeGIxWC0tVHZ5OWlnd2s?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTFuOHgtLTZkcGNhQmdFWEZka2lkWE1FdWY2SnkwYkE5a2xkSHpTSGRjc2dhLWsySlc2TjRjZVpxNUhOaWhORXVVTXhKRTRJTXQ1SUp4VFF1WVVTbVNBMnhjUXpZQzJzWDVqRGxtS3ZDSWRPTWVfRGtFcFhtUGFBVFBFTjRGcHhMaHZDYUowVXhKVC0xeXM3eGpwRTR6cURUSlZUVjBQT1JNMTR5TTlZTEdRbDR1T2syeUI3Wg?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM29ncWpSd19OM3NxOWpUWWhQREFTaVlmOGd3bmtYUGlweWJqWFRxNE5ZYTNNeGhsaWdobFlYanJsMnRDQjJENEZ0ZUNWdHhzSEo3Z1p3bnh4YXNiY3QxbFkzU05OejFTLVM4cEpBdGdEcWdwWG1WWHp1cDFGaEZ2VG4zaU9ia3ctckM5aUxJNlVOVkQ1czY1c3lXZTBhWUplWDJ6ZGtySjNvenFxUkZ1NWxENmM?oc=5",
+    "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FOTN1cTAxRUh2WjUzTkp3dGhUZm15ZlZTOVlxaWRtWUJOY0RhVEVLUTFPSWZXYUE1TW41b25QMC1lSm5fa0NJRVRXM2djMVgycjFqTWtIZ1JycU90UTJZb1N1TjdQb2pBdXFqTkVrUQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Південної Кореї зустрів лідера Східного Тімуру перед самітом",
-      "summary": "Президент Південної Кореї Лі Чжон Їн провів двосторонню зустріч із президентом Східного Тімуру Жуаніу Хортою. Відвідування відбулося напередодні запланованого саміту, що свідчить про підготовчі дипломатичні контакти між лідерами двох держав. За матеріалами агентства Yonhap News Agency, подія є частиною офіційного візиту та передумовою до більш масштабних переговорів на рівні глав держав.",
-      "source": "Bilateral Meetings",
-      "publisher": "Yonhap News Agency",
-      "published": "2026-11-05T02:00:16+00:00"
-    },
-    {
-      "title": "Прем'єр-міністр Іраку здійснив перший з 2003 року візит до Бахрейну",
-      "summary": "Прем'єр-міністр Іраку здійснив офіційний візит до Бахрейну, який став першим візитом очільника іракського уряду до цієї країни з 2003 року. Головною метою поїздки є відновлення та поглиблення двосторонніх відносин між двома державними утвореннями. Сторони обговорили шляхи зміцнення співпраці та дипломатичних контактів на вищому рівні після тривалого періоду обмеженої взаємодії.",
-      "source": "Bilateral Meetings",
-      "publisher": "The National",
-      "published": "2026-11-05T01:41:15+00:00"
-    },
-    {
-      "title": "Президент Чаду зустрівся з міністром закордонних справ Алжиру в Нджамені",
-      "summary": "Президент Чаду провів офіційну зустріч з міністром закордонних справ Алжиру в столиці країни Нджамені. Переговори відбулися на тлі нещодавнього розгортання алжирських військ у сусідньому Нігері, з яким Чад має спільний кордон. Спостерігають зусилля Алжиру щодо відновлення свого впливу в регіоні Сахелю через дипломатичні та безпекові кроки.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-11-04T19:15:26+00:00"
-    },
     {
       "title": "Британія виділить 80 млн фунтів на освіту в кризових зонах",
       "summary": "Міністр міжнародного розвитку Британії Кірсті Макнілл оголосила про виділення 80 млн фунтів стерлінгів для фонду Education Cannot Wait на період 2027–2030 років. Це рішення було прийнято під час конференції з поповнення ресурсів фонду 5 листопада 2026 року. Макнілл наголосила на необхідності підтримки освіти для 258 мільйонів дітей, постраждалих від конфліктів та кліматичних шоків. Вона підкреслила, що інвестиції в освіту є ключовими для безпеки та подолання бідності, а також закликала до ефекти",
@@ -1411,6 +1390,27 @@
       "source": "Africanews",
       "publisher": "",
       "published": "2026-11-07T20:56:25+00:00"
+    },
+    {
+      "title": "Іран засудив «саудівську агресію» після атаки на ринок Тайз",
+      "summary": "У відповідь на авіаційну атаку на ринок у Тайзі, де загинуло десятки цивільних, Іранський міністр закликав припинити військові дії, закінчити блокаду та поважати право єменського народу на самовизначення. У заяві, розміщеній на X, зазначено, що обидві сторони – Хути та уряд, підтримуваний Саудівською Аравією – обвинувачують одна одну. Ця позначена реакція підкреслює позицію Ірану щодо підтримки єменського народу і протидії зовнішнім військовим втручанням.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-08T16:36:55+00:00"
+    },
+    {
+      "title": "Катар підписав знакову угоду про залізничне сполучення в рамках Ради співробітництва країн Перської затоки",
+      "summary": "Катар підписав знакову угоду щодо проекту залізничної мережі Ради співробітництва арабських держав Перської затоки (GCC). Документ спрямований на зміцнення регіональної зв'язності та розвиток транспортної інфраструктури між державами-учасницями об'єднання. Подія є офіційним кроком у поглибленні економічної та логістичної інтеграції в регіоні.",
+      "source": "Treaties & Agreements",
+      "publisher": "Doha News",
+      "published": "2026-11-08T15:11:14+00:00"
+    },
+    {
+      "title": "Французький міністр заявив про участь європейців у переговорах щодо України в Абу-Дабі",
+      "summary": "Міністр закордонних справ Франції повідомив, що європейські представники візьмуть участь у переговорах щодо України, які відбудуться в Абу-Дабі. Ця дипломатична подія стосується міжнародних зусиль щодо врегулювання ситуації в Україні за участю європейських посадовців на території Об'єднаних Арабських Еміратів.",
+      "source": "Bilateral Meetings",
+      "publisher": "The Business Standard",
+      "published": "2026-11-08T15:03:20+00:00"
     }
   ]
 }

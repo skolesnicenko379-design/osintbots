@@ -1,8 +1,4 @@
 [
-  "https://militarnyi.com/uk/news/generalysymu-suvor-zapustyv-balistych-raket/?utm_source=rss&utm_medium=rss&utm_campaign=generalysymu-suvor-zapustyv-balistych-raket",
-  "https://militarnyi.com/uk/news/giperzvukovyj-perehoplyuvach-hydef-prototyp/?utm_source=rss&utm_medium=rss&utm_campaign=giperzvukovyj-perehoplyuvach-hydef-prototyp",
-  "https://www.twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
-  "https://militarnyi.com/uk/news/velyka-brytaniya-vydil-3-milyardy-funtiv/?utm_source=rss&utm_medium=rss&utm_campaign=velyka-brytaniya-vydil-3-milyardy-funtiv",
   "https://militarnyi.com/uk/news/rosijski-drony-geran-otrymaly-magnitometry/?utm_source=rss&utm_medium=rss&utm_campaign=rosijski-drony-geran-otrymaly-magnitometry",
   "https://militarnyi.com/uk/news/quantum-systems-oboronnyj-rynok-yaponiyi/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-systems-oboronnyj-rynok-yaponiyi",
   "https://www.twz.com/air/confessions-of-an-sr-71-blackbird-pilot",
@@ -298,5 +294,9 @@
   "https://militarnyi.com/uk/news/ssha-postachannya-zbroyi-do-iranu-kaspij/?utm_source=rss&utm_medium=rss&utm_campaign=ssha-postachannya-zbroyi-do-iranu-kaspij",
   "https://militarnyi.com/uk/news/rostovska-oblast-drony-poshkodyly-mist/?utm_source=rss&utm_medium=rss&utm_campaign=rostovska-oblast-drony-poshkodyly-mist",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkJ6UnZnMEZ4anZHRWRHWjVjd0t6Y21WN3Z2MG1qYl9Md3NxMTRjNllXcXVqcHRSLU4xSU9VVG93djhySWhmN1dPblBCNmNzZW56dUhQSl9IRlk0WS1yeWJGTjJDVVZkVVFxaldWRncxRHZIbXZKd0ZyQllEb0l3bzRDSndmOWR1eXZ2SkZ6aFRnZjBxal9TWGttSUswT21tWC1qNmI3b2t3ZVRmVUdvOGxMWnFONzA?oc=5",
-  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVo4NXN6TGpZaFNxUXRjVE1TZHFZaENRdHNZelVOc0FSYzF4TDZULVR5MVZfNV9qdm5QaDdHa3RaWmgzYTVfMVg4ZzJXeXFCbmo3eWkyaWp1VG9DUFY0dUIxUnFKcnZpdUVPVEotd3dJZGpuLUh6R1FrOUlneWVGSE5IYlpZUTM3SjFGbmI2eXgwMWNZWFFOSWp5X2haNUtVR0wtQWlBMllVNTdqTV8wbA?oc=5"
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVo4NXN6TGpZaFNxUXRjVE1TZHFZaENRdHNZelVOc0FSYzF4TDZULVR5MVZfNV9qdm5QaDdHa3RaWmgzYTVfMVg4ZzJXeXFCbmo3eWkyaWp1VG9DUFY0dUIxUnFKcnZpdUVPVEotd3dJZGpuLUh6R1FrOUlneWVGSE5IYlpZUTM3SjFGbmI2eXgwMWNZWFFOSWp5X2haNUtVR0wtQWlBMllVNTdqTV8wbA?oc=5",
+  "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor/?utm_source=rss&utm_medium=rss&utm_campaign=rakety-dlya-patriot-rumuniya-skyceptor",
+  "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup/?utm_source=rss&utm_medium=rss&utm_campaign=rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWJuMWFCaDFnSXV1OHE2blFhZnI3UHFBYmlUc2hrdks1M1pPc2VfazNWdGRDRXp5YnJRbVRwV1pJaG5sek1mNUFoeGtpZWk0TEV0ZHhibFZfVFFTMld3bnN1NGY3VzlBaTMwbGp2azRDdEQ4WHBoSVBPTi1WSDRjaHVicUJ6X0U2dC02SWpzZUR2XzNJNGlzaDVzRDJxSE9PU0owcTliZy1hNEN0cVFUdHE0bUFGd3ZuUHUzN20yNVJSZ2UtUjhwOWlhV3c5bnJfdlc1NUh3Y1dwOW9WSEFxNWJqS1Y4OWI3ZVFmRUln?oc=5",
+  "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnlhUkRSdTFmcVBfeGUtTzduVXVMUzJ4Y2VnRndNM3c5dkZDc2daVHpIbktHSGVuUFl3UUd5bzRwUDl4VUYzblpHc1JCME9HWGRtWURwUVBmTE5ycG5vakZyRG1HcDFjT3l3b3lSU2gwN0hseFNfdTNJQm11Q0x2c2N4MUFqNVl0MzNJUlZ4VUZIOXNnZnc2ZkMtMnBhOXBtaVlzZjJ6OVRlc1RaUTBMRjFickdBQ01GOEt1b2tsUmZ6eWg0WjJBcHJRak5KRkx0V3NwS1prb3JGemEzSzVVM1ctQ3U0N1U1ZGNQRXhfeTk5Ui1s?oc=5"
 ]

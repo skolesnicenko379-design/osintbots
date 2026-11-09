@@ -17,8 +17,10 @@
     "https://militarnyi.com/uk/news/morska-pihota-zdijsnyly-uspishnu-vysadku",
     "https://militarnyi.com/uk/news/nato-16-protydronovyh-system-dlya-zakupivel",
     "https://militarnyi.com/uk/news/nimechchyna-investuye-50-mln-v-osint-iz-shi",
+    "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor",
     "https://militarnyi.com/uk/news/rosijski-pidpryyemstva-zahystu-vid-bpla",
     "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-412-tysyach",
+    "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
     "https://militarnyi.com/uk/news/rostovska-oblast-drony-poshkodyly-mist",
     "https://militarnyi.com/uk/news/ssha-postachannya-zbroyi-do-iranu-kaspij",
     "https://militarnyi.com/uk/news/u-rosiyi-zafiksuvaly-242-dyversiyi",
@@ -34,8 +36,10 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMk56eUowcThVVzNuMFMzX25FQTVBQ0VjSjBOWV95Qm5PU2VBWU91SzZzb25SNlN3OUFuZURGUzlqSWExYWFldUMySHMyRWRYQTNDUFl3bzNKRWVDOWpHZ0hiNk1XYXFYUVZzaHl6dFUxU2ZuR1FRY2lwNGx6TXQwUXlUUWZrMl9FNnozdUFlV2xDRWZydUFCclRtQTZTZGhnc0NrU1pmcjR0VXJvZXMzb3lFZlR5ZGlmVWhHcXd5S3NzVVFDV1EtNkJZaEM1Sno1bzZvMjcyMWdOQQ",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY01tVDdITk1ybjFLbFhiaG5CbnZMUFR5SHh5LTdUYm80cWhfeHcyQWIxZ0xuazlaSjN1WFgyMFowU0s0R3ZuUU92TVByRi0yQnBCRDB6YUVKOUljV2xjMWNFbERJeEh4U3JjV1JXS195WWNhVHB5OXpWeWhpTWhLSDZ2M3N1Q2dWQU1OTFpnbVF6aXVvUTNJb2hsdi1VY3NhMzBoQUtsZkpiOF9PU2NuSXpXV3c1c3R6c3BLQl9jQ0VsaWJBaFlmMl82aV9QMWNQcjl6c2ZCSENNMjBPdVBDal9SWnQ",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2ZMOE5TNGtzX2RDTWNSZkJPdEh6THBKR2kyRlkxVzJDVGVHNjRFYzRvbzY0S0ZyaVZkWm1nTnkzenpmY19jTHZmUTU2U3FNTXp2Z2dwSE84bVlGLW1SeVhVM21qT0pRMzk4NllxTk93UHNSMS1VWk8xSnRTRHdEdXdNNm9mVTBZUHNyckpjUnZkNmJnVDNiQjJPdjd0czBhSldBbGJXenVST2QzeFZwR0Rab1FObnZ5QkhfZ1VlNmdaRk5PekhCOUNfd1RNcmZ4NlNCMVdWZ1psNWRsd05kT19ON051U2lW",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWJuMWFCaDFnSXV1OHE2blFhZnI3UHFBYmlUc2hrdks1M1pPc2VfazNWdGRDRXp5YnJRbVRwV1pJaG5sek1mNUFoeGtpZWk0TEV0ZHhibFZfVFFTMld3bnN1NGY3VzlBaTMwbGp2azRDdEQ4WHBoSVBPTi1WSDRjaHVicUJ6X0U2dC02SWpzZUR2XzNJNGlzaDVzRDJxSE9PU0owcTliZy1hNEN0cVFUdHE0bUFGd3ZuUHUzN20yNVJSZ2UtUjhwOWlhV3c5bnJfdlc1NUh3Y1dwOW9WSEFxNWJqS1Y4OWI3ZVFmRUln",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkhmNUkzaURjeHp1aDhGSlZ4c3BPRl9DckcwcEVHa0VnVDQzVERaQzFZcXFLcUgydnJwVFJ1NDlGQkRJV212OGNIRWlxUXpBWTgxRTZPNWt2aklQUzZhSEUyeXladXpkVERkVjA0RVpUZzd2SnRmMm5WNWdfWUN5RWxvaXowcVFmc2d6UWV0cVZ2bTF5bDdENDRpM0FxaU1NU0ZPUkdhTDMydS1TUGdFSmZUWE9OZmU1Q3NJdkVRaUE2VTlGWFpqUF9nMTNrUHV2QWU3V1RmMjhHSTg0Wkh0NzVUY0ctREtqb2dta2ZqNUduUQ",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU5fQzVtdmEzaXZobGZfOG84b2R6aWNuM3ZhQUNuaE1iM2hTUU81ZklvMW5KdDFILXBXd25YclY3STMxYm54d3dOenVjeW96U2p4SXN1N2VUNklCWEpVZndvVUNMUEtSeFJFc3hKdlhVVGF0M2k0MXZEdWtGNGdLUkhmdlRlRk5xWFRLTjVqYU1MN2pPYXg3TzdhQklIWk5FVEZ4b1VPVzFrWkxnM3NWV25IT3I0ZkU2MG5UbEV3Umo4YVBIaDB4UWNfNmFNTm9ldll2bmQ5ZTl3VHdZc1hIUzJkV3hScWtDMkFjdElXT2tncTg",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnlhUkRSdTFmcVBfeGUtTzduVXVMUzJ4Y2VnRndNM3c5dkZDc2daVHpIbktHSGVuUFl3UUd5bzRwUDl4VUYzblpHc1JCME9HWGRtWURwUVBmTE5ycG5vakZyRG1HcDFjT3l3b3lSU2gwN0hseFNfdTNJQm11Q0x2c2N4MUFqNVl0MzNJUlZ4VUZIOXNnZnc2ZkMtMnBhOXBtaVlzZjJ6OVRlc1RaUTBMRjFickdBQ01GOEt1b2tsUmZ6eWg0WjJBcHJRak5KRkx0V3NwS1prb3JGemEzSzVVM1ctQ3U0N1U1ZGNQRXhfeTk5Ui1s",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxeTQyREFNTjkzMEFKMVg0cmd4MlNPOW5ILUU0bnBPQ1FoMTV1X05Geld0M3FPd1ZVdFdMNGlrSFM5eEZ5YWc",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UVZ3b0dJM2c0M0FhLUd6MnpBXzBYVTYxYmgtNFRsREZTbFl2VlFkdHFwcnhQWW9jeklZUnlSSEF1ZkRvWmIzYjVLSzgwZjNjVTNj",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUFA2VjB5MlZ0YzlTcGlKdl9aSTE2bWhYMS1YQ04yVFljcmJzWXN6VnRFcEJzejNaanNLSEdaUWJ6dnEyeDJCSW1sUXVudmU2N3ZVdlNfYw",
@@ -284,6 +288,16 @@
       "published": "2026-11-07T17:54:07+00:00"
     },
     {
+      "title": "Україна розглядає ударний H145M за 50 млн євро замість AH‑64 Apache",
+      "original_title": "Ударний H145M за 50 млн євро замість AH-64 Apache є прагматичним, але чи може цей вертоліт взагалі стріляти - Defense Express",
+      "summary": "Уряд розглядає придбання легкого штурмового гелікоптера H145M за приблизно 50 млн євро як більш економічну альтернативу AH‑64 Apache. H145M, базований на цивільному H145, може бути оснащений підвісними підрозділами, ракетами та кулеметами, проте його озброєння та захисні системи обмежені порівняно з важким Apache. Якщо впровадити, це дозволить розширити авіаційний склад за нижчою вартістю, хоча ефективність у протитанкових ролях залишатиметься під питанням.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnlhUkRSdTFmcVBfeGUtTzduVXVMUzJ4Y2VnRndNM3c5dkZDc2daVHpIbktHSGVuUFl3UUd5bzRwUDl4VUYzblpHc1JCME9HWGRtWURwUVBmTE5ycG5vakZyRG1HcDFjT3l3b3lSU2gwN0hseFNfdTNJQm11Q0x2c2N4MUFqNVl0MzNJUlZ4VUZIOXNnZnc2ZkMtMnBhOXBtaVlzZjJ6OVRlc1RaUTBMRjFickdBQ01GOEt1b2tsUmZ6eWg0WjJBcHJRak5KRkx0V3NwS1prb3JGemEzSzVVM1ctQ3U0N1U1ZGNQRXhfeTk5Ui1s",
+      "published": "2026-11-07T18:02:00+00:00"
+    },
+    {
       "title": "Президент Туреччини візьме участь у святкуванні Дня перемоги Азербайджану",
       "original_title": "Turkish president to visit Karabakh on Sunday for Azerbaijan's Victory Day - Anadolu Ajansı",
       "summary": "Президент Туреччини планує відвідати Карабах у неділю з нагоди Дня перемоги Азербайджану. Ця подія є офіційним дипломатичним візитом на високому рівні, що підтверджує триваючу підтримку Анкарою Баку. Текст джерела обмежений анонсом візиту та вказівкою на конкретну дату (неділя) і привід (святкування), не містять деталей про програму зустрічей чи підписаних документів.",
@@ -484,6 +498,16 @@
       "published": "2026-11-08T01:50:53+00:00"
     },
     {
+      "title": "Франція планує створити перший у світі морський дрон з підбалістичною B‑STRIKE 1000",
+      "original_title": "Французи можуть першими в світі зробити морський дрон на під балістичну B-STRIKE 1000, що треба при цьому вирішити - Defense Express",
+      "summary": "Уряд Франції оголосив про розробку морського безпілотника, здатного нести підбалістичний ракетний комплекс B‑STRIKE 1000, який має дальність до 1000 км і здатний уражати кораблі та наземні цілі. Така система поєднує автономність безпілотника з високою вогневою потужністю, що дозволить Франції та її партнерам здійснювати далекобійні морські удари без залучення великих кораблів. Це підвищить гнучкість і швидкість реагування у морських конфліктах, а також ускладнить протидію противнику завдяки розподіленим платформам.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWJuMWFCaDFnSXV1OHE2blFhZnI3UHFBYmlUc2hrdks1M1pPc2VfazNWdGRDRXp5YnJRbVRwV1pJaG5sek1mNUFoeGtpZWk0TEV0ZHhibFZfVFFTMld3bnN1NGY3VzlBaTMwbGp2azRDdEQ4WHBoSVBPTi1WSDRjaHVicUJ6X0U2dC02SWpzZUR2XzNJNGlzaDVzRDJxSE9PU0owcTliZy1hNEN0cVFUdHE0bUFGd3ZuUHUzN20yNVJSZ2UtUjhwOWlhV3c5bnJfdlc1NUh3Y1dwOW9WSEFxNWJqS1Y4OWI3ZVFmRUln",
+      "published": "2026-11-08T06:52:00+00:00"
+    },
+    {
       "title": "Імпортний сплеск збільшив торговий дефіцит РФ до $7,47 млрд у 1‑му кварталі",
       "original_title": "Import surge widens trade deficit to $7.47b in Q1 - The Business Standard",
       "summary": "У першому кварталі 2024 року Росія зафіксувала зростання імпорту, що розширило торговий дефіцит до $7,47 млрд. Підвищення імпортних потоків стало головним фактором збільшення негативного балансу зовнішньоекономічної діяльності країни.",
@@ -682,6 +706,26 @@
       "channel": "miltech",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2ZMOE5TNGtzX2RDTWNSZkJPdEh6THBKR2kyRlkxVzJDVGVHNjRFYzRvbzY0S0ZyaVZkWm1nTnkzenpmY19jTHZmUTU2U3FNTXp2Z2dwSE84bVlGLW1SeVhVM21qT0pRMzk4NllxTk93UHNSMS1VWk8xSnRTRHdEdXdNNm9mVTBZUHNyckpjUnZkNmJnVDNiQjJPdjd0czBhSldBbGJXenVST2QzeFZwR0Rab1FObnZ5QkhfZ1VlNmdaRk5PekhCOUNfd1RNcmZ4NlNCMVdWZ1psNWRsd05kT19ON051U2lW",
       "published": "2026-11-08T14:22:00+00:00"
+    },
+    {
+      "title": "Росіяни створюють фальшиві позиції мобільних вогневих груп за допомогою манекенів",
+      "original_title": "Росіяни облаштовують фальшиві позиції мобільних вогневих груп за допомогою манекенів",
+      "summary": "Військові РФ розгортають макети мобільних вогневих груп ППО з манекенами у військовому спорядженні, імітуючи реальну присутність систем ППО. За словами аналітиків, це має заплутати безпілотники зі штучним інтелектом, які самостійно виявляють цілі. Така тактика підвищує рівень протиповітряного прикриття, хоча її ефективність залежить від здатності ворога розрізняти справжні та підроблені цілі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
+      "published": "2026-11-08T14:30:45+00:00"
+    },
+    {
+      "title": "Румунія відновила переговори про виробництво ракет SkyCeptor для Patriot",
+      "original_title": "Дешеві ракети для Patriot: Румунія відновила переговори про виробництво SkyCeptor",
+      "summary": "Румунія знову розпочала переговори з ізраїльською Rafael та американською Raytheon щодо локального виробництва ракет SkyCeptor, адаптованих під ЗРК Patriot. SkyCeptor – це модифікована ракета Stunner, здатна перехоплювати балістичні та крилаті цілі на відстані до 250 км і швидкістю 7,5 Маха, при цьому основні компоненти виготовлятимуться в США та Ізраїлі, а в Румунії – збирати. Запуск локального виробництва розширить потенціал армії Румунії та може забезпечити інші європейські країни‑оператори Patriot дешевшими перехоплювачами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor",
+      "published": "2026-11-08T14:49:28+00:00"
     },
     {
       "title": "Французький міністр заявив про участь європейців у переговорах щодо України в Абу-Дабі",

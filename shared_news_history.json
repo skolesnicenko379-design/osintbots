@@ -1,12 +1,10 @@
 {
   "links": [
     "http://africanews.com/2026/11/08/egypt-reopens-embassy-in-libya-as-it-seeks-to-rebuild-energy-ties-with-tripoli",
-    "https://defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment",
     "https://middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-condemns-saudi-aggression-after-dozens-killed-attack-taiz-market",
     "https://middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
     "https://middleeasteye.net/live-blog/live-blog-update/irans-army-says-forces-stronger-start-war-hormuz-stay-closed",
-    "https://middleeasteye.net/live-blog/live-blog-update/syria-denies-plans-send-troops-yemen-says-military-cooperation-saudi",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-set-meet-qatars-prime-minister-white-house",
     "https://militarnyi.com/uk/news/15-mlrd-dopomogy-dlya-ukrayiny-vid-demokrativ",
     "https://militarnyi.com/uk/news/airbus-zavershyv-pryjmalni-poloty-a320-atra",
@@ -15,32 +13,31 @@
     "https://militarnyi.com/uk/news/chehi-operatoram-krytychnoyi-infrastruktury",
     "https://militarnyi.com/uk/news/daniyi-mesh-merezhi-dlya-zv-yazku",
     "https://militarnyi.com/uk/news/gayiti-operatsiyi-likvidovano-vatazhka",
+    "https://militarnyi.com/uk/news/harakterystyky-rakety-geran-5-k5-k",
+    "https://militarnyi.com/uk/news/mc-130-prybuv-do-livanu-vymknenym-trekerom",
     "https://militarnyi.com/uk/news/mke-predstavyla-turel-tolga-2-20-mm-garmaty",
     "https://militarnyi.com/uk/news/morska-pihota-zdijsnyly-uspishnu-vysadku",
     "https://militarnyi.com/uk/news/nato-16-protydronovyh-system-dlya-zakupivel",
     "https://militarnyi.com/uk/news/nimechchyna-investuye-50-mln-v-osint-iz-shi",
     "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor",
     "https://militarnyi.com/uk/news/rosijski-pidpryyemstva-zahystu-vid-bpla",
-    "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-412-tysyach",
     "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
     "https://militarnyi.com/uk/news/rostovska-oblast-drony-poshkodyly-mist",
     "https://militarnyi.com/uk/news/ssha-postachannya-zbroyi-do-iranu-kaspij",
     "https://militarnyi.com/uk/news/u-rosiyi-zafiksuvaly-242-dyversiyi",
-    "https://navalnews.com/event-news/euronaval-2026/2026/11/france-orders-32-aster-missiles-upgrade-fdi-frigates",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3VWVjNuVGtCdXVodW8wOFRQMUEzZ19rQ3oxeWJHOU1JODUzQmx4a01NOVhwbklUZzdzMEVCRGE2X0haMnZYazgzTndfTzZLYUVUWDdsN3B1RmZBbE5UTDU0ZGNaMzh4Nm41QnVDdzlzM0pDcHdveXBnRFd3TTFTOThxTjU5YUVsWmEwMXFaNWJGOG5vdXQ5b0ZEcWZtU2s4ZERlQkxoUUlUeFZ1NU9oQnJDSC1jRE1FZnlXYjZyUGxqSmNjcXFXb1Z2c3diY1dX0gHYAUFVX3lxTE5jN0JtNDV4eW9JVjZnMUJDTVRkVkFuWHBlS1FmVENrR1UxMmdDa3NFeWJoMFVldFEtaks0ZFQxaFBKVTlZUTF6ZWJEQnA2d2ZhdWh3OVFERFFKV0sycWNDWWpvV2J6aVdZbzktai1NM3labzdNZ01DU3BQQmlwSWc0RXBWRy1iZkVPdklDNlEtOVdmSHVrLWVOSzN3MXRWVUtTdUZGNHg5LVR2NEJoY0hXUWFUYTExc3Vob2lUNER3d0ZuY1pqZC15QU9HOWF3ejRicWhwQVhtNA",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkVpZHBqaFRaSWN2THc3RDdSWEJuQVhBc0p4TkZqZDFGOTUybU1YU3VXV1FFSHUzSnpVbHhGdFFJODVidVdPRF8xWmEtajU3TVZoa09QdnV6RlpzZ1RTejhhNTI0RXJNUDdLOGtFLUZTX0MxM2JmTWZpLUNhZFQtenBCb0Vtd21ENjZ2NDk2ZEV4QTNCR1VvOTlWUF9MRlZUY3dWZDZrc2lBdWNvSW9RdWR3SENqZGkyVGc1ZkNjc1VHVVpoeHUyWll4N01FSDhWUEE",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1hhTEM1dkNvMlhUWWRNRFQ5Um5CX3BqcWYyYk02TjJyLV8teDZPMk82bGZUM3NqUjBtSFZ5VXlyRXJBN3lhYVRaemYtMTdSTjBEM2hmcGxFN2FUTkhLTnYwV3VxXzBtcHZOSjRabVZmUlplRnViMjNBMFV0eXQyQXJpalVOY3VRdTZRNzJYVjF1Q2gta3RmRUlkSVdiMlRyN21HYVg2Z1Z1RzQtV1hoTGgxQmNTSEl3azk0WDR1Y3N6WXE0MWZYa3hwY092WkN5M1NuSlR5NA",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFlxMWhaMVBvWHF4ZF9hcmRxbnpqLTF2ZWxrSmZOcS1rNGsyOGY2bmlfaUlNVzJabDZieE80TGl0aG9SVkQtaW4xZXV2TWQ4bExHRHJZZV91VWJqWFNlNGY0dTU1enlkb3I1WC02d1NaYXNGUEtycW85LXY5SmtpelZFX3d3cHc1VDU5cmttTTVBYXRsbXpNZXk5cEVkRE80UHNjenIwZldOS2hHWHNuYUxSWmc4bmY5NEEta0tEdk5UaWhJMTB2NGU5a1Vmb2RVb1pmRXdKZlc",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMk56eUowcThVVzNuMFMzX25FQTVBQ0VjSjBOWV95Qm5PU2VBWU91SzZzb25SNlN3OUFuZURGUzlqSWExYWFldUMySHMyRWRYQTNDUFl3bzNKRWVDOWpHZ0hiNk1XYXFYUVZzaHl6dFUxU2ZuR1FRY2lwNGx6TXQwUXlUUWZrMl9FNnozdUFlV2xDRWZydUFCclRtQTZTZGhnc0NrU1pmcjR0VXJvZXMzb3lFZlR5ZGlmVWhHcXd5S3NzVVFDV1EtNkJZaEM1Sno1bzZvMjcyMWdOQQ",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY01tVDdITk1ybjFLbFhiaG5CbnZMUFR5SHh5LTdUYm80cWhfeHcyQWIxZ0xuazlaSjN1WFgyMFowU0s0R3ZuUU92TVByRi0yQnBCRDB6YUVKOUljV2xjMWNFbERJeEh4U3JjV1JXS195WWNhVHB5OXpWeWhpTWhLSDZ2M3N1Q2dWQU1OTFpnbVF6aXVvUTNJb2hsdi1VY3NhMzBoQUtsZkpiOF9PU2NuSXpXV3c1c3R6c3BLQl9jQ0VsaWJBaFlmMl82aV9QMWNQcjl6c2ZCSENNMjBPdVBDal9SWnQ",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2ZMOE5TNGtzX2RDTWNSZkJPdEh6THBKR2kyRlkxVzJDVGVHNjRFYzRvbzY0S0ZyaVZkWm1nTnkzenpmY19jTHZmUTU2U3FNTXp2Z2dwSE84bVlGLW1SeVhVM21qT0pRMzk4NllxTk93UHNSMS1VWk8xSnRTRHdEdXdNNm9mVTBZUHNyckpjUnZkNmJnVDNiQjJPdjd0czBhSldBbGJXenVST2QzeFZwR0Rab1FObnZ5QkhfZ1VlNmdaRk5PekhCOUNfd1RNcmZ4NlNCMVdWZ1psNWRsd05kT19ON051U2lW",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWJuMWFCaDFnSXV1OHE2blFhZnI3UHFBYmlUc2hrdks1M1pPc2VfazNWdGRDRXp5YnJRbVRwV1pJaG5sek1mNUFoeGtpZWk0TEV0ZHhibFZfVFFTMld3bnN1NGY3VzlBaTMwbGp2azRDdEQ4WHBoSVBPTi1WSDRjaHVicUJ6X0U2dC02SWpzZUR2XzNJNGlzaDVzRDJxSE9PU0owcTliZy1hNEN0cVFUdHE0bUFGd3ZuUHUzN20yNVJSZ2UtUjhwOWlhV3c5bnJfdlc1NUh3Y1dwOW9WSEFxNWJqS1Y4OWI3ZVFmRUln",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU5fQzVtdmEzaXZobGZfOG84b2R6aWNuM3ZhQUNuaE1iM2hTUU81ZklvMW5KdDFILXBXd25YclY3STMxYm54d3dOenVjeW96U2p4SXN1N2VUNklCWEpVZndvVUNMUEtSeFJFc3hKdlhVVGF0M2k0MXZEdWtGNGdLUkhmdlRlRk5xWFRLTjVqYU1MN2pPYXg3TzdhQklIWk5FVEZ4b1VPVzFrWkxnM3NWV25IT3I0ZkU2MG5UbEV3Umo4YVBIaDB4UWNfNmFNTm9ldll2bmQ5ZTl3VHdZc1hIUzJkV3hScWtDMkFjdElXT2tncTg",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnlhUkRSdTFmcVBfeGUtTzduVXVMUzJ4Y2VnRndNM3c5dkZDc2daVHpIbktHSGVuUFl3UUd5bzRwUDl4VUYzblpHc1JCME9HWGRtWURwUVBmTE5ycG5vakZyRG1HcDFjT3l3b3lSU2gwN0hseFNfdTNJQm11Q0x2c2N4MUFqNVl0MzNJUlZ4VUZIOXNnZnc2ZkMtMnBhOXBtaVlzZjJ6OVRlc1RaUTBMRjFickdBQ01GOEt1b2tsUmZ6eWg0WjJBcHJRak5KRkx0V3NwS1prb3JGemEzSzVVM1ctQ3U0N1U1ZGNQRXhfeTk5Ui1s",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxeTQyREFNTjkzMEFKMVg0cmd4MlNPOW5ILUU0bnBPQ1FoMTV1X05Geld0M3FPd1ZVdFdMNGlrSFM5eEZ5YWc",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UVZ3b0dJM2c0M0FhLUd6MnpBXzBYVTYxYmgtNFRsREZTbFl2VlFkdHFwcnhQWW9jeklZUnlSSEF1ZkRvWmIzYjVLSzgwZjNjVTNj",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUFA2VjB5MlZ0YzlTcGlKdl9aSTE2bWhYMS1YQ04yVFljcmJzWXN6VnRFcEJzejNaanNLSEdaUWJ6dnEyeDJCSW1sUXVudmU2N3ZVdlNfYw",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pbDNZS0s3QUdVNmxNZjM3VW1KbVpaQnF3TlRuazZRdlIzNEtMeTRsWEJYenU1LUVsbW9JdjluekJ0UUtBWmo5eDJHc1NHNW5CWHhjMQ",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UTEJPNEwzZ0hqWGVZSWtZUWJNeVhCdG5naEQyV1hsSTFxOGxGeHhtRUZFNVlCMnJOamhxc291Smo5VXE5cFljLXRXYUtOaU0tMjFOTjZn0gFWQVVfeXFMT1RMQk80TDNnSGpYZVlJa1lRYk15WEJ0bmdoRDJXWGxJMXE4bEZ4eG1FRkU1WUIyck5qaHFzb3VKajlVcTlwWWMtdFdhS05pTS0yMU5ONmc",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veGwtYVRYVXkzU015a3ktdS1FNk5uTlgwRzJDekh4MG52LTBxWU1YQzh6cEtfOXVEOFNEQ1NsNW05djVPODhBYW1FTkxkZElmYWhVc1JNMVVUQQ",
@@ -55,9 +52,8 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HSTNNTVVicDJuRkJPZGhveDlQa016alRkOS1udURCQnVSeHFQTkV0Wjd0UEl2QVp0RTUyN3E4ZkkzTnZUdDFLVk5BRGJ2ZExlejltX2p2QnFUVmd6VFlCa1hIa1VnWE5UbVF4RVRPaVBWZmd1ZlVRQUpRTQ",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId2xCQmVtdVRVOU4xanZ4SXlYUFV1MVJFZ1lnR3BwVm1SOTAtczc1eVNCZi1WVVpZbkl0bDBGOXNiQ1lBVURQRUFXdnIyMEFPWVNLdFBUbk9TdkpTcWpKcVJ5ZFNQdVN2aXZQeGxqbGE4cnpfSHVlLXZCdw",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOVHU0S1RWcW81MnoxbUplOVlBdnlXOEIzX2JwYUFmV3l4SzMwWEFCY3lUcXF5UUJCNjZsQllZNVB6NGlQR2lhTUx3QTdRUUxpa3pOc1dLUXVsU1ZBaVVvQVdfNEhxaFh6emdTYy1FOGl5SGFfbHloTkk4dw",
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdmk4Mlg2eTdOUVlnbmZlQm1nT2pNQkpVUnhDUy14MXMtYU81d2hsYVR2R1BRREFhVFlaYWkzWWx1N1lFNUJOUWhxdDJzS1RnWkg2b0pZM1Nya3lBMUk1Z0R5QjlrRzY1UmFkSEVkak14UGg1YVF0YmFGVWUxOTBGRGlFQ1ROMWZpbDE0QUxPNnpRakJSalNHMTNiWlR6SERxRHRPNmRwSkE2aHlUX3VJTk5QOENnbjB5NzNzdGZEamNWOTk5TGR4WEgxcHNvM1h2SGNjNFcybTdJbFVKTF9FQTdFSEgwYVJsdGFVZmxZSF9TT2lzUGFfWjU4dkl5Rjc1WWJvU2hR",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP",
-    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdWxpc0dZa2JCUExJeWhkXzNXcnVCWlpPakFHSURfUGQ1SGtPOTlFaTJrTWg4Ukl2SHZ0Z0VyWkpPSm5pRFo4VXFpLVRRTW5vVHJHVHh6V1Q3SVhtcUlCbzlKQ1dlU1dWU29HUkJKWHp0cG5IeVdTVkU5OVhVYVUzb2tuei14ZFJIUE8tNmlueHA1UTI5d0tIZUxtdVN0QlN3VGRUVFJ2SXdMclcwWHNqdzlNTVZ2bVdweVFDMzBkMWxjcTRkc0dvcXdHNi1SUWFtWnhKT3BrSlNYX1g1Y01xMXJ3NFNWZ3AwY1dFeThsY0hCNWJiUWdfaXZXR1hrWVF0dE5MMVh1bmnSAY4CQVVfeXFMTWVLMzctMnpsZ2IySFFaMEJXbUdaZzJ2MlpOZkREQXpJZVZmeEMycE5GaDRCd1JLNGs4dmlfcW9kVHB5VVJrYjltYi1DZndwdmNNdFctSENKb2YyYWFTaFNXTThlZUNIVUU3aXJULW9pMndWa2ZYcC1GMU5XZy1QcERrVTJYVmRpSWpyZ0RNb0drOU05Z3F3U2N0RjQxczZ0Z0ViOTdpaGdhcnBXVFZYVVFjSm0wTXVqeTFqMzVUOUo0Unk4Rkp4TlhVbzdBdjlmbEJKMDhqUnVKS29qRHJwdFlYMEQ1Wkt0UkFfVGdnaTZiZUtKbWF2VmxTejlrTXdFdjZ5Q005dnphdHc0dVVn",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnRsMS1MZTNlMzNMS3VERlZ6RG5PdXd6dGZSMjhSUzQxT0RFMkFoSUJ5WkdWcWdhenQ2Q1lwWkhxNEo1aktCV1dBZUhLcFpWcHphZTQ4RmhYR2llOUxFOUdrdmNPeDJfbFhlbEluYVNMcGJMbHl6VS1YelZkUDJ5NXV2ekJUb09JMGswYQ",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxObldKQmtaSWZmTzdnYjhUbEpHVEZTR3J5czlGdmZaenhJQzRaSGlYSzRkTU5pMHMxUng3U3c0XzE0d0pVWTh3NFVoX2xjWWZMdUNTckgtbXRKWURxOFlQZXQ2VFZrWTdZU1NJay12ZjNmNnhiYzhlb2oyMEtSNW45WERobUZERWVnX2Z1OTlrZHFqZw",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb25xYVhUMVEtdHlsdGhDNkJ2a1BsX3h5SUVyaXJlLXloeDZobktFeWRMRHo0eDA2VUpUbDBzZ0JMZWhaUDRoaGpsbWRIbENXYm5zS2N1d2E0RnhZaXJWYzA3YUphdmlwUXhJRnF1MWxjVGRLLUh0Z2dEZE9NZGtxYW93cHdaZHhnR1QzdUtDX0VDelBV0gGYAUFVX3lxTE0yUE5palViUlJnOHc4S2VJQllGNDBwOUF3cWIxUzloUUw1amc3cTJoTlZCX2dKVkFMTndaeXJLVkd2c2d1TmdOdmtJcGZJWjh0d0lRZGttQUh0bHNnSF9GYmRleW5jczQwZ2xIYktsQXU5NDJYV3ZKdHYtaGNLem9MX2VxT1ZaVm5NR0pnajRHUzdENE5tcTU0",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUk9YWmhWWVVFVmdZaGx6S003aDdLLVhjY0hVUHlpQXV2ZEUyWGd0bHYwUWxvYTNZd2VGWURqSnJOcWIyUEpwd01vdjJFZFRhcHFaXzN4d3Vjb21LTHAzSDlyTVdJTlphelFodUY2NHY4dUdsamNwU3dRS2pNT2lMUmhQejYyMkRzZ1dqQ210eTZ3X0tCV3ZxZmtB",
@@ -84,86 +80,6 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1hBWi1lelU5MW9jenc5REVHRHBBSXhGQ09QUktxaExVZFNMVHZLa2N3VHJKbm1rYzhMc0VmMnAtd1pJTHNvOXdsQjMtVEplZzhjWmlIbk5FeW5oeXZ0Yy13dEs0TWsycGI5OXROMTlDNEdpNl9jS0xzaUVVbkpNMG1IVTN6RXdyN2FjTTR4UGRmcU5vNk5MNm5jdFRzY1UyLU91ZWpsMTFJMkFkbXY0WncwSzlIbG9TN2hGbFE0SnhySklDNklN"
   ],
   "recent_posts": [
-    {
-      "title": "Молдова потребує масштабних реформ для входу в ЄС",
-      "original_title": "Moldova faces major reforms to join the EU single market - Moldova 1",
-      "summary": "Молдова має здійснити суттєві реформи, щоб відповідати вимогам Європейського єдиного ринку. Це передбачає узгодження законодавства, стандартів і регуляторних практик з ЄС, що є необхідною умовою для подальшої інтеграції країни в європейський економічний простір.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Moldova 1",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnRsMS1MZTNlMzNMS3VERlZ6RG5PdXd6dGZSMjhSUzQxT0RFMkFoSUJ5WkdWcWdhenQ2Q1lwWkhxNEo1aktCV1dBZUhLcFpWcHphZTQ4RmhYR2llOUxFOUdrdmNPeDJfbFhlbEluYVNMcGJMbHl6VS1YelZkUDJ5NXV2ekJUb09JMGswYQ",
-      "published": "2026-11-07T14:12:50+00:00"
-    },
-    {
-      "title": "Інші країни можуть приєднатися до азербайджансько‑казахстанської угоди про TITR",
-      "original_title": "Other countries may join Azerbaijan-Kazakhstan agreement on TITR - Trend News Agency",
-      "summary": "Угода між Азербайджаном і Казахстаном щодо Транскаспійського міжнародного транспортного коридору (TITR) може бути розширена: інші держави розглядають можливість приєднання. Це потенційно збільшить кількість учасників та обсяг транзитних потоків у регіоні.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MUFA2VjB5MlZ0YzlTcGlKdl9aSTE2bWhYMS1YQ04yVFljcmJzWXN6VnRFcEJzejNaanNLSEdaUWJ6dnEyeDJCSW1sUXVudmU2N3ZVdlNfYw",
-      "published": "2026-11-07T14:24:21+00:00"
-    },
-    {
-      "title": "Британська комісія в Індії відзначила нову торгову угоду",
-      "original_title": "‘Loads more ahead’: British High Commission in India hails trade deal amid Diwali celebrations - The Times of India",
-      "summary": "Британська високий комісаріат в Індії під час святкування Дівалі оголосив про підписання нової торгової угоди, назвавши її «Loads more ahead». Представники відзначили, що угода відкриває перспективи подальшого розширення торгівлі між Великою Британією та Індією.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "The Times of India",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdWxpc0dZa2JCUExJeWhkXzNXcnVCWlpPakFHSURfUGQ1SGtPOTlFaTJrTWg4Ukl2SHZ0Z0VyWkpPSm5pRFo4VXFpLVRRTW5vVHJHVHh6V1Q3SVhtcUlCbzlKQ1dlU1dWU29HUkJKWHp0cG5IeVdTVkU5OVhVYVUzb2tuei14ZFJIUE8tNmlueHA1UTI5d0tIZUxtdVN0QlN3VGRUVFJ2SXdMclcwWHNqdzlNTVZ2bVdweVFDMzBkMWxjcTRkc0dvcXdHNi1SUWFtWnhKT3BrSlNYX1g1Y01xMXJ3NFNWZ3AwY1dFeThsY0hCNWJiUWdfaXZXR1hrWVF0dE5MMVh1bmnSAY4CQVVfeXFMTWVLMzctMnpsZ2IySFFaMEJXbUdaZzJ2MlpOZkREQXpJZVZmeEMycE5GaDRCd1JLNGs4dmlfcW9kVHB5VVJrYjltYi1DZndwdmNNdFctSENKb2YyYWFTaFNXTThlZUNIVUU3aXJULW9pMndWa2ZYcC1GMU5XZy1QcERrVTJYVmRpSWpyZ0RNb0drOU05Z3F3U2N0RjQxczZ0Z0ViOTdpaGdhcnBXVFZYVVFjSm0wTXVqeTFqMzVUOUo0Unk4Rkp4TlhVbzdBdjlmbEJKMDhqUnVKS29qRHJwdFlYMEQ1Wkt0UkFfVGdnaTZiZUtKbWF2VmxTejlrTXdFdjZ5Q005dnphdHc0dVVn",
-      "published": "2026-11-07T14:58:00+00:00"
-    },
-    {
-      "title": "Європейські війська готуються до розгортання в Україні після війни: навчання в Польщі",
-      "original_title": "European troops set to train in Poland for postwar Ukraine deployment",
-      "summary": "У рамках спільної операції KOALICJA 26.2 у Польщі з 9 по 22 листопада беруть участь близько 2 800 військових із 11 країн, які координують Британія та Франція. Навчання охоплює повітряні, наземні та морські підрозділи, випробовуючи переміщення, захист і постачання багатонаціональної сили, а також командно‑управлінські структури. Це підготовка до потенційного розгортання Мультинаціональної Сили‑Україна (MNF‑U) після припинення бойових дій, що може включати охорону критичної інфраструктури, підготовку українських військ, захист повітряного простору та розмінування Чорного моря.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment",
-      "published": "2026-11-07T15:05:44+00:00"
-    },
-    {
-      "title": "Росстат зламано: виявлено мінімум 412 576 військових втрат Росії",
-      "original_title": "Росія втратила щонайменше 412 тисяч осіб унаслідок війни — злам Росстату",
-      "summary": "Хакери «Киберпартизаны» та Silent Crow зламали портал RosstatLeaks, отримавши близько 23 ТБ даних, серед яких 440 982 медичних записів про смерті військових. За підрахунком авторів, мінімальна кількість втрат становить 412 576 осіб, що значно перевищує офіційні цифри Росії. Оцінка показує, що актуальні дані сильно недооформлені, оскільки лише 26 % записів доступні протягом місяця після смерті.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rosiya-vtratyla-shhonajmenshe-412-tysyach",
-      "published": "2026-11-07T15:13:22+00:00"
-    },
-    {
-      "title": "Франція замовила 32‑коміркове оновлення ракет Aster для фрегатів FDI",
-      "original_title": "Euronaval 2026: France Orders 32-Cell Aster Missile Upgrade for FDI Frigates",
-      "summary": "На виставці Euronaval 2026 Франція офіційно замовила модернізацію вертикальної пускової системи (VLS) до 32 комірок для своїх фрегатів класу FDI, що подвоїть кількість ракет Aster для протиповітряної оборони. Це дозволить фрегатам одночасно вести вогонь більшою кількістю ракет середньої та великої дальності, підвищуючи їх здатність захищати групи кораблів від повітряних загроз. Таке оновлення зміцнює морську оборону Франції та підвищує її роль у НАТО.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/france-orders-32-aster-missiles-upgrade-fdi-frigates",
-      "published": "2026-11-07T15:32:12+00:00"
-    },
-    {
-      "title": "Як-130 з Р-73 проти БПЛА: ефективність низька, застосовано таран",
-      "original_title": "Іран та росіяни визнали, що Як-130 з Р-73 проти БПЛА настільки неефективний, що довелось йти на таран - Defense Express",
-      "summary": "У 2024 році Іран та російські військові заявили, що система Як-130 з ракетами Р-73 не здатна ефективно знищувати БПЛА, що призвело до застосування тактики таранування. Як-130 – сучасний навчальний/легко-нападний літак, а Р-73 – швидка інфрачервона ракета, що зазвичай використовується проти літаків. Це свідчить про зростаючу загрозу БПЛА і потребу в нових протидійних технологіях.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY01tVDdITk1ybjFLbFhiaG5CbnZMUFR5SHh5LTdUYm80cWhfeHcyQWIxZ0xuazlaSjN1WFgyMFowU0s0R3ZuUU92TVByRi0yQnBCRDB6YUVKOUljV2xjMWNFbERJeEh4U3JjV1JXS195WWNhVHB5OXpWeWhpTWhLSDZ2M3N1Q2dWQU1OTFpnbVF6aXVvUTNJb2hsdi1VY3NhMzBoQUtsZkpiOF9PU2NuSXpXV3c1c3R6c3BLQl9jQ0VsaWJBaFlmMl82aV9QMWNQcjl6c2ZCSENNMjBPdVBDal9SWnQ",
-      "published": "2026-11-07T15:36:00+00:00"
-    },
-    {
-      "title": "Сирія заперечила плани надсилання військ до Ємену",
-      "original_title": "Syria denies plans to send troops to Yemen, says military cooperation with Saudi Arabia could expand",
-      "summary": "Сирійське дипломатичне джерело через державне агентство SANA спростувало повідомлення про плани відправлення військових сил до Ємену, назвавши їх безпідставними. Водночас обговорюється розширення військової співпраці із Саудівською Аравією, яка наразі фокусується на тренуванні сирійських сил, нарощуванні їх потенціалу та обміні військовим досвідом. Наступного місяця мають розпочатися координаційні візити саудівських офіційних осіб до Сирії, що згодом може перерости в угоду про взаємну оборону або приєднання Сирії до Мецкської угоди про спільну оборону.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/syria-denies-plans-send-troops-yemen-says-military-cooperation-saudi",
-      "published": "2026-11-07T15:48:19+00:00"
-    },
     {
       "title": "Німеччина інвестує 50 млн євро в AI‑основу OSINT‑розвідки",
       "original_title": "Німеччина інвестує 50 млн євро в OSINT-розвідку із використанням ШІ",
@@ -745,6 +661,16 @@
       "published": "2026-11-08T17:34:24+00:00"
     },
     {
+      "title": "Переміщення 10 Ту‑160 і 37 Ту‑95МС на базу «Украинка» простіше, ніж укриття на «Енгельс»",
+      "original_title": "Загнати усі 10 Ту-160 і 37 Ту-95МС на базу \"Украинка\" РФ виявилось простіше, чим збудувати укриття на базі \"Енгельс\", і це показово - Defense Express",
+      "summary": "Росія перевела всі 10 стратегічних бомбардувальників Ту‑160 і 37 Ту‑95МС на авіабазу «Украинка», зазначивши, що це простіше, ніж будівництво нових укриттів на базі «Енгельс». Ту‑160 – надзвуковий важкий бомбардувальник з дальністю понад 12 000 км і корисною навантаженням до 40 т, а Ту‑95МС – довготривалий турбовинтовий стратегічний бомбардувальник. Концентрація такої кількості стратегічної авіації в одному пункті підвищує її бойову готовність, але й створює нові уразливості щодо захисту та логістики.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdmk4Mlg2eTdOUVlnbmZlQm1nT2pNQkpVUnhDUy14MXMtYU81d2hsYVR2R1BRREFhVFlaYWkzWWx1N1lFNUJOUWhxdDJzS1RnWkg2b0pZM1Nya3lBMUk1Z0R5QjlrRzY1UmFkSEVkak14UGg1YVF0YmFGVWUxOTBGRGlFQ1ROMWZpbDE0QUxPNnpRakJSalNHMTNiWlR6SERxRHRPNmRwSkE2aHlUX3VJTk5QOENnbjB5NzNzdGZEamNWOTk5TGR4WEgxcHNvM1h2SGNjNFcybTdJbFVKTF9FQTdFSEgwYVJsdGFVZmxZSF9TT2lzUGFfWjU4dkl5Rjc1WWJvU2hR",
+      "published": "2026-11-08T18:03:00+00:00"
+    },
+    {
       "title": "CENTCOM створив групу Task Force Iron Gate для блокування наземних поставок зброї до Ірану",
       "original_title": "США візьмуться за маршрути постачання зброї до Ірану через суходіл і Каспій",
       "summary": "У відповідь на зростаючі постачання озброєння та підсанкційних товарів до Ірану, CENTCOM сформував оперативну групу з близько 20 військових і цивільних фахівців, розташовану в Тампі, Флорида. Група буде моніторити та перешкоджати переміщенню сучасних систем озброєння, технологій подвійного призначення та фінансових потоків через сухопутні кордони Ірану та Каспійське море, що може суттєво ускладнити можливості Тегерану фінансувати тероризм і відновлювати озброєння.",
@@ -903,6 +829,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
       "published": "2026-11-09T07:04:08+00:00"
+    },
+    {
+      "title": "Американський спецлітак MC-130 прибув до авіабази Хамат у Лівані без ADS‑B",
+      "original_title": "Секретний рейс: американський літак MC-130 прибув до Лівану з вимкненим трекером",
+      "summary": "Літак MC-130, призначений для прихованого транспортування та евакуації підрозділів спецоперацій, здійснив посадку на базі Хамат 22 жовтня о 19:25 за київським часом, вимкнувши передавач ADS‑B, що ускладнює його відстеження в відкритих реєстрах. Під час рейсу використано позивний #SMOKE83, що свідчить про продовження серії таємних польотів США в регіоні, потенційно пов'язаних із підтримкою спеціальних місій та логістики в Лівані.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/mc-130-prybuv-do-livanu-vymknenym-trekerom",
+      "published": "2026-11-09T09:18:55+00:00"
+    },
+    {
+      "title": "ГУР розкрив технічні характеристики крилатої ракети «Герань-5 К5‑К»",
+      "original_title": "Дальність польоту до 1000 км: ГУР розкрило характеристики крилатої ракети «Герань-5 К5-К»",
+      "summary": "Головне управління розвідки оприлюднило дані про нову російську малогабаритну крилату ракету «Герань-5 К5‑К»: довжина ≈ 4 м, розмах крил ≈ 3 м, швидкість >450 км/год, дальність польоту до 1000 км і бойова частина 90 кг. Ракета оснащена інерційною навігацією SADRA Seeker, оптико‑електронною системою «Сусанин» та численними іноземними компонентами, зокрема мікрокомп'ютерами Raspberry Pi і китайськими навігаційними модулями. Такі параметри дозволяють їй уражати цілі на значних відстанях, що підвищує загрозу для стратегічних об’єктів на території України.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/harakterystyky-rakety-geran-5-k5-k",
+      "published": "2026-11-09T09:27:28+00:00"
+    },
+    {
+      "title": "Safran і MSI-Defence Systems представили нову протидронову морську башту",
+      "original_title": "Safran and MSI-DS Partner on Next-Gen Counter-Drone Naval Turrets",
+      "summary": "На виставці Euronaval 2026 компанії Safran і MSI-Defence Systems оголосили про спільний проєкт новітньої протидронової турелі для військових кораблів, яка отримала контракт C‑UAS від одного з європейських флотів НАТО. Система поєднує радіолокаційне виявлення, електронну боротьбу та автоматичне знищення безпілотних апаратів, забезпечуючи захист від широкого спектру дронів у морському середовищі. Така можливість підвищить обороноздатність флоту, зменшуючи ризик атак безпілотних засобів у прибережних та відкритих водах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets",
+      "published": "2026-11-09T09:39:36+00:00"
     }
   ]
 }

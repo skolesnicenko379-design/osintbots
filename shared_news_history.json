@@ -1,7 +1,9 @@
 {
   "links": [
     "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
+    "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
     "https://defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech",
+    "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
     "https://gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-condemns-saudi-aggression-after-dozens-killed-attack-taiz-market",
@@ -20,6 +22,7 @@
     "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor",
     "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
     "https://militarnyi.com/uk/news/rostovska-oblast-drony-poshkodyly-mist",
+    "https://militarnyi.com/uk/news/rozroblyayut-meteostantsiyu-strilets-core",
     "https://militarnyi.com/uk/news/ssha-postachannya-zbroyi-do-iranu-kaspij",
     "https://militarnyi.com/uk/news/ssha-vyprobuvaly-drony-perehoplyuvachi-fd-1",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy",
@@ -35,7 +38,6 @@
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWJuMWFCaDFnSXV1OHE2blFhZnI3UHFBYmlUc2hrdks1M1pPc2VfazNWdGRDRXp5YnJRbVRwV1pJaG5sek1mNUFoeGtpZWk0TEV0ZHhibFZfVFFTMld3bnN1NGY3VzlBaTMwbGp2azRDdEQ4WHBoSVBPTi1WSDRjaHVicUJ6X0U2dC02SWpzZUR2XzNJNGlzaDVzRDJxSE9PU0owcTliZy1hNEN0cVFUdHE0bUFGd3ZuUHUzN20yNVJSZ2UtUjhwOWlhV3c5bnJfdlc1NUh3Y1dwOW9WSEFxNWJqS1Y4OWI3ZVFmRUln",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSU5fQzVtdmEzaXZobGZfOG84b2R6aWNuM3ZhQUNuaE1iM2hTUU81ZklvMW5KdDFILXBXd25YclY3STMxYm54d3dOenVjeW96U2p4SXN1N2VUNklCWEpVZndvVUNMUEtSeFJFc3hKdlhVVGF0M2k0MXZEdWtGNGdLUkhmdlRlRk5xWFRLTjVqYU1MN2pPYXg3TzdhQklIWk5FVEZ4b1VPVzFrWkxnM3NWV25IT3I0ZkU2MG5UbEV3Umo4YVBIaDB4UWNfNmFNTm9ldll2bmQ5ZTl3VHdZc1hIUzJkV3hScWtDMkFjdElXT2tncTg",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pbDNZS0s3QUdVNmxNZjM3VW1KbVpaQnF3TlRuazZRdlIzNEtMeTRsWEJYenU1LUVsbW9JdjluekJ0UUtBWmo5eDJHc1NHNW5CWHhjMQ",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS0ZsNXlva3VNWVgyWmt0eWtKUU14NzZta21EVHZ5cG51R1ljR2x3Sm1iR0FGcUFZc2N1bUxSLWpQeWlzeGxTSUc0X3hieUVqY0pfb2dYSGxxZw",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTzh0X0pFc1VyUkRzb05vN0VMbC1hdjE0NlMtd1lTT01iaHZZWTZjekRYODBud1RtN3JzczZoSG5yckF4WUpfU3A2MDJFZ01OSHJjOGhpQkVCdw",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQ2YweFdyU3J4Q3ZFNndsVU1CVHVsSkdFM2MtNVNCNlR1MENHWWRNMm9lTVVzT0Y4RFFoQlhjdmNMNFVsT0dmR21NT2ljekJXUXdnRlBJNTRieW56eFBoeEFn",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaEFlMThVZkd0SUlpVVFXM0pLeDFmV3ZUcTZ2Z1BGbjNGNmxLQ0EzdzJXdnhVc1IzM3N4VkltaGFfVHBCYWxFNldnRGZNWXFKb196UWJRZ2lHbUl4MlJ0dGh3",
@@ -61,45 +63,14 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVo4NXN6TGpZaFNxUXRjVE1TZHFZaENRdHNZelVOc0FSYzF4TDZULVR5MVZfNV9qdm5QaDdHa3RaWmgzYTVfMVg4ZzJXeXFCbmo3eWkyaWp1VG9DUFY0dUIxUnFKcnZpdUVPVEotd3dJZGpuLUh6R1FrOUlneWVGSE5IYlpZUTM3SjFGbmI2eXgwMWNZWFFOSWp5X2haNUtVR0wtQWlBMllVNTdqTV8wbA",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkJ6UnZnMEZ4anZHRWRHWjVjd0t6Y21WN3Z2MG1qYl9Md3NxMTRjNllXcXVqcHRSLU4xSU9VVG93djhySWhmN1dPblBCNmNzZW56dUhQSl9IRlk0WS1yeWJGTjJDVVZkVVFxaldWRncxRHZIbXZKd0ZyQllEb0l3bzRDSndmOWR1eXZ2SkZ6aFRnZjBxal9TWGttSUswT21tWC1qNmI3b2t3ZVRmVUdvOGxMWnFONzA",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnZDN01VNWptbEctbGtUYnE4RXRmRjVqY256NFRyTzJkT2dIcmhfWXlyYUxxRFBSQVRnT2NqdkZxdnVqdHJWcGlQRU9IemRoTEp1REVWMVBrWmlzZkE3SmpVWHFDN3NiWnpHaEJ4LXZ0MTVlMWRSX1c2Y1puWjY3ZVNLVmhRMDhRM3VNNHRTWkFVN2JjZzQzRjhVb0ptVmxKNnI5YUgwUWZENHF0MGJLc2JhZGx4RlhmV3c",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFI5LTduanNaZnZaU1lJZUxTeGFLVkRtNVBfYTl5eTl4cWRaZm5tMXd3VTZvaGc2cFhBSGJyRTFJNlVNOUVOZTNQd3V3V3Zib1owSTJ6QTVSbkJCU25kX1dRaVN0aWZhTnFQdUhOUGcwazlacEZ4VTMyYXR2MmpiRFdlTFFhZHhUUVM3dVNHLXVCOEtIZ0otMW84TWNZYWt5bWJHNTZMQVJqbjRxa1h1WEdyemV0U0Q3SWc",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTFuOHgtLTZkcGNhQmdFWEZka2lkWE1FdWY2SnkwYkE5a2xkSHpTSGRjc2dhLWsySlc2TjRjZVpxNUhOaWhORXVVTXhKRTRJTXQ1SUp4VFF1WVVTbVNBMnhjUXpZQzJzWDVqRGxtS3ZDSWRPTWVfRGtFcFhtUGFBVFBFTjRGcHhMaHZDYUowVXhKVC0xeXM3eGpwRTR6cURUSlZUVjBQT1JNMTR5TTlZTEdRbDR1T2syeUI3Wg",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2pYYXNCZEwzOUNhNkRrSVByUU1uS1JWY0F1RmwyaTdHYUhHVkVJQ3JxNktpajBBd0ozcV9FdmhmWkxSRy1SdEY0NUI0UUhtSzFOYTlTSzFrVDBVN3NIdzYtNGtiLU5ldHNJdVdDSEFnU0E0N0NsekZtaVZjbHlNVE9DVEdnYThxYkZqUHVxWXNyajBVQURDV0toRXJLT1FRYXQ1YzlZX0ZJTGJRYmc4SXZoMFJLYl9Dejl2aVVMMA",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc203MDh3T1B5QWh1cm5JM09YeEJiX0xxRWExdVh0ejBGdVlaM21YYm5Wa0F5MEpsS2JCWXAxNjJqd184Sm9TLVVZbElOMjZsU3RYUTU1TWdqXy11Xy1TMDNSU3lDTEROOWpBeXJ4ZUo5bmVwVTBma1R1YzVuaVBmdUFKRmNNNVhaTl9Jd3VDdHR6b3hDcVlrM3hXYkoxWHoxb3lxQTNCZUMtdXA4RnZRVDlPWGtobFdQZThxSWRkdm01Zw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1hBWi1lelU5MW9jenc5REVHRHBBSXhGQ09QUktxaExVZFNMVHZLa2N3VHJKbm1rYzhMc0VmMnAtd1pJTHNvOXdsQjMtVEplZzhjWmlIbk5FeW5oeXZ0Yy13dEs0TWsycGI5OXROMTlDNEdpNl9jS0xzaUVVbkpNMG1IVTN6RXdyN2FjTTR4UGRmcU5vNk5MNm5jdFRzY1UyLU91ZWpsMTFJMkFkbXY0WncwSzlIbG9TN2hGbFE0SnhySklDNklN",
+    "https://twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf",
     "https://twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines"
   ],
   "recent_posts": [
-    {
-      "title": "Новий стимул для нерухомості не допоміг малим містам",
-      "original_title": "Beijing’s latest property stimulus falls short in lower-tier-cities - South China Morning Post",
-      "summary": "Пекін запровадив новий пакет стимулів для ринку нерухомості, проте, за даними South China Morning Post, він виявився недостатнім у містах нижчого рівня. Це свідчить про обмежений вплив заходу на відновлення попиту в цих регіонах.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "South China Morning Post",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc203MDh3T1B5QWh1cm5JM09YeEJiX0xxRWExdVh0ejBGdVlaM21YYm5Wa0F5MEpsS2JCWXAxNjJqd184Sm9TLVVZbElOMjZsU3RYUTU1TWdqXy11Xy1TMDNSU3lDTEROOWpBeXJ4ZUo5bmVwVTBma1R1YzVuaVBmdUFKRmNNNVhaTl9Jd3VDdHR6b3hDcVlrM3hXYkoxWHoxb3lxQTNCZUMtdXA4RnZRVDlPWGtobFdQZThxSWRkdm01Zw",
-      "published": "2026-11-08T01:00:18+00:00"
-    },
-    {
-      "title": "Digitalisation of Japanese SMEs Must Boost Pay",
-      "original_title": "Japan SME Digitalization Has to Reach the Pay Packet - https://economy.ac/",
-      "summary": "Стаття стверджує, що цифровізація малих і середніх підприємств Японії має перейти у підвищення заробітної плати – тобто цифрові інвестиції повинні безпосередньо впливати на розмір виплат працівникам.",
-      "source": "Японія · монетарна політика",
-      "publisher": "https://economy.ac/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lS0ZsNXlva3VNWVgyWmt0eWtKUU14NzZta21EVHZ5cG51R1ljR2x3Sm1iR0FGcUFZc2N1bUxSLWpQeWlzeGxTSUc0X3hieUVqY0pfb2dYSGxxZw",
-      "published": "2026-11-08T01:20:54+00:00"
-    },
-    {
-      "title": "Ту Лам вирушив у офіційний візит до Японії",
-      "original_title": "Party General Secretary, President To Lam leaves for official visit to Japan - VOV.VN",
-      "summary": "Згідно з повідомленням VOV.VN, Ту Лам, зазначений у статті як Генеральний секретар партії та Президент, залишив країну для офіційного візиту до Японії. Візит розглядається як дипломатична ініціатива, спрямована на зміцнення двосторонніх зв’язків між його державою та Японією. Додаткові деталі щодо програми, дати чи очікуваних результатів не надано.",
-      "source": "Bilateral Meetings",
-      "publisher": "VOV.VN",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFI5LTduanNaZnZaU1lJZUxTeGFLVkRtNVBfYTl5eTl4cWRaZm5tMXd3VTZvaGc2cFhBSGJyRTFJNlVNOUVOZTNQd3V3V3Zib1owSTJ6QTVSbkJCU25kX1dRaVN0aWZhTnFQdUhOUGcwazlacEZ4VTMyYXR2MmpiRFdlTFFhZHhUUVM3dVNHLXVCOEtIZ0otMW84TWNZYWt5bWJHNTZMQVJqbjRxa1h1WEdyemV0U0Q3SWc",
-      "published": "2026-11-08T01:50:53+00:00"
-    },
     {
       "title": "Франція планує створити перший у світі морський дрон з підбалістичною B‑STRIKE 1000",
       "original_title": "Французи можуть першими в світі зробити морський дрон на під балістичну B-STRIKE 1000, що треба при цьому вирішити - Defense Express",
@@ -749,6 +720,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTl1QmRoc0U5LWplUGNJdzI5dHNJUEdZeFo5STdlMm9yMXR1WG5IVUZaTTlRYkhHcUhVMzJya0RNREFoeklrdmlTWkotSGV5Z2JQR09tQzNLRFFFUlYxRHJvLU5kQ29KcXRteHNjVGwzRm5JenRRRHJzeWhubnk5Y2FWYko5ejl4enkzTUE4aEMwYkxyVVEwaEJLV0RaNlFT",
       "published": "2026-11-09T18:32:31+00:00"
+    },
+    {
+      "title": "ВПС США шукає постачальників сітки для захисту F‑35 на базі Тіндалл від дронів",
+      "original_title": "Netting To Shield F-35s At Tyndall AFB From Drone Attacks Eyed By USAF",
+      "summary": "Військово‑повітряні сили США оголосили тендер на встановлення спеціальної сітки навколо шести сонцезахисних укриттів на базі Тіндалл, що мають розміри 630 × 65 × 30 футів і розраховані на одночасне розміщення до шести F‑35A. Сітка повинна бути швидкознімною, мати міцність не менше 200 фунтів і сітковий розмір ≤3 дюйми, що дозволить зупиняти безпілотники групи 1 (до 20 фунтів) без шкоди для структури. Таке фізичне укріплення підвищить захист літаків від зростаючої загрози малих безпілотних апаратів, хоча ефективність буде обмежена лише проти найменших дронів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf",
+      "published": "2026-11-09T19:16:18+00:00"
+    },
+    {
+      "title": "Штучний інтелект на полі бою: агентні боти стають новим проривом",
+      "original_title": "The next breakthrough is software built on the battlefield by agentic bots",
+      "summary": "У статті йдеться про перехід від великих мовних моделей до агентних систем ШІ, які можуть самостійно виконувати завдання на полі бою. Такі системи забезпечують швидший аналіз даних і автономне управління безпілотниками, що дає перевагу у швидкості реакції, проте вимагає жорсткого контролю людини. Це підвищує ризик, що подібні інструменти потраплять до рук ворогів або недосвідчених користувачів.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
+      "published": "2026-11-09T20:15:47+00:00"
+    },
+    {
+      "title": "Українська команда Strilets розробляє метеостанцію Core з балістичним калькулятором для снайперів та протидії FPV‑дронам",
+      "original_title": "В Україні розробляють метеостанцію Strilets Core для снайперів та протидії FPV-дронам",
+      "summary": "Команда Strilets представила прототип метеостанції Core, що вимірює температуру, вологість, тиск, швидкість і напрямок вітру, а також кут нахилу, і на їх основі миттєво розраховує поправки для пострілу. Пристрій важить 234 г, має захист IP67, підтримує до 10 профілів зброї, зовнішні датчики, зарядку USB‑C та API для інтеграції з турелями та наземними роботизованими комплексами, що дозволить ефективно протидіяти FPV‑дронам і підвищити точність вогню. Прототип уже пройшов лабораторні випробування і готовий до польових тестів, що може стати важливим кроком у створенні автономних систем управління",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rozroblyayut-meteostantsiyu-strilets-core",
+      "published": "2026-11-09T20:33:04+00:00"
+    },
+    {
+      "title": "DISA шукає партнера для створення прототипу модернізованої ідентифікації у Zero‑Trust",
+      "original_title": "DISA shops for modernized identity prototype to support shift to zero-trust security",
+      "summary": "DISA випустила комерційний запит на розробку прототипу E‑ICAM нового покоління — хмарного рішення COTS/SaaS, що працюватиме в середовищах IL5 та IL6. Проект має модернізувати застарілу інфраструктуру управління ідентичностями, усунути фрагментацію каталогів і затримки FedHub, а також забезпечити динамічну оцінку атрибутів користувачів. Це посилить перший рівень захисту у Zero‑Trust архітектурі Міністерства оборони, підвищивши масштабованість, безпеку та ефективність управління доступом.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
+      "published": "2026-11-09T20:34:06+00:00"
     }
   ]
 }

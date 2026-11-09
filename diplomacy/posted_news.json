@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1ZXcVBRWkNRWXJ3bjN3cWtneXg2MWtvREg3R3d4R09NWllYQzVOZ2Qta0pjQS1KSGNNQXlDaWprWTgyYktfaC04VC0tWE9wUEozYVVTVXpmZjl5ZThydE1NdHpiVlZmdjlyQkpLY3dERXN4NWwxc0JvQkFOc3Yzc1VWemZtWDVidmRtNGNscmQ3WFdwN3pXbkFnVmhMRFVQTWRWbkpPVTE1akNQNGdvR3JfUVBxOGRMUlZCZGZjVTJoTWNCVGZ5NHB1cXZqNElUaEtRLUxB?oc=5",
-    "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/",
-    "http://www.africanews.com/2026/10/25/iranian-president-blames-united-states-for-failure-of-interim-peace-deal/",
-    "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYzRiZExoSGhiSVB1SmVVWkxSY2dBbFhxbVZxTlEzaVRGampuVFVLQWtBYUZsQm15VWt1cTZWMFFrVXFyZGFSd25ZbU03SGsxRTgwQURsdDBXZ3JqLWJkYnBPcGM2OGtfUEdPdk5WZUczVmViLTZjb3Zad3NLVlVFTEpoOVlyUi14T2VsSy03WFZ2aEhyTXBqbDNrQW1adzFadzZOdnJGYVRmbFRGWEF1Sm5Rc1FkTGNTbFFYLXF1cjlVdl9Zdll5R3BjTmZmMngxSlJSRlBPcXhhejZKZURuTWp4STBhQktBajJuUEQzLWg1Q2xIYUFEM0pIVWRwZy1RWUwxcHFRaFl1aWxUWG8wdmF3YWx1SDZyMW1KQlRBcnJMcFJRaHc?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2FibGZReDduYU1ua3U4bm5JNnpYYTZYcUpmZlpPSFNOdXR2anZxeWR6b09TXy1sMWJZb1A4S1o2a1duQjFUejBXbjgwUFRRNVZkMS1SLTdkWUxqSjhnNHdRdHg2eWJkNVlMdUwwbXdxbV9taExha0RhSjllRW0welFGWHo2U3FEeDVEZ0F5ZGxMdDNCNU01NE5haEU2QkRkdjdWRTBkeU9IU2xuaXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ?oc=5",
-    "https://www.middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-seven",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96dktIQlllMlczT3lYX0xrN191bDZ4OEJrZTZIY25ad2xlZFh2VlducXAyd2s1SGI3WmRMSXhpREdsNTZ4R2t2RlBB?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/pope-calls-end-conflict-yemen",
-    "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXVBa3dFYUtBeE0wVmh1ajhTSGdkRmh1TWEybWhoZDNaMFNVQ05KYnE3WUh0eHF5WUNaOXJZTDlEbDdIZTd1cnlWRFlGMmJRV0pocTVwR3hteVc5SlUzUV9rXzFGczVsVTd3OWpjWmNpQTRLUTZZQ0h4emJ2Mi1ycjJMTzhRNmdVSGN6QnZFMHNzaGlsLW8tT3l1cGtlMWdxWlR1WjE1bEhzRkRORzJSa1lMVGdZMEV2dEtBM0V5d241ZW9LNndqSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MWp5WV9heVBmdUZwUWhNUVY0UnpOTWJJZVdfZ0JKRXJsT1FESW00M1VRMkFVSlBHbF9ZSTdrUW9BcllKanRyTkxIOU9IZ2VLVkJUNWpvbUozTThoY0ZfaGZTRWRJOHVDc3Q3RXZNN2p3bG5zc2xuQVhzWHl6OG8?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/sri-lanka-rescues-40-iranian-sailors-spokesman-says",
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMFpFQjF2NnBRbV93THM1RFBlejk4TmN6UFhEMVBLUVdLZWlYRGFFb2cxTWxsb1VuekpOREp3TUxpc1g2SXpYN0VBbEl1YXcyMThYWkhHMjZlUmVOY2J1TWNERktxd0NJdXBlRGRGMG55U3lZcTl2QVh6SkZ1YUF1UmRPRWdpSzJHTGEzdkVQb3NROENWZ2pzMGR1M1I1eHlGdGd4Tks0cDBuR0pyZk82TTRoTUFPQ2p5ZFE3SnZMLV80aVZFYTRiUlBFMUM5ZDl5N0ZBUS1DaXNHSDA1MEFhaGFzZm1iNXdRdVJHVl9vTTNFQQ?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-unimaginable-response-us-aggression-tensions-rise-over-hormuz",
     "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-iranian-media-says",
     "http://www.africanews.com/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival/",
@@ -1199,37 +1184,24 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId2xCQmVtdVRVOU4xanZ4SXlYUFV1MVJFZ1lnR3BwVm1SOTAtczc1eVNCZi1WVVpZbkl0bDBGOXNiQ1lBVURQRUFXdnIyMEFPWVNLdFBUbk9TdkpTcWpKcVJ5ZFNQdVN2aXZQeGxqbGE4cnpfSHVlLXZCdw?oc=5",
     "http://www.africanews.com/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest/",
     "http://www.africanews.com/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens/",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHEwYkVUcHU0UDJKTlR5d0dzNjgyNVNYWkduWF9QZl9tMzFLU01BcGdEc3paS1NYWDdDTGxVRXBoeUNLVnZLQ1djWW53Z19ibFl5QklVNE02Ml92UTJHRHFnRGhsTHFBN1VsUjlVUnlBVVUwNXdPSkMtSW14Q1NvNTdQaWRqUWVoQ0d3ZmNmTWpFc1pPdDJ2VEVVMEFKYlF4aFVBSV9hUkk1akFCTm45d1dJOGM?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHEwYkVUcHU0UDJKTlR5d0dzNjgyNVNYWkduWF9QZl9tMzFLU01BcGdEc3paS1NYWDdDTGxVRXBoeUNLVnZLQ1djWW53Z19ibFl5QklVNE02Ml92UTJHRHFnRGhsTHFBN1VsUjlVUnlBVVUwNXdPSkMtSW14Q1NvNTdQaWRqUWVoQ0d3ZmNmTWpFc1pPdDJ2VEVVMEFKYlF4aFVBSV9hUkk1akFCTm45d1dJOGM?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGV2cW5nYjh3cGtkRmxsXzZTU0VUekZneHppc0FZWTJXQmloWWhVVmVRZ28zRUhFSHUxNHVUNWU2d2dGbGJ6ck5xaW1HQXVlNU0xX2o3alIyMVRpMlkwSjAxSHBsWEpsUXRCbUNaTFdyNzR5YlJIc3ZjN1BkTFJFOGRFYXcwLUMtY0RMR0NpTHd1UjRtZC1OWVB6UG04VmZ6ZWx4MHQ1OHZlb2s?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-thinks-he-will-meet-xi-putin-set-discuss-ending-war-iran",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbVFGelNkN29FZ1lEUnZOelFzVnU3WmdFaVhpNzZ2cXlNaWM4VDA1Y3ZDdFZidThISE1maks3dWhuZ3I3QXZqU1N6ZnYzWVRobnBfTVpvaU93WVBCVXd0ZVdzNnVhR283eVdackxVSTlzWDdqU2NJeWV2TlBVa3psNzdvMExJZnBXREVpdUJBNThEOGRaWFR1WDZNQlFxYS1vYWt1Y21LQnNUcGtZTVhlWU1rZi1nUHJ5UFBLV1Z1U01HUzdnZG1fRHZvZmtHR202R2tqZVhNYmpnREtZWXg3c05SSkpWdENWRDh6NWNvSkVVdzZMVWhtUVpfQnpFUkpCNDZZcDJoblA0LWU1WlNR?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOVHU0S1RWcW81MnoxbUplOVlBdnlXOEIzX2JwYUFmV3l4SzMwWEFCY3lUcXF5UUJCNjZsQllZNVB6NGlQR2lhTUx3QTdRUUxpa3pOc1dLUXVsU1ZBaVVvQVdfNEhxaFh6emdTYy1FOGl5SGFfbHloTkk4dw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HSTNNTVVicDJuRkJPZGhveDlQa016alRkOS1udURCQnVSeHFQTkV0Wjd0UEl2QVp0RTUyN3E4ZkkzTnZUdDFLVk5BRGJ2ZExlejltX2p2QnFUVmd6VFlCa1hIa1VnWE5UbVF4RVRPaVBWZmd1ZlVRQUpRTQ?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0c2c0tQbFk2Q3JKSjVTMEZoTnVoNmVzcFhUaFI3cUtFMVBuMmF4REhmeFM3bnQ2MzkwTHdjWkRrMlRPdHg1ZXJmNUIyY2xUVHVsWFQ5TUtJQzVRMXlJMnI2cE85QnZQY1poWWJJTmpJTkl2WlRJQTVpWHA0al9uVUlRWWFFWGlTQVE?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-set-meet-qatars-prime-minister-white-house",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FRzFuT3JsSURkS0xodXlVSElRai13Y1dCek5EbU9zQmExVjI1RUFZa1RKZi1fYkpWcHFZTXRvYXJrX3NacUZQUmI4VFFGRTZ3Tml3V1AyV3BLWnpCUG5TOTFEQnVHUWRCSmVRX0Vn?oc=5",
+    "http://www.africanews.com/2026/11/09/completely-mangled-survivors-recount-deadly-egypt-train-crash/",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT09HcGphNG1pUURmRkR0c0lUeFdGSFRobVFfOWNYS184NE9wdXRlZWpEazZzbV9OcWF5QzhtUi1JRFFJRWxWUUpKNlRwZGZWaE1ZYVdoYUpqRDVjbGF1cXpLSWx0REd1OThWVml6LVZQdVNEVUNQd0czQnlTaTFTYlRvS3RMSTY2NXk5SGJkMmJic0xZbnQ5YVRma2VDVG5WSTl1TldiYjRaUTN4RmFhLTR6N2JRS1XSAbwBQVVfeXFMT0ZBaW5QaTRZbVA1SC1KLVZEbjdpZ0tqOG5hT0R6cG9pYl8wWGZKdEcyTHE5S2hxU0ZPdFFxOHBvWjdYZk4tYjBXREJoTHR3cDlWd3QxVzJoSUxmX3JfVHVMeXhNb21LV09HUzNSMFFuNlJLQWx6eXBhdlVUcUtRbzJKOHhsMDBCWk9kdE1GUUNLdmxlanlrWVpHcHdXOTJrNDJUeXhNTmFiSDF6dnBKanRXd21UWmc5czhCTkE?oc=5",
+    "https://www.theafricareport.com/435717/ghana-2028-who-succeeds-mahama-as-ruling-party-power-struggle-begins/",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVRXaGNsaFNGZ0JBaGptZDlSaTRsMjFCaTVFWDZZV19YQXczc3VmOEZpZDE0ajRLQ2FUd2l0VXVtLU1kV2h2SU9iYzdaVExmNjZQQ1FNQVZqVFVzdDZqYVN5WEdXWWVKVFFyaVpfYmhXV1lkMDFueEJhalE3cmtmMFBVNHNRTVJmSUJSQS10SHVtRGk5aC1MeG1uclkzcTdhQkJhR3E1dklES0RGdEFQVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUnlCNlBINEczbnpaNExGb3NHei03NXpDVE1zbF9hY1JNWUhZdXdjODExSXRVdlZJa2V2WklBYkQ2cEVKc1lfanhEVkI0MmZreGpNSWliMUlyTGg1Zl9VRnhTSTJFOU9iUkItNnI1Q1g5M1ZaLW4wSU5wMm9BekpzQXBjQ3I5Z2N4QnNxMW9HaE9IYmU5UzhHN2xraW5pYjBKQnFJS0RuM21pUmZ4U3lSUjlqVlBteFVF?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія в Радбезі ООН засудила порушення демілітаризованого статусу Аб'єй",
-      "summary": "Під час засідання Ради Безпеки ООН щодо Судану та Південного Судану заступниця постійного представника Великої Британії при ООН Кейт Фостер заявила, що триваючі порушення демілітаризованого статусу Аб'єй є неприйнятними. Британія засудила нещодавні атаки безпілотників поблизу ринку Амієт і Тодаха, які сталися 19 жовтня та призвели до жертв серед цивільних і переміщення тисяч людей. У Лондоні наголосили на необхідності забезпечення безпеки місії UNISFA, виведення всіх несанкціонованих збройних си",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-11-05T16:11:59+00:00"
-    },
-    {
-      "title": "Велика Британія закликала Танзанію розслідувати насильство під час виборів 2025 року",
-      "summary": "Під час Універсального періодичного огляду Ради з прав людини ООН у Женеві посол Великої Британії з прав людини Елеанор Сандерс виступила із заявою щодо Танзанії. Велика Британія висловила глибоку стурбованість насильством під час виборів у Танзанії в жовтні 2025 року, зокрема повідомленнями про надмірне застосування сили силовиками та людські втрати. Британська сторона розкритикувала неопублікування звіту Комісії з розслідування та наголосила на необхідності підзвітності. Крім того, Лондон згад",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-11-05T16:05:07+00:00"
-    },
-    {
-      "title": "Британія та партнери в ОБСЄ засудили порушення прав журналістів",
-      "summary": "Британія разом із Фінляндією, Австрією, Канадою та іншими країнами Групи друзів безпеки журналістів у листопаді 2026 року оприлюднила спільну заяву в Постійній раді ОБСЄ. У документі наголошується на загрозах для свободи медіа в регіоні ОБСЄ, включно з Росією, Білоруссю та низкою інших країн, а також наголошується на неприпустимості переслідування медійників і необхідності притягнення винних до відповідальності.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-11-05T14:37:02+00:00"
-    },
-    {
-      "title": "Міністри закордонних справ Ірану та ОАЕ обговорили регіональну стабільність",
-      "summary": "Міністр закордонних справ Ірану Аббас Арагчі провів телефонну розмову зі своїм колегою з ОАЕ Шейхом Абдуллою бін Заїдом Аль Нахайяном. Під час переговорів сторони обговорили останні події в регіоні та дипломатичні зусилля, спрямовані на підтримання стабільності. Шейх Абдулла бін Заїд Аль Нахайян наголосив на важливості деескалації напруженості. Матеріал описує конкретний дипломатичний крок між двома країнами, що відповідає критеріям міжнародної дипломатії.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-11-06T05:02:13+00:00"
-    },
     {
       "title": "Трамп і емір Катару обговорили переговори США‑Іран щодо війни",
       "summary": "За даними Bloomberg, США та Іран наближаються до можливого прориву у переговорах про завершення війни: Тегеран розглядає пропозиції щодо ядерної програми, запропоновані Катаром, головним посередником. Президент США Дональд Трамп провів телефонну розмову з еміром Катару Шейхом Тамімом бін Хамадом Аль Тані, обговорюючи деескалацію конфлікту та досягнення комплексної угоди. Переговори були зупинені після розпаду тимчасової угоди у червні.",
@@ -1411,6 +1383,34 @@
       "source": "Bilateral Meetings",
       "publisher": "CNN",
       "published": "2026-11-08T22:32:32+00:00"
+    },
+    {
+      "title": "Китай заявив про готовність поглибити відносини з Іраном",
+      "summary": "Китайський спецпосланник із Близького Сходу Цзяй Цзюнь після візиту до Ірану заявив про готовність Пекіну сприяти новому прогресу у двосторонніх відносинах. Під час візиту він провів зустріч із заступником секретаря Радбезу Ірану Алі Багері Кані. Цзяй також наголосив, що розширення конфлікту на Близькому Сході неможливо вирішити за допомогою сили.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-09T07:04:08+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Словаччини Юрай Бланар здійснить візит до Китаю",
+      "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило про майбутній візит міністра закордонних справ Словаччини Юрая Бланара до Китаю. Ця дипломатична подія спрямована на розвиток двосторонніх відносин між двома країнами. Конкретні дати візиту та порядок денний переговорів у повідомленні не деталізуються, проте візит підтверджено на офіційному рівні зовнішньополітичним відомством КНР.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-11-09T07:03:00+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Куби Бруно Родрігес Паррілья здійснить візит до Китаю",
+      "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило про майбутній візит до країни спеціального посланця Комуністичної партії та уряду Куби, члена Політичного бюро Центрального комітету КПК і міністра закордонних справ Бруно Родрігеса Паррільї. Ця дипломатична подія спрямована на подальше зміцнення двосторонніх відносин і обговорення співпраці між двома державами на високому рівні.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-11-09T07:02:00+00:00"
+    },
+    {
+      "title": "Дональд Трамп проведе зустріч із прем'єр-міністром Катару у Білому домі",
+      "summary": "Президент США Дональд Трамп планує провести закриту зустріч із прем'єр-міністром та міністром закордонних справ Катару шейхом Мохаммедом бін Абдулрахманом Аль Тані у Білому домі. За інформацією американського чиновника, яка надійшла до агентства Reuters, переговори мають відбутися у понеділок. Окрім зустрічі з американським лідером, глава уряду Катару також запланував переговори з віцепрезидентом США Джей Ді Венсом.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-09T06:48:52+00:00"
     }
   ]
 }

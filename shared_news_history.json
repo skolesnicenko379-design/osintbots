@@ -2,11 +2,13 @@
   "links": [
     "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
     "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
+    "https://breakingdefense.com/2026/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside",
     "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
     "https://defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech",
     "https://defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion",
     "https://defensescoop.com/2026/11/09/agencies-agree-to-counter-unauthorized-drones-without-compromising-civilian-safety-under-new-mou",
     "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
+    "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles",
     "https://gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
@@ -15,6 +17,7 @@
     "https://militarnyi.com/uk/news/mc-130-prybuv-do-livanu-vymknenym-trekerom",
     "https://militarnyi.com/uk/news/pivnichna-yevropa-stvoryt-morskyj-alyans",
     "https://militarnyi.com/uk/news/rozroblyayut-meteostantsiyu-strilets-core",
+    "https://militarnyi.com/uk/news/saratovskomu-npz-poshkodyv-ustanovky",
     "https://militarnyi.com/uk/news/saudivska-koalitsiya-znyshhyla-try-ob-yekty-z-vyrobnytstva-balistychnyh-raket-husytiv-u-yemeni",
     "https://militarnyi.com/uk/news/ssha-vyprobuvaly-drony-perehoplyuvachi-fd-1",
     "https://militarnyi.com/uk/news/zbyv-odrazu-dva-shahedy",
@@ -26,9 +29,7 @@
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm1aY25iSmJDSFhQa19YbDFyS2R4el8yYjBCNDBGaE9MQ1lzcldsSXlNUWJzZEdJRUxwUWlPbnRCWmtySVo4dVR2MFB3OTh5MWV5b3pSYWhubUdXeUFsem1QeE5lRGVmdGZ5a2dKNm5lQ2JySGE2eXlVbDZJUF9GQ0NDVVhVMl9sa05pTk92Z0VoN0t6Z29LOHJTLTVKa1oweHRTUEFibmhVR0hZYjBoa1d0OXlILUVqLXJzdy1Rak9tWFlxc0F5YWNPY0NyeUZBdDY3OUpjWlNESUlQ",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOC02TmIzc1N5c3BITkhjN0h4SzhYRVRJdzJuZ2hEN3JTbFE3eFhCdElLUkNBUXhHNlRPZmdQVTJka1dSQzhpX2M5QnVhUGhMN0huTUJZSnZ2c2xiSjBadk8tQTNrMDgxRzMxZ2ZnMXJtVnB6OFhuUk11aWJ4Mjg2bkVSVG8zZnRHTmNKWENVSTVfd1gzdVJpdENiX1NoNEU0eWtEWE9GT2QzRFRhX2c4RzJydG1uUFlSLV9pOFlrTXdHaVVxREFhakRIM2UwTmNpakFhZDJMakFoclZpbkhr",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2JGRl9OeVlEVE82NzRxOGJLMVRtZnl1MzVpUFFPMklrYXExTTI4NDFCQmhzY1lGX041X0VWQXFsTEdHNVdNQVBMRVh3NnBDaUUxalRTR3l0OFdISm1zVEo4NTZVSXB3U2tMVFFHMzBFTmtuWHVKVHF1OFdfQlZsUjVTT1BkM2taN05tQmdNMHV1MXFUNU52VVIwS19iZC1wbWpBWmx2enNIRTZBbUtnQUhrYTk1QU01UEJocWVBUXE1aWZmNU5vLTE2b1ZyS3c0Yi1NZVRzdWVGWDl0TVJwMTVpaDJGa2Z3",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pbDNZS0s3QUdVNmxNZjM3VW1KbVpaQnF3TlRuazZRdlIzNEtMeTRsWEJYenU1LUVsbW9JdjluekJ0UUtBWmo5eDJHc1NHNW5CWHhjMQ",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMnFBM21tRkpoUFBWN25rWEFka0U4VXJyUXpEcWlHdUd2UUE4WXZUbUlzeFhQMUctc1hEYVVydUJXR3ZjRkgwYW5CSWpaUkprQlBOVmoyWTNfQQ",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTzh0X0pFc1VyUkRzb05vN0VMbC1hdjE0NlMtd1lTT01iaHZZWTZjekRYODBud1RtN3JzczZoSG5yckF4WUpfU3A2MDJFZ01OSHJjOGhpQkVCdw",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMTB1M0ZXdXcySG5oc25yQUpEV1ZOelJvRklfVG9tWjBFVXpod3h3QkNNUEZ3US1pSXNYX2l6UUc0aG04YVBWNlVSOVpJS3hvcS1DZW02YzA4a1FzMFZzNUMzYnNQR2JSdzlCekI4SlJlMV9vWURj",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HSTNNTVVicDJuRkJPZGhveDlQa016alRkOS1udURCQnVSeHFQTkV0Wjd0UEl2QVp0RTUyN3E4ZkkzTnZUdDFLVk5BRGJ2ZExlejltX2p2QnFUVmd6VFlCa1hIa1VnWE5UbVF4RVRPaVBWZmd1ZlVRQUpRTQ",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNMUtuR0JoRnh3SldHOW45Wmt4elVFMlFPUTl2dW9WdVBhcUNHS3N1enRUeVR6aHBvdzROVFZCbHZ4a1ZsR3l6UkotZ1Blc3ZweWltZFFncFV3UkFNZ3NLMFdkRUN5UjBUaTVSNU1tcXRhM1NkVk1pbXFmTQ",
@@ -43,44 +44,14 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlU5YzBjajY0dnNQQWZwQ2liSVJXMnNzbERsUy1qcW1ZalpfOUF4MU5CVS0tdlNzRWpoN2pnMEpIS1JMemdBMi11ZzIxLTk4LWlsUEhhd0xBUTQ5d2R5d0Y1Y25raFJMZGwyRVF1bkpkY0JieVdWalk4NEVPNEdWeUtCWHozSEhoTmZQRVd1X3NTMk4xMVV3dDk0TFV2ckxnb0RNSFp6Zng4Z9IBqgFBVV95cUxOOUdJZXVZU3FoeXFraVQwVDM4cEc1Z2tKeDVWVi10Mzh6OTM1c3o4ano4bGppQ0hNdFBveG5zaXdfaEJfUFFGLWRSS3J1V2t6bkpqYV9Hc1N3VmhkV3RpREh2anVyWUduTU5NaDdsUzV2blJ4bVFPV3NpZllxNWRmQW01S2Jnc19EeTFzNGFJVmNHcm9CZHNFa3FnaGRtX0pMV2N6QXVQVTV3UQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1VQVnVOdEdhc080M1F1aFJLY2hDeDBxMEJlS05yT0VHa1hxYUJRNTRyTFFMRTlzeVBMc3pWQXIybnpqQy15bE16U2FRblJrTFhSaXZhdzVXUFVkX1VUV040X1JPVXdpOThtWHp0TTl5UEpjN1c0YzduQzd3MUZyTmR1SDJMbUY2NUlsRVVBQ3R4d2oyVmpGSmhIdnpLTUkySGpRQ05Vc0FOTXUzUk02T3lPOUlfSWo1SXBoTlY2cnVFR0E1a0p5bkhQRmhrWk3SAcsBQVVfeXFMUE16cGc1SXJ3aXlVZXFrNFBuWGx2ay1oYWdvcWprNFc5WVl1RnA2Y0p2cUFDeDR2RFJ0NzQwOVJudXBOTVBFS1dJRFZvMFlLMXlER3d4Mm5qNHdyMkcxZGI4ai1kMXRubWZOeDNHWmVCbElqc1JfRjNrUEYwaXNKMF92ZFlKQ3VGaFhnTV85S2tPZWRCSk9OT21aYnVwR2xWV1NMc2t0UkdCNVVlWEJzenVQczRHdXZianREcllIcllDek5Ic3VIaktJZWs",
     "https://twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
     "https://twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation",
+    "https://twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
     "https://twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf",
     "https://twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines"
   ],
   "recent_posts": [
-    {
-      "title": "Дані про інтервенції Японії показали складність посилення єни",
-      "original_title": "Japan FX intervention data underscores challenge of reversing weak yen - Nikkei Asia",
-      "summary": "За оцінкою Nikkei Asia, дані про валютні інтервенції Японії підкреслюють, наскільки складно розвернути ослаблення єни. Матеріал стосується валютних інтервенцій та динаміки слабкої єни, що важливо для монетарної й валютної політики Японії.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Nikkei Asia",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw",
-      "published": "2026-11-09T00:00:00+00:00"
-    },
-    {
-      "title": "US Treasuries Rise as AI Investment Slows, Midterms Limit Spending",
-      "original_title": "US Treasuries Gain Fresh Momentum as AI Investment Cools, Midterm Results Curb Fiscal Expansion - bloomingbit",
-      "summary": "US Treasury yields increased after AI‑related investment activity cooled, and the outcomes of the midterm elections curbed expectations of further fiscal expansion. The combined effect boosted demand for government bonds, reinforcing upward pressure on Treasury prices.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "bloomingbit",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pbDNZS0s3QUdVNmxNZjM3VW1KbVpaQnF3TlRuazZRdlIzNEtMeTRsWEJYenU1LUVsbW9JdjluekJ0UUtBWmo5eDJHc1NHNW5CWHhjMQ",
-      "published": "2026-11-09T00:13:08+00:00"
-    },
-    {
-      "title": "Президент США оголосив про переговори з Китаєм, Росією в Китаї",
-      "original_title": "BREAKING NEWS: U.S. president says to hold talks with Chinese, Russian leaders in China - Japan Wire by Kyodo News",
-      "summary": "За повідомленням Japan Wire (Kyodo News) президент Сполучених Штатів заявив про намір провести переговори з лідерами Китаю та Росії на території Китаю. У заяві зазначено, що зустрічі будуть організовані в рамках майбутніх двосторонніх діалогів, проте точна дата та місце поки не уточнені. Це офіційне повідомлення про плановану дипломатичну ініціативу між трьома державами.",
-      "source": "Bilateral Meetings",
-      "publisher": "Japan Wire by Kyodo News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTzh0X0pFc1VyUkRzb05vN0VMbC1hdjE0NlMtd1lTT01iaHZZWTZjekRYODBud1RtN3JzczZoSG5yckF4WUpfU3A2MDJFZ01OSHJjOGhpQkVCdw",
-      "published": "2026-11-09T00:32:47+00:00"
-    },
     {
       "title": "Дональд Трамп проведе зустріч із прем'єр-міністром Катару у Білому домі",
       "original_title": "Trump set to meet Qatar’s prime minister at the White House",
@@ -540,6 +511,46 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
       "published": "2026-11-10T17:04:02+00:00"
+    },
+    {
+      "title": "Повітряні сили США шукають готове ШІ для автономних систем у цислунарному просторі",
+      "original_title": "Air Force wants AI for cislunar space vehicles",
+      "summary": "Повітряні сили США опублікували запит інформації про готове до використання програмне забезпечення ШІ/ML, яке дозволить автономно керувати космічними апаратами у цислунарному просторі, виконуючи маневри утримання орбіти, оптимізації траєкторії та уникнення загроз. Вимоги передбачають готовність продукту протягом 90 днів після затвердження та повну кваліфікацію за 1,5 роки, що підкреслює потребу швидкого розгортання автономії поза орбітою Землі. Це може суттєво підвищити оперативну спроможність США у дальньому космосі, зменшуючи затримки зв’язку та навантаження наземних систем управління.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles",
+      "published": "2026-11-10T19:45:37+00:00"
+    },
+    {
+      "title": "Удар по Саратовському нафтопереробному заводу: пошкоджено технологічні установки та резервуари",
+      "original_title": "Удар України по Саратовському НПЗ пошкодив технологічні установки та резервуари",
+      "summary": "У ніч на 7 листопада українські сили оборони завдали удару по Саратовському нафтопереробному заводу Росії, вразивши кілька технологічних об’єктів, трубопроводи та резервуари. Завод, що входить до структури «Роснефть» і має потужність близько 7 млн тонн нафти на рік, забезпечує паливом російську армію, тому його часткове знищення може знизити постачання бензину, дизелю та мастильних матеріалів. За повідомленнями, удар був здійснений модернізованим перехоплювачем‑дроном ZIRKA, що демонструє підвищення ефективності української безпілотної техніки у боротьбі з російською інфраструктурою.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/saratovskomu-npz-poshkodyv-ustanovky",
+      "published": "2026-11-10T20:03:40+00:00"
+    },
+    {
+      "title": "Бездротові міношукачі безшумно патрулюють води, замінюючи тральщики",
+      "original_title": "Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
+      "summary": "У Військово-морському флоті впроваджують автономні системи для виявлення та знешкодження мін, що дозволяє виконувати місії без участі особового складу. Такі безпілотні «міношукачі» оснащені підводними сонарними датчиками та алгоритмами штучного інтелекту, які забезпечують точне виявлення мін у реальному часі. Це підвищує безпеку екіпажу, скорочує час очищення морських шляхів і потенційно знижує потребу у традиційних тральщиках.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside",
+      "published": "2026-11-10T20:06:00+00:00"
+    },
+    {
+      "title": "США переміщують KC-135 та CV-22 з RAF Mildenhall через іранські загрози",
+      "original_title": "USAF Aircraft Continue To Reposition Away From RAF Mildenhall Amid Reports Of Iranian Threats",
+      "summary": "У вівторок з бази RAF Mildenhall у Великій Британії стартували кілька заправних літаків KC-135 Stratotanker і три вертикальні транспортні CV-22 Osprey, які розташувалися по базах у Німеччині, Іспанії, Шотландії та RAF Lakenheath. Переміщення відбулося після підвищення рівня безпеки у зв’язку з повідомленнями про іранські загрози, що свідчить про готовність США розподілити стратегічні повітряні ресурси та знизити уразливість уразливих баз. Така дисперсія підвищує стійкість повітряного заправлення та швидкість реакції сил США в Європі.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
+      "published": "2026-11-10T20:53:41+00:00"
     }
   ]
 }

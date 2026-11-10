@@ -1,6 +1,7 @@
 {
   "links": [
     "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
+    "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
     "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
     "https://defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech",
     "https://defensescoop.com/2026/11/09/agencies-agree-to-counter-unauthorized-drones-without-compromising-civilian-safety-under-new-mou",
@@ -10,7 +11,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/iran-condemns-saudi-aggression-after-dozens-killed-attack-taiz-market",
     "https://middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-set-meet-qatars-prime-minister-white-house",
-    "https://militarnyi.com/uk/news/15-mlrd-dopomogy-dlya-ukrayiny-vid-demokrativ",
     "https://militarnyi.com/uk/news/berni-sanders-finansuvannya-vijny-z-iranom",
     "https://militarnyi.com/uk/news/chehi-operatoram-krytychnoyi-infrastruktury",
     "https://militarnyi.com/uk/news/daniyi-mesh-merezhi-dlya-zv-yazku",
@@ -20,6 +20,7 @@
     "https://militarnyi.com/uk/news/mke-predstavyla-turel-tolga-2-20-mm-garmaty",
     "https://militarnyi.com/uk/news/morska-pihota-zdijsnyly-uspishnu-vysadku",
     "https://militarnyi.com/uk/news/nato-16-protydronovyh-system-dlya-zakupivel",
+    "https://militarnyi.com/uk/news/pivnichna-yevropa-stvoryt-morskyj-alyans",
     "https://militarnyi.com/uk/news/rakety-dlya-patriot-rumuniya-skyceptor",
     "https://militarnyi.com/uk/news/rosiyany-falshyvi-pozytsiyi-vognevyh-grup",
     "https://militarnyi.com/uk/news/rostovska-oblast-drony-poshkodyly-mist",
@@ -27,12 +28,10 @@
     "https://militarnyi.com/uk/news/ssha-postachannya-zbroyi-do-iranu-kaspij",
     "https://militarnyi.com/uk/news/ssha-vyprobuvaly-drony-perehoplyuvachi-fd-1",
     "https://militarnyi.com/uk/news/zbyv-odrazu-dva-shahedy",
-    "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets",
     "https://navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3VWVjNuVGtCdXVodW8wOFRQMUEzZ19rQ3oxeWJHOU1JODUzQmx4a01NOVhwbklUZzdzMEVCRGE2X0haMnZYazgzTndfTzZLYUVUWDdsN3B1RmZBbE5UTDU0ZGNaMzh4Nm41QnVDdzlzM0pDcHdveXBnRFd3TTFTOThxTjU5YUVsWmEwMXFaNWJGOG5vdXQ5b0ZEcWZtU2s4ZERlQkxoUUlUeFZ1NU9oQnJDSC1jRE1FZnlXYjZyUGxqSmNjcXFXb1Z2c3diY1dX0gHYAUFVX3lxTE5jN0JtNDV4eW9JVjZnMUJDTVRkVkFuWHBlS1FmVENrR1UxMmdDa3NFeWJoMFVldFEtaks0ZFQxaFBKVTlZUTF6ZWJEQnA2d2ZhdWh3OVFERFFKV0sycWNDWWpvV2J6aVdZbzktai1NM3labzdNZ01DU3BQQmlwSWc0RXBWRy1iZkVPdklDNlEtOVdmSHVrLWVOSzN3MXRWVUtTdUZGNHg5LVR2NEJoY0hXUWFUYTExc3Vob2lUNER3d0ZuY1pqZC15QU9HOWF3ejRicWhwQVhtNA",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1hhTEM1dkNvMlhUWWRNRFQ5Um5CX3BqcWYyYk02TjJyLV8teDZPMk82bGZUM3NqUjBtSFZ5VXlyRXJBN3lhYVRaemYtMTdSTjBEM2hmcGxFN2FUTkhLTnYwV3VxXzBtcHZOSjRabVZmUlplRnViMjNBMFV0eXQyQXJpalVOY3VRdTZRNzJYVjF1Q2gta3RmRUlkSVdiMlRyN21HYVg2Z1Z1RzQtV1hoTGgxQmNTSEl3azk0WDR1Y3N6WXE0MWZYa3hwY092WkN5M1NuSlR5NA",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFlxMWhaMVBvWHF4ZF9hcmRxbnpqLTF2ZWxrSmZOcS1rNGsyOGY2bmlfaUlNVzJabDZieE80TGl0aG9SVkQtaW4xZXV2TWQ4bExHRHJZZV91VWJqWFNlNGY0dTU1enlkb3I1WC02d1NaYXNGUEtycW85LXY5SmtpelZFX3d3cHc1VDU5cmttTTVBYXRsbXpNZXk5cEVkRE80UHNjenIwZldOS2hHWHNuYUxSWmc4bmY5NEEta0tEdk5UaWhJMTB2NGU5a1Vmb2RVb1pmRXdKZlc",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMk56eUowcThVVzNuMFMzX25FQTVBQ0VjSjBOWV95Qm5PU2VBWU91SzZzb25SNlN3OUFuZURGUzlqSWExYWFldUMySHMyRWRYQTNDUFl3bzNKRWVDOWpHZ0hiNk1XYXFYUVZzaHl6dFUxU2ZuR1FRY2lwNGx6TXQwUXlUUWZrMl9FNnozdUFlV2xDRWZydUFCclRtQTZTZGhnc0NrU1pmcjR0VXJvZXMzb3lFZlR5ZGlmVWhHcXd5S3NzVVFDV1EtNkJZaEM1Sno1bzZvMjcyMWdOQQ",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm1aY25iSmJDSFhQa19YbDFyS2R4el8yYjBCNDBGaE9MQ1lzcldsSXlNUWJzZEdJRUxwUWlPbnRCWmtySVo4dVR2MFB3OTh5MWV5b3pSYWhubUdXeUFsem1QeE5lRGVmdGZ5a2dKNm5lQ2JySGE2eXlVbDZJUF9GQ0NDVVhVMl9sa05pTk92Z0VoN0t6Z29LOHJTLTVKa1oweHRTUEFibmhVR0hZYjBoa1d0OXlILUVqLXJzdy1Rak9tWFlxc0F5YWNPY0NyeUZBdDY3OUpjWlNESUlQ",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOC02TmIzc1N5c3BITkhjN0h4SzhYRVRJdzJuZ2hEN3JTbFE3eFhCdElLUkNBUXhHNlRPZmdQVTJka1dSQzhpX2M5QnVhUGhMN0huTUJZSnZ2c2xiSjBadk8tQTNrMDgxRzMxZ2ZnMXJtVnB6OFhuUk11aWJ4Mjg2bkVSVG8zZnRHTmNKWENVSTVfd1gzdVJpdENiX1NoNEU0eWtEWE9GT2QzRFRhX2c4RzJydG1uUFlSLV9pOFlrTXdHaVVxREFhakRIM2UwTmNpakFhZDJMakFoclZpbkhr",
@@ -43,7 +42,6 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMnFBM21tRkpoUFBWN25rWEFka0U4VXJyUXpEcWlHdUd2UUE4WXZUbUlzeFhQMUctc1hEYVVydUJXR3ZjRkgwYW5CSWpaUkprQlBOVmoyWTNfQQ",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTzh0X0pFc1VyUkRzb05vN0VMbC1hdjE0NlMtd1lTT01iaHZZWTZjekRYODBud1RtN3JzczZoSG5yckF4WUpfU3A2MDJFZ01OSHJjOGhpQkVCdw",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQ2YweFdyU3J4Q3ZFNndsVU1CVHVsSkdFM2MtNVNCNlR1MENHWWRNMm9lTVVzT0Y4RFFoQlhjdmNMNFVsT0dmR21NT2ljekJXUXdnRlBJNTRieW56eFBoeEFn",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaEFlMThVZkd0SUlpVVFXM0pLeDFmV3ZUcTZ2Z1BGbjNGNmxLQ0EzdzJXdnhVc1IzM3N4VkltaGFfVHBCYWxFNldnRGZNWXFKb196UWJRZ2lHbUl4MlJ0dGh3",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KczhlRGFtRXNjS1hRUDdxS2NLLWg1c2c4OGlWRE0xeDhGZ09UeTEyUTI3VnB6MzNxak9rUnB6c2RsR04xamlRU2RRRjJNVzRBbzRIV05KSTNfdUNBZk10dEo2dHkxdXlRZlE",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMTB1M0ZXdXcySG5oc25yQUpEV1ZOelJvRklfVG9tWjBFVXpod3h3QkNNUEZ3US1pSXNYX2l6UUc0aG04YVBWNlVSOVpJS3hvcS1DZW02YzA4a1FzMFZzNUMzYnNQR2JSdzlCekI4SlJlMV9vWURj",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IYzhqUkZ1YTZjS09jaDI3Y3dUa21zVmxtSjUydmRid1VxWWdabEV1dEk0bW9DdUlxTVpsLUltQWxHN0xrbS1WdmFBSDIyNTNlOVJ1WG9ZVlFxSXh5VlhYSkV2bHVBeW1NTkV0WVVmR2hFVFNTTEE",
@@ -62,135 +60,20 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlENElFZmZKemtzdVlWd0RfMjFaOHlETFBac18yX0dpUEZNNzBuX1YtcEpTWHAzUExwV1l0TFM1Vm9UZVBGMFRTY2lRSWhnMGx2R0oycjljTWh1dnRfS3NOVlhZdUU4aWVIZmtJZWs1MDVWLV9UVjM1Mi1oT0FRWXluWGxpdkxEYVpUMDNvYmlGdHRxQmw2cUt1Q1pGUQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTl1QmRoc0U5LWplUGNJdzI5dHNJUEdZeFo5STdlMm9yMXR1WG5IVUZaTTlRYkhHcUhVMzJya0RNREFoeklrdmlTWkotSGV5Z2JQR09tQzNLRFFFUlYxRHJvLU5kQ29KcXRteHNjVGwzRm5JenRRRHJzeWhubnk5Y2FWYko5ejl4enkzTUE4aEMwYkxyVVEwaEJLV0RaNlFT",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVJfbFE1VnNLcVNyZkt3VlQxZmk4UWpDaGxDNFFMNVkyYjVTMWEtcEl3UERVWGNBd2NsNFRyNkk5cWJWV0dMeDlJQTFtRWdybXY5b08wSGliWkFqQmt0dmJXOUVuU1BiZGZhUlJPWm5JbFQ5VXJmZ252XzU3X3M0UDBUZ3Y5SWZkcWprbVFJQktmbEM2dS1wd0pLcWtaREtz",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkx2VmR3YUZsaGtPVVlEejcxanRNVEVsa3k2VlpyUDBvWEV1eTQxLXVNN2pjT3Ftci1RSms2R2tBcFpwemtURjR5S3RuU2Zmd052QjJCOG5JV01FOVI0MFBRdHh2WFFXcUNRSEtPS01nU1UtdGktYXBvM0JOeTJRdDJ0TnNXYVgwRmFvNGRseVdYZTAwRUxCU0lQTjMzQTZGU2c",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVRFOTlYWHZodzFTREVCZTdYQzRxQTJBemxJWFp0X2RORGRfUHVxWlJ1VVAwT0dVNkl0VERwcUcwOXM4bEdDV1piQ0tNY1RablFZWnQtanFSeG1mVEtKdlhTUnNfNW9GQmhIQXNVOTRUNDRWWmJCci1UUEl6UEVjUFFQN2dHazJqRW1ra2NSc2MxS01KUWZpU21DSnNtYmhzOVRWSnhB",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNDYXFrSnlPd3NNbF81aFo2WWsxM3hHOEY4QS1HS1d4dzc2bEVXWGFhaUFkazFDM1BZZDNodnhvWXV2cHVBR3V3dm1BX2twTnlFZm5mamg3dUt5UklCS1BlVEQ4Sl9LT0t4Z1F4c1lZTTJzdlZmQnEzQTVtcTA4dENvZ3JhTVVRNG1NNzRYQm1lRE5hSF81aEM0OS12WlNrNFFvM0V30gGuAUFVX3lxTFA5bTJxaUFEZGJFRHBSR1p5SG9uN2NLZ21tVThLM04tTTl0X3FXTjEybjZFcnRWZG5hRXdkMXV2OVJtUzl5Wno1NjBuR2lLQ3NUWjVYVmdfUW9fTEZkUUY2VGRabm4wQWpCRzFlUmdtSVBpcTJDZGR3VFNjdjNUYlhESDJMeV85d2N6aDA1QVIwcFk1SWkwb2pwSTJjenRVckNyWklhNnAtV3dIRnNTdw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlU5YzBjajY0dnNQQWZwQ2liSVJXMnNzbERsUy1qcW1ZalpfOUF4MU5CVS0tdlNzRWpoN2pnMEpIS1JMemdBMi11ZzIxLTk4LWlsUEhhd0xBUTQ5d2R5d0Y1Y25raFJMZGwyRVF1bkpkY0JieVdWalk4NEVPNEdWeUtCWHozSEhoTmZQRVd1X3NTMk4xMVV3dDk0TFV2ckxnb0RNSFp6Zng4Z9IBqgFBVV95cUxOOUdJZXVZU3FoeXFraVQwVDM4cEc1Z2tKeDVWVi10Mzh6OTM1c3o4ano4bGppQ0hNdFBveG5zaXdfaEJfUFFGLWRSS3J1V2t6bkpqYV9Hc1N3VmhkV3RpREh2anVyWUduTU5NaDdsUzV2blJ4bVFPV3NpZllxNWRmQW01S2Jnc19EeTFzNGFJVmNHcm9CZHNFa3FnaGRtX0pMV2N6QXVQVTV3UQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlB3WHpqOVFQZm5aZ1lhRjk1eWdPNVJhcFRhQlpXYjQtaXRRdDVFcnJZbFh6NTk2ZGNEdkltLU56cEpZZThsWUpBZk1oMDBDemhTOVR6eXVEM0VwMWFrdmVxWkYza0paelFaOWpQbEhHbGtMLU9NN01zcVJ2Y1pKa3Z5WVJOMGVEZGN0bkM2a1JpSU1vLXdkdm1RU1N1SHB5cS1LbGMxWG81dlpuYkk0Xw",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVo4NXN6TGpZaFNxUXRjVE1TZHFZaENRdHNZelVOc0FSYzF4TDZULVR5MVZfNV9qdm5QaDdHa3RaWmgzYTVfMVg4ZzJXeXFCbmo3eWkyaWp1VG9DUFY0dUIxUnFKcnZpdUVPVEotd3dJZGpuLUh6R1FrOUlneWVGSE5IYlpZUTM3SjFGbmI2eXgwMWNZWFFOSWp5X2haNUtVR0wtQWlBMllVNTdqTV8wbA",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkJ6UnZnMEZ4anZHRWRHWjVjd0t6Y21WN3Z2MG1qYl9Md3NxMTRjNllXcXVqcHRSLU4xSU9VVG93djhySWhmN1dPblBCNmNzZW56dUhQSl9IRlk0WS1yeWJGTjJDVVZkVVFxaldWRncxRHZIbXZKd0ZyQllEb0l3bzRDSndmOWR1eXZ2SkZ6aFRnZjBxal9TWGttSUswT21tWC1qNmI3b2t3ZVRmVUdvOGxMWnFONzA",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnZDN01VNWptbEctbGtUYnE4RXRmRjVqY256NFRyTzJkT2dIcmhfWXlyYUxxRFBSQVRnT2NqdkZxdnVqdHJWcGlQRU9IemRoTEp1REVWMVBrWmlzZkE3SmpVWHFDN3NiWnpHaEJ4LXZ0MTVlMWRSX1c2Y1puWjY3ZVNLVmhRMDhRM3VNNHRTWkFVN2JjZzQzRjhVb0ptVmxKNnI5YUgwUWZENHF0MGJLc2JhZGx4RlhmV3c",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTFuOHgtLTZkcGNhQmdFWEZka2lkWE1FdWY2SnkwYkE5a2xkSHpTSGRjc2dhLWsySlc2TjRjZVpxNUhOaWhORXVVTXhKRTRJTXQ1SUp4VFF1WVVTbVNBMnhjUXpZQzJzWDVqRGxtS3ZDSWRPTWVfRGtFcFhtUGFBVFBFTjRGcHhMaHZDYUowVXhKVC0xeXM3eGpwRTR6cURUSlZUVjBQT1JNMTR5TTlZTEdRbDR1T2syeUI3Wg",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2pYYXNCZEwzOUNhNkRrSVByUU1uS1JWY0F1RmwyaTdHYUhHVkVJQ3JxNktpajBBd0ozcV9FdmhmWkxSRy1SdEY0NUI0UUhtSzFOYTlTSzFrVDBVN3NIdzYtNGtiLU5ldHNJdVdDSEFnU0E0N0NsekZtaVZjbHlNVE9DVEdnYThxYkZqUHVxWXNyajBVQURDV0toRXJLT1FRYXQ1YzlZX0ZJTGJRYmc4SXZoMFJLYl9Dejl2aVVMMA",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1hBWi1lelU5MW9jenc5REVHRHBBSXhGQ09QUktxaExVZFNMVHZLa2N3VHJKbm1rYzhMc0VmMnAtd1pJTHNvOXdsQjMtVEplZzhjWmlIbk5FeW5oeXZ0Yy13dEs0TWsycGI5OXROMTlDNEdpNl9jS0xzaUVVbkpNMG1IVTN6RXdyN2FjTTR4UGRmcU5vNk5MNm5jdFRzY1UyLU91ZWpsMTFJMkFkbXY0WncwSzlIbG9TN2hGbFE0SnhySklDNklN",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1VQVnVOdEdhc080M1F1aFJLY2hDeDBxMEJlS05yT0VHa1hxYUJRNTRyTFFMRTlzeVBMc3pWQXIybnpqQy15bE16U2FRblJrTFhSaXZhdzVXUFVkX1VUV040X1JPVXdpOThtWHp0TTl5UEpjN1c0YzduQzd3MUZyTmR1SDJMbUY2NUlsRVVBQ3R4d2oyVmpGSmhIdnpLTUkySGpRQ05Vc0FOTXUzUk02T3lPOUlfSWo1SXBoTlY2cnVFR0E1a0p5bkhQRmhrWk3SAcsBQVVfeXFMUE16cGc1SXJ3aXlVZXFrNFBuWGx2ay1oYWdvcWprNFc5WVl1RnA2Y0p2cUFDeDR2RFJ0NzQwOVJudXBOTVBFS1dJRFZvMFlLMXlER3d4Mm5qNHdyMkcxZGI4ai1kMXRubWZOeDNHWmVCbElqc1JfRjNrUEYwaXNKMF92ZFlKQ3VGaFhnTV85S2tPZWRCSk9OT21aYnVwR2xWV1NMc2t0UkdCNVVlWEJzenVQczRHdXZianREcllIcllDek5Ic3VIaktJZWs",
     "https://twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
+    "https://twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation",
     "https://twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf",
     "https://twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines"
   ],
   "recent_posts": [
-    {
-      "title": "Чому Росія не передасть Ірану зенітно-ракетний комплекс С-400",
-      "original_title": "Диряве небо диктаторів або чому Росія не передаватиме ЗРС С-400 Ірану - Defense Express",
-      "summary": "У статті пояснюється, що Росія відмовляється передавати Ірану С-400 через побоювання розповсюдження високоточної ППО та ризик порушення міжнародних санкцій. С-400 здатний уражати цілі на відстані до 400 км і використовує різноманітні ракети, включаючи 48Н6 та 40Н6. Відмова обмежує можливості Ірану посилити протиповітряну оборону, зберігаючи стратегічну перевагу Росії у регіоні.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVo4NXN6TGpZaFNxUXRjVE1TZHFZaENRdHNZelVOc0FSYzF4TDZULVR5MVZfNV9qdm5QaDdHa3RaWmgzYTVfMVg4ZzJXeXFCbmo3eWkyaWp1VG9DUFY0dUIxUnFKcnZpdUVPVEotd3dJZGpuLUh6R1FrOUlneWVGSE5IYlpZUTM3SjFGbmI2eXgwMWNZWFFOSWp5X2haNUtVR0wtQWlBMllVNTdqTV8wbA",
-      "published": "2026-11-08T08:06:00+00:00"
-    },
-    {
-      "title": "China-Canada trade enters new chapter",
-      "original_title": "From Vitamins To Value Chains: A New Chapter In China-Canada Trade - The Daily Scrum News",
-      "summary": "China and Canada are shifting trade focus from vitamin exports to broader value chains, indicating deeper economic cooperation. This transition reflects a strategic move to integrate supply chains and enhance mutual market access.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "The Daily Scrum News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkx2VmR3YUZsaGtPVVlEejcxanRNVEVsa3k2VlpyUDBvWEV1eTQxLXVNN2pjT3Ftci1RSms2R2tBcFpwemtURjR5S3RuU2Zmd052QjJCOG5JV01FOVI0MFBRdHh2WFFXcUNRSEtPS01nU1UtdGktYXBvM0JOeTJRdDJ0TnNXYVgwRmFvNGRseVdYZTAwRUxCU0lQTjMzQTZGU2c",
-      "published": "2026-11-08T08:25:05+00:00"
-    },
-    {
-      "title": "Єгипет та GNU Лівії підписали меморандум про медичну співпрацю",
-      "original_title": "Egypt, Libya’s GNU sign MoU to strengthen health cooperation - Egypt Today",
-      "summary": "Єгипет та Уряд національної єдності (GNU) Лівії офіційно підписали меморандум про взаєморозуміння, спрямований на зміцнення співпраці у сфері охорони здоров'я. Цей дипломатичний крок зафіксований джерелом Egypt Today. Документ встановлює рамки для поглиблення двосторонніх відносин між державами саме в медичному секторі, що є конкретним офіційним рішенням між урядами. Інших деталей щодо конкретних проектів чи сум у наданому тексті не вказано.",
-      "source": "Treaties & Agreements",
-      "publisher": "Egypt Today",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlB3WHpqOVFQZm5aZ1lhRjk1eWdPNVJhcFRhQlpXYjQtaXRRdDVFcnJZbFh6NTk2ZGNEdkltLU56cEpZZThsWUpBZk1oMDBDemhTOVR6eXVEM0VwMWFrdmVxWkYza0paelFaOWpQbEhHbGtMLU9NN01zcVJ2Y1pKa3Z5WVJOMGVEZGN0bkM2a1JpSU1vLXdkdm1RU1N1SHB5cS1LbGMxWG81dlpuYkk0Xw",
-      "published": "2026-11-08T09:20:00+00:00"
-    },
-    {
-      "title": "Демократи США готують 15 млрд доларів допомоги Україні після виборів",
-      "original_title": "Демократи готують Україні $15 млрд допомоги після перемоги на виборах до Конгресу",
-      "summary": "Демократи в Конгресі готують 15 млрд доларів допомоги Україні, зокрема підтримку енергетики перед зимою. Планується додаткова допомога до початку нового Конгресу та перегляд санкційного законопроєкту, що обмежує російський оборонний сектор. Це зміцнить фінансову та енергетичну безпеку України, а також посилить міжнародний тиск на Росію.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/15-mlrd-dopomogy-dlya-ukrayiny-vid-demokrativ",
-      "published": "2026-11-08T09:27:26+00:00"
-    },
-    {
-      "title": "Нова глава місії ООН у Бангладеш зустрілася з держміністром",
-      "original_title": "Bangladesh, OHCHR vow constructive engagement as new mission head meets state minister - Daily Sun",
-      "summary": "Нова голова місії Високого комісара ООН з прав людини (OHCHR) у Бангладеш провела зустріч із державним міністром країни. Під час переговорів сторони заявили про намір забезпечити конструктивну взаємодію. Ця подія фіксує офіційний дипломатичний контакт між представником міжнародної організації та урядовцем Бангладеш щодо співпраці у сфері прав людини.",
-      "source": "Treaties & Agreements",
-      "publisher": "Daily Sun",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1hBWi1lelU5MW9jenc5REVHRHBBSXhGQ09QUktxaExVZFNMVHZLa2N3VHJKbm1rYzhMc0VmMnAtd1pJTHNvOXdsQjMtVEplZzhjWmlIbk5FeW5oeXZ0Yy13dEs0TWsycGI5OXROMTlDNEdpNl9jS0xzaUVVbkpNMG1IVTN6RXdyN2FjTTR4UGRmcU5vNk5MNm5jdFRzY1UyLU91ZWpsMTFJMkFkbXY0WncwSzlIbG9TN2hGbFE0SnhySklDNklN",
-      "published": "2026-11-08T09:38:33+00:00"
-    },
-    {
-      "title": "Naval Group створить демонстратор безпілотного бойового підводного апарату для французького флоту",
-      "original_title": "Naval Group to Build UCUV Underwater Combat Drone Demonstrator for French Navy",
-      "summary": "Компанія Naval Group розробляє прототип безпілотного бойового підводного транспортного засобу (UCUV) для Військово-морських сил Франції, з випробуваннями на морі, запланованими на 2028 рік. У цьому демонстраторы передбачено автономне управління, підводну маневреність та можливість нанесення ураження підводними боєприпасами, що розширює спектр підводних бойових можливостей флоту. Така система може підвищити ефективність протипідводних операцій та знизити ризики для особового складу під час виконання складних місій.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy",
-      "published": "2026-11-08T09:38:42+00:00"
-    },
-    {
-      "title": "Президент Туреччини Р.Ердоган прибув в Азербайджан з офіційним візитом",
-      "original_title": "Turkish President Recep Tayyip Erdogan arrives in Azerbaijan on official visit - Apa.az",
-      "summary": "За повідомленням Apa.az президент Туреччини Реджеп Таїп Ердоган прибув до Азербайджану в рамках офіційного візиту. Подія відзначає дипломатичний крок у двосторонніх відносинах між двома країнами. У матеріалі зазначено лише факт прибуття та характер візиту, без додаткових деталей щодо програми чи підписаних угод.",
-      "source": "Bilateral Meetings",
-      "publisher": "Apa.az",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnZDN01VNWptbEctbGtUYnE4RXRmRjVqY256NFRyTzJkT2dIcmhfWXlyYUxxRFBSQVRnT2NqdkZxdnVqdHJWcGlQRU9IemRoTEp1REVWMVBrWmlzZkE3SmpVWHFDN3NiWnpHaEJ4LXZ0MTVlMWRSX1c2Y1puWjY3ZVNLVmhRMDhRM3VNNHRTWkFVN2JjZzQzRjhVb0ptVmxKNnI5YUgwUWZENHF0MGJLc2JhZGx4RlhmV3c",
-      "published": "2026-11-08T09:45:00+00:00"
-    },
-    {
-      "title": "Японія планує посилити енергетичну співпрацю з Туреччиною на COP31",
-      "original_title": "Japan sees COP31 as opportunity to deepen energy cooperation with Türkiye, ambassador says - Anadolu Ajansı",
-      "summary": "Посол Японії заявив, що Японія розглядає саміт COP31 як можливість розширити енергетичну співпрацю з Туреччиною. Це свідчить про намір обох країн поглибити взаємодію у сфері енергетики під час міжнародного кліматичного форуму.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Anadolu Ajansı",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3VWVjNuVGtCdXVodW8wOFRQMUEzZ19rQ3oxeWJHOU1JODUzQmx4a01NOVhwbklUZzdzMEVCRGE2X0haMnZYazgzTndfTzZLYUVUWDdsN3B1RmZBbE5UTDU0ZGNaMzh4Nm41QnVDdzlzM0pDcHdveXBnRFd3TTFTOThxTjU5YUVsWmEwMXFaNWJGOG5vdXQ5b0ZEcWZtU2s4ZERlQkxoUUlUeFZ1NU9oQnJDSC1jRE1FZnlXYjZyUGxqSmNjcXFXb1Z2c3diY1dX0gHYAUFVX3lxTE5jN0JtNDV4eW9JVjZnMUJDTVRkVkFuWHBlS1FmVENrR1UxMmdDa3NFeWJoMFVldFEtaks0ZFQxaFBKVTlZUTF6ZWJEQnA2d2ZhdWh3OVFERFFKV0sycWNDWWpvV2J6aVdZbzktai1NM3labzdNZ01DU3BQQmlwSWc0RXBWRy1iZkVPdklDNlEtOVdmSHVrLWVOSzN3MXRWVUtTdUZGNHg5LVR2NEJoY0hXUWFUYTExc3Vob2lUNER3d0ZuY1pqZC15QU9HOWF3ejRicWhwQVhtNA",
-      "published": "2026-11-08T09:52:11+00:00"
-    },
-    {
-      "title": "Туркменістан: послуги транспорту та зв'язку зросли на 13,6%",
-      "original_title": "Turkmenistan reports 13.6% growth in transport and communications services - Trend News Agency",
-      "summary": "Туркменістан повідомив про зростання обсягу послуг у сфері транспорту та зв'язку на 13,6%. Це підтверджує заголовок матеріалу Trend News Agency. Показник стосується транспортного сектору країни, розташованої на Транскаспійському напрямі.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaEFlMThVZkd0SUlpVVFXM0pLeDFmV3ZUcTZ2Z1BGbjNGNmxLQ0EzdzJXdnhVc1IzM3N4VkltaGFfVHBCYWxFNldnRGZNWXFKb196UWJRZ2lHbUl4MlJ0dGh3",
-      "published": "2026-11-08T09:53:01+00:00"
-    },
-    {
-      "title": "Європа на роздоріжжі: боротьба за 2 трлн євро бюджету",
-      "original_title": "Europe at a Crossroads — The Battle Over the 2,000-Billion-Euro Budget - Hungarian Conservative",
-      "summary": "Європейські лідери змагаються щодо розподілу нових 2 000 млрд євро бюджету ЄС. Конфлікт стосується фінансування спільних програм і визначає пріоритети економічної політики Союзу.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Hungarian Conservative",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVRFOTlYWHZodzFTREVCZTdYQzRxQTJBemxJWFp0X2RORGRfUHVxWlJ1VVAwT0dVNkl0VERwcUcwOXM4bEdDV1piQ0tNY1RablFZWnQtanFSeG1mVEtKdlhTUnNfNW9GQmhIQXNVOTRUNDRWWmJCci1UUEl6UEVjUFFQN2dHazJqRW1ra2NSc2MxS01KUWZpU21DSnNtYmhzOVRWSnhB",
-      "published": "2026-11-08T10:00:43+00:00"
-    },
-    {
-      "title": "Російські дрони відключили електроенергію понад 600 000 мешканців Дніпропетровської",
-      "original_title": "Missile War Monitor: Russian drones cut power to more than 600,000 in Dnipropetrovska oblast - IntelliNews",
-      "summary": "У Дніпропетровській області російські дрони порушили електропостачання, що призвело до відключення живлення понад 600 000 осіб. Це підвищує ризики для місцевої інфраструктури та економічної активності. Подія продовжує негативний вплив війни на цивільне населення.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "IntelliNews",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFlxMWhaMVBvWHF4ZF9hcmRxbnpqLTF2ZWxrSmZOcS1rNGsyOGY2bmlfaUlNVzJabDZieE80TGl0aG9SVkQtaW4xZXV2TWQ4bExHRHJZZV91VWJqWFNlNGY0dTU1enlkb3I1WC02d1NaYXNGUEtycW85LXY5SmtpelZFX3d3cHc1VDU5cmttTTVBYXRsbXpNZXk5cEVkRE80UHNjenIwZldOS2hHWHNuYUxSWmc4bmY5NEEta0tEdk5UaWhJMTB2NGU5a1Vmb2RVb1pmRXdKZlc",
-      "published": "2026-11-08T10:12:24+00:00"
-    },
     {
       "title": "Україна та Європа шукають кращі військові моделі: синергія з Defense Express",
       "original_title": "Збройова синергія України та Європи: у пошуках кращих моделей - Defense Express",
@@ -592,6 +475,16 @@
       "published": "2026-11-09T15:58:43+00:00"
     },
     {
+      "title": "General Atomics представила підводний апарат Ranger, здатний нести великі вантажі та запускати БПЛА",
+      "original_title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+      "summary": "На виставці Euronaval 2026 компанія General Atomics анонсувала нові довготривалі підводні безпілотники Ranger і GA‑Ray, розраховані на багаторічні місії та здатні випускати суб‑дрони і різноманітні корисні навантаження. Універсальна платформа підтримує великі вантажі, що дозволяє використовувати її як «мобільну базу» для розвідки, електронної боротьби та доставки озброєння. Така можливість розширює спектр застосувань підводних безпілотників, підвищуючи гнучкість і автономність морських операцій.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs",
+      "published": "2026-11-09T16:12:32+00:00"
+    },
+    {
       "title": "Велика Британія у Раді Безпеки ООН засудила удари Росії по Україні",
       "original_title": "Along with our partners we will stand with Ukraine for as long as it takes: UK statement at the UN Security Council",
       "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош виступила на засіданні Ради Безпеки ООН щодо України, заявивши про продовження підтримки української сторони. У своїй заяві вона наголосила на наслідках російських ударів по цивільній та енергетичній інфраструктурі України у листопаді, закликавши міжнародну спільноту не сприймати такі атаки як норму та підтвердивши незмінність європейської допомоги.",
@@ -722,6 +615,26 @@
       "published": "2026-11-09T19:16:18+00:00"
     },
     {
+      "title": "GAO: Пентагон не може відстежити понад 17 000 деталей F‑35",
+      "original_title": "Pentagon can’t track thousands of F-35 parts: GAO",
+      "summary": "Контрольна служба GAO виявила, що з інвентарної системи програми F‑35 зникло більше 17 000 деталей, вартих приблизно 1,3 млрд доларів. Втрата такої кількості комплектуючих ускладнює технічне обслуговування та ремонт літаків, підвищує ризики простоїв і збільшує витрати на їх заміну, що може вплинути на бойову готовність підрозділів, що експлуатують F‑35.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
+      "published": "2026-11-09T19:41:23+00:00"
+    },
+    {
+      "title": "Північноєвропейські країни підписали партнерство військово-морських сил JEF на HMS Prince of Wales",
+      "original_title": "Північна Європа створить військово-морський альянс для стримування РФ",
+      "summary": "Десять країн Північної Європи, що входять до Joint Expeditionary Force, підписали угоду про спільну координацію морських операцій, зокрема протидію російським підводним човнам. Підписання відбулося на борту авіаносця HMS Prince of Wales перед Atlantic Future Forum, що підкреслює посилення військової присутності у регіоні. Новий механізм переходить від меморандумів до практичних дій, що може підвищити ефективність спільних патрулів і реакції на агресивні дії Росії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pivnichna-yevropa-stvoryt-morskyj-alyans",
+      "published": "2026-11-09T20:07:09+00:00"
+    },
+    {
       "title": "Штучний інтелект на полі бою: агентні боти стають новим проривом",
       "original_title": "The next breakthrough is software built on the battlefield by agentic bots",
       "summary": "У статті йдеться про перехід від великих мовних моделей до агентних систем ШІ, які можуть самостійно виконувати завдання на полі бою. Такі системи забезпечують швидший аналіз даних і автономне управління безпілотниками, що дає перевагу у швидкості реакції, проте вимагає жорсткого контролю людини. Це підвищує ризик, що подібні інструменти потраплять до рук ворогів або недосвідчених користувачів.",
@@ -810,6 +723,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations",
       "published": "2026-11-09T21:58:00+00:00"
+    },
+    {
+      "title": "Підвищено рівень безпеки на американських базах у Англії без пояснень",
+      "original_title": "Security Levels At U.S. Bases In England Raised Without Explanation",
+      "summary": "На RAF Mildenhall і RAF Lakenheath, ключових базах ВПС США у Великій Британії, введено посилені заходи захисту, про що повідомив американський чиновник. На базах розташовані стратегічні літаки: заправники KC‑135, розвідувальні RC‑135V/W, вертольоти CV‑22 Osprey, вантажні MC‑130J, а також винищувачі F‑15E та F‑35A, що робить їх важливими елементами повітряних операцій. Підвищення безпеки може свідчити про можливу загрозу або підготовку до нових навчань, що обмежить рух авіації та вплине на оперативну готовність підрозділів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation",
+      "published": "2026-11-09T22:35:14+00:00"
     },
     {
       "title": "Канада та Китай підписали угоду про зміцнення фінансових зв'язків",

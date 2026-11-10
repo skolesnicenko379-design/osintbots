@@ -8,11 +8,9 @@
     "https://defensescoop.com/2026/11/09/agencies-agree-to-counter-unauthorized-drones-without-compromising-civilian-safety-under-new-mou",
     "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
     "https://gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
+    "https://gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
-    "https://middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-set-meet-qatars-prime-minister-white-house",
-    "https://militarnyi.com/uk/news/berni-sanders-finansuvannya-vijny-z-iranom",
-    "https://militarnyi.com/uk/news/gayiti-operatsiyi-likvidovano-vatazhka",
     "https://militarnyi.com/uk/news/harakterystyky-rakety-geran-5-k5-k",
     "https://militarnyi.com/uk/news/mc-130-prybuv-do-livanu-vymknenym-trekerom",
     "https://militarnyi.com/uk/news/pivnichna-yevropa-stvoryt-morskyj-alyans",
@@ -24,7 +22,6 @@
     "https://navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets",
     "https://navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMk56eUowcThVVzNuMFMzX25FQTVBQ0VjSjBOWV95Qm5PU2VBWU91SzZzb25SNlN3OUFuZURGUzlqSWExYWFldUMySHMyRWRYQTNDUFl3bzNKRWVDOWpHZ0hiNk1XYXFYUVZzaHl6dFUxU2ZuR1FRY2lwNGx6TXQwUXlUUWZrMl9FNnozdUFlV2xDRWZydUFCclRtQTZTZGhnc0NrU1pmcjR0VXJvZXMzb3lFZlR5ZGlmVWhHcXd5S3NzVVFDV1EtNkJZaEM1Sno1bzZvMjcyMWdOQQ",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSGl0VFpCWEpZQ1cycDdYQ0FsdkF5QWZ2dWZWRTlhd2pTQmVZNGZjT1EwWHd4Szh1S2llbmpudzBYRmVnQXpqRjdrREoyUlR4aXIxVHF0SktPUF8ydTBOZFdweW1KbWpaOGVrV00zMHk1czdVNEpRWEFqc2ZvbHFRak9GZHdSMzVyY29RTk52QW05cEF0WDFiOXhzcDJQSmp6MDlMWFQ5cnhMNXJSa05mNk5LZndNV25uZXdwVEtIcTJaNWcwRU51VzRnYS0yd0NoeWpBSjBrLVZHUlU",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm1aY25iSmJDSFhQa19YbDFyS2R4el8yYjBCNDBGaE9MQ1lzcldsSXlNUWJzZEdJRUxwUWlPbnRCWmtySVo4dVR2MFB3OTh5MWV5b3pSYWhubUdXeUFsem1QeE5lRGVmdGZ5a2dKNm5lQ2JySGE2eXlVbDZJUF9GQ0NDVVhVMl9sa05pTk92Z0VoN0t6Z29LOHJTLTVKa1oweHRTUEFibmhVR0hZYjBoa1d0OXlILUVqLXJzdy1Rak9tWFlxc0F5YWNPY0NyeUZBdDY3OUpjWlNESUlQ",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOC02TmIzc1N5c3BITkhjN0h4SzhYRVRJdzJuZ2hEN3JTbFE3eFhCdElLUkNBUXhHNlRPZmdQVTJka1dSQzhpX2M5QnVhUGhMN0huTUJZSnZ2c2xiSjBadk8tQTNrMDgxRzMxZ2ZnMXJtVnB6OFhuUk11aWJ4Mjg2bkVSVG8zZnRHTmNKWENVSTVfd1gzdVJpdENiX1NoNEU0eWtEWE9GT2QzRFRhX2c4RzJydG1uUFlSLV9pOFlrTXdHaVVxREFhakRIM2UwTmNpakFhZDJMakFoclZpbkhr",
@@ -34,20 +31,18 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGTzh0X0pFc1VyUkRzb05vN0VMbC1hdjE0NlMtd1lTT01iaHZZWTZjekRYODBud1RtN3JzczZoSG5yckF4WUpfU3A2MDJFZ01OSHJjOGhpQkVCdw",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMTB1M0ZXdXcySG5oc25yQUpEV1ZOelJvRklfVG9tWjBFVXpod3h3QkNNUEZ3US1pSXNYX2l6UUc0aG04YVBWNlVSOVpJS3hvcS1DZW02YzA4a1FzMFZzNUMzYnNQR2JSdzlCekI4SlJlMV9vWURj",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HSTNNTVVicDJuRkJPZGhveDlQa016alRkOS1udURCQnVSeHFQTkV0Wjd0UEl2QVp0RTUyN3E4ZkkzTnZUdDFLVk5BRGJ2ZExlejltX2p2QnFUVmd6VFlCa1hIa1VnWE5UbVF4RVRPaVBWZmd1ZlVRQUpRTQ",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId2xCQmVtdVRVOU4xanZ4SXlYUFV1MVJFZ1lnR3BwVm1SOTAtczc1eVNCZi1WVVpZbkl0bDBGOXNiQ1lBVURQRUFXdnIyMEFPWVNLdFBUbk9TdkpTcWpKcVJ5ZFNQdVN2aXZQeGxqbGE4cnpfSHVlLXZCdw",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNMUtuR0JoRnh3SldHOW45Wmt4elVFMlFPUTl2dW9WdVBhcUNHS3N1enRUeVR6aHBvdzROVFZCbHZ4a1ZsR3l6UkotZ1Blc3ZweWltZFFncFV3UkFNZ3NLMFdkRUN5UjBUaTVSNU1tcXRhM1NkVk1pbXFmTQ",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOVHU0S1RWcW81MnoxbUplOVlBdnlXOEIzX2JwYUFmV3l4SzMwWEFCY3lUcXF5UUJCNjZsQllZNVB6NGlQR2lhTUx3QTdRUUxpa3pOc1dLUXVsU1ZBaVVvQVdfNEhxaFh6emdTYy1FOGl5SGFfbHloTkk4dw",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDVaWmZYbmFkbm9FVThIekpJaWtOSUtXcDlDU0FJMEVUVXhDbUpSYU0wc1BndE5WUndGc3YtR1g5SnBZN0ZmbGVLODZ1YnNVQ3p4eHdhZERqYzJNZ0hBNy1QU0d0RWNLYzUxaHpiVkEzT3F1MFZRVFZVR1BabzByWnZkNXpZY2s0MVRz",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXpzeG5mYUV5LVFCT3JIQ29YMkFXMzluS09tTnJEMVJIWEpZdU5BOWtTVEVjb21uMDVxSXVlalZWXzVxUTRNZ1k0LWNocGhHN3ZWQ21xS3UyYkt6dEFNRHhMUWJwZDJFNFhYU0lia3RqN3FTNWFVSy1LYUxuczZtVmFDOENVQWQ1LXc4Vw",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQmRZUUJlNUtCZDc3aFZ5eEpjR1FCRUs4ZnpxdlIxMmNqbkFUdlFqVmhabVB5M0VrVWtwLVZIcmFEb1ExTVdPcFVabzV5SjljUFBtMUwtQ2pNcW04UWIzdGhJeGpiWkNFM2RRYkpMMFZkdmQ0OURfMzhJSUpicTRwY1RWalZ0cjMyOUlOZmRWbnA1Nm9aNGdaZFRR",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUk9YWmhWWVVFVmdZaGx6S003aDdLLVhjY0hVUHlpQXV2ZEUyWGd0bHYwUWxvYTNZd2VGWURqSnJOcWIyUEpwd01vdjJFZFRhcHFaXzN4d3Vjb21LTHAzSDlyTVdJTlphelFodUY2NHY4dUdsamNwU3dRS2pNT2lMUmhQejYyMkRzZ1dqQ210eTZ3X0tCV3ZxZmtB",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2pzelNtZ2drT2dQY0NjZUxEOG9OUVFseWxXRTdqRHJIeFp1LXZnY3ROVEw5Q1M0RkdvcEJXeVBIdXJyN0p5dlQzM2NEV081dXhaVVM0RFYzVDE5OWFPdlowczZmZ0stOXZQMW5JSU1NUmxCcEs3UGhqREhSN2YweWtLMGI0Ty0tdktuemJpN0NUSDZNcjNlQXdNOA",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqd9IBmwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlENElFZmZKemtzdVlWd0RfMjFaOHlETFBac18yX0dpUEZNNzBuX1YtcEpTWHAzUExwV1l0TFM1Vm9UZVBGMFRTY2lRSWhnMGx2R0oycjljTWh1dnRfS3NOVlhZdUU4aWVIZmtJZWs1MDVWLV9UVjM1Mi1oT0FRWXluWGxpdkxEYVpUMDNvYmlGdHRxQmw2cUt1Q1pGUQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTl1QmRoc0U5LWplUGNJdzI5dHNJUEdZeFo5STdlMm9yMXR1WG5IVUZaTTlRYkhHcUhVMzJya0RNREFoeklrdmlTWkotSGV5Z2JQR09tQzNLRFFFUlYxRHJvLU5kQ29KcXRteHNjVGwzRm5JenRRRHJzeWhubnk5Y2FWYko5ejl4enkzTUE4aEMwYkxyVVEwaEJLV0RaNlFT",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlU5YzBjajY0dnNQQWZwQ2liSVJXMnNzbERsUy1qcW1ZalpfOUF4MU5CVS0tdlNzRWpoN2pnMEpIS1JMemdBMi11ZzIxLTk4LWlsUEhhd0xBUTQ5d2R5d0Y1Y25raFJMZGwyRVF1bkpkY0JieVdWalk4NEVPNEdWeUtCWHozSEhoTmZQRVd1X3NTMk4xMVV3dDk0TFV2ckxnb0RNSFp6Zng4Z9IBqgFBVV95cUxOOUdJZXVZU3FoeXFraVQwVDM4cEc1Z2tKeDVWVi10Mzh6OTM1c3o4ano4bGppQ0hNdFBveG5zaXdfaEJfUFFGLWRSS3J1V2t6bkpqYV9Hc1N3VmhkV3RpREh2anVyWUduTU5NaDdsUzV2blJ4bVFPV3NpZllxNWRmQW01S2Jnc19EeTFzNGFJVmNHcm9CZHNFa3FnaGRtX0pMV2N6QXVQVTV3UQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2pYYXNCZEwzOUNhNkRrSVByUU1uS1JWY0F1RmwyaTdHYUhHVkVJQ3JxNktpajBBd0ozcV9FdmhmWkxSRy1SdEY0NUI0UUhtSzFOYTlTSzFrVDBVN3NIdzYtNGtiLU5ldHNJdVdDSEFnU0E0N0NsekZtaVZjbHlNVE9DVEdnYThxYkZqUHVxWXNyajBVQURDV0toRXJLT1FRYXQ1YzlZX0ZJTGJRYmc4SXZoMFJLYl9Dejl2aVVMMA",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1VQVnVOdEdhc080M1F1aFJLY2hDeDBxMEJlS05yT0VHa1hxYUJRNTRyTFFMRTlzeVBMc3pWQXIybnpqQy15bE16U2FRblJrTFhSaXZhdzVXUFVkX1VUV040X1JPVXdpOThtWHp0TTl5UEpjN1c0YzduQzd3MUZyTmR1SDJMbUY2NUlsRVVBQ3R4d2oyVmpGSmhIdnpLTUkySGpRQ05Vc0FOTXUzUk02T3lPOUlfSWo1SXBoTlY2cnVFR0E1a0p5bkhQRmhrWk3SAcsBQVVfeXFMUE16cGc1SXJ3aXlVZXFrNFBuWGx2ay1oYWdvcWprNFc5WVl1RnA2Y0p2cUFDeDR2RFJ0NzQwOVJudXBOTVBFS1dJRFZvMFlLMXlER3d4Mm5qNHdyMkcxZGI4ai1kMXRubWZOeDNHWmVCbElqc1JfRjNrUEYwaXNKMF92ZFlKQ3VGaFhnTV85S2tPZWRCSk9OT21aYnVwR2xWV1NMc2t0UkdCNVVlWEJzenVQczRHdXZianREcllIcllDek5Ic3VIaktJZWs",
     "https://twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
@@ -56,76 +51,6 @@
     "https://twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines"
   ],
   "recent_posts": [
-    {
-      "title": "Берні Сандерс закликав демократів блокувати фінансування війни проти Ірану",
-      "original_title": "Берні Сандерс закликав демократів припинити фінансування війни проти Ірану",
-      "summary": "Сенатор‑демократ Берні Сандерс у інтерв’ю CNN закликав Конгрес використати свої бюджетні повноваження для припинення фінансування військових операцій проти Ірану, посилаючись на законопроект No War Against Iran Act. За його словами, війна вже коштує США десятки мільярдів доларів, призвела до загибелі 19 американців і тисяч цивільних, а також підвищила ціни на паливо. Якщо закон буде прийнято, федеральні кошти не зможуть використовуватись для військових дій проти Ірану без спеціального дозволу Конгресу, що може суттєво обмежити американське військове втручання.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/berni-sanders-finansuvannya-vijny-z-iranom",
-      "published": "2026-11-08T18:51:46+00:00"
-    },
-    {
-      "title": "US pressure pushes Iran to rely more on Moscow",
-      "original_title": "The tighter the US grip on Iran, the more Tehran depends on Moscow - Tomorrow's Affairs",
-      "summary": "Згідно з матеріалом Tomorrow's Affairs, посилення тиску США на Іран змушує Тегеран посилювати залежність від Москви. Це свідчить про можливе збільшення економічної та політичної співпраці між Іраном і Росією у відповідь на західні санкції.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Tomorrow's Affairs",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUk9YWmhWWVVFVmdZaGx6S003aDdLLVhjY0hVUHlpQXV2ZEUyWGd0bHYwUWxvYTNZd2VGWURqSnJOcWIyUEpwd01vdjJFZFRhcHFaXzN4d3Vjb21LTHAzSDlyTVdJTlphelFodUY2NHY4dUdsamNwU3dRS2pNT2lMUmhQejYyMkRzZ1dqQ210eTZ3X0tCV3ZxZmtB",
-      "published": "2026-11-08T20:11:29+00:00"
-    },
-    {
-      "title": "На Гаїті безпілотник вбив ватажка банди Nan Boston",
-      "original_title": "На Гаїті безпілотник ліквідував ватажка банди Nan Boston",
-      "summary": "У Порт-о-Пренсі, Гаїті, безпілотний удар знищив Матіаса Сентіля, лідера угруповання Nan Boston, який отримав тяжкі поранення 5 листопада і помер наступного дня. У нападі використано сучасний бойовий дрон, а також залучено ударні гелікоптери та понад 2000 сальвадорських військовослужбовців, що свідчить про масштабну міжнародну коаліцію проти банд. Подія підкреслює зростаючу роль безпілотних систем у протидії злочинним угрупованням та можливість їхньої інтеграції у спільні операції різних країн.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/gayiti-operatsiyi-likvidovano-vatazhka",
-      "published": "2026-11-08T20:15:53+00:00"
-    },
-    {
-      "title": "Іранська делегація зустрілася з президентом Курдистану в Іраку",
-      "original_title": "Iranian delegation meet president of Kurdish region in northern Iraq",
-      "summary": "У неділю представники Ірану провели зустріч з президентом напівавтономного Курдистанського регіонального уряду в Північному Іраку, згідно зі заявою офісу президента. Під час переговорів обговорювали існуючі безпекові угоди між Іраном і Іраком, включаючи Курдистан, та шляхи посилення співпраці і механізмів підтримки стабільності. Сторони наголосили на необхідності діалогу, мирних рішень і дипломатії для вирішення спірних питань.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
-      "published": "2026-11-08T20:52:38+00:00"
-    },
-    {
-      "title": "Fonterra розширює інновації в Китаї на NZ$1,15 млрд",
-      "original_title": "Fonterra Accelerates China Innovation Drive, Linking Six Local Application Centers With NZ$1.15B Processing Expansion - https://en.edairynews.com/",
-      "summary": "Fonterra оголосила про підключення шести місцевих центрів застосувань у Китаї до нової обробної інфраструктури вартістю NZ$1,15 млрд. Інвестиція збільшує обсяги переробки молочної продукції та посилює присутність компанії на китайському ринку, що може підвищити постачання та конкурентоспроможність у галузі.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "https://en.edairynews.com/",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMk56eUowcThVVzNuMFMzX25FQTVBQ0VjSjBOWV95Qm5PU2VBWU91SzZzb25SNlN3OUFuZURGUzlqSWExYWFldUMySHMyRWRYQTNDUFl3bzNKRWVDOWpHZ0hiNk1XYXFYUVZzaHl6dFUxU2ZuR1FRY2lwNGx6TXQwUXlUUWZrMl9FNnozdUFlV2xDRWZydUFCclRtQTZTZGhnc0NrU1pmcjR0VXJvZXMzb3lFZlR5ZGlmVWhHcXd5S3NzVVFDV1EtNkJZaEM1Sno1bzZvMjcyMWdOQQ",
-      "published": "2026-11-08T22:30:14+00:00"
-    },
-    {
-      "title": "Папа Лев закликав президента Мелея захистити демократію в Аргентині",
-      "original_title": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina - CNN",
-      "summary": "За даними CNN, Папа Римський Лев під час прибуття до Аргентини звернувся до президента Хав'єра Мелея, названого союзником Дональда Трампа, із закликом «захистити демократію». Ця подія фіксує безпосередню дипломатичну взаємодію між главою Католицької церкви та лідером Аргентини на території останньої. Матеріал не містить деталей щодо інших учасників зустрічі, точної дати чи додаткових умов, окрім зазначеного публічного заклику щодо збереження демократичних інститутів.",
-      "source": "Bilateral Meetings",
-      "publisher": "CNN",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBId2xCQmVtdVRVOU4xanZ4SXlYUFV1MVJFZ1lnR3BwVm1SOTAtczc1eVNCZi1WVVpZbkl0bDBGOXNiQ1lBVURQRUFXdnIyMEFPWVNLdFBUbk9TdkpTcWpKcVJ5ZFNQdVN2aXZQeGxqbGE4cnpfSHVlLXZCdw",
-      "published": "2026-11-08T22:32:32+00:00"
-    },
-    {
-      "title": "Ринок роторних бурів зросте до 2035 року",
-      "original_title": "Rotary Drills Market To 2035: Mining Capex and Critical Minerals Demand Drive Growth - News and Statistics - IndexBox",
-      "summary": "За прогнозом IndexBox, до 2035 року ринок роторних бурів збільшиться, оскільки зростають капітальні інвестиції у гірничій галузі та попит на критичні мінерали, що стимулює розвиток цього сегмента обладнання.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "IndexBox",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2pYYXNCZEwzOUNhNkRrSVByUU1uS1JWY0F1RmwyaTdHYUhHVkVJQ3JxNktpajBBd0ozcV9FdmhmWkxSRy1SdEY0NUI0UUhtSzFOYTlTSzFrVDBVN3NIdzYtNGtiLU5ldHNJdVdDSEFnU0E0N0NsekZtaVZjbHlNVE9DVEdnYThxYkZqUHVxWXNyajBVQURDV0toRXJLT1FRYXQ1YzlZX0ZJTGJRYmc4SXZoMFJLYl9Dejl2aVVMMA",
-      "published": "2026-11-08T23:01:04+00:00"
-    },
     {
       "title": "Дані про інтервенції Японії показали складність посилення єни",
       "original_title": "Japan FX intervention data underscores challenge of reversing weak yen - Nikkei Asia",
@@ -595,6 +520,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/saudivska-koalitsiya-znyshhyla-try-ob-yekty-z-vyrobnytstva-balistychnyh-raket-husytiv-u-yemeni",
       "published": "2026-11-10T12:46:37+00:00"
+    },
+    {
+      "title": "Президент Ердоган став свідком підписання саудово-турецької угоди про відновлювану енергетику",
+      "original_title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye - Saudi Gazette",
+      "summary": "Президент Туреччини Реджеп Ердоган став свідком підписання угоди між Туреччиною та Саудівською Аравією про розвиток проєктів відновлюваної енергетики потужністю 5 000 мегават у Туреччині. Подія висвітлена виданням Saudi Gazette та стосується офіційної міжнародної взаємодії між двома державами в енергетичній сфері. Жодних додаткових деталей щодо локацій, термінів реалізації чи фінансових умов угоди у короткому тексті джерела не наведено.",
+      "source": "Treaties & Agreements",
+      "publisher": "Saudi Gazette",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ",
+      "published": "2026-11-10T16:07:00+00:00"
+    },
+    {
+      "title": "Велика Британія вимагає від Південного Судану дозволити UNMISS працювати без перешкод",
+      "original_title": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
+      "summary": "Під час засідання Ради Безпеки ООН заступниця постійного представника Великої Британії Кейт Фостер закликала владу Південного Судану дотримуватися Угоди про статус військ та забезпечити свободу пересування для миротворчої місії UNMISS. Британська сторона засудила напади на миротворців, які можуть кваліфікуватися як воєнні злочини, та вказала на критичний стан переходного періоду країни. У заяві наголошено, що обмеження, встановлені тимчасовим урядом, перешкоджають захисту цивільних та гуманітарному доступу, тоді як близько 8 мільйонів людей стикаються з гострою продовольчою нестабільністю.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
+      "published": "2026-11-10T17:04:02+00:00"
     }
   ]
 }

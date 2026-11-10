@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXdmZDAxSE81Ty1tbGJ6bXNMbEJad2FSSmg3VHkyQ3V6ZER1aHZYbTNzMThDRGUxX1M5RlhpS2s0SmNCU3pIZjNURXFha3A1TzVTRXZZNXdZN3dXR3JxLXJ1dWZqZ0JXX2JjajdKM3Y2ODA3NUVMekIybEhDa0V5dXhjbU54MnB2YkcxclVpT2R4VzhVUmJiNDNCWktsbU16U3IySk94dFhLRGhIT255bzRMTURZTTdhaWxoRFpNbkFpaEZ6bjA3UXQ0SjBQdVNXQU80aQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczVkSVc5NFRncGJOaGdaeVIzblFSRkNfd3Y0akhLdE1HVUhmQmRrdnJNelU2Y1p2ZFpUZ2VRdHYxVTkxVkVIRE5xQWFEYVQtUFRPcUx4ODZDeWhpSEdUZ2YtRWxkNGVyakhvZXpXc3drSjIyTWJZVHBJMW9majFiR0xwSElGelpJRTBjSGZIREJSZDMyN0x2NXlGeWs1T29kQWNRNUp2VnpCSEg2YmFjMGpjTnoyWmJIVkE?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3hXSWZHUVZfXzhVMXJnck1KVFI2cHV6Yi1QT3JWT2l4VUh1Ump0ZFU3OGcyN0RLOUVxVWhkRWpVR1ItaE9Zc183dmpHdWl1VlhJRkFBRjluVE56WFBYdHlCenUzekhZR1FfQVNfQlR5bFVSQ2puX3laZDB4RGhmdkdFaWo4a1Vib2NEY0FrVEgtWEVjZWZLd3ZWQjhBdw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/report-leading-officials-mecca-pact-meet-iranian-officials-tehran",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkc5a1RmVEx1d0FYMjlzSkJiRGxJXzExWjZHa0I1MHJ6N1VIYUFpc1BQOFlGckFyZXpPYXQyX180bGstZFpQRm5odGVmVmdKVUQ3M0pwY1doRlJXNkhTYTNYUUsyQlJrUXBKanQwUUxRTWJ2SVdpV2N5OVBQcUZUSXZ1Vk1ibTBieGN2R3Fxck1TUDU3YTZfMk4zbzM2OFd5c19heHhyZ1p5VE12dEhUUDh3MGlMM03SAcsBQVVfeXFMT1RjVmd4VHJjTlhUYVpRTEt2OEZtVkU1Wlo1T2NiZG5HYjF5b3NQdndpUTkxRUpNRE1hOVJqeUZtTW1HY1RQc0JIM3pBdHNiZktqR1VYNTRrMm5pd2R2Qm1CU1VWOGZNaGFCXzFGRS1CVlVSenpPMGtHQkNteDgxT0xkWXBJSmg1Q1RhWjBBQ3B5Tlg5c2NNQTRIcHBuN1FBN0NCU3Y4RFp3M01UVm82WU5xbHZENl9VcGxmS2tya3RWNThRQjN4dkZtUnM?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUHotTzJqR196bU1ndVczcHp4UjhqbGlGbVpWb1BEclU3OU1TWG1QVi10SFY0UjVyY1ZKZWhaSWtyeGhQRi1RYktOcS1Tc190V2lHLTVVZzdBY1dSVVJkMndUNS1XelBQVTZWRl94MHRKTHZuZzNfeXBWcFVMVG9iRHVHaXc4TjV1b0hmYXNSTGN3UXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNzQ1QUhTeXpGb2Y1aWlLSW52TkYzN1N2Vm1hREhzSF9rY2x2OUhPaHMtNGo3dktQX2RTWDhMWVBvNG1mQ013YlpmRXJxSkxwNmlRc1YwbUcxakdYc1hZ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHd2eWNlcGl3Z3lfSHh2S3c5UkNvNUx2Ulhhdi1oT2FNNGl5VzBXRE5ZM3FhQVNtTjhHRGJRb3VlZHhQcjFQRWZlb0JtLW1hRWR5dGR0Vk15TUlIT2ltYWlYZHhHSVVYVmNjQXlTX2V1dTFUVmRoLUVUa2txaHdNbUJ6ZzV0WVc2ZVFoVVdkNFdJRUlxN19UUXI5QXdtOUtuRGFkeXBtak1TbnF4WmlWUXRjQ0lqUUROaUFwNWMzUHBER0NTX2paTFQzN3NNYWVT?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wZXVSRk5JaWJlWVF0M1ozQ25Iak05M3lhUTc4TzBZVnVKZHg2VGMxT1o4WUVBTl83ZHdRSVdvT1FqYVBsaS14VUJkbVFoakNwcDFPcERMdTNiVnR1RXYxQTk4LXZpbkxjVTFXMnFkV1hodF9BaEhRbkFMdw?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BcXY1TXh2OWZ6SzhPY3hyWFZlNW1NaGh3NVhfckZKbjNLSl9rZTFFYUs5RzBZdVlmN0RDbk5uNlRPTG1scUhmQVJsWk82R1NKSHVpNXJvNTRDZDVSSTJxa3o3QTlKVUg1SGppMDJwbFFQdUlucUE?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/hebron-under-full-israeli-siege-mayor-says",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attacks-yemens-aden-lahij",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/missile-launchers-yemens-sanaa-destroyed-saudi-led-coalition-says",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWh2dS16MlhLYXRqR0xnVkp3ZGczSENfTXJGZWRSQTlOYVdkM0dCWjZRWWNXOVNXbDNvRm1YbU1aeklmMzJ0UXk3NElxaWJ1UlZMMVpDU2dCVnpQNnZ2Szh3bnU1TVJnblBrallyaE83Zk1iTkxkVXhBWnhlVjd4Q09TaXV5NTU3MjlkVDdWbF8xQzFpN3pnWTVYZmlIQWRTTHNjb195QmMwdE1fVTd2VFV0QzlDbC1RWWfSAccBQVVfeXFMTnFaRmpfdzd4a01jNHRocS1JM1QxMG5ROFNET0dhRXprLTFHT0kydjEzM29TT2VFMW80bWdVZWF6alR5SzIyWDJGUVBRNTJBVW1jZ2ZGSDBPbFd4WVJaaW9JTHo2R2dPeTN0c1g4eFp1SzNJV2hpeG1hZjdnYTRTbTJvTDVpMF9tTTE5QWxqbUJ4d2h1MlM2dTY4TjdVN0d1WFJMT3FBZVpKYTlKU0UyQmxoUmYxOHNrWi0xeUxQaENaNC1hMk5yUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVQ0T2Z3UjEtNVdGTmNmalFQaDkzRWtsa2NXN21KQlhiT19UZnlaQUlhYzJITDRGZjN5a1U4cXFMM2x0Z0V5NVVaMzRBYTRlaDZSLVFjSTMwR0p2Z1Fidk5OZWExU0VGdzFXVVNoX3JMODVid0NUVDJYZzBrLVNkWnU1bml1cUZG?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claim-more-attacks-houthis",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEQ1YjYxZndkYkZYbW5hdTN1UDlJYUE1R3FMWGFPbjVqR2VfMzVNVV9oRkFvM2tuTFhUdEdidjNhdzE2azJkMGZ6b1UtejZlaWpVc0p2Nk02U0dELUJxZ1ZNQ2pZcWNSeEhQck9MOGJwaXZZRTRwblJSRVROR1dubEZ1LU5wMDJNQWZveUxXSWY?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2c1Y202WThTNnZ5Y0hsZzlfN045UkQ3SDYyTU1LY1pEelM4QXF4WHpGOUpoaC1KZDJKMTlzVjdwRUtscDRrT2xCM0hUNzZDS1lNX2ZaQzZkUF92Z3FCa0pZekZUbVF4Mmx2Nk1RYnNXZWpyRXUxazRORURLLWlEUF9ELTMyYW80ZG0yQUtmbWdsYWFDamJuTTRzNk4wZzdLZGE3RmRFay1lbm8?oc=5",
@@ -1199,23 +1184,24 @@
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdjRBYUx0V3JIZThWMFpSQzJzTE9rcEtJdFJqbnVhTDhCY3oyN0VrYzhiaUlEcWdjVzhjMHlhajVqc2xQTlNzQkItQTdYLTlqOVB3c2dRNUUtODVTbGpRcVphQjhuQTBScnJuQ2hHZmVUT1YybHJqR3I0bWZEa1RORUxBUFZ2MUREM0ZwM2FUaHFOWUd6YkwwbjNoZ0p5T0twdGVXdHZXajk3alVBRzI3bC1MOHhUR0hYSGdITlBZcXlrX2RlaFVqMTVhVnNWOG5rbTJ5bDNYQUJIaTduWnl4aHNoaVF4QWNhYnNkcWNPYXcyMm8?oc=5",
     "https://www.theafricareport.com/435839/why-moving-money-across-africa-can-be-harder-than-sending-it-to-london/",
     "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-665",
-    "https://www.theafricareport.com/435865/nigeria-2027-if-atiku-is-knocked-out-does-tinubu-or-obi-gain/"
+    "https://www.theafricareport.com/435865/nigeria-2027-if-atiku-is-knocked-out-does-tinubu-or-obi-gain/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-catches-fire-after-hitting-naval-mine-hormuz-iran-says",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/joint-tory-labour-motion-zionism-not-racism-goes-vote-westminster",
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxQLWhoTmpnWFlZYnBIbDd2SUtCQm9EVnJOWlQzeUpRcVY0YzRqRTdhUEdKd2hZMV9BSHFIY3RTUFFMUjdfeGRyUmcxS0ktanBBejI0cG93X0dSQjBvdm5jNnJZaHdXUVBJaXY4bkdWelF0YU1qSTNDZWd3dXVLNjNzTmFFQTBEc0x4aUZGRUNvTXl5Z01pcGx1T0lHdkROTjdDQ3dJazhzU2s1SXM4eGZaQVJjTGgwekU4ZTlYdGozcVVmUmpvd3RvQ245LU5pelVwM1J4VmlrczlfRDF3WHVkc3JzeFA5ZUZqUGgzUGl5My1leGVRZ09tTXI0UmFyWEdE?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0tHaEV2Y3pvTWtlS2dONmoza1lmTlVKSEMwSE54ZWpKQndIYURiOUQtUERkXzdDek41UjlxT2cyVUZ4Wl9KMV9LYm1hRENqbGd1UmFhRGQ2dGR6ODAyTUwwZjdjd0ZjSmlDUzNYSUFFd0JqZ1padnNiRG1ua282TThSOThwUENSTldrUUhReUxPZUpVQVU5ckNvZVlFd3liVzlFeWticXdIT2x6U0VLRVIxRnFiNHk4dlpwZVExT1lIYkR5cU44VmxGc1I4RXRWbXM3blJhOGZiNEXSAdoBQVVfeXFMUFJaZmJKbldJWGx6Ym1VaEJKTm1HWkdBcy1OaG5rUkpEQnNaeHR1R3lxUGRsWmJESk9QMjhBd2tzam90aDJ3MnByN3NGY1RVelhmcWVQcG9fWWJmQllPRWlPMTVNTS1qVnZyR0VKalVfMVVIbEpqZlZkTXRLWmJMTm1pTUQwemw3cUlMcUp6Sm5LS3ZSZENtN0tMWmg0a0hnQlZLVmhHRWRCMzk3aTNjbmt4ZUtzYTZONnIwUXNyQTNVSjFsRXpNRE5BQzV1aGczVElENXdfdWxtckE?oc=5",
+    "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0Q3Q1R5MG5kS3N6ZEQ0b2JpaHpVR0hJNm9VUE1TS0kzUHlWR0JLcXloVHd1MEtFMFFRNThwSnVxWDJTakp4WFA5UmdEeTd6VXl1YXRvREpTRzR1M05STW1WY2I3UW5vM2lid3pUWnFWOTZnazlZQUtyTUVuR2s3OG5XZTBsVWhUYUxr?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israels-parliament-sworn-eisenkot-tries-forge-government",
+    "http://www.africanews.com/2026/11/10/ousainou-darboe-enters-gambian-2026-presidential-race/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXJBc2hPSTFiTkFyNDhmeEJlaUZBbmh3eV81eFVsejJaV2ZMTUFfaXB5ekVJaWQyUk5NcnBjX2ZWQUMxbktoNGE5NC02QTlZMy1ycFo0WHBZaUVTRWpCWENnRTR0d1pMVlpaWkRDVVlGWV9JRTB3Y1NTM0hPU3pDblhxNkd2MWlINHc?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXJlalhHWWpLZm92QXI1OVJtc3hQMGNrc1VEOExERjFpOWJkVGM5YVVSSVAxNHN1a2hBUTdNWlU5TlhhUUgycXBhUDhrWHVqNHh5MzhvZVd4THl1TXRUNDh5QTNIXzNBRC01VGRnNkVZNVJrTU1FVXdOYlBYY201YlNYdzI0cEZzck5LZGRlY1lMSGstY3VoZGtvQjVVX241T2hKcHhGNWVCVk9tSWJhdQ?oc=5",
+    "http://www.africanews.com/2026/11/10/lyon-exhibition-celebrates-malis-sogo-bo-heritage/",
+    "http://www.africanews.com/2026/11/10/drc-frn-intensifies-offensive-putting-fardc-under-pressure-on-multiple-fronts/",
+    "https://www.theafricareport.com/435915/south-africa-da-doesnt-dictate-to-others-on-candidates-says-helen-zille-as-coalition-talks-start/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/"
   ],
   "recent_posts": [
-    {
-      "title": "Папа Римський Лев XIV розпочав турне в Уругваї візитом до Монтевідео",
-      "summary": "Папа Римський Лев XIV прибув до Монтевідео на початку свого південноамериканського турне та зустрівся з президентом Уругваю Яманду Орсі. Під час виступу перед уругвайськими autorità понтифік високо оцінив роль МЕРКОСУР, мирне співіснування та захист довкілля, а також висловився на захист життя від зародження і поставив під сумнів евтаназію. У візиті також взяли участь колишні президенти Уругваю та інші посадовці. У межах поїздки заплановано меси в Пейсанду та Флориді, а також візити до Буенос-Ай",
-      "source": "MercoPress — Latin America",
-      "publisher": "",
-      "published": "2026-11-07T02:30:00+00:00"
-    },
-    {
-      "title": "Президент Китаю Сі Цзіньпин зустрівся з президентом Габону",
-      "summary": "Президент Китайської Народної Республіки Сі Цзіньпин провів переговори з президентом Габонської Республіки Брісом Клотером Олігі Нгемою. Зустріч відбулася в межах офіційних заходів на високому рівні за участю керівників держав. Лідери двох країн обговорили актуальні питання двосторонніх відносин та подальші кроки для зміцнення співпраці між Китаєм і Габоном. Офіційне повідомлення про переговори поширило Міністерство закордонних справ Китайської Народної Республіки.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-11-06T15:37:00+00:00"
-    },
     {
       "title": "Президент Китаю Сі Цзіньпин зустрівся з канцлером Австрії",
       "summary": "Президент Китайської Народної Республіки Сі Цзіньпин провів офіційну зустріч з канцлером Австрії Крістіаном Штокером. Подія відбулася в межах дипломатичних заходів на високому рівні та спрямована на розвиток двосторонніх відносин між двома державами. Сторони обговорили актуальні питання міжнародної взаємодії та співпраці. Конкретні деталі переговорів та підписані документи джерелом не уточнюються.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "980 CJME",
       "published": "2026-11-10T00:04:00+00:00"
+    },
+    {
+      "title": "Велика Британія вимагає від Південного Судану дозволити UNMISS працювати без перешкод",
+      "summary": "Під час засідання Ради Безпеки ООН заступниця постійного представника Великої Британії Кейт Фостер закликала владу Південного Судану дотримуватися Угоди про статус військ та забезпечити свободу пересування для миротворчої місії UNMISS. Британська сторона засудила напади на миротворців, які можуть кваліфікуватися як воєнні злочини, та вказала на критичний стан переходного періоду країни. У заяві наголошено, що обмеження, встановлені тимчасовим урядом, перешкоджають захисту цивільних та гуманітарн",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-11-10T17:04:02+00:00"
+    },
+    {
+      "title": "Президент Ердоган став свідком підписання саудово-турецької угоди про відновлювану енергетику",
+      "summary": "Президент Туреччини Реджеп Ердоган став свідком підписання угоди між Туреччиною та Саудівською Аравією про розвиток проєктів відновлюваної енергетики потужністю 5 000 мегават у Туреччині. Подія висвітлена виданням Saudi Gazette та стосується офіційної міжнародної взаємодії між двома державами в енергетичній сфері. Жодних додаткових деталей щодо локацій, термінів реалізації чи фінансових умов угоди у короткому тексті джерела не наведено.",
+      "source": "Treaties & Agreements",
+      "publisher": "Saudi Gazette",
+      "published": "2026-11-10T16:07:00+00:00"
     }
   ]
 }

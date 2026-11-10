@@ -1,8 +1,5 @@
 {
   "links": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/chemical-weapons-council-renews-framework-for-restrictive-measures-and-individual-listings/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/programme-for-agile-and-rapid-defence-innovation-council-gives-final-green-light/",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waVc5a3lLanByZzJwVnpxR2JoS2xsRURscDBsaHg0OElqOEw0TFk3Q0lCQm1ERUxKb1hTbGJwUTBKVzJYQnZtZDFSblBHYm9ZZ0tHNTFWQ0g?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcU1xTU5UUldRM0J2T1pEQkd6ZkZFZDdjdVlJZHFNT1lzVEVFaGNkU1NZMkg3Y09oR1paTEo5YnFkTjlHQjFmR3RGZWlydTZzYV9HQ0dNRzdIaGFDOHZpNjlNY2JqUzFYVVRpSmVIREwwUFRZYWlBU3ptUlc2UmNBa3ZTMVpndDB4TEtHcUdyckYzSHpLVS1GU1E5VkNta3pEdFdjWGoyWUt6T3hLSU02Q0g5SUxiNVVUTHgwVXNMRdIBxwFBVV95cUxNT0xfYm9TYVhyamEzUmJZbFl5cXdZSndDT1JrLVdkTmVDQTRVeDJKN011clZBbWU4TTJWY0NlOW02MUpudlNXTDlhdVktRW9LV1VhTUc3dlk1ZGZ0dEgtdXNQVmk4Z1VOM0NfbF9aNTRwbGVIRlVBdDBaWlM3MzJoTk9jMUw2TkhiQV9TZ2x5VkNPQkRHeFNydTlmODBHUHYwa0kzaE5Kc2Z0MzRwZHlJRlF6OV9BSS00ZTRaM1ZlVjItTjc5ZDA0?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRG1mMl9vV3FnTG1VWjhTN1RydDBqRjBHcWNnN3NwSXpWSGFVLUNUTGVDc0N4Uk9HbWhqcHBhYU5NcWllb1JQSU5XcTFjOUwyMm1aWk5BdFF6Z2hYN2J1WFZqNERsdHV4RXFVSTBMVE5icnh2Q0pieVVmNnI4MFZVVS0zbG82NV9ZSXBuc0pVRE02bWV3YkljS3NucDRqVVBpbFc3Vl9xSmlmazJpcGx0WTMzdnUzajhKRnFjajVqandSY0VVMFJVWkhDT29Mdw?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxONl9mQkgwSk5Lb3Y0aXU1NkVrNXJENmhSUFZDa1JLNm1ramFjVWtSTld2R1B2MkRmOVVHelp0dVNvMllOYUQ3bVMtNDFrTmFIOUN2X2R5ckFlM3oxUEloZzEzakhBU2IxVHdGZkxVYWJKYUFRajAzbS1RR1RkSXF1WWY2cWJPTFFGcjluMnlGWQ?oc=5",
@@ -1194,51 +1191,17 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXpzeG5mYUV5LVFCT3JIQ29YMkFXMzluS09tTnJEMVJIWEpZdU5BOWtTVEVjb21uMDVxSXVlalZWXzVxUTRNZ1k0LWNocGhHN3ZWQ21xS3UyYkt6dEFNRHhMUWJwZDJFNFhYU0lia3RqN3FTNWFVSy1LYUxuczZtVmFDOENVQWQ1LXc4Vw?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTl1QmRoc0U5LWplUGNJdzI5dHNJUEdZeFo5STdlMm9yMXR1WG5IVUZaTTlRYkhHcUhVMzJya0RNREFoeklrdmlTWkotSGV5Z2JQR09tQzNLRFFFUlYxRHJvLU5kQ29KcXRteHNjVGwzRm5JenRRRHJzeWhubnk5Y2FWYko5ejl4enkzTUE4aEMwYkxyVVEwaEJLV0RaNlFT?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMTB1M0ZXdXcySG5oc25yQUpEV1ZOelJvRklfVG9tWjBFVXpod3h3QkNNUEZ3US1pSXNYX2l6UUc0aG04YVBWNlVSOVpJS3hvcS1DZW02YzA4a1FzMFZzNUMzYnNQR2JSdzlCekI4SlJlMV9vWURj?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlU5YzBjajY0dnNQQWZwQ2liSVJXMnNzbERsUy1qcW1ZalpfOUF4MU5CVS0tdlNzRWpoN2pnMEpIS1JMemdBMi11ZzIxLTk4LWlsUEhhd0xBUTQ5d2R5d0Y1Y25raFJMZGwyRVF1bkpkY0JieVdWalk4NEVPNEdWeUtCWHozSEhoTmZQRVd1X3NTMk4xMVV3dDk0TFV2ckxnb0RNSFp6Zng4Z9IBqgFBVV95cUxOOUdJZXVZU3FoeXFraVQwVDM4cEc1Z2tKeDVWVi10Mzh6OTM1c3o4ano4bGppQ0hNdFBveG5zaXdfaEJfUFFGLWRSS3J1V2t6bkpqYV9Hc1N3VmhkV3RpREh2anVyWUduTU5NaDdsUzV2blJ4bVFPV3NpZllxNWRmQW01S2Jnc19EeTFzNGFJVmNHcm9CZHNFa3FnaGRtX0pMV2N6QXVQVTV3UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlENElFZmZKemtzdVlWd0RfMjFaOHlETFBac18yX0dpUEZNNzBuX1YtcEpTWHAzUExwV1l0TFM1Vm9UZVBGMFRTY2lRSWhnMGx2R0oycjljTWh1dnRfS3NOVlhZdUU4aWVIZmtJZWs1MDVWLV9UVjM1Mi1oT0FRWXluWGxpdkxEYVpUMDNvYmlGdHRxQmw2cUt1Q1pGUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqd9IBmwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqdw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNMUtuR0JoRnh3SldHOW45Wmt4elVFMlFPUTl2dW9WdVBhcUNHS3N1enRUeVR6aHBvdzROVFZCbHZ4a1ZsR3l6UkotZ1Blc3ZweWltZFFncFV3UkFNZ3NLMFdkRUN5UjBUaTVSNU1tcXRhM1NkVk1pbXFmTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mZFNEbHMtVkxVajQwaWdOTXlpNEdfUi15U2VEaXVhbHdzSUdxTW5RcmJTRzFqaXhyakdTOHVCRXBObnZ2NkpvS0ZxZVhoMFdVNTAwUHZwMlBNaTZSMGhpVXFR?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2pzelNtZ2drT2dQY0NjZUxEOG9OUVFseWxXRTdqRHJIeFp1LXZnY3ROVEw5Q1M0RkdvcEJXeVBIdXJyN0p5dlQzM2NEV081dXhaVVM0RFYzVDE5OWFPdlowczZmZ0stOXZQMW5JSU1NUmxCcEs3UGhqREhSN2YweWtLMGI0Ty0tdktuemJpN0NUSDZNcjNlQXdNOA?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1VQVnVOdEdhc080M1F1aFJLY2hDeDBxMEJlS05yT0VHa1hxYUJRNTRyTFFMRTlzeVBMc3pWQXIybnpqQy15bE16U2FRblJrTFhSaXZhdzVXUFVkX1VUV040X1JPVXdpOThtWHp0TTl5UEpjN1c0YzduQzd3MUZyTmR1SDJMbUY2NUlsRVVBQ3R4d2oyVmpGSmhIdnpLTUkySGpRQ05Vc0FOTXUzUk02T3lPOUlfSWo1SXBoTlY2cnVFR0E1a0p5bkhQRmhrWk3SAcsBQVVfeXFMUE16cGc1SXJ3aXlVZXFrNFBuWGx2ay1oYWdvcWprNFc5WVl1RnA2Y0p2cUFDeDR2RFJ0NzQwOVJudXBOTVBFS1dJRFZvMFlLMXlER3d4Mm5qNHdyMkcxZGI4ai1kMXRubWZOeDNHWmVCbElqc1JfRjNrUEYwaXNKMF92ZFlKQ3VGaFhnTV85S2tPZWRCSk9OT21aYnVwR2xWV1NMc2t0UkdCNVVlWEJzenVQczRHdXZianREcllIcllDek5Ic3VIaktJZWs?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Туркменістан: послуги транспорту та зв'язку зросли на 13,6%",
-      "original_title": "Turkmenistan reports 13.6% growth in transport and communications services - Trend News Agency",
-      "summary": "Туркменістан повідомив про зростання обсягу послуг у сфері транспорту та зв'язку на 13,6%. Це підтверджує заголовок матеріалу Trend News Agency. Показник стосується транспортного сектору країни, розташованої на Транскаспійському напрямі.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency"
-    },
-    {
-      "title": "Японія планує посилити енергетичну співпрацю з Туреччиною на COP31",
-      "original_title": "Japan sees COP31 as opportunity to deepen energy cooperation with Türkiye, ambassador says - Anadolu Ajansı",
-      "summary": "Посол Японії заявив, що Японія розглядає саміт COP31 як можливість розширити енергетичну співпрацю з Туреччиною. Це свідчить про намір обох країн поглибити взаємодію у сфері енергетики під час міжнародного кліматичного форуму.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Anadolu Ajansı"
-    },
-    {
-      "title": "Російська розвідка попереджає дефіцит бюджету через мільярди на військові витрати",
-      "original_title": "Intelligence warned of a budget shortfall in Russia amid billions in military spending - UA.NEWS",
-      "summary": "Російська розвідка повідомила про можливий дефіцит державного бюджету, пов’язаний із мільярдами доларів, витраченими на військові потреби. Це свідчить про фінансовий тиск на державні фінанси у зв’язку зі збільшенням оборонних витрат.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "UA.NEWS"
-    },
-    {
-      "title": "Російські дрони відключили електроенергію понад 600 000 мешканців Дніпропетровської",
-      "original_title": "Missile War Monitor: Russian drones cut power to more than 600,000 in Dnipropetrovska oblast - IntelliNews",
-      "summary": "У Дніпропетровській області російські дрони порушили електропостачання, що призвело до відключення живлення понад 600 000 осіб. Це підвищує ризики для місцевої інфраструктури та економічної активності. Подія продовжує негативний вплив війни на цивільне населення.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "IntelliNews"
-    },
-    {
-      "title": "Іран вважає Каспійський торговий коридор стратегічно важливим",
-      "original_title": "Iran’s Caspian Sea trade route is of great strategic significance - The Jerusalem Post",
-      "summary": "Іран підкреслив, що його Каспійський торговий маршрут має велике стратегічне значення. Це може посилити роль коридору у північ‑південних транспортних зв’язках та вплинути на регіональну торгівлю.",
-      "source": "Коридори · Північ–Південь (INSTC)",
-      "publisher": "The Jerusalem Post"
-    },
-    {
-      "title": "Прогноз: ціни на продовольчі товари зростуть на 18% у 2026‑27",
-      "original_title": "Food Commodity Prices Forecast to Rise 18% in 2026–27 | CEO Magazine Poland - CEO Magazyn",
-      "summary": "CEO Magazine Poland прогнозує підвищення цін на продовольчі товари на 18 % у 2026‑27 роках. Такий зріст може підвищити витрати споживачів і тиснути на інфляцію в глобальній економіці.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "CEO Magazyn"
-    },
     {
       "title": "Трейдери більше хвилюються через зростання, ніж інфляцію",
       "original_title": "Trader angst pivots from inflation to growth as tech rout deepens - Khaleej Times",
@@ -1336,6 +1299,48 @@
       "summary": "Brent торгувався за $93, зафіксувавши 16% падіння за тиждень, оскільки переговори щодо угоди з Іраном переходять до Трампа. Фізичний Murban залишився на рівні $99, що сигналізує про можливий різкий відскок цін.",
       "source": "Енергетика та LNG",
       "publisher": "TradingNEWS"
+    },
+    {
+      "title": "В’єтнамський «China plus one» ще потребує китайського внеску",
+      "original_title": "Opinion | In Vietnam, ‘China plus one’ still needs Chinese input - South China Morning Post",
+      "summary": "В’єтнам продовжує реалізовувати стратегію «China plus one», проте вона все ще залежить від китайського вводу. Це свідчить про неповну диверсифікацію виробничих ланцюгів і зберігає роль Китаю у в’єтнамській економіці.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "South China Morning Post"
+    },
+    {
+      "title": "Лавров: Угода США з дизелем знизила ціни",
+      "original_title": "Russia's Lavrov: US Diesel Deal Lowers Prices, Stabilizes Markets - Global Banking & Finance Review",
+      "summary": "Російський міністр закордонних справ Сергій Лавров заявив, що угода США щодо постачання дизельного палива призвела до зниження цін на дизель і стабілізувала ринки. За його словами, це позитивно вплинуло на вартість пального в Росії.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Global Banking & Finance Review"
+    },
+    {
+      "title": "India і ЄС посилюють співпрацю у торгівлі, ШІ та зв’язках",
+      "original_title": "India and EU step up cooperation on trade, AI and connectivity - Qazinform",
+      "summary": "India і Європейський Союз оголосили про розширення співпраці в галузі торгівлі, штучного інтелекту та цифрової/транспортної зв’язності. Це свідчить про намір обох сторін поглибити економічні та технологічні зв’язки, що може стимулювати нові інвестиції та проекти у зазначених сферах.",
+      "source": "ЄС · економіка, торгівля й промислова політика",
+      "publisher": "Qazinform"
+    },
+    {
+      "title": "Peterson Institute опублікував аналіз «Два двигуни AI‑буму»",
+      "original_title": "The AI Boom's Two Engines - Peterson Institute for International Economics",
+      "summary": "Institute представив новий аналітичний матеріал під назвою «The AI Boom's Two Engines», присвячений факторам, що стимулюють швидке зростання штучного інтелекту в США.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "Peterson Institute for International Economics"
+    },
+    {
+      "title": "BOJ розглядав швидше підвищення ставок, згідно підсумків жовтня",
+      "original_title": "Bank of Japan debated need for faster rate hikes, October summary shows - Yahoo Finance",
+      "summary": "У жовтневих підсумках Банку Японії зафіксовано дебати щодо необхідності прискореного підвищення процентних ставок. Це свідчить про можливу зміну монетарної політики в бік більш жорсткого підходу, що може вплинути на очікування інвесторів щодо майбутніх ставок.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Yahoo Finance"
+    },
+    {
+      "title": "Китай продовжив відстрочку нових обмежень на рідкоземельні елементи до січня",
+      "original_title": "China extends suspension of new rare earth controls until January, easing global supply fears - The News International",
+      "summary": "Китай оголосив про продовження відстрочки впровадження нових контролів за експортом рідкоземельних елементів до січня. Це рішення зменшує занепокоєння щодо глобальних постачань цих стратегічних матеріалів і підтримує стабільність ринків, що їх використовують.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "The News International"
     }
   ]
 }

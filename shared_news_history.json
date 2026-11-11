@@ -2,6 +2,7 @@
   "links": [
     "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers",
     "https://breakingdefense.com/2026/11/australian-armys-littoral-transformation-is-the-right-move-experts-say",
+    "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
     "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee",
     "https://breakingdefense.com/2026/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside",
     "https://defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth",
@@ -19,6 +20,7 @@
     "https://middleeasteye.net/live-blog/live-blog-update/un-chief-tells-turkey-climate-summit-path-mutually-assured-destruction",
     "https://militarnyi.com/uk/news/banderol-porushyly-povitryanyj-moldovy",
     "https://militarnyi.com/uk/news/bundesver-kytajski-drony-ta-avto-na-bazah",
+    "https://militarnyi.com/uk/news/npz-rosiyi-atakuyut-uzhe-somu-godynu",
     "https://militarnyi.com/uk/news/obgovoryuyut-masshtabnyj-obmin-polonenymy",
     "https://militarnyi.com/uk/news/rosiyany-vidnovyly-pozytsiyi-v-oleshkah",
     "https://militarnyi.com/uk/news/saratovskomu-npz-poshkodyv-ustanovky",
@@ -29,18 +31,21 @@
     "https://navalnews.com/naval-news/2026/11/rafael-unveils-super-ice-cruise-missile-with-1000-lb-warhead",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0VMSVFnTThUMjE5dTg0eGFyS0k5UVhvQXQzZFJlM3hwdnZhaGJObFA2Y1JmaDVVWlV5bTVLN2NYSHhtWUUwT3VqZGJPMFNKMC1EbkpxaDVyOG9ITk9JWkR1Yk9HUndHMEVWb05HY2prSl9oOUpQMnJBT3M3RmJSMGxMeUlLLWtIcFdGeHNPaUhPRmxGRkNNSnVONU9LS2dOWXFxRVRKbjBmYUp0ZDVZbmRjcWgtX1Y0bmhsSzl1U1R5SEgwajBOa2VCZ0NVd25SY1E",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSGl0VFpCWEpZQ1cycDdYQ0FsdkF5QWZ2dWZWRTlhd2pTQmVZNGZjT1EwWHd4Szh1S2llbmpudzBYRmVnQXpqRjdrREoyUlR4aXIxVHF0SktPUF8ydTBOZFdweW1KbWpaOGVrV00zMHk1czdVNEpRWEFqc2ZvbHFRak9GZHdSMzVyY29RTk52QW05cEF0WDFiOXhzcDJQSmp6MDlMWFQ5cnhMNXJSa05mNk5LZndNV25uZXdwVEtIcTJaNWcwRU51VzRnYS0yd0NoeWpBSjBrLVZHUlU",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVl4b2JTUi1GZU15QWJQQXBoV1hNQlJ3RmRfaHJQRTlCejQtVWFJMnlXWGExZzhsVGg1S3lCV1dTTG1tMGRBeWZUYmd0d1RGcnQyaTRiNS1Zb0xnaF9pTmdMWFRoNEs1dndMOWhsLUdpX0ZhWnBrM2tXX2l2RUxWS3IxZ0p5Z1M3V1pfeFlGVTlCdGJESUg4UGliOGxic2R2ZHFoQk5NcHhveVdGM3pOdzN3U25MMUdRdU4xTWpUNlJ1TEpCOU5XOWYtVEdzY09rQVlUNWdsVklTelpQdHdmVDBjN1hYMWpfMXc",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWlzd2R5MUNfc0pVOVp4QUZHR255UHNSTGlKcWliZU5heHBST1p6dXlPNFNyM1B1WVhsdHo4MFM0WlB3VW5nVFNZcjA1RTY0b2l3X3RKQWpfY3dmamtzUU83eDhhalRVZUNrR3FXbWNSN2RkMW1sQXRYV1ZtSjRjdFpwZXotbEMtUXg5UWVXOTI1Y3lTQXlCVkJNYVV2c3pSTGx2alNkYlNDbmROZkttczhyRG1qQnByUzU5UTN3blNOaDF5aW1HUTRmWDNxdEN5Z3dYZjJERWFUWlktWEp5c3hRaHBiSUsyajhaSEdlTXVGZw",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRHhHZzUxYmhLQWIySUM0bDVISENIek00b2RZS3kyU0xUYVpzRVRaZHpldWxZRnl1UTVYS3BQV044SlpabnJWLTV6d0MxbWtpQXNxaGFKZ0hlM2tuZ0hjMnk0ZEhJeGNic1k0TWo4Q1pXbjZ2eHdDQ3AyR1BzSm9RZ2JtcHlxY1ZSQ0hfektwbjVGSnhocGk0dm5FQ0UzVDNZd3hldkhIQ05fWmQ2ZkhHMHNJdXBlZ0Nmd0dFWWVsMzQ0R3VqcWRhSnlkWjBDNGx3T3pIdld4TU85VVI2d21PWW9JdHltOXRNYmZfUUkteHJfY0U",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkdDalN1VllkZzN3ZG8yT2NXcVZBTk1RX08yQ20ycFBXd1VFOHRyNTdGNHNybGhVMzV6WVhCcnRmRHpEdVR3ajFRZU9JWmJfTWpybFFHMkRrS3NmU2NkOC1RNS1scGlTd0NIMVR1dUxieWFjNUNwdXRZT2VFeWNIb2l0MV9zN3JVOFJkaF95aWFDS21kTFdtVmZvajVqZlZUd3A0UXJHN3lZbWRjN3ZHWVFJWDFmU0dsNFhmcF9lWVc3ZnFRVmdra0JaSGUwVDBRY2FHb2VZN3l1cTRVb3FnSHRJTEozMGJwbHNCUnlORlc3ZExaUV9r",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMnFBM21tRkpoUFBWN25rWEFka0U4VXJyUXpEcWlHdUd2UUE4WXZUbUlzeFhQMUctc1hEYVVydUJXR3ZjRkgwYW5CSWpaUkprQlBOVmoyWTNfQQ",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FQVpKWmJUOHo4c0VIUjBXUjVWWHpzb2l4alNCbW9pTHJOQU9oa3pEei1oRmh0MzBaQlluWmk4TzNOc1Y0OTlaWmY5eWRkaDJKYVZrbzNjSkVFSUYyMnJR",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV3NLZ09EY3hfUWtfOGRNVy1fcHpEelRBTzRyamlzYkljY3BuX1R4RGNWRDlsQ3ZRR0FTZnBnT3R0ZW5YVU5OV25obnpaNE93ZEFSVzNkVU43cno5UlhrSQ",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TOUZ5a3ktSWctZVQ3cExid1phQ3FXQ19NSlpSa2RaamtHTFE4ZERDaGNKU2xQX0R4LWx0Y3QxclhTSHVYeDZlRXVFekd3UkFaN2llMy1NUnFyU2x2bjZCLUJn",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2ZPZHkzVE1WeFdGdGhROVg5cFFaSFlzVlIzeGFOaUd3bkc0MHNKanl5NG1sWV9KTVpLVTJwM25qUkdWeHZLNkVFOUhqaGdCVmlNa0VlMW00T0xibXZjbXdQUXBzeHdRQUV3enRwUV9HbjB5VnVyUFZiYlZJdzJjUTVR",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDVaWmZYbmFkbm9FVThIekpJaWtOSUtXcDlDU0FJMEVUVXhDbUpSYU0wc1BndE5WUndGc3YtR1g5SnBZN0ZmbGVLODZ1YnNVQ3p4eHdhZERqYzJNZ0hBNy1QU0d0RWNLYzUxaHpiVkEzT3F1MFZRVFZVR1BabzByWnZkNXpZY2s0MVRz",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUxWZ1Fab240QWJoZjB6RGRjcmJVZFlURThTVXZIcFhMUVZfbHczUEVDWl93akg5MUQ4dG9lVEM5cnIyQ0ZmREFDVjRQQy0ycllrNGhCUjU3cDNybjd6WktiM2xqM2ZNYlBSVUVZSVR1VDYydzlyeGhZdk1WbWkwSUg1MGFvZw",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhYaFVubmx2QldtUTQ1dDQtdFdPdmpmMGUxd2dpZWFFaGlla0sxNjloQlYxLUlBMy1tcndwbE9pX2ZwVkJpbGg5OHM4ejRfb1FZZm5TUkQxWG5TNEJmYjNmUTJJcTU2YnJlNXU2eWVWdGRqeUV3QWNSRm5rdV9ZOEMzS3JXYWpJRFpJYXVMVGY",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFydXZkLUN3bE5lR1loR3RvdGs0eXFOZUY2VHE5Wk9zcjV1VVVOS2NjTWtCTTF4R1oydVpLRjlHNzhmSjNQbzBHY3d0RkZnWUlxZ3RJdXpQMGZpTi1wMkM5bG42NnN6Rml3QUxNUDNmMDZ3a0l1aUc5U1BRTFA0MC1DcnYtZGM4emJZWXdwM3pkTDg0eVE",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2pzelNtZ2drT2dQY0NjZUxEOG9OUVFseWxXRTdqRHJIeFp1LXZnY3ROVEw5Q1M0RkdvcEJXeVBIdXJyN0p5dlQzM2NEV081dXhaVVM0RFYzVDE5OWFPdlowczZmZ0stOXZQMW5JSU1NUmxCcEs3UGhqREhSN2YweWtLMGI0Ty0tdktuemJpN0NUSDZNcjNlQXdNOA",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0E2SXExOThRV0h0aG44QURTMnpfclUwUG0tbFlFdnlBMzdQRDh5UTF4RmgwRUt2SHBmcVhKM2lCeTZZNHk4Y3p0OWk3SmIyM2UyRkliM0JiVTBTaDZ4bktOU3c5cUtIbUUweFl6eUJBTnMzMWNuV3BHWmEyZmRHRExTcW9OaE83Q2Q3S09ER2ZkMU5CYzRHQm8xdw",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqd9IBmwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlENElFZmZKemtzdVlWd0RfMjFaOHlETFBac18yX0dpUEZNNzBuX1YtcEpTWHAzUExwV1l0TFM1Vm9UZVBGMFRTY2lRSWhnMGx2R0oycjljTWh1dnRfS3NOVlhZdUU4aWVIZmtJZWs1MDVWLV9UVjM1Mi1oT0FRWXluWGxpdkxEYVpUMDNvYmlGdHRxQmw2cUt1Q1pGUQ",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ",
@@ -48,44 +53,16 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnBocXFGY2UzWnNqVDFwS0hCX0diVGJhalJSYWJIZndXdU83bGZJMlZOOG5QTkQxZmpVOWtDOVVoZVRpLWFJRW1RWDZ1dmRyWUVDeGZqSWVNVTRiSzRpdDYyM3cyN2J5bDNrN3JBdEN2clFHdXowV0xwUEF4T1BTTG1wQmNDX1lSU2dCMXJSbDdVSjV4czBQdC10cDFNOW15Tmljd0tuVVRXUQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDJMSHBqSjZpTHlDNWlMblRSc3lqQkc1dk1uc0huWDVMOHFCRDZnUUJ3dU9uY0pibEFUR2J4TlVpUklPLTBkOU9pMnJwWEdsQVl2bXl5SS13cFRrY1FKQ2p6ZDZYQkxjQ28yLU42cFcwQTFaN2YwWUw1Mkp1blZUdGNWanIxT0JGdjVXWDdKVWJLQmlwZEFtb0NEeXFCT0pzUmlzTHBxUE5SUQ",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUZpb1BnaVZlSnBBY19kNEJjX2ltemhvSTVDbUFMaVp2VjZKY3QzR2hNLTlzZWZWMVVtdFdfOWdLeWVzbXc0cGVxaktadjNIZHpuOEhTeU5CakhkaHRXSXYwUGVRWlphZUJ3VGFIRS1ldl9ES3NNdUdfQ1pIemJGWVRpOUN6UEY5V1BuSjB5SlctZHlYczlMQmtTOURiRW9tV0E4ODQzc2lPVHJpaW9FTw",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbl9yUTNINkdjNm9mMlRwU01oOVc1X19RTjlOZ3B3Y1dhb0p2MXBRUmotRFk0NjdVMVgxaS1fTVNqSkxTZTUtMEttSFNXOVhaeFJBT3MtUnFvYm9jQUQyb0Nkamk5aDllbzdFc29DbDVmQ3FPTGo4Z0ktY3dFZHMwajRTcElmY0tpYnVRaERPMmtQNGQtdHZkWEdhb1p2R2FtZk9TcW5RSFZ6dmVBUEVJTA",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJ3VmNjREVxTWZNU0hJRDMyQWJQRFBudkQ1SG96VGhvb1R3Y2w2STJ4V2pKMUxQME9WWGllRkJWd2F0Vm54NG84YzA1NklzRnFmNG5fNFBYM0tDRzJCZGY4ZVVVOGVrRmUxVExfRm9HTWd6dW5pc2xQZFFXZEV4RU1yd2Y1X1NJYjFwS0lWclVvalFKTl81aWYxRk9KeVU0aFU2aHFzV3JJLUlTRl80eHlR",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSnliNEhCQThOUUcwV1c3dUR1di1JVUQtMXJJRVJ6ajcxOXpjYkxGZGFqejhRYm9hYlVDaHhUc29FNDVaMzBIeDF2RmQyRXJfSVM5SzBFQ21UZUVTN0R2MTR5UklERTR4NmZNa0otWC16YjI2OU55cENFT3BUNXNZSHhtOE80V0V6R29Fd2lzZEZVRk1sUmRNWFdVS01IR1NNYTRvckd0bXhUMWtyOXkyM3V2MWdlby1mTElyWnNuVEplUQ",
     "https://twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
-    "https://twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
+    "https://twz.com/air/f-35s-train-in-india-for-red-flag-of-the-east",
     "https://twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
     "https://twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
     "https://twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military"
   ],
   "recent_posts": [
-    {
-      "title": "Канада та Китай підписали угоду про зміцнення фінансових зв'язків",
-      "original_title": "Canada and China sign deal to boost financial ties - 980 CJME",
-      "summary": "Канада та Китай офіційно підписали угоду, спрямовану на посилення та зміцнення двосторонніх фінансових зв'язків. Цей дипломатичний крок передбачає розвиток співпраці між двома державами у фінансовій сфері. Документ закріплює домовленості сторін щодо розширення економічної та банківської взаємодії. Інформацію про підписання відповідної угоди оприлюднило медіа 980 CJME.",
-      "source": "Treaties & Agreements",
-      "publisher": "980 CJME",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDVaWmZYbmFkbm9FVThIekpJaWtOSUtXcDlDU0FJMEVUVXhDbUpSYU0wc1BndE5WUndGc3YtR1g5SnBZN0ZmbGVLODZ1YnNVQ3p4eHdhZERqYzJNZ0hBNy1QU0d0RWNLYzUxaHpiVkEzT3F1MFZRVFZVR1BabzByWnZkNXpZY2s0MVRz",
-      "published": "2026-11-10T00:04:00+00:00"
-    },
-    {
-      "title": "India і ЄС посилюють співпрацю у торгівлі, ШІ та зв’язках",
-      "original_title": "India and EU step up cooperation on trade, AI and connectivity - Qazinform",
-      "summary": "India і Європейський Союз оголосили про розширення співпраці в галузі торгівлі, штучного інтелекту та цифрової/транспортної зв’язності. Це свідчить про намір обох сторін поглибити економічні та технологічні зв’язки, що може стимулювати нові інвестиції та проекти у зазначених сферах.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Qazinform",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqd9IBmwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqdw",
-      "published": "2026-11-10T00:16:18+00:00"
-    },
-    {
-      "title": "Дрони MQ-58 Valkyrie коштуватимуть 6–8 млн доларів за одиницю",
-      "original_title": "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
-      "summary": "Kratos повідомив, що безпілотники Valkyrie (MQ‑58) у базовій конфігурації коштують від 6 до 8 мільйонів доларів, без додаткових бойових систем. Хоча ця сума вище запланованої, вона залишає Valkyrie у нижньому ціновому діапазоні CCA‑дронів, зберігаючи при цьому високі технічні характеристики. Це підвищує їх привабливість для США та потенційних іноземних замовників, які шукають баланс між вартістю та можливостями.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
-      "published": "2026-11-10T00:39:57+00:00"
-    },
     {
       "title": "Лавров: Угода США з дизелем знизила ціни",
       "original_title": "Russia's Lavrov: US Diesel Deal Lowers Prices, Stabilizes Markets - Global Banking & Finance Review",
@@ -557,6 +534,26 @@
       "published": "2026-11-11T10:46:10+00:00"
     },
     {
+      "title": "Польща планує придбати наземні ракети Tomahawk після німецького контракту",
+      "original_title": "Польща теж хоче наземні Tomahawk після Німеччини, яка за три батареї Typhon та 400 ракет готова дати 3,4 млрд євро - Defense Express",
+      "summary": "Уряд Польщі заявив про намір закупити наземні крилаті ракети Tomahawk, слідуючи прикладу Німеччини, яка вже уклала контракт на три батареї системи Typhon і 400 ракет. Tomahawk має дальність до 1,600 км і здатний точно уражати наземні цілі, включаючи стратегічну інфраструктуру. Отримання цих ракет підсилить польську обороноздатність та інтеграцію у спільні системи ППО та ударних засобів НАТО, посилюючи стримувальний потенціал у регіоні.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWlzd2R5MUNfc0pVOVp4QUZHR255UHNSTGlKcWliZU5heHBST1p6dXlPNFNyM1B1WVhsdHo4MFM0WlB3VW5nVFNZcjA1RTY0b2l3X3RKQWpfY3dmamtzUU83eDhhalRVZUNrR3FXbWNSN2RkMW1sQXRYV1ZtSjRjdFpwZXotbEMtUXg5UWVXOTI1Y3lTQXlCVkJNYVV2c3pSTGx2alNkYlNDbmROZkttczhyRG1qQnByUzU5UTN3blNOaDF5aW1HUTRmWDNxdEN5Z3dYZjJERWFUWlktWEp5c3hRaHBiSUsyajhaSEdlTXVGZw",
+      "published": "2026-11-11T12:58:00+00:00"
+    },
+    {
+      "title": "Shanghai signs deals, Washington imposes sanctions",
+      "original_title": "Shanghai signs deals, Washington signs sanctions: 25 years after China joined the WTO, the world sees two logics - Global Times",
+      "summary": "After 25 years of China’s WTO membership, Shanghai entered agreements while Washington enacted sanctions, illustrating divergent approaches to trade and policy. The moves reflect contrasting strategies in global economic governance.",
+      "source": "Китай · економіка, торгівля й промисловість",
+      "publisher": "Global Times",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TOUZ5a3ktSWctZVQ3cExid1phQ3FXQ19NSlpSa2RaamtHTFE4ZERDaGNKU2xQX0R4LWx0Y3QxclhTSHVYeDZlRXVFekd3UkFaN2llMy1NUnFyU2x2bjZCLUJn",
+      "published": "2026-11-11T13:16:00+00:00"
+    },
+    {
       "title": "Warhound планує генетично покращити військових собак: клонування, редагування генів та раннє навчання",
       "original_title": "Inside Warhound’s plan to engineer a better military working dog",
       "summary": "Стартап Warhound, створений Беном Ламмом і Палмером Лакі, залучив $200 млн для генетичного вдосконалення військових собак, включаючи клонування кращих особин, редагування генів, що відповідають за здоров'я, і стандартизоване навчання цуценят з 2‑тижневого віку. Такі технології мають скоротити тривалість підготовки (з трьох років до потенційно менше) і зменшити залежність від іноземних постачальників, підвищуючи оперативність та надійність робочих собак у військових, правоохоронних та рятувальних підрозділах.",
@@ -565,6 +562,36 @@
       "channel": "miltech",
       "link": "https://defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog",
       "published": "2026-11-11T15:00:00+00:00"
+    },
+    {
+      "title": "Торгівля ЄС з Росією скоротилася понад на 75%",
+      "original_title": "EU trade with Russia falls by more than 75 percent but sanctions weakened by inconsistent enforcement, auditors warn - The Copenhagen Post",
+      "summary": "Торгівля ЄС із Росією впала більш ніж на 75%. Водночас аудитори попереджають, що ефективність санкцій послаблює непослідовне забезпечення їх дотримання.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "The Copenhagen Post",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVl4b2JTUi1GZU15QWJQQXBoV1hNQlJ3RmRfaHJQRTlCejQtVWFJMnlXWGExZzhsVGg1S3lCV1dTTG1tMGRBeWZUYmd0d1RGcnQyaTRiNS1Zb0xnaF9pTmdMWFRoNEs1dndMOWhsLUdpX0ZhWnBrM2tXX2l2RUxWS3IxZ0p5Z1M3V1pfeFlGVTlCdGJESUg4UGliOGxic2R2ZHFoQk5NcHhveVdGM3pOdzN3U25MMUdRdU4xTWpUNlJ1TEpCOU5XOWYtVEdzY09rQVlUNWdsVklTelpQdHdmVDBjN1hYMWpfMXc",
+      "published": "2026-11-11T15:02:14+00:00"
+    },
+    {
+      "title": "Carnegie: рекордні прибутки російських банків забезпечує бюджет",
+      "original_title": "Russian banks' record profits come from the budget while RUB13.3 trillion of problem loans go unrecognised - Carnegie - IntelliNews",
+      "summary": "За оцінкою Carnegie, рекордні прибутки російських банків формуються за рахунок бюджету. Водночас проблемні кредити на 13,3 трлн рублів залишаються непізнаними, тобто не відображеними в звітності як проблемні.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "IntelliNews",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkdDalN1VllkZzN3ZG8yT2NXcVZBTk1RX08yQ20ycFBXd1VFOHRyNTdGNHNybGhVMzV6WVhCcnRmRHpEdVR3ajFRZU9JWmJfTWpybFFHMkRrS3NmU2NkOC1RNS1scGlTd0NIMVR1dUxieWFjNUNwdXRZT2VFeWNIb2l0MV9zN3JVOFJkaF95aWFDS21kTFdtVmZvajVqZlZUd3A0UXJHN3lZbWRjN3ZHWVFJWDFmU0dsNFhmcF9lWVc3ZnFRVmdra0JaSGUwVDBRY2FHb2VZN3l1cTRVb3FnSHRJTEozMGJwbHNCUnlORlc3ZExaUV9r",
+      "published": "2026-11-11T15:20:55+00:00"
+    },
+    {
+      "title": "Фунт впав нижче 1.33 після США CPI та риторики ФРС",
+      "original_title": "British Pound tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric - FXStreet",
+      "summary": "Фунт стерлінгів впав нижче рівня 1.33 до долара після публікації в США інфляційного індексу CPI, який виявився вище очікувань, і після заяв ФРС, що вказують на жорстку монетарну політику. Це посилило долар і створило тиск на британську валюту.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "FXStreet",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbl9yUTNINkdjNm9mMlRwU01oOVc1X19RTjlOZ3B3Y1dhb0p2MXBRUmotRFk0NjdVMVgxaS1fTVNqSkxTZTUtMEttSFNXOVhaeFJBT3MtUnFvYm9jQUQyb0Nkamk5aDllbzdFc29DbDVmQ3FPTGo4Z0ktY3dFZHMwajRTcElmY0tpYnVRaERPMmtQNGQtdHZkWEdhb1p2R2FtZk9TcW5RSFZ6dmVBUEVJTA",
+      "published": "2026-11-11T15:33:48+00:00"
     },
     {
       "title": "Трансформація австралійської армії у прибережну: створено групу Littoral Manoeuvre",
@@ -595,6 +622,56 @@
       "channel": "miltech",
       "link": "https://twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military",
       "published": "2026-11-11T17:46:17+00:00"
+    },
+    {
+      "title": "Японські регулятори спростили купівлю державних облігацій страховиками",
+      "original_title": "Rule change to ease Japan life insurers' government bond purchases - Nikkei Asia",
+      "summary": "Уряд Японії змінив правила, дозволивши страховим компаніям життя збільшити обсяги придбання державних облігацій. Нові умови спростять інвестування у JGB, що може підвищити попит на державний борг і підтримати фінансування бюджету.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Nikkei Asia",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJ3VmNjREVxTWZNU0hJRDMyQWJQRFBudkQ1SG96VGhvb1R3Y2w2STJ4V2pKMUxQME9WWGllRkJWd2F0Vm54NG84YzA1NklzRnFmNG5fNFBYM0tDRzJCZGY4ZVVVOGVrRmUxVExfRm9HTWd6dW5pc2xQZFFXZEV4RU1yd2Y1X1NJYjFwS0lWclVvalFKTl81aWYxRk9KeVU0aFU2aHFzV3JJLUlTRl80eHlR",
+      "published": "2026-11-11T17:55:00+00:00"
+    },
+    {
+      "title": "Туреччина: центральний банк залишив курс без змін",
+      "original_title": "Monitoring Turkey: Central bank course unchanged - ing think",
+      "summary": "Туреччина залишила курс монетарної політики без змін. Це означає, що відсоткові ставки залишаються на поточному рівні, без нових коригувань.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "ing think",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUxWZ1Fab240QWJoZjB6RGRjcmJVZFlURThTVXZIcFhMUVZfbHczUEVDWl93akg5MUQ4dG9lVEM5cnIyQ0ZmREFDVjRQQy0ycllrNGhCUjU3cDNybjd6WktiM2xqM2ZNYlBSVUVZSVR1VDYydzlyeGhZdk1WbWkwSUg1MGFvZw",
+      "published": "2026-11-11T17:59:03+00:00"
+    },
+    {
+      "title": "ЄС визначив 3,4 млрд доларів на оборону у 2027 році, збільшуючи фінансування України",
+      "original_title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+      "summary": "У ЄС затвердили оборонний бюджет 2027 у розмірі 3,1 млрд євро (≈3,4 млрд доларів), зокрема €650 млн на позики для України, що підвищує фінансування у рамках €90 млрд позикового пулу. Це останній бюджет у поточному МФФ, після якого члени розглядатимуть новий план 2028‑2034, що може викликати політичні суперечки, особливо з Угорщиною, Словаччиною та Чехією, які відмовилися від позик.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+      "published": "2026-11-11T18:22:56+00:00"
+    },
+    {
+      "title": "F-35 тренуються в Індії під час «Червоний прапор східного»",
+      "original_title": "F-35s Train In India For “Red Flag Of The East”",
+      "summary": "Перший раз у світі F‑35 з будь‑якої країни здійснили польоти з індійської бази під час мультинаціонального учбового заходу Tarang Shakti 2026. Участь 6 літаків 13‑го бойового підрозділу США, а також 200+ польотних і технічних працівників, дозволила індійським екіпажам ознайомитися з тактикою та технологією стелс‑потужностей, що є важливим кроком у підготовці до можливих конфліктів із Китаєм. Це також підкреслює зростаючу стратегічну співпрацю між США та Індією у сфері авіаційної оборони.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/f-35s-train-in-india-for-red-flag-of-the-east",
+      "published": "2026-11-11T18:31:47+00:00"
+    },
+    {
+      "title": "Омський НПЗ під атакою українських ударних БПЛА вже сьому годину",
+      "original_title": "Омський НПЗ атакують уже сьому годину: найбільше підприємство нафтопереробки РФ у вогні",
+      "summary": "Українські ударні безпілотники, пройшовши близько 3000 км, атакували Омський нафтопереробний завод, найбільший у Росії, викликавши масштабну пожежу в промисловій зоні. Завод, що обробляє понад 21 млн тонн нафти на рік (≈10 % російської нафтопереробки), постраждав, що може суттєво скоротити постачання палива для російської армії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/npz-rosiyi-atakuyut-uzhe-somu-godynu",
+      "published": "2026-11-11T18:32:11+00:00"
     }
   ]
 }

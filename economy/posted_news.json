@@ -1,15 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2RHbV81VlNnS3VjczRlQnBfbHc4cVlyZkRCSl9HR2l2N0p0VlVucTl6WkJiT3dFVFE2dXpzdjRETlJhQ2RUM0lkck5STU9naF9kelJlMkNxLUphWWlzdWppU25neVBfQjlwbjNqVjRtb0NfTHlObkFIQjNFcHhGZkNqcXF3clBLcHJnR0R6c1AzNHgyM0FVRjVjYzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpMzUtdXN6UzFmN0Z3UVluLV9lYU9rTm84WGxPd01EeXBycEtHb0N4X01IbGJjcVZvYVp6b3c5ZzdkOFFGcFp6RGpyZGRvdWRaa05SX2NOUG1vdkNPMjdnVnFkYU43elVYNlMzS080X1V5LV83Nk5zZzlR?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTRLMjdRUzFzU3JPWVA2SnFlZ2RDd3RIVkxaUU1kSl9ZM2c0UXRpWG9XVlpVYjFnVTVrUDNYbHNucnZqRkc4dm9vVlVjb2ZNNXEwWmVDUThRWHRfeWdrcy1UMXZ2WF9FWnVsWGVUVnJKLXhWNlVobW5oeXd1bG9pOGlXdVBVYXVzYXlKM1BGNnBxNnpyZ0xmNlZKVTk?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nQTZQVmdiMDl1RVFLZzI3VjVCWHFwakUtdi1nSXM1NDVjR3U5QWxqbTJGQk9DdFFIVUprRGNKN2d5TW9PZnJvU2d0Vm1yc1Y2SVBqSWhJRkM5dw?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2FieVY3ZUw2UENUUmtRVko0TXFQUWVNN19YVDczdTZjaVhnV24xbEZsemV2anJqUE1XX19UV21rVWp1MWlSWnZtUElOVy1ka3k0LWNodmp5X1VfZUg5WGk4NmVNS1N1WVBKaHMtVmVGN1BidC1DOXR3SV9GSWl2cFIxaTEwMGlLQmtzZHZ6a1hFY0hMSmEzOWRjVGNxVERPTlI1S2RiUnlOQ29BWjdZ?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwQlBJWXRkZUJMdnBUYVVXMW12enZTSTlya2hWQkd1Y0JrOFdZVEtobWd5Tlo0T0tsQnRWeGIweWtfT3VzQm5FLTJXQ2JZOENKUGdQdTlBRXJlMS1FaFVZbnNSU3Q3NHZmRi1sYmFiNVU2RGVSSG5hU29Eazc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3ZGZTB3ODIwRVBKeXBOcWhJSFJPRTJiemZabXBtVTdyRlJnMXlPUmpGUkpaaUVGUGxWa083aW5XNHdBeVJtRmZDRXZUSHJ5ZUlGWjlZYU11TjdWY056UWpGVEdHaW1ZdzZHQzkzZ3ktM3ZmSk1EVGRCazNwZkFxZVlmcGZQT2tsdlFiekJjN1h2THIxRTdjVG5IMThpR2Iwb3lPdW5vUDRQZzZJMWdUY2RCclpoWmkx?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbldHMTc1QlVpOFdaNkF6RkUydHNoRlpTejJab2hUNEJtMGctSFZYQjYzUzFfMTFrMWswamJCQ1I0RU5wZVd0MjJFSGhxQnBSbl9UVFNQbGI4cnRYOGk4dFFlNlZRdHktb2dMd1M1dVRQY1IxT0ZneGhvYmlFM1dXM2V1blZIVDhCOHlpc2Fja2tWdlVjMloyUUFHZGdscldVbXfSAaYBQVVfeXFMT2VnMDVqZzNPRHE2UjRya0Vwb3F6VTUydHZtdGdWTWp2cFpiNElhWEdlTUdNYVZIVHlXUXFnb3lod3Z4TTM4RGU0bURKYTBsS1pJQzZMZ3lUOThvYUpIejhLZW05QmhWNjhkV3pZM2xCVVVSZGZFSU0wbVppMlNjS2pIamZJQVoxSEdObnJnZ3Q3ejUxZmlDejRfb21EUmFZdF93eS1GQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbi1pNmhMMnZVMDVOWUp2S3l1b0w1R005SkRUcjJJbjlJbll3azJBVnd0TmFNcjFWNGxFZlUwOEd1Q294YmduX2VqUU1OZzJqS1lHZWNoeUczb094QWNaZVNqdW02NGRuODhxQWU2dkc5VlpReTZiZzRrbUstUjJhYWNXbWc0b0l2aDktRHBoX2w1MndpaG51NElBVGhGZUUyMXV6OWpGWnpZY1JKdGZTd040ZUc?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3bndkaC1maFdyaVZkclJzcmRSM2NzOXhWSVlnNUFhd1VSdm9DSl93OFprWWY5anFxU3ltdTAyNGM3b1k1bUN1eDdOMDE2QVEtNjZncFF4NXJpVEp3Y250UHpmYXYyaGhGM2o2ZVBYQWhXTGlvUDU1QQ?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE56LWVueGFySUJhOWV4T3F0YUdnSDNIOGkxalk2Z3N4N3U0Y2ZfNTh6MzZPOHVrTzhmT0xYYzNVdjFoQ3NoNEU4WUlNdXBvUzJfVTFVMlowUDFuN0dqWjVWTzBZWHZRYzBKcDlMN0thN0lKRkNRa0p4OVpkd19xREU?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/russia-s-war-of-aggression-against-ukraine-eu-agrees-largest-ever-package-of-listings-targeting-almost-1600-individuals-and-entities-in-russia-s-military-industrial-complex/",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/ukraine-s-territorial-integrity-council-lists-77-individuals-over-the-illegal-russian-state-duma-elections-in-the-temporarily-occupied-territories-of-ukraine/",
@@ -1199,51 +1189,19 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDJMSHBqSjZpTHlDNWlMblRSc3lqQkc1dk1uc0huWDVMOHFCRDZnUUJ3dU9uY0pibEFUR2J4TlVpUklPLTBkOU9pMnJwWEdsQVl2bXl5SS13cFRrY1FKQ2p6ZDZYQkxjQ28yLU42cFcwQTFaN2YwWUw1Mkp1blZUdGNWanIxT0JGdjVXWDdKVWJLQmlwZEFtb0NEeXFCT0pzUmlzTHBxUE5SUQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtIWUdFQ0hkVTNoYVF2WEluaGhrOUxLNW1iOERuT1pBVU5Tb3ZNdHphS2tPRWFrb2t6bUxVekVpRjdFUUhNNDlYNmpmRndtY3Fwd0NBWVkwYjRMbDZzSkFaTDZYUHhKaVdoc1hGWHFnZGxjcFFjTU41VWY5aHBnR25jUm5KYmpHLS04QkFXbXc3U2hxRnl0LW12RWV1TFh2eHBWa1RB?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2ZPZHkzVE1WeFdGdGhROVg5cFFaSFlzVlIzeGFOaUd3bkc0MHNKanl5NG1sWV9KTVpLVTJwM25qUkdWeHZLNkVFOUhqaGdCVmlNa0VlMW00T0xibXZjbXdQUXBzeHdRQUV3enRwUV9HbjB5VnVyUFZiYlZJdzJjUTVR?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFydXZkLUN3bE5lR1loR3RvdGs0eXFOZUY2VHE5Wk9zcjV1VVVOS2NjTWtCTTF4R1oydVpLRjlHNzhmSjNQbzBHY3d0RkZnWUlxZ3RJdXpQMGZpTi1wMkM5bG42NnN6Rml3QUxNUDNmMDZ3a0l1aUc5U1BRTFA0MC1DcnYtZGM4emJZWXdwM3pkTDg0eVE?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFydXZkLUN3bE5lR1loR3RvdGs0eXFOZUY2VHE5Wk9zcjV1VVVOS2NjTWtCTTF4R1oydVpLRjlHNzhmSjNQbzBHY3d0RkZnWUlxZ3RJdXpQMGZpTi1wMkM5bG42NnN6Rml3QUxNUDNmMDZ3a0l1aUc5U1BRTFA0MC1DcnYtZGM4emJZWXdwM3pkTDg0eVE?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bFotaHV1MDB5aGlqZmhjaDZaZFhBbTE4SlVKOFJMMkM2SFVlZ0UwVTZIaXRRa3k5dWVDVW82SVdrTmNIcmdlN2hsT3lKNHBYYkMzekNFQUdFMWdjdG1RTWxWZHp2SVFvVFFEVTcxTDN4UHBvMGhNblRYOTM0QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkdDalN1VllkZzN3ZG8yT2NXcVZBTk1RX08yQ20ycFBXd1VFOHRyNTdGNHNybGhVMzV6WVhCcnRmRHpEdVR3ajFRZU9JWmJfTWpybFFHMkRrS3NmU2NkOC1RNS1scGlTd0NIMVR1dUxieWFjNUNwdXRZT2VFeWNIb2l0MV9zN3JVOFJkaF95aWFDS21kTFdtVmZvajVqZlZUd3A0UXJHN3lZbWRjN3ZHWVFJWDFmU0dsNFhmcF9lWVc3ZnFRVmdra0JaSGUwVDBRY2FHb2VZN3l1cTRVb3FnSHRJTEozMGJwbHNCUnlORlc3ZExaUV9r?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbl9yUTNINkdjNm9mMlRwU01oOVc1X19RTjlOZ3B3Y1dhb0p2MXBRUmotRFk0NjdVMVgxaS1fTVNqSkxTZTUtMEttSFNXOVhaeFJBT3MtUnFvYm9jQUQyb0Nkamk5aDllbzdFc29DbDVmQ3FPTGo4Z0ktY3dFZHMwajRTcElmY0tpYnVRaERPMmtQNGQtdHZkWEdhb1p2R2FtZk9TcW5RSFZ6dmVBUEVJTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Mzk0T0FnNklYazhqWDNuZkYyYzVqd3YyNHlUdGctaHFrOWNNdThiVXNiRXUzUmNvaExMZGpfNDRJWTBpaWFrXzhLbFU2dWxpbjdMR3Jvbw?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUxWZ1Fab240QWJoZjB6RGRjcmJVZFlURThTVXZIcFhMUVZfbHczUEVDWl93akg5MUQ4dG9lVEM5cnIyQ0ZmREFDVjRQQy0ycllrNGhCUjU3cDNybjd6WktiM2xqM2ZNYlBSVUVZSVR1VDYydzlyeGhZdk1WbWkwSUg1MGFvZw?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJ3VmNjREVxTWZNU0hJRDMyQWJQRFBudkQ1SG96VGhvb1R3Y2w2STJ4V2pKMUxQME9WWGllRkJWd2F0Vm54NG84YzA1NklzRnFmNG5fNFBYM0tDRzJCZGY4ZVVVOGVrRmUxVExfRm9HTWd6dW5pc2xQZFFXZEV4RU1yd2Y1X1NJYjFwS0lWclVvalFKTl81aWYxRk9KeVU0aFU2aHFzV3JJLUlTRl80eHlR?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TOUZ5a3ktSWctZVQ3cExid1phQ3FXQ19NSlpSa2RaamtHTFE4ZERDaGNKU2xQX0R4LWx0Y3QxclhTSHVYeDZlRXVFekd3UkFaN2llMy1NUnFyU2x2bjZCLUJn?oc=5",
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaXhTVENsblppcE40bndYbXJ4LUxLWE1TVW9URGFhb2JiM3lUMS0xMkhLVXVIZVJPUWp3UkVTeFl1MEpBcG9fUU9PYUxQS2h4bk1tZWs3UjV1OW5EWnpySWdBalpBRnpHNFNRQ3gtc28yS0lubVVqTFBiY1hlYTNNdVRndUNhb0Y0RWptTy04MzF6aFJ5TkVTaHJMYkR5RUFHbWZEQjdqSkc0UGlFaldveEcyRFBJcFFrMEFBTkd2OEh5Zmt0N2trRElrOWVsS1pIZHhLODE2eTJyRHEySnVwc0lQbjVKTFpVRmZHTFpoUFVRRjA3SnpmUUhnRFpyTnZtZ1pB?oc=5",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVl4b2JTUi1GZU15QWJQQXBoV1hNQlJ3RmRfaHJQRTlCejQtVWFJMnlXWGExZzhsVGg1S3lCV1dTTG1tMGRBeWZUYmd0d1RGcnQyaTRiNS1Zb0xnaF9pTmdMWFRoNEs1dndMOWhsLUdpX0ZhWnBrM2tXX2l2RUxWS3IxZ0p5Z1M3V1pfeFlGVTlCdGJESUg4UGliOGxic2R2ZHFoQk5NcHhveVdGM3pOdzN3U25MMUdRdU4xTWpUNlJ1TEpCOU5XOWYtVEdzY09rQVlUNWdsVklTelpQdHdmVDBjN1hYMWpfMXc?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Tokayev Announces Construction Programme and Economic Reforms",
-      "original_title": "Kazakhstan’s President Tokayev Outlines Major Construction Programme and Economic Reforms in State of the Nation Address - GOV.KZ",
-      "summary": "During the State of the Nation Address, President Kassym‑Jomart Tokayev unveiled a major construction programme aimed at boosting infrastructure development. He also outlined a set of economic reforms intended to strengthen the country’s fiscal framework and attract investment.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "GOV.KZ"
-    },
-    {
-      "title": "Brent падає на 16% за тиждень, Murban $99",
-      "original_title": "Brent ($93) Extends 16% Weekly Collapse as Iran Deal Heads to Trump — Physical Murban at $99 Warns of Snapback - TradingNEWS",
-      "summary": "Brent торгувався за $93, зафіксувавши 16% падіння за тиждень, оскільки переговори щодо угоди з Іраном переходять до Трампа. Фізичний Murban залишився на рівні $99, що сигналізує про можливий різкий відскок цін.",
-      "source": "Енергетика та LNG",
-      "publisher": "TradingNEWS"
-    },
-    {
-      "title": "В’єтнамський «China plus one» ще потребує китайського внеску",
-      "original_title": "Opinion | In Vietnam, ‘China plus one’ still needs Chinese input - South China Morning Post",
-      "summary": "В’єтнам продовжує реалізовувати стратегію «China plus one», проте вона все ще залежить від китайського вводу. Це свідчить про неповну диверсифікацію виробничих ланцюгів і зберігає роль Китаю у в’єтнамській економіці.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "South China Morning Post"
-    },
-    {
-      "title": "Лавров: Угода США з дизелем знизила ціни",
-      "original_title": "Russia's Lavrov: US Diesel Deal Lowers Prices, Stabilizes Markets - Global Banking & Finance Review",
-      "summary": "Російський міністр закордонних справ Сергій Лавров заявив, що угода США щодо постачання дизельного палива призвела до зниження цін на дизель і стабілізувала ринки. За його словами, це позитивно вплинуло на вартість пального в Росії.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Global Banking & Finance Review"
-    },
-    {
-      "title": "India і ЄС посилюють співпрацю у торгівлі, ШІ та зв’язках",
-      "original_title": "India and EU step up cooperation on trade, AI and connectivity - Qazinform",
-      "summary": "India і Європейський Союз оголосили про розширення співпраці в галузі торгівлі, штучного інтелекту та цифрової/транспортної зв’язності. Це свідчить про намір обох сторін поглибити економічні та технологічні зв’язки, що може стимулювати нові інвестиції та проекти у зазначених сферах.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Qazinform"
-    },
-    {
-      "title": "Peterson Institute опублікував аналіз «Два двигуни AI‑буму»",
-      "original_title": "The AI Boom's Two Engines - Peterson Institute for International Economics",
-      "summary": "Institute представив новий аналітичний матеріал під назвою «The AI Boom's Two Engines», присвячений факторам, що стимулюють швидке зростання штучного інтелекту в США.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Peterson Institute for International Economics"
-    },
     {
       "title": "BOJ розглядав швидше підвищення ставок, згідно підсумків жовтня",
       "original_title": "Bank of Japan debated need for faster rate hikes, October summary shows - Yahoo Finance",
@@ -1341,6 +1299,48 @@
       "summary": "Групи сепаратистів у Квебеку оголосили про власні кроки у боротьбі проти тарифних обмежень, введених адміністрацією Трампа. За їх словами, це спрямовано на захист місцевих економічних інтересів у контексті торговельних суперечок між США та Канадою.",
       "source": "Глобальна торгівля, СОТ і торговельні угоди",
       "publisher": "Newsweek"
+    },
+    {
+      "title": "Carnegie: рекордні прибутки російських банків забезпечує бюджет",
+      "original_title": "Russian banks' record profits come from the budget while RUB13.3 trillion of problem loans go unrecognised - Carnegie - IntelliNews",
+      "summary": "За оцінкою Carnegie, рекордні прибутки російських банків формуються за рахунок бюджету. Водночас проблемні кредити на 13,3 трлн рублів залишаються непізнаними, тобто не відображеними в звітності як проблемні.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "IntelliNews"
+    },
+    {
+      "title": "Фунт впав нижче 1.33 після США CPI та риторики ФРС",
+      "original_title": "British Pound tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric - FXStreet",
+      "summary": "Фунт стерлінгів впав нижче рівня 1.33 до долара після публікації в США інфляційного індексу CPI, який виявився вище очікувань, і після заяв ФРС, що вказують на жорстку монетарну політику. Це посилило долар і створило тиск на британську валюту.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "FXStreet"
+    },
+    {
+      "title": "Туреччина: центральний банк залишив курс без змін",
+      "original_title": "Monitoring Turkey: Central bank course unchanged - ing think",
+      "summary": "Туреччина залишила курс монетарної політики без змін. Це означає, що відсоткові ставки залишаються на поточному рівні, без нових коригувань.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "ing think"
+    },
+    {
+      "title": "Японські регулятори спростили купівлю державних облігацій страховиками",
+      "original_title": "Rule change to ease Japan life insurers' government bond purchases - Nikkei Asia",
+      "summary": "Уряд Японії змінив правила, дозволивши страховим компаніям життя збільшити обсяги придбання державних облігацій. Нові умови спростять інвестування у JGB, що може підвищити попит на державний борг і підтримати фінансування бюджету.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Nikkei Asia"
+    },
+    {
+      "title": "Shanghai signs deals, Washington imposes sanctions",
+      "original_title": "Shanghai signs deals, Washington signs sanctions: 25 years after China joined the WTO, the world sees two logics - Global Times",
+      "summary": "After 25 years of China’s WTO membership, Shanghai entered agreements while Washington enacted sanctions, illustrating divergent approaches to trade and policy. The moves reflect contrasting strategies in global economic governance.",
+      "source": "Китай · економіка, торгівля й промисловість",
+      "publisher": "Global Times"
+    },
+    {
+      "title": "Торгівля ЄС з Росією скоротилася понад на 75%",
+      "original_title": "EU trade with Russia falls by more than 75 percent but sanctions weakened by inconsistent enforcement, auditors warn - The Copenhagen Post",
+      "summary": "Торгівля ЄС із Росією впала більш ніж на 75%. Водночас аудитори попереджають, що ефективність санкцій послаблює непослідовне забезпечення їх дотримання.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "The Copenhagen Post"
     }
   ]
 }

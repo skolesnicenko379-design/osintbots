@@ -1,5 +1,6 @@
 {
   "links": [
+    "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers",
     "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
     "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee",
     "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
@@ -8,15 +9,18 @@
     "https://defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth",
     "https://defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech",
     "https://defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion",
+    "https://defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia",
     "https://defensescoop.com/2026/11/09/agencies-agree-to-counter-unauthorized-drones-without-compromising-civilian-safety-under-new-mou",
     "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
     "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles",
+    "https://defensescoop.com/2026/11/10/defense-ai-orchestration-harness",
     "https://defensescoop.com/2026/11/10/hegseth-issues-corrected-copy-of-recently-unveiled-counter-drone-guidance",
     "https://gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/japan-pledges-197m-support-gaza-health-response",
     "https://militarnyi.com/uk/news/harakterystyky-rakety-geran-5-k5-k",
     "https://militarnyi.com/uk/news/mc-130-prybuv-do-livanu-vymknenym-trekerom",
+    "https://militarnyi.com/uk/news/obgovoryuyut-masshtabnyj-obmin-polonenymy",
     "https://militarnyi.com/uk/news/pivnichna-yevropa-stvoryt-morskyj-alyans",
     "https://militarnyi.com/uk/news/rozroblyayut-meteostantsiyu-strilets-core",
     "https://militarnyi.com/uk/news/saratovskomu-npz-poshkodyv-ustanovky",
@@ -27,21 +31,28 @@
     "https://navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/safran-and-msi-ds-partner-on-next-gen-counter-drone-naval-turrets",
     "https://navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0VMSVFnTThUMjE5dTg0eGFyS0k5UVhvQXQzZFJlM3hwdnZhaGJObFA2Y1JmaDVVWlV5bTVLN2NYSHhtWUUwT3VqZGJPMFNKMC1EbkpxaDVyOG9ITk9JWkR1Yk9HUndHMEVWb05HY2prSl9oOUpQMnJBT3M3RmJSMGxMeUlLLWtIcFdGeHNPaUhPRmxGRkNNSnVONU9LS2dOWXFxRVRKbjBmYUp0ZDVZbmRjcWgtX1Y0bmhsSzl1U1R5SEgwajBOa2VCZ0NVd25SY1E",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSGl0VFpCWEpZQ1cycDdYQ0FsdkF5QWZ2dWZWRTlhd2pTQmVZNGZjT1EwWHd4Szh1S2llbmpudzBYRmVnQXpqRjdrREoyUlR4aXIxVHF0SktPUF8ydTBOZFdweW1KbWpaOGVrV00zMHk1czdVNEpRWEFqc2ZvbHFRak9GZHdSMzVyY29RTk52QW05cEF0WDFiOXhzcDJQSmp6MDlMWFQ5cnhMNXJSa05mNk5LZndNV25uZXdwVEtIcTJaNWcwRU51VzRnYS0yd0NoeWpBSjBrLVZHUlU",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm1aY25iSmJDSFhQa19YbDFyS2R4el8yYjBCNDBGaE9MQ1lzcldsSXlNUWJzZEdJRUxwUWlPbnRCWmtySVo4dVR2MFB3OTh5MWV5b3pSYWhubUdXeUFsem1QeE5lRGVmdGZ5a2dKNm5lQ2JySGE2eXlVbDZJUF9GQ0NDVVhVMl9sa05pTk92Z0VoN0t6Z29LOHJTLTVKa1oweHRTUEFibmhVR0hZYjBoa1d0OXlILUVqLXJzdy1Rak9tWFlxc0F5YWNPY0NyeUZBdDY3OUpjWlNESUlQ",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOC02TmIzc1N5c3BITkhjN0h4SzhYRVRJdzJuZ2hEN3JTbFE3eFhCdElLUkNBUXhHNlRPZmdQVTJka1dSQzhpX2M5QnVhUGhMN0huTUJZSnZ2c2xiSjBadk8tQTNrMDgxRzMxZ2ZnMXJtVnB6OFhuUk11aWJ4Mjg2bkVSVG8zZnRHTmNKWENVSTVfd1gzdVJpdENiX1NoNEU0eWtEWE9GT2QzRFRhX2c4RzJydG1uUFlSLV9pOFlrTXdHaVVxREFhakRIM2UwTmNpakFhZDJMakFoclZpbkhr",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2JGRl9OeVlEVE82NzRxOGJLMVRtZnl1MzVpUFFPMklrYXExTTI4NDFCQmhzY1lGX041X0VWQXFsTEdHNVdNQVBMRVh3NnBDaUUxalRTR3l0OFdISm1zVEo4NTZVSXB3U2tMVFFHMzBFTmtuWHVKVHF1OFdfQlZsUjVTT1BkM2taN05tQmdNMHV1MXFUNU52VVIwS19iZC1wbWpBWmx2enNIRTZBbUtnQUhrYTk1QU01UEJocWVBUXE1aWZmNU5vLTE2b1ZyS3c0Yi1NZVRzdWVGWDl0TVJwMTVpaDJGa2Z3",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMnFBM21tRkpoUFBWN25rWEFka0U4VXJyUXpEcWlHdUd2UUE4WXZUbUlzeFhQMUctc1hEYVVydUJXR3ZjRkgwYW5CSWpaUkprQlBOVmoyWTNfQQ",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FQVpKWmJUOHo4c0VIUjBXUjVWWHpzb2l4alNCbW9pTHJOQU9oa3pEei1oRmh0MzBaQlluWmk4TzNOc1Y0OTlaWmY5eWRkaDJKYVZrbzNjSkVFSUYyMnJR",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMTB1M0ZXdXcySG5oc25yQUpEV1ZOelJvRklfVG9tWjBFVXpod3h3QkNNUEZ3US1pSXNYX2l6UUc0aG04YVBWNlVSOVpJS3hvcS1DZW02YzA4a1FzMFZzNUMzYnNQR2JSdzlCekI4SlJlMV9vWURj",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNMUtuR0JoRnh3SldHOW45Wmt4elVFMlFPUTl2dW9WdVBhcUNHS3N1enRUeVR6aHBvdzROVFZCbHZ4a1ZsR3l6UkotZ1Blc3ZweWltZFFncFV3UkFNZ3NLMFdkRUN5UjBUaTVSNU1tcXRhM1NkVk1pbXFmTQ",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDVaWmZYbmFkbm9FVThIekpJaWtOSUtXcDlDU0FJMEVUVXhDbUpSYU0wc1BndE5WUndGc3YtR1g5SnBZN0ZmbGVLODZ1YnNVQ3p4eHdhZERqYzJNZ0hBNy1QU0d0RWNLYzUxaHpiVkEzT3F1MFZRVFZVR1BabzByWnZkNXpZY2s0MVRz",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXpzeG5mYUV5LVFCT3JIQ29YMkFXMzluS09tTnJEMVJIWEpZdU5BOWtTVEVjb21uMDVxSXVlalZWXzVxUTRNZ1k0LWNocGhHN3ZWQ21xS3UyYkt6dEFNRHhMUWJwZDJFNFhYU0lia3RqN3FTNWFVSy1LYUxuczZtVmFDOENVQWQ1LXc4Vw",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhYaFVubmx2QldtUTQ1dDQtdFdPdmpmMGUxd2dpZWFFaGlla0sxNjloQlYxLUlBMy1tcndwbE9pX2ZwVkJpbGg5OHM4ejRfb1FZZm5TUkQxWG5TNEJmYjNmUTJJcTU2YnJlNXU2eWVWdGRqeUV3QWNSRm5rdV9ZOEMzS3JXYWpJRFpJYXVMVGY",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQmRZUUJlNUtCZDc3aFZ5eEpjR1FCRUs4ZnpxdlIxMmNqbkFUdlFqVmhabVB5M0VrVWtwLVZIcmFEb1ExTVdPcFVabzV5SjljUFBtMUwtQ2pNcW04UWIzdGhJeGpiWkNFM2RRYkpMMFZkdmQ0OURfMzhJSUpicTRwY1RWalZ0cjMyOUlOZmRWbnA1Nm9aNGdaZFRR",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2pzelNtZ2drT2dQY0NjZUxEOG9OUVFseWxXRTdqRHJIeFp1LXZnY3ROVEw5Q1M0RkdvcEJXeVBIdXJyN0p5dlQzM2NEV081dXhaVVM0RFYzVDE5OWFPdlowczZmZ0stOXZQMW5JSU1NUmxCcEs3UGhqREhSN2YweWtLMGI0Ty0tdktuemJpN0NUSDZNcjNlQXdNOA",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0E2SXExOThRV0h0aG44QURTMnpfclUwUG0tbFlFdnlBMzdQRDh5UTF4RmgwRUt2SHBmcVhKM2lCeTZZNHk4Y3p0OWk3SmIyM2UyRkliM0JiVTBTaDZ4bktOU3c5cUtIbUUweFl6eUJBTnMzMWNuV3BHWmEyZmRHRExTcW9OaE83Q2Q3S09ER2ZkMU5CYzRHQm8xdw",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqd9IBmwFBVV95cUxPaEV6UVUyTWFKeF9Ob0ZFaE1DZ2o1VnRud3I2Y2JfOXQyUkNlUF84cDZ5Y2JKTGFDSUZhVzRRRVcxa0kyRnltdzBYRjhtSDJYX0w2UU9XdmU1NnZEcTBuUmE2SDZnWVpvajZzaFhmQTBvSldNc0RFWWg5bzdFR2lCMGlFNUZha0EtU2J5d2EyaU4xUzhFclFVMnZqdw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQenlENElFZmZKemtzdVlWd0RfMjFaOHlETFBac18yX0dpUEZNNzBuX1YtcEpTWHAzUExwV1l0TFM1Vm9UZVBGMFRTY2lRSWhnMGx2R0oycjljTWh1dnRfS3NOVlhZdUU4aWVIZmtJZWs1MDVWLV9UVjM1Mi1oT0FRWXluWGxpdkxEYVpUMDNvYmlGdHRxQmw2cUt1Q1pGUQ",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTl1QmRoc0U5LWplUGNJdzI5dHNJUEdZeFo5STdlMm9yMXR1WG5IVUZaTTlRYkhHcUhVMzJya0RNREFoeklrdmlTWkotSGV5Z2JQR09tQzNLRFFFUlYxRHJvLU5kQ29KcXRteHNjVGwzRm5JenRRRHJzeWhubnk5Y2FWYko5ejl4enkzTUE4aEMwYkxyVVEwaEJLV0RaNlFT",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXk1UGNOdkRnZnpjUDhjTFp0Rzdid1lDZDZiTG5aTXdqTXZIM2NBbGFEemNOSlZfTEJuWkgzRWpFX2pBa3NBUTlWMDhjNDkwSWhyRWtKNFl1dndjcUM4TWl2a2dBUHR3YWdLTTVxRWpZYVBacVNoOW95VV9aWWFEemxxdnB3bDVmN01jc3drQXhXSEpQXzNsZGcySGJTSlpCV0tBSQ",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnBocXFGY2UzWnNqVDFwS0hCX0diVGJhalJSYWJIZndXdU83bGZJMlZOOG5QTkQxZmpVOWtDOVVoZVRpLWFJRW1RWDZ1dmRyWUVDeGZqSWVNVTRiSzRpdDYyM3cyN2J5bDNrN3JBdEN2clFHdXowV0xwUEF4T1BTTG1wQmNDX1lSU2dCMXJSbDdVSjV4czBQdC10cDFNOW15Tmljd0tuVVRXUQ",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlU5YzBjajY0dnNQQWZwQ2liSVJXMnNzbERsUy1qcW1ZalpfOUF4MU5CVS0tdlNzRWpoN2pnMEpIS1JMemdBMi11ZzIxLTk4LWlsUEhhd0xBUTQ5d2R5d0Y1Y25raFJMZGwyRVF1bkpkY0JieVdWalk4NEVPNEdWeUtCWHozSEhoTmZQRVd1X3NTMk4xMVV3dDk0TFV2ckxnb0RNSFp6Zng4Z9IBqgFBVV95cUxOOUdJZXVZU3FoeXFraVQwVDM4cEc1Z2tKeDVWVi10Mzh6OTM1c3o4ano4bGppQ0hNdFBveG5zaXdfaEJfUFFGLWRSS3J1V2t6bkpqYV9Hc1N3VmhkV3RpREh2anVyWUduTU5NaDdsUzV2blJ4bVFPV3NpZllxNWRmQW01S2Jnc19EeTFzNGFJVmNHcm9CZHNFa3FnaGRtX0pMV2N6QXVQVTV3UQ",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnpINlBVVjhzMVRkcGtkVUVFc1VNR0MyRTQwa1VTeklpdXVtYnhuODk2aFlBQ2ZEUGQ0QllVaXNjbDNzdGNscU1XT2VwcXFnZHlzSmt6TDNNNzZSWWEtMG4zdWkxUkN5cWpYdEVXaTZrU1czS0VZOHd3WHNzZWFRaHpiME5vTGV2X1VhSHNYOFVYYVVWRmdwc2tZNDdnUnJielhiSHBrRDJ4Tmc",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1VQVnVOdEdhc080M1F1aFJLY2hDeDBxMEJlS05yT0VHa1hxYUJRNTRyTFFMRTlzeVBMc3pWQXIybnpqQy15bE16U2FRblJrTFhSaXZhdzVXUFVkX1VUV040X1JPVXdpOThtWHp0TTl5UEpjN1c0YzduQzd3MUZyTmR1SDJMbUY2NUlsRVVBQ3R4d2oyVmpGSmhIdnpLTUkySGpRQ05Vc0FOTXUzUk02T3lPOUlfSWo1SXBoTlY2cnVFR0E1a0p5bkhQRmhrWk3SAcsBQVVfeXFMUE16cGc1SXJ3aXlVZXFrNFBuWGx2ay1oYWdvcWprNFc5WVl1RnA2Y0p2cUFDeDR2RFJ0NzQwOVJudXBOTVBFS1dJRFZvMFlLMXlER3d4Mm5qNHdyMkcxZGI4ai1kMXRubWZOeDNHWmVCbElqc1JfRjNrUEYwaXNKMF92ZFlKQ3VGaFhnTV85S2tPZWRCSk9OT21aYnVwR2xWV1NMc2t0UkdCNVVlWEJzenVQczRHdXZianREcllIcllDek5Ic3VIaktJZWs",
@@ -454,6 +465,16 @@
       "published": "2026-11-10T12:46:37+00:00"
     },
     {
+      "title": "BOJ policymaker warns of economic risks from rate rise",
+      "original_title": "Bank of Japan policymaker highlights economic risks of rate rise - Nation Thailand",
+      "summary": "Політик Банку Японії заявив, що підвищення процентних ставок може створити економічні ризики. Коментар підкреслює обережність щодо подальшого жорсткого монетарного курсу.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Nation Thailand",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FQVpKWmJUOHo4c0VIUjBXUjVWWHpzb2l4alNCbW9pTHJOQU9oa3pEei1oRmh0MzBaQlluWmk4TzNOc1Y0OTlaWmY5eWRkaDJKYVZrbzNjSkVFSUYyMnJR",
+      "published": "2026-11-10T14:58:00+00:00"
+    },
+    {
       "title": "Президент Ердоган став свідком підписання саудово-турецької угоди про відновлювану енергетику",
       "original_title": "Erdoğan witnesses Saudi-Turkish deal to develop 5,000mg renewable energy projects in Turkiye - Saudi Gazette",
       "summary": "Президент Туреччини Реджеп Ердоган став свідком підписання угоди між Туреччиною та Саудівською Аравією про розвиток проєктів відновлюваної енергетики потужністю 5 000 мегават у Туреччині. Подія висвітлена виданням Saudi Gazette та стосується офіційної міжнародної взаємодії між двома державами в енергетичній сфері. Жодних додаткових деталей щодо локацій, термінів реалізації чи фінансових умов угоди у короткому тексті джерела не наведено.",
@@ -504,6 +525,16 @@
       "published": "2026-11-10T20:06:00+00:00"
     },
     {
+      "title": "Ключова роль інфраструктури (харнесс) у успіху суперінтелекту",
+      "original_title": "Why the harness matters far more than the model for super intelligence success",
+      "summary": "Федеральні оборонні та розвідувальні організації стикаються з тиском довести ефективність суперінтелекту. У статті підкреслюється, що успіх залежить не лише від моделі, а й від «харнессу» – інфраструктури, що забезпечує контекст, пам’ять, контроль доступу та інтеграцію інструментів. Це підвищує надійність ШІ у військових операціях, зменшуючи ймовірність помилок і забезпечуючи людський контроль.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/10/defense-ai-orchestration-harness",
+      "published": "2026-11-10T20:30:00+00:00"
+    },
+    {
       "title": "США переміщують KC-135 та CV-22 з RAF Mildenhall через іранські загрози",
       "original_title": "USAF Aircraft Continue To Reposition Away From RAF Mildenhall Amid Reports Of Iranian Threats",
       "summary": "У вівторок з бази RAF Mildenhall у Великій Британії стартували кілька заправних літаків KC-135 Stratotanker і три вертикальні транспортні CV-22 Osprey, які розташувалися по базах у Німеччині, Іспанії, Шотландії та RAF Lakenheath. Переміщення відбулося після підвищення рівня безпеки у зв’язку з повідомленнями про іранські загрози, що свідчить про готовність США розподілити стратегічні повітряні ресурси та знизити уразливість уразливих баз. Така дисперсія підвищує стійкість повітряного заправлення та швидкість реакції сил США в Європі.",
@@ -512,6 +543,36 @@
       "channel": "miltech",
       "link": "https://twz.com/air/usaf-aircraft-continue-to-reposition-away-from-raf-mildenhall-amid-reports-of-iranian-threats",
       "published": "2026-11-10T20:53:41+00:00"
+    },
+    {
+      "title": "Allen Control Systems відкриває відділ розробки лазерів протидронів",
+      "original_title": "Allen Control Systems launches new division to develop counter-drone lasers",
+      "summary": "Нова підрозділ ACS розробляє високоефективні лазери для протидії безпілотникам, що дозволить швидко і економічно нейтралізувати низькоцінні дрони. Технологія поєднує AI‑кероване слідкування з високою енергією, що забезпечує точність і швидкість реакції. Це підвищить оборонну готовність США та союзників, зменшуючи залежність від дорогих ракетних систем.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers",
+      "published": "2026-11-10T20:56:37+00:00"
+    },
+    {
+      "title": "Україна і Росія обговорювали масштабний обмін полоненими у форматі 1000‑1000 або 1500‑1500",
+      "original_title": "Від тисячі до півтори тисячі — Україна та РФ обговорюють масштабний обмін полоненими",
+      "summary": "Під час переговорів в Абу‑Дабі українська та російська сторони розглядають варіант обміну тисяча полонених на тисячу, або півтори тисячі на півтори тисячі. За словами Президента Зеленського, до обговорення залучені американські посланці, які можуть стати посередниками. Такий масштабний обмін, якщо реалізується, може суттєво полегшити гуманітарну ситуацію та створити передумови для подальших кроків з деескалації конфлікту.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/obgovoryuyut-masshtabnyj-obmin-polonenymy",
+      "published": "2026-11-10T20:58:39+00:00"
+    },
+    {
+      "title": "Старший американський солдат заарештований у Великій Британії за підозрою у шпигунстві на користь Росії",
+      "original_title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+      "summary": "У Великій Британії затримали 41‑річного американського солдата, підозрюваного у передаванні захищеної інформації російській розвідці. За даними поліції, йому пред’явлені статті 1 і 3 Національного закону про безпеку, що стосуються розголошення секретних даних та допомоги іноземним розвідувальним службам. Інцидент підкреслює реальність внутрішніх загроз і може ускладнити співпрацю між США та союзниками у сфері розвідки.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia",
+      "published": "2026-11-10T21:24:11+00:00"
     },
     {
       "title": "Японія передає 1,97 млн доларів на медичну допомогу в Газі",
@@ -554,6 +615,16 @@
       "published": "2026-11-10T23:37:30+00:00"
     },
     {
+      "title": "Президент Азербайджану прибув до Туреччини на саміт COP31",
+      "original_title": "Azerbaijani president arrives in Türkiye for COP31 climate summit - Anadolu Ajansı",
+      "summary": "Президент Азербайджану прибув до Туреччини для участі у кліматичному саміті COP31. Ця подія зафіксована агентством Anadolu Ajansı як офіційний візит державного керівника на міжнародний форум. Матеріал підтверджує факт переміщення та мету візиту, що відповідає критеріям міжнародної дипломатичної активності. Інших деталей щодо програми або учасників зустрічей у тексті не наведено.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnBocXFGY2UzWnNqVDFwS0hCX0diVGJhalJSYWJIZndXdU83bGZJMlZOOG5QTkQxZmpVOWtDOVVoZVRpLWFJRW1RWDZ1dmRyWUVDeGZqSWVNVTRiSzRpdDYyM3cyN2J5bDNrN3JBdEN2clFHdXowV0xwUEF4T1BTTG1wQmNDX1lSU2dCMXJSbDdVSjV4czBQdC10cDFNOW15Tmljd0tuVVRXUQ",
+      "published": "2026-11-10T23:37:30+00:00"
+    },
+    {
       "title": "Армія США планує ввести нові палетизовані системи короткочасної ППО до кінця 2029 року",
       "original_title": "Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029",
       "summary": "US Army планує у 2029 році ввести в експлуатацію M‑SHORAD Increment 4 — палетизовану систему короткочасної протиповітряної оборони, яку можна розміщувати на екіпажних і безпілотних платформах, а також у статичних позиціях. Система має протидіяти широкому спектру безпілотних літальних апаратів, від малих квадрокоптерів до довгої дії Shahed‑136, а також традиційним гелікоптерам і літакам, і передбачає можливість прямого вогню по наземних цілях. Досягнення початкової оперативної спроможності заплановано на 2030 фінансовий рік, що підвищить гнучкість та ефективність точкових оборонних заходів підр",
@@ -562,6 +633,56 @@
       "channel": "miltech",
       "link": "https://twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
       "published": "2026-11-10T23:43:49+00:00"
+    },
+    {
+      "title": "Нафта впала нижче $86, втрати за тиждень понад 11%",
+      "original_title": "Oil slides below US$86 as weekly losses top 11% - Proactive Investors Australia",
+      "summary": "Ціни на нафту опустилися нижче $86 за барель, а щотижневі збитки склали понад 11%. Така різка корекція свідчить про суттєве ослаблення попиту або інші негативні фактори, що впливають на ринок енергоносіїв.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "Proactive Investors Australia",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0E2SXExOThRV0h0aG44QURTMnpfclUwUG0tbFlFdnlBMzdQRDh5UTF4RmgwRUt2SHBmcVhKM2lCeTZZNHk4Y3p0OWk3SmIyM2UyRkliM0JiVTBTaDZ4bktOU3c5cUtIbUUweFl6eUJBTnMzMWNuV3BHWmEyZmRHRExTcW9OaE83Q2Q3S09ER2ZkMU5CYzRHQm8xdw",
+      "published": "2026-11-11T00:03:29+00:00"
+    },
+    {
+      "title": "Detroit News Launches PolicyIntelPro Toolkit for Critical Minerals",
+      "original_title": "The Critical Minerals Intelligence Advantage – New PolicyIntelPro Toolkit Launched - The Detroit News",
+      "summary": "The Detroit News announced the launch of the PolicyIntelPro Toolkit, a new resource aimed at providing intelligence on critical minerals. The toolkit is intended to help stakeholders track policy developments and market trends in the critical minerals sector.",
+      "source": "Глобальні сировинні ринки",
+      "publisher": "The Detroit News",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0VMSVFnTThUMjE5dTg0eGFyS0k5UVhvQXQzZFJlM3hwdnZhaGJObFA2Y1JmaDVVWlV5bTVLN2NYSHhtWUUwT3VqZGJPMFNKMC1EbkpxaDVyOG9ITk9JWkR1Yk9HUndHMEVWb05HY2prSl9oOUpQMnJBT3M3RmJSMGxMeUlLLWtIcFdGeHNPaUhPRmxGRkNNSnVONU9LS2dOWXFxRVRKbjBmYUp0ZDVZbmRjcWgtX1Y0bmhsSzl1U1R5SEgwajBOa2VCZ0NVd25SY1E",
+      "published": "2026-11-11T01:16:46+00:00"
+    },
+    {
+      "title": "Turkmenistan transport services grow 13.6%",
+      "original_title": "Turkmenistan reports 13.6% growth in transport and communications services - Trend News Agency",
+      "summary": "Turkmenistan's transport and communications services expanded by 13.6% in the latest report, according to Trend News Agency. This rise reflects increased activity in the sector, potentially boosting related economic activity.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "Trend News Agency",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
+      "published": "2026-11-11T02:11:00+00:00"
+    },
+    {
+      "title": "Russia retreats from yuan as US sanctions boost dollar",
+      "original_title": "Russia retreats from China's yuan as U.S. sanctions bolster dollar (CNY:USD:) - Seeking Alpha",
+      "summary": "Russia відмовляється від використання китайського юаня, а санкції США посилюють попит на долар, що підвищує його вартість. Зміна валютної стратегії Росії та посилення долара відображають вплив санкцій на міжнародні фінансові потоки.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Seeking Alpha",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4",
+      "published": "2026-11-11T02:22:00+00:00"
+    },
+    {
+      "title": "Treasury Secretary Bessent urges balanced US‑China trade before Trump‑Xi talks",
+      "original_title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Yahoo! Finance Canada",
+      "summary": "Treasury Secretary Scott Bessent закликав до більш збалансованих торгових відносин між США та Китаєм. Його заяву він зробив перед запланованими переговорними зустрічами Дональда Трампа та Сі Цзіньпіна.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Yahoo! Finance Canada",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhYaFVubmx2QldtUTQ1dDQtdFdPdmpmMGUxd2dpZWFFaGlla0sxNjloQlYxLUlBMy1tcndwbE9pX2ZwVkJpbGg5OHM4ejRfb1FZZm5TUkQxWG5TNEJmYjNmUTJJcTU2YnJlNXU2eWVWdGRqeUV3QWNSRm5rdV9ZOEMzS3JXYWpJRFpJYXVMVGY",
+      "published": "2026-11-11T02:29:00+00:00"
     }
   ]
 }

@@ -11,6 +11,7 @@
     "https://defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia",
     "https://defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds",
     "https://defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog",
+    "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
     "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles",
     "https://defensescoop.com/2026/11/10/defense-ai-orchestration-harness",
     "https://defensescoop.com/2026/11/10/hegseth-issues-corrected-copy-of-recently-unveiled-counter-drone-guidance",
@@ -22,6 +23,8 @@
     "https://militarnyi.com/uk/news/aktyvnist-rosijskogo-flotu-zrosla-na-41",
     "https://militarnyi.com/uk/news/banderol-porushyly-povitryanyj-moldovy",
     "https://militarnyi.com/uk/news/bundesver-kytajski-drony-ta-avto-na-bazah",
+    "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
+    "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
     "https://militarnyi.com/uk/news/npz-rosiyi-atakuyut-uzhe-somu-godynu",
     "https://militarnyi.com/uk/news/obgovoryuyut-masshtabnyj-obmin-polonenymy",
     "https://militarnyi.com/uk/news/rosiyany-vidnovyly-pozytsiyi-v-oleshkah",
@@ -38,6 +41,7 @@
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV3NLZ09EY3hfUWtfOGRNVy1fcHpEelRBTzRyamlzYkljY3BuX1R4RGNWRDlsQ3ZRR0FTZnBnT3R0ZW5YVU5OV25obnpaNE93ZEFSVzNkVU43cno5UlhrSQ",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TOUZ5a3ktSWctZVQ3cExid1phQ3FXQ19NSlpSa2RaamtHTFE4ZERDaGNKU2xQX0R4LWx0Y3QxclhTSHVYeDZlRXVFekd3UkFaN2llMy1NUnFyU2x2bjZCLUJn",
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdDFMdHE3YmhPd3pyRnptcGFVeGxfTTRoSEtPdURRbEplZVlLRUZJRDU5N2NXckhMMnh5U0haN0dEMzc3NXAyeDFyVDE1eWtrdkpwRld5V216Wi1xWHdQcVJCb0lBQlVCNXUyRnUxazJXdW1Lc2F1VnRVQQ",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2ZPZHkzVE1WeFdGdGhROVg5cFFaSFlzVlIzeGFOaUd3bkc0MHNKanl5NG1sWV9KTVpLVTJwM25qUkdWeHZLNkVFOUhqaGdCVmlNa0VlMW00T0xibXZjbXdQUXBzeHdRQUV3enRwUV9HbjB5VnVyUFZiYlZJdzJjUTVR",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjN1MDhDQVRxZjR2TGVjczVXZVJVSTlCTXpKdmJDclE4aTFzbVN1M2pDWFRKVHNCN05UcVQ0S1lnd2lwUzYyN1JvS0VaQUNGaWV5b2V6MHRGMHUyc3dUUDBIZk9RQUF1d3Y5Q1JKWmFjdjF2ZW9ieFI4WS11U3JRd2w2SW4",
@@ -667,6 +671,26 @@
       "published": "2026-11-12T01:04:00+00:00"
     },
     {
+      "title": "Сторож Тому невідомого солдата відчинив репліку делегації Хегсетха",
+      "original_title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+      "summary": "Під час візиту Піта Хегсетха та його супроводжуючих до Тому невідомого солдата у Арлінгтоні охоронець, почувши сміх, підкреслив вимогу тиші, вигукуючи: «Усі відвідувачі повинні дотримуватись тиші та поваги». Інцидент підкреслює суворі протоколи щодо поведінки на цьому священному меморіалі та демонструє, що навіть високопоставлені чиновники підлягають цим правилам.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
+      "published": "2026-11-12T03:32:11+00:00"
+    },
+    {
+      "title": "Почато полювання на російський флот у Балтійському морі: ураження «Калібр» «Наро‑Фоминськ»",
+      "original_title": "Полювання на російський флот тепер розпочато й у Балтійському морі, про що каже ураження носія КР \"Калібр\" \"Наро-Фоминск\" - Defense Express",
+      "summary": "Українські підводні сили зафіксували ураження російського носія КР «Калібр» «Наро‑Фоминськ» в Балтійському морі, що свідчить про розширення операцій у цьому регіоні. Це перший випадок, коли українські підводні підрозділи атакували російський флот у Балтійському морі, підкреслюючи здатність виявляти та нейтралізувати великі кораблі на відстані. Така дія може обмежити маневри російського флоту та ускладнити його логістичну підтримку в північному напрямку.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
+      "published": "2026-11-12T06:23:00+00:00"
+    },
+    {
       "title": "Молдова та Ірландія підписали угоду про соціальне забезпечення",
       "original_title": "Moldova and Ireland sign social security agreement - Moldova 1",
       "summary": "Молдова та Ірландія офіційно підписали угоду про соціальне забезпечення. Документ спрямований на регулювання питань соціального захисту громадян обох країн. Підписання відбулося в межах двосторонньої співпраці між державами. Подробиці щодо імплементації та умов угоди оприлюднить молдовське державне видання Moldova 1.",
@@ -697,6 +721,16 @@
       "published": "2026-11-12T08:48:45+00:00"
     },
     {
+      "title": "Starshield обмежує швидкість до 161 км/год, ускладнюючи перехоплення російських дронів",
+      "original_title": "Нові обмеження Starshield в Україні ускладнюють перехоплення російських дронів — Зеленський",
+      "summary": "Українські військові виявили, що супутниковий зв’язок Starshield працює лише до 161 км/год, що збігається зі швидкістю польоту більшості російських реактивних безпілотників. Через це системи збиття не встигають отримати дані в режимі реального часу, що призводить до втрати цілей. Обмеження створює тактичну проблему на всій лінії фронту та в окупованих районах, змушуючи командування шукати альтернативні засоби зв’язку чи коригувати швидкість дронів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
+      "published": "2026-11-12T09:31:06+00:00"
+    },
+    {
       "title": "Британія представила заяву ОБСЄ про захист принципів миру",
       "original_title": "Honouring remembrance by defending the principles of peace: UK statement to the OSCE",
       "summary": "У заяві, виголошеній послом Великої Британії Хоулендом на засіданні ОБСЄ, підкреслено, що російська війна проти України порушує принципи, закріплені в Статуті ООН, Гельсінському фінальному акту та Хартії Парижа. Велика Британія закликає Росію прийняти негайне припинення вогню, серйозно вступити в діалог і дотримуватися вже даних зобов’язань, наголошуючи на важливості прозорості та довіри у безпековій архітектурі Європи.",
@@ -705,6 +739,16 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
       "published": "2026-11-12T09:39:52+00:00"
+    },
+    {
+      "title": "Lockheed Martin підвищила виробництво ракет GMLRS до 14 000 на рік і доставила 100‑т тисячну одиницю",
+      "original_title": "Lockheed Martin наростила виробництво GMLRS до 14 тисяч на рік та передала замовникам 100-тисячну ракету",
+      "summary": "Компанія збільшила темпи виготовлення керованих ракет GMLRS до майже 14 000 одиниць на рік і передала замовникам 100‑ту тисячну ракету, що свідчить про масштабування виробничих потужностей. Паралельно проведено випробування нового твердопаливного двигуна, який має бути кваліфікований до 2027 р., що забезпечить третє внутрішнє джерело постачання та підвищить стійкість ланцюга постачань. Підвищення виробництва підтримує зростаючі потреби HIMARS у США та європейських країн, посилюючи їх вогневу спроможність.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
+      "published": "2026-11-12T09:43:33+00:00"
     }
   ]
 }

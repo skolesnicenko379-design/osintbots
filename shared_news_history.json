@@ -11,7 +11,9 @@
     "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
     "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
+    "https://gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
     "https://middleeasteye.net/live-blog/live-blog-update/enriched-nuclear-material-will-not-leave-iran-security-chief-says",
+    "https://middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
     "https://middleeasteye.net/live-blog/live-blog-update/un-chief-tells-turkey-climate-summit-path-mutually-assured-destruction",
     "https://middleeasteye.net/live-blog/live-blog-update/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
     "https://middleeasteye.net/news/dutch-foreign-minister-declines-rule-out-talks-curbing-icc-powers",
@@ -29,26 +31,24 @@
     "https://navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid",
     "https://navalnews.com/naval-news/2026/11/rafael-unveils-super-ice-cruise-missile-with-1000-lb-warhead",
     "https://navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0VMSVFnTThUMjE5dTg0eGFyS0k5UVhvQXQzZFJlM3hwdnZhaGJObFA2Y1JmaDVVWlV5bTVLN2NYSHhtWUUwT3VqZGJPMFNKMC1EbkpxaDVyOG9ITk9JWkR1Yk9HUndHMEVWb05HY2prSl9oOUpQMnJBT3M3RmJSMGxMeUlLLWtIcFdGeHNPaUhPRmxGRkNNSnVONU9LS2dOWXFxRVRKbjBmYUp0ZDVZbmRjcWgtX1Y0bmhsSzl1U1R5SEgwajBOa2VCZ0NVd25SY1E",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVl4b2JTUi1GZU15QWJQQXBoV1hNQlJ3RmRfaHJQRTlCejQtVWFJMnlXWGExZzhsVGg1S3lCV1dTTG1tMGRBeWZUYmd0d1RGcnQyaTRiNS1Zb0xnaF9pTmdMWFRoNEs1dndMOWhsLUdpX0ZhWnBrM2tXX2l2RUxWS3IxZ0p5Z1M3V1pfeFlGVTlCdGJESUg4UGliOGxic2R2ZHFoQk5NcHhveVdGM3pOdzN3U25MMUdRdU4xTWpUNlJ1TEpCOU5XOWYtVEdzY09rQVlUNWdsVklTelpQdHdmVDBjN1hYMWpfMXc",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWlzd2R5MUNfc0pVOVp4QUZHR255UHNSTGlKcWliZU5heHBST1p6dXlPNFNyM1B1WVhsdHo4MFM0WlB3VW5nVFNZcjA1RTY0b2l3X3RKQWpfY3dmamtzUU83eDhhalRVZUNrR3FXbWNSN2RkMW1sQXRYV1ZtSjRjdFpwZXotbEMtUXg5UWVXOTI1Y3lTQXlCVkJNYVV2c3pSTGx2alNkYlNDbmROZkttczhyRG1qQnByUzU5UTN3blNOaDF5aW1HUTRmWDNxdEN5Z3dYZjJERWFUWlktWEp5c3hRaHBiSUsyajhaSEdlTXVGZw",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRHhHZzUxYmhLQWIySUM0bDVISENIek00b2RZS3kyU0xUYVpzRVRaZHpldWxZRnl1UTVYS3BQV044SlpabnJWLTV6d0MxbWtpQXNxaGFKZ0hlM2tuZ0hjMnk0ZEhJeGNic1k0TWo4Q1pXbjZ2eHdDQ3AyR1BzSm9RZ2JtcHlxY1ZSQ0hfektwbjVGSnhocGk0dm5FQ0UzVDNZd3hldkhIQ05fWmQ2ZkhHMHNJdXBlZ0Nmd0dFWWVsMzQ0R3VqcWRhSnlkWjBDNGx3T3pIdld4TU85VVI2d21PWW9JdHltOXRNYmZfUUkteHJfY0U",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRkdDalN1VllkZzN3ZG8yT2NXcVZBTk1RX08yQ20ycFBXd1VFOHRyNTdGNHNybGhVMzV6WVhCcnRmRHpEdVR3ajFRZU9JWmJfTWpybFFHMkRrS3NmU2NkOC1RNS1scGlTd0NIMVR1dUxieWFjNUNwdXRZT2VFeWNIb2l0MV9zN3JVOFJkaF95aWFDS21kTFdtVmZvajVqZlZUd3A0UXJHN3lZbWRjN3ZHWVFJWDFmU0dsNFhmcF9lWVc3ZnFRVmdra0JaSGUwVDBRY2FHb2VZN3l1cTRVb3FnSHRJTEozMGJwbHNCUnlORlc3ZExaUV9r",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV3NLZ09EY3hfUWtfOGRNVy1fcHpEelRBTzRyamlzYkljY3BuX1R4RGNWRDlsQ3ZRR0FTZnBnT3R0ZW5YVU5OV25obnpaNE93ZEFSVzNkVU43cno5UlhrSQ",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TOUZ5a3ktSWctZVQ3cExid1phQ3FXQ19NSlpSa2RaamtHTFE4ZERDaGNKU2xQX0R4LWx0Y3QxclhTSHVYeDZlRXVFekd3UkFaN2llMy1NUnFyU2x2bjZCLUJn",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSDEydDlzYW91Qks1cmNBQ3B5Q3RJSDl0UTl1M2RsQnZEMldYVHdBYmwzalBUU0E1aDVNR0VCalJkbkRYRFJDN2FFOWExOXdvMmpuWlM4dkJDMnFTMmo3ZDZZYXlHZw",
     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdDFMdHE3YmhPd3pyRnptcGFVeGxfTTRoSEtPdURRbEplZVlLRUZJRDU5N2NXckhMMnh5U0haN0dEMzc3NXAyeDFyVDE1eWtrdkpwRld5V216Wi1xWHdQcVJCb0lBQlVCNXUyRnUxazJXdW1Lc2F1VnRVQQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0RWV201SzBKdXF0VDlvWlBnVzk4ZWwwS3VHbDBBZ1huLUNiSm5sSTZPaDJ2bFlaeS1qZjBvdHJiZUZSbVBiZmJ0UTBoZEc1M25UdG1aaG9tX2FvUVVFUXBPeXg0TlJZdXVmOTdJbFctQ3gyZ3JGM3lwTHk3NWpXcA",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2ZPZHkzVE1WeFdGdGhROVg5cFFaSFlzVlIzeGFOaUd3bkc0MHNKanl5NG1sWV9KTVpLVTJwM25qUkdWeHZLNkVFOUhqaGdCVmlNa0VlMW00T0xibXZjbXdQUXBzeHdRQUV3enRwUV9HbjB5VnVyUFZiYlZJdzJjUTVR",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjN1MDhDQVRxZjR2TGVjczVXZVJVSTlCTXpKdmJDclE4aTFzbVN1M2pDWFRKVHNCN05UcVQ0S1lnd2lwUzYyN1JvS0VaQUNGaWV5b2V6MHRGMHUyc3dUUDBIZk9RQUF1d3Y5Q1JKWmFjdjF2ZW9ieFI4WS11U3JRd2w2SW4",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUxWZ1Fab240QWJoZjB6RGRjcmJVZFlURThTVXZIcFhMUVZfbHczUEVDWl93akg5MUQ4dG9lVEM5cnIyQ0ZmREFDVjRQQy0ycllrNGhCUjU3cDNybjd6WktiM2xqM2ZNYlBSVUVZSVR1VDYydzlyeGhZdk1WbWkwSUg1MGFvZw",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhYaFVubmx2QldtUTQ1dDQtdFdPdmpmMGUxd2dpZWFFaGlla0sxNjloQlYxLUlBMy1tcndwbE9pX2ZwVkJpbGg5OHM4ejRfb1FZZm5TUkQxWG5TNEJmYjNmUTJJcTU2YnJlNXU2eWVWdGRqeUV3QWNSRm5rdV9ZOEMzS3JXYWpJRFpJYXVMVGY",
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFydXZkLUN3bE5lR1loR3RvdGs0eXFOZUY2VHE5Wk9zcjV1VVVOS2NjTWtCTTF4R1oydVpLRjlHNzhmSjNQbzBHY3d0RkZnWUlxZ3RJdXpQMGZpTi1wMkM5bG42NnN6Rml3QUxNUDNmMDZ3a0l1aUc5U1BRTFA0MC1DcnYtZGM4emJZWXdwM3pkTDg0eVE",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVJzVXY1eXJCT0JEdmRtYnplWWFoWkZmaFhBcTJOajEzdEs1X1pHLXUwMElBMjdPOEdHaTlwUWRJcDg0WExqYUJ4dHI0RE1LakpKLXI5Q0xmanlsQmFjb0ZYWWpsYTVIWlNKMmRDWlVQU3NKTk9tNnczX3VQMWgxSGVKRjNIZE5LWW52Zjlza1BwLXZad0M4eg",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnZOdEFxNVIzYmR5dHBRYUtTdnhFS0tnaFI0bTN1cGhlUDg5QU1kSHFSUUF2MUNsMERTX2VzUFhFczhoYkhlbGZTdHoycE93QnFaNzE2RXVQbEUxR1NYM3RUUGFBV0I5cElpX0xTUmVQTUlBaXd4aUVhTHQ0ZUFJZ0RZdEdxMUl6SldPNVBQMXNYT2x3eWtKSnJn",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEtIWUdFQ0hkVTNoYVF2WEluaGhrOUxLNW1iOERuT1pBVU5Tb3ZNdHphS2tPRWFrb2t6bUxVekVpRjdFUUhNNDlYNmpmRndtY3Fwd0NBWVkwYjRMbDZzSkFaTDZYUHhKaVdoc1hGWHFnZGxjcFFjTU41VWY5aHBnR25jUm5KYmpHLS04QkFXbXc3U2hxRnl0LW12RWV1TFh2eHBWa1RB",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDJMSHBqSjZpTHlDNWlMblRSc3lqQkc1dk1uc0huWDVMOHFCRDZnUUJ3dU9uY0pibEFUR2J4TlVpUklPLTBkOU9pMnJwWEdsQVl2bXl5SS13cFRrY1FKQ2p6ZDZYQkxjQ28yLU42cFcwQTFaN2YwWUw1Mkp1blZUdGNWanIxT0JGdjVXWDdKVWJLQmlwZEFtb0NEeXFCT0pzUmlzTHBxUE5SUQ",
@@ -67,46 +67,6 @@
     "https://twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky"
   ],
   "recent_posts": [
-    {
-      "title": "Detroit News Launches PolicyIntelPro Toolkit for Critical Minerals",
-      "original_title": "The Critical Minerals Intelligence Advantage – New PolicyIntelPro Toolkit Launched - The Detroit News",
-      "summary": "The Detroit News announced the launch of the PolicyIntelPro Toolkit, a new resource aimed at providing intelligence on critical minerals. The toolkit is intended to help stakeholders track policy developments and market trends in the critical minerals sector.",
-      "source": "Глобальні сировинні ринки",
-      "publisher": "The Detroit News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0VMSVFnTThUMjE5dTg0eGFyS0k5UVhvQXQzZFJlM3hwdnZhaGJObFA2Y1JmaDVVWlV5bTVLN2NYSHhtWUUwT3VqZGJPMFNKMC1EbkpxaDVyOG9ITk9JWkR1Yk9HUndHMEVWb05HY2prSl9oOUpQMnJBT3M3RmJSMGxMeUlLLWtIcFdGeHNPaUhPRmxGRkNNSnVONU9LS2dOWXFxRVRKbjBmYUp0ZDVZbmRjcWgtX1Y0bmhsSzl1U1R5SEgwajBOa2VCZ0NVd25SY1E",
-      "published": "2026-11-11T01:16:46+00:00"
-    },
-    {
-      "title": "Turkmenistan transport services grow 13.6%",
-      "original_title": "Turkmenistan reports 13.6% growth in transport and communications services - Trend News Agency",
-      "summary": "Turkmenistan's transport and communications services expanded by 13.6% in the latest report, according to Trend News Agency. This rise reflects increased activity in the sector, potentially boosting related economic activity.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Trend News Agency",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SlBzU05VbHhkQUIxeHpPQk9MTnk2a1d2STNkRFVsdFV1WDg1Wkk3UTdaYmdjWkR0cnhQY1MzSHRfN3YtYk5mcWhXa1hZVEVhU3REYkp4M1FCcnRJam9Mb09n",
-      "published": "2026-11-11T02:11:00+00:00"
-    },
-    {
-      "title": "Russia retreats from yuan as US sanctions boost dollar",
-      "original_title": "Russia retreats from China's yuan as U.S. sanctions bolster dollar (CNY:USD:) - Seeking Alpha",
-      "summary": "Russia відмовляється від використання китайського юаня, а санкції США посилюють попит на долар, що підвищує його вартість. Зміна валютної стратегії Росії та посилення долара відображають вплив санкцій на міжнародні фінансові потоки.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Seeking Alpha",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdIbk5Zdkx1YXhHdTZySEdldWVMY01BQi1ibDdDMUNPODZaS3hoNHZhTnp3dk9FNjN4bHFWaXVGY0tremY2NUhBUW5jZUM3OHlZWXJJd2NrWXVobEpCbVAyWTdtQkxBcENwU3RnQ2IxTENEcFdHeFF4a1gySlEzcVN0RmoyZVMyWWdBNmVJZWJTejlFcWU2NnczWk9FWVppY2w4",
-      "published": "2026-11-11T02:22:00+00:00"
-    },
-    {
-      "title": "Treasury Secretary Bessent urges balanced US‑China trade before Trump‑Xi talks",
-      "original_title": "Treasury Secretary Scott Bessent calls for more balanced US-China trade ties ahead of Trump-Xi talks - Yahoo! Finance Canada",
-      "summary": "Treasury Secretary Scott Bessent закликав до більш збалансованих торгових відносин між США та Китаєм. Його заяву він зробив перед запланованими переговорними зустрічами Дональда Трампа та Сі Цзіньпіна.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "Yahoo! Finance Canada",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhYaFVubmx2QldtUTQ1dDQtdFdPdmpmMGUxd2dpZWFFaGlla0sxNjloQlYxLUlBMy1tcndwbE9pX2ZwVkJpbGg5OHM4ejRfb1FZZm5TUkQxWG5TNEJmYjNmUTJJcTU2YnJlNXU2eWVWdGRqeUV3QWNSRm5rdV9ZOEMzS3JXYWpJRFpJYXVMVGY",
-      "published": "2026-11-11T02:29:00+00:00"
-    },
     {
       "title": "Інфляція в США зросла, ринки залишились спокійними",
       "original_title": "US Inflation Ran Hot But Markets Didn't Panic. What Do They See? - tastylive",
@@ -716,6 +676,46 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/yaponiya-amerykansky-korabli-yaderna-zbroya",
       "published": "2026-11-12T18:21:16+00:00"
+    },
+    {
+      "title": "Рада Безпеки ООН ухвалила резолюцію щодо санкцій проти хуситів у Ємені",
+      "original_title": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
+      "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош оголосила про ухвалення Радою Безпеки ООН резолюції щодо санкційного режиму стосовно Ємену. Документ спрямований на протидію нападам хуситів у Ємені, проти Саудівської Аравії та ширшого регіону. Резолюція посилює виконання заходів ембарго на постачання зброї та враховує використання хуситами двоцільових компонентів і прекурсорів для виробництва озброєнь. Велика Британія висловила солідарність з урядом Ємену та Саудівською Аравією, а також засудила затримання співробітників ООН і дипломатичного персоналу.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
+      "published": "2026-11-12T20:53:40+00:00"
+    },
+    {
+      "title": "Президент Росії зустрівся з Президентом Таджикистану Емомалі Рахмоном",
+      "original_title": "Meeting with President of Tajikistan Emomali Rahmon - Президент России",
+      "summary": "Президент Росії провів двосторонню зустріч із Президентом Республіки Таджикистан Емомалі Рахмоном. У межах офіційного заходу сторони обговорили актуальні питання двосторонніх відносин та подальшу взаємодію між державами. Конкретні деталі та домовленості переговорів у короткому повідомленні джерела не уточнюються.",
+      "source": "Bilateral Meetings",
+      "publisher": "Президент России",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSDEydDlzYW91Qks1cmNBQ3B5Q3RJSDl0UTl1M2RsQnZEMldYVHdBYmwzalBUU0E1aDVNR0VCalJkbkRYRFJDN2FFOWExOXdvMmpuWlM4dkJDMnFTMmo3ZDZZYXlHZw",
+      "published": "2026-11-12T21:17:07+00:00"
+    },
+    {
+      "title": "Рада ЄС та Парламент погодили збільшення безкоштовних вуглецевих квот",
+      "original_title": "Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries - Council, European Union",
+      "summary": "Рада Європейського Союзу та Європейський парламент досягли угоди щодо зміни системи торгівлі викидами (ETS). Сторони погодилися збільшити обсяг безкоштовних вуглецевих квот, призначених для енергоємних промислових галузей. Це рішення є формальним дипломатичним кроком між інституціями ЄС, спрямованим на регулювання вуглецевої політики та підтримку конкурентоспроможності промисловості. У тексті джерела не вказано конкретних цифр збільшення чи дати вступу в силу, тому опис обмежується фактом досягнення консенсусу.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
+      "published": "2026-11-12T22:32:40+00:00"
+    },
+    {
+      "title": "Франція засудила заборону Ізраїлю на в'їзд для Меланшона",
+      "original_title": "France calls Israel’s entry ban on left-wing leader ‘demagogic’",
+      "summary": "Міністр закордонних справ Франції Жан-Ноель Барро 12 листопада 2026 року засудив рішення уряду Ізраїлю заборонити в'їзд до країни лідеру партії «Незалежна Франція» Жану-Люку Меланшону та іншим лівим політикам. У публікації в X Барро назвав цю дію «демагогічною», стверджуючи, що вона походить від уряду, який порушує міжнародне право. Франція підтвердила, що продовжуватиме працювати над досягненням дводержавного рішення та мирного співіснування ізраїльського та палестинського народів.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
+      "published": "2026-11-12T22:50:22+00:00"
     }
   ]
 }

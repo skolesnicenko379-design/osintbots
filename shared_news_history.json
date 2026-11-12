@@ -4,6 +4,9 @@
     "https://breakingdefense.com/2026/11/australian-armys-littoral-transformation-is-the-right-move-experts-say",
     "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies",
     "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+    "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
+    "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
+    "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
     "https://defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog",
     "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
@@ -21,6 +24,7 @@
     "https://militarnyi.com/uk/news/rosiyany-pokazaly-zenitnyj-dron-sokol-3",
     "https://militarnyi.com/uk/news/rosiyany-vidnovyly-pozytsiyi-v-oleshkah",
     "https://militarnyi.com/uk/news/u-rosiyi-zayavyly-pro-zagybel-lotchykiv-pid-chas-vidbyttya-dronovoyi-ataky",
+    "https://militarnyi.com/uk/news/yaponiya-amerykansky-korabli-yaderna-zbroya",
     "https://navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal",
     "https://navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid",
     "https://navalnews.com/naval-news/2026/11/rafael-unveils-super-ice-cruise-missile-with-1000-lb-warhead",
@@ -584,6 +588,26 @@
       "published": "2026-11-12T16:34:58+00:00"
     },
     {
+      "title": "Три іранські підозрюваних у змові проти RAF Fairford піддано обвинуваченням",
+      "original_title": "3 Iranian-backed men indicted in attempted plot on RAF Fairford",
+      "summary": "Федеральні прокурори США звинуватили трьох ірансько-іракських громадян у змові, спрямованій на британську військову базу RAF Fairford, де розташовані американські літаки. За даними DOJ, один із підозрюваних координував план з в'язниці в Нью-Йорку, використовуючи зашифровані повідомлення та мережу контактів у Великій Британії. Якщо б змова вдалась, це могло би серйозно порушити безпеку бази та ускладнити операції США у регіоні.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
+      "published": "2026-11-12T16:46:06+00:00"
+    },
+    {
+      "title": "Німеччина та Польща обрали SATIM для аналізу військових супутникових зображень SAR",
+      "original_title": "Germany, Poland tap SATIM to analyze military satellite imagery",
+      "summary": "Польське підприємство SATIM отримало контракт Міністерства оборони Польщі на постачання ПЗ для автоматизованого аналізу SAR‑знімків, а також продовжує співпрацю з німецьким Rheinmetall у програмі SPOCK‑1. Система дозволяє швидко розпізнавати до 300 типів об'єктів (включно з транспортними засобами, кораблями, літаками) з точністю 90‑95 %, працюючи в умовах відсутності сонячного світла та хмарності. Це підвищує оперативність розвідки та суверенність польської та німецької армій у використанні радарних супутникових даних.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
+      "published": "2026-11-12T16:58:38+00:00"
+    },
+    {
       "title": "Російські дизельні танкери відмовлені у США",
       "original_title": "Russian Diesel Tankers Turned Away From US, But Ukraine Says Moscow Is Still Finding Buyers - Radio Free Europe/Radio Liberty",
       "summary": "США відмовили вхід російським танкерам з дизелем, проте, за словами України, Москва все ще знаходить покупців на цей продукт. Це свідчить про продовження російських спроб експорту палива незважаючи на санкції, що може впливати на ринкову динаміку енергоресурсів.",
@@ -634,6 +658,16 @@
       "published": "2026-11-12T17:28:09+00:00"
     },
     {
+      "title": "Армія замість накопичення малих атакувальних дронів планує просто купувати нові",
+      "original_title": "Instead of stockpiling small attack drones, Army looking to simply buy new ones",
+      "summary": "Командування матеріального забезпечення армії розглядає перехід від накопичення старих безпілотників до їх регулярного придбання нових моделей. За словами Джона Штрелеца, дрони будуть застосовуватись для ураження високовартісних цілей, навіть за рахунок втрати кількох одиниць, щоб забезпечити успішний прохід. Така стратегія підвищить оперативну гнучкість, хоча й збільшить фінансові витрати на постійне оновлення парку безпілотників.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
+      "published": "2026-11-12T17:30:00+00:00"
+    },
+    {
       "title": "Росія представила зенітний FPV-дрон «Сокол-3» з можливістю перехоплення реактивних БПЛА",
       "original_title": "Заявляють про перехоплення реактивних цілей: росіяни показали зенітний дрон «Сокол-3»",
       "summary": "Новий FPV‑дрон «Сокол‑3» – удвічі менший і швидший за попередню модель, оснащений штовхальним гвинтом, рухомими керуючими поверхнями і камерою. За заявами Міноборони РФ він здатен перехоплювати реактивні безпілотники, хоча реальних бойових застосувань ще не підтверджено. Якщо його ефективність підтвердиться, це може посилити українські збройні сили у боротьбі з дронами, але наразі його роль залишається теоретичною.",
@@ -672,6 +706,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says",
       "published": "2026-11-12T18:12:43+00:00"
+    },
+    {
+      "title": "Японія розглядає виняток, дозволяючи американським кораблям з ядерною зброєю заходити в порти",
+      "original_title": "Японія планує дозволити американським кораблям із ядерною зброєю заходити до своїх портів",
+      "summary": "Уряд Японії планує внести виключення з трьох неядерних принципів, щоб у надзвичайних ситуаціях американські військові кораблі з ядерним озброєнням могли користуватися японськими портами. Така зміна передбачає перегляд стратегічних документів до кінця 2026 року і може посилити роль американського ядерного стримування в регіоні, підвищивши ризики ескалації з сусідніми державами.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/yaponiya-amerykansky-korabli-yaderna-zbroya",
+      "published": "2026-11-12T18:21:16+00:00"
     }
   ]
 }

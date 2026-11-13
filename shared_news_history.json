@@ -3,10 +3,12 @@
     "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says",
     "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
     "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
+    "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026",
     "https://defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill",
     "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
     "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
     "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
+    "https://defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
     "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
@@ -21,6 +23,7 @@
     "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/rosiyany-pokazaly-zenitnyj-dron-sokol-3",
+    "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
     "https://militarnyi.com/uk/news/u-rostovi-vnaslidok-ataky-bpla-gorily-vyrobnychyj-majdanchyk-ta-sklad",
     "https://militarnyi.com/uk/news/yaponiya-amerykansky-korabli-yaderna-zbroya",
     "https://navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet",
@@ -50,6 +53,7 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb18yaElJbjVQejRhWGxQaWR1WWRTV2tmREpXZ3k2bVBxSWZBMHlhZ2x0TXkzdmhneGlUX1NTUHZ3dHFzV0I2UDRldXZzbXE5R2U2bnNYZmRJUXR2ZDctZ09yTnEtaVpMb0VjMFF1eHBZd2k3Y1FMNFBkellHZ2MzUkktdk9PWnhXbnFKWC1YV3B5dDVwZVhvRldyX1R2NDlSZnFRcUN2Q3NFNlpwaGR6UDNUUEJHbmVsVmV1Rjd4VHRoSUxveTZyUVhnQQ",
     "https://theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc",
     "https://twz.com/air/b-21-raider-has-released-its-first-weapon",
+    "https://twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
     "https://twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman",
     "https://twz.com/air/new-facilities-to-pump-out-upgraded-f-a-18e-f-super-hornets-eyed-by-navy",
     "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane"
@@ -566,6 +570,16 @@
       "published": "2026-11-13T17:11:10+00:00"
     },
     {
+      "title": "MSI презентувала нове покоління протидронових систем EAGLS X",
+      "original_title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+      "summary": "Компанія MSI представила оновлену платформу протиповітряної оборони EAGLS X, яка розширює можливості модульного та економічного захисту від безпілотних літальних апаратів. Система передбачає інтеграцію нових датчиків, швидкісний обмін даними та автоматичне визначення цілей, що підвищує ефективність у складних бойових умовах. Очікується, що EAGLS X дозволить швидко масштабувати захисні рішення для різних типів підрозділів та знизити витрати на протидронову оборону.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
+      "published": "2026-11-13T19:16:42+00:00"
+    },
+    {
       "title": "Емірат Катар та Туреччина підписали угоду про взаємну оборону",
       "original_title": "HH The Amir and President of Türkiye Sign Mutual Defence Agreement Between the Two Countries - الديوان الأميري",
       "summary": "Емір Катару та Президент Туреччини офіційно підписали угоду про взаємну оборону між двома країнами. Подія стосується двосторонніх міжнародних відносин та підписання офіційного оборонного документа на найвищому державному рівні. Інформація базується безпосередньо на офіційному повідомленні перводжерела, без додавання зайвих геополітичних інтерпретацій.",
@@ -584,6 +598,36 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
       "published": "2026-11-13T21:42:23+00:00"
+    },
+    {
+      "title": "Сирія отримала назад Іл-76Т, ймовірно, використаний для евакуації представників режиму Асада",
+      "original_title": "Сирія повернула Ил-76Т, яким, ймовірно, евакуювали представників режиму Асада",
+      "summary": "Сирійські повітряні сили разом з лівійськими партнерами повернули з аеропорту Беніна в Бенгазі транспортний літак Іл-76Т (реєстрація YK‑ATD), який, за даними розслідування, міг слугувати для евакуації представників колишнього режиму у грудні 2024 р. Літак — один з чотирьох Іл‑76Т у сирійському вантажному парку, здатний перевозити до 50 т вантажу або 150 пасажирів, що відновлює важку авіаційну підйомність країни. Повернення літака підвищує можливості Сирії у швидкій стратегічній транспорті та потенційно полегшує переміщення військових ресурсів і персоналу між Сирією та лівійськими союзниками.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
+      "published": "2026-11-13T22:18:24+00:00"
+    },
+    {
+      "title": "США та союзники посилюють цифровий простір у Азійсько‑Тихоокеанському регіоні",
+      "original_title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
+      "summary": "У рамках TechNet Indo‑Pacific 2026 США та їхні союзники представили нові підходи до захисту цифрового простору від загроз електронної війни та покращення обміну даними між коаліцією. Описані рішення включають інтегровані системи кіберзахисту, спільні платформи для обміну розвідувальними даними та автоматизовані інструменти аналізу. Це підвищить стійкість операцій у регіоні та забезпечить швидшу реакцію на кібератаки, посилюючи військову спроможність у Азійсько‑Тихоокеанському просторі.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026",
+      "published": "2026-11-13T22:27:52+00:00"
+    },
+    {
+      "title": "FAA оголосила загальну зупинку польотів у США через проблеми зв’язку",
+      "original_title": "FAA Orders Ground Stop For All Flights Across The U.S. (Updated)",
+      "summary": "FAA ввела рідкісний національний ground stop, зупинивши всі рейси через збій у системах зв’язку між центрами управління повітряним рухом (ARTCC). Технічна команда розслідує, попередньо виключаючи кібератаку. Це призведе до масштабних затримок у цивільному та військовому авіаційному транспорті.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
+      "published": "2026-11-13T22:54:03+00:00"
     }
   ]
 }

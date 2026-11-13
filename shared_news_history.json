@@ -2,9 +2,11 @@
   "links": [
     "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says",
     "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
+    "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
     "https://defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill",
     "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
     "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
+    "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
     "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
     "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
@@ -14,10 +16,10 @@
     "https://middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
     "https://middleeasteye.net/live-blog/live-blog-update/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
     "https://middleeasteye.net/news/dutch-foreign-minister-declines-rule-out-talks-curbing-icc-powers",
-    "https://militarnyi.com/uk/news/aktyvnist-rosijskogo-flotu-zrosla-na-41",
     "https://militarnyi.com/uk/news/dlya-vms-ukrayiny-zavershuyut-budivnytstvo-korveta-getman-ivan-vygovskyj-u-turechchyni",
     "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
     "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
+    "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/rosiyany-pokazaly-zenitnyj-dron-sokol-3",
     "https://militarnyi.com/uk/news/u-rostovi-vnaslidok-ataky-bpla-gorily-vyrobnychyj-majdanchyk-ta-sklad",
     "https://militarnyi.com/uk/news/yaponiya-amerykansky-korabli-yaderna-zbroya",
@@ -37,7 +39,6 @@
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVJzVXY1eXJCT0JEdmRtYnplWWFoWkZmaFhBcTJOajEzdEs1X1pHLXUwMElBMjdPOEdHaTlwUWRJcDg0WExqYUJ4dHI0RE1LakpKLXI5Q0xmanlsQmFjb0ZYWWpsYTVIWlNKMmRDWlVQU3NKTk9tNnczX3VQMWgxSGVKRjNIZE5LWW52Zjlza1BwLXZad0M4eg",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnZOdEFxNVIzYmR5dHBRYUtTdnhFS0tnaFI0bTN1cGhlUDg5QU1kSHFSUUF2MUNsMERTX2VzUFhFczhoYkhlbGZTdHoycE93QnFaNzE2RXVQbEUxR1NYM3RUUGFBV0I5cElpX0xTUmVQTUlBaXd4aUVhTHQ0ZUFJZ0RZdEdxMUl6SldPNVBQMXNYT2x3eWtKSnJn",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0NvNUwyQkN6TWh0Zkp4Mk9YUGRZQ1BWSUZRX1ZYZXYwTDlKVzlaX2FoQWkxalVGNjhBSXlHb0Zkekt5UGVsNk5UT3hIaEhwLVdQWnJ3RjFfMVBkSnVCczdsdGF6UmNxV1lGLWJ2R1pVQ1Bub1RsOTFUSUNrQ1BJRzNSN0UwNTRSTmxSczFuajlhSkRuU3JvczhMUmhvV0tuRFE3Q1ZlNEQwZTJT",
@@ -49,31 +50,12 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEN0T1lmNnc3dDZ5MVgzU2lIOVFHbnhMZk9RNjBzQVRtMFVNRWo2NFFaUVRMOUZHdlhlLWpRd2FkR0RLblA5bUN3cGIwVXpBclVOOVdfeE53VkJRLVlFNXFkS3JaLThEcEFOS2Izbk5wMDV2d2hWblk0RVYxX0JPU0JRdUNBbDAyMXA3Nkg0SHJYUV8yTERST19DcjNnX3NoV0ItZXh5WFVydXNZcWppeWRSN3lpT1BlREQ4Wms4WS1JcW5xaFU40gHKAUFVX3lxTE5WS1p3Smc4RHA1Nnk0QUY4Y1JfSGZJSzhjdmJreGxKWW5mdEJiNzdXYmFTLUlSOVVkanJCRjBTTjBBNUNWS0FsNjltb1RpQXUwY1p5ZzllVXJyNVlydDZHelpfUzNHUHZBOF9qZnJQYURBVUZjbzJWTnlXbHRGT2JDYk9pMWhJcW9FdWozRHpRZmRXanJlaWh3VUJwOURtVUJ4cS00MUFueEc3UmE2UnlaNkJHQ09nd3hEVVlqWE1XcFpvV3dubVZ1X2c",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb18yaElJbjVQejRhWGxQaWR1WWRTV2tmREpXZ3k2bVBxSWZBMHlhZ2x0TXkzdmhneGlUX1NTUHZ3dHFzV0I2UDRldXZzbXE5R2U2bnNYZmRJUXR2ZDctZ09yTnEtaVpMb0VjMFF1eHBZd2k3Y1FMNFBkellHZ2MzUkktdk9PWnhXbnFKWC1YV3B5dDVwZVhvRldyX1R2NDlSZnFRcUN2Q3NFNlpwaGR6UDNUUEJHbmVsVmV1Rjd4VHRoSUxveTZyUVhnQQ",
     "https://theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc",
+    "https://twz.com/air/b-21-raider-has-released-its-first-weapon",
     "https://twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman",
     "https://twz.com/air/new-facilities-to-pump-out-upgraded-f-a-18e-f-super-hornets-eyed-by-navy",
     "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane"
   ],
   "recent_posts": [
-    {
-      "title": "Активність російського флоту навколо Великої Британії зросла на 41%",
-      "original_title": "Активність російського флоту навколо Великої Британії зросла на 41% з початку року",
-      "summary": "За перші дев'ять місяців 2024 року російський військово-морський флот збільшив свою присутність у водах навколо Великої Британії на 41%, зокрема суднами типу «Янтарь», які займаються картографуванням підводних кабелів і розвідкою критичної інфраструктури. У відповідь Велика Британія інвестує $1,9 млрд у морські дрони та $117 млн у підводні безпілотники, плануючи їх інтеграцію з фрегатами та союзними кораблями. Така ескалація морської активності та протидії підвищує ризик інцидентів у Північному морі та Ла‑Манші, посилюючи напруженість у регіоні.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/aktyvnist-rosijskogo-flotu-zrosla-na-41",
-      "published": "2026-11-11T21:44:04+00:00"
-    },
-    {
-      "title": "Азербайджан, Туреччина, Грузія та Болгарія підписали угоду про чисту енергію",
-      "original_title": "Azerbaijan, Türkiye, Georgia and Bulgaria sign clean energy agreement - US-Azerbaijan Chamber of Commerce",
-      "summary": "Азербайджан, Туреччина, Грузія та Болгарія офіційно підписали угоду про співпрацю у сфері чистої енергії. Про це повідомила Американсько-азербайджанська торгова палата. Документ закріплює партнерство між чотирма державними учасниками у напрямку розвитку та реалізації проєктів, пов'язаних із відновлюваними джерелами енергії та екологічно чистими технологіями у регіоні.",
-      "source": "Treaties & Agreements",
-      "publisher": "US-Azerbaijan Chamber of Commerce",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnZOdEFxNVIzYmR5dHBRYUtTdnhFS0tnaFI0bTN1cGhlUDg5QU1kSHFSUUF2MUNsMERTX2VzUFhFczhoYkhlbGZTdHoycE93QnFaNzE2RXVQbEUxR1NYM3RUUGFBV0I5cElpX0xTUmVQTUlBaXd4aUVhTHQ0ZUFJZ0RZdEdxMUl6SldPNVBQMXNYT2x3eWtKSnJn",
-      "published": "2026-11-11T22:54:26+00:00"
-    },
     {
       "title": "Трамп приєднається до саміту АСЕАН у Манилі 17 листопада",
       "original_title": "US President Trump to join ASEAN leaders at Manila summit on Nov. 17 - Asia News Network",
@@ -573,6 +555,46 @@
       "channel": "diplomacy",
       "link": "https://theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc",
       "published": "2026-11-13T13:00:00+00:00"
+    },
+    {
+      "title": "Росія адаптувала крилату ракету «Дань‑Т» для наземного запуску",
+      "original_title": "Не тільки гелікоптери: Росія адаптувала нову крилату ракету «Дань-Т» запуску з землі",
+      "summary": "Ракета «Дань‑Т», раніше запускана лише з ударних гелікоптерів Ми‑28, тепер може стартувати з наземної пускової установки, продемонстрованої на навчаннях «Центр‑2026». Вона важить до 268 кг, має бойову частину до 130 кг, швидкість 500 км/год, дальність до 450 км, оснащена GNSS/INS‑навігацією та низькочастотним радіолокаційним профілем, що ускладнює її виявлення. Це розширює тактичні можливості російських сил, дозволяючи застосовувати ракету з наземних позицій і підвищує загрозу низьковисотних цілей.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
+      "published": "2026-11-13T16:36:42+00:00"
+    },
+    {
+      "title": "Пентагон перейменував підрозділ штучного інтелекту в «Офіс суперінтелекту»",
+      "original_title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+      "summary": "Уряд США переіменував підрозділ Chief Digital and Artificial Intelligence Office (CDAO) у Super Intelligence Office (SIO), зберігаючи його місію, але підкреслюючи нову термінологію «суперінтелект». Це відображає ініціативу адміністрації Трампа щодо заміни терміну AI на «super intelligence» і сигналізує про прагнення Пентагону використовувати передові AI‑системи, такі як Maven Smart System і War Data Platform, для підвищення військової переваги у всіх доменах.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
+      "published": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "title": "Італія збільшує фінансування шестипоколінного винищувача GCAP, скорочуючи бюджет на танки",
+      "original_title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
+      "summary": "У 2026 році Італія планує витратити €875 млн на програму GCAP – шестипоколінний винищувач, спільний з Великою Британією та Японією, що значно перевищує попередні прогнози. Одночасно фінансування нових танків і бойових машин скорочується до €177 млн, що ставить під загрозу реалізацію проектів Lynx та Panther. Підвищення інвестицій у авіацію посилює повітряну спроможність, але зменшення бюджету на наземну техніку може уповільнити модернізацію сухопутних сил.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
+      "published": "2026-11-13T17:04:55+00:00"
+    },
+    {
+      "title": "B-21 Raider вперше випустив озброєння під час випробувань",
+      "original_title": "B-21 Raider Has Released Its First Weapon",
+      "summary": "У тестовому польоті з бази Едвардс B-21 Raider скинув звичайну зброю, підтвердивши працездатність цифрових моделей та відкритої архітектури системи. Це демонструє можливість швидкої інтеграції нових озброєнь, включаючи майбутню ядерну крилату ракету AGM‑181A LRSO, і підвищує бойову спроможність майбутшого стратегічного бомбардувальника США.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/b-21-raider-has-released-its-first-weapon",
+      "published": "2026-11-13T17:11:10+00:00"
     }
   ]
 }

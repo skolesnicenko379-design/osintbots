@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTZWcnZsVTlFR3VkRFlrOHF1YlFZYVlTdVlQNFg0d1JMUV9haFZWNEoyT1htS1BoNldoVmJVWnA1QkxDU2dDdlduLWZ1dUMwa1puN3ZSdmE0X3BpQzlyam50RzByalIyZEZrRWJDRjh5TVBtN0lGX1NBSXhaMXdUZWV0Z0U3b2MtRlM0a2N30gGiAUFVX3lxTE1VTktNUDRtaHAwQm5Zc3J0UHR5UUxRMDZndFkwbHVzdHc5Wi11MmZFRkNFTVBNSlNFM3FpUG9pQ2FTY2FxWnFRc0R6Yjdrdlc0cHBXXzBPZVNHME8tMHBqRnh6aUw5amZ0c2VDc3VTb1pyd18wNllCeXliYVYzOHFHYU9jcTlIcEZ6NktJaFhRVmItS2d2M2NBdTRQUlptcUpzQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbzd5T2dEdmV0cHMwcmVZYmZsXzRUS01yVTdBaktYWnZORHV3OHVnQjNqbC1Ld1E5MG1nLUxuTGMyeXZhS3BPa0VjSndpVm5aS1VWZFZkeVRuT3I4UVVTZTRleGZhV1BVU0FNSFBjVEtJMUlQZ2hQRGIzZkwwbjV0RS1iLTZQRU9NMUh6ZUhJQWpiY2x1dUVfVWtOZ0pxNkw1b0c5RHZLdDBob1hmMGRsVkJ5UDFWT2t0aC1HZUwwRTNLWngyZ1d2SVN6dFNScXRZd3JxaVEwb244QXVaUVZDTzRSZmU?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-destroy-four-houthi-drones-targeting-saudi-arabias-southern",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXZwVTB4ZEF1N0loNWZxcm9oSEFfbUttWGx0SW9qYmdqek92eVRucklRUEttZlFJaHRaQmw0dFA5cDNZU3djODl6RVhrWExoYS0xdU00djZXS0lOdmNJSm9DNGt3M0diNDlSalpPVGJENGo3NWRONlBmSmlDWnhKRV9WOURNc0VlN2FvYWZaM1dickExMHFNdTB5NW5xRGZhcGJsbWcwN00?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHpWZlVWaTVPanFyV3NVMnp1VF96Vlh6Qm1FMmJvb0hrVF9UeTZLUFMyRk9TYjJ2R24xNUNjVWowMkRmTG5tM002UmUyVWdWSmtBb3E4Ukl1SmdBVS1nNUtzT1Z2Wk1wSWhnWWlaajJkMHM2QUZWdmVUU3REMEUxV2xpbTZ0d0F4d01jNDNDLXczSzdmT2dNWUl1Yi0?oc=5",
-    "https://news.google.com/rss/articles/CBMipwJBVV95cUxOR05EVmpLVjRTZVNJN2NHWEEzNC03d3M2NnlxLUxRN0hIb1BJM01xTmNDMWdVak5FUGlILVF2STRUWDZXRXFqbmdsYWgyT0p4WG1ueVhRMWlPMU1vT0R6THI2QnBER3hNLWhOWVViR2xfWVZYdW5KMlN5U2ItZUJKVjRObkxSeGU4SUM5aS1MdlZrS0RKY2hmbEdJTVpEMnVxQ0pSVm9oZVB1UlU1S1o5eW5FTWpJWU8xZ28tcU9odWxBYjBNRU5XN3BQc1FRWUtzSFQtZkRGQVQ1b1FzVl9BTnFGSGNuTDZMNXl5WG95R3N4QTdsN3Y2aFowdXZ2QkdFQXZXQTdXcXJ1aU1GSk5QbkJXaUdzcjFCc0VrN1FkSVlNcHJVYWtz?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGEwN29BRTljX3V3dDhZSFp5UjVhbFhPYnFhYk1Sc2pOR2VKNFR2alNUMnZjSC1nVHZyYVBOZ2JQQnd4WmxxY2ZqbDN5TkRVM3VJaXRieExTbmVoV1FNRUgxc0hpWVRzNGxKNURWcEZTeTdTLWFFMnZYSTBKYzRiUV80S2w4c1VrV3FVM2IwZlFOY3RiZXdlWS10S0xseTJ1M2VF0gG3AUFVX3lxTFA5Zjd0MVNwTVZCdUctUXlwU3ItMFB0a19Ra2hES0dVRW11SHVxNHZBeTRHaE56a3hUdThsbzQ1c0dWU0UtUkZUMXAxU0dGUWFRLXJXOHRyTUdOVTBYMGNpWWhDbk9DOGd4eXIxczhyU0l2cEVGRjRhNzhsYlhybTJtNVIyRkREMkpDQkdVRWlrT0p5NzUwQmk5cF9XSzFPd1B0RkxfdVlqcFRJazVQR0dqYWdnbkxoTQ?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-meeting-mecca-pact-states-will-mark-beginning-real",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BYUhocllMZlJ1TkxyRnMzSGYtd2daNUFHN0NIVDBEM2dMU2VsSDJxV3pXTUJmZkNxZVlvRG9mSjBrTHMwWE1ISlFkSmhqaWVyZGxfbUJUVVBlbnQyNWRvVnRnUWo4Y1dwdGVCaU9kRVloaHBRTXY1Zm9ibw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnBtSkZQdldnZU15c3ZTQzZOVGdOb1otaXBNZmJ3amlLLVF5ckthLWxaUzA0OC03em44MC1iVDM0S3AyQXVFbVNaaDJNUkRmTUFhWHc5M0x2MDVjSHpqYXVMRVRFX1ZZVzBVTnV1NXJ1X29aVHZwbzVCNVBfZXI3RUhWbVlNU3ROaUZ6dGtiaGR2X096am54V0lXSkJJSTZMVUpuZnVfWXFoeGRZUlVPaXJiNHAwNFMtanpjX29SQWRRNTZlRHZqQURFeVZVYjBVTlE?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFBLb3BmYnRhcFQxaXBxdWdDV1B1N3dGRUpqc1FXb2Zlbl9PQWlkQlU5TDZkOEhQMUpPS2RzeGxQMEpKbzZsZi14Y3VSWjB6SGd3R0o5M293TlY5TDBkMkNQMFVLNjBLNF8tTmNtcTBZbFJ5d0s4cmtrenA4ZnlGbjF4a21acTBoOGdhQ1FSeW9yUXc0Qm9YMFRXN0lNYUJENTYxUkcyRGkzQzVIN2hyTUZn?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1ZUa00yN1JuMFRvbXBpT2wzejRZdGxFOWFwWGRONHlSbzVXTWhGMzNGaERqdXZNY3V3dk8yaWhDMER0d1QxaDltWkZYOEZxWEpyaXZXR1BtNklXSEF0RjRhc2dXNWx4ZnFaWGRscnQyRzl2Y1JhVHRmRng3ckxRb09sSF93N1FWbWpVajh2dmlJeUVZdkkxMDRkMzFaV3BTMWZjVVdteVhldXpKS0c4?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVhGdGtNYTI0UGh1a2J2c3BzRVN3YW43RXYzYVpFLVNzdVZqM3J6Q19GYnF6S3N4bmpFc1ZLa1RDM0dtX0dwODFaYXlieVN6MDJXeGcxeXM1b0JhQWJvbVpaVDh2bzE3cm85dDlxenVVaFJyaXYyaHFLejN6Qjd6b0s2akdCSW9Rb2lwcHpHZW05WVJXQjdPLTNNeXRtOS1rNmE3ZA?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wZi1JUC1fVGlnOXZES1ZucGVDQi1DRnh5TU1aX1hSS1ptYzhBZ2dxZjVnQnluUjJWRVZYQUN5NU5vUmpBSWlBa29vMFdmdFRmVzRpVGtJSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFVyd0txc252VUtlQTFnRl9RUDFjQzBpT2JzUkl1cUgzeHFNVU9UZUhLZzl2NFVERDA4bWViM0FnRW5tZGV2Sm9ZZ19GbFRQZ3dsNHpxcU9nT3QwakRqWkxPLVRnc2l2UGdfOTBMbldTWnoxMURKUENUN2lDc2l6dTZzS3drSHdZVkxNZUcyTFpYb3NjN3VtWTFNc0dwckR4X2ZNaWFjbw?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-warns-growing-threat-ethnic-cleansing-west-bank",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM01lSlo1YjFObGtfeVZHNFp0YTJ2T01ScmxERmJkd3o0UWFxQ1pDaF9oQURSUi0wYk5uQkFNNmZrTGlaMy1KSmVaTFM3aDhIZnVmUm1weTFmSTBIekFiMTdRNG54WkhYcGp4WnZ3YWVDT2dUNGRyQnZJVVpHY096Ynd1WDcwclRTVGZyMTBYcEgtYkhuUFE2MjB2MUpSYjdNSFZCckNiMTE4c19ERTVtS3VR?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/polls-open-israel",
@@ -1199,23 +1184,24 @@
     "https://www.theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc/",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVVSNTBCbFhsYzIyZnBKc2RBRVFzdjNNNXVwZVo5am9WSlA3R0tlc1B6VEJ3ai1BRFFCa3RoNmFOcUNfV3hUZkxlb1F1OWxCNkxVbU83Q2luN3E4QUFfd0M5YWszTm56OFNGRHo0R2w1U3hHVDVuRkE2NmIwb0lBbi1Mc0k1NU0?oc=5",
     "https://www.theafricareport.com/436326/lithium-gold-uranium-the-quiet-us-counter-offensive-against-china-and-russia-in-west-africa/",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTJEVExSZE9HMG9VOUFBbjNnd0FwY0FhOFpodkQ0UHhOR1hlVF85dzRwRk44cENENEs0SG1oUXgzclBPSWw5aXRTSmJobWxZQzgyd2Rfc0g0OWhERnlodk9pemFZemxSRUQtWnp0OVNzTHF0NmxJS2NMV0MyYVdETkRHbkM1VDZPSUUwZElmTUg1RXA5aFpSVE4tSWNEeV92?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTJEVExSZE9HMG9VOUFBbjNnd0FwY0FhOFpodkQ0UHhOR1hlVF85dzRwRk44cENENEs0SG1oUXgzclBPSWw5aXRTSmJobWxZQzgyd2Rfc0g0OWhERnlodk9pemFZemxSRUQtWnp0OVNzTHF0NmxJS2NMV0MyYVdETkRHbkM1VDZPSUUwZElmTUg1RXA5aFpSVE4tSWNEeV92?oc=5",
+    "https://www.gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wNGpERFFEc1dGN1pzbDV1NVVjVDlJelRkMHcxbzdUT1B1VzRTV0MyRGVBQ3BJRDBrOEhFMTlReFhSd3YtZ0RGVVpaMzEyWGdSXzZxdUNvcWhqelNnbzFKRDFwS2FxUmgweGR0ZHRZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMENRZFJocDdIbUVjaWlCR2NYTnhxQkpsRHRnaVQ0QmFsUWhsNDk2Y0h6UWdPdWo3Z2F3dElfOTBJT2JoTS1kd0VQOGF0QWF1TUtEcWxyS3k5MFZqaDlaUFlIWTlEamROd0FkbS1GRmJMWDQ2TVRudU9BWVh2aG5VdVNhbTlrQVRtZ3hXOFhndXVRTkprTDktc2dfUF9VVDlBalRBUDkyRWthODlvZjZMR0JVWVQ?oc=5",
+    "https://www.middleeasteye.net/news/activists-demand-end-transfer-military-materials-israel-through-new-yorks-jfk-airport",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/two-tankers-hit-sea-mines-hormuz-irgc",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-riyadh-airport-and-saudi-oil-pipeline",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnY2ZjB2MkJpalo0RHVaQnZzaVpkTE9paVB4RVVja0x6dks5WmpQUnlTcnNJOFk4NElDYWllb08wNTU1QXpVR1FWUXlIa2xveS1oSkl1Y2o5QTV2NlhCOFpSbU96S3QwNlVrVFpTYWt2UmtBZnlpX3BQSFNZZkdtWE1pSmxqa0JKOGdpanc0cXRVV1dlbDZrZHRYOFJGUzlYSXRHZ1o2bmVCR1p5T0tTRVFCb1Y4dw?oc=5",
+    "http://www.africanews.com/2026/11/13/car-opposition-marchest-in-bangui-against-rising-cost-of-living/",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVpuaGpINFlSa2drV0FJTDhadzh1VzNYSXZmcU5QS0lKaGNrUjl6US1KYUhYNEZvcDc0b2dScnoyRGFvLTUwM3ZVeEx3R2lqZkJvd2FOeUVjRWFaWF8tVkU5RmRrM2lGWkh1QS1mNHFXWldJZzFXSnZ6YndSdGlxdGRjWVYzN2hHLUExSWJzSDRqcU9uSU1PTGJiS19leGNFblc2V0RxYkQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXBoMjhTVndmT1F4Z0hzOWJwYnllRkVQZ0c1TWlmNFJiUGdLX0szQlljSzlQbC12QlVWWWNnNlBRUDFmZldkamx5bFRsR21xTW1aRmdjbDdQU2pZVlFQTUFoXzF1YjM1aUZKWXQ5WlhjRW5OYzFqR21ZcWw2dHNGdFpVb2hURTNyY0pTZjN1NFFiSzVUeklEM25IWmx5MVZJUGNWTjVTM1ZPZHVWRktwTks0RFBmbEU4eUU1am8xb0IyWUdrSF95VEF0dWF5V2JtM09EUVp2YWZTMzRXUmVja3RuV0RDMTBIc0hWZ0lMRlpTcURHclp5U0VUYw?oc=5",
+    "http://www.africanews.com/2026/11/13/burkinabe-authorities-vow-to-support-gold-miners-expelled-from-guinea/",
+    "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYklpSTgzQXRyT3ZuU3RPQ0wyNFU2U182SUp6dFN0VExrUW9OQXNka0xqT2NMQVYzSG5EVWFUNWJlTndIeGNZUlAxeDBKQlROYzBHbUtEMnlSOHdxLVdya3k2Y2JFTmRTQmNnWWczb0xOOWNLa2RWRGZvdFBqeE9sTHgxV2dVU0VYWFl6d2lOWVI1VE1HMEI0S0wwNjBVNjZhUUFILVJkSkR3bV9OeDFqaG5SRW84S1VMYnpXSWlDT25WMnEyYi1VcUo3MUJ4ckJDZXY4RWd2bXkyVlZsQXRLWWJENUtGREx4NzZSWTd3ZVFUUGZjTzk3QzA0U1VGSTRUcjZUX19zdVA5b0VLV0ZEeWZBQVpjc0JBenhSNlhxQ2s4cElZS3ptejl3STQ2b0VaMDln?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTTVzcGJZV2pBR3RpeHZzN21NQmVGRUZXSklZVjNhdmU4Y3Y5T2taRWl1T1lhTkNKbGZpb0E2MGpYQTRiNzNfOWdfLXEtZENMamNVeFNrWmdFQU1TNkZNMlNJUTV4cFZoSnRFWGtqd3VyWFI4MFB6dnNSTXJZeXpDT18wN1hnTTRJWVBXMExYYi1BaXgxMmtlakJzRHdOR01KemFHZmJ2Q2oyQmVhRFdhaV9ZNE5Xck56REhFNHNBUDFvSHJSaVZNQ1UtY2U2OHNjUldxWDBYSGhqcTg?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія у Раді Безпеки ООН засудила удари Росії по Україні",
-      "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош виступила на засіданні Ради Безпеки ООН щодо України, заявивши про продовження підтримки української сторони. У своїй заяві вона наголосила на наслідках російських ударів по цивільній та енергетичній інфраструктурі України у листопаді, закликавши міжнародну спільноту не сприймати такі атаки як норму та підтвердивши незмінність європейської допомоги.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-11-09T16:27:31+00:00"
-    },
-    {
-      "title": "Президент Маршаллових Островів відвідає Японію в листопаді",
-      "summary": "Уряд Японії офіційно оголосив, що президент Маршаллових Островів здійснить візит до Японії у листопаді. Ця дипломатична подія підтверджена заявою японського уряду, оприлюдненою агентством Kyodo News. Матеріал містить лише анонс майбутньої події без деталей щодо програми, конкретних дат або учасників переговорів, окрім голови держави-гостя. Візит є частиною двосторонніх дипломатичних контактів між країнами Тихоокеанського регіону.",
-      "source": "Bilateral Meetings",
-      "publisher": "Japan Wire by Kyodo News",
-      "published": "2026-11-10T01:33:00+00:00"
-    },
     {
       "title": "Канада та Китай підписали угоду про зміцнення фінансових зв'язків",
       "summary": "Канада та Китай офіційно підписали угоду, спрямовану на посилення та зміцнення двосторонніх фінансових зв'язків. Цей дипломатичний крок передбачає розвиток співпраці між двома державами у фінансовій сфері. Документ закріплює домовленості сторін щодо розширення економічної та банківської взаємодії. Інформацію про підписання відповідної угоди оприлюднило медіа 980 CJME.",
@@ -1411,6 +1397,20 @@
       "source": "The Africa Report",
       "publisher": "",
       "published": "2026-11-13T13:00:00+00:00"
+    },
+    {
+      "title": "Велика Британія підтримує партнерів з Персикового залива на ООН",
+      "summary": "На засіданні Ради Безпеки ООН 12 березня 2026 року посол Великої Британії, Сара Макінтош, заявила про солідарність з партнерами з Персикового залива, засудила іранські атаки на цивільні об’єкти, закликала до відкриття протоку Хоруму, вимагала припинення підтримки Іраном повстанців, засудила дії Хутис у Ємені, закликала до гуманітарного доступу та підтримки дипломатичного вирішення конфлікту для забезпечення безпеки та стабільності регіону.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-11-13T21:42:23+00:00"
+    },
+    {
+      "title": "Емірат Катар та Туреччина підписали угоду про взаємну оборону",
+      "summary": "Емір Катару та Президент Туреччини офіційно підписали угоду про взаємну оборону між двома країнами. Подія стосується двосторонніх міжнародних відносин та підписання офіційного оборонного документа на найвищому державному рівні. Інформація базується безпосередньо на офіційному повідомленні перводжерела, без додавання зайвих геополітичних інтерпретацій.",
+      "source": "Treaties & Agreements",
+      "publisher": "الديوان الأميري",
+      "published": "2026-11-13T20:23:55+00:00"
     }
   ]
 }

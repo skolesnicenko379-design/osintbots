@@ -7,10 +7,10 @@
     "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
     "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
     "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
-    "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
     "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
     "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
+    "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
     "https://middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
     "https://middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
@@ -26,6 +26,7 @@
     "https://navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet",
     "https://navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show",
     "https://navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSDEydDlzYW91Qks1cmNBQ3B5Q3RJSDl0UTl1M2RsQnZEMldYVHdBYmwzalBUU0E1aDVNR0VCalJkbkRYRFJDN2FFOWExOXdvMmpuWlM4dkJDMnFTMmo3ZDZZYXlHZw",
     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
@@ -38,12 +39,10 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVJzVXY1eXJCT0JEdmRtYnplWWFoWkZmaFhBcTJOajEzdEs1X1pHLXUwMElBMjdPOEdHaTlwUWRJcDg0WExqYUJ4dHI0RE1LakpKLXI5Q0xmanlsQmFjb0ZYWWpsYTVIWlNKMmRDWlVQU3NKTk9tNnczX3VQMWgxSGVKRjNIZE5LWW52Zjlza1BwLXZad0M4eg",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0NvNUwyQkN6TWh0Zkp4Mk9YUGRZQ1BWSUZRX1ZYZXYwTDlKVzlaX2FoQWkxalVGNjhBSXlHb0Zkekt5UGVsNk5UT3hIaEhwLVdQWnJ3RjFfMVBkSnVCczdsdGF6UmNxV1lGLWJ2R1pVQ1Bub1RsOTFUSUNrQ1BJRzNSN0UwNTRSTmxSczFuajlhSkRuU3JvczhMUmhvV0tuRFE3Q1ZlNEQwZTJT",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGd3VXRQN19xU1pBUGU1U2V4Z3RZejVrMGd2Y2xOWWJRWGxndzBrODZTRFZTd2ppU2x4Y3RyNjZVcnE5UzROTzBLUWdDN29kWGlpX1o0UldabFpUZExTOGZpQ1hBM0JCV0lnUTdwUXhZSkJiMlNmR3hNM3RCdXV0RWM3dGlkZ0NXaktYQWJCOHN4T1BrcjJIdmgwQzdkQU84WjlCaFVPZ0d0VTljTHhJ",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2lhT211dkxSNVF6WHRhd3VfeERHZUZBV2tIeEtGUkljTVZubmwycktQSjNZOTRGT1FidU9WUEt5d0lKMWNSZWdyRk9GcURGeDRBNWVEY2NxUnZ6VzVrS0poSEtpUVBjQkNYT2NqbUtETTl0eTVtM1NJV0NRb3J3Ny0wbUtxY0wyMnhDME9fOWdjQlRMcmVMSElQb0J4blppdk9pNWMzdGlyN2xqRGJnN2ZnckNRZ2Uz",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkd2QzJkN1AtVVIxZmJKZzc3X09hc0JqblE1ZGFzTzI3aUtRQW40MEtNVUlTbDdkOW9OOHV4bXJVbDZIR2JGbjdrYzl3eUItaFBCX2gwZG45NjlRZjREcEhzbVk5RkZMbWNjVFB4RERnY19oUzZQbXRHRmpudW5UNThCRWVkd0ZnQzlwUHBSbTZ0Q1dnVzc4YjE1aEd3NWh3MVVCQnM3UjhQeFhNSVNCVzYyelNpVjNrQ2lJYzByYXB0Zw",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVAxeFdLMHdOWnJnbHYzc3ZSVTBxYTJlWEktSGxEZlF0LVctVlBJeExzcjNzV2VXUU1RN3pwWC1DRm5PejlhRFI1d0ljWndaQktnTi1ZNFI1aDdjSElVV0IxckFtMG9tanVMdklZVG40WjY1bzVSLXFES3VUZnlsQVVTaTRXS0xzZ0pNU1lPV3lndC1kaTNORTNDdlc0NGFENm5nXzVDQUpvSUlNUFFjM3BxVkZac19WOE55YVBXcW50ZURxa2c",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXpDdjJOYVdkaUtORXUtT1NXQkhBNlVJMXlkZ0N6dlJlYmh6VThyVXluazU1cHhabWkzazdHeC0xc194OWVTY1Jxa3dheHdHOE9KSE4ydXo5V1FvSnhWc2NBaW50dFhVOF9hS1pJTVNPUHdSOFlFVVl5R211Sld3N3pCTHd2UVdmSG11ZEszNnFUR0ZJM2UyT2dSaENHVUlhX001cE1WOVg1T1ZlcjNKTnNaamF2UWRPVFU1RkV2WEdxV0xfVGc",
@@ -56,36 +55,6 @@
     "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane"
   ],
   "recent_posts": [
-    {
-      "title": "Трамп приєднається до саміту АСЕАН у Манилі 17 листопада",
-      "original_title": "US President Trump to join ASEAN leaders at Manila summit on Nov. 17 - Asia News Network",
-      "summary": "Президент США Дональд Трамп планує взяти участь у саміті Асоціації держав Південно-Східної Азії (АСЕАН), який відбудеться 17 листопада в Манилі. За даними Asia News Network, американський лідер приєднається до зустрічі з керівниками країн-членів АСЕАН. Ця подія є офіційним дипломатичним заходом, що передбачає безпосередню взаємодію між США та південно-східноазійськими державами в рамках регіональної платформи.",
-      "source": "Bilateral Meetings",
-      "publisher": "Asia News Network",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVJzVXY1eXJCT0JEdmRtYnplWWFoWkZmaFhBcTJOajEzdEs1X1pHLXUwMElBMjdPOEdHaTlwUWRJcDg0WExqYUJ4dHI0RE1LakpKLXI5Q0xmanlsQmFjb0ZYWWpsYTVIWlNKMmRDWlVQU3NKTk9tNnczX3VQMWgxSGVKRjNIZE5LWW52Zjlza1BwLXZad0M4eg",
-      "published": "2026-11-12T00:57:37+00:00"
-    },
-    {
-      "title": "Президент Південної Кореї Лі відвідає Філіппіни та АТЕП у Китаї",
-      "original_title": "South Korea's President Lee to visit Philippines, attend APEC summit in China - Reuters",
-      "summary": "Згідно з повідомленням Reuters, президент Південної Кореї Лі планує офіційний візит до Філіппін, під час якого передбачені двосторонні переговори з філіппінським лідером. Після цього лідер Південної Кореї має взяти участь у саміті АТЕП, який відбудеться в Китаї. Подія вказує на продовження регіональної дипломатичної взаємодії та участі країни у важливих економічних форумах.",
-      "source": "Bilateral Meetings",
-      "publisher": "Reuters",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2lhT211dkxSNVF6WHRhd3VfeERHZUZBV2tIeEtGUkljTVZubmwycktQSjNZOTRGT1FidU9WUEt5d0lKMWNSZWdyRk9GcURGeDRBNWVEY2NxUnZ6VzVrS0poSEtpUVBjQkNYT2NqbUtETTl0eTVtM1NJV0NRb3J3Ny0wbUtxY0wyMnhDME9fOWdjQlRMcmVMSElQb0J4blppdk9pNWMzdGlyN2xqRGJnN2ZnckNRZ2Uz",
-      "published": "2026-11-12T01:04:00+00:00"
-    },
-    {
-      "title": "Сторож Тому невідомого солдата відчинив репліку делегації Хегсетха",
-      "original_title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-      "summary": "Під час візиту Піта Хегсетха та його супроводжуючих до Тому невідомого солдата у Арлінгтоні охоронець, почувши сміх, підкреслив вимогу тиші, вигукуючи: «Усі відвідувачі повинні дотримуватись тиші та поваги». Інцидент підкреслює суворі протоколи щодо поведінки на цьому священному меморіалі та демонструє, що навіть високопоставлені чиновники підлягають цим правилам.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
-      "published": "2026-11-12T03:32:11+00:00"
-    },
     {
       "title": "Почато полювання на російський флот у Балтійському морі: ураження «Калібр» «Наро‑Фоминськ»",
       "original_title": "Полювання на російський флот тепер розпочато й у Балтійському морі, про що каже ураження носія КР \"Калібр\" \"Наро-Фоминск\" - Defense Express",
@@ -595,6 +564,26 @@
       "channel": "miltech",
       "link": "https://twz.com/air/b-21-raider-has-released-its-first-weapon",
       "published": "2026-11-13T17:11:10+00:00"
+    },
+    {
+      "title": "Емірат Катар та Туреччина підписали угоду про взаємну оборону",
+      "original_title": "HH The Amir and President of Türkiye Sign Mutual Defence Agreement Between the Two Countries - الديوان الأميري",
+      "summary": "Емір Катару та Президент Туреччини офіційно підписали угоду про взаємну оборону між двома країнами. Подія стосується двосторонніх міжнародних відносин та підписання офіційного оборонного документа на найвищому державному рівні. Інформація базується безпосередньо на офіційному повідомленні перводжерела, без додавання зайвих геополітичних інтерпретацій.",
+      "source": "Treaties & Agreements",
+      "publisher": "الديوان الأميري",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
+      "published": "2026-11-13T20:23:55+00:00"
+    },
+    {
+      "title": "Велика Британія підтримує партнерів з Персикового залива на ООН",
+      "original_title": "The United Kingdom stands in solidarity with our Gulf partners: UK statement at the UN Security Council",
+      "summary": "На засіданні Ради Безпеки ООН 12 березня 2026 року посол Великої Британії, Сара Макінтош, заявила про солідарність з партнерами з Персикового залива, засудила іранські атаки на цивільні об’єкти, закликала до відкриття протоку Хоруму, вимагала припинення підтримки Іраном повстанців, засудила дії Хутис у Ємені, закликала до гуманітарного доступу та підтримки дипломатичного вирішення конфлікту для забезпечення безпеки та стабільності регіону.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
+      "published": "2026-11-13T21:42:23+00:00"
     }
   ]
 }

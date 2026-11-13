@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lN1ZIUUtYdjRRLWU3QjlLLTVkVlhoWDVjUzVyT3czZXhiRnAtU2JHUExjRHAtc3EzSWQxZzQtLS1DcTVOdDBheHZLOEdhTE5hbUF6d2RqdXBVZ3RHSWZxN3lqS1NrM01QRDNtV0hlUEtjRlN2VkdXX2dPWQ?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-denies-reports-he-will-fire-chief-staff",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm1nX3d2NjJvVmVqSE1BNmdMQWhMQ1RXNVNFWGQ5dklsSVRwMUNBUDhSR1p2eFlSVkZnVW9iZV9VQ2pTZDlQNk5ranRTaXNyS09ValNFWjU0cUlrcjhZRzBiYUZ2dmk5b21WX01NZUJyR2d3NnRHVks3VnpKRWM5V3VwMlRSZ2hLWDdZUFdTaVBselJKOHZmR0RLQ0t5TUpqa05ERW5UVlg2QnV5VUF3WFlpRGhPOHNGNEtvRw?oc=5",
-    "https://www.middleeasteye.net/news/sudan-decries-nusseibeh-un-candidacy-whitewashing-emirati-role-civil-war",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmtkNmFiRktBdndFSklpODAtZmZWcFUxbGpzMS1idWVFNlo5WHVCbktqWGlXbzZVcUIzemJfbGJDaFYwWENkcHJwZGVvdGVoMjdUNzFpVFhnWkt6bGREX3pUOGhfcTU3MzdvM09GRjAxMWlyMHMyVEVGVmhXS1JtajU2b0UyQ2RkdFJseS1BT29xUXFYMzg2VmxYcjg0aXB1Wm9yTmVPdHd2SnBzdjdHZkRKUjFrc3hiTXlLTUotR0Q1WWs3S2c?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQlZWd3B3UldUVkRZWUdnT21LWGJwaHk4cC1tVEpLbTVNYVBiMVVWNk1mbDU2NGxQWi1aaXJEQ1k0eFk5NXd0b3pWZFBDUmJERHgzWjZLc3pKX1dKcmRmRTFsdkdYNnF3NnJyVVV4M1RzQWxwWnczUk5KUDI2Q1dQSmIyMmtNbmdJM3o5Vk9LUFhGM1YwU0cwMnhraFNzMTFISnVyT0lObWpENjQzZEZVSkVQYk9zanpxWDF4b3luU0JyYmJZV2R1bWVZcjdTekNFa0lLekdJQTVqSnQzaDFMQ2pCZ3JxQQ?oc=5",
-    "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HV3lOcWNuOXMtTG1JTlgzZmhsYUNNNW94YjNmeTY1ZVNPUUZJRHM3QXFqRmlHUVA1OHdNb0VoYzhQV1A3eXVZYVg2TzdfUE5oVmp4cTBnNVo5ZlRhaUxV?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjZqVnhxNmJJMDNWWEZkYjAtSWVxbVBKZENjMDZqd1JfcGpWdUhWdGJ1S2tHM0lDcEp0clVQVUV3Nl9mcjZqVGJ4UWdENU1CSGZmMEdVMml2T0UwOU9VTmZlamhxNDlOa1VENzl0Z2xITmNnbjNMTC1uNndyS0hNb3hoUUtPUzgwU0lhUTk4Zk45YjZWZnFwY295RXBzbEJPTHR5ZTJ6ZGJ2RHM1WmkxU1czc2VlWjlESzU00gHAAUFVX3lxTE04TzhkRlV1Ym5FMms4ZmVYY05fOWxfeExwb181SW1QTzh1UlVfei1nZS1FZzNIcURMMFd1Z1cxSDZxY01MV2Z0S0tCYkNQUEFmNHg5bEpCMnE1cWlTd1BtVC01cHZHUDVsOVIxVWZaMnBpaTNMMm44UGpHVW55U013RmxtY3FtTGpOREJ5UFVpWUtWb2htZzRGYWRSVFR6R3F4NVkyYWRUaTFHd0x5dHNjZFQ3WHI0U1NIRUtxMXFvVA?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/we-left-heavy-hearts-israels-assault-displaces-thousands-hebron",
-    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNS3JYY2lpNFIycUFpdm5ESXY5akJwM2xWQ2doOEtPZG5ydnV3Tkg2a2RKMHlmYmpYbHhFcjhyU2hVT2hPeGlObzlEc3ZMdmpxZ0FtRUJEbTM1QlQxdkNSLWZlRFU1Rml0c3VBSWoxQXkwemFmeUhtSWpMTkx5ZEZlVndMbWlzMW1RbmFDeUxsRHdMcXQ5S2hVTzhTMkNfa0xLSXBPVHI4dEhONi1BMHlRcHQyOVd5Z2RSWWptNXRqWjNja0VoeGdYd21HZUVubXlweXZnZjFKRURXcGtJWUxUaVdGN1IwTzktVnpOSmpFejlxXzFiX3MyVEtwNWhHXzRvYWg0MUhFZlNWZw?oc=5",
-    "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMU1PVUd4WWhqRUNnYUg2SVhENVZ5cVRkQlZMYkZfYXpMRkJGQWlONlFFdTVSSmtzWW1nLUoxYVItcDFCYnl0MElEWUc4QjZBZ0lLdDFHZUtKTWNMMFFrOHQ2ZUxBQ2VPanF2dUNBcjZfSFFjZlJDTUZ4V1ZOa3cyRk5JWHZtNXJuZFNLc0d3MW1Kb1o5WE10dXV2SjFVV0p3Q3cyQ0RsVE52VVV6M0VCd2F3YmR4QU1iLXBLU0ZEYTBxRW80VHM3eW5NQ296RWxQZlZ6LXNCYnA1NDh0ZEtHUXVkQjRha1c2cl9WRWkxUldLT3N5c0Zab05vdEQtUEp6b0tPbA?oc=5",
-    "http://www.africanews.com/2026/10/26/human-rights-activists-condemn-alleged-abduction-of-tanzanian-govt-critic/",
-    "https://www.middleeasteye.net/news/shithouse-countries-trump-has-pledged-not-use-such-language-again-adviser-says",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/26/mff-2028-2034-council-secures-negotiating-position-for-a-strong-and-future-oriented-common-agricultural-policy/",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-burn-palestinians-car-near-nablus-local-sources-say",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWVGTTVQaUxDU0RxZ0o1cy1OWlAxeFZJYTBfNk9MM1JqcVRhTmVRS241MDdVLU9HTkU4b1VVVVJoNlVKMkNNdzFYZUFBUHFyYmQ5Q1RObFFCYm5yMmNzb21jeDZ6eUx2YU5GMTFDSGNpUmVmYmdIdXhlRmNZSHFCZjhzb2lTTGVKT2FJNDBNV01jaU10dnVZNGFiUnNrODhHSmJFTFl0MXh4aXVnY0pSWXhlZGNHS2RlaUdfSUNkdDZyclB6bTQyNXBFb3dDbHJDdUJQTFB1TQ?oc=5",
@@ -1199,37 +1184,24 @@
     "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkZjZklReTZ6VXdFZkhUNUdSdGxCQlhOUGQwRmpnSHpLTjJjRVBmYzJnXzFIQ2RZOWJpMEZEbDlvSko2NVBSUEZQcHBnYlNSREhKek1BS3k5LXE3YUVaVUpVd1RWaXdkZVN2SU5qbUJEOWxBekRneDBueGt6OENZNGNUcTNRcUt3Q2pCX3R2bzl3YjRiZ1V4aDdzWnRBcFlsZS1KTmVBcGJhMEZKbjd3cUQ0REVZdw?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYU5fMUxkS1lXVDJQTG8wTXFuaVV3UU5YUkFTMFdRX18yS25OQkFUVGNUaVl4MGVsYTNOTUswaHFhTXlfa0NHekF3aHJiMDRUUjQwckU5bkFMY3F6ZDNCVUhzc1dIZXowY2VJRENLVWtrMXN4MkpuNHA1RHdidHJ4WURXSQ?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/"
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/remarks-by-president-antonio-costa-at-the-press-conference-following-the-meeting-of-the-european-political-community-in-dublin/",
+    "http://www.africanews.com/2026/11/13/un-food-agency-chief-calls-for-end-to-sudan-war-as-famine-crisis-deepens/",
+    "https://www.theafricareport.com/436199/hemley-boum-paul-biyas-cameroon-is-a-decaying-body-ruled-by-an-empty-chair/",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOElXSi13SzJOSnNjZ3dvaGs4cEpzc2xFQWdGZDUtWXBKQ0NyT3FWWmpZM3EtbDJjVFJhSGprSFRlQlFjdlA1ZG1hcklyUFpCM0RUR0RSWFg1Ti1GNFZULVV2M1diNGpaS3NFNHdIX1JJQUt3WXJlbm5BRTBqeVJPMndhVmxFak5RSnBCZkpkZEZPRmpUS0plVTI3NGtkRkZaWVkw?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-expanding-its-ballistic-missile-programme",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb18yaElJbjVQejRhWGxQaWR1WWRTV2tmREpXZ3k2bVBxSWZBMHlhZ2x0TXkzdmhneGlUX1NTUHZ3dHFzV0I2UDRldXZzbXE5R2U2bnNYZmRJUXR2ZDctZ09yTnEtaVpMb0VjMFF1eHBZd2k3Y1FMNFBkellHZ2MzUkktdk9PWnhXbnFKWC1YV3B5dDVwZVhvRldyX1R2NDlSZnFRcUN2Q3NFNlpwaGR6UDNUUEJHbmVsVmV1Rjd4VHRoSUxveTZyUVhnQQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-would-be-hit-no-hesitation-if-it-threatens-allies-us",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTYwcThCT0FRWWlWaS1sc1R0RnNkRWR1VFVva19USkxwdGlSS1dVOU9RWDhUUmlhYlJwaS04ZTN1LVpJTmpNMlk1R2NyZ0VfcUlFUXEtRzVpUXh2cnQ4c0JXQ1lZQkNMWG1xQU5CdnRpZUZQMER0UlJnS3NTRWo1c2lPVnB6Vk9wVl8zeXBOOEdkblczYXI0TTJXc3FfMnRpNUVJaWhqX2Jya194ck9NSWwxbVNrV0FwQTI3eURoRXpDUQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
+    "https://en.mercopress.com/2026/11/13/leo-xiv-to-52-000-young-people-in-lima-be-passionate-about-everything-worthwhile?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2FIVW9wVjI1a1pFaWlnUWhndmlaSVVjOUpoRzZ2RnF6eGZodVFEU05KNnVPaWdYb18wVXBpdTJxamZGMkdKMlNjWVgzdjVEYTZfLWFuTjJVZWZPMkdCcVdXZmVhM2o5M1dNRC1WV0JWSFFZeXhwVFoxM0RGSmc3WUNYWWZIV3dtRnhlOHdDVWI3b0JDbjdWTXNtQzJtSDFUYmhkSEVld0lhaElUV3FIU2x1TUM?oc=5",
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbmVmd2hVYXlnMThEdUYzRU1BWWRxQnFxM25NTmVYQWpGbFNkQUJVY043ZVhnWXVuT1dJbWE3dS1TanVPSkNrc3V4SXhjSnZYbFZVU2E1QkM2UktpN3FsNENZcmY4bGgtcWtWb3MwcTRUVG5waHVOeGlXTkIwRkVBR2tpeG80MmM1NDg4V3JneWhlYm5XV0ZUSHkzNExSdnhxdWJRMzFHSkxnZGV5b3B6ei1oQW1yUHlra3c4WndlTXVqU1RqRDkyaU85TEtMZExmRGNadzZld0pTYTU4eWNCWEJyUXRaVy1OY2RGRFZBeTNFN2pZMmVYdElTNzRBcjdQYnhkb0I1UVdtZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNenJNSGlwWjd5OElKVXhxX1N0Y1psU3dxb3M1VHRfcVhqQmRpY2pNTnc1bHpmRTdOUkVYb3k4N3hrOHBBTFFmVVlsbDBBYXBoNXdHbmQxMTVWV2ZiaUhibld0MnVoQVRNLWRtWDgxYzBtYWU4cUJqSktRWGhuWW1adXdn?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aWGduVWtSX0twbG40OWdfWEJlejQ1RFljNHdUQUh3X0xsWXBHcTk2bjdHQkc4RnRXRHVEcEJZck80QzBWY0FiR1JfamhFWWJvN01XVm9ZTE9kcE5qSEpENU50Y296VmdJZDlHNUdELTJBVF8yVHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3NCWjMzZE5lR18yM25uVklJaFppeW5SOWU5U3Jicm96Rlh0QmVyNjZ5ZnNWT0p2RFdhR2Z4b1VCYjFlakJHb2dnNU1RbGN4MXdXaVRHd3hZYTVjNDlPaWM1ZWJGSDhNU3FJbFkwa0NCSTdEd04tcDJfSHRMR3NMaG9B?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Міністр закордонних справ Словаччини Юрай Бланар здійснить візит до Китаю",
-      "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило про майбутній візит міністра закордонних справ Словаччини Юрая Бланара до Китаю. Ця дипломатична подія спрямована на розвиток двосторонніх відносин між двома країнами. Конкретні дати візиту та порядок денний переговорів у повідомленні не деталізуються, проте візит підтверджено на офіційному рівні зовнішньополітичним відомством КНР.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-11-09T07:03:00+00:00"
-    },
-    {
-      "title": "Міністр закордонних справ Куби Бруно Родрігес Паррілья здійснить візит до Китаю",
-      "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило про майбутній візит до країни спеціального посланця Комуністичної партії та уряду Куби, члена Політичного бюро Центрального комітету КПК і міністра закордонних справ Бруно Родрігеса Паррільї. Ця дипломатична подія спрямована на подальше зміцнення двосторонніх відносин і обговорення співпраці між двома державами на високому рівні.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "published": "2026-11-09T07:02:00+00:00"
-    },
-    {
-      "title": "Дональд Трамп проведе зустріч із прем'єр-міністром Катару у Білому домі",
-      "summary": "Президент США Дональд Трамп планує провести закриту зустріч із прем'єр-міністром та міністром закордонних справ Катару шейхом Мохаммедом бін Абдулрахманом Аль Тані у Білому домі. За інформацією американського чиновника, яка надійшла до агентства Reuters, переговори мають відбутися у понеділок. Окрім зустрічі з американським лідером, глава уряду Катару також запланував переговори з віцепрезидентом США Джей Ді Венсом.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-11-09T06:48:52+00:00"
-    },
-    {
-      "title": "Прем'єр-міністр Іраку здійснив візит до Тегерана для переговорів із Калібафом",
-      "summary": "Прем'єр-міністр Іраку Алі аль-Заїді здійснив неанонсований візит до Тегерана для проведення офіційних переговорів з іранським посадовцем Калібафом. Інформація про цю дипломатичну зустріч поширилася після повідомлень низки регіональних та міжнародних медіа. Сторони обговорили актуальні питання двосторонніх відносин та регіональної співпраці між Іраком та Іраном у рамках дипломатичних контактів високого рівня.",
-      "source": "Bilateral Meetings",
-      "publisher": "NewsCord",
-      "published": "2026-11-09T17:20:58+00:00"
-    },
     {
       "title": "Рада ЄС продовжила мандат Військової місії допомоги Україні на два роки",
       "summary": "Рада Європейського Союзу ухвалила рішення про продовження мандату Військової місії допомоги Україні (EUMAM Ukraine) на додатковий дворічний період. Цей офіційний дипломатичний крок спрямований на подальшу підтримку України з боку європейських інституцій у рамках безпекової співпраці та оборонної допомоги. Жодних додаткових деталей щодо обсягів фінансування чи конкретних операційних змін у текстах офіційних повідомлень наразі не наводиться.",
@@ -1411,6 +1383,34 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-11-12T20:53:40+00:00"
+    },
+    {
+      "title": "Пакистан та 50 держав вимагають від Ізраїлю дозволити гуманітарну допомогу в Газу",
+      "summary": "Пакистан разом із 50 іншими державами звернувся до нової ізраїльської влади з вимогою дозволити постачання гуманітарних вантажів до сектора Газа. Ця спільна ініціатива спрямована на забезпечення доступу до необхідних ресурсів для цивільного населення. Заява підкреслює міжнародний тиск на Тель-Авів щодо дотримання зобов'язань у сфері гуманітарної допомоги. Документ відображає колективну позицію багатьох країн світу щодо критичної ситуації з постачанням продуктів та медикаментів у регіоні.",
+      "source": "Treaties & Agreements",
+      "publisher": "Arab News PK",
+      "published": "2026-11-13T05:25:22+00:00"
+    },
+    {
+      "title": "Шрі-Ланка та Саудівська Аравія підписали угоду щодо хаджу на 2027 рік",
+      "summary": "Шрі-Ланка підписала офіційну угоду з Саудівською Аравією щодо організації хаджу на 2027 рік. Документ передбачає участь у паломництві 3 500 громадян Шрі-Ланки. Підписання відбулося в межах двосторонньої співпраці між державами щодо релігійних заходів та забезпечення умов для паломників.",
+      "source": "Treaties & Agreements",
+      "publisher": "Hiru News",
+      "published": "2026-11-13T04:41:15+00:00"
+    },
+    {
+      "title": "Іран заявив про готовність до переговорів зі США",
+      "summary": "Спікер парламенту Ірану Мохаммад Багер Галібаф в інтерв'ю телеканалу Al Jazeera заявив, що Тегеран не має бажання продовжувати війну зі США і м'яч на боці Вашингтона щодо мирних переговорів. Галібаф зазначив, що Іран передав США чітку та прозору відповідь зі своїми вимогами, але адміністрація Дональда Трампа ще не відповіла. За його словами, угода можлива за умови дотримання попередніх домовленостей, відмови від дій, що підривають довіру, та надмірних вимог, а також звинуватив Вашингтон у блокув",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-13T03:25:26+00:00"
+    },
+    {
+      "title": "Сі Цзіньпін візьме участь у 33-му економічному саміті АПЕК",
+      "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило, що Голова КНР Сі Цзіньпін візьме участь у 33-му неформальному засіданні економічних лідерів Азійсько-Тихоокеанського економічного співробітництва (АПЕК) та пов'язаних із ним заходах. Подія передбачає дипломатичну взаємодію на найвищому рівні між лідерами економік-учасниць об'єднання. Точні дати проведення саміту та місце проведення в офіційному повідомленні МЗС Китаю наразі не уточнюються, однак підтверджено безпос",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "published": "2026-11-13T01:00:00+00:00"
     }
   ]
 }

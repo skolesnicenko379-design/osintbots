@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0VETzViMlFHOHlCMTg0MnJ2ZE5QXzR5ZXhOUjNCRmFqWkxuUUZNcmVlQ0pPYktJVmt0MVFvQzRNRmN4a2haQnBneG1SSF9zOXdyS19RT1VfeW9fbk1XODVnOHFkaU1ReGgybVdSbnZTbDVYNE1ZZUZmRTdQLXpPOUNJVlhOTmkteE0xWHBOV3oydmd1dVRCN0xwaWJuVzYtaU9KU2dwSGhYVHM3eG5oQXQ4MldLQjc1ZTVoT3hLaGg?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-burn-palestinians-car-near-nablus-local-sources-say",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWVGTTVQaUxDU0RxZ0o1cy1OWlAxeFZJYTBfNk9MM1JqcVRhTmVRS241MDdVLU9HTkU4b1VVVVJoNlVKMkNNdzFYZUFBUHFyYmQ5Q1RObFFCYm5yMmNzb21jeDZ6eUx2YU5GMTFDSGNpUmVmYmdIdXhlRmNZSHFCZjhzb2lTTGVKT2FJNDBNV01jaU10dnVZNGFiUnNrODhHSmJFTFl0MXh4aXVnY0pSWXhlZGNHS2RlaUdfSUNkdDZyclB6bTQyNXBFb3dDbHJDdUJQTFB1TQ?oc=5",
-    "http://www.africanews.com/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest/",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd2FTX2loRmhyTGRXY2RTYk11b3hIN0pKaG9CcUhadE92LUVSRndlZlVOVkJjR2xRVGxNby1sUEticzhWTDRvY3dYZVVsY1pPZnVuanFMRXhDQzZpNXdMWnBPMnhPZTdBOVhqYkpJeEcydEJ4QklvR1Y1MjYwZWw2T1dJTU9QWFA1MndtSXk5QWNPZ050emo0a2loS3hwUkxTWTJpY2w4R3FUa2taX29xUGt6SnZHQ3NGUi1URVpDRWFPdjZJMkNsRWthRDFrTk9IYzhJOXIwQW9fTG51UkpMR1VpRHdrTm9XdU51aEpzQmptRzhEelE?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-forces-detain-and-assault-palestinian-occupied-west-bank",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMOEplQ0g2UVliU1FDWWpEckd0Qk1MWmhuSjZoVE1TMDdWd1B5cVJxbTQ1b2EzUUU4ajEtRUdjaFN5ck1oWXZBVG5UX0RaLUZHdU9OQUxaaW4yeG82R1g1OUY0WFFlSnZZRlZDVURVRHUtOE43b3BlQlRXNXh6cTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbXE2MGVMTUg0cDdSVnNxZm5MTmk2ZDRQNzA5SDQwOU1nTlQ0V3d3Wkk4d2kwdWM4QTNSTUdQeWJ3NGQzMVNpcVRmaGZxcWNzWW5RaFdXSkdVVWpQVnJCSUpMSXFBNWJGbFZzMXVqaEozVzhNUGZTemtwRGo5MG5zd2FHcnMxRFZhYXdnSmZNMllGOGhfWVA2ZVRHeXBQZEdXdlRjR3U2amNMem9GQjQ2dVhCaWhIV1E3dnk2UlJvamdlZThjU3A3Sk5sQkMtMkduUFZGSmhaT2hESGVFRXZoU2xsRzJpb19FNUZyYlBlUnVKZzdHem5kME5lRjhOSzVpNE9sUmRtRVFWQU0?oc=5",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHN4SnBsRlo4SGxZRkVYVGd3V21wU2w5MlI5OFk5OTZBYW50cWtwMndTOEtvTjNKZmRhWlRnWnhXYmo5bFRfVVVzWGktdmVYNlN5bGgzRC1iQWpaUUtGc2lQVnVqcnc0cG5OR0pXNHkzRDVMRmp5LVJxNVJHQ281cHhCcFBKYXB6am9SQkFtcHowUXh3V3dlbHVFblVCWnVReVM4aVVhYmd6cHBHd3lZd05XaTMzbHVVdV9wSnIyd1Zjc0g0cW10dWVKTFZnUG1Vb01fTXZrbWtyWU1yd2pCcXZfRHNKeHV3dXRJX0c3X1dZbGt1LTRXSg?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdjJkOW5YbzN2QU5UTUxXNWJIT21NNWRyajZjaXFsUDcxRVBTNFNjMkVFTzFlOTl5WHFIOVNIeVo3aktoTHhraFlrM2Q2WUtQLVJrcUI3a2lWNEtjOW5mcm1nNzExUFU0UXYzWW1iSzVJMDFhQ0hsRjc2MVpyX0xzWnZSWjJCbVpqb0RtOTNGa3dIT0FSMUxqZ3JVUXYzVFoxZl9EQUY5YkpJRUdXZWJNQ3pUbmljbG5qRWgwQV9yR2ZHSEs2cmZv?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaTm91amJ2YjZsNVdMZUJtdGNabnpmU2VqeVQxeFh2bFRwSUthQVAtekFtbGlpdGF2NGg4VncyLUhhcDJNZjFlSlJPZWlFM3B2ajhmWVV4akhEel9NbEwxb19RQQ?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/shithouse-countries-trump-has-pledged-not-use-such-language-again",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHFuREdKT29DX3NhRm5oVlY3ZXp3azNXNFI1VlFQTnBReGJwNXBHeW1qOXpVN256bWtCbGNhZ1BjMTVSWDhrQU1nQ3hlUU1KYUtBcU5aeDJTeUVobEF3U1NWbmxyeURjMGlQSEg4UVpONVcyT2tlS2x5VmQySFpzV1p0Z294NHRENTV2Snd1Umg0NFpWWUs5RVdBcmFPN2tfWmhjZ1Ywd3gxYUlRRk5PTS05d0tMMEdxY05BOXlIV0NiQnpYUnIw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missiles-launched-towards",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTZWcnZsVTlFR3VkRFlrOHF1YlFZYVlTdVlQNFg0d1JMUV9haFZWNEoyT1htS1BoNldoVmJVWnA1QkxDU2dDdlduLWZ1dUMwa1puN3ZSdmE0X3BpQzlyam50RzByalIyZEZrRWJDRjh5TVBtN0lGX1NBSXhaMXdUZWV0Z0U3b2MtRlM0a2N30gGiAUFVX3lxTE1VTktNUDRtaHAwQm5Zc3J0UHR5UUxRMDZndFkwbHVzdHc5Wi11MmZFRkNFTVBNSlNFM3FpUG9pQ2FTY2FxWnFRc0R6Yjdrdlc0cHBXXzBPZVNHME8tMHBqRnh6aUw5amZ0c2VDc3VTb1pyd18wNllCeXliYVYzOHFHYU9jcTlIcEZ6NktJaFhRVmItS2d2M2NBdTRQUlptcUpzQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbzd5T2dEdmV0cHMwcmVZYmZsXzRUS01yVTdBaktYWnZORHV3OHVnQjNqbC1Ld1E5MG1nLUxuTGMyeXZhS3BPa0VjSndpVm5aS1VWZFZkeVRuT3I4UVVTZTRleGZhV1BVU0FNSFBjVEtJMUlQZ2hQRGIzZkwwbjV0RS1iLTZQRU9NMUh6ZUhJQWpiY2x1dUVfVWtOZ0pxNkw1b0c5RHZLdDBob1hmMGRsVkJ5UDFWT2t0aC1HZUwwRTNLWngyZ1d2SVN6dFNScXRZd3JxaVEwb244QXVaUVZDTzRSZmU?oc=5",
     "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-destroy-four-houthi-drones-targeting-saudi-arabias-southern",
@@ -1199,16 +1184,24 @@
     "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbmVmd2hVYXlnMThEdUYzRU1BWWRxQnFxM25NTmVYQWpGbFNkQUJVY043ZVhnWXVuT1dJbWE3dS1TanVPSkNrc3V4SXhjSnZYbFZVU2E1QkM2UktpN3FsNENZcmY4bGgtcWtWb3MwcTRUVG5waHVOeGlXTkIwRkVBR2tpeG80MmM1NDg4V3JneWhlYm5XV0ZUSHkzNExSdnhxdWJRMzFHSkxnZGV5b3B6ei1oQW1yUHlra3c4WndlTXVqU1RqRDkyaU85TEtMZExmRGNadzZld0pTYTU4eWNCWEJyUXRaVy1OY2RGRFZBeTNFN2pZMmVYdElTNzRBcjdQYnhkb0I1UVdtZw?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNenJNSGlwWjd5OElKVXhxX1N0Y1psU3dxb3M1VHRfcVhqQmRpY2pNTnc1bHpmRTdOUkVYb3k4N3hrOHBBTFFmVVlsbDBBYXBoNXdHbmQxMTVWV2ZiaUhibld0MnVoQVRNLWRtWDgxYzBtYWU4cUJqSktRWGhuWW1adXdn?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aWGduVWtSX0twbG40OWdfWEJlejQ1RFljNHdUQUh3X0xsWXBHcTk2bjdHQkc4RnRXRHVEcEJZck80QzBWY0FiR1JfamhFWWJvN01XVm9ZTE9kcE5qSEpENU50Y296VmdJZDlHNUdELTJBVF8yVHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3NCWjMzZE5lR18yM25uVklJaFppeW5SOWU5U3Jicm96Rlh0QmVyNjZ5ZnNWT0p2RFdhR2Z4b1VCYjFlakJHb2dnNU1RbGN4MXdXaVRHd3hZYTVjNDlPaWM1ZWJGSDhNU3FJbFkwa0NCSTdEd04tcDJfSHRMR3NMaG9B?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3NCWjMzZE5lR18yM25uVklJaFppeW5SOWU5U3Jicm96Rlh0QmVyNjZ5ZnNWT0p2RFdhR2Z4b1VCYjFlakJHb2dnNU1RbGN4MXdXaVRHd3hZYTVjNDlPaWM1ZWJGSDhNU3FJbFkwa0NCSTdEd04tcDJfSHRMR3NMaG9B?oc=5",
+    "https://www.theafricareport.com/436327/nigeria-folawiyos-t1-marine-battles-revenue-authority-over-1-2m-tax-demand/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-rights-group-says-israel-barred-its-director-travelling",
+    "http://www.africanews.com/2026/11/13/nigeria-ebola-patient-contacts-complete-21-day-monitoring-without-signs-of-infection/",
+    "http://www.africanews.com/2026/11/13/dr-congo-bukavu-comedy-festival-offers-laughter-amid-the-ongoing-conflict/",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmRLTnVoSzM5VzNRRUR5Y290ZGtsY2JfajhleE0teXRNUms3SGJkaDFVTGdPNGFrckpmRTBfTmtQekxzcTFiY3FDWjdGSGdtNm5hVDk4ekN4SFhXcElqcHJWVWxiWW9oeGdIYVNOczYyNGdQNUU5Vnd1WDJFeXJvQ2tHR1hNaUlKUS1MYld2U0U2cm9iTkZDa0Fzc1g4OTBrbDFmZ2N1QjZpb3lMWFk5X19jMlJTeXdV?oc=5",
+    "http://www.africanews.com/2026/11/13/uk-christmas-at-kew-2026-unveils-spectacular-light-trail-in-london/",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFJuNy1POW1UYTVnNV9VdEZRMkJmX2JrNGQ1VEJtQXdmcV9tUW51Y0JFZTk0QVpOaFJ3YW5VLXBUbWlQeXFmSk1FMHVScXQ3dy1SSHdfNmFlYlRnU0pHakxCeXd5WFRnNTBsOFVJajlHc2phckk0cklIT28yWEpGcXVqVzdNeXNKT2NVQVJJQzHSAZABQVVfeXFMTW53SmlYMllNdVlzYll1eldtemJyMUVEbXk0Q2VUc0toWXVXb05ORzRGSUVXdDZaVHpZZFpQMkZiM21yUFdsTmgxdllsdmRLUzRPTFV4QTVSa1lmQXl0aS1RSGRmd1JtT25LdGdUcFc5MHBmTDBXeDZHczhJZHZKZ0YzU3UxOG1RYl95X2R2SGFx?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2pxWWZGelk3anZKVmhGMlg0aXNNM3UtcWxERGtnODhJaUctQXE5by1xZnk0NE5PcWNIcUZac0NrZ3lFMWpoTWdwMUdKS1M3LTR5dGFGR19MeXVlNW5lWVNhUHVIbk9idHFIU28yQUI1dFh4Vi02TjVKMFZ0dlJiUVJHNlFfOFIzN01rRDlqN2doZEx5S1AxeWc3eW96WWNvbk5ZbVYtY3B6eW1UZ0xIYk1fNHZvOEV4S2xWT0lFMHU?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-shot-down-two-iranian-drones-heading-towards-bahrain",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1N3Vk93Vk9UMi1vVEFMMkFILWRHVkVJRFdfTWRPS2tMRF9sRFJTX2JsSC00TDE3RjdFZWZRbzhwSmYxMk9sY1A4VklqR0VaQ1U1T2dWODRjVW5hREJZS0xyaUlBUl9mSHhEMVpTWW91NWFIRHk1MUZpZGd2WmtTZW9UZ1NwdnJhUi1xNHMtcFRCMGw3dU50WDFjUENOam5SX01yMVZPNlRyNkNJWXZEcnNyc1hVSkZBbmNjRVhta1NMcFVSWFF2cWJUUQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-rabbi-rules-kill-politicians-cooperating-arab-parties",
+    "https://www.theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc/",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVVSNTBCbFhsYzIyZnBKc2RBRVFzdjNNNXVwZVo5am9WSlA3R0tlc1B6VEJ3ai1BRFFCa3RoNmFOcUNfV3hUZkxlb1F1OWxCNkxVbU83Q2luN3E4QUFfd0M5YWszTm56OFNGRHo0R2w1U3hHVDVuRkE2NmIwb0lBbi1Mc0k1NU0?oc=5",
+    "https://www.theafricareport.com/436326/lithium-gold-uranium-the-quiet-us-counter-offensive-against-china-and-russia-in-west-africa/",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTJEVExSZE9HMG9VOUFBbjNnd0FwY0FhOFpodkQ0UHhOR1hlVF85dzRwRk44cENENEs0SG1oUXgzclBPSWw5aXRTSmJobWxZQzgyd2Rfc0g0OWhERnlodk9pemFZemxSRUQtWnp0OVNzTHF0NmxJS2NMV0MyYVdETkRHbkM1VDZPSUUwZElmTUg1RXA5aFpSVE4tSWNEeV92?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Рада ЄС продовжила мандат Військової місії допомоги Україні на два роки",
-      "summary": "Рада Європейського Союзу ухвалила рішення про продовження мандату Військової місії допомоги Україні (EUMAM Ukraine) на додатковий дворічний період. Цей офіційний дипломатичний крок спрямований на подальшу підтримку України з боку європейських інституцій у рамках безпекової співпраці та оборонної допомоги. Жодних додаткових деталей щодо обсягів фінансування чи конкретних операційних змін у текстах офіційних повідомлень наразі не наводиться.",
-      "source": "EU Diplomacy",
-      "publisher": "Council, European Union",
-      "published": "2026-11-09T17:03:04+00:00"
-    },
     {
       "title": "Велика Британія у Раді Безпеки ООН засудила удари Росії по Україні",
       "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош виступила на засіданні Ради Безпеки ООН щодо України, заявивши про продовження підтримки української сторони. У своїй заяві вона наголосила на наслідках російських ударів по цивільній та енергетичній інфраструктурі України у листопаді, закликавши міжнародну спільноту не сприймати такі атаки як норму та підтвердивши незмінність європейської допомоги.",
@@ -1411,6 +1404,13 @@
       "source": "China Diplomacy",
       "publisher": "中华人民共和国外交部",
       "published": "2026-11-13T01:00:00+00:00"
+    },
+    {
+      "title": "Трамп номінував Джона Марка Бернса послом США в ДР Конго",
+      "summary": "Президент США Дональд Трамп обрав пастора та раннього прихильника Джона Марка Бернса на посаду американського посла в Демократичній Республіці Конго. Перед тим як обійняти посаду в Кіншасі, кандидатура Бернса має пройти слухання в Комітеті з міжнародних відносин Сенату США та отримати затвердження під час голосування в повному складі Сенату. Раніше, 28 червня 2025 року, Бернс публікував спільне фото з президентом ДРК Феліксом Чісекеді на платформі X, зазначивши, що був прийнятий у резиденції гла",
+      "source": "The Africa Report",
+      "publisher": "",
+      "published": "2026-11-13T13:00:00+00:00"
     }
   ]
 }

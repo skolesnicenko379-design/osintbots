@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://www.middleeasteye.net/live-blog/live-blog-update/explained-who-are-main-leaders-and-where-do-they-stand-key-issues",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dV9ncHBHODE1LVI2VUQyNzZvRmU0aGIzQjZ5SlhZelN6YlJnel9KS2lRMTZzUXhlNTdoRGtXWUREeDBWOHhOcUpZMFgyNVBCWDBZZGFFQS1pQThwcTBVd3E2Y1VuN3A3bVhHamhQamJTMW5aNnNLZEpidkE?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-are-voting-israel-ensure-their-very-survival",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/british-politicians-detained-israel-why-trying-access-west-bank",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1dzZ2xhTUlVU1BHaktQNTRfR1lJMmVESnVzbk1PcTBIRDBPTDBYekZYRU5hNnRYNWFBdXBhc0oxUkFLeWNuRk9uenhKOUhDYVlBbnltUW1tLWl0Vll4QXZBci1aMm84TUZZVWF4MzEtOS1wQkdSX0ZWd1p1ekxwNU5VM094Vy1qZlNYVEJSUkp4U043cHZRc3Q0VkotNXcxWWdFODN5RXNXbDBKMlJ2RmhkYWJuaVg5dlBudXIyUDVNa0RRUksw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3I2RXJLRFlZMmhqb2NfS2gzS3RfTTk2MENsZi1ubnp0cFNKbGxvVm9tNUM3aUhmMk95YVMtQ2JMckZ5b0lXRXVZaHl2YmNnSXd2NmF4cGpFdDVxN3dGbmNmT1FldTZXOXZod3o2ZC13NWFlMUkxZF82cDRpLWpDTEVrOHRnaGxYOFRQYS14cVdMNUNocG5EVTVyYjFCOGNILVFEeUsxTmpraGYzR3c2a0JB?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaV9Fa3dBd19lUWk1ZEN1bDJYMExpazZBNExjVXZzUFhyOXRPWkoxUm9wYjh5QzVacVJRU3RnaFFLSk9pSXV1WmhOOW5rYXBmYmtkLUlBZ0xEYkZPWEM2TFhZNzNZWjdMLWtHaDk5X2tpMFJwLTI5dXh1TVNFN3QteUtNdUlwZ1lST0JEdUtENllFeHZ0Y0d3UnZjR0pJRnFrS0NDU05CYlNtOFdPMVJKZDN2Mk5TYUFONUh3aV9WVnozLVpNUnMw?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/27/president-costa-travels-to-montreal-for-the-eu-canada-summit/",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRElYc2dEVmExZGptaGs1b2ZINE5LX1NaNUxEdVpUVmRlc2lyQ1hCTC1jLXJ0MFlYOTNwM2xINTh5X21Zc1ZYX21idHRMTVRjcW9kdTJWWnUxYS1fQWJEMk9wdjFORmdBRnNwSEF1OVZNdzFnaF9HVFBRZlNiOGcwaF9XLWltT1pCWlp4MXhNTi1PRnJHaXY5bTZGOWVZU1VCTzc5VGwtaEI4dzhzZHZCQU8yONIBuAFBVV95cUxPY19uNk90RlFTRm1WT2ptQXYwbWZQVklZNll1dVBiSHVXMWJFbHZiaTBkQkQySjNOZzNSYXZmXzFqbGhSVDdrWkx6VFhtOVRxUTFqbGZiWTJQcWFXZGZ3YnEwWFRSakZxRGMyZzd4cVE2aGVTX2cyS1FNOU9IbkJ0SXBJQzJxbVotNVo2NGhzSFJhUEFwZzNyY1lnbTQzOUptYTV4VS1jZk91ZUs4YTVaU2I4OG1mZ056?oc=5",
-    "http://www.africanews.com/2026/10/27/south-african-ambassador-calls-for-talks-to-ease-tensions-with-us/",
-    "http://www.africanews.com/2026/10/27/university-students-in-the-gambia-protest-over-poor-campus-conditions/",
-    "http://www.africanews.com/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins/",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/man-arrested-after-approaching-centre-left-party-leader-yair-golan-knife",
-    "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRVpVQXlJQS1DcUtna3FHWHFMQWk4R2VBSVNtZDVSaHQwc2tWUGlwdTdfdncxT3FHZ3lnUFRLODJNc01TOG9CTThPTGZYaGpYU0cxenBCN0NERzJXdjJoalZQaGtFUk50NjhYVC1tZlcySVM5Y3MzVVl3VkVfaTYwQTRrbDhlUmpic0ZxWWpZYkJEQmJaQ1Q1TFh1eG1BSS00WXZyejYzc255dlllaGhGNE15dzV4U3huZk95anlVQXBGQ2xhRnlGVlloeWNseTFTSnpDTWszZ2cwc29kTkdTRWhiVU03Y0Mzb3ZaVFNnOXlUMXZwUzU0NWU5OEFGcnhZVTJCdU13dw?oc=5",
-    "https://www.middleeasteye.net/opinion/blair-and-starmer-him-burnham-has-found-his-middle-east-war",
     "https://www.middleeasteye.net/live-blog/live-blog-update/highest-voter-turnout-1977-says-election-committee",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzlhc1p4RGFCTjg3MXh6VXVxRkZUMVBHQWNra0lWM2pXWmhDLTM2Y1pNNlJZNlRUTW5POHZCd0VDTGsxbXRQa0szX1dueDZnQjI0dE1SdGRhQkJPSkRvbEpKX3FqX29BVFllQThlNXhPOFk2OEdWWTZhcEhva2pQWFpac3R6ZkhQa2VhMDNEeUpCT2RLYTZ5WXh4cVBNOGRVZ0VXLdIBqgFBVV95cUxQTEF5MFlCakxVNmhicHpLcGVLbXdIeXl6bC1scllFMzllMzM3R2hDNHVpQ1BnOUw0YklhV1FtWDRILUpvODUwWVVRT241di1MeEZybU5HbVRLWHplb09zUUphcE52S2JDSXFnVHNodTg0UWRhaldWM1BldTEtYkhKbi1kNTI3SEE0Zmd3cTBENnY1TS1QdEFBVmVJSndocTJFVUk2V3ZnTnJyUQ?oc=5",
     "http://www.africanews.com/2026/10/27/qatar-sends-15-buses-to-senegal-ahead-of-dakar-2026-youth-olympics/",
@@ -1199,23 +1184,24 @@
     "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-led-coalition-forces-target-saada-razih-yemen",
     "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-669",
     "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02OTFNZzBBZ1ZTN0VsdllkLTJkVFMwam5wSTRZNy1yeFFKT1ZleTFidkhLNXZ3NDRVYndfbDdVS3NkaW9zS3NTX1pBanFmdENZTXBLakhPUVY1UnBNNHhGT3N4dVFXZmg2cjlveg?oc=5"
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02OTFNZzBBZ1ZTN0VsdllkLTJkVFMwam5wSTRZNy1yeFFKT1ZleTFidkhLNXZ3NDRVYndfbDdVS3NkaW9zS3NTX1pBanFmdENZTXBLakhPUVY1UnBNNHhGT3N4dVFXZmg2cjlveg?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1o2UG16dUVad0lwT2pHeEZCbXZRcHZYWlJ4aTZFSWNvbWlySHllbVU0RXF5VFlnR19yMDFiR2RuN1NabVkwekhVUVFvM2M0dDVKbE92bmo0Q25tcGhjQmNrMERIdHhEcTJIYWZieEU0cnJ6QmY2bmsyNnN3a3g5d1g2T0tDTkpqQUxxelhKR3VydlY4aUs0cmwyM3pfSkFEX1c3blBrNlZIbjJYRWNMTnJYenBPbDU2NTJJZlZvcGtLZw?oc=5",
+    "https://www.middleeasteye.net/news/loss-confidence-us-navy-fires-commanders-warships-deployed-against-iran",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTkJ1elF4M2RSaEs0SGxoTVFGcy1nYTFORENOQVBQbHdJR0xyVV9STkZoZWpjQTN2cENPdmZMTk9DYmdxZW9TdExucUhqc05UVTYwZ2ZqYWpHZkN1MEhNLXhKVkJFelZnT1hNXy1fX0hXTl9mc1JQQ1RabXhZSE16YV9Xb0NHNm5fRG1OY1dNWnJmcUlILUljRXVXTWd4cVF2ZGJZZ0dwRm12SmNTSFplaFBIbXFaVXJXNHVpZU9zcjYza3RiVm1yV1R4R0s?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+    "https://www.middleeasteye.net/news/three-israelis-emerge-possible-successors-nvidia-chief-jensen-huang-local-media-says",
+    "http://www.africanews.com/2026/11/14/world-diabetes-day-south-african-health-leaders-urge-early-action-to-detect-the-disease/",
+    "http://www.africanews.com/2026/11/14/microsoft-apologises-for-global-outage-and-rules-out-cyberattack/",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHF1RHFDdjE1ekJkckFyLUg0dEtpTElrdENlcGs1aWpCTHJSQjdVRjVaZjc3Y3dCRnFWS2Z4OE41dTdSOFJGc1NMTzgwWXpuUERRcFRkWGs4aWtWS092a3JXTUtiNGt6OUNhWGh4ZFQ1V2lTR0ZMSEpXYlhHZGNCMG1RUURiWE83cUhENWhQdVVjM1cwVE9idTVEcllDbU00LTdlWEh5OG12TzRWYzZrejRWSkp0YUZyaDRwYzB1VQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/diplomats-18-muslim-majority-countries-condemn-israeli-strike-nasser",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1F5RG5Sa1RGYXBBdkwteWVCTEZyeUJXajBhYTk1SHltMDRmWjZERTBHVzlkbjhCSDFOZmNjYnRQcTgtaHpRdHNLa0M2aG9FUy1TYi1ueF9SdGYwdTRPN2wzZHdGeVdwM3FLODdxTk0xc1drMkVVMnZWY3J5NXEzT0J0aw?oc=5",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc05vaU5UcUdQWVZwNHFueW9qVzFzeG1TSlhBRUh1SGNQTTZzQnBsRkRmM21jR1Q0anhZQ1NUbVRhQml6d1ZXbGlwSENwekR0SnVYcFJrYlFrR3lpZ29pU3VKNHF4bkJkR3oxd2lkZWR1TzBDNHMwZTJJdzc2c1N3TWphS0tqMG4xRmxSLU8wZlh0ZWJRVlVsNi1mS04xTldwZDJNd3FZMm8xSXpmc2RKUDkxZFVDZkZBTXpRdVZxbnZtelBYTlRqSi14TjZDcEdBNXpkU0xB?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzJiRmV0eExBMUdQVUJsZ1RkVmtiZ3RBXzVjbTZVU2pWR3BaTmExR0hjYkVQRmwwQXVsMkMzOTdFdGFuMDFUQ2JHYzZKVUo2RTZETkF0ZTE2MUQ2SVRhTzFpWEVORnhsNWE1OUpMSlEwX1EtX3hkSW4zaE5qcGkxSUpIWTdlTzZ3MWMwbGMwaWtaRm9PQmVpdDI3SGV3ZVl3U3p0eDEyZzRYaXhoaXR4aWpvQQ?oc=5",
+    "http://www.africanews.com/2026/11/14/burkina-faso-issues-arrest-warrants-for-around-20-people/"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Азербайджану прибув до Туреччини на саміт COP31",
-      "summary": "Президент Азербайджану прибув до Туреччини для участі у кліматичному саміті COP31. Ця подія зафіксована агентством Anadolu Ajansı як офіційний візит державного керівника на міжнародний форум. Матеріал підтверджує факт переміщення та мету візиту, що відповідає критеріям міжнародної дипломатичної активності. Інших деталей щодо програми або учасників зустрічей у тексті не наведено.",
-      "source": "Bilateral Meetings",
-      "publisher": "Anadolu Ajansı",
-      "published": "2026-11-10T23:37:30+00:00"
-    },
-    {
-      "title": "Генеральний секретар ООН закликає Туреччину до дій щодо клімату",
-      "summary": "У 2024‑му році Генеральний секретар ООН Антоніо Гутеррес виступив на конференції COP31 у Туреччині, попередивши, що кліматичний кризис веде до взаємно забезпеченого знищення. Він закликав швидко діяти, відмовитися від викопного палива, назвавши його «динозаврами». У його промові підкреслено зростання викидів, температур і природних катастроф. Під час конференції, що збирає майже 200 країн, його слова стали тональним сигналом для подальших виступів.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "published": "2026-11-11T10:46:10+00:00"
-    },
     {
       "title": "Сомалі та Саудівська Аравія підписали угоду про квоту хаджу на 2027 рік",
       "summary": "Сомалі та Саудівська Аравія офіційно підписали міжурядову угоду, що регулює квоту на хадж для сомалійських громадян у 2027 році. Згідно з документом, виділення залишається на рівні 11 500 місць, що підтверджує стабільність двосторонніх дипломатичних відносин у сфері релігійного туризму. Ця подія зафіксована як конкретний формальний крок між двома державами, що встановлює чіткі кількісні параметри співпраці на наступний рік.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "The Financial Express",
       "published": "2026-11-14T09:33:14+00:00"
+    },
+    {
+      "title": "Президент Франції Макрон прибув до Камбоджі з історичним візитом",
+      "summary": "Президент Франції Емманюель Макрон прибув до Камбоджі з історичним візитом для участі в саміті Франкофонії. Ця офіційна подія є важливим кроком у зміцненні дипломатичних відносин та міжнародного співробітництва між Францією та країнами-учасницями організації. Візит передбачає проведення низки зустрічей та обговорення актуальних питань двостороннього і багатостороннього партнерства на найвищому рівні в межах заходів саміту.",
+      "source": "Bilateral Meetings",
+      "publisher": "Anadolu Ajansı",
+      "published": "2026-11-14T13:32:00+00:00"
+    },
+    {
+      "title": "Дипломати 18 мусульманських країн засудили ізраїльський удар по лікарні в Газі",
+      "summary": "Високопоставлені дипломати з 18 мусульманських держав, зокрема з Саудівської Аравії, ОАЕ, Катару, Єгипту, Туреччини та Пакистану, оприлюднили спільну декларацію із засудженням ізраїльського удару по медичному комплексу Нассер у Хан-Юнісі. Внаслідок атаки загинуло щонайменше шестеро людей, серед яких дитина і хірург. Міністри звинуватили Ізраїль у порушенні міжнародного гуманітарного права, заблокуванні критичної гуманітарної допомоги та створенні загрози зриву режиму припинення вогню в сектора Г",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "published": "2026-11-14T13:16:37+00:00"
     }
   ]
 }

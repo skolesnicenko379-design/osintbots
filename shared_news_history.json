@@ -15,7 +15,6 @@
     "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
     "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
     "https://middleeasteye.net/live-blog/live-blog-update/diplomats-18-muslim-majority-countries-condemn-israeli-strike-nasser",
-    "https://middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
     "https://militarnyi.com/uk/news/bilshist-yevropejtsiv-pidtrymuyut-stvorennya-spilnoyi-armiyi-yes-na-tli-zrostannya-nedoviry-do-ssha",
     "https://militarnyi.com/uk/news/dlya-inozemnyh-sprostyly-otrymannya-ubd",
@@ -31,12 +30,13 @@
     "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUxPTXlwTjlSYmNQbmFqNm90X0dOeUJQeVNxQVRvS3lwd2JtTkh5VjVHcnJtUVpiVElublVoUHhMTG90WTRjX01CaDgzQ3dUbHVMV2FWU2M0TFZoRHB3RjFoUkc3cVpzSWV5RlI5djdvWDk1R1hYVFdBWU5EYTZOMDZfV2ZDVHdhMTBsSG1sNnp5bVJNNkFyQ2oybUNzLXlwaktDbnk2LW1oN2NZMl9rdWswdk5KcUtvVEctaXUzNmFPR3BJSGVoN1dSLUhhWVBaMXVj",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29vLWlJbS1Ua3RrWTcyY0xXeWR3SW85OXBGX1lxRzFLdlFxazRyYU00VS1wcm1OaE54WC1xV2xiMkxhV244QVEtRkJHVFZNWmVWVWhQNHkzcHRHQWpqakQyX0JaOFF0eHBOT0ZwTl9NRGJVN1g3VFNxbm1HZjdMUjBRUnNkcnFOLTZEZW5pZlI0MU04WmtZYzNoNWZmajdFTWs1aDNkZWpGNEh5Qk5FVi1Pd2xjMldLVFItdXlNZ3lEOFh2YkhaYy13YWFNRF9vRVJjVA",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd1J2SVlkSjhuUHhGYUJuT1o2QVZBVzJXTVg5N3pGZTlUZHdiaHRRUzJyQXplMTdqaUgzVWNTZXZwRkJpMjYyVGluaUpGUWw0dXdFaFdHcE4wUVVCVUtzNFRvZEdpM2xlaTF4VTVGYXhqc3Jhblh0bXFwQ2JXYmk2RktfNmxBQkxoVzZZTFlfOW1DMzY5WTJ4TXEwRHhhcXppbjVjVnFZZjBTdHJRS2h6eVI3NUdUV1hXSHQtZFp5NHZZM1VEMURDRmg5RHJkQ1NmMjRJemt2bFFQemRNWDJGcEdEODZ6SW44SXlkdGQtc1FVR1Ywdk1N",
     "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15X0dsbWR6VkN5S08tS2hBQ2RxMmJ2dXo1SE5zOVQtYmI0OWhTT2lMNzFzdEdXaTFPbWRj",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qb0loRnBnWTV4UWlueVY3bkdyWGtBT0U0c1BtNnJ1R2VKLWphMlNoUlZYT093VExRRWdsNkxoS1FuUG5oYmc0SkRxTHR5T0V0TWJRdHA4Y2NMMlJ2Tlg3QXg5UWE2WmI1Zi1MaGYtS1VhVEht",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhCUmU4WmFfclNRUkUyZERRdUVZSmlHSThab2pMLUVFVFpKQlRLMEo5RTJkTmc0Q1BaTjczTVZ0T0FydEJKMnpQdjZPMmpYZXRNRjRYaUhhQ193YzFoemlYVzY2Z29QY1EzdVVzeWRtbVZKakloNUtvREhnY3o5WGZobnU",
@@ -62,26 +62,6 @@
     "https://twz.com/sea/destroyer-that-has-been-deployed-longer-than-any-since-wwii-returns-home"
   ],
   "recent_posts": [
-    {
-      "title": "Китай продовжив експортний контроль над диспрозієм до 2027",
-      "original_title": "China Dysprosium Export Controls Extended 2027 - Rare Earth Exchanges",
-      "summary": "Китай оголосив про продовження експортних обмежень на диспрозій до 2027 року. Це означає, що постачання редкоземельного металу, важливого для магнітів та електроніки, залишатиметься під державним контролем, що може вплинути на глобальні ланцюги постачання.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "Rare Earth Exchanges",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ",
-      "published": "2026-11-13T03:04:04+00:00"
-    },
-    {
-      "title": "Іран заявив про готовність до переговорів зі США",
-      "original_title": "Ghalibaf says 'ball is in America's court' for US-Iran peace talks",
-      "summary": "Спікер парламенту Ірану Мохаммад Багер Галібаф в інтерв'ю телеканалу Al Jazeera заявив, що Тегеран не має бажання продовжувати війну зі США і м'яч на боці Вашингтона щодо мирних переговорів. Галібаф зазначив, що Іран передав США чітку та прозору відповідь зі своїми вимогами, але адміністрація Дональда Трампа ще не відповіла. За його словами, угода можлива за умови дотримання попередніх домовленостей, відмови від дій, що підривають довіру, та надмірних вимог, а також звинуватив Вашингтон у блокуванні доступу до їжі, торгівлі та медичних послуг.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
-      "published": "2026-11-13T03:25:26+00:00"
-    },
     {
       "title": "Шрі-Ланка та Саудівська Аравія підписали угоду щодо хаджу на 2027 рік",
       "original_title": "Sri Lanka signs 2027 Hajj agreement with Saudi Arabia for 3,500 pilgrims - Hiru News",
@@ -613,6 +593,16 @@
       "published": "2026-11-14T09:50:57+00:00"
     },
     {
+      "title": "Ван Ї провів переговори зі спецпосланцем уряду Куби Бруно Родрігесом Паррільєю",
+      "original_title": "Wang Yi Holds Talks with Special Envoy of the Communist Party of Cuba and the Cuban Government, Member of the Political Bureau of the Central Committee of the Communist Party of Cuba and Cuban Foreign Minister Bruno Rodríguez Parrilla_Ministry of F -",
+      "summary": "Голова МЗС Китаю Ван Ї провів офіційні переговори зі спеціальним посланцем Комуністичної партії Куби та уряду Куби, членом Політбюро ЦК КПК і міністром закордонних справ Куби Бруно Родрігесом Паррільєю. Зустріч відбулася на полях офіційних заходів МЗС Китаю та була присвячена двостороннім міждержавним відносинам і співпраці між двома країнами.",
+      "source": "China Diplomacy",
+      "publisher": "中华人民共和国外交部",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
+      "published": "2026-11-14T10:16:00+00:00"
+    },
+    {
       "title": "Дипломати 18 мусульманських країн засудили ізраїльський удар по лікарні в Газі",
       "original_title": "Diplomats from 18 Muslim-majority countries condemn Israeli strike on Nasser hospital",
       "summary": "Високопоставлені дипломати з 18 мусульманських держав, зокрема з Саудівської Аравії, ОАЕ, Катару, Єгипту, Туреччини та Пакистану, оприлюднили спільну декларацію із засудженням ізраїльського удару по медичному комплексу Нассер у Хан-Юнісі. Внаслідок атаки загинуло щонайменше шестеро людей, серед яких дитина і хірург. Міністри звинуватили Ізраїль у порушенні міжнародного гуманітарного права, заблокуванні критичної гуманітарної допомоги та створенні загрози зриву режиму припинення вогню в сектора Газа.",
@@ -651,6 +641,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
       "published": "2026-11-14T16:39:23+00:00"
+    },
+    {
+      "title": "Прем'єр Сінгапуру прибув до Філіппін на саміт АСЕАН",
+      "original_title": "Singapore Prime Minister Lawrence Wong arrives at Ninoy Aquino International Airport Terminal 3 in Pasay City on Saturday night (Nov. 14, 2026). He will attend the 49th #ASEANSummit, which will be held at the Philippine International Convention Cente",
+      "summary": "Прем'єр-міністр Сінгапуру Лоуренс Вонг прибув у суботу ввечері, 14 листопада 2026 року, до міжнародного аеропорту Ніноя Акіно в Пасай-Сіті. Його візит пов'язаний із участю у 49-му саміті АСЕАН, який відбудеться в Міжнародному конгрес-центрі Філіппін. Подія задокументована офіційним джерелом як прибуття лідера для проведення дипломатичних зустрічей у рамках регіонального саміту.",
+      "source": "Bilateral Meetings",
+      "publisher": "Facebook",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29vLWlJbS1Ua3RrWTcyY0xXeWR3SW85OXBGX1lxRzFLdlFxazRyYU00VS1wcm1OaE54WC1xV2xiMkxhV244QVEtRkJHVFZNWmVWVWhQNHkzcHRHQWpqakQyX0JaOFF0eHBOT0ZwTl9NRGJVN1g3VFNxbm1HZjdMUjBRUnNkcnFOLTZEZW5pZlI0MU04WmtZYzNoNWZmajdFTWs1aDNkZWpGNEh5Qk5FVi1Pd2xjMldLVFItdXlNZ3lEOFh2YkhaYy13YWFNRF9vRVJjVA",
+      "published": "2026-11-14T19:18:37+00:00"
     },
     {
       "title": "Саудівська Аравія збудувала металеві «клітки» проти дронів навколо паливних резервуарів у Ріаді",

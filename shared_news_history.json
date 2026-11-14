@@ -1,26 +1,32 @@
 {
   "links": [
+    "http://africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level",
     "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says",
     "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
     "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
     "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026",
+    "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program",
+    "https://defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
     "https://defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill",
     "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
     "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
     "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
     "https://defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
+    "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
     "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
     "https://middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
     "https://middleeasteye.net/live-blog/live-blog-update/ghalibaf-says-ball-americas-court-us-iran-peace-talks",
+    "https://middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
     "https://middleeasteye.net/live-blog/live-blog-update/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
     "https://middleeasteye.net/news/dutch-foreign-minister-declines-rule-out-talks-curbing-icc-powers",
     "https://militarnyi.com/uk/news/dlya-vms-ukrayiny-zavershuyut-budivnytstvo-korveta-getman-ivan-vygovskyj-u-turechchyni",
     "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
     "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
+    "https://militarnyi.com/uk/news/po-vsij-terytoriyi-ssha-zupynyly-vyloty-litakiv",
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/rosiyany-pokazaly-zenitnyj-dron-sokol-3",
     "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
@@ -30,18 +36,22 @@
     "https://navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show",
     "https://navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15X0dsbWR6VkN5S08tS2hBQ2RxMmJ2dXo1SE5zOVQtYmI0OWhTT2lMNzFzdEdXaTFPbWRj",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSDEydDlzYW91Qks1cmNBQ3B5Q3RJSDl0UTl1M2RsQnZEMldYVHdBYmwzalBUU0E1aDVNR0VCalJkbkRYRFJDN2FFOWExOXdvMmpuWlM4dkJDMnFTMmo3ZDZZYXlHZw",
-    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aWGduVWtSX0twbG40OWdfWEJlejQ1RFljNHdUQUh3X0xsWXBHcTk2bjdHQkc4RnRXRHVEcEJZck80QzBWY0FiR1JfamhFWWJvN01XVm9ZTE9kcE5qSEpENU50Y296VmdJZDlHNUdELTJBVF8yVHc",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdDFMdHE3YmhPd3pyRnptcGFVeGxfTTRoSEtPdURRbEplZVlLRUZJRDU5N2NXckhMMnh5U0haN0dEMzc3NXAyeDFyVDE1eWtrdkpwRld5V216Wi1xWHdQcVJCb0lBQlVCNXUyRnUxazJXdW1Lc2F1VnRVQQ",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0RWV201SzBKdXF0VDlvWlBnVzk4ZWwwS3VHbDBBZ1huLUNiSm5sSTZPaDJ2bFlaeS1qZjBvdHJiZUZSbVBiZmJ0UTBoZEc1M25UdG1aaG9tX2FvUVVFUXBPeXg0TlJZdXVmOTdJbFctQ3gyZ3JGM3lwTHk3NWpXcA",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhCUmU4WmFfclNRUkUyZERRdUVZSmlHSThab2pMLUVFVFpKQlRLMEo5RTJkTmc0Q1BaTjczTVZ0T0FydEJKMnpQdjZPMmpYZXRNRjRYaUhhQ193YzFoemlYVzY2Z29QY1EzdVVzeWRtbVZKakloNUtvREhnY3o5WGZobnU",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjN1MDhDQVRxZjR2TGVjczVXZVJVSTlCTXpKdmJDclE4aTFzbVN1M2pDWFRKVHNCN05UcVQ0S1lnd2lwUzYyN1JvS0VaQUNGaWV5b2V6MHRGMHUyc3dUUDBIZk9RQUF1d3Y5Q1JKWmFjdjF2ZW9ieFI4WS11U3JRd2w2SW4",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXZrbDdMX01iMmpfU09TX1VKVlBQMU1GSFQ1MS05Y3ZlUlRXSXVLSVdYeHA0Ty04OTlpUWhQUnYxdUFwVHpwRlJPOHpBUnJTLWxkSGVGZ0dvc0tRYnl4VkhXZmZXdE04bDNiOHpKUlZSbWFuNVF0WE9LMW1WWThibVBhRnhpVWxyNXRCOUI3Nmp2dw",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXktYTBLRzF3VXMzRFVtVDMzZzVDQkZnYXpMSThjUFRWZE1NeFMzal9FZzBIamhsTzFuMlN0TjM2Tk1PYmh2cGdrckloalNxMlk5azBDWWFBWDFWdDdubFEtN2xuWmd1aHcxVmxiNU1vNWxqRlRxN3U1WXNlV0hGN3pzN3oyaXl6Um9JWkF0cEQ3cjVObmxheVRqakh2YXZpM1E",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0NvNUwyQkN6TWh0Zkp4Mk9YUGRZQ1BWSUZRX1ZYZXYwTDlKVzlaX2FoQWkxalVGNjhBSXlHb0Zkekt5UGVsNk5UT3hIaEhwLVdQWnJ3RjFfMVBkSnVCczdsdGF6UmNxV1lGLWJ2R1pVQ1Bub1RsOTFUSUNrQ1BJRzNSN0UwNTRSTmxSczFuajlhSkRuU3JvczhMUmhvV0tuRFE3Q1ZlNEQwZTJT",
@@ -59,26 +69,6 @@
     "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane"
   ],
   "recent_posts": [
-    {
-      "title": "Почато полювання на російський флот у Балтійському морі: ураження «Калібр» «Наро‑Фоминськ»",
-      "original_title": "Полювання на російський флот тепер розпочато й у Балтійському морі, про що каже ураження носія КР \"Калібр\" \"Наро-Фоминск\" - Defense Express",
-      "summary": "Українські підводні сили зафіксували ураження російського носія КР «Калібр» «Наро‑Фоминськ» в Балтійському морі, що свідчить про розширення операцій у цьому регіоні. Це перший випадок, коли українські підводні підрозділи атакували російський флот у Балтійському морі, підкреслюючи здатність виявляти та нейтралізувати великі кораблі на відстані. Така дія може обмежити маневри російського флоту та ускладнити його логістичну підтримку в північному напрямку.",
-      "source": "Defense Express",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjh5cEZvR3lCYnI3MXZ2MldBZUM5R1U0UlkwQXZVZ2lkOEdJYVBid09jdjBuOXBjOTl6VzlpSjl4aG82dXhyU2I2QjByUUdyVWVZRnBNM1VBTG5fYzV1RVpsSWlUVm9QM3dYZnp5VDd4MXpUUEtiT1h3VTByLUFJQnRfc3RWdUxDZk1Gd09leERjV3R5N1pkZ1FsVElVbkhLVmJOYmV0RjBVdE9aMjI4bWcyVnRtTjBLdUxURlR1YXZWS1BqVkNjalJvNUFjRHgxRUZGOUJXRXdZY2hfSlE3c2c1LTc0anF3eWMwZUd1Um5YQ29nWUw4UVNDVnRLWXc",
-      "published": "2026-11-12T06:23:00+00:00"
-    },
-    {
-      "title": "Молдова та Ірландія підписали угоду про соціальне забезпечення",
-      "original_title": "Moldova and Ireland sign social security agreement - Moldova 1",
-      "summary": "Молдова та Ірландія офіційно підписали угоду про соціальне забезпечення. Документ спрямований на регулювання питань соціального захисту громадян обох країн. Підписання відбулося в межах двосторонньої співпраці між державами. Подробиці щодо імплементації та умов угоди оприлюднить молдовське державне видання Moldova 1.",
-      "source": "Treaties & Agreements",
-      "publisher": "Moldova 1",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjN1MDhDQVRxZjR2TGVjczVXZVJVSTlCTXpKdmJDclE4aTFzbVN1M2pDWFRKVHNCN05UcVQ0S1lnd2lwUzYyN1JvS0VaQUNGaWV5b2V6MHRGMHUyc3dUUDBIZk9RQUF1d3Y5Q1JKWmFjdjF2ZW9ieFI4WS11U3JRd2w2SW4",
-      "published": "2026-11-12T07:06:46+00:00"
-    },
     {
       "title": "Віцепрезидент Китаю Хань Чжен виступив на саміті COP31 у Туреччині",
       "original_title": "Remarks by Vice President Han Zheng at the 31st Conference of the Parties to the UNFCCC Antalya Leaders' Summit - 中华人民共和国外交部",
@@ -570,6 +560,36 @@
       "published": "2026-11-13T17:11:10+00:00"
     },
     {
+      "title": "США впроваджують новий Force Design 2026, орієнтований на сенсори та автономію",
+      "original_title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+      "summary": "Новий документ Force Design 2026 підкреслює роль сенсорів, мереж і штучного інтелекту у формуванні авіаційної оборони. Відокремлено три області: короткострокова, довгострокова і міжконтинентальна протидія безпілотникам, що підсилює можливості швидкого реагування. Це означає, що США переходять від традиційного перехоплення до синхронного використання автономних систем і даних для створення ефекту в заборонених середовищах.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
+      "published": "2026-11-13T18:43:45+00:00"
+    },
+    {
+      "title": "Франція звернулася до Єврокомісії через торговельний спір з Алжиром",
+      "original_title": "France escalates Algeria trade dispute to EU-level",
+      "summary": "Франція офіційно звернулася до Європейської комісії з вимогою перевірити можливе недотримання Алжиром умов торговельної угоди з Європейським Союзом. Парижі звинувачують Алжир у запровадженні фактично повної блокади французького імпорту та в призупиненні постачання сечовини до Франції.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level",
+      "published": "2026-11-13T18:45:07+00:00"
+    },
+    {
+      "title": "Греція попереджає Туреччину щодо втручань у GSI",
+      "original_title": "‘We will not tolerate interventions’ in the GSI, Greece warns Turkey - Cyprus Mail",
+      "summary": "Греція заявила, що не буде терпіти будь‑які втручання Туреччини в GSI, підкресливши свою позицію щодо захисту інтересів у цьому регіоні.",
+      "source": "Коридори · IMEC",
+      "publisher": "Cyprus Mail",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXktYTBLRzF3VXMzRFVtVDMzZzVDQkZnYXpMSThjUFRWZE1NeFMzal9FZzBIamhsTzFuMlN0TjM2Tk1PYmh2cGdrckloalNxMlk5azBDWWFBWDFWdDdubFEtN2xuWmd1aHcxVmxiNU1vNWxqRlRxN3U1WXNlV0hGN3pzN3oyaXl6Um9JWkF0cEQ3cjVObmxheVRqakh2YXZpM1E",
+      "published": "2026-11-13T18:57:46+00:00"
+    },
+    {
       "title": "MSI презентувала нове покоління протидронових систем EAGLS X",
       "original_title": "Inside MSI’s Next Generation of Counter-Drone Defense",
       "summary": "Компанія MSI представила оновлену платформу протиповітряної оборони EAGLS X, яка розширює можливості модульного та економічного захисту від безпілотних літальних апаратів. Система передбачає інтеграцію нових датчиків, швидкісний обмін даними та автоматичне визначення цілей, що підвищує ефективність у складних бойових умовах. Очікується, що EAGLS X дозволить швидко масштабувати захисні рішення для різних типів підрозділів та знизити витрати на протидронову оборону.",
@@ -580,6 +600,16 @@
       "published": "2026-11-13T19:16:42+00:00"
     },
     {
+      "title": "Експортер соняшникової олії закрив заводи через удари дронів",
+      "original_title": "Major Sunflower Oil Exporter Closes Crushing Plants Amid Russian Drone Strikes - Kyiv Post",
+      "summary": "Один із великих експортерів соняшникової олії закрив свої заводи з переробки (подрібнення) насіння. За повідомленням Kyiv Post, це сталося на тлі російських атак дронів. Йдеться про виробничі потужності, які забезпечують експорт соняшникової олії.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Kyiv Post",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw",
+      "published": "2026-11-13T19:27:59+00:00"
+    },
+    {
       "title": "Емірат Катар та Туреччина підписали угоду про взаємну оборону",
       "original_title": "HH The Amir and President of Türkiye Sign Mutual Defence Agreement Between the Two Countries - الديوان الأميري",
       "summary": "Емір Катару та Президент Туреччини офіційно підписали угоду про взаємну оборону між двома країнами. Подія стосується двосторонніх міжнародних відносин та підписання офіційного оборонного документа на найвищому державному рівні. Інформація базується безпосередньо на офіційному повідомленні перводжерела, без додавання зайвих геополітичних інтерпретацій.",
@@ -588,6 +618,36 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
       "published": "2026-11-13T20:23:55+00:00"
+    },
+    {
+      "title": "Російські доходи від нафти зросли, ціна превисила $100",
+      "original_title": "Russian Oil Revenues Surge as Prices Top $100 - Briefs Finance",
+      "summary": "Російські доходи від нафти різко зросли, оскільки світові ціни на нафту піднялися вище $100 за барель. Підвищення цін збільшує надходження в державний бюджет, що посилює фінансову спроможність країни.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Briefs Finance",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXZrbDdMX01iMmpfU09TX1VKVlBQMU1GSFQ1MS05Y3ZlUlRXSXVLSVdYeHA0Ty04OTlpUWhQUnYxdUFwVHpwRlJPOHpBUnJTLWxkSGVGZ0dvc0tRYnl4VkhXZmZXdE04bDNiOHpKUlZSbWFuNVF0WE9LMW1WWThibVBhRnhpVWxyNXRCOUI3Nmp2dw",
+      "published": "2026-11-13T20:45:00+00:00"
+    },
+    {
+      "title": "FAA призупинив вильоти літаків по всій території США",
+      "original_title": "По всій території США зупинили вильоти літаків",
+      "summary": "Федеральне авіаційне управління США (FAA) розпорядило призупинити вильоти літаків по всій території країни через надзвичайні обставини та проблеми зі зв’язком центрів управління повітряним рухом. Це обмежує рейси в аеропортах відправлення, а міжнародні рейси вирішуватимуться окремо. Зупинка може вплинути на логістичну ефективність та підвищити ризики для безпеки, оскільки контроль над польотами тимчасово знижений.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/po-vsij-terytoriyi-ssha-zupynyly-vyloty-litakiv",
+      "published": "2026-11-13T21:24:42+00:00"
+    },
+    {
+      "title": "Сенат відновив фінансування програми відстеження комерційного космічного трафіку",
+      "original_title": "Senate appropriators resuscitate Commerce space tracking program",
+      "summary": "Сенатські законодавці ухвалили нове фінансування програми Міністерства комерції, створеної майже десять років тому для моніторингу зростаючого потоку комерційних космічних апаратів. Програма використовує наземні радіолокаційні станції та оптичні телескопи для відстеження супутників і космічного сміття, що знижує навантаження на ресурси Міністерства оборони. Підвищена спроможність у сфері просторової обізнаності допоможе запобігати зіткненням і захищати як цивільні, так і військові космічні активи.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program",
+      "published": "2026-11-13T21:29:36+00:00"
     },
     {
       "title": "Велика Британія підтримує партнерів з Персикового залива на ООН",
@@ -620,6 +680,16 @@
       "published": "2026-11-13T22:27:52+00:00"
     },
     {
+      "title": "EU approves natural gas merger, no competition concerns in Portugal",
+      "original_title": "EU greenlights natural gas merger, citing no competition concerns in Portugal - Howl.Link",
+      "summary": "Європейська комісія схвалила злиття у сфері природного газу, зазначивши, що в Португалії не виявлено проблем конкуренції. Це дозволяє компаніям-учасникам завершити угоду без антимонопольних перешкод, що може вплинути на структуру ринку газу в регіоні.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "Howl.Link",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15X0dsbWR6VkN5S08tS2hBQ2RxMmJ2dXo1SE5zOVQtYmI0OWhTT2lMNzFzdEdXaTFPbWRj",
+      "published": "2026-11-13T22:41:59+00:00"
+    },
+    {
       "title": "FAA оголосила загальну зупинку польотів у США через проблеми зв’язку",
       "original_title": "FAA Orders Ground Stop For All Flights Across The U.S. (Updated)",
       "summary": "FAA ввела рідкісний національний ground stop, зупинивши всі рейси через збій у системах зв’язку між центрами управління повітряним рухом (ARTCC). Технічна команда розслідує, попередньо виключаючи кібератаку. Це призведе до масштабних затримок у цивільному та військовому авіаційному транспорті.",
@@ -628,6 +698,46 @@
       "channel": "miltech",
       "link": "https://twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
       "published": "2026-11-13T22:54:03+00:00"
+    },
+    {
+      "title": "Спеціальні підрозділи ВПС США шукають універсальну мобільну систему зв’язку для всіх транспортних засобів",
+      "original_title": "Air Force Special Warfare wants versatile mobile comms system across vehicles",
+      "summary": "У США підготовлено запит на інформацію щодо програми MCS‑U (Mobile Communication System‑Universal), яка має забезпечити передачу голосу, даних і відео між операторами TACP незалежно від типу транспортного засобу. Система повинна інтегруватися з Advanced Battle Management System і включати погодостійкі комплекти, модульне кріплення, mesh‑мережі та антени з автотрекінгом. Це дозволить підвищити оперативність і гнучкість командно‑управлінських зв’язків під час бойових дій, усуваючи потребу у спеціалізованих рішеннях для кожного транспортного засобу.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
+      "published": "2026-11-13T23:17:04+00:00"
+    },
+    {
+      "title": "Bangladesh economy at crossroads, India Narrative reports",
+      "original_title": "Bangladesh Economy at the Crossroads - India Narrative",
+      "summary": "India Narrative повідомляє, що економіка Бангладешу знаходиться на роздоріжжі, стикаючись із суттєвими викликами. Це підкреслює важливість подальшого моніторингу макроекономічних тенденцій у регіоні.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "India Narrative",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3",
+      "published": "2026-11-14T00:30:00+00:00"
+    },
+    {
+      "title": "Australian wool sector looks to Chinese market",
+      "original_title": "Australian wool sector pins hopes on Chinese market - China Daily Global Edition",
+      "summary": "Australian wool producers are placing their expectations on demand from China, viewing the Chinese market as a crucial outlet for their products.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "China Daily Global Edition",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR",
+      "published": "2026-11-14T00:45:07+00:00"
+    },
+    {
+      "title": "Іран погрожує негайною відповіддю на нові атаки США та Ізраїлю",
+      "original_title": "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
+      "summary": "Заступник постійного представника Ірану при ООН Голамхосейн Дарзі заявив на засіданні Ради Безпеки, що будь-які нові атаки США та Ізраїлю викличуть негайну та рішучу відповідь. Він звинуватив Бахрейн та інші країни Перської затоки у наданні території та військової інфраструктури для американських операцій, вимагаючи від них компенсації. Бахрейн відкинув ці звинувачення, заперечивши право Тегерана на самооборону проти сусідів. Дарзі також вимагав від Вашингтона припинити блокаду та надати гарантії проти подальших ударів.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
+      "published": "2026-11-14T01:32:54+00:00"
     }
   ]
 }

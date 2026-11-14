@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVF6bUI3WV9qY05PZENNdk9KNVlkU0dNWnNMblJPcHNPM2JZVTlfX09ybjBUM0d2SElWS2NER2V5Qm1QZGtNTkhBWFZfUVdmN0M2QnBjUlMwbmpfNmhWb2V4aTYtZzhLN0F4cks1ZW5zaTZ3dDRaQWxIMDRXRG1RTVh3X3M?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/media-advisory-general-affairs-council-and-accession-conferences-with-albania-the-republic-of-moldova-and-ukraine-of-13-october-2026/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNm5wWXFPckEwY1B0eDczbGZVMmpYSDM0SjlCSVA5SC1ETWRFYnhUXzNMTzBHZlY5bXBQVzAzVUFlTHBBczRnenVnTEI2Y0FuWXRtYlpFd2tVMkptdEh3YU0zQnRCcXBJODZTX2tPY2VNMTVUUkZQMmVLRFFfSWtUUWVmbXBkblVHMXlxOVlaUGZvUTlaWGV2dDcwRUhOMlViMzRaME9rNVBURmRnbm8xQmJiRzE?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmtveFlHNmVkZkFvOWRSa3BuaVNLZmxmWFJzZGwxUkRSSnpaVEtTZURmNzdLNXI2U3NnemxjV2lLOS1kY19PTEIxd2lyU1E2VTB3ZGlSa0VSVDFWS1hoYnNWMjR4LXE3RmRrVHlqQWRicHFBc3Z4T21kMGVWSV9oVURvRm1EOTZqdGludV9UUXVXYjhsTmtUdW96akd2NjB0by1ucnRUMzhqenNwNGlYZXdOd2ZVMVdRNEl2ODlnQ3RYbWhrSTFid3dOSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQU4xbmYxU0hKbzNBV3NJMk5mMzNPRGlVRDBPN3VCVmpiWDNxTUFIVU40RHdrekE3a2k5eTEtcUtzcnlPM2s1SWE3TW1WbUM4MEhlUnp1QUtwcVQ3WG1GQXhNR0QxVWxERGZIc1BNU3Nmd1BvQmc?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFVYeURoWWpzTjRDdldEX0M5TmFndGM5V2ZVVHQ4dDhPQTlSRy1UMi1oYjZKY0QtZ3lucXFiOGgzTW1mcEhITGljMEtXbHdyX2xMbUNqVGhZODU0ejRwX2tEUG11NzNpSy03WEc5Q2twRFJFa3BwUjgxcEl0VVpVcEVR?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SVnh1aW16TUloeUEyV1lyRU10QjhucGdIMGVWT0hoQUd4ZmlVcWROUXBBd04xeFpKSklnalJCdUNiZGU2azdWM2hxN2pHOFlHdUFNYVBQck9JMUE0blRxYnhCWWlvZmN4djY0TEdpVDNHbUhQSEVJOWVySmg?oc=5",
@@ -1199,51 +1192,16 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTVuMUoxOUhjTWFyRzhISVotSlFHTjFnV0V3eXQzRTRNN1ZINXVVcWZLQllHT012TmFaaXIteTg1ZTY0SXFLd2owNHViUjVxYnB6cUkxd29tWGY1M3dKaFhYbG83RG1XWGgxUThUdHVJQTVvWVdKY04xdzY5NFNRTUtBcHU?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhCUmU4WmFfclNRUkUyZERRdUVZSmlHSThab2pMLUVFVFpKQlRLMEo5RTJkTmc0Q1BaTjczTVZ0T0FydEJKMnpQdjZPMmpYZXRNRjRYaUhhQ193YzFoemlYVzY2Z29QY1EzdVVzeWRtbVZKakloNUtvREhnY3o5WGZobnU?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ?oc=5"
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXZrbDdMX01iMmpfU09TX1VKVlBQMU1GSFQ1MS05Y3ZlUlRXSXVLSVdYeHA0Ty04OTlpUWhQUnYxdUFwVHpwRlJPOHpBUnJTLWxkSGVGZ0dvc0tRYnl4VkhXZmZXdE04bDNiOHpKUlZSbWFuNVF0WE9LMW1WWThibVBhRnhpVWxyNXRCOUI3Nmp2dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15X0dsbWR6VkN5S08tS2hBQ2RxMmJ2dXo1SE5zOVQtYmI0OWhTT2lMNzFzdEdXaTFPbWRj?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXktYTBLRzF3VXMzRFVtVDMzZzVDQkZnYXpMSThjUFRWZE1NeFMzal9FZzBIamhsTzFuMlN0TjM2Tk1PYmh2cGdrckloalNxMlk5azBDWWFBWDFWdDdubFEtN2xuWmd1aHcxVmxiNU1vNWxqRlRxN3U1WXNlV0hGN3pzN3oyaXl6Um9JWkF0cEQ3cjVObmxheVRqakh2YXZpM1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0NhRGtDZmNPczhhTVJVZ3ZVdEdVbllhYjhKdVl2SnhrQ1ZXbVhyZGxRc2NzTlZGUVNxTGstWDFKamlvRm43cTNHUlZETjc5QmpLam03LUtKemM2NFd1T0l0UVlmdG5CeUxzeEVSVkFsM2UzWmlXSVRDU3ltcUV3Y2JRNXN4ZUpXekEzVzljUWRwMFFnM3lVbzZNcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Нордичні порти створюють новий залізнично‑морський коридор",
-      "original_title": "Nordic ports team up on new rail-sea freight corridor - Splash247",
-      "summary": "Нордичні порти об’єдналися для створення нового залізнично‑морського вантажного коридору. Проєкт передбачає спільну роботу над інтеграцією залізничного та морського транспорту, що розширить логістичні можливості регіону та підвищить ефективність перевезень.",
-      "source": "Коридори · Північ–Південь (INSTC)",
-      "publisher": "Splash247"
-    },
-    {
-      "title": "Квебекські сепаратисти самостійно протистоять тарифам Трампа",
-      "original_title": "Quebec Separatists Take Trump Tariff Fight Into Own Hands - Newsweek",
-      "summary": "Групи сепаратистів у Квебеку оголосили про власні кроки у боротьбі проти тарифних обмежень, введених адміністрацією Трампа. За їх словами, це спрямовано на захист місцевих економічних інтересів у контексті торговельних суперечок між США та Канадою.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "Newsweek"
-    },
-    {
-      "title": "Carnegie: рекордні прибутки російських банків забезпечує бюджет",
-      "original_title": "Russian banks' record profits come from the budget while RUB13.3 trillion of problem loans go unrecognised - Carnegie - IntelliNews",
-      "summary": "За оцінкою Carnegie, рекордні прибутки російських банків формуються за рахунок бюджету. Водночас проблемні кредити на 13,3 трлн рублів залишаються непізнаними, тобто не відображеними в звітності як проблемні.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "IntelliNews"
-    },
-    {
-      "title": "Фунт впав нижче 1.33 після США CPI та риторики ФРС",
-      "original_title": "British Pound tumbles below 1.33 post hot US CPI, Fed hawkish rhetoric - FXStreet",
-      "summary": "Фунт стерлінгів впав нижче рівня 1.33 до долара після публікації в США інфляційного індексу CPI, який виявився вище очікувань, і після заяв ФРС, що вказують на жорстку монетарну політику. Це посилило долар і створило тиск на британську валюту.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "FXStreet"
-    },
-    {
-      "title": "Туреччина: центральний банк залишив курс без змін",
-      "original_title": "Monitoring Turkey: Central bank course unchanged - ing think",
-      "summary": "Туреччина залишила курс монетарної політики без змін. Це означає, що відсоткові ставки залишаються на поточному рівні, без нових коригувань.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "ing think"
-    },
-    {
-      "title": "Японські регулятори спростили купівлю державних облігацій страховиками",
-      "original_title": "Rule change to ease Japan life insurers' government bond purchases - Nikkei Asia",
-      "summary": "Уряд Японії змінив правила, дозволивши страховим компаніям життя збільшити обсяги придбання державних облігацій. Нові умови спростять інвестування у JGB, що може підвищити попит на державний борг і підтримати фінансування бюджету.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Nikkei Asia"
-    },
     {
       "title": "Shanghai signs deals, Washington imposes sanctions",
       "original_title": "Shanghai signs deals, Washington signs sanctions: 25 years after China joined the WTO, the world sees two logics - Global Times",
@@ -1341,6 +1299,48 @@
       "summary": "Китай оголосив про продовження експортних обмежень на диспрозій до 2027 року. Це означає, що постачання редкоземельного металу, важливого для магнітів та електроніки, залишатиметься під державним контролем, що може вплинути на глобальні ланцюги постачання.",
       "source": "Китай · торгівля, угоди й обмеження",
       "publisher": "Rare Earth Exchanges"
+    },
+    {
+      "title": "Australian wool sector looks to Chinese market",
+      "original_title": "Australian wool sector pins hopes on Chinese market - China Daily Global Edition",
+      "summary": "Australian wool producers are placing their expectations on demand from China, viewing the Chinese market as a crucial outlet for their products.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "China Daily Global Edition"
+    },
+    {
+      "title": "Російські доходи від нафти зросли, ціна превисила $100",
+      "original_title": "Russian Oil Revenues Surge as Prices Top $100 - Briefs Finance",
+      "summary": "Російські доходи від нафти різко зросли, оскільки світові ціни на нафту піднялися вище $100 за барель. Підвищення цін збільшує надходження в державний бюджет, що посилює фінансову спроможність країни.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Briefs Finance"
+    },
+    {
+      "title": "EU approves natural gas merger, no competition concerns in Portugal",
+      "original_title": "EU greenlights natural gas merger, citing no competition concerns in Portugal - Howl.Link",
+      "summary": "Європейська комісія схвалила злиття у сфері природного газу, зазначивши, що в Португалії не виявлено проблем конкуренції. Це дозволяє компаніям-учасникам завершити угоду без антимонопольних перешкод, що може вплинути на структуру ринку газу в регіоні.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "Howl.Link"
+    },
+    {
+      "title": "Греція попереджає Туреччину щодо втручань у GSI",
+      "original_title": "‘We will not tolerate interventions’ in the GSI, Greece warns Turkey - Cyprus Mail",
+      "summary": "Греція заявила, що не буде терпіти будь‑які втручання Туреччини в GSI, підкресливши свою позицію щодо захисту інтересів у цьому регіоні.",
+      "source": "Коридори · IMEC",
+      "publisher": "Cyprus Mail"
+    },
+    {
+      "title": "Bangladesh economy at crossroads, India Narrative reports",
+      "original_title": "Bangladesh Economy at the Crossroads - India Narrative",
+      "summary": "India Narrative повідомляє, що економіка Бангладешу знаходиться на роздоріжжі, стикаючись із суттєвими викликами. Це підкреслює важливість подальшого моніторингу макроекономічних тенденцій у регіоні.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "India Narrative"
+    },
+    {
+      "title": "Експортер соняшникової олії закрив заводи через удари дронів",
+      "original_title": "Major Sunflower Oil Exporter Closes Crushing Plants Amid Russian Drone Strikes - Kyiv Post",
+      "summary": "Один із великих експортерів соняшникової олії закрив свої заводи з переробки (подрібнення) насіння. За повідомленням Kyiv Post, це сталося на тлі російських атак дронів. Йдеться про виробничі потужності, які забезпечують експорт соняшникової олії.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Kyiv Post"
     }
   ]
 }

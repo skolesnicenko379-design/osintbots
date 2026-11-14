@@ -6,16 +6,18 @@
     "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
     "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026",
     "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program",
+    "https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says",
     "https://defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
     "https://defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill",
     "https://defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
     "https://defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
     "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
+    "https://defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
     "https://defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
     "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
+    "https://defensescoop.com/2026/11/13/air-force-b-21-raider-weapons-release-test",
     "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
     "https://gov.uk/government/speeches/call-to-action-joint-statement-on-health-and-humanitarian-access-into-gaza",
-    "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
     "https://gov.uk/government/speeches/the-united-kingdom-stands-in-solidarity-with-our-gulf-partners-uk-statement-at-the-un-security-council",
     "https://gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
     "https://middleeasteye.net/live-blog/live-blog-update/france-calls-israels-entry-ban-left-wing-leader-demagogic",
@@ -24,8 +26,6 @@
     "https://middleeasteye.net/live-blog/live-blog-update/us-asks-iraq-shut-most-iran-border-crossings-iraqi-foreign-minister-says",
     "https://middleeasteye.net/news/dutch-foreign-minister-declines-rule-out-talks-curbing-icc-powers",
     "https://militarnyi.com/uk/news/dlya-vms-ukrayiny-zavershuyut-budivnytstvo-korveta-getman-ivan-vygovskyj-u-turechchyni",
-    "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
-    "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
     "https://militarnyi.com/uk/news/po-vsij-terytoriyi-ssha-zupynyly-vyloty-litakiv",
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/rosiyany-pokazaly-zenitnyj-dron-sokol-3",
@@ -41,7 +41,6 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OSDEydDlzYW91Qks1cmNBQ3B5Q3RJSDl0UTl1M2RsQnZEMldYVHdBYmwzalBUU0E1aDVNR0VCalJkbkRYRFJDN2FFOWExOXdvMmpuWlM4dkJDMnFTMmo3ZDZZYXlHZw",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aWGduVWtSX0twbG40OWdfWEJlejQ1RFljNHdUQUh3X0xsWXBHcTk2bjdHQkc4RnRXRHVEcEJZck80QzBWY0FiR1JfamhFWWJvN01XVm9ZTE9kcE5qSEpENU50Y296VmdJZDlHNUdELTJBVF8yVHc",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdDFMdHE3YmhPd3pyRnptcGFVeGxfTTRoSEtPdURRbEplZVlLRUZJRDU5N2NXckhMMnh5U0haN0dEMzc3NXAyeDFyVDE1eWtrdkpwRld5V216Wi1xWHdQcVJCb0lBQlVCNXUyRnUxazJXdW1Lc2F1VnRVQQ",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cWZJUDUyb0NpdnYwRXlpeU84V0dfYUdQVmk1emVMZW5WaTBCRnFpNkpienltVGMxTHozcm1nZm56eEs0dE5lVFg4cVRKYjQ3Q25KT3UtNmhIWlMwbWgxc1FoVmRDbmhVdjI3bVZqd0NuSlktM3Y2MUVDUnVMNjQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0RWV201SzBKdXF0VDlvWlBnVzk4ZWwwS3VHbDBBZ1huLUNiSm5sSTZPaDJ2bFlaeS1qZjBvdHJiZUZSbVBiZmJ0UTBoZEc1M25UdG1aaG9tX2FvUVVFUXBPeXg0TlJZdXVmOTdJbFctQ3gyZ3JGM3lwTHk3NWpXcA",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR",
@@ -52,7 +51,6 @@
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxObDJxNXJlS3ZKeko3YXk3eFBzOUk4eEE3STZseExwN2lVVk1hVlc1OFg5aTBMcEJpcTdwR05sUTJ4bi1jVEw4QlA2NEo3dTB2clcxc1B1LW1QOHJZU3hTLXBuemY0TjN1OURRSGs1N05LdkZZclhnTmdNV0lveXQ2MmtsRkpsR2VISFBDcjYzOW9hVjlPcnl5emg1QXM5Zkt4X3hMVy02VUZwOTVzZV9HcFVxVUtUeHFPcE90ZVp4bkZuci1uMHpab0wxYlJHcTBfZHFxVFN2YnFnRGx1U196VDVDVEZBSWtWMzVYeXF0bVJ3Zmh4TjhGV1pQdlJuaXNUd3k2NGlzVGZpNkJQa3JNVkttSQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXktYTBLRzF3VXMzRFVtVDMzZzVDQkZnYXpMSThjUFRWZE1NeFMzal9FZzBIamhsTzFuMlN0TjM2Tk1PYmh2cGdrckloalNxMlk5azBDWWFBWDFWdDdubFEtN2xuWmd1aHcxVmxiNU1vNWxqRlRxN3U1WXNlV0hGN3pzN3oyaXl6Um9JWkF0cEQ3cjVObmxheVRqakh2YXZpM1E",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0NvNUwyQkN6TWh0Zkp4Mk9YUGRZQ1BWSUZRX1ZYZXYwTDlKVzlaX2FoQWkxalVGNjhBSXlHb0Zkekt5UGVsNk5UT3hIaEhwLVdQWnJ3RjFfMVBkSnVCczdsdGF6UmNxV1lGLWJ2R1pVQ1Bub1RsOTFUSUNrQ1BJRzNSN0UwNTRSTmxSczFuajlhSkRuU3JvczhMUmhvV0tuRFE3Q1ZlNEQwZTJT",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGd3VXRQN19xU1pBUGU1U2V4Z3RZejVrMGd2Y2xOWWJRWGxndzBrODZTRFZTd2ppU2x4Y3RyNjZVcnE5UzROTzBLUWdDN29kWGlpX1o0UldabFpUZExTOGZpQ1hBM0JCV0lnUTdwUXhZSkJiMlNmR3hNM3RCdXV0RWM3dGlkZ0NXaktYQWJCOHN4T1BrcjJIdmgwQzdkQU84WjlCaFVPZ0d0VTljTHhJ",
@@ -66,59 +64,10 @@
     "https://twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
     "https://twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman",
     "https://twz.com/air/new-facilities-to-pump-out-upgraded-f-a-18e-f-super-hornets-eyed-by-navy",
-    "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane"
+    "https://twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane",
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215"
   ],
   "recent_posts": [
-    {
-      "title": "Віцепрезидент Китаю Хань Чжен виступив на саміті COP31 у Туреччині",
-      "original_title": "Remarks by Vice President Han Zheng at the 31st Conference of the Parties to the UNFCCC Antalya Leaders' Summit - 中华人民共和国外交部",
-      "summary": "Віцепрезидент Китайської Народної Республіки Хань Чжен виступив із промовою на 31-й Конференції сторін Рамкової конвенції ООН про зміну клімату (UNFCCC), відомій як Antalya Leaders' Summit (COP31). Захід проходить у Туреччині та об'єднує світових лідерів для обговорення кліматичних питань. Інформацію про виступ китайського посадовця офіційно оприлюднило Міністерство закордонних справ КНР.",
-      "source": "China Diplomacy",
-      "publisher": "中华人民共和国外交部",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XdDFMdHE3YmhPd3pyRnptcGFVeGxfTTRoSEtPdURRbEplZVlLRUZJRDU5N2NXckhMMnh5U0haN0dEMzc3NXAyeDFyVDE1eWtrdkpwRld5V216Wi1xWHdQcVJCb0lBQlVCNXUyRnUxazJXdW1Lc2F1VnRVQQ",
-      "published": "2026-11-12T08:44:00+00:00"
-    },
-    {
-      "title": "Джаред Кушнер та Стів Віткофф прибули до Росії на переговори з Путіним",
-      "original_title": "Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin - DW.com",
-      "summary": "Джаред Кушнер та Стів Віткофф прибули до Російської Федерації для проведення зустрічі з президентом Росії Володимиром Путіним у межах мирних переговорів щодо врегулювання конфлікту в Україні. Візит спрямований на продовження дипломатичних зусиль та обговорення можливих шляхів припинення бойових дій. Жодних додаткових деталей щодо офіційних домовленостей чи умов проведення зустрічі джерело наразі не наводить.",
-      "source": "Bilateral Meetings",
-      "publisher": "DW.com",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF",
-      "published": "2026-11-12T08:48:45+00:00"
-    },
-    {
-      "title": "Starshield обмежує швидкість до 161 км/год, ускладнюючи перехоплення російських дронів",
-      "original_title": "Нові обмеження Starshield в Україні ускладнюють перехоплення російських дронів — Зеленський",
-      "summary": "Українські військові виявили, що супутниковий зв’язок Starshield працює лише до 161 км/год, що збігається зі швидкістю польоту більшості російських реактивних безпілотників. Через це системи збиття не встигають отримати дані в режимі реального часу, що призводить до втрати цілей. Обмеження створює тактичну проблему на всій лінії фронту та в окупованих районах, змушуючи командування шукати альтернативні засоби зв’язку чи коригувати швидкість дронів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/novi-obmezhennya-starshield-v-ukrayini-uskladnyuyut-perehoplennya-rosijskyh-droniv-zelenskyj",
-      "published": "2026-11-12T09:31:06+00:00"
-    },
-    {
-      "title": "Британія представила заяву ОБСЄ про захист принципів миру",
-      "original_title": "Honouring remembrance by defending the principles of peace: UK statement to the OSCE",
-      "summary": "У заяві, виголошеній послом Великої Британії Хоулендом на засіданні ОБСЄ, підкреслено, що російська війна проти України порушує принципи, закріплені в Статуті ООН, Гельсінському фінальному акту та Хартії Парижа. Велика Британія закликає Росію прийняти негайне припинення вогню, серйозно вступити в діалог і дотримуватися вже даних зобов’язань, наголошуючи на важливості прозорості та довіри у безпековій архітектурі Європи.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/honouring-remembrance-by-defending-the-principles-of-peace-uk-statement-to-the-osce",
-      "published": "2026-11-12T09:39:52+00:00"
-    },
-    {
-      "title": "Lockheed Martin підвищила виробництво ракет GMLRS до 14 000 на рік і доставила 100‑т тисячну одиницю",
-      "original_title": "Lockheed Martin наростила виробництво GMLRS до 14 тисяч на рік та передала замовникам 100-тисячну ракету",
-      "summary": "Компанія збільшила темпи виготовлення керованих ракет GMLRS до майже 14 000 одиниць на рік і передала замовникам 100‑ту тисячну ракету, що свідчить про масштабування виробничих потужностей. Паралельно проведено випробування нового твердопаливного двигуна, який має бути кваліфікований до 2027 р., що забезпечить третє внутрішнє джерело постачання та підвищить стійкість ланцюга постачань. Підвищення виробництва підтримує зростаючі потреби HIMARS у США та європейських країн, посилюючи їх вогневу спроможність.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/lockheed-martin-narostyla-vyrobnytstvo-gmlrs",
-      "published": "2026-11-12T09:43:33+00:00"
-    },
     {
       "title": "Росія та Китай прагнуть узгодити вуглецеві регуляції",
       "original_title": "Russia, China seeking closer alignment on carbon regulations, says Russian minister - Anadolu Ajansı",
@@ -560,6 +509,16 @@
       "published": "2026-11-13T17:11:10+00:00"
     },
     {
+      "title": "Нові інновації безпілотників у другій частині серії Business of Defense",
+      "original_title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
+      "summary": "У другій частині серії \"Business of Defense\" представлено останні розробки у сфері безпілотних авіасистем, зокрема нові платформи з підвищеною автономністю, поліпшеними сенсорними пакетами та інтеграцією штучного інтелекту. Окрім того, анонсовано нову експозицію у Смітсоніанському музеї військової авіації, що демонструє ці технології в історичному контексті. Такі інновації можуть підвищити ефективність розвідки, точність ударів та знизити потребу у людському управлінні під час бойових операцій.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
+      "published": "2026-11-13T18:14:51+00:00"
+    },
+    {
       "title": "США впроваджують новий Force Design 2026, орієнтований на сенсори та автономію",
       "original_title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
       "summary": "Новий документ Force Design 2026 підкреслює роль сенсорів, мереж і штучного інтелекту у формуванні авіаційної оборони. Відокремлено три області: короткострокова, довгострокова і міжконтинентальна протидія безпілотникам, що підсилює можливості швидкого реагування. Це означає, що США переходять від традиційного перехоплення до синхронного використання автономних систем і даних для створення ефекту в заборонених середовищах.",
@@ -590,6 +549,16 @@
       "published": "2026-11-13T18:57:46+00:00"
     },
     {
+      "title": "ВПС США підтвердили B-21 Raider як функціональну зброєву платформу після випробувань",
+      "original_title": "Air Force validates B-21 Raider weapons release after test",
+      "summary": "У тестовому польоті з бази Едвардс B-21 Raider скинув звичайну зброю, і ПВС офіційно визнали літак підтвердженою зброєвою платформою, перейшовши до стадії «функціональної зброєвої платформи». Це підтверджує можливість швидкої інтеграції нових озброєнь завдяки відкритій архітектурі та цифровим двійникам, що підвищує бойову готовність і стратегічний стримувальний потенціал США.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/13/air-force-b-21-raider-weapons-release-test",
+      "published": "2026-11-13T18:58:15+00:00"
+    },
+    {
       "title": "MSI презентувала нове покоління протидронових систем EAGLS X",
       "original_title": "Inside MSI’s Next Generation of Counter-Drone Defense",
       "summary": "Компанія MSI представила оновлену платформу протиповітряної оборони EAGLS X, яка розширює можливості модульного та економічного захисту від безпілотних літальних апаратів. Система передбачає інтеграцію нових датчиків, швидкісний обмін даними та автоматичне визначення цілей, що підвищує ефективність у складних бойових умовах. Очікується, що EAGLS X дозволить швидко масштабувати захисні рішення для різних типів підрозділів та знизити витрати на протидронову оборону.",
@@ -608,6 +577,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw",
       "published": "2026-11-13T19:27:59+00:00"
+    },
+    {
+      "title": "Затримки технічного обслуговування підводних човнів скоротились на 40% у 2026 році, заявив підводний цар",
+      "original_title": "Submarine maintenance delays saw ‘significant’ improvements in FY26, sub czar says",
+      "summary": "У 2026 фінансовому році кількість днів затримки технічного обслуговування підводних човнів впала з близько 1 400 до 780 днів, що становить понад 40% покращення. За словами вік-адміра Робa Гаушера, це завдяки інвестиціям у запасні частини підводних човнів класу Virginia та успішному «переплануванню» графіків їхнього ремонту. Скорочення затримок підвищує бойову готовність флоту, збільшуючи кількість бойових підводних човнів, доступних для оперативних завдань.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says",
+      "published": "2026-11-13T20:23:10+00:00"
     },
     {
       "title": "Емірат Катар та Туреччина підписали угоду про взаємну оборону",
@@ -718,6 +697,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3",
       "published": "2026-11-14T00:30:00+00:00"
+    },
+    {
+      "title": "Bunker Talk: відкритий обговорення подій тижня та інші теми",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "У цьому пості \"Bunker Talk\" запрошують підписників до недільного відкритого обговорення всіх подій тижня, які не були висвітлені, а також тем, що їх цікавлять. Це не новина про конкретну техніку чи подію, а скоріше оф‑топічна дискусійна платформа, де навіть використано зображення NASA як підпис. Військового чи технологічного впливу матеріал не має.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215",
+      "published": "2026-11-14T00:31:04+00:00"
     },
     {
       "title": "Australian wool sector looks to Chinese market",

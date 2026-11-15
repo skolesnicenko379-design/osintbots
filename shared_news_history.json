@@ -1,12 +1,12 @@
 {
   "links": [
     "http://africanews.com/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions",
-    "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
     "https://middleeasteye.net/live-blog/live-blog-update/bahraini-defence-forces-say-several-iranian-aerial-attacks-neutralised",
     "https://middleeasteye.net/live-blog/live-blog-update/diplomats-18-muslim-majority-countries-condemn-israeli-strike-nasser",
     "https://middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
     "https://militarnyi.com/uk/news/bilshist-yevropejtsiv-pidtrymuyut-stvorennya-spilnoyi-armiyi-yes-na-tli-zrostannya-nedoviry-do-ssha",
     "https://militarnyi.com/uk/news/dlya-inozemnyh-sprostyly-otrymannya-ubd",
+    "https://militarnyi.com/uk/news/estoniya-dyversiya-rf-threod-systems",
     "https://militarnyi.com/uk/news/lytva-otrymala-gelikoptery-uh-60m-black-hawk-zi-ssha",
     "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
     "https://militarnyi.com/uk/news/spacex-povernula-kosmichnj-korabel-starship",
@@ -18,6 +18,7 @@
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTNOLWEzMVVCTDZhc0c4ZE5aZnFoVThOa3Ria2szY3FxbHhoQV9LTldYS05kNVQ0S21mam0zZXBpLVVXMTRjNUhvdVhjTDE0OUdWREZMbGszOVctUjcyTWUxcXZLNncxYWExTWMyU2pyeHY5UjN5YTlrM3lXb3I2TWhNandBR3V6Ri1ISjIyX0JySy1TUGhwdjZOeml1UUY3X2RnVlAyU3ZHd09MTnl3SUNCNXh0a2lrOE1XTmhiOFotMDh1WnRxc3pOLVdUcDh2clNB0gHjAUFVX3lxTE1PWTVJNjgwOE1UT3pXMUhqcjRzcVB3dko3cTJrRDBLSktsd21RMU1vSUFkNUlteEZfeHM1TllQVEk1YnR1YUMwN2pSTmxBa1dBTmpSdzVFb21DQnNPZ21YV0RYaEpUUXNRNHRwNnZlSGJSWFRRQVFxR1BwX1EybEtzbl9OQWV4WUctZWtRakEySFY4Nkg0dmxvUWFzMmxRcThrV2QySVg0N1puY2psNFNmVWhfSDh2VWhCdUtBNmc0bXF3NmxzLWpWQ3hKTl9JQVZ3ZGdac19LaktxaDJrYzRSLUZJ",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29vLWlJbS1Ua3RrWTcyY0xXeWR3SW85OXBGX1lxRzFLdlFxazRyYU00VS1wcm1OaE54WC1xV2xiMkxhV244QVEtRkJHVFZNWmVWVWhQNHkzcHRHQWpqakQyX0JaOFF0eHBOT0ZwTl9NRGJVN1g3VFNxbm1HZjdMUjBRUnNkcnFOLTZEZW5pZlI0MU04WmtZYzNoNWZmajdFTWs1aDNkZWpGNEh5Qk5FVi1Pd2xjMldLVFItdXlNZ3lEOFh2YkhaYy13YWFNRF9vRVJjVA",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWVF0SGpsY201czFkblZ2ekNSTkVXY00zdmVjc2ozdW1VaUtMUENEc0hlYVk4R2E0ZFRxMUJNQVVOdjk3SDRCSkx3dzhibnRsdWNlSmFEWHlmbU9kZGtlRjFpNk10d2dQVUJLZVc4QmR2cTBXNnZfSHlMTnNCN3VESU95aXBVclhJWFJ0T3Jza3NENVZuNWU4djVPcVhMUkVCQzIwcTFnMk5DemZVNFZCSXUtb1J3ZEQ4Rl9qUmdrYldlTjRIajJ2VEgxdmJXS1lYOXRJMQ",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzBsRjVfM2t2NlhOZ2dQb1JGVXJkTWhPaWdSbFMxaVBfRUh2aktIU1daaEw1c0pJQ1dtb0NDYW1SdGt3aDhRa2hyTlNGcTZ4YjhfeFJDWEgtMmVVRmQzYXZxRmxXOUQxZ3VJR2pVWGdUcTNMcWFKbk5pTnRobnpMZ3JqWTZOczduNVBQdm81VGZLdnNsVHUtSDY5ZFVYcGQ5cUZZNjNTV1FtOTdma2ZDa3FyNlc3YVR2NGMtRTlfY2EzRjE1MTFnN0JLMnpTaXg2RElodFVoRWMzOThPQzBR",
     "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZnNhSmVHUVBkZjVhNkZzMHRFd0h6VVl2Tlo5ZVIwbXpNSUlCTjJUd1BQWTdUZENKMkdfNDlvd0M4MWQ1a0lCUkxGZFBXcWlmay03TGJBc3VLR21YTEQ3eGQzTE5wQWhkVGhVbUY2Z1hVT25rdzF6ZWQ0YS11aGk1bE4yU2xsYUIwVFBaZFVIQ1NvQXNKZ3MxYVJsMUFiODBid213UmdwajhJMjVaWXphRTZ5S3JPWDJjb3NELW5WTmRtOWZwcW9FWEdIMDk4TFZBYVhrNE5pYU1qR3Q2ODNGdWI5M0JkcElmVi05QWZHdmdzN1piLUZBM1MtdG85ZWJ1d2I3cTg4dDNrOHd5aUdYeTZIWjNrU1RYZC1HVGN6MEZ5RUtXa0szLXBBVXlyN0RSZU9IQ3d3U0xFb1pYUkx3ejVMWXBJXzg4M0JrRTZwNHFOaFhIYWw1aS1LWGp6dGsxZktWMDNpWGpQMW1fUV9yaWU1NEE3bFBkZFBudlpNWU5oTG0tLXlzZ0hRSUFBY2pLaXB0aWZFaFlTTy1rZUlXcXYzTjQ5VGxLMXBzbVdxWmNSVDRHd1BYQmZzUW1yQWdGcU0wZU90a0h4dzdnN2o2VDhRMVhCTFl1UEd4X1RINGNjSXBC",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd1J2SVlkSjhuUHhGYUJuT1o2QVZBVzJXTVg5N3pGZTlUZHdiaHRRUzJyQXplMTdqaUgzVWNTZXZwRkJpMjYyVGluaUpGUWw0dXdFaFdHcE4wUVVCVUtzNFRvZEdpM2xlaTF4VTVGYXhqc3Jhblh0bXFwQ2JXYmk2RktfNmxBQkxoVzZZTFlfOW1DMzY5WTJ4TXEwRHhhcXppbjVjVnFZZjBTdHJRS2h6eVI3NUdUV1hXSHQtZFp5NHZZM1VEMURDRmg5RHJkQ1NmMjRJemt2bFFQemRNWDJGcEdEODZ6SW44SXlkdGQtc1FVR1Ywdk1N",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
@@ -36,16 +37,6 @@
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215"
   ],
   "recent_posts": [
-    {
-      "title": "Спеціальні підрозділи ВПС США шукають універсальну мобільну систему зв’язку для всіх транспортних засобів",
-      "original_title": "Air Force Special Warfare wants versatile mobile comms system across vehicles",
-      "summary": "У США підготовлено запит на інформацію щодо програми MCS‑U (Mobile Communication System‑Universal), яка має забезпечити передачу голосу, даних і відео між операторами TACP незалежно від типу транспортного засобу. Система повинна інтегруватися з Advanced Battle Management System і включати погодостійкі комплекти, модульне кріплення, mesh‑мережі та антени з автотрекінгом. Це дозволить підвищити оперативність і гнучкість командно‑управлінських зв’язків під час бойових дій, усуваючи потребу у спеціалізованих рішеннях для кожного транспортного засобу.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
-      "published": "2026-11-13T23:17:04+00:00"
-    },
     {
       "title": "Bangladesh economy at crossroads, India Narrative reports",
       "original_title": "Bangladesh Economy at the Crossroads - India Narrative",
@@ -327,6 +318,16 @@
       "published": "2026-11-15T08:27:22+00:00"
     },
     {
+      "title": "Запуск наземної ракети «Дань‑Т» підвищує загрозу для України",
+      "original_title": "Чим для України небезпечніший запуск \"Дань-Т\" із землі, можливість чого рашисти вперше показали - Defense Express",
+      "summary": "Російські військові вперше продемонстрували можливість запуску ракети «Дань‑Т» з наземних установок, що дозволяє вести ураження цілей на великій відстані без потреби у морських платформах. «Дань‑Т» – це крилата ракета середньої дальності (до 300 км) з високою швидкістю та маневреністю, здатна нести різні типи бойових частин. Такий спосіб застосування ускладнює виявлення та протидію, розширюючи зону ризику для української ППО та підвищуючи ймовірність ударів по стратегічних об’єктах.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzBsRjVfM2t2NlhOZ2dQb1JGVXJkTWhPaWdSbFMxaVBfRUh2aktIU1daaEw1c0pJQ1dtb0NDYW1SdGt3aDhRa2hyTlNGcTZ4YjhfeFJDWEgtMmVVRmQzYXZxRmxXOUQxZ3VJR2pVWGdUcTNMcWFKbk5pTnRobnpMZ3JqWTZOczduNVBQdm81VGZLdnNsVHUtSDY5ZFVYcGQ5cUZZNjNTV1FtOTdma2ZDa3FyNlc3YVR2NGMtRTlfY2EzRjE1MTFnN0JLMnpTaXg2RElodFVoRWMzOThPQzBR",
+      "published": "2026-11-15T08:32:00+00:00"
+    },
+    {
       "title": "Саміт Франкофонії в Камбоджі розпочався на тлі африканських напруженостей",
       "original_title": "Francophonie summit opens in Cambodia overshadowed by African tensions",
       "summary": "У Камбоджі відкрився саміт Франкофонії, який проходить на тлі африканських напруженостей через позицію Демократичної Республіки Конго. ДР Конго виступає проти намірів Луїзи Мушіківабо з Руанди балотуватися на третій термін очільниці організації та погрожує вийти з її складу в разі її переобрання.",
@@ -375,6 +376,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWk0ycDVKQ296QV9DcU5nY2M3cmRKQ1lzVzkzYXFnMHgtakUwRF9JeDN2R0xsRE5aeWRTRlBwenh1V0VHN0h4RWdSaDNRaFZRVDlCRVM0Z3R5T0ItR2pmeXZSTW5reXJtRjRTQnF4UEFENUpGSnFsRGNDUWtLZktmQUwyWWt0Nng3cFZ3eVZZd28wYjM2YWdhRkxycW4yTER0NlgxdWVzMHlUdkwzWTdyaThsN1RmQlhnUHdweDlJMENWazlLeGJ1RTExbjkxY3dZbFHSAdcBQVVfeXFMT0lCMkJ1Q2FCSHE4YkhILW9GQUVGZ0NDLWxoN2IyMnFVNGlPNzN3UXNoSUxwUl9veE9jVmFxSUZseDhPdnI5aGhzdS1tVU5kaGtmb2J4VjdEZEFLOXBkaUMyQzk4QnNQZW1QSEFvOVFkVG9rWkdfVzFQNG5FN3dJYi05SFQyQ1Q5MGd1c0M5WEctTWE2c0xXbi00NG01RjVkZ0ZBWHVmQmFJYlYwSkxGZWVrckxCU2NURGxBTTdkaFFwSHF4U1NwU01jWVRkeVNkcDkyOGprMWc",
       "published": "2026-11-15T15:21:14+00:00"
+    },
+    {
+      "title": "Естонська контррозвідка запобігла диверсії проти виробника БПЛА Threod Systems",
+      "original_title": "В Естонії запобігли диверсії російської розвідки проти виробника БпЛА Threod Systems, які постачались Україні з 2022 року",
+      "summary": "У листопаді російська розвідка спробувала підпалити завод Threod Systems у Віймсі, який виготовляє безпілотники, що постачаються Україні з 2022 р. Завдяки оперативним діям KAPO та безпеці компанії підриву не відбулося, а затримані вісім латвійців підозрюються у підготовці атаки. Збереження виробництва цих БПЛА важливе для підтримки української обороноздатності.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/estoniya-dyversiya-rf-threod-systems",
+      "published": "2026-11-15T16:59:12+00:00"
     }
   ]
 }

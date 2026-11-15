@@ -23,10 +23,8 @@
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
     "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
-    "https://militarnyi.com/uk/news/u-rostovi-vnaslidok-ataky-bpla-gorily-vyrobnychyj-majdanchyk-ta-sklad",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub",
     "https://navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet",
-    "https://navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show",
     "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUxPTXlwTjlSYmNQbmFqNm90X0dOeUJQeVNxQVRvS3lwd2JtTkh5VjVHcnJtUVpiVElublVoUHhMTG90WTRjX01CaDgzQ3dUbHVMV2FWU2M0TFZoRHB3RjFoUkc3cVpzSWV5RlI5djdvWDk1R1hYVFdBWU5EYTZOMDZfV2ZDVHdhMTBsSG1sNnp5bVJNNkFyQ2oybUNzLXlwaktDbnk2LW1oN2NZMl9rdWswdk5KcUtvVEctaXUzNmFPR3BJSGVoN1dSLUhhWVBaMXVj",
@@ -34,25 +32,21 @@
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd1J2SVlkSjhuUHhGYUJuT1o2QVZBVzJXTVg5N3pGZTlUZHdiaHRRUzJyQXplMTdqaUgzVWNTZXZwRkJpMjYyVGluaUpGUWw0dXdFaFdHcE4wUVVCVUtzNFRvZEdpM2xlaTF4VTVGYXhqc3Jhblh0bXFwQ2JXYmk2RktfNmxBQkxoVzZZTFlfOW1DMzY5WTJ4TXEwRHhhcXppbjVjVnFZZjBTdHJRS2h6eVI3NUdUV1hXSHQtZFp5NHZZM1VEMURDRmg5RHJkQ1NmMjRJemt2bFFQemRNWDJGcEdEODZ6SW44SXlkdGQtc1FVR1Ywdk1N",
     "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15X0dsbWR6VkN5S08tS2hBQ2RxMmJ2dXo1SE5zOVQtYmI0OWhTT2lMNzFzdEdXaTFPbWRj",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tUWdPSUFtNDJ4dVJEenY4NGtha3FhYW1YTU5rTEQzX1RQOUh4OGJ4c2tRYnlheDNlZmVscWdmMlBTRVNRa1N6TFlzZw",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qb0loRnBnWTV4UWlueVY3bkdyWGtBT0U0c1BtNnJ1R2VKLWphMlNoUlZYT093VExRRWdsNkxoS1FuUG5oYmc0SkRxTHR5T0V0TWJRdHA4Y2NMMlJ2Tlg3QXg5UWE2WmI1Zi1MaGYtS1VhVEht",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2Y4TTUzRzNOX21DRHh1RUx5b081d25zMVRldFhzVFFNZDNJcUE3NktXWHJxM1UydU5tMWotcm1UekhxQ2ZXM21HbGJEZzlkYk5vTkNtOFplRTBzR0VxR2pVRS1tRW82RC1oRHJBc29fQVFNUkVBRTdNM3pWaWlaNXFR",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2dieWotQ195Y3ZyYmJyZ0NFNjJHY2cyNmxFT3ZuZ1Y0LTJjaEhaN0ZTRllJZDZFU2t1enVocFhxRzZqUW1JdHZEWnU3OU84MzRyNXJQczlFcXNfSThMS3VvZS1TelpqSlc5QlA4S0ZqdnRkV1JPaDF0LVhUMWtUM2p3",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhCUmU4WmFfclNRUkUyZERRdUVZSmlHSThab2pMLUVFVFpKQlRLMEo5RTJkTmc0Q1BaTjczTVZ0T0FydEJKMnpQdjZPMmpYZXRNRjRYaUhhQ193YzFoemlYVzY2Z29QY1EzdVVzeWRtbVZKakloNUtvREhnY3o5WGZobnU",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXZrbDdMX01iMmpfU09TX1VKVlBQMU1GSFQ1MS05Y3ZlUlRXSXVLSVdYeHA0Ty04OTlpUWhQUnYxdUFwVHpwRlJPOHpBUnJTLWxkSGVGZ0dvc0tRYnl4VkhXZmZXdE04bDNiOHpKUlZSbWFuNVF0WE9LMW1WWThibVBhRnhpVWxyNXRCOUI3Nmp2dw",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcng3ZWltZkJhMkxwUWF2ZTMtNTRkbXhCUWNUSk92VlRuZXVndmZZMktjWUp4X05XQzBhWko3elROV0RXdzJhS05ZY1JhN2pkdXBUNTY1VkxGTkJHeGRqalNWOHVVblZPbE1nWTJjZEpVVmIxX1hIenZUcmtNTU9Ec1B2aGE0MkhGanlmNzZSSEQ5T28",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUtvMGQ3R2xVckFFSmlzamItQ24wNlNOZ19EZXNkdWZLTW84RW84M213bXU1S2hTSGk3d3lXS016elY0a3dKNWw0UUJYa3dtZl9RcmFTdUlSbGRzNGRGX3l1ZG5scVNCWHVJTmhfSDJocEExTl9ZMkY5d2FUN1RZUDlTU2R4MkYzd2lHSjdKZG1iN1Vi",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2E4QjZrZHNXNmJjeW5MdGtLamFacGM5ZHhDWXQ1VV9mVlFRZEkyTnRIdXJYWmhnNEhrYmNNTE9kbi1DYUcwWjJLUloyWjJjSTh1WGtSOFlwbTlQTzJZRmV6Tng3RzRmRXhuT2ZKZHRzWFdQMGFtYUt6MGRObV9ScDh4OVpWclN1ZWM0RTRRTlBEaGtqSlYyZFpBUnJBUFU",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENBY1ZheXBWOGhHeVF6N0sxYV9wcm8xckxVcGtocDlMUVM2NFpCUUtSUFJFZV9WbHdTcko1WWZnaXRjN2ZmbXZfZVhXaFBlc1RoeXVQazZxWmc0WFl3aWJmd2xBSDhlZ0xaRUpkNWtOYy04c1JRTHdwYjR1Q2Q4UkFoNHpOa05GZFlNeWJOWm83alQtSlNnTU9nSmVJZW1p",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXktYTBLRzF3VXMzRFVtVDMzZzVDQkZnYXpMSThjUFRWZE1NeFMzal9FZzBIamhsTzFuMlN0TjM2Tk1PYmh2cGdrckloalNxMlk5azBDWWFBWDFWdDdubFEtN2xuWmd1aHcxVmxiNU1vNWxqRlRxN3U1WXNlV0hGN3pzN3oyaXl6Um9JWkF0cEQ3cjVObmxheVRqakh2YXZpM1E",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkpHb2YwNnpIQlJiQjhnT0lzdGlKek8tZmVfZzFlR2xycWtDRFhDUzZmX0l6dkc5NWNyR0J5UkxHUG9uUE9OQXJEWnRJcE1YdlBON2FLU1ZBNktBVGxWUEdfd2xOTksybG15OEpKX0otSVlYS3VKRHJKOXZ5SHktaktwSFo5Y1lvQk55ZnJlVEJaUmg1Wk16MVFCTU9OQUdVV0Y5a2daMA",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGd3VXRQN19xU1pBUGU1U2V4Z3RZejVrMGd2Y2xOWWJRWGxndzBrODZTRFZTd2ppU2x4Y3RyNjZVcnE5UzROTzBLUWdDN29kWGlpX1o0UldabFpUZExTOGZpQ1hBM0JCV0lnUTdwUXhZSkJiMlNmR3hNM3RCdXV0RWM3dGlkZ0NXaktYQWJCOHN4T1BrcjJIdmgwQzdkQU84WjlCaFVPZ0d0VTljTHhJ",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHJYLVFnbkRaNlVEOHhTQzJFQS14S1dlQWV0czJFZUNrTHBpMkUtMS1CRlU2cHEtZW1LVWN6OVNUeU9maE9FaUIxdmJ1eGNxY2NSTEFkN1VibFJKOXBBaXBSVTZ0ZnBSeHZsZE0zeVpkWEJIRGZlbFZvN09NUnNaZHVySXZDdl9IRlV5akF3X0V5ekdvdWM5UFdBQVVYV2oxSjAtMlBGNWllVVdEcWF2UmlBTWV6VFE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV25ySm11QVNJSGRiTEVYbzdQZVBITlJ2VzBlMDNheXpHQzlGbUN4cG5vX2F3c29XUTdfbk5SNXZJWXhKQkkyVWZIUW5ob0tpOFBOWEFYSkdnRkRJd1ByOVlqNWpoclIwOWVVb2V2cFBHaUQyaXdROUVpSUlwb3dSTnpwa0JjamNyZ3JyclU2ckcxTW1Lb2YtLXYxOUJ1WTZoS2gxSlZZcDdOaGJ3OFhoMTUxblJOMW04OHc",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHF1RHFDdjE1ekJkckFyLUg0dEtpTElrdENlcGs1aWpCTHJSQjdVRjVaZjc3Y3dCRnFWS2Z4OE41dTdSOFJGc1NMTzgwWXpuUERRcFRkWGs4aWtWS092a3JXTUtiNGt6OUNhWGh4ZFQ1V2lTR0ZMSEpXYlhHZGNCMG1RUURiWE83cUhENWhQdVVjM1cwVE9idTVEcllDbU00LTdlWEh5OG12TzRWYzZrejRWSkp0YUZyaDRwYzB1VQ",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMUpRbDh5cUJUcTBtY2FmbTVDanNKM1RHa3BtSmxyeUdEVmZjTUtVelVDc0tfb3BGMXlNSnhaVGtLUEcyTi02czdEeWJ1NElkQ09XaTVaVTVFaGc4Z1p0cmFXalNla2hBZXQyNVllckpmMTZoWW40UkhWWVRGZUMwSTFHV1BFeVlmUFBNUWl1WjhsNElZLWdjVlU4M2VWVW9Vd0VqTUZTUG85REV1X3lBeC1hTktYOUZ5Zi1ibHdjYmt1R2s",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb18yaElJbjVQejRhWGxQaWR1WWRTV2tmREpXZ3k2bVBxSWZBMHlhZ2x0TXkzdmhneGlUX1NTUHZ3dHFzV0I2UDRldXZzbXE5R2U2bnNYZmRJUXR2ZDctZ09yTnEtaVpMb0VjMFF1eHBZd2k3Y1FMNFBkellHZ2MzUkktdk9PWnhXbnFKWC1YV3B5dDVwZVhvRldyX1R2NDlSZnFRcUN2Q3NFNlpwaGR6UDNUUEJHbmVsVmV1Rjd4VHRoSUxveTZyUVhnQQ",
     "https://theafricareport.com/436340/us-africa-trump-picks-pastor-and-early-backer-as-us-ambassador-to-the-drc",
     "https://twz.com/air/b-21-raider-has-released-its-first-weapon",
     "https://twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s",
@@ -62,76 +56,6 @@
     "https://twz.com/sea/destroyer-that-has-been-deployed-longer-than-any-since-wwii-returns-home"
   ],
   "recent_posts": [
-    {
-      "title": "Шрі-Ланка та Саудівська Аравія підписали угоду щодо хаджу на 2027 рік",
-      "original_title": "Sri Lanka signs 2027 Hajj agreement with Saudi Arabia for 3,500 pilgrims - Hiru News",
-      "summary": "Шрі-Ланка підписала офіційну угоду з Саудівською Аравією щодо організації хаджу на 2027 рік. Документ передбачає участь у паломництві 3 500 громадян Шрі-Ланки. Підписання відбулося в межах двосторонньої співпраці між державами щодо релігійних заходів та забезпечення умов для паломників.",
-      "source": "Treaties & Agreements",
-      "publisher": "Hiru News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaW9zTUJXWmYzUVRIMEs5YVgtbDRfbW1yeURjU3UzbDY2WHV2WUJpY08xRUlxMVdPckIzbWVSVGpLd1hNNi1wWnhtUHR5THNXMlp1WDhQaEsxLWdwY1NSU01lU3dyb1ktMGRoa3MyM3Q5ak85d0ZOblh5ZTJrdC15Wkhib0FjTEd0c1p3X19keHFLZ0NhOGh1a01xUzFHYkxFN081SUxvQzdPdw",
-      "published": "2026-11-13T04:41:15+00:00"
-    },
-    {
-      "title": "Японська єна впала до 160 за долар",
-      "original_title": "Japanese Yen Falls to 160 Per Dollar Again - 조선일보",
-      "summary": "Єна впала до рівня 160 ієн за один долар США, повідомляє корейська газета 조선일보. Це свідчить про подальше послаблення японської валюти на валютному ринку.",
-      "source": "Японія · монетарна політика",
-      "publisher": "조선일보",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhCUmU4WmFfclNRUkUyZERRdUVZSmlHSThab2pMLUVFVFpKQlRLMEo5RTJkTmc0Q1BaTjczTVZ0T0FydEJKMnpQdjZPMmpYZXRNRjRYaUhhQ193YzFoemlYVzY2Z29QY1EzdVVzeWRtbVZKakloNUtvREhnY3o5WGZobnU",
-      "published": "2026-11-13T04:46:46+00:00"
-    },
-    {
-      "title": "China expands zero‑tariff regime, boosts Africa trade",
-      "original_title": "Zero-tariff expansion lifts China-Africa trade - chinadailyhk",
-      "summary": "Китай розширив безмитний режим для товарів, що експортуються в Африку, що, за даними China Daily HK, підвищило обсяги торгівлі між Китаєм і африканськими країнами.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "chinadailyhk",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpanNwTVBvZlliWlBxUTRRNWllQko0am51RHQ4NG5QNFBNSkxicHQ5Y295eGFjdS1fVHpuenlXNVZZa1VkOVBlZXRGRVM5MkhFclNURS1tb1I",
-      "published": "2026-11-13T04:58:50+00:00"
-    },
-    {
-      "title": "Економіка Росії сповільнюється через ураження промисловості",
-      "original_title": "Russia’s Economy Slows as Ukrainian Attacks Damage Industry - Bloomberg.com",
-      "summary": "Українські атаки завдали шкоди російській промисловості, що призвело до уповільнення темпів зростання економіки країни. За даними Bloomberg, негативний вплив атак уже відчутний у макроекономічних показниках.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Bloomberg.com",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGd3VXRQN19xU1pBUGU1U2V4Z3RZejVrMGd2Y2xOWWJRWGxndzBrODZTRFZTd2ppU2x4Y3RyNjZVcnE5UzROTzBLUWdDN29kWGlpX1o0UldabFpUZExTOGZpQ1hBM0JCV0lnUTdwUXhZSkJiMlNmR3hNM3RCdXV0RWM3dGlkZ0NXaktYQWJCOHN4T1BrcjJIdmgwQzdkQU84WjlCaFVPZ0d0VTljTHhJ",
-      "published": "2026-11-13T05:15:00+00:00"
-    },
-    {
-      "title": "Пакистан та 50 держав вимагають від Ізраїлю дозволити гуманітарну допомогу в Газу",
-      "original_title": "Pakistan, 50 other states urge incoming Israeli government to allow relief supplies in Gaza - Arab News PK",
-      "summary": "Пакистан разом із 50 іншими державами звернувся до нової ізраїльської влади з вимогою дозволити постачання гуманітарних вантажів до сектора Газа. Ця спільна ініціатива спрямована на забезпечення доступу до необхідних ресурсів для цивільного населення. Заява підкреслює міжнародний тиск на Тель-Авів щодо дотримання зобов'язань у сфері гуманітарної допомоги. Документ відображає колективну позицію багатьох країн світу щодо критичної ситуації з постачанням продуктів та медикаментів у регіоні.",
-      "source": "Treaties & Agreements",
-      "publisher": "Arab News PK",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb18yaElJbjVQejRhWGxQaWR1WWRTV2tmREpXZ3k2bVBxSWZBMHlhZ2x0TXkzdmhneGlUX1NTUHZ3dHFzV0I2UDRldXZzbXE5R2U2bnNYZmRJUXR2ZDctZ09yTnEtaVpMb0VjMFF1eHBZd2k3Y1FMNFBkellHZ2MzUkktdk9PWnhXbnFKWC1YV3B5dDVwZVhvRldyX1R2NDlSZnFRcUN2Q3NFNlpwaGR6UDNUUEJHbmVsVmV1Rjd4VHRoSUxveTZyUVhnQQ",
-      "published": "2026-11-13T05:25:22+00:00"
-    },
-    {
-      "title": "БПЛА в Ростові спричинили пожежі на виробничому майданчику та складі",
-      "original_title": "У Ростові внаслідок атаки БпЛА горіли виробничий майданчик та склад",
-      "summary": "У ніч на 13 листопада безпілотники Сил оборони України атакували Ростов-на-Дону, спричинивши пожежі на виробничому майданчику (20 м²) та складському приміщенні (1500 м²). Атака підтверджена губернатором Ростовської області Юрієм Слюсаром. Це демонструє здатність українських дронів порушувати інфраструктуру РФ, потенційно впливаючи на логістичні ланцюги та підвищуючи психологічний тиск на російські сили.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/u-rostovi-vnaslidok-ataky-bpla-gorily-vyrobnychyj-majdanchyk-ta-sklad",
-      "published": "2026-11-13T05:51:03+00:00"
-    },
-    {
-      "title": "Показані безпілотні системи для флоту на Тайванському морському технологічному шоу",
-      "original_title": "Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show",
-      "summary": "На Тайванському морському технологічному та безпілотному експо (MATURE Taiwan) презентували нові автономні судна, підводні дрони та системи управління, що підвищують можливості флоту у розвідці, розмінуванні та логістиці. Показані технології демонструють здатність до автономного патрулювання і швидкого реагування на загрози. Це може зміцнити оборонну готовність Тайваню та слугувати прикладом для регіональних флотів.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show",
-      "published": "2026-11-13T06:29:00+00:00"
-    },
     {
       "title": "У Туреччині завершується будівництво корвета «Гетьман Іван Виговський» для ВМС України",
       "original_title": "Для ВМС України завершують будівництво корвета «Гетьман Іван Виговський» у Туреччині",
@@ -661,6 +585,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
       "published": "2026-11-14T19:54:04+00:00"
+    },
+    {
+      "title": "Словенія, Кіпр та Словаччина приєдналися до мирного договору АСЕАН",
+      "original_title": "Slovenia, Cyprus, Slovakia join ASEAN peace treaty; signatories now 65 - Philippine News Agency",
+      "summary": "Словенія, Кіпр та Словаччина офіційно приєдналися до мирного договору АСЕАН, що збільшило загальну кількість підписантів до 65 країн. Це рішення підтверджує розширення міжнародної підтримки регіональних мирних ініціатив у Азійсько-Тихоокеанському регіоні. Згідно з повідомленням Philippine News Agency, нові учасники підписали відповідні документи, стаючи частиною коаліції, спрямованої на зміцнення стабільності та безпеки в АСЕАН.",
+      "source": "Treaties & Agreements",
+      "publisher": "Philippine News Agency",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2E4QjZrZHNXNmJjeW5MdGtLamFacGM5ZHhDWXQ1VV9mVlFRZEkyTnRIdXJYWmhnNEhrYmNNTE9kbi1DYUcwWjJLUloyWjJjSTh1WGtSOFlwbTlQTzJZRmV6Tng3RzRmRXhuT2ZKZHRzWFdQMGFtYUt6MGRObV9ScDh4OVpWclN1ZWM0RTRRTlBEaGtqSlYyZFpBUnJBUFU",
+      "published": "2026-11-14T22:54:28+00:00"
     }
   ]
 }

@@ -25,8 +25,10 @@
     "https://militarnyi.com/uk/news/po-vsij-terytoriyi-ssha-zupynyly-vyloty-litakiv",
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
+    "https://militarnyi.com/uk/news/spacex-povernula-kosmichnj-korabel-starship",
     "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub",
+    "https://navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships",
     "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUxPTXlwTjlSYmNQbmFqNm90X0dOeUJQeVNxQVRvS3lwd2JtTkh5VjVHcnJtUVpiVElublVoUHhMTG90WTRjX01CaDgzQ3dUbHVMV2FWU2M0TFZoRHB3RjFoUkc3cVpzSWV5RlI5djdvWDk1R1hYVFdBWU5EYTZOMDZfV2ZDVHdhMTBsSG1sNnp5bVJNNkFyQ2oybUNzLXlwaktDbnk2LW1oN2NZMl9rdWswdk5KcUtvVEctaXUzNmFPR3BJSGVoN1dSLUhhWVBaMXVj",
@@ -628,6 +630,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/bahraini-defence-forces-say-several-iranian-aerial-attacks-neutralised",
       "published": "2026-11-15T07:27:15+00:00"
+    },
+    {
+      "title": "Малайзія обирає протикорабельну ракету ATMACA від Roketsan замість NSM на LCS",
+      "original_title": "Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships",
+      "summary": "Малайзія вирішила замінити протикорабельну ракету NSM від Kongsberg на турецьку ATMACA від Roketsan для своїх кораблів ближньої морської боротьби (LCS). ATMACA – це ракета середньої дальності з активною головкою самонаведення, здатна уражати великі надводні цілі на відстані до 200 км. Хоча інтеграція з французькою системою управління боєм SETIS ще не завершена, нова зброя підвищить вогневу потужність малайзійського флоту та зміцнить оборонне співробітництво з Туреччиною.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships",
+      "published": "2026-11-15T08:27:22+00:00"
+    },
+    {
+      "title": "SpaceX вперше повернула Starship на стартову площадку після орбітальної місії",
+      "original_title": "SpaceX уперше успішно повернула космічний корабель Starship після орбітальної місії",
+      "summary": "Starship Ship 42 здійснив 14 орбітальних обертів, провів 22,5 години в космосі та завершив політ вертикальним спуском у механічні захвати Mechazilla в Техасі. Під час польоту випробувано оновлений тепловий захист – зміцнені керамічні плитки та нові кріплення, що знижують ризик відриву та проникнення плазми. Успішне повернення першого ступеня та розгортання 26 супутників Starlink V3 підвищують потенціал швидкого розгортання широкосмугових мереж у військових та цивільних операціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/spacex-povernula-kosmichnj-korabel-starship",
+      "published": "2026-11-15T09:34:35+00:00"
     }
   ]
 }

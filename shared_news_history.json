@@ -2,12 +2,14 @@
   "links": [
     "http://africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level",
     "https://army-technology.com/news/elbit-puls-rocket-contract",
+    "https://breakingdefense.com/2026/11/hermeus-recruits-northrop-grumman-to-quarterhorse-drone-program",
     "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
     "https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026",
     "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program",
     "https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says",
     "https://defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
     "https://defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
+    "https://defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage",
     "https://defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops",
     "https://defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
     "https://defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
@@ -19,12 +21,14 @@
     "https://militarnyi.com/uk/news/bilshist-yevropejtsiv-pidtrymuyut-stvorennya-spilnoyi-armiyi-yes-na-tli-zrostannya-nedoviry-do-ssha",
     "https://militarnyi.com/uk/news/dlya-inozemnyh-sprostyly-otrymannya-ubd",
     "https://militarnyi.com/uk/news/dlya-vms-ukrayiny-zavershuyut-budivnytstvo-korveta-getman-ivan-vygovskyj-u-turechchyni",
+    "https://militarnyi.com/uk/news/lytva-otrymala-gelikoptery-uh-60m-black-hawk-zi-ssha",
     "https://militarnyi.com/uk/news/po-vsij-terytoriyi-ssha-zupynyly-vyloty-litakiv",
     "https://militarnyi.com/uk/news/rosiya-adaptuvala-dan-t-dlya-zapusku-zemli",
     "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
     "https://militarnyi.com/uk/news/syriya-povernula-yl-76t-evakuyuvaly-rezhymu",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub",
     "https://navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet",
+    "https://navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets",
     "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGtzTkFycFhQcUdlU01jWFlKbTBjUkVTUTMyd3RpVENQQUJDT0dTU001VTRBRmVTMjEwQjFrTzVkZXhEN25IUkhRanN3RUh5SmJ4SklYeXg3Um9IRmdHMVllSFpBelpkRHh0OWQ1ODFrYTkxdWwwR2Jtd3pYaWFZNVhDakZLaGFtVjROUkhpUmptYWJkVko5NnEzWnZ5WWNFZDZYaC1zRUR4QVVDb1dkNlBFbG9GbkM0N25sTFd2ZlFwalVFWnptcS1kSlNscjkzTUV0ZzZObk5EbFdPb0VMOFIySGR6bHdwV3U1blVqT2FwdllkZXV2Vw",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdUxPTXlwTjlSYmNQbmFqNm90X0dOeUJQeVNxQVRvS3lwd2JtTkh5VjVHcnJtUVpiVElublVoUHhMTG90WTRjX01CaDgzQ3dUbHVMV2FWU2M0TFZoRHB3RjFoUkc3cVpzSWV5RlI5djdvWDk1R1hYVFdBWU5EYTZOMDZfV2ZDVHdhMTBsSG1sNnp5bVJNNkFyQ2oybUNzLXlwaktDbnk2LW1oN2NZMl9rdWswdk5KcUtvVEctaXUzNmFPR3BJSGVoN1dSLUhhWVBaMXVj",
@@ -77,6 +81,16 @@
       "published": "2026-11-13T09:25:44+00:00"
     },
     {
+      "title": "Командувач SUBPAC попереджає про швидке розширення підводних флотів Китаю та Росії",
+      "original_title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
+      "summary": "Командувач Тихоокеанського флоту США (SUBPAC) адмірал Кріс Кавано повідомив про швидке нарощування підводних сил Китаю (PLAN) і Росії, що підвищує підводну загрозу в Азіатсько‑тихоокеанському регіоні. За його словами, кількість нових підводних човнів і їх технічні можливості зростають, що ускладнює виявлення та протидію. Це вимагає посилення протипідводних операцій та модернізації засобів ППО підводних цілей у Сполучених Штатах та їх союзників.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets",
+      "published": "2026-11-13T12:59:29+00:00"
+    },
+    {
       "title": "Трамп номінував Джона Марка Бернса послом США в ДР Конго",
       "original_title": "US-Africa: Trump picks pastor and early backer as US ambassador to the DRC",
       "summary": "Президент США Дональд Трамп обрав пастора та раннього прихильника Джона Марка Бернса на посаду американського посла в Демократичній Республіці Конго. Перед тим як обійняти посаду в Кіншасі, кандидатура Бернса має пройти слухання в Комітеті з міжнародних відносин Сенату США та отримати затвердження під час голосування в повному складі Сенату. Раніше, 28 червня 2025 року, Бернс публікував спільне фото з президентом ДРК Феліксом Чісекеді на платформі X, зазначивши, що був прийнятий у резиденції глави держави.",
@@ -87,6 +101,16 @@
       "published": "2026-11-13T13:00:00+00:00"
     },
     {
+      "title": "Hermeus залучає Northrop Grumman до програми дрону Quarterhorse",
+      "original_title": "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
+      "summary": "Northrop Grumman підписав угоду з Hermeus про постачання інтегрованих бойових систем для безпілотника Quarterhorse, включаючи електронну боротьбу, зв'язок, сенсори та навігацію. Це дозволить дрону, розробленому для швидкостей до Мах 3, виконувати складні місії з підвищеною швидкістю, дальністю та гнучкістю. Спільна робота прискорить випробування та введення в експлуатацію платформи, що може суттєво підвищити можливості ВПС у швидкісних ударних операціях.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/hermeus-recruits-northrop-grumman-to-quarterhorse-drone-program",
+      "published": "2026-11-13T16:05:00+00:00"
+    },
+    {
       "title": "Elbit Systems отримав контракт на ракетну артилерію PULS вартістю $260 млн",
       "original_title": "Elbit wins $260m PULS rocket artillery contract from Nato member",
       "summary": "Elbit Systems підписав контракт на постачання системи ракетної артилерії Precise & Universal Launching System (PULS) вартістю близько 260 мільйонів доларів. PULS – це модульна платформа, що дозволяє запускати різні типи ракет діапазону до 300 км з високою точністю. Отримання контракту підсилить оборонний потенціал країни‑члена НАТО, підвищивши її можливості у швидкій реакції та далекобійних ударних операціях.",
@@ -95,6 +119,16 @@
       "channel": "miltech",
       "link": "https://army-technology.com/news/elbit-puls-rocket-contract",
       "published": "2026-11-13T16:09:32+00:00"
+    },
+    {
+      "title": "Армія США назвала офіцера, затриманого у Великій Британії за підозрою шпигунства",
+      "original_title": "US Army names officer held on ‘allegations of espionage’",
+      "summary": "У лютому 2024 року у Великій Британії арештували лейтенанта полковника Брендона Керола Тайнера, якого звинуватили у співпраці з російською розвідкою. Офіцер, колишній спеціаліст з управління персоналом, був призначений до британської бази Imjin Barracks, де розташований швидкореагуючий корпус НАТО, і затриманий за статтями 1 і 3 Національного закону про безпеку 2023 року. Цей випадок підкреслює зростаючу загрозу внутрішніх шпигунських дій і спонукає до посилення контррозвідки серед союзників США та їхніх партнерів.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage",
+      "published": "2026-11-13T16:32:38+00:00"
     },
     {
       "title": "Росія адаптувала крилату ракету «Дань‑Т» для наземного запуску",
@@ -565,6 +599,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery",
       "published": "2026-11-14T16:39:23+00:00"
+    },
+    {
+      "title": "Литва отримала всі чотири UH‑60M Black Hawk",
+      "original_title": "Литва отримала гелікоптери UH-60M Black Hawk зі США",
+      "summary": "У жовтні 2025 року ЗС Литви отримали останні два гелікоптери UH‑60M Black Hawk, завершивши замовлення 2020 року на чотири машини. Пакет вартістю $232 млн, з $30 млн американської допомоги, включає додаткове обладнання, запасні частини та навчання. Нові Black Hawk розширять можливості швидкого переміщення підрозділів, медичної евакуації, пошуково‑рятувальних операцій та гасіння пожеж, підвищуючи обороноздатність Литви та її інтеграцію в НАТО.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/lytva-otrymala-gelikoptery-uh-60m-black-hawk-zi-ssha",
+      "published": "2026-11-14T18:49:48+00:00"
     },
     {
       "title": "Прем'єр Сінгапуру прибув до Філіппін на саміт АСЕАН",

@@ -7,6 +7,7 @@
     "https://militarnyi.com/uk/news/bilshist-yevropejtsiv-pidtrymuyut-stvorennya-spilnoyi-armiyi-yes-na-tli-zrostannya-nedoviry-do-ssha",
     "https://militarnyi.com/uk/news/dlya-inozemnyh-sprostyly-otrymannya-ubd",
     "https://militarnyi.com/uk/news/estoniya-dyversiya-rf-threod-systems",
+    "https://militarnyi.com/uk/news/kytaj-vpershe-v-povitri-vantazhnyj-w5000",
     "https://militarnyi.com/uk/news/lytva-otrymala-gelikoptery-uh-60m-black-hawk-zi-ssha",
     "https://militarnyi.com/uk/news/poblyzu-rumuniyi-drony-try-tsyvilni-sudna",
     "https://militarnyi.com/uk/news/saudivska-araviya-zvela-protydronovi-klitky",
@@ -21,63 +22,24 @@
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29vLWlJbS1Ua3RrWTcyY0xXeWR3SW85OXBGX1lxRzFLdlFxazRyYU00VS1wcm1OaE54WC1xV2xiMkxhV244QVEtRkJHVFZNWmVWVWhQNHkzcHRHQWpqakQyX0JaOFF0eHBOT0ZwTl9NRGJVN1g3VFNxbm1HZjdMUjBRUnNkcnFOLTZEZW5pZlI0MU04WmtZYzNoNWZmajdFTWs1aDNkZWpGNEh5Qk5FVi1Pd2xjMldLVFItdXlNZ3lEOFh2YkhaYy13YWFNRF9vRVJjVA",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWVF0SGpsY201czFkblZ2ekNSTkVXY00zdmVjc2ozdW1VaUtMUENEc0hlYVk4R2E0ZFRxMUJNQVVOdjk3SDRCSkx3dzhibnRsdWNlSmFEWHlmbU9kZGtlRjFpNk10d2dQVUJLZVc4QmR2cTBXNnZfSHlMTnNCN3VESU95aXBVclhJWFJ0T3Jza3NENVZuNWU4djVPcVhMUkVCQzIwcTFnMk5DemZVNFZCSXUtb1J3ZEQ4Rl9qUmdrYldlTjRIajJ2VEgxdmJXS1lYOXRJMQ",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzBsRjVfM2t2NlhOZ2dQb1JGVXJkTWhPaWdSbFMxaVBfRUh2aktIU1daaEw1c0pJQ1dtb0NDYW1SdGt3aDhRa2hyTlNGcTZ4YjhfeFJDWEgtMmVVRmQzYXZxRmxXOUQxZ3VJR2pVWGdUcTNMcWFKbk5pTnRobnpMZ3JqWTZOczduNVBQdm81VGZLdnNsVHUtSDY5ZFVYcGQ5cUZZNjNTV1FtOTdma2ZDa3FyNlc3YVR2NGMtRTlfY2EzRjE1MTFnN0JLMnpTaXg2RElodFVoRWMzOThPQzBR",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeWxLWUJXSXNhOUZ5R1JCM2JvMmNxb2lqVS1COGZkcDFUcENBYmZ4QmdabGZWTmhQT0RtR2NmZ2pMTFotNjFJeFRDSEwwU0s5RV9MWGgwWDlJQU05ejNUcXFGUEZrUC1HMHNEM2U2M0t1RFdHcDBqR2hkWkJDanhJQ1I0LVpJbWM0Q1ZVTVpBYUE1Q3R4UGJKZTVzUzVGeDBlU0ZrcERST3k3d2I2SkVIMmtjR25nYkdfOWdXcnJHQjRZRFN6X1oxTlNReml5SVMweVpUem95dm9jb1IwVUgwZg",
     "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZnNhSmVHUVBkZjVhNkZzMHRFd0h6VVl2Tlo5ZVIwbXpNSUlCTjJUd1BQWTdUZENKMkdfNDlvd0M4MWQ1a0lCUkxGZFBXcWlmay03TGJBc3VLR21YTEQ3eGQzTE5wQWhkVGhVbUY2Z1hVT25rdzF6ZWQ0YS11aGk1bE4yU2xsYUIwVFBaZFVIQ1NvQXNKZ3MxYVJsMUFiODBid213UmdwajhJMjVaWXphRTZ5S3JPWDJjb3NELW5WTmRtOWZwcW9FWEdIMDk4TFZBYVhrNE5pYU1qR3Q2ODNGdWI5M0JkcElmVi05QWZHdmdzN1piLUZBM1MtdG85ZWJ1d2I3cTg4dDNrOHd5aUdYeTZIWjNrU1RYZC1HVGN6MEZ5RUtXa0szLXBBVXlyN0RSZU9IQ3d3U0xFb1pYUkx3ejVMWXBJXzg4M0JrRTZwNHFOaFhIYWw1aS1LWGp6dGsxZktWMDNpWGpQMW1fUV9yaWU1NEE3bFBkZFBudlpNWU5oTG0tLXlzZ0hRSUFBY2pLaXB0aWZFaFlTTy1rZUlXcXYzTjQ5VGxLMXBzbVdxWmNSVDRHd1BYQmZzUW1yQWdGcU0wZU90a0h4dzdnN2o2VDhRMVhCTFl1UEd4X1RINGNjSXBC",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd1J2SVlkSjhuUHhGYUJuT1o2QVZBVzJXTVg5N3pGZTlUZHdiaHRRUzJyQXplMTdqaUgzVWNTZXZwRkJpMjYyVGluaUpGUWw0dXdFaFdHcE4wUVVCVUtzNFRvZEdpM2xlaTF4VTVGYXhqc3Jhblh0bXFwQ2JXYmk2RktfNmxBQkxoVzZZTFlfOW1DMzY5WTJ4TXEwRHhhcXppbjVjVnFZZjBTdHJRS2h6eVI3NUdUV1hXSHQtZFp5NHZZM1VEMURDRmg5RHJkQ1NmMjRJemt2bFFQemRNWDJGcEdEODZ6SW44SXlkdGQtc1FVR1Ywdk1N",
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbEg3MFpBZVhpaUJfVUVkU2Nxd0pJOS1ZazRWV0lKUjBqTU5wQzZFQmhlTGJYdFVYVmNaNEplSEVUQXAyN2s2clNzZGNDRXF5bS03cjVCcE5JZlRFXzFHNzk1b1Vyb0xJMWFBd050b3ZqWG92Z2d3YlRNcWVmTDVETjlLWWw0Y05VS2dpTWhCOFBXU3ZIYmkzY2Y1V01BdWQ4eklHMko4U1VDMU55c05yejNQT0J2MGloaGVSUjBOVTJGTjZxck5hS3ViMjNVZ3EybDYxVG5yQzhtUU5zREZYSDNfT2N1Q2dsUDdRc21HWGw4bWNTbkNhcl9xN2twYXM",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qb0loRnBnWTV4UWlueVY3bkdyWGtBT0U0c1BtNnJ1R2VKLWphMlNoUlZYT093VExRRWdsNkxoS1FuUG5oYmc0SkRxTHR5T0V0TWJRdHA4Y2NMMlJ2Tlg3QXg5UWE2WmI1Zi1MaGYtS1VhVEht",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGpJRWhvWmlsVUNUQ094ZmRZdGxCekJOVDFSMXNwMHZudjNveTJzTUVhYjdnWnlfTHBtOUdCN1BnWUVQanhmTE9UYnNLVVpqZi1NVGZ6RVppUFV5TTZtT1UwU3kwSVRmRVNWZlhfSVZMWXBwTkZ3LUZ2MWZsQktiMEtn",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanJlYjVPaE5HZjNzQ0hLajJ0VUxhSVAxdGNPWWxsTHNHbEZYc29WcFpucFBzOHdxMnFaeEVKUWZRMTBSOVlfVWQ0V2VHbnFUY1pFWFUyVmpYanRVU1ZBZlpMaFltcFZIdVVqd25obmxUdkpteXRNRWNjRHZYT3RHMzNB",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcng3ZWltZkJhMkxwUWF2ZTMtNTRkbXhCUWNUSk92VlRuZXVndmZZMktjWUp4X05XQzBhWko3elROV0RXdzJhS05ZY1JhN2pkdXBUNTY1VkxGTkJHeGRqalNWOHVVblZPbE1nWTJjZEpVVmIxX1hIenZUcmtNTU9Ec1B2aGE0MkhGanlmNzZSSEQ5T28",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUtvMGQ3R2xVckFFSmlzamItQ24wNlNOZ19EZXNkdWZLTW84RW84M213bXU1S2hTSGk3d3lXS016elY0a3dKNWw0UUJYa3dtZl9RcmFTdUlSbGRzNGRGX3l1ZG5scVNCWHVJTmhfSDJocEExTl9ZMkY5d2FUN1RZUDlTU2R4MkYzd2lHSjdKZG1iN1Vi",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0stM0tzQ19xcGd5SW5USGtlZTdwY1ExV2xGSGZlSktPaXhIYURKNmtYRk1ESzlwcmZaUWNRSGdkN0o1ci1kck1IYUJjdkJ2elljOTJHcndoaFVyM1dURlI4WkNPQVpQeDZWT0RlTGU5M1U4djFWY2ZFRDNEVDAxLVg1X0dMT1FG",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NxMnlQSGZnVVdSel8tZVI4bHliSzd0Y2FDSVRkWXhObFJIVjhwWERyWS1FdmxBa1d6bnMyNzJfMkNKNWRxQ0VHVExQY2ZVVWdBZGRCa2RkaEhVQjNqWjU3RkJTVFlOVWlobHd3NVhLOW5heXB2YnhYV2Zhd0tydTlWTnIwc2FrVWV2VXc4ZHZvRGZEVlE",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2E4QjZrZHNXNmJjeW5MdGtLamFacGM5ZHhDWXQ1VV9mVlFRZEkyTnRIdXJYWmhnNEhrYmNNTE9kbi1DYUcwWjJLUloyWjJjSTh1WGtSOFlwbTlQTzJZRmV6Tng3RzRmRXhuT2ZKZHRzWFdQMGFtYUt6MGRObV9ScDh4OVpWclN1ZWM0RTRRTlBEaGtqSlYyZFpBUnJBUFU",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENBY1ZheXBWOGhHeVF6N0sxYV9wcm8xckxVcGtocDlMUVM2NFpCUUtSUFJFZV9WbHdTcko1WWZnaXRjN2ZmbXZfZVhXaFBlc1RoeXVQazZxWmc0WFl3aWJmd2xBSDhlZ0xaRUpkNWtOYy04c1JRTHdwYjR1Q2Q4UkFoNHpOa05GZFlNeWJOWm83alQtSlNnTU9nSmVJZW1p",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWJFT09ZY3BnOWtrd2hoQnNoZ2dLU0RUby1Cc3lOcl9QOFpjWW1MYTc3YzJ3VWw1WFZPVFRGWEFhS2pLeDZKOVBLVHlTdURPLXZMOGVoSFdfQXBrQ1liR2gta1lzS2RmVmlGVGM2TldqTnFqTmZKWG9tRXhJVjlGM2U0RnRWTWF1azJLUU9hY1JqOWtEcUtBclNVZzRkT0FBSTE0VDJn",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkpHb2YwNnpIQlJiQjhnT0lzdGlKek8tZmVfZzFlR2xycWtDRFhDUzZmX0l6dkc5NWNyR0J5UkxHUG9uUE9OQXJEWnRJcE1YdlBON2FLU1ZBNktBVGxWUEdfd2xOTksybG15OEpKX0otSVlYS3VKRHJKOXZ5SHktaktwSFo5Y1lvQk55ZnJlVEJaUmg1Wk16MVFCTU9OQUdVV0Y5a2daMA",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHJYLVFnbkRaNlVEOHhTQzJFQS14S1dlQWV0czJFZUNrTHBpMkUtMS1CRlU2cHEtZW1LVWN6OVNUeU9maE9FaUIxdmJ1eGNxY2NSTEFkN1VibFJKOXBBaXBSVTZ0ZnBSeHZsZE0zeVpkWEJIRGZlbFZvN09NUnNaZHVySXZDdl9IRlV5akF3X0V5ekdvdWM5UFdBQVVYV2oxSjAtMlBGNWllVVdEcWF2UmlBTWV6VFE",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV25ySm11QVNJSGRiTEVYbzdQZVBITlJ2VzBlMDNheXpHQzlGbUN4cG5vX2F3c29XUTdfbk5SNXZJWXhKQkkyVWZIUW5ob0tpOFBOWEFYSkdnRkRJd1ByOVlqNWpoclIwOWVVb2V2cFBHaUQyaXdROUVpSUlwb3dSTnpwa0JjamNyZ3JyclU2ckcxTW1Lb2YtLXYxOUJ1WTZoS2gxSlZZcDdOaGJ3OFhoMTUxblJOMW04OHc",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHF1RHFDdjE1ekJkckFyLUg0dEtpTElrdENlcGs1aWpCTHJSQjdVRjVaZjc3Y3dCRnFWS2Z4OE41dTdSOFJGc1NMTzgwWXpuUERRcFRkWGs4aWtWS092a3JXTUtiNGt6OUNhWGh4ZFQ1V2lTR0ZMSEpXYlhHZGNCMG1RUURiWE83cUhENWhQdVVjM1cwVE9idTVEcllDbU00LTdlWEh5OG12TzRWYzZrejRWSkp0YUZyaDRwYzB1VQ",
     "https://twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027"
   ],
   "recent_posts": [
-    {
-      "title": "Росія і Китай обходять SWIFT через банківську мережу Netting",
-      "original_title": "CASE STUDY | How Russia and China Use Bank Netting System to Bypass Western Payment Channels like SWIFT - BitKE",
-      "summary": "Росія та Китай застосовують банківську систему взаємозаліку (netting) для проведення розрахунків, минаючи західні платіжні канали, зокрема SWIFT. Це дозволяє сторонам здійснювати фінансові операції, незважаючи на санкції, і підтримує їхній зовнішньоекономічний обмін.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "BitKE",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcng3ZWltZkJhMkxwUWF2ZTMtNTRkbXhCUWNUSk92VlRuZXVndmZZMktjWUp4X05XQzBhWko3elROV0RXdzJhS05ZY1JhN2pkdXBUNTY1VkxGTkJHeGRqalNWOHVVblZPbE1nWTJjZEpVVmIxX1hIenZUcmtNTU9Ec1B2aGE0MkhGanlmNzZSSEQ5T28",
-      "published": "2026-11-14T06:00:09+00:00"
-    },
-    {
-      "title": "Kazakhstan і Австрія планують розширити торгівлю та інвестиції",
-      "original_title": "Kazakhstan, Austria Seek to Expand Trade and Investment Cooperation - The Astana Times",
-      "summary": "Казахстан і Австрія заявили про намір посилити співпрацю у сфері торгівлі та інвестицій. Це передбачає розширення двосторонніх економічних зв'язків і потенційне збільшення обсягів торгівлі між країнами.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "The Astana Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENBY1ZheXBWOGhHeVF6N0sxYV9wcm8xckxVcGtocDlMUVM2NFpCUUtSUFJFZV9WbHdTcko1WWZnaXRjN2ZmbXZfZVhXaFBlc1RoeXVQazZxWmc0WFl3aWJmd2xBSDhlZ0xaRUpkNWtOYy04c1JRTHdwYjR1Q2Q4UkFoNHpOa05GZFlNeWJOWm83alQtSlNnTU9nSmVJZW1p",
-      "published": "2026-11-14T07:39:26+00:00"
-    },
-    {
-      "title": "У США кількість нафтових бурових установок unchanged 7 листопада",
-      "original_title": "US oil rig count unchanged for week ending Nov. 7 - Anadolu Ajansı",
-      "summary": "Кількість нафтових бурових установок у Сполучених Штатах залишилася незмінною за тиждень, що завершився 7 листопада. Це свідчить про стабільність активності у нафтовій галузі без зростання чи скорочення кількості робочих платформ.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "Anadolu Ajansı",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUtvMGQ3R2xVckFFSmlzamItQ24wNlNOZ19EZXNkdWZLTW84RW84M213bXU1S2hTSGk3d3lXS016elY0a3dKNWw0UUJYa3dtZl9RcmFTdUlSbGRzNGRGX3l1ZG5scVNCWHVJTmhfSDJocEExTl9ZMkY5d2FUN1RZUDlTU2R4MkYzd2lHSjdKZG1iN1Vi",
-      "published": "2026-11-14T07:49:33+00:00"
-    },
-    {
-      "title": "Китай стикається з труднощами у підвищенні споживчих витрат",
-      "original_title": "China's drive to boost consumer spending struggles to gain ground - Daily Sun",
-      "summary": "Китай продовжує заходи з підвищення споживчого попиту, проте, за даними Daily Sun, ініціативи не приносять очікуваних результатів. Це свідчить про труднощі у стимулюванні внутрішнього споживання, що може впливати на темпи економічного зростання.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "Daily Sun",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkpHb2YwNnpIQlJiQjhnT0lzdGlKek8tZmVfZzFlR2xycWtDRFhDUzZmX0l6dkc5NWNyR0J5UkxHUG9uUE9OQXJEWnRJcE1YdlBON2FLU1ZBNktBVGxWUEdfd2xOTksybG15OEpKX0otSVlYS3VKRHJKOXZ5SHktaktwSFo5Y1lvQk55ZnJlVEJaUmg1Wk16MVFCTU9OQUdVV0Y5a2daMA",
-      "published": "2026-11-14T07:55:46+00:00"
-    },
     {
       "title": "Польща розглядає українські системи акустичного виявлення БпЛА в обмін на МиГ-29",
       "original_title": "Звуковий щит: в обмін на МиГ-29 Польщу цікавлять українські рішення акустичного виявлення ворожих БпЛА - Defense Express",
@@ -157,6 +119,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51M0NJMjRNbnZIZGxQb3lGYzN3V3UyQWlfNmxkZHhtT2FoZUk0c2xLal90Q29zVFQwMC00eldma3J1cVlFZ1RSd1U3dDhfRzZjYWs4bFpGVnRFaU9Dd0NsZkNwTS1SbUxFX3lNS2NMQTRFbW9t",
       "published": "2026-11-14T10:16:00+00:00"
+    },
+    {
+      "title": "Новий Ту-22М3 з заводу поставили на пам’ятник у Росії",
+      "original_title": "Як в РФ вийшло, що \"новий\" Ту-22М3 \"тільки з заводу\" пішов на памʼятник, та що показує цей приклад - Defense Express",
+      "summary": "У Росії новий стратегічний бомбардувальник Ту‑22М3, який щойно залишив завод, був встановлений як пам’ятник. Ту‑22М3 – надзвуковий бомбардувальник з дальністю понад 6 000 км і можливістю нести різноманітні ядерні та звичайні боєприпаси. Така демонстрація вказує на проблеми з постачанням нових одиниць у військові підрозділи та використовується як пропагандистський символ потужності.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeWxLWUJXSXNhOUZ5R1JCM2JvMmNxb2lqVS1COGZkcDFUcENBYmZ4QmdabGZWTmhQT0RtR2NmZ2pMTFotNjFJeFRDSEwwU0s5RV9MWGgwWDlJQU05ejNUcXFGUEZrUC1HMHNEM2U2M0t1RFdHcDBqR2hkWkJDanhJQ1I0LVpJbWM0Q1ZVTVpBYUE1Q3R4UGJKZTVzUzVGeDBlU0ZrcERST3k3d2I2SkVIMmtjR25nYkdfOWdXcnJHQjRZRFN6X1oxTlNReml5SVMweVpUem95dm9jb1IwVUgwZg",
+      "published": "2026-11-14T11:16:00+00:00"
     },
     {
       "title": "Дипломати 18 мусульманських країн засудили ізраїльський удар по лікарні в Газі",
@@ -319,6 +291,16 @@
       "published": "2026-11-15T12:08:00+00:00"
     },
     {
+      "title": "Новий підхід до «Vertical Corridor» підвищить енергетичну безпеку ЄС",
+      "original_title": "A new vision for the Vertical Corridor: European energy security through infrastructure optimization - Atlantic Council",
+      "summary": "Atlantic Council представив нову концепцію «Vertical Corridor», спрямовану на підвищення енергетичної безпеки Європи шляхом оптимізації існуючої інфраструктури. За цим підходом планується більш ефективне використання енергетичних шляхів і зменшення залежності від зовнішніх постачальників.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "Atlantic Council",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbEg3MFpBZVhpaUJfVUVkU2Nxd0pJOS1ZazRWV0lKUjBqTU5wQzZFQmhlTGJYdFVYVmNaNEplSEVUQXAyN2s2clNzZGNDRXF5bS03cjVCcE5JZlRFXzFHNzk1b1Vyb0xJMWFBd050b3ZqWG92Z2d3YlRNcWVmTDVETjlLWWw0Y05VS2dpTWhCOFBXU3ZIYmkzY2Y1V01BdWQ4eklHMko4U1VDMU55c05yejNQT0J2MGloaGVSUjBOVTJGTjZxck5hS3ViMjNVZ3EybDYxVG5yQzhtUU5zREZYSDNfT2N1Q2dsUDdRc21HWGw4bWNTbkNhcl9xN2twYXM",
+      "published": "2026-11-15T12:20:00+00:00"
+    },
+    {
       "title": "Президент Сомалі планує другий за два тижні візит до Уганди",
       "original_title": "Somalia’s president seeks second Uganda visit in two weeks - Somali Guardian",
       "summary": "Президент Сомалі має намір здійснити свій другий візит до Уганди протягом двох тижнів. Подія стосується двосторонніх відносин та контактів на найвищому рівні між державами, що відповідає критеріям міжнародної дипломатії.",
@@ -359,6 +341,16 @@
       "published": "2026-11-15T16:59:12+00:00"
     },
     {
+      "title": "Китайський безпілотник W5000 пройшов перший випробувальний політ",
+      "original_title": "5 тонн на відстань до 2600 км: У Китаї вперше піднявся в повітря найбільший у світі вантажний безпілотник W5000",
+      "summary": "Під час 30‑хвилинного польоту W5000, розробленого Air White Whale, літак набрав 1000 м висоти, виконав чотири розвороти та успішно посадився. Вантажний безпілотник має MTOW 10,8 тонни, 5 тонн корисного навантаження, 2600 км дальність, 22,89 м довжину і 22,7 м розмах крила, оснащений двома турбогвинтовими двигунами і композитним фюзеляжем. Його автономна система керування та низька вартість перевезень можуть значно підвищити ефективність цивільної та військової логістики, забезпечуючи швидке постачання вантажів у віддалені регіони.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kytaj-vpershe-v-povitri-vantazhnyj-w5000",
+      "published": "2026-11-15T18:59:43+00:00"
+    },
+    {
       "title": "Міністри закликали Ізраїль відкрити кордони для гуманітарної допомоги Газі",
       "original_title": "Joint Foreign Ministers Statement on Gaza",
       "summary": "Міністри закордонних справ Австралії, Канади, Італії та Великої Британії оприлюднили спільну заяву щодо критичної гуманітарної ситуації в Газі через наближення зими та повені. Дипломати повідомили, що на кордоні заблоковано 150 тисяч наметів та життєво необхідні товари, які не допускають до сектору. Вони закликали уряд Ізраїлю негайно припинити затримки та забезпечити негайний, швидкий і безперешкодний гуманітарний доступ. Крім того, міністри наголосили на необхідності відкриття прикордонних переходів, допуску товарів подвійного призначення для раннього відновлення та виконання всіма сторонами",
@@ -397,6 +389,36 @@
       "channel": "miltech",
       "link": "https://twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
       "published": "2026-11-15T21:44:47+00:00"
+    },
+    {
+      "title": "Russia and Thailand sign business pact worth $4.5 bn",
+      "original_title": "Russia, Thailand Establishes New Business Pact, US$4.5 Bil Project Potential - SME & Entrepreneurship Magazine",
+      "summary": "Russia and Thailand have concluded a new business agreement that could generate projects with a total value of up to US$4.5 billion. The pact signals a potential expansion of bilateral economic cooperation.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "SME & Entrepreneurship Magazine",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NxMnlQSGZnVVdSel8tZVI4bHliSzd0Y2FDSVRkWXhObFJIVjhwWERyWS1FdmxBa1d6bnMyNzJfMkNKNWRxQ0VHVExQY2ZVVWdBZGRCa2RkaEhVQjNqWjU3RkJTVFlOVWlobHd3NVhLOW5heXB2YnhYV2Zhd0tydTlWTnIwc2FrVWV2VXc4ZHZvRGZEVlE",
+      "published": "2026-11-16T01:00:12+00:00"
+    },
+    {
+      "title": "Автомобільна промисловість Китаю очікує стабільне відновлення",
+      "original_title": "China's auto industry likely to achieve steady recovery - China Daily Global Edition",
+      "summary": "China Daily Global Edition повідомляє, що автопромисловість Китаю, після періоду спаду, ймовірно, поступово відновиться. Це вказує на покращення попиту та можливе зростання виробництва, що позитивно позначиться на галузевих показниках.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "China Daily Global Edition",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGpJRWhvWmlsVUNUQ094ZmRZdGxCekJOVDFSMXNwMHZudjNveTJzTUVhYjdnWnlfTHBtOUdCN1BnWUVQanhmTE9UYnNLVVpqZi1NVGZ6RVppUFV5TTZtT1UwU3kwSVRmRVNWZlhfSVZMWXBwTkZ3LUZ2MWZsQktiMEtn",
+      "published": "2026-11-16T01:23:44+00:00"
+    },
+    {
+      "title": "Президент Лі Че Мюнґ вирушає на саміти ASEAN та APEC",
+      "original_title": "President Lee Jae Myung Departs for ASEAN, APEC Summits - 조선일보",
+      "summary": "According to Chosun Ilbo, President Lee Jae Myung has left to attend the upcoming ASEAN and APEC summits. The article does not specify dates, venues, or accompanying delegations, only confirms his participation in these multilateral meetings. The departure underscores South Korea's engagement in regional economic cooperation, but the report contains no statements about specific bilateral talks or agreements.",
+      "source": "Bilateral Meetings",
+      "publisher": "조선일보",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0stM0tzQ19xcGd5SW5USGtlZTdwY1ExV2xGSGZlSktPaXhIYURKNmtYRk1ESzlwcmZaUWNRSGdkN0o1ci1kck1IYUJjdkJ2elljOTJHcndoaFVyM1dURlI4WkNPQVpQeDZWT0RlTGU5M1U4djFWY2ZFRDNEVDAxLVg1X0dMT1FG",
+      "published": "2026-11-16T01:28:05+00:00"
     }
   ]
 }

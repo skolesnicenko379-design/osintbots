@@ -1,16 +1,5 @@
 {
   "links": [
-    "http://www.africanews.com/2026/10/27/myanmar-spectacular-lantern-festival-lights-up-ancient-temples-in-bagan/",
-    "https://www.gov.uk/government/speeches/iran-must-allow-the-return-of-iaea-inspectors-to-all-nuclear-sites",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2pFc1A3alMtQy1VS2ZiOFQya1UyWkIzVkN6VjVabTBwWnlZQWI1OFlWLVNRMXNNUnRhU3FwUG4zSzN1M1poUDRFUm1xRXMzVHlTOUdyY3FVT1JsaW43cl8tWUdPLUhRNzVIQWNHcy1fZHhuVF9rNWJVcmJQYWh3cVFVd3JjSC0tQngyVjdRRjJ3WjZCaUN5N0VOWWdCMEJBcGdXZXpIVC12UEg2QWVTS2VybzgwQmpGd1dQZVhUQy1ocVk3aUdiY0VUaHNaMmdFWS1V?oc=5",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZG9YUGFCa1J2VDZ3Z3JlWE1fck5SR1dUU2l3YlJMeFZGbVJEQWx0STJ0T0JhSV9sOEd0RVJxWGVBT0MyVzlOY0FnLUxqd0JzMzMtSzlDdUs5d1VWLWx6SXJmWFE0RkVCSW1GSUlpbklaTUQzMGVPNWs3NlBWM3cwUnZwU05EYnZHbWZIRDdDMWM4aV84dEZxRDdPTkQ3NkFLb3Nod3J4bGxZZXpLRFN3aGVCV1Y4ejBRXzBmRHJVQ3RvTDdicUF1M0NLdGdCeXZZR2JhX0tfZVhDMk9Kc2xISy1lRTlON2U3VUpsYw?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/raam-says-israeli-police-seized-ballot-boxes-negev",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xReG5IbDd2VEVRZXJ1VUtaNGtlSFhpa3paSkFQVWhLWVk3NzNkendFMXNTZ3p5b3R6aTJTUzluYk1PUGlySXNEaDZPdXN2ZEx2WTF0SlRZZ1lmRmtRZnpFSVU4WGp0ZkdfY18tQlYwck9GbVBRUXR0Q2x2bVlkWDdMbVNFSVVZNnh2bXpjMm9hRjd3eThsYXRqQ0JhT05hc2hIWG93U005R2pFOXlORmZmNV9uYW02cGM4?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/raams-abbas-calls-sustained-voting-bring-down-netanyahu",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQmlNT2pyMm13QzlVT0ZGdXZoZnQ0S1JSdVJqdE05QTJTaHNMcjRDZ004OU1CUnk5MW9EM0Q2LTFDblVhM1o0R2NGSzdndHI4SEZYUnJNNzFXaHJ1MTdYaVJXWF9CWnFFX3ZHNEJZeUpYTHBaT2NBWkRtdWs3Z1ZxVGRVNXYtRDUtRW02bzc4UmVmZnhxVFNiLVJJR0VMVVVYVk9tTXk2cXpCNUNKWUM1M3lScTRSZzhPVDkyX2NNdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0Jfd2JWS0RfZWtNejBIRU9hdFBhY2dNMlNYNUtDam9jMkVMTjFTM1BiaDlaVXNhSktVelBMV3d2U29hUkhJaHExejVjUGNTNm9vTC05QkgwN1AwTFByWlBTRnQ1dWF1aVc0OUdTVkZ1MHNwbE1fVnBHWWlCMWY0eEM2QWVpU0M0NHJBRTJUVU0wSEhONGI1UGtHclJ6NWdESWQ0ZkZ3MDBpQUlFclJxdEVqd2F2YUZYOFE?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/israel-election-commission-rejects-netanyahu-party-bid-extend-voting",
-    "https://www.middleeasteye.net/news/oman-calls-gulf-iraq-and-iran-unite-under-one-security-pact",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBtY0VaYWVBVXNNeks5cmw5aUtGSll4eWV1SFN2ZnRfXzJocUNlN0E0R0dpajJfYVR1X1JXa3JkMEx3WnhYNFc4U05idWE4cjNadEd1OXRxNGE1cHFNdzdPRnRwQ1NjXzJoT0JkSDh6YWU3UHNmQ3I2YTZxalFBVWtOYnZpS1pVeV9LVHVsTlBTcUNSTU81aGlQZw?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmJqT2RPWDk4SFI2M3kzdFBDaXVDN3o0cmluTTB5SFcxLXZ2MjlqOUZHR043ekQzakJwZTNqMjJqelJUMjQxdXRRU0RGMHRfMHByVk42SXRBSEcyZFlYa3EwMkhQcW1GemxyY1otR1d3VnVGeWRCMzFCUWdkM0ZsVnBvY3VSeW5vREhpbi01WExTdE5sNWE5cE9mUnZzeDhBUHVRWWhTZWZ3Z3ZBNktmbFpfM3F6SnYxbHRRLUdlTzBPcUtxelo0cGhLVQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlJvM0l5S3I3UGJJbFJQYmQyTU9nZkF1b2hWRFRhTWtKZVBpd1c0SXQ3NHRfX2VLbV9JVFh0cmtlT3dLRmZabEtXMExacGNPamk4Tlladm1US3VnNkdXUjh3cmVfWEpyLXpWa1VXSkx5akp1T2E0V2VzTHYydGxoLURDVk1nM00wbklMU3lxeEdyeWVJRlVEcWs0UmVlMnk0ZExGSW1FeFFxQQ?oc=5",
@@ -1199,16 +1188,20 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDJyWGFhMEl4SjlCb1IzM1hCYS11ZGlESFh6SDdQaVBKck9fTWhXM3NKWGhQTWxLRDV6dG1qbUtaZzFtZjNqdXdTZkVKeEFiOVNFdUZSYXNnWU5VRGpQWXNObmh6Y0tzaDVjN2xpcjRsdEt4VmVtN1l3N1RJYTU3dlUzUUtvU3UxRWk5Rk1FZTNTSWd0UlBqSzN5d2dET1d3enFaNWZYOA?oc=5",
     "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
     "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-fired-missiles-riyadh-airport-and-financial-district",
-    "http://www.africanews.com/2026/11/15/uk-londons-santa-school-trains-father-christmas-performers-for-2026/"
+    "http://www.africanews.com/2026/11/15/uk-londons-santa-school-trains-father-christmas-performers-for-2026/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-reported-yemens-taiz-governorate",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjc5dXNERl80NklReEhRSzdHdjlvN1NMT0o0M2tNelBnRnQyUXlwY2duN0M4bnlYRFFrOHlWTWFHQkstMVNNdVQzQTU5R0JGek15NlRoWEtuaEs5cmlCeUoxWUpmWkMtOEI1eTZQZWhjRlFMMGdKQlRTUnNqMlJpUGxQV0FMeHhPY2FrVlRneGc3cVNnazhrQkhJTzdUZ3B1MDBMZ0g3QQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-hospital-faces-shutdown-risk-due-sege-taiz",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0stM0tzQ19xcGd5SW5USGtlZTdwY1ExV2xGSGZlSktPaXhIYURKNmtYRk1ESzlwcmZaUWNRSGdkN0o1ci1kck1IYUJjdkJ2elljOTJHcndoaFVyM1dURlI4WkNPQVpQeDZWT0RlTGU5M1U4djFWY2ZFRDNEVDAxLVg1X0dMT1FG?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkpJWnBrS0NHOER3NDlhdVNJaTNpUlFKYTJXbV9WQ0JjX2V0TDRhZ2lNNEs4cXo4TVdSWlVlblZYZHE2WVBMdXFMTUVldGdGbE9DYVJjdzRTbXRTa3hKQ0hoVUpxYXhnV29SWEJFdE9WQ0RObWNIa1puNmFRX2F3ek5HUlVvcU5YSnIyUGdITmtCbklJUXJ4anRTbDBrb05TOFBvdU13?oc=5",
+    "https://en.mercopress.com/2026/11/16/leo-xiv-rides-in-a-peruvian-military-helicopter-cockpit-and-reaches-cusco?utm_source=feed&utm_medium=rss&utm_content=latin-america&utm_campaign=rss",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlhPZHhMcEo1bzUzbExpVkhYODlTMGhMZ29wd2lEY2ppbmxWcHR6OVFFZ3RmSVZpenNUb1VfMmJESUd3Vi1NRmdkZ1doVTF0Y1M5bmdSTllBRmJWVVBLdUNVR2VpdTcwelJHLW5MUm5QWk53SEh4NG9qQy1zU1d3N3dxODFaaGNvWWc5YXBjV2VkWVpxakczNVVjWGltRVU0eS1fR2NibVNSZjNwNDhxRGR0RmZQWFRfcVAzNW05SzgwY2xKRzcyc2hoM0xCTE5j?oc=5",
+    "https://www.middleeasteye.net/news/mossad-abducted-iranian-general-turkey-tortured-him-weeks-killing-him",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yOUptZlFKeVhIbWxEWHdocDFBekdfSm55aE1oaUhaOTYyZklIX21nb3NXb09uMDdnVC1PWlRWOUdjUXJfY3lJMEtHX1l6ZTIzT1J1VjFvTkZmamlwZExvRkt2TUsyTk5DbHRV?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRnNpSnhSc2pHRmptR2QxaTFhQVB4eFNZSjd1SjVIdml6NWV0SDAwMkR6N1BRWjVjNEU1OHVTempKbENOamJxa25fa3VJbXkxTjNtWnJSX1gtb0hjQXA3YVdjSnppSnpDemtZQ0MycVlLcUw2UTAyU2lpVXhEMTJ2ZWlUSGw5MnI5a3REQ3FaLThwQ0xRYVk2WU95QTNhdFFyeGtrdU9naWtuRm5USEdfNHp5bWZPZXN4MUwxS241V05adXp0SVE?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUdmSC1vb3lZU2NIdUJTem1hQmFzU3VhRzNSbzVlZ05lSTRNQU1wcWI4MFpweHRlZldibVF0UjVZV0d0Um9MZ0xsWHY2MFpSMVFCa3hTMWhydWd0MndFLUNrOXU4SzVZRVQzSGtrSzF2X3VHMU9vZ3pHeFRVQWxvTWhNSTNNYXVQR0wwTENQSW1MMlcwSTlxa1VNWi1jVWZzanJYTVA4aHpjQXVsTlRULWx4Q2E5Z9IBtgFBVV95cUxNVUdmSC1vb3lZU2NIdUJTem1hQmFzU3VhRzNSbzVlZ05lSTRNQU1wcWI4MFpweHRlZldibVF0UjVZV0d0Um9MZ0xsWHY2MFpSMVFCa3hTMWhydWd0MndFLUNrOXU4SzVZRVQzSGtrSzF2X3VHMU9vZ3pHeFRVQWxvTWhNSTNNYXVQR0wwTENQSW1MMlcwSTlxa1VNWi1jVWZzanJYTVA4aHpjQXVsTlRULWx4Q2E5Zw?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Велика Британія, Катар, Йорданія та десятки країн оприлюднили спільну заяву щодо Гази",
-      "summary": "Велика Британія, Катар, Йорданія та десятки інших держав і міжнародних організацій виступили із спільною заявою щодо забезпечення охорони здоров'я та гуманітарного доступу в Газу. Учасники закликали новий уряд Ізраїлю дозволити безперешкодний гуманітарний доступ через усі коридори, відновити медичні направлення та забезпечити захист медичних працівників і цивільної інфраструктури відповідно до резолюції Ради Безпеки ООН.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "published": "2026-11-12T15:30:00+00:00"
-    },
     {
       "title": "Франція засудила заборону Ізраїлю на в'їзд для Меланшона",
       "summary": "Міністр закордонних справ Франції Жан-Ноель Барро 12 листопада 2026 року засудив рішення уряду Ізраїлю заборонити в'їзд до країни лідеру партії «Незалежна Франція» Жану-Люку Меланшону та іншим лівим політикам. У публікації в X Барро назвав цю дію «демагогічною», стверджуючи, що вона походить від уряду, який порушує міжнародне право. Франція підтвердила, що продовжуватиме працювати над досягненням дводержавного рішення та мирного співіснування ізраїльського та палестинського народів.",
@@ -1411,6 +1404,13 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-11-15T19:03:00+00:00"
+    },
+    {
+      "title": "Президент Лі Че Мюнґ вирушає на саміти ASEAN та APEC",
+      "summary": "According to Chosun Ilbo, President Lee Jae Myung has left to attend the upcoming ASEAN and APEC summits. The article does not specify dates, venues, or accompanying delegations, only confirms his participation in these multilateral meetings. The departure underscores South Korea's engagement in regional economic cooperation, but the report contains no statements about specific bilateral talks or agreements.",
+      "source": "Bilateral Meetings",
+      "publisher": "조선일보",
+      "published": "2026-11-16T01:28:05+00:00"
     }
   ]
 }

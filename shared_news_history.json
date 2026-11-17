@@ -3,15 +3,18 @@
     "http://africanews.com/2026/11/16/gilbert-houngbo-re-elected-to-lead-un-labour-agency-for-second-term",
     "http://africanews.com/2026/11/16/oif-violence-in-south-africa-and-ebola-in-the-drc-your-news-roundup-africanews-today",
     "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
+    "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
     "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher",
     "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
     "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
     "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
     "https://defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher",
     "https://defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
+    "https://defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
     "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off",
     "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
     "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
+    "https://defensescoop.com/2026/11/17/space-industrial-base-stretched-thin-gao-report",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
     "https://gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
     "https://gov.uk/government/speeches/protection-of-civilians-must-be-at-the-heart-of-myanmars-future-uk-statement-at-the-un-third-committee",
@@ -24,6 +27,7 @@
     "https://militarnyi.com/uk/news/reaktyvnyj-an-197-na-kerchenskyj-mist",
     "https://militarnyi.com/uk/news/ssha-vpershe-rozgornuly-novitni-vynyshhuvachi-f-15ex-u-yaponiyi",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/rheinmetall-pitches-gmf-140-frigate-us-navy-nato",
+    "https://navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEZKbXlMdWFwZ2hsU2RPYm1mWEJqaHZjdTFMbnBkbHRrLXJ4bE80eFJ2aElSaHNhZE9Mbk1vWnlySFAwelpmZ1RxQ3R6ODROMFo0ZDQ2ekRSSkFKLXBJdlllNi0zSDhXbTZmakh4MmZOQW1NRnZzTHdMUVdhTmxrOVpGMjM3WWxvSGFzcGNySXBybWNXaFVROFRnUlpBQkoxZTNxaWk4YThwcjNKV2xZWGZGYWFvbFZBLVh5RVd3WWc4Ukl0TDdzSl9Fc3IwMXpyam53clNFQmg",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcmtlSW5QTm9COVRXYnpJS2gtb1ZGVHFsOThfUUpzb2E2bzNzYzNSVldqVWhOYjhDOEtjY2d5VEkyVTlwMjEweU1tNi0yazlvdUF3WmpLXzdOU2ZpQ1c3UE1HbXVEcms3Wmk4Q3RSRFVuX0Q4eG9SVXpSWHBDNHdUcmt3N3M5ek1LNjJtbUVFZVFUcmt6MmYySUNyRjk3aFVOVEVodHZhS2FFa0ZyWlhEU01XYXRPRnFta1Ffdzl6bkpvUVRtbnVvdTRKeXlsQ0s3SWdOQTBfc2xIYXMy",
@@ -418,6 +422,26 @@
       "published": "2026-11-17T20:09:56+00:00"
     },
     {
+      "title": "GAO: Перевантаження промислової бази космічних технологій через перехід до низькоорбітальних супутникових сузір’їв",
+      "original_title": "Space industrial base stretched thin amid low-orbit satellite constellation shift, GAO says",
+      "summary": "Пентагон планує замінити кілька великих супутників на масові сузір’я малих LEO‑супутників, що обійдеться у $33 млрд за п'ять років. Така стратегія створює напруження в спеціалізованій промисловій базі, викликаючи дефіцит напівпровідників, електроніки та виробничих потужностей. GAO закликає централізовано контролювати ланцюги постачань, щоб забезпечити здатність Space Force отримувати необхідні технології.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/17/space-industrial-base-stretched-thin-gao-report",
+      "published": "2026-11-17T20:15:00+00:00"
+    },
+    {
+      "title": "Великий повітряний дрон евакує пораненого українського солдата з передової",
+      "original_title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+      "summary": "Українські підрозділи застосовують важкі безпілотники для швидкої медичної евакуації, доставляючи пораненого з передової до польового госпіталю. Такий дрон має вантажопідйомність до 150 кг і може здійснювати польоти на відстані до 30 км, що дозволяє уникнути наземних ризиків. Це підвищує швидкість надання медичної допомоги та знижує втрати серед персоналу.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
+      "published": "2026-11-17T20:31:20+00:00"
+    },
+    {
       "title": "Kazakhstan розширює роль у Євразійському транспортному коридорі",
       "original_title": "Kazakhstan Expands Its Role in Eurasian Connectivity Through the Middle Corridor - The Jamestown Foundation",
       "summary": "Казахстан посилив свою участь у проєкті Middle Corridor, що спрямований на покращення транзиту товарів між Європою та Азією. Розширення ролі країни підвищує її стратегічне значення в євразійській транспортно‑логістичній мережі.",
@@ -426,6 +450,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkRYSllmM3EtbE1OMmFMOVM0dENlakJGa3NFbXBZd3MyT3FnSkJSMUljV2J6RE5pVG9Ed2NqbUF0Y2tiVGVyWjlHM0ZMa3JrdnJ3OWFaX3pJQ0JubjlSdUozMjhUdm1INjliS3dkOWVkUk41VzU3VHRrZ24yb1F0QXZ4My1ZRnFpTnliMmp4SDY0Q0IxeTNZLVExeDNaSVJBbFQ4UlVn",
       "published": "2026-11-17T20:46:25+00:00"
+    },
+    {
+      "title": "Конференція UDT Australia 2026: обговорення стануть каталізатором зміни дебатів Австралії про підводні війни",
+      "original_title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+      "summary": "У Аделаїде відбулася перша конференція UDT Australia 2026, яка розширює австралійську дискусію про підводні війни від традиційних підводних човнів до автономних систем, безпекі морського дна та ініціативи AUKUS. Такий підхід може стимулювати розробку безпілотних підводних платформ і посилити стратегічну роль Австралії у регіональній морській безпеці.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate",
+      "published": "2026-11-17T20:59:30+00:00"
+    },
+    {
+      "title": "ICEYE пропонує $2 млрд за італійську ракетну компанію Avio",
+      "original_title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+      "summary": "ICEYE, фінсько-російський оператор супутникових радарних знімків, оголосив про намір придбати італійську ракетну компанію Avio за $2 млрд. Угода підсилює європейську автономність у запуску космічних апаратів і військових супутників, зменшуючи залежність від США. Якщо завершиться, Avio отримає доступ до технологій високоточних радарних даних ICEYE, що може підвищити ефективність розробки ракетних систем та їх інтеграції у військові програми.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
+      "published": "2026-11-17T21:12:16+00:00"
     },
     {
       "title": "Український виробник продуктів закрився після російського удару",

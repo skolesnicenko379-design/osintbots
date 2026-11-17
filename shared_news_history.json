@@ -1,6 +1,7 @@
 {
   "links": [
-    "http://africanews.com/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions",
+    "http://africanews.com/2026/11/16/gilbert-houngbo-re-elected-to-lead-un-labour-agency-for-second-term",
+    "http://africanews.com/2026/11/16/oif-violence-in-south-africa-and-ebola-in-the-drc-your-news-roundup-africanews-today",
     "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher",
     "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
     "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
@@ -9,6 +10,8 @@
     "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
     "https://gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
     "https://gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
+    "https://gov.uk/government/speeches/protection-of-civilians-must-be-at-the-heart-of-myanmars-future-uk-statement-at-the-un-third-committee",
+    "https://gov.uk/government/speeches/the-dprk-must-cooperate-with-un-human-rights-mechanisms-uk-statement-at-the-un-third-committee",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-qatari-foreign-ministers-discuss-efforts-de-escalate-regional",
     "https://militarnyi.com/uk/news/estoniya-dyversiya-rf-threod-systems",
     "https://militarnyi.com/uk/news/frantsuzki-vijskovi-pratsyuyut-v-ukrayini",
@@ -16,7 +19,6 @@
     "https://militarnyi.com/uk/news/myslyvets-na-shahedy-spys-onovyly",
     "https://militarnyi.com/uk/news/na-alabuga-50-afrykanok-vyrobnytstvo-shahed",
     "https://militarnyi.com/uk/news/poblyzu-rumuniyi-drony-try-tsyvilni-sudna",
-    "https://militarnyi.com/uk/news/spacex-povernula-kosmichnj-korabel-starship",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeXlqSGkyMnNCbnAxcDEtRlcwcG5IOHRvd09vc2gtZWJMOUtiZE1UeHhJNGlnVkw2cTNpR2ZQUzFNc2lLTVpWbWdTOXFLUWNPbnZHLVM1MUl2YmhuQ3ZBRF8tTG5hVDktWXhWaFlHUEI3YzZteG5mU011ZFViRFh2ek5YWWRtQmVFc1FtM2lVaWtJU2FsM08wUmVhc0JsZnlENVpHb2k5UlFXYWFtMlA4Mno3bkRHWGp2dERweVluUXFGN0xudGQ5TTRkOFNvOWhO",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWk0ycDVKQ296QV9DcU5nY2M3cmRKQ1lzVzkzYXFnMHgtakUwRF9JeDN2R0xsRE5aeWRTRlBwenh1V0VHN0h4RWdSaDNRaFZRVDlCRVM0Z3R5T0ItR2pmeXZSTW5reXJtRjRTQnF4UEFENUpGSnFsRGNDUWtLZktmQUwyWWt0Nng3cFZ3eVZZd28wYjM2YWdhRkxycW4yTER0NlgxdWVzMHlUdkwzWTdyaThsN1RmQlhnUHdweDlJMENWazlLeGJ1RTExbjkxY3dZbFHSAdcBQVVfeXFMT0lCMkJ1Q2FCSHE4YkhILW9GQUVGZ0NDLWxoN2IyMnFVNGlPNzN3UXNoSUxwUl9veE9jVmFxSUZseDhPdnI5aGhzdS1tVU5kaGtmb2J4VjdEZEFLOXBkaUMyQzk4QnNQZW1QSEFvOVFkVG9rWkdfVzFQNG5FN3dJYi05SFQyQ1Q5MGd1c0M5WEctTWE2c0xXbi00NG01RjVkZ0ZBWHVmQmFJYlYwSkxGZWVrckxCU2NURGxBTTdkaFFwSHF4U1NwU01jWVRkeVNkcDkyOGprMWc",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEZKbXlMdWFwZ2hsU2RPYm1mWEJqaHZjdTFMbnBkbHRrLXJ4bE80eFJ2aElSaHNhZE9Mbk1vWnlySFAwelpmZ1RxQ3R6ODROMFo0ZDQ2ekRSSkFKLXBJdlllNi0zSDhXbTZmakh4MmZOQW1NRnZzTHdMUVdhTmxrOVpGMjM3WWxvSGFzcGNySXBybWNXaFVROFRnUlpBQkoxZTNxaWk4YThwcjNKV2xZWGZGYWFvbFZBLVh5RVd3WWc4Ukl0TDdzSl9Fc3IwMXpyam53clNFQmg",
@@ -31,8 +33,10 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NxMnlQSGZnVVdSel8tZVI4bHliSzd0Y2FDSVRkWXhObFJIVjhwWERyWS1FdmxBa1d6bnMyNzJfMkNKNWRxQ0VHVExQY2ZVVWdBZGRCa2RkaEhVQjNqWjU3RkJTVFlOVWlobHd3NVhLOW5heXB2YnhYV2Zhd0tydTlWTnIwc2FrVWV2VXc4ZHZvRGZEVlE",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWUzY05sLUVERkEyUE4zaXZOV1g0bG9qUHd2Q3luakUtN1ZuOThwNU9USzlZb1hFbko5dzhjZm5VTFRrUkgwTzdGbWxMRWswQmtLMnpRbFBUUW9YR2NIcXRYZzc3aEYwTE1sX1lmLWV4ZGdrTGZXMzlXT2xvTUlnVzNzdDUxTnBfNWdJT3BVTk5fbHBwbmJEbDNlZHN0Zw",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWJFT09ZY3BnOWtrd2hoQnNoZ2dLU0RUby1Cc3lOcl9QOFpjWW1MYTc3YzJ3VWw1WFZPVFRGWEFhS2pLeDZKOVBLVHlTdURPLXZMOGVoSFdfQXBrQ1liR2gta1lzS2RmVmlGVGM2TldqTnFqTmZKWG9tRXhJVjlGM2U0RnRWTWF1azJLUU9hY1JqOWtEcUtBclNVZzRkT0FBSTE0VDJn",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVhYaEJMUmtqR1BvWTJ2Y19UbmZ0WXNqM08tUFQtUVRUV3BnRXBVQ19HemtuaE9QOWxrUTlOSVExWW1zelptSnR0ZERlc3ZHRXE4WFFUVWxjMFZORkpvdmRtYURSMnBYMGdrVGhzSkFCUnJhSGRFcV9aSVhPeEpEMTh5WmhXNDU4MHMxdm12SldtQUV1YU00VjI5cVVvWk5oR0g0NVNUYVBadTg",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FsVG8tZ3YxSnNSWkg4Wnhqa3pqUlRkbzFpZC1yZWtzRk5BdUdWNXdFTzNJN2VvaWlVVHJGTThkcXpMWlhlbkdfZUYwS2RoV0h2bzh0NXA4ZnkzWjdiSURlXzQzeUFZYXd4aFV6OGtYbzY4N1p4N0VtWnNSV3cwN2gxa18zX0dNV0hVcFZCRkpoWlM0NVE5S1hLaG9pYThjTUN6cnVTUUhFOXlrc190V0p0SkJ3X1JNYXc",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVJPOFg0ZTNTdmxkQWN1cVdGQ1dVZmFNX0N6VjduVGpXLVJTNmpINHFXZlp2WmFzcWd1TUJQQzExS2xCdU91ZlBfOUdzRjF0aThKaGFLSEpzaEpSNVpEOVpoUnd6V3ctTGx3MnJDc2JjUm5vU01hcjhXY2dWX3JwOWc3RmNmelN0dnROT2VRZ0NkSC1tNnB1TUhZbHRQUTRNQUdOLUtqSmZmT3A5VDhON2FZNGcwenl6THVRdjZ6SWHSAcYBQVVfeXFMTUU1TUFBZ2NZbk9LTmJzTF9Kc3k4X204LVNRWkt0NGFfRDhMaFBWTDd3RDB3WU0yVDBKZWRUcXUyZHFfZThLR2RkRWtINk1UM2VBVnh2ZHFVSzZfR0ZHMGJiMkpvRkktWmZPMmk0N3lVR1UzUkRLS2lXSkFvRGtmUmRtYmtqenVrZjc4ZUZ3akNWRjQ0b0RuX1V3QXVqeUdGakN0SmdvUk9fTElWVC1PR3dFWHRGTzNDdVZtemF4WU8zeWM1c3JR",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktmbHNIWi1DbHl3WE5wajJhRmx1TDNxdWxaNWg0SzNsaDFMR2JFMEh6RTVIU1h6WUR5MW1WbXdpckIwSXV5OGRPVktKWGhaM21vSjhIZUo2WFF5SmFfb1pzaDRZekNhZDMwZnVnSmkyeEMtUEotQXJvRGF4Nkd6MktOVEU2RXRPbmVPN3dOREdWQzJHNV9Kdm1GUzNWbzJSTGdHMmluZWZJcWQwdVpxeWdxcURfQW9ZbW1qUC0zcDFOd0haeVVhd3Q5UEx2ZDQ",
     "https://twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
     "https://twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
@@ -41,26 +45,6 @@
     "https://twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time"
   ],
   "recent_posts": [
-    {
-      "title": "Саміт Франкофонії в Камбоджі розпочався на тлі африканських напруженостей",
-      "original_title": "Francophonie summit opens in Cambodia overshadowed by African tensions",
-      "summary": "У Камбоджі відкрився саміт Франкофонії, який проходить на тлі африканських напруженостей через позицію Демократичної Республіки Конго. ДР Конго виступає проти намірів Луїзи Мушіківабо з Руанди балотуватися на третій термін очільниці організації та погрожує вийти з її складу в разі її переобрання.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/11/15/francophonie-summit-opens-in-cambodia-overshadowed-by-african-tensions",
-      "published": "2026-11-15T09:31:42+00:00"
-    },
-    {
-      "title": "SpaceX вперше повернула Starship на стартову площадку після орбітальної місії",
-      "original_title": "SpaceX уперше успішно повернула космічний корабель Starship після орбітальної місії",
-      "summary": "Starship Ship 42 здійснив 14 орбітальних обертів, провів 22,5 години в космосі та завершив політ вертикальним спуском у механічні захвати Mechazilla в Техасі. Під час польоту випробувано оновлений тепловий захист – зміцнені керамічні плитки та нові кріплення, що знижують ризик відриву та проникнення плазми. Успішне повернення першого ступеня та розгортання 26 супутників Starlink V3 підвищують потенціал швидкого розгортання широкосмугових мереж у військових та цивільних операціях.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/spacex-povernula-kosmichnj-korabel-starship",
-      "published": "2026-11-15T09:34:35+00:00"
-    },
     {
       "title": "Перший у світі шостипоколінний бомбардувник представив нове таємниче озброєння",
       "original_title": "Перший у світі бомбардувальник шостого покоління тепер вперше випустив таємниче озброєння - Defense Express",
@@ -232,6 +216,16 @@
       "published": "2026-11-16T09:12:09+00:00"
     },
     {
+      "title": "Міжнародна організація Франкофонії відклала голосування щодо генерального секретаря",
+      "original_title": "OIF, violence in South Africa and Ebola in the DRC: your news roundup [Africanews Today]",
+      "summary": "Міжнародна організація Франкофонії (OIF) прийняла рішення відкласти голосування щодо обрання свого генерального секретаря на один рік. Такий крок було здійснено на тлі ескалації напруженості у відносинах між Демократичною Республікою Конго та Руандою. Організація зосередилася на врегулюванні дипломатичних розбіжностей між країнами-учасницями перед проведенням виборчих процедур на вищу посаду.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/11/16/oif-violence-in-south-africa-and-ebola-in-the-drc-your-news-roundup-africanews-today",
+      "published": "2026-11-16T09:54:37+00:00"
+    },
+    {
       "title": "ВВП Японії у 3‑му кварталі скоротився на 0,1%",
       "original_title": "Japan's Q3 GDP Shrinks 0.1%: A Blip or Warning for ETF Investors? - TradingView",
       "summary": "У третьому кварталі 2023 р. Валовий внутрішній продукт Японії знизився на 0,1 % порівняно з попереднім періодом, що свідчить про скорочення економічної активності в країні.",
@@ -250,6 +244,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdTM3VXJWWEZremRiRGdTSmtrVW9QdVBISmJlbVV4UFZyZVU4RlFRTVdwMDJFSFRiNjFUQ2NNYVlIOWNIcG5KUG5pbjUySDZhZV92VW95YlNmU0Y0TXN3cUQ1UWpaRVBJWWtLUWVhQ3lCUFVlNngyZHhR",
       "published": "2026-11-16T16:19:43+00:00"
+    },
+    {
+      "title": "Велика Британія закликала КНДР співпрацювати з механізмами ООН з прав людини",
+      "original_title": "The DPRK must cooperate with UN human rights mechanisms: UK Statement at the UN Third Committee",
+      "summary": "У Третьому комітеті ООН заступниця голови політичного та правозахисного відділу місії Великої Британії при СОТ, ООН та інших міжнародних організаціях Анна Барт виступила із заявою щодо КНДР. Британська сторона висловила глибоку занепокоєність систематичними та масштабними порушеннями прав людини в країні, обмеженнями фундаментальних свобод, використанням примусової праці та пріоритетним фінансуванням військових і ядерних програм на тлі нехтування добробутом населення. Велика Британія закликала Пхеньян повністю співпрацювати з правозахисними акторами ООН та забезпечити їм доступ до країни.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-dprk-must-cooperate-with-un-human-rights-mechanisms-uk-statement-at-the-un-third-committee",
+      "published": "2026-11-16T16:58:43+00:00"
+    },
+    {
+      "title": "Гілберта Хунгбо переобрано головою Міжнародної організації праці на другий термін",
+      "original_title": "Gilbert Houngbo re-elected to lead UN labour agency for second term",
+      "summary": "Колишнього прем'єр-міністра Того Гілберта Хунгбо переобрано на другий п'ятирічний термін на посаді керівника Міжнародної організації праці (МОП), що є спеціалізованою агенцією ООН. Переобрання відбулося після того, як його єдиний суперник, міністерка праці Іспанії, зняла свою кандидатуру в останню хвилину. Хунгбо заявив про готовність продовжувати роботу агенції у сфері захисту прав працівників та регулювання трудових відносин у світі.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/11/16/gilbert-houngbo-re-elected-to-lead-un-labour-agency-for-second-term",
+      "published": "2026-11-16T17:40:59+00:00"
     },
     {
       "title": "Французькі інструктори готують українських військових до Mirage 2000",
@@ -300,6 +314,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWUzY05sLUVERkEyUE4zaXZOV1g0bG9qUHd2Q3luakUtN1ZuOThwNU9USzlZb1hFbko5dzhjZm5VTFRrUkgwTzdGbWxMRWswQmtLMnpRbFBUUW9YR2NIcXRYZzc3aEYwTE1sX1lmLWV4ZGdrTGZXMzlXT2xvTUlnVzNzdDUxTnBfNWdJT3BVTk5fbHBwbmJEbDNlZHN0Zw",
       "published": "2026-11-16T18:17:10+00:00"
+    },
+    {
+      "title": "Велика Британія в ООН закликала захистити цивільних у М'янмі",
+      "original_title": "Protection of civilians must be at the heart of Myanmar’s future: UK Statement at the UN Third Committee",
+      "summary": "У Третьому комітеті ООН в Нью-Йорку політична радниця з прав людини постійного представництва Великої Британії Олівія Гед виступила із заявою щодо М'янми, зазначивши, що через п'ять років після військового перевороту країна перебуває в кризі. Вона наголосила на стражданнях цивільних від авіаударів, примусового набору та сексуального насильства, а також закликала зупинити насильство, забезпечити безперешкодний гуманітарний доступ та підтримала роботу Незалежного механізму розслідувань і Міжнародного суду ООН.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/protection-of-civilians-must-be-at-the-heart-of-myanmars-future-uk-statement-at-the-un-third-committee",
+      "published": "2026-11-16T18:24:32+00:00"
     },
     {
       "title": "Велика Британія на Раді Безпеки ООН закликала до інклюзивного політичного процесу в Сирії",
@@ -402,6 +426,16 @@
       "published": "2026-11-17T00:26:47+00:00"
     },
     {
+      "title": "Україна проводить мирні переговори зі США та Європою",
+      "original_title": "Ukraine holds peace talks with US, Europe as conflict escalates - Al Jazeera",
+      "summary": "Україна проводить мирні переговори зі США та європейськими партнерами на тлі ескалації конфлікту. Подія стосується дипломатичних контактів на найвищому рівні між державами, що відповідає критеріям міжнародних переговорів.",
+      "source": "Bilateral Meetings",
+      "publisher": "Al Jazeera",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
+      "published": "2026-11-17T00:45:44+00:00"
+    },
+    {
       "title": "Сенат представив законопроект про оборонний бюджет у $1,1 трлн, включивши пріоритети узгодження",
       "original_title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
       "summary": "Сенат пропонує майже $1,1 трлн на оборону у 2027 фінансовому році, що значно менше запиту адміністрації Трампа у $1,5 трлн. У проєкті зберігаються $69 млрд, спочатку запитані як одноразове обов'язкове фінансування, перетворені у дискреційні кошти, а також спроби включити пріоритети узгодження, такі як програма DAWG та проєкт Golden Dome. Це може обмежити масштаб фінансування нових технологічних ініціатив, залишаючи їх залежними від подальших законодавчих рішень.",
@@ -430,6 +464,16 @@
       "channel": "miltech",
       "link": "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
       "published": "2026-11-17T01:32:51+00:00"
+    },
+    {
+      "title": "Таїланд та М'янма підписали ослаблену угоду про забруднення річок",
+      "original_title": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent - news - Mongabay",
+      "summary": "Таїланд та М'янма підписали міжнародну угоду щодо контролю забруднення спільних річок. Згідно з матеріалом Mongabay, документ зазнав послаблення перед фінальним підписанням, що зменшило його ефективність. Китай, який також є учасником регіональних водних процесів, залишився мовчазним щодо цього кроку. Ця подія є конкретним дипломатичним рішенням двох держав у сфері екологічної безпеки та трансграничного співробітництва.",
+      "source": "Treaties & Agreements",
+      "publisher": "news - Mongabay",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVJPOFg0ZTNTdmxkQWN1cVdGQ1dVZmFNX0N6VjduVGpXLVJTNmpINHFXZlp2WmFzcWd1TUJQQzExS2xCdU91ZlBfOUdzRjF0aThKaGFLSEpzaEpSNVpEOVpoUnd6V3ctTGx3MnJDc2JjUm5vU01hcjhXY2dWX3JwOWc3RmNmelN0dnROT2VRZ0NkSC1tNnB1TUhZbHRQUTRNQUdOLUtqSmZmT3A5VDhON2FZNGcwenl6THVRdjZ6SWHSAcYBQVVfeXFMTUU1TUFBZ2NZbk9LTmJzTF9Kc3k4X204LVNRWkt0NGFfRDhMaFBWTDd3RDB3WU0yVDBKZWRUcXUyZHFfZThLR2RkRWtINk1UM2VBVnh2ZHFVSzZfR0ZHMGJiMkpvRkktWmZPMmk0N3lVR1UzUkRLS2lXSkFvRGtmUmRtYmtqenVrZjc4ZUZ3akNWRjQ0b0RuX1V3QXVqeUdGakN0SmdvUk9fTElWVC1PR3dFWHRGTzNDdVZtemF4WU8zeWM1c3JR",
+      "published": "2026-11-17T03:40:30+00:00"
     }
   ]
 }

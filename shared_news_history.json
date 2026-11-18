@@ -6,7 +6,6 @@
     "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
     "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
     "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
-    "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
     "https://consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition",
     "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
     "https://defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
@@ -14,10 +13,10 @@
     "https://defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role",
     "https://defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing",
     "https://defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
-    "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
     "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
     "https://defensescoop.com/2026/11/17/space-industrial-base-stretched-thin-gao-report",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+    "https://gov.uk/government/speeches/the-uk-further-welcomes-the-strengthened-cooperation-between-the-office-of-the-prosecutor-and-the-libyan-authorities-uk-statement-at-the-un-security-c",
     "https://middleeasteye.net/news/uk-imposes-sanctions-eight-israeli-firms-and-group-blocking-gaza-aid",
     "https://militarnyi.com/uk/news/reaktyvnyj-an-197-na-kerchenskyj-mist",
     "https://militarnyi.com/uk/news/skyctrl-adaptuyut-dosvid-ukr-vijskovyh",
@@ -29,6 +28,8 @@
     "https://navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnQ0ejZCMEtrWC0wQTE3V05tZTFUSF8zdElpVmJvOFFvR0phWFFQVVcyOFdPaS02X3BzalIwVmNkRGdva1hJektxSjlVQTZIWE9oYnNodk50bTkwa0JwT1RZa1JVN1RSRUFOYkRLV1FVczJieXp4SW9Yc3lYQXNxSTdDQkFlRUJUSlNFQnJzOUtPaTJTUlkzODA0ZnVyVUNhakw2RWpjUndEc1k0eGdDaGZZX19sTFlwU2NURi0tZHloQzJwQWF6ZW1iQ3JXalFkUEt4ZTNhRVNsdw",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTWZ1VVlkZjRuNVZpWnhxLXRaZUU4QVpjLXRKcm8xVTdYalU0LVBJVWQ5dmNYel9nOVhPaERVck1BT25WazVMV044RmlJMEJjdHVkYjc0a0YwOWRxMkVEMWZKenBnSndNdWZWbXY4c3ZLRmhDMHZMVkxGUWpvMFJQWXRhWWJBVEg3SzY1LXdVNzZETmstbG9wVjZJR1hFbUMzbW5oaFh6XzQtU2tCaGkyRWJFYnZFQzI1MC1PREJFWXhfb0wybWk4bFgwSGxnU1hsT1BFM2Rjd0dydGgybmJVVjc4Vl9zSTFaLWc",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWVRuaHFYdDlCZDJENzhBUW9mOXNRb012RDd1VlVzSXhjRUtqQzRpNFN6VGgteE1KVDNNNG42OG5IaTRXRkdBajlNVldxUXZJWXF2c0U2Wi1tb1hHcUoydTlTM3N2NTZXRnc",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRDbHF4WmNiUHNYODhMTUI0TVR0MU92dDN2R3BqNUlBa3ZROFNJWUgtSWxxLTRwUER0ZXRWQzczNEJiWUs2dHhiQVVWWk1XWlpOSlRza2NhaXFtNlZ2WFE5Ul94R0J6RmNQZGZHbjNRX3VKQnhvUmtMZElOMlVMSA",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNLdUFYVWotSVJuaXBZR3Npc3MxWjR3MlVNLWRUOTRmamhKTXo2MElJdmR1NjdmMzdxOHlFbkdOREpPVF9UVTdmQ2VQS1FYeUVVY3lXZTA4SHhPQzZ1UWFGdy1pcEVPbHNmcWlfU1dXbVdRLWxWM1lfNVZkSG9keEFzWV94TlcwajFXbzNleDFCME96ZUE",
@@ -36,70 +37,17 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaC0tam43bU5vUXNHVG04V0FRR0V6b0dramFnMlJhNFVhZXpyNkc0b3JPSEctaHRqYVdsTkZBQnhNa1pJZG1kNGpjZUFUcnhCMy0yczY0aW1KUzczNXNZWlI4RzlzMk5BYmdrRmRlanBMWVA1LXgyaEVGM3FNTnc3RWlTSXB6bDRtSVhNanNoZ2d4VTJwQUtGcTVxa0g",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGhEd0E5Z2thZVJFNms0bW1PRGlWTmNVV2x4UFo3andub1YxWHhWTEtnUGNKQ0NwdUhnYW5LWXNyX0lCZVI3S01rbDcwZVpwWjZ0alFFMG8ycW5JZG9QVVhzdm0tU294MWp4eDdVYUplTHdDVGpfMG1hcmFyRDBTRjNvTGpoR0NFZFQ5eU1RQWQ5TXNRVTRTc2ZZNTY",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkRYSllmM3EtbE1OMmFMOVM0dENlakJGa3NFbXBZd3MyT3FnSkJSMUljV2J6RE5pVG9Ed2NqbUF0Y2tiVGVyWjlHM0ZMa3JrdnJ3OWFaX3pJQ0JubjlSdUozMjhUdm1INjliS3dkOWVkUk41VzU3VHRrZ24yb1F0QXZ4My1ZRnFpTnliMmp4SDY0Q0IxeTNZLVExeDNaSVJBbFQ4UlVn",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVkzNDQ1SURHUl9tc0VFTFB0U1U0eHVzcTZtcVN2MXY0aHhNd3YwQ3pHVXFDVm9JU1NibXIyMHVMS25lVmFuV1c0SFhtdWtBcXJnMWFRTXI1bkZ3R1B1YWFVdzVHSlhWM0YweGFsWk1ROFRNUm5WQ25FUDNOM2N5V1JmQmlZM280ZEJnMFE2R0VybTk2akx3QWxTZl9VQjdVellFMkZhd3JScHQ1",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUpTczMtY1B3Yk9qaEpSUUJLSzlmeVRkMHdpWUxKaXpCTnNUUVRwQld2M1VYc2tmbzhqTE5VcWJEemNkOVZzeGRXLVFjNVFuZEJfRkRUNm12XzJ2WnpCeXcxYnFaM1FuZmhxR2hoUGoyZXgyamdNc2RZZWRXSUMwdGlXcHlDZGFMaURobkFWcVRwZ3V6S1ZZOURiWlFpdGQ1X195ZDM1X3ZwbGxPcUhtSFdRRQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEVZVW91LThiQ3VsNzRHRlc2cmo4WEs3WXdmYXBNdFZ5ZjlBQ3dEQi1adHIyYk9VMkJWM242VnNVa18ydGZPQ0xvcEQtRVlQRy1hZDVjS3lGTUloQTBna2xfM1p6RTBJaUg5c2V0cDI5RUl4U1lrX1BWd3ptNXAtWHI2Y1ZWYzY2NHR4amNPOEhpUHVsSkRQN01ySkNQaE9tdWVLMnlNSlpYRlNuY1l0Y0ZMMkVBcjFh",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVJPOFg0ZTNTdmxkQWN1cVdGQ1dVZmFNX0N6VjduVGpXLVJTNmpINHFXZlp2WmFzcWd1TUJQQzExS2xCdU91ZlBfOUdzRjF0aThKaGFLSEpzaEpSNVpEOVpoUnd6V3ctTGx3MnJDc2JjUm5vU01hcjhXY2dWX3JwOWc3RmNmelN0dnROT2VRZ0NkSC1tNnB1TUhZbHRQUTRNQUdOLUtqSmZmT3A5VDhON2FZNGcwenl6THVRdjZ6SWHSAcYBQVVfeXFMTUU1TUFBZ2NZbk9LTmJzTF9Kc3k4X204LVNRWkt0NGFfRDhMaFBWTDd3RDB3WU0yVDBKZWRUcXUyZHFfZThLR2RkRWtINk1UM2VBVnh2ZHFVSzZfR0ZHMGJiMkpvRkktWmZPMmk0N3lVR1UzUkRLS2lXSkFvRGtmUmRtYmtqenVrZjc4ZUZ3akNWRjQ0b0RuX1V3QXVqeUdGakN0SmdvUk9fTElWVC1PR3dFWHRGTzNDdVZtemF4WU8zeWM1c3JR",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXktd0w4ajdTTjZ2UG42QXRGcHZ1VXgwdUw4MGJkM2VhQzA1c1pGRGZCenpHR0QzNlhOWTZySl9PTmxpNC1fNl96ZlprRGNnRFZoTnQwTG4tLXZNMHVwWkdLNFpoNmN1VXRyRllZcWsyZS0wSXFXaU1vNEp0WUxmbjdmSmV2aDFBX2xyLVBRckMtclJ4cndqcThoU3Y4MWpNUXlkNGd1eVdOdi1xMXFoN3ZLM2w5cW5WMGl2VVJscnVmamc",
     "https://theafricareport.com/436739/nigeria-south-africa-a-chastened-fani-kayode-meets-the-limits-of-loud-diplomacy",
-    "https://twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
     "https://twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
-    "https://twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
     "https://twz.com/news-features/these-are-the-weapons-ukraine-used-to-drop-the-kerch-bridge",
     "https://twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair"
   ],
   "recent_posts": [
-    {
-      "title": "Перші F-15EX Eagle II прибули до бази Кадена в Японії, 25 вже доставлені ВПС",
-      "original_title": "First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The USAF",
-      "summary": "У США дві новітні винищувачі F-15EX Eagle II були розгорнуті на авіабазі Кадена (Окінава) — перший випадок їх постійного розташування за межами США. Саме ці літаки (EX‑22 і EX‑23) входять до 22‑ї та 23‑ї одиниць серії, а загальна кількість доставлених до ВПС вже досягла 25, з планом розмістити 36 у Японії. Розгортання підвищує обороноздатність підрозділу 18‑го крила, забезпечуючи регіональну перевагу завдяки високій маневреності, дальності польоту та можливостям сучасних електронних систем F-15EX.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
-      "published": "2026-11-17T00:26:47+00:00"
-    },
-    {
-      "title": "Україна проводить мирні переговори зі США та Європою",
-      "original_title": "Ukraine holds peace talks with US, Europe as conflict escalates - Al Jazeera",
-      "summary": "Україна проводить мирні переговори зі США та європейськими партнерами на тлі ескалації конфлікту. Подія стосується дипломатичних контактів на найвищому рівні між державами, що відповідає критеріям міжнародних переговорів.",
-      "source": "Bilateral Meetings",
-      "publisher": "Al Jazeera",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
-      "published": "2026-11-17T00:45:44+00:00"
-    },
-    {
-      "title": "Сенат представив законопроект про оборонний бюджет у $1,1 трлн, включивши пріоритети узгодження",
-      "original_title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
-      "summary": "Сенат пропонує майже $1,1 трлн на оборону у 2027 фінансовому році, що значно менше запиту адміністрації Трампа у $1,5 трлн. У проєкті зберігаються $69 млрд, спочатку запитані як одноразове обов'язкове фінансування, перетворені у дискреційні кошти, а також спроби включити пріоритети узгодження, такі як програма DAWG та проєкт Golden Dome. Це може обмежити масштаб фінансування нових технологічних ініціатив, залишаючи їх залежними від подальших законодавчих рішень.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
-      "published": "2026-11-17T01:17:58+00:00"
-    },
-    {
-      "title": "Керченський міст зазнав другого удару за 24 години",
-      "original_title": "Kerch Bridge Struck For The Second Time In Less Than 24 Hours: Russia",
-      "summary": "У другий раз за менше ніж добу українські сили здійснили удар по Керченському мосту, про що повідомив головний Криму Сергій Аксьонов. За його словами, внаслідок удару транспорт на мосту зупинено, а можливе пошкодження арху може ускладнити постачання військових ресурсів між Росією та окупованим Кримом. Якщо підтвердиться серйозна деформація конструкції, це може стати стратегічним ускладненням для російської логістики у регіоні.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
-      "published": "2026-11-17T01:24:43+00:00"
-    },
-    {
-      "title": "Пентагон змінює стратегію фінансового аудиту завдяки War Data Platform",
-      "original_title": "Major changes to Pentagon’s financial auditing strategy hinge on War Data Platform",
-      "summary": "Пентагон відмовився від традиційної методики аудиту, об’єднавши 25 окремих аудиторських висновків у вісім широких звітів і перейшовши на використання War Data Platform для консолідації даних. Аудит тепер буде проводитися незалежною публічною бухгалтерською фірмою, що має приватний досвід і інструменти, а ціль — отримати чисту фінансову думку до 2028 року. Це має підвищити прозорість витрат оборони та спростити управління бюджетом.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
-      "published": "2026-11-17T01:32:51+00:00"
-    },
     {
       "title": "Таїланд та М'янма підписали ослаблену угоду про забруднення річок",
       "original_title": "Thailand-Myanmar river pollution agreement was weakened, then signed. China remains silent - news - Mongabay",
@@ -511,6 +459,26 @@
       "published": "2026-11-18T15:49:03+00:00"
     },
     {
+      "title": "Велика Британія привітала співпрацю Офісу прокурора МКС із владою Лівії в ООН",
+      "original_title": "The UK further welcomes the strengthened cooperation between the Office of the Prosecutor and the Libyan authorities: UK statement at the UN Security Council",
+      "summary": "У Раді Безпеки ООН юридичний радник Колін Макінтайр представив позицію Великої Британії щодо Лівії, підтвердивши підтримку Міжнародного кримінального суду як незалежної інституції. Лондон привітаў прогрес Офісу прокурора МКС, зокрема затвердження всіх 17 звинувачень у воєнних злочинах та злочинах проти людяності проти Халеда Мохамеда Алі Ель Хішрі і передачу його справи до суду. Велика Британія також відзначила посилення співпраці між Офісом прокурора та лівійською владою після декларації Лівії за статтею 12(3) Римського статуту в травні 2025 року та її запиту про допомогу в національному розс",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/speeches/the-uk-further-welcomes-the-strengthened-cooperation-between-the-office-of-the-prosecutor-and-the-libyan-authorities-uk-statement-at-the-un-security-c",
+      "published": "2026-11-18T16:28:41+00:00"
+    },
+    {
+      "title": "Рада ЄС схвалила підписання торговельних та інвестиційних угод з Індонезією",
+      "original_title": "EU-Indonesia: Council greenlights signature of landmark trade and investment agreements - Council, European Union",
+      "summary": "Рада Європейського Союзу офіційно дала зелене світло на підписання знакових торговельних та інвестиційних угод між Європейським Союзом та Індонезією. Це рішення є важливим кроком у зміцненні двосторонніх економічних та дипломатичних відносин між сторонами, а також у розвитку міжнародної торгівлі та інвестиційного співробітництва на міждержавному рівні.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTWZ1VVlkZjRuNVZpWnhxLXRaZUU4QVpjLXRKcm8xVTdYalU0LVBJVWQ5dmNYel9nOVhPaERVck1BT25WazVMV044RmlJMEJjdHVkYjc0a0YwOWRxMkVEMWZKenBnSndNdWZWbXY4c3ZLRmhDMHZMVkxGUWpvMFJQWXRhWWJBVEg3SzY1LXdVNzZETmstbG9wVjZJR1hFbUMzbW5oaFh6XzQtU2tCaGkyRWJFYnZFQzI1MC1PREJFWXhfb0wybWk4bFgwSGxnU1hsT1BFM2Rjd0dydGgybmJVVjc4Vl9zSTFaLWc",
+      "published": "2026-11-18T16:37:30+00:00"
+    },
+    {
       "title": "Польські радіолокації SKYctrl модернізують за досвідом українських військових",
       "original_title": "Польські радари SKYctrl адаптують до сучасної війни завдяки досвіду українських військових",
       "summary": "Українські інженери та військові допомагають адаптувати радіолокаційні системи APS SKYctrl до умов сучасної війни, підвищуючи їхню здатність виявляти безпілотники в складних погодних умовах і супроводжувати ціль під час маневру. Понад 200 радарів вже експлуатуються в Україні, їх інтегрують з вітчизняними протидроновими турелями Sky Sentinel та розглядають можливість встановлення на морських безекіпажних платформах. Це розширює можливості ППО, забезпечуючи раннє попередження та постійний трекінг цілей, що підвищує ефективність знищення ворожих дронів.",
@@ -529,6 +497,16 @@
       "channel": "miltech",
       "link": "https://army-technology.com/news/ukraine-submits-defence-list-for-european-funding-approval",
       "published": "2026-11-18T17:01:14+00:00"
+    },
+    {
+      "title": "Трамп і Сі планують зустріч у Китаї на тлі напруженості навколо штучного інтелекту",
+      "original_title": "Trump and Xi are set to meet in China amid tensions over AI. Here's what to know. - CBS News",
+      "summary": "Дональд Трамп і Сі Цзіньпін планують провести зустріч у Китаї. Основною темою переговорів мають стати наявні напружені відносини та розбіжності між державами, зокрема питання, що стосуються сфери штучного інтелекту. Подія передбачає дипломатичні дискусії на найвищому рівні між лідерами двох країн.",
+      "source": "Bilateral Meetings",
+      "publisher": "CBS News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWVRuaHFYdDlCZDJENzhBUW9mOXNRb012RDd1VlVzSXhjRUtqQzRpNFN6VGgteE1KVDNNNG42OG5IaTRXRkdBajlNVldxUXZJWXF2c0U2Wi1tb1hHcUoydTlTM3N2NTZXRnc",
+      "published": "2026-11-18T20:22:00+00:00"
     }
   ]
 }

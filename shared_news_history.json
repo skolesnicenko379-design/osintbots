@@ -1,31 +1,24 @@
 {
   "links": [
-    "http://africanews.com/2026/11/16/gilbert-houngbo-re-elected-to-lead-un-labour-agency-for-second-term",
+    "http://africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump",
     "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal",
     "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
     "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
     "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
-    "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher",
     "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
     "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
     "https://consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition",
     "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
     "https://defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher",
     "https://defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role",
-    "https://defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
     "https://defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing",
     "https://defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
-    "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off",
     "https://defensescoop.com/2026/11/16/pentagon-financial-auditing-strategy-war-data-platform",
     "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
     "https://defensescoop.com/2026/11/17/space-industrial-base-stretched-thin-gao-report",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-    "https://gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
-    "https://gov.uk/government/speeches/protection-of-civilians-must-be-at-the-heart-of-myanmars-future-uk-statement-at-the-un-third-committee",
-    "https://gov.uk/government/speeches/the-dprk-must-cooperate-with-un-human-rights-mechanisms-uk-statement-at-the-un-third-committee",
     "https://middleeasteye.net/live-blog/live-blog-update/saudi-qatari-foreign-ministers-discuss-efforts-de-escalate-regional",
     "https://middleeasteye.net/news/uk-imposes-sanctions-eight-israeli-firms-and-group-blocking-gaza-aid",
-    "https://militarnyi.com/uk/news/frantsuzki-vijskovi-pratsyuyut-v-ukrayini",
     "https://militarnyi.com/uk/news/myslyvets-na-shahedy-spys-onovyly",
     "https://militarnyi.com/uk/news/reaktyvnyj-an-197-na-kerchenskyj-mist",
     "https://militarnyi.com/uk/news/ssha-vpershe-rozgornuly-novitni-vynyshhuvachi-f-15ex-u-yaponiyi",
@@ -36,19 +29,18 @@
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEZKbXlMdWFwZ2hsU2RPYm1mWEJqaHZjdTFMbnBkbHRrLXJ4bE80eFJ2aElSaHNhZE9Mbk1vWnlySFAwelpmZ1RxQ3R6ODROMFo0ZDQ2ekRSSkFKLXBJdlllNi0zSDhXbTZmakh4MmZOQW1NRnZzTHdMUVdhTmxrOVpGMjM3WWxvSGFzcGNySXBybWNXaFVROFRnUlpBQkoxZTNxaWk4YThwcjNKV2xZWGZGYWFvbFZBLVh5RVd3WWc4Ukl0TDdzSl9Fc3IwMXpyam53clNFQmg",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnQ0ejZCMEtrWC0wQTE3V05tZTFUSF8zdElpVmJvOFFvR0phWFFQVVcyOFdPaS02X3BzalIwVmNkRGdva1hJektxSjlVQTZIWE9oYnNodk50bTkwa0JwT1RZa1JVN1RSRUFOYkRLV1FVczJieXp4SW9Yc3lYQXNxSTdDQkFlRUJUSlNFQnJzOUtPaTJTUlkzODA0ZnVyVUNhakw2RWpjUndEc1k0eGdDaGZZX19sTFlwU2NURi0tZHloQzJwQWF6ZW1iQ3JXalFkUEt4ZTNhRVNsdw",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdTM3VXJWWEZremRiRGdTSmtrVW9QdVBISmJlbVV4UFZyZVU4RlFRTVdwMDJFSFRiNjFUQ2NNYVlIOWNIcG5KUG5pbjUySDZhZV92VW95YlNmU0Y0TXN3cUQ1UWpaRVBJWWtLUWVhQ3lCUFVlNngyZHhR",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRDbHF4WmNiUHNYODhMTUI0TVR0MU92dDN2R3BqNUlBa3ZROFNJWUgtSWxxLTRwUER0ZXRWQzczNEJiWUs2dHhiQVVWWk1XWlpOSlRza2NhaXFtNlZ2WFE5Ul94R0J6RmNQZGZHbjNRX3VKQnhvUmtMZElOMlVMSA",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXNLdUFYVWotSVJuaXBZR3Npc3MxWjR3MlVNLWRUOTRmamhKTXo2MElJdmR1NjdmMzdxOHlFbkdOREpPVF9UVTdmQ2VQS1FYeUVVY3lXZTA4SHhPQzZ1UWFGdy1pcEVPbHNmcWlfU1dXbVdRLWxWM1lfNVZkSG9keEFzWV94TlcwajFXbzNleDFCME96ZUE",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaC0tam43bU5vUXNHVG04V0FRR0V6b0dramFnMlJhNFVhZXpyNkc0b3JPSEctaHRqYVdsTkZBQnhNa1pJZG1kNGpjZUFUcnhCMy0yczY0aW1KUzczNXNZWlI4RzlzMk5BYmdrRmRlanBMWVA1LXgyaEVGM3FNTnc3RWlTSXB6bDRtSVhNanNoZ2d4VTJwQUtGcTVxa0g",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGhEd0E5Z2thZVJFNms0bW1PRGlWTmNVV2x4UFo3andub1YxWHhWTEtnUGNKQ0NwdUhnYW5LWXNyX0lCZVI3S01rbDcwZVpwWjZ0alFFMG8ycW5JZG9QVVhzdm0tU294MWp4eDdVYUplTHdDVGpfMG1hcmFyRDBTRjNvTGpoR0NFZFQ5eU1RQWQ5TXNRVTRTc2ZZNTY",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWUzY05sLUVERkEyUE4zaXZOV1g0bG9qUHd2Q3luakUtN1ZuOThwNU9USzlZb1hFbko5dzhjZm5VTFRrUkgwTzdGbWxMRWswQmtLMnpRbFBUUW9YR2NIcXRYZzc3aEYwTE1sX1lmLWV4ZGdrTGZXMzlXT2xvTUlnVzNzdDUxTnBfNWdJT3BVTk5fbHBwbmJEbDNlZHN0Zw",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkRYSllmM3EtbE1OMmFMOVM0dENlakJGa3NFbXBZd3MyT3FnSkJSMUljV2J6RE5pVG9Ed2NqbUF0Y2tiVGVyWjlHM0ZMa3JrdnJ3OWFaX3pJQ0JubjlSdUozMjhUdm1INjliS3dkOWVkUk41VzU3VHRrZ24yb1F0QXZ4My1ZRnFpTnliMmp4SDY0Q0IxeTNZLVExeDNaSVJBbFQ4UlVn",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVhYaEJMUmtqR1BvWTJ2Y19UbmZ0WXNqM08tUFQtUVRUV3BnRXBVQ19HemtuaE9QOWxrUTlOSVExWW1zelptSnR0ZERlc3ZHRXE4WFFUVWxjMFZORkpvdmRtYURSMnBYMGdrVGhzSkFCUnJhSGRFcV9aSVhPeEpEMTh5WmhXNDU4MHMxdm12SldtQUV1YU00VjI5cVVvWk5oR0g0NVNUYVBadTg",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVkzNDQ1SURHUl9tc0VFTFB0U1U0eHVzcTZtcVN2MXY0aHhNd3YwQ3pHVXFDVm9JU1NibXIyMHVMS25lVmFuV1c0SFhtdWtBcXJnMWFRTXI1bkZ3R1B1YWFVdzVHSlhWM0YweGFsWk1ROFRNUm5WQ25FUDNOM2N5V1JmQmlZM280ZEJnMFE2R0VybTk2akx3QWxTZl9VQjdVellFMkZhd3JScHQ1",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUpTczMtY1B3Yk9qaEpSUUJLSzlmeVRkMHdpWUxKaXpCTnNUUVRwQld2M1VYc2tmbzhqTE5VcWJEemNkOVZzeGRXLVFjNVFuZEJfRkRUNm12XzJ2WnpCeXcxYnFaM1FuZmhxR2hoUGoyZXgyamdNc2RZZWRXSUMwdGlXcHlDZGFMaURobkFWcVRwZ3V6S1ZZOURiWlFpdGQ1X195ZDM1X3ZwbGxPcUhtSFdRRQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEVZVW91LThiQ3VsNzRHRlc2cmo4WEs3WXdmYXBNdFZ5ZjlBQ3dEQi1adHIyYk9VMkJWM242VnNVa18ydGZPQ0xvcEQtRVlQRy1hZDVjS3lGTUloQTBna2xfM1p6RTBJaUg5c2V0cDI5RUl4U1lrX1BWd3ptNXAtWHI2Y1ZWYzY2NHR4amNPOEhpUHVsSkRQN01ySkNQaE9tdWVLMnlNSlpYRlNuY1l0Y0ZMMkVBcjFh",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FsVG8tZ3YxSnNSWkg4Wnhqa3pqUlRkbzFpZC1yZWtzRk5BdUdWNXdFTzNJN2VvaWlVVHJGTThkcXpMWlhlbkdfZUYwS2RoV0h2bzh0NXA4ZnkzWjdiSURlXzQzeUFZYXd4aFV6OGtYbzY4N1p4N0VtWnNSV3cwN2gxa18zX0dNV0hVcFZCRkpoWlM0NVE5S1hLaG9pYThjTUN6cnVTUUhFOXlrc190V0p0SkJ3X1JNYXc",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVJPOFg0ZTNTdmxkQWN1cVdGQ1dVZmFNX0N6VjduVGpXLVJTNmpINHFXZlp2WmFzcWd1TUJQQzExS2xCdU91ZlBfOUdzRjF0aThKaGFLSEpzaEpSNVpEOVpoUnd6V3ctTGx3MnJDc2JjUm5vU01hcjhXY2dWX3JwOWc3RmNmelN0dnROT2VRZ0NkSC1tNnB1TUhZbHRQUTRNQUdOLUtqSmZmT3A5VDhON2FZNGcwenl6THVRdjZ6SWHSAcYBQVVfeXFMTUU1TUFBZ2NZbk9LTmJzTF9Kc3k4X204LVNRWkt0NGFfRDhMaFBWTDd3RDB3WU0yVDBKZWRUcXUyZHFfZThLR2RkRWtINk1UM2VBVnh2ZHFVSzZfR0ZHMGJiMkpvRkktWmZPMmk0N3lVR1UzUkRLS2lXSkFvRGtmUmRtYmtqenVrZjc4ZUZ3akNWRjQ0b0RuX1V3QXVqeUdGakN0SmdvUk9fTElWVC1PR3dFWHRGTzNDdVZtemF4WU8zeWM1c3JR",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXktd0w4ajdTTjZ2UG42QXRGcHZ1VXgwdUw4MGJkM2VhQzA1c1pGRGZCenpHR0QzNlhOWTZySl9PTmxpNC1fNl96ZlprRGNnRFZoTnQwTG4tLXZNMHVwWkdLNFpoNmN1VXRyRllZcWsyZS0wSXFXaU1vNEp0WUxmbjdmSmV2aDFBX2xyLVBRckMtclJ4cndqcThoU3Y4MWpNUXlkNGd1eVdOdi1xMXFoN3ZLM2w5cW5WMGl2VVJscnVmamc",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktmbHNIWi1DbHl3WE5wajJhRmx1TDNxdWxaNWg0SzNsaDFMR2JFMEh6RTVIU1h6WUR5MW1WbXdpckIwSXV5OGRPVktKWGhaM21vSjhIZUo2WFF5SmFfb1pzaDRZekNhZDMwZnVnSmkyeEMtUEotQXJvRGF4Nkd6MktOVEU2RXRPbmVPN3dOREdWQzJHNV9Kdm1GUzNWbzJSTGdHMmluZWZJcWQwdVpxeWdxcURfQW9ZbW1qUC0zcDFOd0haeVVhd3Q5UEx2ZDQ",
@@ -56,132 +48,11 @@
     "https://twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
     "https://twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
     "https://twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
-    "https://twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
     "https://twz.com/news-features/these-are-the-weapons-ukraine-used-to-drop-the-kerch-bridge",
     "https://twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time",
     "https://twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair"
   ],
   "recent_posts": [
-    {
-      "title": "ВВП Японії у 3‑му кварталі скоротився на 0,1%",
-      "original_title": "Japan's Q3 GDP Shrinks 0.1%: A Blip or Warning for ETF Investors? - TradingView",
-      "summary": "У третьому кварталі 2023 р. Валовий внутрішній продукт Японії знизився на 0,1 % порівняно з попереднім періодом, що свідчить про скорочення економічної активності в країні.",
-      "source": "Японія · монетарна політика",
-      "publisher": "TradingView",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FsVG8tZ3YxSnNSWkg4Wnhqa3pqUlRkbzFpZC1yZWtzRk5BdUdWNXdFTzNJN2VvaWlVVHJGTThkcXpMWlhlbkdfZUYwS2RoV0h2bzh0NXA4ZnkzWjdiSURlXzQzeUFZYXd4aFV6OGtYbzY4N1p4N0VtWnNSV3cwN2gxa18zX0dNV0hVcFZCRkpoWlM0NVE5S1hLaG9pYThjTUN6cnVTUUhFOXlrc190V0p0SkJ3X1JNYXc",
-      "published": "2026-11-16T15:02:00+00:00"
-    },
-    {
-      "title": "EU виплатив Росії €14,2 млрд за паливо у 2026",
-      "original_title": "The EU paid Russia €14.2 billion for fuel in the first nine months of 2026 - infographic - Mezha.net",
-      "summary": "За даними інфографіки Mezha.net, у перші дев'ять місяців 2026 року Європейський Союз сплатив Росії 14,2 мільярда євро за постачання палива. Це свідчить про значний обсяг енергетичних транзакцій між ЄС і Росією протягом зазначеного періоду.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Mezha.net",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdTM3VXJWWEZremRiRGdTSmtrVW9QdVBISmJlbVV4UFZyZVU4RlFRTVdwMDJFSFRiNjFUQ2NNYVlIOWNIcG5KUG5pbjUySDZhZV92VW95YlNmU0Y0TXN3cUQ1UWpaRVBJWWtLUWVhQ3lCUFVlNngyZHhR",
-      "published": "2026-11-16T16:19:43+00:00"
-    },
-    {
-      "title": "Велика Британія закликала КНДР співпрацювати з механізмами ООН з прав людини",
-      "original_title": "The DPRK must cooperate with UN human rights mechanisms: UK Statement at the UN Third Committee",
-      "summary": "У Третьому комітеті ООН заступниця голови політичного та правозахисного відділу місії Великої Британії при СОТ, ООН та інших міжнародних організаціях Анна Барт виступила із заявою щодо КНДР. Британська сторона висловила глибоку занепокоєність систематичними та масштабними порушеннями прав людини в країні, обмеженнями фундаментальних свобод, використанням примусової праці та пріоритетним фінансуванням військових і ядерних програм на тлі нехтування добробутом населення. Велика Британія закликала Пхеньян повністю співпрацювати з правозахисними акторами ООН та забезпечити їм доступ до країни.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/the-dprk-must-cooperate-with-un-human-rights-mechanisms-uk-statement-at-the-un-third-committee",
-      "published": "2026-11-16T16:58:43+00:00"
-    },
-    {
-      "title": "Гілберта Хунгбо переобрано головою Міжнародної організації праці на другий термін",
-      "original_title": "Gilbert Houngbo re-elected to lead UN labour agency for second term",
-      "summary": "Колишнього прем'єр-міністра Того Гілберта Хунгбо переобрано на другий п'ятирічний термін на посаді керівника Міжнародної організації праці (МОП), що є спеціалізованою агенцією ООН. Переобрання відбулося після того, як його єдиний суперник, міністерка праці Іспанії, зняла свою кандидатуру в останню хвилину. Хунгбо заявив про готовність продовжувати роботу агенції у сфері захисту прав працівників та регулювання трудових відносин у світі.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/11/16/gilbert-houngbo-re-elected-to-lead-un-labour-agency-for-second-term",
-      "published": "2026-11-16T17:40:59+00:00"
-    },
-    {
-      "title": "Французькі інструктори готують українських військових до Mirage 2000",
-      "original_title": "Французькі військові вже кілька місяців працюють в Україні та допомагають із Mirage 2000 — RFI",
-      "summary": "У рамках місії «Воля» французькі інструктори навчають українських військових обслуговуванню Mirage 2000, артилерії CAESAR та ракетних систем MICA, Magic‑2 і AASM Hammer. Підготовка охоплює як пілотів, так і наземний персонал, що дозволить Україні ефективно експлуатувати отримані літаки та підвищити повітряну оборону. Це посилить бойову спроможність українських ВПС у протидії російським повітряним і наземним цілям.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/frantsuzki-vijskovi-pratsyuyut-v-ukrayini",
-      "published": "2026-11-16T17:58:28+00:00"
-    },
-    {
-      "title": "Pentagon обирає компанії для випробувань високих енергійних лазерів з метою швидких замовлень",
-      "original_title": "Pentagon IDs companies and systems that will participate in high-energy laser ‘shoot-off’ with eye toward quick purchase orders",
-      "summary": "Уряд США обрав сім команд постачальників, які наступного місяця протестують свої високі енергійні лазерні системи проти безпілотників на випробувальному полі Dugway. Серед технологій — Bullfrog HEL, Archimedes, LOCUST X1, FIREFLY, Crossbow, Laser Armor і TALOS, які будуть оцінюватися за точність відстеження та знищення цілей у різних сценаріях. Успішне проходження випробувань може призвести до негайних замовлень і швидкого введення у військову службу, підвищуючи ефективність протидії безпілотним роям за рахунок низької вартості пострілу.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off",
-      "published": "2026-11-16T17:58:46+00:00"
-    },
-    {
-      "title": "Нові засоби для підрозділів знищення дронів",
-      "original_title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-      "summary": "У статті розповідається про появу нових захисних систем, призначених для підрозділів, які можуть знищувати недорогі безпілотники, оснащені точними протипіхотними боєприпасами. Зазначаються портативні засоби, такі як електромагнітні глушники та лазерні приціли, що дозволяють інфантерії швидко нейтралізувати загрозу на рівні тактичного підрозділу. Додатково включено інтерв'ю з лауреатом Медалі Честі, який коментує практичне значення таких технологій у сучасному бою.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
-      "published": "2026-11-16T18:03:38+00:00"
-    },
-    {
-      "title": "Італія анонсувала розробку нової морської вертикальної пускової системи",
-      "original_title": "Italy unveils plans to develop a new naval missile launcher",
-      "summary": "Італія включила у багаторічний план 2026‑2028 розробку власної вертикальної пускової системи (VLS) для фрегатів FREMM EVO та есмінців DDX. Система буде модульною, з восьмома ячейками, і передбачено її здатність запускати нову крилату ракету Stratus LO — довготривалу, малозаметну субзвукову крилату ракету для удару по наземних цілях. Це підвищить автономність і вогневу потужність італійського флоту, а також створить основу для технологічного трансферу серед партнерів НАТО.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher",
-      "published": "2026-11-16T18:07:01+00:00"
-    },
-    {
-      "title": "Deloitte: Реформний зріст західноафриканських економік до 2028",
-      "original_title": "West African economies to see reform-led growth through 2027–2028 amid risks - Deloitte",
-      "summary": "Deloitte прогнозує, що західноафриканські економіки будуть зростати завдяки реформам у період до 2027‑2028 років. У звіті зазначено, що цей позитивний динамізм супроводжується ризиками, які можуть вплинути на темпи розвитку.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "Deloitte",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWUzY05sLUVERkEyUE4zaXZOV1g0bG9qUHd2Q3luakUtN1ZuOThwNU9USzlZb1hFbko5dzhjZm5VTFRrUkgwTzdGbWxMRWswQmtLMnpRbFBUUW9YR2NIcXRYZzc3aEYwTE1sX1lmLWV4ZGdrTGZXMzlXT2xvTUlnVzNzdDUxTnBfNWdJT3BVTk5fbHBwbmJEbDNlZHN0Zw",
-      "published": "2026-11-16T18:17:10+00:00"
-    },
-    {
-      "title": "Велика Британія в ООН закликала захистити цивільних у М'янмі",
-      "original_title": "Protection of civilians must be at the heart of Myanmar’s future: UK Statement at the UN Third Committee",
-      "summary": "У Третьому комітеті ООН в Нью-Йорку політична радниця з прав людини постійного представництва Великої Британії Олівія Гед виступила із заявою щодо М'янми, зазначивши, що через п'ять років після військового перевороту країна перебуває в кризі. Вона наголосила на стражданнях цивільних від авіаударів, примусового набору та сексуального насильства, а також закликала зупинити насильство, забезпечити безперешкодний гуманітарний доступ та підтримала роботу Незалежного механізму розслідувань і Міжнародного суду ООН.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/protection-of-civilians-must-be-at-the-heart-of-myanmars-future-uk-statement-at-the-un-third-committee",
-      "published": "2026-11-16T18:24:32+00:00"
-    },
-    {
-      "title": "Велика Британія на Раді Безпеки ООН закликала до інклюзивного політичного процесу в Сирії",
-      "original_title": "Lasting stability depends on an inclusive, representative and non-sectarian political process that protects the rights and reflects the diversity of all Syrians: UK statement at the UN Security Council",
-      "summary": "Постійна представниця Великої Британії при ООН Сара Макінтош на засіданні Ради Безпеки ООН щодо Сирії заявила, що стабільність країни залежить від інклюзивного та представницького політичного процесу. Британська сторона привітала прогрес у політичному переході, інтеграції військових і цивільних структур до національних інститутів та закликала залучити до політичного життя жінок. Цього року Велика Британія виділила понад 45 мільйонів доларів на підтримку жінок і дівчат у Сирії через гуманітарні та освітні програми.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
-      "published": "2026-11-16T18:34:29+00:00"
-    },
-    {
-      "title": "Український дрон атакував міст Керч: ще один удар по Керченському мосту",
-      "original_title": "Russia’s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
-      "summary": "У 5:38 ранку український односторонній дрон з прямим крилами та двома бумами атакував один з арок моста, залишивши видимі деформації. Задіяна російська ППО реагувала, але точний рівень пошкоджень невідомий. Якщо удар повториться, це може порушити транспортний потік між Кримом і Росією.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
-      "published": "2026-11-16T18:46:00+00:00"
-    },
     {
       "title": "Пропозиція нової залізничної коридору CASA в Євразії",
       "original_title": "The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project - The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -653,6 +524,16 @@
       "published": "2026-11-18T03:57:00+00:00"
     },
     {
+      "title": "Сі Цзіньпін і Володимир Путін провели зустріч на саміті АПЕК у Китаї",
+      "original_title": "Xi and Putin meet at APEC summit ahead of trilateral talks with Trump",
+      "summary": "У середу китайський лідер Сі Цзіньпін і президент Росії Володимир Путін провели зустріч у китайському місті Шеньчжень. Переговори відбулися на полях саміту Азійсько-Тихоокеанського економічного співробітництва (АПЕК) напередодні тристоронніх переговорів із Дональдом Трампом. Зустріч зосередилася на дипломатичній взаємодії між двома лідерами у межах міжнародного саміту в регіоні.",
+      "source": "Africanews",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "http://africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump",
+      "published": "2026-11-18T06:55:59+00:00"
+    },
+    {
       "title": "ТКМС і BAAINBw підписали контракт на чотири додаткові фрегати MEKO A-200 DEU",
       "original_title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
       "summary": "Німецька суднобудівна компанія ТКМС разом із Федеральним управлінням оборонного обладнання BAAINBw підписали контракт на другий пакет з чотирьох фрегатів класу MEKO A-200 DEU. Ці багатофункціональні фрегати обладнані сучасними радарними системами, протиповітряними та протипідводними комплексами, а також можливістю розгортання гіперзвукових ракет. Додаткові кораблі посилять морську присутність Німеччини та підвищать її здатність до захисту морських шляхів у Північному та Балтійському морях.",
@@ -661,6 +542,26 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates",
       "published": "2026-11-18T06:59:00+00:00"
+    },
+    {
+      "title": "Карні та Трамп проведуть позапланову торговельну зустріч на саміті в Азії",
+      "original_title": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",
+      "summary": "Carney і Трамп проведуть позапланову зустріч щодо торгівлі на саміті в Азії. Подія стосується дипломатичних та торговельних переговорів на найвищому рівні між політичними діячами. За даними The New York Times, зустріч відбудеться на полях азійського саміту та буде присвячена актуальним питанням двосторонньої торгівлі, проте інші деталі переговорів та офіційні документи наразі не оприлюднені.",
+      "source": "Bilateral Meetings",
+      "publisher": "The New York Times",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn",
+      "published": "2026-11-18T11:29:11+00:00"
+    },
+    {
+      "title": "Україна та Данія розпочали стратегічну співпрацю у сфері оборонного штучного інтелекту",
+      "original_title": "Ukraine and Denmark launch strategic cooperation in defence AI - Міністерство оборони України",
+      "summary": "Міністерство оборони України повідомило про запуск стратегічної співпраці з Данією у сфері оборонного штучного інтелекту. Відповідна ініціатива спрямована на поглиблення партнерства між двома країнами у технологічному секторі оборони, хоча інші деталі щодо конкретних проєктів чи термінів у короткому повідомленні відомства не наводяться.",
+      "source": "Treaties & Agreements",
+      "publisher": "Міністерство оборони України",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRDbHF4WmNiUHNYODhMTUI0TVR0MU92dDN2R3BqNUlBa3ZROFNJWUgtSWxxLTRwUER0ZXRWQzczNEJiWUs2dHhiQVVWWk1XWlpOSlRza2NhaXFtNlZ2WFE5Ul94R0J6RmNQZGZHbjNRX3VKQnhvUmtMZElOMlVMSA",
+      "published": "2026-11-18T11:39:00+00:00"
     }
   ]
 }

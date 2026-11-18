@@ -1,14 +1,15 @@
 {
   "links": [
     "http://africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump",
+    "https://army-technology.com/news/ukraine-submits-defence-list-for-european-funding-approval",
     "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal",
     "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
     "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
     "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
     "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities",
-    "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
     "https://consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition",
     "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
+    "https://defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
     "https://defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher",
     "https://defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role",
     "https://defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing",
@@ -17,17 +18,16 @@
     "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
     "https://defensescoop.com/2026/11/17/space-industrial-base-stretched-thin-gao-report",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-    "https://middleeasteye.net/live-blog/live-blog-update/saudi-qatari-foreign-ministers-discuss-efforts-de-escalate-regional",
     "https://middleeasteye.net/news/uk-imposes-sanctions-eight-israeli-firms-and-group-blocking-gaza-aid",
-    "https://militarnyi.com/uk/news/myslyvets-na-shahedy-spys-onovyly",
     "https://militarnyi.com/uk/news/reaktyvnyj-an-197-na-kerchenskyj-mist",
+    "https://militarnyi.com/uk/news/skyctrl-adaptuyut-dosvid-ukr-vijskovyh",
     "https://militarnyi.com/uk/news/ssha-vpershe-rozgornuly-novitni-vynyshhuvachi-f-15ex-u-yaponiyi",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/rheinmetall-pitches-gmf-140-frigate-us-navy-nato",
+    "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
     "https://navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher",
     "https://navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates",
     "https://navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEZKbXlMdWFwZ2hsU2RPYm1mWEJqaHZjdTFMbnBkbHRrLXJ4bE80eFJ2aElSaHNhZE9Mbk1vWnlySFAwelpmZ1RxQ3R6ODROMFo0ZDQ2ekRSSkFKLXBJdlllNi0zSDhXbTZmakh4MmZOQW1NRnZzTHdMUVdhTmxrOVpGMjM3WWxvSGFzcGNySXBybWNXaFVROFRnUlpBQkoxZTNxaWk4YThwcjNKV2xZWGZGYWFvbFZBLVh5RVd3WWc4Ukl0TDdzSl9Fc3IwMXpyam53clNFQmg",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnQ0ejZCMEtrWC0wQTE3V05tZTFUSF8zdElpVmJvOFFvR0phWFFQVVcyOFdPaS02X3BzalIwVmNkRGdva1hJektxSjlVQTZIWE9oYnNodk50bTkwa0JwT1RZa1JVN1RSRUFOYkRLV1FVczJieXp4SW9Yc3lYQXNxSTdDQkFlRUJUSlNFQnJzOUtPaTJTUlkzODA0ZnVyVUNhakw2RWpjUndEc1k0eGdDaGZZX19sTFlwU2NURi0tZHloQzJwQWF6ZW1iQ3JXalFkUEt4ZTNhRVNsdw",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRDbHF4WmNiUHNYODhMTUI0TVR0MU92dDN2R3BqNUlBa3ZROFNJWUgtSWxxLTRwUER0ZXRWQzczNEJiWUs2dHhiQVVWWk1XWlpOSlRza2NhaXFtNlZ2WFE5Ul94R0J6RmNQZGZHbjNRX3VKQnhvUmtMZElOMlVMSA",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVl1aGxrVkh0SGpPTXRaUHpEM0lTTmQtdHEySlRNWE9vbVh4OWJwTlBocGpiQzBrVHg0RGFndGZkRGFGWWdxb3RMdHBsc1c3alFpbFNqVUxEVm1yUUwwN2F3NnpOQl9vZVpPbS1uZnJ3UFJyVXpCQ0FIc2FYNWI3b05haGVNVG1IY2xB",
@@ -37,92 +37,19 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGhEd0E5Z2thZVJFNms0bW1PRGlWTmNVV2x4UFo3andub1YxWHhWTEtnUGNKQ0NwdUhnYW5LWXNyX0lCZVI3S01rbDcwZVpwWjZ0alFFMG8ycW5JZG9QVVhzdm0tU294MWp4eDdVYUplTHdDVGpfMG1hcmFyRDBTRjNvTGpoR0NFZFQ5eU1RQWQ5TXNRVTRTc2ZZNTY",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkRYSllmM3EtbE1OMmFMOVM0dENlakJGa3NFbXBZd3MyT3FnSkJSMUljV2J6RE5pVG9Ed2NqbUF0Y2tiVGVyWjlHM0ZMa3JrdnJ3OWFaX3pJQ0JubjlSdUozMjhUdm1INjliS3dkOWVkUk41VzU3VHRrZ24yb1F0QXZ4My1ZRnFpTnliMmp4SDY0Q0IxeTNZLVExeDNaSVJBbFQ4UlVn",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3dzRnQ3eTJYSU9YS3AxRFl6NzhfNDZ4OXdTcmoyd1NXOFlJT015eHM3bGFjWnhSWWZJckIzRkFkUEJzQi1icEZ2TnpRRlZTM2l6X1k1Q2RFUk5fWmJyNFByRzhlbURlU0dlQURpVEFUODEzYmY2U1hjR0pWSlVKaXBUel8wMXlzUF83alBWRjVVRUNwc0lSSGNGYW1ZUWlQM2RUYk44QdIBrAFBVV95cUxOUU9INmQ3TGVsSWozY2hQNWxuTlluaXREeTR6OHljdUJrOFNHc0hielJqMUFnUXZXeWxsUkRrMFh6eWFOVGJmVGYyMVVGOFNnUnFsdGlMNG1nME40T1AyVjFjcVQ5d2hHUHJhZjIyVHlLck9USHY1c19CU1gtelYyTFNfY05lUEdVWm42MjN2azNPMmJkOHlDdkkzb3pPc05OcS0yb0FndGVpY2Qt",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVhYaEJMUmtqR1BvWTJ2Y19UbmZ0WXNqM08tUFQtUVRUV3BnRXBVQ19HemtuaE9QOWxrUTlOSVExWW1zelptSnR0ZERlc3ZHRXE4WFFUVWxjMFZORkpvdmRtYURSMnBYMGdrVGhzSkFCUnJhSGRFcV9aSVhPeEpEMTh5WmhXNDU4MHMxdm12SldtQUV1YU00VjI5cVVvWk5oR0g0NVNUYVBadTg",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVkzNDQ1SURHUl9tc0VFTFB0U1U0eHVzcTZtcVN2MXY0aHhNd3YwQ3pHVXFDVm9JU1NibXIyMHVMS25lVmFuV1c0SFhtdWtBcXJnMWFRTXI1bkZ3R1B1YWFVdzVHSlhWM0YweGFsWk1ROFRNUm5WQ25FUDNOM2N5V1JmQmlZM280ZEJnMFE2R0VybTk2akx3QWxTZl9VQjdVellFMkZhd3JScHQ1",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUpTczMtY1B3Yk9qaEpSUUJLSzlmeVRkMHdpWUxKaXpCTnNUUVRwQld2M1VYc2tmbzhqTE5VcWJEemNkOVZzeGRXLVFjNVFuZEJfRkRUNm12XzJ2WnpCeXcxYnFaM1FuZmhxR2hoUGoyZXgyamdNc2RZZWRXSUMwdGlXcHlDZGFMaURobkFWcVRwZ3V6S1ZZOURiWlFpdGQ1X195ZDM1X3ZwbGxPcUhtSFdRRQ",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEVZVW91LThiQ3VsNzRHRlc2cmo4WEs3WXdmYXBNdFZ5ZjlBQ3dEQi1adHIyYk9VMkJWM242VnNVa18ydGZPQ0xvcEQtRVlQRy1hZDVjS3lGTUloQTBna2xfM1p6RTBJaUg5c2V0cDI5RUl4U1lrX1BWd3ptNXAtWHI2Y1ZWYzY2NHR4amNPOEhpUHVsSkRQN01ySkNQaE9tdWVLMnlNSlpYRlNuY1l0Y0ZMMkVBcjFh",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVJPOFg0ZTNTdmxkQWN1cVdGQ1dVZmFNX0N6VjduVGpXLVJTNmpINHFXZlp2WmFzcWd1TUJQQzExS2xCdU91ZlBfOUdzRjF0aThKaGFLSEpzaEpSNVpEOVpoUnd6V3ctTGx3MnJDc2JjUm5vU01hcjhXY2dWX3JwOWc3RmNmelN0dnROT2VRZ0NkSC1tNnB1TUhZbHRQUTRNQUdOLUtqSmZmT3A5VDhON2FZNGcwenl6THVRdjZ6SWHSAcYBQVVfeXFMTUU1TUFBZ2NZbk9LTmJzTF9Kc3k4X204LVNRWkt0NGFfRDhMaFBWTDd3RDB3WU0yVDBKZWRUcXUyZHFfZThLR2RkRWtINk1UM2VBVnh2ZHFVSzZfR0ZHMGJiMkpvRkktWmZPMmk0N3lVR1UzUkRLS2lXSkFvRGtmUmRtYmtqenVrZjc4ZUZ3akNWRjQ0b0RuX1V3QXVqeUdGakN0SmdvUk9fTElWVC1PR3dFWHRGTzNDdVZtemF4WU8zeWM1c3JR",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXktd0w4ajdTTjZ2UG42QXRGcHZ1VXgwdUw4MGJkM2VhQzA1c1pGRGZCenpHR0QzNlhOWTZySl9PTmxpNC1fNl96ZlprRGNnRFZoTnQwTG4tLXZNMHVwWkdLNFpoNmN1VXRyRllZcWsyZS0wSXFXaU1vNEp0WUxmbjdmSmV2aDFBX2xyLVBRckMtclJ4cndqcThoU3Y4MWpNUXlkNGd1eVdOdi1xMXFoN3ZLM2w5cW5WMGl2VVJscnVmamc",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktmbHNIWi1DbHl3WE5wajJhRmx1TDNxdWxaNWg0SzNsaDFMR2JFMEh6RTVIU1h6WUR5MW1WbXdpckIwSXV5OGRPVktKWGhaM21vSjhIZUo2WFF5SmFfb1pzaDRZekNhZDMwZnVnSmkyeEMtUEotQXJvRGF4Nkd6MktOVEU2RXRPbmVPN3dOREdWQzJHNV9Kdm1GUzNWbzJSTGdHMmluZWZJcWQwdVpxeWdxcURfQW9ZbW1qUC0zcDFOd0haeVVhd3Q5UEx2ZDQ",
     "https://theafricareport.com/436739/nigeria-south-africa-a-chastened-fani-kayode-meets-the-limits-of-loud-diplomacy",
     "https://twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
     "https://twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
     "https://twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
     "https://twz.com/news-features/these-are-the-weapons-ukraine-used-to-drop-the-kerch-bridge",
-    "https://twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time",
     "https://twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair"
   ],
   "recent_posts": [
-    {
-      "title": "Пропозиція нової залізничної коридору CASA в Євразії",
-      "original_title": "The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "summary": "Пропонується новий залізничний маршрут під назвою CASA у Євразії. У статті підкреслюються геополітичні аспекти цього проекту, що може вплинути на транспортні та економічні зв’язки регіону.",
-      "source": "Коридори · Global Gateway і TRACECA",
-      "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVhYaEJMUmtqR1BvWTJ2Y19UbmZ0WXNqM08tUFQtUVRUV3BnRXBVQ19HemtuaE9QOWxrUTlOSVExWW1zelptSnR0ZERlc3ZHRXE4WFFUVWxjMFZORkpvdmRtYURSMnBYMGdrVGhzSkFCUnJhSGRFcV9aSVhPeEpEMTh5WmhXNDU4MHMxdm12SldtQUV1YU00VjI5cVVvWk5oR0g0NVNUYVBadTg",
-      "published": "2026-11-16T19:08:24+00:00"
-    },
-    {
-      "title": "Fed Chair Warsh outlines AI scenarios for US economy",
-      "original_title": "Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment - TradingKey",
-      "summary": "Fed Chair Kevin Warsh presented three scenarios illustrating how superintelligence could influence the US economy and labour market. The scenarios explore potential effects on productivity and employment, underscoring the relevance of AI developments for macroeconomic policy.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "TradingKey",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEZKbXlMdWFwZ2hsU2RPYm1mWEJqaHZjdTFMbnBkbHRrLXJ4bE80eFJ2aElSaHNhZE9Mbk1vWnlySFAwelpmZ1RxQ3R6ODROMFo0ZDQ2ekRSSkFKLXBJdlllNi0zSDhXbTZmakh4MmZOQW1NRnZzTHdMUVdhTmxrOVpGMjM3WWxvSGFzcGNySXBybWNXaFVROFRnUlpBQkoxZTNxaWk4YThwcjNKV2xZWGZGYWFvbFZBLVh5RVd3WWc4Ukl0TDdzSl9Fc3IwMXpyam53clNFQmg",
-      "published": "2026-11-16T19:22:16+00:00"
-    },
-    {
-      "title": "Міністри закордонних справ Саудівської Аравії та Катару обговорили деескалацію",
-      "original_title": "Saudi, Qatari foreign ministers discuss efforts to de-escalate regional tensions",
-      "summary": "Міністр закордонних справ Саудівської Аравії принц Фейсал бін Фархан у понеділок провів телефонну розмову зі своїм катарським колегою шейхом Мухаммадом бін Абдулрахманом бін Джассімом Аль Тхані. За заявою саудівського МЗС, сторони обговорили безпеку та стабільність у регіоні, зосередившись на поточній ескалації та зусиллях щодо її деескалації. Розмова мала на меті підтримання регіональної стабільності через прямий дипломатичний діалог між двома ключовими гравцями Близького Сходу.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/live-blog/live-blog-update/saudi-qatari-foreign-ministers-discuss-efforts-de-escalate-regional",
-      "published": "2026-11-16T19:58:50+00:00"
-    },
-    {
-      "title": "Невдача ракети Vulcan підкреслює проблеми США у запускових потужностях",
-      "original_title": "Vulcan failure deepens concerns over US military launch capacity",
-      "summary": "Після 10‑хвилинного польоту ракета United Launch Alliance Vulcan зазнала аномалії, не досягнувши орбіти і знищивши 40 супутників Amazon LEO. Причина, ймовірно, пов’язана з бустером або двигунами BE‑4, що ставить під загрозу не лише програми ULA, а й Blue Origin New Glenn. Це посилює залежність США від SpaceX і створює ризик скорочення військових та комерційних запусків у стратегічний період.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
-      "published": "2026-11-16T20:07:47+00:00"
-    },
-    {
-      "title": "Kombos закликає ЄС встановити умови щодо Сирії",
-      "original_title": "Kombos calls for clear conditions on EU ties with Syria and action against sanctions circumvention - Cyprus Inform",
-      "summary": "Kombos вимагав, щоб Європейський Союз визначив чіткі умови співпраці з Сирією та вжив заходів проти обходу санкцій. Заклик підкреслює потребу в прозорості та посиленні контролю за дотриманням санкційного режиму у відносинах з країною.",
-      "source": "ЄС · економіка, торгівля й промислова політика",
-      "publisher": "Cyprus Inform",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktmbHNIWi1DbHl3WE5wajJhRmx1TDNxdWxaNWg0SzNsaDFMR2JFMEh6RTVIU1h6WUR5MW1WbXdpckIwSXV5OGRPVktKWGhaM21vSjhIZUo2WFF5SmFfb1pzaDRZekNhZDMwZnVnSmkyeEMtUEotQXJvRGF4Nkd6MktOVEU2RXRPbmVPN3dOREdWQzJHNV9Kdm1GUzNWbzJSTGdHMmluZWZJcWQwdVpxeWdxcURfQW9ZbW1qUC0zcDFOd0haeVVhd3Q5UEx2ZDQ",
-      "published": "2026-11-16T20:10:51+00:00"
-    },
-    {
-      "title": "Quantum Wiy Industries оновила дрон-перехоплювач SPYS до 500 км/год",
-      "original_title": "Мисливець на «Шахеди» SPYS оновили та розігнали до 500 км/год",
-      "summary": "Оновлений SPYS має зменшені крила, нову антену та білий корпус, що знижує теплове навантаження. Дрон важить 4,6 кг, з бойовою частиною 500 г, дальність 45 км і стабільну швидкість понад 450 км/год, що дозволяє швидко перехоплювати ворожі БПЛА. Ці поліпшення підвищують ефективність і швидкість реакції в бойових умовах.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/myslyvets-na-shahedy-spys-onovyly",
-      "published": "2026-11-16T20:11:51+00:00"
-    },
-    {
-      "title": "Новий бойовий сонарний купол для сильно пошкодженого підводного човна USS Connecticut вперше побачений",
-      "original_title": "New Bow Sonar Dome For Heavily Damaged Submarine USS Connecticut Seen For The First Time",
-      "summary": "Після зіткнення з підводним підйомником у 2021 році підводний човен класу Seawolf USS Connecticut отримав новий бойовий сонарний купол, виготовлений Janicki Industries за приблизно 10 місяців. Купол має діаметр 24 фути і виготовляється на п'ятиосьових фрезерних станках з використанням 1 000‑тонного преса, що забезпечує точність для ефективної роботи сонарної системи. Швидке виготовлення скоротило затримку, проте підводний човен все ще планується повернути до служби лише наступного літа, що впливає на його бойову готовність.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time",
-      "published": "2026-11-16T20:24:52+00:00"
-    },
     {
       "title": "Перші F-15EX Eagle II прибули до бази Кадена в Японії, 25 вже доставлені ВПС",
       "original_title": "First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The USAF",
@@ -562,6 +489,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUmRDbHF4WmNiUHNYODhMTUI0TVR0MU92dDN2R3BqNUlBa3ZROFNJWUgtSWxxLTRwUER0ZXRWQzczNEJiWUs2dHhiQVVWWk1XWlpOSlRza2NhaXFtNlZ2WFE5Ul94R0J6RmNQZGZHbjNRX3VKQnhvUmtMZElOMlVMSA",
       "published": "2026-11-18T11:39:00+00:00"
+    },
+    {
+      "title": "Конгрес відхилив фінансування американського бойового корабля у новому бюджеті",
+      "original_title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+      "summary": "У законодавчій пропозиції бюджету Пентагону на $1,1 трлн Сенат скоротив майже $1,84 млрд на будівництво 34‑тисячтонного ракетного бойового корабля. Це практично зупиняє один із наймасштабніших кораблебудівних проєктів адміністрації Трампа. Втрата такої платформи зменшує потенціал ВМС США у дальньому ударному вогні та проєкції сили.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
+      "published": "2026-11-18T15:42:53+00:00"
+    },
+    {
+      "title": "Як UNIFIL завершує місію, присутність Ізраїлю в Лівані ускладнює передачу",
+      "original_title": "As UNIFIL winds down, Israeli presence in Lebanon complicates handover process",
+      "summary": "UNIFIL планує поступово виводити близько 7 500 миротворців, по 1 000 осіб на місяць, і передавати позиції ліванським владам до вересня 2027 р. Під час цього процесу ізраїльські війська, які контролюють близько 232 млн ярдів (≈6 % території) Лівану, ускладнюють повернення позицій, що створює ризик затримок і потенційних інцидентів. Це може продовжити військову напругу на південному кордоні навіть після завершення місії ООН.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
+      "published": "2026-11-18T15:49:03+00:00"
+    },
+    {
+      "title": "Польські радіолокації SKYctrl модернізують за досвідом українських військових",
+      "original_title": "Польські радари SKYctrl адаптують до сучасної війни завдяки досвіду українських військових",
+      "summary": "Українські інженери та військові допомагають адаптувати радіолокаційні системи APS SKYctrl до умов сучасної війни, підвищуючи їхню здатність виявляти безпілотники в складних погодних умовах і супроводжувати ціль під час маневру. Понад 200 радарів вже експлуатуються в Україні, їх інтегрують з вітчизняними протидроновими турелями Sky Sentinel та розглядають можливість встановлення на морських безекіпажних платформах. Це розширює можливості ППО, забезпечуючи раннє попередження та постійний трекінг цілей, що підвищує ефективність знищення ворожих дронів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/skyctrl-adaptuyut-dosvid-ukr-vijskovyh",
+      "published": "2026-11-18T16:57:58+00:00"
+    },
+    {
+      "title": "Україна подала список оборонного обладнання для схвалення фінансування ЄС",
+      "original_title": "Ukraine submits defence list for European funding approval",
+      "summary": "Україна передала Європейській комісії перелік озброєння, доступного на платформі DOT-Chain, для отримання фінансової підтримки. У списку можуть бути безпілотники, артилерійські системи та інше сучасне обладнання, що вже використовується чи планується закупити. Затвердження фінансування дозволить прискорити постачання та підвищити обороноздатність країни у поточному конфлікті.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/ukraine-submits-defence-list-for-european-funding-approval",
+      "published": "2026-11-18T17:01:14+00:00"
     }
   ]
 }

@@ -5,14 +5,13 @@
     "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair",
     "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal",
     "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
-    "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
     "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
     "https://consilium.europa.eu/en/press/press-releases/2026/11/18/grids-package-council-and-parliament-agree-to-streamline-permitting-for-a-faster-clean-energy-transition",
-    "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
     "https://defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
     "https://defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom",
     "https://defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher",
     "https://defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role",
+    "https://defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now",
     "https://defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing",
     "https://defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
     "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
@@ -20,11 +19,9 @@
     "https://defensescoop.com/2026/11/18/navy-software-platform-project-roundtable",
     "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
     "https://gov.uk/government/speeches/the-uk-further-welcomes-the-strengthened-cooperation-between-the-office-of-the-prosecutor-and-the-libyan-authorities-uk-statement-at-the-un-security-c",
-    "https://middleeasteye.net/news/uk-imposes-sanctions-eight-israeli-firms-and-group-blocking-gaza-aid",
     "https://militarnyi.com/uk/news/reaktyvnyj-an-197-na-kerchenskyj-mist",
     "https://militarnyi.com/uk/news/skyctrl-adaptuyut-dosvid-ukr-vijskovyh",
-    "https://militarnyi.com/uk/news/ssha-vpershe-rozgornuly-novitni-vynyshhuvachi-f-15ex-u-yaponiyi",
-    "https://navalnews.com/event-news/euronaval-2026/2026/11/rheinmetall-pitches-gmf-140-frigate-us-navy-nato",
+    "https://navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion",
     "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
     "https://navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher",
     "https://navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates",
@@ -51,59 +48,11 @@
     "https://twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
     "https://twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
     "https://twz.com/news-features/these-are-the-weapons-ukraine-used-to-drop-the-kerch-bridge",
-    "https://twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair"
+    "https://twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+    "https://twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair",
+    "https://twz.com/space/europe-is-exploring-orbital-deep-strike-weapons"
   ],
   "recent_posts": [
-    {
-      "title": "Новий оборонний договір робить Філіппіни військовим хабом для австралійських військ",
-      "original_title": "New pact positions the Philippines as a defense hub for Australian troops",
-      "summary": "Australia і Філіппіни підписали угоду про оборонну співпрацю, яка спростить розгортання австралійських підрозділів та передбачає обмін безпілотниками, навчанням і будівництво військової інфраструктури. Скорочення бюрократичних процедур дозволить швидко реагувати на надзвичайні ситуації та підвищить обороноздатність Філіппін у західному Тихоокеанському регіоні, посилюючи стримувальний ефект проти китайської агресії.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
-      "published": "2026-11-17T11:29:34+00:00"
-    },
-    {
-      "title": "Велика Британія запровадила санкції проти ізраїльських компаній та групи Tsav9",
-      "original_title": "UK imposes sanctions on eight Israeli firms and a group blocking Gaza aid",
-      "summary": "Уряд Великої Британії запровадив санкції проти восьми ізраїльських будівельних, архітектурних та девелоперських компаній, пов'язаних із поселеннями на Західному березі річки Йордан. Міністр закордонних справ Ед Мілібанд оголосив про обмеження у вівторок, перед розподілом тендерів на поселенський блок E1. Під санкції також потрапила ізраїльська група Tsav9, яка блокує в'їзд гуманітарних вантажівок до Сектора Гази. Західні санкції спрямовані на захист рішення про дві держави та запобігання перешкоджанню гуманітарній допомозі.",
-      "source": "Middle East Eye",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://middleeasteye.net/news/uk-imposes-sanctions-eight-israeli-firms-and-group-blocking-gaza-aid",
-      "published": "2026-11-17T12:24:05+00:00"
-    },
-    {
-      "title": "Перші F-15EX Eagle II прибули до бази Кадена, призначені до 67‑ї ескадрильї",
-      "original_title": "США вперше розгорнули новітні винищувачі F-15EX у Японії",
-      "summary": "На авіабазі Кадена (Окінава) прибули два новітні винищувачі F-15EX Eagle II – EX22 і EX23, 22‑й і 23‑й у серії. Вони передані до 67‑ї винищувальної ескадрильї 18‑го авіакрила ВПС США, замінюючи застарілі F-15C/D. Це посилює американську авіаційну присутність у регіоні та підвищує можливості протиповітряної оборони.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ssha-vpershe-rozgornuly-novitni-vynyshhuvachi-f-15ex-u-yaponiyi",
-      "published": "2026-11-17T13:07:41+00:00"
-    },
-    {
-      "title": "Rheinmetall пропонує ВМС США фрегат GMF‑140 з системою Aegis",
-      "original_title": "Video: Rheinmetall Pitches Aegis-Equipped GMF 140 Frigate to U.S. Navy",
-      "summary": "Rheinmetall представив американським Військово-морським силам свій новий фрегат GMF‑140, оснащений боєкомплектом Aegis. Корабель має приблизно 4 000 тонн водотоннажності, 16 вертикальних пускових установок для крилатих ракет і сучасну радарну систему. Якщо його приймуть, це може стати новим стандартом НАТО, підвищивши взаємодію та бойові можливості флоту США.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/rheinmetall-pitches-gmf-140-frigate-us-navy-nato",
-      "published": "2026-11-17T13:20:00+00:00"
-    },
-    {
-      "title": "Технологія IFF оновлюється для швидкої ідентифікації дронів та інших загроз",
-      "original_title": "Friend or foe becomes the question as skies fill with potential adversaries",
-      "summary": "IFF — система запит‑відповідь, що передає електромагнітний сигнал для підтвердження статусу платформи; її застосовують на літаках, кораблях, наземних та радіолокаційних засобах. У зв’язку з ростом безпілотних систем і мультидоменної війни IFF інтегрується в JADC2, забезпечуючи миттєве розрізнення «друг‑ворог» у складних умовах. Це підвищує точність реакції, знижує ризик випадкового ураження союзників і посилює ефективність оборони проти швидкозмінних загроз.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
-      "published": "2026-11-17T13:24:00+00:00"
-    },
     {
       "title": "Південна Африка викликала нового посла Нігерії через дипломатичний інцидент",
       "original_title": "Nigeria-South Africa: A chastened Fani-Kayode meets the limits of loud diplomacy",
@@ -515,6 +464,16 @@
       "published": "2026-11-18T20:22:00+00:00"
     },
     {
+      "title": "Європа розглядає орбітальні системи глибоких ударів",
+      "original_title": "Europe Is Exploring Orbital Deep Strike Weapons",
+      "summary": "Європейські компанії MBDA та ATMOS Space Cargo розпочали спільне дослідження концепції Precision Orbital Deep Strike (PODS), що передбачає доставку конвенційних боєприпасів з орбіти та їх повернення на Землю. Технологія обіцяє можливість точного удару на далекі цілі з новим рівнем швидкості та непередбачуваності. Перші етапи включають аналіз архітектури системи, технічної здійсненності та інтеграції боєприпасів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/space/europe-is-exploring-orbital-deep-strike-weapons",
+      "published": "2026-11-18T21:50:08+00:00"
+    },
+    {
       "title": "Закон про примирення на $350 млрд не буде ухвалений, заявив голова HASC",
       "original_title": "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
       "summary": "За словами спікера Комітету з оборони Палати представників Майка Роджерса, проєкт закону про примирення на $350 млрд у 2027 фінансовому році не пройде, проте можлива скорочена версія. Це змусить законодавців перенести пріоритетні статті у базовий бюджет у $1,15 трлн і переглянути додаткові запити, зокрема на боєприпаси та операції в Ірані. Якщо новий, менш масштабний закон буде ухвалений, це вплине на фінансування оборонних програм та можливість включення додаткових статей у загальний бюджет.",
@@ -565,6 +524,16 @@
       "published": "2026-11-18T23:55:44+00:00"
     },
     {
+      "title": "Україна знову вдарила по Керченському мосту: зруйновано дорожнє полотно",
+      "original_title": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor",
+      "summary": "У вівторок українські сили завдали удару по залишковій частині Керченського мосту, знищивши дорожнє полотно, тоді як залізнична секція залишилася стояти. За повідомленням голови Криму Сергія Акціонова, удар здійснено безпілотниками та ракетами, що свідчить про здатність України долати російську ППО. Руйнування дорожньої частини тимчасово зупиняє автотранспорт, а збереження залізничного прольоту зберігає часткову логістичну лінію, проте подальший удар по залізниці може повністю розірвати сполучення Криму з Росією.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+      "published": "2026-11-19T00:49:07+00:00"
+    },
+    {
       "title": "Рада ЄС ухвалила поправки до регулювання метану для безпеки постачання",
       "original_title": "Methane regulation: EU agrees targeted amendment to safeguard security of supply - Council, European Union",
       "summary": "Рада Європейського Союзу досягла згоди щодо цілеспрямованих поправок до регулювання метану. Ця дипломатична угода між інституціями ЄС має на меті забезпечити безпеку енергетичного постачання. Рішення офіційно зафіксовано Радою ЄС, що є формальним кроком у гармонізації енергетичного законодавства блоку. Поправки спрямовані на коригування існуючих норм для підтримки стабільності ринку та захисту інтересів споживачів у контексті енергетичної безпеки Європейського Союзу.",
@@ -573,6 +542,26 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEVPNlBxT3hTUlRwZUduV1dtWVZJTVJsWnBteVdDUkZfZUJQR1lXbzB5S0E3MGdBYVF4R3pCQkItXzNDUy0xOHBXb0piUDM5cTQxTDV0bzJQOEFaU01JTGF6eC1fMjBhVkczUU9aeTRQeTk0bXN5VmFsdktib1J3dG03UmREZWgxT2M2emZVbEtQQlA1TUVTLVVHNjVKbGR0V0ZHaUxMWHphMEdWRGJCaTdWUVU3UnhicVpScnctdURtTWJoUFZpU0hmVVhSWkFKOVNhb2IwemZHYU5WcXBmdw",
       "published": "2026-11-19T02:48:45+00:00"
+    },
+    {
+      "title": "Японські ядерні підводні човни – поганий крок для безпеки Східного Китайського моря (поки)",
+      "original_title": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+      "summary": "Японія розглядає створення програми ядерних підводних човнів, що викликає гостру критику в Китаї, який вважає це спробою обійти контроль над ядерною зброєю. У статті зазначається, що китайські ЗМІ вважають ініціативу частиною потенційного плану отримання Японією ядерної зброї та засуджують підтримку США. Якщо Японія реалізує такий проект, це може суттєво змінити баланс сил у Східно-Китайському морі, підвищивши ризики ескалації та ускладнивши регіональну безпеку.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now",
+      "published": "2026-11-19T09:36:51+00:00"
+    },
+    {
+      "title": "ADSB планує новий верф у Абу‑Дабі для розширення будівництва кораблів",
+      "original_title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+      "summary": "Компанія Abu Dhabi Ship Building отримала три великі контракти від різних країн, що майже повністю зайняли її робочу силу. У зв'язку з планованим розширенням ADSB вже розробляє новий верф, який дозволить будувати більше і більші судна. Це збільшить виробничі можливості ОАЕ у військовому та комерційному морському секторі.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion",
+      "published": "2026-11-19T09:51:57+00:00"
     }
   ]
 }

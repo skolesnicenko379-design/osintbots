@@ -5,11 +5,13 @@
     "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair",
     "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill",
     "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel",
+    "https://defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows",
     "https://defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
     "https://defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom",
     "https://defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now",
     "https://defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
     "https://defensescoop.com/2026/11/18/navy-software-platform-project-roundtable",
+    "https://defensescoop.com/2026/11/19/army-extends-data-operations-center-pilot",
     "https://defensescoop.com/2026/11/19/trump-nominates-centcom-deputy-lt-gen-patrick-frank-to-lead-northcom-norad",
     "https://gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee--2",
     "https://gov.uk/government/speeches/report-by-the-head-of-the-osce-presence-in-albania-uk-statement-november-2026",
@@ -20,6 +22,7 @@
     "https://militarnyi.com/uk/news/kongsberg-brave-prime",
     "https://militarnyi.com/uk/news/skyctrl-adaptuyut-dosvid-ukr-vijskovyh",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-dva-bojovi-katery",
+    "https://militarnyi.com/uk/news/v-yetnam-vyprobuvav-btr-xtc-03-iz-30-mm",
     "https://navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion",
     "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
     "https://navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek",
@@ -40,6 +43,7 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW9Ldlk4bXUtNjRJR0N4YXZFNWRJS0s1eFpzU3hUVVZIenZVY1F2TW1LZ0N5aFU1TldhaFVoN0dNSWpKV1BjUG50SzM0MGNma1ZJaWR2dTlwMmI2SF9idlNCQjJsQVhuR2ttWDlaWkFFejg4dmpHRUdwSV8yaFdTNnZzbFg4RjN0eHpxc2hwRm1hNGxhQVR1RjE1TUFxRGdQQV9NLWs0bXFfTWRTRXRqa1lCc25MeU52T0c3YVphTTE0Zw",
     "https://twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
     "https://twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+    "https://twz.com/news-features/why-the-e-4b-doomsday-plane-always-shadows-air-force-one-when-the-president-travels-abroad",
     "https://twz.com/space/europe-is-exploring-orbital-deep-strike-weapons"
   ],
   "recent_posts": [
@@ -452,6 +456,46 @@
       "channel": "diplomacy",
       "link": "https://gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee--2",
       "published": "2026-11-19T20:20:27+00:00"
+    },
+    {
+      "title": "Недостатність американських ракет створює проблему діапазону, показує звіт",
+      "original_title": "US missile shortages create a range problem, report shows",
+      "summary": "Звіт CSIS показує, що США вичерпали запаси довготривалих ракет, залишаючись з боєприпасами дією до 300 миль. Це змушує військові сили покладатися на короткоствольні системи, що обмежує можливості проєкції сили на великі відстані та створює стратегічну вразливість. Відновлення запасів вимагатиме багаторічних інвестицій і збільшення виробничих потужностей.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows",
+      "published": "2026-11-19T21:23:13+00:00"
+    },
+    {
+      "title": "Армія продовжує пілотний проєкт ADOC ще на рік",
+      "original_title": "Army extends ADOC pilot by a year as officials work to make the data ops center a more permanent fixture",
+      "summary": "Пілотний проєкт Army Data Operations Center (ADOC) продовжено до 1 жовтня 2027 року, щоб командування могло оцінити доцільність його постійного створення. Центр впроваджує систему тикетів і штучний інтелект для автоматизації запитів доступу до даних, скорочуючи час вирішення проблем з кількох місяців до днів. Це підвищить оперативність отримання інформації підрозділами та полегшить роботу солдатів і командирів у бойових умовах.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/19/army-extends-data-operations-center-pilot",
+      "published": "2026-11-19T22:20:27+00:00"
+    },
+    {
+      "title": "В’єтнам випробував новий бронетранспортер XTC-03 з 30‑мм гарматою",
+      "original_title": "В’єтнам випробував озброєння нового БТР XTC-03 із 30-мм гарматою",
+      "summary": "У В’єтнамі проведено випробування новітнього БТР XTC-03, озброєного 30‑мм гарматою, 7,62‑мм кулеметом та системою димових гранат. Техніка вагою 16 т має V8 двигун 351 к.с., максимальну швидкість 85 км/год, захист STANAG Level 4 і амфібійні можливості. Результати підтвердили заявлені тактико‑технічні характеристики, що підвищує потенціал вогневої підтримки піхоти та мобільності В’єтнаму.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/v-yetnam-vyprobuvav-btr-xtc-03-iz-30-mm",
+      "published": "2026-11-19T22:24:51+00:00"
+    },
+    {
+      "title": "Самоліт, що супроводжує Air Force One, знову слідує за президентом за кордоном",
+      "original_title": "The Jet That Always Shadows Air Force One When The President Travels Abroad",
+      "summary": "Під час візиту президента США Дональда Трампа до Філіппін і Китаю онлайн‑трекери зафіксували Boeing 747‑200 у ролі E‑4B «Nightwatch», який тінню слідував за трьома літаками VC‑25 (Air Force One). E‑4B, відомий як Національний повітряний центр управління (NAOC), входить до складу чотирьох подібних літаків, обладнаних системами зв’язку та командування, що забезпечують стійкість управління у випадку ядерної чи іншої надзвичайної ситуації. Така постійна аерологістична підтримка розширює можливості стратегічного командування та підвищує безпеку президентських польотів за кордоном.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/why-the-e-4b-doomsday-plane-always-shadows-air-force-one-when-the-president-travels-abroad",
+      "published": "2026-11-20T01:01:44+00:00"
     }
   ]
 }

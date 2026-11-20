@@ -1,19 +1,5 @@
 {
   "links": [
-    "https://www.middleeasteye.net/live-blog/live-blog-update/seven-israeli-attacks-against-west-bank-farmers-12-hours-reported",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaZHRTdUVxNEZBMTdMWGZlbmRHYzB3NXlpMmtzNG45bnJIYUZJU2dEVFhVM3A0b3pCbzJFOXJNNHg2NENheDd1OVY0OTdmbUJyZFBPeWl6enNnd2xT?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDQ0Q3pTcmJiQ0NjaTVheWdQU1V5NGdpQmJncW45XzFGYTdNSUdhZFdDcGxrUjJxM0RrZHpqUUtvSUYwdUNRYXR6R2w2R01hZzBYczl1d0k4ZE5OYWU2MEd1blVTRGF5cXpMejRPb083YTZXX1laTl9PdURSbzNpSW9jY2hfSjkxWkdQS25LSlp5Z0NNd2lod1AtSG1ZcHNCTE5TM1p3b0FzY1J0QjMxRm9NMTFSYkFCV2NYTnhBbW5hd3BKYnU2U3U3U2xxamRXTTZBeg?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmlzelRqZHYzZGZJTzY4NjZkZ1pCUVhOS2NMdTZ5T3NxQk1zem52b296UHQ4cTJzSUJ0ek1vYUtjYVdhMXpVbzk2T1VHRFF0UWp2clFBRzJEeHRKd3podWVzTU14aWR4SFpBQUlISVpMNU8wSjcxS2ltV2tVaGRKRDR3Rmg1NmdUMms5T3VpUzlJUWZ4U0Zid0RQTDVDMnZ0S3FwTUZjeG9SUUF60gGyAUFVX3lxTE11cHdrQTIzdVVxZEdFTzNfU29PbTdvcTR2Z1lvbXVQN0cxVXZMdDd3N0hSb1llbV9VODhIQnNnaXkyRjU2VVdtNGw2R0RCWVdvaTJ5WFhwVmJvZ0xFT2UwYmhLVjNrUkQ1OVZ5U1Jhb2UxbzRsN1ZlZFotY3Nyc3k1cnA5T3YzRmVqT3U3T3N3MERyaXl4aHI4dUlubXlNSEQzU0ZNTWFCa3BxUHlVZEhWTnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFpybDB0WWt4bGttcHBDMzlsXy1pTnMxQVRqMU1aRTZEc0JrWUpFVll6VGJCOHNWbkNvaFdhdkx5RTdZZndVczJKWGRpSFJwcUVpcGZYcmYyczBJUTRQN2Y1TFdaRFZvWVVUYnJ4RGs3R1lRTENmbkRtOGptcDlBLWptaFV2d2hmdTN6VXd6dDJoT0ppQTlHc3hyUDBsVlFfV1BR?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-killed-israeli-drone-strikes-southern-gaza",
-    "http://www.africanews.com/2026/10/28/africa-ebola-outbreak-passes-10000-cases-mostly-in-dr-congo/",
-    "http://www.africanews.com/2026/10/28/king-charles-iiis-caribbean-tour-renews-calls-for-uk-slavery-reparations/",
-    "http://www.africanews.com/2026/10/28/recreatrales-festival-transforms-ouagadougou-neighbourhood/",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/democrats-party-leader-says-arab-party-could-be-part-government",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnYmZPOU8tb2NzRnJGU1JsVHRXSmNrNUJsSWZxaU4tZERsakFTWWNYeWZaMndDeDU2Skd5VG9VaWZURU8xbmg0bU5iV3VnYTNyT3A5eEtGYWxGc3RvZS1FRVR3?oc=5",
-    "http://www.africanews.com/2026/10/28/palestinian-citizens-of-israel-hope-election-results-bring-change/",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ia2JQUkNXRWJpTEUxdVZvUkhoNTRUT1JTN0F3S0FGSGt6UUZvQnpHbG94VUwzVUZKVVp2LXRHZllRRU8xLUxCVlhEbFk4b1VRQ2ljYTcwbWh1UEQ3MlFNcUxsc1BhWlNkeU80N0lHX3h6QTB0TVRz?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-leader-rules-out-groups-disarmament",
     "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-strikes-target-deir-mimas-southern-lebanon",
     "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-making-diplomatic-efforts-strait-hormuz-yemen",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd050X09qdzg4bjM0LWZjZUhJNlpYVGNhaklBSlFUalVmX2tpX2lWSEUtbzAwZW1XcENlbHdDa0FsWW9MMFlrNjRRMHF0LUFLUWpKNmJCNlJ6azM4ekRpVlc0YXZqRmp4TnNaSzM4Z0xOcXl5Qnd3Y0RQSXl2UDljcTVrcFZNR2dwSWozcXUySEFTblZQdm1vSXhfUTNhakE5TzlSOElZalMtZl8xQVJpVmNyRFFwUTB2?oc=5",
@@ -1199,23 +1185,23 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzYtcFVGd3lNZzhDelI3ZTc4X2pCQkFoYnNlOXRmdm5ZRDNZckJMcm5LUE0weE1kbXhkQmdXT0xMeXlybGczTEVSdkZ1R2o5YlJ4NEdSbXd6d3RHb3pBMmhiWXVRN1NJRVdPWmd5akR4V0VLUVhPeGk1c2ZxcGw2eDVKYUJsN21FQ1d6VUFtQkQyaVFQclV6VmVHeW1Bdw?oc=5",
     "https://www.theafricareport.com/436963/10-things-to-know-about-teddy-riner-and-his-african-connections/",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/enlargement-eu-and-montenegro-close-accession-negotiations-on-taxation-and-regional-policy/",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/media-advisory-press-conference-on-the-mff-negobox-and-press-briefing-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/"
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/media-advisory-press-conference-on-the-mff-negobox-and-press-briefing-ahead-of-the-special-european-council-meeting-of-26-27-november-2026/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-recently-released-prisoners-west-bank-raids",
+    "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-mali",
+    "https://www.middleeasteye.net/news/palestinian-student-activist-israel-detained-amid-incitement-campaign",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1NxamhacExiOUlPV3RKN2RGTmNzN2gySzZ1Wnl5d0xEUjdud1IyRE5aTk5sUWZRUzRDLTdjblQ0MmNWa1B3Nld0RGhRbDZqbEpfWkpFWlhwOUhPeTJqVkxvNkhReU9iaUlabjJfeVFnNFVrem14RGRVdG9EZHhxcVNFd1dhTkJBR3ljdzZmejE3TkY3bE1zZGJRTG5DRGFTS3k3SDJpRGZWWkdIcTBoYkNB?oc=5",
+    "https://www.middleeasteye.net/news/iranian-press-review-pre-emptive-strikes-us-warships-proposed-prevent-another-war",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX01VdGF6TjV4cjlwT1ZiYlJTU09xZWlhdTFPMFJ5RGVqU0NzajE2SkJhR1NMOVFaNUJRZUIycWhzSGxwSktsRkhWR1ExZXRRYU10cnNFUGFHRzAxUGItaHJIRlM1NG16ZFdHQTM0WldKQ1ZpdTdRZ0VSUWhXM3ExZWQ0UjdlU0YyeDRYaFFmbVhZNElLS0lpal9yZmt4VU5va3VkNHpNSXk2MWYtUmJuUzNEQVNkdzhJdWhQd0ZqOWxOel9NdDNTVGhTNXExWVZEV0lrRmdlMW1wMlYxYWlhblBmdw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OTzhHMFpCTEx0S3JQN1VHZDBrY2ZVOEo4MVV0dnRHQ09NSFlyMjRpV04wWHVwQ1FVNDVCZXlKN19PY2FRbjJXUXhIbEwzM0x2MDJMYkMwTExEbTg0c1NKUmxUOEdWV3Q2VldIRjVMZ0JCclJNbjNlVDJzYnE?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0VVdE8xREt5QlpxR2h6SERnZjRfQV9IU0QxSmpnU2NZNUhFRjVYVnJYejdxblB5Rm1rcG9LOEtzNjMwRWg3Qnh2WWFHRE5qM002YW9TRkJuSW03Vi1NNmU4SzVLcXcyM0lDRkNQS1hmUDVpc0laYkVGVVNpWkZyOWFwZ0dxcjR4czBvMWdCV1dnSUk1YlQ2WjF6Z3NSQ09xa0xVUHFEYlJIejVLMmIzWUE0dmd6MWNQNzJqUTJn?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvUU1SLWZGMnpDTVE4bkRqX0RPTGl0eERIWTBwZTZRb3B6bTJheGVXbUNaUkZURlRsNlU2d1lLTGkyUk1ocjNMTkQwUWNEYjU1clVGWnNGSGVsemo3LW1Ja2FzaUtPWVhSNjg4ZGJYejc4cFE0ZkJKNERsX0E?oc=5",
+    "http://www.africanews.com/2026/11/20/us-protesters-demand-human-control-over-ai-after-anthropics-ipo/",
+    "http://www.africanews.com/2026/11/20/bhutan-traditional-wood-painting-shapes-the-kingdoms-architecture/",
+    "http://www.africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador/",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0Zsck41ZVp0V0dJbktHZmFfOC1rUEY4RzlrV2lfRnU0QzJjdXptRTYtUlVsajl3blRmSERpX3M4NkpVYV9TM0RYbTN1RUJjZld0bjhFbF9pLVZfZnJJTzFwajRyWUNGbEpyZUhqdUZJdGxFaTdfMHhad1hpOE9aYU5KM0huRkdRaFBfVV8ySjJXMVVLMUVPUHMxRGVBWm9QdWNZeWprenJoRkg1U1UxQ1NQXzRMNjNwMHNsXzRleTU4ZDdwbTFqOG5meU5wQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWUVCVnhlMjQ2LVhFMEFGMHNROE5lMkFSRDVwRlVSX05VRVR4MXN4RDh1V2FMY0djblJ1MEJqY1JRbkp2d213ZFpzWnVpUmpTbjV1a2w3V2NUcXhkRDJ0cTU1d3FRZ2dQbUhhRDNUOTFHR3l2Qm5SRk0xZTVfbklqZ0RtZXdHajRDeC1SWTg1RG9oTWk2SjRDVy1KWllQWHRSclAyaWdmVnFoS2pKTlpBVmxCVVU0aE9RSFR2MzlyUHBzNFhFMzl6UTU0ZjVCRThMcEwzaGZQLTUtVVUtYXgyT3B3MEFOVXI5Q0RnVjluTQ?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Президент Лі Че Мюнґ вирушає на саміти ASEAN та APEC",
-      "summary": "According to Chosun Ilbo, President Lee Jae Myung has left to attend the upcoming ASEAN and APEC summits. The article does not specify dates, venues, or accompanying delegations, only confirms his participation in these multilateral meetings. The departure underscores South Korea's engagement in regional economic cooperation, but the report contains no statements about specific bilateral talks or agreements.",
-      "source": "Bilateral Meetings",
-      "publisher": "조선일보",
-      "published": "2026-11-16T01:28:05+00:00"
-    },
-    {
-      "title": "Філіппіни та Австралія підписали оборонну угоду на саміті АСЕАН",
-      "summary": "Президент Філіппін Фердінанд Маркос-молодший та прем'єр-міністр Австралії Ентоні Албанез підписали Угоду про оборонне співробітництво. Ця подія відбулася напередодні їхньої двосторонньої зустрічі, яка пройшла на полях 49-го саміту АСЕАН та пов'язаних самітів. Лідери двох країн офіційно представили підписаний документ, що фіксує новий етап у їхніх безпекових відносинах.",
-      "source": "Treaties & Agreements",
-      "publisher": "Facebook",
-      "published": "2026-11-16T09:12:09+00:00"
-    },
     {
       "title": "Рада ЄС збільшила підтримку морської безпеки в Гвінейській затоці",
       "summary": "Рада Європейського Союзу ухвалила рішення збільшити фінансову підтримку для забезпечення морської безпеки в Гвінейській затоці до 31 мільйона євро в межах Європейського фонду миру (European Peace Facility). Цей крок спрямований на посилення стабільності та безпеки в регіоні.",
@@ -1411,6 +1397,20 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-11-19T20:20:27+00:00"
+    },
+    {
+      "title": "Призначено нового посла Великої Британії в Малі",
+      "summary": "Британське Міністерство закордонних справ оголосило, що Кетрін Мері Інгліхерн, OBE, призначена послом Великої Британії в Республіці Малі, замінюючи Ангуса Філіпа МакКі, OBE, який переходить на інше дипломатичне призначення. Інгліхерн приступить до виконання обов’язків у лютому 2027 року. У її резюме – попередні посади: посол у Гвінеї (2015‑2019), робота у підрозділах FCO, пов’язаних з епідемією Еболи, кліматом та енергетикою.",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-11-20T11:10:37+00:00"
+    },
+    {
+      "title": "Сомалі висилає послом ОАЕ через порушення суверенітету",
+      "summary": "Президент Сомалі звинуватив Об'єднані Арабські Емірати у підтримці збройних сил поза федеральним контролем та недотриманні державного суверенітету країни, що стало підставою для вислання посла ОАЕ.",
+      "source": "Africanews",
+      "publisher": "",
+      "published": "2026-11-20T08:45:51+00:00"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "links": [
-    "http://africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump",
     "http://africanews.com/2026/11/19/myanmar-committed-genocide-against-rohingya-icj-finds",
     "https://army-technology.com/news/ukraine-submits-defence-list-for-european-funding-approval",
     "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair",
@@ -24,7 +23,6 @@
     "https://navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion",
     "https://navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal",
     "https://navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek",
-    "https://navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEVPNlBxT3hTUlRwZUduV1dtWVZJTVJsWnBteVdDUkZfZUJQR1lXbzB5S0E3MGdBYVF4R3pCQkItXzNDUy0xOHBXb0piUDM5cTQxTDV0bzJQOEFaU01JTGF6eC1fMjBhVkczUU9aeTRQeTk0bXN5VmFsdktib1J3dG03UmREZWgxT2M2emZVbEtQQlA1TUVTLVVHNjVKbGR0V0ZHaUxMWHphMEdWRGJCaTdWUVU3UnhicVpScnctdURtTWJoUFZpU0hmVVhSWkFKOVNhb2IwemZHYU5WcXBmdw",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTWZ1VVlkZjRuNVZpWnhxLXRaZUU4QVpjLXRKcm8xVTdYalU0LVBJVWQ5dmNYel9nOVhPaERVck1BT25WazVMV044RmlJMEJjdHVkYjc0a0YwOWRxMkVEMWZKenBnSndNdWZWbXY4c3ZLRmhDMHZMVkxGUWpvMFJQWXRhWWJBVEg3SzY1LXdVNzZETmstbG9wVjZJR1hFbUMzbW5oaFh6XzQtU2tCaGkyRWJFYnZFQzI1MC1PREJFWXhfb0wybWk4bFgwSGxnU1hsT1BFM2Rjd0dydGgybmJVVjc4Vl9zSTFaLWc",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLWFtX1o2WDZFT0ZGQ3ZIeklIcTBEWHRwU0xNTWExSWFycXBtb0dzVEkzZHl5Z3cyeWl3aVFmSXJzcU9LUXpzRnVxUjBrZDBDMUplWVF1LTNJZGc2RWhfbTZtcFdjSjByTkxsTW1KTUxVLTN6c3oxWU5kTGdpRF9aUDFUUUUySm5mWUhQMEtlZERZTjgyaUdKWnJzMi1JcUtHRW1KVW5RejAwQ2p6Vm55NTNsOXF0Mkp1UHpRWS0yX3FoUTRJODc3bjlOS08xYjhwMlFuX2cxOFZYQWVpanQyOGpSZW1tRXhzNGc",
@@ -39,43 +37,12 @@
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGtTS240YjQ2Y2RhaGFFS2JwcE9Ld1JWSzZmdG1tOEZfeWlFdGR1RG9KRFV0NmJTUl9BZC1fTl84NGo3ajlibmNaOFAtSzFSSjZLM0JFNEhvbzY4cVkweFA3OXZuSGpiYkp0VWdtbGRSeTA0VTM1cHY0WXVZYmVaejVQb1VfT2RaeGE2MHRYa0U5ajg",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdvSTN5MW55TWE0QVZ0cmd6bGZtOHJmc3pVcHEwM1RtOFFib1o0SXphNjd3cFk0Z3lGODRJaktMY0ZWeFFvenBxTWthQW5oWDQ2RjVoZzdoWW95M1pIVkNzLU1XR2RWZjFsYjNhN0hKZThmSTZwUXhWVmVfNklRZ2ppSE1lYUN4ak5TWENLWTVMUmYxTWlHeGhn",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEVZVW91LThiQ3VsNzRHRlc2cmo4WEs3WXdmYXBNdFZ5ZjlBQ3dEQi1adHIyYk9VMkJWM242VnNVa18ydGZPQ0xvcEQtRVlQRy1hZDVjS3lGTUloQTBna2xfM1p6RTBJaUg5c2V0cDI5RUl4U1lrX1BWd3ptNXAtWHI2Y1ZWYzY2NHR4amNPOEhpUHVsSkRQN01ySkNQaE9tdWVLMnlNSlpYRlNuY1l0Y0ZMMkVBcjFh",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW9Ldlk4bXUtNjRJR0N4YXZFNWRJS0s1eFpzU3hUVVZIenZVY1F2TW1LZ0N5aFU1TldhaFVoN0dNSWpKV1BjUG50SzM0MGNma1ZJaWR2dTlwMmI2SF9idlNCQjJsQVhuR2ttWDlaWkFFejg4dmpHRUdwSV8yaFdTNnZzbFg4RjN0eHpxc2hwRm1hNGxhQVR1RjE1TUFxRGdQQV9NLWs0bXFfTWRTRXRqa1lCc25MeU52T0c3YVphTTE0Zw",
     "https://twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
     "https://twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
     "https://twz.com/space/europe-is-exploring-orbital-deep-strike-weapons"
   ],
   "recent_posts": [
-    {
-      "title": "Biden назвав індо‑європейський коридор «блискучим»",
-      "original_title": "Biden calls India-Europe corridor 'brilliant', credits Quad with stronger India ties - IANS LIVE",
-      "summary": "Президент США Джо Байден охарактеризував індо‑європейський коридор як «блискучий» і зазначив, що ініціатива Quad сприяла зміцненню зв’язків з Індією.",
-      "source": "Коридори · IMEC",
-      "publisher": "IANS LIVE",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEVZVW91LThiQ3VsNzRHRlc2cmo4WEs3WXdmYXBNdFZ5ZjlBQ3dEQi1adHIyYk9VMkJWM242VnNVa18ydGZPQ0xvcEQtRVlQRy1hZDVjS3lGTUloQTBna2xfM1p6RTBJaUg5c2V0cDI5RUl4U1lrX1BWd3ptNXAtWHI2Y1ZWYzY2NHR4amNPOEhpUHVsSkRQN01ySkNQaE9tdWVLMnlNSlpYRlNuY1l0Y0ZMMkVBcjFh",
-      "published": "2026-11-18T03:57:00+00:00"
-    },
-    {
-      "title": "Сі Цзіньпін і Володимир Путін провели зустріч на саміті АПЕК у Китаї",
-      "original_title": "Xi and Putin meet at APEC summit ahead of trilateral talks with Trump",
-      "summary": "У середу китайський лідер Сі Цзіньпін і президент Росії Володимир Путін провели зустріч у китайському місті Шеньчжень. Переговори відбулися на полях саміту Азійсько-Тихоокеанського економічного співробітництва (АПЕК) напередодні тристоронніх переговорів із Дональдом Трампом. Зустріч зосередилася на дипломатичній взаємодії між двома лідерами у межах міжнародного саміту в регіоні.",
-      "source": "Africanews",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "http://africanews.com/2026/11/18/xi-and-putin-meet-at-apec-summit-ahead-of-trilateral-talks-with-trump",
-      "published": "2026-11-18T06:55:59+00:00"
-    },
-    {
-      "title": "ТКМС і BAAINBw підписали контракт на чотири додаткові фрегати MEKO A-200 DEU",
-      "original_title": "TKMS and BAAINBw sign contract for four additional MEKO A-200 DEU frigates",
-      "summary": "Німецька суднобудівна компанія ТКМС разом із Федеральним управлінням оборонного обладнання BAAINBw підписали контракт на другий пакет з чотирьох фрегатів класу MEKO A-200 DEU. Ці багатофункціональні фрегати обладнані сучасними радарними системами, протиповітряними та протипідводними комплексами, а також можливістю розгортання гіперзвукових ракет. Додаткові кораблі посилять морську присутність Німеччини та підвищать її здатність до захисту морських шляхів у Північному та Балтійському морях.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates",
-      "published": "2026-11-18T06:59:00+00:00"
-    },
     {
       "title": "Карні та Трамп проведуть позапланову торговельну зустріч на саміті в Азії",
       "original_title": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit - The New York Times",

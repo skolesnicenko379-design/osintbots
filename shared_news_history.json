@@ -2,6 +2,7 @@
   "links": [
     "http://africanews.com/2026/11/19/myanmar-committed-genocide-against-rohingya-icj-finds",
     "http://africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador",
+    "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies",
     "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters",
     "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
     "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel",
@@ -13,6 +14,7 @@
     "https://defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
     "https://defensescoop.com/2026/11/19/army-extends-data-operations-center-pilot",
     "https://defensescoop.com/2026/11/19/trump-nominates-centcom-deputy-lt-gen-patrick-frank-to-lead-northcom-norad",
+    "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
     "https://defensescoop.com/2026/11/20/gao-pentagon-munitions-plan-data-management",
     "https://gov.uk/government/news/change-of-his-majestys-ambassador-to-mali",
     "https://gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee--2",
@@ -20,6 +22,7 @@
     "https://gov.uk/government/speeches/strengthening-resilience-through-economic-and-environmental-co-operation-uk-statement-to-the-osce-november-2026",
     "https://middleeasteye.net/live-blog/live-blog-update/china-issues-peace-declaration-agreed-trump-and-putin",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-icc-out-control-cant-go-and-arrest-heads-countries",
+    "https://militarnyi.com/uk/news/bae-systems-avtomatyzovanyj-boyeprypasiv",
     "https://militarnyi.com/uk/news/brytaniya-peredast-ponad-1000-droniv",
     "https://militarnyi.com/uk/news/husyty-raketamy-po-elektrostantsiyi-araviyi",
     "https://militarnyi.com/uk/news/kongsberg-brave-prime",
@@ -42,6 +45,7 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW9Ldlk4bXUtNjRJR0N4YXZFNWRJS0s1eFpzU3hUVVZIenZVY1F2TW1LZ0N5aFU1TldhaFVoN0dNSWpKV1BjUG50SzM0MGNma1ZJaWR2dTlwMmI2SF9idlNCQjJsQVhuR2ttWDlaWkFFejg4dmpHRUdwSV8yaFdTNnZzbFg4RjN0eHpxc2hwRm1hNGxhQVR1RjE1TUFxRGdQQV9NLWs0bXFfTWRTRXRqa1lCc25MeU52T0c3YVphTTE0Zw",
     "https://twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
     "https://twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor",
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216",
     "https://twz.com/news-features/why-the-e-4b-doomsday-plane-always-shadows-air-force-one-when-the-president-travels-abroad"
   ],
   "recent_posts": [
@@ -446,6 +450,16 @@
       "published": "2026-11-20T21:26:26+00:00"
     },
     {
+      "title": "BAE Systems відкрила в Великій Британії перший повністю автоматизований завод з виробництва великокаліберних боєприпасів",
+      "original_title": "BAE Systems відкрила перший у Великій Британії повністю автоматизований цех з виробництва боєприпасів",
+      "summary": "BAE Systems запустила нову лінію спорядження 155‑мм артилерійських снарядів у Гласкойді, Південний Уельс, використовуючи повністю автоматизований процес плавлення та заливання вибухових речовин. Інвестиції у 180 млн фунтів передбачають 16‑кратне збільшення виробничих потужностей і застосування роботизованих систем і автономних транспортних засобів, що підвищує точність і безпеку. Це дозволить Великій Британії значно посилити постачання великокаліберних боєприпасів, зокрема для підтримки України.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bae-systems-avtomatyzovanyj-boyeprypasiv",
+      "published": "2026-11-20T22:01:56+00:00"
+    },
+    {
       "title": "Трамп заявив про участь двадцяти лідерів у саміті G20 у Флориді",
       "original_title": "Trump says 'all the top 20 leaders' will attend next month's G20 summit in Florida - Anadolu Ajansı",
       "summary": "Президент США Дональд Трамп заявив, що всі двадцять лідерів візьмуть участь у наступному місяці на саміті G20, який відбудеться у Флориді. Інформація про це була оприлюднена агентством Anadolu Ajansı на основі заяв американського лідера щодо майбутньої міжнародної події.",
@@ -454,6 +468,36 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUMwUDE2RmQtN01DdGJ0dzZTNVd6bENyN0RMVlB6NElOcHZRY2Q0ZkYyV1EwZENncjl4ZEhHN2szbzVtUEVnU0lBVkJtZ0dRQllyYlFyYVIxdUU5UHRrVGtjU2JyRTZtSDk1NnJiOGV2SklsLWtLSUdQLWhwWE1SOGQtMVF6OEU4VnNCMl90RTR6N0dPWlJEQUU5c0hCM2hTNUlRMUdVMDBwczBPNmV4RTFSY1VwOGVwR2xKU3BR",
       "published": "2026-11-20T22:47:40+00:00"
+    },
+    {
+      "title": "Армія США планує співпрацювати з OpenAI у проєкті Gatekeeper",
+      "original_title": "Army plans to work with OpenAI on Project Gatekeeper",
+      "summary": "Армія США розпочинає співпрацю з OpenAI в рамках проєкту Gatekeeper, який автоматизує процес отримання дозволу на експлуатацію (ATO) для комерційного програмного забезпечення. Завдяки інтеграції інструментів штучного інтелекту, зокрема Daybreak, постачальники зможуть швидко валідувати код у DevSecOps‑платформі, скорочуючи місячні затримки. Це має прискорити впроводження нових технологій у військові мережі та підвищити безпеку через більш ефективну перевірку.",
+      "source": "DefenseScoop",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
+      "published": "2026-11-20T22:49:30+00:00"
+    },
+    {
+      "title": "Bunker Talk: відкритий тижневий обговорення подій, які не були висвітлені",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "У цьому пості «Bunker Talk» представлено відкриту дискусію за підсумками тижня, де учасники можуть обговорювати події, які не були висвітлені в основних матеріалах, а також інші теми за інтересом. У повідомленні згадується один із шлюзових дверей у газонепроникному енергоблоці експериментального киплячого водяного реактора, проте технічних деталей чи нових військових даних не надається. Тому цей матеріал не містить нових фактів, що стосуються конкретних військових технологій чи рішень.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216",
+      "published": "2026-11-20T23:12:57+00:00"
+    },
+    {
+      "title": "ВПС США підписали контракт на $16,1 млрд для розробки двигунів з 58 компаніями",
+      "original_title": "Air Force issues massive $16B contract for engine work to dozens of companies",
+      "summary": "Уряд США оголосив про підписання індексного контракту вартістю $16,1 млрд на 15 років, у якому 58 компаній отримали початкові аванси по $1 000 для розробки технологій реактивних двигунів. Угода охоплює весь цикл – від досліджень і концептуальних демонстрацій до виробництва, інтеграції та експлуатації, що має підвищити потужність дронів‑партнерів, великих транспортних літаків і майбутніх бойових платформ, зокрема потенційного винищувача F‑47.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies",
+      "published": "2026-11-20T23:52:57+00:00"
     },
     {
       "title": "Трамп звинуватив МКС у виході з-під контролю після зустрічі з Сі та Путіним",

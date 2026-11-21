@@ -3,6 +3,7 @@
     "http://africanews.com/2026/11/20/somali-protesters-come-out-in-support-of-expulsion-of-uae-ambassador",
     "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies",
     "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters",
+    "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
     "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
     "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel",
     "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
@@ -21,15 +22,18 @@
     "https://militarnyi.com/uk/news/bae-systems-avtomatyzovanyj-boyeprypasiv",
     "https://militarnyi.com/uk/news/husyty-raketamy-po-elektrostantsiyi-araviyi",
     "https://militarnyi.com/uk/news/techunity-stantsiyu-keruvannya-nrk-z",
+    "https://militarnyi.com/uk/news/ukrayina-eksport-bojovoyi-systemy-delta",
     "https://militarnyi.com/uk/news/ukrayina-otrymaye-dva-bojovi-katery",
     "https://militarnyi.com/uk/news/v-yetnam-vyprobuvav-btr-xtc-03-iz-30-mm",
     "https://militarnyi.com/uk/news/vyrobnyky-raketnogo-palyva-ta-naftoterminal-madyar-rozpoviv-pro-ranishe-nevidomi-udary-po-rosiyi",
     "https://navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details",
+    "https://navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYTZlSVlpMkNiSGdoS3Rva1Z1UUxIY3RIVEJ3NHVMOTZfR0R0d21MdENZa01UN1VJUWpBd1N5YVFSRm44VWdhaEJxQzhEQVIydEVwbjBEeVc5QjVwRHJiQ3REX1JWbldiUE0zME1CbGVRNUk4RU9lb3VtNHVFNTN2SzNROVZhalNLam5NZHRJc252TUhxaG83bjZWNW8ySGdnN0V0cXA1SnJ3UVkwdjRobS1Qb3VVYldJWmZFOGMzclk1NjVJU3dyeXdmQnNJUVRjSUtXWEtaTTBLY0lMcXE1MkRGOTQ1NUJlVFZsenhIekhrYUFnaVE1edIB_wFBVV95cUxNZ29xdFVYYnkydEhuNS1tdGRrSDUwU1F5SU1FOGdsbnluMENlMHkzc0wwdVYtbk5MQW0xeXVNQ05qRkhTUFo1YWQ0bnk2QW40VjNUQ1VBMlJLa24wdzhFb0ltZWdOUzVUUjZCWGwzUFdCSU1fYUNjTWpqeTBtYUVWbDJFTjZHV1l3dXpiZWJUa0psN2NJMEhVQ3dDTC1McVRfdllFZ3R1QXhJRzZUQnVhYmhQUWFZcUFZZ25tSG5GanFEejVpRDctcVlfTFh3ak1NX1dLQ3U2MHYyMVFibzJQNGJhOTJRdS1CMFczaUNBNjE3ODV3ckVuaE9lZGk2Zm8",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFZEaDhhWTBNVm9xLWN2dlpUbzJHYzlISzlCNDFab2xJb2F5SFFyWDhObzAwbjVzNDU1TWtuS195WWU1VHRhYXBmZDdOZ0c2b0dBbndlVzRad3B4UWlmSDViYkhhZjRTekxZMzZjV2RFRGE3Ym5Tc0E4YWRBVjE2RERDMUg4QUxWM3hjTDJFM0NSQkh1elo3eXI4dl9BelllQ0kzeDRVbDNpN09MNS0yNk9BZUs5QlJvblRkcmt1YkFiVkJKdmx2QnhoQnFEX3E0MG5WeXdn0gHbAUFVX3lxTE8wcG9zRi12OUk4TG1xNVBPVGxsNGRQcldrVk5vQjQ3UDFUMnNWSmN0bHhFeW5tRjg2bVRuVkkxdnlOX3A5SEdGMk1RYkdnOTJFcC1WWktUWnFGUjlsNGs3QXNsRzNkVkxvZFNycWNNUjJWMTV2cVFMMElNSzJWb0M2d1A1THM5MVF2NXFmTTRBWnVYSE1NNUMzZl9IM2dfNnlwb1JuYUV2dzR1VGV3QzFTRU9JV05WUnI4b0lHTHZ2MFlpSUtQSl9SeWZYc1dneDNEbzFxSWthektJQQ",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUMwUDE2RmQtN01DdGJ0dzZTNVd6bENyN0RMVlB6NElOcHZRY2Q0ZkYyV1EwZENncjl4ZEhHN2szbzVtUEVnU0lBVkJtZ0dRQllyYlFyYVIxdUU5UHRrVGtjU2JyRTZtSDk1NnJiOGV2SklsLWtLSUdQLWhwWE1SOGQtMVF6OEU4VnNCMl90RTR6N0dPWlJEQUU5c0hCM2hTNUlRMUdVMDBwczBPNmV4RTFSY1VwOGVwR2xKU3BR",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVBwdlh6UTVzQXc5ZWNxeEZRLXJyWk9EdVZ4bkNaMXc0Qkh1TnBwT2VUN1AzblNMZkptMnNNQ1p2Zy1HZ0Vsd1FxNGJ4elBLRGlRU21KN2JUSHZiOTZlNEhaLUh3TmZNWHRRdGVJWUNUN3NWOU1IWm8tSmp3a1ZJblEzd3R2V1JHNGxxcGVwOWd5dThCR3pPc0tyWEd6blFFYVFMYUhJVWZQQnRNY0lsQ3BmeU81dVlUNFFneWl0OGl1c3lnRkdXTg",
     "https://twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
+    "https://twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
     "https://twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216",
     "https://twz.com/news-features/why-the-e-4b-doomsday-plane-always-shadows-air-force-one-when-the-president-travels-abroad"
@@ -206,6 +210,16 @@
       "published": "2026-11-20T17:54:27+00:00"
     },
     {
+      "title": "Auterion і Skyfall створять спільне підприємство з виробництва дронів у Німеччині",
+      "original_title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+      "summary": "Американська компанія Auterion і український виробник дронів Skyfall оголосили про створення спільного підприємства Skyfall X Auterion для масового виробництва безпілотників у новій фабриці в Німеччині в рамках програми «Build with Ukraine». Першим продуктом стане платформа Shrike FPV, а згодом планується випуск інтерцепторів та систем середньо‑ та глибокої атаки, що поєднує каркас Skyfall з авіонікою та ОС Auterion. Німецька фабрика, фінансована німецьким урядом, забезпечить захищене виробництво поза зоною бойових дій і швидкий зворотний зв'язок з польовими підрозділами, що підвищить постачан",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
+      "published": "2026-11-20T18:24:00+00:00"
+    },
+    {
       "title": "GAO закликає до широкого плану боєприпасів і кращого управління даними у Пентагоні",
       "original_title": "GAO calls for broad munitions plan, better data management from Pentagon",
       "summary": "Розслідування GAO вказує, що Пентагон не має довгострокового плану боєприпасів і не забезпечує належного контролю над даними про запаси. Інструмент MRI, що збирає дані з 37 джерел, має непослідовні перевірки, що ускладнює точність розрахунків. Без централізованого плану та систематичного узгодження даних, армія ризикує витрачати кошти на короткострокові потреби, ігноруючи глобальні недостачі.",
@@ -286,6 +300,16 @@
       "published": "2026-11-20T22:01:56+00:00"
     },
     {
+      "title": "Air Force One здійснив найдовший беззаправний рейс з Китаю, встановивши рекорд ваги",
+      "original_title": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
+      "summary": "Президентський Boeing 747‑8i VC‑25B під час повернення з Шеньчжена пролетів майже 15 годин без заправки, піднявшись з максимальною злітною вагою майже мільйона фунтів. Це новий рекорд за тривалістю польоту та вагою, що підтверджує підвищені технічні можливості модернізованих президентських літаків. Така автономність підвищує стратегічну мобільність та імідж США, хоча відсутність можливості дозаправки в повітрі залишає обмеження у дальності.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
+      "published": "2026-11-20T22:39:44+00:00"
+    },
+    {
       "title": "Трамп заявив про участь двадцяти лідерів у саміті G20 у Флориді",
       "original_title": "Trump says 'all the top 20 leaders' will attend next month's G20 summit in Florida - Anadolu Ajansı",
       "summary": "Президент США Дональд Трамп заявив, що всі двадцять лідерів візьмуть участь у наступному місяці на саміті G20, який відбудеться у Флориді. Інформація про це була оприлюднена агентством Anadolu Ajansı на основі заяв американського лідера щодо майбутньої міжнародної події.",
@@ -364,6 +388,26 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/uk-france-and-china-vote-against-uaes-lana-nusseibeh-un",
       "published": "2026-11-21T08:52:00+00:00"
+    },
+    {
+      "title": "Французький флот ввів у службу четвертий підводний човен класу Сюффрен «Де Грасс»",
+      "original_title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
+      "summary": "Четвертий підводний човен типу SSN «Де Грасс» офіційно поставлений на озброєння Військово-морським флотом Франції в рамках програми «Барракуда». Це один із нових атомних підводних човнів класу Сюффрен, який оснащений модернізованими системами озброєння, сенсорами та підвищеною автономністю. Введення в експлуатацію підсилює стратегічні можливості французького підводного флоту та розширює його роль у підводних операціях у Європі та за її межами.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service",
+      "published": "2026-11-21T10:18:51+00:00"
+    },
+    {
+      "title": "Україна готує експорт системи управління бойовими діями Delta, перші користувачі у 2027",
+      "original_title": "Україна готує експорт бойової системи Delta: перші іноземні користувачі отримають доступ у 2027 році",
+      "summary": "Система Delta, розроблена Центром інновацій та розвитку оборонних технологій МО України, готується до передачі іноземним партнерам разом із вихідним кодом, що дозволить їм самостійно оновлювати та розширювати функціонал. Перші країни‑отримувачі отримають доступ вже наступного року, а повний цикл оновлень забезпечить постійне підвищення бойових можливостей союзників. Така модель відкритого коду може значно прискорити інтеграцію C2‑системи у різних арміях та підвищити їхню спроможність у спільних операціях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayina-eksport-bojovoyi-systemy-delta",
+      "published": "2026-11-21T12:37:08+00:00"
     }
   ]
 }

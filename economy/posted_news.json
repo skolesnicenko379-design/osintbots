@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWktqZU9rVDB4QUVtUzJKS1JocGFlV3VIVmFkMTEycl9IekxhbU9ybUhJZTFBWkF4ZWVnalJ6QThVaWZEYnFnekotcmRDMmdDX1RfQ0Q2N2IzZkRESGNzdFdfY3lMdUtJMVRlbnVCMzFta1RwSEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEFxWDc3aEk3bnJpOTBsYW5TRm1mZkN4WDR1UTU1Vll1Z1AwZ19OM3Zld1ZEelFta2cwU2FOaTQzSXVpQTNYWFFqOEJjajl5ZUxsZld4Y0kyNmFhbjdpU3RaX1gzZHJ5UlJDbmc4MWdNYXI5VXppWUF4T3hDYmtlYXl3Q1ZMUTI5WG5qLWU5NDZMYU9UbnpXSng4OHp3X2U5RW5vN3JvUVoyVGpob0dqcm9jeTNBYklWb2Q4NkdtRWVrSXFFSFlfWg?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnBGeXhicnpyaWM1NXdzd0JzRHV6b19LSm1RbGV4WFVqUVo4MFNZWE5wOXhLT01tUTVxZmF5MXdsY21iYzNOQTVBQ1J3Ri1XZGJBX2xJbXotYXIwSWwzM2NQemdLZHNLUHd0UXFQOVhaUHhQU0FOekg0LXhCUzVCelhLem9oa1QwaU1TSw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDZLMjBRUE9DNTNjMWlpX1Nya1ItaVBCT042SVNPcGo0SUhObGd6MnliNDI2QzRWZ3Izb1RmTFBsNTVmOGV1MlFheUpsb0ZOc1R1M0xzUk8xX3pDWXJGbjYxdjJFekJ6RkNLZEpKTE9DUVAwZ0dUNVVOMkxGWk0zaGZRNHFSbkdmRVk2UXc0X09RbmlZWW5DSFczMWg?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQdIBngFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxON29kM2MtR1FseU9nSTVQUEZyeU82WGZaM1JUcjJBNDdUWmY0RTR3N1ZLRlo4WU5wa0N3QUtMUVlTelhKdkFPSEcza2s3dVU1TEVDekNuNXhfcEtSRUxqYXVSclZ4WXI0azRPZHlFZU9ZUk15TE5pbHZrLWV1MU8tS3l2QmNFYVJOcEE?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTBZMW50ZHIyb1RodG9tOHJBZkpnOHM0STlmMTZDd0NBSVVfVDdKcnFweDh1WTRXNExQY2VmNUVmODN5MVFrNmk4Y2Q0NmRyaHNFeXhhMEg2T0xIZGw2N1UtRVlxUUY5ekhEZTljdjYxeU1zT3B5Vi1LYWlZaVJyTWJwNU1DTFhuOWMxTkdUTzNVVDhMQ3Rwcg?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTU0zeW9oM2x1bGNJSjlMalZHbGtRM19Ed20tamtXRzFseEdZRW14Q3BMNW5yTEt3VUZvWktvQnJhbFltMGw4TjNYM3hjRXVHQXo3TWg2X0VCTGZ2ZDJSUTNtbk1XdmRwLTJnWEFyaFQtWFppeXc?oc=5",
@@ -1199,37 +1193,15 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUERRT2h3VnpVb0xXN1RnZzVvMF9NYlBOMFRmWTlHTHFPUDRCQ1c0MnhSNzNGZE5hOW0zR05rX2JsOWpFX3dmY1czSTZPUnhZdlozMVFHVFZjRE5CN0w0a2dJenVfQ0tySENUUENLVjBYdC1TNzlLRVNBZkx6aGJFVE5aV21scHJhMFZz?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGUjRfZDZQaVJMQW5GT1lDSkJMMzhXRy1DNjNSZldQZ0dheER2WGNUOUxCR2cwZHdieVItYjlLbEo5ekZSb2tRZHZVeFJfS0VXRF9naDVjeDZoZmVVOWtvVi03SnhhUHVlLVpOcHN0MWFibjhXVFRLeHVySTM?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wRFRwTHZueVNMRHFtVU1jY1daNEN1bzZ3WU1HTngxT0hMNm5JRm9jOFM4RDNEZFlxR2FqVkd0U1haODZ3ZmxRc3o1R1pQWDljOEJudG9oZnQ4RjQwem12R0VFNUFHM2lRQVB3ZE9uN0R6N1hsZTdJ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFZEaDhhWTBNVm9xLWN2dlpUbzJHYzlISzlCNDFab2xJb2F5SFFyWDhObzAwbjVzNDU1TWtuS195WWU1VHRhYXBmZDdOZ0c2b0dBbndlVzRad3B4UWlmSDViYkhhZjRTekxZMzZjV2RFRGE3Ym5Tc0E4YWRBVjE2RERDMUg4QUxWM3hjTDJFM0NSQkh1elo3eXI4dl9BelllQ0kzeDRVbDNpN09MNS0yNk9BZUs5QlJvblRkcmt1YkFiVkJKdmx2QnhoQnFEX3E0MG5WeXdn0gHbAUFVX3lxTE8wcG9zRi12OUk4TG1xNVBPVGxsNGRQcldrVk5vQjQ3UDFUMnNWSmN0bHhFeW5tRjg2bVRuVkkxdnlOX3A5SEdGMk1RYkdnOTJFcC1WWktUWnFGUjlsNGs3QXNsRzNkVkxvZFNycWNNUjJWMTV2cVFMMElNSzJWb0M2d1A1THM5MVF2NXFmTTRBWnVYSE1NNUMzZl9IM2dfNnlwb1JuYUV2dzR1VGV3QzFTRU9JV05WUnI4b0lHTHZ2MFlpSUtQSl9SeWZYc1dneDNEbzFxSWthektJQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFZEaDhhWTBNVm9xLWN2dlpUbzJHYzlISzlCNDFab2xJb2F5SFFyWDhObzAwbjVzNDU1TWtuS195WWU1VHRhYXBmZDdOZ0c2b0dBbndlVzRad3B4UWlmSDViYkhhZjRTekxZMzZjV2RFRGE3Ym5Tc0E4YWRBVjE2RERDMUg4QUxWM3hjTDJFM0NSQkh1elo3eXI4dl9BelllQ0kzeDRVbDNpN09MNS0yNk9BZUs5QlJvblRkcmt1YkFiVkJKdmx2QnhoQnFEX3E0MG5WeXdn0gHbAUFVX3lxTE8wcG9zRi12OUk4TG1xNVBPVGxsNGRQcldrVk5vQjQ3UDFUMnNWSmN0bHhFeW5tRjg2bVRuVkkxdnlOX3A5SEdGMk1RYkdnOTJFcC1WWktUWnFGUjlsNGs3QXNsRzNkVkxvZFNycWNNUjJWMTV2cVFMMElNSzJWb0M2d1A1THM5MVF2NXFmTTRBWnVYSE1NNUMzZl9IM2dfNnlwb1JuYUV2dzR1VGV3QzFTRU9JV05WUnI4b0lHTHZ2MFlpSUtQSl9SeWZYc1dneDNEbzFxSWthektJQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0hnc2xJVUhYWG5UT0EtVG5rdGc5M042UUVxT3NHQkhKaFg2Y3MyT0JqbklSbl9jNThRREdnNUdiSHd3LUR2OUJqZDZHNWJGZl91SnJTT1JZNm43QlF5U05VVDZ2dGd2MEgxSkNvMi14X3BqWTdzVzg1UE9ia0pzMjctdVpsS2I3V0U2UHdYWmVneUtOR21sOEVCYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUdMNHdLUWNVOGxlLVlVM1MxQ25nUEJjeUZDVEFUWWZadkVXaUlRNGRBZHB0eVg5bW01YXVaajhLeDBhN3hFMUQtSXF4ZUdXczljSGUyMllmLTFUZGo4dDNOam9uUEl3SEwtUjR1dnZRWnNkVG5rckhpTGV4MnpWSE5NTzdTcC16?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmlGWWhjWDdCUW5nbmItaDRZak1sVjJKQUxpVGpuZ1hQV2tpb1lPa254Sjg1TzVqV1lCYzF2OW1wc3JoWEwxRW8zWmtKRUVPWkU0R3ZkRUZGbE53b3NMR2tFQkVVUnd2MHkwRDlZT3dBcFRlc3JibWJiQTh3TVE0dnJ1aHYyaWpCekJKMWJnVEgtcHM4VTlqdmMzMW5xelU4b2RZY29mMVh3bkJvOEpod0x6Z2JRZFN2X3ZsZTIyaWw?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVGlUZHdGTlpoYmtqRDc0MjhxeGZZZUJYbVNrNXBENnA4cGRkUUFBaFMzMGEyQjlWQk1LMDZyc1JwcWVZdUpnNXlKZkd0eFozdXU3NzFNMzhSOWJMUkk2eXRLU3F3QXVlNkFFeTd6WHd4aVBxalhJZnlHLWtQeV84blBnOFE1cll5TE16VHJrUm5SREpCRjlzeFZ1MGlUTGRfQlVLd2x2YnBELXg4ZnlXTzcweU5NRkJIWG9FdDh2a3V1bWxy?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbVNsMzg5TEpkQlFDZExGZ0JxSUtwMEU3WTNXU25ualc0Y284bVZtZy1VNzFxeko4eWtBUjJWX2E3cU9aVVdpMkp5U0N3WHc2VTdHbF83czBRTHpUVVNUOXlack1USUNjZ1E?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "ВВП Японії у 3‑му кварталі скоротився на 0,1%",
-      "original_title": "Japan's Q3 GDP Shrinks 0.1%: A Blip or Warning for ETF Investors? - TradingView",
-      "summary": "У третьому кварталі 2023 р. Валовий внутрішній продукт Японії знизився на 0,1 % порівняно з попереднім періодом, що свідчить про скорочення економічної активності в країні.",
-      "source": "Японія · монетарна політика",
-      "publisher": "TradingView"
-    },
-    {
-      "title": "Nvidia Scandal Sparks Trade Tension, Beijing Holds Rare Earths",
-      "original_title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
-      "summary": "Nvidia‑повстання підштовхує ймовірність нових торгових протягів під час переговорів Трампа та Сі. Під час цих дискусій Китай продовжує контролювати рідкісні землі, що залишає його в позиції ключового постачальника.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "Atlantic Council"
-    },
-    {
-      "title": "Український виробник продуктів закрився після російського удару",
-      "original_title": "Ukrainian food producer shuts down after devastating Russian strike - The Kyiv Independent",
-      "summary": "Український виробник харчових продуктів припинив роботу після руйнівного удару Росії. Подія підкреслює прямий вплив військових дій на агропромисловий сектор країни.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "The Kyiv Independent"
-    },
-    {
-      "title": "Philip R. Lane про комунікацію монетарної політики ЄЦБ",
-      "original_title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-      "summary": "Philip R. Lane розповів про практику та наукові підходи до комунікації монетарної політики, спираючись на досвід Європейського центрального банку. За його словами, ефективна комунікація є ключовим інструментом у формуванні очікувань ринку та підтримці стабільності цін.",
-      "source": "ЄЦБ",
-      "publisher": "ЄЦБ"
-    },
     {
       "title": "US industrial, manufacturing and retail sales data released",
       "original_title": "US Business Cycle Indicators: Industrial, Mfg. Production, Retail Sales - Econbrowser",
@@ -1341,6 +1313,34 @@
       "summary": "Світова організація торгівлі повідомила, що обсяг торгівлі, що підлягає обмеженням, становить $5,4 трильйона, що свідчить про зростаючий розкол у глобальній комерції.",
       "source": "Глобальна торгівля, СОТ і торговельні угоди",
       "publisher": "Devdiscourse"
+    },
+    {
+      "title": "Ізраїль стане 25‑м за розміром економікою світу",
+      "original_title": "Israel set to become world's 25th-largest economy: What can Europe learn from its tech boom? - Euronews.com",
+      "summary": "Ізраїль, завдяки швидкому зростанню, має зайняти 25‑те місце у світовому рейтингу за розміром ВВП. Підвищення пов’язане з його технологічним бумом, що може стати прикладом для європейських країн, які прагнуть розвивати інноваційний сектор.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "Euronews.com"
+    },
+    {
+      "title": "США і Канада «доволі близько» до торгової угоди, заявив Грір",
+      "original_title": "U.S., Canada ‘fairly close’ to trade deal: Greer - CTV News",
+      "summary": "За словами представника, США та Канада перебувають на стадії, коли укладення нової торгової угоди є «доволі близьким». Це свідчить про можливе підвищення двосторонньої торгівлі між країнами, хоча конкретних умов та термінів поки не названо.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "CTV News"
+    },
+    {
+      "title": "Країни GCC підписали угоду про єдиний залізничний коридор",
+      "original_title": "GCC Nations Sign Unified Railway Agreement - Wisevoter",
+      "summary": "Країни Перспективного Кооперативу Перспективних Країн (GCC) підписали угоду про створення єдиного залізничного коридору, передбачаючи спільну координацію інфраструктури та стандартизацію. Це крок до підвищення транспортної інтеграції регіону та спрощення транзитних товарообмінів між учасниками.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "Wisevoter"
+    },
+    {
+      "title": "Shekhawat: India’s GDP growth gains global recognition post‑Trump",
+      "original_title": "Shekhawat cites global recognition of India’s GDP growth after Trump - The News Mill",
+      "summary": "Shekhawat заявив, що індекс зростання ВВП Індії отримав глобальне визнання після епохи Трампа. Це підкреслює зростаючу увагу міжнародних інвесторів до індійської економіки та може сприяти подальшому притоку інвестицій.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "The News Mill"
     }
   ]
 }

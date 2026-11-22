@@ -5,13 +5,12 @@
     "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty",
     "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
     "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield",
-    "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests",
     "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
     "https://defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says",
-    "https://defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year",
     "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
     "https://defensescoop.com/2026/11/20/gao-pentagon-munitions-plan-data-management",
     "https://middleeasteye.net/live-blog/live-blog-update/trump-icc-out-control-cant-go-and-arrest-heads-countries",
+    "https://middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain",
     "https://middleeasteye.net/live-blog/live-blog-update/uk-france-and-china-vote-against-uaes-lana-nusseibeh-un",
     "https://militarnyi.com/uk/news/bae-systems-avtomatyzovanyj-boyeprypasiv",
     "https://militarnyi.com/uk/news/bezpilotnyky-atakuvaly-kaliningradsk-oblast",
@@ -28,6 +27,7 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVdoTF8wa2Z1ZW9vZlRqZkRpRWtqUVE3Um1OaHV5Zm5OT0MyVnVyS2p1c245YXhNUFc1d0tCWk9IazJ0eEtkcmI0R1RyWk85Q1FOOXFVSDRCaXg5bzNjQ1BuaGRBd1Q1RzdzR2xuMDY1NnVBWTNhRUc4ZmdGblVQLTczTDhCQjN2X05lWGU2TVVnVGlPMXfSAZsBQVVfeXFMTVV6U3ZjNjV0Um9vQlduN0tKdlI3R1QzWklfM1NxYWlkdkJxS2dZSjNCcldBVTlhMHF6Y3d1eVhxTjFMc2JpUVoyVDVWMzVTcUYxaFNUMjNsYk5nNGhWQksxbVZxTlAzSk5EdjN5cmlFcHFmZkhKTWxEc2FyemZPYzdhazNVYWozVFJPeF9ZaTlUMzh5R1NrSGRfdEk",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmJGcEZBVDhRRmtCT3VUSzJ6UjhmUF9NamVsOUZKdy1wNVY4U3RoeWx1S1V6OTdOR2lrUUtuUGp2dVpCTDFIRGs2REhNTEczOFZBWlU5RlZPWG5tTF81b3UycWp4dFJTSDl3dFhSWF8xSHZWaVhSeVJfSW1jTkQtRU12V1RKVnM0TFViWnNrd3JDbDNHaUFBcVZlMzhqWGtDcXVjY3hid0hoVUZ6",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFKUDdNZFRCLWtBLVdXaXJicmtVTFVoMFM2anB6VnA2dER4bHhWTVROaDdpWFhTeUpZYUJRWnZjYzc1b3g1WC1TcTJnZk5EdXpULTRwRFJRMGJRYmRKTzlzd1FiazJrSlNGRHNuUktRRjNaLTBTWlJScGhkeHJMTnYxdUdlcVRJOHZmWFdFeE1fUnlhMHB5MnM1SzcxaTdrWnRiT1BFbktpcmhSemw3anQ1R23SAboBQVVfeXFMT01MTmVjb1NOQWlBR3ZTRUhUU203dVZZSVljRnUwcGhWSUtiQkFOOFdsQjduS0tSVkN0VUtIVDc5NTJ4b21UbVVXWEp2SmdXTFZpbHB1X3FvM3ZHZ2piWURGTU45anA0M3VDOTJiaXh6ZTNZVFhlSlhlTjBoS0FFWjY0NDJ4V04zSUFwcVVORTJqQ083RjAtdmtCanZUMWQxNzgwak5NSWxwMWx5eVZGWHlWODhIM1R4Uzln",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21jTDUxN0Y0QlBaSV9DRWYzTlB5ZXIyR0JjY0lJeWotYWp4dTAyTnRKcl9oV0JCUmxNZ0FpYTFFaGQ3T1REZUxReTh0azN6bDd2MVhXMWR2aldJUS1ZWVJyQVBvQVlpSGVmZ0xHZkkweWNYSXh4Ymh2bVJPS28zeXQ3OHJFblROM1ZXUVp2aHJHOWtCNkFwMExYSC1VMFh3WkxjekdTcXpTWGJVTVZQN3RzQXk1cG81",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUMwUDE2RmQtN01DdGJ0dzZTNVd6bENyN0RMVlB6NElOcHZRY2Q0ZkYyV1EwZENncjl4ZEhHN2szbzVtUEVnU0lBVkJtZ0dRQllyYlFyYVIxdUU5UHRrVGtjU2JyRTZtSDk1NnJiOGV2SklsLWtLSUdQLWhwWE1SOGQtMVF6OEU4VnNCMl90RTR6N0dPWlJEQUU5c0hCM2hTNUlRMUdVMDBwczBPNmV4RTFSY1VwOGVwR2xKU3BR",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVBwdlh6UTVzQXc5ZWNxeEZRLXJyWk9EdVZ4bkNaMXc0Qkh1TnBwT2VUN1AzblNMZkptMnNNQ1p2Zy1HZ0Vsd1FxNGJ4elBLRGlRU21KN2JUSHZiOTZlNEhaLUh3TmZNWHRRdGVJWUNUN3NWOU1IWm8tSmp3a1ZJblEzd3R2V1JHNGxxcGVwOWd5dThCR3pPc0tyWEd6blFFYVFMYUhJVWZQQnRNY0lsQ3BmeU81dVlUNFFneWl0OGl1c3lnRkdXTg",
     "https://twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center",
@@ -38,26 +38,6 @@
     "https://twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington"
   ],
   "recent_posts": [
-    {
-      "title": "Німецькі ударні безпілотники пройшли випробування вогневого вогню, перша поставка цього року",
-      "original_title": "German attack drones pass live-fire tests, with first deliveries planned this year",
-      "summary": "У березні 2024 року два німецькі односторонні ударні безпілотники — Virtus (Stark) і HX‑2 (Helsing) — успішно пройшли живі випробування в Меппені, підтвердивши точність ураження цілей і дію боєголовок. Це відкриває шлях до перших поставок вже цього року та подальшого оснащення броньованої бригади в Литві до 2027 року, що підвищить можливості армії у використанні автономних систем ураження.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year",
-      "published": "2026-11-20T16:55:38+00:00"
-    },
-    {
-      "title": "Шведська Nordic Air Defence представила перехоплювач дронів K200, готується до випробувань в Україні",
-      "original_title": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
-      "summary": "Swedish firm Nordic Air Defence unveiled the K200, a successor to the Kreuger 100XR, intended to intercept jet‑powered UAVs such as the Russian Geran‑3a. The system expands capabilities against high‑speed drones, offering longer engagement ranges and faster response. Planned tests in Ukraine could provide valuable operational data and bolster Ukrainian air‑defence against emerging drone threats.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests",
-      "published": "2026-11-20T17:12:00+00:00"
-    },
     {
       "title": "WTO: $5.4 трлн торгівлі під обмеженнями",
       "original_title": "$5.4 Trillion in Trade Under Restrictions: WTO Exposes Growing Divide in Global Commerce - Devdiscourse",
@@ -397,6 +377,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/menshe-200-000-zaminu-pzrk-stinger",
       "published": "2026-11-22T09:42:19+00:00"
+    },
+    {
+      "title": "ОАЕ засудили атаку Ірану на Бахрейн та висловили солідарність",
+      "original_title": "UAE condemns Iranian attack on Bahrain",
+      "summary": "Об'єднані Арабські Емірати офіційно засудили іранську атаку на Бахрейн, назвавши її «грубим порушенням» суверенітету країни. У заяві Абу-Дабі підтверджено повну солідарність із королівством Бахрейн та підтримку всіх заходів задля гарантування його безпеки і стабільності. Раніше міністерство внутрішніх справ Бахрейну повідомило про напад Ірану на цивільний промисловий об'єкт поблизу столиці Манами, тоді як Іран заявив про удар по системах ППО на двох американських військових базах.",
+      "source": "Middle East Eye",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain",
+      "published": "2026-11-22T09:53:34+00:00"
+    },
+    {
+      "title": "Міністр закордонних справ Нідерландів прибув до Індії для перших двосторонніх переговорів",
+      "original_title": "Netherlands Foreign Minister Arrives in India for Inaugural Bilateral Talks with Jaishankar - DD News",
+      "summary": "Міністр закордонних справ Нідерландів прибув до Індії, щоб провести перші офіційні двосторонні переговори з індійським міністром закордонних справ Субраманьямом Джайшанкаром. Ця подія фіксує початок формального дипломатичного діалогу між країнами на рівні керівників зовнішньополітичних відомств. Текст підтверджує факт прибуття та мета візиту — проведення інавгураційних консультацій, що є конкретним міжнародним дипломатичним кроком.",
+      "source": "Bilateral Meetings",
+      "publisher": "DD News",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21jTDUxN0Y0QlBaSV9DRWYzTlB5ZXIyR0JjY0lJeWotYWp4dTAyTnRKcl9oV0JCUmxNZ0FpYTFFaGQ3T1REZUxReTh0azN6bDd2MVhXMWR2aldJUS1ZWVJyQVBvQVlpSGVmZ0xHZkkweWNYSXh4Ymh2bVJPS28zeXQ3OHJFblROM1ZXUVp2aHJHOWtCNkFwMExYSC1VMFh3WkxjekdTcXpTWGJVTVZQN3RzQXk1cG81",
+      "published": "2026-11-22T10:52:04+00:00"
     }
   ]
 }

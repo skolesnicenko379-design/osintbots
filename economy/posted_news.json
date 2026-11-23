@@ -1,11 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVExqME1GLXdaMzQ2eExKV0tGenFfU3hiTFJjWWpXc1p0Ykl4TUtXVnBMel85TFB2cXlFOW9IVHdYbmZ5Q0RmVFRPMWJtMU9GLUtDNnAybEIzS0w4am9NRnhJUm5xSE5HVU8wbU9xQktZRVZCTlJPUkdraXBZOVdKV3lIZ2RsNVJ1X194aVJ4LUg1U3FwbDhONW50MFUwcElyQU14b0NmMVVTa0JHdWN3MVlzSDJ1UElaWnAwZTdnTHNkUmZyeGlLMlRic3BJR0JqX0VRWENnYTBQNG5UakZTckxMWnhZU0E4NkdTYmliYUs2TWPSAfMBQVVfeXFMTVRMajBNRi13WjM0NnhMSldLRnpxX1N4YkxSY1lqV3NadGJJeE1LV1ZwTHpfOUxQdnF5RTlvSFR3WG5meUNEZlRUTzFibTFPRi1LQzZwMmxCM0tMOGpvTUZ4SVJucUhOR1VPMG1PcUJLWUVWQk5ST1JHa2lwWTlXSld5SGdkbDVSdV9feGlSeC1INVNxcGw4TjVudDBVMHBJckFNeG9DZjFVU2tCR3VjdzFZc0gydVBJWlpwMGU3Z0xzZFJmcnhpSzJUYnNwSUdCal9FUVhDZ2EwUDRuVGpGU3JMTFp4WVNBODZHU2JpYmFLNk1j?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRURGeDBmNHZQUUZ0SnlTQkxIbVhqSnpKLU4wbnJibnFLY05LV2h6TWFKZlctMGY4bkpJR0dobGFwdU9HOU04dnVWNGJSYnlkMVNEbE1xaEEtQ3FtNFhfc2d6OVU1Um5DWTlNekR4eVZDbXRxOThQbGp3cUJpa0hyZkYwbEJzd0JDWE02S2gtWXhuVTBSWWc1Q3ItRjFYOHJpbThyYmhR?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSGR0Z3ExU3ZTcGZCZWpEYlFRZ3ZPVU41MjUwVnZmT2JmWDVBOTl4VVJpNUJzWDU2TEdNQjJVRVpfQklwdldlU3pOdTVNejNUbHdMcWVuZmk5eFI5UGtqdWlUbE4zd3FqbVNLZ3Z4WG1zQVRQa1dRbXlQcEhTSnlMVXZsUnladjc4bk5PaU1LV20xczFfQUk1Y2dxWWU0Rk1WeHA4SlpfdW1FczlBbm52OWxjX0hldHNIYXZoNFN5ZDB1eTNYdUhTNjVoZ3VENnZpNzByRWNNVlp3Tk9ZNzFYWDJBd2Mzdw?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXZ3UDdWdWZ2ZVIwSklxeGZRYmV2cjlqTHkzeDRxUWhkTEFaaTY3WTZZYWNJbEQtdC1HcGZRdnZOT0Nic3FVVHRCWDUyQ213aU1NWVp4VThYM19Ua2dURHc5RV8tVm9MV25oNG9VZzRWNWhWdVNNVThyQS1ONEQtb1QyUkxPOEpQeThCV3ZHbjJkWmxlY3dEX1lTd0pad3ljbVljaUpmaEk5NXA4S0JvekJhZGlsZnFSb0wyVXBR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zeUFUTWcxUDlaS3lkemJBbi1RMGxES2szRFMtODFrTmJ4OHZxSFlsbWtfRFVpY283WWhRcHo3cUF3N3c0Vi1yTnYxdFNISmk5WnZhYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wS3lXMm9aYWNmTmV6UjF5bU9XZ2RJdktmbWEwRkRmbWxQSTlPZW53cFJZblVKZVNNX3RRaXVlV2dNS1hkeU5xaEhzdGJMS1lMVkF5bTRTZ0g4NlJ2VU83ejdFc3FZQ3R2bldEUTZXZjJDTHpnLWc?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qeTJDbWxDQW5QbnVHaHVhWW1OS0plOG00WXJ5a0xYZGtKT0JWLVFIZXFONmFWc2JkVUxBdzNtX0gySWVwM0M3VEtLekZWY001Z0MyejBXWFROMkQtUkxEbzl0a0ZqekFNX3NjdDZkVjdyc1FzWTl5am9Dbw?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXQtTWY1cWNhbC0tUDFkUld5Zmd0X0pKTGhvQ2ZKUzBGVlU2WlQySHk2WjNaMGRUQTduNG93elRxa3RnUC15SEJWREVaRGN2QUs1Y0szdUc4eGJ2M0dLYlI1TlMtZGdOc1h2a3BDSFdYLWRlSjAwTzZWVGgyRWNwQ1pBRnVRdGxsN3RWZnlKaDVGRzc0NFdnZ0pMU29RR3FBcG8xd1B4WXRRMG5XUkQzNzhn?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHZkY3pHak5vcDk0TjZLQTBmcDREaThyQi0zbGNqTFd5dDhPcjhmVFVSdzRzM2JqVldyRjRhU25tb0l4V1FPcWdWUU1feDl3aHIzR3k0b3p2TVMxamdNU1lQWV9pbFZfcDVVc0JMT25NZG9pd0lCX1Q0UTYxeDdDMVp6dW9TaXo2NWdWTTE0VjhxT0ptRmNKTkFjMmU1cEViUVB3Nmdad0Rhak0ta0F0YkRhWkFiVjlja1E?oc=5",
@@ -1199,51 +1193,15 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDNYYlp6LWxWUGE3VTBpbk0yMjlMakJVMk4zeTRzMng2Ym5ONGIwYXV5TWZGN0YyeWthSGd5ZVFXYm1aU05LLUZJdE1PZ3JNQ0pxNXdzcVQ0QXZXLUhCSVMtMl9GQUhuQlhLbExEM0FKYzFOZWxyeks0WXNWNnZQcTZ3TVBhUXlreXdLak1LdTVVNmNURFU0bU1od2Q4Rll6SVdvdlYzcXQzbjJhUTNKYk9yblJ4TVUxY1BYcnFrbi1rZjNKenc?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG03MWtsekxzNWlkMDNqX0YtUHp0UmZDNHllTFpMMmlXMDd5N0VoVTJGcWJncGtOWFNJOHB4TmkyaHVUNDVUcU44LTlrUk1JOXI1Y1FfeEEtX0JqR1k2WDFabnBucjVCMW5raWpPZ3labnFCRDlxWnFrY21XRVFHVVM4TEpIVW9SMnJUN1VDajMyNHJxUkhFbFhvdXRvb0h3emFfY0dScw?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVp2dGdrck4zdEVLVGNQaUFSUHpuT0NxdUFKdzRob0JQQXZHRTcyYTVIdjd1b216cTBocDJDb0JhVVhSY3RGXzQtNVFqWlRpU3BGUVg4NGhaM1lnN0ZoNXowbXZpTzF5ME9PeWxrVkpORGpIOWViYWpIOXNBZUVLc1ZCSFg3U1hVd3Jya2Fmdm02Z3E1cFNfX0tkSElRbkVJcjI3bnJn0gGrAUFVX3lxTFAxZ2xzZmJBY19mbUFwMUpFenRfUmFGZEF3SHJNZFo2MFdyZEpsckVhMnBsSGY2eHMzTk1UVVZpVU9PdkVzbXpLSUhzV2F6bGxzdTJVX1RKdkh4Y2pzR3ZMYVA4Wi1sSUh3WlFvZmpxQk9vWnZuX0lvY010V0dQZ2dMVDg0UGNBOXhTa1FwamtFcFZRS3JvLWxla2VBVThTWUhiVkpVaUYwdDI5RQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHZUODljbFFfazVIMGExbURHaDdNZjhuV3hxaXlEaThFb3dyM1RHTTl6X1JNdEc0OHVYVmJKNVY1c1J5X1JXU1Z4NXhJWTd3eUIzWk5tSWFwUHVzMXJMYWJFSWtqYnlJQnBtZGhZb0t0VlRnRGF0d0J3cFhHbE02OW13TFBkTXNJYlBSbUxDd3g4b3hDRi05ZTZHWlo2MEZ0V2d5dnVtalM5R3FXcGNqOHo3VUR3QnBFR3BwcTAzd1I?oc=5"
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHZUODljbFFfazVIMGExbURHaDdNZjhuV3hxaXlEaThFb3dyM1RHTTl6X1JNdEc0OHVYVmJKNVY1c1J5X1JXU1Z4NXhJWTd3eUIzWk5tSWFwUHVzMXJMYWJFSWtqYnlJQnBtZGhZb0t0VlRnRGF0d0J3cFhHbE02OW13TFBkTXNJYlBSbUxDd3g4b3hDRi05ZTZHWlo2MEZ0V2d5dnVtalM5R3FXcGNqOHo3VUR3QnBFR3BwcTAzd1I?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWdYS0ZyVjFGNE91WVM0X2YzOWhTdzdsQ0NGeUdIc2t1Vk4wR2VOTjRneEdXU08zUlZMX0hlWkYyWjFtSEVGNkhQUENSNVlRZzlvdnl2OW9Edm1ETXY3a2FXeUY5a2pTVkpSZXM0R3R3RWVnZ1lBNkl0ZDRZa3VVQ21BeXFYTlJVM1R6RkVZVkstOFV4TmVNTmhiYUhvYjBJckk0Qzl1MA?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9POWJuTldUdTg3VXNZVk5GdTBYLUMzRnVnR1Z2WWhTaEU5Ul93T2p6TFhQbXJEX1hld3FkOVNxa0lHeDVDQ2tESW43bXU3ZWJjWndqOEdzM0h0ZzhXUWExYnZHZks0NXdzWlFfUE5zZmZrUWVvQnc?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEUzUW1QYlM0dm9FXzE4c1pVaWFqbERwZmFseFNienRfellRSVlzd3NmTW93OTBla0ZJMTgzNGNESXd1cXhSRlpXRC05Ymo5b0dkRmh1dHRmTzdHeUpCbXllZHphc0NQUEVfdWFudHdCczdHc2E5ZEVaNzdFSmdTaGs2RGl2YTB2MU5idF9LWFc3RkY0dUVYdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VPaWZtLTRGTHJjanU0aE1rX2RzS0s3NzFaM1lZMjV3M29mOE9hV1RzVG9TYXR6WGZOenQydHlEXzF2WU8zanY0UGlkTTVNNVZCbGRQNnF3WFVjQWVWQ2pJTDZrTGU5eXhtU2lyX0dLYXBzd0VXaTNvWlJ1NjRDYjgtOF93ZnpsZ3RtSTRDQ3MwbEhFWU5pM3RKY09xQWZnUFgxcURDYjM0T2dicFU4?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdlVRa19JemVJX0tfeGVZaFIwLTRVZnBNb2hSUlpkcGstNHpuaXNRYVBnUExLMnRGR05ZckRySkJxSlJHS2xLVVlhVkFUOEwwUEQyekpaS3NUOW5CUTFwd0duMUNNZkRzSmw2cWdnSFJJVldtWWdpdA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "Сім'ї досягли угоди щодо спірної продажу Ван Гога за $180 млн",
-      "original_title": "Families reach last-minute agreement over disputed US$180M Van Gogh sale - CTV News",
-      "summary": "Сім'ї, які претендували на право власності, підписали останню угоду про продаж картини Ван Гога вартістю 180 мільйонів доларів. Угода завершила тривалий спір і забезпечила фінансову вигоду для учасників, а також підкреслила значний обсяг інвестицій у високоякісне мистецтво.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "CTV News"
-    },
-    {
-      "title": "Biden назвав індо‑європейський коридор «блискучим»",
-      "original_title": "Biden calls India-Europe corridor 'brilliant', credits Quad with stronger India ties - IANS LIVE",
-      "summary": "Президент США Джо Байден охарактеризував індо‑європейський коридор як «блискучий» і зазначив, що ініціатива Quad сприяла зміцненню зв’язків з Індією.",
-      "source": "Коридори · IMEC",
-      "publisher": "IANS LIVE"
-    },
-    {
-      "title": "IMF chief warns AI boom poses $1 trillion stability risk",
-      "original_title": "Global Economy Is ‘Standing on One Leg’ as AI Boom Raises $1 Trillion Financial Stability Risks, IMF Chief Warns: 'We Have to Be Watchful' - Yahoo Finance",
-      "summary": "IMF chief Kristalina Georgieva said the rapid AI boom could generate up to $1 trillion of financial‑stability risks, describing the global economy as “standing on one leg.” She urged policymakers to stay watchful of the emerging threats linked to AI‑driven financial activities.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "Yahoo Finance"
-    },
-    {
-      "title": "China Briefing опублікував огляд економіки Китаю за жовтень 2026",
-      "original_title": "How Did China’s Economy Perform in October 2026? - China Briefing",
-      "summary": "China Briefing випустив матеріал, у якому розглядається економічна діяльність Китаю у жовтні 2026 року.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "China Briefing"
-    },
-    {
-      "title": "МВФ закликає підвищити базову ставку в Казахстані",
-      "original_title": "IMF Calls for Increase in Kazakhstan Base Rate Amid Inflation Risks - The Times Of Central Asia",
-      "summary": "Міжнародний валютний фонд рекомендує Казахстану підвищити базову процентну ставку через зростаючі інфляційні ризики. За словами МВФ, це допоможе стабілізувати цінову динаміку та зміцнити макроекономічну стабільність країни.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "The Times Of Central Asia"
-    },
-    {
-      "title": "Trump meets Xi, Putin; UK rejects EU China tariffs",
-      "original_title": "The Day in Trade: Trump meets Xi and Putin, UK declines to match EU tariffs on China and leaders’ summit preview - The Chartered Institute of Export & International Trade",
-      "summary": "Президент США Дональд Трамп зустрічається з Китаєм і Росією, а Великобританія вирішила не застосовувати тарифи, що встановлено ЄС на товари китайського виробництва. Це рішення може вплинути на торгові відносини між Британією та Китаєм, залишаючи їх на рівні без додаткових мит.",
-      "source": "ЄС · торгівля, угоди й економічна безпека",
-      "publisher": "The Chartered Institute of Export & International Trade"
-    },
     {
       "title": "JPMorgan: ФРС підвищить ставки тричі до наступного року",
       "original_title": "JPMorgan Sees Fed Raising Rates Three Times by Next Year - bloomingbit",
@@ -1341,6 +1299,48 @@
       "summary": "Долар трохи впав після досягнення 19‑місячного максимуму, а курс єни продовжив ослаблення на тлі різкого падіння ринків. Це свідчить про короткострокову переорієнтацію інвесторів та підвищує тиск на японську монетарну політику.",
       "source": "Японія · монетарна політика",
       "publisher": "Free Malaysia Today"
+    },
+    {
+      "title": "China steel slump fuels iron ore price rally, StoneX says",
+      "original_title": "China's steel slump leaves iron ore bulls under the pump - StoneX",
+      "summary": "StoneX notes that a slump in China's steel production is keeping iron‑ore bulls active, sustaining upward pressure on iron‑ore prices. The slowdown in steel output reduces domestic demand for iron ore, yet market participants remain bullish, reflecting expectations of continued price support.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "StoneX"
+    },
+    {
+      "title": "Ціни на нафту впали ~3% після запуску лівійської трубопроводу",
+      "original_title": "Oil Drops About 3% as Libyan Pipeline Restarts and Mideast Supplies Rise - BigGo Finance",
+      "summary": "На світових ринках ціна на нафту знизилася приблизно на 3 % у зв’язку з відновленням роботи лівійської трубопровідної системи та збільшенням постачань з країн Близького Сходу. Зниження вартості сировини може вплинути на доходи нафтовидобувних компаній та споживчі ціни на енергоносії.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "BigGo Finance"
+    },
+    {
+      "title": "EU proposes ban on Russian athletes, new financial sanctions",
+      "original_title": "EU Proposes Ban on Russian Athletes, New Financial Sanctions - Global Banking & Finance Review",
+      "summary": "ЄС представив пропозицію заборонити російським спортсменам участь у міжнародних змаганнях та ввести нові фінансові санкції проти Росії. Заходи мають на меті посилити економічний тиск на російську економіку у зв’язку з конфліктом.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "Global Banking & Finance Review"
+    },
+    {
+      "title": "Texas Job Growth Forecast 1.1% in 2026",
+      "original_title": "Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - Texas Public Radio | TPR",
+      "summary": "Federal Reserve Bank of Dallas projects Texas employment to rise 1.1% in 2026. This modest growth reflects steady labor market conditions in the state.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "Texas Public Radio | TPR"
+    },
+    {
+      "title": "IMF підвищив глобальний прогноз росту, Австралія стабільна",
+      "original_title": "IMF lifts global growth as Australia holds steady - Investor Strategy News",
+      "summary": "Міжнародний валютний фонд підвищив прогноз світового економічного зростання, зазначивши, що глобальна динаміка покращується. При цьому Австралія залишилася на стабільному рівні, без змін у темпах росту. Оновлення Фонду вказує на більш оптимістичний світовий економічний клімат.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "Investor Strategy News"
+    },
+    {
+      "title": "Japan Markets Face Crucial Week After Selloff",
+      "original_title": "Japan Markets Face Crucial Week After Historic Stock Selloff - News On Japan",
+      "summary": "Після історичного падіння акцій японські ринки очікують критичний тиждень. Учасники ринку будуть слідкувати за волатильністю та можливим відновленням.",
+      "source": "Японія · монетарна політика",
+      "publisher": "News On Japan"
     }
   ]
 }

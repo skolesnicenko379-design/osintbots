@@ -1,9 +1,12 @@
 {
   "links": [
+    "https://army-technology.com/news/renk-bae-systems-forterra-ampv",
+    "https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations",
     "https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons",
     "https://defensescoop.com/2026/11/23/ai-cyber-warfare-zero-trust-lt-gen-stanton",
     "https://middleeasteye.net/live-blog/live-blog-update/south-korea-asks-qatar-priority-supply-lng-supplies-once-transits",
     "https://middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain",
+    "https://militarnyi.com/uk/news/700-tysyach-zagyblyh-i-znyklyh-bezvisty",
     "https://militarnyi.com/uk/news/dani-pro-bagatoditnyh-batkiv-i-zabronovanyh-pratsivnykiv-avtomatychno-onovlyuvatymut-v-systemi-oberig",
     "https://militarnyi.com/uk/news/latviya-belgijski-f-16-iz-raketamy-fz275",
     "https://militarnyi.com/uk/news/menshe-200-000-zaminu-pzrk-stinger",
@@ -37,6 +40,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmlGWWhjWDdCUW5nbmItaDRZak1sVjJKQUxpVGpuZ1hQV2tpb1lPa254Sjg1TzVqV1lCYzF2OW1wc3JoWEwxRW8zWmtKRUVPWkU0R3ZkRUZGbE53b3NMR2tFQkVVUnd2MHkwRDlZT3dBcFRlc3JibWJiQTh3TVE0dnJ1aHYyaWpCekJKMWJnVEgtcHM4VTlqdmMzMW5xelU4b2RZY29mMVh3bkJvOEpod0x6Z2JRZFN2X3ZsZTIyaWw",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUM4cnprQmlkREVFTnIta2tvd3lzaTY0ZXJucjA4UTl1UTBZakZtczJTU0JiT3ZOVkhKNVdTZ0F2UEdIWGhyaWNZdGNZaVl4UEQ5RHp6dmJzczNhblBwOHRnaUM5OXMxNjRBa3FxUDJ6SzBIY3drZng5ejllbWZyamdNdW9IMV9NUzBlUjhtZVdQak00OU9uQmZ4bG52dWZQTXZkZjR3MlVpSENCeUVFb2haVWNvS0hadlE2Zmctd0FMckE",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDNYYlp6LWxWUGE3VTBpbk0yMjlMakJVMk4zeTRzMng2Ym5ONGIwYXV5TWZGN0YyeWthSGd5ZVFXYm1aU05LLUZJdE1PZ3JNQ0pxNXdzcVQ0QXZXLUhCSVMtMl9GQUhuQlhLbExEM0FKYzFOZWxyeks0WXNWNnZQcTZ3TVBhUXlreXdLak1LdTVVNmNURFU0bU1od2Q4Rll6SVdvdlYzcXQzbjJhUTNKYk9yblJ4TVUxY1BYcnFrbi1rZjNKenc",
+    "https://twz.com/air/chinas-naval-developments-set-for-the-spotlight-at-zhuhai-airshow",
     "https://twz.com/sea/marines-want-naval-strike-missiles-with-double-the-range",
     "https://twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase"
   ],
@@ -342,6 +346,16 @@
       "published": "2026-11-23T14:25:59+00:00"
     },
     {
+      "title": "Renk, BAE Systems і Forterra розробляють автономне управління для американського бронетранспортера AMPV",
+      "original_title": "Renk, BAE Systems, Forterra team up on autonomous US Army AMPV",
+      "summary": "Компанії Renk America, BAE Systems та Forterra об'єднали зусилля для впровадження автономного режиму керування в Armoured Multi-Purpose Vehicle (AMPV) армії США. Автономна система дозволить транспортеру самостійно виконувати маневри в складних бойових умовах, підвищуючи мобільність та знижуючи ризик для екіпажу. Це крок до більш широкого використання безпілотних наземних платформ у сучасних арміях.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/renk-bae-systems-forterra-ampv",
+      "published": "2026-11-23T16:28:17+00:00"
+    },
+    {
       "title": "China steel slump fuels iron ore price rally, StoneX says",
       "original_title": "China's steel slump leaves iron ore bulls under the pump - StoneX",
       "summary": "StoneX notes that a slump in China's steel production is keeping iron‑ore bulls active, sustaining upward pressure on iron‑ore prices. The slowdown in steel output reduces domestic demand for iron ore, yet market participants remain bullish, reflecting expectations of continued price support.",
@@ -350,6 +364,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWdYS0ZyVjFGNE91WVM0X2YzOWhTdzdsQ0NGeUdIc2t1Vk4wR2VOTjRneEdXU08zUlZMX0hlWkYyWjFtSEVGNkhQUENSNVlRZzlvdnl2OW9Edm1ETXY3a2FXeUY5a2pTVkpSZXM0R3R3RWVnZ1lBNkl0ZDRZa3VVQ21BeXFYTlJVM1R6RkVZVkstOFV4TmVNTmhiYUhvYjBJckk0Qzl1MA",
       "published": "2026-11-23T16:33:48+00:00"
+    },
+    {
+      "title": "Китайська ВМФ готує масштабну присутність на авіашоу в Чжухай",
+      "original_title": "China’s Naval Developments Set For The Spotlight At Zhuhai Airshow",
+      "summary": "На 16‑му міжнародному авіашоу в Чжухай План представитиме нову морську експозицію в порту Гаолан, включаючи кораблі, авіацію з палубних авіаносців, передові озброєння та безпілотники. Особливу увагу привернуть нові варіанти J‑15T, J‑35, а також радарний літак KJ‑600, що підкреслює швидке розширення можливостей авіації на авіаносцях. Це демонструє зростаючу здатність Китаю проєктувати силу в морі та посилює його стратегічний вплив у Тихоокеанському регіоні.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/chinas-naval-developments-set-for-the-spotlight-at-zhuhai-airshow",
+      "published": "2026-11-23T17:30:40+00:00"
+    },
+    {
+      "title": "За оцінками журналістів, втрати російської армії у війні проти України перевищують 700 тис. осіб",
+      "original_title": "На війні проти України загинули і зникли понад 700 тисяч російських військових — злиті дані Росстату",
+      "summary": "Журналісти Meduza та «Медіазона» проаналізували витікнуті дані Росстату, включивши в підрахунок як загиблих, так і зниклих безвісти, і отримали оцінку понад 700 тис. військових втрат Росії. Така цифра суттєво перевищує офіційні заяви та свідчить про значне ослаблення бойових можливостей російської армії.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/700-tysyach-zagyblyh-i-znyklyh-bezvisty",
+      "published": "2026-11-23T18:35:07+00:00"
     },
     {
       "title": "EU proposes ban on Russian athletes, new financial sanctions",
@@ -370,6 +404,16 @@
       "channel": "miltech",
       "link": "https://twz.com/sea/marines-want-naval-strike-missiles-with-double-the-range",
       "published": "2026-11-23T18:45:27+00:00"
+    },
+    {
+      "title": "Армія опублікувала посібник з захисту критичної інфраструктури на місцевих об’єктах",
+      "original_title": "Army publishes guidebook for defending critical infrastructure at local installations",
+      "summary": "У посібнику розглядаються заходи щодо захисту енергетичних, водопостачальних та комунікаційних систем, які належать приватним компаніям і місцевим органам влади. Документ визначає протоколи взаємодії військових і цивільних операторів під час загроз і атак. Це підвищить стійкість військових баз і забезпечить безперервність логістичних операцій у випадку конфлікту.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations",
+      "published": "2026-11-23T18:56:49+00:00"
     },
     {
       "title": "Texas Job Growth Forecast 1.1% in 2026",

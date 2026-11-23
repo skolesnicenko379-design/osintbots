@@ -9,7 +9,9 @@
     "https://militarnyi.com/uk/news/latviya-belgijski-f-16-iz-raketamy-fz275",
     "https://militarnyi.com/uk/news/menshe-200-000-zaminu-pzrk-stinger",
     "https://militarnyi.com/uk/news/morski-drony-atakyvaly-sudno-v-bengazi",
+    "https://militarnyi.com/uk/news/pentagon-ukrayina-middle-strike-starshield",
     "https://militarnyi.com/uk/news/polshha-20-lystopada-zaletilo-3-h-101",
+    "https://militarnyi.com/uk/news/u-baltijskomu-mori-urazyly-porom-ambal",
     "https://militarnyi.com/uk/news/ukrayina-ta-koalitsiya-ohochyh-navchannya",
     "https://militarnyi.com/uk/news/ukrayina-vygotovyt-sotni-raket-neptun",
     "https://militarnyi.com/uk/news/ukrayinski-drony-middle-strike-deep-strike",
@@ -390,6 +392,16 @@
       "published": "2026-11-23T06:07:00+00:00"
     },
     {
+      "title": "Пентагон хоче зосередитися на фронті та середньодальніх ударах, обмеження Starshield залишаються",
+      "original_title": "Пентагон хоче фокусу на фронт- та мідстрайках, але досі не зняв обмеження з Starshield",
+      "summary": "Заступник міністра оборони США Елбрідж Колбі заявив, що пріоритетом США є підтримка України у зміцненні оборони передової та проведенні ударів середньої дальності. При цьому обмеження роботи супутникової системи Starshield, яка забезпечує зв'язок для дронів middle‑strike, залишаються невирішеними, що ускладнює управління українськими ударними БПЛА. Це може знизити ефективність українських атак на глибокі цілі та обмежити можливості протидії російським безпілотникам.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pentagon-ukrayina-middle-strike-starshield",
+      "published": "2026-11-23T06:29:02+00:00"
+    },
+    {
       "title": "Міністр закордонних справ Нідерландів Том Берендсен здійснить візит до Китаю",
       "original_title": "Minister of Foreign Affairs of the Netherlands Tom Berendsen to Visit China - 中华人民共和国外交部",
       "summary": "Міністерство закордонних справ Китайської Народної Республіки офіційно оголосило про майбутній візит міністра закордонних справ Нідерландів Тома Берендсена до Китаю. Подія передбачає проведення офіційних двосторонніх переговорів між представниками держав у рамках дипломатичної співпраці. Інших деталей щодо точної дати, тривалості поїздки чи конкретних тем порядку денного у короткому повідомленні джерела не наведено.",
@@ -408,6 +420,16 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/south-korea-asks-qatar-priority-supply-lng-supplies-once-transits",
       "published": "2026-11-23T07:23:16+00:00"
+    },
+    {
+      "title": "Дрони атакували російський залізничний пором Ambal у Балтійському морі разом зі Sparta II",
+      "original_title": "Окрім Sparta II, 21 листопада у Балтійському морі атакували російський пором Ambal",
+      "summary": "21 листопада дрони одночасно вдарили по вантажному судну Sparta II у Фінській затоці та по залізничному порому Ambal у Балтійському морі. Ambal — російський Ro‑Ro пором 189,6 м довжини, 20 729 т валової місткості, здатний перевозити до 150 одиниць колісної техніки та 8 000 т вантажу за рейс. Пошкодження порому може суттєво ускладнити транспорт військових вантажів між Усть‑Лугою, Калінінградом і Кримом, тим самим ослабивши логістику російської армії у регіоні.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-baltijskomu-mori-urazyly-porom-ambal",
+      "published": "2026-11-23T07:35:07+00:00"
     }
   ]
 }

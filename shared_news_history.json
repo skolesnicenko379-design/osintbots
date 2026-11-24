@@ -3,7 +3,9 @@
     "https://army-technology.com/news/renk-bae-systems-forterra-ampv",
     "https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations",
     "https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons",
+    "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons",
     "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
+    "https://defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
     "https://defensescoop.com/2026/11/23/ai-cyber-warfare-zero-trust-lt-gen-stanton",
     "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
     "https://gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment",
@@ -14,6 +16,7 @@
     "https://militarnyi.com/uk/news/latviya-belgijski-f-16-iz-raketamy-fz275",
     "https://militarnyi.com/uk/news/morski-drony-atakyvaly-sudno-v-bengazi",
     "https://militarnyi.com/uk/news/pentagon-ukrayina-middle-strike-starshield",
+    "https://militarnyi.com/uk/news/pid-udaramy-polovyna-potuzhnostej-npz-rf",
     "https://militarnyi.com/uk/news/polshha-20-lystopada-zaletilo-3-h-101",
     "https://militarnyi.com/uk/news/rosiya-vyroblyaye-144-balistychni-rakety",
     "https://militarnyi.com/uk/news/rozrobyly-vitchyznyanu-granatu-rgsh-30",
@@ -21,6 +24,7 @@
     "https://militarnyi.com/uk/news/ukrayina-vygotovyt-sotni-raket-neptun",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQU42V1NHU2w1eU9jU082ZmptdF95VEFaREFIYVNQNFRBWHh6bTFDMkNvNFRQaW1xNUhjSDBGc0hWUmJiNksteTY2ZU1zRFhDUmFLemkzcmVubUtDLWUzMWo4WjM2elUyYVhTMTlJMFdFSVJhcWR2TU9KZnJSSWFDV3JramxkWUszbUNibks1S3ZNQm5YZi1FQmN3WUxVamlpOVBPbVZWZTJKamRIRVBPdnJBeXJLSlNmTm1IbG1DalRFWVVkTU9KcmZQN0tQSHNJ",
     "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdlUwN0hCWGl1MUg2T1RQRFdFVGJzMXVMWmN0VzNlTmV5ZE5vaVlxc052SndmZ2JnZDNnRUtjTEZXZUhXb0RIU0Jpd3FLd3VUVUxUbXlmbHdYT1A5OGFTQ0h2cDNFaUwtSXdtcjJfS0VZaDNPWlZSeFhsbmVSTXJxZVRGQjlMMFZyUm52NEdZNzhvcWxZMW8xak1yNGRqRU9sSGh5UnoxNDg3NHFhS1c3VmFlZmZVcTNrc2hWNTlTTE1YRllVaDBtX1ZEM2xtekxVd0N0VTRvOHhtU3d5dm1GSnQxWEdzY2ZKanNvS1czX1J5VlVMS09GM0JQeEI5NU0xbUFiWXR2aV9Scm1EbXh2OEhleGFBalNkSHhJSC1jTlhmWTVzM0tkYktIdzZQcWZIbDI0UXZidHJRcXFabEpUS1N3dWZnM2d5YkVxUFdCR2RIUQ",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0w1YjQ0QTdRc2lZSGc0YlNMU2RUUTg3cVBTVXNIeGthbE9IM0NtVlZDeUJnUjZJYTFFSWY1LTdYNXpic0hwdTd3RE5RQ1psT19ZYXY1dTcyaVNGMzdkaG4yRllXRzc0dTd0cU5CS2pITEtNaEc2TnNDejBCc3BVQmh5WUZwc3E3NTFzZ3hEcFNnSFRod2VzQURsWTlFOG1WeWRtMGp6aDRHcnBGdzExMkR1RThkYXFieVlhcTd3T0FpNkNHVU9CU1NlUlpKUWp1ZTdIanRRX0djamwyUWxsREVvUWFlYi1V",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ud3I0dXQ3MnR6VVcwcVVETE9OeVVqeVRXU2Z6NHFHTjJUMVVRM01rWlc5RHE3UF9CeFVlYUozRndwSHZSc1oyeUJUajhHV09pXzY4VEVGUVZkV0VSd2lsVQ",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SEpvMG90andZRnBjbkJFaEpHZmFkVjZ5dFhDTDFXWjk0dXhBU3FDeXJtandoTmwtejB1dVBKbmdQVk5WcEdkNWlXWGFPZnFINkNlUzhoYWVOQTFPNHZaMGtzZFRTaWhncm9ZdFVxM1JvY0s2MFE",
@@ -36,7 +40,6 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VPaWZtLTRGTHJjanU0aE1rX2RzS0s3NzFaM1lZMjV3M29mOE9hV1RzVG9TYXR6WGZOenQydHlEXzF2WU8zanY0UGlkTTVNNVZCbGRQNnF3WFVjQWVWQ2pJTDZrTGU5eXhtU2lyX0dLYXBzd0VXaTNvWlJ1NjRDYjgtOF93ZnpsZ3RtSTRDQ3MwbEhFWU5pM3RKY09xQWZnUFgxcURDYjM0T2dicFU4",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21jTDUxN0Y0QlBaSV9DRWYzTlB5ZXIyR0JjY0lJeWotYWp4dTAyTnRKcl9oV0JCUmxNZ0FpYTFFaGQ3T1REZUxReTh0azN6bDd2MVhXMWR2aldJUS1ZWVJyQVBvQVlpSGVmZ0xHZkkweWNYSXh4Ymh2bVJPS28zeXQ3OHJFblROM1ZXUVp2aHJHOWtCNkFwMExYSC1VMFh3WkxjekdTcXpTWGJVTVZQN3RzQXk1cG81",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVZaTnNLaWZRWk0zdlEyWERHRnlGOHh0N0V6WkZ4ZDZodkR2NWtzTlNMelBqN0RXVGFZTWZyX3BOOTJ4U3BubWVkclNrdFF3VEg2UXBMUTJRYkJHZjJxLXV6RUFEZHl0ckNrNnRiX1JwZGhxbi1NOEZwcHR0X05ycG5aenVZSzdGYkJ4aWVVd2tOaTk0OVU2bUdzTDk0cTlwSjJaU0lPcVhjSGJjdU9jWmdkcXdkbWRIQ1Y1NWxNNA",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHZUODljbFFfazVIMGExbURHaDdNZjhuV3hxaXlEaThFb3dyM1RHTTl6X1JNdEc0OHVYVmJKNVY1c1J5X1JXU1Z4NXhJWTd3eUIzWk5tSWFwUHVzMXJMYWJFSWtqYnlJQnBtZGhZb0t0VlRnRGF0d0J3cFhHbE02OW13TFBkTXNJYlBSbUxDd3g4b3hDRi05ZTZHWlo2MEZ0V2d5dnVtalM5R3FXcGNqOHo3VUR3QnBFR3BwcTAzd1I",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmlGWWhjWDdCUW5nbmItaDRZak1sVjJKQUxpVGpuZ1hQV2tpb1lPa254Sjg1TzVqV1lCYzF2OW1wc3JoWEwxRW8zWmtKRUVPWkU0R3ZkRUZGbE53b3NMR2tFQkVVUnd2MHkwRDlZT3dBcFRlc3JibWJiQTh3TVE0dnJ1aHYyaWpCekJKMWJnVEgtcHM4VTlqdmMzMW5xelU4b2RZY29mMVh3bkJvOEpod0x6Z2JRZFN2X3ZsZTIyaWw",
@@ -49,16 +52,6 @@
     "https://twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase"
   ],
   "recent_posts": [
-    {
-      "title": "Міністр закордонних справ Нідерландів прибув до Індії для перших двосторонніх переговорів",
-      "original_title": "Netherlands Foreign Minister Arrives in India for Inaugural Bilateral Talks with Jaishankar - DD News",
-      "summary": "Міністр закордонних справ Нідерландів прибув до Індії, щоб провести перші офіційні двосторонні переговори з індійським міністром закордонних справ Субраманьямом Джайшанкаром. Ця подія фіксує початок формального дипломатичного діалогу між країнами на рівні керівників зовнішньополітичних відомств. Текст підтверджує факт прибуття та мета візиту — проведення інавгураційних консультацій, що є конкретним міжнародним дипломатичним кроком.",
-      "source": "Bilateral Meetings",
-      "publisher": "DD News",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21jTDUxN0Y0QlBaSV9DRWYzTlB5ZXIyR0JjY0lJeWotYWp4dTAyTnRKcl9oV0JCUmxNZ0FpYTFFaGQ3T1REZUxReTh0azN6bDd2MVhXMWR2aldJUS1ZWVJyQVBvQVlpSGVmZ0xHZkkweWNYSXh4Ymh2bVJPS28zeXQ3OHJFblROM1ZXUVp2aHJHOWtCNkFwMExYSC1VMFh3WkxjekdTcXpTWGJVTVZQN3RzQXk1cG81",
-      "published": "2026-11-22T10:52:04+00:00"
-    },
     {
       "title": "Shekhawat: India’s GDP growth gains global recognition post‑Trump",
       "original_title": "Shekhawat cites global recognition of India’s GDP growth after Trump - The News Mill",
@@ -310,6 +303,16 @@
       "published": "2026-11-23T16:28:17+00:00"
     },
     {
+      "title": "У листопаді під ударом опинились 14 російських нафтопереробних заводів – понад половина потужностей",
+      "original_title": "У листопаді під ударом опинилась половина російської нафтопереробки: уражено 14 заводів",
+      "summary": "У листопаді російські нафтопереробні заводи зазнали атак безпілотників, уражено 14 НПЗ загальною номінальною потужністю понад 3,3 млн барелів на добу, що становить більше половини всіх потужностей РФ. Пошкоджено технологічні установки, резервуари та створено пожежі, що призвело до значного скорочення обсягів переробки нафти та змусило Росію перенаправляти сировину на зовнішні ринки, підвищуючи морський експорт сирої нафти.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pid-udaramy-polovyna-potuzhnostej-npz-rf",
+      "published": "2026-11-23T16:33:41+00:00"
+    },
+    {
       "title": "China steel slump fuels iron ore price rally, StoneX says",
       "original_title": "China's steel slump leaves iron ore bulls under the pump - StoneX",
       "summary": "StoneX notes that a slump in China's steel production is keeping iron‑ore bulls active, sustaining upward pressure on iron‑ore prices. The slowdown in steel output reduces domestic demand for iron ore, yet market participants remain bullish, reflecting expectations of continued price support.",
@@ -320,6 +323,16 @@
       "published": "2026-11-23T16:33:48+00:00"
     },
     {
+      "title": "Українські сили оборони знищили 16 пускових установок С-400 та «Іскандер‑М»",
+      "original_title": "Як довго Сили оборони вибивали 16 пускових С-400 та \"Искандер-М\", з яких рашисти обстрілюють Україну балістикою - Defense Express",
+      "summary": "За даними Defense Express, підрозділи ППО України збили 16 пускових установок С-400 і «Іскандер‑М», які російські війська використовували для балістичних обстрілів. С-400 – система ППО великої дальності, а «Іскандер‑М» – тактична балістична ракета з радіусом дії до 500 км. Втрата цих засобів суттєво знижує можливості РФ у проведенні далекобійних ракетних ударів по Україні.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0w1YjQ0QTdRc2lZSGc0YlNMU2RUUTg3cVBTVXNIeGthbE9IM0NtVlZDeUJnUjZJYTFFSWY1LTdYNXpic0hwdTd3RE5RQ1psT19ZYXY1dTcyaVNGMzdkaG4yRllXRzc0dTd0cU5CS2pITEtNaEc2TnNDejBCc3BVQmh5WUZwc3E3NTFzZ3hEcFNnSFRod2VzQURsWTlFOG1WeWRtMGp6aDRHcnBGdzExMkR1RThkYXFieVlhcTd3T0FpNkNHVU9CU1NlUlpKUWp1ZTdIanRRX0djamwyUWxsREVvUWFlYi1V",
+      "published": "2026-11-23T17:29:00+00:00"
+    },
+    {
       "title": "Китайська ВМФ готує масштабну присутність на авіашоу в Чжухай",
       "original_title": "China’s Naval Developments Set For The Spotlight At Zhuhai Airshow",
       "summary": "На 16‑му міжнародному авіашоу в Чжухай План представитиме нову морську експозицію в порту Гаолан, включаючи кораблі, авіацію з палубних авіаносців, передові озброєння та безпілотники. Особливу увагу привернуть нові варіанти J‑15T, J‑35, а також радарний літак KJ‑600, що підкреслює швидке розширення можливостей авіації на авіаносцях. Це демонструє зростаючу здатність Китаю проєктувати силу в морі та посилює його стратегічний вплив у Тихоокеанському регіоні.",
@@ -328,6 +341,16 @@
       "channel": "miltech",
       "link": "https://twz.com/air/chinas-naval-developments-set-for-the-spotlight-at-zhuhai-airshow",
       "published": "2026-11-23T17:30:40+00:00"
+    },
+    {
+      "title": "Сенатор Кунс: Конгрес вичерпав час для законопроекту про примирення, треба узгодити загальні витрати",
+      "original_title": "Congress is ‘out of time’ to decide on reconciliation, needs to settle topline spending: Sen. Coons",
+      "summary": "Сенатор Кріс Кунс заявив, що Конгрес не встигне ухвалити $350 млрд законопроект про примирення для Пентагону і тепер потрібно спочатку погодити загальну суму витрат. За його словами, без біпартизанської угоди щодо топ‑лайн бюджету процес затримується до наступного складу Конгресу, що може вплинути на фінансування великих програм, таких як Golden Dome, безпілотники та багаторічні закупки боєприпасів.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons",
+      "published": "2026-11-23T18:01:00+00:00"
     },
     {
       "title": "Британія визнала геноцид рохінджа та запровадила нові санкції проти М’янми",
@@ -438,6 +461,16 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdlVRa19JemVJX0tfeGVZaFIwLTRVZnBNb2hSUlpkcGstNHpuaXNRYVBnUExLMnRGR05ZckRySkJxSlJHS2xLVVlhVkFUOEwwUEQyekpaS3NUOW5CUTFwd0duMUNNZkRzSmw2cWdnSFJJVldtWWdpdA",
       "published": "2026-11-23T20:02:55+00:00"
+    },
+    {
+      "title": "Гонка за порятунок на полі бою: дрони‑евакуації та AI‑роботи DARPA",
+      "original_title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+      "summary": "Українські інноватори розробляють дрони, які можуть піднімати поранених з поля бою, а DARPA працює над роботами з штучним інтелектом для виявлення та оцінки стану поранених військових і цивільних. Поєднання автономних дронів‑евакуацій і AI‑роботів може значно скоротити час надання медичної допомоги, підвищити виживаність та змінити тактику ведення бою, зосереджуючись на швидкому порятунку життя.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
+      "published": "2026-11-23T20:23:07+00:00"
     },
     {
       "title": "Українські штурмовики отримали нову вітчизняну гранату РГШ‑30",

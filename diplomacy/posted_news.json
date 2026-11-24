@@ -1,17 +1,5 @@
 {
   "links": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/closing-remarks-by-president-antonio-costa-at-the-eu-canada-business-forum/",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-call-out-engineered-famine-gaza",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pX1JmUU9tUkNJUjVBWEdUS2VzYnlFLU92TllIRDVsTVo5WlIzQWh2R3NHREVvTUdQMjlrUVphaFN0MzRYSnZ1UnY4LUpwd1dFbFZ1cVFRN1FlcklKdy1UWXFkVnZ2dUVZNlQxc0NIcUZxSEotZ0VvdG5n?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/more-tanker-set-ablaze-hormuz-strait",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHc0czRkSFhZY1FONnp5Q3k2YTZCN00xZ1NlUnY1dGlHWUl3d3hBSkNLd2VuMHU0b1hCYVZ4bEtFWGVSTGpmSW1pMjg5M1lYWEY1TzZiNVkwX3BQV3ltNUh6c2YxUkRKdnlwWWp4cGJmaHY3LXJpTVFpYkR3R1RXbklFc1FWM1gyR2Z4RHNpMWtFNDF3NnZ3OS1jWHpoY2NPR0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQOVEzbkk4VVZUbGxuRnZYb0JodmZJeUVYTVhyRFZ2bE5Rek03eG5CanFCaGRubkNXaFRTWVdPaHQ0cEVpSXF3c1pqeTJqUzN2alpHM1RTaWNES2VfMnhjN3I0bDk3LTNfR2EzQlRJb1ZaeXZuR0xFTXVkTFl5N3p4RUZEb0ZNM0ZjX1RiUXZpY1VJZllWajZneGlGZXAyX3FFYVhYd25OSjJiN2lhMzVjaEloUTdUZGVNQVJneEwwRWlmVElDLVJtNDhNdFdCc2IyMTlEWTdOaXd2MFE2VFRySDVmbVg5MHFjaF9Xa3NvSXFyUGJ1ek9WV1B0QlFDbWNqTDBxaWppdTY0WVFZZko3M2Z5OVgtMEtSdVFScUhFSkZ1dUxPWjlGV3g3VkI5TFlDVXNZOWFuWEs5OUt5X2pDRWxuVkg1amFERTVYcGZNVS1PODJJLUs1Rk5OYlJnWXpUSVpPSDUwZDVPUmE0aUpCTm0tVHBCMHFMSXZhRS0zVDYtWnR2Mks4VEtSX3pHak5MQVJMbHk0UVlyUU1neFd4aWl1VGlGR1dqdTRn?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-houthi-drone-over-mecca",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1RwU0d0Y2FoOTlURi1wcF91eHVWSmtUS1ZLUndtZ3pibVlVY1hwUmh3dm16amxNZDA2OGlSOG11Ty1HRi1CQTgzaVpGZHhBdk51WUd3MzdUc01XaTVwdkpmc2htLUQyeVA5MlFDYndmNnBKYk1ublEtSGw1NXJ1aWlkQlpfem42a2ttMHpWTnIxZElvaHFkaExDT0EwUmJ2NF93VEVmbEVpNVltVG1ZMVZRN1YyTk4tWFk5dkhQSjdGaDlLUjJsVlhydG1XZHNtXy1oVA?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXdZWlE4TmszdkxiQ0JYdE5VZGstb2JpS1lueFVZTlpQRl9UdHk0LVh4SEE2YlpqN0NUdm94NFZubzAzLXdwbHFDV0lpek45OVlpa2NuaVR4MHlOdFdBR0xMS1JycjhhQWlCQ00ySlQ5VWpFOTkzNlBKdjhoeU1FR2paeDdKdnZoV2ttVW13U2c4Ni1DcS1TdElEd2FLcVgzaU9pT0txd0pxREVrS3RsMnItOUxlSEg3cVU4YkVIYw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSW5UWG9zOTNseXRzU2dtMUZ3eVJOZDF5Z0ZEU294UkoxWGw0X2c4SXhLQmtEbkpMc25Fczh3WHNTRlh0cDRpWksyVVVyNUJNZ09FZml0eHZLd1F0aUplNlZrZUpEa3NWNGk3M1lSYkoxME1pLTNxWjBIakJleFVsRE9RRVpUVE84TFBJNVhJRGtJaVNWOFdzbkQwZFJiWkJiUGJqN3o1ZnBfZ3JLLTlHMg?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KLWNVX2tNSDNHV3dfZHQwVHlpMldiOEZPU0hOSDhfOVlRWllEYkNLQjNYVWM5UUVsSlNUSnJXVEJ5a3FIWGlJcVBDRWthOXc5WUt4SXRMcGc3R2tRTzkyYUhXdmo?oc=5",
-    "https://www.gov.uk/government/speeches/professor-akande-brings-the-independence-legal-rigour-judgement-and-breadth-of-perspective-that-the-court-needs-uk-national-statement-at-the-un-genera",
     "https://www.gov.uk/government/speeches/the-uk-is-ready-to-work-across-the-wider-un-membership-to-ensure-emerging-technologies-help-deliver-safer-seas-uk-statement-at-the-un-security-council",
     "https://www.theafricareport.com/434915/dangote-refinery-ipo-nigerias-pension-funds-take-their-biggest-equity-bet/",
     "https://www.theafricareport.com/434873/ethiopias-russian-fighter-jets-raise-stakes-in-eritrea-standoff/",
@@ -1199,7 +1187,19 @@
     "http://www.africanews.com/2026/11/23/crucial-draw-sets-up-decisive-moroccospain-showdown/",
     "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
     "https://news.google.com/rss/articles/CBMijwJBVV95cUxPLXZVOGNFX2NmZ1RlN1JVUHJHS0NBYTZNM21DV0xhV0JPbmpTOHZlQm9rT2xQTXN6WENfQVlRXzRpMkdrZWtPRmg1dkJzei1tWEtpcGtObVZla3FvdXAzcGQ1TGJSZXlZaHh4cURfcHA1V1YwZTdVZkZjOUhCRXk2RzI1NGc3Y1lwbko0bU5PWlozZHFrYm1fbkQ5cTNpZUdqOVJBc2xSRlVpaHJpSDQ5VlpwcXFkcm1rRmdDQXRPM2gxaVIzcGRoMFpUbUJIVHVnbGt0VWtYdW5NSzRVdldYUUdScWRJcUtmTHhlWXVEdjZONHkwTkNkN2dLdjlXYVgzUHd4aVV5dUZwU0VMbF9F?oc=5",
-    "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment"
+    "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-finance-minister-claims-kingdom-can-withstand-prolonged-houthi",
+    "https://www.middleeasteye.net/news/political-theatre-campaigners-hit-out-eu-hypocrisy-cop",
+    "http://www.africanews.com/2026/11/24/senegal-reinstated-as-afcon-winners-after-cas-rules-against-morocco/",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/24/speech-by-president-antonio-costa-at-the-opening-session-of-the-108th-congres-of-the-association-of-mayors-of-france/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-ministry-puts-losses-saudi-attacks-and-blockade-above-113-trillion",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmJId3Zmd2U3TnhrbHdETXFtLXY4Y043bWRiODZFUDlVV2FOYVV4WUwxLThyV1lkcV82RndXTzhKUkVCcjlGWE1FSUg4UVUxcHJmSEJ4bmN5NGo3TkYtSFFhbm5ETXh2bk9HanI0d3puUGJDaFVqTkI3RFhabmEyY1JWZzNYOHo4cmFKamRFbmd1SkliSmR2cVk4dU8zYVBhSGJxTUVLcGljSlR5eG93clFZOEZONnZkWWFSSm1MQ056ZzBK?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcTRrbk92Z19sdmIwSFJBZ0t3cGktQVpqZ3dXUFd3SG8xaTQyVWp5NFdGc25oUmVpd0dQcHJObEN4YkdJek1peDNESGd2ZzhHaWd5dXBZQXZwVHF5d3pJaXpFWE9OelFpcEJCSlZ5a3J1UnJsOWZPMWJETmZ3d2lucm01N1BFUWZDOEFqdTRKTDlxNDNMbFRZUFRBVDVhQkdCT1VwQ0RVOXRVYzZvMWpSOFVwSmFqeEtyLTFfNFRUblNkZF81aTA1Z0w3Y0YtMlZfQVkxWTY3dkJWZw?oc=5",
+    "http://www.africanews.com/2026/11/24/nvidia-staff-cheer-jensen-huangs-return-as-ceo-after-spy-scandal/",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3R3pGT09sZTBoMTFHMkRnTGd2NFpBWW40YTZJeUhyd3RDX1ExblFTSkZsMC0yUFB2cXBDeEpacFFteTVDNkd5VkxpdTluaHJKS0FDQ2h1ZmZKUQ?oc=5",
+    "https://www.theafricareport.com/437336/mali-the-women-powering-the-economy/",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2hJZm8zREh5am5xN3FQa0paMDFyUGVscWdjOHBXVE93ZVlLT3VrT09NaTFVcGpDRVAwVTFSTzU4dkVkWC1mRGxERzBVVUJvVzhzZ0Q0RGRRcjRiVEIxNk9vb201M0s2UVFIa0JFS2QwVjVGVENOOE5jN2RJbmZGb2dwcFpGUDlQa3pLRm10QWFLSjlkc0NKaGxwazhld29GaWpBWUw1UFh5VFBndmpvX2l3RnNQbTJSZzhDcC1PMmo?oc=5",
+    "https://www.theafricareport.com/437389/drc-has-a-showdown-between-tshisekedi-and-the-church-become-inevitable/"
   ],
   "recent_posts": [
     {

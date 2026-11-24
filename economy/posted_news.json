@@ -1,10 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qeTJDbWxDQW5QbnVHaHVhWW1OS0plOG00WXJ5a0xYZGtKT0JWLVFIZXFONmFWc2JkVUxBdzNtX0gySWVwM0M3VEtLekZWY001Z0MyejBXWFROMkQtUkxEbzl0a0ZqekFNX3NjdDZkVjdyc1FzWTl5am9Dbw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXQtTWY1cWNhbC0tUDFkUld5Zmd0X0pKTGhvQ2ZKUzBGVlU2WlQySHk2WjNaMGRUQTduNG93elRxa3RnUC15SEJWREVaRGN2QUs1Y0szdUc4eGJ2M0dLYlI1TlMtZGdOc1h2a3BDSFdYLWRlSjAwTzZWVGgyRWNwQ1pBRnVRdGxsN3RWZnlKaDVGRzc0NFdnZ0pMU29RR3FBcG8xd1B4WXRRMG5XUkQzNzhn?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHZkY3pHak5vcDk0TjZLQTBmcDREaThyQi0zbGNqTFd5dDhPcjhmVFVSdzRzM2JqVldyRjRhU25tb0l4V1FPcWdWUU1feDl3aHIzR3k0b3p2TVMxamdNU1lQWV9pbFZfcDVVc0JMT25NZG9pd0lCX1Q0UTYxeDdDMVp6dW9TaXo2NWdWTTE0VjhxT0ptRmNKTkFjMmU1cEViUVB3Nmdad0Rhak0ta0F0YkRhWkFiVjlja1E?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU9mLU5Id05WdDZwRFJ6ck9JUzRWVnlJbUZZaWVVRUJCWnBtd2N4dDlZdmJlbFBqQWdTUzFoZ3E3YlpLMm5CWXgxRDZsd2k3d3MxTnRDVXJHLVhYcDRWRHJTT0E5b2JlLXZyX1JlbVdUQ2MyV1ZUM2FCRlRUOEU3MmtuSl84NlE1emRETWdhWFQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMUpXQmRWVVpmUFlZeFRVYW9YX2I1a2ZuUTUxN2VLWG5aZzJqZXlPeThCM1NOWkI4ZzdvU1JSazZQalNPbEl2b0JLQmw3aUpmWDAxRA?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UWG9mdDM5VWhGTVdvNS0tTUZCZ2x2TWlRWlAtZngxTGsxbkpoSVpidkk1aU80aHhGY3kxTG1USjhZdldJQktLdmxkbU5MSW8?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFk4VUJwYnp6cWcyeHM5c0tyYlhEd2FOOU5CS3Y4MkttX3JzeDctXy1NckllYS1TMFg4R21UMk5hZnl0ME5OQldrS3Q3WllCZC1fYWxxMFBZWlRfQWtoVGxwdml3RlZ4U0VfTXRqWGp0aklFdjhpR1Ryc0NPUmRIQXpVWTd3QTFnUmJBTzdhT1liWkhCa3FwT3U4ZzJObzdHN3NSX1pQNU9VS0todVBGeHZ3aw?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNERhbU5ETkdycHlKT0twbThnMUJId2RIY3B4X1hqVHdvRl83YjZoVTRydW8wc2lrYkpMeU4taXY3eWkyN2xnS2lxQ2gwQWpNMm5lbUZadTNjMHJWenRIbjJuRTNvbVo5TjNCUC0xUFZEb2FRaElaa0tfanl5NjdZeTk2X0ItRFdKd2RhbTVBVlVyMWRudjd4bl9pSVRCQlF1Vi1na1A5a19qUGhYYVdfcmxTdjZheXNyaWgwVDBZN3F1QQ?oc=5",
@@ -1199,30 +1194,14 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEUzUW1QYlM0dm9FXzE4c1pVaWFqbERwZmFseFNienRfellRSVlzd3NmTW93OTBla0ZJMTgzNGNESXd1cXhSRlpXRC05Ymo5b0dkRmh1dHRmTzdHeUpCbXllZHphc0NQUEVfdWFudHdCczdHc2E5ZEVaNzdFSmdTaGs2RGl2YTB2MU5idF9LWFc3RkY0dUVYdQ?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VPaWZtLTRGTHJjanU0aE1rX2RzS0s3NzFaM1lZMjV3M29mOE9hV1RzVG9TYXR6WGZOenQydHlEXzF2WU8zanY0UGlkTTVNNVZCbGRQNnF3WFVjQWVWQ2pJTDZrTGU5eXhtU2lyX0dLYXBzd0VXaTNvWlJ1NjRDYjgtOF93ZnpsZ3RtSTRDQ3MwbEhFWU5pM3RKY09xQWZnUFgxcURDYjM0T2dicFU4?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdlVRa19JemVJX0tfeGVZaFIwLTRVZnBNb2hSUlpkcGstNHpuaXNRYVBnUExLMnRGR05ZckRySkJxSlJHS2xLVVlhVkFUOEwwUEQyekpaS3NUOW5CUTFwd0duMUNNZkRzSmw2cWdnSFJJVldtWWdpdA?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg?oc=5"
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5ud1RGdlVLVjZLdmE3TDFkelNYQzZ4cy1KbFl0Q011eXk3MVY3ODZDQUxvclFNX2hFNmRqeG1WTWd2TDNyVzF1TUVoeTlKQTNCS3RvcnU5Q0xPOHZ6OXV1eXNTWmFmTERyUVNmVk05RzF1Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTVEVnRsQ05sX0I5cHRDLUZ5Z0liQVpWTlh3cVdUN3hoc3JOdWxEbTR0V1czak16RVpuRzNqVDdBQi1QeUl1UmpCeTZUS2p0eEZjSTlYdDB4cGg0c2diLXZJVnpIMlgzMkxQOEpyQ1R2MzJzLXQtX0hrcUJvM3diUzRfS3RkMmdEeFhRYmhSb25aY1J3alBmaTZUeEJ0V0Z30gGmAUFVX3lxTE51a3FEN08zUXhtaDBiSnVtazZCM1hxYlFIaVU3THZFX09BTDBhY0E3LWZKWk1TOUY2ZXFJT25BUzdZMkVST2RCbFNEUkR0MV9HNFBlQ3U0MzZfai1EWk5ZNl9sVHliNUpTN0lyM0VtOFl4NTBtUXNCd2JNTFA2S3gwcmdMR0N2WFJiS2ZDMTY3Y3oyc3lfWGxHbkdyLUlSNk85TFRwUWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "JPMorgan: ФРС підвищить ставки тричі до наступного року",
-      "original_title": "JPMorgan Sees Fed Raising Rates Three Times by Next Year - bloomingbit",
-      "summary": "JPMorgan прогнозує, що Федеральна резервна система підвищить облікову ставку три рази до кінця наступного року. За словами аналітиків банку, це свідчить про продовження жорсткої монетарної політики у відповідь на інфляційний тиск.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "bloomingbit"
-    },
-    {
-      "title": "Kazakhstan prioritizes green transport on Middle Corridor",
-      "original_title": "Kazakhstan focuses on green transport along Middle Corridor - Silk Way TV",
-      "summary": "Kazakhstan зосереджує увагу на впровадженні екологічно чистих транспортних рішень у рамках Middle Corridor — важливого трансконтинентального торговельного маршруту. Це спрямовано на зниження викидів та підвищення стійкості перевезень у регіоні.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Silk Way TV"
-    },
-    {
-      "title": "Thailand і Перу підписали повну угоду про вільну торгівлю в Шеньчжені",
-      "original_title": "Thailand, Peru sign full FTA in Shenzhen - Thai PBS World",
-      "summary": "У Шеньчжені представники Таїланду та Перу підписали повну угоду про вільну торгівлю (FTA). Це формалізує їхні торговельні відносини та створює правову основу для розширення взаємного товарообігу між країнами.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "Thai PBS World"
-    },
     {
       "title": "WTO: $5.4 трлн торгівлі під обмеженнями",
       "original_title": "$5.4 Trillion in Trade Under Restrictions: WTO Exposes Growing Divide in Global Commerce - Devdiscourse",
@@ -1341,6 +1320,27 @@
       "summary": "Після історичного падіння акцій японські ринки очікують критичний тиждень. Учасники ринку будуть слідкувати за волатильністю та можливим відновленням.",
       "source": "Японія · монетарна політика",
       "publisher": "News On Japan"
+    },
+    {
+      "title": "Іран перенаправляє торгівлю до Росії через паралізований проток",
+      "original_title": "Hormuz Strait paralyzed, Iran shifts trade direction to Russia - Laodong.vn",
+      "summary": "Через паралізування протоки Хормуз Іран змінив напрямок зовнішньої торгівлі, орієнтуючись на Росію. Перехід може вплинути на торгові потоки між Іраном і Росією, оскільки традиційний морський шлях до Європи та Азії тимчасово недоступний.",
+      "source": "РФ · економіка, бюджет і зовнішня торгівля",
+      "publisher": "Laodong.vn"
+    },
+    {
+      "title": "PCE інфляція та ВВП: дані в середу",
+      "original_title": "PCE Inflation and GDP Reports Land Wednesday: Numbers Fed Watchers Are Tracking - Around Prague",
+      "summary": "У середу очікуються звіти про інфляцію за індексом PCE та про ВВП США. ФРС‑спостерігачі будуть стежити за цими цифрами, оскільки вони впливають на оцінку інфляційного тиску та темпів економічного зростання, що може визначати подальші монетарні рішення.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "Around Prague"
+    },
+    {
+      "title": "Taiwan envoy: deal shields Canada from Chinese trade coercion",
+      "original_title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion - Lethbridge News Now",
+      "summary": "Taiwan envoy to Canada stated that a proposed trade agreement could protect Canada from Chinese trade coercion. The agreement would provide Canada with a safeguard against potential pressure from China in trade matters.",
+      "source": "Китай · економіка, торгівля й промисловість",
+      "publisher": "Lethbridge News Now"
     }
   ]
 }

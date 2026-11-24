@@ -1,10 +1,12 @@
 {
   "links": [
+    "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
     "https://army-technology.com/news/renk-bae-systems-forterra-ampv",
     "https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations",
     "https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons",
     "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons",
     "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
+    "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
     "https://defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
     "https://defensescoop.com/2026/11/23/ai-cyber-warfare-zero-trust-lt-gen-stanton",
     "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
@@ -12,12 +14,13 @@
     "https://gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
     "https://middleeasteye.net/live-blog/live-blog-update/south-korea-asks-qatar-priority-supply-lng-supplies-once-transits",
     "https://militarnyi.com/uk/news/700-tysyach-zagyblyh-i-znyklyh-bezvisty",
+    "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
     "https://militarnyi.com/uk/news/pentagon-ukrayina-middle-strike-starshield",
     "https://militarnyi.com/uk/news/pid-udaramy-polovyna-potuzhnostej-npz-rf",
     "https://militarnyi.com/uk/news/rosiya-vyroblyaye-144-balistychni-rakety",
     "https://militarnyi.com/uk/news/rozrobyly-vitchyznyanu-granatu-rgsh-30",
     "https://militarnyi.com/uk/news/u-baltijskomu-mori-urazyly-porom-ambal",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQU42V1NHU2w1eU9jU082ZmptdF95VEFaREFIYVNQNFRBWHh6bTFDMkNvNFRQaW1xNUhjSDBGc0hWUmJiNksteTY2ZU1zRFhDUmFLemkzcmVubUtDLWUzMWo4WjM2elUyYVhTMTlJMFdFSVJhcWR2TU9KZnJSSWFDV3JramxkWUszbUNibks1S3ZNQm5YZi1FQmN3WUxVamlpOVBPbVZWZTJKamRIRVBPdnJBeXJLSlNmTm1IbG1DalRFWVVkTU9KcmZQN0tQSHNJ",
+    "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0w1YjQ0QTdRc2lZSGc0YlNMU2RUUTg3cVBTVXNIeGthbE9IM0NtVlZDeUJnUjZJYTFFSWY1LTdYNXpic0hwdTd3RE5RQ1psT19ZYXY1dTcyaVNGMzdkaG4yRllXRzc0dTd0cU5CS2pITEtNaEc2TnNDejBCc3BVQmh5WUZwc3E3NTFzZ3hEcFNnSFRod2VzQURsWTlFOG1WeWRtMGp6aDRHcnBGdzExMkR1RThkYXFieVlhcTd3T0FpNkNHVU9CU1NlUlpKUWp1ZTdIanRRX0djamwyUWxsREVvUWFlYi1V",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SEpvMG90andZRnBjbkJFaEpHZmFkVjZ5dFhDTDFXWjk0dXhBU3FDeXJtandoTmwtejB1dVBKbmdQVk5WcEdkNWlXWGFPZnFINkNlUzhoYWVOQTFPNHZaMGtzZFRTaWhncm9ZdFVxM1JvY0s2MFE",
@@ -26,70 +29,16 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEUzUW1QYlM0dm9FXzE4c1pVaWFqbERwZmFseFNienRfellRSVlzd3NmTW93OTBla0ZJMTgzNGNESXd1cXhSRlpXRC05Ymo5b0dkRmh1dHRmTzdHeUpCbXllZHphc0NQUEVfdWFudHdCczdHc2E5ZEVaNzdFSmdTaGs2RGl2YTB2MU5idF9LWFc3RkY0dUVYdQ",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnV3enE2UVJxbEdBQ1l3aWdaM1R5VE15bC0xb1hjQjFsR3J5NlJ1b1BBbXd3NVcxUi05blR1U3czR0g4cXYzVUJEc0k2ODZHaGx1eUVTU0xZUlN3eFBKN01NakNUWkJJMEFZTnltNlFmRUhMSG5IRzZnWUdJSENzajNtRHNEZ0xnWTJjdWRldTFJQVNqdDJfZVh3",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVp2dGdrck4zdEVLVGNQaUFSUHpuT0NxdUFKdzRob0JQQXZHRTcyYTVIdjd1b216cTBocDJDb0JhVVhSY3RGXzQtNVFqWlRpU3BGUVg4NGhaM1lnN0ZoNXowbXZpTzF5ME9PeWxrVkpORGpIOWViYWpIOXNBZUVLc1ZCSFg3U1hVd3Jya2Fmdm02Z3E1cFNfX0tkSElRbkVJcjI3bnJn0gGrAUFVX3lxTFAxZ2xzZmJBY19mbUFwMUpFenRfUmFGZEF3SHJNZFo2MFdyZEpsckVhMnBsSGY2eHMzTk1UVVZpVU9PdkVzbXpLSUhzV2F6bGxzdTJVX1RKdkh4Y2pzR3ZMYVA4Wi1sSUh3WlFvZmpxQk9vWnZuX0lvY010V0dQZ2dMVDg0UGNBOXhTa1FwamtFcFZRS3JvLWxla2VBVThTWUhiVkpVaUYwdDI5RQ",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajdCR09EUEtDc0FKcThPeEJTbGVqcE91Ty1Wck1wdDA4VnYtLXVmc1J5X1M0Q0hSMG1ER2FxcWJXT0ZuX1VsOHlfMEhSazhOQjA0N2RpTUlWRVlteEdoMjRYcmlpUk5Xd0xrakRjcXhxZnJ6ZW53MEJBcTdDVm0tTE1OTGlfdnRXS0tzWUtkV01GWFpBWU1zVkVleTNrS0VDQ0M5VlZn",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWdYS0ZyVjFGNE91WVM0X2YzOWhTdzdsQ0NGeUdIc2t1Vk4wR2VOTjRneEdXU08zUlZMX0hlWkYyWjFtSEVGNkhQUENSNVlRZzlvdnl2OW9Edm1ETXY3a2FXeUY5a2pTVkpSZXM0R3R3RWVnZ1lBNkl0ZDRZa3VVQ21BeXFYTlJVM1R6RkVZVkstOFV4TmVNTmhiYUhvYjBJckk0Qzl1MA",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VPaWZtLTRGTHJjanU0aE1rX2RzS0s3NzFaM1lZMjV3M29mOE9hV1RzVG9TYXR6WGZOenQydHlEXzF2WU8zanY0UGlkTTVNNVZCbGRQNnF3WFVjQWVWQ2pJTDZrTGU5eXhtU2lyX0dLYXBzd0VXaTNvWlJ1NjRDYjgtOF93ZnpsZ3RtSTRDQ3MwbEhFWU5pM3RKY09xQWZnUFgxcURDYjM0T2dicFU4",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHZUODljbFFfazVIMGExbURHaDdNZjhuV3hxaXlEaThFb3dyM1RHTTl6X1JNdEc0OHVYVmJKNVY1c1J5X1JXU1Z4NXhJWTd3eUIzWk5tSWFwUHVzMXJMYWJFSWtqYnlJQnBtZGhZb0t0VlRnRGF0d0J3cFhHbE02OW13TFBkTXNJYlBSbUxDd3g4b3hDRi05ZTZHWlo2MEZ0V2d5dnVtalM5R3FXcGNqOHo3VUR3QnBFR3BwcTAzd1I",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDNYYlp6LWxWUGE3VTBpbk0yMjlMakJVMk4zeTRzMng2Ym5ONGIwYXV5TWZGN0YyeWthSGd5ZVFXYm1aU05LLUZJdE1PZ3JNQ0pxNXdzcVQ0QXZXLUhCSVMtMl9GQUhuQlhLbExEM0FKYzFOZWxyeks0WXNWNnZQcTZ3TVBhUXlreXdLak1LdTVVNmNURFU0bU1od2Q4Rll6SVdvdlYzcXQzbjJhUTNKYk9yblJ4TVUxY1BYcnFrbi1rZjNKenc",
     "https://twz.com/air/chinas-naval-developments-set-for-the-spotlight-at-zhuhai-airshow",
     "https://twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi",
-    "https://twz.com/sea/marines-want-naval-strike-missiles-with-double-the-range",
-    "https://twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase"
+    "https://twz.com/sea/marines-want-naval-strike-missiles-with-double-the-range"
   ],
   "recent_posts": [
-    {
-      "title": "Українські морські дрони потопили російську корвету «Меркурій» у порту Бенгази",
-      "original_title": "Ukraine’s Campaign Against Russian Naval Assets Far Beyond The Black Sea Enters A New Phase",
-      "summary": "У березні 2024 року корвета російського флоту типу «Стерегущій» (проект 20380) «Меркурій», зведена у 2023 році, була знищена українськими безпілотними морськими суднами під час стоянки в порту Бенгази, Лівія. За даними супутникових знімків, корабель перекинувся, залишивши на поверхні лише носову частину, а внаслідок вибуху виникло значне димове підйомлення. Інцидент демонструє здатність українських морських дронів діяти на відстані понад Чорне море, ускладнюючи російські морські логістичні та бойові операції в Середземному морі.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase",
-      "published": "2026-11-22T22:26:09+00:00"
-    },
-    {
-      "title": "Тайвань застерігає Канаду щодо зближення з Китаєм",
-      "original_title": "Taiwan cautions Canada PM over closer trade relationship with China - 1News",
-      "summary": "Тайвань попередив прем’єр-міністра Канади про можливі ризики, пов’язані зі зближенням канадської торгівлі з Китаєм. Зауваження підкреслює геополітичну чутливість торгових відносин у регіоні та можливий вплив на економічні інтереси Тайваню.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "1News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajdCR09EUEtDc0FKcThPeEJTbGVqcE91Ty1Wck1wdDA4VnYtLXVmc1J5X1M0Q0hSMG1ER2FxcWJXT0ZuX1VsOHlfMEhSazhOQjA0N2RpTUlWRVlteEdoMjRYcmlpUk5Xd0xrakRjcXhxZnJ6ZW53MEJBcTdDVm0tTE1OTGlfdnRXS0tzWUtkV01GWFpBWU1zVkVleTNrS0VDQ0M5VlZn",
-      "published": "2026-11-22T23:15:33+00:00"
-    },
-    {
-      "title": "Russia, Pakistan move toward pragmatic rapprochement",
-      "original_title": "Security, Trade And The Afghan Question: Inside Pakistan And Russia’s Pragmatic Rapprochement - OpEd - Eurasia Review",
-      "summary": "Russia and Pakistan are engaging in pragmatic rapprochement on security, trade, and the Afghan question, signaling a shift in regional dynamics. The move could influence trade flows and security cooperation in the region.",
-      "source": "РФ · економіка, бюджет і зовнішня торгівля",
-      "publisher": "Eurasia Review",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQU42V1NHU2w1eU9jU082ZmptdF95VEFaREFIYVNQNFRBWHh6bTFDMkNvNFRQaW1xNUhjSDBGc0hWUmJiNksteTY2ZU1zRFhDUmFLemkzcmVubUtDLWUzMWo4WjM2elUyYVhTMTlJMFdFSVJhcWR2TU9KZnJSSWFDV3JramxkWUszbUNibks1S3ZNQm5YZi1FQmN3WUxVamlpOVBPbVZWZTJKamRIRVBPdnJBeXJLSlNmTm1IbG1DalRFWVVkTU9KcmZQN0tQSHNJ",
-      "published": "2026-11-22T23:19:13+00:00"
-    },
-    {
-      "title": "Ф'ючерси Nasdaq і Dow Jones піднялися після коментарів Bessent перед даними про ВВП та PCE",
-      "original_title": "Nasdaq and Dow Jones Futures Open Higher after Bessent Comments pre GDP and PCE Data - FXLeaders",
-      "summary": "Ф'ючерси Nasdaq і Dow Jones відкрилися в плюсі після заяв коментатора Bessent, що передували публікації даних про ВВП США та індекс цін споживання (PCE). Це свідчить про короткостроковий оптимізм інвесторів щодо майбутніх макроекономічних показників.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "FXLeaders",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDNYYlp6LWxWUGE3VTBpbk0yMjlMakJVMk4zeTRzMng2Ym5ONGIwYXV5TWZGN0YyeWthSGd5ZVFXYm1aU05LLUZJdE1PZ3JNQ0pxNXdzcVQ0QXZXLUhCSVMtMl9GQUhuQlhLbExEM0FKYzFOZWxyeks0WXNWNnZQcTZ3TVBhUXlreXdLak1LdTVVNmNURFU0bU1od2Q4Rll6SVdvdlYzcXQzbjJhUTNKYk9yblJ4TVUxY1BYcnFrbi1rZjNKenc",
-      "published": "2026-11-22T23:19:27+00:00"
-    },
-    {
-      "title": "Долар знижує курс після 19‑місячного максимуму, єн слабшає",
-      "original_title": "Dollar edges off 19-month high after market rout, yen softens - Free Malaysia Today",
-      "summary": "Долар трохи впав після досягнення 19‑місячного максимуму, а курс єни продовжив ослаблення на тлі різкого падіння ринків. Це свідчить про короткострокову переорієнтацію інвесторів та підвищує тиск на японську монетарну політику.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Free Malaysia Today",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHZUODljbFFfazVIMGExbURHaDdNZjhuV3hxaXlEaThFb3dyM1RHTTl6X1JNdEc0OHVYVmJKNVY1c1J5X1JXU1Z4NXhJWTd3eUIzWk5tSWFwUHVzMXJMYWJFSWtqYnlJQnBtZGhZb0t0VlRnRGF0d0J3cFhHbE02OW13TFBkTXNJYlBSbUxDd3g4b3hDRi05ZTZHWlo2MEZ0V2d5dnVtalM5R3FXcGNqOHo3VUR3QnBFR3BwcTAzd1I",
-      "published": "2026-11-22T23:55:51+00:00"
-    },
     {
       "title": "Oil markets anticipate surplus that hasn't materialized",
       "original_title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet - Crude Oil Prices Today | OilPrice.com",
@@ -419,6 +368,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw",
       "published": "2026-11-24T02:26:43+00:00"
+    },
+    {
+      "title": "Військово-морські сили США підписали контракт з Raytheon на розвиток ядерної крилатої ракети SLCM-N",
+      "original_title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
+      "summary": "U.S. Navy підписала OTA‑контракт з Raytheon для доведення до бойової готовності ядерної морської крилатої ракети SLCM-N, залучивши підрядників Anduril, Divergent та Williams. Ракета передбачає ядерну боєголовку, запуск з підводних та надводних платформ і значно збільшує стратегічний потенціал США у морському ядерному стримуванні.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
+      "published": "2026-11-24T16:33:31+00:00"
+    },
+    {
+      "title": "Прогнози: ринок оборони Аргентини 2026‑2035",
+      "original_title": "Forecasts: Argentina defence market data (2026-2035)",
+      "summary": "Аргентина планує оновити військову техніку, закупивши нові бойові літаки, морські бойові кораблі та бронетранспортери. Це підвищить її повітряну та морську спроможність, а також мобільність сухопутних сил. Очікується, що нові платформи посилять обороноздатність країни у регіоні протягом наступного десятиліття.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
+      "published": "2026-11-24T17:21:50+00:00"
+    },
+    {
+      "title": "Армія вимагає новий танк: Abrams досяг межі, потрібен генерційний редизайн",
+      "original_title": "The Army has told us how it fights. We can’t do that in an analog tank.",
+      "summary": "Колишній тризірковий генерал стверджує, що десятиліття модернізацій вичерпали потенціал танка Abrams, і лише повна генерційна перебудова дозволить зберегти його боєздатність. У новому проєкті планується впровадження електричних приводів, підвищена броня та інтеграція штучного інтелекту для автоматизованих систем управління. Така модернізація може суттєво підвищити маневреність і вогневу потужність підрозділів, забезпечивши перевагу на сучасному полі бою.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
+      "published": "2026-11-24T17:23:00+00:00"
+    },
+    {
+      "title": "Байрактар AKINCI успішно скинув легку торпеду ORKA під час випробувань у Саросі",
+      "original_title": "Bayraktar AKINCI став торпедоносцем: у Туреччині випробували легку торпеду ORKA",
+      "summary": "Під час випробувань у затоці Сарос безпілотний дрон Bayraktar AKINCI зняв підкриловий вузол і скинув нову 324 мм легку торпеду ORKA, яка оснащена активною/пасивною гідроакустичною головкою самонаведення. Це демонструє можливість інтеграції протипідводної зброї на безпілотних платформах, хоча повний цикл ураження (виявлення, класифікація, наведення) ще не підтверджений. Якщо технологія буде доопрацьована, вона може розширити спектр завдань турецьких дронів у протичовновій боротьбі.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
+      "published": "2026-11-24T17:41:12+00:00"
     }
   ]
 }

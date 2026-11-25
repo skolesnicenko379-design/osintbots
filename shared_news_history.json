@@ -3,22 +3,19 @@
     "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
     "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
-    "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
     "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
     "https://defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
     "https://defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles",
     "https://defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission",
-    "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
     "https://defensescoop.com/2026/11/24/space-systems-command-gps-sustainment-upgrade-contract",
     "https://defensescoop.com/2026/11/24/trump-ai-rebrand-pentagon-super-intelligence-office-sio",
-    "https://gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
     "https://gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
     "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
     "https://militarnyi.com/uk/news/nimechchyna-formuye-pershyj-dronovyj-polk",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/rosiya-609-mlrd-dolariv-na-vijnu-2027-2029",
-    "https://militarnyi.com/uk/news/rozrobyly-vitchyznyanu-granatu-rgsh-30",
     "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkdaZ0FGSlpwamlUQTBpM3NHcGdxY3BsMTc5Ump5Tm8wSGFDa1RJYXN6YzRtVDVyNWxVbmRuWXRvUUt1enRSU1g3R0pYUkk1aC1DSkxoaUl0bWtNWGVLeHQ0bnRWck54UzZhTHpYekJPTzZUOUZ3MmgxZWp2akUyZDMzNk15czRuMlE",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVV1RzVpRF9xcE9hZU1SRFpVOFJ6UG5jY2hJbnRZX1FXSm9nay1heEZiZXQ1SU5KT2FITmt3NDF0ZV8wdW96UGlOMXJibHRFdnJCdkVYRlF3SFktbmRoekxXY0dZRTNYYkRIRFdWMU9qVWxvVk5xUG5XZ0xLcThWbDJyeElUSU4wYWRUTFR4TlpiaDJ3ZFI4R0tKaw",
@@ -28,84 +25,11 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dYa213TW1SU0QzZGpuUnhHMUx3UmhUN2tUbWVOdXl3REltUG9nUXl2SzNTa0dndVRTQnE1ekstLWIwSUxfN09QZ3dFVXoyYjMtWVJPV00wWGdROFExbG5YdjR4MXVDVFl6OFZycDNPSVA3V2J2QTlSMF94V1BSZ3RzT1VjZnVQYUFPZG5CQnU2N0ZDQWN5ZEsxajhWTGZPR0FqRGwwZ0w3dw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn",
     "https://twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
-    "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
-    "https://twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi"
+    "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission"
   ],
   "recent_posts": [
-    {
-      "title": "Українські штурмовики отримали нову вітчизняну гранату РГШ‑30",
-      "original_title": "Для українських штурмовиків розробили вітчизняну гранату РГШ-30",
-      "summary": "Уряд затвердив до озброєння нову ручну штурмово‑наступальну гранату РГШ‑30, яка має циліндричну форму (80 мм × 50 мм, 380 г) і забезпечує щільність осколкового поля 350‑400 уламків на 3 м, а надлишковий тиск ударної хвилі до 42 кПа. Завдяки двостінному корпусу гранату можна швидко кріпити до FPV‑дронів і БПЛА, а її вартість — близько 2 350 грн — значно нижча за імпортні аналоги, що підвищує бойову ефективність підрозділів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/rozrobyly-vitchyznyanu-granatu-rgsh-30",
-      "published": "2026-11-23T21:15:19+00:00"
-    },
-    {
-      "title": "Поширено помилково контракт на пропульсій у розмірі $16 млрд, повідомляє ВВС",
-      "original_title": "$16 billion propulsion mega-contract posted in error, Air Force says",
-      "summary": "Військово-воздушні сили виправили помилку, що оприлюднила оголошення про контракт на 16,1 млрд доларів на розробку та впровадження нових систем пропульсії. Контракт, що охоплює 58 компаній, передбачає індіфінитні поставки і буде використовуватись для усіх етапів життєвого циклу, включаючи дослідження, розробку, випробування та модернізацію. Це дозволить ВВС швидко впроваджувати інноваційні двигуни, зокрема для безпілотників і майбутніх ікронових літаків, підвищуючи мобільність і автономність сил.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
-      "published": "2026-11-23T21:43:59+00:00"
-    },
-    {
-      "title": "Українські морські дрони з мітшипа атакували російські кораблі у Бенгази",
-      "original_title": "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
-      "summary": "У понеділок СБУ підтвердила, що безпілотні поверхневі судна (USV) були запущені з мітшипа у відкритому морі, що дозволяє уникнути виявлення і збільшити дальність дії. Ця операція стала першим офіційним підтвердженням використання мітшипа Україною, що підвищує її здатність здійснювати дистанційні атаки на російські військові цілі в Чорному морі.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi",
-      "published": "2026-11-23T22:12:53+00:00"
-    },
-    {
-      "title": "Велика Британія офіційно визнала геноцид рохінджа та оголосила санкції проти М'янми",
-      "original_title": "Foreign Secretary Statement to the House of Commons: 23 November 2026",
-      "summary": "Міністерство закордонних справ Великої Британії оголосило про офіційне визнання геноциду проти народу рохінджа в М'янмі після рішення Міжнародного суду ООН від 19 листопада. Британський уряд запровадив санкції проти чотирьох генерал-майорів і бригадного генерала М'янми, а також наказав вислати військового аташе країни. Крім того, Лондон оголосив про плани заборонити експорт авіаційного палива до М'янми, виділення 3 мільйонів фунтів стерлінгів для жертв і постраждалих від порушень прав людини та ініціювання обговорення цього питання в Раді Безпеки ООН.",
-      "source": "FCDO (Британія)",
-      "publisher": "",
-      "channel": "diplomacy",
-      "link": "https://gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
-      "published": "2026-11-23T22:18:11+00:00"
-    },
-    {
-      "title": "Корпус морської піхоти переводить новий чат-бот, створений на хакатоні, у повну експлуатацію",
-      "original_title": "Marine Corps moving new chatbot prototyped at recent hackathon into full production",
-      "summary": "Під час спринт‑хакатону в Каліфорнії розроблено AI‑чат‑бот для мобільного додатку MCCS Connect, який надає морській піхоті та їх сім'ям миттєві відповіді та підтримку. Прототип, створений командою переможців, буде впроваджений у широке використання, що підвищить доступність інформації про соціальні та рекреаційні сервіси, сприятиме підвищенню бойового духу та ефективності комунікації в підрозділах.",
-      "source": "DefenseScoop",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
-      "published": "2026-11-23T22:41:58+00:00"
-    },
-    {
-      "title": "PCE інфляція та ВВП: дані в середу",
-      "original_title": "PCE Inflation and GDP Reports Land Wednesday: Numbers Fed Watchers Are Tracking - Around Prague",
-      "summary": "У середу очікуються звіти про інфляцію за індексом PCE та про ВВП США. ФРС‑спостерігачі будуть стежити за цими цифрами, оскільки вони впливають на оцінку інфляційного тиску та темпів економічного зростання, що може визначати подальші монетарні рішення.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Around Prague",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ",
-      "published": "2026-11-24T00:38:13+00:00"
-    },
-    {
-      "title": "Taiwan envoy: deal shields Canada from Chinese trade coercion",
-      "original_title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion - Lethbridge News Now",
-      "summary": "Taiwan envoy to Canada stated that a proposed trade agreement could protect Canada from Chinese trade coercion. The agreement would provide Canada with a safeguard against potential pressure from China in trade matters.",
-      "source": "Китай · економіка, торгівля й промисловість",
-      "publisher": "Lethbridge News Now",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3",
-      "published": "2026-11-24T01:53:04+00:00"
-    },
     {
       "title": "Іран перенаправляє торгівлю до Росії через паралізований проток",
       "original_title": "Hormuz Strait paralyzed, Iran shifts trade direction to Russia - Laodong.vn",
@@ -375,6 +299,16 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
       "published": "2026-11-25T14:35:51+00:00"
+    },
+    {
+      "title": "Сергій Лавров зустрівся з міністром закордонних справ Білорусі Максимом Риженковим у Гомелі",
+      "original_title": "Foreign Minister Sergey Lavrov’s opening remarks during a meeting with Foreign Minister of the Republic of Belarus Maxim Ryzhenkov, Gomel, November 25, 2026 - The Ministry of Foreign Affairs of the Russian Federation - Министерство иностранных дел Ро",
+      "summary": "Міністр закордонних справ Російської Федерації Сергій Лавров провів зустріч із міністром закордонних справ Республіки Білорусь Максимом Риженковим. Переговори відбулися у місті Гомель 25 листопада 2026 року. Під час зустрічі глави зовнішньополітичних відомств обох держав виступили зі вступними промовами. Подія стосується двосторонніх дипломатичних відносин між Росією та Білоруссю та офіційних контактів на рівні міністерств закордонних справ.",
+      "source": "Bilateral Meetings",
+      "publisher": "Министерство иностранных дел Российской Федерации",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
+      "published": "2026-11-25T18:24:33+00:00"
     }
   ]
 }

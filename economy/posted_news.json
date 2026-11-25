@@ -1,12 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UWG9mdDM5VWhGTVdvNS0tTUZCZ2x2TWlRWlAtZngxTGsxbkpoSVpidkk1aU80aHhGY3kxTG1USjhZdldJQktLdmxkbU5MSW8?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFk4VUJwYnp6cWcyeHM5c0tyYlhEd2FOOU5CS3Y4MkttX3JzeDctXy1NckllYS1TMFg4R21UMk5hZnl0ME5OQldrS3Q3WllCZC1fYWxxMFBZWlRfQWtoVGxwdml3RlZ4U0VfTXRqWGp0aklFdjhpR1Ryc0NPUmRIQXpVWTd3QTFnUmJBTzdhT1liWkhCa3FwT3U4ZzJObzdHN3NSX1pQNU9VS0todVBGeHZ3aw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNERhbU5ETkdycHlKT0twbThnMUJId2RIY3B4X1hqVHdvRl83YjZoVTRydW8wc2lrYkpMeU4taXY3eWkyN2xnS2lxQ2gwQWpNMm5lbUZadTNjMHJWenRIbjJuRTNvbVo5TjNCUC0xUFZEb2FRaElaa0tfanl5NjdZeTk2X0ItRFdKd2RhbTVBVlVyMWRudjd4bl9pSVRCQlF1Vi1na1A5a19qUGhYYVdfcmxTdjZheXNyaWgwVDBZN3F1QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tR3FNUlZ2VGhEYjdHVXBVWkYxbGpUT0lhRlJnNDh2V2VfTnVWSkdnTjhzSGJsbGY2YWdJMzM0S21lSWM1MW1sRzJ2TE10bGFhVU84VmhNYkpsZDBGZnRCV2xhTmNvbHdrQmVTYTY2d18tbzdGQ1hF?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHFmSEE4Y0JaV1oya3RvaGlQM3V4QkV5MzVOQ2xIN0xPWmZtRkZMVmtzNVY2MHdSUmlJMk5UNEZzYnVLeXFsT0h1enE5cUxKMkw0QW5nR1lfY09HZE9NX2FSVVhMaE82UjVaMDlDaVRBQ0Ffb0RCZ3hPZ0lNUkp6ZENiak1ENXBGMXVxT3lBTG9ocDRyOV9QRDk4WWNGNlNjaUZFN2dyenV0dW5FbDRZSC1GZWRvOS05SWpsUnBjMkdYVzRDbTVpdXpn?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUJaQ3QxbnZpTUx1UEFWZUkzWHZxc2JGVTJKVUJ6TEVhOXVnazdKczVONFQ2ZzduZkRkX3Y2NERfUGl4TGpWODI1V2JLbnp6cnBsQUpzWGZRVTdmYVROcHZ5XzVleUtUOWhSSnM0S0drZjRIdDkyaC1wVGY1T1lKUG9RUDhMYTV0OU9BZUF0bGF5alJZcFU2Y3dIYXdCbjBxSVUtOERHQ3JQQm5PWDNNUXRfRTcxcDNQVWUwcHJkcGtTZl9QT2tR?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUFhdXRXMGJQM2YwU3IwZ0NvMjE2OXcxSXRuWkkyQUtRVklmZjBkLURuUy1DMFV6V0pOcEJaZlNzal94OEN0bGJWWmF4RlBCOEp6NWgtRDdZdmRyY1pTQVBYSlRLOUpkNG43TFZHWkRJNWMtQzk1VUtaZWI2a1ExWGliR05vcWROV2twT0x2bmV4Vm1wX2I1ZktmUW5nUnNFc0ZzRTY3cWt6ZG9ncEhkc0V4b09WcHB3VmhSTW9sNENoMzdicGVSSTljOTJvaDRBRm81cU9yLWVpamI3?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWxHTHhvaWdlSXYtY0trdENoMHVKRHlESy1abEtudnJ6YlJ2a3VSZE9nRkdKLTdrbkEtNHdOcG1MaWdXbDgtRmU1RjNjTUVxUEdKOFFpUnlvZ1NMMF9SQXVtWlcwbFFEWmh4ZXB3eVU5V2lwSXFSOWpBRjQ1ZmExbzVlbkctTGtfY1NYT1UzUnhYTHdhOG4tQU5FVDVxY21JdGI1YkVPVjhZTHVCT2Zkdg?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUWd2VC1QdXZtaFE5T2hnMFdLRThObGtHNE5xc3p3eURuMFdDNGJuOHUxeTlOMVlIVjdxdUpUVDI4MXg5SG9jV0s1eXBBMVY2X0ppOExEel95eW1SeVZ3eThYOWo?oc=5",
@@ -1199,51 +1192,16 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTVEVnRsQ05sX0I5cHRDLUZ5Z0liQVpWTlh3cVdUN3hoc3JOdWxEbTR0V1czak16RVpuRzNqVDdBQi1QeUl1UmpCeTZUS2p0eEZjSTlYdDB4cGg0c2diLXZJVnpIMlgzMkxQOEpyQ1R2MzJzLXQtX0hrcUJvM3diUzRfS3RkMmdEeFhRYmhSb25aY1J3alBmaTZUeEJ0V0Z30gGmAUFVX3lxTE51a3FEN08zUXhtaDBiSnVtazZCM1hxYlFIaVU3THZFX09BTDBhY0E3LWZKWk1TOUY2ZXFJT25BUzdZMkVST2RCbFNEUkR0MV9HNFBlQ3U0MzZfai1EWk5ZNl9sVHliNUpTN0lyM0VtOFl4NTBtUXNCd2JNTFA2S3gwcmdMR0N2WFJiS2ZDMTY3Y3oyc3lfWGxHbkdyLUlSNk85TFRwUWc?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmItNGJrSU5qSUZFYk8tS2w0eHpDOU14OGpBazdkR1ZZbjFtWGwxa25YZDF4RlYyT0ZqZElGTll4SlNWNmM0ZE9aai1BTDhiQlRrazdRa3BMX1BVWVZpV0VqVlpCX2VmczlqelBYMkJMa1NtYmtHVUE4QWVQREVUX08xbngwVFd1eUdVN0VMSWxwZVJ1ZlZEVEZBcFczTTdVNWRoZ2wtM3NSXzRiNTFjdWs0QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3?oc=5"
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEtjbU5mZ0RuXzhYczZOUU9DZHNOa2dKYTdjS0hRSmlQLUFJOGk2NVJveGN6MENRMzNJdW40SWJCdkkxSUtSa0JJR1ZvZVJ5eHoxOE90SkFLUk5UZHg0bmZDSWZIdUh4czB3LU56bzBvbVVYMjNGSll6by1oVnJUWExvbk9ZdzFUcnh4R3JhVUtMRElMTlZvSGNhdFVGZndaYklMWnNoTllMOGNkTllXNWE0NVo3VnNua1Q2a3pIcTN3TUU3?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVV1RzVpRF9xcE9hZU1SRFpVOFJ6UG5jY2hJbnRZX1FXSm9nay1heEZiZXQ1SU5KT2FITmt3NDF0ZV8wdW96UGlOMXJibHRFdnJCdkVYRlF3SFktbmRoekxXY0dZRTNYYkRIRFdWMU9qVWxvVk5xUG5XZ0xLcThWbDJyeElUSU4wYWRUTFR4TlpiaDJ3ZFI4R0tKaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSGQ0dkVVaHR2dHpPWVBhUnlIb3d5Y2dJaE5SbW9NNnhCYkJQRHJVOFNIMklxSXdoVllXVVlJemwtVHVpT3p1RTRaZDE5S296S1lKN3BmTWQ1MEd6REVXclhlUS01VEtBNThzbVJKMzQtTVAyeE5tS2FZN3dGYWctQzJnVTVhRVdFUWNz?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOblY0Zkh2d3g0TlprTGxWUmdCemg3Q2tJSElaYmJtYk5DVHBFbGlmNUlWUmxnUHFrQTFTWFZBTDU0d3pwNGhPUU5fNTVKeUlWdHlDZDVVYl9sVzhvSEJ2STFDdHdJMWg5b3hrNUNrRlJRY3hUZmNtT2RPMHZIQW1xU0dNdndnQlI1VFAzNzlrM0tPR1NoMDJLNzhOdlhxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkdaZ0FGSlpwamlUQTBpM3NHcGdxY3BsMTc5Ump5Tm8wSGFDa1RJYXN6YzRtVDVyNWxVbmRuWXRvUUt1enRSU1g3R0pYUkk1aC1DSkxoaUl0bWtNWGVLeHQ0bnRWck54UzZhTHpYekJPTzZUOUZ3MmgxZWp2akUyZDMzNk15czRuMlE?oc=5"
   ],
   "recent_posts": [
-    {
-      "title": "WTO: $5.4 трлн торгівлі під обмеженнями",
-      "original_title": "$5.4 Trillion in Trade Under Restrictions: WTO Exposes Growing Divide in Global Commerce - Devdiscourse",
-      "summary": "Світова організація торгівлі повідомила, що обсяг торгівлі, що підлягає обмеженням, становить $5,4 трильйона, що свідчить про зростаючий розкол у глобальній комерції.",
-      "source": "Глобальна торгівля, СОТ і торговельні угоди",
-      "publisher": "Devdiscourse"
-    },
-    {
-      "title": "Ізраїль стане 25‑м за розміром економікою світу",
-      "original_title": "Israel set to become world's 25th-largest economy: What can Europe learn from its tech boom? - Euronews.com",
-      "summary": "Ізраїль, завдяки швидкому зростанню, має зайняти 25‑те місце у світовому рейтингу за розміром ВВП. Підвищення пов’язане з його технологічним бумом, що може стати прикладом для європейських країн, які прагнуть розвивати інноваційний сектор.",
-      "source": "ЄС · макроекономіка та промисловість",
-      "publisher": "Euronews.com"
-    },
-    {
-      "title": "США і Канада «доволі близько» до торгової угоди, заявив Грір",
-      "original_title": "U.S., Canada ‘fairly close’ to trade deal: Greer - CTV News",
-      "summary": "За словами представника, США та Канада перебувають на стадії, коли укладення нової торгової угоди є «доволі близьким». Це свідчить про можливе підвищення двосторонньої торгівлі між країнами, хоча конкретних умов та термінів поки не названо.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "CTV News"
-    },
-    {
-      "title": "Країни GCC підписали угоду про єдиний залізничний коридор",
-      "original_title": "GCC Nations Sign Unified Railway Agreement - Wisevoter",
-      "summary": "Країни Перспективного Кооперативу Перспективних Країн (GCC) підписали угоду про створення єдиного залізничного коридору, передбачаючи спільну координацію інфраструктури та стандартизацію. Це крок до підвищення транспортної інтеграції регіону та спрощення транзитних товарообмінів між учасниками.",
-      "source": "Коридори · Середній і Транскаспійський",
-      "publisher": "Wisevoter"
-    },
-    {
-      "title": "Shekhawat: India’s GDP growth gains global recognition post‑Trump",
-      "original_title": "Shekhawat cites global recognition of India’s GDP growth after Trump - The News Mill",
-      "summary": "Shekhawat заявив, що індекс зростання ВВП Індії отримав глобальне визнання після епохи Трампа. Це підкреслює зростаючу увагу міжнародних інвесторів до індійської економіки та може сприяти подальшому притоку інвестицій.",
-      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
-      "publisher": "The News Mill"
-    },
-    {
-      "title": "Тайвань застерігає Канаду щодо зближення з Китаєм",
-      "original_title": "Taiwan cautions Canada PM over closer trade relationship with China - 1News",
-      "summary": "Тайвань попередив прем’єр-міністра Канади про можливі ризики, пов’язані зі зближенням канадської торгівлі з Китаєм. Зауваження підкреслює геополітичну чутливість торгових відносин у регіоні та можливий вплив на економічні інтереси Тайваню.",
-      "source": "Китай · торгівля, угоди й обмеження",
-      "publisher": "1News"
-    },
     {
       "title": "Russia, Pakistan move toward pragmatic rapprochement",
       "original_title": "Security, Trade And The Afghan Question: Inside Pakistan And Russia’s Pragmatic Rapprochement - OpEd - Eurasia Review",
@@ -1341,6 +1299,48 @@
       "summary": "Taiwan envoy to Canada stated that a proposed trade agreement could protect Canada from Chinese trade coercion. The agreement would provide Canada with a safeguard against potential pressure from China in trade matters.",
       "source": "Китай · економіка, торгівля й промисловість",
       "publisher": "Lethbridge News Now"
+    },
+    {
+      "title": "Експорт Китаю пом’якшує тиск на внутрішній ринок нерухомості",
+      "original_title": "China exports help offset domestic property strains - Traders Union",
+      "summary": "За даними Traders Union, зростання експорту Китаю допомагає компенсувати негативний вплив проблем у внутрішньому секторі нерухомості, зменшуючи економічний тиск на країну.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Traders Union"
+    },
+    {
+      "title": "EU вводить 200‑денний квотний режим на гібридні авто",
+      "original_title": "EU sets 200-day hybrid car import quotas from 1 December - CEO Magazyn",
+      "summary": "З 1 грудня ЄС запроваджує квоти на імпорт гібридних автомобілів на 200 днів. Це обмежить обсяг ввезення гібридних машин у ЄС протягом зазначеного періоду, що може вплинути на постачання та ціни.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "CEO Magazyn"
+    },
+    {
+      "title": "Texas jobs projected to rise 1.1% in 2026",
+      "original_title": "Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - HPPR",
+      "summary": "Federal Reserve Bank of Dallas forecasts that Texas employment will increase by 1.1% in 2026. The modest rise reflects a steady labor market in the state, suggesting continued resilience amid broader economic uncertainties.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "HPPR"
+    },
+    {
+      "title": "India ties ASEAN to East‑West connectivity via IMEC",
+      "original_title": "From Act East to IMEC: Linking ASEAN with India’s Emerging East-West Connectivity Strategy - India Narrative",
+      "summary": "India is advancing the IMEC corridor to link ASEAN countries with its emerging east‑west connectivity strategy, integrating regional trade and transport networks.",
+      "source": "Коридори · IMEC",
+      "publisher": "India Narrative"
+    },
+    {
+      "title": "Bangladesh's debut dollar bond faces higher cost",
+      "original_title": "Bangladesh faces higher cost for debut dollar bond - The Daily Star",
+      "summary": "Bangladesh готується випустити свій перший облігаційний інструмент у доларах США, проте вартість залучення коштів виявилася вищою, ніж передбачалося. Підвищені витрати означають збільшення процентних ставок за новим випуском, що підвищує загальні витрати державного фінансування.",
+      "source": "МВФ, ОЕСР і глобальні макроекономічні прогнози",
+      "publisher": "The Daily Star"
+    },
+    {
+      "title": "Корпоративна інфляція в Японії різко зросла в жовтні",
+      "original_title": "Japan’s corporate services inflation spikes in October - KFGO",
+      "summary": "У жовтні 2023 року інфляція у сфері корпоративних послуг в Японії різко підскочила, згідно даних KFGO. Підвищення вартості послуг для компаній створює додатковий тиск на витрати бізнесу та може вплинути на оцінку монетарної політики Банку Японії.",
+      "source": "Японія · монетарна політика",
+      "publisher": "KFGO"
     }
   ]
 }

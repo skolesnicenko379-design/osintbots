@@ -1,20 +1,5 @@
 {
   "links": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmhqbGVOajdULWVGMGNzNWQ0cXhQemNrNkhaM3dMZGxRbkcyU1JpOVZOVTlYOGdzZ3c3VWdUeTdMdDBHX25aNXpVSm1wS0Q2WkNmdzAtUkViNldFTFYxZEFyY1E5T1ZMVEFUbklzSGxMbDVEYk5HSTRobnRUQURHUnp1Y0lHLTRZbFhXNF9qbGo2UG1ETUpEY2Q1ZVo0dU9sdnNTNm1zWENwMzdzalNwaE1TSmlKaE5hUGpwVFh5RlNucklwVmfSAcsBQVVfeXFMTkxyZndHZnBKU3R2cGo0U3ZJLTNXU25XOGpfYnA0WXFmSkptTTd5c3ZET2syM3dkVXN5amU0T3JDbE5QWEZxLWZlNndNZklnem5HOERERVlaM0xCME0tQklObE0yRERyclNwTzY2Q2ZMUmZLWjhyY21fWW5HYmRyMlB2dkN5Y3NEQXRibm9QdmJGdkFBQWRjdTh2LUtrMVNEU2dBT015aXdLSDVPa3NlSWxoTGVOZHhVMlNITGt0amVybEdfcVR2Tkc4WW8?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlJlYTdodFExTWV5ZnRnbjQ0bFgxYUVFbk1yTURhVzNmWUIxM20wWFl0VDIteTB2UHo2ZWs4STFOTUZlUllKVDZzZklWNVRRQXd2akdqWGdiNjcwM1ZSWG1HVk5wR3BzTjdQSWVnVkxycTV2VEIwMXQ4THJtQndDa3l6NGh5QlNjaFdTcWtSb1ZxaGhoYjZOZ0xvcm9pbFFMTVRaSkVR?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-cautiously-optimistic-us-iran-talks-says-mecca-pact-open-new",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT013SXFvRkdSQ0RKOE9pWDVsVjFmeFhuU3MydEtsaEJKYjlkQnVSUS12Y2VSLTh3YkFuSnhfODU4NzdUOGhBYUFLV2RCd0Z1WE5hUzhnX1RJWms2dkU5dTE4NDFYLXYtWmNtQXIzcVFqNWZLNTNUTTVKVlpZVjVfR0o3TFpNenNiMFFiTDNtWmdFNkxMbXdjTFlvOW1LTUhMZGN2MUxYWXFiU2xxc2c4?oc=5",
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnZ4WWtxQXJFeUNZcTdtQ1EyRG9wLWhma21nQTFjODFUV0ZqX3VJV3lUS0pVYXlKS2xRM0xpTXo5Y2djekVJMW44Mm9EN3JLN3pXWWtfUU5UZ1F6ZjlkYWVIUnVFRWpnZ1QyU3JnOWlJNGoyQnp6UzJVWUQyNk1pMm9jckhYanA5Z1BNNHZmTy04NEhFUW1CS0J1N1g5SW1YSXA4VjVhZjQ4OWxPN1lQNEozSWdDVkVsVGk1U1RpQUNtOG5WTVJrVWlMMXlVSG1sS01BX3k1S19rdW5NbzQ4LU93?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/eight-year-old-palestinian-boy-succumbs-wounds-israeli-gunfire-khan",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/weekly-schedule-of-president-antonio-costa/",
-    "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeVF2NkZsUE10aFoyTzVlODVidXVkbUZYb3N0TEdLaVpjM0tHeXptcHdyS0Vadzl3czkzdDBnWGRQSmk4QWlXR3FaR1FxdHJxejhhRjNBdV91aHYyQmdYdVRiR0N6MHJQMHRoaGNWR292TEw2SkxjbklWY2o3WDlaRmhCdHZEbjNxSmozZmZDZVc4Q2tQVWh4dTFVVUxnU0FSNHhBa0Qtdl8xNHhVeExOLWJRZDRRN1NuWjdpa1BHeFctZFNMRDYxTTg3NUNNSnNCSGhBM0tyN2t1QmJFcFFEQjQ5MF9XaXU4bjg5ckREcjI4ejQ4WWUtWFhjTzVnLUdn?oc=5",
-    "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOUZtVnBGUU5jNG12bmdDZkxtRHptQnBWc2VuMXk1WHRtbG0tR0NqdmROc2ZKaE4wTHNNYWkzNzhVWXhkX1BfZXQ1UG1IZ3VPT1Fxclo3QnpqNU45d0NGMWxiVDM1dWFHNGpKUUxoMVRsS18xNndqZTluN0RYa1AxVTR5bEs3NzUyN1FhVWtKcHdWV3BCZGhOYlZxOUNuU1BHX3BVNV9NOTV3OUg0Q0JheUVtN1g4bFF6SGFLVEVWdGR1Q3RwdmEwRUFVSlpMSVhUZU5fd1FtTXlkRXRMdVJWUXdzeDBRaVZGamFwSDFucU94ODJrSVVMU3JSMWFvX1VYNVg3VGVSNU92T0FBSHNtdlNGTWhGdw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUV5aDFuNWh2akU3SkswcmNwMXk1UHpxcV84WjhsT200VTN4NzhhWk8xb0doeW1TY09VT3IyQ1hkQWZXUm9jQ0prVzg0SmpVSWNLUm1NZ2Q3SDFyUjRlb0prTlA0ZUIzYno4N25DcV9jOWhFNXprTE9PanRHbmFFdWQ4TlE3LTZlSmZkbU0tWlk3enM?oc=5",
-    "http://www.africanews.com/2026/10/30/president-ruto-seeks-compensation-for-kenyans-recruited-into-russian-military/",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/oman-evacuates-crew-tanker-set-ablaze-near-hormuz",
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/remarks-by-president-antonio-costa-at-the-press-conference-following-the-eu-canada-summit/",
-    "http://www.africanews.com/2026/10/30/tanzania-still-haunted-by-deadly-election-violence-one-year-on/",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2EteEdySzBERkVtYUtraXlZSFlhdmR1b1hnZTFPVVM3ME5OV2ZYbGFtS3c4TUNvUEN5cG1TNldGVW5Md0FieWNtbEc4R2lQMWtjdFVXeUl6TzVDeFNESnVtWEVrNkg2R2l4d2NDaVV5UEVJUlZHUzZvSEFNQWhjODZfbEl1cU5QWlhRUjB6cHU3RGN6TG55NXkxSk1lNE5OYmZDWUhRY2YtVElnMGpWZFVETWZya0hvaUE?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlh6Wk5YSlk4cGRqUmZzX3A4LVVHb2RianFiU2JBOENBX3BNVHNka0NWV3FSSlFTYTYxWXAxdTZjZUhnUFhKVEo2aXlBVHZ3ODFDd3VSQWpkZHpnOXJReUFFV0JPTnJBMzZIYVlCaXR1aVZPQ0VadXVsOGo1ZUJQdmhXSEFzWk9aNV80MDR4aw?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFKQ1duSTZKZ1Y0M0d6V0pRRFNURGVqTXZFZDYwa21hcFBIZWdSYTViSUFfY2xIdVY1NnJPQV9xZjFwU3k4QnI4ZVpDM2JPc2YxWFQtRTFXcXFqUmJ5N1pyWjVRTjZZNk9QQ3k4cUh2cWpUTk5jcmFtLVJXa3ZvNGNFbEludEJXUXJubXg4YU8wYkVJalF2NW5neFIyRS1randQUllVVjBDZnZaOTkxTmVLNUpOektTd3Y5UA?oc=5",
     "https://www.gov.uk/government/speeches/minister-mcneill-speech-from-hunger-hotspots-to-political-action",
@@ -1199,16 +1184,24 @@
     "http://www.africanews.com/2026/11/24/cameroon-crushed-4-0-by-mexico-after-second-half-collapse/",
     "http://www.africanews.com/2026/11/24/imf-approves-425-million-economic-and-financial-programme-for-guinea/",
     "https://www.gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVB3REh3VVpUcVhvTnFVbmNTa194eDZsSV9DZ3ZUZ25hMi1KOHpKVFBqV2JjUDlOaFg2ai1XZUVKd3kyT29oOUtINHg3bFVYcHhpUDdHeExjRy1DdmRGQTJQSnVndDZzM0hrY1VtZEdsSHpsdDNuWTdOaEh4VGZLM3NyNTI5bVBfVmdfRHktTzdsNnJMR2pSTlk2QjdtM0JsOHFwbmtVMDhnM1dCYjdDdi1Rc0h0ZEZLRzdXdG83ZWh0VzJ3UGpZ?oc=5"
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVB3REh3VVpUcVhvTnFVbmNTa194eDZsSV9DZ3ZUZ25hMi1KOHpKVFBqV2JjUDlOaFg2ai1XZUVKd3kyT29oOUtINHg3bFVYcHhpUDdHeExjRy1DdmRGQTJQSnVndDZzM0hrY1VtZEdsSHpsdDNuWTdOaEh4VGZLM3NyNTI5bVBfVmdfRHktTzdsNnJMR2pSTlk2QjdtM0JsOHFwbmtVMDhnM1dCYjdDdi1Rc0h0ZEZLRzdXdG83ZWh0VzJ3UGpZ?oc=5",
+    "https://www.middleeasteye.net/opinion/why-israel-should-be-afraid-icj-genocide-ruling-against-myanmar",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFBRZDJka25YUnZHOGpvamROeUVIMlFuZGNwZnFmbUZESjZZeS1XNklvOG1xVm1XZWVtQVdFaTdCdjhLcGdFWVo1WE5KTFdIRmlYWk1Lem9EanA5bUthVjE1OG9lYVlrYVNrWFZUUTkxUHZiQzJLcFhGclRNTnpiWGhRTnVJaHhZcjF0MHZjVFN5eFZmeU4tVm0yVGktNFg0RHRiOU5EUlZRX0RNMzQxQjNVemItNUtMSDc2aTJsR042cFhteWpWV1NjQUxTdw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX29HTHdGTGhUcFFwbVRwdWgtRHdzOE5qT0p1Z2dQcFYycVVRSWNXOEZIcUxhLV9uM05CU1R5NEFrLUxEaG9adzBVaG1DZWFjUjdZNTdxUU85YmN3ZEJWMkx5UjBNQ21VRF9RT1dIVGI0bV81bGs3VjI1MFFkcUR0a3ZMOGN3QWZjU2ZmSUpvZTZTNUIwOTNEeEV3WkJuOVhOZWttcVVmTk1hMU5VTUpTWEFCMnhmVVUxbFhUb2dwQ0lsek41bVc5dlpVRDdfYWN1RTlHbkt3?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYnR6TU1XeTZCNFRZZlJUNWdidWV0RHpieV96WW1sR1J0ZjdycU5ZR05XN1JVVHZ6QXJzUjRMeVd4dnVmaTZRUlNabEFPM3lEc05MRF9icUlqeEVNeUxUYWljaXNUTExTcXdLb2ljZnNqU19mSElnb1pRYTlTQ18zeg?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnBwcExKeHhzQ2h1V2tqMF9IYmxSZmh2a0pITTlhS1pZNTF4NjByRlJ0M0t1WUY3S19UTU9BN0lTN09wbHh3b2lIZ0RGdzRCSGZBTGtoZkVxNkE0UW5fd24tX3A2ekNOcXZ0ZTJEN1F4WGRBemU2ekdiSFZhOWxpRHl5Ti1iT1BKdHYyMTlB?oc=5",
+    "https://www.theafricareport.com/437420/kenya-inside-rutos-2027-plans-as-railas-former-advisers-take-on-new-influence/",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-680",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTNrUzJTVEpkRndLRnFSRGxkNEFpdkFDWGdiU1hRUWk2endubGNXVUdsYVVKYzRYbzkzUjk0cHVYRDRTM1pSbEwtajl6TEdnd19JaGdFUmdmdGVGZ21LejhXOGMxT3BYX3FIb1NpeE13VUpLM0JMQWFPVDlfNUl5ZmNZMklRRXlNMnE5TS1FRnBoUGZvZzJDNNIBngFBVV95cUxNeDZHdFhHemNiZnp2Q3RkdFN0RzQ1aHk5ZmdERFlLZm53aUxYWUdwVHNnZm9ZdmZHOW5wS01BUWNNb2JrSEN3cEhVcnZXR1M0RWROMThMaXM1bGZvNjY5QUhfdU80RDFWZ1Nnc3pXNlZvajJWMG9DMmR2aWQ4RllRYThneWlSQUNJZTlTVVowUTNiejVOT2JUcjM4UUs5dw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXpta29HUmcxMkpDVktkMloxaXdGVGk0ZURkWjIxYlJjRTVEMGI2eE9ManltT1hibmpQNnZialF0UmhhTHBybnBjWGdsejlVZ0NxM2t2Zm1BUE1zSFlZU3pCVU04Q2ppam5FdFdfNm1HcU5idjZmTGV4OW9TblJSNTdMdGI4WlIyYXR4Ynk1NEdsYnRxLXFReUdSX2l6eTNhTGZWaDJtZzJHTUw5?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/more-israeli-strike-targeting-apartment-gaza-city",
+    "https://www.theafricareport.com/437419/after-a-3-4bn-recapitalisation-where-is-nigerias-bank-capital-actually-going/",
+    "http://www.africanews.com/2026/11/25/south-african-court-convicts-zimbabwean-man-of-trying-to-join-russian-war/",
+    "http://www.africanews.com/2026/11/25/morocco-to-challenge-ruling-reinstating-senegal-as-afcon-champions/",
+    "https://www.theafricareport.com/436931/nigeria-moniepoint-contests-n2bn-tax-demand-at-tribunal/"
   ],
   "recent_posts": [
-    {
-      "title": "Міжнародний суд визнав М'янму винною у геноциді рохінджа",
-      "summary": "Міжнародний суд ООН у Гаазі у четвер виніс історичне рішення, визнавши М'янму винною у вчиненні геноциду проти меншості рохінджа. Це перший випадок у практиці суду, коли державу офіційно визнано винною у цьому злочині. Рішення є формальним міжнародним юридичним актом, що фіксує порушення конвенції про запобігання геноциду та його покарання.",
-      "source": "Africanews",
-      "publisher": "",
-      "published": "2026-11-19T10:36:33+00:00"
-    },
     {
       "title": "Китай, США та Росія погодили спільну мирну декларацію",
       "summary": "Китай опублікував «мирну декларацію», узгоджену лідерами КНР Сі Цзіньпіном, США Дональдом Трампом та Росії Володимиром Путіним під час тристоронньої зустрічі. У чотирипунктному документі зазначається, що ядерні війни є безплідними і ніколи не повинні вестися. Сторони домовилися підтримувати стратегічну стабільність, проводити діалог щодо зменшення ядерних ризиків і запобігання розповсюдженню зброї, а також обговорили війну Росії в Україні та війну США й Ізраїлю проти Ірану. Крім того, лідери узг",
@@ -1411,6 +1404,13 @@
       "source": "FCDO (Британія)",
       "publisher": "",
       "published": "2026-11-24T19:27:20+00:00"
+    },
+    {
+      "title": "Соломонові Острови підписали безпекову угоду з Австралією",
+      "summary": "Соломонові Острови офіційно підписали нову безпекову угоду з Австралією, що супроводжується припиненням дії попереднього пакту з Китаєм. Цей дипломатичний крок змінює стратегічні альянси в регіоні Тихого океану, формалізуючи перехід від китайського впливу до австралійського партнерства. Текст джерела не містить додаткових деталей щодо конкретних умов договору, дат підписання чи імен посадовців, тому подія фіксується виключно як факт укладення та розірвання міжнародних угод.",
+      "source": "Treaties & Agreements",
+      "publisher": "India News Network",
+      "published": "2026-11-25T09:33:45+00:00"
     }
   ]
 }

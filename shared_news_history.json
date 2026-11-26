@@ -5,6 +5,7 @@
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
     "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
     "https://defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
+    "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
     "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
     "https://defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles",
     "https://defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission",
@@ -12,25 +13,33 @@
     "https://defensescoop.com/2026/11/24/trump-ai-rebrand-pentagon-super-intelligence-office-sio",
     "https://gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
     "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
+    "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
     "https://militarnyi.com/uk/news/nimechchyna-formuye-pershyj-dronovyj-polk",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/rosiya-609-mlrd-dolariv-na-vijnu-2027-2029",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
+    "https://navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkdaZ0FGSlpwamlUQTBpM3NHcGdxY3BsMTc5Ump5Tm8wSGFDa1RJYXN6YzRtVDVyNWxVbmRuWXRvUUt1enRSU1g3R0pYUkk1aC1DSkxoaUl0bWtNWGVLeHQ0bnRWck54UzZhTHpYekJPTzZUOUZ3MmgxZWp2akUyZDMzNk15czRuMlE",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVV1RzVpRF9xcE9hZU1SRFpVOFJ6UG5jY2hJbnRZX1FXSm9nay1heEZiZXQ1SU5KT2FITmt3NDF0ZV8wdW96UGlOMXJibHRFdnJCdkVYRlF3SFktbmRoekxXY0dZRTNYYkRIRFdWMU9qVWxvVk5xUG5XZ0xLcThWbDJyeElUSU4wYWRUTFR4TlpiaDJ3ZFI4R0tKaw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOblY0Zkh2d3g0TlprTGxWUmdCemg3Q2tJSElaYmJtYk5DVHBFbGlmNUlWUmxnUHFrQTFTWFZBTDU0d3pwNGhPUU5fNTVKeUlWdHlDZDVVYl9sVzhvSEJ2STFDdHdJMWg5b3hrNUNrRlJRY3hUZmNtT2RPMHZIQW1xU0dNdndnQlI1VFAzNzlrM0tPR1NoMDJLNzhOdlhxdw",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dYa213TW1SU0QzZGpuUnhHMUx3UmhUN2tUbWVOdXl3REltUG9nUXl2SzNTa0dndVRTQnE1ekstLWIwSUxfN09QZ3dFVXoyYjMtWVJPV00wWGdROFExbG5YdjR4MXVDVFl6OFZycDNPSVA3V2J2QTlSMF94V1BSZ3RzT1VjZnVQYUFPZG5CQnU2N0ZDQWN5ZEsxajhWTGZPR0FqRGwwZ0w3dw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
     "https://twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
     "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
-    "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition"
+    "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
+    "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports"
   ],
   "recent_posts": [
     {
@@ -304,6 +313,46 @@
       "published": "2026-11-25T18:24:33+00:00"
     },
     {
+      "title": "За оцінками, у війні в Україні загинуло понад 700 000 російських солдатів",
+      "original_title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
+      "summary": "Оновлена оцінка, підготовлена білорусько‑українськими хакерами на основі викрадених даних Росстату, встановлює кількість загиблих російських військових понад 720 000 осіб з лютого 2022 р. Це перевищує сумарні втрати США у всіх війнах за останнє століття (≈ 624 000). Така цифра підкреслює масштаб інформаційного контролю Кремля і може впливати на внутрішню підтримку конфлікту.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
+      "published": "2026-11-25T18:27:12+00:00"
+    },
+    {
+      "title": "Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
+      "original_title": "Ексначальник штабу «Азову» Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
+      "summary": "Ексначальник штабу 12-ї бригади «Азов» Богдан Кротевич, який брав участь у обороні Маріуполя та повернувся з російського полону, очолить 42-гу окрему бригаду морської піхоти, створену переформуванням 144-ї механізованої бригади. Це підвищить оперативну готовність морської піхоти, оскільки Кротевич приведе досвід бойових дій і знання тактики спецоперацій. Переходження до морської піхоти може зміцнити здатність України вести комбіновані операції на узбережжі та в морських зонах.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
+      "published": "2026-11-25T20:15:56+00:00"
+    },
+    {
+      "title": "Австралія отримала перший симулятор підводного корабля класу Virginia у HMAS Stirling",
+      "original_title": "Australia Receives First Virginia-Class Submarine Simulator at HMAS Stirling",
+      "summary": "Австралія отримала у HMAS Stirling перший у країні симулятор VSCOT (Virginia Submarine Control and Operations Training) – частину системи навчання підводних кораблів класу Virginia. Симулятор дозволяє екіпажу практикувати управління судном, навігацію та бойові сценарії без ризику, що підвищує оперативну готовність і інтеграцію з АUKUS.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling",
+      "published": "2026-11-25T20:45:58+00:00"
+    },
+    {
+      "title": "RAF встановлює протидронові сітки на базах для захисту літаків",
+      "original_title": "Drone Threats Prompt RAF To Install Netting At Bases To Protect Aircraft: Reports",
+      "summary": "У відповідь на зростаючі загрози з боку безпілотників британські ВПС розгортають кевларові сітки, які захищають літаки, що стоять на відкритих ділянках аеродрому, від можливих ударів. Такі пасивні засоби застосовуються для великих літаків, які не мають достатньо ангарів, і дозволяють знизити ризик пошкоджень без необхідності будівництва нових укріплених сховищ. Це підвищує стійкість баз до дронових атак і демонструє зміну підходу до захисту авіації у Європі.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports",
+      "published": "2026-11-25T20:47:03+00:00"
+    },
+    {
       "title": "США схвалили угоду на $621,9 млн для обслуговування українських F‑16",
       "original_title": "США схвалили послуги з обслуговування українських F-16 на понад пів мільярда доларів",
       "summary": "Держдеп США затвердив закупівлю обладнання та послуг вартістю 621,9 млн доларів, фінансованих європейськими партнерами (Бельгія, Данія, Нідерланди, Норвегія). Угода включає спеціальні піротехнічні пристрої, лабораторне обладнання та транспортні послуги, необхідні для ремонту та підтримки бойової готовності F‑16. Це дозволить Україні зберігати та експлуатувати отримані літаки без використання американських коштів, підвищуючи стійкість повітряної оборони.",
@@ -324,6 +373,16 @@
       "published": "2026-11-25T21:26:00+00:00"
     },
     {
+      "title": "Рада Європейського Союзу опублікувала Декларацію саміту ЄС – Західні Балкани",
+      "original_title": "EU-Western Balkans Summit Brussels Declaration, 25 November 2026 - Council, European Union",
+      "summary": "Рада Європейського Союзу оприлюднила офіційну Декларацію саміту ЄС – Західні Балкани, ухвалену 25 листопада 2026 року в Брюсселі. Документ визначає ключові напрями співпраці та взаємодії між Європейським Союзом та країнами регіону Західних Балкан у межах офіційного саміту.",
+      "source": "EU Diplomacy",
+      "publisher": "Council, European Union",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
+      "published": "2026-11-25T21:41:22+00:00"
+    },
+    {
       "title": "Карла Бабб призначена головою контенту Military Times і Defense News",
       "original_title": "Carla Babb Named Head of Content for Military Times and Defense News",
       "summary": "Карла Бабб, журналістка з майже двадцятирічним досвідом у сфері національної безпеки, стала новим головою контенту у Military Times та Defense News. Вона очолюватиме редакційні ініціативи, розширюватиме присутність видань на великих подіях і впроваджуватиме нові формати взаємодії з аудиторією оборонного сектора. Це підвищить якість та швидкість висвітлення військових новин, зміцнюючи довіру серед військових і оборонних експертів.",
@@ -334,6 +393,16 @@
       "published": "2026-11-25T21:51:50+00:00"
     },
     {
+      "title": "США планують підвищити тарифи на Китай, ЄС і Бразилію через субсидоване виробництво",
+      "original_title": "U.S. plans to hike tariffs on China, EU, Brazil and others over subsidized production - BNN Bloomberg",
+      "summary": "США оголосили про намір підвищити митні збори на товари з Китаю, Європейського Союзу, Бразилії та інших країн, посилаючись на їх субсидоване виробництво. Це рішення передбачає посилення торгових бар’єрів і може вплинути на двосторонні економічні відносини з зазначеними регіонами.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "BNN Bloomberg",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
+      "published": "2026-11-25T21:57:42+00:00"
+    },
+    {
       "title": "Індонезійський флот отримав ракетний безпілотний катер зі швидкістю 58 вузлів",
       "original_title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
       "summary": "У Північному морі компанія North Sea Boats передала індонезійському флоту перший безпілотний бойовий катер KSR X33, названий Patkamla Geledek. Катер розвиває швидкість до 58 вузлів і оснащений ракетною зброєю, що дозволяє вести ефективний прибережний захист. Така платформа підвищує мобільність і вогневу потужність індонезійської морської інфраструктури, особливо в умовах швидкого реагування на загрози в прибережних зонах.",
@@ -342,6 +411,36 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
       "published": "2026-11-26T00:29:00+00:00"
+    },
+    {
+      "title": "Biden Praises India-Europe Trade Corridor",
+      "original_title": "Biden Praises India-Europe Trade Corridor, Credits Quad With Strengthening U.S.-India Relations - INDIA New England News",
+      "summary": "Президент Джо Байден висловив схвалення щодо Індо-Європейського торгового коридору, підкресливши його значення для глобальної торгівлі. Він також зазначив, що співпраця в рамках Quad (США, Індія, Японія, Австралія) зміцнила зв’язки між США та Індією.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "INDIA New England News",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
+      "published": "2026-11-26T01:17:14+00:00"
+    },
+    {
+      "title": "Прогноз цін на нафту: надлишок пропозиції тисне на WTI",
+      "original_title": "Crude Oil Price Forecast: Supply Surplus Pressures WTI - Equiti Global",
+      "summary": "Equiti Global прогнозує, що надлишок світової пропозиції нафти створює тиск на ціну WTI, що може знизитися. За оцінками, баланс між виробництвом і попитом залишатиметься в користь постачальників, що обмежує зростання цін.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Equiti Global",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
+      "published": "2026-11-26T01:49:14+00:00"
+    },
+    {
+      "title": "Член Банку Японії закликає швидко підвищити ставки",
+      "original_title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation - Bloomberg",
+      "summary": "Член Банку Японії виступив за швидке підвищення процентних ставок у відповідь на інфляційний тиск. Це свідчить про можливе посилення монетарної жорсткості в Японії, що може вплинути на вартість кредитів і курс ієни.",
+      "source": "Японія · монетарна політика",
+      "publisher": "Bloomberg",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
+      "published": "2026-11-26T02:28:00+00:00"
     }
   ]
 }

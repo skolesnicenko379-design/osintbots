@@ -2,6 +2,7 @@
   "links": [
     "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
     "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
+    "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
     "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
     "https://defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
@@ -14,13 +15,14 @@
     "https://gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
     "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
     "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
+    "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
     "https://militarnyi.com/uk/news/nimechchyna-formuye-pershyj-dronovyj-polk",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/rosiya-609-mlrd-dolariv-na-vijnu-2027-2029",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
     "https://navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
-    "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
+    "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
@@ -36,22 +38,13 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
+    "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
     "https://twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
     "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
     "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
     "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports"
   ],
   "recent_posts": [
-    {
-      "title": "Військово-морські сили США підписали контракт з Raytheon на розвиток ядерної крилатої ракети SLCM-N",
-      "original_title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
-      "summary": "U.S. Navy підписала OTA‑контракт з Raytheon для доведення до бойової готовності ядерної морської крилатої ракети SLCM-N, залучивши підрядників Anduril, Divergent та Williams. Ракета передбачає ядерну боєголовку, запуск з підводних та надводних платформ і значно збільшує стратегічний потенціал США у морському ядерному стримуванні.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
-      "published": "2026-11-24T16:33:31+00:00"
-    },
     {
       "title": "Прогнози: ринок оборони Аргентини 2026‑2035",
       "original_title": "Forecasts: Argentina defence market data (2026-2035)",
@@ -303,6 +296,16 @@
       "published": "2026-11-25T14:35:51+00:00"
     },
     {
+      "title": "Постачання першого вертольота‑тильротора MV‑75 відкладено через браку фінансування",
+      "original_title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
+      "summary": "Армія США повідомила, що отримати перший прототип MV‑75 Cheyenne II до кінця 2026 року не вдасться через недофінансування та затримки у співпраці з Bell. MV‑75 — це тильроторний важкий штурмовий літак, який обіцяє вдвічі більшу швидкість і дальність порівняно з існуючими UH‑60 Black Hawk. Затримка може відстрочити впровадження нових можливостей у довготривалій атакувальній авіації армії.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
+      "published": "2026-11-25T18:15:00+00:00"
+    },
+    {
       "title": "Сергій Лавров зустрівся з міністром закордонних справ Білорусі Максимом Риженковим у Гомелі",
       "original_title": "Foreign Minister Sergey Lavrov’s opening remarks during a meeting with Foreign Minister of the Republic of Belarus Maxim Ryzhenkov, Gomel, November 25, 2026 - The Ministry of Foreign Affairs of the Russian Federation - Министерство иностранных дел Ро",
       "summary": "Міністр закордонних справ Російської Федерації Сергій Лавров провів зустріч із міністром закордонних справ Республіки Білорусь Максимом Риженковим. Переговори відбулися у місті Гомель 25 листопада 2026 року. Під час зустрічі глави зовнішньополітичних відомств обох держав виступили зі вступними промовами. Подія стосується двосторонніх дипломатичних відносин між Росією та Білоруссю та офіційних контактів на рівні міністерств закордонних справ.",
@@ -321,6 +324,16 @@
       "channel": "miltech",
       "link": "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
       "published": "2026-11-25T18:27:12+00:00"
+    },
+    {
+      "title": "ВПС США здійснили останнє замовлення KC-46A Pegasus за оригінальним контрактом",
+      "original_title": "Final KC-46 Tankers Under Original Contract With Boeing Ordered By USAF",
+      "summary": "США офіційно розмістили фінальне замовлення на 15 літаків‑топливозаправників KC‑46A Pegasus у рамках оригінального контракту 2011 року, що доведе загальну кількість у 188 одиниць до завершення у 2030 році. Основна технічна проблема – система дистанційного бачення (RVS), яка досі має недоліки, і її оновлення RVS 2.0 відкладено до 2028 року, що може вплинути на ефективність повітряного заправлення. Попри це, Boeing повідомляє про 203 Pegasus у світі, включаючи 116 у ВПС США, що підсилює їхню роль у глобальних військових операціях.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
+      "published": "2026-11-25T19:28:11+00:00"
     },
     {
       "title": "Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
@@ -441,6 +454,26 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
       "published": "2026-11-26T02:28:00+00:00"
+    },
+    {
+      "title": "Lockheed Martin представила комплект озброєння середньої дальності для фрегата International Class компанії Gibbs & Cox",
+      "original_title": "Lockheed Martin Unveils Weapons Suite for Gibbs & Cox’s International Class Frigate",
+      "summary": "На виставці Euronaval 2026 компанія Lockheed Martin представила середньодальну зброєву систему для міжнародного класу фрегатів Gibbs & Cox, поєднавши вертикальні пускові системи (VLS) з пусковими установками JAGM. Така конфігурація дозволяє фрегатам вести ураження як надводних цілей, так і наземних об’єктів, підвищуючи їхню багатофункціональність та вогневу потужність у морських операціях.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
+      "published": "2026-11-26T09:31:13+00:00"
+    },
+    {
+      "title": "Британські ВПС переміщують винищувачі в захищені ангари та застосовують протидронові сітки",
+      "original_title": "Британія почала ховати винищувачі в захищених ангарах через загрозу атак дронів",
+      "summary": "RAF переносить літаки у захищені ангари та розподіляє їх між різними аеродромами, щоб мінімізувати ризик удару безпілотників. На базах встановлюються протидронові сітки, подібні до українських, що перешкоджають прямому влучанню дронів і зменшують шкоду від уламків. Такі заходи підвищують живучість авіапарку та забезпечують швидкий вильот у разі атаки.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
+      "published": "2026-11-26T10:49:13+00:00"
     }
   ]
 }

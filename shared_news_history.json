@@ -1,10 +1,9 @@
 {
   "links": [
-    "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
     "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
     "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
-    "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
+    "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
     "https://defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
     "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
     "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
@@ -13,68 +12,46 @@
     "https://defensescoop.com/2026/11/24/space-systems-command-gps-sustainment-upgrade-contract",
     "https://defensescoop.com/2026/11/24/trump-ai-rebrand-pentagon-super-intelligence-office-sio",
     "https://gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
-    "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
     "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
     "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
     "https://militarnyi.com/uk/news/nimechchyna-formuye-pershyj-dronovyj-polk",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/rosiya-609-mlrd-dolariv-na-vijnu-2027-2029",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
+    "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
+    "https://navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production",
     "https://navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRXJ0YnU5R19ZUUNKUFdicldlMFJZRGNtWVdGc1lzVTJGSUNJNXVSd014TXp2ajdFenhBUy02UWdKZUZqaDVHeEVJNGhoS1ZJR2JxVA",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkdaZ0FGSlpwamlUQTBpM3NHcGdxY3BsMTc5Ump5Tm8wSGFDa1RJYXN6YzRtVDVyNWxVbmRuWXRvUUt1enRSU1g3R0pYUkk1aC1DSkxoaUl0bWtNWGVLeHQ0bnRWck54UzZhTHpYekJPTzZUOUZ3MmgxZWp2akUyZDMzNk15czRuMlE",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVV1RzVpRF9xcE9hZU1SRFpVOFJ6UG5jY2hJbnRZX1FXSm9nay1heEZiZXQ1SU5KT2FITmt3NDF0ZV8wdW96UGlOMXJibHRFdnJCdkVYRlF3SFktbmRoekxXY0dZRTNYYkRIRFdWMU9qVWxvVk5xUG5XZ0xLcThWbDJyeElUSU4wYWRUTFR4TlpiaDJ3ZFI4R0tKaw",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWl1NFhBRlpVc2dPMHphT1E4NWF0c0lTMWk3MlZDRHNUUmdhVlBZTlZDUlJ6dk16anpSYmN2bnpRcnJfdE1ENkJKcUw2T2FiUjBJLUVqT2o1Z0g0dUFwSkdVMEtydWljYWRnNzFEc2YyclB0UnRPendUNjIteEYwZ3RnbTVBMkdFTXVNNElKbUZhdWw4aWNUb2lkUU4",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOblY0Zkh2d3g0TlprTGxWUmdCemg3Q2tJSElaYmJtYk5DVHBFbGlmNUlWUmxnUHFrQTFTWFZBTDU0d3pwNGhPUU5fNTVKeUlWdHlDZDVVYl9sVzhvSEJ2STFDdHdJMWg5b3hrNUNrRlJRY3hUZmNtT2RPMHZIQW1xU0dNdndnQlI1VFAzNzlrM0tPR1NoMDJLNzhOdlhxdw",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFkZnhVM0NObWhiYlVkZUpDdUJLTkQweWlLRW1zZmhGUlg1NXVhY1lSRFpDTmJ2ZEhMbk1fVUVYZjFqa0NsT183WXJBZzBNbU5oSlBGRElDSDh3ZnJZVDZwTnRwUUJ3NW1WMWFPSjlkN18zdzRmVEZiNVZXTlVwN2h3NHVtNW1WSkxjMVUtd1BaeE5JNmJtRC1SOF9EbXhhVlN3",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dYa213TW1SU0QzZGpuUnhHMUx3UmhUN2tUbWVOdXl3REltUG9nUXl2SzNTa0dndVRTQnE1ekstLWIwSUxfN09QZ3dFVXoyYjMtWVJPV00wWGdROFExbG5YdjR4MXVDVFl6OFZycDNPSVA3V2J2QTlSMF94V1BSZ3RzT1VjZnVQYUFPZG5CQnU2N0ZDQWN5ZEsxajhWTGZPR0FqRGwwZ0w3dw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
     "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
     "https://twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
+    "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
     "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
     "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
     "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports"
   ],
   "recent_posts": [
-    {
-      "title": "Прогнози: ринок оборони Аргентини 2026‑2035",
-      "original_title": "Forecasts: Argentina defence market data (2026-2035)",
-      "summary": "Аргентина планує оновити військову техніку, закупивши нові бойові літаки, морські бойові кораблі та бронетранспортери. Це підвищить її повітряну та морську спроможність, а також мобільність сухопутних сил. Очікується, що нові платформи посилять обороноздатність країни у регіоні протягом наступного десятиліття.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/features/forecasts-argentina-defence-market-data-2026-2035",
-      "published": "2026-11-24T17:21:50+00:00"
-    },
-    {
-      "title": "Армія вимагає новий танк: Abrams досяг межі, потрібен генерційний редизайн",
-      "original_title": "The Army has told us how it fights. We can’t do that in an analog tank.",
-      "summary": "Колишній тризірковий генерал стверджує, що десятиліття модернізацій вичерпали потенціал танка Abrams, і лише повна генерційна перебудова дозволить зберегти його боєздатність. У новому проєкті планується впровадження електричних приводів, підвищена броня та інтеграція штучного інтелекту для автоматизованих систем управління. Така модернізація може суттєво підвищити маневреність і вогневу потужність підрозділів, забезпечивши перевагу на сучасному полі бою.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
-      "published": "2026-11-24T17:23:00+00:00"
-    },
-    {
-      "title": "Байрактар AKINCI успішно скинув легку торпеду ORKA під час випробувань у Саросі",
-      "original_title": "Bayraktar AKINCI став торпедоносцем: у Туреччині випробували легку торпеду ORKA",
-      "summary": "Під час випробувань у затоці Сарос безпілотний дрон Bayraktar AKINCI зняв підкриловий вузол і скинув нову 324 мм легку торпеду ORKA, яка оснащена активною/пасивною гідроакустичною головкою самонаведення. Це демонструє можливість інтеграції протипідводної зброї на безпілотних платформах, хоча повний цикл ураження (виявлення, класифікація, наведення) ще не підтверджений. Якщо технологія буде доопрацьована, вона може розширити спектр завдань турецьких дронів у протичовновій боротьбі.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/akinci-skydannya-torpedy-orka",
-      "published": "2026-11-24T17:41:12+00:00"
-    },
     {
       "title": "Велика Британія виступила в Раді Безпеки ООН щодо ролі технологій у миротворчості",
       "original_title": "Technology will not make peace for us, but used well, it can help us to build, protect and support it: UK statement at the UN Security Council",
@@ -296,6 +273,26 @@
       "published": "2026-11-25T14:35:51+00:00"
     },
     {
+      "title": "НАТО не бачить російського наростання у Середземному після удару біля Лівії, аналітики попереджають ризики",
+      "original_title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
+      "summary": "Україна завдала удару по російському кораблю біля узбережжя Лівії, що, за словами експертів, може стати тригером для російської контрзаходу. Хоча НАТО не спостерігає масштабного наростання російського флоту в Середземному морі, інцидент підвищує напруженість на південному фланзі альянсу. Аналітики застерігають, що подальша ескалація може призвести до розширення конфлікту та посилення військових операцій у регіоні.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
+      "published": "2026-11-25T17:45:00+00:00"
+    },
+    {
+      "title": "Варіант гіперзвукового ракети ARRW, здатний знищувати кораблі, стикається з відсутністю повної підтримки законодавців",
+      "original_title": "Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get Full Support From Lawmakers",
+      "summary": "Сенат зменшив фінансування на 75 % для інкременту 2 гіперзвукової ракети ARRW, що має новий сенсор для атак на рухомі цілі, зокрема кораблі. Це означає затримки у розробці та тестуванні, а також можливе зменшення швидкості впровадження у бойову експлуатацію. У результаті, американська армія може втратити перевагу у швидких реакціях на морські загрози, поки не буде знайдено альтернативні рішення.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
+      "published": "2026-11-25T18:04:27+00:00"
+    },
+    {
       "title": "Постачання першого вертольота‑тильротора MV‑75 відкладено через браку фінансування",
       "original_title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
       "summary": "Армія США повідомила, що отримати перший прототип MV‑75 Cheyenne II до кінця 2026 року не вдасться через недофінансування та затримки у співпраці з Bell. MV‑75 — це тильроторний важкий штурмовий літак, який обіцяє вдвічі більшу швидкість і дальність порівняно з існуючими UH‑60 Black Hawk. Затримка може відстрочити впровадження нових можливостей у довготривалій атакувальній авіації армії.",
@@ -456,6 +453,16 @@
       "published": "2026-11-26T02:28:00+00:00"
     },
     {
+      "title": "Euroatlas і EvoLogics запустили серійне виробництво UUV Greyshark Bravo",
+      "original_title": "Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production",
+      "summary": "Euroatlas і EvoLogics перейшли Greyshark Bravo з прототипу в серійне виробництво, що дозволить збільшити кількість автономних підводних суден у флотах. UUV працює на акумуляторах, має глибину роботи до 2000 м і автономність понад 48 годин, що підвищує можливості розвідки та міноборонних операцій. Перша поставка запланована до кінця 2026 року, що може скоротити час розгортання підводних систем у морських конфліктах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production",
+      "published": "2026-11-26T08:53:59+00:00"
+    },
+    {
       "title": "Lockheed Martin представила комплект озброєння середньої дальності для фрегата International Class компанії Gibbs & Cox",
       "original_title": "Lockheed Martin Unveils Weapons Suite for Gibbs & Cox’s International Class Frigate",
       "summary": "На виставці Euronaval 2026 компанія Lockheed Martin представила середньодальну зброєву систему для міжнародного класу фрегатів Gibbs & Cox, поєднавши вертикальні пускові системи (VLS) з пусковими установками JAGM. Така конфігурація дозволяє фрегатам вести ураження як надводних цілей, так і наземних об’єктів, підвищуючи їхню багатофункціональність та вогневу потужність у морських операціях.",
@@ -466,6 +473,26 @@
       "published": "2026-11-26T09:31:13+00:00"
     },
     {
+      "title": "США використали корейські проєкти у тарифній справі",
+      "original_title": "US Uses Korea’s Mega Projects and National Growth Fund to Bolster Tariff Case - bloomingbit",
+      "summary": "США посилаються на великі проєкти Південної Кореї та Національний фонд зростання у справі про тарифи, використовуючи їх як підґрунтя для торгових вимог.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "bloomingbit",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRXJ0YnU5R19ZUUNKUFdicldlMFJZRGNtWVdGc1lzVTJGSUNJNXVSd014TXp2ajdFenhBUy02UWdKZUZqaDVHeEVJNGhoS1ZJR2JxVA",
+      "published": "2026-11-26T09:46:30+00:00"
+    },
+    {
+      "title": "EU може виключити китайську компанію, відкриваючи шлях до розширення санкційної пом’якшення",
+      "original_title": "Could EU delisting of Chinese firm pave way for wider sanctions relief? - South China Morning Post",
+      "summary": "Європейський Союз розглядає можливість виключення китайської фірми зі списку, що може стати передумовою для ширшого пом'якшення санкцій. Це рішення стосується торгівлі та економічної безпеки в рамках ЄС‑Китай відносин.",
+      "source": "ЄС · торгівля, угоди й економічна безпека",
+      "publisher": "South China Morning Post",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
+      "published": "2026-11-26T10:00:23+00:00"
+    },
+    {
       "title": "Британські ВПС переміщують винищувачі в захищені ангари та застосовують протидронові сітки",
       "original_title": "Британія почала ховати винищувачі в захищених ангарах через загрозу атак дронів",
       "summary": "RAF переносить літаки у захищені ангари та розподіляє їх між різними аеродромами, щоб мінімізувати ризик удару безпілотників. На базах встановлюються протидронові сітки, подібні до українських, що перешкоджають прямому влучанню дронів і зменшують шкоду від уламків. Такі заходи підвищують живучість авіапарку та забезпечують швидкий вильот у разі атаки.",
@@ -474,6 +501,56 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
       "published": "2026-11-26T10:49:13+00:00"
+    },
+    {
+      "title": "Польща планує мережу швидкісних залізниць 350 км/год",
+      "original_title": "Poland outlines plans for 350 km/h rail network - RAILMARKET.com",
+      "summary": "Польща представила план створення залізничної мережі, розрахованої на швидкість 350 км/год. Це свідчить про намір країни розвивати інфраструктуру високошвидкісних залізниць, що може підвищити транспортну спроможність та конкурентоспроможність у регіоні.",
+      "source": "Коридори · Північ–Південь (INSTC)",
+      "publisher": "RAILMARKET.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWl1NFhBRlpVc2dPMHphT1E4NWF0c0lTMWk3MlZDRHNUUmdhVlBZTlZDUlJ6dk16anpSYmN2bnpRcnJfdE1ENkJKcUw2T2FiUjBJLUVqT2o1Z0g0dUFwSkdVMEtydWljYWRnNzFEc2YyclB0UnRPendUNjIteEYwZ3RnbTVBMkdFTXVNNElKbUZhdWw4aWNUb2lkUU4",
+      "published": "2026-11-26T10:53:00+00:00"
+    },
+    {
+      "title": "Ціни на спотовий ринок природного газу 25 листопада",
+      "original_title": "Spot market natural gas prices for Wednesday, Nov. 25 - Anadolu Ajansı",
+      "summary": "25 листопада на спотовому ринку природного газу зафіксовано нові ціни, про що повідомляє Anadolu Ajansı. Інформація вказує на актуальність моніторингу газових цін, хоча конкретні цифри не наведені.",
+      "source": "Енергетика та LNG",
+      "publisher": "Anadolu Ajansı",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFkZnhVM0NObWhiYlVkZUpDdUJLTkQweWlLRW1zZmhGUlg1NXVhY1lSRFpDTmJ2ZEhMbk1fVUVYZjFqa0NsT183WXJBZzBNbU5oSlBGRElDSDh3ZnJZVDZwTnRwUUJ3NW1WMWFPSjlkN18zdzRmVEZiNVZXTlVwN2h3NHVtNW1WSkxjMVUtd1BaeE5JNmJtRC1SOF9EbXhhVlN3",
+      "published": "2026-11-26T11:35:17+00:00"
+    },
+    {
+      "title": "Вірменія просуває США‑підтримуваний транспортний коридор",
+      "original_title": "Armenia Advances US-Backed Transport Corridor as South Caucasus Trade Routes Shift - EU Today",
+      "summary": "Вірменія активізувала роботу над транспортним коридором, фінансованим США, що свідчить про зміну торгових шляхів у Південному Кавказі. Проєкт передбачає покращення інфраструктури та підвищення транзитних можливостей регіону.",
+      "source": "Коридори · Середній і Транскаспійський",
+      "publisher": "EU Today",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
+      "published": "2026-11-26T12:03:50+00:00"
+    },
+    {
+      "title": "Китай стикається з дефіцитом міді та крихким попитом",
+      "original_title": "China’s Copper Crunch Hides a Fragile Demand Outlook - Bloomberg.com",
+      "summary": "У Китаї спостерігається дефіцит міді, що приховує крихкий попит на цей метал. За даними Bloomberg, ситуація вказує на нестабільність споживчого та промислового попиту, що може вплинути на імпорт та ціни.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Bloomberg.com",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
+      "published": "2026-11-26T12:15:01+00:00"
+    },
+    {
+      "title": "Українські дрони атакували нафтопереробний завод «Славянськ ЕКО» на Кубані",
+      "original_title": "Українські дрони атакували НПЗ «Славянск ЭКО» на Кубані",
+      "summary": "У ніч на 26 листопада безпілотники Сил оборони України, зокрема FP‑1, атакували НПЗ «Славянськ ЕКО» в Слов’янську‑на‑Кубані, влучивши в об’єкти заводу після спроби російської вогневої групи збити їх. За даними російського видання, під час атаки пошкоджено установку атмосферної перегонки, резервуари для темних нафтопродуктів та трубопровід, що може призвести до тривалої зупинки переробки нафти. Такий удар демонструє ефективність малих ударних дронів у ураженні критичної інфраструктури противника.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
+      "published": "2026-11-26T12:24:05+00:00"
     }
   ]
 }

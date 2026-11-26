@@ -5,6 +5,7 @@
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
     "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
     "https://defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
+    "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
     "https://defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles",
     "https://defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission",
     "https://defensescoop.com/2026/11/24/space-systems-command-gps-sustainment-upgrade-contract",
@@ -14,6 +15,8 @@
     "https://militarnyi.com/uk/news/nimechchyna-formuye-pershyj-dronovyj-polk",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/rosiya-609-mlrd-dolariv-na-vijnu-2027-2029",
+    "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
+    "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9UcV83Q0I1OWczbUJrcTBBTFJJSTFjeDR1TFhueXhLV0gzdHRZWTFmMGllSGcyVHFxUGszS0plMDYwRGlaVnhPc2t4d3hxY0tHMVkxYmhEbENGcXVpenc3cERERW9KOHEyRFg1UXJ5RDNvdw",
@@ -21,25 +24,15 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVV1RzVpRF9xcE9hZU1SRFpVOFJ6UG5jY2hJbnRZX1FXSm9nay1heEZiZXQ1SU5KT2FITmt3NDF0ZV8wdW96UGlOMXJibHRFdnJCdkVYRlF3SFktbmRoekxXY0dZRTNYYkRIRFdWMU9qVWxvVk5xUG5XZ0xLcThWbDJyeElUSU4wYWRUTFR4TlpiaDJ3ZFI4R0tKaw",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOblY0Zkh2d3g0TlprTGxWUmdCemg3Q2tJSElaYmJtYk5DVHBFbGlmNUlWUmxnUHFrQTFTWFZBTDU0d3pwNGhPUU5fNTVKeUlWdHlDZDVVYl9sVzhvSEJ2STFDdHdJMWg5b3hrNUNrRlJRY3hUZmNtT2RPMHZIQW1xU0dNdndnQlI1VFAzNzlrM0tPR1NoMDJLNzhOdlhxdw",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXVEb0tjWjRYUjVQcXRCU0w2ZXpBeGxUMk9tdENHemQyc01RTnhVSjRwREsyR0pkZXJkZVhnUjVPaWNTN0sxcThqWVJzVFMxRVJwUFoxQmdxZDUxV0YzTjBoNk9LMjlLMlcxTWRPRmJzS3lPalEyeGY0b2VzT29mMXl5cHlFRTlIQXFqRTA4TEQyZGU2cGdoYmFPOU1XTEdyNjVqZkNB",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dYa213TW1SU0QzZGpuUnhHMUx3UmhUN2tUbWVOdXl3REltUG9nUXl2SzNTa0dndVRTQnE1ekstLWIwSUxfN09QZ3dFVXoyYjMtWVJPV00wWGdROFExbG5YdjR4MXVDVFl6OFZycDNPSVA3V2J2QTlSMF94V1BSZ3RzT1VjZnVQYUFPZG5CQnU2N0ZDQWN5ZEsxajhWTGZPR0FqRGwwZ0w3dw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXM0VGc2QUNNeHdfUnRmY29mYjQ1RkR3QzE3Mk11UmgtcGp3dmlyclBLRTU3U2txMTcxa2thcnNmWG5WdGlxaDFlQmdaZWNtNWNLU3Z6SUVQbzB1d1NoZGZfSk5yRC12ZnpnUWxXei1zUTFub0hjamh1dXFRdi1KRVNxQ3c1ZUh6aXFWMklfS1owTFZTXzRFT1lpYXdiaHBPU2FzZk5NY3ByOTdvLUw1MzlJSmtocElNM3hjQk95eTg1WEdTTDVn",
     "https://twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
-    "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission"
+    "https://twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
+    "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition"
   ],
   "recent_posts": [
-    {
-      "title": "Іран перенаправляє торгівлю до Росії через паралізований проток",
-      "original_title": "Hormuz Strait paralyzed, Iran shifts trade direction to Russia - Laodong.vn",
-      "summary": "Через паралізування протоки Хормуз Іран змінив напрямок зовнішньої торгівлі, орієнтуючись на Росію. Перехід може вплинути на торгові потоки між Іраном і Росією, оскільки традиційний морський шлях до Європи та Азії тимчасово недоступний.",
-      "source": "РФ · економіка, бюджет і зовнішня торгівля",
-      "publisher": "Laodong.vn",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkhfU0JBWVN5M3hFbktWcTNfT1p0MEdGY01YQjhYcWtzX0JJeVRXWk5aR0p5bEp6dmtPUGcxYTFsUkozbTNfZEVDQkNmc0hFOW9qc080UnIxRmZ4dk9zQ3UyRVNPVFpERGNZci1SbXg2OU12QmVQMlVkeWNCUUtVUWxwQXlHOVlXRFV5ZmQ4S0hWbTJTZzVwelVrenZiU1pQRGhmRjh2VlFXZw",
-      "published": "2026-11-24T02:26:43+00:00"
-    },
     {
       "title": "Військово-морські сили США підписали контракт з Raytheon на розвиток ядерної крилатої ракети SLCM-N",
       "original_title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
@@ -309,6 +302,46 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
       "published": "2026-11-25T18:24:33+00:00"
+    },
+    {
+      "title": "США схвалили угоду на $621,9 млн для обслуговування українських F‑16",
+      "original_title": "США схвалили послуги з обслуговування українських F-16 на понад пів мільярда доларів",
+      "summary": "Держдеп США затвердив закупівлю обладнання та послуг вартістю 621,9 млн доларів, фінансованих європейськими партнерами (Бельгія, Данія, Нідерланди, Норвегія). Угода включає спеціальні піротехнічні пристрої, лабораторне обладнання та транспортні послуги, необхідні для ремонту та підтримки бойової готовності F‑16. Це дозволить Україні зберігати та експлуатувати отримані літаки без використання американських коштів, підвищуючи стійкість повітряної оборони.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
+      "published": "2026-11-25T21:18:37+00:00"
+    },
+    {
+      "title": "Сімейний бункер у Форт-Уейні: історія холодної війни",
+      "original_title": "Bunker Talk: Have A Magical Turkey Day Edition!",
+      "summary": "У 1955 році індіанській парі Мерр і Місіс Андерсон встановили під власним двопанельним сталевим бункером, що слугував сховищем від ядерного удару. Бункер, спроектований за принципами атомної епохи, під час Карибської кризису піднявся на поверхню і був швидко занурений назад, а в 1968 році проданий новим власникам. Така приватна інфраструктура ілюструє громадсько‑політичні уявлення про готовність до ядерної війни та обмежений військовий вплив у сучасному контексті.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
+      "published": "2026-11-25T21:26:00+00:00"
+    },
+    {
+      "title": "Карла Бабб призначена головою контенту Military Times і Defense News",
+      "original_title": "Carla Babb Named Head of Content for Military Times and Defense News",
+      "summary": "Карла Бабб, журналістка з майже двадцятирічним досвідом у сфері національної безпеки, стала новим головою контенту у Military Times та Defense News. Вона очолюватиме редакційні ініціативи, розширюватиме присутність видань на великих подіях і впроваджуватиме нові формати взаємодії з аудиторією оборонного сектора. Це підвищить якість та швидкість висвітлення військових новин, зміцнюючи довіру серед військових і оборонних експертів.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
+      "published": "2026-11-25T21:51:50+00:00"
+    },
+    {
+      "title": "Індонезійський флот отримав ракетний безпілотний катер зі швидкістю 58 вузлів",
+      "original_title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
+      "summary": "У Північному морі компанія North Sea Boats передала індонезійському флоту перший безпілотний бойовий катер KSR X33, названий Patkamla Geledek. Катер розвиває швидкість до 58 вузлів і оснащений ракетною зброєю, що дозволяє вести ефективний прибережний захист. Така платформа підвищує мобільність і вогневу потужність індонезійської морської інфраструктури, особливо в умовах швидкого реагування на загрози в прибережних зонах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
+      "published": "2026-11-26T00:29:00+00:00"
     }
   ]
 }

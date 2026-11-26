@@ -1,5 +1,6 @@
 {
   "links": [
+    "https://army-technology.com/comment/does-the-uk-dislike-defence-journalists",
     "https://army-technology.com/news/lincad-lips-18-battery-uk",
     "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
     "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
@@ -11,6 +12,7 @@
     "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
     "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
     "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
+    "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
@@ -19,19 +21,25 @@
     "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
+    "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRXJ0YnU5R19ZUUNKUFdicldlMFJZRGNtWVdGc1lzVTJGSUNJNXVSd014TXp2ajdFenhBUy02UWdKZUZqaDVHeEVJNGhoS1ZJR2JxVA",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
+    "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2QzQ1d4M1FwY1BZcDduR1BoSVYwMDRGRDdmWm4zZHlNSTl3V2xhVVFYQ2pKLTA5b3l2X0JCa2R0M3RQVFVrMjNhc2FYOGYySUxxVVdmbFRlZ0hjNWdBLUlBMFV2c3JVZENMR2lveWV3OUlVSjRtYWg0TTFTV0dkRng3aXJPZHp5Ti1WQmdXQlJlTEszaUJXb1gwa25wU3R2akJfQnhzbnpTRmE1UG5mbWxoaTFKUk5VLWFVczBNRHdLeEduYm11RzlvMVhrQTdkUUVWTUsycGVqUW1wMGhvRnVGTEkzZzJqeW45SzhGaDRLUjhkWlhJRUVCbmFkYnRhWjcxZmhhd1E2TXpaVkR5ZXczTWRReTdwTHF3",
     "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVnROU0pxQTkyWmk1M0x4bVdvb3lpOTNoSGt6LXhaNGxaRjl3SzNoYWFwbW4zbGNWVUt2WWxqTE9GTWlVZjY5OGhfT01vVXpsSlVlbnpGVE91THQ3MzJZQVJQM2M2WDdoRWh3eE9KQ0lvejBESEpUV3dENkpzM2M4VFNnNjRiYURCV2lvMjliV3lldHNVSWYzd0dCLXNlTWwxQTlUeXpqaGRaN0x4a3JidUZyZHkyQlhNRHdoOVZtRkZyWHIweWM1eEh2d0NrZmd4OUdpVzJ3RkQzazdobkY3a2czUU9fNFhhLWtsWThJazVBLVJyTFZNM0ZqazFvY2J3Y3NvbzZaYXpBa1JwX01kaTJ3a2RhWE1UTHlF",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWl1NFhBRlpVc2dPMHphT1E4NWF0c0lTMWk3MlZDRHNUUmdhVlBZTlZDUlJ6dk16anpSYmN2bnpRcnJfdE1ENkJKcUw2T2FiUjBJLUVqT2o1Z0g0dUFwSkdVMEtydWljYWRnNzFEc2YyclB0UnRPendUNjIteEYwZ3RnbTVBMkdFTXVNNElKbUZhdWw4aWNUb2lkUU4",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFkZnhVM0NObWhiYlVkZUpDdUJLTkQweWlLRW1zZmhGUlg1NXVhY1lSRFpDTmJ2ZEhMbk1fVUVYZjFqa0NsT183WXJBZzBNbU5oSlBGRElDSDh3ZnJZVDZwTnRwUUJ3NW1WMWFPSjlkN18zdzRmVEZiNVZXTlVwN2h3NHVtNW1WSkxjMVUtd1BaeE5JNmJtRC1SOF9EbXhhVlN3",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
     "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
     "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
@@ -270,6 +278,16 @@
       "published": "2026-11-26T02:28:00+00:00"
     },
     {
+      "title": "Передача Україні 60 списаних F‑15 виявилась недоцільною",
+      "original_title": "Чому ідея передати Україні 60 списаних винищувачів F-15, які перевершують наявні F-16 та перші JAS-39 Gripen, насправді доволі погана - Defense Express",
+      "summary": "У статті Defense Express розглядається пропозиція передати Україні 60 виведених з експлуатації винищувачів F‑15, які, за словами експертів, не перевищують за ефективністю сучасні F‑16 та нові JAS‑39 Gripen. Основними проблемами є високі витрати на модернізацію, складність технічного обслуговування та необхідність додаткового навчання пілотів і наземних служб. Через це передача цих літаків не забезпечить значного підвищення бойових можливостей України, а лише ускладнить логістику.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2QzQ1d4M1FwY1BZcDduR1BoSVYwMDRGRDdmWm4zZHlNSTl3V2xhVVFYQ2pKLTA5b3l2X0JCa2R0M3RQVFVrMjNhc2FYOGYySUxxVVdmbFRlZ0hjNWdBLUlBMFV2c3JVZENMR2lveWV3OUlVSjRtYWg0TTFTV0dkRng3aXJPZHp5Ti1WQmdXQlJlTEszaUJXb1gwa25wU3R2akJfQnhzbnpTRmE1UG5mbWxoaTFKUk5VLWFVczBNRHdLeEduYm11RzlvMVhrQTdkUUVWTUsycGVqUW1wMGhvRnVGTEkzZzJqeW45SzhGaDRLUjhkWlhJRUVCbmFkYnRhWjcxZmhhd1E2TXpaVkR5ZXczTWRReTdwTHF3",
+      "published": "2026-11-26T07:41:00+00:00"
+    },
+    {
       "title": "Турецький Bayraktar AKINCI отримав протичовнову торпеду ORKA",
       "original_title": "Для чого турецький Bayraktar AKINCI оснастили протичовновою торпедою ORKA і як це лягає в загальну концепцію країни щодо безпеки акваторій - Defense Express",
       "summary": "Турецька компанія Baykar інтегрувала до безпілотного бойового літака AKINCI протичовнову торпеду ORKA, розроблену для ураження підводних цілей у важких морських умовах. ORKA має діапазон ураження до 30 км, глибину занурення до 500 м та здатна протистояти гідродинамічним шумам. Це підвищує можливості Туреччини у захисті своїх акваторій та створює нову загрозу для ворожих підводних сил.",
@@ -380,6 +398,16 @@
       "published": "2026-11-26T12:24:05+00:00"
     },
     {
+      "title": "Чи не любить Велика Британія журналістів оборони?",
+      "original_title": "Does the UK dislike defence journalists?",
+      "summary": "У Великій Британії депутат оголосив критику щодо звітності про оборону, стверджуючи, що така інформація може посилити ризик-аверсію Міністерства оборони. Це може обмежити прозорість та впливати на прийняття рішень щодо закупівель і стратегічного планування. Підтримка журналістів оборони важлива для балансу між безпекою та відкритістю.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/comment/does-the-uk-dislike-defence-journalists",
+      "published": "2026-11-26T12:38:16+00:00"
+    },
+    {
       "title": "Lincad постачатиме нові військові літій‑іонні батареї LIPS 18 Міністерству оборони Великої Британії",
       "original_title": "Lincad to supply LIPS 18 lithium-ion military batteries to UK MoD",
       "summary": "Британська компанія Lincad отримала контракт на постачання нових батарей LIPS 18 для Міністерства оборони Великої Британії, замінюючи попередню модель LIPS 8. Батареї LIPS 18 – це літій‑іонні елементи з підвищеною енергетичною щільністю, більшою ємністю та модульною конструкцією, що дозволяє їх інтегрувати в різні військові системи. Очікується, що їх використання підвищить автономність та ефективність електроніки та озброєння, зменшуючи вагу та час на обслуговування.",
@@ -388,6 +416,16 @@
       "channel": "miltech",
       "link": "https://army-technology.com/news/lincad-lips-18-battery-uk",
       "published": "2026-11-26T13:17:13+00:00"
+    },
+    {
+      "title": "MOD Великої Британії підписав з Babcock рекордний контракт «Gateway» на 8,7 млрд фунтів",
+      "original_title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
+      "summary": "Babcock International підписав з Міністерством оборони Великої Британії угоду «Gateway» вартістю 8,7 мільярда фунтів, яка замінює програму Future Maritime Support Programme. Угода передбачає довгострокове технічне обслуговування та модернізацію підводних човнів класу Astute та інших підводних платформ, включаючи ремонтні роботи, постачання запасних частин і оновлення систем управління. Це посилить бойову готовність британського підводного флоту та забезпечить стабільність підтримки підводних сил у стратегічно важливих регіонах.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
+      "published": "2026-11-26T14:09:34+00:00"
     },
     {
       "title": "Французький стартап Arsenals представив модульний АПП для швидкого виробництва",
@@ -400,6 +438,36 @@
       "published": "2026-11-26T15:40:15+00:00"
     },
     {
+      "title": "Трамп закликав розслідування «фальшивих» даних про ВВП 4,3%",
+      "original_title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3% - Coinpaper",
+      "summary": "Колишній президент США Дональд Трамп вимагав розслідування даних, які, на його думку, є «фальшивими», після повідомлення про зростання ВВП США на 4,3%. Трамп стверджував, що цифри не відповідають реальності, і закликав відповідні органи перевірити їх достовірність.",
+      "source": "США · макроекономіка та ФРС",
+      "publisher": "Coinpaper",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
+      "published": "2026-11-26T16:30:20+00:00"
+    },
+    {
+      "title": "Президент Єгипту провів еміра Катару після офіційного візиту",
+      "original_title": "President Sisi bids farewell to Qatar’s emir following official visit - Egyptian Gazette",
+      "summary": "Президент Єгипту Абдель Фаттах ас-Сісі особисто попрощався з еміром Катару після завершення його офіційного візиту до країни. Цей дипломатичний крок знаменує закінчення офіційної програми перебування катарського лідера та підкреслює поточний рівень двосторонніх відносин між державами.",
+      "source": "Bilateral Meetings",
+      "publisher": "Egyptian Gazette",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
+      "published": "2026-11-26T17:03:04+00:00"
+    },
+    {
+      "title": "Китайський безпілотник W8000: вантажопідйомність 8 тонн",
+      "original_title": "Вантажопідйомність 8 тонн: у Китаї помітили найбільший у світі вантажний безпілотник W8000",
+      "summary": "Компанія Air White Whale представила безпілотний літак W8000, здатний перевозити до 8 тонн корисного навантаження. Літак оснащений двома турбогвинтовими двигунами і задньою рампою для завантаження, наразі перебуває на етапі розробки. У військовому контексті його можна застосовувати для постачання гарнізонів у Південнокитайському морі та зменшення ризиків для екіпажів.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
+      "published": "2026-11-26T20:48:48+00:00"
+    },
+    {
       "title": "Франція ввела в експлуатацію четвертий атомний підводний човен класу Suffren – De Grasse",
       "original_title": "Французький флот прийняв на озброєння четвертий атомний підводний човен класу Suffren — De Grasse",
       "summary": "20 листопада Міністерство оборони Франції офіційно прийняло підводний човен De Grasse після успішного циклу випробувань у полярних і теплих водах. Субмарина оснащена чотирма 533‑мм торпедними апаратами з боєкомплектом до 20 одиниць, включаючи торпеди F21, ракети Exocet SM39 та крилаті MdCN, а також може мати знімний ангар для спецоперацій. Додавання четвертого субмари до флоту посилює стратегічну потужність французької підводної армії та підвищує її здатність діяти у глобальному масштабі.",
@@ -408,6 +476,26 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
       "published": "2026-11-26T21:43:15+00:00"
+    },
+    {
+      "title": "Ризики зростають через сповільнення російської економіки",
+      "original_title": "Russia: Risks grow as economy falters - Yeni Safak English",
+      "summary": "Економіка Росії сповільнюється, що призводить до зростання фінансових та структурних ризиків. За даними статті, посилення цих ризиків пов'язане безпосередньо з поточним станом економіки країни.",
+      "source": "РФ · економіка, бюджет і експорт",
+      "publisher": "Yeni Safak English",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
+      "published": "2026-11-26T21:55:27+00:00"
+    },
+    {
+      "title": "Експорт корейського рамену наближається до $2 млрд",
+      "original_title": "Korean ramyeon exports race toward $2 billion as makers rush to expand plants - Korea JoongAng Daily",
+      "summary": "Експорт корейського рамену швидко зростає і вже прямує до $2 млрд, оскільки виробники поспішають розширювати виробничі потужності. Збільшення обсягів виробництва має підвищити постачання продукції на зовнішні ринки.",
+      "source": "Китай · макроекономіка та монетарна політика",
+      "publisher": "Korea JoongAng Daily",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
+      "published": "2026-11-26T22:05:06+00:00"
     }
   ]
 }

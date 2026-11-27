@@ -1,19 +1,17 @@
 {
   "links": [
     "https://army-technology.com/comment/does-the-uk-dislike-defence-journalists",
+    "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
     "https://army-technology.com/news/lincad-lips-18-battery-uk",
-    "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
-    "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
-    "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
-    "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
     "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
+    "https://defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
     "https://middleeasteye.net/live-blog/live-blog-update/south-korea-assures-iran-it-has-no-plans-participating-war",
     "https://militarnyi.com/uk/news/bogdan-krotevych-ocholyt-42-brygadu",
     "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
     "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
     "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
     "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
-    "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
+    "https://militarnyi.com/uk/news/rumuniya-66-bmp-lynx-zastosovuut-v-ukrayini",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production",
@@ -22,9 +20,9 @@
     "https://navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
+    "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
     "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRXJ0YnU5R19ZUUNKUFdicldlMFJZRGNtWVdGc1lzVTJGSUNJNXVSd014TXp2ajdFenhBUy02UWdKZUZqaDVHeEVJNGhoS1ZJR2JxVA",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSWF6UlloeVZTNmNsa0hVWWJVV25EaVRfRklpX1ctTnhBVlZ5QWFBTnRyZGVGZDJEdjV0WVhTc3p5NTNfUXhWVUdETHVlTXBINUJqb042LTJjcU16VUk1MXNKbHl5U0lVaFVXLXd2bFowUzFSb3BBSmpJdDNaenBWNW1STDFGVHNtWGl3LWY4a2Njc1NZYUpFTHIyLWZ6SHEtWFF1YmtSQU5VNy1RZGU0ZWNSM0pndExWVll6X2d6Yi02Vm5zdm1yNGxBSTJwd2lpX2JXcnZ6RHpEdjc1VVhjaUpyaGRlcERnSlVqWk8yYU0xLS1pY2ZDVzlpcEVtOWNrTlE",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
@@ -42,103 +40,10 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
-    "https://twz.com/air/chinas-cargo-drones-keep-getting-bigger-with-new-w8000",
-    "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
-    "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
     "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
     "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports"
   ],
   "recent_posts": [
-    {
-      "title": "Перший батарейний комплекс гіперзвукового озброєння «Dark Eagle» повністю введений у експлуатацію, заявив Лозано",
-      "original_title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
-      "summary": "Армія США офіційно ввела в експлуатацію перший батарейний комплекс довгодіапазонної гіперзвукової зброї (LRHW) «Dark Eagle», підтвердивши його готовність до розгортання. Система здатна досягати швидкостей понад Мах 5 і є глобально розгортаною, що забезпечує швидку реакцію у будь‑якому театрі бойових дій. Повне введення озброєння, після багаторічних затримок, підвищить здатність США протистояти протиракетним загрозам та розширить варіанти ураження високошвидкісних цілей.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
-      "published": "2026-11-25T13:45:00+00:00"
-    },
-    {
-      "title": "Польща просить НАТО збивати російські ракети над Україною",
-      "original_title": "Польща просить НАТО збивати російські ракети над Україною: Альянс намагається не перетинати цю межу",
-      "summary": "Польські власті звернулися до союзників із пропозицією збивати російські ракети, що летять у бік країн НАТО, над українським повітряним простором. Для реалізації такої ініціативи потрібне завчасне інформування Києва про загрози та одностайна згода всіх членів Альянсу, що наразі відсутня. Якщо рішення буде прийняте, це розширить оборонний спектр НАТО, але також підвищить ризик ескалації конфлікту.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
-      "published": "2026-11-25T14:35:51+00:00"
-    },
-    {
-      "title": "НАТО не бачить російського наростання у Середземному після удару біля Лівії, аналітики попереджають ризики",
-      "original_title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
-      "summary": "Україна завдала удару по російському кораблю біля узбережжя Лівії, що, за словами експертів, може стати тригером для російської контрзаходу. Хоча НАТО не спостерігає масштабного наростання російського флоту в Середземному морі, інцидент підвищує напруженість на південному фланзі альянсу. Аналітики застерігають, що подальша ескалація може призвести до розширення конфлікту та посилення військових операцій у регіоні.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
-      "published": "2026-11-25T17:45:00+00:00"
-    },
-    {
-      "title": "Китай представив новий вантажний безпілотник W8000 з вантажопідйомністю 8 тонн",
-      "original_title": "China’s Cargo Drones Keep Getting Bigger With New W8000",
-      "summary": "Air White Whale продемонстрував у Чжухайському аерошоу прототип W8000 — двомоторний безпілотний транспорт з можливістю перевезення до 8 метричних тонн, що вдвічі перевищує попередню модель W5000. Конструкція передбачає задній підйомний схід для завантаження, проте наразі це лише розробка без уточнень щодо дальності та максимальної злітної маси. Такі великі безпілотники можуть розширити можливості регіональної логістики та надати армії Китаю нові засоби авіаційного підйому без екіпажу.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/chinas-cargo-drones-keep-getting-bigger-with-new-w8000",
-      "published": "2026-11-25T17:50:12+00:00"
-    },
-    {
-      "title": "Варіант гіперзвукового ракети ARRW, здатний знищувати кораблі, стикається з відсутністю повної підтримки законодавців",
-      "original_title": "Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get Full Support From Lawmakers",
-      "summary": "Сенат зменшив фінансування на 75 % для інкременту 2 гіперзвукової ракети ARRW, що має новий сенсор для атак на рухомі цілі, зокрема кораблі. Це означає затримки у розробці та тестуванні, а також можливе зменшення швидкості впровадження у бойову експлуатацію. У результаті, американська армія може втратити перевагу у швидких реакціях на морські загрози, поки не буде знайдено альтернативні рішення.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
-      "published": "2026-11-25T18:04:27+00:00"
-    },
-    {
-      "title": "Постачання першого вертольота‑тильротора MV‑75 відкладено через браку фінансування",
-      "original_title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
-      "summary": "Армія США повідомила, що отримати перший прототип MV‑75 Cheyenne II до кінця 2026 року не вдасться через недофінансування та затримки у співпраці з Bell. MV‑75 — це тильроторний важкий штурмовий літак, який обіцяє вдвічі більшу швидкість і дальність порівняно з існуючими UH‑60 Black Hawk. Затримка може відстрочити впровадження нових можливостей у довготривалій атакувальній авіації армії.",
-      "source": "Breaking Defense",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
-      "published": "2026-11-25T18:15:00+00:00"
-    },
-    {
-      "title": "Сергій Лавров зустрівся з міністром закордонних справ Білорусі Максимом Риженковим у Гомелі",
-      "original_title": "Foreign Minister Sergey Lavrov’s opening remarks during a meeting with Foreign Minister of the Republic of Belarus Maxim Ryzhenkov, Gomel, November 25, 2026 - The Ministry of Foreign Affairs of the Russian Federation - Министерство иностранных дел Ро",
-      "summary": "Міністр закордонних справ Російської Федерації Сергій Лавров провів зустріч із міністром закордонних справ Республіки Білорусь Максимом Риженковим. Переговори відбулися у місті Гомель 25 листопада 2026 року. Під час зустрічі глави зовнішньополітичних відомств обох держав виступили зі вступними промовами. Подія стосується двосторонніх дипломатичних відносин між Росією та Білоруссю та офіційних контактів на рівні міністерств закордонних справ.",
-      "source": "Bilateral Meetings",
-      "publisher": "Министерство иностранных дел Российской Федерации",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
-      "published": "2026-11-25T18:24:33+00:00"
-    },
-    {
-      "title": "За оцінками, у війні в Україні загинуло понад 700 000 російських солдатів",
-      "original_title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
-      "summary": "Оновлена оцінка, підготовлена білорусько‑українськими хакерами на основі викрадених даних Росстату, встановлює кількість загиблих російських військових понад 720 000 осіб з лютого 2022 р. Це перевищує сумарні втрати США у всіх війнах за останнє століття (≈ 624 000). Така цифра підкреслює масштаб інформаційного контролю Кремля і може впливати на внутрішню підтримку конфлікту.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
-      "published": "2026-11-25T18:27:12+00:00"
-    },
-    {
-      "title": "ВПС США здійснили останнє замовлення KC-46A Pegasus за оригінальним контрактом",
-      "original_title": "Final KC-46 Tankers Under Original Contract With Boeing Ordered By USAF",
-      "summary": "США офіційно розмістили фінальне замовлення на 15 літаків‑топливозаправників KC‑46A Pegasus у рамках оригінального контракту 2011 року, що доведе загальну кількість у 188 одиниць до завершення у 2030 році. Основна технічна проблема – система дистанційного бачення (RVS), яка досі має недоліки, і її оновлення RVS 2.0 відкладено до 2028 року, що може вплинути на ефективність повітряного заправлення. Попри це, Boeing повідомляє про 203 Pegasus у світі, включаючи 116 у ВПС США, що підсилює їхню роль у глобальних військових операціях.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
-      "published": "2026-11-25T19:28:11+00:00"
-    },
     {
       "title": "Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
       "original_title": "Ексначальник штабу «Азову» Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
@@ -440,6 +345,16 @@
       "published": "2026-11-26T15:40:15+00:00"
     },
     {
+      "title": "Hanwha Aerospace та Modirum Gespi підписали Меморандум про співпрацю у сфері оборони Бразилії",
+      "original_title": "Hanwha Aerospace, Modirum Gespi sign Brazil defence cooperation MoU",
+      "summary": "Компанії Hanwha Aerospace і Modirum Gespi підписали Меморандум про взаємодію, орієнтований на спільні проєкти в бразильському оборонному секторі. Угода передбачає обмін технологіями у галузі авіації, ракетних систем та електроніки, що може підвищити локальну виробничу спроможність Бразилії. Спільна робота може призвести до створення нових платформ і модернізації існуючих систем, посилюючи оборонний потенціал країни.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
+      "published": "2026-11-26T16:20:03+00:00"
+    },
+    {
       "title": "Трамп закликав розслідування «фальшивих» даних про ВВП 4,3%",
       "original_title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3% - Coinpaper",
       "summary": "Колишній президент США Дональд Трамп вимагав розслідування даних, які, на його думку, є «фальшивими», після повідомлення про зростання ВВП США на 4,3%. Трамп стверджував, що цифри не відповідають реальності, і закликав відповідні органи перевірити їх достовірність.",
@@ -518,6 +433,36 @@
       "channel": "diplomacy",
       "link": "https://middleeasteye.net/live-blog/live-blog-update/south-korea-assures-iran-it-has-no-plans-participating-war",
       "published": "2026-11-27T03:48:36+00:00"
+    },
+    {
+      "title": "На верфі JMU у Йокогамі виявлено блок кормової частини другого японського ASEV",
+      "original_title": "Photos Show Apparent Stern Block of Japan’s Second ASEV",
+      "summary": "Нові фото з верфі Isogo у Йокогамі демонструють великий блок корпусу, який, за оцінками, є кормовою частиною другого японського корабля протиракетної оборони ASEV. Це підтверджує, що Японія просувається у будівництві нових суден типу Aegis, що підвищить її можливості протиракетної оборони в Тихоокеанському регіоні.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
+      "published": "2026-11-27T09:29:05+00:00"
+    },
+    {
+      "title": "Румунія замовила 66 бойових машин Lynx у Rheinmetall на €738 млн",
+      "original_title": "Румунія дозамовила 66 БМП Lynx, які вже застосовують в Україні",
+      "summary": "Румунія оформила другий транш у рамках рамкового контракту на 298 машин, замовивши 66 нових бойових броньованих машин Lynx. Lynx – модульна гусенична платформа з базовою вагою 44‑50 т, 1140 к.с. двигуном, 30‑35 мм автоматичною гарматою та можливістю швидкої переобладнання у різні ролі (командно‑штабна, медична, мінометна). Поставка, запланована на 2028‑2030 рр., посилить механізовані сили Румунії та підвищить її оборонний потенціал у східному фланзі НАТО.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/rumuniya-66-bmp-lynx-zastosovuut-v-ukrayini",
+      "published": "2026-11-27T13:49:02+00:00"
+    },
+    {
+      "title": "Гонка за бойовими дронами, що рятують життя",
+      "original_title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+      "summary": "Українські інженери розробляють дрони для евакуації поранених безпосередньо з лінії фронту, а DARPA працює над роботами з ШІ, які шукають та оцінюють стан поранених військових і цивільних. Такі технології скорочують час надання медичної допомоги, підвищують виживаність та змінюють тактику бою, дозволяючи швидше виводити поранених з небезпечних зон.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
+      "published": "2026-11-27T14:00:00+00:00"
     }
   ]
 }

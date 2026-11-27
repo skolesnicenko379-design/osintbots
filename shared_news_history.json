@@ -2,7 +2,6 @@
   "links": [
     "https://army-technology.com/comment/does-the-uk-dislike-defence-journalists",
     "https://army-technology.com/news/lincad-lips-18-battery-uk",
-    "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
     "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
     "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
     "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
@@ -13,18 +12,21 @@
     "https://militarnyi.com/uk/news/brytaniya-hovaye-litaky-v-zahyshhenyh-angarah",
     "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
     "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
+    "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
     "https://militarnyi.com/uk/news/polshha-prosyt-nato-zbyvaty-rosijski-rakety",
     "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production",
     "https://navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling",
     "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
+    "https://navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan",
     "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
     "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRXJ0YnU5R19ZUUNKUFdicldlMFJZRGNtWVdGc1lzVTJGSUNJNXVSd014TXp2ajdFenhBUy02UWdKZUZqaDVHeEVJNGhoS1ZJR2JxVA",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R3kxVkhTNlllSnRyMWVlQ21KbllXQ21URlZ6T0xXLVQ1Rk16c0pLNllheG1CbG1rWG9BNndsMXZsc3diWEFuT19vdVJ3Wk1lamYzQTJERUFPY0doXzdlVllCT2pBVFRNRnc",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSWF6UlloeVZTNmNsa0hVWWJVV25EaVRfRklpX1ctTnhBVlZ5QWFBTnRyZGVGZDJEdjV0WVhTc3p5NTNfUXhWVUdETHVlTXBINUJqb042LTJjcU16VUk1MXNKbHl5U0lVaFVXLXd2bFowUzFSb3BBSmpJdDNaenBWNW1STDFGVHNtWGl3LWY4a2Njc1NZYUpFTHIyLWZ6SHEtWFF1YmtSQU5VNy1RZGU0ZWNSM0pndExWVll6X2d6Yi02Vm5zdm1yNGxBSTJwd2lpX2JXcnZ6RHpEdjc1VVhjaUpyaGRlcERnSlVqWk8yYU0xLS1pY2ZDVzlpcEVtOWNrTlE",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
@@ -34,39 +36,19 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFkZnhVM0NObWhiYlVkZUpDdUJLTkQweWlLRW1zZmhGUlg1NXVhY1lSRFpDTmJ2ZEhMbk1fVUVYZjFqa0NsT183WXJBZzBNbU5oSlBGRElDSDh3ZnJZVDZwTnRwUUJ3NW1WMWFPSjlkN18zdzRmVEZiNVZXTlVwN2h3NHVtNW1WSkxjMVUtd1BaeE5JNmJtRC1SOF9EbXhhVlN3",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
+    "https://twz.com/air/chinas-cargo-drones-keep-getting-bigger-with-new-w8000",
     "https://twz.com/air/final-kc-46-tankers-under-original-contract-with-boeing-ordered-by-usaf",
     "https://twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
     "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
     "https://twz.com/news-features/drone-threats-prompt-raf-to-install-netting-at-bases-to-protect-aircraft-reports"
   ],
   "recent_posts": [
-    {
-      "title": "Соломонові Острови підписали безпекову угоду з Австралією",
-      "original_title": "Solomon Islands Signs Security Treaty with Australia, Ends Pact with China - India News Network",
-      "summary": "Соломонові Острови офіційно підписали нову безпекову угоду з Австралією, що супроводжується припиненням дії попереднього пакту з Китаєм. Цей дипломатичний крок змінює стратегічні альянси в регіоні Тихого океану, формалізуючи перехід від китайського впливу до австралійського партнерства. Текст джерела не містить додаткових деталей щодо конкретних умов договору, дат підписання чи імен посадовців, тому подія фіксується виключно як факт укладення та розірвання міжнародних угод.",
-      "source": "Treaties & Agreements",
-      "publisher": "India News Network",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9fcU5FX3hIS1RfSmowUzJKdnNLTFNuaHdZdktlVWlLai1kV2t5cmRzeGNQR3ZTOTRFUGtpb1FKamU4Y1dHTnNQdE1YN3FhRk1tSFp4SjZaV0thLWg5VUFCTkZYSDRlSnpNa25PdndOZlRPcjVZbzAzSXhSQ1dMY01pbWJ0MmFmaWRkNENLMlJXV0M3TkVaUE9Cd1duMjlNRXFYYnNkVTFCd1B0",
-      "published": "2026-11-25T09:33:45+00:00"
-    },
-    {
-      "title": "Армія США шукає підрядників для будівництва бункерів на Близькому Сході",
-      "original_title": "US Army seeks contractors for Middle East bunkers",
-      "summary": "Армія США планує посилити свою інфраструктуру в регіоні, замовляючи будівництво захищених бункерів проти обстрілів з мінометів, артилерії та ракет. Проєкт передбачає використання підземних укриттів з армованим бетонним каркасом, системами вентиляції та захисту від вибухових хвиль. Такі споруди підвищать стійкість підрозділів, зменшать втрати особового складу та забезпечать безперервність операцій у умовах постійних вогневих загроз.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/us-army-seeks-contractors-for-middle-east-bunkers",
-      "published": "2026-11-25T10:08:56+00:00"
-    },
     {
       "title": "Італія досягла цілі НАТО: 2,8 % ВВП на оборону у 2026 році",
       "original_title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
@@ -106,6 +88,16 @@
       "channel": "miltech",
       "link": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
       "published": "2026-11-25T17:45:00+00:00"
+    },
+    {
+      "title": "Китай представив новий вантажний безпілотник W8000 з вантажопідйомністю 8 тонн",
+      "original_title": "China’s Cargo Drones Keep Getting Bigger With New W8000",
+      "summary": "Air White Whale продемонстрував у Чжухайському аерошоу прототип W8000 — двомоторний безпілотний транспорт з можливістю перевезення до 8 метричних тонн, що вдвічі перевищує попередню модель W5000. Конструкція передбачає задній підйомний схід для завантаження, проте наразі це лише розробка без уточнень щодо дальності та максимальної злітної маси. Такі великі безпілотники можуть розширити можливості регіональної логістики та надати армії Китаю нові засоби авіаційного підйому без екіпажу.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/chinas-cargo-drones-keep-getting-bigger-with-new-w8000",
+      "published": "2026-11-25T17:50:12+00:00"
     },
     {
       "title": "Варіант гіперзвукового ракети ARRW, здатний знищувати кораблі, стикається з відсутністю повної підтримки законодавців",
@@ -278,6 +270,16 @@
       "published": "2026-11-26T02:28:00+00:00"
     },
     {
+      "title": "Об’єкт 14: чи є нові дані про таємничий легкий танк для ЗСУ",
+      "original_title": "У 2023 році ЗМІ писали про таємничий легкий танк \"Объект 14\", який начебто передали в ЗСУ, чи відомо щось про нього зараз - Defense Express",
+      "summary": "У 2023 рр. у ЗМІ з’явилися повідомлення про прототип легкого танка «Об’єкт 14», який нібито передали ЗСУ. За чутками, його вага – 15‑20 т, озброєння – 30‑мм автоматична гармата, модульна броня та висока маневреність, що робить його придатним для розвідки та підтримки піхоти. Офіційних підтверджень про його існування чи використання в бойових діях наразі немає, тому його військовий вплив залишається спекулятивним.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSWF6UlloeVZTNmNsa0hVWWJVV25EaVRfRklpX1ctTnhBVlZ5QWFBTnRyZGVGZDJEdjV0WVhTc3p5NTNfUXhWVUdETHVlTXBINUJqb042LTJjcU16VUk1MXNKbHl5U0lVaFVXLXd2bFowUzFSb3BBSmpJdDNaenBWNW1STDFGVHNtWGl3LWY4a2Njc1NZYUpFTHIyLWZ6SHEtWFF1YmtSQU5VNy1RZGU0ZWNSM0pndExWVll6X2d6Yi02Vm5zdm1yNGxBSTJwd2lpX2JXcnZ6RHpEdjc1VVhjaUpyaGRlcERnSlVqWk8yYU0xLS1pY2ZDVzlpcEVtOWNrTlE",
+      "published": "2026-11-26T05:42:00+00:00"
+    },
+    {
       "title": "Передача Україні 60 списаних F‑15 виявилась недоцільною",
       "original_title": "Чому ідея передати Україні 60 списаних винищувачів F-15, які перевершують наявні F-16 та перші JAS-39 Gripen, насправді доволі погана - Defense Express",
       "summary": "У статті Defense Express розглядається пропозиція передати Україні 60 виведених з експлуатації винищувачів F‑15, які, за словами експертів, не перевищують за ефективністю сучасні F‑16 та нові JAS‑39 Gripen. Основними проблемами є високі витрати на модернізацію, складність технічного обслуговування та необхідність додаткового навчання пілотів і наземних служб. Через це передача цих літаків не забезпечить значного підвищення бойових можливостей України, а лише ускладнить логістику.",
@@ -286,6 +288,16 @@
       "channel": "miltech",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2QzQ1d4M1FwY1BZcDduR1BoSVYwMDRGRDdmWm4zZHlNSTl3V2xhVVFYQ2pKLTA5b3l2X0JCa2R0M3RQVFVrMjNhc2FYOGYySUxxVVdmbFRlZ0hjNWdBLUlBMFV2c3JVZENMR2lveWV3OUlVSjRtYWg0TTFTV0dkRng3aXJPZHp5Ti1WQmdXQlJlTEszaUJXb1gwa25wU3R2akJfQnhzbnpTRmE1UG5mbWxoaTFKUk5VLWFVczBNRHdLeEduYm11RzlvMVhrQTdkUUVWTUsycGVqUW1wMGhvRnVGTEkzZzJqeW45SzhGaDRLUjhkWlhJRUVCbmFkYnRhWjcxZmhhd1E2TXpaVkR5ZXczTWRReTdwTHF3",
       "published": "2026-11-26T07:41:00+00:00"
+    },
+    {
+      "title": "Французький флот провів навчання з колишнім тайванським патрульним катером Філіппінської берегової охорони",
+      "original_title": "French Navy Trains with Philippine Coast Guard Ship from Taiwan",
+      "summary": "У Сулу‑морі французькі військово-морські сили спільно з Філіппінською береговою охороною провели навчання на колишньому тайванському патрульному катері BRP Sarangani та фрегаті BRP Diego Silang. Це демонструє підвищення взаємодії та сумісності між європейськими і південно-східноазійськими підрозділами, а також можливість використання колишньої тайванської техніки у регіональних операціях. Такі маневри зміцнюють спільну оборону у стратегічно важливому морському просторі.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan",
+      "published": "2026-11-26T07:51:01+00:00"
     },
     {
       "title": "Турецький Bayraktar AKINCI отримав протичовнову торпеду ORKA",
@@ -456,6 +468,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
       "published": "2026-11-26T17:03:04+00:00"
+    },
+    {
+      "title": "Фальшивий телефонний сигнал про вибух на базі HMS Excellent у Портсмуті",
+      "original_title": "На британській базі HMS Excellent шукали вибухівку після телефонного повідомлення про замінування",
+      "summary": "У ранковий час 26 листопада на навчальній базі Королівського флоту HMS Excellent у Портсмуті надійшло телефонне повідомлення про можливу вибухівку. Поліція та підрозділи Міністерства оборони оперативно прибули на місце, провели ретельний огляд і не виявили жодних небезпечних предметів, після чого база повернулася до звичайного режиму роботи. Інцидент підкреслює важливість швидкої реакції на потенційні загрози безпеці, хоча реального військового впливу він не мав.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
+      "published": "2026-11-26T19:57:11+00:00"
     },
     {
       "title": "Китайський безпілотник W8000: вантажопідйомність 8 тонн",

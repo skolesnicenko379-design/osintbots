@@ -1,10 +1,11 @@
 {
   "links": [
     "https://army-technology.com/comment/does-the-uk-dislike-defence-journalists",
+    "https://army-technology.com/news/bae-systems-denmark-cv90-simulators",
     "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
     "https://army-technology.com/news/india-bhagavastra-counter-dronetrial",
     "https://army-technology.com/news/lincad-lips-18-battery-uk",
-    "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
+    "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations",
     "https://defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform",
     "https://defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
     "https://gov.uk/government/news/uk-education-support-in-syria-reaches-one-million-children",
@@ -14,14 +15,13 @@
     "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
     "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
     "https://militarnyi.com/uk/news/nimechchyni-rozrobyly-modulnyj-komplekt-mlk",
+    "https://militarnyi.com/uk/news/pryvatna-ppo-zbyla-reaktyvnu-geran-lazerom",
     "https://militarnyi.com/uk/news/rumuniya-66-bmp-lynx-zastosovuut-v-ukrayini",
-    "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
     "https://militarnyi.com/uk/news/ukrayinski-drony-atakuvaly-npz-slavyansk-eko-na-kubani",
     "https://navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production",
     "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
     "https://navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy",
     "https://navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan",
-    "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
     "https://navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate",
     "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
     "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
@@ -33,8 +33,6 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOX2tOY1dyUWRIQWZEbDBiMFhvdER5cjJJYVV4TFVjS01kRkFXNDZHbkE5S0xMaHh6dU9tYXh1YVU4TG1lWUxRdGRUUGZnVElrUmczeGZkRVBHN0dBbmt4RXFDdFRhNjR4d3VuSVZXemZOalBzY3c",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSWF6UlloeVZTNmNsa0hVWWJVV25EaVRfRklpX1ctTnhBVlZ5QWFBTnRyZGVGZDJEdjV0WVhTc3p5NTNfUXhWVUdETHVlTXBINUJqb042LTJjcU16VUk1MXNKbHl5U0lVaFVXLXd2bFowUzFSb3BBSmpJdDNaenBWNW1STDFGVHNtWGl3LWY4a2Njc1NZYUpFTHIyLWZ6SHEtWFF1YmtSQU5VNy1RZGU0ZWNSM0pndExWVll6X2d6Yi02Vm5zdm1yNGxBSTJwd2lpX2JXcnZ6RHpEdjc1VVhjaUpyaGRlcERnSlVqWk8yYU0xLS1pY2ZDVzlpcEVtOWNrTlE",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
     "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2QzQ1d4M1FwY1BZcDduR1BoSVYwMDRGRDdmWm4zZHlNSTl3V2xhVVFYQ2pKLTA5b3l2X0JCa2R0M3RQVFVrMjNhc2FYOGYySUxxVVdmbFRlZ0hjNWdBLUlBMFV2c3JVZENMR2lveWV3OUlVSjRtYWg0TTFTV0dkRng3aXJPZHp5Ti1WQmdXQlJlTEszaUJXb1gwa25wU3R2akJfQnhzbnpTRmE1UG5mbWxoaTFKUk5VLWFVczBNRHdLeEduYm11RzlvMVhrQTdkUUVWTUsycGVqUW1wMGhvRnVGTEkzZzJqeW45SzhGaDRLUjhkWlhJRUVCbmFkYnRhWjcxZmhhd1E2TXpaVkR5ZXczTWRReTdwTHF3",
     "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVnROU0pxQTkyWmk1M0x4bVdvb3lpOTNoSGt6LXhaNGxaRjl3SzNoYWFwbW4zbGNWVUt2WWxqTE9GTWlVZjY5OGhfT01vVXpsSlVlbnpGVE91THQ3MzJZQVJQM2M2WDdoRWh3eE9KQ0lvejBESEpUV3dENkpzM2M4VFNnNjRiYURCV2lvMjliV3lldHNVSWYzd0dCLXNlTWwxQTlUeXpqaGRaN0x4a3JidUZyZHkyQlhNRHdoOVZtRkZyWHIweWM1eEh2d0NrZmd4OUdpVzJ3RkQzazdobkY3a2czUU9fNFhhLWtsWThJazVBLVJyTFZNM0ZqazFvY2J3Y3NvbzZaYXpBa1JwX01kaTJ3a2RhWE1UTHlF",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWl1NFhBRlpVc2dPMHphT1E4NWF0c0lTMWk3MlZDRHNUUmdhVlBZTlZDUlJ6dk16anpSYmN2bnpRcnJfdE1ENkJKcUw2T2FiUjBJLUVqT2o1Z0g0dUFwSkdVMEtydWljYWRnNzFEc2YyclB0UnRPendUNjIteEYwZ3RnbTVBMkdFTXVNNElKbUZhdWw4aWNUb2lkUU4",
@@ -44,104 +42,11 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFlFUVdjUFRVcEVqZlBlcU14aFdpZUVXV1ZFRUJUNXdfWGYwaDg4bUJpWmZhNTE3anN6QkR0S240eDJySXB4SEY4N1VsdUYzanJaUlpNRWszUVpwdl9TOHBTQUJDczZQaEluYlBvYVNSMU01V2o1TnlMWENiN1AtNDlMdmMwSFNJREJuTXBzT1JoNWN0M29rVTNRZlFhS1lCM2FYMzh4dWx2UkZqaW4ycjRuZ3RrTWYxRUowQmc5d1ZDUno3Q3l1Q1FHOA",
-    "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition"
+    "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-217"
   ],
   "recent_posts": [
-    {
-      "title": "США схвалили угоду на $621,9 млн для обслуговування українських F‑16",
-      "original_title": "США схвалили послуги з обслуговування українських F-16 на понад пів мільярда доларів",
-      "summary": "Держдеп США затвердив закупівлю обладнання та послуг вартістю 621,9 млн доларів, фінансованих європейськими партнерами (Бельгія, Данія, Нідерланди, Норвегія). Угода включає спеціальні піротехнічні пристрої, лабораторне обладнання та транспортні послуги, необхідні для ремонту та підтримки бойової готовності F‑16. Це дозволить Україні зберігати та експлуатувати отримані літаки без використання американських коштів, підвищуючи стійкість повітряної оборони.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/ssha-zabezpechat-pidtrymku-ukrayinskyh-f-16",
-      "published": "2026-11-25T21:18:37+00:00"
-    },
-    {
-      "title": "Сімейний бункер у Форт-Уейні: історія холодної війни",
-      "original_title": "Bunker Talk: Have A Magical Turkey Day Edition!",
-      "summary": "У 1955 році індіанській парі Мерр і Місіс Андерсон встановили під власним двопанельним сталевим бункером, що слугував сховищем від ядерного удару. Бункер, спроектований за принципами атомної епохи, під час Карибської кризису піднявся на поверхню і був швидко занурений назад, а в 1968 році проданий новим власникам. Така приватна інфраструктура ілюструє громадсько‑політичні уявлення про готовність до ядерної війни та обмежений військовий вплив у сучасному контексті.",
-      "source": "The War Zone",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://twz.com/news-features/bunker-talk-have-a-magical-turkey-day-edition",
-      "published": "2026-11-25T21:26:00+00:00"
-    },
-    {
-      "title": "Рада Європейського Союзу опублікувала Декларацію саміту ЄС – Західні Балкани",
-      "original_title": "EU-Western Balkans Summit Brussels Declaration, 25 November 2026 - Council, European Union",
-      "summary": "Рада Європейського Союзу оприлюднила офіційну Декларацію саміту ЄС – Західні Балкани, ухвалену 25 листопада 2026 року в Брюсселі. Документ визначає ключові напрями співпраці та взаємодії між Європейським Союзом та країнами регіону Західних Балкан у межах офіційного саміту.",
-      "source": "EU Diplomacy",
-      "publisher": "Council, European Union",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXFzUWM2S2wtMk5yY09OQTRRaWtIOUQtY3NzM3lQdWhjbGxyYmJlQXU3dTZYQkxIUk53UmYyd2FsNVFhWk9Hd24yNjhneVlVWTktWmNMNTVDeWlEeFhSTmEzeWlhbnBHdl9oUDJJVElsSzlhT1B0UGhUcFF1V0lWSzBjTXJ6QQ",
-      "published": "2026-11-25T21:41:22+00:00"
-    },
-    {
-      "title": "Карла Бабб призначена головою контенту Military Times і Defense News",
-      "original_title": "Carla Babb Named Head of Content for Military Times and Defense News",
-      "summary": "Карла Бабб, журналістка з майже двадцятирічним досвідом у сфері національної безпеки, стала новим головою контенту у Military Times та Defense News. Вона очолюватиме редакційні ініціативи, розширюватиме присутність видань на великих подіях і впроваджуватиме нові формати взаємодії з аудиторією оборонного сектора. Це підвищить якість та швидкість висвітлення військових новин, зміцнюючи довіру серед військових і оборонних експертів.",
-      "source": "Defense News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news",
-      "published": "2026-11-25T21:51:50+00:00"
-    },
-    {
-      "title": "США планують підвищити тарифи на Китай, ЄС і Бразилію через субсидоване виробництво",
-      "original_title": "U.S. plans to hike tariffs on China, EU, Brazil and others over subsidized production - BNN Bloomberg",
-      "summary": "США оголосили про намір підвищити митні збори на товари з Китаю, Європейського Союзу, Бразилії та інших країн, посилаючись на їх субсидоване виробництво. Це рішення передбачає посилення торгових бар’єрів і може вплинути на двосторонні економічні відносини з зазначеними регіонами.",
-      "source": "ЄС · торгівля, угоди й економічна безпека",
-      "publisher": "BNN Bloomberg",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2xnOGExN1VzQVdlLU9YUHk4Nk5TUzRNTDJ0Y3FVelRfWlpJWXRwTTFHS0RVeWMyaUVQV1BEQ21mYU53ZGpabXJ2aVdiLU16UXlBR1V0RFJ1U1BldGxrdkw2VElDVjByWVd4RkM4WnRBZDVMODJISDJkREgyZTVEVU9VVjVZcVRiZndZUzhQaC1qMUI2RDNfaTNOaGt1bzBZVl9tcGlyTVYxWHJMR3NBeGpmWGlnVFZ4RmxSbXZHTDU5NEV6amhFUQ",
-      "published": "2026-11-25T21:57:42+00:00"
-    },
-    {
-      "title": "Індонезійський флот отримав ракетний безпілотний катер зі швидкістю 58 вузлів",
-      "original_title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
-      "summary": "У Північному морі компанія North Sea Boats передала індонезійському флоту перший безпілотний бойовий катер KSR X33, названий Patkamla Geledek. Катер розвиває швидкість до 58 вузлів і оснащений ракетною зброєю, що дозволяє вести ефективний прибережний захист. Така платформа підвищує мобільність і вогневу потужність індонезійської морської інфраструктури, особливо в умовах швидкого реагування на загрози в прибережних зонах.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv",
-      "published": "2026-11-26T00:29:00+00:00"
-    },
-    {
-      "title": "Biden Praises India-Europe Trade Corridor",
-      "original_title": "Biden Praises India-Europe Trade Corridor, Credits Quad With Strengthening U.S.-India Relations - INDIA New England News",
-      "summary": "Президент Джо Байден висловив схвалення щодо Індо-Європейського торгового коридору, підкресливши його значення для глобальної торгівлі. Він також зазначив, що співпраця в рамках Quad (США, Індія, Японія, Австралія) зміцнила зв’язки між США та Індією.",
-      "source": "США · економіка, торгівля й державна політика",
-      "publisher": "INDIA New England News",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWQ2ZDVkTGRyWnlqTHFVckRxdDZhcjBNUnFYUEQxNWZjM0otNXRaYTVNc05wMVhObHdqNTdmcUxadnRXcnRYV2JxRklHZlZYSmVYZEdCVDRLWFBKN1JRMUtQaU5mVWNNSVVGbHI4bXBDdE1xdnlodTkxNDdPLUllZ0FEX0l2Y3hJM2NBSGdDOFNWc3hoSW1XdXppc3FYSGFqNzJGOEtMRTFFNU9ha1FneVdCblBEa1NLODRkTS01aw",
-      "published": "2026-11-26T01:17:14+00:00"
-    },
-    {
-      "title": "Прогноз цін на нафту: надлишок пропозиції тисне на WTI",
-      "original_title": "Crude Oil Price Forecast: Supply Surplus Pressures WTI - Equiti Global",
-      "summary": "Equiti Global прогнозує, що надлишок світової пропозиції нафти створює тиск на ціну WTI, що може знизитися. За оцінками, баланс між виробництвом і попитом залишатиметься в користь постачальників, що обмежує зростання цін.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Equiti Global",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2g1VS0zdzR3R1NlQ0hnbU40ZGJOeTc4eEZkSzlJaFl2MEpPbDBhb19WakNFS0hET0hyLWREbzU1eUpCc1dkRW5GTTFlX25WNEdZbUpRWmwxLTl2ZHBPalpneWhMc3lsY0FEbi1LSzVnSWgwamQ0cUl2Vk9pZHdTajc0TGxlZDRIYU53Mkh0NXFQT1Z6Rzdr",
-      "published": "2026-11-26T01:49:14+00:00"
-    },
-    {
-      "title": "Член Банку Японії закликає швидко підвищити ставки",
-      "original_title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation - Bloomberg",
-      "summary": "Член Банку Японії виступив за швидке підвищення процентних ставок у відповідь на інфляційний тиск. Це свідчить про можливе посилення монетарної жорсткості в Японії, що може вплинути на вартість кредитів і курс ієни.",
-      "source": "Японія · монетарна політика",
-      "publisher": "Bloomberg",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ",
-      "published": "2026-11-26T02:28:00+00:00"
-    },
     {
       "title": "Об’єкт 14: чи є нові дані про таємничий легкий танк для ЗСУ",
       "original_title": "У 2023 році ЗМІ писали про таємничий легкий танк \"Объект 14\", який начебто передали в ЗСУ, чи відомо щось про нього зараз - Defense Express",
@@ -551,6 +456,46 @@
       "channel": "economy",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMWZRb0VPc3ZrYnpLWC1nWVo4eGk1TzlHS1dCUVNMRW9zeTBOd0JHbDNLeEVDblVrcWZpN2xzeUdDLXd4MlF6cWtIbUFjRU9a",
       "published": "2026-11-27T14:50:43+00:00"
+    },
+    {
+      "title": "BAE Systems отримала контракт на $90 млн для симуляторів датських CV90",
+      "original_title": "BAE Systems secures $90m contract for Danish CV90 simulators",
+      "summary": "Данське Міністерство оборони (DALO) підписало з BAE Systems контракт вартістю 90 млн доларів на постачання симуляторів бойових машин CV90 MkIIIC. Симулятори дозволять підготовку екіпажів без використання реальної техніки, скорочуючи витрати та підвищуючи швидкість навчання. Це підвищить оперативну готовність датської армії та підтримає інтеграцію нових модифікацій CV90 у підрозділах.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/news/bae-systems-denmark-cv90-simulators",
+      "published": "2026-11-27T18:14:17+00:00"
+    },
+    {
+      "title": "BAE Hägglunds уклав рекордний контракт на $6 млрд за понад 400 CV90 від п'яти країн НАТО",
+      "original_title": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
+      "summary": "Фінляндія, Литва, Нідерланди, Норвегія та Швеція спільно закупили понад 400 бойових машин CV90 у BAE Hägglunds на суму $6 млрд, що є найбільшим замовленням для цієї платформи. CV90 — модульна бойова машина піхоти з високим рівнем захисту, мобільністю та можливістю підключення різноманітних озброєнь. Така масштабна закупка підкреслює посилення обороноздатності Північної Європи у відповідь на загрозу з боку Росії.",
+      "source": "Breaking Defense",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations",
+      "published": "2026-11-27T19:57:02+00:00"
+    },
+    {
+      "title": "Українська приватна ППО збила реактивний дрон «Герань» лазером «Блиск»",
+      "original_title": "Приватна ППО збила реактивну «Герань» українським лазером",
+      "summary": "Лазерна установка «Блиск» потужністю 4 кВт, розгорнута в Києві, вперше у світі знищила реактивний дрон типу «Шахед» («Герань»). Це підтверджує ефективність приватних ППО‑команд, які працюють під керівництвом ВПС і використовують дешеві лазерні постріли, хоча система ще залишається експериментальною. Такий успіх може підвищити захист критичної інфраструктури від ударних безпілотників.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/pryvatna-ppo-zbyla-reaktyvnu-geran-lazerom",
+      "published": "2026-11-27T22:09:08+00:00"
+    },
+    {
+      "title": "Bunker Talk: відкритий обговорення тижневих подій та нових тем",
+      "original_title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "summary": "У Bunker Talk створено відкриту суботню дискусію для учасників спільноти, де можна обговорювати події тижня, які не потрапили у основні матеріали, а також інші цікаві теми. Така платформа сприяє обміну думками між експертами та підвищує інформованість про менш висвітлені аспекти військових та технологічних новин.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-217",
+      "published": "2026-11-27T22:31:00+00:00"
     }
   ]
 }

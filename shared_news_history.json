@@ -31,6 +31,7 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xMm9VTXdCQVdkQlRZM1JBc3J4RVZUM0pPcENaR09SNzJaWDJzQ0d1Z25yaWNGclYteWZTYWRHQmd6Y3NzMWxPT1ZkNEhqY1NwZVVVc09iUnd6TjVqYTRRNmFxd9IBXEFVX3lxTE8zQUYxdTVMMy15SjM0bW5fTFIyZTN1NnpIN0cyM1RoV0JqUGsyWG1lQ1FJcEFXWURTWHlmZTlJWWhtajczXzNYTjVCdWM2QVFYMWY5cS1LZllteVUy",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdFNOVlR5aVBHbWtjTGlyekU4TjJPMEVQOERXbVFmeHY1T3puZUE3YXpteUZ3eUkyOS1EeHpZZ2xXSm53NVFTbWFmUUxmQ2JrNl9DcVlHU0t1ZGdYWW04RGkzUnRMMFh3MmstODFRamNvZU5E",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOX2tOY1dyUWRIQWZEbDBiMFhvdER5cjJJYVV4TFVjS01kRkFXNDZHbkE5S0xMaHh6dU9tYXh1YVU4TG1lWUxRdGRUUGZnVElrUmczeGZkRVBHN0dBbmt4RXFDdFRhNjR4d3VuSVZXemZOalBzY3c",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaTlIXzFEcmJmY2NNTGxRWFBaY25wYUpFTmNKQ0xZV2lfTlBrU1RzcnhtMXJwQ1VLOFNsWWdVNTV4ajdudEU1cFBqZy1lZThfMWZJd25FaFhfVklNcm5UaUg3V01aazY1Unpmd3Fsc0dpRGZuLXVpV3lCZDc1b0VVcg",
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSWF6UlloeVZTNmNsa0hVWWJVV25EaVRfRklpX1ctTnhBVlZ5QWFBTnRyZGVGZDJEdjV0WVhTc3p5NTNfUXhWVUdETHVlTXBINUJqb042LTJjcU16VUk1MXNKbHl5U0lVaFVXLXd2bFowUzFSb3BBSmpJdDNaenBWNW1STDFGVHNtWGl3LWY4a2Njc1NZYUpFTHIyLWZ6SHEtWFF1YmtSQU5VNy1RZGU0ZWNSM0pndExWVll6X2d6Yi02Vm5zdm1yNGxBSTJwd2lpX2JXcnZ6RHpEdjc1VVhjaUpyaGRlcERnSlVqWk8yYU0xLS1pY2ZDVzlpcEVtOWNrTlE",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
     "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2QzQ1d4M1FwY1BZcDduR1BoSVYwMDRGRDdmWm4zZHlNSTl3V2xhVVFYQ2pKLTA5b3l2X0JCa2R0M3RQVFVrMjNhc2FYOGYySUxxVVdmbFRlZ0hjNWdBLUlBMFV2c3JVZENMR2lveWV3OUlVSjRtYWg0TTFTV0dkRng3aXJPZHp5Ti1WQmdXQlJlTEszaUJXb1gwa25wU3R2akJfQnhzbnpTRmE1UG5mbWxoaTFKUk5VLWFVczBNRHdLeEduYm11RzlvMVhrQTdkUUVWTUsycGVqUW1wMGhvRnVGTEkzZzJqeW45SzhGaDRLUjhkWlhJRUVCbmFkYnRhWjcxZmhhd1E2TXpaVkR5ZXczTWRReTdwTHF3",
@@ -39,6 +40,7 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXQ5MmpGNGw1N2R1NW9ZMmozaUpwZjFyQjdaN2VzdzRvZndTSHNBeGNtcWFORGFnRUVoclFucGhDaW9wVFhReXhaZ2U3LVhBMlVMd0RrYkt2UkhEZlk1Uk9MaFNRMjFheENKZVhBN2ttZWUxNmdBdDc1ZDFTbzVvZ2EtSFFfdmdEUzhZa3ZCaWxxTWM1Z21MTVYyYWxUdVk",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmFkZnhVM0NObWhiYlVkZUpDdUJLTkQweWlLRW1zZmhGUlg1NXVhY1lSRFpDTmJ2ZEhMbk1fVUVYZjFqa0NsT183WXJBZzBNbU5oSlBGRElDSDh3ZnJZVDZwTnRwUUJ3NW1WMWFPSjlkN18zdzRmVEZiNVZXTlVwN2h3NHVtNW1WSkxjMVUtd1BaeE5JNmJtRC1SOF9EbXhhVlN3",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWY1bkJ6c0xZNkkyeE1QX2Nwb1hXcmJxYzZxS2ktbE9mWTgxVFhqUHlhdF9hTnBQUS1RM3llUXE0azI5T214SGE5X0Z4enVJd3NLeldvTzNfOUFTZzlvaUN5TkxzQk5qUm9aSk5aLUN6M2tPY29GeHplaTZXcDZMMkxnemdodjFBREpKLTVLWWxFektlNzJHeV9lZkNOUnhURGNTM3J3",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thd9IBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw",
@@ -478,6 +480,16 @@
       "published": "2026-11-27T19:57:02+00:00"
     },
     {
+      "title": "Катар і Канада підписали угоду про заохочення та захист інвестицій",
+      "original_title": "Qatar, Canada Sign Agreement on Promotion, Protection of Investment - Fana News -",
+      "summary": "Катар та Канада офіційно підписали угоду про заохочення та захист інвестицій. Документ спрямований на розвиток двосторонніх економічних відносин між двома країнами та зміцнення співпраці у сфері інвестиційної діяльності. Офіційне підтвердження домовленості надійшло від інформаційних агентств, які зафіксували укладення цього важливого двостороннього дипломатичного та економічного документа.",
+      "source": "Treaties & Agreements",
+      "publisher": "Fana News -",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWY1bkJ6c0xZNkkyeE1QX2Nwb1hXcmJxYzZxS2ktbE9mWTgxVFhqUHlhdF9hTnBQUS1RM3llUXE0azI5T214SGE5X0Z4enVJd3NLeldvTzNfOUFTZzlvaUN5TkxzQk5qUm9aSk5aLUN6M2tPY29GeHplaTZXcDZMMkxnemdodjFBREpKLTVLWWxFektlNzJHeV9lZkNOUnhURGNTM3J3",
+      "published": "2026-11-27T20:26:25+00:00"
+    },
+    {
       "title": "Українська приватна ППО збила реактивний дрон «Герань» лазером «Блиск»",
       "original_title": "Приватна ППО збила реактивну «Герань» українським лазером",
       "summary": "Лазерна установка «Блиск» потужністю 4 кВт, розгорнута в Києві, вперше у світі знищила реактивний дрон типу «Шахед» («Герань»). Це підтверджує ефективність приватних ППО‑команд, які працюють під керівництвом ВПС і використовують дешеві лазерні постріли, хоча система ще залишається експериментальною. Такий успіх може підвищити захист критичної інфраструктури від ударних безпілотників.",
@@ -496,6 +508,16 @@
       "channel": "miltech",
       "link": "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-217",
       "published": "2026-11-27T22:31:00+00:00"
+    },
+    {
+      "title": "Президент Греції зустріне Ердогана під час візиту до Стамбула",
+      "original_title": "Greek President to Meet Erdoğan During Official Visit to Istanbul on Saturday - GreekReporter.com",
+      "summary": "Президент Греції здійснить офіційний візит до Стамбула, де у суботу проведеться двостороння зустріч із президентом Туреччини Реджепом Тайіпом Ердоганом. Подія є частиною офіційного дипломатичного візиту, спрямованого на підтримку міждержавних відносин. Текст джерела не містить додаткових деталей щодо порядку денного, конкретних угод чи заяв, окрім підтвердження факту майбутньої зустрічі лідерів двох країн у вказаному місці та часі.",
+      "source": "Bilateral Meetings",
+      "publisher": "GreekReporter.com",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaTlIXzFEcmJmY2NNTGxRWFBaY25wYUpFTmNKQ0xZV2lfTlBrU1RzcnhtMXJwQ1VLOFNsWWdVNTV4ajdudEU1cFBqZy1lZThfMWZJd25FaFhfVklNcm5UaUg3V01aazY1Unpmd3Fsc0dpRGZuLXVpV3lCZDc1b0VVcg",
+      "published": "2026-11-27T23:10:09+00:00"
     }
   ]
 }

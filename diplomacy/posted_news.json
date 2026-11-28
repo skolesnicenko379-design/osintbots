@@ -1,19 +1,5 @@
 {
   "links": [
-    "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-hormuz",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVncXBKZmdPdEI1aTlMY0gyLW5XNU1BczB1SENiQzA4anl0SHdOLWZYRmFxSGR3VFk2V1I3NTdZSEJyOHU0Z3dIQzZRN2pqQ2FwZXdsczc0UnQ4dFVYcWZiM0FPZ1B2aGtuRDVQNGNOeXFXRXhTeWVMclpEbmo0alh0ejZYT1pZMUtFcnpMX3VTSllSam1pQzlDWlZUWTJmVjQ1T2x3ZVdLeTJKSUNMZHdtZklpbzhDalpFNUFrMVp4MG1xazZjLXhDRWR4Q2lfazFZQ1g0YW05Ujg?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk1Xb0pLWnVwcXJJWThKa2hkMGpKYXNySTRGaEU2YW1ONFpjLS1ZdXhDOVVISVM2anVoTWM1RFpueHdaTW5vNWVHTEtYMmxmblYxUUEydDhVN3Mwb2pQd05qYzVYX0kzUlc4Y1piNC1IVzQ5UGpxQlA3QWxhLTlSd3Vydi05X0g4WnFYSzFhQVplV0JMel9pckdtWk5IVnlNT0JMN25lc0IxUk1lS3phbmhvZTUybFhiaW03ZjZZUkdGek1HOFc1dEdPUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmptVTQyZm5rbWZwU2ZLUDZxai1GWXpLNkNIQy1CUUZTb0E1bXlYd1ZrTXdlVURNbkNyQ0tHWjZRTnYzZWoxOTh1UVg2a0pnWkpwb2MyZWRzUUFQcEZ2RXM3bFJHQTliQUczVTFSRzlpalVOUFNCalRYRzBtemN2ZGx5Mlh2VVd6c3hxMWx6NlBpemFCM3V1WFNOVmFkNEl4dG83MW82U3RPV2drdWZ4dA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRiUlBWTjhFV0ZoQmxNTlB5aXFUck5wdjlmc1RMOExtZkhhWHQ2NjNJUTZGNEU0cmdXZ0dmM1F3UWZzUjdPNUFXR25VcTdhM0h2ak9UZU5zd00tYmVTV0F0Z1lvTVVNTElpX3BBWXh0cGxfYURLZEh4TEl5VHJPY1F5WGphaHZOQ1dnSC1NekVySmVvNEE?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE91UGJLTzVFRE5JRnRXdFFVZldrNXJDblc4SWhNenRST0FxQVU4T3NLb1A3WWxzR3dtdkpsakhfUXJ0RndTb0tvWHZ4VHE5Ny05VkZ0OUR1a3ZzTnFzMGpDcVNWdEdkQ0Q3TG1QVG1ZbGZOZkJMNVJR?oc=5",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/casualties-reported-after-attacks-saudi-led-coalition-yemens-hodeidah",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-hoping-breakthrough-yet-braced-worst-iran-us-war",
-    "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-some-point-will-need-give-iran-hammer",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjl0aWhiVVlueW44Rm9ROERGV09Xc0Qzd3lMN2UzRjJEbXFWTlVKSHhEZ1VYYWk1eWxONF82UkpGTTlRMVpfeFE4WmZaX3JPMWFPY3JCVk5LQXE5a2VzVC1LeTRuWk14SVJKbU15eFdVeUZsWVBWZFdpbElFQnZ2UFNHNnBUZkpscmprVWhuSllaYS12eUFUa0hjM3RidjVEZnlTcWpMNWxiTWRiU1FRaEVjRlc3TGpRVldYX3pNM0psMVdtZU5CQXNPTGwxMUNiSzQwd3otcFEzYjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE91RVl5dTluQXM3V1RCeVE0Y0ZKeG5aZlVtU2xCQ2RMa0JHQ0pRN2RiTFlBY3dKcVRlRjNfLU5jcHVNWG1IbmhMX0tXQ3pvRURnQW9OSWg2VHNvUzJUOWhxU0psMEI0Mmo2YkNBd09R?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW1SMDlBY2s0WEVULU4tLWxBakxuV0djWUxfMkMzcHFvdFNHeU1nMldEdHB4ZEpvYjZpbGxzZXhidFdNb25yQnA1OFItb1RFSXNTbmxXZ25vc2JBeXFLU085WnRVRXFRaTJqdzUzSkFTMVNUT2ltUGNQU1oxUElUb0hFTjh1aGNWckFONV85SUVISTE2dmwtQVRPLWtSUEt6elpaWnpYd2ZGUWF2SnFuWjQxMno?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRl9udWxXWnVkQV9rd0F1c0psMjJ0VEZ3WDVCRks4RGhVN1o1OGVHX2ZobmZVemNIekV5S2xuQWVmRzVLaWhNdFlKaXhnZ2xyeGRFMkxLSG56S2tJVzktTUtOX3lkT1Yyc2xaeXN3ZkJtMzBHdUh5Szc4RG9UdC1ySXhDcw?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjFXWnNqc3RITnBwTDhlVzZKMlhkNkc0bW5wV2NWOXBpdXRITTBMSUFyWjh1SHRIYUNCTWhjTkxqSkRVNF9KZkNpaTR3V25NTDRKbTVqd25kZWd2eDgxSVl4ZGZJZDFGMVZCSjRid2lLcFNnN0p3TV9kZko2WTBmemlHQnZMa0tXVS1qWUJ3b3RvQkZ2eDhvN9IBrAFBVV95cUxOZzM2VVhiaTNkNGtrUE9pTXZaWmlMRjlkbnRvaWdQNFlVNXcwMVI3MWRvUEpEdjRlQ1FtYlJSXzFZTkxQMkNsZDQ2QzlGVjJZa1BwR2FNVERfNmYtaEpiWmx1VllUOHBrVEZweFduY0tXT2lwSDR1cGE0Z3ZqeWlZem5QamJjRGxKcWxvMlcyMjQ3YlNJUE0wX0pXdExRc0t5LXZ1SXctWm44bEFR?oc=5",
     "https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWo1Yjk2RjBCek1FYzdLZzZpYTUwWHBGNURWdjNVNmFLN09iSUdLaGEteXJ1VFBOZzY1VkJaWWJzd0MtTjJPLU5Pd00wdzFUalY5eVBzcXNWMHpLaFR6VGwxZ3hTZFpzVF9veDZXLXE2cHVDT2NySk0yYXh5QWhRNXpXam1UYkd5dk1HaGxyOU5MLUNHWS1Sdm9VY2NKZjNlOFAwRUE2UQ?oc=5",
     "https://www.middleeasteye.net/news/israel-former-army-chief-says-our-bombs-killed-captives",
@@ -1199,23 +1185,23 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkRCeFlpSXp1Z0Fjek9XYWFBNTRCa2x6d3pPZ21DNXBLZ18yRXVTd1hZNFBzVmVkMzBfeHRxb19OSEI5Ymd6dlQ0RlhTV3ExUlpkR1B5ald0U3RudjBwT0V6aTl3aldVa2lXdHQxRk5uMFZFTDJLSVpEZWlmLWhkRVVtVXV4RnV1M0FTZzRKZEkxVWRUZHZoUGZwQTJFR21lYWFWLVo2QVRURDVMNWduSWxB?oc=5",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/11/27/media-advisory-transport-telecommunications-and-energy-council-transport-and-telecommunications-of-30-november-and-1-december-2026/",
     "https://www.consilium.europa.eu/en/press/press-releases/2026/11/27/media-advisory-foreign-affairs-council-trade-of-30-november-2026/",
-    "https://www.gov.uk/government/speeches/minister-of-state-for-international-development-speech-at-the-rsa-uk-bilateral-forum-reception"
+    "https://www.gov.uk/government/speeches/minister-of-state-for-international-development-speech-at-the-rsa-uk-bilateral-forum-reception",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkpWY2lXSHgtWEhwc1ZmNUE3VC1VMU1zNzFDVTVxRGNmOElNWTAwdG9vUGJqT2VuYXNuVThhbmxhRnlOTExPNldncGlZTVcyN1hjc01OSDhhNlBrNUZGMW1iVVlKVlBOZnU1aFlCN3RFdlRMSVpydVRRVHNkWUQ3X2JNN19vdTh6ek10Wk93TV83Wno2YkVGVQ?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-shot-down-reconnaissance-drone-over-strait-hormuz",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-official-enemy-has-neither-capability-nor-desire-launch",
+    "http://www.africanews.com/2026/11/28/algerians-vote-in-municipal-and-provincial-elections/",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW5qRjhtZjdrUHJIUjI1NzJDcHdxUEl1OU9xRlItTzBwS0Z2TWJ1MkRWS0I3SWRIYzlnOVlneW5SOHlsMHhQdFJiMmpmOEF1ck02NmI1bGRDWU9tZFRyeENaVVFsOUlYS1ltQW83UWJKVU12bkJwOFhUenpOOTJPbDk0VnNFZk9fLTlncXRlQ3ZucWtSVy1yOTI1c0hSZDhpdWtZYVVuNDNCeWlpVjFmZ3l1T28?oc=5",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/millions-yemenis-north-being-starved-houthis-ngo",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXAzZnlNaGdJX3hCcF9meWg0VVJQX2Y1c1Q0OGV0dUdsaHNwMUlQMldhLV9TY3JtS3hid1NaTGVVelRsZkZUQ0NYdUdueUpjbWhCUHhvaklCdkN3Q1ptbFBtLThYM2wwV2V3YkZXMEpRY0gtczM0Z1FjYmF0cm9MZmZfNWpEWWY1bUI2Y2lWbkVvcHJSMmk5N2xyY3dlNmF5VG9oZkFPQQ?oc=5",
+    "http://www.africanews.com/2026/11/28/saudi-coalition-shoots-down-houthi-cruise-missile-fired-toward-riyadh/",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbHVaOWI3eVE0dWFFaWp0N3BIR3FRT3VCdWxPVzdGb3FuUGRIanhSNU14Zmdoc2pfTkFyeGFWX3NUZUtmUVcyT2xnMFI3TVBfdjdNMXRrOC1fRTFIZGJxbDFuSW1LaTFaYTA0QmJBYW5ka0VEMnZaZldBUnUtRjZMSHE4YllXQmZBRUhlRV90YzZPN3lpRUpTcGR1X2FHNlhDelJXM290VU9kblVnV3IxcWxPekRhWlBBV0htSHZFLXc3YkFIbkVSWHZIWGs1RFlKMGt1Yzd0Si1FalNiZzNvTzhn?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVnduMkFQUS1fMWl1NHdwVElKOGlDSktURmRWX3llenZqY3hMdVYxNzZRWWttb1JZQWdqY09WYm5Eb21yeTMyMkNwWU8ydHhTR3lULWM0WFBaMTdPSzdxMmVnTUVDUFhSeW8zNlNpdnBZWVZONEtqbzFoVWliWWx4MHZFajhjR2RfT0JvU1BWbGhiYk1TeV9xdGVpdEJrd25PeXBVY19XNzE5a053ZTJDZC03SkR5Y2FnZHY3cjdXbXlBT3BHSXd1UnNzeUJiZ21SMWptbXh5Rkc1a043ZVEwdURhOA?oc=5",
+    "http://www.africanews.com/2026/11/28/eight-african-sides-set-for-under-17-world-cup-knockout-stage/",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYkVmT1FvY2h5aF9DUVV5MW5LOHRMRzdNM0JVSWpMX3hlYjR1SjViQ3RhaTJHNUVIYkU3bGxGdmRwSFVLc09vTUhyRXpZeDlaa25LWjR2bDd0dHFKZUVwcExlYl9wdUpUbVBmX3pWT3hUYS1QQTI4U29kdzVFQlY2aThTbTBVTjBpMTJCRUFGVVluMnZmWjltNjF1RVoyTGszQkdjSzRzYTJxSDZvOFNNeGN0RmtMNjVkTFNWdXM5NDdyQkgtMFVMQjA2WEJNbFZZR3NtUkNPMTlKajVjNWVuSFplMWRqdGdyTGppa3B5TU01NnM3cXVwMUp2RUwzaXZxUFpkaV85TUhrT3Fh0gGSAkFVX3lxTFBKQzRNd2hybHJKaElTSFAtZEhKdVFfQmFuU0lXb0F1SE9pTENJYUVkSm14TVdOMG9XbUtCS18ydlc4X1hlYTRVUk5tT3dwM1d3S3QyZDJfQ0NYVkhGN09ZbWhhM3dndVE5ZnBJSlZtbUlrR2FudWtSdlk5U1hETndkUnk4emVCbE1GcjVrOU96Q3Z4TEZXd2pLc1JWX1d3YVowZzU1N0ZuR0FXUEp5X1dqV0JZM0R4cXlUcnFqa3ZBSFdTdUdlX2hHbkNxQ3BLZUszMjkxLWxTVzJuVkFaVTNtdVE1M3MwRnZSQkZiZHNyeFBSNlRsVGpuTWJVZDR3bGQ5Uk9VTVFmbzJMTHZMODIxY2c?oc=5",
+    "https://www.gov.uk/government/news/joint-statement-on-the-falkland-islands-from-the-foreign-secretary-and-attorney-general",
+    "https://www.theafricareport.com/437753/kidist-tesfaye-the-ethiopian-american-whose-trip-home-led-to-ethiopias-first-femtech-start-up/"
   ],
   "recent_posts": [
-    {
-      "title": "Європейський Союз та Велика Британія оприлюднили спільну заяву за підсумками саміту",
-      "summary": "Європейський Союз та Велика Британія провели саміт, за результатами якого оприлюднили спільну заяву. Подія відбулася 20 листопада 2026 року та зафіксована Радою Європейського Союзу. Сторони підбили підсумки зустрічі на високому рівні у форматі спільного документа.",
-      "source": "EU Diplomacy",
-      "publisher": "Council, European Union",
-      "published": "2026-11-21T02:26:49+00:00"
-    },
-    {
-      "title": "Індонезія та ЄС підписали угоду про всеосяжне економічне партнерство",
-      "summary": "Індонезія та Європейський Союз офіційно уклали угоду про всеосяжне економічне партнерство (IEU-CEPA), спрямовану на активізацію торговельної співпраці між сторонами. Офіційне оформлення домовленості покликане зміцнити двосторонні економічні зв'язки та розширити можливості для ведення бізнесу й обміну товарами між індонезійським ринком та країнами європейського співтовариства. Подія підтверджує перехід до практичної реалізації торговельних домовленостей на міждержавному рівні.",
-      "source": "Treaties & Agreements",
-      "publisher": "ANTARA News",
-      "published": "2026-11-21T15:35:49+00:00"
-    },
     {
       "title": "Зустріч прем'єрів Великої Британії та Нідерландів 21 листопада 2026 року",
       "summary": "Прем'єр-міністр Великої Британії провів двосторонню зустріч із прем'єр-міністром Нідерландів Діком Йеттеном 21 листопада 2026 року. Подія зафіксована офіційним джерелом GOV.UK як формальний дипломатичний контакт між керівниками урядів двох країн. Матеріал підтверджує факт проведення переговорів на найвищому рівні, що відповідає критеріям міжнародної дипломатії.",
@@ -1411,6 +1397,20 @@
       "source": "Treaties & Agreements",
       "publisher": "World Socialist Web Site",
       "published": "2026-11-28T01:57:58+00:00"
+    },
+    {
+      "title": "Президент Замбії зустрівся з президентом ДР Конго для зміцнення відносин",
+      "summary": "Президент Замбії Хакаінде Хічілема зустрівся у Лівінгстоні з президентом Демократичної Республіки Конго Феліксом Чісекеді. Зустріч відбулася напередодні двосторонніх переговорів, спрямованих на зміцнення двосторонніх відносин між двома країнами.",
+      "source": "Bilateral Meetings",
+      "publisher": "Facebook",
+      "published": "2026-11-28T14:04:29+00:00"
+    },
+    {
+      "title": "Британія привітала рішення Міжнародного трибуналу з морського права щодо Фолклендських островів",
+      "summary": "Міністр закордонних справ Великої Британії Ед Мілібанд та генеральна прокурорка Еллі Рівз випустили спільну заяву щодо рішення Міжнародного трибуналу з морського права (ITLOS) про тимчасові заходи, пов'язані з Фолклендськими островами. Британські посадовці привітали рішення трибуналу не призначати тимчасові заходи, назвавши це підтвердженням міцної юридичної оборони та стратегії Великої Британії. У заяві зазначено, що Аргентина намагалася завадити жителям Фолклендських островів самостійно ухвалю",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "published": "2026-11-28T12:02:32+00:00"
     }
   ]
 }

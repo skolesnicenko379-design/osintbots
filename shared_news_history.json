@@ -1,154 +1,42 @@
 {
   "links": [
     "https://army-technology.com/news/bae-systems-denmark-cv90-simulators",
-    "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
     "https://army-technology.com/news/india-bhagavastra-counter-dronetrial",
     "https://army-technology.com/sponsored/why-do-guardrails-matter-as-the-cloud-and-ai-adoption-quietly-rewrite-the-rules-of-modern-warfare",
     "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations",
+    "https://defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit",
     "https://defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform",
     "https://defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
+    "https://gov.uk/government/news/joint-statement-on-the-falkland-islands-from-the-foreign-secretary-and-attorney-general",
     "https://gov.uk/government/news/uk-education-support-in-syria-reaches-one-million-children",
     "https://middleeasteye.net/live-blog/live-blog-update/south-korea-assures-iran-it-has-no-plans-participating-war",
-    "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
-    "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
-    "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
     "https://militarnyi.com/uk/news/nimechchyni-rozrobyly-modulnyj-komplekt-mlk",
     "https://militarnyi.com/uk/news/pryvatna-ppo-zbyla-reaktyvnu-geran-lazerom",
     "https://militarnyi.com/uk/news/rumuniya-66-bmp-lynx-zastosovuut-v-ukrayini",
+    "https://militarnyi.com/uk/news/syly-oborony-urazyly-nurlyno-bilya-ufy",
     "https://militarnyi.com/uk/news/u-peru-v-rajoni-zitknen-iz-sendero-luminoso-rozbyvsya-my-17-zagynuly-8-vijskovyh",
-    "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
     "https://navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy",
     "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
-    "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
+    "https://navalnews.com/naval-news/2026/11/stark-vanta-24-usv-baltic-undersea-security",
     "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbU1IVUN6a2oxMmNWWEVaRFFMd1lYZWtrZHN0Q2JBWm5EZWtMeGQwbDVxUHQzU1FFNWJVbzdvOXFPLWhvQWVrNzJmRWpCM3JNbF8tVTdZUm82UDFuOTNVUWdaX0tEMnRCX29WVHRUNG0yd00yYXNyZUdLVm9DSUQyTUxxV3RNQlR0M3drS2Roal91VGcwZ0JpQzh0RkxBY3ktN0FER3VWWlpocGRYanRJVlRBUjdJM2JCMlVmdW5xVEFYelBPeGJudmw2WmpER2t4VGxzX3M0RUFLb1J4UGVDTTVmMG8wYmFJSjZJMlFqRWJWU1U5ZndIMThlb2JKR0x0b2t1Zng0eWgzSEdBcEV6YmFBeVdqNDQwdzhad0ZRaXk4RUpBM3RQRTZ3Y1VCY29VeGw1Y1pVS29NWWZsNWplcDVKVHdFMDdWOFVYdVA1Q1pnUGlKVVBqWnpDTUo",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbHVaOWI3eVE0dWFFaWp0N3BIR3FRT3VCdWxPVzdGb3FuUGRIanhSNU14Zmdoc2pfTkFyeGFWX3NUZUtmUVcyT2xnMFI3TVBfdjdNMXRrOC1fRTFIZGJxbDFuSW1LaTFaYTA0QmJBYW5ka0VEMnZaZldBUnUtRjZMSHE4YllXQmZBRUhlRV90YzZPN3lpRUpTcGR1X2FHNlhDelJXM290VU9kblVnV3IxcWxPekRhWlBBV0htSHZFLXc3YkFIbkVSWHZIWGs1RFlKMGt1Yzd0Si1FalNiZzNvTzhn",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc0ViWGY4WUdtWUZ6QjRmbjFmU0xjbHJJY3NtNzlyMU01eV90TWNVcE1RU1pnRTBKTG82UzNKUi1HTmpSb2FuWm1VbmpfMFRYTlR5OUEyV1dfLXlQUnBUQ3MyNFZfbVpQUWM0YVFPeElOUnJBaVE0Q2w3ODZscVpHZ2FqbXR0SC1XT21sTmR1WkZ3N0VxdUdIYThmU3ZvZ1M5UjROSDFKQURSUnJpcFhxdlYyc1RYclVBWG5yZDdfSHVCU2MyM1pYZEdWY3U3bk5TUGZxdzVhdm5uTzNubV96WGxWdmMzeDRoZUNjb1ZyeExMQQ",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMWZRb0VPc3ZrYnpLWC1nWVo4eGk1TzlHS1dCUVNMRW9zeTBOd0JHbDNLeEVDblVrcWZpN2xzeUdDLXd4MlF6cWtIbUFjRU9a",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xMm9VTXdCQVdkQlRZM1JBc3J4RVZUM0pPcENaR09SNzJaWDJzQ0d1Z25yaWNGclYteWZTYWRHQmd6Y3NzMWxPT1ZkNEhqY1NwZVVVc09iUnd6TjVqYTRRNmFxd9IBXEFVX3lxTE8zQUYxdTVMMy15SjM0bW5fTFIyZTN1NnpIN0cyM1RoV0JqUGsyWG1lQ1FJcEFXWURTWHlmZTlJWWhtajczXzNYTjVCdWM2QVFYMWY5cS1LZllteVUy",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZW9wdXcxUU85cVlqbFBGbEVqR3RHaXc3WVg2blhpZmRIaUs0NTFYTjFpVW5RMUlXVHU0enhmRFo4cHBHc3ZkMnp1RDhWN01IVW1MZGhGbHVBTTNHV1FhUXZDR2Racmsz",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOX2tOY1dyUWRIQWZEbDBiMFhvdER5cjJJYVV4TFVjS01kRkFXNDZHbkE5S0xMaHh6dU9tYXh1YVU4TG1lWUxRdGRUUGZnVElrUmczeGZkRVBHN0dBbmt4RXFDdFRhNjR4d3VuSVZXemZOalBzY3c",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvcmdFM3g2MW45dUU0aE1FcGx4eGk1ZTZhTTNrVnJ3encxdWpCREl1LVVEMUgydi04cmY3TzFxU3lpZzVqWFBzRzlqNXdmby1uMW4zSGVzX3NHM21FWThIUDExXy1TR2t6S29ZVjlOV2U5MWJjSUhyYQ",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaTlIXzFEcmJmY2NNTGxRWFBaY25wYUpFTmNKQ0xZV2lfTlBrU1RzcnhtMXJwQ1VLOFNsWWdVNTV4ajdudEU1cFBqZy1lZThfMWZJd25FaFhfVklNcm5UaUg3V01aazY1Unpmd3Fsc0dpRGZuLXVpV3lCZDc1b0VVcg",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXQ5MmpGNGw1N2R1NW9ZMmozaUpwZjFyQjdaN2VzdzRvZndTSHNBeGNtcWFORGFnRUVoclFucGhDaW9wVFhReXhaZ2U3LVhBMlVMd0RrYkt2UkhEZlk1Uk9MaFNRMjFheENKZVhBN2ttZWUxNmdBdDc1ZDFTbzVvZ2EtSFFfdmdEUzhZa3ZCaWxxTWM1Z21MTVYyYWxUdVk",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWY1bkJ6c0xZNkkyeE1QX2Nwb1hXcmJxYzZxS2ktbE9mWTgxVFhqUHlhdF9hTnBQUS1RM3llUXE0azI5T214SGE5X0Z4enVJd3NLeldvTzNfOUFTZzlvaUN5TkxzQk5qUm9aSk5aLUN6M2tPY29GeHplaTZXcDZMMkxnemdodjFBREpKLTVLWWxFektlNzJHeV9lZkNOUnhURGNTM3J3",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMld1Y0tGRjdiN1puMjVCWjN4TDNIWlVUQzNmM05kdk1xUVVGSW5TS0R4azUxeDZzRGI3bXJrZGxyY1dMVDZCSGMxVTlxV2FCRlBhWS1oR2VKanlBNDhXb3JySU9ZRGhaN3NyUkxocHU0eEp6TkNnTmRLNU1zTUV5SDJDU0wzT3kxQVdCRkhKU0pBNFJpNjNyTDlNMUd0cjNfVjdheXlFbTJjOUU",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblphM19ZNXZlV0lvTFpiWi16VkxuZDZMeUFtR1ctbUhpNDlFam5CcDVNQnF0T1pBWU85NlBuUGdIbVREQ2t1UjdtTzJEcnk5a0dXSU9OSWZ0cVNkRlc3V3dDMU55VldacmRCV3pteXh5NjAwMXktTmJRek1FNkhsVFh1VDZWM0dIcklJbUFza0RGMV9XVGc5bHNTNW1raWdWMHE4T3FMbjhrLWtXS3h3",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEp4M2ltS0lhc1FEX0UzQlBEYjJVQ2U1YUpRYlRiRHhwY0xmbGl0LUZCVEdNYjlnSUFKYTNLbGw3TUhrb1paTnRFZzVnTlUwMU1mT0J4MFVPT2ZaRXkwUk5QT1p0QXhLbWVJamRwQTBDd2lRSjJ1LW1oTzBzY0VnZFpydXFQR3Y3UGlmTEJHTEVGQ2hZMm9Pc245SHJyQm9QaEVQZ0E0ZnVXaDAtZ053NA",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFlFUVdjUFRVcEVqZlBlcU14aFdpZUVXV1ZFRUJUNXdfWGYwaDg4bUJpWmZhNTE3anN6QkR0S240eDJySXB4SEY4N1VsdUYzanJaUlpNRWszUVpwdl9TOHBTQUJDczZQaEluYlBvYVNSMU01V2o1TnlMWENiN1AtNDlMdmMwSFNJREJuTXBzT1JoNWN0M29rVTNRZlFhS1lCM2FYMzh4dWx2UkZqaW4ycjRuZ3RrTWYxRUowQmc5d1ZDUno3Q3l1Q1FHOA",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGhEeUgySW5BZkptWTdfbkRuWWdSRl9UU3dtM01HemRTY1RBUXFxLVRnWGN2S2dieWJ6V2tfY21SMEp0RGdQLXVQcXVTaVIzT0RLdXhSWTdzMnZ1TTZueXliM0hsSmo4X1dwZEloZEREV3l4VnB4WnoyeW9BY0FnY2lIVW5UWVZVR1BnYlNKR3psUk5rdThoZFU4MW94d0tJYTBfRFdqVV8ycHhDMDBubFAzcEs5X0Nv",
     "https://twz.com/air/unique-aim-9x-sidewinders-now-seen-on-usaf-f-35as-in-the-middle-east",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-217"
   ],
   "recent_posts": [
-    {
-      "title": "MOD Великої Британії підписав з Babcock рекордний контракт «Gateway» на 8,7 млрд фунтів",
-      "original_title": "UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal",
-      "summary": "Babcock International підписав з Міністерством оборони Великої Британії угоду «Gateway» вартістю 8,7 мільярда фунтів, яка замінює програму Future Maritime Support Programme. Угода передбачає довгострокове технічне обслуговування та модернізацію підводних човнів класу Astute та інших підводних платформ, включаючи ремонтні роботи, постачання запасних частин і оновлення систем управління. Це посилить бойову готовність британського підводного флоту та забезпечить стабільність підтримки підводних сил у стратегічно важливих регіонах.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
-      "published": "2026-11-26T14:09:34+00:00"
-    },
-    {
-      "title": "Французький стартап Arsenals представив модульний АПП для швидкого виробництва",
-      "original_title": "French Startup Arsenals Unveils Modular AUV Designed for Rapid Production",
-      "summary": "На виставці Euronaval 2026 представник Arsenals розповів про новий модульний автономний підводний апарат (АПП), розроблений для швидкого та масштабованого виробництва. Конструкція передбачає замінні модулі, що дозволяє швидко адаптувати систему під різні місії – розвідка, мінний патруль або транспортування вантажу. Така технологія може суттєво підвищити темпи озброєння морських сил, знижуючи витрати та час на введення нових підводних безпілотників у експлуатацію.",
-      "source": "Naval News",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
-      "published": "2026-11-26T15:40:15+00:00"
-    },
-    {
-      "title": "Hanwha Aerospace та Modirum Gespi підписали Меморандум про співпрацю у сфері оборони Бразилії",
-      "original_title": "Hanwha Aerospace, Modirum Gespi sign Brazil defence cooperation MoU",
-      "summary": "Компанії Hanwha Aerospace і Modirum Gespi підписали Меморандум про взаємодію, орієнтований на спільні проєкти в бразильському оборонному секторі. Угода передбачає обмін технологіями у галузі авіації, ракетних систем та електроніки, що може підвищити локальну виробничу спроможність Бразилії. Спільна робота може призвести до створення нових платформ і модернізації існуючих систем, посилюючи оборонний потенціал країни.",
-      "source": "Army Technology",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
-      "published": "2026-11-26T16:20:03+00:00"
-    },
-    {
-      "title": "Трамп закликав розслідування «фальшивих» даних про ВВП 4,3%",
-      "original_title": "Trump Calls for Probe Into “Fake” Economic Data as US GDP Growth Hits 4.3% - Coinpaper",
-      "summary": "Колишній президент США Дональд Трамп вимагав розслідування даних, які, на його думку, є «фальшивими», після повідомлення про зростання ВВП США на 4,3%. Трамп стверджував, що цифри не відповідають реальності, і закликав відповідні органи перевірити їх достовірність.",
-      "source": "США · макроекономіка та ФРС",
-      "publisher": "Coinpaper",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUZqeXJ2YTlmU3ZOS2t4RWsxQUpyMFcwckh5R1hGZU1wWGFDVlMwazJ1azRNRXB2N1lpWGdXMXNTSkItcVVpSUdxWERudWRCWUVDQ0hPay04WTNIRWNhOGx0V1NyZFdFUTRBWFR5X1ZaUHl0dHpkUEJmd1luLThMaHB1MDhKdHUwRnZ1MjI3YXQxR09zNjdLZm14c29mRzJL",
-      "published": "2026-11-26T16:30:20+00:00"
-    },
-    {
-      "title": "Президент Єгипту провів еміра Катару після офіційного візиту",
-      "original_title": "President Sisi bids farewell to Qatar’s emir following official visit - Egyptian Gazette",
-      "summary": "Президент Єгипту Абдель Фаттах ас-Сісі особисто попрощався з еміром Катару після завершення його офіційного візиту до країни. Цей дипломатичний крок знаменує закінчення офіційної програми перебування катарського лідера та підкреслює поточний рівень двосторонніх відносин між державами.",
-      "source": "Bilateral Meetings",
-      "publisher": "Egyptian Gazette",
-      "channel": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
-      "published": "2026-11-26T17:03:04+00:00"
-    },
-    {
-      "title": "Фальшивий телефонний сигнал про вибух на базі HMS Excellent у Портсмуті",
-      "original_title": "На британській базі HMS Excellent шукали вибухівку після телефонного повідомлення про замінування",
-      "summary": "У ранковий час 26 листопада на навчальній базі Королівського флоту HMS Excellent у Портсмуті надійшло телефонне повідомлення про можливу вибухівку. Поліція та підрозділи Міністерства оборони оперативно прибули на місце, провели ретельний огляд і не виявили жодних небезпечних предметів, після чого база повернулася до звичайного режиму роботи. Інцидент підкреслює важливість швидкої реакції на потенційні загрози безпеці, хоча реального військового впливу він не мав.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/na-bazi-hms-excellent-shukaly-vybuhivku",
-      "published": "2026-11-26T19:57:11+00:00"
-    },
-    {
-      "title": "Китайський безпілотник W8000: вантажопідйомність 8 тонн",
-      "original_title": "Вантажопідйомність 8 тонн: у Китаї помітили найбільший у світі вантажний безпілотник W8000",
-      "summary": "Компанія Air White Whale представила безпілотний літак W8000, здатний перевозити до 8 тонн корисного навантаження. Літак оснащений двома турбогвинтовими двигунами і задньою рампою для завантаження, наразі перебуває на етапі розробки. У військовому контексті його можна застосовувати для постачання гарнізонів у Південнокитайському морі та зменшення ризиків для екіпажів.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/kytai-pomityly-najbilshyj-bezpilotnyk-w8000",
-      "published": "2026-11-26T20:48:48+00:00"
-    },
-    {
-      "title": "Франція ввела в експлуатацію четвертий атомний підводний човен класу Suffren – De Grasse",
-      "original_title": "Французький флот прийняв на озброєння четвертий атомний підводний човен класу Suffren — De Grasse",
-      "summary": "20 листопада Міністерство оборони Франції офіційно прийняло підводний човен De Grasse після успішного циклу випробувань у полярних і теплих водах. Субмарина оснащена чотирма 533‑мм торпедними апаратами з боєкомплектом до 20 одиниць, включаючи торпеди F21, ракети Exocet SM39 та крилаті MdCN, а також може мати знімний ангар для спецоперацій. Додавання четвертого субмари до флоту посилює стратегічну потужність французької підводної армії та підвищує її здатність діяти у глобальному масштабі.",
-      "source": "mil.in.ua",
-      "publisher": "",
-      "channel": "miltech",
-      "link": "https://militarnyi.com/uk/news/frantsuzkyj-flot-na-ozbroyennya-de-grasse",
-      "published": "2026-11-26T21:43:15+00:00"
-    },
-    {
-      "title": "Ризики зростають через сповільнення російської економіки",
-      "original_title": "Russia: Risks grow as economy falters - Yeni Safak English",
-      "summary": "Економіка Росії сповільнюється, що призводить до зростання фінансових та структурних ризиків. За даними статті, посилення цих ризиків пов'язане безпосередньо з поточним станом економіки країни.",
-      "source": "РФ · економіка, бюджет і експорт",
-      "publisher": "Yeni Safak English",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDNMQ0lSS1NoZjdoODBOeTVzbGxMSUF4LWlWeWxvV180d3dSeDQ0Y0s1bXI1LVh1TEZSaGlMS0RVTWFhRjJqS0pudjEyU0dvaFo0bHJvZmlKZnJ2OTg3Z3dQdnlaSHNpSmlTWDdBLVhpNVo2bG9BLW02Z0lMbEprV0pUNA",
-      "published": "2026-11-26T21:55:27+00:00"
-    },
-    {
-      "title": "Експорт корейського рамену наближається до $2 млрд",
-      "original_title": "Korean ramyeon exports race toward $2 billion as makers rush to expand plants - Korea JoongAng Daily",
-      "summary": "Експорт корейського рамену швидко зростає і вже прямує до $2 млрд, оскільки виробники поспішають розширювати виробничі потужності. Збільшення обсягів виробництва має підвищити постачання продукції на зовнішні ринки.",
-      "source": "Китай · макроекономіка та монетарна політика",
-      "publisher": "Korea JoongAng Daily",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
-      "published": "2026-11-26T22:05:06+00:00"
-    },
-    {
-      "title": "Pakistan і Росія переосмислюють співпрацю",
-      "original_title": "Reimagining Pak-Russia Ties! Pragmatism over Cold War Legacy Afghan Factor, Security, Transit & Trade - Daily Times",
-      "summary": "Pakistan і Росія прагнуть переорієнтувати свої зв'язки, віддаючи перевагу практичним інтересам над холодною війною та афганським питанням. У центрі уваги – безпека, транзит та торгівля, що має зміцнити економічні відносини обох країн.",
-      "source": "РФ · економіка, бюджет і зовнішня торгівля",
-      "publisher": "Daily Times",
-      "channel": "economy",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFlFUVdjUFRVcEVqZlBlcU14aFdpZUVXV1ZFRUJUNXdfWGYwaDg4bUJpWmZhNTE3anN6QkR0S240eDJySXB4SEY4N1VsdUYzanJaUlpNRWszUVpwdl9TOHBTQUJDczZQaEluYlBvYVNSMU01V2o1TnlMWENiN1AtNDlMdmMwSFNJREJuTXBzT1JoNWN0M29rVTNRZlFhS1lCM2FYMzh4dWx2UkZqaW4ycjRuZ3RrTWYxRUowQmc5d1ZDUno3Q3l1Q1FHOA",
-      "published": "2026-11-26T22:23:37+00:00"
-    },
     {
       "title": "Південна Корея запевнила Іран у відсутності планів участі у війні",
       "original_title": "South Korea assures Iran that it has no plans of participating in the war",
@@ -178,6 +66,16 @@
       "channel": "miltech",
       "link": "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
       "published": "2026-11-27T09:29:05+00:00"
+    },
+    {
+      "title": "Leonardo представив перший літак M-346 для італійської авіаційної команди",
+      "original_title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
+      "summary": "Leonardo випустив перший з 15 літаків M‑346, що призначений для аеробатичної команди італійської армії. Модель, що поєднує тренерські та легкі бойові характеристики, замінить MB‑339, забезпечуючи кращу маневреність, а також обладнана системами диму, відео‑стрімінгу та доповненими авіоніками. Це підвищить якість аеробатичних виступів і відкриє нові можливості для комерційної співпраці у сфері авіації.",
+      "source": "Defense News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit",
+      "published": "2026-11-27T11:32:10+00:00"
     },
     {
       "title": "Прогноз USD/JPY: інфляція в Токіо та підвищення ставок",
@@ -408,6 +306,86 @@
       "channel": "miltech",
       "link": "https://militarnyi.com/uk/news/u-peru-v-rajoni-zitknen-iz-sendero-luminoso-rozbyvsya-my-17-zagynuly-8-vijskovyh",
       "published": "2026-11-28T07:49:01+00:00"
+    },
+    {
+      "title": "Stark представив безпілотний надводний апарат Vanta 24 для безпеки підводної інфраструктури Балтійського моря",
+      "original_title": "Stark Unveils Vanta 24 USV to Bolster Baltic Undersea Security",
+      "summary": "Stark оголосив про випуск USV Vanta 24, призначеного для охорони підводних кабелів і труб у Балтійському регіоні, а також супроводу кораблів і моніторингу ворожих флотилій. Апарату властиві автономна навігація, модульна система сенсорів та можливість працювати у складних морських умовах, що підвищує спроможність НАТО захищати критичну інфраструктуру. Така платформа розширює можливості швидкого реагування та розвідки підводного простору, посилюючи обороноздатність регіону.",
+      "source": "Naval News",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://navalnews.com/naval-news/2026/11/stark-vanta-24-usv-baltic-undersea-security",
+      "published": "2026-11-28T09:16:16+00:00"
+    },
+    {
+      "title": "Британія привітала рішення Міжнародного трибуналу з морського права щодо Фолклендських островів",
+      "original_title": "Joint statement on the Falkland Islands from the Foreign Secretary and Attorney General",
+      "summary": "Міністр закордонних справ Великої Британії Ед Мілібанд та генеральна прокурорка Еллі Рівз випустили спільну заяву щодо рішення Міжнародного трибуналу з морського права (ITLOS) про тимчасові заходи, пов'язані з Фолклендськими островами. Британські посадовці привітали рішення трибуналу не призначати тимчасові заходи, назвавши це підтвердженням міцної юридичної оборони та стратегії Великої Британії. У заяві зазначено, що Аргентина намагалася завадити жителям Фолклендських островів самостійно ухвалювати суверенні рішення, але зазнала невдачі. Британія підтвердила свою несумнівну суверенність над о",
+      "source": "FCDO (Британія)",
+      "publisher": "",
+      "channel": "diplomacy",
+      "link": "https://gov.uk/government/news/joint-statement-on-the-falkland-islands-from-the-foreign-secretary-and-attorney-general",
+      "published": "2026-11-28T12:02:32+00:00"
+    },
+    {
+      "title": "Комісія: штраф проти Болгарії не пов’язаний з впровадженням євро",
+      "original_title": "European Commission: Proposed fine against Bulgaria is not linked to euro adoption - BGNES",
+      "summary": "Європейська комісія заявила, що запропонований штраф проти Болгарії не пов’язаний з процесом переходу країни до євро. Це роз’яснення виключає використання штрафу як інструмент тиску щодо валютної інтеграції.",
+      "source": "ЄС · макроекономіка та промисловість",
+      "publisher": "BGNES",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGhEeUgySW5BZkptWTdfbkRuWWdSRl9UU3dtM01HemRTY1RBUXFxLVRnWGN2S2dieWJ6V2tfY21SMEp0RGdQLXVQcXVTaVIzT0RLdXhSWTdzMnZ1TTZueXliM0hsSmo4X1dwZEloZEREV3l4VnB4WnoyeW9BY0FnY2lIVW5UWVZVR1BnYlNKR3psUk5rdThoZFU4MW94d0tJYTBfRFdqVV8ycHhDMDBubFAzcEs5X0Nv",
+      "published": "2026-11-28T13:15:58+00:00"
+    },
+    {
+      "title": "Путін затвердив нову стратегію розвитку Арктики",
+      "original_title": "Putin Approves New Russian Strategy For Arctic Development: Content & Analysis - russia's pivot to asia",
+      "summary": "Президент РФ затвердив нову стратегію розвитку Арктики. Це офіційне рішення передбачає подальший розвиток арктичних проектів, що може вплинути на економічну діяльність у регіоні.",
+      "source": "РФ · економіка, бюджет і зовнішня торгівля",
+      "publisher": "russia's pivot to asia",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMld1Y0tGRjdiN1puMjVCWjN4TDNIWlVUQzNmM05kdk1xUVVGSW5TS0R4azUxeDZzRGI3bXJrZGxyY1dMVDZCSGMxVTlxV2FCRlBhWS1oR2VKanlBNDhXb3JySU9ZRGhaN3NyUkxocHU0eEp6TkNnTmRLNU1zTUV5SDJDU0wzT3kxQVdCRkhKU0pBNFJpNjNyTDlNMUd0cjNfVjdheXlFbTJjOUU",
+      "published": "2026-11-28T13:21:43+00:00"
+    },
+    {
+      "title": "Президент Замбії зустрівся з президентом ДР Конго для зміцнення відносин",
+      "original_title": "Watching the Script of this Movie President Hakainde Hichilema has welcomed his Democratic Republic of Congo counterpart, President Félix Tshisekedi, in Livingstone ahead of bilateral engagements aimed at strengthening relations between the two count",
+      "summary": "Президент Замбії Хакаінде Хічілема зустрівся у Лівінгстоні з президентом Демократичної Республіки Конго Феліксом Чісекеді. Зустріч відбулася напередодні двосторонніх переговорів, спрямованих на зміцнення двосторонніх відносин між двома країнами.",
+      "source": "Bilateral Meetings",
+      "publisher": "Facebook",
+      "channel": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbHVaOWI3eVE0dWFFaWp0N3BIR3FRT3VCdWxPVzdGb3FuUGRIanhSNU14Zmdoc2pfTkFyeGFWX3NUZUtmUVcyT2xnMFI3TVBfdjdNMXRrOC1fRTFIZGJxbDFuSW1LaTFaYTA0QmJBYW5ka0VEMnZaZldBUnUtRjZMSHE4YllXQmZBRUhlRV90YzZPN3lpRUpTcGR1X2FHNlhDelJXM290VU9kblVnV3IxcWxPekRhWlBBV0htSHZFLXc3YkFIbkVSWHZIWGs1RFlKMGt1Yzd0Si1FalNiZzNvTzhn",
+      "published": "2026-11-28T14:04:29+00:00"
+    },
+    {
+      "title": "US says cybersystems secure after Air Force hack reports",
+      "original_title": "Cybersystems secure, US says after reports of air force hack - Taipei Times",
+      "summary": "The United States confirmed that its cybersystems remain secure following reports of a hack targeting the Air Force. No further details were disclosed, and no impact on operations was reported.",
+      "source": "США · економіка, торгівля й державна політика",
+      "publisher": "Taipei Times",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvcmdFM3g2MW45dUU0aE1FcGx4eGk1ZTZhTTNrVnJ3encxdWpCREl1LVVEMUgydi04cmY3TzFxU3lpZzVqWFBzRzlqNXdmby1uMW4zSGVzX3NHM21FWThIUDExXy1TR2t6S29ZVjlOV2U5MWJjSUhyYQ",
+      "published": "2026-11-28T16:00:00+00:00"
+    },
+    {
+      "title": "Mitsubishi Corp укладає угоду з Узбекистаном про вольфрам, уникаючи ризиків у Китаї",
+      "original_title": "Mitsubishi Corp. sidesteps China risk with Uzbekistan tungsten deal - Nikkei Asia",
+      "summary": "Mitsubishi Corp підписала угоду з Узбекистаном на постачання вольфраму, що дозволяє компанії знизити залежність від Китаю. Угода спрямована на мінімізацію ризиків, пов’язаних із китайським постачанням критичних матеріалів, і може зміцнити постачальську безпеку японської промисловості.",
+      "source": "Китай · торгівля, угоди й обмеження",
+      "publisher": "Nikkei Asia",
+      "channel": "economy",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblphM19ZNXZlV0lvTFpiWi16VkxuZDZMeUFtR1ctbUhpNDlFam5CcDVNQnF0T1pBWU85NlBuUGdIbVREQ2t1UjdtTzJEcnk5a0dXSU9OSWZ0cVNkRlc3V3dDMU55VldacmRCV3pteXh5NjAwMXktTmJRek1FNkhsVFh1VDZWM0dIcklJbUFza0RGMV9XVGc5bHNTNW1raWdWMHE4T3FMbjhrLWtXS3h3",
+      "published": "2026-11-28T16:10:00+00:00"
+    },
+    {
+      "title": "Українські дрони знищили нафтову станцію «Нурлино» біля Уфи",
+      "original_title": "Сили оборони уразили нафтоперекачувальну станцію «Нурлино» біля Уфи",
+      "summary": "Служба безпеки України разом із Силами оборони застосувала безпілотники для удару по нафтовій станції «Нурлино» у районі Уфи, що розташована понад 1200 км від українського кордону. Станція, що належить «Транснефть‑Урал», є ключовим вузлом магістральних нафтових трубопроводів з пропускною здатністю до 90 млн тонн на рік і забезпечує транспортування нафти з західносибірських родовищ до Європи. Удар, ймовірно, порушить логістику російського нафтового сектору, зменшить експортну потужність і посилить економічний тиск на Росію, що підкреслює стратегічну важливість безпілотних ударів у сучасному кон",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/syly-oborony-urazyly-nurlyno-bilya-ufy",
+      "published": "2026-11-28T16:34:53+00:00"
     }
   ]
 }

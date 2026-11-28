@@ -3,6 +3,7 @@
     "https://army-technology.com/news/bae-systems-denmark-cv90-simulators",
     "https://army-technology.com/news/hanwha-aerospace-modirum-brazil",
     "https://army-technology.com/news/india-bhagavastra-counter-dronetrial",
+    "https://army-technology.com/sponsored/why-do-guardrails-matter-as-the-cloud-and-ai-adoption-quietly-rewrite-the-rules-of-modern-warfare",
     "https://breakingdefense.com/2026/11/bae-hagglunds-lands-record-6b-deal-for-400-cv90s-from-five-nato-nations",
     "https://defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform",
     "https://defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
@@ -14,11 +15,13 @@
     "https://militarnyi.com/uk/news/nimechchyni-rozrobyly-modulnyj-komplekt-mlk",
     "https://militarnyi.com/uk/news/pryvatna-ppo-zbyla-reaktyvnu-geran-lazerom",
     "https://militarnyi.com/uk/news/rumuniya-66-bmp-lynx-zastosovuut-v-ukrayini",
+    "https://militarnyi.com/uk/news/u-peru-v-rajoni-zitknen-iz-sendero-luminoso-rozbyvsya-my-17-zagynuly-8-vijskovyh",
     "https://navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv",
     "https://navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy",
     "https://navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev",
     "https://navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal",
     "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbU1IVUN6a2oxMmNWWEVaRFFMd1lYZWtrZHN0Q2JBWm5EZWtMeGQwbDVxUHQzU1FFNWJVbzdvOXFPLWhvQWVrNzJmRWpCM3JNbF8tVTdZUm82UDFuOTNVUWdaX0tEMnRCX29WVHRUNG0yd00yYXNyZUdLVm9DSUQyTUxxV3RNQlR0M3drS2Roal91VGcwZ0JpQzh0RkxBY3ktN0FER3VWWlpocGRYanRJVlRBUjdJM2JCMlVmdW5xVEFYelBPeGJudmw2WmpER2t4VGxzX3M0RUFLb1J4UGVDTTVmMG8wYmFJSjZJMlFqRWJWU1U5ZndIMThlb2JKR0x0b2t1Zng0eWgzSEdBcEV6YmFBeVdqNDQwdzhad0ZRaXk4RUpBM3RQRTZ3Y1VCY29VeGw1Y1pVS29NWWZsNWplcDVKVHdFMDdWOFVYdVA1Q1pnUGlKVVBqWnpDTUo",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc0ViWGY4WUdtWUZ6QjRmbjFmU0xjbHJJY3NtNzlyMU01eV90TWNVcE1RU1pnRTBKTG82UzNKUi1HTmpSb2FuWm1VbmpfMFRYTlR5OUEyV1dfLXlQUnBUQ3MyNFZfbVpQUWM0YVFPeElOUnJBaVE0Q2w3ODZscVpHZ2FqbXR0SC1XT21sTmR1WkZ3N0VxdUdIYThmU3ZvZ1M5UjROSDFKQURSUnJpcFhxdlYyc1RYclVBWG5yZDdfSHVCU2MyM1pYZEdWY3U3bk5TUGZxdzVhdm5uTzNubV96WGxWdmMzeDRoZUNjb1ZyeExMQQ",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMWZRb0VPc3ZrYnpLWC1nWVo4eGk1TzlHS1dCUVNMRW9zeTBOd0JHbDNLeEVDblVrcWZpN2xzeUdDLXd4MlF6cWtIbUFjRU9a",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xMm9VTXdCQVdkQlRZM1JBc3J4RVZUM0pPcENaR09SNzJaWDJzQ0d1Z25yaWNGclYteWZTYWRHQmd6Y3NzMWxPT1ZkNEhqY1NwZVVVc09iUnd6TjVqYTRRNmFxd9IBXEFVX3lxTE8zQUYxdTVMMy15SjM0bW5fTFIyZTN1NnpIN0cyM1RoV0JqUGsyWG1lQ1FJcEFXWURTWHlmZTlJWWhtajczXzNYTjVCdWM2QVFYMWY5cS1LZllteVUy",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZW9wdXcxUU85cVlqbFBGbEVqR3RHaXc3WVg2blhpZmRIaUs0NTFYTjFpVW5RMUlXVHU0enhmRFo4cHBHc3ZkMnp1RDhWN01IVW1MZGhGbHVBTTNHV1FhUXZDR2Racmsz",
@@ -32,6 +35,7 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hNWjhwVUFETU5MYXh4VzZFY1ZRNWR1bmtvUGk0RTZ3NmhwMHhWSklHYWM4eGdISTlaYWZsaW9NdzNQeG9Qb1JDZEphZzQ5T1ZaSGlwYThOMDlMMG1mS1NDUHJ5Z0Z5Q0JLNDY5a3ZKZTJrU0VGWjhxd3c1VzJTU21DOTY2d251T1ZBa3RHaXdjM1IzUlBRTnVyVHlMZHV3cUctWTc2X1hwaW9wQjZnaldrYlA",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZtTlBkTTlreXZVZDhhV2YyV0dCWnp5X3pKSk1BRjVzWlZCT2FkNjNrZlVnd1lLYnRJa0ZaUEdmWXd3UkhwT0l6NGNvZEFDcDdDYTVCYVpzUVpDQnk1YlVWWlJpYlRGZjFxRkFMR0VxV0VZMnF4VGZuLWt3VUtqWDhhU3pjZnVsdlpoZWpwMFMzbE5qZ1poNHhoU3RyeFNXMGsxdjBxZTNOcnFHUXRfaDdjcG9Oa0pDampQVDAtWXV4aUd2czktMw",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFlFUVdjUFRVcEVqZlBlcU14aFdpZUVXV1ZFRUJUNXdfWGYwaDg4bUJpWmZhNTE3anN6QkR0S240eDJySXB4SEY4N1VsdUYzanJaUlpNRWszUVpwdl9TOHBTQUJDczZQaEluYlBvYVNSMU01V2o1TnlMWENiN1AtNDlMdmMwSFNJREJuTXBzT1JoNWN0M29rVTNRZlFhS1lCM2FYMzh4dWx2UkZqaW4ycjRuZ3RrTWYxRUowQmc5d1ZDUno3Q3l1Q1FHOA",
+    "https://twz.com/air/unique-aim-9x-sidewinders-now-seen-on-usaf-f-35as-in-the-middle-east",
     "https://twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-217"
   ],
   "recent_posts": [
@@ -196,6 +200,16 @@
       "published": "2026-11-27T13:08:44+00:00"
     },
     {
+      "title": "Чому важливі обмеження при впровадженні хмари та ШІ у сучасну війну",
+      "original_title": "Why do guardrails matter as the Cloud and AI adoption quietly rewrite the rules of modern warfare?",
+      "summary": "У статті розглядається, як цифрова інфраструктура, хмарні сервіси та штучний інтелект проникають у бойові дії, підвищуючи швидкість прийняття рішень. Автор підкреслює ризик втрати людського контролю над автоматизованими системами та необхідність «guardrails» — технічних і етичних обмежень. Це може змінити тактику та стратегію, роблячи війни більш динамічними, але й більш вразливими до помилок і кібератак.",
+      "source": "Army Technology",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://army-technology.com/sponsored/why-do-guardrails-matter-as-the-cloud-and-ai-adoption-quietly-rewrite-the-rules-of-modern-warfare",
+      "published": "2026-11-27T13:38:03+00:00"
+    },
+    {
       "title": "Румунія замовила 66 бойових машин Lynx у Rheinmetall на €738 млн",
       "original_title": "Румунія дозамовила 66 БМП Lynx, які вже застосовують в Україні",
       "summary": "Румунія оформила другий транш у рамках рамкового контракту на 298 машин, замовивши 66 нових бойових броньованих машин Lynx. Lynx – модульна гусенична платформа з базовою вагою 44‑50 т, 1140 к.с. двигуном, 30‑35 мм автоматичною гарматою та можливістю швидкої переобладнання у різні ролі (командно‑штабна, медична, мінометна). Поставка, запланована на 2028‑2030 рр., посилить механізовані сили Румунії та підвищить її оборонний потенціал у східному фланзі НАТО.",
@@ -286,6 +300,16 @@
       "published": "2026-11-27T14:50:43+00:00"
     },
     {
+      "title": "Український завод Rheinmetall з виробництва артилерійських боєприпасів може не запрацювати",
+      "original_title": "В Україні може так і не запрацювати завод Rheinmetall з виробництва артилерійських боєприпасів і які є пояснення - Defense Express",
+      "summary": "У планах було створити в Україні завод Rheinmetall для виготовлення артилерійських боєприпасів, зокрема 155 мм та 122 мм снарядів, проте через фінансові, логістичні та технологічні труднощі запуск може не відбутись. Якщо завод не відкриється, це ускладнить забезпечення української армії стабільними поставками боєприпасів, що може вплинути на темпи та ефективність артилерійських ударів у конфлікті.",
+      "source": "Defense Express",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc0ViWGY4WUdtWUZ6QjRmbjFmU0xjbHJJY3NtNzlyMU01eV90TWNVcE1RU1pnRTBKTG82UzNKUi1HTmpSb2FuWm1VbmpfMFRYTlR5OUEyV1dfLXlQUnBUQ3MyNFZfbVpQUWM0YVFPeElOUnJBaVE0Q2w3ODZscVpHZ2FqbXR0SC1XT21sTmR1WkZ3N0VxdUdIYThmU3ZvZ1M5UjROSDFKQURSUnJpcFhxdlYyc1RYclVBWG5yZDdfSHVCU2MyM1pYZEdWY3U3bk5TUGZxdzVhdm5uTzNubV96WGxWdmMzeDRoZUNjb1ZyeExMQQ",
+      "published": "2026-11-27T16:28:00+00:00"
+    },
+    {
       "title": "BAE Systems отримала контракт на $90 млн для симуляторів датських CV90",
       "original_title": "BAE Systems secures $90m contract for Danish CV90 simulators",
       "summary": "Данське Міністерство оборони (DALO) підписало з BAE Systems контракт вартістю 90 млн доларів на постачання симуляторів бойових машин CV90 MkIIIC. Симулятори дозволять підготовку екіпажів без використання реальної техніки, скорочуючи витрати та підвищуючи швидкість навчання. Це підвищить оперативну готовність датської армії та підтримає інтеграцію нових модифікацій CV90 у підрозділах.",
@@ -314,6 +338,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWY1bkJ6c0xZNkkyeE1QX2Nwb1hXcmJxYzZxS2ktbE9mWTgxVFhqUHlhdF9hTnBQUS1RM3llUXE0azI5T214SGE5X0Z4enVJd3NLeldvTzNfOUFTZzlvaUN5TkxzQk5qUm9aSk5aLUN6M2tPY29GeHplaTZXcDZMMkxnemdodjFBREpKLTVLWWxFektlNzJHeV9lZkNOUnhURGNTM3J3",
       "published": "2026-11-27T20:26:25+00:00"
+    },
+    {
+      "title": "Білі AIM‑9X Sidewinder на F‑35A США в Середньому Сході",
+      "original_title": "Unique AIM-9X Sidewinders Now Seen On USAF F-35As In The Middle East",
+      "summary": "У США F‑35A, що діють у зоні відповідальності CENTCOM, почали нести ракету AIM‑9X Sidewinder з майже білим або світло-сірим покриттям. Така схема фарбування, ймовірно, пов'язана з новою модифікацією Block II+, яка має спеціальні зовнішні матеріали для зменшення радарного перехоплення та підвищення виживаності платформи. Якщо підтвердиться, це підвищить ефективність F‑35 у регіоні, забезпечуючи кращу стелс‑характеристику ракетних боєприпасів.",
+      "source": "The War Zone",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://twz.com/air/unique-aim-9x-sidewinders-now-seen-on-usaf-f-35as-in-the-middle-east",
+      "published": "2026-11-27T20:28:44+00:00"
     },
     {
       "title": "Українська приватна ППО збила реактивний дрон «Герань» лазером «Блиск»",
@@ -364,6 +398,16 @@
       "channel": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEp4M2ltS0lhc1FEX0UzQlBEYjJVQ2U1YUpRYlRiRHhwY0xmbGl0LUZCVEdNYjlnSUFKYTNLbGw3TUhrb1paTnRFZzVnTlUwMU1mT0J4MFVPT2ZaRXkwUk5QT1p0QXhLbWVJamRwQTBDd2lRSjJ1LW1oTzBzY0VnZFpydXFQR3Y3UGlmTEJHTEVGQ2hZMm9Pc245SHJyQm9QaEVQZ0E0ZnVXaDAtZ053NA",
       "published": "2026-11-28T04:44:00+00:00"
+    },
+    {
+      "title": "У Перу розбився військовий Мі-17: загинуло 8 військових",
+      "original_title": "У Перу в районі зіткнень із «Сендеро Луміносо» розбився Mи-17: загинули 8 військових",
+      "summary": "Під час нічної посадки біля села Санабамба в Перу розбився військовий гелікоптер Мі-17, на борту якого були дев'ять військових; вижив лише пілот. Авіація Південної Америки вела операції у районі VRAEM проти залишків угруповання «Сендеро Луміносо», і втрата транспортного засобу зменшує можливості швидкого перебезпекування підрозділів у важкодоступних джунглях.",
+      "source": "mil.in.ua",
+      "publisher": "",
+      "channel": "miltech",
+      "link": "https://militarnyi.com/uk/news/u-peru-v-rajoni-zitknen-iz-sendero-luminoso-rozbyvsya-my-17-zagynuly-8-vijskovyh",
+      "published": "2026-11-28T07:49:01+00:00"
     }
   ]
 }
